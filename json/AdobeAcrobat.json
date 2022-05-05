@@ -4,18 +4,18 @@
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
-    "Language": "Multi",
+    "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112.msp"
   },
   {
     "Version": "22.001.20112",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
-    "Language": "Neutral",
+    "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112_MUI.msp"
   },
   {
     "Version": "22.001.20112",
