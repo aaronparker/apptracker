@@ -1,26 +1,20 @@
 [
   {
-    "Version": "101.0.1210.32",
-    "Platform": "Windows",
+    "Version": "101.0.1210.39",
     "Channel": "Stable",
     "Architecture": "x64",
-    "Hash": "080D8B6B1513D17B265CEEAFAC01AF76D9BC9A07855AFCB5FA68E504F8C8FBB1",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4600c98-19d4-4707-8c4a-32d674a082c5/MicrosoftEdgeEnterpriseX64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/59b78510-f596-45fa-a7f8-521bca3d99b2/MicrosoftEdgeWebView2RuntimeInstallerX64.exe"
   },
   {
-    "Version": "101.0.1210.32",
-    "Platform": "Windows",
+    "Version": "101.0.1210.39",
     "Channel": "Stable",
     "Architecture": "x86",
-    "Hash": "741C17E325D05C48E371A654D0B703DD5BE180BA04D85B64A890891933AAEE42",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/495734ea-d19f-4c8e-be57-b06cca5a6390/MicrosoftEdgeEnterpriseX86.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/67288f55-fab6-4f22-a8ca-182e528895f6/MicrosoftEdgeWebView2RuntimeInstallerX86.exe"
   },
   {
-    "Version": "101.0.1210.32",
-    "Platform": "Windows",
+    "Version": "101.0.1210.39",
     "Channel": "Stable",
-    "Architecture": "arm64",
-    "Hash": "CD914B913EF38C5AF010E1DC4D9D9C22B9A1E5D35B6936C3943BB48CFE300A99",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1d5cc5c1-f3ba-44d8-9e21-e969f57660c9/MicrosoftEdgeEnterpriseARM64.msi"
+    "Architecture": "ARM64",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa3bf670-7ea3-462e-9f45-88c91dbccaf4/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe"
   }
 ]

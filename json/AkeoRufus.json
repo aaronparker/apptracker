@@ -4,7 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "11/3/2022",
+    "Date": "03/11/2022",
     "Size": 1380936,
     "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe"
   },
@@ -13,7 +13,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "11/3/2022",
+    "Date": "03/11/2022",
     "Size": 1380936,
     "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18p.exe"
   },
@@ -22,7 +22,7 @@
     "Platform": "Windows",
     "Architecture": "ARM32",
     "Type": "exe",
-    "Date": "11/3/2022",
+    "Date": "03/11/2022",
     "Size": 3698760,
     "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm.exe"
   },
@@ -31,7 +31,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "11/3/2022",
+    "Date": "03/11/2022",
     "Size": 3876424,
     "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm64.exe"
   }

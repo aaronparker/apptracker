@@ -1,9 +1,4 @@
 {
-  "Version": "3.2.3",
-  "Platform": "Windows",
-  "Architecture": "x86",
-  "Type": "exe",
-  "Date": "15/4/2022",
-  "Size": 67179984,
-  "URI": "https://github.com/vercel/hyper/releases/download/v3.2.3/Hyper-Setup-3.2.3.exe"
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
 }

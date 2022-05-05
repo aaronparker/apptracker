@@ -1,18 +1,18 @@
 [
   {
-    "Version": "1.25.9/Windows",
+    "Version": "1.25.9",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://nchc.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi"
   },
   {
-    "Version": "1.25.9/Windows",
+    "Version": "1.25.9",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://nchc.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe"
   },
   {
-    "Version": "1.25.9/Windows",
+    "Version": "1.25.9",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://nchc.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe"

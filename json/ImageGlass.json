@@ -4,7 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "22/1/2022",
+    "Date": "01/22/2022",
     "Size": 25829888,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.deleted.msi"
   },
@@ -13,7 +13,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "22/1/2022",
+    "Date": "01/22/2022",
     "Size": 25829888,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x64.msi"
   },
@@ -22,7 +22,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "22/1/2022",
+    "Date": "01/22/2022",
     "Size": 16873472,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.5.1.22/ImageGlass_8.5.1.22_x86.msi"
   }

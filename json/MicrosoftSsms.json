@@ -1,68 +1,68 @@
 [
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
-    "Language": "Chinese (Simplified)",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-CHS.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
+    "Date": "03/05/2022",
     "Language": "French",
     "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-FRA.exe"
   },
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
-    "Language": "Russian",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-RUS.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
-    "Language": "English",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-ENU.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
+    "Date": "03/05/2022",
     "Language": "Korean",
     "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-KOR.exe"
   },
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
-    "Language": "German",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-DEU.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
+    "Date": "03/05/2022",
     "Language": "Spanish",
     "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-ESN.exe"
   },
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
-    "Language": "Japanese",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-JPN.exe"
+    "Date": "03/05/2022",
+    "Language": "Portuguese (Brazil)",
+    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-PTB.exe"
   },
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
+    "Date": "03/05/2022",
     "Language": "Italian",
     "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-ITA.exe"
   },
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
+    "Date": "03/05/2022",
+    "Language": "German",
+    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-DEU.exe"
+  },
+  {
+    "Version": "15.0.18410.0",
+    "Date": "03/05/2022",
     "Language": "Chinese (Traditional)",
     "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-CHT.exe"
   },
   {
     "Version": "15.0.18410.0",
-    "Date": "5/3/2022",
-    "Language": "Portuguese (Brazil)",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-PTB.exe"
+    "Date": "03/05/2022",
+    "Language": "Chinese (Simplified)",
+    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-CHS.exe"
+  },
+  {
+    "Version": "15.0.18410.0",
+    "Date": "03/05/2022",
+    "Language": "Japanese",
+    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-JPN.exe"
+  },
+  {
+    "Version": "15.0.18410.0",
+    "Date": "03/05/2022",
+    "Language": "Russian",
+    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-RUS.exe"
+  },
+  {
+    "Version": "15.0.18410.0",
+    "Date": "03/05/2022",
+    "Language": "English",
+    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-ENU.exe"
   }
 ]

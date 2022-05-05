@@ -1,20 +1,4 @@
-[
-  {
-    "Version": "7.5.363",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Date": "30/10/2020",
-    "Size": 5449608,
-    "URI": "https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe"
-  },
-  {
-    "Version": "7.5.363",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Date": "30/10/2020",
-    "Size": 5850944,
-    "URI": "https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe"
-  }
-]
+{
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+}
