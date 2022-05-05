@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "22.001.20117",
+    "Architecture": "x64",
+    "Type": "Pro",
+    "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip"
+  },
+  {
+    "Version": "22.001.20117",
+    "Architecture": "x64",
+    "Type": "Standard",
+    "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip"
+  }
+]

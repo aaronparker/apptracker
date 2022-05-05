@@ -1,0 +1,38 @@
+[
+  {
+    "Version": "22.001.20117",
+    "Type": "Reader",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120117/AcroRdrDCUpd2200120117.msp"
+  },
+  {
+    "Version": "22.001.20117",
+    "Type": "ReaderMUI",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120117/AcroRdrDCUpd2200120117_MUI.msp"
+  },
+  {
+    "Version": "22.001.20117",
+    "Type": "Acrobat",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120117/AcrobatDCUpd2200120117.msp"
+  },
+  {
+    "Version": "22.001.20117",
+    "Type": "Reader",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120117/AcroRdrDCx64Upd2200120117.msp"
+  },
+  {
+    "Version": "22.001.20117",
+    "Type": "ReaderMUI",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120117/AcroRdrDCx64Upd2200120117_MUI.msp"
+  },
+  {
+    "Version": "22.001.20117",
+    "Type": "Acrobat",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120117/AcrobatDCx64Upd2200120117.msp"
+  }
+]

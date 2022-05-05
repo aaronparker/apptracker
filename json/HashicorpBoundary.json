@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "0.7.6",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/boundary/0.7.6/boundary_0.7.6_windows_386.zip"
+  },
+  {
+    "Version": "0.7.6",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/boundary/0.7.6/boundary_0.7.6_windows_amd64.zip"
+  }
+]

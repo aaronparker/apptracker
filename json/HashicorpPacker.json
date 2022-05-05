@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "1.8.0",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/packer/1.8.0/packer_1.8.0_windows_386.zip"
+  },
+  {
+    "Version": "1.8.0",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/packer/1.8.0/packer_1.8.0_windows_amd64.zip"
+  }
+]

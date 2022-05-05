@@ -1,0 +1,527 @@
+[
+  {
+    "Version": "7.15.8000",
+    "Title": "Linux Virtual Delivery Agent 7.15.8000",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/8/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-7158000.html"
+  },
+  {
+    "Version": "7.15",
+    "Title": "XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/8/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/xenapp-and-xendesktop-715-ltsr-cu8.html"
+  },
+  {
+    "Version": "7.15",
+    "Title": "XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8 – Enterprise Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/8/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-715-ltsr-cu8.html"
+  },
+  {
+    "Version": "7.15",
+    "Title": "XenDesktop 7.15 LTSR, Cumulative Update 8 – VDI Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/8/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-715-ltsr-cu8.html"
+  },
+  {
+    "Version": "7.15",
+    "Title": "XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8 – All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/8/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/xenapp-and-xendesktop-715-ltsr-cu8-all-editions.html"
+  },
+  {
+    "Version": "7.15",
+    "Title": "XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8 – Platinum Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/8/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-715-ltsr-cu8.html"
+  },
+  {
+    "Version": "2.9.500",
+    "Title": "HDX RealTime Optimization Pack 2.9.500 for Microsoft Skype® for Business",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "9/4/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/hdx-realtime-optimization-pack-29500.html"
+  },
+  {
+    "Version": "2.9.400",
+    "Title": "HDX RealTime Optimization Pack 2.9.400 for Microsoft Skype® for Business",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/7/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/hdx-realtime-optimization-pack-29400.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Workspace Environment Management 2106",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "17/6/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2106.html"
+  },
+  {
+    "Version": "2107",
+    "Title": "Linux Virtual Delivery Agent 2107",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "14/7/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2107.html"
+  },
+  {
+    "Version": "2107",
+    "Title": "Session Recording 2107",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "14/7/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2107.html"
+  },
+  {
+    "Version": "2204",
+    "Title": "Linux Virtual Delivery Agent 2204",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "28/4/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2204.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Citrix Virtual Apps and Desktops 7 2106, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "17/6/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2106.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Citrix Virtual Apps and Desktops 7 2109, Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "27/9/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2109.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Citrix Virtual Desktops 7 2109, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "27/9/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2109.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Citrix Virtual Apps and Desktops 7 2109, Advanced Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "27/9/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2109.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Citrix Virtual Apps and Desktops 7 2106.x, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "14/7/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2106x.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Citrix Virtual Apps and Desktops 7 2106, Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "17/6/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2106.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Citrix Virtual Apps and Desktops 7 2106, Advanced Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "17/6/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2106.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Citrix Virtual Desktops 7 2106, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "17/6/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2106.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Virtual Apps and Desktops 7 2103, Advanced Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "18/3/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2103.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Linux Virtual Delivery Agent 2103",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "18/3/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2103.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Virtual Apps and Desktops 7 2103, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "18/3/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2103.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Probe Agent 2103",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "27/3/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-probe-agent.html"
+  },
+  {
+    "Version": "2104",
+    "Title": "Linux Virtual Delivery Agent 2104",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "15/4/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2104.html"
+  },
+  {
+    "Version": "2104",
+    "Title": "Session Recording 2104",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "15/4/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2104.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Virtual Apps and Desktops 7 2103.x, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "15/4/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2103x.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3 – Advance Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-1912-ltsr-cu3.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu3.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3 – All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu3-all-editions.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Linux Virtual Delivery Agent 1912 LTSR, Cumulative Update 3",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-1912-ltsr-cu3.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3 – Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-1912-ltsr-cu3.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 3 – Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu3.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "App Protection Policies 1912 LTSR, Cumulative Update 3",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "13/5/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-protection-policies-1912-ltsr-cu3.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Linux Virtual Delivery Agent 2106",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "17/6/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2106.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Linux Virtual Delivery Agent 2109",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "28/9/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2109.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Workspace Environment Management 2109",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "28/9/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2109.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Citrix Virtual Apps and Desktops 7 2109, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "28/9/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2109.html"
+  },
+  {
+    "Version": "2110",
+    "Title": "Session Recording 2110",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "21/10/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2110.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5 – All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu5-all-editions.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu5.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Linux Virtual Delivery Agent 1912 LTSR, Cumulative Update 5",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-1912-ltsr-cu5.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 5 – Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu5.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5 – Advance Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-1912-ltsr-cu5.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5 – Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-1912-ltsr-cu5.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "App Protection Policies 1912 LTSR, Cumulative Update 5",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "10/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-protection-policies-1912-ltsr-cu5.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR, Advanced Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "24/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Virtual Desktops 7 2203 LTSR, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "24/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR, Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "24/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "24/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Workspace Environment Management 2203",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "24/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Linux Virtual Delivery Agent 2203 LTSR",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "24/3/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR.x, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "20/4/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2203x.html"
+  },
+  {
+    "Version": "2204",
+    "Title": "Session Recording 2204",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "20/4/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2204.html"
+  },
+  {
+    "Version": "Unknown",
+    "Title": "Citrix Virtual Apps and Desktops Due Diligence Package",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "5/2/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/certifications-and-standards/due-diligence-package.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Virtual Desktops 7 2103, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "18/3/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2103.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Virtual Apps and Desktops 7 2112.x, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "20/1/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2112x.html"
+  },
+  {
+    "Version": "2201",
+    "Title": "Linux Virtual Delivery Agent 2201",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "20/1/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2201.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Citrix Virtual Apps and Desktops 7 2109.x, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "21/10/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2109x.html"
+  },
+  {
+    "Version": "2110",
+    "Title": "Linux Virtual Delivery Agent 2110",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "22/10/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2110.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 4 – Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "3/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu4.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Linux Virtual Delivery Agent 1912 LTSR, Cumulative Update 4",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "3/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-1912-ltsr-cu4.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "4/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu4.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4 – All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "4/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu4-all-editions.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4 – Advance Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "4/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-1912-ltsr-cu4.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4 – Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "4/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-1912-ltsr-cu4.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "App Protection Policies 1912 LTSR, Cumulative Update 4",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "4/11/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-protection-policies-1912-ltsr-cu4.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Virtual Desktops 7 2112, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "15/12/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Virtual Apps and Desktops 7 2112, All Editions",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "15/12/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Workspace Environment Management 2112",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "15/12/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Linux Virtual Delivery Agent 2112",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "21/12/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Virtual Apps and Desktops 7 2112, Advanced Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "21/12/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Virtual Apps and Desktops 7 2112, Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "21/12/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2112.html"
+  },
+  {
+    "Version": "2201",
+    "Title": "Session Recording 2201",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "20/1/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2201.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Virtual Apps and Desktops 7 2103, Premium Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "18/3/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2103.html"
+  }
+]

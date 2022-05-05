@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "1.1.9",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/terraform/1.1.9/terraform_1.1.9_windows_386.zip"
+  },
+  {
+    "Version": "1.1.9",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/terraform/1.1.9/terraform_1.1.9_windows_amd64.zip"
+  }
+]

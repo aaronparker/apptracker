@@ -1,0 +1,9 @@
+{
+  "Version": "2.6.2",
+  "Platform": "Windows",
+  "Architecture": "x64",
+  "Type": "exe",
+  "Date": "22/3/2022",
+  "Size": 28473214,
+  "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.6.2/MiniZincIDE-2.6.2-bundled-setup-win64.exe"
+}

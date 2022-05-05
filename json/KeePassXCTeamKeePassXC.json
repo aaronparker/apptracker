@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "2.7.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "6/4/2022",
+    "Size": 52416512,
+    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64-LegacyWindows.msi"
+  },
+  {
+    "Version": "2.7.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "6/4/2022",
+    "Size": 45428736,
+    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi"
+  }
+]
