@@ -11,7 +11,7 @@ param(
 Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
     ForEach-Object { Get-EvergreenApp -Name $_ -ErrorAction "Ignore" -WarningAction "Ignore" | `
         ConvertTo-Json | `
-        Out-File -FilePath $([System.IO.Path]::Combine($Path, "json", "$_.json")) -NoNewline -Encoding "utf8"
+        Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8"
 }
 
 <# foreach ($file in (Get-ChildItem -Path "./" -Filter "*.json")) {
