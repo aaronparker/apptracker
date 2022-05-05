@@ -52,11 +52,7 @@ jobs:
       - name: Update versions
         shell: pwsh
         run: |
-          Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
-            ForEach-Object { Get-EvergreenApp -Name $_ -ErrorAction "Ignore" -WarningAction "Ignore" | `
-                ConvertTo-Json | `
-                Out-File -FilePath $([System.IO.Path]::Combine("${{ github.workspace }}", "json", "$_.json"))
-          }
+          . "${{ github.workspace }}/Update-Versions.ps1" -Path "${{ github.workspace }}/json"
 
       # Format the date number for the commit message
       - name: Get date
