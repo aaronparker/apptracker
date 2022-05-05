@@ -18,7 +18,7 @@ on:
         - main
 
 jobs:
-  validate:
+  update:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -55,7 +55,7 @@ jobs:
           Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
             ForEach-Object { Get-EvergreenApp -Name $_ -ErrorAction "Ignore" -WarningAction "Ignore" | `
                 ConvertTo-Json | `
-                Out-File -FilePath $([System.IO.Path]::Combine(${{ github.workspace }}, "json", "$_.json"))
+                Out-File -FilePath $([System.IO.Path]::Combine("${{ github.workspace }}", "json", "$_.json"))
           }
 
       # Format the date number for the commit message
