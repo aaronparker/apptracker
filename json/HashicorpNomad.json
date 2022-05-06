@@ -1,14 +1,14 @@
-﻿[
-    {
-        "Version":  "1.2.6",
-        "Type":  "zip",
-        "Architecture":  "x64",
-        "URI":  "https://releases.hashicorp.com/nomad/1.2.6/nomad_1.2.6_windows_amd64.zip"
-    },
-    {
-        "Version":  "1.2.6",
-        "Type":  "zip",
-        "Architecture":  "x86",
-        "URI":  "https://releases.hashicorp.com/nomad/1.2.6/nomad_1.2.6_windows_386.zip"
-    }
+[
+  {
+    "Version": "1.2.6",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/nomad/1.2.6/nomad_1.2.6_windows_amd64.zip"
+  },
+  {
+    "Version": "1.2.6",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/nomad/1.2.6/nomad_1.2.6_windows_386.zip"
+  }
 ]

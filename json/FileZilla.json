@@ -1,6 +1,6 @@
-﻿{
-    "Version":  "3.59.0",
-    "Size":  "11818224",
-    "Hash":  "bbdf8674704729bda9fbaeedcdfb3155312ad2b2e2d56ac72b66e9348803d4820efa66081ec49a8518ed667450e9da62c7d7b40273b86448c9f4454a2cfaec15",
-    "URI":  "https://download.filezilla-project.org/client/FileZilla_3.59.0_win64-setup.exe"
+{
+  "Version": "3.59.0",
+  "Size": "11818224",
+  "Hash": "bbdf8674704729bda9fbaeedcdfb3155312ad2b2e2d56ac72b66e9348803d4820efa66081ec49a8518ed667450e9da62c7d7b40273b86448c9f4454a2cfaec15",
+  "URI": "https://download.filezilla-project.org/client/FileZilla_3.59.0_win64-setup.exe"
 }

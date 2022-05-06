@@ -1,9 +1,9 @@
-﻿{
-    "Version":  "0.58.0",
-    "Platform":  "Windows",
-    "Architecture":  "x64",
-    "Type":  "exe",
-    "Date":  "2022-04-29T09:06:50Z",
-    "Size":  61511936,
-    "URI":  "https://github.com/microsoft/PowerToys/releases/download/v0.58.0/PowerToysSetup-0.58.0-x64.exe"
+{
+  "Version": "0.58.0",
+  "Platform": "Windows",
+  "Architecture": "x64",
+  "Type": "exe",
+  "Date": "04/29/2022",
+  "Size": 61511936,
+  "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.58.0/PowerToysSetup-0.58.0-x64.exe"
 }

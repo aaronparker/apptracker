@@ -1,12 +1,12 @@
-﻿[
-    {
-        "Version":  "7.17.22102.05001",
-        "Release":  "7",
-        "URI":  "https://files.mcneel.com/dujour/exe/20220412/rhino_en-us_7.17.22102.05001.exe"
-    },
-    {
-        "Version":  "6.35.21222.17001",
-        "Release":  "6",
-        "URI":  "https://files.mcneel.com/dujour/exe/20210810/rhino_en-us_6.35.21222.17001.exe"
-    }
+[
+  {
+    "Version": "7.17.22102.05001",
+    "Release": "7",
+    "URI": "https://files.mcneel.com/dujour/exe/20220412/rhino_en-us_7.17.22102.05001.exe"
+  },
+  {
+    "Version": "6.35.21222.17001",
+    "Release": "6",
+    "URI": "https://files.mcneel.com/dujour/exe/20210810/rhino_en-us_6.35.21222.17001.exe"
+  }
 ]

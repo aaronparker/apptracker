@@ -1,6 +1,6 @@
-﻿{
-    "Version":  "2.9.8111.53415",
-    "Date":  "3/25/2022",
-    "Channel":  "Production",
-    "URI":  "https://download.microsoft.com/download/9/2/5/9257adcf-abdf-4ab3-b37f-416d70682315/FSLogix_Apps_2.9.8111.53415.zip"
+{
+  "Version": "2.9.8111.53415",
+  "Date": "03/25/2022",
+  "Channel": "Production",
+  "URI": "https://download.microsoft.com/download/9/2/5/9257adcf-abdf-4ab3-b37f-416d70682315/FSLogix_Apps_2.9.8111.53415.zip"
 }

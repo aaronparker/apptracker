@@ -1,12 +1,12 @@
-﻿[
-    {
-        "Version":  "27.2.4",
-        "Architecture":  "x64",
-        "URI":  "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x64.exe"
-    },
-    {
-        "Version":  "27.2.4",
-        "Architecture":  "x86",
-        "URI":  "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x86.exe"
-    }
+[
+  {
+    "Version": "27.2.4",
+    "Architecture": "x64",
+    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x64.exe"
+  },
+  {
+    "Version": "27.2.4",
+    "Architecture": "x86",
+    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x86.exe"
+  }
 ]
