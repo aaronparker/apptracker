@@ -10,9 +10,9 @@ param(
 # Step through all apps and export result to JSON
 Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
     ForEach-Object { Get-EvergreenApp -Name $_ -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue" | `
-        Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Branch", "Title", "Edition", "Type" | `
+        Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Platform", "Branch", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
         ConvertTo-Json | `
-        Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8"
+        Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8" -Verbose
 }
 
 <# foreach ($file in (Get-ChildItem -Path "./" -Filter "*.json")) {
