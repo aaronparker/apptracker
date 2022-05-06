@@ -78,6 +78,7 @@ jobs:
         run: echo "No changes detected."
 
   update-powershell:
+      needs: update-pwsh
       runs-on: windows-latest
 
       # Steps represent a sequence of tasks that will be executed as part of the job

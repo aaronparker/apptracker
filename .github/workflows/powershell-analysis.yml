@@ -12,6 +12,8 @@ name: PSScriptAnalyzer
 on:
   push:
     branches: [ main ]
+    paths:
+      - "*.ps1"
     
 jobs:
   build:
