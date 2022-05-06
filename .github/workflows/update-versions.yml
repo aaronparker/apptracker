@@ -85,6 +85,15 @@ jobs:
       steps:
         # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
         - uses: actions/checkout@v3
+          with:
+            ref: main
+
+        # Run Pester tests
+        - name: Update versions
+          shell: powershell
+          run: |
+            git config --global core.safecrlf false
+            git pull origin main
 
         - name: Install and cache PowerShell modules
           id: psmodulecache
