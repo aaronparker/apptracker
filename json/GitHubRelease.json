@@ -1,56 +1,56 @@
-[
-  {
-    "Version": "1.60.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Date": "03/07/2022",
-    "Size": 198986592,
-    "URI": "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe"
-  },
-  {
-    "Version": "1.60.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "Date": "03/07/2022",
-    "Size": 202264136,
-    "URI": "https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip"
-  },
-  {
-    "Version": "1.60.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Date": "03/07/2022",
-    "Size": 193334112,
-    "URI": "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe"
-  },
-  {
-    "Version": "1.60.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "Date": "03/07/2022",
-    "Size": 139094,
-    "URI": "https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip"
-  },
-  {
-    "Version": "1.60.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "Date": "03/07/2022",
-    "Size": 213343706,
-    "URI": "https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip"
-  },
-  {
-    "Version": "1.60.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "Date": "03/07/2022",
-    "Size": 196491597,
-    "URI": "https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip"
-  }
+﻿[
+    {
+        "Version":  "1.60.0",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "exe",
+        "Date":  "2022-03-07T23:18:58Z",
+        "Size":  198986592,
+        "URI":  "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe"
+    },
+    {
+        "Version":  "1.60.0",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "zip",
+        "Date":  "2022-03-07T23:18:58Z",
+        "Size":  202264136,
+        "URI":  "https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip"
+    },
+    {
+        "Version":  "1.60.0",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "exe",
+        "Date":  "2022-03-07T23:18:58Z",
+        "Size":  193334112,
+        "URI":  "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe"
+    },
+    {
+        "Version":  "1.60.0",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "zip",
+        "Date":  "2022-03-07T23:18:58Z",
+        "Size":  196491597,
+        "URI":  "https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip"
+    },
+    {
+        "Version":  "1.60.0",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "zip",
+        "Date":  "2022-03-07T23:18:58Z",
+        "Size":  213343706,
+        "URI":  "https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip"
+    },
+    {
+        "Version":  "1.60.0",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "zip",
+        "Date":  "2022-03-07T23:18:58Z",
+        "Size":  139094,
+        "URI":  "https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip"
+    }
 ]

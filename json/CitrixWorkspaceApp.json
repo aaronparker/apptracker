@@ -1,38 +1,38 @@
-[
-  {
-    "Version": "22.4.1.62",
-    "Title": "Citrix Workspace - Current Release",
-    "Size": "311515056",
-    "Hash": "88293b9207c0a4a164a772630623e1defb2db238b70ed1807bb92e08332f53e3",
-    "Date": "04/07/2022",
-    "Stream": "Current",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.4.1.62.exe"
-  },
-  {
-    "Version": "22.3.1.41",
-    "Title": "Citrix Workspace - LTSR",
-    "Size": "95715248",
-    "Hash": "628e7bd071987637e43ebae95b6009059859226443059fa1baf9aab57ae2f611",
-    "Date": "04/07/2022",
-    "Stream": "LTSR",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.1.41.exe"
-  },
-  {
-    "Version": "2.7.0.2113",
-    "Title": "HDX RTME for Windows - Current Release",
-    "Size": "45862912",
-    "Hash": "3589e4faf1495e6ee3f3f538cf4c3f77576dd35af8b0238ac3b6f916aa483027",
-    "Date": "03/12/2019",
-    "Stream": "Current",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.7.0.2113.msi"
-  },
-  {
-    "Version": "2.4.3000.3",
-    "Title": "HDX RTME for Windows - LTSR CU3",
-    "Size": "45314048",
-    "Hash": "690c39203845c2aa7b22045fb4a3a4dcc309045fb064a0f4d1c0902c3902246f",
-    "Date": "04/23/2019",
-    "Stream": "LTSR",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.4.3000.3.msi"
-  }
+﻿[
+    {
+        "Version":  "22.4.1.62",
+        "Title":  "Citrix Workspace - Current Release",
+        "Size":  "311515056",
+        "Hash":  "88293b9207c0a4a164a772630623e1defb2db238b70ed1807bb92e08332f53e3",
+        "Date":  "4/7/2022",
+        "Stream":  "Current",
+        "URI":  "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.4.1.62.exe"
+    },
+    {
+        "Version":  "22.3.1.41",
+        "Title":  "Citrix Workspace - LTSR",
+        "Size":  "95715248",
+        "Hash":  "628e7bd071987637e43ebae95b6009059859226443059fa1baf9aab57ae2f611",
+        "Date":  "4/7/2022",
+        "Stream":  "LTSR",
+        "URI":  "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.1.41.exe"
+    },
+    {
+        "Version":  "2.7.0.2113",
+        "Title":  "HDX RTME for Windows - Current Release",
+        "Size":  "45862912",
+        "Hash":  "3589e4faf1495e6ee3f3f538cf4c3f77576dd35af8b0238ac3b6f916aa483027",
+        "Date":  "3/12/2019",
+        "Stream":  "Current",
+        "URI":  "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.7.0.2113.msi"
+    },
+    {
+        "Version":  "2.4.3000.3",
+        "Title":  "HDX RTME for Windows - LTSR CU3",
+        "Size":  "45314048",
+        "Hash":  "690c39203845c2aa7b22045fb4a3a4dcc309045fb064a0f4d1c0902c3902246f",
+        "Date":  "4/23/2019",
+        "Stream":  "LTSR",
+        "URI":  "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.4.3000.3.msi"
+    }
 ]

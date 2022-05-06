@@ -1,4 +1,4 @@
-{
-  "Version": "7.1.0-32",
-  "URI": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-32-Q16-HDRI-x64-dll.exe"
+﻿{
+    "Version":  "7.1.0-32",
+    "URI":  "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-32-Q16-HDRI-x64-dll.exe"
 }

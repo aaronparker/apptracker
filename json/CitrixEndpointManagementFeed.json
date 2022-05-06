@@ -1,44 +1,44 @@
-[
-  {
-    "Version": "Unknown",
-    "Title": "Citrix Endpoint Management Advanced Edition",
-    "Description": "New downloads are available for Citrix Endpoint Management",
-    "Date": "03/25/2022",
-    "URI": "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-advanced-edition-worx-apps-and-mdx-toolkit.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "Citrix Endpoint Management Due Diligence Package",
-    "Description": "New downloads are available for Citrix Endpoint Management",
-    "Date": "10/19/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-endpoint-management/certifications-and-standards/due-diligence-package.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "Citrix Endpoint Management MDM Edition",
-    "Description": "New downloads are available for Citrix Endpoint Management",
-    "Date": "10/21/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-mdm-edition-worx-apps-and-mdx-toolkit.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "Citrix Endpoint Management Productivity Apps ",
-    "Description": "New downloads are available for Citrix Endpoint Management",
-    "Date": "03/25/2022",
-    "URI": "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-enterprise-edition-worx-apps-and-mdx-toolkit.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "Citrix Endpoint Management Productivity Apps for Baidu",
-    "Description": "New downloads are available for Citrix Endpoint Management",
-    "Date": "02/08/2022",
-    "URI": "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-apps-baidu.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "XenMobile Server 10",
-    "Description": "New downloads are available for Citrix Endpoint Management",
-    "Date": "04/12/2022",
-    "URI": "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-10-server.html"
-  }
+﻿[
+    {
+        "Version":  "Unknown",
+        "Title":  "Citrix Endpoint Management Advanced Edition",
+        "Description":  "New downloads are available for Citrix Endpoint Management",
+        "Date":  "3/25/2022",
+        "URI":  "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-advanced-edition-worx-apps-and-mdx-toolkit.html"
+    },
+    {
+        "Version":  "Unknown",
+        "Title":  "Citrix Endpoint Management Due Diligence Package",
+        "Description":  "New downloads are available for Citrix Endpoint Management",
+        "Date":  "10/19/2021",
+        "URI":  "https://www.citrix.com/downloads/citrix-endpoint-management/certifications-and-standards/due-diligence-package.html"
+    },
+    {
+        "Version":  "Unknown",
+        "Title":  "Citrix Endpoint Management MDM Edition",
+        "Description":  "New downloads are available for Citrix Endpoint Management",
+        "Date":  "10/21/2020",
+        "URI":  "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-mdm-edition-worx-apps-and-mdx-toolkit.html"
+    },
+    {
+        "Version":  "Unknown",
+        "Title":  "Citrix Endpoint Management Productivity Apps ",
+        "Description":  "New downloads are available for Citrix Endpoint Management",
+        "Date":  "3/25/2022",
+        "URI":  "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-enterprise-edition-worx-apps-and-mdx-toolkit.html"
+    },
+    {
+        "Version":  "Unknown",
+        "Title":  "Citrix Endpoint Management Productivity Apps for Baidu",
+        "Description":  "New downloads are available for Citrix Endpoint Management",
+        "Date":  "2/8/2022",
+        "URI":  "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-apps-baidu.html"
+    },
+    {
+        "Version":  "Unknown",
+        "Title":  "XenMobile Server 10",
+        "Description":  "New downloads are available for Citrix Endpoint Management",
+        "Date":  "4/12/2022",
+        "URI":  "https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-10-server.html"
+    }
 ]
