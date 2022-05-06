@@ -1,4 +1,4 @@
-name: update-versions
+name: test-output
 
 # Environment variables
 env:
@@ -6,16 +6,7 @@ env:
 
 # Controls when the action will run. 
 on:
-  #push:
-  #  branches:
-  #    - main
-  #  paths:
-  #    - 'Evergreen/**'
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    branches:
-        - main
 
 jobs:
   update-pwsh:
