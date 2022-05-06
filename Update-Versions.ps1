@@ -41,6 +41,7 @@ if (Test-PSCore) {
     }
 }
 else {
+    Import-Module -Name "DnsClient"
     foreach ($file in (Get-ChildItem -Path $Path -Filter "*.json")) {
         if ($file.Length -eq 0) {
             Get-EvergreenApp -Name $file.BaseName | `
