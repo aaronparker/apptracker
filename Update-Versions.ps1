@@ -7,26 +7,46 @@ param(
     [System.String] $Path
 )
 
+#region Functions
+Function Test-PSCore {
+    <#
+        .SYNOPSIS
+            Returns True if running on PowerShell Core.
+    #>
+    [CmdletBinding(SupportsShouldProcess = $False)]
+    [OutputType([Boolean])]
+    param (
+        [Parameter(Mandatory = $False, Position = 0)]
+        [ValidateNotNullOrEmpty()]
+        [System.String] $Version = '6.0.0'
+    )
+
+    # Check whether current PowerShell environment matches or is higher than $Version
+    If (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
+        Write-Output -InputObject $True
+    }
+    Else {
+        Write-Output -InputObject $False
+    }
+}
+#endregion
+
 # Step through all apps and export result to JSON
-Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
-    ForEach-Object { Get-EvergreenApp -Name $_ -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue" | `
-        Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Platform", "Branch", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
-        ConvertTo-Json | `
-        Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8" -Verbose
-}
-
-<# foreach ($file in (Get-ChildItem -Path "./" -Filter "*.json")) {
-    $json = Get-Content -Path $file.FullName | ConvertFrom-Json
-    if ($json.Version -match "RateLimited") {
-        Get-EvergreenApp -Name $file.BaseName | `
-        ConvertTo-Json | `
-        Out-File -FilePath $file.FullName -Force
+if (Test-PSCore) {
+    Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
+        ForEach-Object { Get-EvergreenApp -Name $_ -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue" | `
+            Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Language", "Platform", "Branch", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+            ConvertTo-Json | `
+            Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8" -Verbose
     }
 }
-
-foreach ($file in (Get-ChildItem -Path "./" -Filter "*.json")) {
-    $json = Get-Content -Path $file.FullName | ConvertFrom-Json
-    if ($json.Version -match "RateLimited") {
-        Write-Host $file.BaseName
+else {
+    foreach ($file in (Get-ChildItem -Path $Path -Filter "*.json")) {
+        if ($file.Length -eq 0) {
+            Get-EvergreenApp -Name $file.BaseName | `
+                Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Language", "Platform", "Branch", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+                ConvertTo-Json | `
+                Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Force -Verbose
+        }
     }
-} #>
+}
