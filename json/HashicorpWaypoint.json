@@ -2,13 +2,13 @@
   {
     "Version": "0.8.1",
     "Type": "zip",
-    "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/waypoint/0.8.1/waypoint_0.8.1_windows_386.zip"
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/waypoint/0.8.1/waypoint_0.8.1_windows_amd64.zip"
   },
   {
     "Version": "0.8.1",
     "Type": "zip",
-    "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/waypoint/0.8.1/waypoint_0.8.1_windows_amd64.zip"
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/waypoint/0.8.1/waypoint_0.8.1_windows_386.zip"
   }
 ]

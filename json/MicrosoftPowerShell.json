@@ -7,7 +7,7 @@
     "Date": "04/26/2022",
     "Size": 106926080,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.3/PowerShell-7.2.3-win-x64.msi",
-    "Release": "LTS"
+    "Release": "Stable"
   },
   {
     "Version": "7.2.3",
@@ -17,7 +17,7 @@
     "Date": "04/26/2022",
     "Size": 97792000,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.3/PowerShell-7.2.3-win-x86.msi",
-    "Release": "LTS"
+    "Release": "Stable"
   },
   {
     "Version": "7.2.3",
@@ -27,7 +27,7 @@
     "Date": "04/26/2022",
     "Size": 106926080,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.3/PowerShell-7.2.3-win-x64.msi",
-    "Release": "Stable"
+    "Release": "LTS"
   },
   {
     "Version": "7.2.3",
@@ -37,7 +37,7 @@
     "Date": "04/26/2022",
     "Size": 97792000,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.3/PowerShell-7.2.3-win-x86.msi",
-    "Release": "Stable"
+    "Release": "LTS"
   },
   {
     "Version": "7.0.10",

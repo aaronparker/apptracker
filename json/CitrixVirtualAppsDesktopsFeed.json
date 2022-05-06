@@ -330,6 +330,13 @@
   },
   {
     "Version": "2203",
+    "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR, Advanced Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "03/23/2022",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2203.html"
+  },
+  {
+    "Version": "2203",
     "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR, Premium Edition Components",
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "03/23/2022",
@@ -355,13 +362,6 @@
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "03/23/2022",
     "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2203.html"
-  },
-  {
-    "Version": "2203",
-    "Title": "Citrix Virtual Apps and Desktops 7 2203 LTSR, Advanced Edition Components",
-    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
-    "Date": "03/23/2022",
-    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2203.html"
   },
   {
     "Version": "2204",
@@ -491,13 +491,6 @@
   },
   {
     "Version": "2112",
-    "Title": "Linux Virtual Delivery Agent 2112",
-    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
-    "Date": "12/20/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2112.html"
-  },
-  {
-    "Version": "2112",
     "Title": "Citrix Virtual Apps and Desktops 7 2112, Advanced Edition Components",
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "12/20/2021",
@@ -509,6 +502,13 @@
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "12/20/2021",
     "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Linux Virtual Delivery Agent 2112",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "12/20/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2112.html"
   },
   {
     "Version": "2201",

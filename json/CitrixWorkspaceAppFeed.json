@@ -36,10 +36,10 @@
   },
   {
     "Version": "2112",
-    "Title": "Citrix Workspace app 2112.1 for Windows ",
+    "Title": "Citrix Workspace app 2112.1 Desktop Lock",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "12/17/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21121.html"
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-21121.html"
   },
   {
     "Version": "2112",
@@ -64,17 +64,17 @@
   },
   {
     "Version": "2112",
-    "Title": "Citrix Workspace app 2112 for HTML5",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/07/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2112.html"
-  },
-  {
-    "Version": "2112",
     "Title": "Citrix Workspace app 2112 for Mac",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "12/07/2021",
     "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Workspace app 2112 for HTML5",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/07/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2112.html"
   },
   {
     "Version": "2112",
@@ -141,10 +141,10 @@
   },
   {
     "Version": "2109",
-    "Title": "Citrix Workspace app 2109.1 for Windows ",
+    "Title": "Citrix Workspace app 2109.1 for Mac",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/04/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21091.html"
+    "Date": "10/05/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-21091.html"
   },
   {
     "Version": "2109",
@@ -162,24 +162,17 @@
   },
   {
     "Version": "2109",
-    "Title": "Citrix Workspace app 2109 Desktop Lock",
+    "Title": "Citrix Workspace app 2109.1 for Windows ",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2109.html"
+    "Date": "10/04/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21091.html"
   },
   {
     "Version": "2109",
-    "Title": "Fast Connect API for Citrix Workspace app 2109 for Windows",
+    "Title": "Citrix Workspace app 2109 for Windows ",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2109.html"
-  },
-  {
-    "Version": "2112",
-    "Title": "Citrix Workspace app 2112.1 Desktop Lock",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/17/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-21121.html"
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2109.html"
   },
   {
     "Version": "2112",
@@ -187,6 +180,13 @@
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "12/17/2021",
     "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21121.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Workspace app 2112.1 for Windows ",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/17/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21121.html"
   },
   {
     "Version": "2201",
@@ -197,10 +197,10 @@
   },
   {
     "Version": "2109",
-    "Title": "Citrix Workspace app 2109 for Windows ",
+    "Title": "Citrix Workspace app 2109 Desktop Lock",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2109.html"
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2109.html"
   },
   {
     "Version": "2204",
@@ -274,17 +274,17 @@
   },
   {
     "Version": "2203",
-    "Title": "Citrix Workspace app 2203.2 for Chrome OS",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/04/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-latest.html"
-  },
-  {
-    "Version": "2203",
     "Title": "Citrix Workspace app 2203.2 for HTML5",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "04/04/2022",
     "URI": "https://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-latest.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app 2203.2 for Chrome OS",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/04/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-latest.html"
   },
   {
     "Version": "2203",
@@ -323,13 +323,6 @@
   },
   {
     "Version": "2202",
-    "Title": "Citrix Workspace app 2202 for Windows ",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "02/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2202.html"
-  },
-  {
-    "Version": "2202",
     "Title": "Citrix Workspace app 2202 Desktop Lock",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "02/07/2022",
@@ -341,6 +334,13 @@
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "02/07/2022",
     "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2202.html"
+  },
+  {
+    "Version": "2202",
+    "Title": "Citrix Workspace app 2202 for Windows ",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "02/07/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2202.html"
   },
   {
     "Version": "2201",
@@ -358,9 +358,9 @@
   },
   {
     "Version": "2109",
-    "Title": "Citrix Workspace app 2109 for Linux",
+    "Title": "Fast Connect API for Citrix Workspace app 2109 for Windows",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "09/28/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2109.html"
+    "Date": "09/29/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2109.html"
   }
 ]
