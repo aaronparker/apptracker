@@ -1,38 +1,38 @@
-﻿[
-    {
-        "Version":  "3.18",
-        "Platform":  "Windows",
-        "Architecture":  "ARM32",
-        "Type":  "exe",
-        "Date":  "2022-03-11T16:51:59Z",
-        "Size":  3698760,
-        "URI":  "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm.exe"
-    },
-    {
-        "Version":  "3.18",
-        "Platform":  "Windows",
-        "Architecture":  "ARM64",
-        "Type":  "exe",
-        "Date":  "2022-03-11T16:51:59Z",
-        "Size":  3876424,
-        "URI":  "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm64.exe"
-    },
-    {
-        "Version":  "3.18",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "Date":  "2022-03-11T16:51:59Z",
-        "Size":  1380936,
-        "URI":  "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18p.exe"
-    },
-    {
-        "Version":  "3.18",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "Date":  "2022-03-11T16:51:59Z",
-        "Size":  1380936,
-        "URI":  "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe"
-    }
+[
+  {
+    "Version": "3.18",
+    "Platform": "Windows",
+    "Architecture": "ARM32",
+    "Type": "exe",
+    "Date": "03/11/2022",
+    "Size": 3698760,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm.exe"
+  },
+  {
+    "Version": "3.18",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "Date": "03/11/2022",
+    "Size": 3876424,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm64.exe"
+  },
+  {
+    "Version": "3.18",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "03/11/2022",
+    "Size": 1380936,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe"
+  },
+  {
+    "Version": "3.18",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "03/11/2022",
+    "Size": 1380936,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18p.exe"
+  }
 ]

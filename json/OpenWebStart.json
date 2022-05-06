@@ -1,4 +1,20 @@
-﻿{
-    "Version":  "RateLimited",
-    "URI":  "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
-}
+[
+  {
+    "Version": "1.5.2",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "Date": "02/14/2022",
+    "Size": 54905784,
+    "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.5.2/OpenWebStart_windows-x64_1_5_2.exe"
+  },
+  {
+    "Version": "1.5.2",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "02/14/2022",
+    "Size": 55610296,
+    "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.5.2/OpenWebStart_windows-x32_1_5_2.exe"
+  }
+]

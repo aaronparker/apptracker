@@ -1,14 +1,14 @@
-﻿[
-    {
-        "Version":  "1.10.2",
-        "Type":  "zip",
-        "Architecture":  "x64",
-        "URI":  "https://releases.hashicorp.com/vault/1.10.2/vault_1.10.2_windows_amd64.zip"
-    },
-    {
-        "Version":  "1.10.2",
-        "Type":  "zip",
-        "Architecture":  "x86",
-        "URI":  "https://releases.hashicorp.com/vault/1.10.2/vault_1.10.2_windows_386.zip"
-    }
+[
+  {
+    "Version": "1.10.2",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/vault/1.10.2/vault_1.10.2_windows_amd64.zip"
+  },
+  {
+    "Version": "1.10.2",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/vault/1.10.2/vault_1.10.2_windows_386.zip"
+  }
 ]

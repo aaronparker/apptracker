@@ -1,42 +1,42 @@
-﻿[
-    {
-        "Version":  "3.10.4",
-        "Python":  3,
-        "md5":  "53fea6cfcce86fb87253364990f22109",
-        "Size":  28488112,
-        "Date":  "2022-03-24T10:29:52Z",
-        "Type":  "exe",
-        "Architecture":  "x64",
-        "URI":  "https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe"
-    },
-    {
-        "Version":  "3.10.4",
-        "Python":  3,
-        "md5":  "977b91d2e0727952d5e8e4ff07eee34e",
-        "Size":  27338104,
-        "Date":  "2022-03-24T10:29:52Z",
-        "Type":  "exe",
-        "Architecture":  "x86",
-        "URI":  "https://www.python.org/ftp/python/3.10.4/python-3.10.4.exe"
-    },
-    {
-        "Version":  "2.7.18",
-        "Python":  2,
-        "md5":  "a425c758d38f8e28b56f4724b499239a",
-        "Size":  20598784,
-        "Date":  "2020-04-20T14:18:29Z",
-        "Type":  "msi",
-        "Architecture":  "x64",
-        "URI":  "https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi"
-    },
-    {
-        "Version":  "2.7.18",
-        "Python":  2,
-        "md5":  "db6ad9195b3086c6b4cefb9493d738d2",
-        "Size":  19632128,
-        "Date":  "2020-04-20T14:18:29Z",
-        "Type":  "msi",
-        "Architecture":  "x86",
-        "URI":  "https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi"
-    }
+[
+  {
+    "Version": "3.10.4",
+    "Python": 3,
+    "md5": "53fea6cfcce86fb87253364990f22109",
+    "Size": 28488112,
+    "Date": "03/24/2022",
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe"
+  },
+  {
+    "Version": "3.10.4",
+    "Python": 3,
+    "md5": "977b91d2e0727952d5e8e4ff07eee34e",
+    "Size": 27338104,
+    "Date": "03/24/2022",
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://www.python.org/ftp/python/3.10.4/python-3.10.4.exe"
+  },
+  {
+    "Version": "2.7.18",
+    "Python": 2,
+    "md5": "a425c758d38f8e28b56f4724b499239a",
+    "Size": 20598784,
+    "Date": "04/20/2020",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi"
+  },
+  {
+    "Version": "2.7.18",
+    "Python": 2,
+    "md5": "db6ad9195b3086c6b4cefb9493d738d2",
+    "Size": 19632128,
+    "Date": "04/20/2020",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi"
+  }
 ]
