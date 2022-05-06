@@ -1,15 +1,9 @@
 [
   {
     "Version": "21.07",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-x64.msi"
-  },
-  {
-    "Version": "21.07",
-    "Architecture": "x64",
+    "Architecture": "ARM32",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-x64.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-arm.exe"
   },
   {
     "Version": "21.07",
@@ -19,20 +13,26 @@
   },
   {
     "Version": "21.07",
-    "Architecture": "ARM32",
+    "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-arm.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-x64.exe"
   },
   {
     "Version": "21.07",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107.msi"
+    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107-x64.msi"
   },
   {
     "Version": "21.07",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107.exe"
+  },
+  {
+    "Version": "21.07",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://nchc.dl.sourceforge.net/project/sevenzip/7-Zip/21.07/7z2107.msi"
   }
 ]

@@ -12,18 +12,18 @@
     "Version": "5.0.4",
     "Platform": "Windows",
     "Architecture": "x86",
-    "Type": "msi",
+    "Type": "exe",
     "Date": "02/04/2022",
-    "Size": 73572352,
-    "URI": "https://github.com/mattermost/desktop/releases/download/v5.0.4/mattermost-desktop-5.0.4-x86.msi"
+    "Size": 131272648,
+    "URI": "https://github.com/mattermost/desktop/releases/download/v5.0.4/mattermost-desktop-setup-5.0.4-win.exe"
   },
   {
     "Version": "5.0.4",
     "Platform": "Windows",
     "Architecture": "x86",
-    "Type": "exe",
+    "Type": "msi",
     "Date": "02/04/2022",
-    "Size": 131272648,
-    "URI": "https://github.com/mattermost/desktop/releases/download/v5.0.4/mattermost-desktop-setup-5.0.4-win.exe"
+    "Size": 73572352,
+    "URI": "https://github.com/mattermost/desktop/releases/download/v5.0.4/mattermost-desktop-5.0.4-x86.msi"
   }
 ]

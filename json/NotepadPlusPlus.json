@@ -3,42 +3,6 @@
     "Version": "8.4",
     "Platform": "Windows",
     "Architecture": "ARM64",
-    "Type": "exe",
-    "Date": "04/25/2022",
-    "Size": 4110904,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.Installer.arm64.exe"
-  },
-  {
-    "Version": "8.4",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Date": "04/25/2022",
-    "Size": 4259696,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.Installer.exe"
-  },
-  {
-    "Version": "8.4",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Date": "04/25/2022",
-    "Size": 4492824,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.Installer.x64.exe"
-  },
-  {
-    "Version": "8.4",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "7z",
-    "Date": "04/25/2022",
-    "Size": 3423543,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.7z"
-  },
-  {
-    "Version": "8.4",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
     "Type": "7z",
     "Date": "04/25/2022",
     "Size": 3502418,
@@ -48,28 +12,28 @@
     "Version": "8.4",
     "Platform": "Windows",
     "Architecture": "ARM64",
-    "Type": "zip",
-    "Date": "04/25/2022",
-    "Size": 5138868,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.arm64.zip"
-  },
-  {
-    "Version": "8.4",
-    "Platform": "Windows",
-    "Architecture": "x86",
     "Type": "7z",
     "Date": "04/25/2022",
-    "Size": 1682673,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.minimalist.7z"
+    "Size": 1784412,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.minimalist.arm64.7z"
   },
   {
     "Version": "8.4",
     "Platform": "Windows",
     "Architecture": "ARM64",
-    "Type": "7z",
+    "Type": "exe",
     "Date": "04/25/2022",
-    "Size": 1784412,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.minimalist.arm64.7z"
+    "Size": 4110904,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.Installer.arm64.exe"
+  },
+  {
+    "Version": "8.4",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "zip",
+    "Date": "04/25/2022",
+    "Size": 5138868,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.arm64.zip"
   },
   {
     "Version": "8.4",
@@ -93,10 +57,46 @@
     "Version": "8.4",
     "Platform": "Windows",
     "Architecture": "x64",
+    "Type": "exe",
+    "Date": "04/25/2022",
+    "Size": 4492824,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.Installer.x64.exe"
+  },
+  {
+    "Version": "8.4",
+    "Platform": "Windows",
+    "Architecture": "x64",
     "Type": "zip",
     "Date": "04/25/2022",
     "Size": 5427815,
     "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.x64.zip"
+  },
+  {
+    "Version": "8.4",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "7z",
+    "Date": "04/25/2022",
+    "Size": 3423543,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.7z"
+  },
+  {
+    "Version": "8.4",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "7z",
+    "Date": "04/25/2022",
+    "Size": 1682673,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.portable.minimalist.7z"
+  },
+  {
+    "Version": "8.4",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "04/25/2022",
+    "Size": 4259696,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4/npp.8.4.Installer.exe"
   },
   {
     "Version": "8.4",

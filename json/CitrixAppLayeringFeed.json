@@ -126,55 +126,6 @@
     "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1905.html"
   },
   {
-    "Version": "1908",
-    "Title": "Citrix App Layering 1908",
-    "Description": "New downloads are available for App Layering",
-    "Date": "08/27/2019",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1908.html"
-  },
-  {
-    "Version": "2112",
-    "Title": "Citrix App Layering 2112",
-    "Description": "New downloads are available for App Layering",
-    "Date": "12/15/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2112.html"
-  },
-  {
-    "Version": "2110",
-    "Title": "Citrix App Layering 2110",
-    "Description": "New downloads are available for App Layering",
-    "Date": "11/08/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2110.html"
-  },
-  {
-    "Version": "2107",
-    "Title": "Citrix App Layering 2107",
-    "Description": "New downloads are available for App Layering",
-    "Date": "08/19/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2107.html"
-  },
-  {
-    "Version": "2106",
-    "Title": "Citrix App Layering 2106",
-    "Description": "New downloads are available for App Layering",
-    "Date": "06/23/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2106.html"
-  },
-  {
-    "Version": "2104",
-    "Title": "Citrix App Layering 2104",
-    "Description": "New downloads are available for App Layering",
-    "Date": "04/15/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2104.html"
-  },
-  {
-    "Version": "2102",
-    "Title": "Citrix App Layering 2102",
-    "Description": "New downloads are available for App Layering",
-    "Date": "03/08/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2102.html"
-  },
-  {
     "Version": "1907",
     "Title": "Citrix App Layering 1907",
     "Description": "New downloads are available for App Layering",
@@ -182,46 +133,11 @@
     "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1907.html"
   },
   {
-    "Version": "2011",
-    "Title": "Citrix App Layering 2011",
+    "Version": "1908",
+    "Title": "Citrix App Layering 1908",
     "Description": "New downloads are available for App Layering",
-    "Date": "11/30/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2011.html"
-  },
-  {
-    "Version": "2008",
-    "Title": "Citrix App Layering 2008.3",
-    "Description": "New downloads are available for App Layering",
-    "Date": "09/18/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2008.html"
-  },
-  {
-    "Version": "2005",
-    "Title": "Citrix App Layering 2005",
-    "Description": "New downloads are available for App Layering",
-    "Date": "07/08/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2005.html"
-  },
-  {
-    "Version": "2003",
-    "Title": "Citrix App Layering 2003",
-    "Description": "New downloads are available for App Layering",
-    "Date": "03/26/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2003.html"
-  },
-  {
-    "Version": "2001",
-    "Title": "Citrix App Layering 2001",
-    "Description": "New downloads are available for App Layering",
-    "Date": "01/23/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2001.html"
-  },
-  {
-    "Version": "1911",
-    "Title": "Citrix App Layering 1911",
-    "Description": "New downloads are available for App Layering",
-    "Date": "11/22/2019",
-    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1911.html"
+    "Date": "08/27/2019",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1908.html"
   },
   {
     "Version": "1910",
@@ -231,11 +147,95 @@
     "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1910.html"
   },
   {
+    "Version": "1911",
+    "Title": "Citrix App Layering 1911",
+    "Description": "New downloads are available for App Layering",
+    "Date": "11/22/2019",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1911.html"
+  },
+  {
+    "Version": "2001",
+    "Title": "Citrix App Layering 2001",
+    "Description": "New downloads are available for App Layering",
+    "Date": "01/23/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2001.html"
+  },
+  {
+    "Version": "2003",
+    "Title": "Citrix App Layering 2003",
+    "Description": "New downloads are available for App Layering",
+    "Date": "03/26/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2003.html"
+  },
+  {
+    "Version": "2005",
+    "Title": "Citrix App Layering 2005",
+    "Description": "New downloads are available for App Layering",
+    "Date": "07/08/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2005.html"
+  },
+  {
+    "Version": "2008",
+    "Title": "Citrix App Layering 2008.3",
+    "Description": "New downloads are available for App Layering",
+    "Date": "09/18/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2008.html"
+  },
+  {
     "Version": "2009",
     "Title": "Citrix App Layering 2009",
     "Description": "New downloads are available for App Layering",
     "Date": "09/28/2020",
     "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2009.html"
+  },
+  {
+    "Version": "2011",
+    "Title": "Citrix App Layering 2011",
+    "Description": "New downloads are available for App Layering",
+    "Date": "11/30/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2011.html"
+  },
+  {
+    "Version": "2102",
+    "Title": "Citrix App Layering 2102",
+    "Description": "New downloads are available for App Layering",
+    "Date": "03/08/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2102.html"
+  },
+  {
+    "Version": "2104",
+    "Title": "Citrix App Layering 2104",
+    "Description": "New downloads are available for App Layering",
+    "Date": "04/15/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2104.html"
+  },
+  {
+    "Version": "2106",
+    "Title": "Citrix App Layering 2106",
+    "Description": "New downloads are available for App Layering",
+    "Date": "06/23/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2106.html"
+  },
+  {
+    "Version": "2107",
+    "Title": "Citrix App Layering 2107",
+    "Description": "New downloads are available for App Layering",
+    "Date": "08/19/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2107.html"
+  },
+  {
+    "Version": "2110",
+    "Title": "Citrix App Layering 2110",
+    "Description": "New downloads are available for App Layering",
+    "Date": "11/08/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2110.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix App Layering 2112",
+    "Description": "New downloads are available for App Layering",
+    "Date": "12/15/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2112.html"
   },
   {
     "Version": "2202",

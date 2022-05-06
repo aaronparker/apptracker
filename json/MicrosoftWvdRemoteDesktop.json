@@ -2,11 +2,29 @@
   {
     "Version": "1.2.3128.0",
     "Architecture": "ARM64",
+    "Channel": "Insider",
+    "Date": "04/26/2022",
+    "Size": "25989120",
+    "Filename": "RemoteDesktop_1.2.3128.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VpnG"
+  },
+  {
+    "Version": "1.2.3128.0",
+    "Architecture": "ARM64",
     "Channel": "Public",
     "Date": "04/26/2022",
     "Size": "25989120",
     "Filename": "RemoteDesktop_1.2.3128.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VpnG"
+  },
+  {
+    "Version": "1.2.3128.0",
+    "Architecture": "x64",
+    "Channel": "Insider",
+    "Date": "04/26/2022",
+    "Size": "24350720",
+    "Filename": "RemoteDesktop_1.2.3128.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VuRI"
   },
   {
     "Version": "1.2.3128.0",
@@ -20,7 +38,7 @@
   {
     "Version": "1.2.3128.0",
     "Architecture": "x86",
-    "Channel": "Public",
+    "Channel": "Insider",
     "Date": "04/26/2022",
     "Size": "22196224",
     "Filename": "RemoteDesktop_1.2.3128.0_x86.msi",
@@ -28,26 +46,8 @@
   },
   {
     "Version": "1.2.3128.0",
-    "Architecture": "ARM64",
-    "Channel": "Insider",
-    "Date": "04/26/2022",
-    "Size": "25989120",
-    "Filename": "RemoteDesktop_1.2.3128.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VpnG"
-  },
-  {
-    "Version": "1.2.3128.0",
-    "Architecture": "x64",
-    "Channel": "Insider",
-    "Date": "04/26/2022",
-    "Size": "24350720",
-    "Filename": "RemoteDesktop_1.2.3128.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VuRI"
-  },
-  {
-    "Version": "1.2.3128.0",
     "Architecture": "x86",
-    "Channel": "Insider",
+    "Channel": "Public",
     "Date": "04/26/2022",
     "Size": "22196224",
     "Filename": "RemoteDesktop_1.2.3128.0_x86.msi",

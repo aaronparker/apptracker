@@ -35,116 +35,25 @@
     "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-29500.html"
   },
   {
-    "Version": "2112",
-    "Title": "Citrix Workspace app 2112.1 Desktop Lock",
+    "Version": "2109",
+    "Title": "Citrix Workspace app 2109 Desktop Lock",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/17/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-21121.html"
-  },
-  {
-    "Version": "2112",
-    "Title": "Citrix Workspace app 2112 for Linux",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/09/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2112.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "Third Party Libraries for Citrix Workspace Browser",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/08/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/citrix-workspace-browser-third-party-library/third-party-libraries-for-citrix-workspace-browser.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "Resetting user's re-authentication period to a day",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/08/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/powershell-script/resetting-user-re-authentication-period.html"
-  },
-  {
-    "Version": "2112",
-    "Title": "Citrix Workspace app 2112 for Mac",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/07/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2112.html"
-  },
-  {
-    "Version": "2112",
-    "Title": "Citrix Workspace app 2112 for HTML5",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/07/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2112.html"
-  },
-  {
-    "Version": "2112",
-    "Title": "Citrix Workspace app 2112 for Chrome OS",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "12/06/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2112.html"
-  },
-  {
-    "Version": "2111",
-    "Title": "Citrix Workspace app 2111 for Mac",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "11/20/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2111.html"
-  },
-  {
-    "Version": "2111",
-    "Title": "Citrix Workspace app 2111 for HTML5",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "11/16/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2111.html"
-  },
-  {
-    "Version": "2111",
-    "Title": "Citrix Workspace app 2111.1 for HTML5",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "11/16/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-21111.html"
-  },
-  {
-    "Version": "2111",
-    "Title": "Citrix Workspace app 2111.1 for Chrome OS",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "11/12/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-21111.html"
-  },
-  {
-    "Version": "2111",
-    "Title": "Citrix Workspace app 2111 for Chrome OS",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "11/11/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2111.html"
-  },
-  {
-    "Version": "2111",
-    "Title": "Citrix Workspace app 2111 for Linux",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "11/09/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2111.html"
-  },
-  {
-    "Version": "2110",
-    "Title": "Citrix Workspace app 2110 for HTML5",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/20/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2110.html"
-  },
-  {
-    "Version": "2110",
-    "Title": "Citrix Workspace app 2110 for Chrome OS",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/13/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2110.html"
+    "Date": "09/29/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2109.html"
   },
   {
     "Version": "2109",
-    "Title": "Citrix Workspace app 2109.1 for Mac",
+    "Title": "Citrix Workspace app 2109 for Linux",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/05/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-21091.html"
+    "Date": "09/28/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2109.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Citrix Workspace app 2109 for Windows ",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "09/29/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2109.html"
   },
   {
     "Version": "2109",
@@ -155,31 +64,101 @@
   },
   {
     "Version": "2109",
-    "Title": "Fast Connect API for Citrix Workspace app 2109.1 for Windows",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/04/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21091.html"
-  },
-  {
-    "Version": "2109",
     "Title": "Citrix Workspace app 2109.1 for Windows ",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "10/04/2021",
     "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21091.html"
   },
   {
-    "Version": "2109",
-    "Title": "Citrix Workspace app 2109 for Windows ",
+    "Version": "2110",
+    "Title": "Citrix Workspace app 2110 for Chrome OS",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2109.html"
+    "Date": "10/13/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2110.html"
+  },
+  {
+    "Version": "2110",
+    "Title": "Citrix Workspace app 2110 for HTML5",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "10/20/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2110.html"
+  },
+  {
+    "Version": "2111",
+    "Title": "Citrix Workspace app 2111 for Chrome OS",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "11/11/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2111.html"
+  },
+  {
+    "Version": "2111",
+    "Title": "Citrix Workspace app 2111 for HTML5",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "11/16/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2111.html"
+  },
+  {
+    "Version": "2111",
+    "Title": "Citrix Workspace app 2111 for Linux",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "11/09/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2111.html"
+  },
+  {
+    "Version": "2111",
+    "Title": "Citrix Workspace app 2111 for Mac",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "11/20/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2111.html"
+  },
+  {
+    "Version": "2111",
+    "Title": "Citrix Workspace app 2111.1 for Chrome OS",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "11/12/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-21111.html"
+  },
+  {
+    "Version": "2111",
+    "Title": "Citrix Workspace app 2111.1 for HTML5",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "11/16/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-21111.html"
   },
   {
     "Version": "2112",
-    "Title": "Fast Connect API for Citrix Workspace app 2112.1 for Windows",
+    "Title": "Citrix Workspace app 2112 for Chrome OS",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/06/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Workspace app 2112 for HTML5",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/07/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Workspace app 2112 for Linux",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/09/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Workspace app 2112 for Mac",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/07/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2112.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Citrix Workspace app 2112.1 Desktop Lock",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "12/17/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21121.html"
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-21121.html"
   },
   {
     "Version": "2112",
@@ -196,116 +175,25 @@
     "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2201.html"
   },
   {
-    "Version": "2109",
-    "Title": "Citrix Workspace app 2109 Desktop Lock",
+    "Version": "2201",
+    "Title": "Citrix Workspace app 2201 for HTML5",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2109.html"
+    "Date": "01/25/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2201.html"
   },
   {
-    "Version": "2204",
-    "Title": "Citrix Workspace app 2204 for Mac",
+    "Version": "2201",
+    "Title": "Citrix Workspace app 2201 for Mac",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/27/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html"
-  },
-  {
-    "Version": "2203",
-    "Title": "Citrix Workspace app 2203 for Mac",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/27/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest-2203.html"
-  },
-  {
-    "Version": "2205",
-    "Title": "Citrix Workspace app 2205 for Windows Technology Preview",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/26/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-windows.html"
-  },
-  {
-    "Version": "2204",
-    "Title": "Citrix Workspace app for Linux 2204 - Technology Preview ",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/12/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-linux.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "HDX RealTime Media Engine for Microsoft Skype® for Business",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/08/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine.html"
-  },
-  {
-    "Version": "Unknown",
-    "Title": "HDX RealTime Media Engine (latest LTSR CU version) for Microsoft Skype® for Business",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/08/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-ltsrcu-latest.html"
-  },
-  {
-    "Version": "2204",
-    "Title": "Citrix Workspace app 2204.1 for Windows",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html"
-  },
-  {
-    "Version": "2203",
-    "Title": "Citrix Workspace app for Windows LTSR 2203.1",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR.html"
-  },
-  {
-    "Version": "2204",
-    "Title": "Fast Connect API for Citrix Workspace app 2204.1 for Windows",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2204.html"
-  },
-  {
-    "Version": "2204",
-    "Title": "Citrix Workspace app 2204.1 Desktop Lock",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2204.html"
-  },
-  {
-    "Version": "2203",
-    "Title": "Citrix Workspace app 2203.2 for HTML5",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/04/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-latest.html"
-  },
-  {
-    "Version": "2203",
-    "Title": "Citrix Workspace app 2203.2 for Chrome OS",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/04/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-latest.html"
-  },
-  {
-    "Version": "2203",
-    "Title": "Citrix Workspace app 2203 for Linux",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "03/15/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html"
-  },
-  {
-    "Version": "1912",
-    "Title": "Citrix Workspace app for Windows LTSR 1912 CU7 Technology Preview",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "03/11/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-windows-LTSR-cu.html"
+    "Date": "01/13/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2201.html"
   },
   {
     "Version": "2202",
-    "Title": "Citrix Workspace app 2202.1 for Chrome OS",
+    "Title": "Citrix Workspace app 2202 Desktop Lock",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "02/18/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-22021.html"
+    "Date": "02/07/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2202.html"
   },
   {
     "Version": "2202",
@@ -323,10 +211,115 @@
   },
   {
     "Version": "2202",
-    "Title": "Citrix Workspace app 2202 Desktop Lock",
+    "Title": "Citrix Workspace app 2202 for Windows ",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "02/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2202.html"
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2202.html"
+  },
+  {
+    "Version": "2202",
+    "Title": "Citrix Workspace app 2202.1 for Chrome OS",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "02/18/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-22021.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app 2203 for Linux",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "03/15/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app 2203 for Mac",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/27/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest-2203.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app 2203.2 for Chrome OS",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/04/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-latest.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app 2203.2 for HTML5",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/04/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-latest.html"
+  },
+  {
+    "Version": "2204",
+    "Title": "Citrix Workspace app 2204 for Mac",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/27/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html"
+  },
+  {
+    "Version": "2204",
+    "Title": "Citrix Workspace app 2204.1 Desktop Lock",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/07/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2204.html"
+  },
+  {
+    "Version": "2204",
+    "Title": "Citrix Workspace app 2204.1 for Windows",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/07/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html"
+  },
+  {
+    "Version": "2205",
+    "Title": "Citrix Workspace app 2205 for Windows Technology Preview",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/26/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-windows.html"
+  },
+  {
+    "Version": "2204",
+    "Title": "Citrix Workspace app for Linux 2204 - Technology Preview ",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/12/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-linux.html"
+  },
+  {
+    "Version": "1912",
+    "Title": "Citrix Workspace app for Windows LTSR 1912 CU7 Technology Preview",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "03/11/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-windows-LTSR-cu.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app for Windows LTSR 2203.1",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "04/07/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Fast Connect API for Citrix Workspace app 2109 for Windows",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "09/29/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2109.html"
+  },
+  {
+    "Version": "2109",
+    "Title": "Fast Connect API for Citrix Workspace app 2109.1 for Windows",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "10/04/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21091.html"
+  },
+  {
+    "Version": "2112",
+    "Title": "Fast Connect API for Citrix Workspace app 2112.1 for Windows",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/17/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21121.html"
   },
   {
     "Version": "2202",
@@ -336,31 +329,38 @@
     "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2202.html"
   },
   {
-    "Version": "2202",
-    "Title": "Citrix Workspace app 2202 for Windows ",
+    "Version": "2204",
+    "Title": "Fast Connect API for Citrix Workspace app 2204.1 for Windows",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "02/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2202.html"
+    "Date": "04/07/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2204.html"
   },
   {
-    "Version": "2201",
-    "Title": "Citrix Workspace app 2201 for HTML5",
+    "Version": "Unknown",
+    "Title": "HDX RealTime Media Engine (latest LTSR CU version) for Microsoft Skype® for Business",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "01/25/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2201.html"
+    "Date": "04/08/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-ltsrcu-latest.html"
   },
   {
-    "Version": "2201",
-    "Title": "Citrix Workspace app 2201 for Mac",
+    "Version": "Unknown",
+    "Title": "HDX RealTime Media Engine for Microsoft Skype® for Business",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "01/13/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2201.html"
+    "Date": "04/08/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine.html"
   },
   {
-    "Version": "2109",
-    "Title": "Fast Connect API for Citrix Workspace app 2109 for Windows",
+    "Version": "Unknown",
+    "Title": "Resetting user's re-authentication period to a day",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2109.html"
+    "Date": "12/08/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/powershell-script/resetting-user-re-authentication-period.html"
+  },
+  {
+    "Version": "Unknown",
+    "Title": "Third Party Libraries for Citrix Workspace Browser",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "12/08/2021",
+    "URI": "https://www.citrix.com/downloads/workspace-app/citrix-workspace-browser-third-party-library/third-party-libraries-for-citrix-workspace-browser.html"
   }
 ]

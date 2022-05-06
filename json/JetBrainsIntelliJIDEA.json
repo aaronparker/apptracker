@@ -1,21 +1,21 @@
 [
   {
     "Version": "2022.1",
-    "Build": "221.5080.251",
-    "Edition": "IntelliJ IDEA Edu",
-    "Date": "04/28/2022",
-    "Size": 687056352,
-    "Sha256": "https://download.jetbrains.com/idea/ideaIE-2022.1.exe.sha256",
-    "URI": "https://download.jetbrains.com/idea/ideaIE-2022.1.exe"
-  },
-  {
-    "Version": "2022.1",
     "Build": "221.5080.210",
     "Edition": "IntelliJ IDEA Community",
     "Date": "04/12/2022",
     "Size": 620701320,
     "Sha256": "https://download.jetbrains.com/idea/ideaIC-2022.1.exe.sha256",
     "URI": "https://download.jetbrains.com/idea/ideaIC-2022.1.exe"
+  },
+  {
+    "Version": "2022.1",
+    "Build": "221.5080.251",
+    "Edition": "IntelliJ IDEA Edu",
+    "Date": "04/28/2022",
+    "Size": 687056352,
+    "Sha256": "https://download.jetbrains.com/idea/ideaIE-2022.1.exe.sha256",
+    "URI": "https://download.jetbrains.com/idea/ideaIE-2022.1.exe"
   },
   {
     "Version": "2022.1",
