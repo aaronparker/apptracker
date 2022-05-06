@@ -2,14 +2,14 @@
   {
     "Version": "5.10.4.5035",
     "Platform": "Windows",
-    "Type": "Exe",
-    "URI": "https://cdn.zoom.us/prod/5.10.4.5035/ZoomInstaller.exe"
+    "Type": "Msi",
+    "URI": "https://cdn.zoom.us/prod/5.10.4.5035/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.10.4.5035",
     "Platform": "Windows",
-    "Type": "Msi",
-    "URI": "https://cdn.zoom.us/prod/5.10.4.5035/ZoomInstallerFull.msi"
+    "Type": "Exe",
+    "URI": "https://cdn.zoom.us/prod/5.10.4.5035/ZoomInstaller.exe"
   },
   {
     "Version": "5.10.3.1320",
@@ -37,12 +37,6 @@
   },
   {
     "Version": "Latest",
-    "Platform": "Citrix",
-    "Type": "Client",
-    "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
-  },
-  {
-    "Version": "Latest",
     "Platform": "VMware",
     "Type": "Client",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi"
@@ -52,5 +46,11 @@
     "Platform": "VDI",
     "Type": "Host",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi"
+  },
+  {
+    "Version": "Latest",
+    "Platform": "Citrix",
+    "Type": "Client",
+    "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
   }
 ]

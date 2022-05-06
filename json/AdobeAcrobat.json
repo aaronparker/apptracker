@@ -5,8 +5,8 @@
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
-    "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112.msp"
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcroRdrDCx64Upd2200120112.msp"
   },
   {
     "Version": "22.001.20112",
@@ -23,17 +23,8 @@
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
-    "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcroRdrDCx64Upd2200120112.msp"
-  },
-  {
-    "Version": "22.001.20112",
-    "Type": "Update",
-    "Product": "Acrobat",
-    "Track": "DC",
-    "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCUpd2200120112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112.msp"
   },
   {
     "Version": "22.001.20112",
@@ -43,6 +34,15 @@
     "Language": "Neutral",
     "Architecture": "x64",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCx64Upd2200120112.msp"
+  },
+  {
+    "Version": "22.001.20112",
+    "Type": "Update",
+    "Product": "Acrobat",
+    "Track": "DC",
+    "Language": "Neutral",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCUpd2200120112.msp"
   },
   {
     "Version": "20.005.30331",

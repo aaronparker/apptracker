@@ -218,17 +218,17 @@
   },
   {
     "Version": "2.6.6",
-    "Title": "Receiver 2.6.6 for HTML5",
-    "Description": "New downloads are available for Citrix Receiver",
-    "Date": "04/18/2018",
-    "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-266.html"
-  },
-  {
-    "Version": "2.6.6",
     "Title": "Receiver 2.6.6 for Chrome",
     "Description": "New downloads are available for Citrix Receiver",
     "Date": "04/18/2018",
     "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-266.html"
+  },
+  {
+    "Version": "2.6.6",
+    "Title": "Receiver 2.6.6 for HTML5",
+    "Description": "New downloads are available for Citrix Receiver",
+    "Date": "04/18/2018",
+    "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-266.html"
   },
   {
     "Version": "2.6.5",
@@ -253,24 +253,17 @@
   },
   {
     "Version": "2.6.3",
-    "Title": "Receiver 2.6.3 for Chrome",
-    "Description": "New downloads are available for Citrix Receiver",
-    "Date": "02/14/2018",
-    "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-263.html"
-  },
-  {
-    "Version": "2.6.3",
     "Title": "Receiver 2.6.3 for HTML5",
     "Description": "New downloads are available for Citrix Receiver",
     "Date": "02/14/2018",
     "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-263.html"
   },
   {
-    "Version": "2.6.2",
-    "Title": "Receiver 2.6.2 for Chrome",
+    "Version": "2.6.3",
+    "Title": "Receiver 2.6.3 for Chrome",
     "Description": "New downloads are available for Citrix Receiver",
-    "Date": "01/23/2018",
-    "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-262.html"
+    "Date": "02/14/2018",
+    "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-263.html"
   },
   {
     "Version": "2.6.2",
@@ -278,5 +271,12 @@
     "Description": "New downloads are available for Citrix Receiver",
     "Date": "01/23/2018",
     "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-262.html"
+  },
+  {
+    "Version": "2.6.2",
+    "Title": "Receiver 2.6.2 for Chrome",
+    "Description": "New downloads are available for Citrix Receiver",
+    "Date": "01/23/2018",
+    "URI": "https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-262.html"
   }
 ]
