@@ -1,4 +1,9 @@
 {
-  "Version": "RateLimited",
-  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+  "Version": "4.4.160",
+  "Platform": "Windows",
+  "Architecture": "x86",
+  "Type": "exe",
+  "Date": "09/26/2020",
+  "Size": 7571456,
+  "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.160/OpenShellSetup_4_4_160.exe"
 }

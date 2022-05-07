@@ -176,13 +176,6 @@
   },
   {
     "Version": "2103",
-    "Title": "Citrix Virtual Apps and Desktops 7 2103, All Editions",
-    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
-    "Date": "03/17/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2103.html"
-  },
-  {
-    "Version": "2103",
     "Title": "Citrix Virtual Apps and Desktops 7 2103, Premium Edition Components",
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "03/17/2021",
@@ -334,6 +327,13 @@
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "03/09/2022",
     "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu5.html"
+  },
+  {
+    "Version": "2103",
+    "Title": "Citrix Virtual Desktops 7 2103, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "03/17/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2103.html"
   },
   {
     "Version": "2106",
