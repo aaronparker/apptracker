@@ -7,6 +7,10 @@ env:
 # Controls when the action will run. 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ./Update-Versions.ps1
+      - .github/workflows/update-versions.yml
 
 jobs:
   update-pwsh:
