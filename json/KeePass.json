@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2.50",
+    "Version": "2.51",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/keepass/KeePass%202.x/2.50/KeePass-2.50-Setup.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/keepass/KeePass%202.x/2.51/KeePass-2.51-Setup.exe"
   },
   {
-    "Version": "2.50",
+    "Version": "2.51",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://nchc.dl.sourceforge.net/project/keepass/KeePass%202.x/2.50/KeePass-2.50.msi"
+    "URI": "https://nchc.dl.sourceforge.net/project/keepass/KeePass%202.x/2.51/KeePass-2.51.msi"
   }
 ]
