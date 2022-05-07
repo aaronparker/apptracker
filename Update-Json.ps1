@@ -36,11 +36,12 @@ if (Test-PSCore) {
     Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
         ForEach-Object { 
         $Output = Get-EvergreenApp -Name $_ -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
-        If ($Null -ne $Output) {
+        if ($Null -ne $Output) {
             $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
                 ConvertTo-Json | `
                 Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8" -Verbose
         }
+        Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
     }
 }
 else {
@@ -48,11 +49,12 @@ else {
     foreach ($file in (Get-ChildItem -Path $Path -Filter "*.json")) {
         if ($file.Length -eq 0) {
             $Output = Get-EvergreenApp -Name $file.BaseName -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
-            If ($Null -ne $Output) {
+            if ($Null -ne $Output) {
                 $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
                     ConvertTo-Json | `
                     Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Force -Verbose
             }
+            Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
     }
 }
