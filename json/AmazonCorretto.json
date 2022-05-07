@@ -28,13 +28,6 @@
     "URI": "https://corretto.aws/downloads/resources/8.332.08.1/amazon-corretto-8.332.08.1-windows-x86-jre.zip"
   },
   {
-    "Version": "16.0.2.7.1",
-    "Architecture": "x64",
-    "JDK": "16",
-    "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/16.0.2.7.1/amazon-corretto-16.0.2.7.1-windows-x64.msi"
-  },
-  {
     "Version": "15.0.2.7.1",
     "Architecture": "x64",
     "JDK": "15",
@@ -54,6 +47,13 @@
     "JDK": "11",
     "Type": "msi",
     "URI": "https://corretto.aws/downloads/resources/11.0.15.9.1/amazon-corretto-11.0.15.9.1-windows-x64.msi"
+  },
+  {
+    "Version": "16.0.2.7.1",
+    "Architecture": "x64",
+    "JDK": "16",
+    "Type": "msi",
+    "URI": "https://corretto.aws/downloads/resources/16.0.2.7.1/amazon-corretto-16.0.2.7.1-windows-x64.msi"
   },
   {
     "Version": "11.0.15.9.1",
