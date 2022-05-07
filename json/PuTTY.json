@@ -3,21 +3,21 @@
     "Version": "0.76",
     "Architecture": "ARM64",
     "Type": "msi",
-    "Date": "2022-05-07T03:21:29.6603488+00:00",
+    "Date": "2022-05-07T04:14:35.5759224+00:00",
     "URI": "https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.76-installer.msi"
   },
   {
     "Version": "0.76",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "2022-05-07T03:21:29.6603488+00:00",
+    "Date": "2022-05-07T04:14:35.5759224+00:00",
     "URI": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi"
   },
   {
     "Version": "0.76",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "2022-05-07T03:21:29.6603488+00:00",
+    "Date": "2022-05-07T04:14:35.5759224+00:00",
     "URI": "https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.76-installer.msi"
   }
 ]
