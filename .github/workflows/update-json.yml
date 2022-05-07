@@ -1,4 +1,4 @@
-name: test-output
+name: update-json
 
 # Environment variables
 env:
@@ -10,7 +10,7 @@ on:
   push:
     paths:
       - ./Update-Versions.ps1
-      - .github/workflows/update-versions.yml
+      - .github/workflows/update-json.yml
 
 jobs:
   update-pwsh:
