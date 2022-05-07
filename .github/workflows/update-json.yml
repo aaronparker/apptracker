@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - ./Update-Versions.ps1
+      - ./Update-Json.ps1
       - .github/workflows/update-json.yml
 
 jobs:
@@ -44,10 +44,10 @@ jobs:
           git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
       # Run Pester tests
-      - name: Update versions
+      - name: Update Json
         shell: pwsh
         run: |
-          . "${{ github.workspace }}/Update-Versions.ps1" -Path "${{ github.workspace }}/json"
+          . "${{ github.workspace }}/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
       # Format the date number for the commit message
       - name: Get date
@@ -84,7 +84,7 @@ jobs:
             ref: main
 
         # Run Pester tests
-        - name: Update versions
+        - name: Git pull
           shell: powershell
           run: |
             git config --global core.safecrlf false
@@ -113,10 +113,10 @@ jobs:
             git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
         # Run Pester tests
-        - name: Update versions
+        - name: Update Json
           shell: powershell
           run: |
-            . "${{ github.workspace }}/Update-Versions.ps1" -Path "${{ github.workspace }}/json"
+            . "${{ github.workspace }}/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
         # Format the date number for the commit message
         - name: Get date
