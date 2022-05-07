@@ -8,6 +8,7 @@ env:
 on:
   workflow_dispatch:
   push:
+    branches: [ main ]
     paths:
       - ./Update-Json.ps1
       - .github/workflows/update-json.yml
