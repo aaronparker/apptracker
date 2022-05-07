@@ -37,7 +37,7 @@ if (Test-PSCore) {
         ForEach-Object { 
         $Output = Get-EvergreenApp -Name $_ -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
         if ($Null -ne $Output) {
-            $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+            $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
                 ConvertTo-Json | `
                 Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8" -Verbose
         }
@@ -50,7 +50,7 @@ else {
         if ($file.Length -eq 0) {
             $Output = Get-EvergreenApp -Name $file.BaseName -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
             if ($Null -ne $Output) {
-                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
                     ConvertTo-Json | `
                     Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Force -Verbose
             }
