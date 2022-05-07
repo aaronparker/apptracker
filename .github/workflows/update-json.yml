@@ -12,6 +12,8 @@ on:
     paths:
       - ./Update-Json.ps1
       - .github/workflows/update-json.yml
+  schedule:
+    - cron: '15 1 * * *'
 
 jobs:
   update-pwsh:
