@@ -28,7 +28,7 @@ jobs:
         id: psmodulecache
         uses: potatoqualitee/psmodulecache@v4.5
         with:
-          modules-to-cache: Evergreen
+          modules-to-cache: Evergreen:2205.549
           shell: pwsh
 
       # Import GPG key
