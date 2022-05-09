@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.6",
+    "Version": "1.5",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "11/02/2018",
-    "Size": 3525307,
-    "URI": "https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe"
+    "Date": "08/18/2015",
+    "Size": 2326953,
+    "URI": "https://github.com/stedolan/jq/releases/download/jq-1.5/jq-win64.exe"
   },
   {
-    "Version": "1.6",
+    "Version": "1.5",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "11/02/2018",
-    "Size": 2711358,
-    "URI": "https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win32.exe"
+    "Date": "08/18/2015",
+    "Size": 1220806,
+    "URI": "https://github.com/stedolan/jq/releases/download/jq-1.5/jq-win32.exe"
   }
 ]

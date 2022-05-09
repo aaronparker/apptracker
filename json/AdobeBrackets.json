@@ -1,9 +1,9 @@
 {
-  "Version": "1.14.2",
+  "Version": "1.11",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "msi",
-  "Date": "03/27/2020",
-  "Size": 80896000,
-  "URI": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi"
+  "Date": "09/20/2017",
+  "Size": 71892992,
+  "URI": "https://github.com/adobe/brackets/releases/download/release-1.11/Brackets.Release.1.11.msi"
 }
