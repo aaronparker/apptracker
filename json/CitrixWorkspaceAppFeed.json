@@ -225,14 +225,14 @@
   },
   {
     "Version": "2203",
-    "Title": "Citrix Workspace app 2203 for Linux",
+    "Title": "Citrix Workspace app 2203 for Mac",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "03/15/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html"
+    "Date": "04/27/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/Workspace-app-2203-for-Mac.html"
   },
   {
     "Version": "2203",
-    "Title": "Citrix Workspace app 2203 for Mac",
+    "Title": "Citrix Workspace app 2203.1 for Mac",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "04/27/2022",
     "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest-2203.html"
@@ -274,6 +274,13 @@
   },
   {
     "Version": "2205",
+    "Title": "Citrix Workspace app 2205 for Linux",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "05/11/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html"
+  },
+  {
+    "Version": "2205",
     "Title": "Citrix Workspace app 2205 for Windows Technology Preview",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "04/26/2022",
@@ -299,13 +306,6 @@
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "04/07/2022",
     "URI": "https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR.html"
-  },
-  {
-    "Version": "2109",
-    "Title": "Fast Connect API for Citrix Workspace app 2109 for Windows",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "09/29/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2109.html"
   },
   {
     "Version": "2109",
