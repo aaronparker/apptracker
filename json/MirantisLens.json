@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.5.0-beta.0.20220505.1",
+    "Version": "5.5.0-beta.1.20220513.1",
     "Architecture": "x64",
     "Release": "Alpha",
-    "Date": "2022-05-05T13:44:11.743Z",
-    "Size": 279425816,
-    "Sha512": "EhibAm9pU77+LMWw3/5a1pkbDUCvCkhFIKUNDhk7LOCmwDU1JvMnrPCLLlTl2gqqWh1hy3DXwvKI0Nh3/DOFpw==",
-    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-beta.0.20220505.1.exe"
+    "Date": "2022-05-13T18:27:28.332Z",
+    "Size": 248311856,
+    "Sha512": "dbOYXRVrY6NgyPfpcHi2vSYP6ieXpEHGILhCHFp7+zI2QRDgfJthYoDAkAGYa+Rf3yOmgS/0F7CGeWYRTxmHcw==",
+    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-beta.1.20220513.1.exe"
   },
   {
     "Version": "5.4.6-latest.20220428.1",
