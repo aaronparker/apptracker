@@ -242,14 +242,7 @@
     "Title": "Citrix Gateway (Maintenance Phase) 12.1 Build 62.21/62.27",
     "Description": "New downloads are available for Citrix Gateway",
     "Date": "07/19/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-gateway/product-software/netscaler-gateway-121-build-6221.html"
-  },
-  {
-    "Version": "12.1",
-    "Title": "Citrix Gateway (Maintenance Phase) 12.1 Build 63.22",
-    "Description": "New downloads are available for Citrix Gateway",
-    "Date": "10/20/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-6322.html"
+    "URI": "https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-6221.html"
   },
   {
     "Version": "12.1",
@@ -418,6 +411,13 @@
     "Description": "New downloads are available for Citrix Gateway",
     "Date": "05/01/2015",
     "URI": "https://www.citrix.com/downloads/citrix-gateway/earlier-versions/enterprise-edition-100-appliance-software.html"
+  },
+  {
+    "Version": "9.3",
+    "Title": "9.3 Enterprise Edition - Appliance Software",
+    "Description": "New downloads are available for Citrix Gateway",
+    "Date": "04/29/2015",
+    "URI": "https://www.citrix.com/downloads/citrix-gateway/earlier-versions/enterprise-edition-93-appliance-software.html"
   },
   {
     "Version": "Unknown",

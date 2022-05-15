@@ -1,20 +1,12 @@
 [
   {
-    "Version": "0.9.5",
-    "Platform": "Windows",
+    "Version": "10.10.0.0",
     "Architecture": "x64",
-    "Type": "exe",
-    "Date": "05/02/2022",
-    "Size": 118988403,
-    "URI": "https://github.com/gephi/gephi/releases/download/v0.9.5/gephi-0.9.5-windows-x64.exe"
+    "URI": "https://totalcommander.ch/win/tcmd101000x64.exe"
   },
   {
-    "Version": "0.9.5",
-    "Platform": "Windows",
+    "Version": "10.10.0.0",
     "Architecture": "x86",
-    "Type": "exe",
-    "Date": "05/02/2022",
-    "Size": 114929322,
-    "URI": "https://github.com/gephi/gephi/releases/download/v0.9.5/gephi-0.9.5-windows-x32.exe"
+    "URI": "https://totalcommander.ch/win/tcmd101000x32.exe"
   }
 ]
