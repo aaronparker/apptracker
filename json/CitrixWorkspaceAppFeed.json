@@ -1,17 +1,17 @@
 [
   {
-    "Version": "22.4.6",
-    "Title": "Citrix Workspace app 22.4.6 for iOS",
+    "Version": "22.5.0",
+    "Title": "Citrix Workspace app 22.5.0 for Android",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/29/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/ios/workspace-app-for-ios-2246.html"
+    "Date": "05/16/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/android/workspace-app-for-android.html"
   },
   {
-    "Version": "22.4.0",
-    "Title": "Citrix Workspace app 22.4.0 for Android",
+    "Version": "22.5.0",
+    "Title": "Citrix Workspace app 22.5.0 for iOS",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/13/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/android/workspace-app-for-android.html"
+    "Date": "05/11/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/ios/workspace-app-for-ios-2250.html"
   },
   {
     "Version": "19.12.7000",
@@ -47,13 +47,6 @@
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "10/05/2021",
     "URI": "https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-21091.html"
-  },
-  {
-    "Version": "2109",
-    "Title": "Citrix Workspace app 2109.1 for Windows ",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/04/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21091.html"
   },
   {
     "Version": "2110",
@@ -263,7 +256,14 @@
     "Title": "Citrix Workspace app 2204.1 for Windows",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "04/07/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html"
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-22041.html"
+  },
+  {
+    "Version": "2205",
+    "Title": "Citrix Workspace app 2205 Desktop Lock",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "05/16/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2205ex.html"
   },
   {
     "Version": "2205",
@@ -274,10 +274,10 @@
   },
   {
     "Version": "2205",
-    "Title": "Citrix Workspace app 2205 for Windows Technology Preview",
+    "Title": "Citrix Workspace app 2205 for Windows",
     "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "04/26/2022",
-    "URI": "https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-windows.html"
+    "Date": "05/16/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html"
   },
   {
     "Version": "2204",
@@ -301,13 +301,6 @@
     "URI": "https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR.html"
   },
   {
-    "Version": "2109",
-    "Title": "Fast Connect API for Citrix Workspace app 2109.1 for Windows",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/04/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21091.html"
-  },
-  {
     "Version": "2112",
     "Title": "Fast Connect API for Citrix Workspace app 2112.1 for Windows",
     "Description": "New downloads are available for Citrix Workspace App",
@@ -327,6 +320,13 @@
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "04/07/2022",
     "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2204.html"
+  },
+  {
+    "Version": "2205",
+    "Title": "Fast Connect API for Citrix Workspace app 2205 for Windows",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "05/16/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-22051.html"
   },
   {
     "Version": "Unknown",

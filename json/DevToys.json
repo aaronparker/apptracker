@@ -1,9 +1,9 @@
 {
-  "Version": "1.0.6.0",
+  "Version": "1.0.7.0",
   "Platform": "Windows",
   "Architecture": "x86",
-  "Type": "Msixbundle",
-  "Date": "04/03/2022",
-  "Size": 164235803,
-  "URI": "https://github.com/veler/DevToys/releases/download/v1.0.6.0/64360VelerSoftware.DevToys_1.0.6.0_neutral___j80j2txgjg9dj.Msixbundle"
+  "Type": "msixbundle",
+  "Date": "05/14/2022",
+  "Size": 164335443,
+  "URI": "https://github.com/veler/DevToys/releases/download/v1.0.7.0/64360VelerSoftware.DevToys_1.0.7.0_neutral_._j80j2txgjg9dj.msixbundle"
 }

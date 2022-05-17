@@ -1,56 +1,56 @@
 [
   {
-    "Version": "4.11.0",
+    "Version": "4.12.0",
     "Architecture": "x64",
-    "Date": "2022-02-15T18:57:07.108Z",
-    "Size": 71376192,
-    "MD5": "fba3b7dfceb35fa94cf855ad0c8363c6",
-    "Sha256": "0b4890b2b1782c91ae2de2f77a2f6c5cecb9b54729565771f5301c1fc60fa024",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_4.11.0-Windows-x86_64.exe"
+    "Date": "2022-05-16T19:57:24.556Z",
+    "Size": 72311592,
+    "MD5": "a7a3fdb0de9e69087cc969f501cdd0d5",
+    "Sha256": "b221ccdb2bbc5a8209a292f858ae05fd87f882f79be75b37d26faa881523c057",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86_64.exe"
   },
   {
-    "Version": "4.11.0",
+    "Version": "4.12.0",
     "Architecture": "x64",
-    "Date": "2022-02-15T18:57:07.184Z",
-    "Size": 73167944,
-    "MD5": "c9c39bfd69ba79cab9cf7a122c86340a",
-    "Sha256": "29d8d1720034df262b079514e5f200140f7303b37bfe90ae8a2b40b8f294d2d8",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_4.11.0-Windows-x86_64.exe"
+    "Date": "2022-05-16T19:57:25.381Z",
+    "Size": 74002632,
+    "MD5": "40ec9cc634375a21d13f64356567b3b5",
+    "Sha256": "94f24e52e316fa935ccf94b0c504ceca8e6abc6190c68378e18550c95bb7cee1",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86_64.exe"
   },
   {
-    "Version": "4.11.0",
+    "Version": "4.12.0",
     "Architecture": "x64",
-    "Date": "2022-02-15T18:57:08.14Z",
-    "Size": 73787936,
-    "MD5": "4ef035d64939116219655fad60bdd9db",
-    "Sha256": "6013152b169c2c2d4bcd75bb03a1b8bf208b8545d69116a59351af695d9a0081",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_4.11.0-Windows-x86_64.exe"
+    "Date": "2022-05-16T19:57:25.601Z",
+    "Size": 74687656,
+    "MD5": "db94d2476895f7a838a89a396ac75a0b",
+    "Sha256": "1acbc2e8277ddd54a5f724896c7edee112d068529588d944702966c867e7e9cc",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe"
   },
   {
-    "Version": "4.11.0",
+    "Version": "4.12.0",
     "Architecture": "x86",
-    "Date": "2022-02-15T18:57:07.353Z",
-    "Size": 67269008,
-    "MD5": "97ce54a670ecf691cc5a79757b6a9a62",
-    "Sha256": "64a18114bc66aaa73f431ef8ca1edc7b16ad5564a16e18f13e1a69272d85ca5d",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_4.11.0-Windows-x86.exe"
+    "Date": "2022-05-16T19:57:25.082Z",
+    "Size": 68643808,
+    "MD5": "8e93fdd25b917421db92dd7c7882f1d1",
+    "Sha256": "a6af674b984a333b53aaf99043f6af4f50b0bb2ab78e0b732aa60c47bbfb0704",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86.exe"
   },
   {
-    "Version": "4.11.0",
+    "Version": "4.12.0",
     "Architecture": "x86",
-    "Date": "2022-02-15T18:57:07.509Z",
-    "Size": 68811552,
-    "MD5": "8a18c9b9d5d68950f87eb3513294968c",
-    "Sha256": "df115c77915519a9a4de9c04ca26f81703be6ac0344762023557fc7659659ac0",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_4.11.0-Windows-x86.exe"
+    "Date": "2022-05-16T19:57:24.66Z",
+    "Size": 70068144,
+    "MD5": "00ddd3da3f79855148176a1fc244dc51",
+    "Sha256": "60cc5874b3cce9d80a38fb2b28df96d880e8e95d1b5848b15c20f1181e2807db",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86.exe"
   },
   {
-    "Version": "4.11.0",
+    "Version": "4.12.0",
     "Architecture": "x86",
-    "Date": "2022-02-15T18:57:07.582Z",
-    "Size": 69767264,
-    "MD5": "7b0dccdf21484438dc076a69429ae81f",
-    "Sha256": "12a3a7e8aab7a974705ea4ee5bfc44f7c733241dd1b022f8012cbd42309b8472",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_4.11.0-Windows-x86.exe"
+    "Date": "2022-05-16T19:57:25.748Z",
+    "Size": 71081736,
+    "MD5": "9753453d01c8369e3679d083f7ced75c",
+    "Sha256": "4fb64e6c9c28b88beab16994bfba4829110ea3145baa60bda5344174ab65d462",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86.exe"
   }
 ]
