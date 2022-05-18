@@ -52,6 +52,12 @@ jobs:
         run: |
           . "${{ github.workspace }}/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
+      - name: Copy Json
+        shell: pwsh
+        run: |
+          Remove-Item -Path "${{ github.workspace }}/docs/json" -Include "*.json" -Recurse -Force -Confirm:$False
+          Copy-Item -Path "${{ github.workspace }}/json/*.json" -Destination "${{ github.workspace }}/docs/json" -Recurse
+
       # Format the date number for the commit message
       - name: Get date
         id: get-date
@@ -120,6 +126,12 @@ jobs:
           shell: powershell
           run: |
             . "${{ github.workspace }}/Update-Json.ps1" -Path "${{ github.workspace }}/json"
+
+        - name: Copy Json
+          shell: pwsh
+          run: |
+            Remove-Item -Path "${{ github.workspace }}\docs\json" -Include "*.json" -Recurse -Force -Confirm:$False
+            Copy-Item -Path "${{ github.workspace }}\json\*.json" -Destination "${{ github.workspace }}\docs\json" -Recurse
 
         # Format the date number for the commit message
         - name: Get date
