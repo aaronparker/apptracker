@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "2022.1.1",
+    "Build": "221.5591.52",
+    "Edition": "PyCharm Community",
+    "Date": "05/12/2022",
+    "Size": 396634376,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe.sha256",
+    "URI": "https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe"
+  },
+  {
+    "Version": "2022.1.1",
+    "Build": "221.5591.52",
+    "Edition": "PyCharm Professional",
+    "Date": "05/12/2022",
+    "Size": 487869760,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-professional-2022.1.1.exe.sha256",
+    "URI": "https://download.jetbrains.com/python/pycharm-professional-2022.1.1.exe"
+  },
+  {
+    "Version": "2022.1",
+    "Build": "221.5080.251",
+    "Edition": "PyCharm Edu",
+    "Date": "04/28/2022",
+    "Size": 393992328,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-edu-2022.1.exe.sha256",
+    "URI": "https://download.jetbrains.com/python/pycharm-edu-2022.1.exe"
+  }
+]

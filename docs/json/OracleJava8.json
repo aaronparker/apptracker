@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.8.0_333-b02",
+    "Architecture": "x64",
+    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_333-b02/2dee051a5d0647d5be72a7c0abff270e/windows-i586/jre-8u333-windows-x64.exe"
+  },
+  {
+    "Version": "1.8.0_333-b02",
+    "Architecture": "x86",
+    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_333-b02/2dee051a5d0647d5be72a7c0abff270e/windows-i586/jre-8u333-windows-i586.exe"
+  }
+]

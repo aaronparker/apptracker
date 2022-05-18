@@ -1,0 +1,122 @@
+[
+  {
+    "Version": "22.105.0515.0001",
+    "Architecture": "AMD64",
+    "Ring": "InternalFast",
+    "Sha256": "6FsjZe0Mzahn4GjqLBzrVygqbrdumvpbPAK3Gzz3OZg=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.105.0515.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.105.0515.0001",
+    "Architecture": "x86",
+    "Ring": "InternalFast",
+    "Sha256": "lUG6ZUaAVInMmmRVRrv4bQ/g9qgVVOF7U41LtBgibSk=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.105.0515.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.099.0508.0001",
+    "Architecture": "AMD64",
+    "Ring": "Insider",
+    "Sha256": "2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.099.0508.0001",
+    "Architecture": "AMD64",
+    "Ring": "InternalSlow",
+    "Sha256": "2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/MsitSlow/22.099.0508.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.099.0508.0001",
+    "Architecture": "x86",
+    "Ring": "Insider",
+    "Sha256": "eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.099.0508.0001",
+    "Architecture": "x86",
+    "Ring": "InternalSlow",
+    "Sha256": "eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/MsitSlow/22.099.0508.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.099.0508.0001",
+    "Architecture": "x86",
+    "Ring": "InternalSlow",
+    "Sha256": "N/A",
+    "Type": "msix",
+    "URI": "https://oneclient.sfx.ms/Win/MsitSlow/22.099.0508.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix"
+  },
+  {
+    "Version": "22.093.0501.0001",
+    "Architecture": "AMD64",
+    "Ring": "Insider",
+    "Sha256": "/FWAUMT+MYSx3GndQAz9q+uh7L472gEeNDekLHFs6f4=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.093.0501.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.093.0501.0001",
+    "Architecture": "x86",
+    "Ring": "Insider",
+    "Sha256": "vcHU8lBlTeU2N79G3u4kLjzPvPKiCQ+eieGa/FMPkNs=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.093.0501.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.093.0501.0001",
+    "Architecture": "x86",
+    "Ring": "Insider",
+    "Sha256": "N/A",
+    "Type": "msix",
+    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.093.0501.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix"
+  },
+  {
+    "Version": "22.089.0426.0003",
+    "Architecture": "AMD64",
+    "Ring": "Production",
+    "Sha256": "ohJxNN2MptEY/fdBJXv9rMqxaYqSFa4UC+28KucCRwc=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Prod/22.089.0426.0003/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.089.0426.0003",
+    "Architecture": "x86",
+    "Ring": "Production",
+    "Sha256": "FkHfao98BmkaGZIs8wXGJkJ8DhEMh0c1coipwoAf5DY=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Prod/22.089.0426.0003/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.022.0130.0001",
+    "Architecture": "AMD64",
+    "Ring": "Enterprise",
+    "Sha256": "8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.022.0130.0001",
+    "Architecture": "x86",
+    "Ring": "Enterprise",
+    "Sha256": "44mKE0EeZUfgPDpxsizwbJYRiyyM+MUDlG/svvIIWgc=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "22.022.0130.0001",
+    "Architecture": "x86",
+    "Ring": "Enterprise",
+    "Sha256": "N/A",
+    "Type": "msix",
+    "URI": "https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix"
+  }
+]
