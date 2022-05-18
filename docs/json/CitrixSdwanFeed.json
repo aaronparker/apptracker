@@ -364,6 +364,13 @@
     "URI": "https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-112214.html"
   },
   {
+    "Version": "11.2.1",
+    "Title": "SD-WAN WANOP Appliance Software Upgrade 11.2.1a",
+    "Description": "New downloads are available for Citrix SD-WAN",
+    "Date": "09/15/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-112156.html"
+  },
+  {
     "Version": "11.1.2",
     "Title": "SD-WAN Center Management Console Software Release 11.1.2c",
     "Description": "New downloads are available for Citrix SD-WAN",
@@ -498,24 +505,17 @@
   },
   {
     "Version": "10.2.7",
-    "Title": "SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.7b",
-    "Description": "New downloads are available for Citrix SD-WAN",
-    "Date": "09/15/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-102717.html"
-  },
-  {
-    "Version": "10.2.7",
-    "Title": "SD-WAN Standard Edition VPXL for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.7b",
-    "Description": "New downloads are available for Citrix SD-WAN",
-    "Date": "09/15/2020",
-    "URI": "https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpxl-release-102717.html"
-  },
-  {
-    "Version": "10.2.7",
     "Title": "SD-WAN WANOP Appliance Software Release 10.2.7b",
     "Description": "New downloads are available for Citrix SD-WAN",
     "Date": "09/15/2020",
     "URI": "https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-102717.html"
+  },
+  {
+    "Version": "10.2.7",
+    "Title": "SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.7b",
+    "Description": "New downloads are available for Citrix SD-WAN",
+    "Date": "09/15/2020",
+    "URI": "https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-102717.html"
   },
   {
     "Version": "9.6.1",
