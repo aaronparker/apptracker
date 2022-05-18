@@ -1,20 +1,4 @@
-﻿[
-    {
-        "Version":  "4.2.3",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "Date":  "2022-04-17T07:55:12Z",
-        "Size":  114180949,
-        "URI":  "https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-win-qt5.exe"
-    },
-    {
-        "Version":  "4.2.3",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "Date":  "2022-04-17T07:55:12Z",
-        "Size":  127056531,
-        "URI":  "https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-win-qt6.exe"
-    }
-]
+{
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+}
