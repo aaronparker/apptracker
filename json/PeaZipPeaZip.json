@@ -1,29 +1,4 @@
-﻿[
-    {
-        "Version":  "8.6.0",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "Date":  "2022-04-05T16:50:10Z",
-        "Size":  9514934,
-        "URI":  "https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WIN64.exe"
-    },
-    {
-        "Version":  "8.6.0",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "msi",
-        "Date":  "2022-04-05T16:50:10Z",
-        "Size":  9715712,
-        "URI":  "https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WIN64.msi"
-    },
-    {
-        "Version":  "8.6.0",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "Date":  "2022-04-05T16:50:10Z",
-        "Size":  8769205,
-        "URI":  "https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WINDOWS.exe"
-    }
-]
+{
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+}

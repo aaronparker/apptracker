@@ -1,20 +1,4 @@
-﻿[
-    {
-        "Version":  "2.0.10",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "msi",
-        "Date":  "2022-02-19T08:24:17Z",
-        "Size":  1597440,
-        "URI":  "https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10-x64.msi"
-    },
-    {
-        "Version":  "2.0.10",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "msi",
-        "Date":  "2022-02-19T08:24:17Z",
-        "Size":  806912,
-        "URI":  "https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10.msi"
-    }
-]
+{
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+}
