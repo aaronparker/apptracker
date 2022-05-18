@@ -28,6 +28,15 @@
   },
   {
     "Version": "100.0.1",
+    "Architecture": "x64",
+    "Channel": "LATEST_FIREFOX_VERSION",
+    "Language": "en-US",
+    "Type": "msix",
+    "Filename": "Firefox Setup 100.0.1.msix",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win64/multi/Firefox%20Setup%20100.0.1.msix"
+  },
+  {
+    "Version": "100.0.1",
     "Architecture": "x86",
     "Channel": "LATEST_FIREFOX_VERSION",
     "Language": "en-US",
