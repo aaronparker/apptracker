@@ -4,6 +4,7 @@ on:
     paths:
       - 'docs/**'
       - 'mkdocs.yml'
+      - 'requirements.txt'
     branches:
       - main
   workflow_dispatch:
