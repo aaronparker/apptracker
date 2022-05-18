@@ -56,16 +56,16 @@ else {
         if (($file.Length -eq 0) -or ((Get-Content -Path $file.FullName) -match "RateLimited")) {
             Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
 
-            $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+            $Output = Get-EvergreenApp -Name $file.BaseName -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
             if ($Null -eq $Output) {
-                Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+                Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
             }
             elseif ($Output[0].Version -eq "RateLimited") {
-                Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
+                Write-Host -Object "Skipping. GitHub API rate limited: $($file.BaseName)." -ForegroundColor "Cyan"
             }
             else {
                 $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
-                    ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+                    ConvertTo-Json | Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Verbose
                 Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
             }
         }
