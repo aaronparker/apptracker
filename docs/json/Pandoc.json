@@ -1,4 +1,9 @@
-{
-  "Version": "RateLimited",
-  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+﻿{
+    "Version":  "2.18",
+    "Platform":  "Windows",
+    "Architecture":  "x64",
+    "Type":  "msi",
+    "Date":  "2022-04-04T16:47:32Z",
+    "Size":  24199168,
+    "URI":  "https://github.com/jgm/pandoc/releases/download/2.18/pandoc-2.18-windows-x86_64.msi"
 }
