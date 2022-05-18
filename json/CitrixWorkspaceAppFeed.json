@@ -36,13 +36,6 @@
   },
   {
     "Version": "2109",
-    "Title": "Citrix Workspace app 2109.1 Desktop Lock",
-    "Description": "New downloads are available for Citrix Workspace App",
-    "Date": "10/04/2021",
-    "URI": "https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-21091.html"
-  },
-  {
-    "Version": "2109",
     "Title": "Citrix Workspace app 2109.1 for Mac",
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "10/05/2021",
@@ -201,6 +194,13 @@
     "Description": "New downloads are available for Citrix Workspace App",
     "Date": "02/18/2022",
     "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-22021.html"
+  },
+  {
+    "Version": "2203",
+    "Title": "Citrix Workspace app 2203 for Linux",
+    "Description": "New downloads are available for Citrix Workspace App",
+    "Date": "03/15/2022",
+    "URI": "https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2203.html"
   },
   {
     "Version": "2203",
