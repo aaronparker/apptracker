@@ -1,4 +1,9 @@
-{
-  "Version": "RateLimited",
-  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+﻿{
+    "Version":  "1.5.4.0",
+    "Platform":  "Windows",
+    "Architecture":  "x86",
+    "Type":  "exe",
+    "Date":  "2020-05-22T08:52:47Z",
+    "Size":  195040,
+    "URI":  "https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe"
 }

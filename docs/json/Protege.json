@@ -1,4 +1,9 @@
-{
-  "Version": "RateLimited",
-  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+﻿{
+    "Version":  "5.5.0",
+    "Platform":  "Windows",
+    "Architecture":  "x86",
+    "Type":  "zip",
+    "Date":  "2019-03-14T22:37:00Z",
+    "Size":  122786263,
+    "URI":  "https://github.com/protegeproject/protege-distribution/releases/download/v5.5.0/Protege-5.5.0-win.zip"
 }

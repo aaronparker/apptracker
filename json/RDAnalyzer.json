@@ -1,4 +1,9 @@
-{
-  "Version": "RateLimited",
-  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+﻿{
+    "Version":  "2106.165.1",
+    "Platform":  "Windows",
+    "Architecture":  "x86",
+    "Type":  "exe",
+    "Date":  "2021-05-14T09:25:55Z",
+    "Size":  2412904,
+    "URI":  "https://github.com/RDAnalyzer/release/releases/download/2106.165.1/RemoteDisplayAnalyzer.exe"
 }
