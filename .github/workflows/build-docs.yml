@@ -1,12 +1,11 @@
 ﻿name: mkdocs-ci
 on:
   push:
+    branches: [ main ]
     paths:
       - 'docs/**'
       - 'mkdocs.yml'
       - 'requirements.txt'
-    branches:
-      - main
   workflow_dispatch:
 jobs:
   deploy:

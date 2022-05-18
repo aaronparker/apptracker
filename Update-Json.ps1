@@ -36,11 +36,12 @@ if (Test-PSCore) {
     Find-EvergreenApp | Select-Object -ExpandProperty "Name" | `
         ForEach-Object {
         $Output = Get-EvergreenApp -Name $_ -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
-        if ($Null -ne $Output -or $Output.Version -ne "RateLimited") {
+        if (($Null -ne $Output) -or ($Output.Version -ne "RateLimited")) {
             $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
                 ConvertTo-Json | `
                 Out-File -FilePath $([System.IO.Path]::Combine($Path, "$_.json")) -NoNewline -Encoding "utf8" -Verbose
-        } else {
+        }
+        else {
             Write-Host -Object "Encountered an issue with: $_" -ForegroundColor "Cyan"
         }
         Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
@@ -58,6 +59,5 @@ else {
             }
             Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
-
     }
 }
