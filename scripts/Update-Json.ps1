@@ -37,11 +37,11 @@ if (Test-PSCore) {
     foreach ($App in (Find-EvergreenApp | Select-Object -ExpandProperty "Name")) {
 
         $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
-        if ($Output[0].Version -eq "RateLimited") {
-            Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
-        }
-        elseif ($Null -eq $Output) {
+        if ($Null -eq $Output) {
             Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+        }
+        elseif ($Output[0].Version -eq "RateLimited") {
+            Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
         }
         else {
             $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
@@ -57,11 +57,11 @@ else {
             Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
 
             $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
-            if ($Output[0].Version -eq "RateLimited") {
-                Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
-            }
-            elseif ($Null -eq $Output) {
+            if ($Null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+            }
+            elseif ($Output[0].Version -eq "RateLimited") {
+                Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
             }
             else {
                 $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
