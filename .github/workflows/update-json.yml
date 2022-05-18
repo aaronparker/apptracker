@@ -10,8 +10,8 @@ on:
   push:
     branches: [ main ]
     paths:
-      - ./Update-Json.ps1
-      - .github/workflows/update-json.yml
+      - 'scripts/Update-Json.ps1'
+      - '.github/workflows/update-json.yml'
   schedule:
     - cron: '0 */4 * * *'
 
@@ -50,7 +50,7 @@ jobs:
       - name: Update Json
         shell: pwsh
         run: |
-          . "${{ github.workspace }}/Update-Json.ps1" -Path "${{ github.workspace }}/json"
+          . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
       - name: Copy Json
         shell: pwsh
@@ -125,7 +125,7 @@ jobs:
         - name: Update Json
           shell: powershell
           run: |
-            . "${{ github.workspace }}/Update-Json.ps1" -Path "${{ github.workspace }}/json"
+            . "${{ github.workspace }}\scripts\Update-Json.ps1" -Path "${{ github.workspace }}\json"
 
         - name: Copy Json
           shell: pwsh

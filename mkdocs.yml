@@ -122,3 +122,4 @@ extra:
 # Page tree
 nav:
   - Home: index.md
+  - Apps: apps.md
