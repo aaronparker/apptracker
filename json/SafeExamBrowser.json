@@ -1,4 +1,29 @@
-{
-  "Version": "RateLimited",
-  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
-}
+﻿[
+    {
+        "Version":  "3.3.2",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "Date":  "2022-01-28T15:13:47Z",
+        "Size":  113934336,
+        "URI":  "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x64_Setup.msi"
+    },
+    {
+        "Version":  "3.3.2",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "exe",
+        "Date":  "2022-01-28T15:13:47Z",
+        "Size":  222215688,
+        "URI":  "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_SetupBundle.exe"
+    },
+    {
+        "Version":  "3.3.2",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "msi",
+        "Date":  "2022-01-28T15:13:47Z",
+        "Size":  107929600,
+        "URI":  "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x86_Setup.msi"
+    }
+]
