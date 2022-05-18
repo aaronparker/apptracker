@@ -1,20 +1,4 @@
-﻿[
-    {
-        "Version":  "6.2.12",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "zip",
-        "Date":  "2022-04-17T16:55:15Z",
-        "Size":  13388565,
-        "URI":  "https://github.com/praat/praat/releases/download/v6.2.12/praat6212_win64.zip"
-    },
-    {
-        "Version":  "6.2.12",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "zip",
-        "Date":  "2022-04-17T16:55:15Z",
-        "Size":  12970824,
-        "URI":  "https://github.com/praat/praat/releases/download/v6.2.12/praat6212_win32.zip"
-    }
-]
+{
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
+}

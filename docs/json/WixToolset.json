@@ -1,9 +1,4 @@
-﻿{
-    "Version":  "3.11.2",
-    "Platform":  "Windows",
-    "Architecture":  "x86",
-    "Type":  "exe",
-    "Date":  "2019-09-17T05:41:18Z",
-    "Size":  27977104,
-    "URI":  "https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe"
+{
+  "Version": "RateLimited",
+  "URI": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting"
 }
