@@ -1,5 +1,5 @@
 $Path = "./docs/json/*.json"
-$OutFile = "./docs/apps.md"
+$OutFile = "./docs/index.md"
 
 Install-PackageProvider -Name "NuGet" -MinimumVersion "2.8.5.208"
 If (Get-PSRepository -Name "PSGallery" | Where-Object { $_.InstallationPolicy -ne "Trusted" }) {
