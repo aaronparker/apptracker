@@ -7,14 +7,22 @@ on:
       - 'mkdocs.yml'
       - 'requirements.txt'
   workflow_dispatch:
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force
+
+      - name: Install Material for MkDocs
+        run: pip install mkdocs-material
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Deploy site
+        run: mkdocs gh-deploy --force
