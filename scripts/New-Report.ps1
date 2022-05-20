@@ -1,5 +1,18 @@
-$Path = "./docs/json/*.json"
-$OutFile = "./docs/index.md"
+<#
+    Queries each application in Evergreen and exports the result to JSON
+#>
+[CmdletBinding(SupportsShouldProcess = $true)]
+[Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
+param(
+    [ValidateNotNullOrEmpty()]
+    [System.String] $Path,
+
+    [ValidateNotNullOrEmpty()]
+    [System.String] $OutFile
+)
+
+# $Path = "./docs/json/*.json"
+# $OutFile = "./docs/index.md"
 
 Install-PackageProvider -Name "NuGet" -MinimumVersion "2.8.5.208"
 If (Get-PSRepository -Name "PSGallery" | Where-Object { $_.InstallationPolicy -ne "Trusted" }) {

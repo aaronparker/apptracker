@@ -148,7 +148,7 @@ jobs:
   copy-json:
       needs: [ update-pwsh, update-powershell ]
       #if: needs.update-powershell.outputs.output1 == 'true'
-      runs-on: windows-latest
+      runs-on: ubuntu-latest
 
       # Steps represent a sequence of tasks that will be executed as part of the job
       steps:
@@ -183,8 +183,17 @@ jobs:
         - name: Copy Json
           shell: pwsh
           run: |
-            Remove-Item -Path "${{ github.workspace }}\docs\json" -Include "*.json" -Recurse -Force -Confirm:$False
-            Copy-Item -Path "${{ github.workspace }}\json\*.json" -Destination "${{ github.workspace }}\docs\json" -Recurse
+            Remove-Item -Path "${{ github.workspace }}/docs/json" -Include "*.json" -Recurse -Force -Confirm:$False
+            Copy-Item -Path "${{ github.workspace }}/json/*.json" -Destination "${{ github.workspace }}/docs/json" -Recurse
+
+        - name: Generate report
+          shell: pwsh
+          run: |
+            $params = @{
+              Path = "${{ github.workspace }}/docs/json/*.json"
+              OutFile = "${{ github.workspace }}/docs/index.md"
+            }
+            . "${{ github.workspace }}/scripts/New-Report.ps1" @params
 
         # Format the date number for the commit message
         - name: Get date

@@ -1,8 +1,8 @@
 <#
     Queries each application in Evergreen and exports the result to JSON
 #>
-[Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 [CmdletBinding(SupportsShouldProcess = $true)]
+[Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
     [ValidateNotNullOrEmpty()]
     [System.String] $Path
