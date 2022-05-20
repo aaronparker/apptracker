@@ -34,7 +34,7 @@ Function Test-PSCore {
 
 # Step through all apps and export result to JSON
 if (Test-PSCore) {
-    foreach ($App in (Find-EvergreenApp | Select-Object -ExpandProperty "Name")) {
+    foreach ($App in (Find-EvergreenApp | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
 
         $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
         if ($Null -eq $Output) {

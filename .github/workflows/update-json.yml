@@ -77,7 +77,7 @@ jobs:
 
   update-powershell:
       needs: update-pwsh
-      if: needs.update-pwsh.outputs.output1 == 'true'
+      #if: needs.update-pwsh.outputs.output1 == 'true'
       runs-on: windows-latest
 
       # Steps represent a sequence of tasks that will be executed as part of the job
@@ -147,7 +147,7 @@ jobs:
 
   copy-json:
       needs: [ update-pwsh, update-powershell ]
-      if: needs.update-powershell.outputs.output1 == 'true'
+      #if: needs.update-powershell.outputs.output1 == 'true'
       runs-on: windows-latest
 
       # Steps represent a sequence of tasks that will be executed as part of the job
