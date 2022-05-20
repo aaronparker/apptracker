@@ -195,10 +195,10 @@
 
 ## Anaconda
 
-| Version | Architecture | Date                 | Size      | MD5                              | Sha256                                                           | URI                                                                    |
-| ------- | ------------ | -------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2022.05 | x64          | 10/5/2022 6:22:02 pm | 622731992 | 9dec53982beb2659b65107a6ad10e863 | 2766eb102f9d65da36d262b651777358de39fbe5f1a74f9854a2e5e29caeeeec | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe |
-| 2022.05 | x86          | 10/5/2022 6:21:59 pm | 511528600 | f581359e0f0081a8cc83071556f9fd1d | cd8c688349bcd1f429e3b383620fb0d19f52be0f765b2eae78d63b41aefb2e73 | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86.exe    |
+| Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                    |
+| ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2022.05 | x64          | 05/10/2022 18:22:02 | 622731992 | 9dec53982beb2659b65107a6ad10e863 | 2766eb102f9d65da36d262b651777358de39fbe5f1a74f9854a2e5e29caeeeec | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe |
+| 2022.05 | x86          | 05/10/2022 18:21:59 | 511528600 | f581359e0f0081a8cc83071556f9fd1d | cd8c688349bcd1f429e3b383620fb0d19f52be0f765b2eae78d63b41aefb2e73 | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86.exe    |
 
 ## Anki
 
@@ -267,461 +267,6 @@
 | ------- | --------------------------------------------------------------------- |
 | 4.14.0  | https://www.cendio.com/downloads/clients/tl-4.14.0-client-windows.exe |
 
-## CitrixAppLayeringFeed
-
-| Version | Title                      | Description                                  | Date       | URI                                                                                                 |
-| ------- | -------------------------- | -------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
-| 4.15    | Citrix App Layering 4.15   | New downloads are available for App Layering | 10/26/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-415.html  |
-| 4.14    | Citrix App Layering 4.14   | New downloads are available for App Layering | 09/25/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-414.html  |
-| 4.13    | Citrix App Layering 4.13   | New downloads are available for App Layering | 08/17/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-413.html  |
-| 4.12    | Citrix App Layering 4.12   | New downloads are available for App Layering | 07/17/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-412.html  |
-| 4.11    | Citrix App Layering 4.11   | New downloads are available for App Layering | 05/30/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-411.html  |
-| 4.10    | Citrix App Layering 4.10   | New downloads are available for App Layering | 04/03/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-410.html  |
-| 4.9     | Citrix App Layering 4.9    | New downloads are available for App Layering | 02/13/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-49.html   |
-| 4.8     | Citrix App Layering 4.8    | New downloads are available for App Layering | 01/11/2018 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-48.html   |
-| 4.7     | Citrix App Layering 4.7    | New downloads are available for App Layering | 12/07/2017 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-47.html   |
-| 4.6     | Citrix App Layering 4.6    | New downloads are available for App Layering | 10/30/2017 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-46.html   |
-| 4.5     | Citrix App Layering 4.5    | New downloads are available for App Layering | 09/21/2017 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-45.html   |
-| 4.4     | Citrix App Layering 4.4    | New downloads are available for App Layering | 08/08/2017 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-44.html   |
-| 4.3     | Citrix App Layering 4.3    | New downloads are available for App Layering | 07/13/2017 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-43.html   |
-| 4.2     | Citrix App Layering 4.2    | New downloads are available for App Layering | 05/18/2017 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-42.html   |
-| 1901    | Citrix App Layering 1901   | New downloads are available for App Layering | 01/17/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1901.html |
-| 1902    | Citrix App Layering 1902   | New downloads are available for App Layering | 02/13/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1902.html |
-| 1903    | Citrix App Layering 1903   | New downloads are available for App Layering | 04/09/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1903.html |
-| 1905    | Citrix App Layering 1905   | New downloads are available for App Layering | 06/06/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1905.html |
-| 1907    | Citrix App Layering 1907   | New downloads are available for App Layering | 07/19/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1907.html |
-| 1908    | Citrix App Layering 1908   | New downloads are available for App Layering | 08/27/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1908.html |
-| 1910    | Citrix App Layering 1910   | New downloads are available for App Layering | 10/10/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1910.html |
-| 1911    | Citrix App Layering 1911   | New downloads are available for App Layering | 11/22/2019 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-1911.html |
-| 2001    | Citrix App Layering 2001   | New downloads are available for App Layering | 01/23/2020 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2001.html |
-| 2003    | Citrix App Layering 2003   | New downloads are available for App Layering | 03/26/2020 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2003.html |
-| 2005    | Citrix App Layering 2005   | New downloads are available for App Layering | 07/08/2020 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2005.html |
-| 2008    | Citrix App Layering 2008.3 | New downloads are available for App Layering | 09/18/2020 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2008.html |
-| 2009    | Citrix App Layering 2009   | New downloads are available for App Layering | 09/28/2020 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2009.html |
-| 2011    | Citrix App Layering 2011   | New downloads are available for App Layering | 11/30/2020 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2011.html |
-| 2102    | Citrix App Layering 2102   | New downloads are available for App Layering | 03/08/2021 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2102.html |
-| 2104    | Citrix App Layering 2104   | New downloads are available for App Layering | 04/15/2021 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2104.html |
-| 2106    | Citrix App Layering 2106   | New downloads are available for App Layering | 06/23/2021 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2106.html |
-| 2107    | Citrix App Layering 2107   | New downloads are available for App Layering | 08/19/2021 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2107.html |
-| 2110    | Citrix App Layering 2110   | New downloads are available for App Layering | 11/08/2021 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2110.html |
-| 2112    | Citrix App Layering 2112   | New downloads are available for App Layering | 12/15/2021 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2112.html |
-| 2202    | Citrix App Layering 2202   | New downloads are available for App Layering | 03/09/2022 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2202.html |
-| 2204    | Citrix App Layering 2204   | New downloads are available for App Layering | 05/11/2022 | https://www.citrix.com/downloads/citrix-app-layering/product-software/citrix-app-layering-2204.html |
-
-## CitrixApplicationDeliveryManagementFeed
-
-| Version | Title                                                           | Description                                                            | Date       | URI                                                                                                                |
-| ------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| 13.1    | Citrix ADM Release (Feature Phase) 13.1 Build 12.50             | New downloads are available for Citrix Application Delivery Management | 12/14/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-1-build-12-50.html   |
-| 13.1    | Citrix ADM Release (Feature Phase) 13.1 Build 17.42             | New downloads are available for Citrix Application Delivery Management | 02/23/2022 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-1-build-17-42.html   |
-| 13.1    | Citrix ADM Release (Feature Phase) 13.1 Build 21.50             | New downloads are available for Citrix Application Delivery Management | 04/13/2022 | https://www.citrix.com/downloads/citrix-application-management/product-software/citrix-adm-13-1-build-21-50.html   |
-| 13.1    | Citrix ADM Release (Feature Phase) 13.1 Build 4.43              | New downloads are available for Citrix Application Delivery Management | 09/18/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-1-build-4-43.html    |
-| 13.1    | Citrix ADM Release (Feature Phase) 13.1 Build 9.60              | New downloads are available for Citrix Application Delivery Management | 11/22/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-1-build-9-60.html    |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 36.27             | New downloads are available for Citrix Application Delivery Management | 05/17/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-36-27.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 47.22             | New downloads are available for Citrix Application Delivery Management | 12/09/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-47-22.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 52.24             | New downloads are available for Citrix Application Delivery Management | 03/24/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-52-24.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 58.30             | New downloads are available for Citrix Application Delivery Management | 06/08/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-58-30.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 61.48             | New downloads are available for Citrix Application Delivery Management | 07/27/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-61-48.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 64.35             | New downloads are available for Citrix Application Delivery Management | 09/03/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-64-35.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 67.42             | New downloads are available for Citrix Application Delivery Management | 10/26/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-67-42.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 71.40             | New downloads are available for Citrix Application Delivery Management | 12/04/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-71-40.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 76.29             | New downloads are available for Citrix Application Delivery Management | 02/22/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-76-29.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 79.64             | New downloads are available for Citrix Application Delivery Management | 04/07/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-79-64.html   |
-| 13.0    | Citrix ADM Release (Feature Phase) 13.0 Build 82.41             | New downloads are available for Citrix Application Delivery Management | 06/08/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-82-41.html   |
-| 13.0    | Citrix ADM Release (Maintenance Phase) 13.0 Build 83.27         | New downloads are available for Citrix Application Delivery Management | 09/29/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-83-27.html   |
-| 13.0    | Citrix ADM Release (Maintenance Phase) 13.0 Build 84.10         | New downloads are available for Citrix Application Delivery Management | 12/14/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/citrix-adm-13-0-build-84-10.html   |
-| 13.0    | Citrix ADM Release (Maintenance Phase) 13.0 Build 85.15         | New downloads are available for Citrix Application Delivery Management | 03/15/2022 | https://www.citrix.com/downloads/citrix-application-management/product-software/citrix-adm-13-0-build-85-15.html   |
-| 12.1    | Citrix ADM Release (Feature Phase) 12.1 Build 50.28/50.30/50.33 | New downloads are available for Citrix Application Delivery Management | 03/11/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-50-28.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 50.39         | New downloads are available for Citrix Application Delivery Management | 03/30/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-50-39.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 50.43         | New downloads are available for Citrix Application Delivery Management | 04/26/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-50-43.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 52.15         | New downloads are available for Citrix Application Delivery Management | 06/10/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-52-15.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 53.12         | New downloads are available for Citrix Application Delivery Management | 07/19/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-53-12.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 54.13         | New downloads are available for Citrix Application Delivery Management | 09/23/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-54-13.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 55.13         | New downloads are available for Citrix Application Delivery Management | 11/11/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-55-13.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 56.22         | New downloads are available for Citrix Application Delivery Management | 03/30/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-56-22.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 57.18         | New downloads are available for Citrix Application Delivery Management | 06/15/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-57-18.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 58.14         | New downloads are available for Citrix Application Delivery Management | 08/19/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-58-14.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 59.16         | New downloads are available for Citrix Application Delivery Management | 09/28/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-59-16.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 60.16         | New downloads are available for Citrix Application Delivery Management | 11/06/2020 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-60-16.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 61.18         | New downloads are available for Citrix Application Delivery Management | 02/08/2021 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-61-18.html |
-| 12.1    | Citrix ADM Release (Maintenance Phase) 12.1 Build 62.21         | New downloads are available for Citrix Application Delivery Management | 05/13/2021 | https://www.citrix.com/downloads/citrix-application-management/product-software/netscaler-mas-121-build-62-21.html |
-| 12.1    | NetScaler MAS 12.1 Deployment Guide                             | New downloads are available for Citrix Application Delivery Management | 11/30/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/adm-deployment-guide.html          |
-| 12.1    | NetScaler MAS Release (Feature Phase) 12.1 Build 48.13/48.18    | New downloads are available for Citrix Application Delivery Management | 06/18/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-48-13.html |
-| 12.1    | NetScaler MAS Release (Feature Phase) 12.1 Build 49.23/49.37    | New downloads are available for Citrix Application Delivery Management | 10/25/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-121-build-49-23.html |
-| 12.0    | NetScaler MAS Release (Feature Phase) 12.0 Build 57.24          | New downloads are available for Citrix Application Delivery Management | 04/18/2018 | https://www.citrix.com/downloads/citrix-application-management/product-software/netscaler-mas-120-build-57-19.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 47.14          | New downloads are available for Citrix Application Delivery Management | 06/30/2016 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-47-14.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 48.10          | New downloads are available for Citrix Application Delivery Management | 08/11/2016 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-48-10.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 49.16          | New downloads are available for Citrix Application Delivery Management | 09/28/2016 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-49-16.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 50.10          | New downloads are available for Citrix Application Delivery Management | 11/11/2016 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-50-10.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 51.21          | New downloads are available for Citrix Application Delivery Management | 12/29/2016 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-51-21.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 51.26          | New downloads are available for Citrix Application Delivery Management | 02/02/2017 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-51-26.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 52.15          | New downloads are available for Citrix Application Delivery Management | 03/17/2017 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-52-13.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 53.11          | New downloads are available for Citrix Application Delivery Management | 04/13/2017 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-53-11.html |
-| 11.1    | NetScaler MAS Release (Feature Phase) 11.1 Build 54.14          | New downloads are available for Citrix Application Delivery Management | 06/16/2017 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-54-14.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 55.10      | New downloads are available for Citrix Application Delivery Management | 08/17/2017 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-55-10.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 56.15      | New downloads are available for Citrix Application Delivery Management | 11/29/2017 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-56-15.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 57.11      | New downloads are available for Citrix Application Delivery Management | 01/25/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-57-11.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 58.13      | New downloads are available for Citrix Application Delivery Management | 05/02/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-58-13.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 59.10      | New downloads are available for Citrix Application Delivery Management | 08/07/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-59-10.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 60.13      | New downloads are available for Citrix Application Delivery Management | 11/05/2018 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-60-13.html |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 61.7       | New downloads are available for Citrix Application Delivery Management | 02/04/2019 | https://www.citrix.com/downloads/citrix-application-management/earlier-versions/netscaler-mas-111-build-61-7.html  |
-| 11.1    | NetScaler MAS Release (Maintenance Phase) 11.1 Build 62.8       | New downloads are available for Citrix Application Delivery Management | 07/03/2019 | https://www.citrix.com/downloads/citrix-application-management/product-software/netscaler-mas-111-build-628.html   |
-
-## CitrixEndpointManagementFeed
-
-| Version | Title                                                  | Description                                                | Date       | URI                                                                                                                                      |
-| ------- | ------------------------------------------------------ | ---------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Unknown | Citrix Endpoint Management Advanced Edition            | New downloads are available for Citrix Endpoint Management | 03/25/2022 | https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-advanced-edition-worx-apps-and-mdx-toolkit.html   |
-| Unknown | Citrix Endpoint Management Due Diligence Package       | New downloads are available for Citrix Endpoint Management | 10/19/2021 | https://www.citrix.com/downloads/citrix-endpoint-management/certifications-and-standards/due-diligence-package.html                      |
-| Unknown | Citrix Endpoint Management MDM Edition                 | New downloads are available for Citrix Endpoint Management | 10/21/2020 | https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-mdm-edition-worx-apps-and-mdx-toolkit.html        |
-| Unknown | Citrix Endpoint Management Productivity Apps           | New downloads are available for Citrix Endpoint Management | 03/25/2022 | https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-enterprise-edition-worx-apps-and-mdx-toolkit.html |
-| Unknown | Citrix Endpoint Management Productivity Apps for Baidu | New downloads are available for Citrix Endpoint Management | 02/08/2022 | https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-apps-baidu.html                                   |
-| Unknown | XenMobile Server 10                                    | New downloads are available for Citrix Endpoint Management | 04/12/2022 | https://www.citrix.com/downloads/citrix-endpoint-management/product-software/xenmobile-10-server.html                                    |
-
-## CitrixGatewayFeed
-
-| Version | Title                                                                              | Description                                    | Date       | URI                                                                                                                       |
-| ------- | ---------------------------------------------------------------------------------- | ---------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 13.1    | Citrix Gateway (Feature Phase) 13.1 Build 12.50/12.51                              | New downloads are available for Citrix Gateway | 12/24/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-1-build-12-50.html                     |
-| 13.1    | Citrix Gateway (Feature Phase) 13.1 Build 17.42                                    | New downloads are available for Citrix Gateway | 02/23/2022 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-1-build-17-42.html                     |
-| 13.1    | Citrix Gateway (Feature Phase) 13.1 Build 21.50                                    | New downloads are available for Citrix Gateway | 04/13/2022 | https://www.citrix.com/downloads/citrix-gateway/product-software/citrix-gateway-13-1-build-21-50.html                     |
-| 13.1    | Citrix Gateway (Feature Phase) 13.1 Build 4.43/4.44                                | New downloads are available for Citrix Gateway | 11/15/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-1-build-4-43.html                      |
-| 13.1    | Citrix Gateway (Feature Phase) 13.1 Build 9.60                                     | New downloads are available for Citrix Gateway | 11/22/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-1-build-9-60.html                      |
-| 13.1    | Components for Citrix Gateway 13.1                                                 | New downloads are available for Citrix Gateway | 04/13/2022 | https://www.citrix.com/downloads/citrix-gateway/components/components-for-citrix-gateway-13-1.html                        |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 47.24                                    | New downloads are available for Citrix Gateway | 01/22/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-47-24.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 52.24                                    | New downloads are available for Citrix Gateway | 03/24/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-52-24.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 58.32                                    | New downloads are available for Citrix Gateway | 07/06/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-58-32.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 61.48                                    | New downloads are available for Citrix Gateway | 07/27/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-61-48.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 64.35                                    | New downloads are available for Citrix Gateway | 09/03/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-64-35.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 67.39/67.43                              | New downloads are available for Citrix Gateway | 11/20/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-67-39.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 71.40/71.44                              | New downloads are available for Citrix Gateway | 01/04/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-71-40.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 76.29/76.31                              | New downloads are available for Citrix Gateway | 03/16/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-76-31.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 79.64                                    | New downloads are available for Citrix Gateway | 04/07/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-79-64.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) 13.0 Build 82.41/82.45                              | New downloads are available for Citrix Gateway | 07/19/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-82-41.html                     |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-47.24           | New downloads are available for Citrix Gateway | 01/22/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-47-24.html          |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-52.24           | New downloads are available for Citrix Gateway | 03/24/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-52-24.html          |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-58.32           | New downloads are available for Citrix Gateway | 07/06/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-58-32.html          |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-61.48           | New downloads are available for Citrix Gateway | 07/27/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-61-48.html          |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-64.35           | New downloads are available for Citrix Gateway | 09/03/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-64-35.html          |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-67.39/67.43     | New downloads are available for Citrix Gateway | 11/20/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-67-39.html          |
-| 13.0    | Citrix Gateway (Feature Phase) Plug-ins and Clients for Build 13.0-71.40/71.44     | New downloads are available for Citrix Gateway | 01/04/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-plug-in-clients-v13-0-71-40.html          |
-| 13.0    | Citrix Gateway (Maintenance Phase) 13.0 Build 83.27/83.29                          | New downloads are available for Citrix Gateway | 11/15/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-83-27.html                     |
-| 13.0    | Citrix Gateway (Maintenance Phase) 13.0 Build 84.10/84.11                          | New downloads are available for Citrix Gateway | 12/24/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-13-0-build-8410.html                      |
-| 13.0    | Citrix Gateway (Maintenance Phase) 13.0 Build 85.15                                | New downloads are available for Citrix Gateway | 03/15/2022 | https://www.citrix.com/downloads/citrix-gateway/product-software/citrix-gateway-13-0-build-8515.html                      |
-| 13.0    | Components for Citrix Gateway 13.0                                                 | New downloads are available for Citrix Gateway | 03/15/2022 | https://www.citrix.com/downloads/citrix-gateway/components/components-for-citrix-gateway-13-0.html                        |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 55.18/55.24                          | New downloads are available for Citrix Gateway | 03/06/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-5518.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 56.22                                | New downloads are available for Citrix Gateway | 03/30/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-5622.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 57.18                                | New downloads are available for Citrix Gateway | 06/15/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-5718.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 58.14/58.15                          | New downloads are available for Citrix Gateway | 09/17/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-5814.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 59.16                                | New downloads are available for Citrix Gateway | 09/28/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-5916.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 60.16/60.19                          | New downloads are available for Citrix Gateway | 01/04/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-6016.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 61.18/61.19                          | New downloads are available for Citrix Gateway | 03/16/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-6118.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 62.21/62.27                          | New downloads are available for Citrix Gateway | 07/19/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-6221.html                    |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 63.22/63.23/63.24                    | New downloads are available for Citrix Gateway | 12/24/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-121-build-63221.html                   |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 64.16                                | New downloads are available for Citrix Gateway | 01/25/2022 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-12-1-build-64-16.html                     |
-| 12.1    | Citrix Gateway (Maintenance Phase) 12.1 Build 65.15                                | New downloads are available for Citrix Gateway | 04/28/2022 | https://www.citrix.com/downloads/citrix-gateway/product-software/citrix-gateway-12-1-build-65-15.html                     |
-| 12.1    | Citrix Gateway (Maintenance Phase) Plug-ins and Clients for Build 12.1-55.18       | New downloads are available for Citrix Gateway | 01/23/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v121-5513.html         |
-| 12.1    | Citrix Gateway (Maintenance Phase) Plug-ins and Clients for Build 12.1-56.22       | New downloads are available for Citrix Gateway | 03/30/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v121-5622.html         |
-| 12.1    | Citrix Gateway (Maintenance Phase) Plug-ins and Clients for Build 12.1-57.18/57.20 | New downloads are available for Citrix Gateway | 07/16/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v121-5718.html         |
-| 12.1    | Citrix Gateway (Maintenance Phase) Plug-ins and Clients for Build 12.1-58.14/58.15 | New downloads are available for Citrix Gateway | 09/17/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v121-5814.html         |
-| 12.1    | Citrix Gateway (Maintenance Phase) Plug-ins and Clients for Build 12.1-59.16/59.17 | New downloads are available for Citrix Gateway | 10/29/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v121-5916.html         |
-| 12.1    | Components for Citrix Gateway 12.1                                                 | New downloads are available for Citrix Gateway | 04/28/2022 | https://www.citrix.com/downloads/citrix-gateway/components/components-for-netscaler-gateway-121.html                      |
-| 12.0    | Components for NetScaler Gateway 12.0                                              | New downloads are available for Citrix Gateway | 07/07/2020 | https://www.citrix.com/downloads/citrix-gateway/components/components-for-netscaler-gateway-120.html                      |
-| 12.0    | NetScaler Gateway (Maintenance Phase) 12.0 Build 63.13/63.21                       | New downloads are available for Citrix Gateway | 07/07/2020 | https://www.citrix.com/downloads/citrix-gateway/product-software/netscaler-gateway-120-build-63-13.html                   |
-| 11.1    | Components for NetScaler Gateway 11.1                                              | New downloads are available for Citrix Gateway | 11/09/2021 | https://www.citrix.com/downloads/citrix-gateway/components/components-for-netscaler-gateway-111.html                      |
-| 11.1    | NetScaler Gateway (Feature Phase) 11.1 Build 63.15                                 | New downloads are available for Citrix Gateway | 01/19/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-111-build-6315.html                    |
-| 11.1    | NetScaler Gateway (Maintenance Phase) 11.1 Build 64.14                             | New downloads are available for Citrix Gateway | 07/07/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-111-build-6411.html                    |
-| 11.1    | NetScaler Gateway (Maintenance Phase) 11.1 Build 65.16/65.20                       | New downloads are available for Citrix Gateway | 06/08/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-111-build-6510.html                    |
-| 11.1    | NetScaler Gateway (Maintenance Phase) 11.1 Build 65.22                             | New downloads are available for Citrix Gateway | 07/19/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-111-build-6522.html                    |
-| 11.1    | NetScaler Gateway (Maintenance Phase) 11.1 Build 65.23                             | New downloads are available for Citrix Gateway | 11/09/2021 | https://www.citrix.com/downloads/citrix-gateway/product-software/netscaler-gateway-111-build-6523.html                    |
-| 11.1    | NetScaler Gateway (Maintenance Phase) Plug-ins and Clients for Build 11.1-63.15    | New downloads are available for Citrix Gateway | 01/19/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v111-6315.html         |
-| 11.1    | NetScaler Gateway (Maintenance Phase) Plug-ins and Clients for Build 11.1-64.14    | New downloads are available for Citrix Gateway | 07/07/2020 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v111-6411.html         |
-| 11.0    | Components for NetScaler Gateway 11.0                                              | New downloads are available for Citrix Gateway | 06/12/2018 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/components-for-netscaler-gateway-110.html                |
-| 11.0    | NetScaler Gateway (Maintenance Phase) 11.0 Build 72.16/72.17                       | New downloads are available for Citrix Gateway | 01/23/2019 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-110-build-7216.html                    |
-| 11.0    | NetScaler Gateway (Maintenance Phase) Plug-ins and Clients for Build 11.0-72.16    | New downloads are available for Citrix Gateway | 06/12/2018 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-clients-v110-7216.html         |
-| 10.5    | NetScaler Gateway 10.5 Build 70.12/70.18                                           | New downloads are available for Citrix Gateway | 07/07/2020 | https://www.citrix.com/downloads/citrix-gateway/product-software/netscaler-gateway-105-build-70-12.html                   |
-| 10.0    | 10.0 Enterprise Edition - Appliance Software                                       | New downloads are available for Citrix Gateway | 05/01/2015 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/enterprise-edition-100-appliance-software.html           |
-| 9.3     | 9.3 Enterprise Edition - Appliance Software                                        | New downloads are available for Citrix Gateway | 04/29/2015 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/enterprise-edition-93-appliance-software.html            |
-| Unknown | Citrix Gateway (Feature Phase) Plug-ins and Clients                                | New downloads are available for Citrix Gateway | 12/30/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-gateway-windows-plug-in-clients-release.html      |
-| Unknown | Citrix Gateway VPN and EPA Clients for Ubuntu                                      | New downloads are available for Citrix Gateway | 03/09/2022 | https://www.citrix.com/downloads/citrix-gateway/plug-ins/Citrix-Gateway-VPN-EPA-Clients-Ubuntu.html                       |
-| Unknown | Citrix Micro VPN integration with Microsoft Endpoint Manager (Intune)              | New downloads are available for Citrix Gateway | 11/05/2019 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/citrix-micro-vpn-integration.html                        |
-| Unknown | Citrix Secure Access Client for Windows                                            | New downloads are available for Citrix Gateway | 03/24/2022 | https://www.citrix.com/downloads/citrix-gateway/plug-ins/citrix-secure-access-client-for-windows.html                     |
-| Unknown | EPA Clients for macOS                                                              | New downloads are available for Citrix Gateway | 03/09/2022 | https://www.citrix.com/downloads/citrix-gateway/plug-ins/EPA-clients-for-macOS.html                                       |
-| Unknown | EPA plug-in v3.2.3.8 for macOS                                                     | New downloads are available for Citrix Gateway | 02/14/2022 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/EPA-plug-in-v3238-for-macOS.html                         |
-| Unknown | Latest EPA Libraries                                                               | New downloads are available for Citrix Gateway | 05/17/2022 | https://www.citrix.com/downloads/citrix-gateway/epa-libraries/epa-libraries-for-netscaler-gateway.html                    |
-| Unknown | NetScaler Gateway Plug-in v3.4.1 for Mac OS X                                      | New downloads are available for Citrix Gateway | 02/22/2018 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-341-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in v3.9.9 for Mac OS X                                      | New downloads are available for Citrix Gateway | 03/01/2018 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-399-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in v4.2.3 for Mac OS X                                      | New downloads are available for Citrix Gateway | 05/31/2018 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-423-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in v4.2.7 for Mac OS X                                      | New downloads are available for Citrix Gateway | 01/01/2019 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-427-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in v4.4.0 for Mac OS X                                      | New downloads are available for Citrix Gateway | 01/01/2019 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-440-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in v4.4.4 for Mac OS X                                      | New downloads are available for Citrix Gateway | 06/03/2019 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-444-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in v4.4.8 for Mac OS X                                      | New downloads are available for Citrix Gateway | 07/22/2019 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-448-for-mac.html               |
-| Unknown | NetScaler Gateway Plug-in VPN and EPA Clients for Ubuntu 18                        | New downloads are available for Citrix Gateway | 08/23/2021 | https://www.citrix.com/downloads/citrix-gateway/earlier-versions/netscaler-gateway-plug-in-VPN_EPA_Clients_Ubuntu_18.html |
-
-## CitrixHypervisorFeed
-
-| Version | Title                                                                | Description                                       | Date       | URI                                                                                                            |
-| ------- | -------------------------------------------------------------------- | ------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------- |
-| 8.2     | Citrix Hypervisor 8.2 LTSR Express Edition                           | New downloads are available for Citrix Hypervisor | 06/24/2020 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-82-express-edition.html         |
-| 8.2     | Citrix Hypervisor 8.2 LTSR Premium Edition                           | New downloads are available for Citrix Hypervisor | 06/25/2020 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-82-premium-edition.html         |
-| 8.2     | Citrix Hypervisor 8.2 LTSR Premium Edition with Cumulative Update 1  | New downloads are available for Citrix Hypervisor | 12/13/2021 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-82-premium-edition-CU1.html     |
-| 8.2     | Citrix Hypervisor 8.2 LTSR Standard Edition                          | New downloads are available for Citrix Hypervisor | 06/25/2020 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-82-standard-edition.html        |
-| 8.2     | Citrix Hypervisor 8.2 LTSR Standard Edition with Cumulative Update 1 | New downloads are available for Citrix Hypervisor | 12/13/2021 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-82-standard-edition-CU1.html    |
-| 8.1     | Citrix Hypervisor 8.1 Express Edition                                | New downloads are available for Citrix Hypervisor | 12/17/2019 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-81-express-edition.html         |
-| 8.1     | Citrix Hypervisor 8.1 Premium Edition                                | New downloads are available for Citrix Hypervisor | 12/17/2019 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-81-premium-edition.html         |
-| 8.1     | Citrix Hypervisor 8.1 Standard Edition                               | New downloads are available for Citrix Hypervisor | 12/17/2019 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-81-standard-edition.html        |
-| 8.0     | Citrix Hypervisor 8.0 Express Edition                                | New downloads are available for Citrix Hypervisor | 04/25/2019 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-80-express-edition.html         |
-| 8.0     | Citrix Hypervisor 8.0 Premium Edition                                | New downloads are available for Citrix Hypervisor | 04/25/2019 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-80-premium-edition.html         |
-| 8.0     | Citrix Hypervisor 8.0 Standard Edition                               | New downloads are available for Citrix Hypervisor | 04/25/2019 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/hypervisor-80-standard-edition.html        |
-| 7.6     | XenServer 7.6 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 09/05/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-76-enterprise-edition.html       |
-| 7.6     | XenServer 7.6 Free Edition                                           | New downloads are available for Citrix Hypervisor | 09/05/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-76-free-edition.html             |
-| 7.6     | XenServer 7.6 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 09/05/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-76-standard-edition.html         |
-| 7.5     | XenServer 7.5 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 05/30/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-75-enterprise-edition.html       |
-| 7.5     | XenServer 7.5 Free Edition                                           | New downloads are available for Citrix Hypervisor | 05/30/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-75-free-edition.html             |
-| 7.5     | XenServer 7.5 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 05/30/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-75-standard-edition.html         |
-| 7.4     | XenServer 7.4 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 02/28/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-74-enterprise-edition.html       |
-| 7.4     | XenServer 7.4 Free Edition                                           | New downloads are available for Citrix Hypervisor | 02/28/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-74-free-edition.html             |
-| 7.4     | XenServer 7.4 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 02/28/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-74-standard-edition.html         |
-| 7.3     | XenServer 7.3 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 12/13/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-73-enterprise-edition.html       |
-| 7.3     | XenServer 7.3 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 12/13/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-73-standard-edition.html         |
-| 7.2     | XenServer 7.2 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 05/25/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-72-enterprise-edition.html       |
-| 7.2     | XenServer 7.2 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 05/25/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-72-standard-edition.html         |
-| 7.1     | XenServer 7.1 LTSR Enterprise Edition                                | New downloads are available for Citrix Hypervisor | 02/23/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-71-enterprise-edition.html       |
-| 7.1     | XenServer 7.1 LTSR Enterprise Edition with Cumulative Update 1       | New downloads are available for Citrix Hypervisor | 09/11/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-71-CU1-enterprise-edition.html   |
-| 7.1     | XenServer 7.1 LTSR Enterprise Edition with Cumulative Update 2       | New downloads are available for Citrix Hypervisor | 12/11/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-71-CU2-enterprise-edition.html   |
-| 7.1     | XenServer 7.1 LTSR Standard Edition with Cumulative Update 1         | New downloads are available for Citrix Hypervisor | 09/11/2017 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-71-CU1-standard-edition.html     |
-| 7.1     | XenServer 7.1 LTSR Standard Edition with Cumulative Update 2         | New downloads are available for Citrix Hypervisor | 12/12/2018 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-71-CU2-standard-edition.html     |
-| 7.0     | XenServer 7.0 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 05/24/2016 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-70-enterprise-edition.html       |
-| 7.0     | XenServer 7.0 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 05/24/2016 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-70-standard-edition.html         |
-| 6.5     | XenServer 6.5 Enterprise Edition                                     | New downloads are available for Citrix Hypervisor | 05/12/2015 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-65.html                          |
-| 6.5     | XenServer 6.5 Standard Edition                                       | New downloads are available for Citrix Hypervisor | 05/12/2015 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-65-standard.html                 |
-| 6.2.0   | XenServer 6.2.0                                                      | New downloads are available for Citrix Hypervisor | 06/26/2013 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-62.html                          |
-| 6.1     | XenServer 6.1                                                        | New downloads are available for Citrix Hypervisor | 09/28/2012 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-6-1.html                         |
-| 6.0.2   | XenServer 6.0.2 Common Criteria Version                              | New downloads are available for Citrix Hypervisor | 10/12/2012 | https://www.citrix.com/downloads/citrix-hypervisor/product-software/xenserver-602-common-criteria-version.html |
-
-## CitrixLicensingFeed
-
-| Version   | Title                                                      | Description                                      | Date       | URI                                                                                                            |
-| --------- | ---------------------------------------------------------- | ------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
-| 11.17.2.0 | License Server for Windows - Version 11.17.2.0 Build 35000 | New downloads are available for Citrix Licensing | 06/16/2021 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111720-35-for-windows.html    |
-| 11.17.2.0 | License Server for Windows - Version 11.17.2.0 Build 36000 | New downloads are available for Citrix Licensing | 09/16/2021 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111720-36-for-windows.html    |
-| 11.17.2.0 | License Server for Windows - Version 11.17.2.0 Build 39000 | New downloads are available for Citrix Licensing | 05/11/2022 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111720-39000-for-windows.html |
-| 11.16.6.0 | License Server for Windows - Version 11.16.6.0 Build 31000 | New downloads are available for Citrix Licensing | 06/17/2020 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111660-31-for-windows.html    |
-| 11.16.6.0 | License Server for Windows - Version 11.16.6.0 Build 32000 | New downloads are available for Citrix Licensing | 09/29/2020 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111660-32-for-windows.html    |
-| 11.16.6.0 | License Server for Windows - Version 11.16.6.0 Build 33000 | New downloads are available for Citrix Licensing | 12/14/2020 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111660-33-for-windows.html    |
-| 11.16.6.0 | License Server for Windows - Version 11.16.6.0 Build 34000 | New downloads are available for Citrix Licensing | 03/17/2021 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111660-34-for-windows.html    |
-| 11.16.6.0 | License Server VPX – Version 11.16.6.0 Build 33500         | New downloads are available for Citrix Licensing | 06/23/2021 | https://www.citrix.com/downloads/licensing/license-server/license-server-vpx.html                              |
-| 11.16.3.0 | License Server for Windows - Version 11.16.3.0 Build 28000 | New downloads are available for Citrix Licensing | 09/19/2019 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-1116-for-windows.html         |
-| 11.16.3.0 | License Server for Windows - Version 11.16.3.0 Build 29000 | New downloads are available for Citrix Licensing | 12/18/2019 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-11163-for-windows.html        |
-| 11.16.3.0 | License Server for Windows - Version 11.16.3.0 Build 30000 | New downloads are available for Citrix Licensing | 03/26/2020 | https://www.citrix.com/downloads/licensing/license-server/license-server-version-111633-for-windows.html       |
-| Unknown   | Automatic License Updates with Citrix Licensing Manager    | New downloads are available for Citrix Licensing | 09/12/2016 | https://www.citrix.com/downloads/licensing/license-server/automatic-license-update.html                        |
-| Unknown   | Simple License Service                                     | New downloads are available for Citrix Licensing | 06/29/2012 | https://www.citrix.com/downloads/licensing/components/simple-license-service.html                              |
-
-## CitrixReceiverFeed
-
-| Version  | Title                                                                                                                                       | Description                                     | Date       | URI                                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 13.10    | Receiver 13.10 for Linux                                                                                                                    | New downloads are available for Citrix Receiver | 06/20/2018 | https://www.citrix.com/downloads/citrix-receiver/linux/receiver-for-linux-latest.html                                       |
-| 13.9.1   | Receiver 13.9.1 for Linux                                                                                                                   | New downloads are available for Citrix Receiver | 03/23/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-linux/receiver-for-linux-1391.html                     |
-| 12.9.1   | Receiver 12.9.1 for Mac                                                                                                                     | New downloads are available for Citrix Receiver | 05/02/2018 | https://www.citrix.com/downloads/citrix-receiver/mac/receiver-for-mac-latest.html                                           |
-| 12.8.1   | Receiver 12.8.1 for Mac                                                                                                                     | New downloads are available for Citrix Receiver | 01/17/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-mac/receiver-for-mac-1281.html                         |
-| 7.5.6    | Receiver 7.5.6 for iOS                                                                                                                      | New downloads are available for Citrix Receiver | 06/01/2018 | https://www.citrix.com/downloads/citrix-receiver/ios/receiver-for-ios.html                                                  |
-| 4.12     | Receiver 4.12 Desktop Lock                                                                                                                  | New downloads are available for Citrix Receiver | 06/04/2018 | https://www.citrix.com/downloads/citrix-receiver/additional-client-software/receiver-desktop-lock-412.html                  |
-| 4.12     | Receiver 4.12 for Windows                                                                                                                   | New downloads are available for Citrix Receiver | 06/04/2018 | https://www.citrix.com/downloads/citrix-receiver/windows/receiver-for-windows-latest.html                                   |
-| 4.11     | Receiver 4.11 Desktop Lock                                                                                                                  | New downloads are available for Citrix Receiver | 02/26/2018 | https://www.citrix.com/downloads/citrix-receiver/additional-client-software/receiver-desktop-lock-411.html                  |
-| 4.11     | Receiver 4.11 for Windows                                                                                                                   | New downloads are available for Citrix Receiver | 02/26/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows/receiver-for-windows-4111.html                 |
-| 4.9.9002 | Receiver 4.9.9002 for Windows, LTSR Cumulative Update 9                                                                                     | New downloads are available for Citrix Receiver | 06/22/2020 | https://www.citrix.com/downloads/citrix-receiver/windows-ltsr/receiver-for-windows-ltsr-latest.html                         |
-| 4.9.8000 | Receiver 4.9.8000 for Windows, LTSR Cumulative Update 8                                                                                     | New downloads are available for Citrix Receiver | 08/30/2019 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/receiver-for-windows-ltsr_4_9_8000.html   |
-| 4.9.7000 | Receiver 4.9.7000 for Windows, LTSR Cumulative Update 7                                                                                     | New downloads are available for Citrix Receiver | 06/21/2019 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/receiver-for-windows-ltsr-latest.html     |
-| 4.9.6001 | Receiver 4.9.6001 for Windows, LTSR Cumulative Update 6                                                                                     | New downloads are available for Citrix Receiver | 05/13/2019 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/receiver-for-windows-ltsr-4_9_6001.html   |
-| 4.9.5000 | Receiver 4.9.5000 for Windows, LTSR Cumulative Update 5                                                                                     | New downloads are available for Citrix Receiver | 12/14/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/receiver-for-windows-ltsr-4_9_5000.html   |
-| 4.9.4000 | Receiver 4.9.4000 for Windows, LTSR Cumulative Update 4                                                                                     | New downloads are available for Citrix Receiver | 08/29/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/receiver-for-windows-ltsr-_4_9_4000_.html |
-| 4.9.2000 | Receiver 4.9.2000 for Windows, LTSR Cumulative Update 2                                                                                     | New downloads are available for Citrix Receiver | 03/02/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/receiver-for-windows-ltsr_4_9_2000.html   |
-| 3.13.9   | Receiver 3.13.9 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 06/21/2018 | https://www.citrix.com/downloads/citrix-receiver/android/receiver-for-android.html                                          |
-| 3.13.7   | Receiver 3.13.7 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 05/04/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android-3137.html                 |
-| 3.13.6   | Receiver 3.13.6 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 04/09/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android-31316.html                |
-| 3.13.5   | Receiver 3.13.5 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 03/31/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android-3135.html                 |
-| 3.13.4   | Receiver 3.13.4 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 03/07/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android-3134.html                 |
-| 3.13.3   | Receiver 3.13.3 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 02/13/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android-31331.html                |
-| 3.13.2   | Receiver 3.13.2 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 01/23/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android3132.html                  |
-| 3.13.1   | Receiver 3.13.1 for Android                                                                                                                 | New downloads are available for Citrix Receiver | 01/11/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-android/receiver-for-android-3131.html                 |
-| 3.2      | Fast Connect 3.2 API for Receiver 4.11, Receiver 4.10, Receiver 4.9, Receiver 4.8,  Receiver 4.7, Receiver 4.6 and Receiver 4.5 for Windows | New downloads are available for Citrix Receiver | 02/26/2018 | https://www.citrix.com/downloads/citrix-receiver/fast-connect-sdks/fast-connect-api-411_410_49_48_47_46_45.html             |
-| 3.2      | Fast Connect 3.2 API for Receiver 4.12, 4.11, 4.10, 4.9, 4.8,  4.7, 4.6 and 4.5 for Windows                                                 | New downloads are available for Citrix Receiver | 06/04/2018 | https://www.citrix.com/downloads/citrix-receiver/fast-connect-sdks/fast-connect-api-412_411_410_49_48_47_46_45.html         |
-| 2.6.9    | Receiver 2.6.9 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 06/20/2018 | https://www.citrix.com/downloads/citrix-receiver/html5/receiver-for-html5-latest.html                                       |
-| 2.6.8    | Receiver 2.6.8 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 05/31/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-268.html                    |
-| 2.6.8    | Receiver 2.6.8 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 05/31/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-268.html                      |
-| 2.6.7    | Receiver 2.6.7 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 05/03/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-267.html                    |
-| 2.6.7    | Receiver 2.6.7 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 05/03/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-267.html                      |
-| 2.6.6    | Receiver 2.6.6 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 04/18/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-266.html                    |
-| 2.6.6    | Receiver 2.6.6 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 04/18/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-266.html                      |
-| 2.6.5    | Receiver 2.6.5 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 03/28/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-265.html                    |
-| 2.6.5    | Receiver 2.6.5 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 03/28/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-265.html                      |
-| 2.6.4    | Receiver 2.6.4 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 03/07/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-2641.html                   |
-| 2.6.3    | Receiver 2.6.3 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 02/14/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-263.html                    |
-| 2.6.3    | Receiver 2.6.3 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 02/14/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-263.html                      |
-| 2.6.2    | Receiver 2.6.2 for Chrome                                                                                                                   | New downloads are available for Citrix Receiver | 01/23/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-chrome/receiver-for-chrome-262.html                    |
-| 2.6.2    | Receiver 2.6.2 for HTML5                                                                                                                    | New downloads are available for Citrix Receiver | 01/23/2018 | https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-html5/receiver-for-html5-262.html                      |
-
-## CitrixSdwanFeed
-
-| Version | Title                                                                                           | Description                                   | Date       | URI                                                                                                              |
-| ------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 13.2.1  | SD-WAN Orchestrator for On-premises Software Release 13.2.1                                     | New downloads are available for Citrix SD-WAN | 03/14/2022 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-1321.html    |
-| 13.2.0  | SD-WAN Orchestrator for On-premises Software Release 13.2.0                                     | New downloads are available for Citrix SD-WAN | 02/13/2022 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-1320.html    |
-| 12.3.0  | SD-WAN Orchestrator for On-premises Software Release 12.3.0                                     | New downloads are available for Citrix SD-WAN | 10/18/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-123045.html  |
-| 11.4.3  | SD-WAN Center Management Console Software Release 11.4.3                                        | New downloads are available for Citrix SD-WAN | 03/01/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-1143.html     |
-| 11.4.3  | SD-WAN Center Management Console Software Release 11.4.3a                                       | New downloads are available for Citrix SD-WAN | 04/11/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-1143a.html    |
-| 11.4.3  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.3               | New downloads are available for Citrix SD-WAN | 03/01/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-1143.html                    |
-| 11.4.3  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.3a              | New downloads are available for Citrix SD-WAN | 04/11/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-1143a.html                   |
-| 11.4.3  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.3                               | New downloads are available for Citrix SD-WAN | 03/01/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1143.html     |
-| 11.4.3  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.3a                              | New downloads are available for Citrix SD-WAN | 04/11/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1143a.html    |
-| 11.4.3  | SD-WAN WANOP Appliance Software Upgrade 11.4.3                                                  | New downloads are available for Citrix SD-WAN | 03/01/2022 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-1143.html         |
-| 11.4.3  | SD-WAN WANOP Appliance Software Upgrade 11.4.3a                                                 | New downloads are available for Citrix SD-WAN | 04/11/2022 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-1143a.html        |
-| 11.4.2  | SD-WAN Center Management Console Software Release 11.4.2                                        | New downloads are available for Citrix SD-WAN | 10/31/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-114242.html   |
-| 11.4.2  | SD-WAN Center Management Console Software Release 11.4.2a                                       | New downloads are available for Citrix SD-WAN | 11/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-1142a.html    |
-| 11.4.2  | SD-WAN Center Management Console Software Release 11.4.2b                                       | New downloads are available for Citrix SD-WAN | 03/03/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-1142b.html    |
-| 11.4.2  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.2               | New downloads are available for Citrix SD-WAN | 11/01/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-114242.html                  |
-| 11.4.2  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.2a              | New downloads are available for Citrix SD-WAN | 11/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-1142a.html                   |
-| 11.4.2  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.2b              | New downloads are available for Citrix SD-WAN | 03/03/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-1142b.html                   |
-| 11.4.2  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.2                               | New downloads are available for Citrix SD-WAN | 10/31/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-114242.html   |
-| 11.4.2  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.2a                              | New downloads are available for Citrix SD-WAN | 11/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1142a.html    |
-| 11.4.2  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.2b                              | New downloads are available for Citrix SD-WAN | 03/03/2022 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1142b.html    |
-| 11.4.2  | SD-WAN WANOP Appliance Software Upgrade 11.4.2                                                  | New downloads are available for Citrix SD-WAN | 11/01/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-114242.html       |
-| 11.4.2  | SD-WAN WANOP Appliance Software Upgrade 11.4.2a                                                 | New downloads are available for Citrix SD-WAN | 11/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-1142a.html        |
-| 11.4.2  | SD-WAN WANOP Appliance Software Upgrade 11.4.2b                                                 | New downloads are available for Citrix SD-WAN | 03/03/2022 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-1142b.html        |
-| 11.4.1  | SD-WAN Center Management Console Software Release 11.4.1                                        | New downloads are available for Citrix SD-WAN | 07/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-114127.html   |
-| 11.4.1  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.1               | New downloads are available for Citrix SD-WAN | 07/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-114127.html                  |
-| 11.4.1  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.1                               | New downloads are available for Citrix SD-WAN | 07/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-114127.html   |
-| 11.4.1  | SD-WAN WANOP Appliance Software Upgrade 11.4.1                                                  | New downloads are available for Citrix SD-WAN | 07/30/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-114127.html       |
-| 11.4.0  | SD-WAN Center Management Console Software Release 11.4.0a                                       | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-1140123.html  |
-| 11.4.0  | SD-WAN Orchestrator for On-premises Software Release 11.4.0a                                    | New downloads are available for Citrix SD-WAN | 09/02/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-114020.html  |
-| 11.4.0  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.4.0a              | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-1140123.html                 |
-| 11.4.0  | SD-WAN Standard/Premium Edition Appliance Software Release 11.4.0a                              | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1140123.html  |
-| 11.4.0  | SD-WAN WANOP Appliance Software Upgrade 11.4.0a                                                 | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-1140123.html      |
-| 11.3.2  | SD-WAN Center Management Console Software Release 11.3.2a                                       | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-113225.html   |
-| 11.3.2  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.3.2a              | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-113225.html                  |
-| 11.3.2  | SD-WAN Standard/Premium Edition Appliance Software Release 11.3.2a                              | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-113225.html   |
-| 11.3.2  | SD-WAN WANOP Appliance Software Upgrade 11.3.2a                                                 | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-113225.html       |
-| 11.3.1  | SD-WAN Center Management Console Software Release 11.3.1a                                       | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-113153.html   |
-| 11.3.1  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.3.1a              | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-113153.html                  |
-| 11.3.1  | SD-WAN Standard/Premium Edition Appliance Software Release 11.3.1a                              | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-113153.html   |
-| 11.3.1  | SD-WAN WANOP Appliance Software Upgrade 11.3.1a                                                 | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-113153.html       |
-| 11.3.0  | SD-WAN Center Management Console Software Release 11.3.0                                        | New downloads are available for Citrix SD-WAN | 12/16/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-1130167.html  |
-| 11.3.0  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.3.0               | New downloads are available for Citrix SD-WAN | 12/16/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-1130167.html                 |
-| 11.3.0  | SD-WAN Standard/Premium Edition Appliance Software Release 11.3.0                               | New downloads are available for Citrix SD-WAN | 12/16/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1130167.html  |
-| 11.3.0  | SD-WAN WANOP Appliance Software Upgrade 11.3.0                                                  | New downloads are available for Citrix SD-WAN | 12/16/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-1130167.html      |
-| 11.2.3  | SD-WAN Center Management Console Software Release 11.2.3b                                       | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-112311.html   |
-| 11.2.3  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.2.3b              | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-112311.html                  |
-| 11.2.3  | SD-WAN Standard/Premium Edition Appliance Software Release 11.2.3b                              | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-112311.html   |
-| 11.2.3  | SD-WAN WANOP Appliance Software Upgrade 11.2.3b                                                 | New downloads are available for Citrix SD-WAN | 07/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-112311.html       |
-| 11.2.2  | SD-WAN Center Management Console Software Release 11.2.2                                        | New downloads are available for Citrix SD-WAN | 10/19/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-112214.html   |
-| 11.2.2  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.2.2               | New downloads are available for Citrix SD-WAN | 10/19/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-112214.html                  |
-| 11.2.2  | SD-WAN Standard/Premium Edition Appliance Software Release 11.2.2                               | New downloads are available for Citrix SD-WAN | 10/19/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-112214.html   |
-| 11.2.2  | SD-WAN WANOP Appliance Software Upgrade 11.2.2                                                  | New downloads are available for Citrix SD-WAN | 10/19/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-112214.html       |
-| 11.1.2  | SD-WAN Center Management Console Software Release 11.1.2c                                       | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-11125.html    |
-| 11.1.2  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM Software Rel 11.1.2c              | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-11125.html                   |
-| 11.1.2  | SD-WAN Standard/Premium Appliance Software Release 11.1.2c                                      | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1125.html     |
-| 11.1.2  | SD-WAN WANOP Appliance Software Upgrade 11.1.2c                                                 | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-11125.html        |
-| 11.1.0  | SD-WAN Orchestrator for On-premises Software Release 11.1.0                                     | New downloads are available for Citrix SD-WAN | 07/08/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-111028.html  |
-| 10.3.0  | SD-WAN Orchestrator for On-premises Software Release 10.3.0                                     | New downloads are available for Citrix SD-WAN | 05/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-1030202.html |
-| 10.2.9  | SD-WAN Center Management Console Software Release 10.2.9c                                       | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-10292.html    |
-| 10.2.9  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.9c  | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-10292.html                   |
-| 10.2.9  | SD-WAN Standard Edition VPXL for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.9c | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpxl-release-10292.html                  |
-| 10.2.9  | SD-WAN Standard/Premium Appliance Software Release 10.2.9c                                      | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-10292.html    |
-| 10.2.9  | SD-WAN WANOP Appliance Software Release 10.2.9c                                                 | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-10292.html        |
-| 10.2.9  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.9c                                 | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-10292.html                       |
-| 10.2.8  | SD-WAN Center Management Console Software Release 10.2.8                                        | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-10289.html    |
-| 10.2.8  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.8   | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-10289.html                   |
-| 10.2.8  | SD-WAN Standard Edition VPXL for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.8  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpxl-release-10289.html                  |
-| 10.2.8  | SD-WAN Standard/Premium Appliance Software Release 10.2.8                                       | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-10289.html    |
-| 10.2.8  | SD-WAN WANOP Appliance Software Release 10.2.8                                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-10289.html        |
-| 10.2.8  | SD-WAN WANOP Client Software Release  10.2.8                                                    | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-10289.html           |
-| 10.2.8  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.8                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-10289.html                       |
-| 10.2.7  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.7b  | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-102717.html                  |
-| 10.2.7  | SD-WAN Standard Edition VPXL for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.7b | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpxl-release-102717.html                 |
-| 10.2.7  | SD-WAN WANOP Appliance Software Release 10.2.7b                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-102717.html       |
-| 9.6.1   | SD-WAN Orchestrator for On-premises Software Release 9.6.1                                      | New downloads are available for Citrix SD-WAN | 04/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-961170.html  |
-
-## CitrixVirtualAppsDesktopsFeed
-
-| Version   | Title                                                                                          | Description                                                      | Date       | URI                                                                                                                                                |
-| --------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7.15.8000 | Linux Virtual Delivery Agent 7.15.8000                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 08/11/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-7158000.html                                                |
-| 7.15      | XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8                                   | New downloads are available for Citrix Virtual Apps and Desktops | 08/11/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/xenapp-and-xendesktop-715-ltsr-cu8.html                         |
-| 7.15      | XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8 – All Editions                    | New downloads are available for Citrix Virtual Apps and Desktops | 08/11/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/xenapp-and-xendesktop-715-ltsr-cu8-all-editions.html            |
-| 7.15      | XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8 – Enterprise Edition Components   | New downloads are available for Citrix Virtual Apps and Desktops | 08/11/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-715-ltsr-cu8.html                                    |
-| 7.15      | XenApp 7.15 LTSR / XenDesktop 7.15 LTSR, Cumulative Update 8 – Platinum Edition Components     | New downloads are available for Citrix Virtual Apps and Desktops | 08/11/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-715-ltsr-cu8.html                                      |
-| 7.15      | XenDesktop 7.15 LTSR, Cumulative Update 8 – VDI Edition Components                             | New downloads are available for Citrix Virtual Apps and Desktops | 08/11/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-715-ltsr-cu8.html                                           |
-| 2.9.500   | HDX RealTime Optimization Pack 2.9.500 for Microsoft Skype® for Business                       | New downloads are available for Citrix Virtual Apps and Desktops | 04/08/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/hdx-realtime-optimization-pack-29500.html                             |
-| 2.9.400   | HDX RealTime Optimization Pack 2.9.400 for Microsoft Skype® for Business                       | New downloads are available for Citrix Virtual Apps and Desktops | 07/09/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/hdx-realtime-optimization-pack-29400.html                             |
-| 1912      | App Protection Policies 1912 LTSR, Cumulative Update 3                                         | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-protection-policies-1912-ltsr-cu3.html                            |
-| 1912      | App Protection Policies 1912 LTSR, Cumulative Update 4                                         | New downloads are available for Citrix Virtual Apps and Desktops | 11/03/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-protection-policies-1912-ltsr-cu4.html                            |
-| 1912      | App Protection Policies 1912 LTSR, Cumulative Update 5                                         | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-protection-policies-1912-ltsr-cu5.html                            |
-| 2103      | Citrix Probe Agent 2103                                                                        | New downloads are available for Citrix Virtual Apps and Desktops | 03/26/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/app-probe-agent.html                                                  |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3                              | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu3.html              |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3 – Advance Edition Components | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-1912-ltsr-cu3.html                                   |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3 – All Editions               | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu3-all-editions.html |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 3 – Premium Edition Components | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-1912-ltsr-cu3.html                                     |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4                              | New downloads are available for Citrix Virtual Apps and Desktops | 11/03/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu4.html              |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4 – Advance Edition Components | New downloads are available for Citrix Virtual Apps and Desktops | 11/03/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-1912-ltsr-cu4.html                                   |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4 – All Editions               | New downloads are available for Citrix Virtual Apps and Desktops | 11/03/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu4-all-editions.html |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 4 – Premium Edition Components | New downloads are available for Citrix Virtual Apps and Desktops | 11/03/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-1912-ltsr-cu4.html                                     |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5                              | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu5.html              |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5 – Advance Edition Components | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/enterprise-1912-ltsr-cu5.html                                   |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5 – All Editions               | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-1912ltsr-cu5-all-editions.html |
-| 1912      | Citrix Virtual Apps and Desktops 7 1912 LTSR, Cumulative Update 5 – Premium Edition Components | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/platinum-1912-ltsr-cu5.html                                     |
-| 2103      | Citrix Virtual Apps and Desktops 7 2103, Advanced Edition Components                           | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2103.html                                              |
-| 2103      | Citrix Virtual Apps and Desktops 7 2103, All Editions                                          | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2103.html                      |
-| 2103      | Citrix Virtual Apps and Desktops 7 2103.x, All Editions                                        | New downloads are available for Citrix Virtual Apps and Desktops | 04/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2103x.html                     |
-| 2106      | Citrix Virtual Apps and Desktops 7 2106, Advanced Edition Components                           | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2106.html                                              |
-| 2106      | Citrix Virtual Apps and Desktops 7 2106, All Editions                                          | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2106.html                      |
-| 2106      | Citrix Virtual Apps and Desktops 7 2106, Premium Edition Components                            | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2106.html                                               |
-| 2106      | Citrix Virtual Apps and Desktops 7 2106.x, All Editions                                        | New downloads are available for Citrix Virtual Apps and Desktops | 07/13/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2106x.html                     |
-| 2109      | Citrix Virtual Apps and Desktops 7 2109, Advanced Edition Components                           | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2109.html                                              |
-| 2109      | Citrix Virtual Apps and Desktops 7 2109, All Editions                                          | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2109.html                      |
-| 2109      | Citrix Virtual Apps and Desktops 7 2109, Premium Edition Components                            | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2109.html                                               |
-| 2109      | Citrix Virtual Apps and Desktops 7 2109.x, All Editions                                        | New downloads are available for Citrix Virtual Apps and Desktops | 10/20/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2109x.html                     |
-| 2112      | Citrix Virtual Apps and Desktops 7 2112, Advanced Edition Components                           | New downloads are available for Citrix Virtual Apps and Desktops | 12/20/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2112.html                                              |
-| 2112      | Citrix Virtual Apps and Desktops 7 2112, All Editions                                          | New downloads are available for Citrix Virtual Apps and Desktops | 12/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2112.html                      |
-| 2112      | Citrix Virtual Apps and Desktops 7 2112, Premium Edition Components                            | New downloads are available for Citrix Virtual Apps and Desktops | 12/20/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2112.html                                               |
-| 2112      | Citrix Virtual Apps and Desktops 7 2112.x, All Editions                                        | New downloads are available for Citrix Virtual Apps and Desktops | 01/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2112x.html                     |
-| 2203      | Citrix Virtual Apps and Desktops 7 2203 LTSR, Advanced Edition Components                      | New downloads are available for Citrix Virtual Apps and Desktops | 03/23/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/advanced-2203.html                                              |
-| 2203      | Citrix Virtual Apps and Desktops 7 2203 LTSR, All Editions                                     | New downloads are available for Citrix Virtual Apps and Desktops | 03/23/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2203.html                      |
-| 2203      | Citrix Virtual Apps and Desktops 7 2203 LTSR, Premium Edition Components                       | New downloads are available for Citrix Virtual Apps and Desktops | 03/23/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/premium-2203.html                                               |
-| 2203      | Citrix Virtual Apps and Desktops 7 2203 LTSR.x, All Editions                                   | New downloads are available for Citrix Virtual Apps and Desktops | 04/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/product-software/citrix-virtual-apps-and-desktops-2203x.html                     |
-| Unknown   | Citrix Virtual Apps and Desktops Due Diligence Package                                         | New downloads are available for Citrix Virtual Apps and Desktops | 02/04/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/certifications-and-standards/due-diligence-package.html                          |
-| 1912      | Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 3 – Standard Edition Components         | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu3.html                                          |
-| 1912      | Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 4 – Standard Edition Components         | New downloads are available for Citrix Virtual Apps and Desktops | 11/02/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu4.html                                          |
-| 1912      | Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 5 – Standard Edition Components         | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu5.html                                          |
-| 2103      | Citrix Virtual Desktops 7 2103, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2103.html                                          |
-| 2106      | Citrix Virtual Desktops 7 2106, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2106.html                                          |
-| 2109      | Citrix Virtual Desktops 7 2109, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2109.html                                          |
-| 2112      | Citrix Virtual Desktops 7 2112, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 12/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2112.html                                          |
-| 2203      | Citrix Virtual Desktops 7 2203 LTSR, Standard Edition Components                               | New downloads are available for Citrix Virtual Apps and Desktops | 03/23/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2203.html                                          |
-| 1912      | Linux Virtual Delivery Agent 1912 LTSR, Cumulative Update 3                                    | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-1912-ltsr-cu3.html                                          |
-| 1912      | Linux Virtual Delivery Agent 1912 LTSR, Cumulative Update 4                                    | New downloads are available for Citrix Virtual Apps and Desktops | 11/02/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-1912-ltsr-cu4.html                                          |
-| 1912      | Linux Virtual Delivery Agent 1912 LTSR, Cumulative Update 5                                    | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-1912-ltsr-cu5.html                                          |
-| 2103      | Linux Virtual Delivery Agent 2103                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2103.html                                                   |
-| 2104      | Linux Virtual Delivery Agent 2104                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 04/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2104.html                                                   |
-| 2106      | Linux Virtual Delivery Agent 2106                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2106.html                                                   |
-| 2107      | Linux Virtual Delivery Agent 2107                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 07/13/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2107.html                                                   |
-| 2109      | Linux Virtual Delivery Agent 2109                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2109.html                                                   |
-| 2110      | Linux Virtual Delivery Agent 2110                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 10/21/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2110.html                                                   |
-| 2112      | Linux Virtual Delivery Agent 2112                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 12/20/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2112.html                                                   |
-| 2201      | Linux Virtual Delivery Agent 2201                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 01/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2201.html                                                   |
-| 2203      | Linux Virtual Delivery Agent 2203 LTSR                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 03/23/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2203.html                                                   |
-| 2204      | Linux Virtual Delivery Agent 2204                                                              | New downloads are available for Citrix Virtual Apps and Desktops | 04/27/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/linux-vda-2204.html                                                   |
-| 2104      | Session Recording 2104                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 04/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2104.html                                           |
-| 2107      | Session Recording 2107                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 07/13/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2107.html                                           |
-| 2110      | Session Recording 2110                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 10/20/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2110.html                                           |
-| 2201      | Session Recording 2201                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 01/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2201.html                                           |
-| 2204      | Session Recording 2204                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 04/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2204.html                                           |
-| 2103      | Workspace Environment Management 2103                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2103.html                            |
-| 2106      | Workspace Environment Management 2106                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2106.html                            |
-| 2109      | Workspace Environment Management 2109                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2109.html                            |
-| 2112      | Workspace Environment Management 2112                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 12/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2112.html                            |
-| 2203      | Workspace Environment Management 2203                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 03/23/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2203.html                            |
-
 ## CitrixVMTools
 
 | Version    | Architecture | Size    | Checksum                                                         | URI                                                                     |
@@ -739,62 +284,6 @@
 | 22.3.1.41  | Citrix Workspace - LTSR                | 95715248  | 628e7bd071987637e43ebae95b6009059859226443059fa1baf9aab57ae2f611 | 04/07/2022 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.1.41.exe |
 | 2.7.0.2113 | HDX RTME for Windows - Current Release | 45862912  | 3589e4faf1495e6ee3f3f538cf4c3f77576dd35af8b0238ac3b6f916aa483027 | 03/12/2019 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.7.0.2113.msi     |
 | 2.4.3000.3 | HDX RTME for Windows - LTSR CU3        | 45314048  | 690c39203845c2aa7b22045fb4a3a4dcc309045fb064a0f4d1c0902c3902246f | 04/23/2019 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.4.3000.3.msi     |
-
-## CitrixWorkspaceAppFeed
-
-| Version    | Title                                                                                | Description                                          | Date       | URI                                                                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 22.5.0     | Citrix Workspace app 22.5.0 for Android                                              | New downloads are available for Citrix Workspace App | 05/16/2022 | https://www.citrix.com/downloads/workspace-app/android/workspace-app-for-android.html                                                               |
-| 22.5.0     | Citrix Workspace app 22.5.0 for iOS                                                  | New downloads are available for Citrix Workspace App | 05/11/2022 | https://www.citrix.com/downloads/workspace-app/ios/workspace-app-for-ios-2250.html                                                                  |
-| 19.12.7000 | Citrix Workspace app 19.12.7000 for Windows, LTSR Cumulative Update 7                | New downloads are available for Citrix Workspace App | 03/17/2022 | https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-1912ltsr.html          |
-| 19.12.6000 | Citrix Workspace app 19.12.6000 for Windows, LTSR Cumulative Update 6                | New downloads are available for Citrix Workspace App | 12/09/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-1912ltsr-cu6.html                    |
-| 2.9.500    | HDX RealTime Media Engine 2.9.500 for Microsoft Skype® for Business                  | New downloads are available for Citrix Workspace App | 04/08/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-29500.html                                      |
-| 2109       | Citrix Workspace app 2109.1 for Mac                                                  | New downloads are available for Citrix Workspace App | 10/05/2021 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-21091.html                                             |
-| 2110       | Citrix Workspace app 2110 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 10/13/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2110.html                                   |
-| 2110       | Citrix Workspace app 2110 for HTML5                                                  | New downloads are available for Citrix Workspace App | 10/20/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2110.html                                     |
-| 2111       | Citrix Workspace app 2111 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 11/11/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2111.html                                   |
-| 2111       | Citrix Workspace app 2111 for HTML5                                                  | New downloads are available for Citrix Workspace App | 11/16/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2111.html                                     |
-| 2111       | Citrix Workspace app 2111 for Linux                                                  | New downloads are available for Citrix Workspace App | 11/09/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2111.html                                     |
-| 2111       | Citrix Workspace app 2111 for Mac                                                    | New downloads are available for Citrix Workspace App | 11/20/2021 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2111.html                                              |
-| 2111       | Citrix Workspace app 2111.1 for Chrome OS                                            | New downloads are available for Citrix Workspace App | 11/12/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-21111.html                                  |
-| 2111       | Citrix Workspace app 2111.1 for HTML5                                                | New downloads are available for Citrix Workspace App | 11/16/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-21111.html                                    |
-| 2112       | Citrix Workspace app 2112 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 12/06/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2112.html                                   |
-| 2112       | Citrix Workspace app 2112 for HTML5                                                  | New downloads are available for Citrix Workspace App | 12/07/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2112.html                                     |
-| 2112       | Citrix Workspace app 2112 for Linux                                                  | New downloads are available for Citrix Workspace App | 12/09/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2112.html                                     |
-| 2112       | Citrix Workspace app 2112 for Mac                                                    | New downloads are available for Citrix Workspace App | 12/07/2021 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2112.html                                              |
-| 2112       | Citrix Workspace app 2112.1 Desktop Lock                                             | New downloads are available for Citrix Workspace App | 12/17/2021 | https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-21121.html                                     |
-| 2112       | Citrix Workspace app 2112.1 for Windows                                              | New downloads are available for Citrix Workspace App | 12/17/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-21121.html                                |
-| 2201       | Citrix Workspace app 2201 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 01/19/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2201.html                                   |
-| 2201       | Citrix Workspace app 2201 for HTML5                                                  | New downloads are available for Citrix Workspace App | 01/25/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2201.html                                     |
-| 2201       | Citrix Workspace app 2201 for Mac                                                    | New downloads are available for Citrix Workspace App | 01/13/2022 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-2201.html                                              |
-| 2202       | Citrix Workspace app 2202 Desktop Lock                                               | New downloads are available for Citrix Workspace App | 02/07/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2202.html                                      |
-| 2202       | Citrix Workspace app 2202 for HTML5                                                  | New downloads are available for Citrix Workspace App | 02/16/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2202.html                                     |
-| 2202       | Citrix Workspace app 2202 for Linux                                                  | New downloads are available for Citrix Workspace App | 02/14/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2202.html                                     |
-| 2202       | Citrix Workspace app 2202 for Windows                                                | New downloads are available for Citrix Workspace App | 02/07/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-2202.html                                 |
-| 2202       | Citrix Workspace app 2202.1 for Chrome OS                                            | New downloads are available for Citrix Workspace App | 02/18/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-22021.html                                  |
-| 2203       | Citrix Workspace app 2203 for Linux                                                  | New downloads are available for Citrix Workspace App | 03/15/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-linux/workspace-app-for-linux-2203.html                                     |
-| 2203       | Citrix Workspace app 2203 for Mac                                                    | New downloads are available for Citrix Workspace App | 04/27/2022 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/Workspace-app-2203-for-Mac.html                                              |
-| 2203       | Citrix Workspace app 2203.1 for Mac                                                  | New downloads are available for Citrix Workspace App | 04/27/2022 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-latest-2203.html                                       |
-| 2203       | Citrix Workspace app 2203.2 for Chrome OS                                            | New downloads are available for Citrix Workspace App | 04/04/2022 | https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-2232.html                                                            |
-| 2203       | Citrix Workspace app 2203.2 for HTML5                                                | New downloads are available for Citrix Workspace App | 04/04/2022 | https://www.citrix.com/downloads/workspace-app/html5/workspace-app-for-html5-2203.html                                                              |
-| 2204       | Citrix Workspace app 2204 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 04/20/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2204.html                                   |
-| 2204       | Citrix Workspace app 2204 for Mac                                                    | New downloads are available for Citrix Workspace App | 04/27/2022 | https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html                                                                |
-| 2204       | Citrix Workspace app 2204.1 Desktop Lock                                             | New downloads are available for Citrix Workspace App | 04/07/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2204.html                                      |
-| 2204       | Citrix Workspace app 2204.1 for Windows                                              | New downloads are available for Citrix Workspace App | 04/07/2022 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows/workspace-app-for-windows-22041.html                                |
-| 2205       | Citrix Workspace app 2205 Desktop Lock                                               | New downloads are available for Citrix Workspace App | 05/16/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/workspace-app-desktop-lock-2205ex.html                                    |
-| 2205       | Citrix Workspace app 2205 for Linux                                                  | New downloads are available for Citrix Workspace App | 05/11/2022 | https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html                                                            |
-| 2205       | Citrix Workspace app 2205 for Windows                                                | New downloads are available for Citrix Workspace App | 05/16/2022 | https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html                                                        |
-| 2204       | Citrix Workspace app for Linux 2204 - Technology Preview                             | New downloads are available for Citrix Workspace App | 04/12/2022 | https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-linux.html                                              |
-| 1912       | Citrix Workspace app for Windows LTSR 1912 CU7 Technology Preview                    | New downloads are available for Citrix Workspace App | 03/11/2022 | https://www.citrix.com/downloads/workspace-app/betas-and-tech-previews/workspace-app-tp-for-windows-LTSR-cu.html                                    |
-| 2203       | Citrix Workspace app for Windows LTSR 2203.1                                         | New downloads are available for Citrix Workspace App | 04/07/2022 | https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR.html              |
-| 2112       | Fast Connect API for Citrix Workspace app 2112.1 for Windows                         | New downloads are available for Citrix Workspace App | 12/17/2021 | https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-21121.html                                                        |
-| 2202       | Fast Connect API for Citrix Workspace app 2202 for Windows                           | New downloads are available for Citrix Workspace App | 02/07/2022 | https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2202.html                                                         |
-| 2204       | Fast Connect API for Citrix Workspace app 2204.1 for Windows                         | New downloads are available for Citrix Workspace App | 04/07/2022 | https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-2204.html                                                         |
-| 2205       | Fast Connect API for Citrix Workspace app 2205 for Windows                           | New downloads are available for Citrix Workspace App | 05/16/2022 | https://www.citrix.com/downloads/workspace-app/fast-connect-sdks/fast-connect-api-22051.html                                                        |
-| Unknown    | HDX RealTime Media Engine (latest LTSR CU version) for Microsoft Skype® for Business | New downloads are available for Citrix Workspace App | 04/08/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-ltsrcu-latest.html                              |
-| Unknown    | HDX RealTime Media Engine for Microsoft Skype® for Business                          | New downloads are available for Citrix Workspace App | 04/08/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine.html                                            |
-| Unknown    | Resetting user's re-authentication period to a day                                   | New downloads are available for Citrix Workspace App | 12/08/2021 | https://www.citrix.com/downloads/workspace-app/powershell-script/resetting-user-re-authentication-period.html                                       |
-| Unknown    | Third Party Libraries for Citrix Workspace Browser                                   | New downloads are available for Citrix Workspace App | 12/08/2021 | https://www.citrix.com/downloads/workspace-app/citrix-workspace-browser-third-party-library/third-party-libraries-for-citrix-workspace-browser.html |
 
 ## ControlUpAgent
 
@@ -975,9 +464,9 @@
 
 ## Gimp
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1016,10 +505,10 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 103.0.5057.3  | x64          | dev     | 05/12/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 103.0.5057.3  | x86          | dev     | 05/12/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 102.0.5005.49 | x64          | beta    | 05/11/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 102.0.5005.49 | x86          | beta    | 05/11/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 103.0.5060.13 | x64          | dev     | 05/19/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 103.0.5060.13 | x86          | dev     | 05/19/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 102.0.5005.61 | x64          | beta    | 05/18/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 102.0.5005.61 | x86          | beta    | 05/18/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 101.0.4951.67 | x64          | stable  | 05/12/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 101.0.4951.67 | x86          | stable  | 05/12/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -1081,8 +570,8 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.1.9   | zip  | x64          | https://releases.hashicorp.com/terraform/1.1.9/terraform_1.1.9_windows_amd64.zip |
-| 1.1.9   | zip  | x86          | https://releases.hashicorp.com/terraform/1.1.9/terraform_1.1.9_windows_386.zip   |
+| 1.2.0   | zip  | x64          | https://releases.hashicorp.com/terraform/1.2.0/terraform_1.2.0_windows_amd64.zip |
+| 1.2.0   | zip  | x86          | https://releases.hashicorp.com/terraform/1.2.0/terraform_1.2.0_windows_386.zip   |
 
 ## HashicorpVault
 
@@ -1095,8 +584,8 @@
 
 | Version | Type | Architecture | URI                                                                            |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
-| 0.8.1   | zip  | x64          | https://releases.hashicorp.com/waypoint/0.8.1/waypoint_0.8.1_windows_amd64.zip |
-| 0.8.1   | zip  | x86          | https://releases.hashicorp.com/waypoint/0.8.1/waypoint_0.8.1_windows_386.zip   |
+| 0.8.2   | zip  | x64          | https://releases.hashicorp.com/waypoint/0.8.2/waypoint_0.8.2_windows_amd64.zip |
+| 0.8.2   | zip  | x86          | https://releases.hashicorp.com/waypoint/0.8.2/waypoint_0.8.2_windows_386.zip   |
 
 ## ImageGlass
 
@@ -1110,7 +599,7 @@
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| 7.1.0-34 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-34-Q16-HDRI-x64-dll.exe |
+| 7.1.0-35 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-35-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -1193,7 +682,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 7/4/2022 1:55:42 am | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1203,8 +692,11 @@
 
 ## MattermostDesktop
 
-|  |
-||
+| Version | Type | Architecture | URI                                                                                  |
+| ------- | ---- | ------------ | ------------------------------------------------------------------------------------ |
+| 5.1.0   | msi  | x64          | https://releases.mattermost.com/desktop/5.1.0/mattermost-desktop-5.1.0-x64.msi       |
+| 5.1.0   | exe  | x86          | https://releases.mattermost.com/desktop/5.1.0/mattermost-desktop-setup-5.1.0-win.exe |
+| 5.1.0   | msi  | x86          | https://releases.mattermost.com/desktop/5.1.0/mattermost-desktop-5.1.0-x86.msi       |
 
 ## McNeelRhino
 
@@ -1257,23 +749,23 @@
 
 ## Microsoft365Apps
 
-| Version          | Channel           | Name                                  | Date                 | URI                                               |
-| ---------------- | ----------------- | ------------------------------------- | -------------------- | ------------------------------------------------- |
-| 16.0.15313.20000 | BetaChannel       | Beta                                  | 17/5/2022 6:11:46 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15225.20150 | CurrentPreview    | Current Channel (Preview)             | 16/5/2022 7:07:44 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15128.20248 | Current           | Current Channel                       | 17/5/2022 9:00:15 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15028.20248 | MonthlyEnterprise | Monthly Enterprise                    | 10/5/2022 5:52:52 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14931.20392 | SemiAnnualPreview | Semi-Annual Channel Preview           | 10/5/2022 6:43:16 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14332.20303 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 10/5/2022 1:23:07 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14326.20962 | SemiAnnual        | Semi-Annual Channel                   | 10/5/2022 8:07:03 am | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.10386.20017 | PerpetualVL2019   | Office 2029 Perpetual Enterprise      | 10/5/2022 1:17:03 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| Version          | Channel           | Name                                  | Date                | URI                                               |
+| ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
+| 16.0.15313.20000 | BetaChannel       | Beta                                  | 05/17/2022 18:11:46 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15225.20150 | CurrentPreview    | Current Channel (Preview)             | 05/16/2022 19:07:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15128.20248 | Current           | Current Channel                       | 05/17/2022 21:00:15 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15028.20248 | MonthlyEnterprise | Monthly Enterprise                    | 05/10/2022 17:52:52 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14931.20392 | SemiAnnualPreview | Semi-Annual Channel Preview           | 05/10/2022 18:43:16 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14332.20303 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 05/10/2022 13:23:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14326.20962 | SemiAnnual        | Semi-Annual Channel                   | 05/10/2022 08:07:03 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.10386.20017 | PerpetualVL2019   | Office 2029 Perpetual Enterprise      | 05/10/2022 13:17:03 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 
 ## MicrosoftAzureDataStudio
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | edce74255bd7f019d063cf6c49aba59df2425696b2315b5f6b4be8447b56d228 | https://sqlopsbuilds.azureedge.net/insider/705dcd2b8cd1d164dc4fdc4098819ea5777ef81e/azuredatastudio-windows-setup-1.37.0-insider.exe      |
-| 1.37.0  | win32-x64-user | Insider | 234f53ad358c04c966500b7c5bdb6d631371654700d7b2540e58f67e9dd105ce | https://sqlopsbuilds.azureedge.net/insider/705dcd2b8cd1d164dc4fdc4098819ea5777ef81e/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
+| 1.37.0  | win32-x64      | Insider | 558703fd2b4e4aa0ee093eb3df34b77095ebb77f19c2cf02a479cf2746205bfa | https://sqlopsbuilds.azureedge.net/insider/97a4ecdfbb6216c86defdaa1de2d6430b309c3a6/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64-user | Insider | 10ce0f26715817cf87e738733e87a97169333ddc79ed6c825056be49363ba0f0 | https://sqlopsbuilds.azureedge.net/insider/97a4ecdfbb6216c86defdaa1de2d6430b309c3a6/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.1  | win32-x64      | Stable  | 167a0eff0018c5780266c3eab3d12d270746ab5d06419c59193bd4e1b20b58c7 | https://sqlopsbuilds.azureedge.net/stable/e56e1d931bbb110fe8f24751423c4e184bb8f22d/azuredatastudio-windows-setup-1.36.1.exe               |
 | 1.36.1  | win32-x64-user | Stable  | f7c5adb3aaef593ed29111b17ccdbd64a2d4f9ff1fe6c03943c3f964bdf94a7c | https://sqlopsbuilds.azureedge.net/stable/e56e1d931bbb110fe8f24751423c4e184bb8f22d/azuredatastudio-windows-user-setup-1.36.1.exe          |
 
@@ -1321,12 +813,12 @@
 | 102.0.1245.14 | Windows  | Beta       | Enterprise | x64          | 03EC1E3FABB9DD6583BA031C36AAC9D26B6976CEEF988F5CBCDED7FED18B870B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bdfc181d-c4f9-474c-826a-6663f1a074d0/MicrosoftEdgeBetaEnterpriseX64.msi          |
 | 102.0.1245.14 | Windows  | Beta       | Consumer   | x86          | 2C40F1F8C5E84FC1311A35543347430C792D2EFC0DAF62A325A64F17E7665C0E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4447c5aa-c0e0-4f9a-82cb-822cf265fee5/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 102.0.1245.14 | Windows  | Beta       | Enterprise | x86          | 2C40F1F8C5E84FC1311A35543347430C792D2EFC0DAF62A325A64F17E7665C0E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4447c5aa-c0e0-4f9a-82cb-822cf265fee5/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 101.0.1210.47 | Windows  | Stable     | Consumer   | arm64        | 92AEC9A61E51AB22D947789E3E6F51F0CB4DE3E6CB9DA603FA9E73151DBA0E16 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7f6f3ec5-64ca-4aec-adcd-5749c6b85860/MicrosoftEdgeEnterpriseARM64.msi            |
-| 101.0.1210.47 | Windows  | Stable     | Enterprise | arm64        | 92AEC9A61E51AB22D947789E3E6F51F0CB4DE3E6CB9DA603FA9E73151DBA0E16 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7f6f3ec5-64ca-4aec-adcd-5749c6b85860/MicrosoftEdgeEnterpriseARM64.msi            |
-| 101.0.1210.47 | Windows  | Stable     | Consumer   | x64          | 1CD499D7758E20E548C0A028AC7E8CADF5E35C851C9E960FFFAE8D7416D4DD1D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/555154c3-778c-459a-b79b-24f5d3e2134f/MicrosoftEdgeEnterpriseX64.msi              |
-| 101.0.1210.47 | Windows  | Stable     | Enterprise | x64          | 1CD499D7758E20E548C0A028AC7E8CADF5E35C851C9E960FFFAE8D7416D4DD1D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/555154c3-778c-459a-b79b-24f5d3e2134f/MicrosoftEdgeEnterpriseX64.msi              |
-| 101.0.1210.47 | Windows  | Stable     | Consumer   | x86          | 874B66E0A35D6F9CBB05EB41B639BF733E4319812C1805E0A8A1C01467166D6E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5489d35c-3c39-4486-b0a2-9044d685e196/MicrosoftEdgeEnterpriseX86.msi              |
-| 101.0.1210.47 | Windows  | Stable     | Enterprise | x86          | 874B66E0A35D6F9CBB05EB41B639BF733E4319812C1805E0A8A1C01467166D6E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5489d35c-3c39-4486-b0a2-9044d685e196/MicrosoftEdgeEnterpriseX86.msi              |
+| 101.0.1210.53 | Windows  | Stable     | Consumer   | arm64        | C6B7063A4332023CCE140307C9B9B779A39565BB003A30832557FFECDE821A7C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c2626ada-c4cd-42ad-8042-aa98ce57073e/MicrosoftEdgeEnterpriseARM64.msi            |
+| 101.0.1210.53 | Windows  | Stable     | Enterprise | arm64        | C6B7063A4332023CCE140307C9B9B779A39565BB003A30832557FFECDE821A7C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c2626ada-c4cd-42ad-8042-aa98ce57073e/MicrosoftEdgeEnterpriseARM64.msi            |
+| 101.0.1210.53 | Windows  | Stable     | Consumer   | x64          | 6675000F8D493DF6211AA670F977CE17E8F2BB35132718DC3E873B0A49E000F9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/deca85f5-369c-4c01-933d-f1b544563b31/MicrosoftEdgeEnterpriseX64.msi              |
+| 101.0.1210.53 | Windows  | Stable     | Enterprise | x64          | 6675000F8D493DF6211AA670F977CE17E8F2BB35132718DC3E873B0A49E000F9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/deca85f5-369c-4c01-933d-f1b544563b31/MicrosoftEdgeEnterpriseX64.msi              |
+| 101.0.1210.53 | Windows  | Stable     | Consumer   | x86          | 014D4068F66E0DB33575B57F706DAC8D36997E57C97336C7FEE01D596082F910 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d036bcb-1e82-4170-8f94-42d7cd2716fd/MicrosoftEdgeEnterpriseX86.msi              |
+| 101.0.1210.53 | Windows  | Stable     | Enterprise | x86          | 014D4068F66E0DB33575B57F706DAC8D36997E57C97336C7FEE01D596082F910 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d036bcb-1e82-4170-8f94-42d7cd2716fd/MicrosoftEdgeEnterpriseX86.msi              |
 | 1.3.161.35    | Windows  | EdgeUpdate | Consumer   | x86          | 987799753EA49D795E0482D9B1D249507A59BD4D5B667B67057AFF900232D506 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb0d9160-a1b5-4429-8b99-6b9219995ba8/MicrosoftEdgeUpdateSetup_X86_1.3.161.35.exe |
 | 1.3.161.35    | Windows  | EdgeUpdate | Enterprise | x86          | 987799753EA49D795E0482D9B1D249507A59BD4D5B667B67057AFF900232D506 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb0d9160-a1b5-4429-8b99-6b9219995ba8/MicrosoftEdgeUpdateSetup_X86_1.3.161.35.exe |
 
@@ -1340,17 +832,17 @@
 | 102.0.1245.14 | Beta    | ARM64        | https://msedgedriver.azureedge.net/102.0.1245.14/edgedriver_arm64.zip |
 | 102.0.1245.14 | Beta    | x64          | https://msedgedriver.azureedge.net/102.0.1245.14/edgedriver_win64.zip |
 | 102.0.1245.14 | Beta    | x86          | https://msedgedriver.azureedge.net/102.0.1245.14/edgedriver_win32.zip |
-| 101.0.1210.47 | Stable  | ARM64        | https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_arm64.zip |
-| 101.0.1210.47 | Stable  | x64          | https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip |
-| 101.0.1210.47 | Stable  | x86          | https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win32.zip |
+| 101.0.1210.53 | Stable  | ARM64        | https://msedgedriver.azureedge.net/101.0.1210.53/edgedriver_arm64.zip |
+| 101.0.1210.53 | Stable  | x64          | https://msedgedriver.azureedge.net/101.0.1210.53/edgedriver_win64.zip |
+| 101.0.1210.53 | Stable  | x86          | https://msedgedriver.azureedge.net/101.0.1210.53/edgedriver_win32.zip |
 
 ## MicrosoftEdgeWebView2Runtime
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 101.0.1210.47 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/246f031b-99d2-490c-98e7-b9098547e979/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 101.0.1210.47 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ebc13a2-f8e7-4066-a168-f12187ad3898/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 101.0.1210.47 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4eee2b9a-6dad-4e50-a92d-ca5d5a3d8d5a/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| 101.0.1210.53 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ab9f9b6-950f-4021-9641-6378079a3d49/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 101.0.1210.53 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/32c2c13c-4b30-47ff-ad7f-b20acad828ca/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 101.0.1210.53 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/30959e8c-ae58-4d49-98c4-d17744d472c3/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftFSLogixApps
 
@@ -1362,18 +854,12 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.106.0516.0001 | AMD64        | InternalFast | 4J3GRgpdLTP9wgrBNHU5r3vXe698qN5j2TseWOiml5U= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.106.0516.0001/amd64/OneDriveSetup.exe                           |
-| 22.106.0516.0001 | x86          | InternalFast | ux9JDr2tNEJIYl2JwUTdrFnW1WPf5EvV20HFbUvYkn8= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.106.0516.0001/OneDriveSetup.exe                                 |
+| 22.109.0518.0003 | AMD64        | InternalFast | 2OmmAEaRrQ3haBC3Xz/f6amC1efzowsMq4BsELXGuJE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.109.0518.0003/amd64/OneDriveSetup.exe                           |
+| 22.109.0518.0003 | x86          | InternalFast | Nw2Xahysxfu+H077pK0IwVylNg/AoWZDeOr3+cyjLeU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.109.0518.0003/OneDriveSetup.exe                                 |
 | 22.105.0515.0001 | AMD64        | InternalSlow | 6FsjZe0Mzahn4GjqLBzrVygqbrdumvpbPAK3Gzz3OZg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0001/amd64/OneDriveSetup.exe                           |
 | 22.105.0515.0001 | x86          | InternalSlow | lUG6ZUaAVInMmmRVRrv4bQ/g9qgVVOF7U41LtBgibSk= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0001/OneDriveSetup.exe                                 |
 | 22.099.0508.0001 | AMD64        | Insider      | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/amd64/OneDriveSetup.exe                           |
-| 22.099.0508.0001 | AMD64        | InternalSlow | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.099.0508.0001/amd64/OneDriveSetup.exe                           |
 | 22.099.0508.0001 | x86          | Insider      | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/OneDriveSetup.exe                                 |
-| 22.099.0508.0001 | x86          | InternalSlow | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.099.0508.0001/OneDriveSetup.exe                                 |
-| 22.099.0508.0001 | x86          | InternalSlow | N/A                                          | msix | https://oneclient.sfx.ms/Win/MsitSlow/22.099.0508.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix   |
-| 22.093.0501.0001 | AMD64        | Insider      | /FWAUMT+MYSx3GndQAz9q+uh7L472gEeNDekLHFs6f4= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.093.0501.0001/amd64/OneDriveSetup.exe                           |
-| 22.093.0501.0001 | x86          | Insider      | vcHU8lBlTeU2N79G3u4kLjzPvPKiCQ+eieGa/FMPkNs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.093.0501.0001/OneDriveSetup.exe                                 |
-| 22.093.0501.0001 | x86          | Insider      | N/A                                          | msix | https://oneclient.sfx.ms/Win/Insiders/22.093.0501.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix   |
 | 22.089.0426.0003 | AMD64        | Production   | ohJxNN2MptEY/fdBJXv9rMqxaYqSFa4UC+28KucCRwc= | exe  | https://oneclient.sfx.ms/Win/Prod/22.089.0426.0003/amd64/OneDriveSetup.exe                               |
 | 22.089.0426.0003 | x86          | Production   | FkHfao98BmkaGZIs8wXGJkJ8DhEMh0c1coipwoAf5DY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.089.0426.0003/OneDriveSetup.exe                                     |
 | 22.022.0130.0001 | AMD64        | Enterprise   | 8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe                         |
@@ -1440,18 +926,18 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.68.0  | win32-arm64      | Insider | ARM64        | cb3b8da3e132a946d287e366542dead8d682b362eb9fc242dba110578e69eec8 | https://az764295.vo.msecnd.net/insider/5f3e9c120a4407de3e55465588ce788618526eb0/VSCodeSetup-arm64-1.68.0-insider.exe     |
-| 1.68.0  | win32-arm64-user | Insider | ARM64        | 9bb0514ffef5742c5148895d5e20ed200bcca9fb0b854d121ebc5027f645a447 | https://az764295.vo.msecnd.net/insider/5f3e9c120a4407de3e55465588ce788618526eb0/VSCodeUserSetup-arm64-1.68.0-insider.exe |
-| 1.68.0  | win32-x64        | Insider | x64          | d9c895f009921a03f47b16cac12810d4958f057b02de51963b3b99f679853af5 | https://az764295.vo.msecnd.net/insider/5f3e9c120a4407de3e55465588ce788618526eb0/VSCodeSetup-x64-1.68.0-insider.exe       |
-| 1.68.0  | win32-x64-user   | Insider | x64          | eecd21a658158b3b04271d76e9e523eb2fc22ceb78c3fbb6ed003eb8a1d4962b | https://az764295.vo.msecnd.net/insider/5f3e9c120a4407de3e55465588ce788618526eb0/VSCodeUserSetup-x64-1.68.0-insider.exe   |
-| 1.68.0  | win32            | Insider | x86          | 5b4cecf45682fe08d8d0516ee9c54cb25df3f7630128449504afbb1d7f71118a | https://az764295.vo.msecnd.net/insider/5f3e9c120a4407de3e55465588ce788618526eb0/VSCodeSetup-ia32-1.68.0-insider.exe      |
-| 1.68.0  | win32-user       | Insider | x86          | 613348277ab7dcffce0a5666faf18adfe99fe6b6f8170f83e67e56cc44b0463a | https://az764295.vo.msecnd.net/insider/5f3e9c120a4407de3e55465588ce788618526eb0/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
-| 1.67.1  | win32-arm64      | Stable  | ARM64        | 74b8db465aed566c14d2b0a1e65d3292943aa83e9cb4d2df03e7e98efd6a5e56 | https://az764295.vo.msecnd.net/stable/da15b6fd3ef856477bf6f4fb29ba1b7af717770d/VSCodeSetup-arm64-1.67.1.exe              |
-| 1.67.1  | win32-arm64-user | Stable  | ARM64        | 104bb062c181e2ba0417c2aca3ac865d744a9b8ac34a6664694b38e3c0a1af23 | https://az764295.vo.msecnd.net/stable/da15b6fd3ef856477bf6f4fb29ba1b7af717770d/VSCodeUserSetup-arm64-1.67.1.exe          |
-| 1.67.1  | win32-x64        | Stable  | x64          | 5b11728cd388332f2f7977eefe2aa1882ef90a7384ca568641aec47be76e2f77 | https://az764295.vo.msecnd.net/stable/da15b6fd3ef856477bf6f4fb29ba1b7af717770d/VSCodeSetup-x64-1.67.1.exe                |
-| 1.67.1  | win32-x64-user   | Stable  | x64          | 37b2d850df5fcbf1cb8bce57979df8d1c2c70f92a8bc37dc6bf48324d5d0cfb1 | https://az764295.vo.msecnd.net/stable/da15b6fd3ef856477bf6f4fb29ba1b7af717770d/VSCodeUserSetup-x64-1.67.1.exe            |
-| 1.67.1  | win32            | Stable  | x86          | 1bfd7c85ea709b31a76c5f2d03acf8843da7ea1d3acaaf2a32b1e41d2bdbe2b6 | https://az764295.vo.msecnd.net/stable/da15b6fd3ef856477bf6f4fb29ba1b7af717770d/VSCodeSetup-ia32-1.67.1.exe               |
-| 1.67.1  | win32-user       | Stable  | x86          | 8182f3af6225d10a6971e027e6c940fcbc129d0b06569c85fc12a51363d11d60 | https://az764295.vo.msecnd.net/stable/da15b6fd3ef856477bf6f4fb29ba1b7af717770d/VSCodeUserSetup-ia32-1.67.1.exe           |
+| 1.68.0  | win32-arm64      | Insider | ARM64        | 1bbdde006ae7712aaef97dcf0bca40f02eb16dc965e02ce333ea5b54356125b9 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeSetup-arm64-1.68.0-insider.exe     |
+| 1.68.0  | win32-arm64-user | Insider | ARM64        | 04d899ad0742642218976da99975d44f27cf66e8d13f538ec62c07fdba723aa6 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeUserSetup-arm64-1.68.0-insider.exe |
+| 1.68.0  | win32-x64        | Insider | x64          | 2572f34baea36f486fee2fa5b873af81c0898b06d31ade967853879a29dbf8cc | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeSetup-x64-1.68.0-insider.exe       |
+| 1.68.0  | win32-x64-user   | Insider | x64          | 3ed7dc244da5be847185746584ae89c2e1ad6659ec6fa0a1643dc455875c44f6 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeUserSetup-x64-1.68.0-insider.exe   |
+| 1.68.0  | win32            | Insider | x86          | a2300ca7c6eeab7a7870cede0dc8a9c236bfd201a1ff89fd333f5cdc0ba37b01 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeSetup-ia32-1.68.0-insider.exe      |
+| 1.68.0  | win32-user       | Insider | x86          | 5cee615a224ae2f357e5f651d34d0ca0c29372fe9a9cb50825183d4a601f337f | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
+| 1.67.2  | win32-arm64      | Stable  | ARM64        | c7b6c599ed1bf9402789606d885573bd25d6cedf83b0f1d30232470dee898def | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-arm64-1.67.2.exe              |
+| 1.67.2  | win32-arm64-user | Stable  | ARM64        | 36ef0816ce424fd87ba4cb826f6121bf758324799bbd17b8206a1c511a2085af | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-arm64-1.67.2.exe          |
+| 1.67.2  | win32-x64        | Stable  | x64          | 0c92dcd75fee53e366b39d38c2278df79380ac6630ce623ba45fb0d820629ab6 | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-x64-1.67.2.exe                |
+| 1.67.2  | win32-x64-user   | Stable  | x64          | 510cadb7c416021f68e09cb9921dbdc20ba2846f30ffe8358eee5808747c5f71 | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-x64-1.67.2.exe            |
+| 1.67.2  | win32            | Stable  | x86          | 4b9e4e3bc0fbac4eaf165fcee6e8140f2ddb5eaf322411f1f6b8eb656e4957fd | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-ia32-1.67.2.exe               |
+| 1.67.2  | win32-user       | Stable  | x86          | 2920073db6b82685939d2f5538b77ef95425b1eec82aeb2e25a1d0b94a8a87ec | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-ia32-1.67.2.exe           |
 
 ## MicrosoftWindowsPackageManagerClient
 
@@ -1481,12 +967,12 @@
 
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3130.0 | ARM64        | Insider | 05/10/2022 | 26001408 | RemoteDesktop_1.2.3130.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Xafx |
-| 1.2.3130.0 | ARM64        | Public  | 05/10/2022 | 26001408 | RemoteDesktop_1.2.3130.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Xafx |
-| 1.2.3130.0 | x64          | Insider | 05/10/2022 | 24354816 | RemoteDesktop_1.2.3130.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4X1UX |
+| 1.2.3210.0 | ARM64        | Insider | 05/18/2022 | 26095616 | RemoteDesktop_1.2.3210.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv4 |
+| 1.2.3210.0 | ARM64        | Public  | 05/18/2022 | 26095616 | RemoteDesktop_1.2.3210.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv4 |
+| 1.2.3210.0 | x64          | Insider | 05/18/2022 | 24444928 | RemoteDesktop_1.2.3210.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv3 |
+| 1.2.3210.0 | x86          | Insider | 05/18/2022 | 22274048 | RemoteDesktop_1.2.3210.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv2 |
+| 1.2.3210.0 | x86          | Public  | 05/18/2022 | 22274048 | RemoteDesktop_1.2.3210.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv2 |
 | 1.2.3130.0 | x64          | Public  | 05/10/2022 | 24354816 | RemoteDesktop_1.2.3130.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4X1UX |
-| 1.2.3130.0 | x86          | Insider | 05/10/2022 | 22200320 | RemoteDesktop_1.2.3130.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Xafz |
-| 1.2.3130.0 | x86          | Public  | 05/10/2022 | 22200320 | RemoteDesktop_1.2.3130.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Xafz |
 
 ## MicrosoftWvdRtcService
 
@@ -1496,14 +982,14 @@
 
 ## Miniconda
 
-| Version | Architecture | Date                 | Size     | MD5                              | Sha256                                                           | URI                                                                           |
-| ------- | ------------ | -------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 4.12.0  | x64          | 16/5/2022 7:57:24 pm | 72311592 | a7a3fdb0de9e69087cc969f501cdd0d5 | b221ccdb2bbc5a8209a292f858ae05fd87f882f79be75b37d26faa881523c057 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86_64.exe |
-| 4.12.0  | x64          | 16/5/2022 7:57:25 pm | 74002632 | 40ec9cc634375a21d13f64356567b3b5 | 94f24e52e316fa935ccf94b0c504ceca8e6abc6190c68378e18550c95bb7cee1 | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86_64.exe |
-| 4.12.0  | x64          | 16/5/2022 7:57:25 pm | 74687656 | db94d2476895f7a838a89a396ac75a0b | 1acbc2e8277ddd54a5f724896c7edee112d068529588d944702966c867e7e9cc | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe |
-| 4.12.0  | x86          | 16/5/2022 7:57:25 pm | 68643808 | 8e93fdd25b917421db92dd7c7882f1d1 | a6af674b984a333b53aaf99043f6af4f50b0bb2ab78e0b732aa60c47bbfb0704 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86.exe    |
-| 4.12.0  | x86          | 16/5/2022 7:57:24 pm | 70068144 | 00ddd3da3f79855148176a1fc244dc51 | 60cc5874b3cce9d80a38fb2b28df96d880e8e95d1b5848b15c20f1181e2807db | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86.exe    |
-| 4.12.0  | x86          | 16/5/2022 7:57:25 pm | 71081736 | 9753453d01c8369e3679d083f7ced75c | 4fb64e6c9c28b88beab16994bfba4829110ea3145baa60bda5344174ab65d462 | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86.exe    |
+| Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                           |
+| ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 4.12.0  | x64          | 05/16/2022 19:57:24 | 72311592 | a7a3fdb0de9e69087cc969f501cdd0d5 | b221ccdb2bbc5a8209a292f858ae05fd87f882f79be75b37d26faa881523c057 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86_64.exe |
+| 4.12.0  | x64          | 05/16/2022 19:57:25 | 74002632 | 40ec9cc634375a21d13f64356567b3b5 | 94f24e52e316fa935ccf94b0c504ceca8e6abc6190c68378e18550c95bb7cee1 | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86_64.exe |
+| 4.12.0  | x64          | 05/16/2022 19:57:25 | 74687656 | db94d2476895f7a838a89a396ac75a0b | 1acbc2e8277ddd54a5f724896c7edee112d068529588d944702966c867e7e9cc | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe |
+| 4.12.0  | x86          | 05/16/2022 19:57:25 | 68643808 | 8e93fdd25b917421db92dd7c7882f1d1 | a6af674b984a333b53aaf99043f6af4f50b0bb2ab78e0b732aa60c47bbfb0704 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86.exe    |
+| 4.12.0  | x86          | 05/16/2022 19:57:24 | 70068144 | 00ddd3da3f79855148176a1fc244dc51 | 60cc5874b3cce9d80a38fb2b28df96d880e8e95d1b5848b15c20f1181e2807db | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86.exe    |
+| 4.12.0  | x86          | 05/16/2022 19:57:25 | 71081736 | 9753453d01c8369e3679d083f7ced75c | 4fb64e6c9c28b88beab16994bfba4829110ea3145baa60bda5344174ab65d462 | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86.exe    |
 
 ## Minitab
 
@@ -1520,27 +1006,27 @@
 
 ## MirantisLens
 
-| Version                 | Architecture | Release | Date                 | Size      | Sha512                                                                                   | URI                                                                                             |
-| ----------------------- | ------------ | ------- | -------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 5.5.0-beta.1.20220513.1 | x64          | Alpha   | 13/5/2022 6:27:28 pm | 248311856 | dbOYXRVrY6NgyPfpcHi2vSYP6ieXpEHGILhCHFp7+zI2QRDgfJthYoDAkAGYa+Rf3yOmgS/0F7CGeWYRTxmHcw== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-beta.1.20220513.1.exe |
-| 5.4.6-latest.20220428.1 | x64          | Stable  | 28/4/2022 2:21:26 pm | 277080280 | aXVHnPXdPvPqrYvpysxW4bGa47iJiNwhwQXUEBKz65j2a1Wkn4qqke+WXL/g7X/EX+AzaaBr3I5MGOEAXgGyFQ== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.4.6-latest.20220428.1.exe |
+| Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                                             |
+| ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 5.5.0-beta.1.20220513.1 | x64          | Alpha   | 05/13/2022 18:27:28 | 248311856 | dbOYXRVrY6NgyPfpcHi2vSYP6ieXpEHGILhCHFp7+zI2QRDgfJthYoDAkAGYa+Rf3yOmgS/0F7CGeWYRTxmHcw== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-beta.1.20220513.1.exe |
+| 5.4.6-latest.20220428.1 | x64          | Stable  | 04/28/2022 14:21:26 | 277080280 | aXVHnPXdPvPqrYvpysxW4bGa47iJiNwhwQXUEBKz65j2a1Wkn4qqke+WXL/g7X/EX+AzaaBr3I5MGOEAXgGyFQ== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.4.6-latest.20220428.1.exe |
 
 ## MozillaFirefox
 
 | Version | Architecture | Channel                | Language | Type | Filename                    | URI                                                                                                                           |
 | ------- | ------------ | ---------------------- | -------- | ---- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 100.0.1 | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.1.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win64-aarch64/en-US/Firefox%20Setup%20100.0.1.exe     |
-| 100.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.1.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win64/en-US/Firefox%20Setup%20100.0.1.exe             |
-| 100.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 100.0.1.msi   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win64/en-US/Firefox%20Setup%20100.0.1.msi             |
-| 100.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 100.0.1.msix  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win64/multi/Firefox%20Setup%20100.0.1.msix            |
-| 100.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.1.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win32/en-US/Firefox%20Setup%20100.0.1.exe             |
-| 100.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 100.0.1.msi   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win32/en-US/Firefox%20Setup%20100.0.1.msi             |
-| 100.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 100.0.1.msix  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.1/win32/multi/Firefox%20Setup%20100.0.1.msix            |
-| 91.9.0  | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.0esr/win64-aarch64/en-US/Firefox%20Setup%2091.9.0esr.exe |
-| 91.9.0  | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.0esr/win64/en-US/Firefox%20Setup%2091.9.0esr.exe         |
-| 91.9.0  | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.9.0esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.0esr/win64/en-US/Firefox%20Setup%2091.9.0esr.msi         |
-| 91.9.0  | x86          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.0esr/win32/en-US/Firefox%20Setup%2091.9.0esr.exe         |
-| 91.9.0  | x86          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.9.0esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.0esr/win32/en-US/Firefox%20Setup%2091.9.0esr.msi         |
+| 100.0.2 | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.2.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64-aarch64/en-US/Firefox%20Setup%20100.0.2.exe     |
+| 100.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.2.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64/en-US/Firefox%20Setup%20100.0.2.exe             |
+| 100.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 100.0.2.msi   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64/en-US/Firefox%20Setup%20100.0.2.msi             |
+| 100.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 100.0.2.msix  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64/multi/Firefox%20Setup%20100.0.2.msix            |
+| 100.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.2.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win32/en-US/Firefox%20Setup%20100.0.2.exe             |
+| 100.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 100.0.2.msi   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win32/en-US/Firefox%20Setup%20100.0.2.msi             |
+| 100.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 100.0.2.msix  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win32/multi/Firefox%20Setup%20100.0.2.msix            |
+| 91.9.1  | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.1esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win64-aarch64/en-US/Firefox%20Setup%2091.9.1esr.exe |
+| 91.9.1  | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.1esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win64/en-US/Firefox%20Setup%2091.9.1esr.exe         |
+| 91.9.1  | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.9.1esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win64/en-US/Firefox%20Setup%2091.9.1esr.msi         |
+| 91.9.1  | x86          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.1esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win32/en-US/Firefox%20Setup%2091.9.1esr.exe         |
+| 91.9.1  | x86          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.9.1esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win32/en-US/Firefox%20Setup%2091.9.1esr.msi         |
 
 ## MozillaThunderbird
 
@@ -1692,7 +1178,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2022.1.2584 | 05/11/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.1.2584-x64.msi |
+| 2022.1.2637 | 05/19/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.1.2637-x64.msi |
 
 ## OctopusTentacle
 
@@ -1736,10 +1222,10 @@
 
 ## OpenWebStart
 
-| Version | Platform | Architecture | Type | Date                  | Size     | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | --------------------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 1.6.0   | Windows  | x64          | exe  | 16/5/2022 10:32:43 am | 54949816 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x64_1_6_0.exe |
-| 1.6.0   | Windows  | x86          | exe  | 16/5/2022 10:32:43 am | 55648184 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x32_1_6_0.exe |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
+| 1.6.0   | Windows  | x64          | exe  | 05/16/2022 | 54949816 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x64_1_6_0.exe |
+| 1.6.0   | Windows  | x86          | exe  | 05/16/2022 | 55648184 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x32_1_6_0.exe |
 
 ## OperaBrowser
 
@@ -1752,8 +1238,8 @@
 
 | Version      | Architecture | Type | URI                                                                                         |
 | ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 85.0.4341.79 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/85.0.4341.79/win/Opera_GX_85.0.4341.79_Setup_x64.exe |
-| 85.0.4341.79 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/85.0.4341.79/win/Opera_GX_85.0.4341.79_Setup.exe     |
+| 86.0.4363.64 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/86.0.4363.64/win/Opera_GX_86.0.4363.64_Setup_x64.exe |
+| 86.0.4363.64 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/86.0.4363.64/win/Opera_GX_86.0.4363.64_Setup.exe     |
 
 ## OracleJava8
 
@@ -1776,20 +1262,20 @@
 
 ## PaintDotNetOfflineInstaller
 
-| Version | Platform | Architecture | Type | Date                  | Size     | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | --------------------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 4.3.10  | Windows  | ARM64        | zip  | 18/11/2021 1:54:33 am | 55394276 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.arm64.zip |
-| 4.3.10  | Windows  | ARM64        | zip  | 18/11/2021 1:54:33 am | 65810343 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.arm64.zip  |
-| 4.3.10  | Windows  | x64          | zip  | 18/11/2021 1:54:33 am | 63951012 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.x64.zip   |
-| 4.3.10  | Windows  | x64          | zip  | 18/11/2021 1:54:33 am | 74156254 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.x64.zip    |
-| 4.3.10  | Windows  | x86          | zip  | 18/11/2021 1:54:33 am | 57389084 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.x86.zip   |
-| 4.3.10  | Windows  | x86          | zip  | 18/11/2021 1:54:33 am | 67473288 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.x86.zip    |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
+| 4.3.10  | Windows  | ARM64        | zip  | 11/18/2021 | 55394276 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.arm64.zip |
+| 4.3.10  | Windows  | ARM64        | zip  | 11/18/2021 | 65810343 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.arm64.zip  |
+| 4.3.10  | Windows  | x64          | zip  | 11/18/2021 | 63951012 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.x64.zip   |
+| 4.3.10  | Windows  | x64          | zip  | 11/18/2021 | 74156254 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.x64.zip    |
+| 4.3.10  | Windows  | x86          | zip  | 11/18/2021 | 57389084 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.x86.zip   |
+| 4.3.10  | Windows  | x86          | zip  | 11/18/2021 | 67473288 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.x86.zip    |
 
 ## Pandoc
 
-| Version | Platform | Architecture | Type | Date                | Size     | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------------- | -------- | ----------------------------------------------------------------------------------- |
-| 2.18    | Windows  | x64          | msi  | 4/4/2022 4:47:32 pm | 24199168 | https://github.com/jgm/pandoc/releases/download/2.18/pandoc-2.18-windows-x86_64.msi |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------- |
+| 2.18    | Windows  | x64          | msi  | 04/04/2022 | 24199168 | https://github.com/jgm/pandoc/releases/download/2.18/pandoc-2.18-windows-x86_64.msi |
 
 ## PDFForgePDFCreator
 
@@ -1799,11 +1285,11 @@
 
 ## PeaZipPeaZip
 
-| Version | Platform | Architecture | Type | Date                | Size    | URI                                                                               |
-| ------- | -------- | ------------ | ---- | ------------------- | ------- | --------------------------------------------------------------------------------- |
-| 8.6.0   | Windows  | x64          | exe  | 5/4/2022 4:50:10 pm | 9514934 | https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WIN64.exe   |
-| 8.6.0   | Windows  | x64          | msi  | 5/4/2022 4:50:10 pm | 9715712 | https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WIN64.msi   |
-| 8.6.0   | Windows  | x86          | exe  | 5/4/2022 4:50:10 pm | 8769205 | https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WINDOWS.exe |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                               |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------- |
+| 8.6.0   | Windows  | x64          | exe  | 04/05/2022 | 9514934 | https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WIN64.exe   |
+| 8.6.0   | Windows  | x64          | msi  | 04/05/2022 | 9715712 | https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WIN64.msi   |
+| 8.6.0   | Windows  | x86          | exe  | 04/05/2022 | 8769205 | https://github.com/peazip/PeaZip/releases/download/8.6.0/peazip-8.6.0.WINDOWS.exe |
 
 ## Postman
 
@@ -1814,10 +1300,10 @@
 
 ## Praat
 
-| Version | Platform | Architecture | Type | Date                 | Size     | URI                                                                          |
-| ------- | -------- | ------------ | ---- | -------------------- | -------- | ---------------------------------------------------------------------------- |
-| 6.2.12  | Windows  | x64          | zip  | 17/4/2022 4:55:15 pm | 13388565 | https://github.com/praat/praat/releases/download/v6.2.12/praat6212_win64.zip |
-| 6.2.12  | Windows  | x86          | zip  | 17/4/2022 4:55:15 pm | 12970824 | https://github.com/praat/praat/releases/download/v6.2.12/praat6212_win32.zip |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------- |
+| 6.2.13  | Windows  | x64          | zip  | 05/18/2022 | 13398982 | https://github.com/praat/praat/releases/download/v6.2.13/praat6213_win64.zip |
+| 6.2.13  | Windows  | x86          | zip  | 05/18/2022 | 12978656 | https://github.com/praat/praat/releases/download/v6.2.13/praat6213_win32.zip |
 
 ## ProjectLibre
 
@@ -1827,15 +1313,15 @@
 
 ## Protege
 
-| Version | Platform | Architecture | Type | Date                  | Size      | URI                                                                                                   |
-| ------- | -------- | ------------ | ---- | --------------------- | --------- | ----------------------------------------------------------------------------------------------------- |
-| 5.5.0   | Windows  | x86          | zip  | 14/3/2019 10:37:00 pm | 122786263 | https://github.com/protegeproject/protege-distribution/releases/download/v5.5.0/Protege-5.5.0-win.zip |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
+| 5.5.0   | Windows  | x86          | zip  | 03/14/2019 | 122786263 | https://github.com/protegeproject/protege-distribution/releases/download/v5.5.0/Protege-5.5.0-win.zip |
 
 ## PSAppDeployToolkit
 
-| Version | Platform | Architecture | Type | Date                 | Size    | URI                                                                                                            |
-| ------- | -------- | ------------ | ---- | -------------------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 3.8.4   | Windows  | x86          | zip  | 27/1/2021 3:42:35 am | 1755586 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.8.4/PSAppDeployToolkit_v3.8.4.zip |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
+| 3.8.4   | Windows  | x86          | zip  | 01/27/2021 | 1755586 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.8.4/PSAppDeployToolkit_v3.8.4.zip |
 
 ## PSFPython
 
@@ -1862,19 +1348,19 @@
 
 ## RDAnalyzer
 
-| Version    | Platform | Architecture | Type | Date                 | Size    | URI                                                                                          |
-| ---------- | -------- | ------------ | ---- | -------------------- | ------- | -------------------------------------------------------------------------------------------- |
-| 2106.165.1 | Windows  | x86          | exe  | 14/5/2021 9:25:55 am | 2412904 | https://github.com/RDAnalyzer/release/releases/download/2106.165.1/RemoteDisplayAnalyzer.exe |
+| Version    | Platform | Architecture | Type | Date       | Size    | URI                                                                                          |
+| ---------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
+| 2106.165.1 | Windows  | x86          | exe  | 05/14/2021 | 2412904 | https://github.com/RDAnalyzer/release/releases/download/2106.165.1/RemoteDisplayAnalyzer.exe |
 
 ## RingCentral
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 22.1.31 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
-| 22.1.31 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
-| 22.1.31 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
-| 22.1.31 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
-| 22.1.31 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
+| 22.2.10 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
+| 22.2.10 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
+| 22.2.10 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
+| 22.2.10 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
+| 22.2.10 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
 
 ## RStudio
 
@@ -1899,11 +1385,11 @@
 
 ## SafeExamBrowser
 
-| Version | Platform | Architecture | Type | Date                 | Size      | URI                                                                                                          |
-| ------- | -------- | ------------ | ---- | -------------------- | --------- | ------------------------------------------------------------------------------------------------------------ |
-| 3.3.2   | Windows  | x64          | msi  | 28/1/2022 3:13:47 pm | 113934336 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x64_Setup.msi   |
-| 3.3.2   | Windows  | x86          | exe  | 28/1/2022 3:13:47 pm | 222215688 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_SetupBundle.exe |
-| 3.3.2   | Windows  | x86          | msi  | 28/1/2022 3:13:47 pm | 107929600 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x86_Setup.msi   |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                          |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
+| 3.3.2   | Windows  | x64          | msi  | 01/28/2022 | 113934336 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x64_Setup.msi   |
+| 3.3.2   | Windows  | x86          | exe  | 01/28/2022 | 222215688 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_SetupBundle.exe |
+| 3.3.2   | Windows  | x86          | msi  | 01/28/2022 | 107929600 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x86_Setup.msi   |
 
 ## SAGAGIS
 
@@ -1926,30 +1412,30 @@
 
 ## ScreenToGif
 
-| Version | Platform | Architecture | Type | Date                 | Size     | URI                                                                                                          |
-| ------- | -------- | ------------ | ---- | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------ |
-| 2.37    | Windows  | ARM64        | msi  | 1/5/2022 12:37:40 am | 69095424 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Setup.Arm64.msi          |
-| 2.37    | Windows  | ARM64        | msi  | 1/5/2022 12:37:40 am | 9084928  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Setup.Arm64.msi    |
-| 2.37    | Windows  | ARM64        | msix | 1/5/2022 12:37:40 am | 66468328 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Package.arm64.msix       |
-| 2.37    | Windows  | ARM64        | zip  | 1/5/2022 12:37:40 am | 7290535  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Portable.Arm64.zip |
-| 2.37    | Windows  | ARM64        | zip  | 1/5/2022 12:37:40 am | 67286670 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Portable.Arm64.zip       |
-| 2.37    | Windows  | x64          | msi  | 1/5/2022 12:37:40 am | 9121792  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Setup.x64.msi      |
-| 2.37    | Windows  | x64          | msi  | 1/5/2022 12:37:40 am | 72802304 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Setup.x64.msi            |
-| 2.37    | Windows  | x64          | msix | 1/5/2022 12:37:40 am | 79162728 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Package.x64.msix         |
-| 2.37    | Windows  | x64          | zip  | 1/5/2022 12:37:40 am | 7298933  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Portable.x64.zip   |
-| 2.37    | Windows  | x64          | zip  | 1/5/2022 12:37:40 am | 70996339 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Portable.x64.zip         |
-| 2.37    | Windows  | x86          | msi  | 1/5/2022 12:37:40 am | 9072640  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Setup.x86.msi      |
-| 2.37    | Windows  | x86          | msi  | 1/5/2022 12:37:40 am | 67264512 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Setup.x86.msi            |
-| 2.37    | Windows  | x86          | msix | 1/5/2022 12:37:40 am | 65370957 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Package.x86.msix         |
-| 2.37    | Windows  | x86          | zip  | 1/5/2022 12:37:40 am | 7278580  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Portable.x86.zip   |
-| 2.37    | Windows  | x86          | zip  | 1/5/2022 12:37:40 am | 65467927 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Portable.x86.zip         |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                          |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |
+| 2.37    | Windows  | ARM64        | msi  | 05/01/2022 | 9084928  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Setup.Arm64.msi    |
+| 2.37    | Windows  | ARM64        | msi  | 05/01/2022 | 69095424 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Setup.Arm64.msi          |
+| 2.37    | Windows  | ARM64        | msix | 05/01/2022 | 66468328 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Package.arm64.msix       |
+| 2.37    | Windows  | ARM64        | zip  | 05/01/2022 | 7290535  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Portable.Arm64.zip |
+| 2.37    | Windows  | ARM64        | zip  | 05/01/2022 | 67286670 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Portable.Arm64.zip       |
+| 2.37    | Windows  | x64          | msi  | 05/01/2022 | 9121792  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Setup.x64.msi      |
+| 2.37    | Windows  | x64          | msi  | 05/01/2022 | 72802304 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Setup.x64.msi            |
+| 2.37    | Windows  | x64          | msix | 05/01/2022 | 79162728 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Package.x64.msix         |
+| 2.37    | Windows  | x64          | zip  | 05/01/2022 | 7298933  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Portable.x64.zip   |
+| 2.37    | Windows  | x64          | zip  | 05/01/2022 | 70996339 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Portable.x64.zip         |
+| 2.37    | Windows  | x86          | msi  | 05/01/2022 | 9072640  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Setup.x86.msi      |
+| 2.37    | Windows  | x86          | msi  | 05/01/2022 | 67264512 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Setup.x86.msi            |
+| 2.37    | Windows  | x86          | msix | 05/01/2022 | 65370957 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Package.x86.msix         |
+| 2.37    | Windows  | x86          | zip  | 05/01/2022 | 7278580  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Light.Portable.x86.zip   |
+| 2.37    | Windows  | x86          | zip  | 05/01/2022 | 65467927 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37/ScreenToGif.2.37.Portable.x86.zip         |
 
 ## ShareX
 
-| Version | Platform | Architecture | Type | Date                  | Size    | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | --------------------- | ------- | ------------------------------------------------------------------------------------- |
-| 13.7.0  | Windows  | x86          | exe  | 29/12/2021 1:15:53 pm | 7417058 | https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-setup.exe    |
-| 13.7.0  | Windows  | x86          | zip  | 29/12/2021 1:15:53 pm | 7532469 | https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-portable.zip |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------- |
+| 13.7.0  | Windows  | x86          | exe  | 12/29/2021 | 7417058 | https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-setup.exe    |
+| 13.7.0  | Windows  | x86          | zip  | 12/29/2021 | 7532469 | https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-portable.zip |
 
 ## SignalDesktop
 
@@ -1973,10 +1459,10 @@
 
 ## StefansToolsgregpWin
 
-| Version | Platform | Architecture | Type | Date                 | Size    | URI                                                                                    |
-| ------- | -------- | ------------ | ---- | -------------------- | ------- | -------------------------------------------------------------------------------------- |
-| 2.0.10  | Windows  | x64          | msi  | 19/2/2022 8:24:17 am | 1597440 | https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10-x64.msi |
-| 2.0.10  | Windows  | x86          | msi  | 19/2/2022 8:24:17 am | 806912  | https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10.msi     |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                    |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------- |
+| 2.0.10  | Windows  | x64          | msi  | 02/19/2022 | 1597440 | https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10-x64.msi |
+| 2.0.10  | Windows  | x86          | msi  | 02/19/2022 | 806912  | https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10.msi     |
 
 ## SumatraPDFReader
 
@@ -2044,23 +1530,23 @@
 
 ## Terminals
 
-| Version | Platform | Architecture | Type | Date                  | Size    | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | --------------------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 4.0.1   | Windows  | x86          | msi  | 21/6/2017 11:07:43 pm | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
+| 4.0.1   | Windows  | x86          | msi  | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
 
 ## TeXstudio
 
-| Version | Platform | Architecture | Type | Date                 | Size      | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | -------------------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 4.2.3   | Windows  | x86          | exe  | 17/4/2022 7:55:12 am | 114180949 | https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-win-qt5.exe |
-| 4.2.3   | Windows  | x86          | exe  | 17/4/2022 7:55:12 am | 127056531 | https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-win-qt6.exe |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
+| 4.2.3   | Windows  | x86          | exe  | 04/17/2022 | 114180949 | https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-win-qt5.exe |
+| 4.2.3   | Windows  | x86          | exe  | 04/17/2022 | 127056531 | https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-win-qt6.exe |
 
 ## TogglDesktop
 
-| Version | Platform | Architecture | Type | Date                  | Size    | URI                                                                                                                |
-| ------- | -------- | ------------ | ---- | --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 7.5.363 | Windows  | x64          | exe  | 30/10/2020 9:12:54 am | 5850944 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe |
-| 7.5.363 | Windows  | x86          | exe  | 30/10/2020 9:12:54 am | 5449608 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe     |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 7.5.363 | Windows  | x64          | exe  | 10/30/2020 | 5850944 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe |
+| 7.5.363 | Windows  | x86          | exe  | 10/30/2020 | 5449608 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe     |
 
 ## TorProjectTorBrowser
 
@@ -2150,9 +1636,9 @@
 
 ## USBPcap
 
-| Version | Platform | Architecture | Type | Date                 | Size   | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | -------------------- | ------ | ------------------------------------------------------------------------------------- |
-| 1.5.4.0 | Windows  | x86          | exe  | 22/5/2020 8:52:47 am | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
+| Version | Platform | Architecture | Type | Date       | Size   | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ---------- | ------ | ------------------------------------------------------------------------------------- |
+| 1.5.4.0 | Windows  | x86          | exe  | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
 
 ## VastLimitsUberAgent
 
@@ -2170,9 +1656,9 @@
 
 ## VercelHyper
 
-| Version | Platform | Architecture | Type | Date                 | Size     | URI                                                                            |
-| ------- | -------- | ------------ | ---- | -------------------- | -------- | ------------------------------------------------------------------------------ |
-| 3.2.3   | Windows  | x86          | exe  | 15/4/2022 9:14:32 pm | 67179984 | https://github.com/vercel/hyper/releases/download/v3.2.3/Hyper-Setup-3.2.3.exe |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------ |
+| 3.2.3   | Windows  | x86          | exe  | 04/15/2022 | 67179984 | https://github.com/vercel/hyper/releases/download/v3.2.3/Hyper-Setup-3.2.3.exe |
 
 ## VideoLanVlcPlayer
 
@@ -2187,9 +1673,9 @@
 
 ## VisualCppRedistAIO
 
-| Version | Platform | Architecture | Type | Date                 | Size     | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | -------------------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 0.60.0  | Windows  | x64          | zip  | 8/4/2022 12:14:03 pm | 28848939 | https://github.com/abbodi1406/vcredist/releases/download/v0.60.0/VisualCppRedist_AIO_x86_x64_60.zip |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
+| 0.60.0  | Windows  | x64          | zip  | 04/08/2022 | 28848939 | https://github.com/abbodi1406/vcredist/releases/download/v0.60.0/VisualCppRedist_AIO_x86_x64_60.zip |
 
 ## VMwareHorizonClient
 
@@ -2197,12 +1683,25 @@
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 8.5.0.19584195 | https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.5.0/19584195/VMware-Horizon-Client-2203-8.5.0-19584195.exe.tar |
 
+## VMwareHorizonClientAlt
+
+| Version | Date       | Sha256                                                           | Size      | Type | Title                             | URI                                                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 2203    | 04/05/2022 | 5ffc00d377efda8d413e0cc95d9f56c05d33ba8813fd29834a0da9a054bab205 | 333.94 MB | exe  | VMware Horizon Client for Windows | https://download3.vmware.com/software/CART23FQ1_WIN_2203/VMware-Horizon-Client-2203-8.5.0-19584195.exe |
+
+## VMwareOSOptimizationTool
+
+| Version | Date       | Sha256                                                           | Size      | Type | Title                                                                     | URI                                                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2203    | 04/05/2022 | 93977af42dee1cf43396bb2d5fdc9d6e6646008249ea1fa1188976d75a59d164 | 225.61 KB | zip  | VMware OS Optimization Tool plugin for Microsoft Deployment Toolkit (MDT) | https://download3.vmware.com/software/CART_OSOT_1_1/VMwareHorizonOSOptimizationMDTPlugin-x86_64-1.1.2204.19587979.zip |
+| 2203    | 04/05/2022 | ccc40a199d85afae5342bf8be742411b6bad6cec7099c73fa70eb69273b5e45d | 13.53 MB  | exe  | Windows OS Optimization Tool for Horizon                                  | https://download3.vmware.com/software/CART_OSOT_1_1/VMwareHorizonOSOptimizationTool-x86_64-1.1.2204.19587979.exe      |
+
 ## VMwareTools
 
-| Version  | Platform | Architecture | URI                                                                                                   |
-| -------- | -------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| 19588618 | Windows  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x86_64.exe |
-| 19588618 | Windows  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-i386.exe   |
+| Version | Architecture | URI                                                                                                   |
+| ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
+| 12.0.0  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x86_64.exe |
+| 12.0.0  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-i386.exe   |
 
 ## VMwareWorkstationPlayer
 
@@ -2225,10 +1724,10 @@
 
 ## Win32OpenSSH
 
-| Version | Platform | Architecture | Type | Date                  | Size    | URI                                                                                             |
-| ------- | -------- | ------------ | ---- | --------------------- | ------- | ----------------------------------------------------------------------------------------------- |
-| 8.9.1.0 | Windows  | x64          | zip  | 22/3/2022 11:30:45 pm | 4353706 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win64.zip |
-| 8.9.1.0 | Windows  | x86          | zip  | 22/3/2022 11:30:45 pm | 3792664 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win32.zip |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
+| 8.9.1.0 | Windows  | x64          | zip  | 03/22/2022 | 4353706 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win64.zip |
+| 8.9.1.0 | Windows  | x86          | zip  | 03/22/2022 | 3792664 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win32.zip |
 
 ## WinMerge
 
@@ -2256,9 +1755,9 @@
 
 ## WixToolset
 
-| Version | Platform | Architecture | Type | Date                 | Size     | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------- | -------- | -------------------------------------------------------------------------- |
-| 3.11.2  | Windows  | x86          | exe  | 17/9/2019 5:41:18 am | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                        |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------- |
+| 3.11.2  | Windows  | x86          | exe  | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
 
 ## Zoom
 
