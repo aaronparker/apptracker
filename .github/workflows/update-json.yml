@@ -160,7 +160,7 @@ jobs:
 
         # Run Pester tests
         - name: Git pull
-          shell: powershell
+          shell: pwsh
           run: |
             git config --global core.safecrlf false
             git pull origin main
@@ -199,7 +199,8 @@ jobs:
         - name: Get date
           id: get-date
           run: |
-            echo "::set-output name=date::$(Get-Date -Format "yyyy.MM.dd")"
+            DATEF=`date +%Y.%m.%d`
+            echo "::set-output name=date::$DATEF"
 
         - name: Commit changes
           id: commit
