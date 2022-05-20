@@ -34,6 +34,14 @@ Function Test-PSCore {
 
 # Step through all apps and export result to JSON
 if (Test-PSCore) {
+
+    # Remove extra files
+    $Files = Get-ChildItem -Path $Path -Filter "*.json" | Select-Object -ExpandProperty "Basename"
+    $Apps = Find-EvergreenApp | Select-Object -ExpandProperty "Name"
+    Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
+        Select-Object -ExpandProperty "InputObject" | `
+        ForEach-Object { Remove-Item -Path [System.IO.Path]::Combine($Path, "$_.json") }
+
     foreach ($App in (Find-EvergreenApp | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
 
         $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
