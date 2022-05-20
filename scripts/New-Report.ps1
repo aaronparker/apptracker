@@ -11,15 +11,7 @@ param(
     [System.String] $OutFile
 )
 
-# $Path = "./docs/json/*.json"
-# $OutFile = "./docs/index.md"
-
-# Install-PackageProvider -Name "NuGet" -MinimumVersion "2.8.5.208"
-# If (Get-PSRepository -Name "PSGallery" | Where-Object { $_.InstallationPolicy -ne "Trusted" }) {
-#     Write-Host "Trust repository: PSGallery." -ForegroundColor "Cyan"
-#     Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
-# }
-
+# Install modules
 Import-Module -Name "MarkdownPS" -Force
 
 # Update the list of supported apps in APPS.md
