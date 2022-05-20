@@ -48,7 +48,7 @@ if (Test-PSCore) {
         if ($Null -eq $Output) {
             Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
         }
-        elseif ($Output[0].Version -eq "RateLimited") {
+        elseif ("RateLimited" -in $Output.Version) {
             Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
         }
         else {
