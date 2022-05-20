@@ -8,7 +8,10 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String] $OutFile
+    [System.String] $AppsFile,
+
+    [ValidateNotNullOrEmpty()]
+    [System.String] $AboutFile
 )
 
 # Install modules
@@ -24,4 +27,14 @@ foreach ($File in (Get-ChildItem -Path $Path)) {
     $Markdown += $Table
     $Markdown += "`n"
 }
-($Markdown.TrimEnd("`n")) | Out-File -FilePath $OutFile -Force -Encoding "Utf8"
+$Markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
+
+# Update the generated date in about.md
+$About = @"
+# App Version Tracker
+
+This page tracks application versions via [Evergreen](https://stealthpuppy.com/evergreen/).
+
+Last update: #DATE (UTC)
+"@
+$About -replace "#DATE", (Get-Date -AsUTC) | Out-File -FilePath Path $AboutFile -Force -Encoding "Utf8" -NoNewline
