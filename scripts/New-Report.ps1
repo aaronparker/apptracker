@@ -14,19 +14,13 @@ param(
 # $Path = "./docs/json/*.json"
 # $OutFile = "./docs/index.md"
 
-Install-PackageProvider -Name "NuGet" -MinimumVersion "2.8.5.208"
-If (Get-PSRepository -Name "PSGallery" | Where-Object { $_.InstallationPolicy -ne "Trusted" }) {
-    Write-Host "Trust repository: PSGallery." -ForegroundColor "Cyan"
-    Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
-}
-$Modules = @("MarkdownPS")
-ForEach ($Module in $Modules) {
-    If ([System.Version]((Find-Module -Name $Module).Version) -gt (Get-Module -Name $Module -ListAvailable).Version) {
-        Write-Host "Checking module $Module." -ForegroundColor "Cyan"
-        Install-Module -Name $Module -SkipPublisherCheck -Force
-        Import-Module -Name $Module -Force
-    }
-}
+# Install-PackageProvider -Name "NuGet" -MinimumVersion "2.8.5.208"
+# If (Get-PSRepository -Name "PSGallery" | Where-Object { $_.InstallationPolicy -ne "Trusted" }) {
+#     Write-Host "Trust repository: PSGallery." -ForegroundColor "Cyan"
+#     Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
+# }
+
+Import-Module -Name "MarkdownPS" -Force
 
 # Update the list of supported apps in APPS.md
 $Markdown = New-MDHeader -Text "Application Versions" -Level 1
