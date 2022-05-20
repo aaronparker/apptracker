@@ -1,20 +1,20 @@
-﻿[
-    {
-        "Version":  "8.9.1.0",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "zip",
-        "Date":  "2022-03-22T23:30:45Z",
-        "Size":  4353706,
-        "URI":  "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win64.zip"
-    },
-    {
-        "Version":  "8.9.1.0",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "zip",
-        "Date":  "2022-03-22T23:30:45Z",
-        "Size":  3792664,
-        "URI":  "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win32.zip"
-    }
+[
+  {
+    "Version": "8.9.1.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "Date": "03/22/2022",
+    "Size": 4353706,
+    "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win64.zip"
+  },
+  {
+    "Version": "8.9.1.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "Date": "03/22/2022",
+    "Size": 3792664,
+    "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v8.9.1.0p1-Beta/OpenSSH-Win32.zip"
+  }
 ]
