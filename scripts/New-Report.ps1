@@ -31,10 +31,10 @@ $Markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
 
 # Update the generated date in about.md
 $About = @"
-# App Version Tracker
+# About
 
-This page tracks application versions via [Evergreen](https://stealthpuppy.com/evergreen/).
+This site tracks current application versions via [Evergreen](https://stealthpuppy.com/evergreen/).
 
-Last update: #DATE (UTC)
+Last update: **#DATE** (UTC)
 "@
 $About -replace "#DATE", (Get-Date -AsUTC) | Out-File -FilePath Path $AboutFile -Force -Encoding "Utf8" -NoNewline
