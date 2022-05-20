@@ -464,9 +464,9 @@
 
 ## Gimp
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.nju.edu.cn/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -644,9 +644,9 @@
 
 ## jrsoftwareInnoSetup
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -868,14 +868,14 @@
 
 ## MicrosoftPowerShell
 
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              | Release |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
-| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | LTS     |
-| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | Stable  |
-| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | LTS     |
-| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | Stable  |
-| 7.0.11  | Windows  | x64          | msi  | 05/17/2022 | 92090368  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x64.msi | LTS     |
-| 7.0.11  | Windows  | x86          | msi  | 05/17/2022 | 83644416  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x86.msi | LTS     |
+| Version | Platform | Architecture | Type | Date                | Size      | URI                                                                                              | Release |
+| ------- | -------- | ------------ | ---- | ------------------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
+| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 18:00:25 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | LTS     |
+| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 18:00:25 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | Stable  |
+| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 18:00:25 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | LTS     |
+| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 18:00:25 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | Stable  |
+| 7.0.11  | Windows  | x64          | msi  | 05/17/2022 17:07:46 | 92090368  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x64.msi | LTS     |
+| 7.0.11  | Windows  | x86          | msi  | 05/17/2022 17:07:46 | 83644416  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x86.msi | LTS     |
 
 ## MicrosoftPowerToys
 
@@ -1032,70 +1032,70 @@
 
 | Version | Architecture | Channel                    | Language | Type | Filename                     | URI                                                                                                                     |
 | ------- | ------------ | -------------------------- | -------- | ---- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/ar/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/ar/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/de/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/de/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/en-CA/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/en-CA/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/en-GB/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/en-GB/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/en-US/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/en-US/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/es-ES/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/es-ES/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/fr/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/fr/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/it/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/it/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/ja/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/ja/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/nl/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/nl/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/pt-BR/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/pt-BR/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/pt-PT/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/pt-PT/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/ru/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/ru/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/sv-SE/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/sv-SE/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/zh-CN/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/zh-CN/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/zh-TW/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win64/zh-TW/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/ar/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/ar/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/de/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/de/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/en-CA/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/en-CA/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/en-GB/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/en-GB/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/en-US/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/en-US/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/es-ES/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/es-ES/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/fr/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/fr/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/it/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/it/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/ja/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/ja/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/nl/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/nl/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/pt-BR/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/pt-BR/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/pt-PT/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/pt-PT/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/ru/Thunderbird%20Setup%2091.9.0.exe    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/ru/Thunderbird%20Setup%2091.9.0.msi    |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/sv-SE/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/sv-SE/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/zh-CN/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/zh-CN/Thunderbird%20Setup%2091.9.0.msi |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 91.9.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/zh-TW/Thunderbird%20Setup%2091.9.0.exe |
-| 91.9.0  | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 91.9.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.0/win32/zh-TW/Thunderbird%20Setup%2091.9.0.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/ar/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/ar/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/de/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/de/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/en-CA/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/en-CA/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/en-GB/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/en-GB/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/en-US/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/en-US/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/es-ES/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/es-ES/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/fr/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/fr/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/it/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/it/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/ja/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/ja/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/nl/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/nl/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/pt-BR/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/pt-BR/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/pt-PT/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/pt-PT/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/ru/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/ru/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/sv-SE/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/sv-SE/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/zh-CN/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/zh-CN/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/zh-TW/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win64/zh-TW/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/ar/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/ar/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/de/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/de/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/en-CA/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/en-CA/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/en-GB/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/en-GB/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/en-US/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/en-US/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/es-ES/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/es-ES/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/fr/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/fr/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/it/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/it/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/ja/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/ja/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/nl/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/nl/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/pt-BR/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/pt-BR/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/pt-PT/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/pt-PT/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/ru/Thunderbird%20Setup%2091.9.1.exe    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/ru/Thunderbird%20Setup%2091.9.1.msi    |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/sv-SE/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/sv-SE/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/zh-CN/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/zh-CN/Thunderbird%20Setup%2091.9.1.msi |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 91.9.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/zh-TW/Thunderbird%20Setup%2091.9.1.exe |
+| 91.9.1  | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 91.9.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/91.9.1/win32/zh-TW/Thunderbird%20Setup%2091.9.1.msi |
 
 ## mRemoteNG
 
@@ -1662,14 +1662,14 @@
 
 ## VideoLanVlcPlayer
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
