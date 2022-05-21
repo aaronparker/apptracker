@@ -40,7 +40,7 @@ if (Test-PSCore) {
     $Apps = Find-EvergreenApp | Select-Object -ExpandProperty "Name"
     Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
         Select-Object -ExpandProperty "InputObject" | `
-        ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) }
+        ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue" }
 
     foreach ($App in (Find-EvergreenApp | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
 
