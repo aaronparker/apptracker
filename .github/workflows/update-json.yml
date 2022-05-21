@@ -190,8 +190,9 @@ jobs:
           shell: pwsh
           run: |
             $params = @{
-              Path = "${{ github.workspace }}/docs/json/*.json"
-              OutFile = "${{ github.workspace }}/docs/index.md"
+              Path      = "${{ github.workspace }}/docs/json/*.json"
+              AppsFile  = "${{ github.workspace }}/docs/index.md"
+              AboutFile = "${{ github.workspace }}/docs/about.md"
             }
             . "${{ github.workspace }}/scripts/New-Report.ps1" @params
 
