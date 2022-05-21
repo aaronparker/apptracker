@@ -464,9 +464,9 @@
 
 ## Gimp
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.lysator.liu.se/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.nju.edu.cn/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -556,8 +556,8 @@
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
-| 1.3.0   | zip  | x64          | https://releases.hashicorp.com/nomad/1.3.0/nomad_1.3.0_windows_amd64.zip |
-| 1.3.0   | zip  | x86          | https://releases.hashicorp.com/nomad/1.3.0/nomad_1.3.0_windows_386.zip   |
+| 1.3.1   | zip  | x64          | https://releases.hashicorp.com/nomad/1.3.1/nomad_1.3.1_windows_amd64.zip |
+| 1.3.1   | zip  | x86          | https://releases.hashicorp.com/nomad/1.3.1/nomad_1.3.1_windows_386.zip   |
 
 ## HashicorpPacker
 
@@ -644,9 +644,9 @@
 
 ## jrsoftwareInnoSetup
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -752,7 +752,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15313.20000 | BetaChannel       | Beta                                  | 05/17/2022 18:11:46 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15225.20150 | CurrentPreview    | Current Channel (Preview)             | 05/16/2022 19:07:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15225.20194 | CurrentPreview    | Current Channel (Preview)             | 05/20/2022 22:40:05 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15128.20248 | Current           | Current Channel                       | 05/17/2022 21:00:15 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15028.20248 | MonthlyEnterprise | Monthly Enterprise                    | 05/10/2022 17:52:52 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20392 | SemiAnnualPreview | Semi-Annual Channel Preview           | 05/10/2022 18:43:16 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -764,8 +764,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | 558703fd2b4e4aa0ee093eb3df34b77095ebb77f19c2cf02a479cf2746205bfa | https://sqlopsbuilds.azureedge.net/insider/97a4ecdfbb6216c86defdaa1de2d6430b309c3a6/azuredatastudio-windows-setup-1.37.0-insider.exe      |
-| 1.37.0  | win32-x64-user | Insider | 10ce0f26715817cf87e738733e87a97169333ddc79ed6c825056be49363ba0f0 | https://sqlopsbuilds.azureedge.net/insider/97a4ecdfbb6216c86defdaa1de2d6430b309c3a6/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
+| 1.37.0  | win32-x64      | Insider | 7551f6d923984d821c8edb347141e7978f89ea6eba648611e885bef15f721d66 | https://sqlopsbuilds.azureedge.net/insider/dde8e169accb4b257e95c1de04f972d16621290d/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64-user | Insider | 0a9c6e03b88f47ecd20b38bdcefd77f9b9198bcc2bcacc8f99ebee5f27250f77 | https://sqlopsbuilds.azureedge.net/insider/dde8e169accb4b257e95c1de04f972d16621290d/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.2  | win32-x64      | Stable  | 9a9a56b7edd986a6a3497b79871b2816df9a839a743dee592223f92a84a9f940 | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-setup-1.36.2.exe               |
 | 1.36.2  | win32-x64-user | Stable  | 64d7a14f1dfd92868fec9ffac19ac280bfb99b1417cf08721f0a1ac019b94c3f | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-user-setup-1.36.2.exe          |
 
@@ -854,8 +854,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.109.0518.0003 | AMD64        | InternalFast | 2OmmAEaRrQ3haBC3Xz/f6amC1efzowsMq4BsELXGuJE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.109.0518.0003/amd64/OneDriveSetup.exe                           |
-| 22.109.0518.0003 | x86          | InternalFast | Nw2Xahysxfu+H077pK0IwVylNg/AoWZDeOr3+cyjLeU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.109.0518.0003/OneDriveSetup.exe                                 |
+| 22.110.0519.0001 | AMD64        | InternalFast | 0swELrmc5Jt1ZgqqMJi5Mo5L8Vbrp1x8v+b+zWhiNPY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.110.0519.0001/amd64/OneDriveSetup.exe                           |
+| 22.110.0519.0001 | x86          | InternalFast | bhHJ4DvEgxY0oH9BggW3kuQBGoXODzFvaRil+Jg2mvs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.110.0519.0001/OneDriveSetup.exe                                 |
 | 22.105.0515.0001 | AMD64        | InternalSlow | 6FsjZe0Mzahn4GjqLBzrVygqbrdumvpbPAK3Gzz3OZg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0001/amd64/OneDriveSetup.exe                           |
 | 22.105.0515.0001 | x86          | InternalSlow | lUG6ZUaAVInMmmRVRrv4bQ/g9qgVVOF7U41LtBgibSk= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0001/OneDriveSetup.exe                                 |
 | 22.099.0508.0001 | AMD64        | Insider      | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/amd64/OneDriveSetup.exe                           |
@@ -870,14 +870,14 @@
 
 ## MicrosoftPowerShell
 
-| Version | Platform | Architecture | Type | Date                | Size      | URI                                                                                              | Release |
-| ------- | -------- | ------------ | ---- | ------------------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
-| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 18:00:25 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | LTS     |
-| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 18:00:25 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | Stable  |
-| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 18:00:25 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | LTS     |
-| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 18:00:25 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | Stable  |
-| 7.0.11  | Windows  | x64          | msi  | 05/17/2022 17:07:46 | 92090368  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x64.msi | LTS     |
-| 7.0.11  | Windows  | x86          | msi  | 05/17/2022 17:07:46 | 83644416  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x86.msi | LTS     |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              | Release |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
+| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | LTS     |
+| 7.2.4   | Windows  | x64          | msi  | 05/17/2022 | 106946560 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x64.msi   | Stable  |
+| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | LTS     |
+| 7.2.4   | Windows  | x86          | msi  | 05/17/2022 | 97800192  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.4/PowerShell-7.2.4-win-x86.msi   | Stable  |
+| 7.0.11  | Windows  | x64          | msi  | 05/17/2022 | 92090368  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x64.msi | LTS     |
+| 7.0.11  | Windows  | x86          | msi  | 05/17/2022 | 83644416  | https://github.com/PowerShell/PowerShell/releases/download/v7.0.11/PowerShell-7.0.11-win-x86.msi | LTS     |
 
 ## MicrosoftPowerToys
 
@@ -1666,12 +1666,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
 
 ## VisualCppRedistAIO
 
@@ -1780,3 +1780,4 @@
 | Version | URI                                                                     |
 | ------- | ----------------------------------------------------------------------- |
 | 6.0.8   | https://download.zotero.org/client/release/6.0.8/Zotero-6.0.8_setup.exe |
+
