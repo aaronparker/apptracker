@@ -37,4 +37,4 @@ This site tracks current application versions via [Evergreen](https://stealthpup
 
 Last update: **#DATE** (UTC)
 "@
-$About -replace "#DATE", (Get-Date -AsUTC) | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
+$About -replace "#DATE", (Get-Date -Format "dddd dd/MM/yyyy HH:mm K") | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
