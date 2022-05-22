@@ -308,7 +308,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 22.0.4  | Windows  | x64          | exe  | 04/29/2022 | 104752888 | https://github.com/dbeaver/dbeaver/releases/download/22.0.4/dbeaver-ce-22.0.4-x86_64-setup.exe |
+| 22.0.5  | Windows  | x64          | exe  | 05/20/2022 | 106686552 | https://github.com/dbeaver/dbeaver/releases/download/22.0.5/dbeaver-ce-22.0.5-x86_64-setup.exe |
 
 ## DebaucheeBarrier
 
@@ -464,9 +464,9 @@
 
 ## Gimp
 
-| Version | Date       | Sha256                                                           | URI                                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://www.nic.funet.fi/pub/mirrors/ftp.gimp.org/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -682,7 +682,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1659,14 +1659,14 @@
 
 ## VideoLanVlcPlayer
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe    |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi    |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip    |
 
 ## VisualCppRedistAIO
 
@@ -1697,8 +1697,8 @@
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| 12.0.0  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x86_64.exe |
-| 12.0.0  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-i386.exe   |
+| 11.3.5  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-11.3.5-18557794-x86_64.exe |
+| 11.3.5  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-11.3.5-18557794-i386.exe   |
 
 ## VMwareWorkstationPlayer
 
