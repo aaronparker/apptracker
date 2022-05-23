@@ -1,5 +1,19 @@
 [
   {
+    "Version": "21.1.200.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 21.1.200",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-21.1.200.zip"
+  },
+  {
+    "Version": "21.1.200.0",
+    "Platform": "Windows",
+    "Type": "Client",
+    "Name": "deviceTRUST Windows Client Extension 21.1.200.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe"
+  },
+  {
     "Version": "21.1.110.0",
     "Platform": "Windows",
     "Type": "Bundle",
