@@ -320,6 +320,8 @@
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                       |
 | ---------- | -------- | ------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 21.1.200.0 | Windows  | Bundle | deviceTRUST 21.1.200                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.200.zip                         |
+| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.200.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe          |
 | 21.1.110.0 | Windows  | Bundle | deviceTRUST 21.1.110                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.110.zip                         |
 | 21.1.110.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.110.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.110.0.exe          |
 | 21.1.100.0 | Windows  | Bundle | deviceTRUST 21.1.100                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.100.zip                         |
@@ -464,9 +466,9 @@
 
 ## Gimp
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.icm.edu.pl/pub/graphics/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                               |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -764,8 +766,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | 7551f6d923984d821c8edb347141e7978f89ea6eba648611e885bef15f721d66 | https://sqlopsbuilds.azureedge.net/insider/dde8e169accb4b257e95c1de04f972d16621290d/azuredatastudio-windows-setup-1.37.0-insider.exe      |
-| 1.37.0  | win32-x64-user | Insider | 0a9c6e03b88f47ecd20b38bdcefd77f9b9198bcc2bcacc8f99ebee5f27250f77 | https://sqlopsbuilds.azureedge.net/insider/dde8e169accb4b257e95c1de04f972d16621290d/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
+| 1.37.0  | win32-x64      | Insider | a7d8220c83979b968aee7027e224b605f7fce9d720cb06a68b1089509cf830ee | https://sqlopsbuilds.azureedge.net/insider/19597360786da6d814ce144f415a221ba058c506/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64-user | Insider | eae865db72a64427fa8cf2f3374c7372f95b9d6ac55ced673632ce35f66f0691 | https://sqlopsbuilds.azureedge.net/insider/19597360786da6d814ce144f415a221ba058c506/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.2  | win32-x64      | Stable  | 9a9a56b7edd986a6a3497b79871b2816df9a839a743dee592223f92a84a9f940 | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-setup-1.36.2.exe               |
 | 1.36.2  | win32-x64-user | Stable  | 64d7a14f1dfd92868fec9ffac19ac280bfb99b1417cf08721f0a1ac019b94c3f | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-user-setup-1.36.2.exe          |
 
@@ -928,12 +930,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.68.0  | win32-arm64      | Insider | ARM64        | 1bbdde006ae7712aaef97dcf0bca40f02eb16dc965e02ce333ea5b54356125b9 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeSetup-arm64-1.68.0-insider.exe     |
-| 1.68.0  | win32-arm64-user | Insider | ARM64        | 04d899ad0742642218976da99975d44f27cf66e8d13f538ec62c07fdba723aa6 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeUserSetup-arm64-1.68.0-insider.exe |
-| 1.68.0  | win32-x64        | Insider | x64          | 2572f34baea36f486fee2fa5b873af81c0898b06d31ade967853879a29dbf8cc | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeSetup-x64-1.68.0-insider.exe       |
-| 1.68.0  | win32-x64-user   | Insider | x64          | 3ed7dc244da5be847185746584ae89c2e1ad6659ec6fa0a1643dc455875c44f6 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeUserSetup-x64-1.68.0-insider.exe   |
-| 1.68.0  | win32            | Insider | x86          | a2300ca7c6eeab7a7870cede0dc8a9c236bfd201a1ff89fd333f5cdc0ba37b01 | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeSetup-ia32-1.68.0-insider.exe      |
-| 1.68.0  | win32-user       | Insider | x86          | 5cee615a224ae2f357e5f651d34d0ca0c29372fe9a9cb50825183d4a601f337f | https://az764295.vo.msecnd.net/insider/17c75e11805103026b943c8dc4d50a35f245f76f/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
+| 1.68.0  | win32-arm64      | Insider | ARM64        | 5fa71a131ee8a0c316ccfcde89e696ef1463eaf19fa423a159ffe6cf2069fcbf | https://az764295.vo.msecnd.net/insider/c0769274fa136b45799edeccc0d0a2f645b75caf/VSCodeSetup-arm64-1.68.0-insider.exe     |
+| 1.68.0  | win32-arm64-user | Insider | ARM64        | d5de9549f70819a827cc8d6a6b0417db382d65e332c2838fba0aa32663b5d5a0 | https://az764295.vo.msecnd.net/insider/c0769274fa136b45799edeccc0d0a2f645b75caf/VSCodeUserSetup-arm64-1.68.0-insider.exe |
+| 1.68.0  | win32-x64        | Insider | x64          | d5a1635702ef124725da40f383b39cfd6a9fb15eb7b262e1f308580fd68e4b32 | https://az764295.vo.msecnd.net/insider/c0769274fa136b45799edeccc0d0a2f645b75caf/VSCodeSetup-x64-1.68.0-insider.exe       |
+| 1.68.0  | win32-x64-user   | Insider | x64          | 185be902ff721280737b25cf77b20f8260af286fe6dcd17f2d2f393abf92c6f6 | https://az764295.vo.msecnd.net/insider/c0769274fa136b45799edeccc0d0a2f645b75caf/VSCodeUserSetup-x64-1.68.0-insider.exe   |
+| 1.68.0  | win32            | Insider | x86          | f48eed5d252fb61490efbdcf9914d1fbb1bec30352e1a3c4639ff9cf9dfa973c | https://az764295.vo.msecnd.net/insider/c0769274fa136b45799edeccc0d0a2f645b75caf/VSCodeSetup-ia32-1.68.0-insider.exe      |
+| 1.68.0  | win32-user       | Insider | x86          | a33ec2f6f5597e45630a13c85c88345461fc7405619edfa7aaddff562d96c087 | https://az764295.vo.msecnd.net/insider/c0769274fa136b45799edeccc0d0a2f645b75caf/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
 | 1.67.2  | win32-arm64      | Stable  | ARM64        | c7b6c599ed1bf9402789606d885573bd25d6cedf83b0f1d30232470dee898def | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-arm64-1.67.2.exe              |
 | 1.67.2  | win32-arm64-user | Stable  | ARM64        | 36ef0816ce424fd87ba4cb826f6121bf758324799bbd17b8206a1c511a2085af | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-arm64-1.67.2.exe          |
 | 1.67.2  | win32-x64        | Stable  | x64          | 0c92dcd75fee53e366b39d38c2278df79380ac6630ce623ba45fb0d820629ab6 | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-x64-1.67.2.exe                |
@@ -1339,9 +1341,9 @@
 
 ## RCoreTeamRforWindows
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| Latest  | https://cran.r-project.org/bin/windows/base/release.html |
+| Version | URI                                                         |
+| ------- | ----------------------------------------------------------- |
+| 4.2.0   | https://cran.r-project.org/bin/windows/base/R-4.2.0-win.exe |
 
 ## RDAnalyzer
 
@@ -1659,14 +1661,14 @@
 
 ## VideoLanVlcPlayer
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
