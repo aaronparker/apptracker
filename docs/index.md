@@ -466,9 +466,9 @@
 
 ## Gimp
 
-| Version | Date       | Sha256                                                           | URI                                                                               |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.astra.in.ua/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -646,9 +646,9 @@
 
 ## jrsoftwareInnoSetup
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1663,9 +1663,9 @@
 
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
 | 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
 | 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
 | 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
@@ -1762,8 +1762,8 @@
 
 | Version     | Platform | Type    | URI                                                                |
 | ----------- | -------- | ------- | ------------------------------------------------------------------ |
-| 5.10.4.5035 | Windows  | Exe     | https://cdn.zoom.us/prod/5.10.4.5035/ZoomInstaller.exe             |
-| 5.10.4.5035 | Windows  | Msi     | https://cdn.zoom.us/prod/5.10.4.5035/ZoomInstallerFull.msi         |
+| 5.10.6.5889 | Windows  | Exe     | https://cdn.zoom.us/prod/5.10.6.5889/ZoomInstaller.exe             |
+| 5.10.6.5889 | Windows  | Msi     | https://cdn.zoom.us/prod/5.10.6.5889/ZoomInstallerFull.msi         |
 | 5.10.3.1320 | Windows  | Rooms   | https://cdn.zoom.us/prod/5.10.3.1320/zoomrooms-5.10.3.1320-x86.exe |
 | 5.10.3.407  | Windows  | Notes   | https://cdn.zoom.us/prod/5.10.3.407/ZoomNotesPluginSetup.msi       |
 | 5.10.3.406  | Windows  | Outlook | https://cdn.zoom.us/prod/5.10.3.406/ZoomOutlookPluginSetup.msi     |
