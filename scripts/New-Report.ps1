@@ -26,7 +26,7 @@ foreach ($File in (Get-ChildItem -Path $Path)) {
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
         Select-Object -ExpandProperty "Link"
     $Markdown += New-MDLink -Text "Link" -Link $Link
-    $Markdown += "`n"
+    $Markdown += "`n`n"
     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
     $Markdown += "`n"
