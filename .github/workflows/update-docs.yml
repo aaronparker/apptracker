@@ -8,6 +8,9 @@ env:
 # Controls when the action will run. 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/New-Report.ps1'
 
 jobs:
   copy-json:

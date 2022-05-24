@@ -23,10 +23,14 @@ $Markdown += "`n"
 foreach ($File in (Get-ChildItem -Path $Path)) {
     $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
     $Markdown += "`n"
+
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
-        Select-Object -ExpandProperty "Link"
-    $Markdown += New-MDLink -Text "Link" -Link $Link
-    $Markdown += "`n`n"
+        Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
+    If ($Null -ne $Link) {
+        $Markdown += New-MDLink -Text "Link" -Link $Link
+        $Markdown += "`n`n"
+    }
+
     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
     $Markdown += "`n"
@@ -37,7 +41,7 @@ $Markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
 $About = @"
 # About
 
-This site tracks current application versions via [Evergreen](https://stealthpuppy.com/evergreen/).
+This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
 Last update: **#DATE** (UTC)
 "@
