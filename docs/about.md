@@ -1,5 +1,5 @@
 # About
 
-This site tracks current application versions via [Evergreen](https://stealthpuppy.com/evergreen/).
+This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Last update: **Tuesday 24/05/2022 09:01 +00:00** (UTC)
+Last update: **Tuesday 24/05/2022 22:09 +00:00** (UTC)
