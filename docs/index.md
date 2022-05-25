@@ -681,6 +681,9 @@
 | 11.1.2  | SD-WAN Standard/Premium Appliance Software Release 11.1.2c                                      | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1125.html     |
 | 11.1.2  | SD-WAN WANOP Appliance Software Upgrade 11.1.2c                                                 | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-11125.html        |
 | 11.1.0  | SD-WAN Orchestrator for On-premises Software Release 11.1.0                                     | New downloads are available for Citrix SD-WAN | 07/08/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-111028.html  |
+| 11.0.3  | SD-WAN WANOP Appliance Software Release 11.0.3f                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-110359.html       |
+| 11.0.3  | SD-WAN WANOP Client Software Release  11.0.3f                                                   | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-110359.html          |
+| 11.0.3  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 11.0.3f                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-110359.html                      |
 | 10.3.0  | SD-WAN Orchestrator for On-premises Software Release 10.3.0                                     | New downloads are available for Citrix SD-WAN | 05/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-1030202.html |
 | 10.2.9  | SD-WAN Center Management Console Software Release 10.2.9c                                       | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-10292.html    |
 | 10.2.9  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.9c  | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-10292.html                   |
@@ -695,9 +698,6 @@
 | 10.2.8  | SD-WAN WANOP Appliance Software Release 10.2.8                                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-10289.html        |
 | 10.2.8  | SD-WAN WANOP Client Software Release  10.2.8                                                    | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-10289.html           |
 | 10.2.8  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.8                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-10289.html                       |
-| 10.2.7  | SD-WAN WANOP Appliance Software Release 10.2.7b                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-102717.html       |
-| 10.2.7  | SD-WAN WANOP Client Software Release  10.2.7b                                                   | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-102717.html          |
-| 10.2.7  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.7b                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-102717.html                      |
 | 9.6.1   | SD-WAN Orchestrator for On-premises Software Release 9.6.1                                      | New downloads are available for Citrix SD-WAN | 04/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-961170.html  |
 
 ## CitrixVirtualAppsDesktopsFeed
@@ -1082,9 +1082,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1308,9 +1308,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1440,8 +1440,8 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15321.20000 | BetaChannel       | Beta                                  | 05/24/2022 16:14:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15225.20204 | Current           | Current Channel                       | 05/24/2022 19:21:40 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15225.20204 | CurrentPreview    | Current Channel (Preview)             | 05/23/2022 20:47:09 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15128.20248 | Current           | Current Channel                       | 05/17/2022 21:00:15 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15028.20248 | MonthlyEnterprise | Monthly Enterprise                    | 05/10/2022 17:52:52 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20392 | SemiAnnualPreview | Semi-Annual Channel Preview           | 05/10/2022 18:43:16 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14332.20303 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 05/10/2022 13:23:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1454,7 +1454,7 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | 4e6c873415995e42c3ea5bc4cfd912ddd5655585e222cef7f1e99cdaf4e8beea | https://sqlopsbuilds.azureedge.net/insider/36550798f39d9790b5450796f337ff5e099df63b/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64      | Insider | 783c56770303fce464fa359b246e2647e5fff6f16e497bba43811116f41bde59 | https://sqlopsbuilds.azureedge.net/insider/254f16b31a5f4a9068f9d4bd1c05c777568ff43d/azuredatastudio-windows-setup-1.37.0-insider.exe      |
 | 1.37.0  | win32-x64-user | Insider | cd7e8c88ad47e99613dd53adfb4413b16835dcba128a869cd770110bae528d6e | https://sqlopsbuilds.azureedge.net/insider/254f16b31a5f4a9068f9d4bd1c05c777568ff43d/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.2  | win32-x64      | Stable  | 9a9a56b7edd986a6a3497b79871b2816df9a839a743dee592223f92a84a9f940 | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-setup-1.36.2.exe               |
 | 1.36.2  | win32-x64-user | Stable  | 64d7a14f1dfd92868fec9ffac19ac280bfb99b1417cf08721f0a1ac019b94c3f | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-user-setup-1.36.2.exe          |
@@ -1562,8 +1562,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.111.0522.0001 | AMD64        | InternalFast | t5jb5ftHc4HBsyNSuE1OCTOniTuo7baSeLYVp1Cz5F0= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.111.0522.0001/amd64/OneDriveSetup.exe                           |
-| 22.111.0522.0001 | x86          | InternalFast | Cn5+69fHUiBh4AOf4RpUr32+lD0ZQV2+m0OLiZpfiME= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.111.0522.0001/OneDriveSetup.exe                                 |
+| 22.112.0523.0001 | AMD64        | InternalFast | 2TCouFsL7mvalFQNzydW8tL/xdUSgTLQiU/GjnjqFHE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.112.0523.0001/amd64/OneDriveSetup.exe                           |
+| 22.112.0523.0001 | x86          | InternalFast | D7ha3if9fNnZCSEOWADuk+z+ndTk7uAdxAS1zN+AfUQ= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.112.0523.0001/OneDriveSetup.exe                                 |
 | 22.105.0515.0001 | AMD64        | Insider      | 6FsjZe0Mzahn4GjqLBzrVygqbrdumvpbPAK3Gzz3OZg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0001/amd64/OneDriveSetup.exe                           |
 | 22.105.0515.0001 | AMD64        | InternalSlow | 6FsjZe0Mzahn4GjqLBzrVygqbrdumvpbPAK3Gzz3OZg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0001/amd64/OneDriveSetup.exe                           |
 | 22.105.0515.0001 | x86          | Insider      | lUG6ZUaAVInMmmRVRrv4bQ/g9qgVVOF7U41LtBgibSk= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0001/OneDriveSetup.exe                                 |
@@ -2047,12 +2047,12 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 4.3.10  | Windows  | ARM64        | zip  | 11/18/2021 | 55394276 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.arm64.zip |
-| 4.3.10  | Windows  | ARM64        | zip  | 11/18/2021 | 65810343 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.arm64.zip  |
-| 4.3.10  | Windows  | x64          | zip  | 11/18/2021 | 63951012 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.x64.zip   |
-| 4.3.10  | Windows  | x64          | zip  | 11/18/2021 | 74156254 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.x64.zip    |
-| 4.3.10  | Windows  | x86          | zip  | 11/18/2021 | 57389084 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.install.x86.zip   |
-| 4.3.10  | Windows  | x86          | zip  | 11/18/2021 | 67473288 | https://github.com/paintdotnet/release/releases/download/v4.3.10/paint.net.4.3.10.winmsi.x86.zip    |
+| 4.3.11  | Windows  | ARM64        | zip  | 11/18/2021 | 55401705 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.install.arm64.zip |
+| 4.3.11  | Windows  | ARM64        | zip  | 11/18/2021 | 65857811 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.winmsi.arm64.zip  |
+| 4.3.11  | Windows  | x64          | zip  | 11/18/2021 | 63973009 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.install.x64.zip   |
+| 4.3.11  | Windows  | x64          | zip  | 11/18/2021 | 74294070 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.winmsi.x64.zip    |
+| 4.3.11  | Windows  | x86          | zip  | 11/18/2021 | 57432917 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.install.x86.zip   |
+| 4.3.11  | Windows  | x86          | zip  | 11/18/2021 | 67536139 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.winmsi.x86.zip    |
 
 ## Pandoc
 
@@ -2310,7 +2310,7 @@
 
 | Version  | URI                                                                        |
 | -------- | -------------------------------------------------------------------------- |
-| 2022.1.1 | https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2022-1-1.exe |
+| 2022.1.2 | https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2022-1-2.exe |
 
 ## TableauPrep
 
@@ -2535,12 +2535,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
