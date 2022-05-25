@@ -336,6 +336,13 @@
     "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu5.html"
   },
   {
+    "Version": "2103",
+    "Title": "Citrix Virtual Desktops 7 2103, Standard Edition Components",
+    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
+    "Date": "03/17/2021",
+    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2103.html"
+  },
+  {
     "Version": "2106",
     "Title": "Citrix Virtual Desktops 7 2106, Standard Edition Components",
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
@@ -488,13 +495,6 @@
     "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
     "Date": "04/19/2022",
     "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2204.html"
-  },
-  {
-    "Version": "2103",
-    "Title": "Workspace Environment Management 2103",
-    "Description": "New downloads are available for Citrix Virtual Apps and Desktops",
-    "Date": "03/17/2021",
-    "URI": "https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2103.html"
   },
   {
     "Version": "2106",
