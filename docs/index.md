@@ -262,8 +262,8 @@
 
 | Version | Type | URI                                                                                                        |
 | ------- | ---- | ---------------------------------------------------------------------------------------------------------- |
-| 3.4.8   | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.8.exe           |
-| 3.4.8   | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.8.msi |
+| 3.4.9   | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.9.exe           |
+| 3.4.9   | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.9.msi |
 
 ## Audacity
 
@@ -570,9 +570,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.gethosted.online/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -767,21 +767,21 @@
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
-| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2022.1.1 | 221.5591.52  | IntelliJ IDEA Community | 05/11/2022 | 621048696 | https://download.jetbrains.com/idea/ideaIC-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.1.1.exe |
-| 2022.1.1 | 221.5591.52  | IntelliJ IDEA Ultimate  | 05/11/2022 | 731359272 | https://download.jetbrains.com/idea/ideaIU-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.1.1.exe |
-| 2022.1   | 221.5080.251 | IntelliJ IDEA Edu       | 04/28/2022 | 687056352 | https://download.jetbrains.com/idea/ideaIE-2022.1.exe.sha256   | https://download.jetbrains.com/idea/ideaIE-2022.1.exe   |
+| Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
+| -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| 2022.1.1 | 221.5591.52 | IntelliJ IDEA Community | 05/11/2022 | 621048696 | https://download.jetbrains.com/idea/ideaIC-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.1.1.exe |
+| 2022.1.1 | 221.5591.62 | IntelliJ IDEA Edu       | 05/25/2022 | 687343256 | https://download.jetbrains.com/idea/ideaIE-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.1.1.exe |
+| 2022.1.1 | 221.5591.52 | IntelliJ IDEA Ultimate  | 05/11/2022 | 731359272 | https://download.jetbrains.com/idea/ideaIU-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.1.1.exe |
 
 ## JetBrainsPyCharm
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build        | Edition              | Date       | Size      | Sha256                                                                         | URI                                                                     |
-| -------- | ------------ | -------------------- | ---------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| 2022.1.1 | 221.5591.52  | PyCharm Community    | 05/12/2022 | 396634376 | https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe    |
-| 2022.1.1 | 221.5591.52  | PyCharm Professional | 05/12/2022 | 487869760 | https://download.jetbrains.com/python/pycharm-professional-2022.1.1.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.1.1.exe |
-| 2022.1   | 221.5080.251 | PyCharm Edu          | 04/28/2022 | 393992328 | https://download.jetbrains.com/python/pycharm-edu-2022.1.exe.sha256            | https://download.jetbrains.com/python/pycharm-edu-2022.1.exe            |
+| Version  | Build       | Edition              | Date       | Size      | Sha256                                                                         | URI                                                                     |
+| -------- | ----------- | -------------------- | ---------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| 2022.1.1 | 221.5591.52 | PyCharm Community    | 05/12/2022 | 396634376 | https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.1.1.exe    |
+| 2022.1.1 | 221.5591.62 | PyCharm Edu          | 05/25/2022 | 395232896 | https://download.jetbrains.com/python/pycharm-edu-2022.1.1.exe.sha256          | https://download.jetbrains.com/python/pycharm-edu-2022.1.1.exe          |
+| 2022.1.1 | 221.5591.52 | PyCharm Professional | 05/12/2022 | 487869760 | https://download.jetbrains.com/python/pycharm-professional-2022.1.1.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.1.1.exe |
 
 ## jq
 
@@ -796,9 +796,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1978,8 +1978,8 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 3.3.394 | beta    | C273F2671ABBDEFDE1687224EBAD789A4041E2D7 | exe  | https://www.git-tower.com/apps/tower3-win/394-c62e89bc/Tower-3.3.394.exe |
-| 3.3.394 | beta    | F875477FC2E7C22E87E8ACE4CC295B6DC7A3A039 | msi  | https://www.git-tower.com/apps/tower3-win/394-c62e89bc/Tower-3.3.394.msi |
+| 3.3.395 | beta    | 1FF29C4168F4DBD12607121B9861F9F6682040CF | exe  | https://www.git-tower.com/apps/tower3-win/395-5c37afda/Tower-3.3.395.exe |
+| 3.3.395 | beta    | 70FF00B2057BBB2F69BC1EBB47B6D844619281C2 | msi  | https://www.git-tower.com/apps/tower3-win/395-5c37afda/Tower-3.3.395.msi |
 | 3.2.393 | stable  | DA2E60C8D9EC0E423420857A27267F0CA6FFEEC9 | exe  | https://www.git-tower.com/apps/tower3-win/393-381e9c39/Tower-3.2.393.exe |
 | 3.2.393 | stable  | 0435231075992F42D013E1A6C94C6A8FEB8A15F2 | msi  | https://www.git-tower.com/apps/tower3-win/393-381e9c39/Tower-3.2.393.msi |
 
@@ -2026,9 +2026,9 @@
 | 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
 | 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
 | 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
