@@ -29,6 +29,7 @@ jobs:
         uses: potatoqualitee/psmodulecache@v4.5
         with:
           modules-to-cache: Evergreen, DnsClient-PS
+          force: true
           shell: pwsh
 
       - name: List Evergreen
@@ -106,6 +107,7 @@ jobs:
           uses: potatoqualitee/psmodulecache@v4.5
           with:
             modules-to-cache: Evergreen
+            force: true
             shell: powershell
 
         - name: List Evergreen
