@@ -36,7 +36,7 @@ jobs:
         id: list-module
         shell: pwsh
         run: |
-          Update-Module -Name "Evergreen"
+          Update-Module -Name "Evergreen" -Force
           Get-Module -Name "Evergreen" -ListAvailable
 
       # Import GPG key
@@ -115,7 +115,7 @@ jobs:
           id: list-module
           shell: powershell
           run: |
-            Update-Module -Name "Evergreen"
+            Update-Module -Name "Evergreen" -Force
             Get-Module -Name "Evergreen" -ListAvailable
 
         # Import GPG key
@@ -185,7 +185,7 @@ jobs:
           id: list-module
           shell: pwsh
           run: |
-            Update-Module -Name "Evergreen"
+            Update-Module -Name "Evergreen" -Force
             Get-Module -Name "Evergreen" -ListAvailable
 
         # Run Pester tests
