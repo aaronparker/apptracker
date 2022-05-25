@@ -36,6 +36,7 @@ jobs:
           id: list-module
           shell: pwsh
           run: |
+            Update-Module -Name "Evergreen"
             Get-Module -Name "Evergreen" -ListAvailable
 
         # Run Pester tests
