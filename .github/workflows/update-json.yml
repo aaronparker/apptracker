@@ -31,6 +31,12 @@ jobs:
           modules-to-cache: Evergreen, DnsClient-PS
           shell: pwsh
 
+      - name: List Evergreen
+        id: list-module
+        shell: pwsh
+        run: |
+          Get-Module -Name "Evergreen" -ListAvailable
+
       # Import GPG key
       - name: Import GPG key
         id: import_gpg
@@ -102,6 +108,12 @@ jobs:
             modules-to-cache: Evergreen
             shell: powershell
 
+        - name: List Evergreen
+          id: list-module
+          shell: powershell
+          run: |
+            Get-Module -Name "Evergreen" -ListAvailable
+
         # Import GPG key
         - name: Import GPG key
           id: import_gpg
@@ -164,6 +176,12 @@ jobs:
           with:
             modules-to-cache: Evergreen
             shell: pwsh
+
+        - name: List Evergreen
+          id: list-module
+          shell: pwsh
+          run: |
+            Get-Module -Name "Evergreen" -ListAvailable
 
         # Run Pester tests
         - name: Git pull

@@ -33,6 +33,7 @@ Function Test-PSCore {
 #endregion
 
 # Step through all apps and export result to JSON
+Import-Module -Name "Evergreen" -Force
 if (Test-PSCore) {
 
     # Remove extra files

@@ -31,6 +31,12 @@ jobs:
             modules-to-cache: Evergreen
             shell: pwsh
 
+        - name: List Evergreen
+          id: list-module
+          shell: pwsh
+          run: |
+            Get-Module -Name "Evergreen" -ListAvailable
+
         # Run Pester tests
         - name: Git pull
           shell: pwsh

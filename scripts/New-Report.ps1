@@ -15,6 +15,7 @@ param(
 )
 
 # Install modules
+Import-Module -Name "Evergreen" -Force
 Import-Module -Name "MarkdownPS" -Force
 
 # Update the list of supported apps in APPS.md
