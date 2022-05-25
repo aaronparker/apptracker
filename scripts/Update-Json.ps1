@@ -61,7 +61,6 @@ if (Test-PSCore) {
 }
 else {
     foreach ($file in (Get-ChildItem -Path $Path -Filter "*.json")) {
-        
         if (($file.Length -eq 0) -or ((Get-Content -Path $file.FullName) -match "RateLimited")) {
             Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
 
@@ -75,6 +74,24 @@ else {
             else {
                 $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
                     ConvertTo-Json | Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Verbose
+                Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
+            }
+        }
+    }
+
+    foreach ($App in (Find-EvergreenApp | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
+        if (-not (Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.json")) -ErrorAction "SilentlyContinue")) {
+
+            $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+            if ($Null -eq $Output) {
+                Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+            }
+            elseif ("RateLimited" -in $Output.Version) {
+                Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
+            }
+            else {
+                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+                    ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
                 Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
             }
         }
