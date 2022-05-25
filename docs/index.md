@@ -681,9 +681,6 @@
 | 11.1.2  | SD-WAN Standard/Premium Appliance Software Release 11.1.2c                                      | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1125.html     |
 | 11.1.2  | SD-WAN WANOP Appliance Software Upgrade 11.1.2c                                                 | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-11125.html        |
 | 11.1.0  | SD-WAN Orchestrator for On-premises Software Release 11.1.0                                     | New downloads are available for Citrix SD-WAN | 07/08/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-111028.html  |
-| 11.0.3  | SD-WAN WANOP Appliance Software Release 11.0.3f                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-110359.html       |
-| 11.0.3  | SD-WAN WANOP Client Software Release  11.0.3f                                                   | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-110359.html          |
-| 11.0.3  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 11.0.3f                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-110359.html                      |
 | 10.3.0  | SD-WAN Orchestrator for On-premises Software Release 10.3.0                                     | New downloads are available for Citrix SD-WAN | 05/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-1030202.html |
 | 10.2.9  | SD-WAN Center Management Console Software Release 10.2.9c                                       | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-10292.html    |
 | 10.2.9  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.9c  | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-10292.html                   |
@@ -698,6 +695,9 @@
 | 10.2.8  | SD-WAN WANOP Appliance Software Release 10.2.8                                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-10289.html        |
 | 10.2.8  | SD-WAN WANOP Client Software Release  10.2.8                                                    | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-10289.html           |
 | 10.2.8  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.8                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-10289.html                       |
+| 10.2.7  | SD-WAN WANOP Appliance Software Release 10.2.7b                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-102717.html       |
+| 10.2.7  | SD-WAN WANOP Client Software Release  10.2.7b                                                   | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-102717.html          |
+| 10.2.7  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.7b                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-102717.html                      |
 | 9.6.1   | SD-WAN Orchestrator for On-premises Software Release 9.6.1                                      | New downloads are available for Citrix SD-WAN | 04/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-961170.html  |
 
 ## CitrixVirtualAppsDesktopsFeed
@@ -811,7 +811,6 @@
 | 19.12.7000 | Citrix Workspace app 19.12.7000 for Windows, LTSR Cumulative Update 7                | New downloads are available for Citrix Workspace App | 03/17/2022 | https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-1912ltsr.html          |
 | 19.12.6000 | Citrix Workspace app 19.12.6000 for Windows, LTSR Cumulative Update 6                | New downloads are available for Citrix Workspace App | 12/09/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-1912ltsr-cu6.html                    |
 | 2.9.500    | HDX RealTime Media Engine 2.9.500 for Microsoft Skype® for Business                  | New downloads are available for Citrix Workspace App | 04/08/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-29500.html                                      |
-| 2109       | Citrix Workspace app 2109.1 for Mac                                                  | New downloads are available for Citrix Workspace App | 10/05/2021 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-21091.html                                             |
 | 2110       | Citrix Workspace app 2110 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 10/13/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2110.html                                   |
 | 2110       | Citrix Workspace app 2110 for HTML5                                                  | New downloads are available for Citrix Workspace App | 10/20/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2110.html                                     |
 | 2111       | Citrix Workspace app 2111 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 11/11/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2111.html                                   |
@@ -1082,9 +1081,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1308,9 +1307,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -2533,14 +2532,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe        |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi        |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip        |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
