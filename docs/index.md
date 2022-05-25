@@ -681,6 +681,9 @@
 | 11.1.2  | SD-WAN Standard/Premium Appliance Software Release 11.1.2c                                      | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-1125.html     |
 | 11.1.2  | SD-WAN WANOP Appliance Software Upgrade 11.1.2c                                                 | New downloads are available for Citrix SD-WAN | 05/10/2021 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-upgrade-11125.html        |
 | 11.1.0  | SD-WAN Orchestrator for On-premises Software Release 11.1.0                                     | New downloads are available for Citrix SD-WAN | 07/08/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-111028.html  |
+| 11.0.3  | SD-WAN WANOP Appliance Software Release 11.0.3f                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-110359.html       |
+| 11.0.3  | SD-WAN WANOP Client Software Release  11.0.3f                                                   | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-110359.html          |
+| 11.0.3  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 11.0.3f                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-110359.html                      |
 | 10.3.0  | SD-WAN Orchestrator for On-premises Software Release 10.3.0                                     | New downloads are available for Citrix SD-WAN | 05/19/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-1030202.html |
 | 10.2.9  | SD-WAN Center Management Console Software Release 10.2.9c                                       | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/management-console-release-10292.html    |
 | 10.2.9  | SD-WAN Standard Edition VPX for XenServer, ESXi, Hyper-V, KVM, AWS, Azure Software Rel 10.2.9c  | New downloads are available for Citrix SD-WAN | 11/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/vpx-release-10292.html                   |
@@ -695,9 +698,6 @@
 | 10.2.8  | SD-WAN WANOP Appliance Software Release 10.2.8                                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-10289.html        |
 | 10.2.8  | SD-WAN WANOP Client Software Release  10.2.8                                                    | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-10289.html           |
 | 10.2.8  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.8                                  | New downloads are available for Citrix SD-WAN | 10/06/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-10289.html                       |
-| 10.2.7  | SD-WAN WANOP Appliance Software Release 10.2.7b                                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/appliance-software-release-102717.html       |
-| 10.2.7  | SD-WAN WANOP Client Software Release  10.2.7b                                                   | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/client-software-release-102717.html          |
-| 10.2.7  | SD-WAN WANOP VPX for XenServer, ESXi, Hyper-V,  AWS Rel 10.2.7b                                 | New downloads are available for Citrix SD-WAN | 09/15/2020 | https://www.citrix.com/downloads/citrix-sd-wan/sd-wan-wanop-edition/vpx-release-102717.html                      |
 | 9.6.1   | SD-WAN Orchestrator for On-premises Software Release 9.6.1                                      | New downloads are available for Citrix SD-WAN | 04/09/2021 | https://www.citrix.com/downloads/citrix-sd-wan/orchestrator-for-on-premises/onprem-software-release-961170.html  |
 
 ## CitrixVirtualAppsDesktopsFeed
@@ -752,6 +752,7 @@
 | 1912      | Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 3 – Standard Edition Components         | New downloads are available for Citrix Virtual Apps and Desktops | 05/12/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu3.html                                          |
 | 1912      | Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 4 – Standard Edition Components         | New downloads are available for Citrix Virtual Apps and Desktops | 11/02/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu4.html                                          |
 | 1912      | Citrix Virtual Desktops 7 1912 LTSR, Cumulative Update 5 – Standard Edition Components         | New downloads are available for Citrix Virtual Apps and Desktops | 03/09/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/vdi-1912-ltsr-cu5.html                                          |
+| 2103      | Citrix Virtual Desktops 7 2103, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2103.html                                          |
 | 2106      | Citrix Virtual Desktops 7 2106, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2106.html                                          |
 | 2109      | Citrix Virtual Desktops 7 2109, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2109.html                                          |
 | 2112      | Citrix Virtual Desktops 7 2112, Standard Edition Components                                    | New downloads are available for Citrix Virtual Apps and Desktops | 12/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/edition-software/cvd-standard-2112.html                                          |
@@ -774,7 +775,6 @@
 | 2110      | Session Recording 2110                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 10/20/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2110.html                                           |
 | 2201      | Session Recording 2201                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 01/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2201.html                                           |
 | 2204      | Session Recording 2204                                                                         | New downloads are available for Citrix Virtual Apps and Desktops | 04/19/2022 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/session-recording-2204.html                                           |
-| 2103      | Workspace Environment Management 2103                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 03/17/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2103.html                            |
 | 2106      | Workspace Environment Management 2106                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 06/16/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2106.html                            |
 | 2109      | Workspace Environment Management 2109                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 09/27/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2109.html                            |
 | 2112      | Workspace Environment Management 2112                                                          | New downloads are available for Citrix Virtual Apps and Desktops | 12/14/2021 | https://www.citrix.com/downloads/citrix-virtual-apps-and-desktops/components/workspace-environment-management-2112.html                            |
@@ -811,6 +811,7 @@
 | 19.12.7000 | Citrix Workspace app 19.12.7000 for Windows, LTSR Cumulative Update 7                | New downloads are available for Citrix Workspace App | 03/17/2022 | https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-1912ltsr.html          |
 | 19.12.6000 | Citrix Workspace app 19.12.6000 for Windows, LTSR Cumulative Update 6                | New downloads are available for Citrix Workspace App | 12/09/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-windows-ltsr/workspace-app-for-windows-1912ltsr-cu6.html                    |
 | 2.9.500    | HDX RealTime Media Engine 2.9.500 for Microsoft Skype® for Business                  | New downloads are available for Citrix Workspace App | 04/08/2022 | https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-29500.html                                      |
+| 2109       | Citrix Workspace app 2109.1 for Mac                                                  | New downloads are available for Citrix Workspace App | 10/05/2021 | https://www.citrix.com/downloads/workspace-app/legacy-receiver-for-mac/workspace-app-for-mac-21091.html                                             |
 | 2110       | Citrix Workspace app 2110 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 10/13/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2110.html                                   |
 | 2110       | Citrix Workspace app 2110 for HTML5                                                  | New downloads are available for Citrix Workspace App | 10/20/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-html5/workspace-app-for-html5-2110.html                                     |
 | 2111       | Citrix Workspace app 2111 for Chrome OS                                              | New downloads are available for Citrix Workspace App | 11/11/2021 | https://www.citrix.com/downloads/workspace-app/legacy-workspace-app-for-chrome/workspace-app-for-chrome-2111.html                                   |
@@ -1081,9 +1082,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                       |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1307,9 +1308,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1355,7 +1356,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1453,8 +1454,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | 783c56770303fce464fa359b246e2647e5fff6f16e497bba43811116f41bde59 | https://sqlopsbuilds.azureedge.net/insider/254f16b31a5f4a9068f9d4bd1c05c777568ff43d/azuredatastudio-windows-setup-1.37.0-insider.exe      |
-| 1.37.0  | win32-x64-user | Insider | cd7e8c88ad47e99613dd53adfb4413b16835dcba128a869cd770110bae528d6e | https://sqlopsbuilds.azureedge.net/insider/254f16b31a5f4a9068f9d4bd1c05c777568ff43d/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
+| 1.37.0  | win32-x64      | Insider | 2d2827d43ccd34e45eb75d480ef51018327f9f5c7d9f67fc847c655dea7e6eef | https://sqlopsbuilds.azureedge.net/insider/6838261aedcb0e366bd296de23d6b8ab14817c49/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64-user | Insider | 51e0c6e1e3bca9510431d7f17b284c2eabf04637bc1d415a18ac9a88c7954b45 | https://sqlopsbuilds.azureedge.net/insider/6838261aedcb0e366bd296de23d6b8ab14817c49/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.2  | win32-x64      | Stable  | 9a9a56b7edd986a6a3497b79871b2816df9a839a743dee592223f92a84a9f940 | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-setup-1.36.2.exe               |
 | 1.36.2  | win32-x64-user | Stable  | 64d7a14f1dfd92868fec9ffac19ac280bfb99b1417cf08721f0a1ac019b94c3f | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-user-setup-1.36.2.exe          |
 
@@ -1649,12 +1650,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.68.0  | win32-arm64      | Insider | ARM64        | 5c43228025b5cce167595c2315ba5eaf71c89f8efeb9f290a39a6731e4b83845 | https://az764295.vo.msecnd.net/insider/27ea5e48aef2a62b76ab170026ade228ded8abdf/VSCodeSetup-arm64-1.68.0-insider.exe     |
-| 1.68.0  | win32-arm64-user | Insider | ARM64        | dead90031457cabcaba0c10529723d87534b306dd1874c7ec345dbffff3a6856 | https://az764295.vo.msecnd.net/insider/27ea5e48aef2a62b76ab170026ade228ded8abdf/VSCodeUserSetup-arm64-1.68.0-insider.exe |
-| 1.68.0  | win32-x64        | Insider | x64          | 0251986d67a9c8b9013ce7ccbad7ee7fc96507ed2a35a0b34e67939a930e45ba | https://az764295.vo.msecnd.net/insider/27ea5e48aef2a62b76ab170026ade228ded8abdf/VSCodeSetup-x64-1.68.0-insider.exe       |
-| 1.68.0  | win32-x64-user   | Insider | x64          | 5920653fa06e2d32d6f21e90b45d3d5751554388d66120d0a652d0692f416ee5 | https://az764295.vo.msecnd.net/insider/27ea5e48aef2a62b76ab170026ade228ded8abdf/VSCodeUserSetup-x64-1.68.0-insider.exe   |
-| 1.68.0  | win32            | Insider | x86          | 0ad1b116f2791e2ee8b3478a8ad28926d93453b25680bfa28432ecb044f1f299 | https://az764295.vo.msecnd.net/insider/27ea5e48aef2a62b76ab170026ade228ded8abdf/VSCodeSetup-ia32-1.68.0-insider.exe      |
-| 1.68.0  | win32-user       | Insider | x86          | 0f9df6c6f549b7a5a6e72df0e9d6f8e0f38a73289798dad5d3bcca6edb1378e3 | https://az764295.vo.msecnd.net/insider/27ea5e48aef2a62b76ab170026ade228ded8abdf/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
+| 1.68.0  | win32-arm64      | Insider | ARM64        | 7154e36286b613450118f3faf9593189bce7b0d500274ee0a054be7f6999e617 | https://az764295.vo.msecnd.net/insider/d891b49fc0f8fc5e00591657ca225975952b09ca/VSCodeSetup-arm64-1.68.0-insider.exe     |
+| 1.68.0  | win32-arm64-user | Insider | ARM64        | 12e73a3ff3b453203bd08ef4e4e9ef934ad6feab47183a47f8648c632e670fcb | https://az764295.vo.msecnd.net/insider/d891b49fc0f8fc5e00591657ca225975952b09ca/VSCodeUserSetup-arm64-1.68.0-insider.exe |
+| 1.68.0  | win32-x64        | Insider | x64          | e3701253117f88c8727231975ade4cc3c57144e0b5bf71d88e9126a35acbcffc | https://az764295.vo.msecnd.net/insider/d891b49fc0f8fc5e00591657ca225975952b09ca/VSCodeSetup-x64-1.68.0-insider.exe       |
+| 1.68.0  | win32-x64-user   | Insider | x64          | 85b12c9b978a43a6ae94c04a07abec7e4aea98e8b3b47db247e1a210e2d36cd6 | https://az764295.vo.msecnd.net/insider/d891b49fc0f8fc5e00591657ca225975952b09ca/VSCodeUserSetup-x64-1.68.0-insider.exe   |
+| 1.68.0  | win32            | Insider | x86          | de0831a9897c3de79fd53eb4413aa3e92bb9e184a17b857989d578056b1c2a4b | https://az764295.vo.msecnd.net/insider/d891b49fc0f8fc5e00591657ca225975952b09ca/VSCodeSetup-ia32-1.68.0-insider.exe      |
+| 1.68.0  | win32-user       | Insider | x86          | 8af4e5de65488bd465109b96b7be304872f577f250f0b4cdb6b455956ef72c54 | https://az764295.vo.msecnd.net/insider/d891b49fc0f8fc5e00591657ca225975952b09ca/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
 | 1.67.2  | win32-arm64      | Stable  | ARM64        | c7b6c599ed1bf9402789606d885573bd25d6cedf83b0f1d30232470dee898def | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-arm64-1.67.2.exe              |
 | 1.67.2  | win32-arm64-user | Stable  | ARM64        | 36ef0816ce424fd87ba4cb826f6121bf758324799bbd17b8206a1c511a2085af | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-arm64-1.67.2.exe          |
 | 1.67.2  | win32-x64        | Stable  | x64          | 0c92dcd75fee53e366b39d38c2278df79380ac6630ce623ba45fb0d820629ab6 | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-x64-1.67.2.exe                |
@@ -2532,14 +2533,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe        |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi        |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip        |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -2561,10 +2562,10 @@
 
 [Link](https://docs.vmware.com/en/VMware-Tools/index.html)
 
-| Version  | Platform | Architecture | URI                                                                                                   |
-| -------- | -------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| 19588618 | Windows  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x86_64.exe |
-| 19588618 | Windows  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-i386.exe   |
+| Version | Platform | Architecture | URI                                                                                                   |
+| ------- | -------- | ------------ | ----------------------------------------------------------------------------------------------------- |
+| 12.0.5  | Windows  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.5-19716617-x86_64.exe |
+| 12.0.5  | Windows  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.5-19716617-i386.exe   |
 
 ## VMwareWorkstationPlayer
 
