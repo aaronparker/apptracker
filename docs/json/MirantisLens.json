@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.5.0-beta.2.20220520.2",
+    "Version": "5.5.0-latest.20220525.1",
     "Architecture": "x64",
     "Release": "Alpha",
-    "Date": "2022-05-20T20:08:33.752Z",
-    "Size": 245579424,
-    "Sha512": "EQqa9yZins0nLqMzHwCRVSB63coDFzk/hOwOTaf1kZNrr7Dmcmo9FPeUhX3TMDk/LuIxvzoE9gzGmUDZFGAVxQ==",
-    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-beta.2.20220520.2.exe"
+    "Date": "2022-05-25T13:11:50.586Z",
+    "Size": 248440056,
+    "Sha512": "K6a4dJ+bMiYNday8XNeit8uy+LwYDF6cOGmzcvqA5y5ZCPVtFViNfdKQDWXEUTKbYpBh6dqR1mkT+ej80uK3XQ==",
+    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe"
   },
   {
-    "Version": "5.4.6-latest.20220428.1",
+    "Version": "5.5.0-latest.20220525.1",
     "Architecture": "x64",
     "Release": "Stable",
-    "Date": "2022-04-28T14:21:26.112Z",
-    "Size": 277080280,
-    "Sha512": "aXVHnPXdPvPqrYvpysxW4bGa47iJiNwhwQXUEBKz65j2a1Wkn4qqke+WXL/g7X/EX+AzaaBr3I5MGOEAXgGyFQ==",
-    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.4.6-latest.20220428.1.exe"
+    "Date": "2022-05-25T13:11:50.586Z",
+    "Size": 248440056,
+    "Sha512": "K6a4dJ+bMiYNday8XNeit8uy+LwYDF6cOGmzcvqA5y5ZCPVtFViNfdKQDWXEUTKbYpBh6dqR1mkT+ej80uK3XQ==",
+    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe"
   }
 ]

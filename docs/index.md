@@ -570,9 +570,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                       |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -619,8 +619,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 103.0.5060.13 | x64          | dev     | 05/19/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 103.0.5060.13 | x86          | dev     | 05/19/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 103.0.5060.24 | x64          | dev     | 05/25/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 103.0.5060.24 | x86          | dev     | 05/25/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 102.0.5005.63 | x64          | stable  | 05/24/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 102.0.5005.63 | x86          | stable  | 05/24/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 | 102.0.5005.61 | x64          | beta    | 05/18/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
@@ -796,9 +796,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1240,8 +1240,8 @@
 
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                                             |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 5.5.0-beta.2.20220520.2 | x64          | Alpha   | 05/20/2022 20:08:33 | 245579424 | EQqa9yZins0nLqMzHwCRVSB63coDFzk/hOwOTaf1kZNrr7Dmcmo9FPeUhX3TMDk/LuIxvzoE9gzGmUDZFGAVxQ== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-beta.2.20220520.2.exe |
-| 5.4.6-latest.20220428.1 | x64          | Stable  | 04/28/2022 14:21:26 | 277080280 | aXVHnPXdPvPqrYvpysxW4bGa47iJiNwhwQXUEBKz65j2a1Wkn4qqke+WXL/g7X/EX+AzaaBr3I5MGOEAXgGyFQ== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.4.6-latest.20220428.1.exe |
+| 5.5.0-latest.20220525.1 | x64          | Alpha   | 05/25/2022 13:11:50 | 248440056 | K6a4dJ+bMiYNday8XNeit8uy+LwYDF6cOGmzcvqA5y5ZCPVtFViNfdKQDWXEUTKbYpBh6dqR1mkT+ej80uK3XQ== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe |
+| 5.5.0-latest.20220525.1 | x64          | Stable  | 05/25/2022 13:11:50 | 248440056 | K6a4dJ+bMiYNday8XNeit8uy+LwYDF6cOGmzcvqA5y5ZCPVtFViNfdKQDWXEUTKbYpBh6dqR1mkT+ej80uK3XQ== | https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe |
 
 ## MozillaFirefox
 
@@ -2021,14 +2021,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe              |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi              |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip              |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
