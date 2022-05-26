@@ -6,7 +6,7 @@
     "Date": "2022-05-25T13:11:50.586Z",
     "Size": 248440056,
     "Sha512": "K6a4dJ+bMiYNday8XNeit8uy+LwYDF6cOGmzcvqA5y5ZCPVtFViNfdKQDWXEUTKbYpBh6dqR1mkT+ej80uK3XQ==",
-    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe"
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe"
   },
   {
     "Version": "5.5.0-latest.20220525.1",
@@ -15,6 +15,6 @@
     "Date": "2022-05-25T13:11:50.586Z",
     "Size": 248440056,
     "Sha512": "K6a4dJ+bMiYNday8XNeit8uy+LwYDF6cOGmzcvqA5y5ZCPVtFViNfdKQDWXEUTKbYpBh6dqR1mkT+ej80uK3XQ==",
-    "URI": "https://lens-binaries.s3-eu-west-1.amazonaws.com/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe"
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.0-latest.20220525.1.exe"
   }
 ]
