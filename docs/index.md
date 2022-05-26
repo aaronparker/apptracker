@@ -570,9 +570,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.cc.uoc.gr/mirrors/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                               |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -673,8 +673,8 @@
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
-| 1.12.0  | zip  | x64          | https://releases.hashicorp.com/consul/1.12.0/consul_1.12.0_windows_amd64.zip |
-| 1.12.0  | zip  | x86          | https://releases.hashicorp.com/consul/1.12.0/consul_1.12.0_windows_386.zip   |
+| 1.11.6  | zip  | x64          | https://releases.hashicorp.com/consul/1.11.6/consul_1.11.6_windows_amd64.zip |
+| 1.11.6  | zip  | x86          | https://releases.hashicorp.com/consul/1.11.6/consul_1.11.6_windows_386.zip   |
 
 ## HashicorpNomad
 
@@ -796,9 +796,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -844,7 +844,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1191,10 +1191,7 @@
 
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3210.0 | ARM64        | Insider | 05/18/2022 | 26095616 | RemoteDesktop_1.2.3210.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv4 |
 | 1.2.3210.0 | ARM64        | Public  | 05/18/2022 | 26095616 | RemoteDesktop_1.2.3210.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv4 |
-| 1.2.3210.0 | x64          | Insider | 05/18/2022 | 24444928 | RemoteDesktop_1.2.3210.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv3 |
-| 1.2.3210.0 | x86          | Insider | 05/18/2022 | 22274048 | RemoteDesktop_1.2.3210.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv2 |
 | 1.2.3210.0 | x86          | Public  | 05/18/2022 | 22274048 | RemoteDesktop_1.2.3210.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4XSv2 |
 | 1.2.3130.0 | x64          | Public  | 05/10/2022 | 24354816 | RemoteDesktop_1.2.3130.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4X1UX |
 
@@ -1438,7 +1435,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2022.1.2661 | 05/22/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.1.2661-x64.msi |
+| 2022.1.2679 | 05/26/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.1.2679-x64.msi |
 
 ## OctopusTentacle
 
@@ -2023,14 +2020,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe  |
+| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi  |
+| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip  |
 
 ## VisualCppRedistAIO
 
