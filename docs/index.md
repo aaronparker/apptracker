@@ -244,8 +244,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------- |
-| 2.1.52  | Windows  | x86          | exe  | 05/13/2022 | 125020040 | https://github.com/ankitects/anki/releases/download/2.1.52/anki-2.1.52-windows-qt5.exe |
-| 2.1.52  | Windows  | x86          | exe  | 05/13/2022 | 139326576 | https://github.com/ankitects/anki/releases/download/2.1.52/anki-2.1.52-windows-qt6.exe |
+| 2.1.53  | Windows  | x86          | exe  | 05/28/2022 | 125044344 | https://github.com/ankitects/anki/releases/download/2.1.53/anki-2.1.53-windows-qt5.exe |
+| 2.1.53  | Windows  | x86          | exe  | 05/28/2022 | 139378776 | https://github.com/ankitects/anki/releases/download/2.1.53/anki-2.1.53-windows-qt6.exe |
 
 ## ArtifexGhostscript
 
@@ -430,13 +430,13 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
-| 18.0.6  | Windows  | x64          | exe  | 05/16/2022 | 84465557  | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-x64-18.0.6.exe                             |
-| 18.0.6  | Windows  | x86          | exe  | 05/16/2022 | 84475304  | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-18.0.6-windows-installer.exe               |
-| 18.0.6  | Windows  | x86          | exe  | 05/16/2022 | 84272160  | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-18.0.6-windows-no-installer.exe            |
-| 18.0.6  | Windows  | x86          | exe  | 05/16/2022 | 81293376  | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-ia32-18.0.6-windows-32bit-installer.exe    |
-| 18.0.6  | Windows  | x86          | exe  | 05/16/2022 | 81090608  | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-ia32-18.0.6-windows-32bit-no-installer.exe |
-| 18.0.6  | Windows  | x86          | exe  | 05/16/2022 | 81283629  | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-ia32-18.0.6.exe                            |
-| 18.0.6  | Windows  | x86          | msi  | 05/16/2022 | 114278400 | https://github.com/jgraph/drawio-desktop/releases/download/v18.0.6/draw.io-18.0.6.msi                                 |
+| 18.1.3  | Windows  | x64          | exe  | 05/26/2022 | 84469655  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-x64-18.1.3.exe                             |
+| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 84479400  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-18.1.3-windows-installer.exe               |
+| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 84276264  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-18.1.3-windows-no-installer.exe            |
+| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 81296496  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-ia32-18.1.3-windows-32bit-installer.exe    |
+| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 81093824  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-ia32-18.1.3-windows-32bit-no-installer.exe |
+| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 81286750  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-ia32-18.1.3.exe                            |
+| 18.1.3  | Windows  | x86          | msi  | 05/26/2022 | 114298880 | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-18.1.3.msi                                 |
 
 ## dnGrep
 
@@ -570,9 +570,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.kumi.systems/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.dotsrc.org/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1040,9 +1040,9 @@
 
 [Link](https://docs.microsoft.com/fslogix/)
 
-| Version        | Date       | Channel    | URI                                                                                                                |
-| -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2.9.8111.53415 | 03/25/2022 | Production | https://download.microsoft.com/download/9/2/5/9257adcf-abdf-4ab3-b37f-416d70682315/FSLogix_Apps_2.9.8111.53415.zip |
+| Version | Date       | Channel    | URI                                                             |
+| ------- | ---------- | ---------- | --------------------------------------------------------------- |
+|         | 05/28/2022 | Production | https://www.microsoft.com/en-us/download/details.aspx?id=104223 |
 
 ## MicrosoftOneDrive
 
@@ -1050,17 +1050,13 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.114.0525.0001 | AMD64        | InternalFast | kkhmPWeg5/FsPTzUQlvD4aSqDuf/A6nW6WGqeA6ij04= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.114.0525.0001/amd64/OneDriveSetup.exe                           |
-| 22.114.0525.0001 | x86          | InternalFast | tREa1R/KZUE2w7OI/6AWuhS6vEtGlH+CoxFTJZk279E= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.114.0525.0001/OneDriveSetup.exe                                 |
-| 22.111.0522.0001 | AMD64        | InternalSlow | t5jb5ftHc4HBsyNSuE1OCTOniTuo7baSeLYVp1Cz5F0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0001/amd64/OneDriveSetup.exe                           |
-| 22.111.0522.0001 | x86          | InternalSlow | Cn5+69fHUiBh4AOf4RpUr32+lD0ZQV2+m0OLiZpfiME= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0001/OneDriveSetup.exe                                 |
-| 22.105.0515.0002 | AMD64        | InternalSlow | kPZF6sDmLhsRf6zvo56jHecB4pzIayfQfsFufVsViAQ= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0002/amd64/OneDriveSetup.exe                           |
-| 22.105.0515.0002 | x86          | InternalSlow | A07fN2Eybdqjb/q37qeX2rOVsX+TTR0oEot8zGwNFx8= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.105.0515.0002/OneDriveSetup.exe                                 |
-| 22.105.0515.0001 | AMD64        | Insider      | 6FsjZe0Mzahn4GjqLBzrVygqbrdumvpbPAK3Gzz3OZg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0001/amd64/OneDriveSetup.exe                           |
-| 22.105.0515.0001 | x86          | Insider      | lUG6ZUaAVInMmmRVRrv4bQ/g9qgVVOF7U41LtBgibSk= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0001/OneDriveSetup.exe                                 |
-| 22.099.0508.0001 | AMD64        | Insider      | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/amd64/OneDriveSetup.exe                           |
+| 22.115.0526.0001 | AMD64        | InternalFast | A+XNUEkjoz4jTgh4rEo+zEQeTrJHDrFzKukbf6XvXQg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.115.0526.0001/amd64/OneDriveSetup.exe                           |
+| 22.115.0526.0001 | x86          | InternalFast | SickICJJeXAE6AlSi+KFHaOctEhN1UfqMayOzCaBUM4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.115.0526.0001/OneDriveSetup.exe                                 |
+| 22.111.0522.0002 | AMD64        | InternalSlow | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
+| 22.111.0522.0002 | x86          | InternalSlow | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/OneDriveSetup.exe                                 |
+| 22.105.0515.0002 | AMD64        | Insider      | kPZF6sDmLhsRf6zvo56jHecB4pzIayfQfsFufVsViAQ= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0002/amd64/OneDriveSetup.exe                           |
+| 22.105.0515.0002 | x86          | Insider      | A07fN2Eybdqjb/q37qeX2rOVsX+TTR0oEot8zGwNFx8= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0002/OneDriveSetup.exe                                 |
 | 22.099.0508.0001 | AMD64        | Production   | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/amd64/OneDriveSetup.exe                               |
-| 22.099.0508.0001 | x86          | Insider      | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.099.0508.0001/OneDriveSetup.exe                                 |
 | 22.099.0508.0001 | x86          | Production   | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/OneDriveSetup.exe                                     |
 | 22.089.0426.0003 | AMD64        | Production   | ohJxNN2MptEY/fdBJXv9rMqxaYqSFa4UC+28KucCRwc= | exe  | https://oneclient.sfx.ms/Win/Prod/22.089.0426.0003/amd64/OneDriveSetup.exe                               |
 | 22.089.0426.0003 | x86          | Production   | FkHfao98BmkaGZIs8wXGJkJ8DhEMh0c1coipwoAf5DY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.089.0426.0003/OneDriveSetup.exe                                     |
@@ -2023,14 +2019,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe     |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi     |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip     |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
