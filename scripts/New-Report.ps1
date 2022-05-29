@@ -66,7 +66,7 @@ $markdown += "hide:"
 $markdown += "  - navigation"
 $markdown += "  - toc"
 $markdown += "---"
-$markdown = New-MDHeader -Text "Applications list" -Level 1
+$markdown += New-MDHeader -Text "Applications list" -Level 1
 $markdown += "`n"
 $markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
 $markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
