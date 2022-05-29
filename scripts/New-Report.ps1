@@ -45,6 +45,11 @@ $Markdown | Out-File -FilePath $UpdateFile -Force -Encoding "Utf8" -NoNewline
 
 #region Update the generated date in about.md
 $About = @"
+---
+hide:
+  - navigation
+  - toc
+---
 # About
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
@@ -56,11 +61,13 @@ $About -replace "#DATE", (Get-Date -Format "dddd dd/MM/yyyy HH:mm K") | Out-File
 
 
 #region Update the list of supported apps in APPS.md
+$markdown = "---"
+$markdown += "hide:"
+$markdown += "  - navigation"
+$markdown += "  - toc"
+$markdown += "---"
 $markdown = New-MDHeader -Text "Applications list" -Level 1
 $markdown += "`n"
-$line = "Evergreen " + '`' + $newVersion + '`' + " supports the following applications:"
-$markdown += $line
-$markdown += "`n`n"
-$markdown += Find-EvergreenApp | New-MDTable
+$markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
 $markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
 #endregion
