@@ -72,7 +72,8 @@ jobs:
           run: |
             $params = @{
               Path      = "${{ github.workspace }}/docs/json/*.json"
-              AppsFile  = "${{ github.workspace }}/docs/index.md"
+              UpdateFile = "${{ github.workspace }}/docs/index.md"
+              AppsFile  = "${{ github.workspace }}/docs/apps.md"
               AboutFile = "${{ github.workspace }}/docs/about.md"
             }
             . "${{ github.workspace }}/scripts/New-Report.ps1" @params

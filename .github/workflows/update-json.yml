@@ -11,7 +11,7 @@ on:
     branches: [ main ]
     paths:
       - 'scripts/Update-Json.ps1'
-      - '.github/workflows/update-json.yml'
+      #- '.github/workflows/update-json.yml'
   schedule:
     - cron: '0 */4 * * *'
 
@@ -221,7 +221,8 @@ jobs:
           run: |
             $params = @{
               Path      = "${{ github.workspace }}/docs/json/*.json"
-              AppsFile  = "${{ github.workspace }}/docs/index.md"
+              UpdateFile = "${{ github.workspace }}/docs/index.md"
+              AppsFile  = "${{ github.workspace }}/docs/apps.md"
               AboutFile = "${{ github.workspace }}/docs/about.md"
             }
             . "${{ github.workspace }}/scripts/New-Report.ps1" @params

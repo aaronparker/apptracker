@@ -8,6 +8,9 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
+    [System.String] $UpdateFile,
+
+    [ValidateNotNullOrEmpty()]
     [System.String] $AppsFile,
 
     [ValidateNotNullOrEmpty()]
@@ -18,7 +21,7 @@ param(
 Import-Module -Name "Evergreen" -Force
 Import-Module -Name "MarkdownPS" -Force
 
-# Update the list of supported apps in APPS.md
+#region Update the list of supported apps in APPS.md
 $Markdown = New-MDHeader -Text "Application Versions" -Level 1
 $Markdown += "`n"
 foreach ($File in (Get-ChildItem -Path $Path)) {
@@ -36,9 +39,11 @@ foreach ($File in (Get-ChildItem -Path $Path)) {
     $Markdown += $Table
     $Markdown += "`n"
 }
-$Markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
+$Markdown | Out-File -FilePath $UpdateFile -Force -Encoding "Utf8" -NoNewline
+#endregion
 
-# Update the generated date in about.md
+
+#region Update the generated date in about.md
 $About = @"
 # About
 
@@ -47,3 +52,15 @@ This site tracks latest application versions via the [Evergreen](https://stealth
 Last update: **#DATE** (UTC)
 "@
 $About -replace "#DATE", (Get-Date -Format "dddd dd/MM/yyyy HH:mm K") | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
+#endregion
+
+
+#region Update the list of supported apps in APPS.md
+$markdown = New-MDHeader -Text "Applications list" -Level 1
+$markdown += "`n"
+$line = "Evergreen " + '`' + $newVersion + '`' + " supports the following applications:"
+$markdown += $line
+$markdown += "`n`n"
+$markdown += Find-EvergreenApp | New-MDTable
+$markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
+#endregion
