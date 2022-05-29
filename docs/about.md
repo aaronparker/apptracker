@@ -7,4 +7,4 @@ hide:
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Last update: **Sunday 29/05/2022 23:12 +00:00** (UTC)
+Last update: **Sunday 29/05/2022 23:16 +00:00** (UTC)
