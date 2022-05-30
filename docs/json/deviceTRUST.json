@@ -1,5 +1,12 @@
 [
   {
+    "Version": "21.1.210.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 21.1.210",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-21.1.210.zip"
+  },
+  {
     "Version": "21.1.200.0",
     "Platform": "Windows",
     "Type": "Bundle",
