@@ -61,11 +61,11 @@ $About -replace "#DATE", (Get-Date -Format "dddd dd/MM/yyyy HH:mm K") | Out-File
 
 
 #region Update the list of supported apps in APPS.md
-$markdown = "---"
-$markdown += "hide:"
-$markdown += "  - navigation"
-$markdown += "  - toc"
-$markdown += "---"
+$markdown = "---`n"
+$markdown += "hide:`n"
+$markdown += "  - navigation`n"
+$markdown += "  - toc`n"
+$markdown += "---`n`n"
 $markdown += New-MDHeader -Text "Applications list" -Level 1
 $markdown += "`n"
 $markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
