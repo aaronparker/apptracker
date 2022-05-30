@@ -12,10 +12,10 @@
     "URI": "https://cdn.zoom.us/prod/5.10.6.5889/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.10.3.1320",
+    "Version": "5.10.6.1421",
     "Platform": "Windows",
     "Type": "Rooms",
-    "URI": "https://cdn.zoom.us/prod/5.10.3.1320/zoomrooms-5.10.3.1320-x86.exe"
+    "URI": "https://cdn.zoom.us/prod/5.10.6.1421/zoomrooms-5.10.6.1421-x86.exe"
   },
   {
     "Version": "5.10.3.407",

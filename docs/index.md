@@ -585,9 +585,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp-mirror.usessionbuddy.com/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -2165,7 +2165,7 @@
 | ----------- | -------- | ------- | ------------------------------------------------------------------ |
 | 5.10.6.5889 | Windows  | Exe     | https://cdn.zoom.us/prod/5.10.6.5889/ZoomInstaller.exe             |
 | 5.10.6.5889 | Windows  | Msi     | https://cdn.zoom.us/prod/5.10.6.5889/ZoomInstallerFull.msi         |
-| 5.10.3.1320 | Windows  | Rooms   | https://cdn.zoom.us/prod/5.10.3.1320/zoomrooms-5.10.3.1320-x86.exe |
+| 5.10.6.1421 | Windows  | Rooms   | https://cdn.zoom.us/prod/5.10.6.1421/zoomrooms-5.10.6.1421-x86.exe |
 | 5.10.3.407  | Windows  | Notes   | https://cdn.zoom.us/prod/5.10.3.407/ZoomNotesPluginSetup.msi       |
 | 5.10.3.406  | Windows  | Outlook | https://cdn.zoom.us/prod/5.10.3.406/ZoomOutlookPluginSetup.msi     |
 | 5.9.3.239   | Windows  | Lync    | https://cdn.zoom.us/prod/5.9.3.239/ZoomLyncPluginSetup.msi         |
