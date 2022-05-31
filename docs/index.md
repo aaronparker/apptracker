@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.info/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp-mirror.usessionbuddy.com/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -812,9 +812,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -860,7 +860,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1254,8 +1254,8 @@
 
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                          |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 5.5.1-latest.20220526.1 | x64          | Alpha   | 05/26/2022 15:20:02 | 245575216 | iu0HPBXJfV/nt/GFbEmFv178tu7Up8ofXeJI3/3V0vJtQ+HMv0c/7edFfWOcMkgzVywQWBdmOopm4elL5BsGDA== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.1-latest.20220526.1.exe |
-| 5.5.1-latest.20220526.1 | x64          | Stable  | 05/26/2022 15:20:02 | 245575216 | iu0HPBXJfV/nt/GFbEmFv178tu7Up8ofXeJI3/3V0vJtQ+HMv0c/7edFfWOcMkgzVywQWBdmOopm4elL5BsGDA== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.1-latest.20220526.1.exe |
+| 5.5.2-latest.20220530.1 | x64          | Alpha   | 05/30/2022 18:02:26 | 248433360 | JIxxB7sEwrFOhF1YjM2dip42Zi4KdOWf/39bN+WtcOnR3kZgNsUIsr2+eUeCwBN/yQZ8KDN1/oKnaCFpt0O8+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.2-latest.20220530.1.exe |
+| 5.5.2-latest.20220530.1 | x64          | Stable  | 05/30/2022 18:02:26 | 248433360 | JIxxB7sEwrFOhF1YjM2dip42Zi4KdOWf/39bN+WtcOnR3kZgNsUIsr2+eUeCwBN/yQZ8KDN1/oKnaCFpt0O8+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.2-latest.20220530.1.exe |
 
 ## MozillaFirefox
 
@@ -2035,14 +2035,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                          |
-| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
