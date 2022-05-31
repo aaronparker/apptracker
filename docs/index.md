@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -812,9 +812,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1066,8 +1066,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.115.0526.0001 | AMD64        | InternalFast | A+XNUEkjoz4jTgh4rEo+zEQeTrJHDrFzKukbf6XvXQg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.115.0526.0001/amd64/OneDriveSetup.exe                           |
-| 22.115.0526.0001 | x86          | InternalFast | SickICJJeXAE6AlSi+KFHaOctEhN1UfqMayOzCaBUM4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.115.0526.0001/OneDriveSetup.exe                                 |
+| 22.116.0529.0001 | AMD64        | InternalFast | g+qyzzeSWmxU4JMUQGYN0//3W3SXVAXSVGtj1uLtUwM= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.116.0529.0001/amd64/OneDriveSetup.exe                           |
+| 22.116.0529.0001 | x86          | InternalFast | 9lRzlsrmvQgU+ng2S6W+M4FzJprndxdCP7djUOVntXg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.116.0529.0001/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Insider      | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
 | 22.111.0522.0002 | AMD64        | InternalSlow | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
 | 22.111.0522.0002 | x86          | Insider      | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/OneDriveSetup.exe                                 |
@@ -2037,12 +2037,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
