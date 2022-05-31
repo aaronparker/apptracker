@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.0.exe |
 
 ## 1Password7
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp-mirror.usessionbuddy.com/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://artfiles.org/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -860,7 +860,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1067,7 +1067,9 @@
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
 | 22.116.0529.0001 | AMD64        | InternalFast | g+qyzzeSWmxU4JMUQGYN0//3W3SXVAXSVGtj1uLtUwM= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.116.0529.0001/amd64/OneDriveSetup.exe                           |
+| 22.116.0529.0001 | AMD64        | InternalSlow | g+qyzzeSWmxU4JMUQGYN0//3W3SXVAXSVGtj1uLtUwM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0001/amd64/OneDriveSetup.exe                           |
 | 22.116.0529.0001 | x86          | InternalFast | 9lRzlsrmvQgU+ng2S6W+M4FzJprndxdCP7djUOVntXg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.116.0529.0001/OneDriveSetup.exe                                 |
+| 22.116.0529.0001 | x86          | InternalSlow | 9lRzlsrmvQgU+ng2S6W+M4FzJprndxdCP7djUOVntXg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0001/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Insider      | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
 | 22.111.0522.0002 | AMD64        | InternalSlow | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
 | 22.111.0522.0002 | x86          | Insider      | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/OneDriveSetup.exe                                 |
@@ -1261,20 +1263,20 @@
 
 [Link](https://www.mozilla.org/)
 
-| Version | Architecture | Channel                | Language | Type | Filename                    | URI                                                                                                                           |
-| ------- | ------------ | ---------------------- | -------- | ---- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 100.0.2 | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.2.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64-aarch64/en-US/Firefox%20Setup%20100.0.2.exe     |
-| 100.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.2.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64/en-US/Firefox%20Setup%20100.0.2.exe             |
-| 100.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 100.0.2.msi   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64/en-US/Firefox%20Setup%20100.0.2.msi             |
-| 100.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 100.0.2.msix  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win64/multi/Firefox%20Setup%20100.0.2.msix            |
-| 100.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 100.0.2.exe   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win32/en-US/Firefox%20Setup%20100.0.2.exe             |
-| 100.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 100.0.2.msi   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win32/en-US/Firefox%20Setup%20100.0.2.msi             |
-| 100.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 100.0.2.msix  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/100.0.2/win32/multi/Firefox%20Setup%20100.0.2.msix            |
-| 91.9.1  | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.1esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win64-aarch64/en-US/Firefox%20Setup%2091.9.1esr.exe |
-| 91.9.1  | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.1esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win64/en-US/Firefox%20Setup%2091.9.1esr.exe         |
-| 91.9.1  | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.9.1esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win64/en-US/Firefox%20Setup%2091.9.1esr.msi         |
-| 91.9.1  | x86          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.9.1esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win32/en-US/Firefox%20Setup%2091.9.1esr.exe         |
-| 91.9.1  | x86          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.9.1esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.9.1esr/win32/en-US/Firefox%20Setup%2091.9.1esr.msi         |
+| Version | Architecture | Channel                | Language | Type | Filename                     | URI                                                                                                                             |
+| ------- | ------------ | ---------------------- | -------- | ---- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 101.0   | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.exe      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64-aarch64/en-US/Firefox%20Setup%20101.0.exe           |
+| 101.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.exe      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64/en-US/Firefox%20Setup%20101.0.exe                   |
+| 101.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 101.0.msi      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64/en-US/Firefox%20Setup%20101.0.msi                   |
+| 101.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 101.0.msix     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64/multi/Firefox%20Setup%20101.0.msix                  |
+| 101.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.exe      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win32/en-US/Firefox%20Setup%20101.0.exe                   |
+| 101.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 101.0.msi      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win32/en-US/Firefox%20Setup%20101.0.msi                   |
+| 101.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 101.0.msix     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win32/multi/Firefox%20Setup%20101.0.msix                  |
+| 91.10.0 | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.10.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win64-aarch64/en-US/Firefox%20Setup%2091.10.0esr.exe |
+| 91.10.0 | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.10.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win64/en-US/Firefox%20Setup%2091.10.0esr.exe         |
+| 91.10.0 | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.10.0esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win64/en-US/Firefox%20Setup%2091.10.0esr.msi         |
+| 91.10.0 | x86          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.10.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win32/en-US/Firefox%20Setup%2091.10.0esr.exe         |
+| 91.10.0 | x86          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.10.0esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win32/en-US/Firefox%20Setup%2091.10.0esr.msi         |
 
 ## MozillaThunderbird
 
@@ -2035,14 +2037,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                   |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
