@@ -469,7 +469,7 @@
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3.60.0  | 11826776 | c899de1cc061e794e345e0734f8bd6ed31300126c9c17b8f5280a3898314fe019465e827136bc481fd4c2601fe1d405d856da9f723f277d9b3b6a03c63f9a0b1 | https://download.filezilla-project.org/client/FileZilla_3.60.0_win64-setup.exe |
+| 3.60.1  | 11828160 | 3c9e5f3cbedf9f97cc26880ea5203fb8f6051cdd5bd80c8e61fed26d8d2b09301c224535c8202403bf2bcb483948d35b7e78cd74b49850190faa69b9a22849c7 | https://download.filezilla-project.org/client/FileZilla_3.60.1_win64-setup.exe |
 
 ## Fork
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.dogado.de/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -785,9 +785,9 @@
 
 | Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
 | -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2022.1.1 | 221.5591.52 | IntelliJ IDEA Community | 05/11/2022 | 621048696 | https://download.jetbrains.com/idea/ideaIC-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.1.1.exe |
+| 2022.1.2 | 221.5787.30 | IntelliJ IDEA Community | 06/01/2022 | 621056448 | https://download.jetbrains.com/idea/ideaIC-2022.1.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.1.2.exe |
+| 2022.1.2 | 221.5787.30 | IntelliJ IDEA Ultimate  | 06/01/2022 | 731334784 | https://download.jetbrains.com/idea/ideaIU-2022.1.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.1.2.exe |
 | 2022.1.1 | 221.5591.62 | IntelliJ IDEA Edu       | 05/25/2022 | 687343256 | https://download.jetbrains.com/idea/ideaIE-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.1.1.exe |
-| 2022.1.1 | 221.5591.52 | IntelliJ IDEA Ultimate  | 05/11/2022 | 731359272 | https://download.jetbrains.com/idea/ideaIU-2022.1.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.1.1.exe |
 
 ## JetBrainsPyCharm
 
@@ -812,9 +812,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1074,8 +1074,6 @@
 | 22.111.0522.0002 | AMD64        | InternalSlow | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
 | 22.111.0522.0002 | x86          | Insider      | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | x86          | InternalSlow | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/OneDriveSetup.exe                                 |
-| 22.105.0515.0002 | AMD64        | Insider      | kPZF6sDmLhsRf6zvo56jHecB4pzIayfQfsFufVsViAQ= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0002/amd64/OneDriveSetup.exe                           |
-| 22.105.0515.0002 | x86          | Insider      | A07fN2Eybdqjb/q37qeX2rOVsX+TTR0oEot8zGwNFx8= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.105.0515.0002/OneDriveSetup.exe                                 |
 | 22.099.0508.0001 | AMD64        | Production   | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/amd64/OneDriveSetup.exe                               |
 | 22.099.0508.0001 | x86          | Production   | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/OneDriveSetup.exe                                     |
 | 22.022.0130.0001 | AMD64        | Enterprise   | 8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe                         |
@@ -2037,14 +2035,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe           |
-| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi           |
-| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip           |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe                  |
+| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi                  |
+| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip                  |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
