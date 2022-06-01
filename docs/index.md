@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.0.exe |
 
 ## 1Password7
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.icm.edu.pl/pub/graphics/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -860,7 +860,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -958,8 +958,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | 5c87a28c858e6e0e501beb5cf32070eb1e1f56a0d096842f1ac13cf76e0d0ee3 | https://sqlopsbuilds.azureedge.net/insider/ef7de661df814f62ab21d99854528f3c63fccf5b/azuredatastudio-windows-setup-1.37.0-insider.exe      |
-| 1.37.0  | win32-x64-user | Insider | 438e13f84239c50d67917c8635c1b0f57c1b1d424c134acdf189f1647d767f34 | https://sqlopsbuilds.azureedge.net/insider/ef7de661df814f62ab21d99854528f3c63fccf5b/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
+| 1.37.0  | win32-x64      | Insider | 5f5865f6b30059e129ecd5fada2d10c594a8ecadb7e30ffa756ed1f6e61a0e4a | https://sqlopsbuilds.azureedge.net/insider/bba66e4e4dad0aa4717aabc14ae9ec970529fe88/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64-user | Insider | 8667b90510e68f2112db2c009542e9bdaddad68d4691a98695ee42d7aa03b0c0 | https://sqlopsbuilds.azureedge.net/insider/bba66e4e4dad0aa4717aabc14ae9ec970529fe88/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.2  | win32-x64      | Stable  | 9a9a56b7edd986a6a3497b79871b2816df9a839a743dee592223f92a84a9f940 | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-setup-1.36.2.exe               |
 | 1.36.2  | win32-x64-user | Stable  | 64d7a14f1dfd92868fec9ffac19ac280bfb99b1417cf08721f0a1ac019b94c3f | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-user-setup-1.36.2.exe          |
 
@@ -1156,8 +1156,8 @@
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1.68.0  | win32-arm64      | Insider | ARM64        | 4fdede9addb721e379f20b4f9bc072760fdf7e529927dff2c136de7fa0588c17 | https://az764295.vo.msecnd.net/insider/acb156d6fb0dc451f427748d5f68774f17cc96fd/VSCodeSetup-arm64-1.68.0-insider.exe     |
 | 1.68.0  | win32-arm64-user | Insider | ARM64        | 07595be13bb449680db9cba80febd81a4210da92698b3425f0f4fa6f21c422f1 | https://az764295.vo.msecnd.net/insider/acb156d6fb0dc451f427748d5f68774f17cc96fd/VSCodeUserSetup-arm64-1.68.0-insider.exe |
-| 1.68.0  | win32-x64        | Insider | x64          | 84266ee63e81dd8c55a67161f023f05fbafecea55989e8506158ee451224d1e4 | https://az764295.vo.msecnd.net/insider/acb156d6fb0dc451f427748d5f68774f17cc96fd/VSCodeSetup-x64-1.68.0-insider.exe       |
-| 1.68.0  | win32-x64-user   | Insider | x64          | 3c7f0ed98febfe8894ecf644c0a8fc4f49985014018fe1f4c561aa99b4a06f9b | https://az764295.vo.msecnd.net/insider/acb156d6fb0dc451f427748d5f68774f17cc96fd/VSCodeUserSetup-x64-1.68.0-insider.exe   |
+| 1.68.0  | win32-x64        | Insider | x64          | 9e8b4c9601a2bcca04edfae5634c7bc9cb5d40bbfe863f3b564efb3698c0b215 | https://az764295.vo.msecnd.net/insider/4589815e4849499c67125ff68563fa102646b869/VSCodeSetup-x64-1.68.0-insider.exe       |
+| 1.68.0  | win32-x64-user   | Insider | x64          | 8955535f955c5bc4b218f6dae91313531d5030555c67f8019ca8b07a8589e1f0 | https://az764295.vo.msecnd.net/insider/4589815e4849499c67125ff68563fa102646b869/VSCodeUserSetup-x64-1.68.0-insider.exe   |
 | 1.68.0  | win32            | Insider | x86          | f89e1cecb868d38bf49d6771b0088d7ac270fcc1e08b41602391832056f8e8ea | https://az764295.vo.msecnd.net/insider/acb156d6fb0dc451f427748d5f68774f17cc96fd/VSCodeSetup-ia32-1.68.0-insider.exe      |
 | 1.68.0  | win32-user       | Insider | x86          | 85975acc00dea617e4e500cf19367f9351ba57ed0faf421b704207e27bfda97b | https://az764295.vo.msecnd.net/insider/acb156d6fb0dc451f427748d5f68774f17cc96fd/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
 | 1.67.2  | win32-arm64      | Stable  | ARM64        | c7b6c599ed1bf9402789606d885573bd25d6cedf83b0f1d30232470dee898def | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-arm64-1.67.2.exe              |
@@ -2037,14 +2037,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe           |
+| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi           |
+| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip           |
 
 ## VisualCppRedistAIO
 
