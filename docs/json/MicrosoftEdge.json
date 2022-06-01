@@ -63,6 +63,60 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/08d335aa-a6de-4c39-9a52-bdda32156738/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
+    "Version": "102.0.1245.30",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Consumer",
+    "Architecture": "arm64",
+    "Hash": "96E1D591D5711510AF90379AA3F10626B0692E01DCC3C5430EA39C9C009D82DE",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/abd00feb-60ce-444e-b89e-4b05e08e29e7/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "102.0.1245.30",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Enterprise",
+    "Architecture": "arm64",
+    "Hash": "96E1D591D5711510AF90379AA3F10626B0692E01DCC3C5430EA39C9C009D82DE",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/abd00feb-60ce-444e-b89e-4b05e08e29e7/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "102.0.1245.30",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Consumer",
+    "Architecture": "x64",
+    "Hash": "AD7E26E155DF31E3171E7F3ABFA504C6B9346A633DCD963093EED992070C0BEF",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/49934f28-c45e-48cc-8f03-4ddf758e2050/MicrosoftEdgeEnterpriseX64.msi"
+  },
+  {
+    "Version": "102.0.1245.30",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Enterprise",
+    "Architecture": "x64",
+    "Hash": "AD7E26E155DF31E3171E7F3ABFA504C6B9346A633DCD963093EED992070C0BEF",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/49934f28-c45e-48cc-8f03-4ddf758e2050/MicrosoftEdgeEnterpriseX64.msi"
+  },
+  {
+    "Version": "102.0.1245.30",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Consumer",
+    "Architecture": "x86",
+    "Hash": "6903724D254F18BB59AF3471DA846840603B951FB3EE4617117AEE89FC744B84",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/39935d5d-3274-4010-8764-ca8c4eed06d3/MicrosoftEdgeEnterpriseX86.msi"
+  },
+  {
+    "Version": "102.0.1245.30",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Enterprise",
+    "Architecture": "x86",
+    "Hash": "6903724D254F18BB59AF3471DA846840603B951FB3EE4617117AEE89FC744B84",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/39935d5d-3274-4010-8764-ca8c4eed06d3/MicrosoftEdgeEnterpriseX86.msi"
+  },
+  {
     "Version": "102.0.1245.25",
     "Platform": "Windows",
     "Channel": "Beta",
@@ -115,42 +169,6 @@
     "Architecture": "x86",
     "Hash": "6A7B6C2BF9C562FF60B5914284B064D57443AEC9BF68F1F31DD1E09043A9416D",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1bd8264d-4de1-4802-aa44-fa3f8f6297fe/MicrosoftEdgeBetaEnterpriseX86.msi"
-  },
-  {
-    "Version": "101.0.1210.53",
-    "Platform": "Windows",
-    "Channel": "Stable",
-    "Release": "Consumer",
-    "Architecture": "x64",
-    "Hash": "6675000F8D493DF6211AA670F977CE17E8F2BB35132718DC3E873B0A49E000F9",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/deca85f5-369c-4c01-933d-f1b544563b31/MicrosoftEdgeEnterpriseX64.msi"
-  },
-  {
-    "Version": "101.0.1210.53",
-    "Platform": "Windows",
-    "Channel": "Stable",
-    "Release": "Enterprise",
-    "Architecture": "x64",
-    "Hash": "6675000F8D493DF6211AA670F977CE17E8F2BB35132718DC3E873B0A49E000F9",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/deca85f5-369c-4c01-933d-f1b544563b31/MicrosoftEdgeEnterpriseX64.msi"
-  },
-  {
-    "Version": "101.0.1210.53",
-    "Platform": "Windows",
-    "Channel": "Stable",
-    "Release": "Consumer",
-    "Architecture": "x86",
-    "Hash": "014D4068F66E0DB33575B57F706DAC8D36997E57C97336C7FEE01D596082F910",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d036bcb-1e82-4170-8f94-42d7cd2716fd/MicrosoftEdgeEnterpriseX86.msi"
-  },
-  {
-    "Version": "101.0.1210.53",
-    "Platform": "Windows",
-    "Channel": "Stable",
-    "Release": "Enterprise",
-    "Architecture": "x86",
-    "Hash": "014D4068F66E0DB33575B57F706DAC8D36997E57C97336C7FEE01D596082F910",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d036bcb-1e82-4170-8f94-42d7cd2716fd/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
     "Version": "1.3.161.35",
