@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                               |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -822,8 +822,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 1.6.0   | Windows  | x64          | exe  | 05/16/2022 | 54949816 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x64_1_6_0.exe |
-| 1.6.0   | Windows  | x86          | exe  | 05/16/2022 | 55648184 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x32_1_6_0.exe |
+| 1.5.2   | Windows  | x64          | exe  | 02/14/2022 | 54905784 | https://github.com/karakun/OpenWebStart/releases/download/v1.5.2/OpenWebStart_windows-x64_1_5_2.exe |
+| 1.5.2   | Windows  | x86          | exe  | 02/14/2022 | 55610296 | https://github.com/karakun/OpenWebStart/releases/download/v1.5.2/OpenWebStart_windows-x32_1_5_2.exe |
 
 ## KeePass
 
@@ -1152,12 +1152,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.68.0  | win32-arm64      | Insider | ARM64        | b302cf46539e41789ab53e777234900378f3edbff9e7034c60af43e53b45bf21 | https://az764295.vo.msecnd.net/insider/40840d1d58f4a84b0b3cb6ab5433124274bf3ca1/VSCodeSetup-arm64-1.68.0-insider.exe     |
-| 1.68.0  | win32-arm64-user | Insider | ARM64        | bd11b562e61c3ebeaad28f01e9dc151b48e0379ec1d4976113490fb7a5c96ba9 | https://az764295.vo.msecnd.net/insider/40840d1d58f4a84b0b3cb6ab5433124274bf3ca1/VSCodeUserSetup-arm64-1.68.0-insider.exe |
-| 1.68.0  | win32-x64        | Insider | x64          | 82a34982ceeb39c306bb9b9df8eed50600fdf31c743ffb06483d1cc51247d277 | https://az764295.vo.msecnd.net/insider/40840d1d58f4a84b0b3cb6ab5433124274bf3ca1/VSCodeSetup-x64-1.68.0-insider.exe       |
-| 1.68.0  | win32-x64-user   | Insider | x64          | 76e89321a67fdc1e201a6825439a82633959042d69fbf6836d1a4fceee8e6274 | https://az764295.vo.msecnd.net/insider/40840d1d58f4a84b0b3cb6ab5433124274bf3ca1/VSCodeUserSetup-x64-1.68.0-insider.exe   |
-| 1.68.0  | win32            | Insider | x86          | c2dd061b571c62952fc83d9878a2e8f39f6f28bcf7dee8750249b301798b5a92 | https://az764295.vo.msecnd.net/insider/40840d1d58f4a84b0b3cb6ab5433124274bf3ca1/VSCodeSetup-ia32-1.68.0-insider.exe      |
-| 1.68.0  | win32-user       | Insider | x86          | 2ee562bd3bbd8efe5a1c3ee12169de161fe035b379e5d04d198678168db5a359 | https://az764295.vo.msecnd.net/insider/40840d1d58f4a84b0b3cb6ab5433124274bf3ca1/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
+| 1.68.0  | win32-arm64      | Insider | ARM64        | c98c57f104710514600875550e1f879119046ddc2c0f3ef5f3a3a6551b25010d | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeSetup-arm64-1.68.0-insider.exe     |
+| 1.68.0  | win32-arm64-user | Insider | ARM64        | ec3ca9e5c8bd56ba01152aa06db77213d6890719d8408dd5000317f987e4f7d0 | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeUserSetup-arm64-1.68.0-insider.exe |
+| 1.68.0  | win32-x64        | Insider | x64          | 1acd4ff6c448d356ba5d36645518875512a698e69e88c139e285fff9e4e9727d | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeSetup-x64-1.68.0-insider.exe       |
+| 1.68.0  | win32-x64-user   | Insider | x64          | f69c840a18de9a3f660ea8ad5b873964ed6875d236c008bc7ef5baff17987c90 | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeUserSetup-x64-1.68.0-insider.exe   |
+| 1.68.0  | win32            | Insider | x86          | efb0ba2a82c6a86dc3d1dee68e0f1e07679b998c5c4997e93783b5eab6bdf1e1 | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeSetup-ia32-1.68.0-insider.exe      |
+| 1.68.0  | win32-user       | Insider | x86          | 94bb620ab0f0f94c522e264f26dc4a0b4cd77ee8e40b6136addfcf86b0abb70c | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
 | 1.67.2  | win32-arm64      | Stable  | ARM64        | c7b6c599ed1bf9402789606d885573bd25d6cedf83b0f1d30232470dee898def | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-arm64-1.67.2.exe              |
 | 1.67.2  | win32-arm64-user | Stable  | ARM64        | 36ef0816ce424fd87ba4cb826f6121bf758324799bbd17b8206a1c511a2085af | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-arm64-1.67.2.exe          |
 | 1.67.2  | win32-x64        | Stable  | x64          | 0c92dcd75fee53e366b39d38c2278df79380ac6630ce623ba45fb0d820629ab6 | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-x64-1.67.2.exe                |
@@ -1504,8 +1504,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 1.6.0   | Windows  | x64          | exe  | 05/16/2022 | 54949816 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x64_1_6_0.exe |
-| 1.6.0   | Windows  | x86          | exe  | 05/16/2022 | 55648184 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x32_1_6_0.exe |
+| 1.5.2   | Windows  | x64          | exe  | 02/14/2022 | 54905784 | https://github.com/karakun/OpenWebStart/releases/download/v1.5.2/OpenWebStart_windows-x64_1_5_2.exe |
+| 1.5.2   | Windows  | x86          | exe  | 02/14/2022 | 55610296 | https://github.com/karakun/OpenWebStart/releases/download/v1.5.2/OpenWebStart_windows-x32_1_5_2.exe |
 
 ## OperaBrowser
 
@@ -1670,7 +1670,7 @@
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
 | 22.2.20 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
 | 22.2.20 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
-| 22.2.20 | Windows  | Msi      |                                                                                                  |
+| 22.2.20 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
 | 22.2.20 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
 | 22.2.20 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
 
@@ -2036,14 +2036,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
