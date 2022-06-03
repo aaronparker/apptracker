@@ -302,10 +302,10 @@
 
 [Link](https://bitwarden.com/)
 
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                           |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------- |
-| 1.33.0  | Windows  | x86          | exe  | 04/25/2022 | 726696    | https://github.com/bitwarden/desktop/releases/download/v1.33.0/Bitwarden-Installer-1.33.0.exe |
-| 1.33.0  | Windows  | x86          | exe  | 04/25/2022 | 179693792 | https://github.com/bitwarden/desktop/releases/download/v1.33.0/Bitwarden-Portable-1.33.0.exe  |
+| Version  | Platform | Architecture | Type | Date       | Size      | URI                                                                                               |
+| -------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------- |
+| 2022.5.0 | Windows  | x86          | exe  | 05/05/2022 | 726672    | https://github.com/bitwarden/desktop/releases/download/v2022.5.0/Bitwarden-Installer-2022.5.0.exe |
+| 2022.5.0 | Windows  | x86          | exe  | 05/05/2022 | 179804848 | https://github.com/bitwarden/desktop/releases/download/v2022.5.0/Bitwarden-Portable-2022.5.0.exe  |
 
 ## BlenderLauncher
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.kumi.systems/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1048,9 +1048,9 @@
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 102.0.1245.30 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/944d3312-5d80-4be4-b973-cb89f9210190/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 102.0.1245.30 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b8fc84f-b107-44f8-a1d0-db9e8fc1921d/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 102.0.1245.30 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c2ced7da-0439-4c90-8ac9-a2efc5112927/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| 102.0.1245.30 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ab9f9b6-950f-4021-9641-6378079a3d49/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 102.0.1245.30 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/32c2c13c-4b30-47ff-ad7f-b20acad828ca/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 102.0.1245.30 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/30959e8c-ae58-4d49-98c4-d17744d472c3/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftFSLogixApps
 
@@ -1066,8 +1066,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.117.0530.0001 | AMD64        | InternalFast | nqCB4DbyMUB+nQpGK/m3AzDo+c2pjLJXNapPKCXbSDE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.117.0530.0001/amd64/OneDriveSetup.exe                           |
-| 22.117.0530.0001 | x86          | InternalFast | 06phipTP3pPlIe65y4SZhYw3/bCwFfPyUYLQsj/ncjA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.117.0530.0001/OneDriveSetup.exe                                 |
+| 22.119.0601.0001 | AMD64        | InternalFast | 3LO8Qfts6mpSkXomfUfDWzeVPem0IZ1GMWFHOmsz4NA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.119.0601.0001/amd64/OneDriveSetup.exe                           |
+| 22.119.0601.0001 | x86          | InternalFast | l9xAtx9wDpwzRptTzFlx8JalsWpSv/iYXtQDxnjJ44w= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.119.0601.0001/OneDriveSetup.exe                                 |
 | 22.116.0529.0001 | AMD64        | InternalSlow | g+qyzzeSWmxU4JMUQGYN0//3W3SXVAXSVGtj1uLtUwM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0001/amd64/OneDriveSetup.exe                           |
 | 22.116.0529.0001 | x86          | InternalSlow | 9lRzlsrmvQgU+ng2S6W+M4FzJprndxdCP7djUOVntXg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0001/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Insider      | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
@@ -1254,7 +1254,7 @@
 
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                          |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 5.5.2-latest.20220530.1 | x64          | Alpha   | 05/30/2022 18:02:26 | 248433360 | JIxxB7sEwrFOhF1YjM2dip42Zi4KdOWf/39bN+WtcOnR3kZgNsUIsr2+eUeCwBN/yQZ8KDN1/oKnaCFpt0O8+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.2-latest.20220530.1.exe |
+| 5.5.3-latest.20220602.2 | x64          | Alpha   | 06/02/2022 20:23:02 | 248430464 | AjzjoAdz+ylU9kSOnXpYLm+w/wKhu3bo75ABrctEkNkKpH64innb0MFDwa3YHelx1lo+3RcZV0IqKMFWVWiDgw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.3-latest.20220602.2.exe |
 | 5.5.2-latest.20220530.1 | x64          | Stable  | 05/30/2022 18:02:26 | 248433360 | JIxxB7sEwrFOhF1YjM2dip42Zi4KdOWf/39bN+WtcOnR3kZgNsUIsr2+eUeCwBN/yQZ8KDN1/oKnaCFpt0O8+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.2-latest.20220530.1.exe |
 
 ## MozillaFirefox
@@ -2036,14 +2036,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe                  |
+| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi                  |
+| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip                  |
 
 ## VisualCppRedistAIO
 
