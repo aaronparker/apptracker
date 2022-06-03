@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -438,13 +438,13 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
-| 18.1.3  | Windows  | x64          | exe  | 05/26/2022 | 84469655  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-x64-18.1.3.exe                             |
-| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 84479400  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-18.1.3-windows-installer.exe               |
-| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 84276264  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-18.1.3-windows-no-installer.exe            |
-| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 81296496  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-ia32-18.1.3-windows-32bit-installer.exe    |
-| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 81093824  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-ia32-18.1.3-windows-32bit-no-installer.exe |
-| 18.1.3  | Windows  | x86          | exe  | 05/26/2022 | 81286750  | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-ia32-18.1.3.exe                            |
-| 18.1.3  | Windows  | x86          | msi  | 05/26/2022 | 114298880 | https://github.com/jgraph/drawio-desktop/releases/download/v18.1.3/draw.io-18.1.3.msi                                 |
+| 19.0.0  | Windows  | x64          | exe  | 06/03/2022 | 84574020  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-x64-19.0.0.exe                             |
+| 19.0.0  | Windows  | x86          | exe  | 06/03/2022 | 84583768  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-19.0.0-windows-installer.exe               |
+| 19.0.0  | Windows  | x86          | exe  | 06/03/2022 | 84380616  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-19.0.0-windows-no-installer.exe            |
+| 19.0.0  | Windows  | x86          | exe  | 06/03/2022 | 81401896  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-ia32-19.0.0-windows-32bit-installer.exe    |
+| 19.0.0  | Windows  | x86          | exe  | 06/03/2022 | 81199216  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-ia32-19.0.0-windows-32bit-no-installer.exe |
+| 19.0.0  | Windows  | x86          | exe  | 06/03/2022 | 81392151  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-ia32-19.0.0.exe                            |
+| 19.0.0  | Windows  | x86          | msi  | 06/03/2022 | 114487296 | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.0/draw.io-19.0.0.msi                                 |
 
 ## dnGrep
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.kumi.systems/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                               |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1255,7 +1255,7 @@
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                          |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 5.5.3-latest.20220602.2 | x64          | Alpha   | 06/02/2022 20:23:02 | 248430464 | AjzjoAdz+ylU9kSOnXpYLm+w/wKhu3bo75ABrctEkNkKpH64innb0MFDwa3YHelx1lo+3RcZV0IqKMFWVWiDgw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.3-latest.20220602.2.exe |
-| 5.5.2-latest.20220530.1 | x64          | Stable  | 05/30/2022 18:02:26 | 248433360 | JIxxB7sEwrFOhF1YjM2dip42Zi4KdOWf/39bN+WtcOnR3kZgNsUIsr2+eUeCwBN/yQZ8KDN1/oKnaCFpt0O8+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.2-latest.20220530.1.exe |
+| 5.5.3-latest.20220602.2 | x64          | Stable  | 06/02/2022 20:23:02 | 248430464 | AjzjoAdz+ylU9kSOnXpYLm+w/wKhu3bo75ABrctEkNkKpH64innb0MFDwa3YHelx1lo+3RcZV0IqKMFWVWiDgw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.3-latest.20220602.2.exe |
 
 ## MozillaFirefox
 
@@ -1670,7 +1670,7 @@
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
 | 22.2.20 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
 | 22.2.20 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
-| 22.2.20 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
+| 22.2.20 | Windows  | Msi      |                                                                                                  |
 | 22.2.20 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
 | 22.2.20 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
 
@@ -2036,14 +2036,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe           |
-| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi           |
-| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip           |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
