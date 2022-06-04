@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -452,8 +452,8 @@
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------- |
-| 3.0.42.0 | Windows  | x64          | msi  | 03/27/2022 | 6598656 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.42.0/dnGREP.3.0.42.x64.msi |
-| 3.0.42.0 | Windows  | x86          | msi  | 03/27/2022 | 6590464 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.42.0/dnGREP.3.0.42.x86.msi |
+| 3.0.64.0 | Windows  | x64          | msi  | 06/03/2022 | 6660096 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.64.0/dnGREP.3.0.64.x64.msi |
+| 3.0.64.0 | Windows  | x86          | msi  | 06/03/2022 | 6656000 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.64.0/dnGREP.3.0.64.x86.msi |
 
 ## DockerDesktop
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.cc.uoc.gr/mirrors/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -635,8 +635,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 104.0.5083.0  | x64          | dev     | 05/26/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 104.0.5083.0  | x86          | dev     | 05/26/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 104.0.5098.0  | x64          | dev     | 06/03/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 104.0.5098.0  | x86          | dev     | 06/03/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 103.0.5060.33 | x64          | beta    | 06/01/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 103.0.5060.33 | x86          | beta    | 06/01/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 102.0.5005.63 | x64          | stable  | 05/24/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -689,8 +689,8 @@
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
-| 1.12.1  | zip  | x64          | https://releases.hashicorp.com/consul/1.12.1/consul_1.12.1_windows_amd64.zip |
-| 1.12.1  | zip  | x86          | https://releases.hashicorp.com/consul/1.12.1/consul_1.12.1_windows_386.zip   |
+| 1.12.2  | zip  | x64          | https://releases.hashicorp.com/consul/1.12.2/consul_1.12.2_windows_amd64.zip |
+| 1.12.2  | zip  | x86          | https://releases.hashicorp.com/consul/1.12.2/consul_1.12.2_windows_386.zip   |
 
 ## HashicorpNomad
 
@@ -811,9 +811,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1065,14 +1065,14 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.119.0601.0001 | AMD64        | InternalFast | 3LO8Qfts6mpSkXomfUfDWzeVPem0IZ1GMWFHOmsz4NA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.119.0601.0001/amd64/OneDriveSetup.exe                           |
-| 22.119.0601.0001 | x86          | InternalFast | l9xAtx9wDpwzRptTzFlx8JalsWpSv/iYXtQDxnjJ44w= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.119.0601.0001/OneDriveSetup.exe                                 |
-| 22.116.0529.0001 | AMD64        | InternalSlow | g+qyzzeSWmxU4JMUQGYN0//3W3SXVAXSVGtj1uLtUwM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0001/amd64/OneDriveSetup.exe                           |
-| 22.116.0529.0001 | x86          | InternalSlow | 9lRzlsrmvQgU+ng2S6W+M4FzJprndxdCP7djUOVntXg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0001/OneDriveSetup.exe                                 |
+| 22.120.0602.0001 | AMD64        | InternalFast | EbHTQ8V4uRhctrDGSf4VHA6U6pB2D3BGJcJDxbLNVNg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.120.0602.0001/amd64/OneDriveSetup.exe                           |
+| 22.120.0602.0001 | x86          | InternalFast | PrsoMCEv3A6d8Qk0A0Ns0jnMGPAnIZuEKdxQjF9KkHY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.120.0602.0001/OneDriveSetup.exe                                 |
+| 22.116.0529.0002 | AMD64        | InternalSlow | rxk6MgtSJCJK8sUaPtA0fqNc9+6o543eT0uT7fASz2I= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0002/amd64/OneDriveSetup.exe                           |
+| 22.116.0529.0002 | x86          | InternalSlow | 2eh0KBBMJPIMyp14F/i5wRbPsGla4oQ4oKxaPrgwbZE= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0002/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Insider      | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
-| 22.111.0522.0002 | AMD64        | InternalSlow | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
+| 22.111.0522.0002 | AMD64        | Production   | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/amd64/OneDriveSetup.exe                               |
 | 22.111.0522.0002 | x86          | Insider      | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/OneDriveSetup.exe                                 |
-| 22.111.0522.0002 | x86          | InternalSlow | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.111.0522.0002/OneDriveSetup.exe                                 |
+| 22.111.0522.0002 | x86          | Production   | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/OneDriveSetup.exe                                     |
 | 22.099.0508.0001 | AMD64        | Production   | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/amd64/OneDriveSetup.exe                               |
 | 22.099.0508.0001 | x86          | Production   | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/OneDriveSetup.exe                                     |
 | 22.022.0130.0001 | AMD64        | Enterprise   | 8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe                         |
@@ -1411,18 +1411,18 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 8.4.1   | Windows  | ARM64        | 7z   | 05/11/2022 | 3510986 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.arm64.7z            |
-| 8.4.1   | Windows  | ARM64        | 7z   | 05/11/2022 | 1784921 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.minimalist.arm64.7z |
-| 8.4.1   | Windows  | ARM64        | exe  | 05/11/2022 | 4119432 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.Installer.arm64.exe          |
-| 8.4.1   | Windows  | ARM64        | zip  | 05/11/2022 | 5148730 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.arm64.zip           |
-| 8.4.1   | Windows  | x64          | 7z   | 05/11/2022 | 1883604 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.minimalist.x64.7z   |
-| 8.4.1   | Windows  | x64          | 7z   | 05/11/2022 | 3696217 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.x64.7z              |
-| 8.4.1   | Windows  | x64          | exe  | 05/11/2022 | 4503888 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.Installer.x64.exe            |
-| 8.4.1   | Windows  | x64          | zip  | 05/11/2022 | 5439245 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.x64.zip             |
-| 8.4.1   | Windows  | x86          | 7z   | 05/11/2022 | 3435178 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.7z                  |
-| 8.4.1   | Windows  | x86          | 7z   | 05/11/2022 | 1686083 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.minimalist.7z       |
-| 8.4.1   | Windows  | x86          | exe  | 05/11/2022 | 4271408 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.Installer.exe                |
-| 8.4.1   | Windows  | x86          | zip  | 05/11/2022 | 5040475 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.1/npp.8.4.1.portable.zip                 |
+| 8.4.2   | Windows  | ARM64        | 7z   | 06/03/2022 | 3520454 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.arm64.7z            |
+| 8.4.2   | Windows  | ARM64        | 7z   | 06/03/2022 | 1792158 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.minimalist.arm64.7z |
+| 8.4.2   | Windows  | ARM64        | exe  | 06/03/2022 | 4130640 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.arm64.exe          |
+| 8.4.2   | Windows  | ARM64        | zip  | 06/03/2022 | 5168005 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.arm64.zip           |
+| 8.4.2   | Windows  | x64          | 7z   | 06/03/2022 | 1891532 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.minimalist.x64.7z   |
+| 8.4.2   | Windows  | x64          | 7z   | 06/03/2022 | 3707015 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.x64.7z              |
+| 8.4.2   | Windows  | x64          | exe  | 06/03/2022 | 4518024 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.x64.exe            |
+| 8.4.2   | Windows  | x64          | zip  | 06/03/2022 | 5459561 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.x64.zip             |
+| 8.4.2   | Windows  | x86          | 7z   | 06/03/2022 | 3444335 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.7z                  |
+| 8.4.2   | Windows  | x86          | 7z   | 06/03/2022 | 1692610 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.minimalist.7z       |
+| 8.4.2   | Windows  | x86          | exe  | 06/03/2022 | 4283528 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.exe                |
+| 8.4.2   | Windows  | x86          | zip  | 06/03/2022 | 5056711 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.zip                 |
 
 ## Obsidian
 
@@ -2040,9 +2040,9 @@
 | 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
 | 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
 | 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe     |
-| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi     |
-| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip     |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
