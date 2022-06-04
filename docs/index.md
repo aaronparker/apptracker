@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://www.nic.funet.fi/pub/mirrors/ftp.gimp.org/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -811,9 +811,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1151,12 +1151,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.68.0  | win32-arm64      | Insider | ARM64        | c98c57f104710514600875550e1f879119046ddc2c0f3ef5f3a3a6551b25010d | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeSetup-arm64-1.68.0-insider.exe     |
-| 1.68.0  | win32-arm64-user | Insider | ARM64        | ec3ca9e5c8bd56ba01152aa06db77213d6890719d8408dd5000317f987e4f7d0 | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeUserSetup-arm64-1.68.0-insider.exe |
-| 1.68.0  | win32-x64        | Insider | x64          | 1acd4ff6c448d356ba5d36645518875512a698e69e88c139e285fff9e4e9727d | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeSetup-x64-1.68.0-insider.exe       |
-| 1.68.0  | win32-x64-user   | Insider | x64          | f69c840a18de9a3f660ea8ad5b873964ed6875d236c008bc7ef5baff17987c90 | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeUserSetup-x64-1.68.0-insider.exe   |
-| 1.68.0  | win32            | Insider | x86          | efb0ba2a82c6a86dc3d1dee68e0f1e07679b998c5c4997e93783b5eab6bdf1e1 | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeSetup-ia32-1.68.0-insider.exe      |
-| 1.68.0  | win32-user       | Insider | x86          | 94bb620ab0f0f94c522e264f26dc4a0b4cd77ee8e40b6136addfcf86b0abb70c | https://az764295.vo.msecnd.net/insider/dad162f8f376537aacd2e6fab65a4ea28fe65176/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
+| 1.68.0  | win32-arm64      | Insider | ARM64        | 64bc21b05d394972b48bddb27de14aa490ba81f901b066bb766d3bdf5a5f9dba | https://az764295.vo.msecnd.net/insider/2260d7cca34384a2838c728850afdd38113ddb47/VSCodeSetup-arm64-1.68.0-insider.exe     |
+| 1.68.0  | win32-arm64-user | Insider | ARM64        | 5ad7813dca2c093e84747f265499c55fdc7a8e044f3dd3e9d8db4377478e2b39 | https://az764295.vo.msecnd.net/insider/2260d7cca34384a2838c728850afdd38113ddb47/VSCodeUserSetup-arm64-1.68.0-insider.exe |
+| 1.68.0  | win32-x64        | Insider | x64          | 1e2494a928153404c957c10bc25292c9f57aaf0a842a9b5d1d6c0666a8964c0e | https://az764295.vo.msecnd.net/insider/2260d7cca34384a2838c728850afdd38113ddb47/VSCodeSetup-x64-1.68.0-insider.exe       |
+| 1.68.0  | win32-x64-user   | Insider | x64          | 01062512e7a0a4dd09ec9777685a4d249169dbc1e987616548e91b9744b64f24 | https://az764295.vo.msecnd.net/insider/2260d7cca34384a2838c728850afdd38113ddb47/VSCodeUserSetup-x64-1.68.0-insider.exe   |
+| 1.68.0  | win32            | Insider | x86          | dcddcc5339e52506c337c0672fb2e3a3af46131598035c5198c5f1c5c10830ab | https://az764295.vo.msecnd.net/insider/2260d7cca34384a2838c728850afdd38113ddb47/VSCodeSetup-ia32-1.68.0-insider.exe      |
+| 1.68.0  | win32-user       | Insider | x86          | e14d55d189389d251cd1c7f09b989419b0ec48eb87ef76648034c691979fc716 | https://az764295.vo.msecnd.net/insider/2260d7cca34384a2838c728850afdd38113ddb47/VSCodeUserSetup-ia32-1.68.0-insider.exe  |
 | 1.67.2  | win32-arm64      | Stable  | ARM64        | c7b6c599ed1bf9402789606d885573bd25d6cedf83b0f1d30232470dee898def | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-arm64-1.67.2.exe              |
 | 1.67.2  | win32-arm64-user | Stable  | ARM64        | 36ef0816ce424fd87ba4cb826f6121bf758324799bbd17b8206a1c511a2085af | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeUserSetup-arm64-1.67.2.exe          |
 | 1.67.2  | win32-x64        | Stable  | x64          | 0c92dcd75fee53e366b39d38c2278df79380ac6630ce623ba45fb0d820629ab6 | https://az764295.vo.msecnd.net/stable/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/VSCodeSetup-x64-1.67.2.exe                |
@@ -2037,9 +2037,9 @@
 
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
 | 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
 | 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
 | 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
