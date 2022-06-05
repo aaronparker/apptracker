@@ -57,9 +57,10 @@ jobs:
         shell: pwsh
         run: |
           [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-          Install-PackageProvider -Name "NuGet" -MinimumVersion 2.8.5.208 -Force
+          Install-PackageProvider -Name "NuGet" -MinimumVersion 2.8.5.208 -Force -ErrorAction "SilentlyContinue"
           Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted" -ErrorAction "SilentlyContinue"
-          Update-Module -Name Evergreen -Force -Confirm:$False
+          Update-Module -Name Evergreen -Force -Confirm:$False -ErrorAction "SilentlyContinue"
+          Get-Module -Name Evergreen -ListAvailable | Select-Object -Property "Name", "Version", "Path"
 
       - name: Update all apps list
         id: update-allapps
