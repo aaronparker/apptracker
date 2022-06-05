@@ -66,7 +66,7 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-          $files | Out-File -FilePath "${{ github.workspace }}/json/update-pwsh.txt" -Encoding "Utf8" -NoNewline -Force
+          if ($Null -ne $files) { $files | Out-File -FilePath "${{ github.workspace }}/json/update-pwsh.txt" -Encoding "Utf8" -Force }
 
       # Format the date number for the commit message
       - name: Get date
@@ -153,7 +153,7 @@ jobs:
           working-directory: ${{ github.workspace }}
           run: |
             $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-            $files | Out-File -FilePath "${{ github.workspace }}/json/update-powershell.txt" -Encoding "Utf8" -NoNewline -Force
+            if ($Null -ne $files) { $files | Out-File -FilePath "${{ github.workspace }}/json/update-powershell.txt" -Encoding "Utf8" -Force }
 
         # Format the date number for the commit message
         - name: Get date

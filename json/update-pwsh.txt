@@ -1,1 +1,4 @@
-json/1Password.jsonjson/Gimp.jsonjson/VideoLanVlcPlayer.jsonjson/update-pwsh.txt
+json/1Password.json
+json/Gimp.json
+json/VideoLanVlcPlayer.json
+json/update-pwsh.txt
