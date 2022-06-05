@@ -9,20 +9,23 @@ on:
       - "json/*.json"
 
 jobs:
-  deploy:
+  update-kv:
     runs-on: ubuntu-latest
-    name: Deploy
+    name: update
 
     steps:
       - uses: actions/checkout@v2
 
       - name: wrangler
-        id: install
-        shell: bash
+        id: update
+        shell: pwsh
         run: |
-          cd "${{ github.workspace }}"
+          cd "${{ github.workspace }}/json"
           npm install -g wrangler
-          wrangler kv:key list --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+          foreach ($file in (Get-ChildItem -Path "*.json")) {    
+            wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+          }
+
         env:
           CF_ACCOUNT_ID: ${{secrets.CF_ACCOUNT_ID}}
           CF_ZONE_ID: ${{secrets.CF_ZONE_ID}}
