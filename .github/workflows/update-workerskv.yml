@@ -35,10 +35,13 @@ jobs:
               if ($Null -ne $Files) {
                   Write-Host "Found $($Files.Count) files with changes."
                   foreach ($item in $Files) {
+                      Write-Host ""
                       Write-Host "Update with: ${{ github.workspace }}/$item."
-                      $file = Get-Item -Path "${{ github.workspace }}/$item"
-                      if ($Null -ne $file) {
-                          wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+                      if ($file -match "json$") {
+                          $file = Get-Item -Path "${{ github.workspace }}/$item"
+                          if ($Null -ne $file) {
+                              wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+                          }
                       }
                   }
               }
