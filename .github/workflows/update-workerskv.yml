@@ -16,18 +16,39 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: wrangler
-        id: update
+      - name: Update recent apps
+        id: update-apps
         shell: pwsh
-        run: |
-          cd "${{ github.workspace }}/json"
-          npm install -g wrangler
-          foreach ($file in (Get-ChildItem -Path "*.json")) {    
-            wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
-          }
-
         env:
           CF_ACCOUNT_ID: ${{secrets.CF_ACCOUNT_ID}}
           CF_ZONE_ID: ${{secrets.CF_ZONE_ID}}
-          CF_API_TOKEN: ${{secrets.CF_API_TOKEN}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+        run: |
+          # Install the latest version of wrangler
+          npm install -g wrangler
 
+          # Get files change in the last 4 hours and write contents to KV
+          $Files = Get-ChildItem -Path "${{ github.workspace }}/json/*.json" | Where-Object { $_.LastWriteTime -ge (Get-Date).AddHours(-4) }
+          foreach ($file in $Files) {    
+            wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+          }
+
+      - name: Install and cache PowerShell modules
+        id: psmodulecache
+        uses: potatoqualitee/psmodulecache@v4.5
+        with:
+          modules-to-cache: Evergreen
+          force: true
+          shell: pwsh
+
+      - name: Update all apps list
+        id: update-allapps
+        shell: pwsh
+        run: |
+          try {
+            Update-Module -Name Evergreen
+            Find-EvergreenApp | ConvertTo-Json | Out-File -FilePath "./AllApps.json" -Encoding "Utf8" -NoNewline
+            wrangler kv:key put "_allapps" --path="./AllApps.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+          }
+          catch { $_.Exception.Message }
+          finally { Remove-Item -Path "./AllApps.json" -Force -ErrorAction "SilentlyContinue" }
