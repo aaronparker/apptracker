@@ -16,12 +16,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: List changed files
+        id: list-files
+        shell: pwsh
+        run: |
+          $Files = Get-ChildItem -Path "${{ github.workspace }}/json/*.json" | Where-Object { $_.LastWriteTime -ge (Get-Date).AddHours(-4) }
+          $Files | Select-Object -Property FullName, LastWriteTime
+
       - name: Update recent apps
         id: update-apps
         shell: pwsh
         env:
-          CF_ACCOUNT_ID: ${{secrets.CF_ACCOUNT_ID}}
-          CF_ZONE_ID: ${{secrets.CF_ZONE_ID}}
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
           # Install the latest version of wrangler
@@ -29,6 +36,7 @@ jobs:
 
           # Get files change in the last 4 hours and write contents to KV
           $Files = Get-ChildItem -Path "${{ github.workspace }}/json/*.json" | Where-Object { $_.LastWriteTime -ge (Get-Date).AddHours(-4) }
+          Write-Host "Found $($Files.Count) files with changes."
           foreach ($file in $Files) {    
             wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
           }
@@ -41,12 +49,19 @@ jobs:
           force: true
           shell: pwsh
 
+      - name: Update Evergreen
+        id: update-evergreen
+        shell: pwsh
+        run: |
+          Install-PackageProvider -Name "NuGet" -MinimumVersion 2.8.5.208 -Force
+          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
+          Update-Module -Name Evergreen -Force -Confirm:$False
+
       - name: Update all apps list
         id: update-allapps
         shell: pwsh
         run: |
           try {
-            Update-Module -Name Evergreen
             Find-EvergreenApp | ConvertTo-Json | Out-File -FilePath "./AllApps.json" -Encoding "Utf8" -NoNewline
             wrangler kv:key put "_allapps" --path="./AllApps.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
           }
