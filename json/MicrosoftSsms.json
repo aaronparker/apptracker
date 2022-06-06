@@ -32,12 +32,6 @@
   {
     "Version": "15.0.18410.0",
     "Date": "03/05/2022",
-    "Language": "Italian",
-    "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-ITA.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "03/05/2022",
     "Language": "Japanese",
     "URI": "https://download.microsoft.com/download/c/7/c/c7ca93fc-3770-4e4a-8a13-1868cb309166/SSMS-Setup-JPN.exe"
   },
