@@ -1,0 +1,6 @@
+json/1Password.json
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/MicrosoftAzureDataStudio.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
