@@ -22,7 +22,7 @@ jobs:
         run: |
           npm install -g wrangler
 
-      - name: Update recent apps
+      - name: Update KV with recent apps
         id: update-apps
         shell: pwsh
         env:
@@ -30,14 +30,14 @@ jobs:
           CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
-          foreach ($file in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
-              $Files = Get-Content -Path $file -ErrorAction "SilentlyContinue"
+          foreach ($UpdateFile in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
+              $Files = Get-Content -Path $UpdateFile -ErrorAction "SilentlyContinue"
               if ($Null -ne $Files) {
                   Write-Host "Found $($Files.Count) files with changes."
                   foreach ($item in $Files) {
-                      Write-Host ""
-                      Write-Host "Update with: ${{ github.workspace }}/$item."
                       if ($file -match "json$") {
+                          Write-Host ""
+                          Write-Host "Update with: ${{ github.workspace }}/$item."
                           $file = Get-Item -Path "${{ github.workspace }}/$item"
                           if ($Null -ne $file) {
                               wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
@@ -47,7 +47,7 @@ jobs:
               }
           }
 
-      - name: Remove update list
+      - name: Remove update files
         id: remove-update
         shell: pwsh
         run: |
@@ -73,7 +73,7 @@ jobs:
           Update-Module -Name Evergreen -Force -Confirm:$False -ErrorAction "SilentlyContinue"
           Get-Module -Name Evergreen -ListAvailable | Select-Object -Property "Name", "Version", "Path"
 
-      - name: Update all apps list
+      - name: Update KV with all apps list
         id: update-allapps
         shell: pwsh
         env:
@@ -105,6 +105,7 @@ jobs:
 
       - name: Get date
         id: get-date
+        shell: pwsh
         run: |
           echo "::set-output name=date::$(Get-Date -Format "yyyy.MM.dd")"
 
@@ -112,7 +113,7 @@ jobs:
         id: commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update KV ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
+          commit_message: "Update KV ${{ steps.get-date.outputs.date }}.${{ github.run_number }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
           commit_user_email: ${{ secrets.COMMIT_EMAIL }}
 
