@@ -4,3 +4,7 @@ json/LogMeInGoToOpener.json
 json/MicrosoftAzureDataStudio.json
 json/OctopusDeployServer.json
 json/VideoLanVlcPlayer.json
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
