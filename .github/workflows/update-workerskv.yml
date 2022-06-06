@@ -34,11 +34,11 @@ jobs:
               $Files = Get-Content -Path $UpdateFile -ErrorAction "SilentlyContinue"
               if ($Null -ne $Files) {
                   Write-Host "Found $($Files.Count) files with changes."
-                  foreach ($item in $Files) {
+                  foreach ($file in $Files) {
+                      Write-Host "`nChecking: $file"
                       if ($file -match "json$") {
-                          Write-Host ""
-                          Write-Host "Update with: ${{ github.workspace }}/$item."
-                          $file = Get-Item -Path "${{ github.workspace }}/$item"
+                          Write-Host "Update with: ${{ github.workspace }}/$file."
+                          $file = Get-Item -Path "${{ github.workspace }}/$file"
                           if ($Null -ne $file) {
                               wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
                           }
