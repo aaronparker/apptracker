@@ -22,7 +22,7 @@ jobs:
         run: |
           npm install -g wrangler
 
-      - name: Update KV with recent apps
+      - name: Update Cloudflare KV with recent apps
         id: update-apps
         shell: pwsh
         env:
@@ -73,7 +73,7 @@ jobs:
           Update-Module -Name Evergreen -Force -Confirm:$False -ErrorAction "SilentlyContinue"
           Get-Module -Name Evergreen -ListAvailable | Select-Object -Property "Name", "Version", "Path"
 
-      - name: Update KV with all apps list
+      - name: Update Cloudflare KV with all apps list
         id: update-allapps
         shell: pwsh
         env:
