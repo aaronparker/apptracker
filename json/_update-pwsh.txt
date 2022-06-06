@@ -4,4 +4,5 @@ json/LogMeInGoToOpener.json
 json/MicrosoftSsms.json
 json/VideoLanVlcPlayer.json
 json/jrsoftwareInnoSetup.json
-json/update-pwsh.txt
+json/dbeaver.json
+json/ImageMagickStudioImageMagick.json

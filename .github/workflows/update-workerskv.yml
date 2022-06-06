@@ -30,8 +30,8 @@ jobs:
           CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
-          foreach ($Update in @("${{ github.workspace }}/json/update-pwsh.txt", "${{ github.workspace }}/json/update-powershell.txt")) {
-              $Files = Get-Content -Path $Update -ErrorAction "SilentlyContinue"
+          foreach ($file in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
+              $Files = Get-Content -Path $file -ErrorAction "SilentlyContinue"
               if ($Null -ne $Files) {
                   Write-Host "Found $($Files.Count) files with changes."
                   foreach ($item in $Files) {
@@ -45,6 +45,14 @@ jobs:
                       }
                   }
               }
+          }
+
+      - name: Remove update list
+        id: remove-update
+        shell: pwsh
+        run: |
+          foreach ($file in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
+            Remove-Item -Path $file -Force -ErrorAction "SilentlyContinue"
           }
 
       - name: Install and cache PowerShell modules
@@ -80,3 +88,38 @@ jobs:
           }
           catch { $_.Exception.Message }
           finally { Remove-Item -Path "./AllApps.json" -Force -ErrorAction "SilentlyContinue" }
+
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v4
+        with:
+          gpg_private_key: ${{ secrets.GPGKEY }}
+          passphrase: ${{ secrets.GPGPASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          git_tag_gpgsign: true
+          git_push_gpgsign: false
+          git_committer_name: ${{ secrets.COMMIT_NAME }}
+          git_committer_email: ${{ secrets.COMMIT_EMAIL }}
+
+      - name: Get date
+        id: get-date
+        run: |
+          echo "::set-output name=date::$(Get-Date -Format "yyyy.MM.dd")"
+
+      - name: Commit changes
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update KV ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
+          commit_user_name: ${{ secrets.COMMIT_NAME }}
+          commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+
+      - name: "Run if changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'true'
+        run: echo "Changes committed."
+
+      - name: "Run if no changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'false'
+        run: echo "No changes detected."

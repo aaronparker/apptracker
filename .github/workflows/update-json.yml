@@ -65,8 +65,15 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
+          $UpdateFile = "${{ github.workspace }}/json/_update-pwsh.txt"
+          if (Test-Path -Path $UpdateFile) {
+            $Updates = Get-Content -Path $UpdateFile
+          }
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-          if ($Null -ne $files) { $files | Out-File -FilePath "${{ github.workspace }}/json/update-pwsh.txt" -Encoding "Utf8" -Force }
+          if ($Null -ne $files) {
+            $Updates += $files | Select-Object -Unique
+            $Updates | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
+          }
 
       # Format the date number for the commit message
       - name: Get date
@@ -152,8 +159,15 @@ jobs:
           shell: powershell
           working-directory: ${{ github.workspace }}
           run: |
+            $UpdateFile = "${{ github.workspace }}/json/_update-powershell.txt"
+            if (Test-Path -Path $UpdateFile) {
+              $Updates = Get-Content -Path $UpdateFile
+            }
             $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-            if ($Null -ne $files) { $files | Out-File -FilePath "${{ github.workspace }}/json/update-powershell.txt" -Encoding "Utf8" -Force }
+            if ($Null -ne $files) {
+              $Updates += $files | Select-Object -Unique
+              $Updates | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
+            }
 
         # Format the date number for the commit message
         - name: Get date
