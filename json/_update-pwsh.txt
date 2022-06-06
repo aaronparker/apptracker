@@ -11,3 +11,12 @@ json/jrsoftwareInnoSetup.json
 json/Gimp.json
 json/MicrosoftOneDrive.json
 json/VideoLanVlcPlayer.json
+json/1Password.json
+json/Gimp.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftVisualStudioCode.json
+json/PSFPython.json
+json/VideoLanVlcPlayer.json
+json/diagrams.net.json
+json/jrsoftwareInnoSetup.json
