@@ -1,7 +1,0 @@
-json/1Password.json
-json/LogMeInGoToOpener.json
-json/dbeaver.json
-json/ImageMagickStudioImageMagick.json
-json/Gimp.json
-json/MicrosoftSsms.json
-json/VideoLanVlcPlayer.json
