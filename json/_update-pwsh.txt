@@ -6,3 +6,7 @@ json/VideoLanVlcPlayer.json
 json/jrsoftwareInnoSetup.json
 json/dbeaver.json
 json/ImageMagickStudioImageMagick.json
+json/Gimp.json
+json/MicrosoftSsms.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
