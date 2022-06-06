@@ -586,9 +586,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                               |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.info/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1067,7 +1067,9 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
 | 22.120.0602.0001 | AMD64        | InternalFast | EbHTQ8V4uRhctrDGSf4VHA6U6pB2D3BGJcJDxbLNVNg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.120.0602.0001/amd64/OneDriveSetup.exe                           |
 | 22.120.0602.0001 | x86          | InternalFast | PrsoMCEv3A6d8Qk0A0Ns0jnMGPAnIZuEKdxQjF9KkHY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.120.0602.0001/OneDriveSetup.exe                                 |
+| 22.116.0529.0002 | AMD64        | Insider      | rxk6MgtSJCJK8sUaPtA0fqNc9+6o543eT0uT7fASz2I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0002/amd64/OneDriveSetup.exe                           |
 | 22.116.0529.0002 | AMD64        | InternalSlow | rxk6MgtSJCJK8sUaPtA0fqNc9+6o543eT0uT7fASz2I= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0002/amd64/OneDriveSetup.exe                           |
+| 22.116.0529.0002 | x86          | Insider      | 2eh0KBBMJPIMyp14F/i5wRbPsGla4oQ4oKxaPrgwbZE= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0002/OneDriveSetup.exe                                 |
 | 22.116.0529.0002 | x86          | InternalSlow | 2eh0KBBMJPIMyp14F/i5wRbPsGla4oQ4oKxaPrgwbZE= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0002/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Insider      | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/amd64/OneDriveSetup.exe                           |
 | 22.111.0522.0002 | AMD64        | Production   | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/amd64/OneDriveSetup.exe                               |
@@ -2035,14 +2037,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe      |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi      |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip      |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
