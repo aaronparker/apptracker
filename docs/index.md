@@ -584,9 +584,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.gethosted.online/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -809,9 +809,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -955,8 +955,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.37.0  | win32-x64      | Insider | 649e9d0430968362fdff1bd66602ec91e370bc809d1310529cfa7e0b7c47d4cb | https://sqlopsbuilds.azureedge.net/insider/535799fe23b1c50f089ce4fc8db27a7677bc3b75/azuredatastudio-windows-setup-1.37.0-insider.exe      |
-| 1.37.0  | win32-x64-user | Insider | 8be7a6110a84bc6c1196900f73921c42be37b8a5827cd49724476a79c3db4729 | https://sqlopsbuilds.azureedge.net/insider/535799fe23b1c50f089ce4fc8db27a7677bc3b75/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
+| 1.37.0  | win32-x64      | Insider | b33b2140c11346f432611c8364af24483e0e8a74944e904e0eb429a3b4e99bea | https://sqlopsbuilds.azureedge.net/insider/8cb6d48da2eb5e1d9f5a5719f6523ba1af0a2908/azuredatastudio-windows-setup-1.37.0-insider.exe      |
+| 1.37.0  | win32-x64-user | Insider | 675f64d90f78699775485c5ee58c39954cb2d17cbfdbd8468d0a7ae793e64b74 | https://sqlopsbuilds.azureedge.net/insider/8cb6d48da2eb5e1d9f5a5719f6523ba1af0a2908/azuredatastudio-windows-user-setup-1.37.0-insider.exe |
 | 1.36.2  | win32-x64      | Stable  | 9a9a56b7edd986a6a3497b79871b2816df9a839a743dee592223f92a84a9f940 | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-setup-1.36.2.exe               |
 | 1.36.2  | win32-x64-user | Stable  | 64d7a14f1dfd92868fec9ffac19ac280bfb99b1417cf08721f0a1ac019b94c3f | https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-windows-user-setup-1.36.2.exe          |
 
@@ -2035,14 +2035,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                   |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
