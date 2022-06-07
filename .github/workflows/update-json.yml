@@ -71,7 +71,7 @@ jobs:
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
           if ($Null -ne $files) {
               $Updates += $files
-              $Updates | Select-Object -Unique Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
+              $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
           }
 
       # Format the date number for the commit message
