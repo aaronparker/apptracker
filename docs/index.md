@@ -438,11 +438,11 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
-| 19.0.1  | Windows  | x86          | exe  | 06/06/2022 | 84616992  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.1/draw.io-19.0.1-windows-installer.exe               |
-| 19.0.1  | Windows  | x86          | exe  | 06/06/2022 | 84404704  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.1/draw.io-19.0.1-windows-no-installer.exe            |
-| 19.0.1  | Windows  | x86          | exe  | 06/06/2022 | 81430312  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.1/draw.io-ia32-19.0.1-windows-32bit-installer.exe    |
-| 19.0.1  | Windows  | x86          | exe  | 06/06/2022 | 81218480  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.1/draw.io-ia32-19.0.1-windows-32bit-no-installer.exe |
-| 19.0.1  | Windows  | x86          | msi  | 06/06/2022 | 114503680 | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.1/draw.io-19.0.1.msi                                 |
+| 19.0.2  | Windows  | x86          | exe  | 06/07/2022 | 84917824  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-19.0.2-windows-installer.exe               |
+| 19.0.2  | Windows  | x86          | exe  | 06/07/2022 | 84705536  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-19.0.2-windows-no-installer.exe            |
+| 19.0.2  | Windows  | x86          | exe  | 06/07/2022 | 81664632  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-ia32-19.0.2-windows-32bit-installer.exe    |
+| 19.0.2  | Windows  | x86          | exe  | 06/07/2022 | 81452808  | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-ia32-19.0.2-windows-32bit-no-installer.exe |
+| 19.0.2  | Windows  | x86          | msi  | 06/07/2022 | 114327552 | https://github.com/jgraph/drawio-desktop/releases/download/v19.0.2/draw.io-19.0.2.msi                                 |
 
 ## dnGrep
 
@@ -584,9 +584,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.gethosted.online/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                               |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -809,9 +809,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1842,10 +1842,10 @@
 
 [Link](https://www.techsmith.com/)
 
-| Version | Date                | Type | URI                                                                      |
-| ------- | ------------------- | ---- | ------------------------------------------------------------------------ |
-| 21.0.19 | 04/19/2022 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/21019/camtasia.exe |
-| 21.0.19 | 04/19/2022 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/21019/camtasia.msi |
+| Version | Date                | Type | URI                                                                     |
+| ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
+| 22.0.0  | 06/07/2022 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2200/camtasia.exe |
+| 22.0.0  | 06/07/2022 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2200/camtasia.msi |
 
 ## TechSmithSnagit
 
