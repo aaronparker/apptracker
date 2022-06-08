@@ -6,8 +6,8 @@ site_description: >-
   Tracking current application versions with Evergreen.
 
 # Repository
-repo_name: aaronparker/apptracker
-repo_url: https://github.com/aaronparker/apptracker
+# repo_name: aaronparker/apptracker
+# repo_url: https://github.com/aaronparker/apptracker
 edit_uri: ""
 
 # Copyright
