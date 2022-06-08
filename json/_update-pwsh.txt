@@ -6,3 +6,6 @@ json/VideoLanVlcPlayer.json
 json/jrsoftwareInnoSetup.json
 json/SignalDesktop.json
 json/TechSmithCamtasia.json
+json/GoogleChrome.json
+json/MicrosoftOneDrive.json
+json/diagrams.net.json

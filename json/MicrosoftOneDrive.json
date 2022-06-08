@@ -50,26 +50,10 @@
   {
     "Version": "22.111.0522.0002",
     "Architecture": "AMD64",
-    "Ring": "Insider",
-    "Sha256": "rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "22.111.0522.0002",
-    "Architecture": "AMD64",
     "Ring": "Production",
     "Sha256": "rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "22.111.0522.0002",
-    "Architecture": "x86",
-    "Ring": "Insider",
-    "Sha256": "hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Insiders/22.111.0522.0002/OneDriveSetup.exe"
   },
   {
     "Version": "22.111.0522.0002",
