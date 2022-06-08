@@ -10,3 +10,6 @@ json/MicrosoftVisualStudioCode.json
 json/MicrosoftWvdRemoteDesktop.json
 json/Obsidian.json
 json/TorProjectTorBrowser.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftPowerToys.json
