@@ -4,3 +4,5 @@ json/OctopusDeployServer.json
 json/OperaBrowser.json
 json/VideoLanVlcPlayer.json
 json/jrsoftwareInnoSetup.json
+json/SignalDesktop.json
+json/TechSmithCamtasia.json
