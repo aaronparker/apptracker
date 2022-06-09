@@ -227,10 +227,11 @@ jobs:
           shell: pwsh
           run: |
             $params = @{
-              Path      = "${{ github.workspace }}/json/*.json"
-              UpdateFile = "${{ github.workspace }}/docs/index.md"
-              AppsFile  = "${{ github.workspace }}/docs/apps.md"
-              AboutFile = "${{ github.workspace }}/docs/about.md"
+              Path         = "${{ github.workspace }}/json/*.json"
+              UpdatesAlpha = "${{ github.workspace }}/docs/index.md"
+              UpdatesDate  = "${{ github.workspace }}/docs/date.md"
+              AppsFile     = "${{ github.workspace }}/docs/apps.md"
+              AboutFile    = "${{ github.workspace }}/docs/about.md"
             }
             . "${{ github.workspace }}/scripts/New-Report.ps1" @params
 
