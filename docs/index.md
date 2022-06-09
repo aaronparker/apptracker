@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -367,9 +367,9 @@
 
 [Link](https://www.codelerity.com/netbeans/)
 
-| Version    | Platform | Architecture | Type | Date                | Size      | URI                                                                                                   |
-| ---------- | -------- | ------------ | ---- | ------------------- | --------- | ----------------------------------------------------------------------------------------------------- |
-| v13-build1 | Windows  | x86          | exe  | 03/07/2022 18:18:35 | 539283600 | https://github.com/codelerity/netbeans-installers/releases/download/v13-build1/Apache-NetBeans-13.exe |
+| Version    | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
+| ---------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
+| v13-build1 | Windows  | x86          | exe  | 03/07/2022 | 539283600 | https://github.com/codelerity/netbeans-installers/releases/download/v13-build1/Apache-NetBeans-13.exe |
 
 ## ControlUpAgent
 
@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -842,9 +842,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1234,12 +1234,14 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-| Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
-| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
-| 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
-| 1.2.3213.0 | x86          | Public  | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
+| Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3213.0 | ARM64        | Insider | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
+| 1.2.3213.0 | x86          | Public  | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
 
 ## MicrosoftWvdRtcService
 
@@ -1294,13 +1296,13 @@
 
 | Version | Architecture | Channel                | Language | Type | Filename                     | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 101.0   | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.exe      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64-aarch64/en-US/Firefox%20Setup%20101.0.exe           |
-| 101.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.exe      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64/en-US/Firefox%20Setup%20101.0.exe                   |
-| 101.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 101.0.msi      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64/en-US/Firefox%20Setup%20101.0.msi                   |
-| 101.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 101.0.msix     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win64/multi/Firefox%20Setup%20101.0.msix                  |
-| 101.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.exe      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win32/en-US/Firefox%20Setup%20101.0.exe                   |
-| 101.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 101.0.msi      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win32/en-US/Firefox%20Setup%20101.0.msi                   |
-| 101.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 101.0.msix     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0/win32/multi/Firefox%20Setup%20101.0.msix                  |
+| 101.0.1 | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.1.exe    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win64-aarch64/en-US/Firefox%20Setup%20101.0.1.exe       |
+| 101.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.1.exe    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win64/en-US/Firefox%20Setup%20101.0.1.exe               |
+| 101.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 101.0.1.msi    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win64/en-US/Firefox%20Setup%20101.0.1.msi               |
+| 101.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 101.0.1.msix   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win64/multi/Firefox%20Setup%20101.0.1.msix              |
+| 101.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 101.0.1.exe    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win32/en-US/Firefox%20Setup%20101.0.1.exe               |
+| 101.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 101.0.1.msi    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win32/en-US/Firefox%20Setup%20101.0.1.msi               |
+| 101.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 101.0.1.msix   | https://download-installer.cdn.mozilla.net/pub/firefox/releases/101.0.1/win32/multi/Firefox%20Setup%20101.0.1.msix              |
 | 91.10.0 | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.10.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win64-aarch64/en-US/Firefox%20Setup%2091.10.0esr.exe |
 | 91.10.0 | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 91.10.0esr.exe | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win64/en-US/Firefox%20Setup%2091.10.0esr.exe         |
 | 91.10.0 | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 91.10.0esr.msi | https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.10.0esr/win64/en-US/Firefox%20Setup%2091.10.0esr.msi         |
@@ -1824,10 +1826,10 @@
 
 [Link](https://stealthpuppy.com/image-customise/)
 
-| Version    | Platform | Architecture | Type      | Date                | Size  | URI                                                                                                     |
-| ---------- | -------- | ------------ | --------- | ------------------- | ----- | ------------------------------------------------------------------------------------------------------- |
-| 2205.23.94 | Windows  | x86          | intunewin | 05/25/2022 02:34:39 | 28213 | https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/Install-Defaults.intunewin |
-| 2205.23.94 | Windows  | x86          | zip       | 05/25/2022 02:34:39 | 25115 | https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/image-customise.zip        |
+| Version    | Platform | Architecture | Type      | Date       | Size  | URI                                                                                                     |
+| ---------- | -------- | ------------ | --------- | ---------- | ----- | ------------------------------------------------------------------------------------------------------- |
+| 2205.23.94 | Windows  | x86          | intunewin | 05/25/2022 | 28213 | https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/Install-Defaults.intunewin |
+| 2205.23.94 | Windows  | x86          | zip       | 05/25/2022 | 25115 | https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/image-customise.zip        |
 
 ## StefansToolsgregpWin
 
@@ -2076,14 +2078,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
