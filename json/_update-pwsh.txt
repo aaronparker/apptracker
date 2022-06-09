@@ -7,3 +7,9 @@ json/jrsoftwareInnoSetup.json
 json/MicrosoftAzureDataStudio.json
 json/MicrosoftVisualStudioCode.json
 json/MicrosoftWvdRemoteDesktop.json
+json/OperaGXBrowser.json
+json/SumatraPDFReader.json
+json/VMwareTools.json
+json/AutoDarkMode.json
+json/EgnyteDesktopApp.json
+json/JeremyMainGPUProfiler.json
