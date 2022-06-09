@@ -6,3 +6,10 @@ json/MozillaFirefox.json
 json/VideoLanVlcPlayer.json
 json/jrsoftwareInnoSetup.json
 json/stealthpuppyWindowsCustomisedDefaults.json
+json/GoogleChrome.json
+json/HashicorpVault.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftSsms.json
+json/MicrosoftVisualStudioCode.json
