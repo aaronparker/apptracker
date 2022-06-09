@@ -46,7 +46,7 @@ $Markdown | Out-File -FilePath $UpdatesAlpha -Force -Encoding "Utf8" -NoNewline
 #endregion
 
 
-#region Update the list of supported apps in APPS.md, sorted alphabetically
+#region Update the list of supported apps in date.md, sorted alphabetically
 $Markdown = New-MDHeader -Text "Updates by date" -Level 1
 $Markdown += "`n"
 foreach ($File in (Get-ChildItem -Path $Path | Sort-Object -Property "LastWriteTime" -Descending)) {
@@ -79,7 +79,9 @@ hide:
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Last update: **#DATE** (UTC)
+Updates are posted every 4 hours. Last update: **#DATE** (UTC)
+
+A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
 "@
 $About -replace "#DATE", (Get-Date -Format "dddd dd/MM/yyyy HH:mm K") | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
 #endregion
