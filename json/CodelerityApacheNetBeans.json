@@ -1,9 +1,9 @@
-﻿{
-    "Version":  "v13-build1",
-    "Platform":  "Windows",
-    "Architecture":  "x86",
-    "Type":  "exe",
-    "Date":  "2022-03-07T18:18:35Z",
-    "Size":  539283600,
-    "URI":  "https://github.com/codelerity/netbeans-installers/releases/download/v13-build1/Apache-NetBeans-13.exe"
+{
+  "Version": "v13-build1",
+  "Platform": "Windows",
+  "Architecture": "x86",
+  "Type": "exe",
+  "Date": "03/07/2022",
+  "Size": 539283600,
+  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v13-build1/Apache-NetBeans-13.exe"
 }
