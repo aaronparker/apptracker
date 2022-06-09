@@ -281,6 +281,15 @@
 | 3.1.3   | Windows  | x64          | exe  | 12/22/2021 | 34788008 | https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-64bit.exe |
 | 3.1.3   | Windows  | x86          | exe  | 12/22/2021 | 33792008 | https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-32bit.exe |
 
+## AutoDarkMode
+
+[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+
+| Version   | Platform | Architecture | Type | Date       | Size     | URI                                                                                                             |
+| --------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| 10.1.0.10 | Windows  | x86          | exe  | 11/14/2021 | 55808648 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.exe |
+| 10.1.0.10 | Windows  | x86          | zip  | 11/14/2021 | 76175415 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.1.0.10/AutoDarkModeX_10.1.0.10.zip |
+
 ## BeekeeperStudio
 
 [Link](https://www.beekeeperstudio.io/)
@@ -353,6 +362,14 @@
 | 22.3.1.41  | Citrix Workspace - LTSR                | 95715248  | 628e7bd071987637e43ebae95b6009059859226443059fa1baf9aab57ae2f611 | 04/07/2022 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.1.41.exe |
 | 2.7.0.2113 | HDX RTME for Windows - Current Release | 45862912  | 3589e4faf1495e6ee3f3f538cf4c3f77576dd35af8b0238ac3b6f916aa483027 | 03/12/2019 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.7.0.2113.msi     |
 | 2.4.3000.3 | HDX RTME for Windows - LTSR CU3        | 45314048  | 690c39203845c2aa7b22045fb4a3a4dcc309045fb064a0f4d1c0902c3902246f | 04/23/2019 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.4.3000.3.msi     |
+
+## CodelerityApacheNetBeans
+
+[Link](https://www.codelerity.com/netbeans/)
+
+| Version    | Platform | Architecture | Type | Date                | Size      | URI                                                                                                   |
+| ---------- | -------- | ------------ | ---- | ------------------- | --------- | ----------------------------------------------------------------------------------------------------- |
+| v13-build1 | Windows  | x86          | exe  | 03/07/2022 18:18:35 | 539283600 | https://github.com/codelerity/netbeans-installers/releases/download/v13-build1/Apache-NetBeans-13.exe |
 
 ## ControlUpAgent
 
@@ -460,6 +477,14 @@
 | Version         | Build           | Size | Type | URI                                                               |
 | --------------- | --------------- | ---- | ---- | ----------------------------------------------------------------- |
 | 4.8.2           | 79419           | 2    | msi  | https://desktop.docker.com/win/main/amd64/79419/DockerDesktop.msi |
+
+## EgnyteDesktopApp
+
+[Link](https://www.egnyte.com/solutions/sharing-collaboration)
+
+| Version   | SHA1                                     | URI                                                                                       |
+| --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 3.10.2.45 | 63d9767e795547109ca7d0bcf0ae4577414f8b4e | https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.10.2/EgnyteDesktopApp_3.10.2_45.msi |
 
 ## FileZilla
 
@@ -584,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.info/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -775,6 +800,14 @@
 | Version | URI                                                 |
 | ------- | --------------------------------------------------- |
 | 0.16.2  | https://static.jasp-stats.org/JASP-0.16.2-64bit.msi |
+
+## JeremyMainGPUProfiler
+
+[Link](https://github.com/JeremyMain/GPUProfiler)
+
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
+| 1.07a3  | Windows  | x64          | zip  | 06/08/2021 | 1091066 | https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a3/GPUProfiler_v1.07a3_x64.zip |
 
 ## JetBrainsIntelliJIDEA
 
@@ -1520,8 +1553,8 @@
 
 | Version      | Architecture | Type | URI                                                                                         |
 | ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 86.0.4363.70 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/86.0.4363.70/win/Opera_GX_86.0.4363.70_Setup_x64.exe |
-| 86.0.4363.70 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/86.0.4363.70/win/Opera_GX_86.0.4363.70_Setup.exe     |
+| 87.0.4390.56 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/87.0.4390.56/win/Opera_GX_87.0.4390.56_Setup_x64.exe |
+| 87.0.4390.56 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/87.0.4390.56/win/Opera_GX_87.0.4390.56_Setup.exe     |
 
 ## OracleJava8
 
@@ -1787,6 +1820,15 @@
 | ------- | --------------------------------------------------------- |
 | 5.7.0   | http://dl.eviware.com/soapuios/5.7.0/SoapUI-x64-5.7.0.exe |
 
+## stealthpuppyWindowsCustomisedDefaults
+
+[Link](https://stealthpuppy.com/image-customise/)
+
+| Version    | Platform | Architecture | Type      | Date                | Size  | URI                                                                                                     |
+| ---------- | -------- | ------------ | --------- | ------------------- | ----- | ------------------------------------------------------------------------------------------------------- |
+| 2205.23.94 | Windows  | x86          | intunewin | 05/25/2022 02:34:39 | 28213 | https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/Install-Defaults.intunewin |
+| 2205.23.94 | Windows  | x86          | zip       | 05/25/2022 02:34:39 | 25115 | https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/image-customise.zip        |
+
 ## StefansToolsgregpWin
 
 [Link](https://tools.stefankueng.com/grepWin.html)
@@ -1800,10 +1842,10 @@
 
 [Link](https://www.sumatrapdfreader.org/)
 
-| Version | Architecture | Type | URI                                                                                                  |
-| ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.3.3-install.exe    |
+| Version | Architecture | Type | URI                                                                           |
+| ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -2039,9 +2081,9 @@
 | 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
 | 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
 | 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe     |
-| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi     |
-| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip     |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -2080,10 +2122,10 @@
 
 [Link](https://docs.vmware.com/en/VMware-Tools/index.html)
 
-| Version | Architecture | URI                                                                                                   |
-| ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| 12.0.0  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x86_64.exe |
-| 12.0.0  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-i386.exe   |
+| Version | Architecture | URI                                                                                                |
+| ------- | ------------ | -------------------------------------------------------------------------------------------------- |
+| 12.0.0  | x64          | https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x64.exe |
+| 12.0.0  | x86          | https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-x86.exe |
 
 ## VMwareWorkstationPlayer
 

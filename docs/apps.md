@@ -32,6 +32,7 @@ hide:
 | Artifex Ghostscript                                               | https://www.ghostscript.com/                                                               |
 | Atlassian Sourcetree                                              | https://www.sourcetreeapp.com/                                                             |
 | Audacity                                                          | https://www.audacityteam.org/                                                              |
+| Windows Auto Dark Mode                                            | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode                                    |
 | Beekeeper Studio                                                  | https://www.beekeeperstudio.io/                                                            |
 | Base Image Script Framework                                       | https://eucweb.com/                                                                        |
 | Bitwarden Desktop                                                 | https://bitwarden.com/                                                                     |
@@ -40,6 +41,7 @@ hide:
 | Cendio ThinLinc                                                   | https://www.cendio.com/                                                                    |
 | Citrix VM Tools                                                   | https://www.citrix.com/downloads/citrix-hypervisor/                                        |
 | Citrix Workspace app                                              | https://www.citrix.com/downloads/workspace-app/                                            |
+| Codelerity Apache NetBeans                                        | https://www.codelerity.com/netbeans/                                                       |
 | ControlUp Agent                                                   | https://www.controlup.com/products/controlup/agent/                                        |
 | ControlUp Console                                                 | https://www.controlup.com/products/controlup/management/                                   |
 | iterate GmbH Cyberduck                                            | https://cyberduck.io/                                                                      |
@@ -50,6 +52,7 @@ hide:
 | diagrams.net                                                      | https://www.diagrams.net/                                                                  |
 | dnGrep                                                            | https://dngrep.github.io/                                                                  |
 | Docker Desktop                                                    | https://www.docker.com/products/docker-desktop/                                            |
+| Egnyte Desktop App                                                | https://www.egnyte.com/solutions/sharing-collaboration                                     |
 | FileZilla                                                         | https://filezilla-project.org/                                                             |
 | Dan Pristupov Fork                                                | https://www.fork.dev                                                                       |
 | Foxit PDF Editor                                                  | https://www.foxit.com/pdf-editor/                                                          |
@@ -81,6 +84,7 @@ hide:
 | JAM Software TreeSize Free                                        | https://www.jam-software.com/treesize_free/                                                |
 | JAM Software TreeSize Professional                                | https://www.jam-software.com/treesize/                                                     |
 | JASP                                                              | https://jasp-stats.org/                                                                    |
+| JeremyMain GPUProfiler                                            | https://github.com/JeremyMain/GPUProfiler                                                  |
 | JetBrains IntelliJ IDEA                                           | https://www.jetbrains.com/                                                                 |
 | JetBrains PyCharm                                                 | https://www.jetbrains.com/                                                                 |
 | jq                                                                | http://stedolan.github.io/jq/                                                              |
@@ -169,6 +173,7 @@ hide:
 | Signal for Windows                                                | https://www.signal.org/                                                                    |
 | Slack                                                             | https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer  |
 | SmartBear SoapUI                                                  | https://www.soapui.org/                                                                    |
+| stealthpuppy Windows Customised Defaults                          | https://stealthpuppy.com/image-customise/                                                  |
 | Stefans Tools gregpWin                                            | https://tools.stefankueng.com/grepWin.html                                                 |
 | Sumatra PDF Reader                                                | https://www.sumatrapdfreader.org/                                                          |
 | Tableau Desktop                                                   | https://www.tableau.com/                                                                   |
