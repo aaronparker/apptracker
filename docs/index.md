@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -302,10 +302,10 @@
 
 [Link](https://bitwarden.com/)
 
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                           |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------- |
-| 1.33.0  | Windows  | x86          | exe  | 04/25/2022 | 726696    | https://github.com/bitwarden/desktop/releases/download/v1.33.0/Bitwarden-Installer-1.33.0.exe |
-| 1.33.0  | Windows  | x86          | exe  | 04/25/2022 | 179693792 | https://github.com/bitwarden/desktop/releases/download/v1.33.0/Bitwarden-Portable-1.33.0.exe  |
+| Version  | Platform | Architecture | Type | Date       | Size      | URI                                                                                               |
+| -------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------- |
+| 2022.5.1 | Windows  | x86          | exe  | 06/08/2022 | 726664    | https://github.com/bitwarden/desktop/releases/download/v2022.5.1/Bitwarden-Installer-2022.5.1.exe |
+| 2022.5.1 | Windows  | x86          | exe  | 06/08/2022 | 179804368 | https://github.com/bitwarden/desktop/releases/download/v2022.5.1/Bitwarden-Portable-2022.5.1.exe  |
 
 ## BlenderLauncher
 
@@ -584,9 +584,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirror.freedif.org/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.info/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1063,8 +1063,10 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.120.0602.0001 | AMD64        | InternalFast | EbHTQ8V4uRhctrDGSf4VHA6U6pB2D3BGJcJDxbLNVNg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.120.0602.0001/amd64/OneDriveSetup.exe                           |
-| 22.120.0602.0001 | x86          | InternalFast | PrsoMCEv3A6d8Qk0A0Ns0jnMGPAnIZuEKdxQjF9KkHY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.120.0602.0001/OneDriveSetup.exe                                 |
+| 22.123.0607.0001 | AMD64        | InternalFast | UvdibrubjQG3fKSjqkus4wv+zCNELrMOSMXWeR/X1vA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.123.0607.0001/amd64/OneDriveSetup.exe                           |
+| 22.123.0607.0001 | x86          | InternalFast | cfa9qDtXdkZY6rApClXVD0cLyD7+gf5h5wNcZ4t4a0I= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.123.0607.0001/OneDriveSetup.exe                                 |
+| 22.121.0605.0001 | AMD64        | InternalSlow | R+ICh5uJK2cH/QG5GPvoRJpGxaMkx7D9bmkio/abZY4= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0001/amd64/OneDriveSetup.exe                           |
+| 22.121.0605.0001 | x86          | InternalSlow | /FW3cEzwV3Hqhr7MxU8oddCt17yB5XlfwiR/F3Jlyi0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0001/OneDriveSetup.exe                                 |
 | 22.116.0529.0002 | AMD64        | Insider      | rxk6MgtSJCJK8sUaPtA0fqNc9+6o543eT0uT7fASz2I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0002/amd64/OneDriveSetup.exe                           |
 | 22.116.0529.0002 | AMD64        | InternalSlow | rxk6MgtSJCJK8sUaPtA0fqNc9+6o543eT0uT7fASz2I= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.116.0529.0002/amd64/OneDriveSetup.exe                           |
 | 22.116.0529.0002 | x86          | Insider      | 2eh0KBBMJPIMyp14F/i5wRbPsGla4oQ4oKxaPrgwbZE= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0002/OneDriveSetup.exe                                 |
@@ -2034,14 +2036,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe  |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi  |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip  |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
