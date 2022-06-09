@@ -93,7 +93,7 @@ $markdown += "hide:`n"
 $markdown += "  - navigation`n"
 $markdown += "  - toc`n"
 $markdown += "---`n`n"
-$markdown += New-MDHeader -Text "Applications list" -Level 1
+$markdown += New-MDHeader -Text "$((Find-EvergreenApp).Count) Supported Applications" -Level 1
 $markdown += "`n"
 $markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
 $markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
