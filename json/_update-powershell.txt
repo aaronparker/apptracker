@@ -1,2 +1,0 @@
-﻿json/CodelerityApacheNetBeans.json
-json/stealthpuppyWindowsCustomisedDefaults.json
