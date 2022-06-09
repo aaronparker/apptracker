@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Version":  "2205.23.94",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "intunewin",
+        "Date":  "2022-05-25T02:34:39Z",
+        "Size":  28213,
+        "URI":  "https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/Install-Defaults.intunewin"
+    },
+    {
+        "Version":  "2205.23.94",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "zip",
+        "Date":  "2022-05-25T02:34:39Z",
+        "Size":  25115,
+        "URI":  "https://github.com/aaronparker/image-customise/releases/download/v2205.23.94/image-customise.zip"
+    }
+]
