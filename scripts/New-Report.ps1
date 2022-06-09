@@ -8,7 +8,10 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String] $UpdateFile,
+    [System.String] $UpdatesAlpha,
+
+    [ValidateNotNullOrEmpty()]
+    [System.String] $UpdatesDate,
 
     [ValidateNotNullOrEmpty()]
     [System.String] $AppsFile,
@@ -21,8 +24,8 @@ param(
 Import-Module -Name "Evergreen" -Force
 Import-Module -Name "MarkdownPS" -Force
 
-#region Update the list of supported apps in APPS.md
-$Markdown = New-MDHeader -Text "Application Versions" -Level 1
+#region Update the list of supported apps in index.md, sorted alphabetically
+$Markdown = New-MDHeader -Text "Updates by name" -Level 1
 $Markdown += "`n"
 foreach ($File in (Get-ChildItem -Path $Path)) {
     $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
@@ -39,7 +42,29 @@ foreach ($File in (Get-ChildItem -Path $Path)) {
     $Markdown += $Table
     $Markdown += "`n"
 }
-$Markdown | Out-File -FilePath $UpdateFile -Force -Encoding "Utf8" -NoNewline
+$Markdown | Out-File -FilePath $UpdatesAlpha -Force -Encoding "Utf8" -NoNewline
+#endregion
+
+
+#region Update the list of supported apps in APPS.md, sorted alphabetically
+$Markdown = New-MDHeader -Text "Updates by date" -Level 1
+$Markdown += "`n"
+foreach ($File in (Get-ChildItem -Path $Path | Sort-Object -Property "LastWriteTime" -Descending)) {
+    $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
+    $Markdown += "`n"
+
+    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
+        Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
+    If ($Null -ne $Link) {
+        $Markdown += New-MDLink -Text "Link" -Link $Link
+        $Markdown += "`n`n"
+    }
+
+    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
+    $Markdown += $Table
+    $Markdown += "`n"
+}
+$Markdown | Out-File -FilePath $UpdatesDate -Force -Encoding "Utf8" -NoNewline
 #endregion
 
 
