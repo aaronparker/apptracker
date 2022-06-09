@@ -1,4 +1,4 @@
-# Application Versions
+# Updates by name
 
 ## 1Password
 
