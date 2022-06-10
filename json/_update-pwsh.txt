@@ -1,4 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MozillaFirefox.json
-json/VideoLanVlcPlayer.json
