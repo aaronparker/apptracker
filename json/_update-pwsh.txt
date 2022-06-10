@@ -1,3 +1,0 @@
-json/Gimp.json
-json/MozillaFirefox.json
-json/jrsoftwareInnoSetup.json
