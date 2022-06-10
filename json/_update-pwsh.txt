@@ -13,3 +13,5 @@ json/MicrosoftEdgeDriver.json
 json/MicrosoftEdgeWebView2Runtime.json
 json/MicrosoftSsms.json
 json/MicrosoftVisualStudioCode.json
+json/MicrosoftOneDrive.json
+json/RStudio.json
