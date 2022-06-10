@@ -7,10 +7,10 @@ env:
 # Controls when the action will run. 
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
-    paths:
-      - 'scripts/Update-Json.ps1'
+  # push:
+  #   branches: [ main ]
+  #   paths:
+  #     - 'scripts/Update-Json.ps1'
   schedule:
     - cron: '0 */4 * * *'
 
@@ -36,12 +36,14 @@ jobs:
         shell: pwsh
         run: |
           Update-Module -Name "Evergreen" -Force
-          Get-Module -Name "Evergreen" -ListAvailable
+          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+          #echo "::set-output name=version::$Version"
+          Write-Host "Evergreen version: $Version"
 
       # Import GPG key
       - name: Import GPG key
         id: import_gpg
-        uses: crazy-max/ghaction-import-gpg@v4
+        uses: crazy-max/ghaction-import-gpg@v5
         with:
           gpg_private_key: ${{ secrets.GPGKEY }}
           passphrase: ${{ secrets.GPGPASSPHRASE }}
@@ -60,7 +62,7 @@ jobs:
         run: |
           . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
-      - name: List updated files
+      - name: Save updated files list
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
@@ -126,12 +128,14 @@ jobs:
           shell: powershell
           run: |
             Update-Module -Name "Evergreen" -Force
-            Get-Module -Name "Evergreen" -ListAvailable
+            $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+            #echo "::set-output name=version::$Version"
+            Write-Host "Evergreen version: $Version"
 
         # Import GPG key
         - name: Import GPG key
           id: import_gpg
-          uses: crazy-max/ghaction-import-gpg@v4
+          uses: crazy-max/ghaction-import-gpg@v5
           with:
             gpg_private_key: ${{ secrets.GPGKEY }}
             passphrase: ${{ secrets.GPGPASSPHRASE }}
@@ -150,7 +154,7 @@ jobs:
           run: |
             . "${{ github.workspace }}\scripts\Update-Json.ps1" -Path "${{ github.workspace }}\json"
 
-        - name: List updated files
+        - name: Save updated files list
           shell: powershell
           working-directory: ${{ github.workspace }}
           run: |
@@ -271,7 +275,7 @@ jobs:
 
       - name: Import GPG key
         id: import_gpg
-        uses: crazy-max/ghaction-import-gpg@v4
+        uses: crazy-max/ghaction-import-gpg@v5
         with:
           gpg_private_key: ${{ secrets.GPGKEY }}
           passphrase: ${{ secrets.GPGPASSPHRASE }}
@@ -357,7 +361,7 @@ jobs:
         # Import GPG key
         - name: Import GPG key
           id: import_gpg
-          uses: crazy-max/ghaction-import-gpg@v4
+          uses: crazy-max/ghaction-import-gpg@v5
           with:
             gpg_private_key: ${{ secrets.GPGKEY }}
             passphrase: ${{ secrets.GPGPASSPHRASE }}

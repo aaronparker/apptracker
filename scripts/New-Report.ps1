@@ -47,24 +47,24 @@ $Markdown | Out-File -FilePath $UpdatesAlpha -Force -Encoding "Utf8" -NoNewline
 
 
 #region Update the list of supported apps in date.md, sorted alphabetically
-$Markdown = New-MDHeader -Text "Updates by date" -Level 1
-$Markdown += "`n"
-foreach ($File in (Get-ChildItem -Path $Path | Sort-Object -Property "LastWriteTime" -Descending)) {
-    $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
-    $Markdown += "`n"
+# $Markdown = New-MDHeader -Text "Updates by date" -Level 1
+# $Markdown += "`n"
+# foreach ($File in (Get-ChildItem -Path $Path | Sort-Object -Property "LastWriteTime" -Descending)) {
+#     $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
+#     $Markdown += "`n"
 
-    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
-        Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    If ($Null -ne $Link) {
-        $Markdown += New-MDLink -Text "Link" -Link $Link
-        $Markdown += "`n`n"
-    }
+#     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
+#         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
+#     If ($Null -ne $Link) {
+#         $Markdown += New-MDLink -Text "Link" -Link $Link
+#         $Markdown += "`n`n"
+#     }
 
-    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
-    $Markdown += $Table
-    $Markdown += "`n"
-}
-$Markdown | Out-File -FilePath $UpdatesDate -Force -Encoding "Utf8" -NoNewline
+#     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
+#     $Markdown += $Table
+#     $Markdown += "`n"
+# }
+# $Markdown | Out-File -FilePath $UpdatesDate -Force -Encoding "Utf8" -NoNewline
 #endregion
 
 

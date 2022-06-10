@@ -1,0 +1,179 @@
+name: update-others
+
+# Environment variables
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# Controls when the action will run. 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'
+
+jobs:
+  update-others:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Install and cache PowerShell modules
+        id: psmodulecache
+        uses: potatoqualitee/psmodulecache@v4.5
+        with:
+          modules-to-cache: Evergreen, DnsClient-PS
+          force: true
+          shell: pwsh
+
+      - name: List Evergreen
+        id: list-module
+        shell: pwsh
+        run: |
+          Update-Module -Name "Evergreen" -Force
+          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+          #echo "::set-output name=version::$Version"
+          Write-Host "Evergreen version: $Version"
+
+      # Import GPG key
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPGKEY }}
+          passphrase: ${{ secrets.GPGPASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          git_tag_gpgsign: true
+          git_push_gpgsign: false
+          git_committer_name: ${{ secrets.COMMIT_NAME }}
+          git_committer_email: ${{ secrets.COMMIT_EMAIL }}
+
+      # Run Pester tests
+      - name: Update Json
+        shell: pwsh
+        working-directory: ${{ github.workspace }}
+        run: |
+          . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
+
+      - name: Update Cloudflare KV with recent apps
+        id: update-apps
+        shell: pwsh
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+        run: |
+          foreach ($app in @("MozillaFirefox")) {
+              Write-Host "`nChecking: $app"
+              $file = Get-Item -Path "${{ github.workspace }}/$app.json"
+              if ($Null -ne $file) {
+                  Write-Host "Update with: ${{ github.workspace }}/$app.json."
+                  wrangler kv:key put $app.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+              }
+          }
+
+      # Format the date number for the commit message
+      - name: Get date
+        id: get-date
+        run: |
+            DATEF=`date +%Y.%m.%d`
+            echo "::set-output name=date::$DATEF"
+
+      - name: Commit changes
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update others ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
+          commit_user_name: ${{ secrets.COMMIT_NAME }}
+          commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+
+      - name: "Run if changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'true'
+        run: echo "Changes committed."
+
+      - name: "Run if no changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'false'
+        run: echo "No changes detected."
+
+  update-docs:
+      needs: [ update-others ]
+      runs-on: ubuntu-latest
+
+      steps:
+        - uses: actions/checkout@v3
+          with:
+            ref: main
+            token: ${{ secrets.PAT }}
+
+        - name: Git pull
+          shell: pwsh
+          run: |
+            git config --global core.safecrlf false
+            git pull origin main
+
+        - name: Install and cache PowerShell modules
+          id: psmodulecache
+          uses: potatoqualitee/psmodulecache@v4.5
+          with:
+            modules-to-cache: Evergreen
+            shell: pwsh
+
+        - name: List Evergreen
+          id: list-module
+          shell: pwsh
+          run: |
+            Update-Module -Name "Evergreen" -Force
+            Get-Module -Name "Evergreen" -ListAvailable
+
+        - name: Generate report
+          shell: pwsh
+          run: |
+            $params = @{
+              Path         = "${{ github.workspace }}/json/*.json"
+              UpdatesAlpha = "${{ github.workspace }}/docs/index.md"
+              UpdatesDate  = "${{ github.workspace }}/docs/date.md"
+              AppsFile     = "${{ github.workspace }}/docs/apps.md"
+              AboutFile    = "${{ github.workspace }}/docs/about.md"
+            }
+            . "${{ github.workspace }}/scripts/New-Report.ps1" @params
+
+        # Format the date number for the commit message
+        - name: Get date
+          id: get-date
+          run: |
+            DATEF=`date +%Y.%m.%d`
+            echo "::set-output name=date::$DATEF"
+
+        # Import GPG key
+        - name: Import GPG key
+          id: import_gpg
+          uses: crazy-max/ghaction-import-gpg@v5
+          with:
+            gpg_private_key: ${{ secrets.GPGKEY }}
+            passphrase: ${{ secrets.GPGPASSPHRASE }}
+            git_user_signingkey: true
+            git_commit_gpgsign: true
+            git_config_global: true
+            git_tag_gpgsign: true
+            git_push_gpgsign: false
+            git_committer_name: ${{ secrets.COMMIT_NAME }}
+            git_committer_email: ${{ secrets.COMMIT_EMAIL }}
+
+        - name: Commit changes
+          id: commit
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: "Update docs ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
+            commit_user_name: ${{ secrets.COMMIT_NAME }}
+            commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+
+        - name: "Run if changes have been detected"
+          if: steps.commit.outputs.changes_detected == 'true'
+          run: echo "Changes committed."
+
+        - name: "Run if no changes have been detected"
+          if: steps.commit.outputs.changes_detected == 'false'
+          run: echo "No changes detected."

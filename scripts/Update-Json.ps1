@@ -38,7 +38,7 @@ if (Test-PSCore) {
 
     # Remove extra files
     $Files = Get-ChildItem -Path $Path -Filter "*.json" | Select-Object -ExpandProperty "Basename"
-    $Apps = Find-EvergreenApp | Select-Object -ExpandProperty "Name"
+    $Apps = Find-EvergreenApp | Where-Object { $_.Name -notin @("MozillaFirefox") } | Select-Object -ExpandProperty "Name"
     Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
         Select-Object -ExpandProperty "InputObject" | `
         ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue" }
@@ -58,25 +58,6 @@ if (Test-PSCore) {
             Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
     }
-
-    # MozillaFirefox is a special case, so we need to run it separately
-    # Write-Host -Object "`tMozillaFirefox"
-    # $Manifest = Export-EvergreenManifest -Name "MozillaFirefox"
-    # $params = @{
-    #     Name          = "MozillaFirefox"
-    #     AppParams     = @{ Language = $Manifest.Get.Download.FullLanguageList }
-    #     ErrorAction   = "SilentlyContinue"
-    #     WarningAction = "SilentlyContinue"
-    # }
-    # $Output = Get-EvergreenApp @params
-    # if ($Null -eq $Output) {
-    #     Write-Host -Object "Encountered an issue with: MozillaFirefox." -ForegroundColor "Cyan"
-    # }
-    # else {
-    #     $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Language", "Type" -ErrorAction "SilentlyContinue" | `
-    #         ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "MozillaFirefox.json")) -NoNewline -Encoding "utf8" -Verbose
-    #     Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
-    # }
 }
 else {
 
