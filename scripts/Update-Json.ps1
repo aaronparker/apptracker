@@ -60,23 +60,23 @@ if (Test-PSCore) {
     }
 
     # MozillaFirefox is a special case, so we need to run it separately
-    Write-Host -Object "`tMozillaFirefox"
-    $Manifest = Export-EvergreenManifest -Name "MozillaFirefox"
-    $params = @{
-        Name          = "MozillaFirefox"
-        AppParams     = @{ Language = $Manifest.Get.Download.FullLanguageList }
-        ErrorAction   = "SilentlyContinue"
-        WarningAction = "SilentlyContinue"
-    }
-    $Output = Get-EvergreenApp @params
-    if ($Null -eq $Output) {
-        Write-Host -Object "Encountered an issue with: MozillaFirefox." -ForegroundColor "Cyan"
-    }
-    else {
-        $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Language", "Type" -ErrorAction "SilentlyContinue" | `
-            ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "MozillaFirefox.json")) -NoNewline -Encoding "utf8" -Verbose
-        Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
-    }
+    # Write-Host -Object "`tMozillaFirefox"
+    # $Manifest = Export-EvergreenManifest -Name "MozillaFirefox"
+    # $params = @{
+    #     Name          = "MozillaFirefox"
+    #     AppParams     = @{ Language = $Manifest.Get.Download.FullLanguageList }
+    #     ErrorAction   = "SilentlyContinue"
+    #     WarningAction = "SilentlyContinue"
+    # }
+    # $Output = Get-EvergreenApp @params
+    # if ($Null -eq $Output) {
+    #     Write-Host -Object "Encountered an issue with: MozillaFirefox." -ForegroundColor "Cyan"
+    # }
+    # else {
+    #     $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Language", "Type" -ErrorAction "SilentlyContinue" | `
+    #         ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "MozillaFirefox.json")) -NoNewline -Encoding "utf8" -Verbose
+    #     Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
+    # }
 }
 else {
 
