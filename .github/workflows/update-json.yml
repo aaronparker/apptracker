@@ -18,9 +18,7 @@ jobs:
   update-pwsh:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
           ref: main
@@ -101,16 +99,12 @@ jobs:
 
   update-powershell:
       needs: update-pwsh
-      #if: needs.update-pwsh.outputs.output1 == 'true'
       runs-on: windows-latest
 
-      # Steps represent a sequence of tasks that will be executed as part of the job
       steps:
-        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
         - uses: actions/checkout@v3
           with:
             ref: main
-            #token: ${{ secrets.PAT }}
 
         # Run Pester tests
         - name: Git pull
@@ -195,7 +189,7 @@ jobs:
   update-kv:
     needs: [ update-pwsh, update-powershell ]
     runs-on: ubuntu-latest
-    name: update
+    name: update-cloudflarekv
 
     steps:
       - uses: actions/checkout@v3
@@ -313,15 +307,13 @@ jobs:
 
   update-docs:
       needs: [ update-pwsh, update-powershell, update-kv ]
-      #if: needs.update-powershell.outputs.output1 == 'true'
       runs-on: ubuntu-latest
 
-      # Steps represent a sequence of tasks that will be executed as part of the job
       steps:
-        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
         - uses: actions/checkout@v3
           with:
             ref: main
+            token: ${{ secrets.PAT }}
 
         - name: Git pull
           shell: pwsh
