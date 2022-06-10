@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.icm.edu.pl/pub/graphics/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://mirrors.gethosted.online/gimp/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -1096,8 +1096,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.123.0607.0001 | AMD64        | InternalFast | UvdibrubjQG3fKSjqkus4wv+zCNELrMOSMXWeR/X1vA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.123.0607.0001/amd64/OneDriveSetup.exe                           |
-| 22.123.0607.0001 | x86          | InternalFast | cfa9qDtXdkZY6rApClXVD0cLyD7+gf5h5wNcZ4t4a0I= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.123.0607.0001/OneDriveSetup.exe                                 |
+| 22.124.0608.0001 | AMD64        | InternalFast | EDzsLi1p+lG44D3C5iDYwXihIJfWwRERvu1lJ50or6k= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.124.0608.0001/amd64/OneDriveSetup.exe                           |
+| 22.124.0608.0001 | x86          | InternalFast | DszqLobMY+oOWn4iRKXduoL1M+4GoKSSeEl65DZNNp4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.124.0608.0001/OneDriveSetup.exe                                 |
 | 22.121.0605.0001 | AMD64        | InternalSlow | R+ICh5uJK2cH/QG5GPvoRJpGxaMkx7D9bmkio/abZY4= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0001/amd64/OneDriveSetup.exe                           |
 | 22.121.0605.0001 | x86          | InternalSlow | /FW3cEzwV3Hqhr7MxU8oddCt17yB5XlfwiR/F3Jlyi0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0001/OneDriveSetup.exe                                 |
 | 22.116.0529.0002 | AMD64        | Insider      | rxk6MgtSJCJK8sUaPtA0fqNc9+6o543eT0uT7fASz2I= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0002/amd64/OneDriveSetup.exe                           |
@@ -1717,18 +1717,18 @@
 | 1.4.1743           | dd96cf1193108c9cd46aa450e8948aa5df7c1ae065dc45219eac3870d05fb6bc | 227780990 | Juliet Rose       | Preview | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-1.4.1743.zip               |
 | 1.4.1743-4         | d54593e712749e85b1049653b46fee416b40ca045e78a7431bae576fdbbf4f68 | 161044432 | Juliet Rose       | Preview | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.exe         |
 | 1.4.1743-4         | 2d255f43b5d104062d69f30ba14b0fd2720cc79c2a7aea33a14f9fc90e45b4bd | 234551432 | Juliet Rose       | Preview | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.zip         |
-| 2022.02.3+494      | e02ff69ad64517a7e2032a2ec23c8868250c3a021d86290f8b19f8260a41593a | 177266424 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.3-494.exe          |
-| 2022.02.3+493.pro1 | 0bb6ce9024c248d16f0284f94c5236739100ce3fa946c704e84885e92c9152f3 | 181038064 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-493.pro1.exe |
-| 2022.02.3+494      | d430087670bdf47db2ef05a4ff7d3e04b3a764d022a6ad7415801f2387d49326 | 245870051 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.3-494.zip          |
-| 2022.02.3+493.pro1 | 9fefb004f55162df563209ebbe6b1d365f6d0c358e4e1d91cad634c48f62791d | 250812616 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-493.pro1.zip |
-| 2022.02.3+494      | e02ff69ad64517a7e2032a2ec23c8868250c3a021d86290f8b19f8260a41593a | 177266424 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.3-494.exe          |
-| 2022.02.3+493.pro1 | 0bb6ce9024c248d16f0284f94c5236739100ce3fa946c704e84885e92c9152f3 | 181038064 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-493.pro1.exe |
-| 2022.02.3+494      | d430087670bdf47db2ef05a4ff7d3e04b3a764d022a6ad7415801f2387d49326 | 245870051 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.3-494.zip          |
-| 2022.02.3+493.pro1 | 9fefb004f55162df563209ebbe6b1d365f6d0c358e4e1d91cad634c48f62791d | 250812616 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-493.pro1.zip |
-| 2022.02.3+494      | e02ff69ad64517a7e2032a2ec23c8868250c3a021d86290f8b19f8260a41593a | 177266424 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.3-494.exe          |
-| 2022.02.3+493.pro1 | 0bb6ce9024c248d16f0284f94c5236739100ce3fa946c704e84885e92c9152f3 | 181038064 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-493.pro1.exe |
-| 2022.02.3+494      | d430087670bdf47db2ef05a4ff7d3e04b3a764d022a6ad7415801f2387d49326 | 245870051 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.3-494.zip          |
-| 2022.02.3+493.pro1 | 9fefb004f55162df563209ebbe6b1d365f6d0c358e4e1d91cad634c48f62791d | 250812616 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-493.pro1.zip |
+| 2022.02.4+495      | 109dc61a353d7d7ed42d4233ede8389f3f145061cc0ea0eee7c7fd3a61299c27 | 177259832 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-495.exe          |
+| 2022.02.3+495.pro8 | 2fdd82d2b2324e183d9876b46680d252f1b4f4dae5c0bcd46695a6ba51cac813 | 181031048 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.exe |
+| 2022.02.4+495      | 56945368e44bd5cd6430f52ba5f9f5e3c7c6f84f5ff33c5a990d87f5f311836d | 245869525 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-495.zip          |
+| 2022.02.3+495.pro8 | 763ea729834d68de6c2631c5854d8ee9ff1e3d32e4ed7278b7967bf4f5883bac | 250813517 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.zip |
+| 2022.02.4+495      | 109dc61a353d7d7ed42d4233ede8389f3f145061cc0ea0eee7c7fd3a61299c27 | 177259832 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-495.exe          |
+| 2022.02.3+495.pro8 | 2fdd82d2b2324e183d9876b46680d252f1b4f4dae5c0bcd46695a6ba51cac813 | 181031048 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.exe |
+| 2022.02.4+495      | 56945368e44bd5cd6430f52ba5f9f5e3c7c6f84f5ff33c5a990d87f5f311836d | 245869525 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-495.zip          |
+| 2022.02.3+495.pro8 | 763ea729834d68de6c2631c5854d8ee9ff1e3d32e4ed7278b7967bf4f5883bac | 250813517 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.zip |
+| 2022.02.4+495      | 109dc61a353d7d7ed42d4233ede8389f3f145061cc0ea0eee7c7fd3a61299c27 | 177259832 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-495.exe          |
+| 2022.02.3+495.pro8 | 2fdd82d2b2324e183d9876b46680d252f1b4f4dae5c0bcd46695a6ba51cac813 | 181031048 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.exe |
+| 2022.02.4+495      | 56945368e44bd5cd6430f52ba5f9f5e3c7c6f84f5ff33c5a990d87f5f311836d | 245869525 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-495.zip          |
+| 2022.02.3+495.pro8 | 763ea729834d68de6c2631c5854d8ee9ff1e3d32e4ed7278b7967bf4f5883bac | 250813517 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.zip |
 
 ## SafeExamBrowser
 
@@ -2078,14 +2078,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe     |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi     |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip     |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
