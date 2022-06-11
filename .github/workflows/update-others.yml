@@ -56,7 +56,7 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
+          . "${{ github.workspace }}/scripts/Update-Others.ps1" -Path "${{ github.workspace }}/json"
 
       - name: Update Cloudflare KV with recent apps
         id: update-apps
@@ -68,9 +68,9 @@ jobs:
         run: |
           foreach ($app in @("MozillaFirefox")) {
               Write-Host "`nChecking: $app"
-              $file = Get-Item -Path "${{ github.workspace }}/$app.json"
+              $file = Get-Item -Path "${{ github.workspace }}/json/$app.json"
               if ($Null -ne $file) {
-                  Write-Host "Update with: ${{ github.workspace }}/$app.json."
+                  Write-Host "Update with: $($file.FullName)."
                   wrangler kv:key put $app.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
               }
           }
