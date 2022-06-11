@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.1   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
 
 ## 1Password7
 
@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://artfiles.org/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.ip-connect.info/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -746,10 +746,10 @@
 
 [Link](https://www.vaultproject.io/)
 
-| Version | Type | Architecture | URI                                                                      |
-| ------- | ---- | ------------ | ------------------------------------------------------------------------ |
-| 1.9.7   | zip  | x64          | https://releases.hashicorp.com/vault/1.9.7/vault_1.9.7_windows_amd64.zip |
-| 1.9.7   | zip  | x86          | https://releases.hashicorp.com/vault/1.9.7/vault_1.9.7_windows_386.zip   |
+| Version | Type | Architecture | URI                                                                        |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------- |
+| 1.10.4  | zip  | x64          | https://releases.hashicorp.com/vault/1.10.4/vault_1.10.4_windows_amd64.zip |
+| 1.10.4  | zip  | x86          | https://releases.hashicorp.com/vault/1.10.4/vault_1.10.4_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -842,9 +842,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -999,8 +999,8 @@
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |
-| 3.0.4585 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
-| 3.0.4585 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
+| 4.0.4590 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
+| 4.0.4590 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
 
 ## MicrosoftAzureStorageExplorer
 
@@ -1096,8 +1096,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.124.0608.0001 | AMD64        | InternalFast | EDzsLi1p+lG44D3C5iDYwXihIJfWwRERvu1lJ50or6k= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.124.0608.0001/amd64/OneDriveSetup.exe                           |
-| 22.124.0608.0001 | x86          | InternalFast | DszqLobMY+oOWn4iRKXduoL1M+4GoKSSeEl65DZNNp4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.124.0608.0001/OneDriveSetup.exe                                 |
+| 22.125.0609.0001 | AMD64        | InternalFast | +bMfDQaF1PGeyVvZcPOo1GoeJc2slhuzG9uHb//lxck= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.125.0609.0001/amd64/OneDriveSetup.exe                           |
+| 22.125.0609.0001 | x86          | InternalFast | 1Uw5Oer2o7Pqo6sBXoh5Qylkbb6lMmn9gRsfstzgo7E= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.125.0609.0001/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | AMD64        | InternalSlow | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
 | 22.121.0605.0002 | x86          | InternalSlow | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/OneDriveSetup.exe                                 |
 | 22.116.0529.0003 | AMD64        | Insider      | ukmFRZbXFsTNhwy8RVZG91e9WDpBfJQPm74IbKrFFoo= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0003/amd64/OneDriveSetup.exe                           |
@@ -1162,12 +1162,12 @@
 | 1.5.00.15273 | Preview | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.15273/Teams_windows_x64.msi     |
 | 1.5.00.15273 | Preview | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.15273/Teams_windows.exe             |
 | 1.5.00.15273 | Preview | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.15273/Teams_windows.msi             |
-| 1.5.00.12969 | General | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.12969/Teams_windows_arm64.exe |
-| 1.5.00.12969 | General | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.12969/Teams_windows_arm64.msi |
-| 1.5.00.12969 | General | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.12969/Teams_windows_x64.exe     |
-| 1.5.00.12969 | General | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.12969/Teams_windows_x64.msi     |
-| 1.5.00.12969 | General | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.12969/Teams_windows.exe             |
-| 1.5.00.12969 | General | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.12969/Teams_windows.msi             |
+| 1.5.00.14473 | General | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.14473/Teams_windows_arm64.exe |
+| 1.5.00.14473 | General | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.14473/Teams_windows_arm64.msi |
+| 1.5.00.14473 | General | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.14473/Teams_windows_x64.exe     |
+| 1.5.00.14473 | General | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.14473/Teams_windows_x64.msi     |
+| 1.5.00.14473 | General | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.14473/Teams_windows.exe             |
+| 1.5.00.14473 | General | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.14473/Teams_windows.msi             |
 
 ## MicrosoftVisualStudio
 
@@ -1232,11 +1232,14 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-| Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
-| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
-| 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
+| Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3213.0 | ARM64        | Insider | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
+| 1.2.3213.0 | x86          | Public  | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
 
 ## MicrosoftWvdRtcService
 
@@ -2073,14 +2076,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe     |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi     |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip     |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
