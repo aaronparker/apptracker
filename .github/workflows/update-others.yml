@@ -58,6 +58,12 @@ jobs:
         run: |
           . "${{ github.workspace }}/scripts/Update-Others.ps1" -Path "${{ github.workspace }}/json"
 
+      - name: Install Wrangler
+        id: install-wrangler
+        shell: bash
+        run: |
+          npm install -g wrangler
+
       - name: Update Cloudflare KV with recent apps
         id: update-apps
         shell: pwsh
