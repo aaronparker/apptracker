@@ -1,5 +1,0 @@
-json/Gimp.json
-json/LogMeInGoToOpener.json
-json/MirantisLens.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
