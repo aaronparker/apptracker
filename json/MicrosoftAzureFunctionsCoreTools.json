@@ -1,11 +1,11 @@
 [
   {
-    "Version": "3.0.4585",
+    "Version": "4.0.4590",
     "Architecture": "x64",
     "URI": "https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi"
   },
   {
-    "Version": "3.0.4585",
+    "Version": "4.0.4590",
     "Architecture": "x86",
     "URI": "https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi"
   }

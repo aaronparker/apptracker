@@ -1,0 +1,9 @@
+json/1Password.json
+json/Gimp.json
+json/HashicorpVault.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
