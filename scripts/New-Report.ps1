@@ -64,8 +64,10 @@ foreach ($File in $LastUpdates) {
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $($File.Name -replace ".json", "") } | `
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
     if ($Null -ne $Link) {
-        $Markdown += "$(New-MDLink -Text "Link" -Link $Link). **Last update**: $($File.LastWriteTime) (UTC)"
-        $Markdown += "`n`n"
+        $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
+        $Markdown += "`n"
+        $Markdown += "**Last update**: $($File.LastWriteTime) (UTC)"
+        $Markdown += "`n"
     }
 
     $Table = Get-Content -Path $(Join-Path -Path $Path -ChildPath $File.Name) | ConvertFrom-Json | New-MDTable
