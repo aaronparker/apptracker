@@ -63,8 +63,8 @@ foreach ($File in $LastUpdates) {
 
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $($File.Name -replace ".json", "") } | `
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    If ($Null -ne $Link) {
-        $Markdown += "Last update: $($File.LastWriteTime); $(New-MDLink -Text "Link" -Link $Link)"
+    if ($Null -ne $Link) {
+        $Markdown += "$(New-MDLink -Text "Link" -Link $Link). **Last update**: $($File.LastWriteTime) (UTC)"
         $Markdown += "`n`n"
     }
 
