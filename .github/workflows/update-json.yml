@@ -222,9 +222,12 @@ jobs:
                       Write-Host "`nChecking: $file"
                       if ($file -match "json$") {
                           Write-Host "Update with: ${{ github.workspace }}/$file."
-                          $file = Get-Item -Path "${{ github.workspace }}/$file"
+                          $file = Get-Item -Path "${{ github.workspace }}/$file" -ErrorAction "SilentlyContinue"
                           if ($Null -ne $file) {
                               wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+                          }
+                          else {
+                              Write-Warning -Message "Input from $file is not a valid."
                           }
                       }
                   }

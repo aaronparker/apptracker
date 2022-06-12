@@ -41,7 +41,7 @@ if (Test-PSCore) {
 
     # Remove extra files
     $Files = Get-ChildItem -Path $Path -Filter "*.json" | Select-Object -ExpandProperty "Basename"
-    $Apps = Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Select-Object -ExpandProperty "Name"
+    $Apps = Find-EvergreenApp | Select-Object -ExpandProperty "Name"
     Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
         Select-Object -ExpandProperty "InputObject" | `
         ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue" }
@@ -67,9 +67,10 @@ else {
     # Walk-through each JSON file and validate it, update contents if required
     foreach ($file in (Get-ChildItem -Path $Path -Filter "*.json")) {
         if (($file.Length -eq 0) -or ((Get-Content -Path $file.FullName) -match "RateLimited")) {
-            Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
 
+            Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
             $Output = Get-EvergreenApp -Name $file.BaseName -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+
             if ($Null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
             }
@@ -88,7 +89,9 @@ else {
     foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
         if (-not (Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.json")) -ErrorAction "SilentlyContinue")) {
 
+            Write-Host -Object "Update: $App." -ForegroundColor "Cyan"
             $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+
             if ($Null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
             }
