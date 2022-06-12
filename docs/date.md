@@ -2,7 +2,7 @@
 
 ## TelerikFiddlerEverywhere
 
-Last update: 12/06/2022 03:14:55 pm; [Link](https://www.telerik.com/fiddler)
+[Link](https://www.telerik.com/fiddler). **Last update**: 12/06/2022 03:14:55 pm (UTC)
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -10,7 +10,7 @@ Last update: 12/06/2022 03:14:55 pm; [Link](https://www.telerik.com/fiddler)
 
 ## TechSmithCamtasia
 
-Last update: 12/06/2022 03:14:55 pm; [Link](https://www.techsmith.com/)
+[Link](https://www.techsmith.com/). **Last update**: 12/06/2022 03:14:55 pm (UTC)
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ Last update: 12/06/2022 03:14:55 pm; [Link](https://www.techsmith.com/)
 
 ## TechSmithSnagit
 
-Last update: 12/06/2022 03:14:55 pm; [Link](https://www.techsmith.com/)
+[Link](https://www.techsmith.com/). **Last update**: 12/06/2022 03:14:55 pm (UTC)
 
 | Version | Date                | Type | Architecture | URI                                                                 |
 | ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Last update: 12/06/2022 03:14:55 pm; [Link](https://www.techsmith.com/)
 
 ## TelegramDesktop
 
-Last update: 12/06/2022 03:14:55 pm; [Link](https://desktop.telegram.org/)
+[Link](https://desktop.telegram.org/). **Last update**: 12/06/2022 03:14:55 pm (UTC)
 
 | Version | URI                                                  |
 | ------- | ---------------------------------------------------- |
@@ -37,7 +37,7 @@ Last update: 12/06/2022 03:14:55 pm; [Link](https://desktop.telegram.org/)
 
 ## TelerikFiddlerClassic
 
-Last update: 12/06/2022 03:14:55 pm; [Link](https://www.telerik.com/fiddler/fiddler-classic)
+[Link](https://www.telerik.com/fiddler/fiddler-classic). **Last update**: 12/06/2022 03:14:55 pm (UTC)
 
 | Version     | URI                                                               |
 | ----------- | ----------------------------------------------------------------- |
@@ -45,7 +45,7 @@ Last update: 12/06/2022 03:14:55 pm; [Link](https://www.telerik.com/fiddler/fidd
 
 ## MozillaFirefox
 
-Last update: 12/6/2022 2:23:56 pm; [Link](https://www.mozilla.org/)
+[Link](https://www.mozilla.org/). **Last update**: 12/6/2022 2:23:56 pm (UTC)
 
 | Version | Architecture | Channel                | Language | Type | Filename                     | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ Last update: 12/6/2022 2:23:56 pm; [Link](https://www.mozilla.org/)
 
 ## VideoLanVlcPlayer
 
-Last update: 12/6/2022 2:23:56 pm; [Link](https://www.videolan.org/vlc/)
+[Link](https://www.videolan.org/vlc/). **Last update**: 12/6/2022 2:23:56 pm (UTC)
 
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
@@ -77,7 +77,7 @@ Last update: 12/6/2022 2:23:56 pm; [Link](https://www.videolan.org/vlc/)
 
 ## LogMeInGoToOpener
 
-Last update: 12/6/2022 2:23:56 pm; [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi-g2m850002)
+[Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi-g2m850002). **Last update**: 12/6/2022 2:23:56 pm (UTC)
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
@@ -85,7 +85,7 @@ Last update: 12/6/2022 2:23:56 pm; [Link](https://support.goto.com/meeting/help/
 
 ## Gimp
 
-Last update: 12/6/2022 2:23:56 pm; [Link](https://www.gimp.org/)
+[Link](https://www.gimp.org/). **Last update**: 12/6/2022 2:23:56 pm (UTC)
 
 | Version | Date       | Sha256                                                           | URI                                                                                 |
 | ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ Last update: 12/6/2022 2:23:56 pm; [Link](https://www.gimp.org/)
 
 ## jrsoftwareInnoSetup
 
-Last update: 12/6/2022 9:03:55 am; [Link](https://www.innosetup.com)
+[Link](https://www.innosetup.com). **Last update**: 12/6/2022 9:03:55 am (UTC)
 
 | Version | URI                                                      |
 | ------- | -------------------------------------------------------- |
@@ -101,7 +101,7 @@ Last update: 12/6/2022 9:03:55 am; [Link](https://www.innosetup.com)
 
 ## 1Password
 
-Last update: 12/6/2022 9:03:55 am; [Link](https://1password.com/)
+[Link](https://1password.com/). **Last update**: 12/6/2022 9:03:55 am (UTC)
 
 | Version | URI                                                           |
 | ------- | ------------------------------------------------------------- |
@@ -109,7 +109,7 @@ Last update: 12/6/2022 9:03:55 am; [Link](https://1password.com/)
 
 ## HashicorpVault
 
-Last update: 11/6/2022 11:04:32 pm; [Link](https://www.vaultproject.io/)
+[Link](https://www.vaultproject.io/). **Last update**: 11/6/2022 11:04:32 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ Last update: 11/6/2022 11:04:32 pm; [Link](https://www.vaultproject.io/)
 
 ## MicrosoftTeams
 
-Last update: 11/6/2022 11:04:32 pm; [Link](https://www.microsoft.com/teams)
+[Link](https://www.microsoft.com/teams). **Last update**: 11/6/2022 11:04:32 pm (UTC)
 
 | Version      | Ring    | Architecture | Type | URI                                                                                                |
 | ------------ | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
@@ -137,7 +137,7 @@ Last update: 11/6/2022 11:04:32 pm; [Link](https://www.microsoft.com/teams)
 
 ## MicrosoftAzureFunctionsCoreTools
 
-Last update: 11/6/2022 11:04:32 pm; [Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+[Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local). **Last update**: 11/6/2022 11:04:32 pm (UTC)
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |
@@ -146,7 +146,7 @@ Last update: 11/6/2022 11:04:32 pm; [Link](https://docs.microsoft.com/en-us/azur
 
 ## MicrosoftOneDrive
 
-Last update: 11/6/2022 11:04:32 pm; [Link](https://onedrive.live.com/)
+[Link](https://onedrive.live.com/). **Last update**: 11/6/2022 11:04:32 pm (UTC)
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
@@ -166,7 +166,7 @@ Last update: 11/6/2022 11:04:32 pm; [Link](https://onedrive.live.com/)
 
 ## MirantisLens
 
-Last update: 11/6/2022 11:04:32 pm; [Link](https://k8slens.dev/)
+[Link](https://k8slens.dev/). **Last update**: 11/6/2022 11:04:32 pm (UTC)
 
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                          |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -175,7 +175,7 @@ Last update: 11/6/2022 11:04:32 pm; [Link](https://k8slens.dev/)
 
 ## MicrosoftWvdRemoteDesktop
 
-Last update: 11/6/2022 11:04:32 pm; [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10). **Last update**: 11/6/2022 11:04:32 pm (UTC)
 
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
@@ -188,7 +188,7 @@ Last update: 11/6/2022 11:04:32 pm; [Link](https://docs.microsoft.com/en-us/azur
 
 ## MicrosoftEdgeDriver
 
-Last update: 11/6/2022 7:59:41 am; [Link](https://www.microsoft.com/edge)
+[Link](https://www.microsoft.com/edge). **Last update**: 11/6/2022 7:59:41 am (UTC)
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
@@ -204,7 +204,7 @@ Last update: 11/6/2022 7:59:41 am; [Link](https://www.microsoft.com/edge)
 
 ## MicrosoftEdge
 
-Last update: 11/6/2022 7:59:41 am; [Link](https://www.microsoft.com/edge)
+[Link](https://www.microsoft.com/edge). **Last update**: 11/6/2022 7:59:41 am (UTC)
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -232,7 +232,7 @@ Last update: 11/6/2022 7:59:41 am; [Link](https://www.microsoft.com/edge)
 
 ## GoogleChrome
 
-Last update: 11/6/2022 7:59:41 am; [Link](https://cloud.google.com/chrome-enterprise/browser/download/)
+[Link](https://cloud.google.com/chrome-enterprise/browser/download/). **Last update**: 11/6/2022 7:59:41 am (UTC)
 
 | Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
@@ -245,7 +245,7 @@ Last update: 11/6/2022 7:59:41 am; [Link](https://cloud.google.com/chrome-enterp
 
 ## MicrosoftVisualStudioCode
 
-Last update: 10/6/2022 8:38:45 pm; [Link](https://code.visualstudio.com)
+[Link](https://code.visualstudio.com). **Last update**: 10/6/2022 8:38:45 pm (UTC)
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -264,7 +264,7 @@ Last update: 10/6/2022 8:38:45 pm; [Link](https://code.visualstudio.com)
 
 ## MicrosoftAzureDataStudio
 
-Last update: 10/6/2022 8:38:45 pm; [Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
+[Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/). **Last update**: 10/6/2022 8:38:45 pm (UTC)
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -275,7 +275,7 @@ Last update: 10/6/2022 8:38:45 pm; [Link](https://docs.microsoft.com/en-us/sql/a
 
 ## RStudio
 
-Last update: 10/6/2022 12:29:40 pm; [Link](https://www.rstudio.com/)
+[Link](https://www.rstudio.com/). **Last update**: 10/6/2022 12:29:40 pm (UTC)
 
 | Version            | Sha256                                                           | Size      | Branch            | Channel | ProductName         | InstallerName                | Type | URI                                                                                           |
 | ------------------ | ---------------------------------------------------------------- | --------- | ----------------- | ------- | ------------------- | ---------------------------- | ---- | --------------------------------------------------------------------------------------------- |
@@ -298,7 +298,7 @@ Last update: 10/6/2022 12:29:40 pm; [Link](https://www.rstudio.com/)
 
 ## stealthpuppyWindowsCustomisedDefaults
 
-Last update: 10/6/2022 7:57:30 am; [Link](https://stealthpuppy.com/image-customise/)
+[Link](https://stealthpuppy.com/image-customise/). **Last update**: 10/6/2022 7:57:30 am (UTC)
 
 | Version    | Platform | Architecture | Type      | Date       | Size  | URI                                                                                                     |
 | ---------- | -------- | ------------ | --------- | ---------- | ----- | ------------------------------------------------------------------------------------------------------- |
@@ -307,7 +307,7 @@ Last update: 10/6/2022 7:57:30 am; [Link](https://stealthpuppy.com/image-customi
 
 ## MicrosoftSsms
 
-Last update: 10/6/2022 7:57:30 am; [Link](https://go.microsoft.com/fwlink/?LinkId=531355)
+[Link](https://go.microsoft.com/fwlink/?LinkId=531355). **Last update**: 10/6/2022 7:57:30 am (UTC)
 
 | Version      | Date       | Language              | URI                                                                                                   |
 | ------------ | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -325,7 +325,7 @@ Last update: 10/6/2022 7:57:30 am; [Link](https://go.microsoft.com/fwlink/?LinkI
 
 ## MicrosoftEdgeWebView2Runtime
 
-Last update: 10/6/2022 7:57:30 am; [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/). **Last update**: 10/6/2022 7:57:30 am (UTC)
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -335,7 +335,7 @@ Last update: 10/6/2022 7:57:30 am; [Link](https://developer.microsoft.com/en-us/
 
 ## CodelerityApacheNetBeans
 
-Last update: 10/6/2022 7:57:30 am; [Link](https://www.codelerity.com/netbeans/)
+[Link](https://www.codelerity.com/netbeans/). **Last update**: 10/6/2022 7:57:30 am (UTC)
 
 | Version    | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
@@ -343,7 +343,7 @@ Last update: 10/6/2022 7:57:30 am; [Link](https://www.codelerity.com/netbeans/)
 
 ## AutoDarkMode
 
-Last update: 10/6/2022 12:00:48 am; [Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode). **Last update**: 10/6/2022 12:00:48 am (UTC)
 
 | Version   | Platform | Architecture | Type | Date       | Size     | URI                                                                                                             |
 | --------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
@@ -352,7 +352,7 @@ Last update: 10/6/2022 12:00:48 am; [Link](https://github.com/AutoDarkMode/Windo
 
 ## JeremyMainGPUProfiler
 
-Last update: 10/6/2022 12:00:48 am; [Link](https://github.com/JeremyMain/GPUProfiler)
+[Link](https://github.com/JeremyMain/GPUProfiler). **Last update**: 10/6/2022 12:00:48 am (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
@@ -360,7 +360,7 @@ Last update: 10/6/2022 12:00:48 am; [Link](https://github.com/JeremyMain/GPUProf
 
 ## SumatraPDFReader
 
-Last update: 10/6/2022 12:00:48 am; [Link](https://www.sumatrapdfreader.org/)
+[Link](https://www.sumatrapdfreader.org/). **Last update**: 10/6/2022 12:00:48 am (UTC)
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
@@ -369,7 +369,7 @@ Last update: 10/6/2022 12:00:48 am; [Link](https://www.sumatrapdfreader.org/)
 
 ## VMwareTools
 
-Last update: 10/6/2022 12:00:48 am; [Link](https://docs.vmware.com/en/VMware-Tools/index.html)
+[Link](https://docs.vmware.com/en/VMware-Tools/index.html). **Last update**: 10/6/2022 12:00:48 am (UTC)
 
 | Version | Architecture | URI                                                                                                |
 | ------- | ------------ | -------------------------------------------------------------------------------------------------- |
@@ -378,7 +378,7 @@ Last update: 10/6/2022 12:00:48 am; [Link](https://docs.vmware.com/en/VMware-Too
 
 ## EgnyteDesktopApp
 
-Last update: 10/6/2022 12:00:48 am; [Link](https://www.egnyte.com/solutions/sharing-collaboration)
+[Link](https://www.egnyte.com/solutions/sharing-collaboration). **Last update**: 10/6/2022 12:00:48 am (UTC)
 
 | Version   | SHA1                                     | URI                                                                                       |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -386,7 +386,7 @@ Last update: 10/6/2022 12:00:48 am; [Link](https://www.egnyte.com/solutions/shar
 
 ## OperaGXBrowser
 
-Last update: 10/6/2022 12:00:48 am; [Link](https://www.opera.com/gx)
+[Link](https://www.opera.com/gx). **Last update**: 10/6/2022 12:00:48 am (UTC)
 
 | Version      | Architecture | Type | URI                                                                                         |
 | ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
@@ -395,7 +395,7 @@ Last update: 10/6/2022 12:00:48 am; [Link](https://www.opera.com/gx)
 
 ## HashicorpWaypoint
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.waypointproject.io/)
+[Link](https://www.waypointproject.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                            |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
@@ -404,7 +404,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.waypointproject.io/)
 
 ## HashicorpTerraform
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.terraform.io/)
+[Link](https://www.terraform.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
@@ -413,7 +413,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.terraform.io/)
 
 ## HashicorpPacker
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://packer.io/)
+[Link](https://packer.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
@@ -422,7 +422,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://packer.io/)
 
 ## HashicorpNomad
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.nomadproject.io/)
+[Link](https://www.nomadproject.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
@@ -431,7 +431,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.nomadproject.io/)
 
 ## HashicorpConsul
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.consul.io/)
+[Link](https://www.consul.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
@@ -440,7 +440,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.consul.io/)
 
 ## HashicorpBoundary
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.boundaryproject.io/)
+[Link](https://www.boundaryproject.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                            |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
@@ -449,7 +449,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.boundaryproject.io/)
 
 ## Gephi
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://gephi.org/)
+[Link](https://gephi.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------- |
@@ -458,7 +458,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://gephi.org/)
 
 ## Greenshot
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://getgreenshot.org/)
+[Link](https://getgreenshot.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                                     |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -468,7 +468,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://getgreenshot.org/)
 
 ## GitHubRelease
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/)
+[Link](https://github.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                         |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------- |
@@ -481,7 +481,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/)
 
 ## GitHubAtom
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://atom.io/)
+[Link](https://atom.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                      |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------ |
@@ -490,7 +490,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://atom.io/)
 
 ## GitForWindows
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://gitforwindows.org/)
+[Link](https://gitforwindows.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -507,7 +507,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://gitforwindows.org/)
 
 ## GhislerTotalCommander
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.ghisler.com/)
+[Link](https://www.ghisler.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version   | Architecture | URI                                             |
 | --------- | ------------ | ----------------------------------------------- |
@@ -516,7 +516,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.ghisler.com/)
 
 ## ImageGlass
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://imageglass.org/)
+[Link](https://imageglass.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
@@ -525,7 +525,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://imageglass.org/)
 
 ## GeekSoftwarePDF24Creator
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://tools.pdf24.org/en/creator/)
+[Link](https://tools.pdf24.org/en/creator/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | URI                                                 |
 | ------- | ---- | --------------------------------------------------- |
@@ -534,7 +534,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://tools.pdf24.org/en/creator/)
 
 ## Handbrake
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://handbrake.fr/)
+[Link](https://handbrake.fr/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
@@ -547,7 +547,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://handbrake.fr/)
 
 ## ImageMagickStudioImageMagick
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://imagemagick.org/)
+[Link](https://imagemagick.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
@@ -555,7 +555,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://imagemagick.org/)
 
 ## LogMeInGoToMeeting
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013)
+[Link](https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Type         | URI                                                                                       |
 | ----------- | ------------ | ----------------------------------------------------------------------------------------- |
@@ -566,7 +566,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://support.goto.com/meeting/help/
 
 ## JamTreeSizeFree
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jam-software.com/treesize_free/)
+[Link](https://www.jam-software.com/treesize_free/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -574,7 +574,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jam-software.com/treesize_
 
 ## MicrosoftPowerToys
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/microsoft/PowerToys/)
+[Link](https://github.com/microsoft/PowerToys/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
@@ -583,7 +583,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/microsoft/PowerToys
 
 ## MicrosoftPowerShell
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/powershell/)
+[Link](https://docs.microsoft.com/powershell/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              | Release |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
@@ -596,7 +596,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/powershell/
 
 ## MicrosoftFSLogixApps
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/fslogix/)
+[Link](https://docs.microsoft.com/fslogix/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version        | Date       | Channel    | URI                                                                                                                |
 | -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -604,7 +604,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/fslogix/)
 
 ## MicrosoftBotFrameworkEmulator
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/microsoft/BotFramework-Emulator/)
+[Link](https://github.com/microsoft/BotFramework-Emulator/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                         |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -612,7 +612,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/microsoft/BotFramew
 
 ## MicrosoftBicep
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+[Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------- |
@@ -622,7 +622,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure
 
 ## MicrosoftAzureStorageExplorer
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://azure.microsoft.com/en-au/features/storage-explorer/)
+[Link](https://azure.microsoft.com/en-au/features/storage-explorer/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------- |
@@ -630,7 +630,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://azure.microsoft.com/en-au/feat
 
 ## Microsoft365Apps
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.microsoft.com/office)
+[Link](https://www.microsoft.com/office). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
@@ -645,7 +645,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.microsoft.com/office)
 
 ## Microsoft.NET
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://dotnet.microsoft.com/download/)
+[Link](https://dotnet.microsoft.com/download/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Installer      | Channel | Type | URI                                                                                                                                                                       |
 | ------- | ------------ | -------------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -676,7 +676,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://dotnet.microsoft.com/download/
 
 ## MestrelabMnova
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://mestrelab.com/software/mnova/)
+[Link](https://mestrelab.com/software/mnova/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Revision | Architecture | URI                                                                          |
 | ------- | -------- | ------------ | ---------------------------------------------------------------------------- |
@@ -685,7 +685,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://mestrelab.com/software/mnova/)
 
 ## JASP
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://jasp-stats.org/)
+[Link](https://jasp-stats.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                 |
 | ------- | --------------------------------------------------- |
@@ -693,7 +693,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://jasp-stats.org/)
 
 ## MendeleyDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.mendeley.com/)
+[Link](https://www.mendeley.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                                              |
 | ------- | -------------------------------------------------------------------------------- |
@@ -701,7 +701,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.mendeley.com/)
 
 ## MattermostDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/mattermost/desktop)
+[Link](https://github.com/mattermost/desktop). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | Architecture | URI                                                                                  |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------ |
@@ -711,7 +711,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/mattermost/desktop)
 
 ## MasterPackager
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.masterpackager.com/)
+[Link](https://www.masterpackager.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version   | Type | URI                                                                                     |
 | --------- | ---- | --------------------------------------------------------------------------------------- |
@@ -719,7 +719,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.masterpackager.com/)
 
 ## FreedomScientificZoomText
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.freedomscientific.com/products/software/zoomtext/)
+[Link](https://www.freedomscientific.com/products/software/zoomtext/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Date       | URI                                                                                                                   |
 | ------------ | ---------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -727,7 +727,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.freedomscientific.com/prod
 
 ## KeePassXCTeamKeePassXC
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://keepassxc.org/)
+[Link](https://keepassxc.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
@@ -736,7 +736,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://keepassxc.org/)
 
 ## KeePass
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://keepass.net/)
+[Link](https://keepass.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                           |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------- |
@@ -745,7 +745,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://keepass.net/)
 
 ## KarakunOpenWebStart
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://openwebstart.com/ows/)
+[Link](https://openwebstart.com/ows/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -754,7 +754,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://openwebstart.com/ows/)
 
 ## JetBrainsPyCharm
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jetbrains.com/)
+[Link](https://www.jetbrains.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Build       | Edition              | Date       | Size      | Sha256                                                                         | URI                                                                     |
 | -------- | ----------- | -------------------- | ---------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
@@ -764,7 +764,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jetbrains.com/)
 
 ## JetBrainsIntelliJIDEA
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jetbrains.com/)
+[Link](https://www.jetbrains.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
 | -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
@@ -774,7 +774,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jetbrains.com/)
 
 ## JamTreeSizeProfessional
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jam-software.com/treesize/)
+[Link](https://www.jam-software.com/treesize/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
@@ -782,7 +782,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.jam-software.com/treesize/
 
 ## McNeelRhino
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.rhino3d.com/)
+[Link](https://www.rhino3d.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version          | Release | URI                                                                           |
 | ---------------- | ------- | ----------------------------------------------------------------------------- |
@@ -791,7 +791,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.rhino3d.com/)
 
 ## FreedomScientificJAWS
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.freedomscientific.com/products/software/jaws/)
+[Link](https://www.freedomscientific.com/products/software/jaws/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Architecture | Date       | URI                                                                                                                  |
 | ------------ | ------------ | ---------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -800,7 +800,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.freedomscientific.com/prod
 
 ## ControlUpConsole
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.controlup.com/products/controlup/management/)
+[Link](https://www.controlup.com/products/controlup/management/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version   | URI                                                             |
 | --------- | --------------------------------------------------------------- |
@@ -808,7 +808,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.controlup.com/products/con
 
 ## FreeFem
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://freefem.org/)
+[Link](https://freefem.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------- |
@@ -818,7 +818,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://freefem.org/)
 
 ## Anaconda
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.anaconda.com/)
+[Link](https://www.anaconda.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                    |
 | ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -827,7 +827,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.anaconda.com/)
 
 ## AmazonCorretto
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://aws.amazon.com/corretto/)
+[Link](https://aws.amazon.com/corretto/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Architecture | JDK | Type | URI                                                                                                |
 | ----------- | ------------ | --- | ---- | -------------------------------------------------------------------------------------------------- |
@@ -843,7 +843,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://aws.amazon.com/corretto/)
 
 ## AkeoRufus
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://rufus.ie/)
+[Link](https://rufus.ie/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------- |
@@ -854,7 +854,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://rufus.ie/)
 
 ## AdoptiumTemurin8
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
+[Link](https://adoptium.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -865,7 +865,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
 
 ## AdoptiumTemurin18
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
+[Link](https://adoptium.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version       | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                  |
 | ------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -876,7 +876,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
 
 ## AdoptiumTemurin17
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
+[Link](https://adoptium.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -887,7 +887,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
 
 ## AdoptiumTemurin16
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
+[Link](https://adoptium.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -896,7 +896,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
 
 ## AdoptiumTemurin11
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
+[Link](https://adoptium.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version        | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                    |
 | -------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -907,7 +907,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptium.net/)
 
 ## AdoptOpenJDK8
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptopenjdk.net/index.html)
+[Link](https://adoptopenjdk.net/index.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                           |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -918,7 +918,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptopenjdk.net/index.html)
 
 ## AdoptOpenJDK16
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptopenjdk.net/index.html)
+[Link](https://adoptopenjdk.net/index.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -927,7 +927,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptopenjdk.net/index.html)
 
 ## AdoptOpenJDK11
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptopenjdk.net/index.html)
+[Link](https://adoptopenjdk.net/index.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                        |
 | -------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -938,7 +938,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://adoptopenjdk.net/index.html)
 
 ## AdobeBrackets
 
-Last update: 9/6/2022 10:14:11 pm; [Link](http://brackets.io/)
+[Link](http://brackets.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
@@ -946,7 +946,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](http://brackets.io/)
 
 ## AdobeAcrobatReaderDC
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
+[Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Language              | Architecture | Name                                               | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -983,7 +983,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://acrobat.adobe.com/us/en/acroba
 
 ## AdobeAcrobatProStdDC
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
+[Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Architecture | Type     | URI                                                                                      |
 | ------------ | ------------ | -------- | ---------------------------------------------------------------------------------------- |
@@ -992,7 +992,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://helpx.adobe.com/acrobat/kb/acr
 
 ## AdobeAcrobatDC
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
+[Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Type      | Architecture | URI                                                                                                        |
 | ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1005,7 +1005,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.adobe.com/devnet-docs/acro
 
 ## AdobeAcrobat
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)
+[Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1023,7 +1023,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://helpx.adobe.com/au/enterprise/
 
 ## 7zip
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.7-zip.org/)
+[Link](https://www.7-zip.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
@@ -1036,7 +1036,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.7-zip.org/)
 
 ## Anki
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/ankitects/anki/)
+[Link](https://github.com/ankitects/anki/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------- |
@@ -1045,7 +1045,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/ankitects/anki/)
 
 ## ArtifexGhostscript
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.ghostscript.com/)
+[Link](https://www.ghostscript.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------- |
@@ -1054,7 +1054,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.ghostscript.com/)
 
 ## AtlassianSourcetree
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.sourcetreeapp.com/)
+[Link](https://www.sourcetreeapp.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | URI                                                                                                        |
 | ------- | ---- | ---------------------------------------------------------------------------------------------------------- |
@@ -1063,7 +1063,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.sourcetreeapp.com/)
 
 ## Audacity
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.audacityteam.org/)
+[Link](https://www.audacityteam.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |
@@ -1072,7 +1072,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.audacityteam.org/)
 
 ## FoxitReader
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.foxitsoftware.com/pdf-reader/)
+[Link](https://www.foxitsoftware.com/pdf-reader/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Date       | Language           | URI                                                                                                 |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -1092,7 +1092,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.foxitsoftware.com/pdf-read
 
 ## FoxitPDFEditor
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.foxit.com/pdf-editor/)
+[Link](https://www.foxit.com/pdf-editor/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Date       | Language           | URI                                                                                                             |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -1113,7 +1113,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.foxit.com/pdf-editor/)
 
 ## Fork
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.fork.dev)
+[Link](https://www.fork.dev). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                           |
 | ------- | --------------------------------------------- |
@@ -1121,7 +1121,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.fork.dev)
 
 ## FileZilla
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://filezilla-project.org/)
+[Link](https://filezilla-project.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -1129,7 +1129,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://filezilla-project.org/)
 
 ## DockerDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.docker.com/products/docker-desktop/)
+[Link](https://www.docker.com/products/docker-desktop/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version         | Build           | Size | Type | URI                                                               |
 | --------------- | --------------- | ---- | ---- | ----------------------------------------------------------------- |
@@ -1137,7 +1137,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.docker.com/products/docker
 
 ## DevToys
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://devtoys.app/)
+[Link](https://devtoys.app/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type       | Date       | Size      | URI                                                                                                                               |
 | ------- | -------- | ------------ | ---------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1145,7 +1145,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://devtoys.app/)
 
 ## DebaucheeBarrier
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/debauchee/barrier)
+[Link](https://github.com/debauchee/barrier). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -1153,7 +1153,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/debauchee/barrier)
 
 ## Cyberduck
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://cyberduck.io/)
+[Link](https://cyberduck.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |
@@ -1161,7 +1161,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://cyberduck.io/)
 
 ## FreedomScientificFusion
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.freedomscientific.com/products/software/fusion/)
+[Link](https://www.freedomscientific.com/products/software/fusion/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Date       | URI                                                                                                              |
 | ----------- | ---------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -1169,7 +1169,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.freedomscientific.com/prod
 
 ## ControlUpAgent
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.controlup.com/products/controlup/agent/)
+[Link](https://www.controlup.com/products/controlup/agent/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version   | Framework    | Architecture | URI                                                                                           |
 | --------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
@@ -1178,7 +1178,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.controlup.com/products/con
 
 ## CitrixWorkspaceApp
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.citrix.com/downloads/workspace-app/)
+[Link](https://www.citrix.com/downloads/workspace-app/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version    | Title                                  | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                  |
 | ---------- | -------------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
@@ -1189,7 +1189,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.citrix.com/downloads/works
 
 ## CitrixVMTools
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.citrix.com/downloads/citrix-hypervisor/)
+[Link](https://www.citrix.com/downloads/citrix-hypervisor/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version    | Architecture | Size    | Checksum                                                         | URI                                                                     |
 | ---------- | ------------ | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -1200,7 +1200,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.citrix.com/downloads/citri
 
 ## CendioThinLinc
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.cendio.com/)
+[Link](https://www.cendio.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -1208,7 +1208,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.cendio.com/)
 
 ## BlueJ
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.bluej.org/)
+[Link](https://www.bluej.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                        |
 | ------- | ---------------------------------------------------------- |
@@ -1216,7 +1216,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.bluej.org/)
 
 ## BlenderLauncher
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://dotbow.github.io/Blender-Launcher/)
+[Link](https://dotbow.github.io/Blender-Launcher/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -1225,7 +1225,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://dotbow.github.io/Blender-Launc
 
 ## BitwardenDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://bitwarden.com/)
+[Link](https://bitwarden.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Platform | Architecture | Type | Date       | Size      | URI                                                                                               |
 | -------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------- |
@@ -1234,7 +1234,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://bitwarden.com/)
 
 ## BeekeeperStudio
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.beekeeperstudio.io/)
+[Link](https://www.beekeeperstudio.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -1243,7 +1243,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.beekeeperstudio.io/)
 
 ## BISF
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://eucweb.com/)
+[Link](https://eucweb.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                       |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------- |
@@ -1251,7 +1251,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://eucweb.com/)
 
 ## MicrosoftVisualStudio
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://visualstudio.microsoft.com/)
+[Link](https://visualstudio.microsoft.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version         | Sha256                                                           | Size    | URI                                                                                                                                                                        |
 | --------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1259,7 +1259,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://visualstudio.microsoft.com/)
 
 ## MicrosoftWindowsPackageManagerClient
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/windows/package-manager/)
+[Link](https://docs.microsoft.com/en-us/windows/package-manager/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version   | Platform | Architecture | Type       | Date       | Size     | URI                                                                                                                         |
 | --------- | -------- | ------------ | ---------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -1267,7 +1267,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/windo
 
 ## Obsidian
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://obsidian.md/)
+[Link](https://obsidian.md/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------- |
@@ -1277,7 +1277,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://obsidian.md/)
 
 ## MicrosoftWvdInfraAgent
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version       | Architecture | Date            | Size            | Filename                                                  | URI                                                              |
 | ------------- | ------------ | --------------- | --------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -1285,7 +1285,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure
 
 ## VMwareOSOptimizationTool
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
+[Link](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                                                                     | URI                                                                                                                   |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -1294,7 +1294,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://techzone.vmware.com/resource/w
 
 ## VMwareHorizonClientAlt
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
+[Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                             | URI                                                                                                    |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -1302,7 +1302,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.vmware.com/en/VMware-Hori
 
 ## VMwareHorizonClient
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
+[Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version        | URI                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -1310,7 +1310,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.vmware.com/en/VMware-Hori
 
 ## USBPcap
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/desowin/usbpcap/)
+[Link](https://github.com/desowin/usbpcap/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size   | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | ------ | ------------------------------------------------------------------------------------- |
@@ -1318,7 +1318,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/desowin/usbpcap/)
 
 ## Tower
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.git-tower.com/windows/)
+[Link](https://www.git-tower.com/windows/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
@@ -1329,7 +1329,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.git-tower.com/windows/)
 
 ## TorProjectTorBrowser
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.torproject.org/)
+[Link](https://www.torproject.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | Language | URI                                                                                       |
 | ------- | ------------ | ---- | -------- | ----------------------------------------------------------------------------------------- |
@@ -1408,7 +1408,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.torproject.org/)
 
 ## TogglDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.toggl.com/)
+[Link](https://www.toggl.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -1417,7 +1417,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.toggl.com/)
 
 ## Terminals
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/terminals-Origin/Terminals/)
+[Link](https://github.com/terminals-Origin/Terminals/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
@@ -1425,7 +1425,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/terminals-Origin/Te
 
 ## TeamViewer
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.teamviewer.com/)
+[Link](https://www.teamviewer.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
@@ -1433,7 +1433,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.teamviewer.com/)
 
 ## TeXstudio
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.texstudio.org/)
+[Link](https://www.texstudio.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
@@ -1442,7 +1442,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.texstudio.org/)
 
 ## TableauReader
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.tableau.com/)
+[Link](https://www.tableau.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | URI                                                                       |
 | -------- | ------------------------------------------------------------------------- |
@@ -1450,7 +1450,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.tableau.com/)
 
 ## TableauPrep
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.tableau.com/)
+[Link](https://www.tableau.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | URI                                                               |
 | -------- | ----------------------------------------------------------------- |
@@ -1458,7 +1458,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.tableau.com/)
 
 ## TableauDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.tableau.com/)
+[Link](https://www.tableau.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | URI                                                                        |
 | -------- | -------------------------------------------------------------------------- |
@@ -1466,7 +1466,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.tableau.com/)
 
 ## StefansToolsgregpWin
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://tools.stefankueng.com/grepWin.html)
+[Link](https://tools.stefankueng.com/grepWin.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------- |
@@ -1475,7 +1475,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://tools.stefankueng.com/grepWin.
 
 ## SmartBearSoapUI
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.soapui.org/)
+[Link](https://www.soapui.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                       |
 | ------- | --------------------------------------------------------- |
@@ -1483,7 +1483,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.soapui.org/)
 
 ## Slack
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
+[Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform   | Architecture | URI                                                                                              |
 | ------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------ |
@@ -1493,7 +1493,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://slack.com/intl/en-au/help/arti
 
 ## SignalDesktop
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.signal.org/)
+[Link](https://www.signal.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
@@ -1501,7 +1501,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.signal.org/)
 
 ## VMwareWorkstationPlayer
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.vmware.com/products/workstation-player.html)
+[Link](https://www.vmware.com/products/workstation-player.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                      |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ---------------------------------------------------------------------------------------- |
@@ -1509,7 +1509,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.vmware.com/products/workst
 
 ## ShareX
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://getsharex.com/)
+[Link](https://getsharex.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------- |
@@ -1518,7 +1518,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://getsharex.com/)
 
 ## VMwareWorkstationPro
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.vmware.com/products/workstation-pro.html)
+[Link](https://www.vmware.com/products/workstation-pro.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                         |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------------------------- |
@@ -1526,7 +1526,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.vmware.com/products/workst
 
 ## VeraCrypt
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.veracrypt.fr/en/Home.html)
+[Link](https://www.veracrypt.fr/en/Home.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                                            |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------- |
@@ -1536,7 +1536,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.veracrypt.fr/en/Home.html)
 
 ## voidtoolsEverything
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.voidtools.com/)
+[Link](https://www.voidtools.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version    | Architecture | URI                                          |
 | ---------- | ------------ | -------------------------------------------- |
@@ -1545,7 +1545,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.voidtools.com/)
 
 ## mRemoteNG
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://mremoteng.org/)
+[Link](https://mremoteng.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
@@ -1553,7 +1553,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://mremoteng.org/)
 
 ## jq
 
-Last update: 9/6/2022 10:14:11 pm; [Link](http://stedolan.github.io/jq/)
+[Link](http://stedolan.github.io/jq/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                  |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------- |
@@ -1562,7 +1562,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](http://stedolan.github.io/jq/)
 
 ## gretl
 
-Last update: 9/6/2022 10:14:11 pm; [Link](http://gretl.sourceforge.net/)
+[Link](http://gretl.sourceforge.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                          |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------- |
@@ -1571,7 +1571,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](http://gretl.sourceforge.net/)
 
 ## dnGrep
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://dngrep.github.io/)
+[Link](https://dngrep.github.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------- |
@@ -1580,7 +1580,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://dngrep.github.io/)
 
 ## diagrams.net
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.diagrams.net/)
+[Link](https://www.diagrams.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -1592,7 +1592,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.diagrams.net/)
 
 ## deviceTRUST
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://devicetrust.com/)
+[Link](https://devicetrust.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                       |
 | ---------- | -------- | ------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -1621,7 +1621,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://devicetrust.com/)
 
 ## dbeaver
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/dbeaver/dbeaver)
+[Link](https://github.com/dbeaver/dbeaver). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
@@ -1629,7 +1629,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/dbeaver/dbeaver)
 
 ## Zotero
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.zotero.org/)
+[Link](https://www.zotero.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                                     |
 | ------- | ----------------------------------------------------------------------- |
@@ -1637,7 +1637,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.zotero.org/)
 
 ## Zoom
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://zoom.us/)
+[Link](https://zoom.us/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Platform | Type    | URI                                                                |
 | ----------- | -------- | ------- | ------------------------------------------------------------------ |
@@ -1653,7 +1653,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://zoom.us/)
 
 ## WixToolset
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://wixtoolset.org/)
+[Link](https://wixtoolset.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                        |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------- |
@@ -1661,7 +1661,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://wixtoolset.org/)
 
 ## Wireshark
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.wireshark.org/#download)
+[Link](https://www.wireshark.org/#download). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                           |
 | ------- | ------------ | ---- | ------------------------------------------------------------- |
@@ -1672,7 +1672,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.wireshark.org/#download)
 
 ## WinSCP
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://winscp.net/)
+[Link](https://winscp.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                  |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
@@ -1680,7 +1680,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://winscp.net/)
 
 ## WinMerge
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://winmerge.org/)
+[Link](https://winmerge.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                                    |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
@@ -1691,7 +1691,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://winmerge.org/)
 
 ## Win32OpenSSH
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/PowerShell/Win32-OpenSSH/)
+[Link](https://github.com/PowerShell/Win32-OpenSSH/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
@@ -1700,7 +1700,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/PowerShell/Win32-Op
 
 ## VisualCppRedistAIO
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/abbodi1406/vcredist)
+[Link](https://github.com/abbodi1406/vcredist). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -1708,7 +1708,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/abbodi1406/vcredist
 
 ## VercelHyper
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://hyper.js/)
+[Link](https://hyper.js/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------ |
@@ -1716,7 +1716,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://hyper.js/)
 
 ## VastLimitsUberAgent
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://uberagent.com/)
+[Link](https://uberagent.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -1724,7 +1724,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://uberagent.com/)
 
 ## ScreenToGif
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/NickeManarin/ScreenToGif)
+[Link](https://github.com/NickeManarin/ScreenToGif). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |
@@ -1746,7 +1746,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/NickeManarin/Screen
 
 ## Scratch
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://scratch.mit.edu/)
+[Link](https://scratch.mit.edu/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                                    |
 | ------- | ---------------------------------------------------------------------- |
@@ -1754,7 +1754,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://scratch.mit.edu/)
 
 ## ScooterBeyondCompare
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://scootersoftware.com/)
+[Link](https://scootersoftware.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Language | URI                                                      |
 | ----------- | -------- | -------------------------------------------------------- |
@@ -1762,7 +1762,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://scootersoftware.com/)
 
 ## OctopusTentacle
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://octopus.com/)
+[Link](https://octopus.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Architecture | URI                                                                          |
 | -------- | ------------ | ---------------------------------------------------------------------------- |
@@ -1771,7 +1771,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://octopus.com/)
 
 ## OctopusDeployServer
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://octopus.com/)
+[Link](https://octopus.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
@@ -1779,7 +1779,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://octopus.com/)
 
 ## 7ZipZS
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://mcmilk.de/projects/7-Zip-zstd/)
+[Link](https://mcmilk.de/projects/7-Zip-zstd/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
@@ -1790,7 +1790,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://mcmilk.de/projects/7-Zip-zstd/
 
 ## OBSStudio
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://obsproject.com/)
+[Link](https://obsproject.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | URI                                                                                  |
 | ------- | ------------ | ------------------------------------------------------------------------------------ |
@@ -1799,7 +1799,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://obsproject.com/)
 
 ## NotepadPlusPlus
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://notepad-plus-plus.org/)
+[Link](https://notepad-plus-plus.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1818,7 +1818,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://notepad-plus-plus.org/)
 
 ## Notable
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://notable.app/)
+[Link](https://notable.app/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------- |
@@ -1826,7 +1826,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://notable.app/)
 
 ## Nomacs
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://nomacs.org/)
+[Link](https://nomacs.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                              |
 | -------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------- |
@@ -1835,7 +1835,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://nomacs.org/)
 
 ## NevcairielLAVFilters
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/Nevcairiel/LAVFilters)
+[Link](https://github.com/Nevcairiel/LAVFilters). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
@@ -1843,7 +1843,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/Nevcairiel/LAVFilte
 
 ## Naps2
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.naps2.com/)
+[Link](https://www.naps2.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------- |
@@ -1852,7 +1852,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.naps2.com/)
 
 ## NETworkManager
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/BornToBeRoot/NETworkManager)
+[Link](https://github.com/BornToBeRoot/NETworkManager). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ----------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -1860,7 +1860,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://github.com/BornToBeRoot/NETwor
 
 ## MuseScore
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://musescore.org/)
+[Link](https://musescore.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
@@ -1869,7 +1869,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://musescore.org/)
 
 ## MozillaThunderbird
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.mozilla.org/)
+[Link](https://www.mozilla.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Channel                    | Language | Type | Filename                      | URI                                                                                                                       |
 | ------- | ------------ | -------------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -1940,7 +1940,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.mozilla.org/)
 
 ## Minitab
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.minitab.com/)
+[Link](https://www.minitab.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version     | Architecture | Release | URI                                                                                                                      |
 | ----------- | ------------ | ------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -1949,7 +1949,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.minitab.com/)
 
 ## Miniconda
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.conda.io/en/latest/miniconda.html)
+[Link](https://docs.conda.io/en/latest/miniconda.html). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                           |
 | ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -1962,7 +1962,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.conda.io/en/latest/minico
 
 ## MiniZincIDE
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.minizinc.org/)
+[Link](https://www.minizinc.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |
@@ -1970,7 +1970,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.minizinc.org/)
 
 ## MicrosoftWvdRtcService
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd)
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version        | Architecture | Date                          | Size    | Filename                                        | URI                               |
 | -------------- | ------------ | ----------------------------- | ------- | ----------------------------------------------- | --------------------------------- |
@@ -1978,7 +1978,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure
 
 ## MicrosoftWvdMultimediaRedirection
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version        | Architecture | Date                          | Size   | Filename                                  | URI                                                              |
 | -------------- | ------------ | ----------------------------- | ------ | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -1986,7 +1986,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure
 
 ## OpenJDK
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://openjdk.java.net/)
+[Link](https://openjdk.java.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version             | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                          |
 | ------------------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2015,7 +2015,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://openjdk.java.net/)
 
 ## OpenShellMenu
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://open-shell.github.io/Open-Shell-Menu/)
+[Link](https://open-shell.github.io/Open-Shell-Menu/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------- |
@@ -2023,7 +2023,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://open-shell.github.io/Open-Shel
 
 ## OpenWebStart
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://openwebstart.com/)
+[Link](https://openwebstart.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -2032,7 +2032,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://openwebstart.com/)
 
 ## OperaBrowser
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.opera.com/browsers/opera)
+[Link](https://www.opera.com/browsers/opera). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version      | Architecture | Type | URI                                                                                           |
 | ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
@@ -2041,7 +2041,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.opera.com/browsers/opera)
 
 ## SafeExamBrowser
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://safeexambrowser.org/)
+[Link](https://safeexambrowser.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
@@ -2051,7 +2051,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://safeexambrowser.org/)
 
 ## SAGAGIS
 
-Last update: 9/6/2022 10:14:11 pm; [Link](http://www.saga-gis.org/)
+[Link](http://www.saga-gis.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                                       |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
@@ -2060,7 +2060,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](http://www.saga-gis.org/)
 
 ## RingCentral
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.ringcentral.com)
+[Link](https://www.ringcentral.com). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
@@ -2072,7 +2072,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.ringcentral.com)
 
 ## RDAnalyzer
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://rdanalyzer.com/)
+[Link](https://rdanalyzer.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version    | Platform | Architecture | Type | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -2080,7 +2080,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://rdanalyzer.com/)
 
 ## RCoreTeamRforWindows
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://cran.r-project.org/bin/windows/base/)
+[Link](https://cran.r-project.org/bin/windows/base/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                         |
 | ------- | ----------------------------------------------------------- |
@@ -2088,7 +2088,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://cran.r-project.org/bin/windows
 
 ## PuTTY
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+[Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                             |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------- |
@@ -2098,7 +2098,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.chiark.greenend.org.uk/~sg
 
 ## Protege
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://protege.stanford.edu/)
+[Link](https://protege.stanford.edu/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
@@ -2106,7 +2106,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://protege.stanford.edu/)
 
 ## ProjectLibre
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.projectlibre.com/)
+[Link](https://www.projectlibre.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                            |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |
@@ -2114,7 +2114,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.projectlibre.com/)
 
 ## MicrosoftWvdBootloader
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Date                          | Size    | Filename                                              | URI                                                              |
 | ------- | ------------ | ----------------------------- | ------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
@@ -2122,7 +2122,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://docs.microsoft.com/en-us/azure
 
 ## Praat
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.fon.hum.uva.nl/praat/)
+[Link](https://www.fon.hum.uva.nl/praat/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------- |
@@ -2131,7 +2131,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.fon.hum.uva.nl/praat/)
 
 ## PeaZipPeaZip
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://peazip.github.io/)
+[Link](https://peazip.github.io/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------- |
@@ -2141,7 +2141,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://peazip.github.io/)
 
 ## Pandoc
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://pandoc.org/)
+[Link](https://pandoc.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------- |
@@ -2149,7 +2149,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://pandoc.org/)
 
 ## PaintDotNetOfflineInstaller
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://getpaint.net/)
+[Link](https://getpaint.net/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -2162,7 +2162,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://getpaint.net/)
 
 ## PSFPython
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.python.org/)
+[Link](https://www.python.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                              |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ---------------------------------------------------------------- |
@@ -2173,7 +2173,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.python.org/)
 
 ## PSAppDeployToolkit
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://psappdeploytoolkit.com/)
+[Link](https://psappdeploytoolkit.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
@@ -2181,7 +2181,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://psappdeploytoolkit.com/)
 
 ## PDFForgePDFCreator
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.pdfforge.org/pdfcreator)
+[Link](https://www.pdfforge.org/pdfcreator). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Architecture | Type | URI                                                                                                                |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------ |
@@ -2189,7 +2189,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.pdfforge.org/pdfcreator)
 
 ## OracleVirtualBox
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.virtualbox.org/)
+[Link](https://www.virtualbox.org/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Type | URI                                                                                 |
 | ------- | ---- | ----------------------------------------------------------------------------------- |
@@ -2199,7 +2199,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.virtualbox.org/)
 
 ## OracleJava8
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.java.com)
+[Link](https://www.java.com). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version       | Architecture | URI                                                                                                                                       |
 | ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2208,7 +2208,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.java.com)
 
 ## Postman
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://www.getpostman.com/)
+[Link](https://www.getpostman.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
@@ -2217,7 +2217,7 @@ Last update: 9/6/2022 10:14:11 pm; [Link](https://www.getpostman.com/)
 
 ## 1Password7
 
-Last update: 9/6/2022 10:14:11 pm; [Link](https://1password.com/)
+[Link](https://1password.com/). **Last update**: 9/6/2022 10:14:11 pm (UTC)
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |
