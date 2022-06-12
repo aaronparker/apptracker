@@ -129,7 +129,7 @@ jobs:
 
         - name: List Evergreen
           id: list-module
-          shell: powershell
+          shell: pwsh
           run: |
             Update-Module -Name "Evergreen" -Force
             $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
