@@ -124,7 +124,7 @@ extra:
 # Page tree
 nav:
   - Updates by name: index.md
-#  - Updates by date: date.md
+  - Updates by date: date.md
   - Supported apps: apps.md
   - About: about.md
   - Evergreen: https://stealthpuppy.com/evergreen
