@@ -1,2 +1,0 @@
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
