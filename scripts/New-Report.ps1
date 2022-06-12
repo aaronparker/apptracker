@@ -67,7 +67,7 @@ foreach ($File in $LastUpdates) {
         $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
         $Markdown += "`n"
         $Markdown += "**Last update**: $($File.LastWriteTime) (UTC)"
-        $Markdown += "`n"
+        $Markdown += "`n`n"
     }
 
     $Table = Get-Content -Path $(Join-Path -Path $Path -ChildPath $File.Name) | ConvertFrom-Json | New-MDTable
