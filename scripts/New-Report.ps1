@@ -66,7 +66,7 @@ foreach ($File in $LastUpdates) {
     if ($Null -ne $Link) {
         $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
         $Markdown += "`n`n"
-        $Markdown += "**Last update**: $($File.LastWriteTime) (UTC)"
+        $Markdown += "**Last update**: $($File.LastWriteTime) $((Get-TimeZone).Id)"
         $Markdown += "`n`n"
     }
 
@@ -89,7 +89,7 @@ hide:
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Updates are posted every 4 hours. Last update: **#DATE** (UTC)
+Updates are posted every 4 hours. Last update: **#DATE** $((Get-TimeZone).Id)
 
 A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
 "@
