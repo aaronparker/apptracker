@@ -334,10 +334,12 @@ jobs:
 
         - name: List Evergreen
           id: list-module
-          shell: pwsh
+          shell: powershell
           run: |
             Update-Module -Name "Evergreen" -Force
-            Get-Module -Name "Evergreen" -ListAvailable
+            $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+            #echo "::set-output name=version::$Version"
+            Write-Host "Evergreen version: $Version"
 
         - name: Generate report
           shell: pwsh
