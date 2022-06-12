@@ -61,14 +61,14 @@ foreach ($File in $LastUpdates) {
     $Markdown += New-MDHeader -Text $($File.Name -replace ".json", "") -Level 2
     $Markdown += "`n"
 
-    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.Name } | `
+    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $($File.Name -replace ".json", "") } | `
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
     If ($Null -ne $Link) {
         $Markdown += "Last update: $($File.LastWriteTime); $(New-MDLink -Text "Link" -Link $Link)"
         $Markdown += "`n`n"
     }
 
-    $Table = Get-Content -Path $(Join-Path -Path $Path -ChildItem $File.Name ) | ConvertFrom-Json | New-MDTable
+    $Table = Get-Content -Path $(Join-Path -Path $Path -ChildPath $File.Name) | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
     $Markdown += "`n"
 }

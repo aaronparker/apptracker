@@ -32,19 +32,22 @@ Function Test-PSCore {
 }
 #endregion
 
+# Apps that should be skipped in this run
+$SkipApps = @("MozillaFirefox")
+
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
 if (Test-PSCore) {
 
     # Remove extra files
     $Files = Get-ChildItem -Path $Path -Filter "*.json" | Select-Object -ExpandProperty "Basename"
-    $Apps = Find-EvergreenApp | Where-Object { $_.Name -notin @("MozillaFirefox") } | Select-Object -ExpandProperty "Name"
+    $Apps = Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Select-Object -ExpandProperty "Name"
     Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
         Select-Object -ExpandProperty "InputObject" | `
         ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue" }
 
     # Walk-through each Evergreen app and export data to JSON files
-    foreach ($App in (Find-EvergreenApp | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
+    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
         $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
         if ($Null -eq $Output) {
             Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
@@ -82,7 +85,7 @@ else {
     }
 
     # Find output that doesn't exist for an application in Evergreen
-    foreach ($App in (Find-EvergreenApp | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
+    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
         if (-not (Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.json")) -ErrorAction "SilentlyContinue")) {
 
             $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"

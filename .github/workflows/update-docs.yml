@@ -50,11 +50,12 @@ jobs:
           shell: pwsh
           run: |
             $params = @{
-              Path         = "${{ github.workspace }}/json/*.json"
-              UpdatesAlpha = "${{ github.workspace }}/docs/index.md"
-              UpdatesDate  = "${{ github.workspace }}/docs/date.md"
-              AppsFile     = "${{ github.workspace }}/docs/apps.md"
-              AboutFile    = "${{ github.workspace }}/docs/about.md"
+              Path           = "${{ github.workspace }}/json"
+              UpdatesAlpha   = "${{ github.workspace }}/docs/index.md"
+              UpdatesDate    = "${{ github.workspace }}/docs/date.md"
+              AppsFile       = "${{ github.workspace }}/docs/apps.md"
+              AboutFile      = "${{ github.workspace }}/docs/about.md"
+              LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
             }
             . "${{ github.workspace }}/scripts/New-Report.ps1" @params
 
