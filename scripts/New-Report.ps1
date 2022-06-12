@@ -65,7 +65,7 @@ foreach ($File in $LastUpdates) {
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
     if ($Null -ne $Link) {
         $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
-        $Markdown += "`n"
+        $Markdown += "`n`n"
         $Markdown += "**Last update**: $($File.LastWriteTime) (UTC)"
         $Markdown += "`n`n"
     }
