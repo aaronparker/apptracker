@@ -18,6 +18,7 @@
         "centos",
         "cloudflarekv",
         "cmdlets",
+        "Codelerity",
         "codeql",
         "Corretto",
         "currentversion",
@@ -26,6 +27,7 @@
         "dbeaver",
         "DONOTCREATEDESKTOPSHORTCUT",
         "DWORD",
+        "Egnyte",
         "Elex",
         "evergreenbulb",
         "fontawesome",
@@ -38,6 +40,7 @@
         "GPGPASSPHRASE",
         "gpgsign",
         "Greenshot",
+        "gretl",
         "Hashicorp",
         "iainbrighton",
         "inlinehilite",
@@ -96,6 +99,7 @@
         "windowsdesktop",
         "Winget",
         "Wireshark",
-        "xcopy"
+        "xcopy",
+        "Zotero"
     ]
 }

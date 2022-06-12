@@ -17,7 +17,10 @@ param(
     [System.String] $AppsFile,
 
     [ValidateNotNullOrEmpty()]
-    [System.String] $AboutFile
+    [System.String] $AboutFile,
+
+    [ValidateNotNullOrEmpty()]
+    [System.String] $LastUpdateFile = "./json/_lastupdate.txt"
 )
 
 # Install modules
@@ -27,7 +30,7 @@ Import-Module -Name "MarkdownPS" -Force
 #region Update the list of supported apps in index.md, sorted alphabetically
 $Markdown = New-MDHeader -Text "Updates by name" -Level 1
 $Markdown += "`n"
-foreach ($File in (Get-ChildItem -Path $Path)) {
+foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.json"))) {
     $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
     $Markdown += "`n"
 
@@ -47,24 +50,29 @@ $Markdown | Out-File -FilePath $UpdatesAlpha -Force -Encoding "Utf8" -NoNewline
 
 
 #region Update the list of supported apps in date.md, sorted alphabetically
-# $Markdown = New-MDHeader -Text "Updates by date" -Level 1
-# $Markdown += "`n"
-# foreach ($File in (Get-ChildItem -Path $Path | Sort-Object -Property "LastWriteTime" -Descending)) {
-#     $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
-#     $Markdown += "`n"
+# Read the file that lists last date applications were updates
+if (Test-Path -Path $LastUpdateFile) {
+    $LastUpdates = Get-Content -Path $LastUpdateFile | ConvertFrom-Csv
+}
 
-#     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
-#         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-#     If ($Null -ne $Link) {
-#         $Markdown += New-MDLink -Text "Link" -Link $Link
-#         $Markdown += "`n`n"
-#     }
+$Markdown = New-MDHeader -Text "Updates by date" -Level 1
+$Markdown += "`n"
+foreach ($File in $LastUpdates) {
+    $Markdown += New-MDHeader -Text $($File.Name -replace ".json", "") -Level 2
+    $Markdown += "`n"
 
-#     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
-#     $Markdown += $Table
-#     $Markdown += "`n"
-# }
-# $Markdown | Out-File -FilePath $UpdatesDate -Force -Encoding "Utf8" -NoNewline
+    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.Name } | `
+        Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
+    If ($Null -ne $Link) {
+        $Markdown += "Last update: $($File.LastWriteTime); $(New-MDLink -Text "Link" -Link $Link)"
+        $Markdown += "`n`n"
+    }
+
+    $Table = Get-Content -Path $(Join-Path -Path $Path -ChildItem $File.Name ) | ConvertFrom-Json | New-MDTable
+    $Markdown += $Table
+    $Markdown += "`n"
+}
+$Markdown | Out-File -FilePath $UpdatesDate -Force -Encoding "Utf8" -NoNewline
 #endregion
 
 
