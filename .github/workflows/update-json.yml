@@ -4,7 +4,7 @@ name: update-json
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   workflow_dispatch:
   # push:
@@ -12,7 +12,7 @@ on:
   #   paths:
   #     - 'scripts/Update-Json.ps1'
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: "0 */4 * * *"
 
 jobs:
   update-pwsh:
@@ -76,12 +76,22 @@ jobs:
               $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
           }
 
+      - name: Save last update list
+        shell: pwsh
+        working-directory: ${{ github.workspace }}
+        run: |
+          $params = @{
+              UpdateFile      = "${{ github.workspace }}/json/_update-pwsh.txt"
+              $LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
+          }
+          . "${{ github.workspace }}/Save-LastUpdate.ps1" @params
+
       # Format the date number for the commit message
       - name: Get date
         id: get-date
         run: |
-            DATEF=`date +%Y.%m.%d`
-            echo "::set-output name=date::$DATEF"
+          DATEF=`date +%Y.%m.%d`
+          echo "::set-output name=date::$DATEF"
 
       - name: Commit changes
         id: commit
@@ -100,98 +110,108 @@ jobs:
         run: echo "No changes detected."
 
   update-powershell:
-      needs: update-pwsh
-      runs-on: windows-latest
+    needs: update-pwsh
+    runs-on: windows-latest
 
-      steps:
-        - uses: actions/checkout@v3
-          with:
-            ref: main
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
 
-        # Run Pester tests
-        - name: Git pull
+      # Run Pester tests
+      - name: Git pull
+        shell: powershell
+        run: |
+          git config --global core.safecrlf false
+          git pull origin main
+
+      - name: Install and cache PowerShell modules
+        id: psmodulecache
+        uses: potatoqualitee/psmodulecache@v4.5
+        with:
+          modules-to-cache: Evergreen
+          force: true
           shell: powershell
-          run: |
-            git config --global core.safecrlf false
-            git pull origin main
 
-        - name: Install and cache PowerShell modules
-          id: psmodulecache
-          uses: potatoqualitee/psmodulecache@v4.5
-          with:
-            modules-to-cache: Evergreen
-            force: true
-            shell: powershell
+      - name: List Evergreen
+        id: list-module
+        shell: powershell
+        run: |
+          Update-Module -Name "Evergreen" -Force
+          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+          #echo "::set-output name=version::$Version"
+          Write-Host "Evergreen version: $Version"
 
-        - name: List Evergreen
-          id: list-module
-          shell: powershell
-          run: |
-            Update-Module -Name "Evergreen" -Force
-            $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-            #echo "::set-output name=version::$Version"
-            Write-Host "Evergreen version: $Version"
+      # Import GPG key
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPGKEY }}
+          passphrase: ${{ secrets.GPGPASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          git_tag_gpgsign: true
+          git_push_gpgsign: false
+          git_committer_name: ${{ secrets.COMMIT_NAME }}
+          git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
-        # Import GPG key
-        - name: Import GPG key
-          id: import_gpg
-          uses: crazy-max/ghaction-import-gpg@v5
-          with:
-            gpg_private_key: ${{ secrets.GPGKEY }}
-            passphrase: ${{ secrets.GPGPASSPHRASE }}
-            git_user_signingkey: true
-            git_commit_gpgsign: true
-            git_config_global: true
-            git_tag_gpgsign: true
-            git_push_gpgsign: false
-            git_committer_name: ${{ secrets.COMMIT_NAME }}
-            git_committer_email: ${{ secrets.COMMIT_EMAIL }}
+      # Run Pester tests
+      - name: Update Json
+        shell: powershell
+        working-directory: ${{ github.workspace }}
+        run: |
+          . "${{ github.workspace }}\scripts\Update-Json.ps1" -Path "${{ github.workspace }}\json"
 
-        # Run Pester tests
-        - name: Update Json
-          shell: powershell
-          working-directory: ${{ github.workspace }}
-          run: |
-            . "${{ github.workspace }}\scripts\Update-Json.ps1" -Path "${{ github.workspace }}\json"
+      - name: Save updated files list
+        shell: powershell
+        working-directory: ${{ github.workspace }}
+        run: |
+          $UpdateFile = "${{ github.workspace }}\json\_update-powershell.txt"
+          if (Test-Path -Path $UpdateFile) {
+            $Updates = Get-Content -Path $UpdateFile
+          }
+          $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
+          if ($Null -ne $files) {
+            $Updates += $files
+            $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
+          }
 
-        - name: Save updated files list
-          shell: powershell
-          working-directory: ${{ github.workspace }}
-          run: |
-            $UpdateFile = "${{ github.workspace }}\json\_update-powershell.txt"
-            if (Test-Path -Path $UpdateFile) {
-              $Updates = Get-Content -Path $UpdateFile
-            }
-            $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-            if ($Null -ne $files) {
-              $Updates += $files
-              $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
-            }
+      - name: Save last update list
+        shell: powershell
+        working-directory: ${{ github.workspace }}
+        run: |
+          $params = @{
+              UpdateFile      = "${{ github.workspace }}\json\_update-powershell.txt"
+              $LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
+          }
+          . "${{ github.workspace }}\Save-LastUpdate.ps1" @params
 
-        # Format the date number for the commit message
-        - name: Get date
-          id: get-date
-          run: |
-            echo "::set-output name=date::$(Get-Date -Format "yyyy.MM.dd")"
+      # Format the date number for the commit message
+      - name: Get date
+        id: get-date
+        run: |
+          echo "::set-output name=date::$(Get-Date -Format "yyyy.MM.dd")"
 
-        - name: Commit changes
-          id: commit
-          uses: stefanzweifel/git-auto-commit-action@v4
-          with:
-            commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
-            commit_user_name: ${{ secrets.COMMIT_NAME }}
-            commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+      - name: Commit changes
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
+          commit_user_name: ${{ secrets.COMMIT_NAME }}
+          commit_user_email: ${{ secrets.COMMIT_EMAIL }}
 
-        - name: "Run if changes have been detected"
-          if: steps.commit.outputs.changes_detected == 'true'
-          run: echo "Changes committed."
+      - name: "Run if changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'true'
+        run: echo "Changes committed."
 
-        - name: "Run if no changes have been detected"
-          if: steps.commit.outputs.changes_detected == 'false'
-          run: echo "No changes detected."
+      - name: "Run if no changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'false'
+        run: echo "No changes detected."
 
   update-kv:
-    needs: [ update-pwsh, update-powershell ]
+    needs: [update-pwsh, update-powershell]
     runs-on: ubuntu-latest
     name: update-cloudflarekv
 
@@ -313,84 +333,84 @@ jobs:
         run: echo "No changes detected."
 
   update-docs:
-      needs: [ update-pwsh, update-powershell, update-kv ]
-      runs-on: ubuntu-latest
+    needs: [update-pwsh, update-powershell, update-kv]
+    runs-on: ubuntu-latest
 
-      steps:
-        - uses: actions/checkout@v3
-          with:
-            ref: main
-            token: ${{ secrets.PAT }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ secrets.PAT }}
 
-        - name: Git pull
+      - name: Git pull
+        shell: pwsh
+        run: |
+          git config --global core.safecrlf false
+          git pull origin main
+
+      - name: Install and cache PowerShell modules
+        id: psmodulecache
+        uses: potatoqualitee/psmodulecache@v4.5
+        with:
+          modules-to-cache: Evergreen
           shell: pwsh
-          run: |
-            git config --global core.safecrlf false
-            git pull origin main
 
-        - name: Install and cache PowerShell modules
-          id: psmodulecache
-          uses: potatoqualitee/psmodulecache@v4.5
-          with:
-            modules-to-cache: Evergreen
-            shell: pwsh
+      - name: List Evergreen
+        id: list-module
+        shell: pwsh
+        run: |
+          Update-Module -Name "Evergreen" -Force
+          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+          #echo "::set-output name=version::$Version"
+          Write-Host "Evergreen version: $Version"
 
-        - name: List Evergreen
-          id: list-module
-          shell: pwsh
-          run: |
-            Update-Module -Name "Evergreen" -Force
-            $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-            #echo "::set-output name=version::$Version"
-            Write-Host "Evergreen version: $Version"
+      - name: Generate report
+        shell: pwsh
+        run: |
+          $params = @{
+            Path           = "${{ github.workspace }}/json"
+            UpdatesAlpha   = "${{ github.workspace }}/docs/index.md"
+            UpdatesDate    = "${{ github.workspace }}/docs/date.md"
+            AppsFile       = "${{ github.workspace }}/docs/apps.md"
+            AboutFile      = "${{ github.workspace }}/docs/about.md"
+            LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
+          }
+          . "${{ github.workspace }}/scripts/New-Report.ps1" @params
 
-        - name: Generate report
-          shell: pwsh
-          run: |
-            $params = @{
-              Path           = "${{ github.workspace }}/json"
-              UpdatesAlpha   = "${{ github.workspace }}/docs/index.md"
-              UpdatesDate    = "${{ github.workspace }}/docs/date.md"
-              AppsFile       = "${{ github.workspace }}/docs/apps.md"
-              AboutFile      = "${{ github.workspace }}/docs/about.md"
-              LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
-            }
-            . "${{ github.workspace }}/scripts/New-Report.ps1" @params
+      # Format the date number for the commit message
+      - name: Get date
+        id: get-date
+        run: |
+          DATEF=`date +%Y.%m.%d`
+          echo "::set-output name=date::$DATEF"
 
-        # Format the date number for the commit message
-        - name: Get date
-          id: get-date
-          run: |
-            DATEF=`date +%Y.%m.%d`
-            echo "::set-output name=date::$DATEF"
+      # Import GPG key
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPGKEY }}
+          passphrase: ${{ secrets.GPGPASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          git_tag_gpgsign: true
+          git_push_gpgsign: false
+          git_committer_name: ${{ secrets.COMMIT_NAME }}
+          git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
-        # Import GPG key
-        - name: Import GPG key
-          id: import_gpg
-          uses: crazy-max/ghaction-import-gpg@v5
-          with:
-            gpg_private_key: ${{ secrets.GPGKEY }}
-            passphrase: ${{ secrets.GPGPASSPHRASE }}
-            git_user_signingkey: true
-            git_commit_gpgsign: true
-            git_config_global: true
-            git_tag_gpgsign: true
-            git_push_gpgsign: false
-            git_committer_name: ${{ secrets.COMMIT_NAME }}
-            git_committer_email: ${{ secrets.COMMIT_EMAIL }}
+      - name: Commit changes
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update docs ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
+          commit_user_name: ${{ secrets.COMMIT_NAME }}
+          commit_user_email: ${{ secrets.COMMIT_EMAIL }}
 
-        - name: Commit changes
-          id: commit
-          uses: stefanzweifel/git-auto-commit-action@v4
-          with:
-            commit_message: "Update docs ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
-            commit_user_name: ${{ secrets.COMMIT_NAME }}
-            commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+      - name: "Run if changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'true'
+        run: echo "Changes committed."
 
-        - name: "Run if changes have been detected"
-          if: steps.commit.outputs.changes_detected == 'true'
-          run: echo "Changes committed."
-
-        - name: "Run if no changes have been detected"
-          if: steps.commit.outputs.changes_detected == 'false'
-          run: echo "No changes detected."
+      - name: "Run if no changes have been detected"
+        if: steps.commit.outputs.changes_detected == 'false'
+        run: echo "No changes detected."

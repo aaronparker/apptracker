@@ -4,7 +4,6 @@
 [CmdletBinding(SupportsShouldProcess = $false)]
 [Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
-    [ValidateNotNullOrEmpty()]
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
