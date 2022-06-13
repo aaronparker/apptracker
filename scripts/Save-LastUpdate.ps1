@@ -20,8 +20,8 @@ param(
 #     ConvertTo-Csv -Delimiter "," | `
 #     Out-File -FilePath $LastUpdateFile -Encoding "utf8" -Force
 
-(Get-Culture).DateTimeFormat
-Write-Host ""
+# Date/Time format
+$Format = "d/M/yyyy h:mm:s tt"
 
 # Read the file that list last updated applications
 if (Test-Path -Path $UpdateFile) {
@@ -44,18 +44,18 @@ foreach ($update in $Updates) {
         Write-Host "Add item and date for: $update."
         $NewItem = [PSCustomObject]@{
             Name          = $($update -replace "json/", "")
-            LastWriteTime = $(Get-Date -Format "dd/MM/yyyy hh:mm:ss tt")
+            LastWriteTime = $(Get-Date -Format $Format)
         }
         $LastUpdates += $NewItem
     }
     else {
         Write-Host "Update date for: $update."
-        $LastUpdates[$Index].LastWriteTime = $(Get-Date -Format "dd/MM/yyyy hh:mm:ss tt")
+        $LastUpdates[$Index].LastWriteTime = $(Get-Date -Format $Format)
     }
 }
 
 # Output the update list back to disk
 $LastUpdates | `
-    Sort-Object -Property @{ Expression = { [System.DateTime]::ParseExact($($_.LastWriteTime.Trim()), "dd/MM/yyyy hh:mm:ss tt", $null) }; Descending = $true } -Descending | `
+    Sort-Object -Property @{ Expression = { [System.DateTime]::ParseExact($($_.LastWriteTime.Trim()), $Format, $null) }; Descending = $true } -Descending | `
     ConvertTo-Csv -Delimiter "," | `
     Out-File -FilePath $LastUpdateFile -Encoding "utf8" -Force
