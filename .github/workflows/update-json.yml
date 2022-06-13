@@ -84,7 +84,7 @@ jobs:
               UpdateFile     = "${{ github.workspace }}/json/_update-pwsh.txt"
               LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
           }
-          . "${{ github.workspace }}/Save-LastUpdate.ps1" @params
+          . "${{ github.workspace }}/scripts/Save-LastUpdate.ps1" @params
 
       # Format the date number for the commit message
       - name: Get date
@@ -186,7 +186,7 @@ jobs:
               UpdateFile     = "${{ github.workspace }}\json\_update-powershell.txt"
               LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
           }
-          . "${{ github.workspace }}\Save-LastUpdate.ps1" @params
+          . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
 
       # Format the date number for the commit message
       - name: Get date
