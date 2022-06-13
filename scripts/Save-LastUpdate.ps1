@@ -38,6 +38,7 @@ foreach ($update in $Updates) {
     
     # If $Index = -1, then the application is new
     if ($Index -eq -1) {
+        Write-Host "Add item and date for: $update."
         $NewItem = [PSCustomObject]@{
             Name          = $($update -replace "json/", "")
             LastWriteTime = $(Get-Date -Format "dd/MM/yyyy hh:mm:ss tt")
@@ -45,6 +46,7 @@ foreach ($update in $Updates) {
         $LastUpdates += $NewItem
     }
     else {
+        Write-Host "Update date for: $update."
         $LastUpdates[$Index].LastWriteTime = $(Get-Date -Format "dd/MM/yyyy hh:mm:ss tt")
     }
 }

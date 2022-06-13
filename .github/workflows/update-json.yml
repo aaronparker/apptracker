@@ -73,7 +73,7 @@ jobs:
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
           if ($Null -ne $files) {
               $Updates += $files
-              $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
+              $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
           }
 
       - name: Save last update list
@@ -175,7 +175,7 @@ jobs:
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
           if ($Null -ne $files) {
             $Updates += $files
-            $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force
+            $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
           }
 
       - name: Save last update list
@@ -270,15 +270,14 @@ jobs:
           force: true
           shell: pwsh
 
-      - name: Update Evergreen
-        id: update-evergreen
+      - name: List Evergreen
+        id: list-module
         shell: pwsh
         run: |
-          [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-          Install-PackageProvider -Name "NuGet" -MinimumVersion 2.8.5.208 -Force -ErrorAction "SilentlyContinue"
-          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted" -ErrorAction "SilentlyContinue"
-          Update-Module -Name Evergreen -Force -Confirm:$False -ErrorAction "SilentlyContinue"
-          Get-Module -Name Evergreen -ListAvailable | Select-Object -Property "Name", "Version", "Path"
+          Update-Module -Name "Evergreen" -Force
+          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+          #echo "::set-output name=version::$Version"
+          Write-Host "Evergreen version: $Version"
 
       - name: Update Cloudflare KV with all apps list
         id: update-allapps
