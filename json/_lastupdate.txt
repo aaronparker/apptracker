@@ -1,5 +1,4 @@
-﻿#TYPE System.Management.Automation.PSCustomObject
-"Name","LastWriteTime"
+﻿"Name","LastWriteTime"
 "RingCentral.json","13/6/2022 1:11:25 PM"
 "MicrosoftAzureDataStudio.json","13/6/2022 1:11:25 PM"
 "MicrosoftVisualStudioCode.json","13/6/2022 1:11:25 PM"
