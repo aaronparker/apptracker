@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                               |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://www.gimp.ca/mirror/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -842,9 +842,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1014,11 +1014,11 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                              |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------- |
-| 0.6.18  | Windows  | ARM64        | exe  | 05/12/2022 | 39587784 | https://github.com/Azure/bicep/releases/download/v0.6.18/bicep-win-arm64.exe     |
-| 0.6.18  | Windows  | x64          | exe  | 05/12/2022 | 17122768 | https://github.com/Azure/bicep/releases/download/v0.6.18/bicep-setup-win-x64.exe |
-| 0.6.18  | Windows  | x64          | exe  | 05/12/2022 | 39136256 | https://github.com/Azure/bicep/releases/download/v0.6.18/bicep-win-x64.exe       |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                             |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------- |
+| 0.7.4   | Windows  | ARM64        | exe  | 06/10/2022 | 40018880 | https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-win-arm64.exe     |
+| 0.7.4   | Windows  | x64          | exe  | 06/10/2022 | 17534224 | https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-setup-win-x64.exe |
+| 0.7.4   | Windows  | x64          | exe  | 06/10/2022 | 39567336 | https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-win-x64.exe       |
 
 ## MicrosoftBotFrameworkEmulator
 
@@ -3177,9 +3177,9 @@
 
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
 | 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
 | 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
 | 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
