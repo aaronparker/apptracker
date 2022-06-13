@@ -56,7 +56,7 @@ jobs:
           git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
       # Run Pester tests
-      - name: Update Json
+      - name: Update app JSON
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
@@ -81,8 +81,8 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           $params = @{
-              $UpdateFile     = "${{ github.workspace }}/json/_update-pwsh.txt"
-              $LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
+              UpdateFile     = "${{ github.workspace }}/json/_update-pwsh.txt"
+              LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
           }
           . "${{ github.workspace }}/Save-LastUpdate.ps1" @params
 
@@ -158,7 +158,7 @@ jobs:
           git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
       # Run Pester tests
-      - name: Update Json
+      - name: Update app JSON
         shell: powershell
         working-directory: ${{ github.workspace }}
         run: |
@@ -183,8 +183,8 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           $params = @{
-              $UpdateFile     = "${{ github.workspace }}\json\_update-powershell.txt"
-              $LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
+              UpdateFile     = "${{ github.workspace }}\json\_update-powershell.txt"
+              LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
           }
           . "${{ github.workspace }}\Save-LastUpdate.ps1" @params
 
