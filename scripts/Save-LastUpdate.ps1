@@ -20,6 +20,9 @@ param(
 #     ConvertTo-Csv -Delimiter "," | `
 #     Out-File -FilePath $LastUpdateFile -Encoding "utf8" -Force
 
+(Get-Culture).DateTimeFormat
+Write-Host ""
+
 # Read the file that list last updated applications
 if (Test-Path -Path $UpdateFile) {
     $Updates = Get-Content -Path $UpdateFile
@@ -53,6 +56,6 @@ foreach ($update in $Updates) {
 
 # Output the update list back to disk
 $LastUpdates | `
-    Sort-Object -Property @{ Expression = { [System.DateTime]$_.LastWriteTime }; Descending = $true } -Descending | `
+    Sort-Object -Property @{ Expression = { [System.DateTime]::ParseExact($_.LastWriteTime, "dd/MM/yyyy hh:mm:ss tt", $null) }; Descending = $true } -Descending | `
     ConvertTo-Csv -Delimiter "," | `
     Out-File -FilePath $LastUpdateFile -Encoding "utf8" -Force
