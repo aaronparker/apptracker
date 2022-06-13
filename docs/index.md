@@ -764,10 +764,10 @@
 
 [Link](https://imageglass.org/)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
-| 8.6.6.6 | Windows  | x64          | msi  | 01/22/2022 | 33017856 | https://github.com/d2phap/ImageGlass/releases/download/8.6.6.6/ImageGlass_Kobe_8.6.6.6_x64.msi |
-| 8.6.6.6 | Windows  | x86          | msi  | 01/22/2022 | 26294272 | https://github.com/d2phap/ImageGlass/releases/download/8.6.6.6/ImageGlass_Kobe_8.6.6.6_x86.msi |
+| Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                                              |
+| -------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
+| 8.6.7.13 | Windows  | x64          | msi  | 06/13/2022 | 32546816 | https://github.com/d2phap/ImageGlass/releases/download/8.6.7.13/ImageGlass_Kobe_8.6.7.13_x64.msi |
+| 8.6.7.13 | Windows  | x86          | msi  | 06/13/2022 | 26593280 | https://github.com/d2phap/ImageGlass/releases/download/8.6.7.13/ImageGlass_Kobe_8.6.7.13_x86.msi |
 
 ## ImageMagickStudioImageMagick
 
@@ -842,9 +842,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1098,14 +1098,14 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
 | 22.125.0609.0001 | AMD64        | InternalFast | +bMfDQaF1PGeyVvZcPOo1GoeJc2slhuzG9uHb//lxck= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.125.0609.0001/amd64/OneDriveSetup.exe                           |
 | 22.125.0609.0001 | x86          | InternalFast | 1Uw5Oer2o7Pqo6sBXoh5Qylkbb6lMmn9gRsfstzgo7E= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.125.0609.0001/OneDriveSetup.exe                                 |
+| 22.121.0605.0002 | AMD64        | Insider      | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
 | 22.121.0605.0002 | AMD64        | InternalSlow | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
+| 22.121.0605.0002 | x86          | Insider      | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | x86          | InternalSlow | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/OneDriveSetup.exe                                 |
 | 22.116.0529.0003 | AMD64        | Insider      | ukmFRZbXFsTNhwy8RVZG91e9WDpBfJQPm74IbKrFFoo= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0003/amd64/OneDriveSetup.exe                           |
 | 22.116.0529.0003 | x86          | Insider      | TbeJBKN5Qs9w5KjBsm1qrj2uQ+FywNhiFgP0z+2D5l8= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0003/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Production   | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/amd64/OneDriveSetup.exe                               |
 | 22.111.0522.0002 | x86          | Production   | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/OneDriveSetup.exe                                     |
-| 22.099.0508.0001 | AMD64        | Production   | 2QV8nO9Dqx1yQEcxlCVNd3f5Z1e7Ey0ri2NkxNscEz0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/amd64/OneDriveSetup.exe                               |
-| 22.099.0508.0001 | x86          | Production   | eUJmlKo5M1mT16Y97kndIsYZZIsdTxQThTOEq8+cqeo= | exe  | https://oneclient.sfx.ms/Win/Prod/22.099.0508.0001/OneDriveSetup.exe                                     |
 | 22.022.0130.0001 | AMD64        | Enterprise   | 8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe                         |
 | 22.022.0130.0001 | x86          | Enterprise   | 44mKE0EeZUfgPDpxsizwbJYRiyyM+MUDlG/svvIIWgc= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/OneDriveSetup.exe                               |
 | 22.022.0130.0001 | x86          | Enterprise   | N/A                                          | msix | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix |
@@ -3175,14 +3175,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
