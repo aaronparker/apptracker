@@ -1,4 +1,0 @@
-json/ImageGlass.json
-json/MicrosoftOneDrive.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
