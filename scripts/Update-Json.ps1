@@ -90,7 +90,13 @@ else {
         if (-not (Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.json")) -ErrorAction "SilentlyContinue")) {
 
             Write-Host -Object "Update: $App." -ForegroundColor "Cyan"
-            $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+            $params = @{
+                Name          = $App
+                ErrorAction   = "SilentlyContinue"
+                WarningAction = "SilentlyContinue"
+                Verbose       = $True
+            }
+            $Output = Get-EvergreenApp @params
 
             if ($Null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
