@@ -1,0 +1,6 @@
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
