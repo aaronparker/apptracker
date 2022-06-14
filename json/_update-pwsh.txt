@@ -1,0 +1,9 @@
+json/AdobeAcrobat.json
+json/AdobeAcrobatProStdDC.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaGXBrowser.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json

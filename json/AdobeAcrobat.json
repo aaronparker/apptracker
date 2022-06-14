@@ -1,48 +1,48 @@
 [
   {
-    "Version": "22.001.20112",
+    "Version": "22.001.20142",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCx64Upd2200120112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120142/AcrobatDCx64Upd2200120142.msp"
   },
   {
-    "Version": "22.001.20112",
+    "Version": "22.001.20142",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcroRdrDCx64Upd2200120112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120142/AcroRdrDCx64Upd2200120142.msp"
   },
   {
-    "Version": "22.001.20112",
+    "Version": "22.001.20142",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120142/AcroRdrDCUpd2200120142_MUI.msp"
   },
   {
-    "Version": "22.001.20112",
+    "Version": "22.001.20142",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCUpd2200120112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120142/AcrobatDCUpd2200120142.msp"
   },
   {
-    "Version": "22.001.20112",
+    "Version": "22.001.20142",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120142/AcroRdrDCUpd2200120142.msp"
   },
   {
     "Version": "20.005.30331",
