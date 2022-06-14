@@ -46,11 +46,11 @@
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 22.001.20112 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCx64Upd2200120112.msp     |
-| 22.001.20112 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcroRdrDCx64Upd2200120112.msp     |
-| 22.001.20112 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112_MUI.msp     |
-| 22.001.20112 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120112/AcrobatDCUpd2200120112.msp        |
-| 22.001.20112 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120112/AcroRdrDCUpd2200120112.msp         |
+| 22.001.20142 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120142/AcrobatDCx64Upd2200120142.msp     |
+| 22.001.20142 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120142/AcroRdrDCx64Upd2200120142.msp     |
+| 22.001.20142 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120142/AcroRdrDCUpd2200120142_MUI.msp     |
+| 22.001.20142 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200120142/AcrobatDCUpd2200120142.msp        |
+| 22.001.20142 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200120142/AcroRdrDCUpd2200120142.msp         |
 | 20.005.30331 | Update | Reader  | 2020  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530331/AcroRdr2020Upd2000530331_MUI.msp |
 | 20.005.30331 | Update | Acrobat | 2020  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530331/Acrobat2020Upd2000530331.msp    |
 | 17.012.30227 | Update | Reader  | 2017  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230227/AcroRdr2017Upd1701230227_MUI.msp |
@@ -77,8 +77,8 @@
 
 | Version      | Architecture | Type     | URI                                                                                      |
 | ------------ | ------------ | -------- | ---------------------------------------------------------------------------------------- |
-| 22.001.20117 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip |
-| 22.001.20117 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip |
+| 22.001.20142 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip |
+| 22.001.20142 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip |
 
 ## AdobeAcrobatReaderDC
 
@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.30 | 12/19/2021 | 5b8db574966d2427fa02202b591173905f64806559e37fbdca4654e55b568c8e | https://artfiles.org/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.30-setup.exe |
 
 ## GitForWindows
 
@@ -842,9 +842,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -974,10 +974,10 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15402.20002 | BetaChannel       | Beta                                  | 06/07/2022 16:06:28 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15225.20204 | Current           | Current Channel                       | 05/24/2022 19:21:40 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15225.20288 | Current           | Current Channel                       | 06/14/2022 08:13:11 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15225.20204 | CurrentPreview    | Current Channel (Preview)             | 05/23/2022 20:47:09 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15128.20280 | MonthlyEnterprise | Monthly Enterprise                    | 06/14/2022 07:56:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14931.20392 | SemiAnnualPreview | Semi-Annual Channel Preview           | 05/10/2022 18:43:16 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14931.20494 | SemiAnnualPreview | Semi-Annual Channel Preview           | 06/14/2022 09:31:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14332.20303 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 05/10/2022 13:23:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14326.21018 | SemiAnnual        | Semi-Annual Channel                   | 06/14/2022 08:01:37 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.10386.20017 | PerpetualVL2019   | Office 2029 Perpetual Enterprise      | 05/10/2022 13:17:03 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1232,10 +1232,14 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-| Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
-| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3213.0 | ARM64        | Insider | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
+| 1.2.3213.0 | x86          | Public  | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
 
 ## MicrosoftWvdRtcService
 
@@ -2641,8 +2645,8 @@
 
 | Version      | Architecture | Type | URI                                                                                         |
 | ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 87.0.4390.56 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/87.0.4390.56/win/Opera_GX_87.0.4390.56_Setup_x64.exe |
-| 87.0.4390.56 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/87.0.4390.56/win/Opera_GX_87.0.4390.56_Setup.exe     |
+| 87.0.4390.58 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/87.0.4390.58/win/Opera_GX_87.0.4390.58_Setup_x64.exe |
+| 87.0.4390.58 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/87.0.4390.58/win/Opera_GX_87.0.4390.58_Setup.exe     |
 
 ## OracleJava8
 
@@ -2839,8 +2843,8 @@
 
 | Version | Architecture | Type | URI                                                                                                       |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 8.2.1   | x64          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.2.1/saga-8.2.1_x64_setup.exe   |
-| 8.2.1   | x86          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.2.1/saga-8.2.1_win32_setup.exe |
+| 8.2.2   | x64          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.2.2/saga-8.2.2_x64_setup.exe   |
+| 8.2.2   | x86          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.2.2/saga-8.2.2_win32_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -3171,14 +3175,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe        |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi        |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip        |
 
 ## VisualCppRedistAIO
 
