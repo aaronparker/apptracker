@@ -69,7 +69,13 @@ else {
         if (($file.Length -eq 0) -or ((Get-Content -Path $file.FullName) -match "RateLimited")) {
 
             Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
-            $Output = Get-EvergreenApp -Name $file.BaseName -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+            $params = @{
+                Name          = $file.BaseName
+                ErrorAction   = "SilentlyContinue"
+                WarningAction = "SilentlyContinue"
+                Verbose       = $True
+            }
+            $Output = Get-EvergreenApp @params
 
             if ($Null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
