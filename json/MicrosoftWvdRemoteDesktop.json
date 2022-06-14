@@ -34,23 +34,5 @@
     "Size": "24444928",
     "Filename": "RemoteDesktop_1.2.3213.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO"
-  },
-  {
-    "Version": "1.2.3213.0",
-    "Architecture": "x86",
-    "Channel": "Insider",
-    "Date": "06/01/2022",
-    "Size": "22282240",
-    "Filename": "RemoteDesktop_1.2.3213.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP"
-  },
-  {
-    "Version": "1.2.3213.0",
-    "Architecture": "x86",
-    "Channel": "Public",
-    "Date": "06/01/2022",
-    "Size": "22282240",
-    "Filename": "RemoteDesktop_1.2.3213.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP"
   }
 ]
