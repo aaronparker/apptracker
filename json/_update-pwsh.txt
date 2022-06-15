@@ -1,0 +1,7 @@
+json/1Password.json
+json/CodelerityApacheNetBeans.json
+json/Gimp.json
+json/SumatraPDFReader.json
+json/TechSmithSnagit.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
