@@ -1,0 +1,8 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MirantisLens.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/jrsoftwareInnoSetup.json
