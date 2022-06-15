@@ -6,7 +6,7 @@
 
 | Version | URI                                                               |
 | ------- | ----------------------------------------------------------------- |
-| 8.7.1   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.1.exe |
+| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://mirror.dogado.de/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
 
 ## GitForWindows
 
@@ -842,9 +842,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1104,8 +1104,6 @@
 | 22.121.0605.0002 | AMD64        | InternalSlow | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
 | 22.121.0605.0002 | x86          | Insider      | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | x86          | InternalSlow | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/OneDriveSetup.exe                                 |
-| 22.116.0529.0003 | AMD64        | Insider      | ukmFRZbXFsTNhwy8RVZG91e9WDpBfJQPm74IbKrFFoo= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0003/amd64/OneDriveSetup.exe                           |
-| 22.116.0529.0003 | x86          | Insider      | TbeJBKN5Qs9w5KjBsm1qrj2uQ+FywNhiFgP0z+2D5l8= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.116.0529.0003/OneDriveSetup.exe                                 |
 | 22.111.0522.0002 | AMD64        | Production   | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/amd64/OneDriveSetup.exe                               |
 | 22.111.0522.0002 | x86          | Production   | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/OneDriveSetup.exe                                     |
 | 22.022.0130.0001 | AMD64        | Enterprise   | 8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe                         |
@@ -1287,7 +1285,7 @@
 
 | Version                  | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                           |
 | ------------------------ | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 5.6.0-alpha.1.20220614.2 | x64          | Alpha   | 06/14/2022 15:28:27 | 322950232 | 9Y8pYu+BNdLPrEDBUVe8hP1WfhK8aP2VqOmDivInwl1+fDbLZfKTB28dKilnn8FM9P6Yu70nlGzhdYQVRVNeuA== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.1.20220614.2.exe |
+| 5.6.0-alpha.2.20220615.1 | x64          | Alpha   | 06/15/2022 14:17:19 | 325886616 | JNkchoDdHPW6zVeTWTqVk25N8A5n7IArx8ndMKFS9VmLKVpBQiJ3wXXbnfnQ3IG3FBZIhhgMLnnkssZTrz17FA== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.2.20220615.1.exe |
 | 5.5.4-latest.20220609.2  | x64          | Stable  | 06/10/2022 14:38:52 | 276624664 | 8gzhQ7Gq6obzszcQyyruintYZ3K0WIUIQvM+eXB1sxIcj6LX48PZM5/nflghTp+MJHv1qEVXYdecNqeEi+yWGQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.4-latest.20220609.2.exe  |
 
 ## MozillaFirefox
@@ -2947,8 +2945,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -3179,14 +3177,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe     |
+| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi     |
+| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip     |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -3279,9 +3277,9 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | URI                                                                                  |
-| ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
-| 5.19.6  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.19.6/WinSCP-5.19.6-Setup.exe |
+| Version | Architecture | Type | URI                                                                              |
+| ------- | ------------ | ---- | -------------------------------------------------------------------------------- |
+| 5.21    | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21/WinSCP-5.21-Setup.exe |
 
 ## Wireshark
 
