@@ -1,0 +1,11 @@
+json/Gimp.json
+json/McNeelRhino.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/Slack.json
+json/VideoLanVlcPlayer.json
