@@ -1,5 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/MicrosoftWvdRtcService.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
