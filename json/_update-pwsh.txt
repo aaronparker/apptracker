@@ -1,8 +1,0 @@
-json/1Password.json
-json/1Password7.json
-json/Gimp.json
-json/MicrosoftEdge.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/Wireshark.json
