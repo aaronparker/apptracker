@@ -1,0 +1,6 @@
+json/DockerDesktop.json
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
