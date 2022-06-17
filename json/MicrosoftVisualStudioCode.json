@@ -9,22 +9,6 @@
   },
   {
     "Version": "1.69.0",
-    "Platform": "win32-arm64-user",
-    "Channel": "Insider",
-    "Architecture": "ARM64",
-    "Sha256": "cebfaa47c2c0e7de770c778bee8143f0cf4ef08f7d85d8540c345645c8d25390",
-    "URI": "https://az764295.vo.msecnd.net/insider/6f7c824a826ff0ccaf4de05d6fe0aac3be7bc136/VSCodeUserSetup-arm64-1.69.0-insider.exe"
-  },
-  {
-    "Version": "1.69.0",
-    "Platform": "win32-x64",
-    "Channel": "Insider",
-    "Architecture": "x64",
-    "Sha256": "6273ea0ce17338acf0774463d5c3c9ad5b956d97a73aa1459f1a47628bd7bf44",
-    "URI": "https://az764295.vo.msecnd.net/insider/6f7c824a826ff0ccaf4de05d6fe0aac3be7bc136/VSCodeSetup-x64-1.69.0-insider.exe"
-  },
-  {
-    "Version": "1.69.0",
     "Platform": "win32-x64-user",
     "Channel": "Insider",
     "Architecture": "x64",

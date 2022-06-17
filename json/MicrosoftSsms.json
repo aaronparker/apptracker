@@ -52,17 +52,5 @@
     "Date": "03/05/2022",
     "Language": "Portuguese (Brazil)",
     "URI": "https://download.microsoft.com/download/7/0/c/70c834ca-7df0-46c4-b878-00c03133c9ce/SSMS-Setup-PTB.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "03/05/2022",
-    "Language": "Russian",
-    "URI": "https://download.microsoft.com/download/7/0/c/70c834ca-7df0-46c4-b878-00c03133c9ce/SSMS-Setup-RUS.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "03/05/2022",
-    "Language": "Spanish",
-    "URI": "https://download.microsoft.com/download/7/0/c/70c834ca-7df0-46c4-b878-00c03133c9ce/SSMS-Setup-ESN.exe"
   }
 ]
