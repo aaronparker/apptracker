@@ -1,14 +1,14 @@
 [
   {
-    "Version": "14.2.3",
-    "Revision": "29241",
+    "Version": "14.3.0",
+    "Revision": "30573",
     "Architecture": "x64",
-    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.2.3-29241_x64.msi"
+    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.0-30573_x64.msi"
   },
   {
-    "Version": "14.2.3",
-    "Revision": "29241",
+    "Version": "14.3.0",
+    "Revision": "30573",
     "Architecture": "x86",
-    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.2.3-29241.msi"
+    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.0-30573.msi"
   }
 ]
