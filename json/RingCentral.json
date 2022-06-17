@@ -15,7 +15,7 @@
     "Version": "22.2.22",
     "Platform": "Windows",
     "Type": "Msi",
-    "URI": null
+    "URI": "https://app.ringcentral.com/download/RingCentral-x64.msi"
   },
   {
     "Version": "22.2.22",

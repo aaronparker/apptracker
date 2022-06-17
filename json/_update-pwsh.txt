@@ -1,0 +1,9 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftSsms.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusTentacle.json
+json/RingCentral.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
