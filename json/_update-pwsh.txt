@@ -1,0 +1,3 @@
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/VideoLanVlcPlayer.json
