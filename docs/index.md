@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.2   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -609,9 +609,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://ftp.lysator.liu.se/pub/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://mirror.kumi.systems/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
 
 ## GitForWindows
 
@@ -658,8 +658,8 @@
 
 | Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 104.0.5110.0   | x64          | dev     | 06/10/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 104.0.5110.0   | x86          | dev     | 06/10/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 104.0.5112.14  | x64          | dev     | 06/18/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 104.0.5112.14  | x86          | dev     | 06/18/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 103.0.5060.53  | x64          | beta    | 06/15/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 103.0.5060.53  | x86          | beta    | 06/15/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 102.0.5005.115 | x64          | stable  | 06/09/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -843,9 +843,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1097,8 +1097,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.129.0615.0001 | AMD64        | InternalFast | M0jDEhuIiRj97aJssGKuqbfOh/zzlNhBjkMiBuypN2Q= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.129.0615.0001/amd64/OneDriveSetup.exe                           |
-| 22.129.0615.0001 | x86          | InternalFast | ApqOspe/DX2RtivqyIuLnV3gze4lzrvPsnWxQ3Vbv+U= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.129.0615.0001/OneDriveSetup.exe                                 |
+| 22.130.0616.0001 | AMD64        | InternalFast | RBWZYH3zLKRV4NAT4oBDp07OuEAuwHHufAEvcWdZXfE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.130.0616.0001/amd64/OneDriveSetup.exe                           |
+| 22.130.0616.0001 | x86          | InternalFast | 3YZzWU3+xyT8jBtQ3zfrQzgH2pwbnkS6mrOWVo1Ftmo= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.130.0616.0001/OneDriveSetup.exe                                 |
 | 22.126.0612.0001 | AMD64        | InternalSlow | xJlsjI/eDhAckp5vqlWU67WEGeBMAUVWjvPWJajZKpI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0001/amd64/OneDriveSetup.exe                           |
 | 22.126.0612.0001 | x86          | InternalSlow | qKkJTzVFLIAB5B3nGwlnnvNPwjS3ZoyAULL9DDMFyLg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0001/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | AMD64        | Insider      | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
@@ -3180,14 +3180,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
 
 ## VisualCppRedistAIO
 
