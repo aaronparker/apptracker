@@ -1,0 +1,33 @@
+name: update-json
+
+# Environment variables
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# Controls when the action will run.
+on:
+  workflow_dispatch:
+
+jobs:
+  update-pwsh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+
+
+      # Run Pester tests
+      - name: Test GitHub API auth
+        shell: pwsh
+        working-directory: ${{ github.workspace }}
+        run: |
+          $Headers = @{
+              Authorization = "token $($env:GITHUB_TOKEN)"
+          }
+          $params = @{
+              Uri     = "https://api.github.com/rate_limit"
+              Headers = $Headers
+          }
+          Invoke-RestMethod @params
