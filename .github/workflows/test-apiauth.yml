@@ -1,4 +1,4 @@
-name: update-json
+name: test-api
 
 # Environment variables
 env:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-pwsh:
+  test-api:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,4 +30,6 @@ jobs:
               Uri     = "https://api.github.com/rate_limit"
               Headers = $Headers
           }
-          Invoke-RestMethod @params
+          $response = Invoke-RestMethod @params
+          $response.resources
+          $response.rate
