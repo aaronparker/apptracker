@@ -23,13 +23,21 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
+          if (Test-Path -Path "env:GITHUB_TOKEN") {
+            $Token = $True
+            $TokenValue = $env:GITHUB_TOKEN
+          }
+          elseif (Test-Path -Path "env:GH_TOKEN") {
+              $Token = $True
+              $TokenValue = $env:GH_TOKEN
+          }
           $Headers = @{
-              Authorization = "token $($env:GITHUB_TOKEN)"
+              Authorization = "token $TokenValue"
           }
           $params = @{
               Uri     = "https://api.github.com/rate_limit"
               Headers = $Headers
           }
           $response = Invoke-RestMethod @params
-          $response.resources
+          $response.resources.core
           $response.rate
