@@ -1,0 +1,2 @@
+json/ImageMagickStudioImageMagick.json
+json/VideoLanVlcPlayer.json
