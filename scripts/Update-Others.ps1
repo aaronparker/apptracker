@@ -37,7 +37,7 @@ Import-Module -Name "Evergreen" -Force
 
 
 # MozillaFirefox is a special case, so we need to run it separately
-foreach ($App in @("MozillaFirefox")) {
+foreach ($App in @("MozillaFirefox", "MozillaThunderbird")) {
     Write-Host -Object "Gather: $App"
     $Manifest = Export-EvergreenManifest -Name "$App"
     $params = @{

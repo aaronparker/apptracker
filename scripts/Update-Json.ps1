@@ -33,7 +33,7 @@ Function Test-PSCore {
 #endregion
 
 # Apps that should be skipped in this run
-$SkipApps = @("MozillaFirefox")
+$SkipApps = @("MozillaFirefox", "MozillaThunderbird")
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
