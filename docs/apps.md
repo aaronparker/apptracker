@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# 202 Supported Applications
+# 203 Supported Applications
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -29,6 +29,7 @@ hide:
 | Amazon Corretto                                                   | https://aws.amazon.com/corretto/                                                           |
 | Anaconda                                                          | https://www.anaconda.com/                                                                  |
 | Anki                                                              | https://github.com/ankitects/anki/                                                         |
+| AppVentix                                                         | https://appventix.com/                                                                     |
 | Artifex Ghostscript                                               | https://www.ghostscript.com/                                                               |
 | Atlassian Sourcetree                                              | https://www.sourcetreeapp.com/                                                             |
 | Audacity                                                          | https://www.audacityteam.org/                                                              |
@@ -127,8 +128,8 @@ hide:
 | Minitab                                                           | https://www.minitab.com/                                                                   |
 | MiniZinc IDE                                                      | https://www.minizinc.org/                                                                  |
 | MirantisLens                                                      | https://k8slens.dev/                                                                       |
-| Mozilla Firefox                                                   | https://www.mozilla.org/                                                                   |
-| Mozilla Firefox                                                   | https://www.mozilla.org/                                                                   |
+| Mozilla Firefox                                                   | https://www.mozilla.org/en-US/firefox/new/                                                 |
+| Mozilla Thunderbird                                               | https://www.thunderbird.net/                                                               |
 | mRemoteNG                                                         | https://mremoteng.org/                                                                     |
 | MuseScore                                                         | https://musescore.org/                                                                     |
 | Ben Olden-Cooligan NAPS2                                          | https://www.naps2.com/                                                                     |
