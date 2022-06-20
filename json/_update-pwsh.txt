@@ -1,0 +1,5 @@
+json/1Password.json
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
