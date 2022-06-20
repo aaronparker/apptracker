@@ -617,9 +617,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
 
 ## GitForWindows
 
@@ -711,8 +711,8 @@
 
 | Version | Type | Architecture | URI                                                                            |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
-| 0.8.1   | zip  | x64          | https://releases.hashicorp.com/boundary/0.8.1/boundary_0.8.1_windows_amd64.zip |
-| 0.8.1   | zip  | x86          | https://releases.hashicorp.com/boundary/0.8.1/boundary_0.8.1_windows_386.zip   |
+| 0.9.0   | zip  | x64          | https://releases.hashicorp.com/boundary/0.9.0/boundary_0.9.0_windows_amd64.zip |
+| 0.9.0   | zip  | x86          | https://releases.hashicorp.com/boundary/0.9.0/boundary_0.9.0_windows_386.zip   |
 
 ## HashicorpConsul
 
@@ -1050,12 +1050,12 @@
 | 104.0.1287.1  | Windows  | Dev        | Enterprise | x64          | 3DA100759ECDB4E30D706A7AC9D1569D712FE3B78DFDEFFE140025366C9AA8EC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b973dd8-4e53-4f92-8673-265e1201e936/MicrosoftEdgeDevEnterpriseX64.msi           |
 | 104.0.1287.1  | Windows  | Dev        | Consumer   | x86          | F8562A61D373819AE8FF919C8E83935AB60E13D2BE2774BE4E9A864C36462F87 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bcd59fd-320d-4929-bb9b-e0e4b41027db/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 104.0.1287.1  | Windows  | Dev        | Enterprise | x86          | F8562A61D373819AE8FF919C8E83935AB60E13D2BE2774BE4E9A864C36462F87 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bcd59fd-320d-4929-bb9b-e0e4b41027db/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 103.0.1264.21 | Windows  | Beta       | Consumer   | arm64        | 3B68015BC6D4E07A756F9B79432BC63A6B95BF7EB260E8A700E07BCF4D6E795E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a741ccfb-9035-41e3-8824-f888ec2fd9a9/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 103.0.1264.21 | Windows  | Beta       | Enterprise | arm64        | 3B68015BC6D4E07A756F9B79432BC63A6B95BF7EB260E8A700E07BCF4D6E795E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a741ccfb-9035-41e3-8824-f888ec2fd9a9/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 103.0.1264.21 | Windows  | Beta       | Consumer   | x64          | 11F5893FBB17C20545A939B3E2C09BBB7CE856F8FF0D82E97144C2A244644DDA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f072d7b6-f7a2-4769-a4bb-ea4e5781f04a/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 103.0.1264.21 | Windows  | Beta       | Enterprise | x64          | 11F5893FBB17C20545A939B3E2C09BBB7CE856F8FF0D82E97144C2A244644DDA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f072d7b6-f7a2-4769-a4bb-ea4e5781f04a/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 103.0.1264.21 | Windows  | Beta       | Consumer   | x86          | C96BD04A6DB6E74FC6E773E32229F18913D568840E498EDF0AF3178D353D4920 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d15883cf-25d0-472e-957f-0b9985972156/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 103.0.1264.21 | Windows  | Beta       | Enterprise | x86          | C96BD04A6DB6E74FC6E773E32229F18913D568840E498EDF0AF3178D353D4920 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d15883cf-25d0-472e-957f-0b9985972156/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 103.0.1264.32 | Windows  | Beta       | Consumer   | arm64        | D72D273679511D10C0EB4337C99F4859F07FE52D1CCCFC5AA639867BEB3902F4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9f5323ed-81e6-401f-b680-1b20f4bddf8b/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 103.0.1264.32 | Windows  | Beta       | Enterprise | arm64        | D72D273679511D10C0EB4337C99F4859F07FE52D1CCCFC5AA639867BEB3902F4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9f5323ed-81e6-401f-b680-1b20f4bddf8b/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 103.0.1264.32 | Windows  | Beta       | Consumer   | x64          | CBD1069CDAE99F4F6302B4D53CAAAE697AF27DD351F8B7D869E83F1D4A2A0A49 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cde6d056-27ee-41d8-94cd-5b63d428bcde/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 103.0.1264.32 | Windows  | Beta       | Enterprise | x64          | CBD1069CDAE99F4F6302B4D53CAAAE697AF27DD351F8B7D869E83F1D4A2A0A49 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cde6d056-27ee-41d8-94cd-5b63d428bcde/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 103.0.1264.32 | Windows  | Beta       | Consumer   | x86          | B8C384BD7B60E68E351C632F4AE61157CDA25EAE7D5ABFD2258447A91DA47A17 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ad3a732-c312-4f00-87aa-e98d1753dc93/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 103.0.1264.32 | Windows  | Beta       | Enterprise | x86          | B8C384BD7B60E68E351C632F4AE61157CDA25EAE7D5ABFD2258447A91DA47A17 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ad3a732-c312-4f00-87aa-e98d1753dc93/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 102.0.1245.44 | Windows  | Stable     | Consumer   | arm64        | C28E88188E09FD7E854C7A357BA151BD4BBEA9E2D6272F4DB87B2506B512B9EE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/846115e4-15b6-452b-a463-6b7850ccb039/MicrosoftEdgeEnterpriseARM64.msi            |
 | 102.0.1245.44 | Windows  | Stable     | Enterprise | arm64        | C28E88188E09FD7E854C7A357BA151BD4BBEA9E2D6272F4DB87B2506B512B9EE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/846115e4-15b6-452b-a463-6b7850ccb039/MicrosoftEdgeEnterpriseARM64.msi            |
 | 102.0.1245.44 | Windows  | Stable     | Consumer   | x64          | 0AD8E74053E4E0680E3ADD4249DEB9CD734CF1C01493C14B0A7C2D6E3C5FB8C7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ccccb4f6-dfab-40be-a4e7-a8008a17846e/MicrosoftEdgeEnterpriseX64.msi              |
@@ -1074,9 +1074,9 @@
 | 104.0.1287.1  | Dev     | ARM64        | https://msedgedriver.azureedge.net/104.0.1287.1/edgedriver_arm64.zip  |
 | 104.0.1287.1  | Dev     | x64          | https://msedgedriver.azureedge.net/104.0.1287.1/edgedriver_win64.zip  |
 | 104.0.1287.1  | Dev     | x86          | https://msedgedriver.azureedge.net/104.0.1287.1/edgedriver_win32.zip  |
-| 103.0.1264.21 | Beta    | ARM64        | https://msedgedriver.azureedge.net/103.0.1264.21/edgedriver_arm64.zip |
-| 103.0.1264.21 | Beta    | x64          | https://msedgedriver.azureedge.net/103.0.1264.21/edgedriver_win64.zip |
-| 103.0.1264.21 | Beta    | x86          | https://msedgedriver.azureedge.net/103.0.1264.21/edgedriver_win32.zip |
+| 103.0.1264.32 | Beta    | ARM64        | https://msedgedriver.azureedge.net/103.0.1264.32/edgedriver_arm64.zip |
+| 103.0.1264.32 | Beta    | x64          | https://msedgedriver.azureedge.net/103.0.1264.32/edgedriver_win64.zip |
+| 103.0.1264.32 | Beta    | x86          | https://msedgedriver.azureedge.net/103.0.1264.32/edgedriver_win32.zip |
 | 102.0.1245.44 | Stable  | ARM64        | https://msedgedriver.azureedge.net/102.0.1245.44/edgedriver_arm64.zip |
 | 102.0.1245.44 | Stable  | x64          | https://msedgedriver.azureedge.net/102.0.1245.44/edgedriver_win64.zip |
 | 102.0.1245.44 | Stable  | x86          | https://msedgedriver.azureedge.net/102.0.1245.44/edgedriver_win32.zip |
@@ -1296,7 +1296,7 @@
 
 | Version                  | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                           |
 | ------------------------ | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 5.6.0-alpha.2.20220615.1 | x64          | Alpha   | 06/15/2022 14:17:19 | 325886616 | JNkchoDdHPW6zVeTWTqVk25N8A5n7IArx8ndMKFS9VmLKVpBQiJ3wXXbnfnQ3IG3FBZIhhgMLnnkssZTrz17FA== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.2.20220615.1.exe |
+| 5.6.0-alpha.3.20220620.1 | x64          | Alpha   | 06/20/2022 16:22:51 | 322953824 | RyFe+X34LbGFxgHREJnQMsaqlCIQuD7dthTcSgcZ4yEBoNoJQj4RWdjeRmVXLtmpgwVluydrnVloEHw4LED4Jw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.3.20220620.1.exe |
 | 5.5.4-latest.20220609.2  | x64          | Stable  | 06/10/2022 14:38:52 | 276624664 | 8gzhQ7Gq6obzszcQyyruintYZ3K0WIUIQvM+eXB1sxIcj6LX48PZM5/nflghTp+MJHv1qEVXYdecNqeEi+yWGQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.4-latest.20220609.2.exe  |
 
 ## MozillaFirefox
@@ -2956,8 +2956,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -3190,12 +3190,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
 
 ## VisualCppRedistAIO
 
