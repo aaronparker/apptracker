@@ -1,0 +1,7 @@
+json/Gimp.json
+json/HashicorpBoundary.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MirantisLens.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
