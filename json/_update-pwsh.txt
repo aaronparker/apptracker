@@ -1,0 +1,8 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/Postman.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

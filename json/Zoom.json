@@ -1,5 +1,17 @@
 [
   {
+    "Version": "5.11.0.6569",
+    "Platform": "Windows",
+    "Type": "Exe",
+    "URI": "https://cdn.zoom.us/prod/5.11.0.6569/ZoomInstaller.exe"
+  },
+  {
+    "Version": "5.11.0.6569",
+    "Platform": "Windows",
+    "Type": "Msi",
+    "URI": "https://cdn.zoom.us/prod/5.11.0.6569/ZoomInstallerFull.msi"
+  },
+  {
     "Version": "5.11.0.534",
     "Platform": "Windows",
     "Type": "Lync",
@@ -16,18 +28,6 @@
     "Platform": "Windows",
     "Type": "Outlook",
     "URI": "https://cdn.zoom.us/prod/5.11.0.532/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "5.10.7.6120",
-    "Platform": "Windows",
-    "Type": "Exe",
-    "URI": "https://cdn.zoom.us/prod/5.10.7.6120/ZoomInstaller.exe"
-  },
-  {
-    "Version": "5.10.7.6120",
-    "Platform": "Windows",
-    "Type": "Msi",
-    "URI": "https://cdn.zoom.us/prod/5.10.7.6120/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.10.6.1421",
