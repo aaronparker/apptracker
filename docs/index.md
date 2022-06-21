@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.2   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -617,9 +617,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2.10.32 | 06/12/2022 | 5503c3057a023f781e32e6b8fec83dfc45263b9005e76626b4c43cb257295a67 | https://mirror.nju.edu.cn/gimp/v2.10/windows/gimp-2.10.32-setup.exe |
 
 ## GitForWindows
 
@@ -756,8 +756,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.10.4  | zip  | x64          | https://releases.hashicorp.com/vault/1.10.4/vault_1.10.4_windows_amd64.zip |
-| 1.10.4  | zip  | x86          | https://releases.hashicorp.com/vault/1.10.4/vault_1.10.4_windows_386.zip   |
+| 1.11.0  | zip  | x64          | https://releases.hashicorp.com/vault/1.11.0/vault_1.11.0_windows_amd64.zip |
+| 1.11.0  | zip  | x86          | https://releases.hashicorp.com/vault/1.11.0/vault_1.11.0_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -851,9 +851,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1105,15 +1105,13 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.130.0616.0001 | AMD64        | InternalFast | RBWZYH3zLKRV4NAT4oBDp07OuEAuwHHufAEvcWdZXfE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.130.0616.0001/amd64/OneDriveSetup.exe                           |
-| 22.130.0616.0001 | x86          | InternalFast | 3YZzWU3+xyT8jBtQ3zfrQzgH2pwbnkS6mrOWVo1Ftmo= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.130.0616.0001/OneDriveSetup.exe                                 |
-| 22.126.0612.0001 | AMD64        | InternalSlow | xJlsjI/eDhAckp5vqlWU67WEGeBMAUVWjvPWJajZKpI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0001/amd64/OneDriveSetup.exe                           |
-| 22.126.0612.0001 | x86          | InternalSlow | qKkJTzVFLIAB5B3nGwlnnvNPwjS3ZoyAULL9DDMFyLg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0001/OneDriveSetup.exe                                 |
+| 22.131.0619.0001 | AMD64        | InternalFast | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.131.0619.0001/amd64/OneDriveSetup.exe                           |
+| 22.131.0619.0001 | x86          | InternalFast | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.131.0619.0001/OneDriveSetup.exe                                 |
+| 22.126.0612.0002 | AMD64        | InternalSlow | +pCOgirpviqbeQ/cUluEguqx2gHfkqFMLtfioXa4Ru0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0002/amd64/OneDriveSetup.exe                           |
+| 22.126.0612.0002 | x86          | InternalSlow | 9UvoqdcjvgXXZExI/bbqWkWb4u62jERm1P/lSamLMrY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0002/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | AMD64        | Insider      | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
-| 22.121.0605.0002 | AMD64        | InternalSlow | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
 | 22.121.0605.0002 | AMD64        | Production   | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.121.0605.0002/amd64/OneDriveSetup.exe                               |
 | 22.121.0605.0002 | x86          | Insider      | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/OneDriveSetup.exe                                 |
-| 22.121.0605.0002 | x86          | InternalSlow | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.121.0605.0002/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | x86          | Production   | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.121.0605.0002/OneDriveSetup.exe                                     |
 | 22.111.0522.0002 | AMD64        | Production   | rVZjZ6j3+Xp76b20jJzDEhLrrX/1msTDDBx7PkZ8EIA= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/amd64/OneDriveSetup.exe                               |
 | 22.111.0522.0002 | x86          | Production   | hKoNZd07yztWNA2LiVhTwfXVFSLiIEHT7TgCN1fm76I= | exe  | https://oneclient.sfx.ms/Win/Prod/22.111.0522.0002/OneDriveSetup.exe                                     |
@@ -1140,8 +1138,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 0.59.1  | Windows  | ARM64        | exe  | 06/15/2022 | 85197416 | https://github.com/microsoft/PowerToys/releases/download/v0.59.1/PowerToysSetup-0.59.1-arm64.exe |
-| 0.59.1  | Windows  | x64          | exe  | 06/15/2022 | 90266816 | https://github.com/microsoft/PowerToys/releases/download/v0.59.1/PowerToysSetup-0.59.1-x64.exe   |
+| 0.59.0  | Windows  | ARM64        | exe  | 06/07/2022 | 85302096 | https://github.com/microsoft/PowerToys/releases/download/v0.59.0/PowerToysSetup-0.59.0-arm64.exe |
+| 0.59.0  | Windows  | x64          | exe  | 06/07/2022 | 90150864 | https://github.com/microsoft/PowerToys/releases/download/v0.59.0/PowerToysSetup-0.59.0-x64.exe   |
 
 ## MicrosoftSsms
 
@@ -1246,7 +1244,6 @@
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3213.0 | ARM64        | Insider | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
-| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
 | 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 | 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 | 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
@@ -2956,8 +2953,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
-| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -3188,14 +3185,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -3203,7 +3200,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 0.60.0  | Windows  | x64          | zip  | 04/08/2022 | 28848939 | https://github.com/abbodi1406/vcredist/releases/download/v0.60.0/VisualCppRedist_AIO_x86_x64_60.zip |
+| 0.61.0  | Windows  | x64          | zip  | 06/21/2022 | 28328430 | https://github.com/abbodi1406/vcredist/releases/download/v0.61.0/VisualCppRedist_AIO_x86_x64_61.zip |
 
 ## VMwareHorizonClient
 
