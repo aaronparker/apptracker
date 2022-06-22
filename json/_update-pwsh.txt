@@ -1,0 +1,4 @@
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MuseScore.json
+json/VideoLanVlcPlayer.json
