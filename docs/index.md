@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.2   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -555,26 +555,28 @@
 
 [Link](https://www.freedomscientific.com/products/software/fusion/)
 
-| Version     | Date       | URI                                                                                                              |
-| ----------- | ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 2022.2204.7 | April 2022 | https://fusion2022.vfo.digital/2022.2204.7.400/30C030A7-4311-4113-8A9B-DCD08F2A9892/F2022.2204.7.400-Offline.exe |
+| Version     | Date      | URI                                                                                                                  |
+| ----------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2022.2206.6 | June 2022 | https://fusion2022.vfo.digital/2022.2206.6.400/B2C1948A-142F-46B2-BDD9-06996A3CCD1A/F2022.2206.6.400-Offline-x86.exe |
+| 2022.2206.6 | June 2022 | https://fusion2022.vfo.digital/2022.2206.6.400/B2C1948A-142F-46B2-BDD9-06996A3CCD1A/F2022.2206.6.400-Offline-x64.exe |
 
 ## FreedomScientificJAWS
 
 [Link](https://www.freedomscientific.com/products/software/jaws/)
 
-| Version      | Architecture | Date       | URI                                                                                                                  |
-| ------------ | ------------ | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| 2022.2204.20 | x64          | April 2022 | https://jaws2022.vfo.digital/2022.2204.20.400/A0A93990-0D4A-42FA-91CC-85FEF705F33E/J2022.2204.20.400-Offline-x64.exe |
-| 2022.2204.20 | x86          | April 2022 | https://jaws2022.vfo.digital/2022.2204.20.400/A0A93990-0D4A-42FA-91CC-85FEF705F33E/J2022.2204.20.400-Offline-x86.exe |
+| Version     | Architecture | Date      | URI                                                                                                                |
+| ----------- | ------------ | --------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2022.2206.9 | x64          | June 2022 | https://jaws2022.vfo.digital/2022.2206.9.400/E6F61632-5F8C-40EA-840E-CBEAEACE27E5/J2022.2206.9.400-Offline-x64.exe |
+| 2022.2206.9 | x86          | June 2022 | https://jaws2022.vfo.digital/2022.2206.9.400/E6F61632-5F8C-40EA-840E-CBEAEACE27E5/J2022.2206.9.400-Offline-x86.exe |
 
 ## FreedomScientificZoomText
 
 [Link](https://www.freedomscientific.com/products/software/zoomtext/)
 
-| Version      | Date       | URI                                                                                                                   |
-| ------------ | ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| 2022.2204.21 | April 2022 | https://zoomtext2022.vfo.digital/2022.2204.21.400/FA0094ED-3D3B-4E1D-902D-1E73014CBCA4/ZT2022.2204.21.400-Offline.exe |
+| Version     | Date      | URI                                                                                                                     |
+| ----------- | --------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 2022.2206.7 | June 2022 | https://zoomtext2022.vfo.digital/2022.2206.7.400/052D231F-96B7-434D-A289-B0AC73F76506/ZT2022.2206.7.400-Offline-x86.exe |
+| 2022.2206.7 | June 2022 | https://zoomtext2022.vfo.digital/2022.2206.7.400/052D231F-96B7-434D-A289-B0AC73F76506/ZT2022.2206.7.400-Offline-x64.exe |
 
 ## FreeFem
 
@@ -617,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.gimp.ca/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.icm.edu.pl/pub/graphics/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -1109,7 +1111,9 @@
 | 22.132.0620.0001 | x86          | InternalFast | X1X3iPJeQbbbJG5sqZvdwWXF7IEBu0fnS1ALEudacOI= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.132.0620.0001/OneDriveSetup.exe                                 |
 | 22.131.0619.0001 | AMD64        | InternalSlow | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.131.0619.0001/amd64/OneDriveSetup.exe                           |
 | 22.131.0619.0001 | x86          | InternalSlow | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.131.0619.0001/OneDriveSetup.exe                                 |
+| 22.126.0612.0002 | AMD64        | Insider      | +pCOgirpviqbeQ/cUluEguqx2gHfkqFMLtfioXa4Ru0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.126.0612.0002/amd64/OneDriveSetup.exe                           |
 | 22.126.0612.0002 | AMD64        | InternalSlow | +pCOgirpviqbeQ/cUluEguqx2gHfkqFMLtfioXa4Ru0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0002/amd64/OneDriveSetup.exe                           |
+| 22.126.0612.0002 | x86          | Insider      | 9UvoqdcjvgXXZExI/bbqWkWb4u62jERm1P/lSamLMrY= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.126.0612.0002/OneDriveSetup.exe                                 |
 | 22.126.0612.0002 | x86          | InternalSlow | 9UvoqdcjvgXXZExI/bbqWkWb4u62jERm1P/lSamLMrY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0002/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | AMD64        | Insider      | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
 | 22.121.0605.0002 | AMD64        | Production   | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.121.0605.0002/amd64/OneDriveSetup.exe                               |
@@ -1246,6 +1250,7 @@
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3213.0 | ARM64        | Insider | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
 | 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 | 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 | 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
@@ -3384,14 +3389,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                   |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
