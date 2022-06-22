@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.2   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -617,9 +617,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.gethosted.online/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -738,8 +738,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.8.1   | zip  | x64          | https://releases.hashicorp.com/packer/1.8.1/packer_1.8.1_windows_amd64.zip |
-| 1.8.1   | zip  | x86          | https://releases.hashicorp.com/packer/1.8.1/packer_1.8.1_windows_386.zip   |
+| 1.8.2   | zip  | x64          | https://releases.hashicorp.com/packer/1.8.2/packer_1.8.2_windows_amd64.zip |
+| 1.8.2   | zip  | x86          | https://releases.hashicorp.com/packer/1.8.2/packer_1.8.2_windows_386.zip   |
 
 ## HashicorpTerraform
 
@@ -983,7 +983,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15407.20000 | BetaChannel       | Beta                                  | 06/14/2022 23:01:41 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15330.20114 | CurrentPreview    | Current Channel (Preview)             | 06/14/2022 23:40:21 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15330.20158 | CurrentPreview    | Current Channel (Preview)             | 06/21/2022 19:56:30 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15225.20288 | Current           | Current Channel                       | 06/14/2022 08:13:11 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15128.20280 | MonthlyEnterprise | Monthly Enterprise                    | 06/14/2022 07:56:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20494 | SemiAnnualPreview | Semi-Annual Channel Preview           | 06/14/2022 09:31:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -997,8 +997,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.38.0  | win32-x64      | Insider | 6bf281c6d5025bd6bb9ae1c1e4fbbe7ac90bb6c6d427301f53e4d919d760d98b | https://sqlopsbuilds.azureedge.net/insider/ba6a2f18a7a0f75c1018176f2bf353ee120fbec6/azuredatastudio-windows-setup-1.38.0-insider.exe      |
-| 1.38.0  | win32-x64-user | Insider | 382f2e5bb79e82380d63b0a8dd47f9e1948ab1e8a9094e4fd7b6c838d83572a0 | https://sqlopsbuilds.azureedge.net/insider/ba6a2f18a7a0f75c1018176f2bf353ee120fbec6/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
+| 1.38.0  | win32-x64      | Insider | b23083919f1e8233f12846b8c438d43577778219e4ff1da8310a562182a389c4 | https://sqlopsbuilds.azureedge.net/insider/b8529c52a70379c26b49c25a0172c3b7143f183a/azuredatastudio-windows-setup-1.38.0-insider.exe      |
+| 1.38.0  | win32-x64-user | Insider | 2a48e6a40c1e3b23a9d538305e9e19d4456aad93331b6d22678d7ab95effe400 | https://sqlopsbuilds.azureedge.net/insider/b8529c52a70379c26b49c25a0172c3b7143f183a/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
 | 1.37.0  | win32-x64      | Stable  | 4938288b7450401c69a344f93681964a4afbec746570ec342b9ef89093d22c77 | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-setup-1.37.0.exe               |
 | 1.37.0  | win32-x64-user | Stable  | db7ea98403ebeba953c3f801a553c786e0253544775404a6b9624c3b1ea7fcbd | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-user-setup-1.37.0.exe          |
 
@@ -1017,7 +1017,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------- |
-| 1.24.2  | Windows  | x86          | exe  | 05/12/2022 | 100964488 | https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.24.2/Windows_StorageExplorer.exe |
+| 1.24.3  | Windows  | x86          | exe  | 05/12/2022 | 101020440 | https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.24.3/Windows_StorageExplorer.exe |
 
 ## MicrosoftBicep
 
@@ -1105,10 +1105,10 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
+| 22.132.0620.0001 | AMD64        | InternalFast | UMnFrJ1iqpcxzByE1m+HbqHV4SpEye0T9Oifwc/4Qa0= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.132.0620.0001/amd64/OneDriveSetup.exe                           |
+| 22.132.0620.0001 | x86          | InternalFast | X1X3iPJeQbbbJG5sqZvdwWXF7IEBu0fnS1ALEudacOI= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.132.0620.0001/OneDriveSetup.exe                                 |
 | 22.131.0619.0001 | AMD64        | InternalSlow | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.131.0619.0001/amd64/OneDriveSetup.exe                           |
 | 22.131.0619.0001 | x86          | InternalSlow | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.131.0619.0001/OneDriveSetup.exe                                 |
-| 22.127.0613.0001 | AMD64        | InternalFast | vDfwJ1HVPfGCvIPNEkcN3KnNCnN7FnzXF2cBlEp1SSQ= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.127.0613.0001/amd64/OneDriveSetup.exe                           |
-| 22.127.0613.0001 | x86          | InternalFast | FEdKWwKiXFlmRl0CrXznlH5x5wuC9nvJUf6oriMkVVQ= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.127.0613.0001/OneDriveSetup.exe                                 |
 | 22.126.0612.0002 | AMD64        | InternalSlow | +pCOgirpviqbeQ/cUluEguqx2gHfkqFMLtfioXa4Ru0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0002/amd64/OneDriveSetup.exe                           |
 | 22.126.0612.0002 | x86          | InternalSlow | 9UvoqdcjvgXXZExI/bbqWkWb4u62jERm1P/lSamLMrY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.126.0612.0002/OneDriveSetup.exe                                 |
 | 22.121.0605.0002 | AMD64        | Insider      | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.121.0605.0002/amd64/OneDriveSetup.exe                           |
@@ -2584,7 +2584,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2022.2.6832 | 06/19/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.2.6832-x64.msi |
+| 2022.2.6872 | 06/21/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.2.6872-x64.msi |
 
 ## OctopusTentacle
 
@@ -3188,14 +3188,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
