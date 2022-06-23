@@ -1,0 +1,6 @@
+json/1Password.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerShell.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
