@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.gimp.ca/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1054,16 +1054,16 @@
 | 104.0.1293.1  | Windows  | Dev        | Enterprise | x86          | 35A98AB92151019A09BBD8775E6B5AEE7860C338F554ED4F734D60867C204240 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c8621fc4-35e5-4d6d-8cb4-2fedbce34c93/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 103.0.1264.37 | Windows  | Beta       | Consumer   | arm64        | 46D0FE98DFC0B877CA236C66E340C2D83225A06BCCD59857BF1C4E148740B3D2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2fca9290-7595-46f5-8d26-c1df45aed4fe/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 103.0.1264.37 | Windows  | Beta       | Enterprise | arm64        | 46D0FE98DFC0B877CA236C66E340C2D83225A06BCCD59857BF1C4E148740B3D2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2fca9290-7595-46f5-8d26-c1df45aed4fe/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 103.0.1264.37 | Windows  | Stable     | Consumer   | arm64        | EF9B615AB952EC1A729010990E5D41DF1D979B419C4E629EFEA6B4F4ED23EC85 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5aadef55-85d3-4f82-b0ad-0c386ac96c04/MicrosoftEdgeEnterpriseARM64.msi            |
+| 103.0.1264.37 | Windows  | Stable     | Enterprise | arm64        | EF9B615AB952EC1A729010990E5D41DF1D979B419C4E629EFEA6B4F4ED23EC85 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5aadef55-85d3-4f82-b0ad-0c386ac96c04/MicrosoftEdgeEnterpriseARM64.msi            |
 | 103.0.1264.37 | Windows  | Beta       | Consumer   | x64          | 6DBABD00138F1EBD6B1FF1CE3986D0E95367F7551BD4DB3527449C762D898000 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d34cd2a-4e2e-4969-a2e7-9fe24a5e33b5/MicrosoftEdgeBetaEnterpriseX64.msi          |
 | 103.0.1264.37 | Windows  | Beta       | Enterprise | x64          | 6DBABD00138F1EBD6B1FF1CE3986D0E95367F7551BD4DB3527449C762D898000 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d34cd2a-4e2e-4969-a2e7-9fe24a5e33b5/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 103.0.1264.37 | Windows  | Stable     | Consumer   | x64          | C8EDF20ECBFDF272C5BB7174ED5FC725B243486D9192E8ABC460EF4CED916EE8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/845ba9ba-f72e-4293-aaec-95ea17b356cb/MicrosoftEdgeEnterpriseX64.msi              |
+| 103.0.1264.37 | Windows  | Stable     | Enterprise | x64          | C8EDF20ECBFDF272C5BB7174ED5FC725B243486D9192E8ABC460EF4CED916EE8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/845ba9ba-f72e-4293-aaec-95ea17b356cb/MicrosoftEdgeEnterpriseX64.msi              |
 | 103.0.1264.37 | Windows  | Beta       | Consumer   | x86          | EDDED4BA934C0526B0F4A49B61B748510D90F653EC15AE74CF6432BDB5A26FE8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/13151ff9-91f3-49bd-88cf-ecc922074f75/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 103.0.1264.37 | Windows  | Beta       | Enterprise | x86          | EDDED4BA934C0526B0F4A49B61B748510D90F653EC15AE74CF6432BDB5A26FE8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/13151ff9-91f3-49bd-88cf-ecc922074f75/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 102.0.1245.44 | Windows  | Stable     | Consumer   | arm64        | C28E88188E09FD7E854C7A357BA151BD4BBEA9E2D6272F4DB87B2506B512B9EE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/846115e4-15b6-452b-a463-6b7850ccb039/MicrosoftEdgeEnterpriseARM64.msi            |
-| 102.0.1245.44 | Windows  | Stable     | Enterprise | arm64        | C28E88188E09FD7E854C7A357BA151BD4BBEA9E2D6272F4DB87B2506B512B9EE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/846115e4-15b6-452b-a463-6b7850ccb039/MicrosoftEdgeEnterpriseARM64.msi            |
-| 102.0.1245.44 | Windows  | Stable     | Consumer   | x64          | 0AD8E74053E4E0680E3ADD4249DEB9CD734CF1C01493C14B0A7C2D6E3C5FB8C7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ccccb4f6-dfab-40be-a4e7-a8008a17846e/MicrosoftEdgeEnterpriseX64.msi              |
-| 102.0.1245.44 | Windows  | Stable     | Enterprise | x64          | 0AD8E74053E4E0680E3ADD4249DEB9CD734CF1C01493C14B0A7C2D6E3C5FB8C7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ccccb4f6-dfab-40be-a4e7-a8008a17846e/MicrosoftEdgeEnterpriseX64.msi              |
-| 102.0.1245.44 | Windows  | Stable     | Consumer   | x86          | 61D2FFD65C34E79FD8AF27F206C163B26A17128D94042111CB323E82B8A838B6 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fbdd87fd-f431-4280-9e4f-914263797418/MicrosoftEdgeEnterpriseX86.msi              |
-| 102.0.1245.44 | Windows  | Stable     | Enterprise | x86          | 61D2FFD65C34E79FD8AF27F206C163B26A17128D94042111CB323E82B8A838B6 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fbdd87fd-f431-4280-9e4f-914263797418/MicrosoftEdgeEnterpriseX86.msi              |
+| 103.0.1264.37 | Windows  | Stable     | Consumer   | x86          | 6778599955A89B1B182F2D50110687B964BE1C93A63D4B8E37C6BF590B12FCB5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4897ad99-e592-46cb-89ef-fa4c96290112/MicrosoftEdgeEnterpriseX86.msi              |
+| 103.0.1264.37 | Windows  | Stable     | Enterprise | x86          | 6778599955A89B1B182F2D50110687B964BE1C93A63D4B8E37C6BF590B12FCB5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4897ad99-e592-46cb-89ef-fa4c96290112/MicrosoftEdgeEnterpriseX86.msi              |
 | 1.3.163.19    | Windows  | EdgeUpdate | Consumer   | x86          | 247E1F751C83881FDDEF06B25DEC56C6E297DC73E4DEF4C0A6ECFC199319980E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23849de0-461b-4bf0-9f89-fde36b202f97/MicrosoftEdgeUpdateSetup_X86_1.3.163.19.exe |
 | 1.3.163.19    | Windows  | EdgeUpdate | Enterprise | x86          | 247E1F751C83881FDDEF06B25DEC56C6E297DC73E4DEF4C0A6ECFC199319980E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23849de0-461b-4bf0-9f89-fde36b202f97/MicrosoftEdgeUpdateSetup_X86_1.3.163.19.exe |
 
@@ -1077,11 +1077,11 @@
 | 104.0.1293.1  | Dev     | x64          | https://msedgedriver.azureedge.net/104.0.1293.1/edgedriver_win64.zip  |
 | 104.0.1293.1  | Dev     | x86          | https://msedgedriver.azureedge.net/104.0.1293.1/edgedriver_win32.zip  |
 | 103.0.1264.37 | Beta    | ARM64        | https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_arm64.zip |
+| 103.0.1264.37 | Stable  | ARM64        | https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_arm64.zip |
 | 103.0.1264.37 | Beta    | x64          | https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_win64.zip |
+| 103.0.1264.37 | Stable  | x64          | https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_win64.zip |
 | 103.0.1264.37 | Beta    | x86          | https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_win32.zip |
-| 102.0.1245.44 | Stable  | ARM64        | https://msedgedriver.azureedge.net/102.0.1245.44/edgedriver_arm64.zip |
-| 102.0.1245.44 | Stable  | x64          | https://msedgedriver.azureedge.net/102.0.1245.44/edgedriver_win64.zip |
-| 102.0.1245.44 | Stable  | x86          | https://msedgedriver.azureedge.net/102.0.1245.44/edgedriver_win32.zip |
+| 103.0.1264.37 | Stable  | x86          | https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_win32.zip |
 
 ## MicrosoftEdgeWebView2Runtime
 
@@ -1089,9 +1089,9 @@
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 102.0.1245.44 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1b05385-d47b-4071-a481-5cbfca2379f0/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 102.0.1245.44 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d2b2d36f-cce4-4d4b-9ece-2026f14742af/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 102.0.1245.44 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4bcb4554-d35b-44b6-bddd-4a347541a4a9/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| 103.0.1264.37 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0e183f79-4890-4f6a-85ed-2bff349c5ee3/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 103.0.1264.37 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d2b2d36f-cce4-4d4b-9ece-2026f14742af/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 103.0.1264.37 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4bcb4554-d35b-44b6-bddd-4a347541a4a9/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftFSLogixApps
 
@@ -1247,12 +1247,11 @@
 
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3213.0 | ARM64        | Insider | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
-| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 26095616 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
-| 1.2.3213.0 | x64          | Insider | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| 1.2.3313.0 | ARM64        | Insider | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
+| 1.2.3313.0 | ARM64        | Public  | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
+| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
+| 1.2.3313.0 | x86          | Public  | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
 | 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
-| 1.2.3213.0 | x86          | Insider | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
-| 1.2.3213.0 | x86          | Public  | 06/01/2022 | 22282240 | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
 
 ## MicrosoftWvdRtcService
 
@@ -3155,8 +3154,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -3392,9 +3391,9 @@
 | 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
 | 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
 | 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe               |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi               |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip               |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
 
 ## VisualCppRedistAIO
 
