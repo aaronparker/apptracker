@@ -1,8 +1,0 @@
-json/Gimp.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftEdgeWebView2Runtime.json
-json/MicrosoftWvdRemoteDesktop.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
