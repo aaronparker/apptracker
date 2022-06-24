@@ -1,8 +1,0 @@
-json/Anki.json
-json/DockerDesktop.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/Slack.json
-json/VideoLanVlcPlayer.json
