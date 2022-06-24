@@ -1,13 +1,7 @@
 {
-  "Version": [
-    "4.8.2",
-    "4.9.1"
-  ],
-  "Build": [
-    "79419",
-    "81317"
-  ],
-  "Size": 2,
+  "Version": "4.9.1",
+  "Build": "81317",
+  "Size": "518667648",
   "Type": "msi",
-  "URI": "https://desktop.docker.com/win/main/amd64/79419/DockerDesktop.msi"
+  "URI": "https://desktop.docker.com/win/main/amd64/81317/DockerDesktop.msi"
 }

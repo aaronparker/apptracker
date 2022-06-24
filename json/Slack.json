@@ -7,14 +7,14 @@
   },
   {
     "Version": "4.27.154",
-    "Platform": "PerUser",
-    "Architecture": "x64",
-    "URI": "https://downloads.slack-edge.com/releases/windows/4.27.154/prod/x64/SlackSetup.msi"
-  },
-  {
-    "Version": "4.27.154",
     "Platform": "PerMachine",
     "Architecture": "x86",
     "URI": "https://downloads.slack-edge.com/releases/windows/4.27.154/prod/ia32/slack-standalone-4.27.154.0.msi"
+  },
+  {
+    "Version": "Latest",
+    "Platform": "PerUser",
+    "Architecture": "x64",
+    "URI": null
   }
 ]
