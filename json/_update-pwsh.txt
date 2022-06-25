@@ -1,0 +1,11 @@
+json/1Password.json
+json/Gimp.json
+json/GoogleChrome.json
+json/Microsoft365Apps.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/RStudio.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
