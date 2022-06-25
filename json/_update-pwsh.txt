@@ -1,5 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/SumatraPDFReader.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
