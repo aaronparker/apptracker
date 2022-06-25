@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.2   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.gethosted.online/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -668,10 +668,10 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
+| 105.0.5137.4  | x64          | dev     | 06/24/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 105.0.5137.4  | x86          | dev     | 06/24/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 104.0.5112.20 | x64          | beta    | 06/23/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 104.0.5112.20 | x64          | dev     | 06/22/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 104.0.5112.20 | x86          | beta    | 06/23/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 104.0.5112.20 | x86          | dev     | 06/22/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 103.0.5060.53 | x64          | stable  | 06/21/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 103.0.5060.53 | x86          | stable  | 06/21/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -985,7 +985,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15407.20000 | BetaChannel       | Beta                                  | 06/14/2022 23:01:41 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15330.20158 | CurrentPreview    | Current Channel (Preview)             | 06/21/2022 19:56:30 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15330.20196 | CurrentPreview    | Current Channel (Preview)             | 06/24/2022 22:24:14 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15225.20288 | Current           | Current Channel                       | 06/14/2022 08:13:11 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15128.20280 | MonthlyEnterprise | Monthly Enterprise                    | 06/14/2022 07:56:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20494 | SemiAnnualPreview | Semi-Annual Channel Preview           | 06/14/2022 09:31:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1090,8 +1090,8 @@
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 103.0.1264.37 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0e183f79-4890-4f6a-85ed-2bff349c5ee3/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 103.0.1264.37 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d2b2d36f-cce4-4d4b-9ece-2026f14742af/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 103.0.1264.37 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4bcb4554-d35b-44b6-bddd-4a347541a4a9/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| 103.0.1264.37 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa5fd9b3-dc11-4cbc-8343-a50f57b311e1/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 103.0.1264.37 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a17bde80-b5ab-47b5-8bbb-1cbe93fc6ec9/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftFSLogixApps
 
@@ -1107,8 +1107,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.134.0622.0001 | AMD64        | InternalFast | uubMg1OiTuXYsM73RS5dKwt2OSgqrdgeM5EZ7hU/VvY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.134.0622.0001/amd64/OneDriveSetup.exe                           |
-| 22.134.0622.0001 | x86          | InternalFast | ygPPwOXEugpPstiLskewxomaakk75QZnNRCSbQYrILQ= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.134.0622.0001/OneDriveSetup.exe                                 |
+| 22.135.0623.0001 | AMD64        | InternalFast | yH3pTlkUpOuTfdZZclgJtJ7HGu8dE3miRMl2x7KLmYs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.135.0623.0001/amd64/OneDriveSetup.exe                           |
+| 22.135.0623.0001 | x86          | InternalFast | TTkTBhCRPC8vvjX4C/ClYdecU1OQ4mu+n36s3D4vvUY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.135.0623.0001/OneDriveSetup.exe                                 |
 | 22.131.0619.0001 | AMD64        | InternalSlow | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.131.0619.0001/amd64/OneDriveSetup.exe                           |
 | 22.131.0619.0001 | x86          | InternalSlow | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.131.0619.0001/OneDriveSetup.exe                                 |
 | 22.126.0612.0002 | AMD64        | Insider      | +pCOgirpviqbeQ/cUluEguqx2gHfkqFMLtfioXa4Ru0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.126.0612.0002/amd64/OneDriveSetup.exe                           |
@@ -1243,10 +1243,14 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-| Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
-| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3313.0 | ARM64        | Insider | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
+| 1.2.3313.0 | ARM64        | Public  | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
+| 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
+| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
+| 1.2.3313.0 | x86          | Public  | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
+| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 
 ## MicrosoftWvdRtcService
 
@@ -3021,17 +3025,17 @@
 | 1.4.1743-4         | d54593e712749e85b1049653b46fee416b40ca045e78a7431bae576fdbbf4f68 | 161044432 | Juliet Rose       | Preview | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.exe         |
 | 1.4.1743-4         | 2d255f43b5d104062d69f30ba14b0fd2720cc79c2a7aea33a14f9fc90e45b4bd | 234551432 | Juliet Rose       | Preview | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.zip         |
 | 2022.02.4+496      | 06676c75819e00065bb25de748c50c8d51517df7389bff472100f6774bff1c98 | 177266752 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-496.exe          |
-| 2022.02.3+495.pro8 | 2fdd82d2b2324e183d9876b46680d252f1b4f4dae5c0bcd46695a6ba51cac813 | 181031048 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.exe |
+| 2022.02.4+496.pro1 | 1c5a860be66452e3a7cadfc2908062feca4535f508f6cf6507e86dfd7f0a6bc7 | 181035568 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-496.pro1.exe |
 | 2022.02.4+496      | 6ea1510aedf1958bbed001d1949e2626a92cec40d1d52a4199f4e69001c7ca5d | 245870162 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-496.zip          |
-| 2022.02.3+495.pro8 | 763ea729834d68de6c2631c5854d8ee9ff1e3d32e4ed7278b7967bf4f5883bac | 250813517 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.zip |
+| 2022.02.4+496.pro1 | 920bd736207d673ee29f7f19f5cd3fb1370cae11b6b5ce9975b9f4de55e841c4 | 250813228 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-496.pro1.zip |
 | 2022.02.4+496      | 06676c75819e00065bb25de748c50c8d51517df7389bff472100f6774bff1c98 | 177266752 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-496.exe          |
-| 2022.02.3+495.pro8 | 2fdd82d2b2324e183d9876b46680d252f1b4f4dae5c0bcd46695a6ba51cac813 | 181031048 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.exe |
+| 2022.02.4+496.pro1 | 1c5a860be66452e3a7cadfc2908062feca4535f508f6cf6507e86dfd7f0a6bc7 | 181035568 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-496.pro1.exe |
 | 2022.02.4+496      | 6ea1510aedf1958bbed001d1949e2626a92cec40d1d52a4199f4e69001c7ca5d | 245870162 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-496.zip          |
-| 2022.02.3+495.pro8 | 763ea729834d68de6c2631c5854d8ee9ff1e3d32e4ed7278b7967bf4f5883bac | 250813517 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.zip |
+| 2022.02.4+496.pro1 | 920bd736207d673ee29f7f19f5cd3fb1370cae11b6b5ce9975b9f4de55e841c4 | 250813228 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-496.pro1.zip |
 | 2022.02.4+496      | 06676c75819e00065bb25de748c50c8d51517df7389bff472100f6774bff1c98 | 177266752 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-496.exe          |
-| 2022.02.3+495.pro8 | 2fdd82d2b2324e183d9876b46680d252f1b4f4dae5c0bcd46695a6ba51cac813 | 181031048 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.exe |
+| 2022.02.4+496.pro1 | 1c5a860be66452e3a7cadfc2908062feca4535f508f6cf6507e86dfd7f0a6bc7 | 181035568 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-496.pro1.exe |
 | 2022.02.4+496      | 6ea1510aedf1958bbed001d1949e2626a92cec40d1d52a4199f4e69001c7ca5d | 245870162 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-496.zip          |
-| 2022.02.3+495.pro8 | 763ea729834d68de6c2631c5854d8ee9ff1e3d32e4ed7278b7967bf4f5883bac | 250813517 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.3-495.pro8.zip |
+| 2022.02.4+496.pro1 | 920bd736207d673ee29f7f19f5cd3fb1370cae11b6b5ce9975b9f4de55e841c4 | 250813228 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-496.pro1.zip |
 
 ## SafeExamBrowser
 
@@ -3149,8 +3153,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -3381,14 +3385,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
 
 ## VisualCppRedistAIO
 
