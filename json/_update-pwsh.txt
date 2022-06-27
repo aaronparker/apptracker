@@ -1,4 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/SumatraPDFReader.json
-json/Zoom.json
