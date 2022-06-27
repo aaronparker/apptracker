@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.1.0",
+    "Version": "5.1.1",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://releases.mattermost.com/desktop/5.1.0/mattermost-desktop-5.1.0-x64.msi"
+    "URI": "https://releases.mattermost.com/desktop/5.1.1/mattermost-desktop-5.1.1-x64.msi"
   },
   {
-    "Version": "5.1.0",
+    "Version": "5.1.1",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://releases.mattermost.com/desktop/5.1.0/mattermost-desktop-setup-5.1.0-win.exe"
+    "URI": "https://releases.mattermost.com/desktop/5.1.1/mattermost-desktop-setup-5.1.1-win.exe"
   },
   {
-    "Version": "5.1.0",
+    "Version": "5.1.1",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://releases.mattermost.com/desktop/5.1.0/mattermost-desktop-5.1.0-x86.msi"
+    "URI": "https://releases.mattermost.com/desktop/5.1.1/mattermost-desktop-5.1.1-x86.msi"
   }
 ]

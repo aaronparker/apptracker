@@ -1,0 +1,10 @@
+json/1Password.json
+json/Gimp.json
+json/GitForWindows.json
+json/GoogleChrome.json
+json/MattermostDesktop.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
