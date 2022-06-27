@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.2   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.2   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.2.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://artfiles.org/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -999,8 +999,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.38.0  | win32-x64      | Insider | e9822a91db2d6eb603409f995efb4e52e2710feec6cce5710f6a49ee50547ebf | https://sqlopsbuilds.azureedge.net/insider/4f2a430c7714e4ce95a2927c2edc3efe00829037/azuredatastudio-windows-setup-1.38.0-insider.exe      |
-| 1.38.0  | win32-x64-user | Insider | 38fffb19aad49376c57d46a9c95e92591c3ca6dad9128a3f6fef619a1fbb75ca | https://sqlopsbuilds.azureedge.net/insider/4f2a430c7714e4ce95a2927c2edc3efe00829037/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
+| 1.38.0  | win32-x64      | Insider | 0519b3d08a180725162d66bffa1f55b3c1fc8f74c442bdd339ff1eddf5bc0d1d | https://sqlopsbuilds.azureedge.net/insider/157b017bf8cbb3b027949fde7cdb8535c55de051/azuredatastudio-windows-setup-1.38.0-insider.exe      |
+| 1.38.0  | win32-x64-user | Insider | ab069592198f31f3af6c5f2ff800c95c8137bfa94053325e856c1dc5a6f9fd5a | https://sqlopsbuilds.azureedge.net/insider/157b017bf8cbb3b027949fde7cdb8535c55de051/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
 | 1.37.0  | win32-x64      | Stable  | 4938288b7450401c69a344f93681964a4afbec746570ec342b9ef89093d22c77 | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-setup-1.37.0.exe               |
 | 1.37.0  | win32-x64-user | Stable  | db7ea98403ebeba953c3f801a553c786e0253544775404a6b9624c3b1ea7fcbd | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-user-setup-1.37.0.exe          |
 
@@ -1246,6 +1246,8 @@
 | Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
+| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
+| 1.2.3313.0 | x86          | Public  | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
 | 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 
 ## MicrosoftWvdRtcService
@@ -3149,8 +3151,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
-| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -3386,9 +3388,9 @@
 | 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
 | 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
 | 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe          |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi          |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip          |
 
 ## VisualCppRedistAIO
 
