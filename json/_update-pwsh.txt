@@ -1,0 +1,6 @@
+json/7zip.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
