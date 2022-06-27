@@ -48,9 +48,18 @@ if (Test-PSCore) {
 
     # Walk-through each Evergreen app and export data to JSON files
     foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
-        $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
-        if ($Null -eq $Output) {
+
+        try {
+            $Output = Get-EvergreenApp -Name $App -ErrorAction "SilentlyContinue" -WarningAction "SilentlyContinue"
+        }
+        catch {
             Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+            Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
+            $Output = $Null
+        }
+
+        if ($Null -eq $Output) {
+            Write-Host -Object "Output from apps is null: $App." -ForegroundColor "Cyan"
         }
         elseif ("RateLimited" -in $Output.Version) {
             Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
