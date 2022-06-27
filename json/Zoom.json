@@ -12,6 +12,12 @@
     "URI": "https://cdn.zoom.us/prod/5.11.0.6569/ZoomInstallerFull.msi"
   },
   {
+    "Version": "5.11.0.1540",
+    "Platform": "Windows",
+    "Type": "Rooms",
+    "URI": "https://cdn.zoom.us/prod/5.11.0.1540/zoomrooms-5.11.0.1540-x86.exe"
+  },
+  {
     "Version": "5.11.0.534",
     "Platform": "Windows",
     "Type": "Lync",
@@ -28,12 +34,6 @@
     "Platform": "Windows",
     "Type": "Outlook",
     "URI": "https://cdn.zoom.us/prod/5.11.0.532/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "5.10.6.1421",
-    "Platform": "Windows",
-    "Type": "Rooms",
-    "URI": "https://cdn.zoom.us/prod/5.10.6.1421/zoomrooms-5.10.6.1421-x86.exe"
   },
   {
     "Version": "Latest",
