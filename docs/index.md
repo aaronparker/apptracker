@@ -402,7 +402,7 @@
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |
-| 8.3.3.37544 | 04/28/2022 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.3.3.37544.exe |
+| 8.4.0.38000 | 06/28/2022 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.4.0.38000.exe |
 
 ## dbeaver
 
@@ -535,21 +535,21 @@
 
 [Link](https://www.foxitsoftware.com/pdf-reader/)
 
-| Version      | Date       | Language           | URI                                                                                                 |
-| ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------- |
-| 12.0.0.12394 | 06/28/2022 | Danish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Dutch              | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | English            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_enu_Setup.msi  |
-| 12.0.0.12394 | 06/28/2022 | Finnish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | French             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | German             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Italian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Norwegian          | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Polish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Russian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Spanish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
-| 12.0.0.12394 | 06/28/2022 | Swedish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.2.2/FoxitPDFReader1122_L10N_Setup.msi |
+| Version      | Date       | Language           | URI                                                                                                |
+| ------------ | ---------- | ------------------ | -------------------------------------------------------------------------------------------------- |
+| 12.0.0.12394 | 06/28/2022 | Danish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Dutch              | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | English            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_enu_Setup.msi  |
+| 12.0.0.12394 | 06/28/2022 | Finnish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | French             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | German             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Italian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Norwegian          | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Polish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Russian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Spanish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
+| 12.0.0.12394 | 06/28/2022 | Swedish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi |
 
 ## FreedomScientificFusion
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.kumi.systems/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -2929,7 +2929,7 @@
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
-| 9.22.2  | 146333528 | 2950087FF211D68551D99E6D44F681E71F294B8E | 06/21/2022 09:52:20 | x64          | Postman-win64-9.22.2-Setup.exe | https://dl.pstmn.io/download/version/9.22.2/windows64 |
+| 9.19.0  | 147539872 | D03CDEE2D0C72B76A8A3F8A8C3A19011887ED77B | 05/09/2022 13:02:36 | x64          | Postman-win64-9.19.0-Setup.exe | https://dl.pstmn.io/download/version/9.19.0/windows64 |
 | 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe  | https://dl.pstmn.io/download/version/9.4.1/windows32  |
 
 ## Praat
@@ -3153,8 +3153,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
-| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -3186,7 +3186,7 @@
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
-| 15.30.3 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
+| 15.31.5 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
 ## TechSmithCamtasia
 
@@ -3385,14 +3385,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe                 |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi                 |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip                 |
 
 ## VisualCppRedistAIO
 
