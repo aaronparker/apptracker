@@ -1,0 +1,8 @@
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/Postman.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
