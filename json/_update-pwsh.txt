@@ -1,8 +1,0 @@
-json/Cyberduck.json
-json/FoxitReader.json
-json/Gimp.json
-json/Postman.json
-json/SumatraPDFReader.json
-json/TeamViewer.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
