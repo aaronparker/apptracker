@@ -1,6 +1,0 @@
-json/GeekSoftwarePDF24Creator.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/Tower.json
-json/VideoLanVlcPlayer.json
