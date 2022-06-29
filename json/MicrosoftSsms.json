@@ -26,12 +26,6 @@
   {
     "Version": "15.0.18410.0",
     "Date": "03/05/2022",
-    "Language": "German",
-    "URI": "https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-DEU.exe"
-  },
-  {
-    "Version": "15.0.18410.0",
-    "Date": "03/05/2022",
     "Language": "Italian",
     "URI": "https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ITA.exe"
   },
