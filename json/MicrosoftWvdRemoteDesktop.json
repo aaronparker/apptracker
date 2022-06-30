@@ -9,15 +9,6 @@
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q"
   },
   {
-    "Version": "1.2.3313.0",
-    "Architecture": "x86",
-    "Channel": "Insider",
-    "Date": "06/23/2022",
-    "Size": "23076864",
-    "Filename": "RemoteDesktop_1.2.3313.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R"
-  },
-  {
     "Version": "1.2.3213.0",
     "Architecture": "x64",
     "Channel": "Public",
