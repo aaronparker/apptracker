@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.3   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.3   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
 
 ## 1Password7
 
@@ -366,7 +366,7 @@
 
 | Version    | Title                                  | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                  |
 | ---------- | -------------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
-| 22.5.0.18  | Citrix Workspace - Current Release     | 243759536 | ec78b855f25b8f3718fc6225858c2210ab0149bcb87a1c6af9972c0a482991c3 | 05/16/2022 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.5.0.18.exe |
+| 22.6.0.60  | Citrix Workspace - Current Release     | 248363952 | 97f744b9f2d6fb9a96977346cd210151dc33c466923328694538130b2ad28d04 | 06/30/2022 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.6.0.60.exe |
 | 22.3.1.41  | Citrix Workspace - LTSR                | 95715248  | 628e7bd071987637e43ebae95b6009059859226443059fa1baf9aab57ae2f611 | 04/07/2022 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.1.41.exe |
 | 2.7.0.2113 | HDX RTME for Windows - Current Release | 45862912  | 3589e4faf1495e6ee3f3f538cf4c3f77576dd35af8b0238ac3b6f916aa483027 | 03/12/2019 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.7.0.2113.msi     |
 | 2.4.3000.3 | HDX RTME for Windows - LTSR CU3        | 45314048  | 690c39203845c2aa7b22045fb4a3a4dcc309045fb064a0f4d1c0902c3902246f | 04/23/2019 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/CitrixRTME/Win/CitrixRTME_2.4.3000.3.msi     |
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp-mirror.usessionbuddy.com/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1243,14 +1243,10 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-| Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3313.0 | ARM64        | Insider | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
-| 1.2.3313.0 | ARM64        | Public  | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
-| 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
-| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
-| 1.2.3313.0 | x86          | Public  | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
-| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
+| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 
 ## MicrosoftWvdRtcService
 
@@ -1296,7 +1292,7 @@
 
 | Version                  | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                           |
 | ------------------------ | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 5.6.0-alpha.5.20220629.3 | x64          | Alpha   | 06/29/2022 11:32:26 | 294130112 | /ECQT4/1bp2MY0O3Xf0XE5syIQCL/oA9YfRe+WuRUCDgfVVwtjRtmTstLinqxNBcj6oLVw6yNY6btzwOnYHoTw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.5.20220629.3.exe |
+| 5.6.0-alpha.5.20220630.1 | x64          | Alpha   | 06/30/2022 11:30:19 | 296845032 | ek7cjqrKycIFCpfwZehjKi2E3Wwl2JXQsNYvrREU16b3LDDpuYvkSWrNckjVrvVJouE3Csyid5ZBiFJ60NyNPw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.5.20220630.1.exe |
 | 5.5.4-latest.20220609.2  | x64          | Stable  | 06/10/2022 14:38:52 | 276624664 | 8gzhQ7Gq6obzszcQyyruintYZ3K0WIUIQvM+eXB1sxIcj6LX48PZM5/nflghTp+MJHv1qEVXYdecNqeEi+yWGQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.4-latest.20220609.2.exe  |
 
 ## MozillaFirefox
@@ -3391,12 +3387,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe    |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi    |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip    |
 
 ## VisualCppRedistAIO
 
