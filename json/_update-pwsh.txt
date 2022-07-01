@@ -1,0 +1,5 @@
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
