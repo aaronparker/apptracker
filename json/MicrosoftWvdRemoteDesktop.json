@@ -1,24 +1,6 @@
 [
   {
     "Version": "1.2.3313.0",
-    "Architecture": "ARM64",
-    "Channel": "Insider",
-    "Date": "06/23/2022",
-    "Size": "26931200",
-    "Filename": "RemoteDesktop_1.2.3313.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P"
-  },
-  {
-    "Version": "1.2.3313.0",
-    "Architecture": "ARM64",
-    "Channel": "Public",
-    "Date": "06/23/2022",
-    "Size": "26931200",
-    "Filename": "RemoteDesktop_1.2.3313.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P"
-  },
-  {
-    "Version": "1.2.3313.0",
     "Architecture": "x64",
     "Channel": "Insider",
     "Date": "06/23/2022",

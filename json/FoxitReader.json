@@ -2,18 +2,6 @@
   {
     "Version": "12.0.0.12394",
     "Date": "06/28/2022",
-    "Language": "Danish",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
-  },
-  {
-    "Version": "12.0.0.12394",
-    "Date": "06/28/2022",
-    "Language": "Dutch",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
-  },
-  {
-    "Version": "12.0.0.12394",
-    "Date": "06/28/2022",
     "Language": "English",
     "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_enu_Setup.msi"
   },
@@ -32,19 +20,7 @@
   {
     "Version": "12.0.0.12394",
     "Date": "06/28/2022",
-    "Language": "German",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
-  },
-  {
-    "Version": "12.0.0.12394",
-    "Date": "06/28/2022",
     "Language": "Italian",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
-  },
-  {
-    "Version": "12.0.0.12394",
-    "Date": "06/28/2022",
-    "Language": "Norwegian",
     "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
   },
   {
@@ -63,12 +39,6 @@
     "Version": "12.0.0.12394",
     "Date": "06/28/2022",
     "Language": "Russian",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
-  },
-  {
-    "Version": "12.0.0.12394",
-    "Date": "06/28/2022",
-    "Language": "Spanish",
     "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.0.0/FoxitPDFReader120_L10N_Setup.msi"
   },
   {
