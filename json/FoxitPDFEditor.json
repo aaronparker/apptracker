@@ -2,7 +2,7 @@
   {
     "Version": "12.0.0.12394",
     "Date": "06/28/2022",
-    "Language": "Danish",
+    "Language": "Dutch",
     "URI": "https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.0.0/FoxitPDFEditor120_L10N_Setup_Website.msi"
   },
   {
@@ -14,19 +14,25 @@
   {
     "Version": "12.0.0.12394",
     "Date": "06/28/2022",
-    "Language": "German",
+    "Language": "Italian",
+    "URI": "https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.0.0/FoxitPDFEditor120_L10N_Setup_Website.msi"
+  },
+  {
+    "Version": "12.0.0.12394",
+    "Date": "06/28/2022",
+    "Language": "Multi-Language",
+    "URI": "https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.0.0/FoxitPDFEditor120_L10N_Setup_Website.msi"
+  },
+  {
+    "Version": "12.0.0.12394",
+    "Date": "06/28/2022",
+    "Language": "Norwegian",
     "URI": "https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.0.0/FoxitPDFEditor120_L10N_Setup_Website.msi"
   },
   {
     "Version": "12.0.0.12394",
     "Date": "06/28/2022",
     "Language": "Polish",
-    "URI": "https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.0.0/FoxitPDFEditor120_L10N_Setup_Website.msi"
-  },
-  {
-    "Version": "12.0.0.12394",
-    "Date": "06/28/2022",
-    "Language": "Russian",
     "URI": "https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.0.0/FoxitPDFEditor120_L10N_Setup_Website.msi"
   },
   {

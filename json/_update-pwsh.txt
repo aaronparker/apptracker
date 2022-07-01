@@ -1,0 +1,7 @@
+json/1Password.json
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
