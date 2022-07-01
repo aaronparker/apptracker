@@ -1,0 +1,7 @@
+json/1Password.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/VideoLanVlcPlayer.json
