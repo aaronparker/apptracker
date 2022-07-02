@@ -1,506 +1,506 @@
 [
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ar",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ar.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ar.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ca",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ca.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ca.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "cs",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_cs.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_cs.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "da",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_da.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_da.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "de",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_de.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_de.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "el",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_el.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_el.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "en-US",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_en-US.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_en-US.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "es-AR",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_es-AR.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_es-AR.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "es-ES",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_es-ES.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_es-ES.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "fa",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_fa.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_fa.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "fr",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_fr.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_fr.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ga-IE",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ga-IE.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ga-IE.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "he",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_he.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_he.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "hu",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_hu.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_hu.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "id",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_id.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_id.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "is",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_is.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_is.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "it",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_it.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_it.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ja",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ja.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ja.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ka",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ka.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ka.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ko",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ko.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ko.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "lt",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_lt.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_lt.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "mk",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_mk.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_mk.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ms",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ms.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ms.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "my",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_my.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_my.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "nb-NO",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_nb-NO.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_nb-NO.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "nl",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_nl.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_nl.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "pl",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_pl.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_pl.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "pt-BR",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_pt-BR.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_pt-BR.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ro",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ro.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ro.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ru",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ru.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ru.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "sv-SE",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_sv-SE.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_sv-SE.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "th",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_th.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_th.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "tr",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_tr.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_tr.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "vi",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_vi.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_vi.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "zh-CN",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_zh-CN.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_zh-CN.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "zh-TW",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_zh-TW.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_zh-TW.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ar",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ar.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ar.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ca",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ca.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ca.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "cs",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_cs.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_cs.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "da",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_da.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_da.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "de",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_de.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_de.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "el",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_el.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_el.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "en-US",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_en-US.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_en-US.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "es-AR",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_es-AR.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_es-AR.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "es-ES",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_es-ES.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_es-ES.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "fa",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_fa.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_fa.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "fr",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_fr.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_fr.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ga-IE",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ga-IE.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ga-IE.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "he",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_he.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_he.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "hu",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_hu.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_hu.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "id",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_id.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_id.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "is",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_is.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_is.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "it",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_it.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_it.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ja",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ja.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ja.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ka",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ka.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ka.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ko",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ko.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ko.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "lt",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_lt.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_lt.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "mk",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_mk.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_mk.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ms",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ms.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ms.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "my",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_my.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_my.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "nb-NO",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_nb-NO.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_nb-NO.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "nl",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_nl.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_nl.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "pl",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_pl.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_pl.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "pt-BR",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_pt-BR.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_pt-BR.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ro",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ro.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ro.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ru",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ru.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ru.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "sv-SE",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_sv-SE.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_sv-SE.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "th",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_th.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_th.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "tr",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_tr.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_tr.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "vi",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_vi.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_vi.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "zh-CN",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_zh-CN.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_zh-CN.exe"
   },
   {
-    "Version": "11.0.14",
+    "Version": "11.0.15",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "zh-TW",
-    "URI": "https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_zh-TW.exe"
+    "URI": "https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_zh-TW.exe"
   }
 ]
