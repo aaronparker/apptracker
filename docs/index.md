@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.3   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.3   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://artfiles.org/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1243,14 +1243,9 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-| Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3313.0 | ARM64        | Insider | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
-| 1.2.3313.0 | ARM64        | Public  | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
-| 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
-| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
-| 1.2.3313.0 | x86          | Public  | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
-| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
+| Version    | Architecture | Channel | Date       | Size     | Filename                         | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------- | -------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 
 ## MicrosoftWvdRtcService
 
@@ -3267,78 +3262,78 @@
 
 | Version | Architecture | Type | Language | URI                                                                                       |
 | ------- | ------------ | ---- | -------- | ----------------------------------------------------------------------------------------- |
-| 11.0.14 | x64          | exe  | ar       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ar.exe    |
-| 11.0.14 | x64          | exe  | ca       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ca.exe    |
-| 11.0.14 | x64          | exe  | cs       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_cs.exe    |
-| 11.0.14 | x64          | exe  | da       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_da.exe    |
-| 11.0.14 | x64          | exe  | de       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_de.exe    |
-| 11.0.14 | x64          | exe  | el       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_el.exe    |
-| 11.0.14 | x64          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_en-US.exe |
-| 11.0.14 | x64          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_es-AR.exe |
-| 11.0.14 | x64          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_es-ES.exe |
-| 11.0.14 | x64          | exe  | fa       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_fa.exe    |
-| 11.0.14 | x64          | exe  | fr       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_fr.exe    |
-| 11.0.14 | x64          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ga-IE.exe |
-| 11.0.14 | x64          | exe  | he       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_he.exe    |
-| 11.0.14 | x64          | exe  | hu       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_hu.exe    |
-| 11.0.14 | x64          | exe  | id       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_id.exe    |
-| 11.0.14 | x64          | exe  | is       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_is.exe    |
-| 11.0.14 | x64          | exe  | it       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_it.exe    |
-| 11.0.14 | x64          | exe  | ja       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ja.exe    |
-| 11.0.14 | x64          | exe  | ka       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ka.exe    |
-| 11.0.14 | x64          | exe  | ko       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ko.exe    |
-| 11.0.14 | x64          | exe  | lt       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_lt.exe    |
-| 11.0.14 | x64          | exe  | mk       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_mk.exe    |
-| 11.0.14 | x64          | exe  | ms       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ms.exe    |
-| 11.0.14 | x64          | exe  | my       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_my.exe    |
-| 11.0.14 | x64          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_nb-NO.exe |
-| 11.0.14 | x64          | exe  | nl       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_nl.exe    |
-| 11.0.14 | x64          | exe  | pl       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_pl.exe    |
-| 11.0.14 | x64          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_pt-BR.exe |
-| 11.0.14 | x64          | exe  | ro       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ro.exe    |
-| 11.0.14 | x64          | exe  | ru       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_ru.exe    |
-| 11.0.14 | x64          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_sv-SE.exe |
-| 11.0.14 | x64          | exe  | th       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_th.exe    |
-| 11.0.14 | x64          | exe  | tr       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_tr.exe    |
-| 11.0.14 | x64          | exe  | vi       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_vi.exe    |
-| 11.0.14 | x64          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_zh-CN.exe |
-| 11.0.14 | x64          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-win64-11.0.14_zh-TW.exe |
-| 11.0.14 | x86          | exe  | ar       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ar.exe          |
-| 11.0.14 | x86          | exe  | ca       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ca.exe          |
-| 11.0.14 | x86          | exe  | cs       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_cs.exe          |
-| 11.0.14 | x86          | exe  | da       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_da.exe          |
-| 11.0.14 | x86          | exe  | de       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_de.exe          |
-| 11.0.14 | x86          | exe  | el       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_el.exe          |
-| 11.0.14 | x86          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_en-US.exe       |
-| 11.0.14 | x86          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_es-AR.exe       |
-| 11.0.14 | x86          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_es-ES.exe       |
-| 11.0.14 | x86          | exe  | fa       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_fa.exe          |
-| 11.0.14 | x86          | exe  | fr       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_fr.exe          |
-| 11.0.14 | x86          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ga-IE.exe       |
-| 11.0.14 | x86          | exe  | he       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_he.exe          |
-| 11.0.14 | x86          | exe  | hu       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_hu.exe          |
-| 11.0.14 | x86          | exe  | id       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_id.exe          |
-| 11.0.14 | x86          | exe  | is       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_is.exe          |
-| 11.0.14 | x86          | exe  | it       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_it.exe          |
-| 11.0.14 | x86          | exe  | ja       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ja.exe          |
-| 11.0.14 | x86          | exe  | ka       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ka.exe          |
-| 11.0.14 | x86          | exe  | ko       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ko.exe          |
-| 11.0.14 | x86          | exe  | lt       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_lt.exe          |
-| 11.0.14 | x86          | exe  | mk       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_mk.exe          |
-| 11.0.14 | x86          | exe  | ms       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ms.exe          |
-| 11.0.14 | x86          | exe  | my       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_my.exe          |
-| 11.0.14 | x86          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_nb-NO.exe       |
-| 11.0.14 | x86          | exe  | nl       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_nl.exe          |
-| 11.0.14 | x86          | exe  | pl       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_pl.exe          |
-| 11.0.14 | x86          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_pt-BR.exe       |
-| 11.0.14 | x86          | exe  | ro       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ro.exe          |
-| 11.0.14 | x86          | exe  | ru       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_ru.exe          |
-| 11.0.14 | x86          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_sv-SE.exe       |
-| 11.0.14 | x86          | exe  | th       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_th.exe          |
-| 11.0.14 | x86          | exe  | tr       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_tr.exe          |
-| 11.0.14 | x86          | exe  | vi       | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_vi.exe          |
-| 11.0.14 | x86          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_zh-CN.exe       |
-| 11.0.14 | x86          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.0.14/torbrowser-install-11.0.14_zh-TW.exe       |
+| 11.0.15 | x64          | exe  | ar       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ar.exe    |
+| 11.0.15 | x64          | exe  | ca       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ca.exe    |
+| 11.0.15 | x64          | exe  | cs       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_cs.exe    |
+| 11.0.15 | x64          | exe  | da       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_da.exe    |
+| 11.0.15 | x64          | exe  | de       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_de.exe    |
+| 11.0.15 | x64          | exe  | el       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_el.exe    |
+| 11.0.15 | x64          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_en-US.exe |
+| 11.0.15 | x64          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_es-AR.exe |
+| 11.0.15 | x64          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_es-ES.exe |
+| 11.0.15 | x64          | exe  | fa       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_fa.exe    |
+| 11.0.15 | x64          | exe  | fr       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_fr.exe    |
+| 11.0.15 | x64          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ga-IE.exe |
+| 11.0.15 | x64          | exe  | he       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_he.exe    |
+| 11.0.15 | x64          | exe  | hu       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_hu.exe    |
+| 11.0.15 | x64          | exe  | id       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_id.exe    |
+| 11.0.15 | x64          | exe  | is       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_is.exe    |
+| 11.0.15 | x64          | exe  | it       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_it.exe    |
+| 11.0.15 | x64          | exe  | ja       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ja.exe    |
+| 11.0.15 | x64          | exe  | ka       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ka.exe    |
+| 11.0.15 | x64          | exe  | ko       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ko.exe    |
+| 11.0.15 | x64          | exe  | lt       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_lt.exe    |
+| 11.0.15 | x64          | exe  | mk       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_mk.exe    |
+| 11.0.15 | x64          | exe  | ms       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ms.exe    |
+| 11.0.15 | x64          | exe  | my       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_my.exe    |
+| 11.0.15 | x64          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_nb-NO.exe |
+| 11.0.15 | x64          | exe  | nl       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_nl.exe    |
+| 11.0.15 | x64          | exe  | pl       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_pl.exe    |
+| 11.0.15 | x64          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_pt-BR.exe |
+| 11.0.15 | x64          | exe  | ro       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ro.exe    |
+| 11.0.15 | x64          | exe  | ru       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_ru.exe    |
+| 11.0.15 | x64          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_sv-SE.exe |
+| 11.0.15 | x64          | exe  | th       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_th.exe    |
+| 11.0.15 | x64          | exe  | tr       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_tr.exe    |
+| 11.0.15 | x64          | exe  | vi       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_vi.exe    |
+| 11.0.15 | x64          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_zh-CN.exe |
+| 11.0.15 | x64          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-win64-11.0.15_zh-TW.exe |
+| 11.0.15 | x86          | exe  | ar       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ar.exe          |
+| 11.0.15 | x86          | exe  | ca       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ca.exe          |
+| 11.0.15 | x86          | exe  | cs       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_cs.exe          |
+| 11.0.15 | x86          | exe  | da       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_da.exe          |
+| 11.0.15 | x86          | exe  | de       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_de.exe          |
+| 11.0.15 | x86          | exe  | el       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_el.exe          |
+| 11.0.15 | x86          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_en-US.exe       |
+| 11.0.15 | x86          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_es-AR.exe       |
+| 11.0.15 | x86          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_es-ES.exe       |
+| 11.0.15 | x86          | exe  | fa       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_fa.exe          |
+| 11.0.15 | x86          | exe  | fr       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_fr.exe          |
+| 11.0.15 | x86          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ga-IE.exe       |
+| 11.0.15 | x86          | exe  | he       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_he.exe          |
+| 11.0.15 | x86          | exe  | hu       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_hu.exe          |
+| 11.0.15 | x86          | exe  | id       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_id.exe          |
+| 11.0.15 | x86          | exe  | is       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_is.exe          |
+| 11.0.15 | x86          | exe  | it       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_it.exe          |
+| 11.0.15 | x86          | exe  | ja       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ja.exe          |
+| 11.0.15 | x86          | exe  | ka       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ka.exe          |
+| 11.0.15 | x86          | exe  | ko       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ko.exe          |
+| 11.0.15 | x86          | exe  | lt       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_lt.exe          |
+| 11.0.15 | x86          | exe  | mk       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_mk.exe          |
+| 11.0.15 | x86          | exe  | ms       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ms.exe          |
+| 11.0.15 | x86          | exe  | my       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_my.exe          |
+| 11.0.15 | x86          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_nb-NO.exe       |
+| 11.0.15 | x86          | exe  | nl       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_nl.exe          |
+| 11.0.15 | x86          | exe  | pl       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_pl.exe          |
+| 11.0.15 | x86          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_pt-BR.exe       |
+| 11.0.15 | x86          | exe  | ro       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ro.exe          |
+| 11.0.15 | x86          | exe  | ru       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_ru.exe          |
+| 11.0.15 | x86          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_sv-SE.exe       |
+| 11.0.15 | x86          | exe  | th       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_th.exe          |
+| 11.0.15 | x86          | exe  | tr       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_tr.exe          |
+| 11.0.15 | x86          | exe  | vi       | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_vi.exe          |
+| 11.0.15 | x86          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_zh-CN.exe       |
+| 11.0.15 | x86          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.0.15/torbrowser-install-11.0.15_zh-TW.exe       |
 
 ## Tower
 
@@ -3389,14 +3384,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe              |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi              |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip              |
 
 ## VisualCppRedistAIO
 
