@@ -1,29 +1,29 @@
 [
   {
-    "Version": "0.7.4",
+    "Version": "0.8.2",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "06/10/2022",
-    "Size": 40018880,
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-win-arm64.exe"
+    "Date": "07/01/2022",
+    "Size": 41406344,
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-win-arm64.exe"
   },
   {
-    "Version": "0.7.4",
+    "Version": "0.8.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "06/10/2022",
-    "Size": 17534224,
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-setup-win-x64.exe"
+    "Date": "07/01/2022",
+    "Size": 18697848,
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-setup-win-x64.exe"
   },
   {
-    "Version": "0.7.4",
+    "Version": "0.8.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "06/10/2022",
-    "Size": 39567336,
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-win-x64.exe"
+    "Date": "07/01/2022",
+    "Size": 40954304,
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-win-x64.exe"
   }
 ]
