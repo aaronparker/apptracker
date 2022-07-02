@@ -89,11 +89,11 @@ hide:
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Updates are posted every 4 hours. Last update: **#DATE** $((Get-TimeZone).Id)
+Updates are posted every 6 hours. Last update: $(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id).
 
 A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
 "@
-$About -replace "#DATE", (Get-Date -Format "dddd dd/MM/yyyy HH:mm K") | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
+$About | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
 #endregion
 
 
