@@ -215,10 +215,10 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------- |
-| 3.18    | Windows  | ARM32        | exe  | 03/11/2022 | 3698760 | https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm.exe   |
-| 3.18    | Windows  | ARM64        | exe  | 03/11/2022 | 3876424 | https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18_arm64.exe |
-| 3.18    | Windows  | x86          | exe  | 03/11/2022 | 1380936 | https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe       |
-| 3.18    | Windows  | x86          | exe  | 03/11/2022 | 1380936 | https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18p.exe      |
+| 3.19    | Windows  | ARM32        | exe  | 07/01/2022 | 3711048 | https://github.com/pbatard/rufus/releases/download/v3.19/rufus-3.19_arm.exe   |
+| 3.19    | Windows  | ARM64        | exe  | 07/01/2022 | 3883592 | https://github.com/pbatard/rufus/releases/download/v3.19/rufus-3.19_arm64.exe |
+| 3.19    | Windows  | x86          | exe  | 07/01/2022 | 1392712 | https://github.com/pbatard/rufus/releases/download/v3.19/rufus-3.19.exe       |
+| 3.19    | Windows  | x86          | exe  | 07/01/2022 | 1392712 | https://github.com/pbatard/rufus/releases/download/v3.19/rufus-3.19p.exe      |
 
 ## AmazonCorretto
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -999,7 +999,7 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.38.0  | win32-x64      | Insider | 68e094bebd719e2c550da515f46eea9cc8f457e35e073bf2c016b4496e99e50b | https://sqlopsbuilds.azureedge.net/insider/331ae94ebfa785410fcbe491280b9c820fb73d23/azuredatastudio-windows-setup-1.38.0-insider.exe      |
+| 1.38.0  | win32-x64      | Insider | 80624ac896b8680ff43698ee030860a9a981eef8b6160b081e006e0ec22ec6f9 | https://sqlopsbuilds.azureedge.net/insider/c211fb981c453fcc92ab664a429a9a932ea93394/azuredatastudio-windows-setup-1.38.0-insider.exe      |
 | 1.38.0  | win32-x64-user | Insider | e6ca4934459ad475c8924725b29bd22b6e811e26a7c606a6e0c450e167247650 | https://sqlopsbuilds.azureedge.net/insider/c211fb981c453fcc92ab664a429a9a932ea93394/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
 | 1.37.0  | win32-x64      | Stable  | 4938288b7450401c69a344f93681964a4afbec746570ec342b9ef89093d22c77 | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-setup-1.37.0.exe               |
 | 1.37.0  | win32-x64-user | Stable  | db7ea98403ebeba953c3f801a553c786e0253544775404a6b9624c3b1ea7fcbd | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-user-setup-1.37.0.exe          |
@@ -1027,9 +1027,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------- |
-| 0.7.4   | Windows  | ARM64        | exe  | 06/10/2022 | 40018880 | https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-win-arm64.exe     |
-| 0.7.4   | Windows  | x64          | exe  | 06/10/2022 | 17534224 | https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-setup-win-x64.exe |
-| 0.7.4   | Windows  | x64          | exe  | 06/10/2022 | 39567336 | https://github.com/Azure/bicep/releases/download/v0.7.4/bicep-win-x64.exe       |
+| 0.8.2   | Windows  | ARM64        | exe  | 07/01/2022 | 41406344 | https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-win-arm64.exe     |
+| 0.8.2   | Windows  | x64          | exe  | 07/01/2022 | 18697848 | https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-setup-win-x64.exe |
+| 0.8.2   | Windows  | x64          | exe  | 07/01/2022 | 40954304 | https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-win-x64.exe       |
 
 ## MicrosoftBotFrameworkEmulator
 
@@ -1107,8 +1107,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.139.0629.0001 | AMD64        | InternalFast | idrIpDPbX3r/Ll0WM4wZhLpFgyVS+zvkUtO+I7vy5GE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.139.0629.0001/amd64/OneDriveSetup.exe                           |
-| 22.139.0629.0001 | x86          | InternalFast | 9QWVPEA/3fDBVBSKXDW9xHeShhghGv9dMW3D2x81V0U= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.139.0629.0001/OneDriveSetup.exe                                 |
+| 22.140.0630.0001 | AMD64        | InternalFast | VwApMWzLvjhnXXFe55IFHsXYODLMhjlnqh4xeuo/gNs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.140.0630.0001/amd64/OneDriveSetup.exe                           |
+| 22.140.0630.0001 | x86          | InternalFast | 7Tv/sNVIs0IzP6A3cFA4VcH0NITvwy84TFk0K/kI9zo= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.140.0630.0001/OneDriveSetup.exe                                 |
 | 22.136.0626.0001 | AMD64        | InternalSlow | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.136.0626.0001/amd64/OneDriveSetup.exe                           |
 | 22.136.0626.0001 | x86          | InternalSlow | zJmW79vPtQySNJJGYgFBr339QtqBz5TBes8sSBXLdNs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.136.0626.0001/OneDriveSetup.exe                                 |
 | 22.131.0619.0001 | AMD64        | Insider      | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.131.0619.0001/amd64/OneDriveSetup.exe                           |
@@ -3385,14 +3385,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
