@@ -1,7 +1,0 @@
-json/AkeoRufus.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftBicep.json
-json/MicrosoftOneDrive.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
