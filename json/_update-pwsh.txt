@@ -1,6 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/TorProjectTorBrowser.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
