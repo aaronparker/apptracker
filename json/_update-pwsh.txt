@@ -1,0 +1,3 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/jrsoftwareInnoSetup.json
