@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1108,7 +1108,9 @@
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
 | 22.141.0703.0001 | AMD64        | InternalFast | OcMTGRnFyA7mIJrdrHCeW68Nnbe+vs0NWQZLVrKJXmw= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.141.0703.0001/amd64/OneDriveSetup.exe                           |
+| 22.141.0703.0001 | AMD64        | InternalSlow | OcMTGRnFyA7mIJrdrHCeW68Nnbe+vs0NWQZLVrKJXmw= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.141.0703.0001/amd64/OneDriveSetup.exe                           |
 | 22.141.0703.0001 | x86          | InternalFast | KdNApY0c8xg5V2byEITBT3/MlvUjuAfpvsWUhHX6HnY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.141.0703.0001/OneDriveSetup.exe                                 |
+| 22.141.0703.0001 | x86          | InternalSlow | KdNApY0c8xg5V2byEITBT3/MlvUjuAfpvsWUhHX6HnY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.141.0703.0001/OneDriveSetup.exe                                 |
 | 22.136.0626.0001 | AMD64        | Insider      | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/amd64/OneDriveSetup.exe                           |
 | 22.136.0626.0001 | AMD64        | InternalSlow | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.136.0626.0001/amd64/OneDriveSetup.exe                           |
 | 22.136.0626.0001 | x86          | Insider      | zJmW79vPtQySNJJGYgFBr339QtqBz5TBes8sSBXLdNs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/OneDriveSetup.exe                                 |
