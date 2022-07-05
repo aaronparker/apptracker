@@ -304,8 +304,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
-| 3.4.3   | Windows  | x86          | exe  | 05/20/2022 | 66254872 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.4.3/Beekeeper-Studio-3.4.3-portable.exe |
-| 3.4.3   | Windows  | x86          | exe  | 05/20/2022 | 66418400 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.4.3/Beekeeper-Studio-Setup-3.4.3.exe    |
+| 3.5.1   | Windows  | x86          | exe  | 07/02/2022 | 66290944 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.5.1/Beekeeper-Studio-3.5.1-portable.exe |
+| 3.5.1   | Windows  | x86          | exe  | 07/02/2022 | 66455464 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.5.1/Beekeeper-Studio-Setup-3.5.1.exe    |
 
 ## BISF
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.dotsrc.org/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -901,7 +901,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1107,9 +1107,11 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.140.0630.0001 | AMD64        | InternalFast | VwApMWzLvjhnXXFe55IFHsXYODLMhjlnqh4xeuo/gNs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.140.0630.0001/amd64/OneDriveSetup.exe                           |
-| 22.140.0630.0001 | x86          | InternalFast | 7Tv/sNVIs0IzP6A3cFA4VcH0NITvwy84TFk0K/kI9zo= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.140.0630.0001/OneDriveSetup.exe                                 |
+| 22.141.0703.0001 | AMD64        | InternalFast | OcMTGRnFyA7mIJrdrHCeW68Nnbe+vs0NWQZLVrKJXmw= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.141.0703.0001/amd64/OneDriveSetup.exe                           |
+| 22.141.0703.0001 | x86          | InternalFast | KdNApY0c8xg5V2byEITBT3/MlvUjuAfpvsWUhHX6HnY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.141.0703.0001/OneDriveSetup.exe                                 |
+| 22.136.0626.0001 | AMD64        | Insider      | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/amd64/OneDriveSetup.exe                           |
 | 22.136.0626.0001 | AMD64        | InternalSlow | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.136.0626.0001/amd64/OneDriveSetup.exe                           |
+| 22.136.0626.0001 | x86          | Insider      | zJmW79vPtQySNJJGYgFBr339QtqBz5TBes8sSBXLdNs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/OneDriveSetup.exe                                 |
 | 22.136.0626.0001 | x86          | InternalSlow | zJmW79vPtQySNJJGYgFBr339QtqBz5TBes8sSBXLdNs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.136.0626.0001/OneDriveSetup.exe                                 |
 | 22.131.0619.0001 | AMD64        | Insider      | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.131.0619.0001/amd64/OneDriveSetup.exe                           |
 | 22.131.0619.0001 | AMD64        | Production   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.131.0619.0001/amd64/OneDriveSetup.exe                               |
@@ -1245,10 +1247,8 @@
 
 | Version    | Architecture | Channel | Date       | Size     | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3313.0 | ARM64        | Insider | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
 | 1.2.3313.0 | ARM64        | Public  | 06/23/2022 | 26931200 | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
 | 1.2.3313.0 | x64          | Insider | 06/23/2022 | 25206784 | RemoteDesktop_1.2.3313.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
-| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
 | 1.2.3313.0 | x86          | Public  | 06/23/2022 | 23076864 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
 | 1.2.3213.0 | x64          | Public  | 06/01/2022 | 24444928 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 
@@ -3389,14 +3389,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe     |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi     |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip     |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                   |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
