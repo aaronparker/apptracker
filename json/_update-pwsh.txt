@@ -1,4 +1,0 @@
-json/DockerDesktop.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/jrsoftwareInnoSetup.json
