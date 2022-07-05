@@ -1,0 +1,6 @@
+json/BeekeeperStudio.json
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
