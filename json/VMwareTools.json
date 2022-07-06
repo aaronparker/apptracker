@@ -2,11 +2,11 @@
   {
     "Version": "12.0.0",
     "Architecture": "x64",
-    "URI": "https://packages.vmware.com/tools/releases/latest/windows/x64/VMware-tools-12.0.0-19345655-x64.exe"
+    "URI": "https://packages.vmware.com/tools/releases/12.0.0/windows/x64/VMware-tools-12.0.0-19345655-x86_64.exe"
   },
   {
     "Version": "12.0.0",
     "Architecture": "x86",
-    "URI": "https://packages.vmware.com/tools/releases/latest/windows/x86/VMware-tools-12.0.0-19345655-x86.exe"
+    "URI": "https://packages.vmware.com/tools/releases/12.0.0/windows/x86/VMware-tools-12.0.0-19345655-i386.exe"
   }
 ]
