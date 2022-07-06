@@ -1,8 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/LogMeInGoToOpener.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftBicep.json
-json/MicrosoftWvdMultimediaRedirection.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
