@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.3   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.3   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.nic.funet.fi/pub/mirrors/ftp.gimp.org/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -901,7 +901,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -999,8 +999,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.38.0  | win32-x64      | Insider | 7c04258a246a430ff203fee37b491f3d8092baa0c83d75442dc1c27339bf714f | https://sqlopsbuilds.azureedge.net/insider/416e607f321cb01600d72538deaf89bf4e090ba8/azuredatastudio-windows-setup-1.38.0-insider.exe      |
-| 1.38.0  | win32-x64-user | Insider | ed114dc007bcea1bbd3d46f79b291e4ae1ec6623ba4947a43b08d545b0aa6a39 | https://sqlopsbuilds.azureedge.net/insider/416e607f321cb01600d72538deaf89bf4e090ba8/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
+| 1.38.0  | win32-x64      | Insider | d3263239d4023eda4903b332ef01c72b35d403d20eb992a9b07f14f53b850f34 | https://sqlopsbuilds.azureedge.net/insider/577c09e1f183eab85c2df5c549be245d04a69523/azuredatastudio-windows-setup-1.38.0-insider.exe      |
+| 1.38.0  | win32-x64-user | Insider | df650486889384a3d6b196888103ee9e297f9dd9786d0d01934b13ed7e115610 | https://sqlopsbuilds.azureedge.net/insider/577c09e1f183eab85c2df5c549be245d04a69523/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
 | 1.37.0  | win32-x64      | Stable  | 4938288b7450401c69a344f93681964a4afbec746570ec342b9ef89093d22c77 | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-setup-1.37.0.exe               |
 | 1.37.0  | win32-x64-user | Stable  | db7ea98403ebeba953c3f801a553c786e0253544775404a6b9624c3b1ea7fcbd | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-user-setup-1.37.0.exe          |
 
@@ -1027,9 +1027,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------- |
-| 0.8.2   | Windows  | ARM64        | exe  | 07/01/2022 | 41406344 | https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-win-arm64.exe     |
-| 0.8.2   | Windows  | x64          | exe  | 07/01/2022 | 18697848 | https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-setup-win-x64.exe |
-| 0.8.2   | Windows  | x64          | exe  | 07/01/2022 | 40954304 | https://github.com/Azure/bicep/releases/download/v0.8.2/bicep-win-x64.exe       |
+| 0.8.9   | Windows  | ARM64        | exe  | 07/05/2022 | 41406376 | https://github.com/Azure/bicep/releases/download/v0.8.9/bicep-win-arm64.exe     |
+| 0.8.9   | Windows  | x64          | exe  | 07/05/2022 | 18696592 | https://github.com/Azure/bicep/releases/download/v0.8.9/bicep-setup-win-x64.exe |
+| 0.8.9   | Windows  | x64          | exe  | 07/05/2022 | 40954336 | https://github.com/Azure/bicep/releases/download/v0.8.9/bicep-win-x64.exe       |
 
 ## MicrosoftBotFrameworkEmulator
 
@@ -1239,9 +1239,9 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
 
-| Version        | Architecture | Date                          | Size   | Filename                                  | URI                                                              |
-| -------------- | ------------ | ----------------------------- | ------ | ----------------------------------------- | ---------------------------------------------------------------- |
-| 0.2.2107.27015 | x64          | Wed, 11 Aug 2021 00:36:48 GMT | 823296 | MsMMRHostInstaller_0.2.2107.27015_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIzIk |
+| Version        | Architecture | Date                          | Size   | Filename                                  | URI                                                               |
+| -------------- | ------------ | ----------------------------- | ------ | ----------------------------------------- | ----------------------------------------------------------------- |
+| 0.3.2203.03006 | x64          | Tue, 15 Mar 2022 22:17:56 GMT | 831488 | MsMMRHostInstaller_0.3.2203.03006_x64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4QWrF |
 
 ## MicrosoftWvdRemoteDesktop
 
@@ -1250,12 +1250,12 @@
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3316.0 | ARM64        | Dogfood | Unknown    | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
-| 1.2.3316.0 | x64          | Dogfood | Unknown    | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
+| 1.2.3316.0 | x64          | Dogfood | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
 | 1.2.3316.0 | x86          | Dogfood | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
 | 1.2.3313.0 | ARM64        | Insider | Unknown    | 3E1539BC5652E658EBE9D6658691C69A | RemoteDesktop_1.2.3313.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3P |
-| 1.2.3313.0 | x64          | Insider | Unknown    | C8DF22CEEBE0CE226A9EFB931518A2E0 | RemoteDesktop_1.2.3313.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
-| 1.2.3313.0 | x86          | Insider | Unknown    | 3CA08E03A7B6D6985CB2DC89721F6769 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
-| 1.2.3213.0 | ARM64        | Public  | Unknown    | 1AFF811D288778A98241626A9F928306 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
+| 1.2.3313.0 | x64          | Insider | 06/23/2022 | C8DF22CEEBE0CE226A9EFB931518A2E0 | RemoteDesktop_1.2.3313.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3Q |
+| 1.2.3313.0 | x86          | Insider | 06/23/2022 | 3CA08E03A7B6D6985CB2DC89721F6769 | RemoteDesktop_1.2.3313.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50t3R |
+| 1.2.3213.0 | ARM64        | Public  | 06/01/2022 | 1AFF811D288778A98241626A9F928306 | RemoteDesktop_1.2.3213.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFN |
 | 1.2.3213.0 | x64          | Public  | 06/01/2022 | 9D01B945D2D16D43FD47E609DF37F356 | RemoteDesktop_1.2.3213.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFO |
 | 1.2.3213.0 | x86          | Public  | 06/01/2022 | 09E09071C1DA3DB57BFA14D1BDED658E | RemoteDesktop_1.2.3213.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YfFP |
 
@@ -3396,14 +3396,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe           |
-| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi           |
-| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip           |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
