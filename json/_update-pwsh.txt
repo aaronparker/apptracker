@@ -1,8 +1,0 @@
-json/1Password.json
-json/GhislerTotalCommander.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OperaBrowser.json
-json/TelerikFiddlerEverywhere.json
-json/VideoLanVlcPlayer.json
