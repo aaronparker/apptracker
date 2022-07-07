@@ -1,9 +1,0 @@
-json/HashicorpBoundary.json
-json/Microsoft365Apps.json
-json/MicrosoftAzureFunctionsCoreTools.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftEdgeWebView2Runtime.json
-json/MicrosoftOneDrive.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
