@@ -1,12 +1,12 @@
 [
   {
-    "Version": "10.10.0.0",
+    "Version": "10.10.50.0",
     "Architecture": "x64",
-    "URI": "https://totalcommander.ch/win/tcmd101000x64.exe"
+    "URI": "https://totalcommander.ch/win/tcmd1010500x64.exe"
   },
   {
-    "Version": "10.10.0.0",
+    "Version": "10.10.50.0",
     "Architecture": "x86",
-    "URI": "https://totalcommander.ch/win/tcmd101000x32.exe"
+    "URI": "https://totalcommander.ch/win/tcmd1010500x32.exe"
   }
 ]
