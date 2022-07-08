@@ -1,0 +1,6 @@
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/NotepadPlusPlus.json
+json/ShareX.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
