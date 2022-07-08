@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.nju.edu.cn/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1196,16 +1196,16 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.69.0  | win32-arm64      | Insider | ARM64        | 869176efd80f57e2f18586be68c2e65ee81ca933be2a5270eafbc886efdebb3e | https://az764295.vo.msecnd.net/insider/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-arm64-1.69.0-insider.exe     |
-| 1.69.0  | win32-arm64-user | Insider | ARM64        | 2162c4801993fa69dbb8ef1a8dd87fdff31404ac775b8f3c6217655bb0c843af | https://az764295.vo.msecnd.net/insider/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-arm64-1.69.0-insider.exe |
+| 1.70.0  | win32-arm64      | Insider | ARM64        | 935afbfa0b2856f4e71c3769cb3afcf7d1163eea54883dc1f89c89d2bd9ef133 | https://az764295.vo.msecnd.net/insider/3104db414c8fedcf6e4493f14da7df0b7413853a/VSCodeSetup-arm64-1.70.0-insider.exe     |
+| 1.70.0  | win32-arm64-user | Insider | ARM64        | 9ea60d09f49b982bd0f47afc691910069a0b584c4a097f98f02cde145e02187a | https://az764295.vo.msecnd.net/insider/3104db414c8fedcf6e4493f14da7df0b7413853a/VSCodeUserSetup-arm64-1.70.0-insider.exe |
+| 1.70.0  | win32-x64        | Insider | x64          | 775447f11c56215078a1c1ad5c7e9050339b226fd8f451f8e30b9298ea22ee0d | https://az764295.vo.msecnd.net/insider/3104db414c8fedcf6e4493f14da7df0b7413853a/VSCodeSetup-x64-1.70.0-insider.exe       |
+| 1.70.0  | win32-x64-user   | Insider | x64          | 28c51931c3fbebf87066c9b708659adde12363f358ddacfbaf5b00ac567fdb75 | https://az764295.vo.msecnd.net/insider/3104db414c8fedcf6e4493f14da7df0b7413853a/VSCodeUserSetup-x64-1.70.0-insider.exe   |
+| 1.70.0  | win32            | Insider | x86          | 1aec82efd75763ddb6be2fbd703caa6d29c8ee0e4df04a5b325d7cad535c2895 | https://az764295.vo.msecnd.net/insider/3104db414c8fedcf6e4493f14da7df0b7413853a/VSCodeSetup-ia32-1.70.0-insider.exe      |
+| 1.70.0  | win32-user       | Insider | x86          | 7bc1eafa9bb414ad7848d85457b088d27d05f8a17996ce3588bc03627e3e085d | https://az764295.vo.msecnd.net/insider/3104db414c8fedcf6e4493f14da7df0b7413853a/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
 | 1.69.0  | win32-arm64      | Stable  | ARM64        | 9ab6f6c919e9e158ae5a7abcaf7d3f3ff1c9c6af76888d742749b2baeccbe3b5 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-arm64-1.69.0.exe              |
 | 1.69.0  | win32-arm64-user | Stable  | ARM64        | f8003241ae844d3541e87ecbe41e428223b0ca136965e37b3d20985e3aa8b166 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-arm64-1.69.0.exe          |
-| 1.69.0  | win32-x64        | Insider | x64          | 1191fbda776df503df5862a7f627c4678648f646250e678a6e724a4ee8aa5d7b | https://az764295.vo.msecnd.net/insider/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-x64-1.69.0-insider.exe       |
-| 1.69.0  | win32-x64-user   | Insider | x64          | add1a20043c9fcd24d28525dd652813931a71ffaa8a3abd89559a6e7960b22a9 | https://az764295.vo.msecnd.net/insider/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-x64-1.69.0-insider.exe   |
 | 1.69.0  | win32-x64        | Stable  | x64          | 2db764d9ccd989d0bf2b47bd50e4fcbaaa8c7e1c3e39791098bcf8df6268dd4f | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-x64-1.69.0.exe                |
 | 1.69.0  | win32-x64-user   | Stable  | x64          | 2d9051d4ee54ee57b8c9e0a30c9fb8e1d1b23941d8e016d66a42ec056b3f1890 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-x64-1.69.0.exe            |
-| 1.69.0  | win32            | Insider | x86          | 0bfdb767205449067bdaab1618da2a888b39470b93158f06451f9731f1496766 | https://az764295.vo.msecnd.net/insider/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-ia32-1.69.0-insider.exe      |
-| 1.69.0  | win32-user       | Insider | x86          | e2627d41d6bf75b6e018f049ceb97fe5a3445c301b0d8fd6e3f4ebb4d728da87 | https://az764295.vo.msecnd.net/insider/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-ia32-1.69.0-insider.exe  |
 | 1.69.0  | win32            | Stable  | x86          | 9091db7bd2122e51056d2d7adfdc09ade62eef010265f54570d7cce59ec20c03 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-ia32-1.69.0.exe               |
 | 1.69.0  | win32-user       | Stable  | x86          | 49f15e5f2efee72e8a1dc5999004461f4d7505d39008c6a10095cb2a62ea9c31 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-ia32-1.69.0.exe           |
 
@@ -2752,18 +2752,18 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 8.4.2   | Windows  | ARM64        | 7z   | 06/03/2022 | 3520454 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.arm64.7z            |
-| 8.4.2   | Windows  | ARM64        | 7z   | 06/03/2022 | 1792158 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.minimalist.arm64.7z |
-| 8.4.2   | Windows  | ARM64        | exe  | 06/03/2022 | 4130640 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.arm64.exe          |
-| 8.4.2   | Windows  | ARM64        | zip  | 06/03/2022 | 5168005 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.arm64.zip           |
-| 8.4.2   | Windows  | x64          | 7z   | 06/03/2022 | 1891532 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.minimalist.x64.7z   |
-| 8.4.2   | Windows  | x64          | 7z   | 06/03/2022 | 3707015 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.x64.7z              |
-| 8.4.2   | Windows  | x64          | exe  | 06/03/2022 | 4518024 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.x64.exe            |
-| 8.4.2   | Windows  | x64          | zip  | 06/03/2022 | 5459561 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.x64.zip             |
-| 8.4.2   | Windows  | x86          | 7z   | 06/03/2022 | 3444335 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.7z                  |
-| 8.4.2   | Windows  | x86          | 7z   | 06/03/2022 | 1692610 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.minimalist.7z       |
-| 8.4.2   | Windows  | x86          | exe  | 06/03/2022 | 4283528 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.exe                |
-| 8.4.2   | Windows  | x86          | zip  | 06/03/2022 | 5056711 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.portable.zip                 |
+| 8.4.3   | Windows  | ARM64        | 7z   | 07/08/2022 | 3566009 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.arm64.7z            |
+| 8.4.3   | Windows  | ARM64        | 7z   | 07/08/2022 | 1834707 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.minimalist.arm64.7z |
+| 8.4.3   | Windows  | ARM64        | exe  | 07/08/2022 | 4179328 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.Installer.arm64.exe          |
+| 8.4.3   | Windows  | ARM64        | zip  | 07/08/2022 | 5240640 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.arm64.zip           |
+| 8.4.3   | Windows  | x64          | 7z   | 07/08/2022 | 1903418 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.minimalist.x64.7z   |
+| 8.4.3   | Windows  | x64          | 7z   | 07/08/2022 | 3721464 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.x64.7z              |
+| 8.4.3   | Windows  | x64          | exe  | 07/08/2022 | 4532632 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.Installer.x64.exe            |
+| 8.4.3   | Windows  | x64          | zip  | 07/08/2022 | 5472656 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.x64.zip             |
+| 8.4.3   | Windows  | x86          | 7z   | 07/08/2022 | 3444498 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.7z                  |
+| 8.4.3   | Windows  | x86          | 7z   | 07/08/2022 | 1687886 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.minimalist.7z       |
+| 8.4.3   | Windows  | x86          | exe  | 07/08/2022 | 4280544 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.Installer.exe                |
+| 8.4.3   | Windows  | x86          | zip  | 07/08/2022 | 5042376 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.3/npp.8.4.3.portable.zip                 |
 
 ## Obsidian
 
@@ -3109,8 +3109,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------- |
-| 13.7.0  | Windows  | x86          | exe  | 12/29/2021 | 7417058 | https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-setup.exe    |
-| 13.7.0  | Windows  | x86          | zip  | 12/29/2021 | 7532469 | https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-portable.zip |
+| 14.0.1  | Windows  | x86          | exe  | 07/08/2022 | 7465123 | https://github.com/ShareX/ShareX/releases/download/v14.0.1/ShareX-14.0.1-setup.exe    |
+| 14.0.1  | Windows  | x86          | zip  | 07/08/2022 | 7635318 | https://github.com/ShareX/ShareX/releases/download/v14.0.1/ShareX-14.0.1-portable.zip |
 
 ## SignalDesktop
 
@@ -3394,14 +3394,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
