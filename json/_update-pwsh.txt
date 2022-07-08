@@ -1,3 +1,0 @@
-json/Fork.json
-json/Gimp.json
-json/VideoLanVlcPlayer.json
