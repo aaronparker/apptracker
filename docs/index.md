@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                             |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.freedif.org/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -1245,9 +1245,9 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3316.0 | ARM64        | Dogfood | Unknown    | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
-| 1.2.3316.0 | ARM64        | Insider | Unknown    | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
-| 1.2.3316.0 | ARM64        | Public  | Unknown    | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
+| 1.2.3316.0 | ARM64        | Dogfood | 06/29/2022 | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
+| 1.2.3316.0 | ARM64        | Insider | 06/29/2022 | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
+| 1.2.3316.0 | ARM64        | Public  | 06/29/2022 | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
 | 1.2.3316.0 | x64          | Dogfood | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
 | 1.2.3316.0 | x64          | Insider | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
 | 1.2.3316.0 | x64          | Public  | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
@@ -3160,8 +3160,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -3392,14 +3392,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
 
 ## VisualCppRedistAIO
 
