@@ -49,7 +49,7 @@ jobs:
         #     Write-Host "Evergreen version: $Version"
 
         - name: Install modules
-          shell: powershell
+          shell: pwsh
           run: |
             Install-Module -Name "Evergreen" -Force
 
