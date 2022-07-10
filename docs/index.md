@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.kumi.systems/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.lysator.liu.se/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -786,7 +786,7 @@
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| 7.1.0-41 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-41-Q16-HDRI-x64-dll.exe |
+| 7.1.0.43 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0.43-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -1251,9 +1251,9 @@
 | 1.2.3316.0 | x64          | Dogfood | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
 | 1.2.3316.0 | x64          | Insider | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
 | 1.2.3316.0 | x64          | Public  | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
-| 1.2.3316.0 | x86          | Dogfood | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
-| 1.2.3316.0 | x86          | Insider | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
-| 1.2.3316.0 | x86          | Public  | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
+| 1.2.3316.0 | x86          | Dogfood | 06/29/2022 | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
+| 1.2.3316.0 | x86          | Insider | 06/29/2022 | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
+| 1.2.3316.0 | x86          | Public  | 06/29/2022 | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
 
 ## MicrosoftWvdRtcService
 
@@ -3050,9 +3050,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
-| 3.3.2   | Windows  | x64          | msi  | 01/28/2022 | 113934336 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x64_Setup.msi   |
-| 3.3.2   | Windows  | x86          | exe  | 01/28/2022 | 222215688 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_SetupBundle.exe |
-| 3.3.2   | Windows  | x86          | msi  | 01/28/2022 | 107929600 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.2/SEB_3.3.2.413_x86_Setup.msi   |
+| 3.3.1   | Windows  | x64          | msi  | 10/21/2021 | 104673280 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.1/SEB_3.3.1.388_x64_Setup.msi   |
+| 3.3.1   | Windows  | x86          | exe  | 10/21/2021 | 203670080 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.1/SEB_3.3.1.388_SetupBundle.exe |
+| 3.3.1   | Windows  | x86          | msi  | 10/21/2021 | 98635776  | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/3.3.1/SEB_3.3.1.388_x86_Setup.msi   |
 
 ## SAGAGIS
 
@@ -3392,14 +3392,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
