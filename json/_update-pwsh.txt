@@ -1,5 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/SafeExamBrowser.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
