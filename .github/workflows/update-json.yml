@@ -7,10 +7,6 @@ env:
 # Controls when the action will run.
 on:
   workflow_dispatch:
-  # push:
-  #   branches: [ main ]
-  #   paths:
-  #     - 'scripts/Update-Json.ps1'
   schedule:
     - cron: "0 */6 * * *"
 
@@ -23,22 +19,27 @@ jobs:
         with:
           ref: main
 
-      - name: Install and cache PowerShell modules
-        id: psmodulecache
-        uses: potatoqualitee/psmodulecache@v4.5
-        with:
-          modules-to-cache: Evergreen, DnsClient-PS
-          force: true
-          shell: pwsh
+      # - name: Install and cache PowerShell modules
+      #   id: psmodulecache
+      #   uses: potatoqualitee/psmodulecache@v4.5
+      #   with:
+      #     modules-to-cache: Evergreen, DnsClient-PS
+      #     force: true
+      #     shell: pwsh
 
-      - name: List Evergreen
-        id: list-module
-        shell: pwsh
+      # - name: List Evergreen
+      #   id: list-module
+      #   shell: pwsh
+      #   run: |
+      #     Update-Module -Name "Evergreen" -Force
+      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+      #     #echo "::set-output name=version::$Version"
+      #     Write-Host "Evergreen version: $Version"
+
+      - name: Install modules
+        shell: powershell
         run: |
-          Update-Module -Name "Evergreen" -Force
-          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-          #echo "::set-output name=version::$Version"
-          Write-Host "Evergreen version: $Version"
+          Install-Module -Name "Evergreen", "DnsClient-PS" -Force
 
       # Import GPG key
       - name: Import GPG key
@@ -125,22 +126,27 @@ jobs:
           git config --global core.safecrlf false
           git pull origin main
 
-      - name: Install and cache PowerShell modules
-        id: psmodulecache
-        uses: potatoqualitee/psmodulecache@v4.5
-        with:
-          modules-to-cache: Evergreen
-          force: true
-          shell: powershell
+      # - name: Install and cache PowerShell modules
+      #   id: psmodulecache
+      #   uses: potatoqualitee/psmodulecache@v4.5
+      #   with:
+      #     modules-to-cache: Evergreen
+      #     force: true
+      #     shell: powershell
 
-      - name: List Evergreen
-        id: list-module
+      # - name: List Evergreen
+      #   id: list-module
+      #   shell: powershell
+      #   run: |
+      #     Update-Module -Name "Evergreen" -Force
+      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+      #     #echo "::set-output name=version::$Version"
+      #     Write-Host "Evergreen version: $Version"
+
+      - name: Install modules
         shell: powershell
         run: |
-          Update-Module -Name "Evergreen" -Force
-          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-          #echo "::set-output name=version::$Version"
-          Write-Host "Evergreen version: $Version"
+          Install-Module -Name "Evergreen" -Force
 
       # Import GPG key
       - name: Import GPG key
@@ -347,21 +353,26 @@ jobs:
           git config --global core.safecrlf false
           git pull origin main
 
-      - name: Install and cache PowerShell modules
-        id: psmodulecache
-        uses: potatoqualitee/psmodulecache@v4.5
-        with:
-          modules-to-cache: Evergreen
-          shell: pwsh
+      # - name: Install and cache PowerShell modules
+      #   id: psmodulecache
+      #   uses: potatoqualitee/psmodulecache@v4.5
+      #   with:
+      #     modules-to-cache: Evergreen
+      #     shell: pwsh
 
-      - name: List Evergreen
-        id: list-module
-        shell: pwsh
+      # - name: List Evergreen
+      #   id: list-module
+      #   shell: pwsh
+      #   run: |
+      #     Update-Module -Name "Evergreen" -Force
+      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+      #     #echo "::set-output name=version::$Version"
+      #     Write-Host "Evergreen version: $Version"
+
+      - name: Install modules
+        shell: powershell
         run: |
-          Update-Module -Name "Evergreen" -Force
-          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-          #echo "::set-output name=version::$Version"
-          Write-Host "Evergreen version: $Version"
+          Install-Module -Name "Evergreen" -Force
 
       - name: Generate report
         shell: pwsh

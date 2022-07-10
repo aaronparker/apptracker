@@ -57,31 +57,36 @@ jobs:
             Remove-Item -Path $file -Force -ErrorAction "SilentlyContinue"
           }
 
-      - name: Install and cache PowerShell modules
-        id: psmodulecache
-        uses: potatoqualitee/psmodulecache@v4.5
-        with:
-          modules-to-cache: Evergreen
-          force: true
-          shell: pwsh
+      # - name: Install and cache PowerShell modules
+      #   id: psmodulecache
+      #   uses: potatoqualitee/psmodulecache@v4.5
+      #   with:
+      #     modules-to-cache: Evergreen
+      #     force: true
+      #     shell: pwsh
 
-      - name: Update Evergreen
-        id: update-evergreen
-        shell: pwsh
-        run: |
-          [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-          Install-PackageProvider -Name "NuGet" -MinimumVersion 2.8.5.208 -Force -ErrorAction "SilentlyContinue"
-          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted" -ErrorAction "SilentlyContinue"
-          Update-Module -Name Evergreen -Force -Confirm:$False -ErrorAction "SilentlyContinue"
+      # - name: Update Evergreen
+      #   id: update-evergreen
+      #   shell: pwsh
+      #   run: |
+      #     [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+      #     Install-PackageProvider -Name "NuGet" -MinimumVersion 2.8.5.208 -Force -ErrorAction "SilentlyContinue"
+      #     Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted" -ErrorAction "SilentlyContinue"
+      #     Update-Module -Name Evergreen -Force -Confirm:$False -ErrorAction "SilentlyContinue"
 
-      - name: List Evergreen
-        id: list-module
-        shell: pwsh
+      # - name: List Evergreen
+      #   id: list-module
+      #   shell: pwsh
+      #   run: |
+      #     Update-Module -Name "Evergreen" -Force
+      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
+      #     #echo "::set-output name=version::$Version"
+      #     Write-Host "Evergreen version: $Version"
+
+      - name: Install modules
+        shell: powershell
         run: |
-          Update-Module -Name "Evergreen" -Force
-          $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-          #echo "::set-output name=version::$Version"
-          Write-Host "Evergreen version: $Version"
+          Install-Module -Name "Evergreen" -Force
 
       - name: Update Cloudflare KV with all apps list
         id: update-allapps
