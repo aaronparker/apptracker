@@ -3,7 +3,7 @@
     "Version": "1.2.3316.0",
     "Architecture": "ARM64",
     "Channel": "Dogfood",
-    "Date": "Unknown",
+    "Date": "06/29/2022",
     "MD5": "01DE2320A344EEBC7A12ED1D0551C53B",
     "Filename": "RemoteDesktop_1.2.3316.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM"
@@ -21,7 +21,7 @@
     "Version": "1.2.3316.0",
     "Architecture": "ARM64",
     "Channel": "Public",
-    "Date": "Unknown",
+    "Date": "06/29/2022",
     "MD5": "01DE2320A344EEBC7A12ED1D0551C53B",
     "Filename": "RemoteDesktop_1.2.3316.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM"
@@ -32,7 +32,7 @@
     "Channel": "Dogfood",
     "Date": "06/29/2022",
     "MD5": "84F305A331C03CCA8639F6DE115E39D0",
-    "Filename": "e",
+    "Filename": "RemoteDesktop_1.2.3316.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8"
   },
   {
@@ -41,7 +41,7 @@
     "Channel": "Insider",
     "Date": "06/29/2022",
     "MD5": "84F305A331C03CCA8639F6DE115E39D0",
-    "Filename": "e",
+    "Filename": "RemoteDesktop_1.2.3316.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8"
   },
   {
@@ -50,14 +50,14 @@
     "Channel": "Public",
     "Date": "06/29/2022",
     "MD5": "84F305A331C03CCA8639F6DE115E39D0",
-    "Filename": "e",
+    "Filename": "RemoteDesktop_1.2.3316.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8"
   },
   {
     "Version": "1.2.3316.0",
     "Architecture": "x86",
     "Channel": "Dogfood",
-    "Date": "Unknown",
+    "Date": "06/29/2022",
     "MD5": "787A25FFAE3DC246B2B106DBDB5F5DF8",
     "Filename": "RemoteDesktop_1.2.3316.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL"
@@ -66,7 +66,7 @@
     "Version": "1.2.3316.0",
     "Architecture": "x86",
     "Channel": "Insider",
-    "Date": "Unknown",
+    "Date": "06/29/2022",
     "MD5": "787A25FFAE3DC246B2B106DBDB5F5DF8",
     "Filename": "RemoteDesktop_1.2.3316.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL"
@@ -75,7 +75,7 @@
     "Version": "1.2.3316.0",
     "Architecture": "x86",
     "Channel": "Public",
-    "Date": "Unknown",
+    "Date": "06/29/2022",
     "MD5": "787A25FFAE3DC246B2B106DBDB5F5DF8",
     "Filename": "RemoteDesktop_1.2.3316.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL"
