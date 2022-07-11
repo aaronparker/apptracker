@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.nju.edu.cn/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.lysator.liu.se/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -901,7 +901,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1105,21 +1105,20 @@
 
 [Link](https://onedrive.live.com/)
 
-| Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                                                      |
-| ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| 22.145.0707.0001 | AMD64        | InternalFast | hT/oNBN9hRyAk4c440B15vAOBz5XfKUhf6h+76U4HVc= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.145.0707.0001/amd64/OneDriveSetup.exe                           |
-| 22.145.0707.0001 | x86          | InternalFast | OMR2uKZ7S/wHAmZr+cg9tAsrHy+EvJbqA/UqWM/5Qys= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.145.0707.0001/OneDriveSetup.exe                                 |
-| 22.141.0703.0002 | AMD64        | InternalSlow | 4jrVokZX9R7AGT9wyrwdVeQWxW1q1/4YTYW/A+EVUrk= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.141.0703.0002/amd64/OneDriveSetup.exe                           |
-| 22.141.0703.0002 | x86          | InternalSlow | CVLzV+fMu40Iw246B9yWRHzw91gCiI+8Q3Seun5aCWc= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.141.0703.0002/OneDriveSetup.exe                                 |
-| 22.136.0626.0001 | AMD64        | Insider      | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/amd64/OneDriveSetup.exe                           |
-| 22.136.0626.0001 | x86          | Insider      | zJmW79vPtQySNJJGYgFBr339QtqBz5TBes8sSBXLdNs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/OneDriveSetup.exe                                 |
-| 22.131.0619.0001 | AMD64        | Production   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.131.0619.0001/amd64/OneDriveSetup.exe                               |
-| 22.131.0619.0001 | x86          | Production   | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/Prod/22.131.0619.0001/OneDriveSetup.exe                                     |
-| 22.121.0605.0002 | AMD64        | Production   | zgGPKh8r6xHWbborhI8lP0Ky5HZvMbpqIYGSyaA1WpI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.121.0605.0002/amd64/OneDriveSetup.exe                               |
-| 22.121.0605.0002 | x86          | Production   | D44t0TFYG0jI9326ChI3nzgivqt2kCuesviaIKD6MYg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.121.0605.0002/OneDriveSetup.exe                                     |
-| 22.022.0130.0001 | AMD64        | Enterprise   | 8KncQhruDT6JTdZQfepa7/S8PfIhoKO0xQyqhlp7S1g= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/amd64/OneDriveSetup.exe                         |
-| 22.022.0130.0001 | x86          | Enterprise   | 44mKE0EeZUfgPDpxsizwbJYRiyyM+MUDlG/svvIIWgc= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/OneDriveSetup.exe                               |
-| 22.022.0130.0001 | x86          | Enterprise   | N/A                                          | msix | https://oneclient.sfx.ms/Win/Enterprise/22.022.0130.0001/Microsoft.OneDriveSyncClient_8wekyb3d8bbwe.msix |
+| Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
+| ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
+| 22.145.0707.0001 | AMD64        | InternalFast | hT/oNBN9hRyAk4c440B15vAOBz5XfKUhf6h+76U4HVc= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.145.0707.0001/amd64/OneDriveSetup.exe   |
+| 22.145.0707.0001 | x86          | InternalFast | OMR2uKZ7S/wHAmZr+cg9tAsrHy+EvJbqA/UqWM/5Qys= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.145.0707.0001/OneDriveSetup.exe         |
+| 22.141.0703.0002 | AMD64        | Insider      | 4jrVokZX9R7AGT9wyrwdVeQWxW1q1/4YTYW/A+EVUrk= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.141.0703.0002/amd64/OneDriveSetup.exe   |
+| 22.141.0703.0002 | AMD64        | InternalSlow | 4jrVokZX9R7AGT9wyrwdVeQWxW1q1/4YTYW/A+EVUrk= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.141.0703.0002/amd64/OneDriveSetup.exe   |
+| 22.141.0703.0002 | x86          | Insider      | CVLzV+fMu40Iw246B9yWRHzw91gCiI+8Q3Seun5aCWc= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.141.0703.0002/OneDriveSetup.exe         |
+| 22.141.0703.0002 | x86          | InternalSlow | CVLzV+fMu40Iw246B9yWRHzw91gCiI+8Q3Seun5aCWc= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.141.0703.0002/OneDriveSetup.exe         |
+| 22.136.0626.0001 | AMD64        | Insider      | zR3UpOT1Vuy3o3aYC+kVnJDWVXhl7QHtgmMYb/hJXOM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/amd64/OneDriveSetup.exe   |
+| 22.136.0626.0001 | x86          | Insider      | zJmW79vPtQySNJJGYgFBr339QtqBz5TBes8sSBXLdNs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.136.0626.0001/OneDriveSetup.exe         |
+| 22.131.0619.0001 | AMD64        | Production   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.131.0619.0001/amd64/OneDriveSetup.exe       |
+| 22.131.0619.0001 | x86          | Production   | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/Prod/22.131.0619.0001/OneDriveSetup.exe             |
+| 22.077.0410.0007 | AMD64        | Enterprise   | JjoeTY78Krp49KXJEyjtE1O9WSuFmFoNKECtVwKGDW8= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/amd64/OneDriveSetup.exe |
+| 22.077.0410.0007 | x86          | Enterprise   | jjiooBnk6w0tEt20O1IWzT63jvuFUxpZgJDoJdpkDgg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/OneDriveSetup.exe       |
 
 ## MicrosoftPowerShell
 
@@ -1194,12 +1193,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.70.0  | win32-arm64      | Insider | ARM64        | d419ae7b0b42688bc3ffbccac38f1b93e201a8d7cbba7fd39952ec40802d79cc | https://az764295.vo.msecnd.net/insider/e69176aafd282090e18f558c2b2ac9b3d5b606f5/VSCodeSetup-arm64-1.70.0-insider.exe     |
-| 1.70.0  | win32-arm64-user | Insider | ARM64        | 91f1f60fa0af55b7f86adf9729314c694acc9b25bf9e53bdda3d3be598f52603 | https://az764295.vo.msecnd.net/insider/e69176aafd282090e18f558c2b2ac9b3d5b606f5/VSCodeUserSetup-arm64-1.70.0-insider.exe |
-| 1.70.0  | win32-x64        | Insider | x64          | d58b142295544efe0a698c537f808a1b37a8aca57f3cf1cba8e8119062c5c55c | https://az764295.vo.msecnd.net/insider/e69176aafd282090e18f558c2b2ac9b3d5b606f5/VSCodeSetup-x64-1.70.0-insider.exe       |
-| 1.70.0  | win32-x64-user   | Insider | x64          | e4c8047759ec9fadb278aa35db3b64c06ff329de53a2150cf1799a6b329df62e | https://az764295.vo.msecnd.net/insider/e69176aafd282090e18f558c2b2ac9b3d5b606f5/VSCodeUserSetup-x64-1.70.0-insider.exe   |
-| 1.70.0  | win32            | Insider | x86          | 3e33c2492653c4d70a802e2763600254dea38c4452e5a9af23917b59f564803b | https://az764295.vo.msecnd.net/insider/e69176aafd282090e18f558c2b2ac9b3d5b606f5/VSCodeSetup-ia32-1.70.0-insider.exe      |
-| 1.70.0  | win32-user       | Insider | x86          | 7a267caca6ea2e22b191b96128734d09615d4d02a7cb709cb76b8c9569c3cd82 | https://az764295.vo.msecnd.net/insider/e69176aafd282090e18f558c2b2ac9b3d5b606f5/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
+| 1.70.0  | win32-arm64      | Insider | ARM64        | 5d67961eecb8b358a86a076970579f53d6d1af90ff825fea27ffbcf391484ace | https://az764295.vo.msecnd.net/insider/9925e5d4d3d355758cd09d26868f0c12a0006828/VSCodeSetup-arm64-1.70.0-insider.exe     |
+| 1.70.0  | win32-arm64-user | Insider | ARM64        | 64861bbfac2e03939da99d0fd7d15ce7d9bd962b50b2dffd443320e7008e504b | https://az764295.vo.msecnd.net/insider/9925e5d4d3d355758cd09d26868f0c12a0006828/VSCodeUserSetup-arm64-1.70.0-insider.exe |
+| 1.70.0  | win32-x64        | Insider | x64          | 89891d97106367163eb841fb664168aca96791f76aa7717d50a341d804bc6f27 | https://az764295.vo.msecnd.net/insider/9925e5d4d3d355758cd09d26868f0c12a0006828/VSCodeSetup-x64-1.70.0-insider.exe       |
+| 1.70.0  | win32-x64-user   | Insider | x64          | b368a6c3f39f15efab607d977963909d634fbf2f982eda45977447fda33c2c6b | https://az764295.vo.msecnd.net/insider/9925e5d4d3d355758cd09d26868f0c12a0006828/VSCodeUserSetup-x64-1.70.0-insider.exe   |
+| 1.70.0  | win32            | Insider | x86          | 18d9d452ef818501c94e064c0f4c80d21f06bd9996649a323c2366574b254cfa | https://az764295.vo.msecnd.net/insider/9925e5d4d3d355758cd09d26868f0c12a0006828/VSCodeSetup-ia32-1.70.0-insider.exe      |
+| 1.70.0  | win32-user       | Insider | x86          | c3232419ee6fe10e5181ae7ca781772e7778034af8fe03808f93093c5f6e00e2 | https://az764295.vo.msecnd.net/insider/9925e5d4d3d355758cd09d26868f0c12a0006828/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
 | 1.69.0  | win32-arm64      | Stable  | ARM64        | 9ab6f6c919e9e158ae5a7abcaf7d3f3ff1c9c6af76888d742749b2baeccbe3b5 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-arm64-1.69.0.exe              |
 | 1.69.0  | win32-arm64-user | Stable  | ARM64        | f8003241ae844d3541e87ecbe41e428223b0ca136965e37b3d20985e3aa8b166 | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeUserSetup-arm64-1.69.0.exe          |
 | 1.69.0  | win32-x64        | Stable  | x64          | 2db764d9ccd989d0bf2b47bd50e4fcbaaa8c7e1c3e39791098bcf8df6268dd4f | https://az764295.vo.msecnd.net/stable/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/VSCodeSetup-x64-1.69.0.exe                |
@@ -3394,9 +3393,9 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe           |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi           |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip           |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
 | 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
 | 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
 | 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
