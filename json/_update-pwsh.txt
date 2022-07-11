@@ -1,5 +1,0 @@
-json/Gimp.json
-json/LogMeInGoToOpener.json
-json/MicrosoftOneDrive.json
-json/MicrosoftVisualStudioCode.json
-json/VideoLanVlcPlayer.json
