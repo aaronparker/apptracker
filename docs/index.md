@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.3   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.3   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
 
 ## 1Password7
 
@@ -410,7 +410,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 22.1.1  | Windows  | x64          | exe  | 06/26/2022 | 106948840 | https://github.com/dbeaver/dbeaver/releases/download/22.1.1/dbeaver-ce-22.1.1-x86_64-setup.exe |
+| 22.1.2  | Windows  | x64          | exe  | 07/09/2022 | 107424776 | https://github.com/dbeaver/dbeaver/releases/download/22.1.2/dbeaver-ce-22.1.2-x86_64-setup.exe |
 
 ## DebaucheeBarrier
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.astra.in.ua/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1245,15 +1245,15 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3316.0 | ARM64        | Dogfood | Unknown    | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
+| 1.2.3316.0 | ARM64        | Dogfood | 06/29/2022 | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
 | 1.2.3316.0 | ARM64        | Insider | 06/29/2022 | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
-| 1.2.3316.0 | ARM64        | Public  | Unknown    | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
-| 1.2.3316.0 | x64          | Dogfood | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | e                                  | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
-| 1.2.3316.0 | x64          | Insider | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | e                                  | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
-| 1.2.3316.0 | x64          | Public  | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | e                                  | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
-| 1.2.3316.0 | x86          | Dogfood | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
-| 1.2.3316.0 | x86          | Insider | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
-| 1.2.3316.0 | x86          | Public  | Unknown    | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
+| 1.2.3316.0 | ARM64        | Public  | 06/29/2022 | 01DE2320A344EEBC7A12ED1D0551C53B | RemoteDesktop_1.2.3316.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqM |
+| 1.2.3316.0 | x64          | Dogfood | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
+| 1.2.3316.0 | x64          | Insider | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
+| 1.2.3316.0 | x64          | Public  | 06/29/2022 | 84F305A331C03CCA8639F6DE115E39D0 | RemoteDesktop_1.2.3316.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50Mp8 |
+| 1.2.3316.0 | x86          | Dogfood | 06/29/2022 | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
+| 1.2.3316.0 | x86          | Insider | 06/29/2022 | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
+| 1.2.3316.0 | x86          | Public  | 06/29/2022 | 787A25FFAE3DC246B2B106DBDB5F5DF8 | RemoteDesktop_1.2.3316.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50uqL |
 
 ## MicrosoftWvdRtcService
 
