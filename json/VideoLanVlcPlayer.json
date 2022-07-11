@@ -4,21 +4,21 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "EXE",
-    "URI": "https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe"
+    "URI": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "MSI",
-    "URI": "https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi"
+    "URI": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "ZIP",
-    "URI": "https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip"
+    "URI": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip"
   },
   {
     "Version": "3.0.16",
