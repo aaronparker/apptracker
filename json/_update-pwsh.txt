@@ -1,0 +1,9 @@
+json/AdobeAcrobat.json
+json/AdobeAcrobatDC.json
+json/AdobeAcrobatProStdDC.json
+json/AdobeAcrobatReaderDC.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/VideoLanVlcPlayer.json
