@@ -1,29 +1,29 @@
 [
   {
-    "Version": "0.14.15",
+    "Version": "0.15.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "06/07/2022",
-    "Size": 72397992,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.14.15/Obsidian.0.14.15-arm64.exe"
+    "Date": "07/12/2022",
+    "Size": 72500808,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.6/Obsidian.0.15.6-arm64.exe"
   },
   {
-    "Version": "0.14.15",
+    "Version": "0.15.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "06/07/2022",
-    "Size": 64219656,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.14.15/Obsidian.0.14.15-32.exe"
+    "Date": "07/12/2022",
+    "Size": 64329248,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.6/Obsidian.0.15.6-32.exe"
   },
   {
-    "Version": "0.14.15",
+    "Version": "0.15.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "06/07/2022",
-    "Size": 67550032,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.14.15/Obsidian.0.14.15.exe"
+    "Date": "07/12/2022",
+    "Size": 67662568,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.6/Obsidian.0.15.6.exe"
   }
 ]
