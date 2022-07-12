@@ -1,6 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftOneDrive.json
-json/MicrosoftTeams.json
-json/VideoLanVlcPlayer.json
