@@ -1,8 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/McNeelRhino.json
-json/Microsoft365Apps.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
