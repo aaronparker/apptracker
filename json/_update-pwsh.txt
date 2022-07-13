@@ -1,0 +1,5 @@
+json/Gimp.json
+json/HashicorpTerraform.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
