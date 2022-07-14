@@ -1,9 +1,0 @@
-json/1Password.json
-json/GeekSoftwarePDF24Creator.json
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/OperaBrowser.json
-json/OperaGXBrowser.json
-json/SAGAGIS.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
