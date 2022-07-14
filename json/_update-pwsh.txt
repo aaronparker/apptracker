@@ -1,0 +1,11 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpConsul.json
+json/HashicorpNomad.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerToys.json
+json/MirantisLens.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
