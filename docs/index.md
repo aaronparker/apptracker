@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.7.3   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.7.3   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
 
 ## 1Password7
 
@@ -594,8 +594,8 @@
 
 | Version | Type | URI                                                 |
 | ------- | ---- | --------------------------------------------------- |
-| 11.2.0  | Exe  | https://download.pdf24.org/pdf24-creator-11.2.0.exe |
-| 11.2.0  | Msi  | https://download.pdf24.org/pdf24-creator-11.2.0.msi |
+| 11.3.0  | Exe  | https://download.pdf24.org/pdf24-creator-11.3.0.exe |
+| 11.3.0  | Msi  | https://download.pdf24.org/pdf24-creator-11.3.0.msi |
 
 ## Gephi
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                 |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.nic.funet.fi/pub/mirrors/ftp.gimp.org/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1193,12 +1193,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.70.0  | win32-arm64      | Insider | ARM64        | aa60b584db8ddf4cba6046ee9b1f4250b2896251970cd3469324cc273be51218 | https://az764295.vo.msecnd.net/insider/052d5b0027f6c9d64c8ca35955cb5117ba94d5d7/VSCodeSetup-arm64-1.70.0-insider.exe     |
-| 1.70.0  | win32-arm64-user | Insider | ARM64        | 668a254da98071f60535db3f8c4be8b97f22c33002a598287641c18e2b74022f | https://az764295.vo.msecnd.net/insider/052d5b0027f6c9d64c8ca35955cb5117ba94d5d7/VSCodeUserSetup-arm64-1.70.0-insider.exe |
-| 1.70.0  | win32-x64        | Insider | x64          | 0f6bae6f6632961ad0467bf654568dd30b62bdf6146ac07101170e383d361532 | https://az764295.vo.msecnd.net/insider/052d5b0027f6c9d64c8ca35955cb5117ba94d5d7/VSCodeSetup-x64-1.70.0-insider.exe       |
-| 1.70.0  | win32-x64-user   | Insider | x64          | 62f5657624efb5aef94bb1c5fcc474ec783ba21a6b8e23dcedd6c77efe5d3aab | https://az764295.vo.msecnd.net/insider/052d5b0027f6c9d64c8ca35955cb5117ba94d5d7/VSCodeUserSetup-x64-1.70.0-insider.exe   |
-| 1.70.0  | win32            | Insider | x86          | 5ce9111828fd33736e4ff144daac42cdabb824869218d140c271d1a41b8a7fd2 | https://az764295.vo.msecnd.net/insider/052d5b0027f6c9d64c8ca35955cb5117ba94d5d7/VSCodeSetup-ia32-1.70.0-insider.exe      |
-| 1.70.0  | win32-user       | Insider | x86          | 97ac584c8cad9a2d9db32f06569a23f844d6b226f7dd5eba7e3668fc4e1167d6 | https://az764295.vo.msecnd.net/insider/052d5b0027f6c9d64c8ca35955cb5117ba94d5d7/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
+| 1.70.0  | win32-arm64      | Insider | ARM64        | cac4bb84326feb5d3deaa70071bc539c0544d69bbaf6a0d5b009ee5877d1c6d3 | https://az764295.vo.msecnd.net/insider/e0a65a97d4f349cf11a7cae804a5553ccb412528/VSCodeSetup-arm64-1.70.0-insider.exe     |
+| 1.70.0  | win32-arm64-user | Insider | ARM64        | db8e1c25cb410f7de42a44626f9e0fdf71d67659d3567b28e13ea0cad27910fc | https://az764295.vo.msecnd.net/insider/e0a65a97d4f349cf11a7cae804a5553ccb412528/VSCodeUserSetup-arm64-1.70.0-insider.exe |
+| 1.70.0  | win32-x64        | Insider | x64          | 35b7483658623760170f463a5f33e89dab8390d26acd04331759cb0fc6d7f9ef | https://az764295.vo.msecnd.net/insider/e0a65a97d4f349cf11a7cae804a5553ccb412528/VSCodeSetup-x64-1.70.0-insider.exe       |
+| 1.70.0  | win32-x64-user   | Insider | x64          | e41459f790075e03b5da7701303237eb0d7f1d14d33bfa1ab953fd45707d8c59 | https://az764295.vo.msecnd.net/insider/e0a65a97d4f349cf11a7cae804a5553ccb412528/VSCodeUserSetup-x64-1.70.0-insider.exe   |
+| 1.70.0  | win32            | Insider | x86          | c2e18834570496566adbc3c6d962d16eeef7c9af304499c553efafb3895fe13b | https://az764295.vo.msecnd.net/insider/e0a65a97d4f349cf11a7cae804a5553ccb412528/VSCodeSetup-ia32-1.70.0-insider.exe      |
+| 1.70.0  | win32-user       | Insider | x86          | 4108e142ea50a1bd7921c0137bca50d5508727302f90f4dd1cdc8ee1337817f9 | https://az764295.vo.msecnd.net/insider/e0a65a97d4f349cf11a7cae804a5553ccb412528/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
 | 1.69.1  | win32-arm64      | Stable  | ARM64        | 9a267ec204d5bee069c861c5c0d90d19fdd47efb45eaa1cbd0608d2cff7e3671 | https://az764295.vo.msecnd.net/stable/b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a/VSCodeSetup-arm64-1.69.1.exe              |
 | 1.69.1  | win32-arm64-user | Stable  | ARM64        | 5e136501a0ba24e4580ac822ac2b301f521cbd0d294e0679d8d1ecd97705a413 | https://az764295.vo.msecnd.net/stable/b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a/VSCodeUserSetup-arm64-1.69.1.exe          |
 | 1.69.1  | win32-x64        | Stable  | x64          | 008a2a04a52feafc4e62e1dfb34244f87d87889b91ac55612d72cc8b426996ff | https://az764295.vo.msecnd.net/stable/b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a/VSCodeSetup-x64-1.69.1.exe                |
@@ -2850,8 +2850,8 @@
 
 | Version      | Architecture | Type | URI                                                                                           |
 | ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
-| 89.0.4447.38 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.38/win/Opera_89.0.4447.38_Setup_x64.exe |
-| 89.0.4447.38 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.38/win/Opera_89.0.4447.38_Setup.exe     |
+| 89.0.4447.48 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.48/win/Opera_89.0.4447.48_Setup_x64.exe |
+| 89.0.4447.48 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.48/win/Opera_89.0.4447.48_Setup.exe     |
 
 ## OperaGXBrowser
 
@@ -2859,8 +2859,8 @@
 
 | Version      | Architecture | Type | URI                                                                                         |
 | ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 88.0.4412.75 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/88.0.4412.75/win/Opera_GX_88.0.4412.75_Setup_x64.exe |
-| 88.0.4412.75 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/88.0.4412.75/win/Opera_GX_88.0.4412.75_Setup.exe     |
+| 88.0.4412.85 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/88.0.4412.85/win/Opera_GX_88.0.4412.85_Setup_x64.exe |
+| 88.0.4412.85 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/88.0.4412.85/win/Opera_GX_88.0.4412.85_Setup.exe     |
 
 ## OracleJava8
 
@@ -3059,8 +3059,8 @@
 
 | Version | Architecture | Type | URI                                                                                                       |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 8.2.3   | x64          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.2.3/saga-8.2.3_x64_setup.exe   |
-| 8.2.3   | x86          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.2.3/saga-8.2.3_win32_setup.exe |
+| 8.3.0   | x64          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.3.0/saga-8.3.0_x64_setup.exe   |
+| 8.3.0   | x86          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.3.0/saga-8.3.0_win32_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -3391,14 +3391,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe        |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi        |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip        |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
