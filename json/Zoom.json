@@ -1,5 +1,17 @@
 [
   {
+    "Version": "5.11.3.564",
+    "Platform": "Windows",
+    "Type": "Notes",
+    "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginSetup.msi"
+  },
+  {
+    "Version": "5.11.3.563",
+    "Platform": "Windows",
+    "Type": "Outlook",
+    "URI": "https://cdn.zoom.us/prod/5.11.3.563/ZoomOutlookPluginSetup.msi"
+  },
+  {
     "Version": "5.11.1.6602",
     "Platform": "Windows",
     "Type": "Exe",
@@ -22,18 +34,6 @@
     "Platform": "Windows",
     "Type": "Lync",
     "URI": "https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi"
-  },
-  {
-    "Version": "5.11.0.533",
-    "Platform": "Windows",
-    "Type": "Notes",
-    "URI": "https://cdn.zoom.us/prod/5.11.0.533/ZoomNotesPluginSetup.msi"
-  },
-  {
-    "Version": "5.11.0.532",
-    "Platform": "Windows",
-    "Type": "Outlook",
-    "URI": "https://cdn.zoom.us/prod/5.11.0.532/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "Latest",
