@@ -1,5 +1,0 @@
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/VideoLanVlcPlayer.json
-json/Zotero.json
-json/jrsoftwareInnoSetup.json
