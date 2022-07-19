@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.7.3   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.7.3   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.7.3.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.acc.umu.se/pub/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -853,9 +853,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -999,8 +999,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.38.0  | win32-x64      | Insider | 96cf483d50567e36527112117d5d0530b98540fc3b5a2df907f07713da54072d | https://sqlopsbuilds.azureedge.net/insider/98f9cd9edefb0c0bc85256ccf7113a192bebe5d6/azuredatastudio-windows-setup-1.38.0-insider.exe      |
-| 1.38.0  | win32-x64-user | Insider | 6fdeca04d15059a1a594bfa5eb4ff51e5e9ae8341a6a7c9f5bf4b438f46cbe9d | https://sqlopsbuilds.azureedge.net/insider/98f9cd9edefb0c0bc85256ccf7113a192bebe5d6/azuredatastudio-windows-user-setup-1.38.0-insider.exe |
+| 1.39.0  | win32-x64      | Insider | a125865aede65efa5907e2386ab0e402d8ebe0ed7f9511b367def1f404c44545 | https://sqlopsbuilds.azureedge.net/insider/bfbb78827fea4993fbe0ab4ed3553658c463cf5b/azuredatastudio-windows-setup-1.39.0-insider.exe      |
+| 1.39.0  | win32-x64-user | Insider | b9c73b74b43436ad9df24d5a74d77dfc1c0fd143ca1fdb203e9bd1abe870398e | https://sqlopsbuilds.azureedge.net/insider/bfbb78827fea4993fbe0ab4ed3553658c463cf5b/azuredatastudio-windows-user-setup-1.39.0-insider.exe |
 | 1.37.0  | win32-x64      | Stable  | 4938288b7450401c69a344f93681964a4afbec746570ec342b9ef89093d22c77 | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-setup-1.37.0.exe               |
 | 1.37.0  | win32-x64-user | Stable  | db7ea98403ebeba953c3f801a553c786e0253544775404a6b9624c3b1ea7fcbd | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-user-setup-1.37.0.exe          |
 
@@ -1249,8 +1249,8 @@
 | 1.2.3398.0 | ARM64        | Dogfood | Unknown    | B98C03CADC55DDA415FCEB10E1B51821 | RemoteDesktop_1.2.3398.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51nFw |
 | 1.2.3398.0 | x64          | Dogfood | 07/14/2022 | 2149BC21885639C071D2AA48E8FA63E8 | RemoteDesktop_1.2.3398.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51t0G |
 | 1.2.3398.0 | x86          | Dogfood | Unknown    | 0D15E377D00DC9B1445F9453C40CA683 | RemoteDesktop_1.2.3398.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51iul |
-| 1.2.3317.0 | ARM64        | Insider | 07/12/2022 | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
-| 1.2.3317.0 | ARM64        | Public  | 07/12/2022 | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
+| 1.2.3317.0 | ARM64        | Insider | Unknown    | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
+| 1.2.3317.0 | ARM64        | Public  | Unknown    | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
 | 1.2.3317.0 | x64          | Insider | 07/12/2022 | 03420F4AB62EF88481B2E94B0D495D54 | RemoteDesktop_1.2.3317.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld |
 | 1.2.3317.0 | x64          | Public  | 07/12/2022 | 03420F4AB62EF88481B2E94B0D495D54 | RemoteDesktop_1.2.3317.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld |
 | 1.2.3317.0 | x86          | Insider | 07/12/2022 | 90D6493DD546C017C5A2ABC2C9B26C0B | RemoteDesktop_1.2.3317.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7f |
@@ -2789,7 +2789,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2022.2.7336 | 07/17/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.2.7336-x64.msi |
+| 2022.2.7362 | 07/19/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.2.7362-x64.msi |
 
 ## OctopusTentacle
 
@@ -2852,8 +2852,8 @@
 
 | Version      | Architecture | Type | URI                                                                                           |
 | ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
-| 89.0.4447.48 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.48/win/Opera_89.0.4447.48_Setup_x64.exe |
-| 89.0.4447.48 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.48/win/Opera_89.0.4447.48_Setup.exe     |
+| 89.0.4447.51 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.51/win/Opera_89.0.4447.51_Setup_x64.exe |
+| 89.0.4447.51 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.51/win/Opera_89.0.4447.51_Setup.exe     |
 
 ## OperaGXBrowser
 
@@ -3393,14 +3393,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe                  |
+| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi                  |
+| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip                  |
 
 ## VisualCppRedistAIO
 
