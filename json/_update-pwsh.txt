@@ -1,0 +1,11 @@
+json/BeekeeperStudio.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/OctopusTentacle.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
