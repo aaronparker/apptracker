@@ -1,75 +1,75 @@
 [
   {
-    "Version": "1.2.3398.0",
+    "Version": "1.2.3401.0",
     "Architecture": "ARM64",
     "Channel": "Dogfood",
     "Date": "Unknown",
-    "MD5": "B98C03CADC55DDA415FCEB10E1B51821",
-    "Filename": "RemoteDesktop_1.2.3398.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51nFw"
+    "MD5": "5DA8B12BB571AF895CAE50AA2F06BA22",
+    "Filename": "RemoteDesktop_1.2.3401.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9"
   },
   {
-    "Version": "1.2.3398.0",
+    "Version": "1.2.3401.0",
+    "Architecture": "ARM64",
+    "Channel": "Insider",
+    "Date": "Unknown",
+    "MD5": "5DA8B12BB571AF895CAE50AA2F06BA22",
+    "Filename": "RemoteDesktop_1.2.3401.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9"
+  },
+  {
+    "Version": "1.2.3401.0",
     "Architecture": "x64",
     "Channel": "Dogfood",
-    "Date": "07/14/2022",
-    "MD5": "2149BC21885639C071D2AA48E8FA63E8",
-    "Filename": "RemoteDesktop_1.2.3398.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51t0G"
+    "Date": "07/18/2022",
+    "MD5": "5222E1619BD531A3B91539188E5DA4DA",
+    "Filename": "RemoteDesktop_1.2.3401.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5"
   },
   {
-    "Version": "1.2.3398.0",
+    "Version": "1.2.3401.0",
+    "Architecture": "x64",
+    "Channel": "Insider",
+    "Date": "07/18/2022",
+    "MD5": "5222E1619BD531A3B91539188E5DA4DA",
+    "Filename": "RemoteDesktop_1.2.3401.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5"
+  },
+  {
+    "Version": "1.2.3401.0",
     "Architecture": "x86",
     "Channel": "Dogfood",
     "Date": "Unknown",
-    "MD5": "0D15E377D00DC9B1445F9453C40CA683",
-    "Filename": "RemoteDesktop_1.2.3398.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51iul"
+    "MD5": "C53624C830BEE00E5F685456F9BE8F7E",
+    "Filename": "RemoteDesktop_1.2.3401.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7"
+  },
+  {
+    "Version": "1.2.3401.0",
+    "Architecture": "x86",
+    "Channel": "Insider",
+    "Date": "Unknown",
+    "MD5": "C53624C830BEE00E5F685456F9BE8F7E",
+    "Filename": "RemoteDesktop_1.2.3401.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7"
   },
   {
     "Version": "1.2.3317.0",
     "Architecture": "ARM64",
-    "Channel": "Insider",
-    "Date": "Unknown",
+    "Channel": "Public",
+    "Date": "07/12/2022",
     "MD5": "3DBE49E1A1C45A2B4237F7E1286BF09A",
     "Filename": "RemoteDesktop_1.2.3317.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e"
   },
   {
     "Version": "1.2.3317.0",
-    "Architecture": "ARM64",
-    "Channel": "Public",
-    "Date": "Unknown",
-    "MD5": "3DBE49E1A1C45A2B4237F7E1286BF09A",
-    "Filename": "RemoteDesktop_1.2.3317.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e"
-  },
-  {
-    "Version": "1.2.3317.0",
-    "Architecture": "x64",
-    "Channel": "Insider",
-    "Date": "07/12/2022",
-    "MD5": "03420F4AB62EF88481B2E94B0D495D54",
-    "Filename": "RemoteDesktop_1.2.3317.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld"
-  },
-  {
-    "Version": "1.2.3317.0",
     "Architecture": "x64",
     "Channel": "Public",
     "Date": "07/12/2022",
     "MD5": "03420F4AB62EF88481B2E94B0D495D54",
     "Filename": "RemoteDesktop_1.2.3317.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld"
-  },
-  {
-    "Version": "1.2.3317.0",
-    "Architecture": "x86",
-    "Channel": "Insider",
-    "Date": "07/12/2022",
-    "MD5": "90D6493DD546C017C5A2ABC2C9B26C0B",
-    "Filename": "RemoteDesktop_1.2.3317.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7f"
   },
   {
     "Version": "1.2.3317.0",

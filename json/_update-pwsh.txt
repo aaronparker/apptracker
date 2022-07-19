@@ -1,0 +1,12 @@
+json/1Password.json
+json/AmazonCorretto.json
+json/Gimp.json
+json/JetBrainsIntelliJIDEA.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OracleJava8.json
+json/VMwareHorizonClient.json
+json/VMwareHorizonClientAlt.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
