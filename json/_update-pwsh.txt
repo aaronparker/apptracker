@@ -1,9 +1,0 @@
-json/Gimp.json
-json/GoogleChrome.json
-json/Microsoft365Apps.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
