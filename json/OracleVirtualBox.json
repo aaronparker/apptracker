@@ -1,17 +1,12 @@
 [
   {
-    "Version": "6.1.34",
+    "Version": "6.1.36",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/6.1.34/VirtualBox-6.1.34-150636-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/6.1.36/VirtualBox-6.1.36-152435-Win.exe"
   },
   {
-    "Version": "6.1.34",
-    "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/6.1.34/VirtualBox-6.1.34a-150636-Win.exe"
-  },
-  {
-    "Version": "6.1.34",
+    "Version": "6.1.36",
     "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/6.1.34/VBoxGuestAdditions_6.1.34.iso"
+    "URI": "https://download.virtualbox.org/virtualbox/6.1.36/VBoxGuestAdditions_6.1.36.iso"
   }
 ]
