@@ -1,5 +1,0 @@
-json/Gimp.json
-json/HashicorpVault.json
-json/LogMeInGoToOpener.json
-json/Microsoft365Apps.json
-json/MicrosoftWvdRemoteDesktop.json
