@@ -1,0 +1,5 @@
+json/FoxitReader.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
