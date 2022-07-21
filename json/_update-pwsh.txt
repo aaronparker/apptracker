@@ -1,9 +1,0 @@
-json/FoxitReader.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/ScooterBeyondCompare.json
-json/ShareX.json
-json/SignalDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
