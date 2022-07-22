@@ -1,9 +1,0 @@
-json/AdoptiumTemurin11.json
-json/AdoptiumTemurin17.json
-json/AmazonCorretto.json
-json/FileZilla.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftWvdRemoteDesktop.json
-json/Postman.json
-json/VideoLanVlcPlayer.json
