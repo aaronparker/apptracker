@@ -131,8 +131,8 @@
 
 | Version        | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                    |
 | -------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| jdk-11.0.15+10 | jdk  | x64          | 083082efde2ebc3989549b350a6b2ada77713d58fb7e489f2ba23a34da387094 | 175321600 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.15%2B10/OpenJDK11U-jdk_x64_windows_hotspot_11.0.15_10.msi    |
-| jdk-11.0.15+10 | jre  | x64          | 8072ed7f0235920022bd49b104cc79652d0f01cdec608848a73a320c6192ad77 | 31791104  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.15%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.15_10.msi    |
+| jdk-11.0.16+8  | jdk  | x64          | 2889b216eefce687a6557aa3dfd1a8797cf108668583fc48054960b5650dab08 | 175529984 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16_8.msi      |
+| jdk-11.0.16+8  | jre  | x64          |                                                                  |           |                                                                                                                                        |
 | jdk-11.0.15+10 | jdk  | x86          | b650c323ee0a9af16929776951b68f2af4682b9cd64836dbed080e0c5b11d20e | 157451264 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.15%2B10/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.15_10.msi |
 | jdk-11.0.15+10 | jre  | x86          | 38a1ab5076edb7f4ad9879d9205d3a7aa421ae163eaa26cc318330b260ded9bf | 27880960  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.15%2B10/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.15_10.msi |
 
@@ -151,8 +151,8 @@
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| jdk-17.0.3+7 | jdk  | x64          | 835096edc9e5e3e10b2d02eaaa66e3fa821db1288876edab75297a70a7b7718b | 168786944 | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jdk_x64_windows_hotspot_17.0.3_7.msi    |
-| jdk-17.0.3+7 | jre  | x64          | fb4bcc5a075fd79a641faf10b18a724222be4db669d3005282000a62ba928469 | 32004096  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jre_x64_windows_hotspot_17.0.3_7.msi    |
+| jdk-17.0.4+8 | jdk  | x64          | fa761092862406d93b07c20c63b705728f3b3604a0e87bd4d909c0c63eee72c9 | 168958976 | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.4%2B8/OpenJDK17U-jdk_x64_windows_hotspot_17.0.4_8.msi    |
+| jdk-17.0.4+8 | jre  | x64          |                                                                  |           |                                                                                                                                    |
 | jdk-17.0.3+7 | jdk  | x86          | 5038d831bed9e1dc47d4042fb4ae04a02166a11d40bc5549e6b0db85a7b486ee | 161443840 | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.3_7.msi |
 | jdk-17.0.3+7 | jre  | x86          | 18d48ddee9d718aa084d6f085747abe6d7d3d29ebdc92148150cb3ebf2ed9527 | 27994112  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.3_7.msi |
 
@@ -226,10 +226,10 @@
 
 | Version     | Architecture | JDK | Type | URI                                                                                                |
 | ----------- | ------------ | --- | ---- | -------------------------------------------------------------------------------------------------- |
-| 8.342.07.1  | x64          | 8   | msi  | https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x64-jdk.msi |
-| 8.342.07.1  | x64          | 8   | zip  | https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x64-jre.zip |
-| 8.342.07.1  | x86          | 8   | msi  | https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x86-jdk.msi |
-| 8.342.07.1  | x86          | 8   | zip  | https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x86-jre.zip |
+| 8.342.07.3  | x64          | 8   | msi  | https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x64-jdk.msi |
+| 8.342.07.3  | x64          | 8   | zip  | https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x64-jre.zip |
+| 8.342.07.3  | x86          | 8   | msi  | https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x86-jdk.msi |
+| 8.342.07.3  | x86          | 8   | zip  | https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x86-jre.zip |
 | 11.0.16.8.1 | x64          | 11  | msi  | https://corretto.aws/downloads/resources/11.0.16.8.1/amazon-corretto-11.0.16.8.1-windows-x64.msi   |
 | 15.0.2.7.1  | x64          | 15  | msi  | https://corretto.aws/downloads/resources/15.0.2.7.1/amazon-corretto-15.0.2.7.1-windows-x64.msi     |
 | 16.0.2.7.1  | x64          | 16  | msi  | https://corretto.aws/downloads/resources/16.0.2.7.1/amazon-corretto-16.0.2.7.1-windows-x64.msi     |
@@ -500,7 +500,7 @@
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3.60.1  | 11828160 | 3c9e5f3cbedf9f97cc26880ea5203fb8f6051cdd5bd80c8e61fed26d8d2b09301c224535c8202403bf2bcb483948d35b7e78cd74b49850190faa69b9a22849c7 | https://download.filezilla-project.org/client/FileZilla_3.60.1_win64-setup.exe |
+| 3.60.2  | 11847936 | b532c9e82016dedbc04714ed659f459d1e87db926f4eed6eef5ff7daba450f91ea1558e247c87a7727c9cf8ec96d7cee3a6cd5159e7dc0ccd28ceb87f05e722a | https://download.filezilla-project.org/client/FileZilla_3.60.2_win64-setup.exe |
 
 ## Fork
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.gimp.ca/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.nic.funet.fi/pub/mirrors/ftp.gimp.org/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -999,8 +999,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.39.0  | win32-x64      | Insider | 868c8d54a20dc2d2e943502fed0c3e781c5b4c1346072693f238e7b9b4501760 | https://sqlopsbuilds.azureedge.net/insider/5334343856a81ea1cabbbfa0d9d6c880d3ce4316/azuredatastudio-windows-setup-1.39.0-insider.exe      |
-| 1.39.0  | win32-x64-user | Insider | f7374fb0d9e041d7d48d7c49fc10004bdc9480dfd820c78e8e9bdf22902be915 | https://sqlopsbuilds.azureedge.net/insider/5334343856a81ea1cabbbfa0d9d6c880d3ce4316/azuredatastudio-windows-user-setup-1.39.0-insider.exe |
+| 1.39.0  | win32-x64      | Insider | 2f369fdd416a0e3a263e94a42c909d3dd0755c2203fd70fd7dd1333b4a80c2f1 | https://sqlopsbuilds.azureedge.net/insider/43e7e35df5770557284d765400a504d0ac965242/azuredatastudio-windows-setup-1.39.0-insider.exe      |
+| 1.39.0  | win32-x64-user | Insider | 9265f5975c49c62ce3a5b8a54d28d862814fb3e4d462d3ac45b47a911f85b90d | https://sqlopsbuilds.azureedge.net/insider/43e7e35df5770557284d765400a504d0ac965242/azuredatastudio-windows-user-setup-1.39.0-insider.exe |
 | 1.37.0  | win32-x64      | Stable  | 4938288b7450401c69a344f93681964a4afbec746570ec342b9ef89093d22c77 | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-setup-1.37.0.exe               |
 | 1.37.0  | win32-x64-user | Stable  | db7ea98403ebeba953c3f801a553c786e0253544775404a6b9624c3b1ea7fcbd | https://sqlopsbuilds.azureedge.net/stable/d904740d93d7df76a0ba361f20e4351813b57645/azuredatastudio-windows-user-setup-1.37.0.exe          |
 
@@ -1248,8 +1248,8 @@
 | 1.2.3401.0 | ARM64        | Insider | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
 | 1.2.3401.0 | x64          | Dogfood | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x64          | Insider | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
-| 1.2.3401.0 | x86          | Dogfood | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
-| 1.2.3401.0 | x86          | Insider | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Dogfood | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Insider | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
 | 1.2.3317.0 | ARM64        | Public  | 07/12/2022 | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
 | 1.2.3317.0 | x64          | Public  | 07/12/2022 | 03420F4AB62EF88481B2E94B0D495D54 | RemoteDesktop_1.2.3317.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld |
 | 1.2.3317.0 | x86          | Public  | 07/12/2022 | 90D6493DD546C017C5A2ABC2C9B26C0B | RemoteDesktop_1.2.3317.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7f |
@@ -2934,7 +2934,7 @@
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
-| 9.25.0  | 150082904 | 3EBE6BC4D869638829C9D13E11A072857F941078 | 07/12/2022 09:10:39 | x64          | Postman-win64-9.25.0-Setup.exe | https://dl.pstmn.io/download/version/9.25.0/windows64 |
+| 9.22.2  | 146333528 | 2950087FF211D68551D99E6D44F681E71F294B8E | 06/21/2022 09:52:20 | x64          | Postman-win64-9.22.2-Setup.exe | https://dl.pstmn.io/download/version/9.22.2/windows64 |
 | 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe  | https://dl.pstmn.io/download/version/9.4.1/windows32  |
 
 ## Praat
@@ -3390,14 +3390,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe               |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi               |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip               |
 
 ## VisualCppRedistAIO
 
