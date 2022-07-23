@@ -8,14 +8,6 @@
     "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16_8.msi"
   },
   {
-    "Version": "jdk-11.0.16+8",
-    "Type": "jre",
-    "Architecture": "x64",
-    "Checksum": null,
-    "Size": null,
-    "URI": null
-  },
-  {
     "Version": "jdk-11.0.15+10",
     "Type": "jdk",
     "Architecture": "x86",

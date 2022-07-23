@@ -1,0 +1,10 @@
+json/1Password.json
+json/AdoptiumTemurin11.json
+json/AdoptiumTemurin17.json
+json/Gimp.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftFSLogixApps.json
+json/VideoLanVlcPlayer.json
+json/Gpg4win.json
