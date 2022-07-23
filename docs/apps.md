@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# 203 Supported Applications
+# 204 Supported Applications
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -70,6 +70,7 @@ hide:
 | GitHub Atom                                                       | https://atom.io/                                                                           |
 | GitHub release                                                    | https://github.com/                                                                        |
 | Google Chrome                                                     | https://cloud.google.com/chrome-enterprise/browser/download/                               |
+| Gpg4win                                                           | https://www.gpg4win.org/                                                                   |
 | Greenshot                                                         | https://getgreenshot.org/                                                                  |
 | gretl                                                             | http://gretl.sourceforge.net/                                                              |
 | Handbrake                                                         | https://handbrake.fr/                                                                      |
