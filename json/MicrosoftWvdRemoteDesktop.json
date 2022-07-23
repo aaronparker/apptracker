@@ -30,7 +30,7 @@
     "Version": "1.2.3401.0",
     "Architecture": "x64",
     "Channel": "Insider",
-    "Date": "07/18/2022",
+    "Date": "Unknown",
     "MD5": "5222E1619BD531A3B91539188E5DA4DA",
     "Filename": "RemoteDesktop_1.2.3401.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5"
@@ -57,7 +57,7 @@
     "Version": "1.2.3317.0",
     "Architecture": "ARM64",
     "Channel": "Public",
-    "Date": "07/12/2022",
+    "Date": "Unknown",
     "MD5": "3DBE49E1A1C45A2B4237F7E1286BF09A",
     "Filename": "RemoteDesktop_1.2.3317.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e"
