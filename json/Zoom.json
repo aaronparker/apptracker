@@ -1,15 +1,15 @@
 [
   {
-    "Version": "5.11.3.7123",
+    "Version": "5.11.4.7185",
     "Platform": "Windows",
     "Type": "Exe",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.7123/ZoomInstaller.exe"
+    "URI": "https://cdn.zoom.us/prod/5.11.4.7185/ZoomInstaller.exe"
   },
   {
-    "Version": "5.11.3.7123",
+    "Version": "5.11.4.7185",
     "Platform": "Windows",
     "Type": "Msi",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.7123/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.11.4.7185/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.11.3.1634",
