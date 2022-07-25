@@ -66,15 +66,6 @@
     "Version": "104.0.1293.25",
     "Platform": "Windows",
     "Channel": "Beta",
-    "Release": "Consumer",
-    "Architecture": "arm64",
-    "Hash": "25D8201F1CEAF2DB3A0AF18E2BBFC7FC60D7BD1FBE4589C0AAD1297D7FCCE39F",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/70a2c531-eb0b-4b17-b0a4-4cb6ba37230e/MicrosoftEdgeBetaEnterpriseARM64.msi"
-  },
-  {
-    "Version": "104.0.1293.25",
-    "Platform": "Windows",
-    "Channel": "Beta",
     "Release": "Enterprise",
     "Architecture": "arm64",
     "Hash": "25D8201F1CEAF2DB3A0AF18E2BBFC7FC60D7BD1FBE4589C0AAD1297D7FCCE39F",
