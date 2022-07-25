@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.8.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.8.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
 
 ## 1Password7
 
@@ -132,6 +132,7 @@
 | Version        | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                    |
 | -------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | jdk-11.0.16+8  | jdk  | x64          | 2889b216eefce687a6557aa3dfd1a8797cf108668583fc48054960b5650dab08 | 175529984 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16_8.msi      |
+| jdk-11.0.16+8  | jre  | x64          | a85c378bdc695800d041ba14dd0711677ff394772dea6b3cc03f67c91a823bab | 31932416  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jre_x64_windows_hotspot_11.0.16_8.msi      |
 | jdk-11.0.15+10 | jdk  | x86          | b650c323ee0a9af16929776951b68f2af4682b9cd64836dbed080e0c5b11d20e | 157451264 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.15%2B10/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.15_10.msi |
 | jdk-11.0.15+10 | jre  | x86          | 38a1ab5076edb7f4ad9879d9205d3a7aa421ae163eaa26cc318330b260ded9bf | 27880960  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.15%2B10/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.15_10.msi |
 
@@ -151,6 +152,7 @@
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | jdk-17.0.4+8 | jdk  | x64          | fa761092862406d93b07c20c63b705728f3b3604a0e87bd4d909c0c63eee72c9 | 168958976 | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.4%2B8/OpenJDK17U-jdk_x64_windows_hotspot_17.0.4_8.msi    |
+| jdk-17.0.4+8 | jre  | x64          | 899d195420f638accb031326f60be9d076a56f2b0736c5f277e3ea81a088399c | 32145920  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.4%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.4_8.msi    |
 | jdk-17.0.3+7 | jdk  | x86          | 5038d831bed9e1dc47d4042fb4ae04a02166a11d40bc5549e6b0db85a7b486ee | 161443840 | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.3_7.msi |
 | jdk-17.0.3+7 | jre  | x86          | 18d48ddee9d718aa084d6f085747abe6d7d3d29ebdc92148150cb3ebf2ed9527 | 27994112  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.3%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.3_7.msi |
 
@@ -160,8 +162,8 @@
 
 | Version       | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                  |
 | ------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| jdk-18.0.1+10 | jdk  | x64          | 6915a747550facec2cbfb22f6ae8f3c47dfcde857e69cf94409b664f81415e69 | 169475072 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x64_windows_hotspot_18.0.1_10.msi    |
-| jdk-18.0.1+10 | jre  | x64          | 75a0749dfdec3f7238b0ba2572ff9b2f7debbb56710531b960d60769b1b070f5 | 31955968  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.msi    |
+| jdk-18.0.2+9  | jdk  | x64          | b3f9fd4f94e9f117387de4ecbfaf0903a93e64c39683236acba583e75d41ba07 | 169661952 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2_9.msi      |
+| jdk-18.0.2+9  | jre  | x64          | 5a29dbdbdfff80c24a02aa6ee239f36a1891efc4c07e80ebb238d2f9b6cdb0a8 | 32083456  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi      |
 | jdk-18.0.1+10 | jdk  | x86          | c361f4ad1df52240b8bba1d32b134fc762c7ad61da7ee9debcd84924d1def7d8 | 162200064 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.1_10.msi |
 | jdk-18.0.1+10 | jre  | x86          | 212440f89b9093529c94942a5772150e0ce5b8a9d02878354ca7519fc9946b94 | 28009472  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.msi |
 
@@ -617,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.gimp.ca/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -859,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1058,7 +1060,6 @@
 | 105.0.1321.0  | Windows  | Dev        | Enterprise | x64          | 96F94B0CE22F688444C7E73CED1D2C6CB7B31254BE61EC2186530F15D9CFC634 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8f0a25d5-93ec-4967-8d54-3ced910f8e4c/MicrosoftEdgeDevEnterpriseX64.msi           |
 | 105.0.1321.0  | Windows  | Dev        | Consumer   | x86          | 0380023F2A97CF607E74075110563A43C16A89B4B0BFC9CD0B4C590B66694F7F | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9d381e9-a93f-45ca-bdeb-524c2f6438f9/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 105.0.1321.0  | Windows  | Dev        | Enterprise | x86          | 0380023F2A97CF607E74075110563A43C16A89B4B0BFC9CD0B4C590B66694F7F | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9d381e9-a93f-45ca-bdeb-524c2f6438f9/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 104.0.1293.25 | Windows  | Beta       | Consumer   | arm64        | 25D8201F1CEAF2DB3A0AF18E2BBFC7FC60D7BD1FBE4589C0AAD1297D7FCCE39F | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/70a2c531-eb0b-4b17-b0a4-4cb6ba37230e/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 104.0.1293.25 | Windows  | Beta       | Enterprise | arm64        | 25D8201F1CEAF2DB3A0AF18E2BBFC7FC60D7BD1FBE4589C0AAD1297D7FCCE39F | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/70a2c531-eb0b-4b17-b0a4-4cb6ba37230e/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 104.0.1293.25 | Windows  | Beta       | Consumer   | x64          | 0C16D8546FEEC813E29A06E22683ECA801CCA5E14B45CCA860ECB8AFE9B60041 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/409207e7-0b77-45b0-96d4-e4b1e8fa89a6/MicrosoftEdgeBetaEnterpriseX64.msi          |
 | 104.0.1293.25 | Windows  | Beta       | Enterprise | x64          | 0C16D8546FEEC813E29A06E22683ECA801CCA5E14B45CCA860ECB8AFE9B60041 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/409207e7-0b77-45b0-96d4-e4b1e8fa89a6/MicrosoftEdgeBetaEnterpriseX64.msi          |
@@ -1082,7 +1083,6 @@
 | 105.0.1321.0  | Dev     | ARM64        | https://msedgedriver.azureedge.net/105.0.1321.0/edgedriver_arm64.zip  |
 | 105.0.1321.0  | Dev     | x64          | https://msedgedriver.azureedge.net/105.0.1321.0/edgedriver_win64.zip  |
 | 105.0.1321.0  | Dev     | x86          | https://msedgedriver.azureedge.net/105.0.1321.0/edgedriver_win32.zip  |
-| 104.0.1293.25 | Beta    | ARM64        | https://msedgedriver.azureedge.net/104.0.1293.25/edgedriver_arm64.zip |
 | 104.0.1293.25 | Beta    | x64          | https://msedgedriver.azureedge.net/104.0.1293.25/edgedriver_win64.zip |
 | 104.0.1293.25 | Beta    | x86          | https://msedgedriver.azureedge.net/104.0.1293.25/edgedriver_win32.zip |
 | 103.0.1264.71 | Stable  | ARM64        | https://msedgedriver.azureedge.net/103.0.1264.71/edgedriver_arm64.zip |
@@ -1115,7 +1115,9 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
 | 22.155.0721.0001 | AMD64        | InternalFast | HahPLeFNu1p8Vg28tWD8A6cLg1mDOPVPsMs64UOSO5g= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.155.0721.0001/amd64/OneDriveSetup.exe   |
 | 22.155.0721.0001 | x86          | InternalFast | goJl34dI8QmnYwaY+R3EETeYu0zqTf3e8WeGT1DZL0k= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.155.0721.0001/OneDriveSetup.exe         |
+| 22.151.0717.0001 | AMD64        | Insider      | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.151.0717.0001/amd64/OneDriveSetup.exe   |
 | 22.151.0717.0001 | AMD64        | InternalSlow | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.151.0717.0001/amd64/OneDriveSetup.exe   |
+| 22.151.0717.0001 | x86          | Insider      | /3jAnoLMeBqrIuTuFNyOpfkJpOdMPZLDFiNNbC2AevI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.151.0717.0001/OneDriveSetup.exe         |
 | 22.151.0717.0001 | x86          | InternalSlow | /3jAnoLMeBqrIuTuFNyOpfkJpOdMPZLDFiNNbC2AevI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.151.0717.0001/OneDriveSetup.exe         |
 | 22.146.0710.0001 | AMD64        | Insider      | Fs4jIdjATAvCtMCh6tQakT8uOqMZccDcPREtftpaWZQ= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.146.0710.0001/amd64/OneDriveSetup.exe   |
 | 22.146.0710.0001 | x86          | Insider      | ox0IVdS1ZwxvClRuaBDIOnMc+SKtIqa5wT+F9JFBP2U= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.146.0710.0001/OneDriveSetup.exe         |
@@ -1234,7 +1236,7 @@
 
 | Version       | Architecture | Date            | Size            | Filename                                                  | URI                                                              |
 | ------------- | ------------ | --------------- | --------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| 1.0.4574.1600 | x64          | Wed, 15 Jun 2022 23:38:46 GMT | 16822272        | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.4574.1600.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
+| 1.0.4739.1000 | x64          | Mon, 25 Jul 2022 16:33:14 GMT | 16916480        | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.4739.1000.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
 
 ## MicrosoftWvdMultimediaRedirection
 
@@ -1250,14 +1252,14 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3401.0 | ARM64        | Dogfood | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
-| 1.2.3401.0 | ARM64        | Insider | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Dogfood | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Insider | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
 | 1.2.3401.0 | x64          | Dogfood | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x64          | Insider | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
-| 1.2.3401.0 | x86          | Dogfood | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
-| 1.2.3401.0 | x86          | Insider | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Dogfood | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Insider | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
 | 1.2.3317.0 | ARM64        | Public  | 07/12/2022 | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
-| 1.2.3317.0 | x64          | Public  | 07/12/2022 | 03420F4AB62EF88481B2E94B0D495D54 | RemoteDesktop_1.2.3317.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld |
+| 1.2.3317.0 | x64          | Public  | 07/12/2022 | 03420F4AB62EF88481B2E94B0D495D54 | e                                  | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld |
 | 1.2.3317.0 | x86          | Public  | 07/12/2022 | 90D6493DD546C017C5A2ABC2C9B26C0B | RemoteDesktop_1.2.3317.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7f |
 
 ## MicrosoftWvdRtcService
@@ -1304,7 +1306,7 @@
 
 | Version                  | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                           |
 | ------------------------ | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 5.6.0-alpha.7.20220713.1 | x64          | Alpha   | 07/13/2022 21:27:13 | 296693224 | zc0NHyB2HUJQcb/LkEEQc44OQgzxnXNG3zdIAB+jimFKSxqqf1PFhzpPjHnEQYdaQLx69j8w+T//3kdah5bRFw== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.6.0-alpha.7.20220713.1.exe |
+| 6.0.0-alpha.0.20220725.1 | x64          | Alpha   | 07/25/2022 12:43:10 | 293049960 | in2na7wfNkVxYLOIYkyuqyFnd3MM6YgZH+bgUinpifrRVvwlNYGkSqMeY0k9dW0vUxxdRRAtD1NmEg7ed5Np7Q== | https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.0-alpha.0.20220725.1.exe |
 | 5.5.4-latest.20220609.2  | x64          | Stable  | 06/10/2022 14:38:52 | 276624664 | 8gzhQ7Gq6obzszcQyyruintYZ3K0WIUIQvM+eXB1sxIcj6LX48PZM5/nflghTp+MJHv1qEVXYdecNqeEi+yWGQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%205.5.4-latest.20220609.2.exe  |
 
 ## MozillaFirefox
@@ -3398,9 +3400,9 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
 | 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
 | 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
 | 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
