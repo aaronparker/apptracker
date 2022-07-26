@@ -1,0 +1,11 @@
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/MicrosoftWvdBootloader.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/OperaGXBrowser.json
+json/SumatraPDFReader.json
+json/TeamViewer.json
+json/Tower.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
