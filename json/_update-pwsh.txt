@@ -1,0 +1,10 @@
+json/AdoptiumTemurin17.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
