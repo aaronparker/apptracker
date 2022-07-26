@@ -172,8 +172,8 @@
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| jdk8u332-b09 | jdk  | x64          | 543c46b0589d71a2dc5b18c45b94c01258aecb5bcdd9f45b5898a70bed9141fa | 90022400 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u332-b09/OpenJDK8U-jdk_x64_windows_hotspot_8u332b09.msi    |
-| jdk8u332-b09 | jre  | x64          | c724d3ba94f24f6ecddc6dc7367acaa4ca5b0eda828627302b8e8589dddf66c8 | 32360448 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u332-b09/OpenJDK8U-jre_x64_windows_hotspot_8u332b09.msi    |
+| jdk8u342-b07 | jdk  | x64          | 98c3de40a8b460f85c9ff7913b5c57432acb6fe6cde84ea03115f1dd9c34d968 | 90958336 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jdk_x64_windows_hotspot_8u342b07.msi    |
+| jdk8u342-b07 | jre  | x64          | a27d994b765c8d15feb34028c73da56c02c1eb00508ebadeeb7e240666515587 | 32992768 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x64_windows_hotspot_8u342b07.msi    |
 | jdk8u332-b09 | jdk  | x86          | 72eae83c0f22e9fd2ea47eb7ad444c71b856fda22d33cb75e998958cbee84bef | 90874368 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u332-b09/OpenJDK8U-jdk_x86-32_windows_hotspot_8u332b09.msi |
 | jdk8u332-b09 | jre  | x86          | bbfc442deb0ab4d7a2450ca3f999f64ba63f065bbcc22c55d8d3e8842007c37e | 31141376 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u332-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u332b09.msi |
 
@@ -354,8 +354,8 @@
 
 | Version    | Architecture | Size    | Checksum                                                         | URI                                                                     |
 | ---------- | ------------ | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 9.2.3.60   | x64          | 6250496 | E79F2C98970C134941232F4EBDE17DF8E33E869D57CBC74D0D6ECB93C29C9FDA | http://downloadns.citrix.com.edgesuite.net/17438/managementagentx64.msi |
-| 9.2.3.60   | x86          | 6221824 | 387AADA00F08A422D7B067DF8559B090A3D4649BBC94AA0C9B69FD9A22CBAFA9 | http://downloadns.citrix.com.edgesuite.net/17439/managementagentx86.msi |
+| 9.3.0.73   | x64          | 5873664 | 49B80717B0B2AB362AA49451B2794B146035EBD010A16CFCEFD2AB5EFD2A7416 | http://downloadns.citrix.com.edgesuite.net/17444/managementagentx64.msi |
+| 9.3.0.73   | x86          | 5844992 | D9057A5A174887A78FE8B60120FF293FA540156232B145D71CC01A99DACCC0F5 | http://downloadns.citrix.com.edgesuite.net/17442/managementagentx86.msi |
 | 7.2.0.1555 | x64          | 9383936 | 9ac5c19ad64d8dd2b51a11ea05dc2e63441db1d8812cdae38bb1de14e77ec6e8 | http://downloadns.citrix.com.edgesuite.net/14656/managementagentx64.msi |
 | 7.2.0.1555 | x86          | 9371648 | ea75775404f3e6e550a6d27b11c7cb9a6d6197484edc994a2984850606f20aab | http://downloadns.citrix.com.edgesuite.net/14655/managementagentx86.msi |
 
@@ -618,9 +618,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                       |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -831,11 +831,11 @@
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
-| -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2022.1.4 | 221.6008.13 | IntelliJ IDEA Community | 07/19/2022 | 621028792 | https://download.jetbrains.com/idea/ideaIC-2022.1.4.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.1.4.exe |
-| 2022.1.4 | 221.6008.13 | IntelliJ IDEA Ultimate  | 07/19/2022 | 731413800 | https://download.jetbrains.com/idea/ideaIU-2022.1.4.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.1.4.exe |
-| 2022.1.2 | 221.5921.29 | IntelliJ IDEA Edu       | 07/07/2022 | 687343256 | https://download.jetbrains.com/idea/ideaIE-2022.1.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.1.2.exe |
+| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
+| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| 2022.2   | 222.3345.118 | IntelliJ IDEA Community | 07/26/2022 | 628260112 | https://download.jetbrains.com/idea/ideaIC-2022.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIC-2022.2.exe   |
+| 2022.2   | 222.3345.118 | IntelliJ IDEA Ultimate  | 07/26/2022 | 736935368 | https://download.jetbrains.com/idea/ideaIU-2022.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIU-2022.2.exe   |
+| 2022.1.2 | 221.5921.29  | IntelliJ IDEA Edu       | 07/07/2022 | 687343256 | https://download.jetbrains.com/idea/ideaIE-2022.1.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.1.2.exe |
 
 ## JetBrainsPyCharm
 
@@ -860,9 +860,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -916,7 +916,7 @@
 
 | Version   | Type | URI                                                                                     |
 | --------- | ---- | --------------------------------------------------------------------------------------- |
-| 22.2.8187 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_22.2.8187.0.msi |
+| 22.3.8241 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_22.3.8241.0.msi |
 
 ## MattermostDesktop
 
@@ -991,7 +991,7 @@
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
-| 16.0.15519.20000 | BetaChannel       | Beta                                  | 07/21/2022 16:06:25 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15522.20000 | BetaChannel       | Beta                                  | 07/26/2022 17:14:20 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15427.20156 | CurrentPreview    | Current Channel (Preview)             | 07/25/2022 23:09:59 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15330.20264 | Current           | Current Channel                       | 07/18/2022 22:40:14 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15225.20356 | MonthlyEnterprise | Monthly Enterprise                    | 07/12/2022 08:44:36 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1251,13 +1251,13 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3401.0 | ARM64        | Dogfood | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
-| 1.2.3401.0 | ARM64        | Insider | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
-| 1.2.3401.0 | x64          | Dogfood | Unknown    | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
-| 1.2.3401.0 | x64          | Insider | Unknown    | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
+| 1.2.3401.0 | ARM64        | Dogfood | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Insider | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | x64          | Dogfood | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
+| 1.2.3401.0 | x64          | Insider | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x86          | Dogfood | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
 | 1.2.3401.0 | x86          | Insider | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
-| 1.2.3317.0 | ARM64        | Public  | Unknown    | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
+| 1.2.3317.0 | ARM64        | Public  | 07/12/2022 | 3DBE49E1A1C45A2B4237F7E1286BF09A | RemoteDesktop_1.2.3317.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7e |
 | 1.2.3317.0 | x64          | Public  | 07/12/2022 | 03420F4AB62EF88481B2E94B0D495D54 | RemoteDesktop_1.2.3317.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE518ld |
 | 1.2.3317.0 | x86          | Public  | 07/12/2022 | 90D6493DD546C017C5A2ABC2C9B26C0B | RemoteDesktop_1.2.3317.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50W7f |
 
@@ -3165,8 +3165,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
-| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -3206,8 +3206,8 @@
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
-| 22.0.3  | 07/12/2022 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2203/camtasia.exe |
-| 22.0.3  | 07/12/2022 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2203/camtasia.msi |
+| 22.0.4  | 07/26/2022 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2204/camtasia.exe |
+| 22.0.4  | 07/26/2022 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2204/camtasia.msi |
 
 ## TechSmithSnagit
 
@@ -3402,9 +3402,9 @@
 | 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
 | 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
 | 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe          |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi          |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip          |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
 
 ## VisualCppRedistAIO
 
