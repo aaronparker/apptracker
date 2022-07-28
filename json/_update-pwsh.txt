@@ -1,0 +1,7 @@
+json/AdoptiumTemurin8.json
+json/DockerDesktop.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
