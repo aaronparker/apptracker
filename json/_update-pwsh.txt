@@ -1,9 +1,0 @@
-json/Gimp.json
-json/JetBrainsIntelliJIDEA.json
-json/JetBrainsPyCharm.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
