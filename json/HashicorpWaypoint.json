@@ -1,14 +1,14 @@
 [
   {
-    "Version": "0.9.0",
+    "Version": "0.9.1",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/waypoint/0.9.0/waypoint_0.9.0_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/waypoint/0.9.1/waypoint_0.9.1_windows_amd64.zip"
   },
   {
-    "Version": "0.9.0",
+    "Version": "0.9.1",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/waypoint/0.9.0/waypoint_0.9.0_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/waypoint/0.9.1/waypoint_0.9.1_windows_386.zip"
   }
 ]
