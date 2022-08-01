@@ -160,19 +160,23 @@
 
 [Link](https://adoptium.net/)
 
-| Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                             |
-| ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| jdk-18.0.2+9 | jdk  | x64          | b3f9fd4f94e9f117387de4ecbfaf0903a93e64c39683236acba583e75d41ba07 | 169661952 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2_9.msi |
-| jdk-18.0.2+9 | jre  | x64          | 5a29dbdbdfff80c24a02aa6ee239f36a1891efc4c07e80ebb238d2f9b6cdb0a8 | 32083456  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi |
+| Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
+| ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| jdk-18.0.2+9 | jdk  | x64          | b3f9fd4f94e9f117387de4ecbfaf0903a93e64c39683236acba583e75d41ba07 | 169661952 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2_9.msi    |
+| jdk-18.0.2+9 | jre  | x64          | 5a29dbdbdfff80c24a02aa6ee239f36a1891efc4c07e80ebb238d2f9b6cdb0a8 | 32083456  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi    |
+| jdk-18.0.2+9 | jdk  | x86          | bd8cb44c08b6d1df7372504e9461cff81463f54fee57e932ff3ee644d8f43419 | 166300160 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2_9.msi |
+| jdk-18.0.2+9 | jre  | x86          | f50ebcf0f0e5f89bfb37794f08832639a73df00c9d838888e76104ee2ab85938 | 29801472  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi |
 
 ## AdoptiumTemurin8
 
 [Link](https://adoptium.net/)
 
-| Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                         |
-| ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| jdk8u342-b07 | jdk  | x64          | 98c3de40a8b460f85c9ff7913b5c57432acb6fe6cde84ea03115f1dd9c34d968 | 90958336 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jdk_x64_windows_hotspot_8u342b07.msi |
-| jdk8u342-b07 | jre  | x64          | a27d994b765c8d15feb34028c73da56c02c1eb00508ebadeeb7e240666515587 | 32992768 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x64_windows_hotspot_8u342b07.msi |
+| Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
+| ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| jdk8u342-b07 | jdk  | x64          | 98c3de40a8b460f85c9ff7913b5c57432acb6fe6cde84ea03115f1dd9c34d968 | 90958336 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jdk_x64_windows_hotspot_8u342b07.msi    |
+| jdk8u342-b07 | jre  | x64          | a27d994b765c8d15feb34028c73da56c02c1eb00508ebadeeb7e240666515587 | 32992768 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x64_windows_hotspot_8u342b07.msi    |
+| jdk8u342-b07 | jdk  | x86          | c36ea0f4dafac841951e0e968fa64ef6a29c6892818a10c99738e3472bcbf61c | 91079680 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.msi |
+| jdk8u342-b07 | jre  | x86          | 59707f00dd1a68395077a70988b31e8823a3de084c3757d7d30f80ebba9752df | 31190016 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x86-32_windows_hotspot_8u342b07.msi |
 
 ## AdoptOpenJDK11
 
@@ -615,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                  |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.dogado.de/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -666,8 +670,8 @@
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
 | 105.0.5195.10  | x64          | dev     | 07/28/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 105.0.5195.10  | x86          | dev     | 07/28/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 104.0.5112.65  | x64          | beta    | 07/27/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 104.0.5112.65  | x86          | beta    | 07/27/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 104.0.5112.81  | x64          | beta    | 08/01/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 104.0.5112.81  | x86          | beta    | 08/01/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 103.0.5060.134 | x64          | stable  | 07/19/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 103.0.5060.134 | x86          | stable  | 07/19/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -790,7 +794,7 @@
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| 7.1.0-44 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-44-Q16-HDRI-x64-dll.exe |
+| 7.1.0-45 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-45-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -857,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1056,11 +1060,9 @@
 | 105.0.1329.1  | Windows  | Dev        | Enterprise | x64          | D4CDDAC21E392C822016BED94663ADBD9EC6300033E6A3B769541AB9F07C0DF0 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b94d52e3-edfd-4833-befd-4a778787d758/MicrosoftEdgeDevEnterpriseX64.msi           |
 | 105.0.1329.1  | Windows  | Dev        | Consumer   | x86          | 563F846B31A556F581180A5678DCD151F3B15781FB184475BC0DB6CE92F9F854 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8345666-aa61-409c-9475-3d877712bbd2/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 105.0.1329.1  | Windows  | Dev        | Enterprise | x86          | 563F846B31A556F581180A5678DCD151F3B15781FB184475BC0DB6CE92F9F854 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8345666-aa61-409c-9475-3d877712bbd2/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 104.0.1293.35 | Windows  | Beta       | Consumer   | arm64        | AA1A6B7C9107093A6FA7784E72E38143FE68133B646875787722BF6285A62309 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e748d2e5-21f5-4d1a-a200-f822a378767d/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 104.0.1293.35 | Windows  | Beta       | Enterprise | arm64        | AA1A6B7C9107093A6FA7784E72E38143FE68133B646875787722BF6285A62309 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e748d2e5-21f5-4d1a-a200-f822a378767d/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 104.0.1293.35 | Windows  | Beta       | Consumer   | x64          | B132EB8E28F783B696A44C0D535BCB76126B0E150E6F7A256078BCC32DD4AAA8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2506562a-ea81-4ea6-8d38-56ccb148365f/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 104.0.1293.41 | Windows  | Beta       | Consumer   | arm64        | 043405D7AD84375EA13233DAC8871717FC6815C6A8CCBFB259B35BAD217D41FF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca087480-804c-4275-8076-59c88695f5e1/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 104.0.1293.41 | Windows  | Beta       | Enterprise | arm64        | 043405D7AD84375EA13233DAC8871717FC6815C6A8CCBFB259B35BAD217D41FF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca087480-804c-4275-8076-59c88695f5e1/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 104.0.1293.35 | Windows  | Beta       | Enterprise | x64          | B132EB8E28F783B696A44C0D535BCB76126B0E150E6F7A256078BCC32DD4AAA8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2506562a-ea81-4ea6-8d38-56ccb148365f/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 104.0.1293.35 | Windows  | Beta       | Consumer   | x86          | 9205B4419DB937027BD8FF99409E071E748345A349351191C504349245F05DCD | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7bdba1c8-74f6-4572-9455-90fdfce9f2e0/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 104.0.1293.35 | Windows  | Beta       | Enterprise | x86          | 9205B4419DB937027BD8FF99409E071E748345A349351191C504349245F05DCD | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7bdba1c8-74f6-4572-9455-90fdfce9f2e0/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 103.0.1264.77 | Windows  | Stable     | Consumer   | arm64        | DCA14C5BE0EB158505AD495A3F58CA300188B7E0B3C50D89A87350B4F9682805 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e09d2e5-3e9d-4d5c-9411-f1435302f80c/MicrosoftEdgeEnterpriseARM64.msi            |
 | 103.0.1264.77 | Windows  | Stable     | Enterprise | arm64        | DCA14C5BE0EB158505AD495A3F58CA300188B7E0B3C50D89A87350B4F9682805 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e09d2e5-3e9d-4d5c-9411-f1435302f80c/MicrosoftEdgeEnterpriseARM64.msi            |
@@ -1080,9 +1082,7 @@
 | 105.0.1329.1  | Dev     | ARM64        | https://msedgedriver.azureedge.net/105.0.1329.1/edgedriver_arm64.zip  |
 | 105.0.1329.1  | Dev     | x64          | https://msedgedriver.azureedge.net/105.0.1329.1/edgedriver_win64.zip  |
 | 105.0.1329.1  | Dev     | x86          | https://msedgedriver.azureedge.net/105.0.1329.1/edgedriver_win32.zip  |
-| 104.0.1293.35 | Beta    | ARM64        | https://msedgedriver.azureedge.net/104.0.1293.35/edgedriver_arm64.zip |
-| 104.0.1293.35 | Beta    | x64          | https://msedgedriver.azureedge.net/104.0.1293.35/edgedriver_win64.zip |
-| 104.0.1293.35 | Beta    | x86          | https://msedgedriver.azureedge.net/104.0.1293.35/edgedriver_win32.zip |
+| 104.0.1293.41 | Beta    | ARM64        | https://msedgedriver.azureedge.net/104.0.1293.41/edgedriver_arm64.zip |
 | 103.0.1264.77 | Stable  | ARM64        | https://msedgedriver.azureedge.net/103.0.1264.77/edgedriver_arm64.zip |
 | 103.0.1264.77 | Stable  | x64          | https://msedgedriver.azureedge.net/103.0.1264.77/edgedriver_win64.zip |
 | 103.0.1264.77 | Stable  | x86          | https://msedgedriver.azureedge.net/103.0.1264.77/edgedriver_win32.zip |
@@ -1116,10 +1116,8 @@
 | 22.156.0724.0001 | AMD64        | InternalSlow | wb8DfH442fvZASwz/pCngH26g7V1pizjJu1BiKOk4XA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.156.0724.0001/amd64/OneDriveSetup.exe   |
 | 22.156.0724.0001 | x86          | InternalSlow | I86RYT3MAtJ1Ag0+CmW9bDmzoXhHcDFV8csGyXbmytM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.156.0724.0001/OneDriveSetup.exe         |
 | 22.151.0717.0001 | AMD64        | Insider      | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.151.0717.0001/amd64/OneDriveSetup.exe   |
-| 22.151.0717.0001 | AMD64        | InternalSlow | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.151.0717.0001/amd64/OneDriveSetup.exe   |
 | 22.151.0717.0001 | AMD64        | Production   | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.151.0717.0001/amd64/OneDriveSetup.exe       |
 | 22.151.0717.0001 | x86          | Insider      | /3jAnoLMeBqrIuTuFNyOpfkJpOdMPZLDFiNNbC2AevI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.151.0717.0001/OneDriveSetup.exe         |
-| 22.151.0717.0001 | x86          | InternalSlow | /3jAnoLMeBqrIuTuFNyOpfkJpOdMPZLDFiNNbC2AevI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.151.0717.0001/OneDriveSetup.exe         |
 | 22.151.0717.0001 | x86          | Production   | /3jAnoLMeBqrIuTuFNyOpfkJpOdMPZLDFiNNbC2AevI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.151.0717.0001/OneDriveSetup.exe             |
 | 22.141.0703.0002 | AMD64        | Production   | 4jrVokZX9R7AGT9wyrwdVeQWxW1q1/4YTYW/A+EVUrk= | exe  | https://oneclient.sfx.ms/Win/Prod/22.141.0703.0002/amd64/OneDriveSetup.exe       |
 | 22.141.0703.0002 | x86          | Production   | CVLzV+fMu40Iw246B9yWRHzw91gCiI+8Q3Seun5aCWc= | exe  | https://oneclient.sfx.ms/Win/Prod/22.141.0703.0002/OneDriveSetup.exe             |
@@ -3353,8 +3351,8 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 3.4.401 | beta    | 773E5FF6FAD85140749AA5217A65354D37C55957 | exe  | https://www.git-tower.com/apps/tower3-win/401-395a4f9a/Tower-3.4.401.exe |
-| 3.4.401 | beta    | 4DBC0629336BE90F63A56A8A732311D113A634F4 | msi  | https://www.git-tower.com/apps/tower3-win/401-395a4f9a/Tower-3.4.401.msi |
+| 3.4.403 | beta    | 616CD79F7F765CE8A4AFEA8449483F603C24FEC8 | exe  | https://www.git-tower.com/apps/tower3-win/403-ff4c2978/Tower-3.4.403.exe |
+| 3.4.403 | beta    | D38A0FB5F5B6358072A0CAD395408EAE155405A8 | msi  | https://www.git-tower.com/apps/tower3-win/403-ff4c2978/Tower-3.4.403.msi |
 | 3.3.397 | stable  | D0DE7926F438D1761A46212AC99113BD6C411369 | exe  | https://www.git-tower.com/apps/tower3-win/397-1d9507c4/Tower-3.3.397.exe |
 | 3.3.397 | stable  | 87704857E67225BF630BC097AB70BF9F2A46956A | msi  | https://www.git-tower.com/apps/tower3-win/397-1d9507c4/Tower-3.3.397.msi |
 
