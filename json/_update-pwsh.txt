@@ -1,0 +1,10 @@
+json/AdoptiumTemurin18.json
+json/AdoptiumTemurin8.json
+json/Gimp.json
+json/GoogleChrome.json
+json/ImageMagickStudioImageMagick.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/Tower.json
+json/jrsoftwareInnoSetup.json

@@ -14,5 +14,21 @@
     "Checksum": "5a29dbdbdfff80c24a02aa6ee239f36a1891efc4c07e80ebb238d2f9b6cdb0a8",
     "Size": 32083456,
     "URI": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi"
+  },
+  {
+    "Version": "jdk-18.0.2+9",
+    "Type": "jdk",
+    "Architecture": "x86",
+    "Checksum": "bd8cb44c08b6d1df7372504e9461cff81463f54fee57e932ff3ee644d8f43419",
+    "Size": 166300160,
+    "URI": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2_9.msi"
+  },
+  {
+    "Version": "jdk-18.0.2+9",
+    "Type": "jre",
+    "Architecture": "x86",
+    "Checksum": "f50ebcf0f0e5f89bfb37794f08832639a73df00c9d838888e76104ee2ab85938",
+    "Size": 29801472,
+    "URI": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi"
   }
 ]
