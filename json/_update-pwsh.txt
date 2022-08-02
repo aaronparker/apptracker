@@ -1,0 +1,11 @@
+json/1Password.json
+json/AdoptiumTemurin8.json
+json/Gimp.json
+json/GoogleChrome.json
+json/Handbrake.json
+json/MicrosoftBicep.json
+json/MicrosoftBotFrameworkEmulator.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OpenJDK.json
+json/StefansToolsgregpWin.json
+json/jrsoftwareInnoSetup.json

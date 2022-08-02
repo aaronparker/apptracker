@@ -25,6 +25,14 @@
   },
   {
     "Version": "104.0.5112.81",
+    "Architecture": "x64",
+    "Channel": "stable",
+    "Date": "08/02/2022",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+  },
+  {
+    "Version": "104.0.5112.81",
     "Architecture": "x86",
     "Channel": "beta",
     "Date": "08/01/2022",
@@ -32,18 +40,10 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "103.0.5060.134",
-    "Architecture": "x64",
-    "Channel": "stable",
-    "Date": "07/19/2022",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "103.0.5060.134",
+    "Version": "104.0.5112.81",
     "Architecture": "x86",
     "Channel": "stable",
-    "Date": "07/19/2022",
+    "Date": "08/02/2022",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   }
