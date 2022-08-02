@@ -1,8 +1,0 @@
-json/Gimp.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftOneDrive.json
-json/MicrosoftPowerToys.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OctopusDeployServer.json
-json/VideoLanVlcPlayer.json
