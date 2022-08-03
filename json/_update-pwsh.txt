@@ -1,0 +1,9 @@
+json/1Password.json
+json/AkeoRufus.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWindowsPackageManagerClient.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
