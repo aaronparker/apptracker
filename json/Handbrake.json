@@ -1,56 +1,56 @@
 [
   {
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "01/09/2022",
-    "Size": 15997176,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-arm64-Win_GUI.exe"
+    "Date": "01/10/2022",
+    "Size": 16019016,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-arm64-Win_GUI.exe"
   },
   {
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
-    "Date": "01/09/2022",
-    "Size": 23910619,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-arm64-Win_GUI.zip"
+    "Date": "01/10/2022",
+    "Size": 23903359,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-arm64-Win_GUI.zip"
   },
   {
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
-    "Date": "01/09/2022",
-    "Size": 15347409,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrakeCLI-1.5.0-win-aarch64.zip"
+    "Date": "01/10/2022",
+    "Size": 15347520,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrakeCLI-1.5.1-win-aarch64.zip"
   },
   {
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "01/09/2022",
-    "Size": 20448760,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-x86_64-Win_GUI.exe"
+    "Date": "01/10/2022",
+    "Size": 20446704,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-x86_64-Win_GUI.exe"
   },
   {
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "01/09/2022",
-    "Size": 28779325,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-x86_64-Win_GUI.zip"
+    "Date": "01/10/2022",
+    "Size": 28770807,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-x86_64-Win_GUI.zip"
   },
   {
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "01/09/2022",
-    "Size": 18302581,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrakeCLI-1.5.0-win-x86_64.zip"
+    "Date": "01/10/2022",
+    "Size": 18302675,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrakeCLI-1.5.1-win-x86_64.zip"
   }
 ]
