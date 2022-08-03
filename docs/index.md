@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.gimp.ca/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -708,12 +708,12 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 1.5.0   | Windows  | ARM64        | exe  | 01/09/2022 | 15997176 | https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-arm64-Win_GUI.exe  |
-| 1.5.0   | Windows  | ARM64        | zip  | 01/09/2022 | 23910619 | https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-arm64-Win_GUI.zip  |
-| 1.5.0   | Windows  | ARM64        | zip  | 01/09/2022 | 15347409 | https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrakeCLI-1.5.0-win-aarch64.zip |
-| 1.5.0   | Windows  | x64          | exe  | 01/09/2022 | 20448760 | https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-x86_64-Win_GUI.exe |
-| 1.5.0   | Windows  | x64          | zip  | 01/09/2022 | 28779325 | https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrake-1.5.0-x86_64-Win_GUI.zip |
-| 1.5.0   | Windows  | x86          | zip  | 01/09/2022 | 18302581 | https://github.com/HandBrake/HandBrake/releases/download/1.5.0/HandBrakeCLI-1.5.0-win-x86_64.zip  |
+| 1.5.1   | Windows  | ARM64        | exe  | 01/10/2022 | 16019016 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-arm64-Win_GUI.exe  |
+| 1.5.1   | Windows  | ARM64        | zip  | 01/10/2022 | 23903359 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-arm64-Win_GUI.zip  |
+| 1.5.1   | Windows  | ARM64        | zip  | 01/10/2022 | 15347520 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrakeCLI-1.5.1-win-aarch64.zip |
+| 1.5.1   | Windows  | x64          | exe  | 01/10/2022 | 20446704 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-x86_64-Win_GUI.exe |
+| 1.5.1   | Windows  | x64          | zip  | 01/10/2022 | 28770807 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-x86_64-Win_GUI.zip |
+| 1.5.1   | Windows  | x86          | zip  | 01/10/2022 | 18302675 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrakeCLI-1.5.1-win-x86_64.zip  |
 
 ## HashicorpBoundary
 
@@ -748,8 +748,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.8.2   | zip  | x64          | https://releases.hashicorp.com/packer/1.8.2/packer_1.8.2_windows_amd64.zip |
-| 1.8.2   | zip  | x86          | https://releases.hashicorp.com/packer/1.8.2/packer_1.8.2_windows_386.zip   |
+| 1.8.3   | zip  | x64          | https://releases.hashicorp.com/packer/1.8.3/packer_1.8.3_windows_amd64.zip |
+| 1.8.3   | zip  | x86          | https://releases.hashicorp.com/packer/1.8.3/packer_1.8.3_windows_386.zip   |
 
 ## HashicorpTerraform
 
@@ -766,8 +766,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.11.1  | zip  | x64          | https://releases.hashicorp.com/vault/1.11.1/vault_1.11.1_windows_amd64.zip |
-| 1.11.1  | zip  | x86          | https://releases.hashicorp.com/vault/1.11.1/vault_1.11.1_windows_386.zip   |
+| 1.11.2  | zip  | x64          | https://releases.hashicorp.com/vault/1.11.2/vault_1.11.2_windows_amd64.zip |
+| 1.11.2  | zip  | x86          | https://releases.hashicorp.com/vault/1.11.2/vault_1.11.2_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1043,9 +1043,9 @@
 
 [Link](https://github.com/microsoft/BotFramework-Emulator/)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                         |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 4.14.0  | Windows  | x86          | exe  | 07/14/2021 | 97010688 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.0/BotFramework-Emulator-4.14.0-windows-setup.exe |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                         |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 4.14.1  | Windows  | x86          | exe  | 11/11/2021 | 164630672 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe |
 
 ## MicrosoftEdge
 
@@ -1053,13 +1053,13 @@
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 105.0.1329.1  | Any      | Policy     | Enterprise | any          | 5E3F6DA0B4B61B45630D3EEF09E9ED306A13B8D31BEF82620F1C0F81CF2A60A4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/24f5df00-f96d-4541-a6bd-45c5be9d2730/MicrosoftEdgePolicyTemplates.cab            |
-| 105.0.1329.1  | Windows  | Dev        | Consumer   | arm64        | CE9E700B8B6124A1829CCE14421A3621BF1F79E2C0FDB0455BBAF2071639AF9B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cff8c7d-2c64-492c-9225-b0e4b7668210/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 105.0.1329.1  | Windows  | Dev        | Enterprise | arm64        | CE9E700B8B6124A1829CCE14421A3621BF1F79E2C0FDB0455BBAF2071639AF9B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cff8c7d-2c64-492c-9225-b0e4b7668210/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 105.0.1329.1  | Windows  | Dev        | Consumer   | x64          | D4CDDAC21E392C822016BED94663ADBD9EC6300033E6A3B769541AB9F07C0DF0 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b94d52e3-edfd-4833-befd-4a778787d758/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 105.0.1329.1  | Windows  | Dev        | Enterprise | x64          | D4CDDAC21E392C822016BED94663ADBD9EC6300033E6A3B769541AB9F07C0DF0 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b94d52e3-edfd-4833-befd-4a778787d758/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 105.0.1329.1  | Windows  | Dev        | Consumer   | x86          | 563F846B31A556F581180A5678DCD151F3B15781FB184475BC0DB6CE92F9F854 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8345666-aa61-409c-9475-3d877712bbd2/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 105.0.1329.1  | Windows  | Dev        | Enterprise | x86          | 563F846B31A556F581180A5678DCD151F3B15781FB184475BC0DB6CE92F9F854 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8345666-aa61-409c-9475-3d877712bbd2/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 105.0.1336.2  | Any      | Policy     | Enterprise | any          | BE5446A9F78B42A47DC6A2BD2601148D6C139097270708BC8C33C89E960F5C0B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d993e141-d117-4bf4-8599-dbe29d2a889c/MicrosoftEdgePolicyTemplates.cab            |
+| 105.0.1336.2  | Windows  | Dev        | Consumer   | arm64        | 7CB19EC97435890D7E52AC8C882F3D2B5714F6B0DD6B627FCAF6217773784110 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de74fd0a-37fd-4ea1-928a-52c33412803b/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 105.0.1336.2  | Windows  | Dev        | Enterprise | arm64        | 7CB19EC97435890D7E52AC8C882F3D2B5714F6B0DD6B627FCAF6217773784110 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de74fd0a-37fd-4ea1-928a-52c33412803b/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 105.0.1336.2  | Windows  | Dev        | Consumer   | x64          | D91B533D7CBF4C5E92FA9B35B7C4BA6DC8854CE9114988DCBD6FF0CFD85720FA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9db944bf-6a95-4896-880b-0056940abad2/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 105.0.1336.2  | Windows  | Dev        | Enterprise | x64          | D91B533D7CBF4C5E92FA9B35B7C4BA6DC8854CE9114988DCBD6FF0CFD85720FA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9db944bf-6a95-4896-880b-0056940abad2/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 105.0.1336.2  | Windows  | Dev        | Consumer   | x86          | 67991CF3BE2ADE77F7981E8F58C12A531DBFA3B245A8051936CA1EB12F37569D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5feaac08-2a21-453c-825c-3aa77a0e12e1/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 105.0.1336.2  | Windows  | Dev        | Enterprise | x86          | 67991CF3BE2ADE77F7981E8F58C12A531DBFA3B245A8051936CA1EB12F37569D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5feaac08-2a21-453c-825c-3aa77a0e12e1/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 104.0.1293.41 | Windows  | Beta       | Consumer   | arm64        | 043405D7AD84375EA13233DAC8871717FC6815C6A8CCBFB259B35BAD217D41FF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca087480-804c-4275-8076-59c88695f5e1/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 104.0.1293.41 | Windows  | Beta       | Enterprise | arm64        | 043405D7AD84375EA13233DAC8871717FC6815C6A8CCBFB259B35BAD217D41FF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca087480-804c-4275-8076-59c88695f5e1/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 104.0.1293.41 | Windows  | Beta       | Consumer   | x64          | 2B41BD0531758C4E9DCC63FD5DC00B4223AF427657DB7A33D0EDB681FB742290 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e0d886d4-4d84-4fbe-8476-7f7585c31a07/MicrosoftEdgeBetaEnterpriseX64.msi          |
@@ -1081,9 +1081,9 @@
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
-| 105.0.1329.1  | Dev     | ARM64        | https://msedgedriver.azureedge.net/105.0.1329.1/edgedriver_arm64.zip  |
-| 105.0.1329.1  | Dev     | x64          | https://msedgedriver.azureedge.net/105.0.1329.1/edgedriver_win64.zip  |
-| 105.0.1329.1  | Dev     | x86          | https://msedgedriver.azureedge.net/105.0.1329.1/edgedriver_win32.zip  |
+| 105.0.1336.2  | Dev     | ARM64        | https://msedgedriver.azureedge.net/105.0.1336.2/edgedriver_arm64.zip  |
+| 105.0.1336.2  | Dev     | x64          | https://msedgedriver.azureedge.net/105.0.1336.2/edgedriver_win64.zip  |
+| 105.0.1336.2  | Dev     | x86          | https://msedgedriver.azureedge.net/105.0.1336.2/edgedriver_win32.zip  |
 | 104.0.1293.41 | Beta    | ARM64        | https://msedgedriver.azureedge.net/104.0.1293.41/edgedriver_arm64.zip |
 | 104.0.1293.41 | Beta    | x64          | https://msedgedriver.azureedge.net/104.0.1293.41/edgedriver_win64.zip |
 | 104.0.1293.41 | Beta    | x86          | https://msedgedriver.azureedge.net/104.0.1293.41/edgedriver_win32.zip |
@@ -1115,8 +1115,10 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.161.0731.0001 | AMD64        | InternalFast | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.161.0731.0001/amd64/OneDriveSetup.exe   |
-| 22.161.0731.0001 | x86          | InternalFast | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.161.0731.0001/OneDriveSetup.exe         |
+| 22.162.0801.0001 | AMD64        | InternalFast | KLmtHrhUCxh6S19/7/4BYURzp7XklQKLLEWydCvPn1Y= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.162.0801.0001/amd64/OneDriveSetup.exe   |
+| 22.162.0801.0001 | x86          | InternalFast | bFzgNI0fN7gYteTjJUzNnR6xNI9HAJfmNfF0ri/yhN4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.162.0801.0001/OneDriveSetup.exe         |
+| 22.161.0731.0001 | AMD64        | InternalSlow | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/amd64/OneDriveSetup.exe   |
+| 22.161.0731.0001 | x86          | InternalSlow | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/OneDriveSetup.exe         |
 | 22.156.0724.0001 | AMD64        | InternalSlow | wb8DfH442fvZASwz/pCngH26g7V1pizjJu1BiKOk4XA= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.156.0724.0001/amd64/OneDriveSetup.exe   |
 | 22.156.0724.0001 | x86          | InternalSlow | I86RYT3MAtJ1Ag0+CmW9bDmzoXhHcDFV8csGyXbmytM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.156.0724.0001/OneDriveSetup.exe         |
 | 22.151.0717.0001 | AMD64        | Insider      | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.151.0717.0001/amd64/OneDriveSetup.exe   |
@@ -1147,8 +1149,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 0.61.0  | Windows  | ARM64        | exe  | 07/28/2022 | 86834840 | https://github.com/microsoft/PowerToys/releases/download/v0.61.0/PowerToysSetup-0.61.0-arm64.exe |
-| 0.61.0  | Windows  | x64          | exe  | 07/28/2022 | 91892784 | https://github.com/microsoft/PowerToys/releases/download/v0.61.0/PowerToysSetup-0.61.0-x64.exe   |
+| 0.61.1  | Windows  | ARM64        | exe  | 08/02/2022 | 86822344 | https://github.com/microsoft/PowerToys/releases/download/v0.61.1/PowerToysSetup-0.61.1-arm64.exe |
+| 0.61.1  | Windows  | x64          | exe  | 08/02/2022 | 91993992 | https://github.com/microsoft/PowerToys/releases/download/v0.61.1/PowerToysSetup-0.61.1-x64.exe   |
 
 ## MicrosoftSsms
 
@@ -1201,12 +1203,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.70.0  | win32-arm64      | Insider | ARM64        | 9a0ae7092ffdcc0ceb147d4f745b010ae54d376bf7b658f7d2e4559eac8740db | https://az764295.vo.msecnd.net/insider/1259bfe0090ac90afbf5d53335c43761de6bb19f/VSCodeSetup-arm64-1.70.0-insider.exe     |
-| 1.70.0  | win32-arm64-user | Insider | ARM64        | cb59be89760778c9bd179b911fb7e03fc694e1347b9a453dc2413ef510bf1935 | https://az764295.vo.msecnd.net/insider/1259bfe0090ac90afbf5d53335c43761de6bb19f/VSCodeUserSetup-arm64-1.70.0-insider.exe |
-| 1.70.0  | win32-x64        | Insider | x64          | c5a83a91313a8a7d1f6235449c48b3f32c34064cfeb31ea76089064056f05983 | https://az764295.vo.msecnd.net/insider/1259bfe0090ac90afbf5d53335c43761de6bb19f/VSCodeSetup-x64-1.70.0-insider.exe       |
-| 1.70.0  | win32-x64-user   | Insider | x64          | 37b0decc6dab6d3c600b624f91ce0ea7766fa44d4d0b4e7bbb5638b80c8ce154 | https://az764295.vo.msecnd.net/insider/1259bfe0090ac90afbf5d53335c43761de6bb19f/VSCodeUserSetup-x64-1.70.0-insider.exe   |
-| 1.70.0  | win32            | Insider | x86          | 9527851b8da876a4957a1a9072f800ad1b5b54f75579abbfc9d295940342013d | https://az764295.vo.msecnd.net/insider/1259bfe0090ac90afbf5d53335c43761de6bb19f/VSCodeSetup-ia32-1.70.0-insider.exe      |
-| 1.70.0  | win32-user       | Insider | x86          | bdf1c522a7eac6b9c836a9d289ce1f265133c73ea91341a7d38e886a9473b9c0 | https://az764295.vo.msecnd.net/insider/1259bfe0090ac90afbf5d53335c43761de6bb19f/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
+| 1.70.0  | win32-arm64      | Insider | ARM64        | 06cc8105544b3610eeb1f8690af4d238842cd59ec312e2fc217e7e079181510a | https://az764295.vo.msecnd.net/insider/e9bda7aa4ff76648cfccc1a7bde465443803da71/VSCodeSetup-arm64-1.70.0-insider.exe     |
+| 1.70.0  | win32-arm64-user | Insider | ARM64        | 042909a8bfc2558c28e5c677afbd7f8d847fcd78a0e98026806646a5c4f005d9 | https://az764295.vo.msecnd.net/insider/e9bda7aa4ff76648cfccc1a7bde465443803da71/VSCodeUserSetup-arm64-1.70.0-insider.exe |
+| 1.70.0  | win32-x64        | Insider | x64          | 0e7eef107a8baa1e0de4bac76c970130b50e80bc29ad5273dd660e02b813f39a | https://az764295.vo.msecnd.net/insider/e9bda7aa4ff76648cfccc1a7bde465443803da71/VSCodeSetup-x64-1.70.0-insider.exe       |
+| 1.70.0  | win32-x64-user   | Insider | x64          | 86933c7b5d320068371350080d857ac0d8721e33be4b95065bf116def99c7f54 | https://az764295.vo.msecnd.net/insider/e9bda7aa4ff76648cfccc1a7bde465443803da71/VSCodeUserSetup-x64-1.70.0-insider.exe   |
+| 1.70.0  | win32            | Insider | x86          | 2fc0939bdca749956af200d57bacf2b62a3a8f422c08267007899059c1240f1b | https://az764295.vo.msecnd.net/insider/e9bda7aa4ff76648cfccc1a7bde465443803da71/VSCodeSetup-ia32-1.70.0-insider.exe      |
+| 1.70.0  | win32-user       | Insider | x86          | e5aa12ed0721a1f817a871bb2b8b3604379417fc5e2caadeedabe05c00a3290a | https://az764295.vo.msecnd.net/insider/e9bda7aa4ff76648cfccc1a7bde465443803da71/VSCodeUserSetup-ia32-1.70.0-insider.exe  |
 | 1.69.2  | win32-arm64      | Stable  | ARM64        | f2911b8a2c0df1b04ba28d798acddfd1740d1df89e9da3727f325e34fc2164cf | https://az764295.vo.msecnd.net/stable/3b889b090b5ad5793f524b5d1d39fda662b96a2a/VSCodeSetup-arm64-1.69.2.exe              |
 | 1.69.2  | win32-arm64-user | Stable  | ARM64        | 0a47f3792321d0fbd21de7bf6346b37cef1b279478b57785752f281bdcc6ab17 | https://az764295.vo.msecnd.net/stable/3b889b090b5ad5793f524b5d1d39fda662b96a2a/VSCodeUserSetup-arm64-1.69.2.exe          |
 | 1.69.2  | win32-x64        | Stable  | x64          | 577444da696e8e6f067c109257096aa28e60647c6515e085f3636312ae3da1f1 | https://az764295.vo.msecnd.net/stable/3b889b090b5ad5793f524b5d1d39fda662b96a2a/VSCodeSetup-x64-1.69.2.exe                |
@@ -2814,22 +2816,26 @@
 | ------------------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 17.0.3.0.6-1        | Windows  | x64          | msi  | 05/03/2022 | 51822827  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.3.0.6-1/java-17-openjdk-17.0.3.0.6-1.jre.win.x86_64.msi                        |
 | 17.0.3.0.6-1        | Windows  | x64          | msi  | 05/03/2022 | 258040784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.3.0.6-1/java-17-openjdk-17.0.3.0.6-1.win.x86_64.msi                            |
+| 11.0.15.9-1         | Windows  | x64          | msi  | 04/30/2022 | 254285200 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.15.9-1/java-11-openjdk-11.0.15.9-1.windows.ojdkbuild.x86_64.msi                |
+| 11.0.15.9-1         | Windows  | x64          | msi  | 04/30/2022 | 50880574  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.15.9-1/java-11-openjdk-jre-11.0.15.9-1.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.332-1.b09     | Windows  | x64          | msi  | 04/30/2022 | 220148188 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86_64.msi  |
 | 11.0.14.9-2         | Windows  | x64          | msi  | 02/14/2022 | 254092515 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-11.0.14.9-2.windows.ojdkbuild.x86_64.msi                |
 | 11.0.14.9-2         | Windows  | x64          | msi  | 02/14/2022 | 50831422  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-jre-11.0.14.9-2.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.322-1.b06     | Windows  | x64          | msi  | 01/29/2022 | 220295644 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86_64.msi  |
-| 17.0.2.0.8-1        | Windows  | x64          | msi  | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
+| 11.0.12.7-1         | Windows  | x64          | msi  | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
 | 17.0.2.0.8-1        | Windows  | x64          | msi  | 01/28/2022 | 51790059  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.jre.win.x86_64.msi                        |
+| 11.0.14.9-1         | Windows  | x64          | msi  | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
 | 11.0.14.9-1         | Windows  | x64          | msi  | 01/28/2022 | 50806846  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-jre-11.0.14.9-1.windows.ojdkbuild.x86_64.msi            |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | 11/07/2021 | 51765483  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi                      |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | 11/07/2021 | 257778624 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.win.x86_64.msi                          |
 | 11.0.13.8-1         | Windows  | x64          | msi  | 11/07/2021 | 253990292 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-11.0.13.8-1.windows.ojdkbuild.x86_64.msi                |
 | 11.0.13.8-1         | Windows  | x64          | msi  | 11/07/2021 | 50806850  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-jre-11.0.13.8-1.windows.ojdkbuild.x86_64.msi            |
-| 11.0.14.9-1         | Windows  | x64          | msi  | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
 | 1.8.0.312-1.b07     | Windows  | x64          | msi  | 11/07/2021 | 220279260 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86_64.msi  |
-| 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
+| 17.0.2.0.8-1        | Windows  | x64          | msi  | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
+| 11.0.12.7-1         | Windows  | x64          | msi  | 07/24/2021 | 50815166  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-jre-11.0.12.7-1.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.322-1.b06-x86 | Windows  | x86          | msi  | 01/29/2022 | 146566880 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06-x86/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86.msi |
 | 1.8.0.332-1.b09-x86 | Windows  | x86          | msi  | 04/30/2022 | 146435808 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09-x86/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86.msi |
+| 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
 
 ## OpenShellMenu
 
@@ -3151,10 +3157,10 @@
 
 [Link](https://tools.stefankueng.com/grepWin.html)
 
-| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                  |
-| ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------ |
-| 2.0.9   | Windows  | x64          | msi  | 11/27/2021 | 1597440 | https://github.com/stefankueng/grepWin/releases/download/2.0.9/grepWin-2.0.9-x64.msi |
-| 2.0.9   | Windows  | x86          | msi  | 11/27/2021 | 802816  | https://github.com/stefankueng/grepWin/releases/download/2.0.9/grepWin-2.0.9.msi     |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                    |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------- |
+| 2.0.10  | Windows  | x64          | msi  | 02/19/2022 | 1597440 | https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10-x64.msi |
+| 2.0.10  | Windows  | x86          | msi  | 02/19/2022 | 806912  | https://github.com/stefankueng/grepWin/releases/download/2.0.10/grepWin-2.0.10.msi     |
 
 ## SumatraPDFReader
 
@@ -3394,14 +3400,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
 
 ## VisualCppRedistAIO
 
