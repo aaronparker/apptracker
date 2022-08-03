@@ -4,7 +4,7 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-**Last update**: 3/8/2022 6:21:53 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 06:21:53 Etc/UTC
 
 | Version | Platform | Architecture | Type | URI                                                                        |
 | ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@
 
 [Link](https://www.gimp.org/)
 
-**Last update**: 3/8/2022 6:21:53 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 06:21:53 Etc/UTC
 
 | Version | Date       | Sha256                                                           | URI                                                                        |
 | ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@
 
 [Link](https://www.vaultproject.io/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@
 
 [Link](https://code.visualstudio.com)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -61,7 +61,7 @@
 
 [Link](https://www.innosetup.com)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | URI                                                   |
 | ------- | ----------------------------------------------------- |
@@ -71,7 +71,7 @@
 
 [Link](https://www.microsoft.com/edge)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +101,7 @@
 
 [Link](https://github.com/microsoft/BotFramework-Emulator/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                         |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -111,7 +111,7 @@
 
 [Link](https://packer.io/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@
 
 [Link](https://onedrive.live.com/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
@@ -145,7 +145,7 @@
 
 [Link](https://tools.stefankueng.com/grepWin.html)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------- |
@@ -156,7 +156,7 @@
 
 [Link](https://www.microsoft.com/edge)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
@@ -174,7 +174,7 @@
 
 [Link](https://handbrake.fr/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
@@ -189,7 +189,7 @@
 
 [Link](https://openjdk.java.net/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version             | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                          |
 | ------------------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -220,7 +220,7 @@
 
 [Link](https://github.com/microsoft/PowerToys/)
 
-**Last update**: 3/8/2022 1:30:30 AM Etc/UTC
+**Last update**: Wednesday, 03 August 2022 01:30:30 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
@@ -231,7 +231,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-**Last update**: 2/8/2022 6:22:44 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 18:22:44 Etc/UTC
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
@@ -249,7 +249,7 @@
 
 [Link](https://1password.com/)
 
-**Last update**: 2/8/2022 6:22:44 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 18:22:44 Etc/UTC
 
 | Version | URI                                                           |
 | ------- | ------------------------------------------------------------- |
@@ -259,7 +259,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: 2/8/2022 6:22:44 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 18:22:44 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -272,7 +272,7 @@
 
 [Link](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-**Last update**: 2/8/2022 6:22:44 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 18:22:44 Etc/UTC
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
@@ -287,7 +287,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 
-**Last update**: 2/8/2022 6:22:44 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 18:22:44 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------- |
@@ -299,7 +299,7 @@
 
 [Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 
-**Last update**: 2/8/2022 12:38:15 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 12:38:15 Etc/UTC
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -312,7 +312,7 @@
 
 [Link](https://www.python.org/)
 
-**Last update**: 2/8/2022 12:38:15 PM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 12:38:15 Etc/UTC
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                              |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ---------------------------------------------------------------- |
@@ -325,7 +325,7 @@
 
 [Link](https://octopus.com/)
 
-**Last update**: 2/8/2022 1:50:39 AM Etc/UTC
+**Last update**: Tuesday, 02 August 2022 01:50:39 Etc/UTC
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
@@ -335,7 +335,7 @@
 
 [Link](https://imagemagick.org/)
 
-**Last update**: 1/8/2022 6:26:14 PM Etc/UTC
+**Last update**: Monday, 01 August 2022 18:26:14 Etc/UTC
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
@@ -345,7 +345,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: 1/8/2022 6:26:14 PM Etc/UTC
+**Last update**: Monday, 01 August 2022 18:26:14 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -358,7 +358,7 @@
 
 [Link](https://www.git-tower.com/windows/)
 
-**Last update**: 1/8/2022 6:26:14 PM Etc/UTC
+**Last update**: Monday, 01 August 2022 18:26:14 Etc/UTC
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
@@ -371,7 +371,7 @@
 
 [Link](https://www.ringcentral.com)
 
-**Last update**: 1/8/2022 6:35:11 AM Etc/UTC
+**Last update**: Monday, 01 August 2022 06:35:11 Etc/UTC
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
@@ -385,7 +385,7 @@
 
 [Link](https://www.microsoft.com/office)
 
-**Last update**: 30/7/2022 1:20:59 AM Etc/UTC
+**Last update**: Saturday, 30 July 2022 01:20:59 Etc/UTC
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
@@ -402,7 +402,7 @@
 
 [Link](https://www.fork.dev)
 
-**Last update**: 29/7/2022 6:21:54 PM Etc/UTC
+**Last update**: Friday, 29 July 2022 18:21:54 Etc/UTC
 
 | Version | URI                                           |
 | ------- | --------------------------------------------- |
@@ -412,7 +412,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
-**Last update**: 29/7/2022 6:21:54 PM Etc/UTC
+**Last update**: Friday, 29 July 2022 18:21:54 Etc/UTC
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |
@@ -423,7 +423,7 @@
 
 [Link](https://www.foxitsoftware.com/pdf-reader/)
 
-**Last update**: 29/7/2022 1:26:12 AM Etc/UTC
+**Last update**: Friday, 29 July 2022 01:26:12 Etc/UTC
 
 | Version      | Date       | Language           | URI                                                                                                 |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -445,7 +445,7 @@
 
 [Link](https://www.waypointproject.io/)
 
-**Last update**: 29/7/2022 1:26:12 AM Etc/UTC
+**Last update**: Friday, 29 July 2022 01:26:12 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                            |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
@@ -456,7 +456,7 @@
 
 [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
-**Last update**: 29/7/2022 1:26:12 AM Etc/UTC
+**Last update**: Friday, 29 July 2022 01:26:12 Etc/UTC
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -468,7 +468,7 @@
 
 [Link](https://www.foxit.com/pdf-editor/)
 
-**Last update**: 29/7/2022 1:26:12 AM Etc/UTC
+**Last update**: Friday, 29 July 2022 01:26:12 Etc/UTC
 
 | Version      | Date       | Language           | URI                                                                                                             |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -491,7 +491,7 @@
 
 [Link](https://www.docker.com/products/docker-desktop/)
 
-**Last update**: 28/7/2022 6:24:48 PM Etc/UTC
+**Last update**: Thursday, 28 July 2022 18:24:48 Etc/UTC
 
 | Version         | Build           | Size | Type | URI                                                               |
 | --------------- | --------------- | ---- | ---- | ----------------------------------------------------------------- |
@@ -501,7 +501,7 @@
 
 [Link](https://k8slens.dev/)
 
-**Last update**: 28/7/2022 12:38:3 PM Etc/UTC
+**Last update**: Thursday, 28 July 2022 12:38:03 Etc/UTC
 
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                          |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -512,7 +512,7 @@
 
 [Link](https://www.jetbrains.com/)
 
-**Last update**: 28/7/2022 12:38:3 PM Etc/UTC
+**Last update**: Thursday, 28 July 2022 12:38:03 Etc/UTC
 
 | Version  | Build        | Edition              | Date       | Size      | Sha256                                                                       | URI                                                                   |
 | -------- | ------------ | -------------------- | ---------- | --------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -524,7 +524,7 @@
 
 [Link](https://www.jetbrains.com/)
 
-**Last update**: 28/7/2022 12:38:3 PM Etc/UTC
+**Last update**: Thursday, 28 July 2022 12:38:03 Etc/UTC
 
 | Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
 | -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
@@ -536,7 +536,7 @@
 
 [Link](https://zoom.us/)
 
-**Last update**: 28/7/2022 12:38:3 PM Etc/UTC
+**Last update**: Thursday, 28 July 2022 12:38:03 Etc/UTC
 
 | Version     | Platform | Type    | URI                                                                |
 | ----------- | -------- | ------- | ------------------------------------------------------------------ |
@@ -554,7 +554,7 @@
 
 [Link](https://www.opera.com/browsers/opera)
 
-**Last update**: 28/7/2022 1:27:39 AM Etc/UTC
+**Last update**: Thursday, 28 July 2022 01:27:39 Etc/UTC
 
 | Version      | Architecture | Type | URI                                                                                           |
 | ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
@@ -565,7 +565,7 @@
 
 [Link](https://www.wireshark.org/#download)
 
-**Last update**: 28/7/2022 1:27:39 AM Etc/UTC
+**Last update**: Thursday, 28 July 2022 01:27:39 Etc/UTC
 
 | Version | Architecture | Type | URI                                                           |
 | ------- | ------------ | ---- | ------------------------------------------------------------- |
@@ -578,7 +578,7 @@
 
 [Link](https://www.signal.org/)
 
-**Last update**: 28/7/2022 1:27:39 AM Etc/UTC
+**Last update**: Thursday, 28 July 2022 01:27:39 Etc/UTC
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
@@ -588,7 +588,7 @@
 
 [Link](https://www.terraform.io/)
 
-**Last update**: 27/7/2022 6:21:42 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 18:21:42 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
@@ -599,7 +599,7 @@
 
 [Link](https://www.freedomscientific.com/products/software/zoomtext/)
 
-**Last update**: 27/7/2022 6:21:42 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 18:21:42 Etc/UTC
 
 | Version      | Date      | URI                                                                                                                       |
 | ------------ | --------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -610,7 +610,7 @@
 
 [Link](https://www.freedomscientific.com/products/software/fusion/)
 
-**Last update**: 27/7/2022 6:21:42 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 18:21:42 Etc/UTC
 
 | Version     | Date      | URI                                                                                                                  |
 | ----------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -621,7 +621,7 @@
 
 [Link](https://www.citrix.com/downloads/workspace-app/)
 
-**Last update**: 27/7/2022 12:36:7 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 12:36:07 Etc/UTC
 
 | Version    | Title                                  | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                  |
 | ---------- | -------------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
@@ -634,7 +634,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: 27/7/2022 12:36:7 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 12:36:07 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -647,7 +647,7 @@
 
 [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi-g2m850002)
 
-**Last update**: 27/7/2022 12:36:7 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 12:36:07 Etc/UTC
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
@@ -657,7 +657,7 @@
 
 [Link](https://www.7-zip.org/)
 
-**Last update**: 27/7/2022 12:36:7 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 12:36:07 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
@@ -672,7 +672,7 @@
 
 [Link](https://www.freedomscientific.com/products/software/jaws/)
 
-**Last update**: 27/7/2022 12:36:7 PM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 12:36:07 Etc/UTC
 
 | Version      | Architecture | Date      | URI                                                                                                                  |
 | ------------ | ------------ | --------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -683,7 +683,7 @@
 
 [Link](https://obsidian.md/)
 
-**Last update**: 27/7/2022 1:29:39 AM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 01:29:39 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -695,7 +695,7 @@
 
 [Link](https://www.torproject.org/)
 
-**Last update**: 27/7/2022 1:29:39 AM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 01:29:39 Etc/UTC
 
 | Version | Architecture | Type | Language | URI                                                                                     |
 | ------- | ------------ | ---- | -------- | --------------------------------------------------------------------------------------- |
@@ -776,7 +776,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: 27/7/2022 1:29:39 AM Etc/UTC
+**Last update**: Wednesday, 27 July 2022 01:29:39 Etc/UTC
 
 | Version       | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                  |
 | ------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -789,7 +789,7 @@
 
 [Link](https://www.masterpackager.com/)
 
-**Last update**: 26/7/2022 6:22:56 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 18:22:56 Etc/UTC
 
 | Version   | Type | URI                                                                                     |
 | --------- | ---- | --------------------------------------------------------------------------------------- |
@@ -799,7 +799,7 @@
 
 [Link](https://www.techsmith.com/)
 
-**Last update**: 26/7/2022 6:22:56 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 18:22:56 Etc/UTC
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
@@ -810,7 +810,7 @@
 
 [Link](https://www.sumatrapdfreader.org/)
 
-**Last update**: 26/7/2022 6:22:56 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 18:22:56 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
@@ -821,7 +821,7 @@
 
 [Link](https://www.citrix.com/downloads/citrix-hypervisor/)
 
-**Last update**: 26/7/2022 6:22:56 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 18:22:56 Etc/UTC
 
 | Version    | Architecture | Size    | Checksum                                                         | URI                                                                     |
 | ---------- | ------------ | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -834,7 +834,7 @@
 
 [Link](https://www.teamviewer.com/)
 
-**Last update**: 26/7/2022 12:34:17 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 12:34:17 Etc/UTC
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
@@ -844,7 +844,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-**Last update**: 26/7/2022 12:34:17 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 12:34:17 Etc/UTC
 
 | Version | Architecture | Date                          | Size    | Filename                                                  | URI                                                              |
 | ------- | ------------ | ----------------------------- | ------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -854,7 +854,7 @@
 
 [Link](https://www.opera.com/gx)
 
-**Last update**: 26/7/2022 12:34:17 PM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 12:34:17 Etc/UTC
 
 | Version      | Architecture | Type | URI                                                                                         |
 | ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
@@ -865,7 +865,7 @@
 
 [Link](https://www.getpostman.com/)
 
-**Last update**: 26/7/2022 6:23:10 AM Etc/UTC
+**Last update**: Tuesday, 26 July 2022 06:23:10 Etc/UTC
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
@@ -876,7 +876,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-**Last update**: 25/7/2022 6:21:35 PM Etc/UTC
+**Last update**: Monday, 25 July 2022 18:21:35 Etc/UTC
 
 | Version       | Architecture | Date            | Size            | Filename                                                  | URI                                                              |
 | ------------- | ------------ | --------------- | --------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -886,7 +886,7 @@
 
 [Link](https://github.com/dbeaver/dbeaver)
 
-**Last update**: 25/7/2022 1:23:54 AM Etc/UTC
+**Last update**: Monday, 25 July 2022 01:23:54 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
@@ -896,7 +896,7 @@
 
 [Link](https://docs.microsoft.com/fslogix/)
 
-**Last update**: 23/7/2022 6:21:17 AM Etc/UTC
+**Last update**: Saturday, 23 July 2022 06:21:17 Etc/UTC
 
 | Version        | Date       | Channel    | URI                                                                                                                |
 | -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -906,7 +906,7 @@
 
 [Link](https://www.gpg4win.org/)
 
-**Last update**: 23/7/2022 6:21:17 AM Etc/UTC
+**Last update**: Saturday, 23 July 2022 06:21:17 Etc/UTC
 
 | Version | Architecture | Type | URI                                         |
 | ------- | ------------ | ---- | ------------------------------------------- |
@@ -916,7 +916,7 @@
 
 [Link](https://www.microsoft.com/teams)
 
-**Last update**: 23/7/2022 1:23:55 AM Etc/UTC
+**Last update**: Saturday, 23 July 2022 01:23:55 Etc/UTC
 
 | Version      | Ring    | Architecture | Type | URI                                                                                                |
 | ------------ | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
@@ -937,7 +937,7 @@
 
 [Link](https://aws.amazon.com/corretto/)
 
-**Last update**: 22/7/2022 6:22:19 PM Etc/UTC
+**Last update**: Friday, 22 July 2022 18:22:19 Etc/UTC
 
 | Version     | Architecture | JDK | Type | URI                                                                                                |
 | ----------- | ------------ | --- | ---- | -------------------------------------------------------------------------------------------------- |
@@ -955,7 +955,7 @@
 
 [Link](https://filezilla-project.org/)
 
-**Last update**: 22/7/2022 6:22:19 PM Etc/UTC
+**Last update**: Friday, 22 July 2022 18:22:19 Etc/UTC
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -965,7 +965,7 @@
 
 [Link](https://www.telerik.com/fiddler)
 
-**Last update**: 22/7/2022 12:33:15 PM Etc/UTC
+**Last update**: Friday, 22 July 2022 12:33:15 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -975,7 +975,7 @@
 
 [Link](https://www.vmware.com/products/workstation-pro.html)
 
-**Last update**: 22/7/2022 1:29:52 AM Etc/UTC
+**Last update**: Friday, 22 July 2022 01:29:52 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                         |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------------------------- |
@@ -985,7 +985,7 @@
 
 [Link](https://www.vmware.com/products/workstation-player.html)
 
-**Last update**: 22/7/2022 1:29:52 AM Etc/UTC
+**Last update**: Friday, 22 July 2022 01:29:52 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                      |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ---------------------------------------------------------------------------------------- |
@@ -995,7 +995,7 @@
 
 [Link](https://scootersoftware.com/)
 
-**Last update**: 21/7/2022 1:23:46 AM Etc/UTC
+**Last update**: Thursday, 21 July 2022 01:23:46 Etc/UTC
 
 | Version     | Language | URI                                                      |
 | ----------- | -------- | -------------------------------------------------------- |
@@ -1005,7 +1005,7 @@
 
 [Link](https://getsharex.com/)
 
-**Last update**: 21/7/2022 1:23:46 AM Etc/UTC
+**Last update**: Thursday, 21 July 2022 01:23:46 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------- |
@@ -1016,7 +1016,7 @@
 
 [Link](https://devtoys.app/)
 
-**Last update**: 20/7/2022 6:22:16 AM Etc/UTC
+**Last update**: Wednesday, 20 July 2022 06:22:16 Etc/UTC
 
 | Version | Platform | Architecture | Type       | Date       | Size      | URI                                                                                                                               |
 | ------- | -------- | ------------ | ---------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1026,7 +1026,7 @@
 
 [Link](https://www.virtualbox.org/)
 
-**Last update**: 20/7/2022 6:22:16 AM Etc/UTC
+**Last update**: Wednesday, 20 July 2022 06:22:16 Etc/UTC
 
 | Version | Type | URI                                                                                |
 | ------- | ---- | ---------------------------------------------------------------------------------- |
@@ -1037,7 +1037,7 @@
 
 [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-**Last update**: 19/7/2022 6:22:21 PM Etc/UTC
+**Last update**: Tuesday, 19 July 2022 18:22:21 Etc/UTC
 
 | Version        | URI                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -1047,7 +1047,7 @@
 
 [Link](https://www.java.com)
 
-**Last update**: 19/7/2022 6:22:21 PM Etc/UTC
+**Last update**: Tuesday, 19 July 2022 18:22:21 Etc/UTC
 
 | Version       | Architecture | URI                                                                                                                                       |
 | ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1058,7 +1058,7 @@
 
 [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-**Last update**: 19/7/2022 6:22:21 PM Etc/UTC
+**Last update**: Tuesday, 19 July 2022 18:22:21 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                             | URI                                                                                                    |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -1068,7 +1068,7 @@
 
 [Link](https://www.zotero.org/)
 
-**Last update**: 19/7/2022 6:22:30 AM Etc/UTC
+**Last update**: Tuesday, 19 July 2022 06:22:30 Etc/UTC
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |
@@ -1078,7 +1078,7 @@
 
 [Link](https://octopus.com/)
 
-**Last update**: 19/7/2022 1:45:35 AM Etc/UTC
+**Last update**: Tuesday, 19 July 2022 01:45:35 Etc/UTC
 
 | Version  | Architecture | URI                                                                          |
 | -------- | ------------ | ---------------------------------------------------------------------------- |
@@ -1089,7 +1089,7 @@
 
 [Link](https://www.beekeeperstudio.io/)
 
-**Last update**: 19/7/2022 1:45:35 AM Etc/UTC
+**Last update**: Tuesday, 19 July 2022 01:45:35 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -1100,7 +1100,7 @@
 
 [Link](https://notepad-plus-plus.org/)
 
-**Last update**: 15/7/2022 6:20:52 PM Etc/UTC
+**Last update**: Friday, 15 July 2022 18:20:52 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1121,7 +1121,7 @@
 
 [Link](http://www.saga-gis.org/)
 
-**Last update**: 14/7/2022 12:33:36 PM Etc/UTC
+**Last update**: Thursday, 14 July 2022 12:33:36 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                                       |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
@@ -1132,7 +1132,7 @@
 
 [Link](https://tools.pdf24.org/en/creator/)
 
-**Last update**: 14/7/2022 12:33:36 PM Etc/UTC
+**Last update**: Thursday, 14 July 2022 12:33:36 Etc/UTC
 
 | Version | Type | URI                                                 |
 | ------- | ---- | --------------------------------------------------- |
@@ -1143,7 +1143,7 @@
 
 [Link](https://www.nomadproject.io/)
 
-**Last update**: 14/7/2022 1:28:59 AM Etc/UTC
+**Last update**: Thursday, 14 July 2022 01:28:59 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
@@ -1154,7 +1154,7 @@
 
 [Link](https://www.consul.io/)
 
-**Last update**: 14/7/2022 1:28:59 AM Etc/UTC
+**Last update**: Thursday, 14 July 2022 01:28:59 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
@@ -1165,7 +1165,7 @@
 
 [Link](https://1password.com/)
 
-**Last update**: 13/7/2022 6:20:38 PM Etc/UTC
+**Last update**: Wednesday, 13 July 2022 18:20:38 Etc/UTC
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |
@@ -1175,7 +1175,7 @@
 
 [Link](https://www.rhino3d.com/)
 
-**Last update**: 13/7/2022 1:24:30 AM Etc/UTC
+**Last update**: Wednesday, 13 July 2022 01:24:30 Etc/UTC
 
 | Version          | Release | URI                                                                           |
 | ---------------- | ------- | ----------------------------------------------------------------------------- |
@@ -1186,7 +1186,7 @@
 
 [Link](https://dotnet.microsoft.com/download/)
 
-**Last update**: 12/7/2022 6:24:27 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 18:24:27 Etc/UTC
 
 | Version | Architecture | Installer      | Channel | Type | URI                                                                                                                                                                       |
 | ------- | ------------ | -------------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1219,7 +1219,7 @@
 
 [Link](https://gitforwindows.org/)
 
-**Last update**: 12/7/2022 6:24:27 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 18:24:27 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -1238,7 +1238,7 @@
 
 [Link](https://visualstudio.microsoft.com/)
 
-**Last update**: 12/7/2022 6:24:27 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 18:24:27 Etc/UTC
 
 | Version         | Sha256                                                           | Size    | URI                                                                                                                                                                        |
 | --------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1248,7 +1248,7 @@
 
 [Link](https://cyberduck.io/)
 
-**Last update**: 12/7/2022 6:24:27 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 18:24:27 Etc/UTC
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |
@@ -1258,7 +1258,7 @@
 
 [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-**Last update**: 12/7/2022 12:35:54 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 12:35:54 Etc/UTC
 
 | Version      | Language              | Architecture | Name                                               | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -1297,7 +1297,7 @@
 
 [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)
 
-**Last update**: 12/7/2022 12:35:54 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 12:35:54 Etc/UTC
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1317,7 +1317,7 @@
 
 [Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
 
-**Last update**: 12/7/2022 12:35:54 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 12:35:54 Etc/UTC
 
 | Version      | Architecture | Type     | URI                                                                                      |
 | ------------ | ------------ | -------- | ---------------------------------------------------------------------------------------- |
@@ -1328,7 +1328,7 @@
 
 [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
 
-**Last update**: 12/7/2022 12:35:54 PM Etc/UTC
+**Last update**: Tuesday, 12 July 2022 12:35:54 Etc/UTC
 
 | Version      | Type      | Architecture | URI                                                                                                        |
 | ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1343,7 +1343,7 @@
 
 [Link](https://safeexambrowser.org/)
 
-**Last update**: 10/7/2022 6:20:50 PM Etc/UTC
+**Last update**: Sunday, 10 July 2022 18:20:50 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
@@ -1355,7 +1355,7 @@
 
 [Link](https://www.ghisler.com/)
 
-**Last update**: 7/7/2022 12:42:14 PM Etc/UTC
+**Last update**: Thursday, 07 July 2022 12:42:14 Etc/UTC
 
 | Version    | Architecture | URI                                              |
 | ---------- | ------------ | ------------------------------------------------ |
@@ -1366,7 +1366,7 @@
 
 [Link](https://www.boundaryproject.io/)
 
-**Last update**: 7/7/2022 1:28:2 AM Etc/UTC
+**Last update**: Thursday, 07 July 2022 01:28:02 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                            |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
@@ -1377,7 +1377,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
 
-**Last update**: 6/7/2022 12:34:57 PM Etc/UTC
+**Last update**: Wednesday, 06 July 2022 12:34:57 Etc/UTC
 
 | Version        | Architecture | Date                          | Size   | Filename                                  | URI                                                               |
 | -------------- | ------------ | ----------------------------- | ------ | ----------------------------------------- | ----------------------------------------------------------------- |
@@ -1387,7 +1387,7 @@
 
 [Link](https://docs.vmware.com/en/VMware-Tools/index.html)
 
-**Last update**: 6/7/2022 1:44:55 AM Etc/UTC
+**Last update**: Wednesday, 06 July 2022 01:44:55 Etc/UTC
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
@@ -1398,7 +1398,7 @@
 
 [Link](https://rufus.ie/)
 
-**Last update**: 2/7/2022 1:54:7 AM Etc/UTC
+**Last update**: Saturday, 02 July 2022 01:54:07 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------- |
@@ -1411,7 +1411,7 @@
 
 [Link](https://go.microsoft.com/fwlink/?LinkId=531355)
 
-**Last update**: 30/6/2022 1:50:59 AM Etc/UTC
+**Last update**: Thursday, 30 June 2022 01:50:59 Etc/UTC
 
 | Version      | Date       | Language              | URI                                                                                                   |
 | ------------ | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -1431,7 +1431,7 @@
 
 [Link](https://www.tableau.com/)
 
-**Last update**: 29/6/2022 8:24:44 PM Etc/UTC
+**Last update**: Wednesday, 29 June 2022 20:24:44 Etc/UTC
 
 | Version  | URI                                                                       |
 | -------- | ------------------------------------------------------------------------- |
@@ -1441,7 +1441,7 @@
 
 [Link](https://www.tableau.com/)
 
-**Last update**: 29/6/2022 8:24:44 PM Etc/UTC
+**Last update**: Wednesday, 29 June 2022 20:24:44 Etc/UTC
 
 | Version  | URI                                                                        |
 | -------- | -------------------------------------------------------------------------- |
@@ -1451,7 +1451,7 @@
 
 [Link](https://www.tableau.com/)
 
-**Last update**: 29/6/2022 8:24:44 PM Etc/UTC
+**Last update**: Wednesday, 29 June 2022 20:24:44 Etc/UTC
 
 | Version  | URI                                                               |
 | -------- | ----------------------------------------------------------------- |
@@ -1461,7 +1461,7 @@
 
 [Link](https://github.com/mattermost/desktop)
 
-**Last update**: 27/6/2022 8:22:10 PM Etc/UTC
+**Last update**: Monday, 27 June 2022 20:22:10 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                                  |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------ |
@@ -1473,7 +1473,7 @@
 
 [Link](https://www.minizinc.org/)
 
-**Last update**: 27/6/2022 1:54:48 AM Etc/UTC
+**Last update**: Monday, 27 June 2022 01:54:48 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |
@@ -1483,7 +1483,7 @@
 
 [Link](https://dngrep.github.io/)
 
-**Last update**: 26/6/2022 1:55:0 AM Etc/UTC
+**Last update**: Sunday, 26 June 2022 01:55:00 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------- |
@@ -1494,7 +1494,7 @@
 
 [Link](https://peazip.github.io/)
 
-**Last update**: 25/6/2022 4:26:49 PM Etc/UTC
+**Last update**: Saturday, 25 June 2022 16:26:49 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------- |
@@ -1506,7 +1506,7 @@
 
 [Link](https://desktop.telegram.org/)
 
-**Last update**: 25/6/2022 4:32:15 AM Etc/UTC
+**Last update**: Saturday, 25 June 2022 04:32:15 Etc/UTC
 
 | Version | URI                                                  |
 | ------- | ---------------------------------------------------- |
@@ -1516,7 +1516,7 @@
 
 [Link](https://www.rstudio.com/)
 
-**Last update**: 25/6/2022 1:53:20 AM Etc/UTC
+**Last update**: Saturday, 25 June 2022 01:53:20 Etc/UTC
 
 | Version            | Sha256                                                           | Size      | Branch            | Channel | ProductName         | InstallerName                | Type | URI                                                                                           |
 | ------------------ | ---------------------------------------------------------------- | --------- | ----------------- | ------- | ------------------- | ---------------------------- | ---- | --------------------------------------------------------------------------------------------- |
@@ -1541,7 +1541,7 @@
 
 [Link](https://winscp.net/)
 
-**Last update**: 24/6/2022 12:42:0 PM Etc/UTC
+**Last update**: Friday, 24 June 2022 12:42:00 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                  |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
@@ -1551,7 +1551,7 @@
 
 [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
 
-**Last update**: 24/6/2022 12:42:0 PM Etc/UTC
+**Last update**: Friday, 24 June 2022 12:42:00 Etc/UTC
 
 | Version  | Platform   | Architecture | URI                                                                                                  |
 | -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
@@ -1563,7 +1563,7 @@
 
 [Link](https://github.com/ankitects/anki/)
 
-**Last update**: 24/6/2022 8:26:58 AM Etc/UTC
+**Last update**: Friday, 24 June 2022 08:26:58 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------- |
@@ -1574,7 +1574,7 @@
 
 [Link](https://cran.r-project.org/bin/windows/base/)
 
-**Last update**: 23/6/2022 12:38:50 PM Etc/UTC
+**Last update**: Thursday, 23 June 2022 12:38:50 Etc/UTC
 
 | Version | URI                                                         |
 | ------- | ----------------------------------------------------------- |
@@ -1584,7 +1584,7 @@
 
 [Link](https://docs.microsoft.com/powershell/)
 
-**Last update**: 23/6/2022 1:46:1 AM Etc/UTC
+**Last update**: Thursday, 23 June 2022 01:46:01 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              | Release |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
@@ -1599,7 +1599,7 @@
 
 [Link](https://gephi.org/)
 
-**Last update**: 22/6/2022 8:20:44 PM Etc/UTC
+**Last update**: Wednesday, 22 June 2022 20:20:44 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------- |
@@ -1610,7 +1610,7 @@
 
 [Link](https://musescore.org/)
 
-**Last update**: 22/6/2022 12:37:52 PM Etc/UTC
+**Last update**: Wednesday, 22 June 2022 12:37:52 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------- |
@@ -1622,7 +1622,7 @@
 
 [Link](https://azure.microsoft.com/en-au/features/storage-explorer/)
 
-**Last update**: 22/6/2022 1:56:54 AM Etc/UTC
+**Last update**: Wednesday, 22 June 2022 01:56:54 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------- |
@@ -1632,7 +1632,7 @@
 
 [Link](https://dotbow.github.io/Blender-Launcher/)
 
-**Last update**: 21/6/2022 4:31:43 PM Etc/UTC
+**Last update**: Tuesday, 21 June 2022 16:31:43 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -1643,7 +1643,7 @@
 
 [Link](https://github.com/abbodi1406/vcredist)
 
-**Last update**: 21/6/2022 1:47:29 AM Etc/UTC
+**Last update**: Tuesday, 21 June 2022 01:47:29 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -1653,7 +1653,7 @@
 
 [Link](https://appventix.com/)
 
-**Last update**: 19/6/2022 1:52:38 AM Etc/UTC
+**Last update**: Sunday, 19 June 2022 01:52:38 Etc/UTC
 
 | Version | Filename             | URI                                    |
 | ------- | -------------------- | -------------------------------------- |
@@ -1663,7 +1663,7 @@
 
 [Link](https://mestrelab.com/software/mnova/)
 
-**Last update**: 17/6/2022 1:42:4 AM Etc/UTC
+**Last update**: Friday, 17 June 2022 01:42:04 Etc/UTC
 
 | Version | Revision | Architecture | URI                                                                          |
 | ------- | -------- | ------------ | ---------------------------------------------------------------------------- |
@@ -1674,7 +1674,7 @@
 
 [Link](https://jasp-stats.org/)
 
-**Last update**: 17/6/2022 1:42:4 AM Etc/UTC
+**Last update**: Friday, 17 June 2022 01:42:04 Etc/UTC
 
 | Version | URI                                                 |
 | ------- | --------------------------------------------------- |
@@ -1684,7 +1684,7 @@
 
 [Link](https://imageglass.org/)
 
-**Last update**: 16/6/2022 12:38:21 PM Etc/UTC
+**Last update**: Thursday, 16 June 2022 12:38:21 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                                                      |
 | -------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------------------- |
@@ -1696,7 +1696,7 @@
 
 [Link](https://www.techsmith.com/)
 
-**Last update**: 15/6/2022 12:37:33 PM Etc/UTC
+**Last update**: Wednesday, 15 June 2022 12:37:33 Etc/UTC
 
 | Version | Date                | Type | Architecture | URI                                                                 |
 | ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |
@@ -1708,7 +1708,7 @@
 
 [Link](https://www.codelerity.com/netbeans/)
 
-**Last update**: 15/6/2022 12:37:33 PM Etc/UTC
+**Last update**: Wednesday, 15 June 2022 12:37:33 Etc/UTC
 
 | Version    | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
@@ -1718,7 +1718,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd)
 
-**Last update**: 15/6/2022 4:38:31 AM Etc/UTC
+**Last update**: Wednesday, 15 June 2022 04:38:31 Etc/UTC
 
 | Version         | Architecture | Date                          | Size    | Filename                                         | URI                               |
 | --------------- | ------------ | ----------------------------- | ------- | ------------------------------------------------ | --------------------------------- |
@@ -1728,7 +1728,7 @@
 
 [Link](https://www.mozilla.org/en-US/firefox/new/)
 
-**Last update**: 12/6/2022 2:23:56 pm Etc/UTC
+**Last update**: Sunday, 12 June 2022 14:23:56 Etc/UTC
 
 | Version | Architecture | Channel                | Language | Type | Filename                     | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -2841,7 +2841,7 @@
 
 [Link](https://stealthpuppy.com/image-customise/)
 
-**Last update**: 10/6/2022 7:57:30 am Etc/UTC
+**Last update**: Friday, 10 June 2022 07:57:30 Etc/UTC
 
 | Version    | Platform | Architecture | Type      | Date       | Size  | URI                                                                                                     |
 | ---------- | -------- | ------------ | --------- | ---------- | ----- | ------------------------------------------------------------------------------------------------------- |
@@ -2852,7 +2852,7 @@
 
 [Link](https://github.com/JeremyMain/GPUProfiler)
 
-**Last update**: 10/6/2022 12:00:48 am Etc/UTC
+**Last update**: Friday, 10 June 2022 00:00:48 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
@@ -2862,7 +2862,7 @@
 
 [Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
-**Last update**: 10/6/2022 12:00:48 am Etc/UTC
+**Last update**: Friday, 10 June 2022 00:00:48 Etc/UTC
 
 | Version   | Platform | Architecture | Type | Date       | Size     | URI                                                                                                             |
 | --------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
@@ -2873,7 +2873,7 @@
 
 [Link](https://www.egnyte.com/solutions/sharing-collaboration)
 
-**Last update**: 10/6/2022 12:00:48 am Etc/UTC
+**Last update**: Friday, 10 June 2022 00:00:48 Etc/UTC
 
 | Version   | SHA1                                     | URI                                                                                       |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -2883,7 +2883,7 @@
 
 [Link](https://www.sourcetreeapp.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Type | URI                                                                                                        |
 | ------- | ---- | ---------------------------------------------------------------------------------------------------------- |
@@ -2894,7 +2894,7 @@
 
 [Link](https://www.projectlibre.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                            |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |
@@ -2904,7 +2904,7 @@
 
 [Link](https://winmerge.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                                    |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
@@ -2917,7 +2917,7 @@
 
 [Link](https://freefem.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------- |
@@ -2929,7 +2929,7 @@
 
 [Link](https://github.com/desowin/usbpcap/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size   | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | ------ | ------------------------------------------------------------------------------------- |
@@ -2939,7 +2939,7 @@
 
 [Link](https://github.com/BornToBeRoot/NETworkManager)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version     | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ----------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -2949,7 +2949,7 @@
 
 [Link](https://www.soapui.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                       |
 | ------- | --------------------------------------------------------- |
@@ -2959,7 +2959,7 @@
 
 [Link](https://getgreenshot.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                                     |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2971,7 +2971,7 @@
 
 [Link](https://www.pdfforge.org/pdfcreator)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                                                |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------ |
@@ -2981,7 +2981,7 @@
 
 [Link](https://openwebstart.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -2992,7 +2992,7 @@
 
 [Link](https://github.com/NickeManarin/ScreenToGif)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |
@@ -3016,7 +3016,7 @@
 
 [Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                             |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------- |
@@ -3028,7 +3028,7 @@
 
 [Link](https://www.naps2.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------- |
@@ -3039,7 +3039,7 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                                            |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------- |
@@ -3051,7 +3051,7 @@
 
 [Link](https://hyper.js/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------ |
@@ -3061,7 +3061,7 @@
 
 [Link](https://www.mendeley.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                              |
 | ------- | -------------------------------------------------------------------------------- |
@@ -3071,7 +3071,7 @@
 
 [Link](https://getpaint.net/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -3086,7 +3086,7 @@
 
 [Link](https://mcmilk.de/projects/7-Zip-zstd/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
@@ -3099,7 +3099,7 @@
 
 [Link](https://www.audacityteam.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |
@@ -3110,7 +3110,7 @@
 
 [Link](https://github.com/PowerShell/Win32-OpenSSH/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
@@ -3121,7 +3121,7 @@
 
 [Link](https://keepassxc.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
@@ -3132,7 +3132,7 @@
 
 [Link](https://github.com/debauchee/barrier)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -3142,7 +3142,7 @@
 
 [Link](https://www.minitab.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version     | Architecture | Release | URI                                                                                                                      |
 | ----------- | ------------ | ------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -3153,7 +3153,7 @@
 
 [Link](https://psappdeploytoolkit.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
@@ -3163,7 +3163,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3174,7 +3174,7 @@
 
 [Link](https://nomacs.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                              |
 | -------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------- |
@@ -3185,7 +3185,7 @@
 
 [Link](https://www.jam-software.com/treesize/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
@@ -3195,7 +3195,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                        |
 | -------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3208,7 +3208,7 @@
 
 [Link](https://bitwarden.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size      | URI                                                                                               |
 | -------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------- |
@@ -3219,7 +3219,7 @@
 
 [Link](https://pandoc.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------- |
@@ -3229,7 +3229,7 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                          |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------- |
@@ -3240,7 +3240,7 @@
 
 [Link](https://docs.microsoft.com/en-us/windows/package-manager/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version   | Platform | Architecture | Type       | Date       | Size     | URI                                                                                                                         |
 | --------- | -------- | ------------ | ---------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -3250,7 +3250,7 @@
 
 [Link](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                                                                     | URI                                                                                                                   |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -3261,7 +3261,7 @@
 
 [Link](https://protege.stanford.edu/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
@@ -3271,7 +3271,7 @@
 
 [Link](https://github.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                         |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------- |
@@ -3286,7 +3286,7 @@
 
 [Link](https://www.fon.hum.uva.nl/praat/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------- |
@@ -3297,7 +3297,7 @@
 
 [Link](https://scratch.mit.edu/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                    |
 | ------- | ---------------------------------------------------------------------- |
@@ -3307,7 +3307,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -3318,7 +3318,7 @@
 
 [Link](https://www.cendio.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -3328,7 +3328,7 @@
 
 [Link](https://openwebstart.com/ows/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -3339,7 +3339,7 @@
 
 [Link](https://www.anaconda.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                    |
 | ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -3350,7 +3350,7 @@
 
 [Link](https://www.toggl.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -3361,7 +3361,7 @@
 
 [Link](http://brackets.io/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
@@ -3371,7 +3371,7 @@
 
 [Link](https://rdanalyzer.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version    | Platform | Architecture | Type | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -3381,7 +3381,7 @@
 
 [Link](https://github.com/Nevcairiel/LAVFilters)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
@@ -3391,7 +3391,7 @@
 
 [Link](https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version     | Type         | URI                                                                                       |
 | ----------- | ------------ | ----------------------------------------------------------------------------------------- |
@@ -3404,7 +3404,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                           |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3417,7 +3417,7 @@
 
 [Link](http://stedolan.github.io/jq/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                  |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------- |
@@ -3428,7 +3428,7 @@
 
 [Link](https://docs.conda.io/en/latest/miniconda.html)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                           |
 | ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -3443,7 +3443,7 @@
 
 [Link](https://devicetrust.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                       |
 | ---------- | -------- | ------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -3474,7 +3474,7 @@
 
 [Link](https://notable.app/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------- |
@@ -3484,7 +3484,7 @@
 
 [Link](https://obsproject.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | URI                                                                                  |
 | ------- | ------------ | ------------------------------------------------------------------------------------ |
@@ -3495,7 +3495,7 @@
 
 [Link](https://eucweb.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                       |
 | -------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------- |
@@ -3505,7 +3505,7 @@
 
 [Link](https://www.controlup.com/products/controlup/management/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version   | URI                                                             |
 | --------- | --------------------------------------------------------------- |
@@ -3515,7 +3515,7 @@
 
 [Link](https://mremoteng.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
@@ -3525,7 +3525,7 @@
 
 [Link](https://atom.io/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                      |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------ |
@@ -3536,7 +3536,7 @@
 
 [Link](https://www.ghostscript.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------- |
@@ -3547,7 +3547,7 @@
 
 [Link](https://www.thunderbird.net/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Channel                    | Language | Type | Filename                      | URI                                                                                                                       |
 | ------- | ------------ | -------------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -3820,7 +3820,7 @@
 
 [Link](https://www.controlup.com/products/controlup/agent/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version   | Framework    | Architecture | URI                                                                                           |
 | --------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
@@ -3831,7 +3831,7 @@
 
 [Link](https://www.telerik.com/fiddler/fiddler-classic)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version     | URI                                                               |
 | ----------- | ----------------------------------------------------------------- |
@@ -3841,7 +3841,7 @@
 
 [Link](https://uberagent.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -3851,7 +3851,7 @@
 
 [Link](https://www.bluej.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                        |
 | ------- | ---------------------------------------------------------- |
@@ -3861,7 +3861,7 @@
 
 [Link](https://github.com/terminals-Origin/Terminals/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
@@ -3871,7 +3871,7 @@
 
 [Link](https://www.jam-software.com/treesize_free/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -3881,7 +3881,7 @@
 
 [Link](https://open-shell.github.io/Open-Shell-Menu/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------- |
@@ -3891,7 +3891,7 @@
 
 [Link](https://www.voidtools.com/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version    | Architecture | URI                                          |
 | ---------- | ------------ | -------------------------------------------- |
@@ -3902,7 +3902,7 @@
 
 [Link](https://wixtoolset.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                        |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------- |
@@ -3912,7 +3912,7 @@
 
 [Link](https://www.diagrams.net/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -3926,7 +3926,7 @@
 
 [Link](https://keepass.net/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                                           |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------- |
@@ -3937,7 +3937,7 @@
 
 [Link](https://www.texstudio.org/)
 
-**Last update**: 9/6/2022 10:14:11 pm Etc/UTC
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
