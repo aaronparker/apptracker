@@ -66,7 +66,12 @@ foreach ($File in $LastUpdates) {
     if ($Null -ne $Link) {
         $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
         $Markdown += "`n`n"
-        $Markdown += "**Last update**: $($File.LastWriteTime) $((Get-TimeZone).Id)"
+
+        # Convert the date to a long date for readability for all regions
+        $ConvertedDateTime = [System.DateTime]::ParseExact($File.LastWriteTime, "d/M/yyyy h:mm:ss tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
+        $LastUpdate = "$($ConvertedDateTime.ToLongDateString()) $($ConvertedDateTime.ToLongTimeString())"
+
+        $Markdown += "**Last update**: $LastUpdate $((Get-TimeZone).Id)"
         $Markdown += "`n`n"
     }
 
