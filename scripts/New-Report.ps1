@@ -68,7 +68,7 @@ foreach ($File in $LastUpdates) {
         $Markdown += "`n`n"
 
         # Convert the date to a long date for readability for all regions
-        $ConvertedDateTime = [System.DateTime]::ParseExact($File.LastWriteTime, "d/M/yyyy h:mm:ss tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
+        $ConvertedDateTime = [System.DateTime]::ParseExact($File.LastWriteTime, "d/M/yyyy h:mm:s tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
         $LastUpdate = "$($ConvertedDateTime.ToLongDateString()) $($ConvertedDateTime.ToLongTimeString())"
 
         $Markdown += "**Last update**: $LastUpdate $((Get-TimeZone).Id)"
