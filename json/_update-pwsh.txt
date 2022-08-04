@@ -1,0 +1,10 @@
+json/1Password.json
+json/Gephi.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/Pandoc.json
+json/Postman.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
