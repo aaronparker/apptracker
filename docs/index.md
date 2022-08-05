@@ -173,10 +173,10 @@
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| jdk8u342-b07 | jdk  | x64          | b13aea54b44802bf5caacc829e20e521659107331715aa6683e6926c67939133 | 90322432 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07.1/OpenJDK8U-jdk_x64_windows_hotspot_8u342b07.msi  |
-| jdk8u342-b07 | jre  | x64          | 70e90ac93841ae85a966fb404343f89bf6518eac1e892eda5100da4d4433a95e | 32486912 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07.1/OpenJDK8U-jre_x64_windows_hotspot_8u342b07.msi  |
-| jdk8u342-b07 | jdk  | x86          | c36ea0f4dafac841951e0e968fa64ef6a29c6892818a10c99738e3472bcbf61c | 91079680 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jdk_x86-32_windows_hotspot_8u342b07.msi |
-| jdk8u342-b07 | jre  | x86          | 59707f00dd1a68395077a70988b31e8823a3de084c3757d7d30f80ebba9752df | 31190016 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u342-b07/OpenJDK8U-jre_x86-32_windows_hotspot_8u342b07.msi |
+| jdk8u345-b01 | jdk  | x64          | a19b85fedcc830aa81c6aeb07449905032b7b391c033a1647639486b25f2e1f3 | 90339840 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jdk_x64_windows_hotspot_8u345b01.msi    |
+| jdk8u345-b01 | jre  | x64          | 30253824132f22de22fef11242fc9cd7a183b5e09757bb57ad1d82c03d852a3c | 32482304 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jre_x64_windows_hotspot_8u345b01.msi    |
+| jdk8u345-b01 | jdk  | x86          | a260d36fbb0d891448899d74297786a2d682137f97be93239e6b001a951d5196 | 91100672 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jdk_x86-32_windows_hotspot_8u345b01.msi |
+| jdk8u345-b01 | jre  | x86          | df0b460e3d262dd36a9814dc1409738f0a4e90d989077baf5ce521fa8cac08f8 | 31193600 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jre_x86-32_windows_hotspot_8u345b01.msi |
 
 ## AdoptOpenJDK11
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -668,11 +668,11 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
+| 105.0.5195.19 | x64          | beta    | 08/04/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 105.0.5195.19 | x64          | dev     | 08/03/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 105.0.5195.19 | x86          | beta    | 08/04/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 105.0.5195.19 | x86          | dev     | 08/03/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 104.0.5112.81 | x64          | beta    | 08/01/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 104.0.5112.81 | x64          | stable  | 08/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 104.0.5112.81 | x86          | beta    | 08/01/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 104.0.5112.81 | x86          | stable  | 08/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
 ## Gpg4win
@@ -909,7 +909,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1115,8 +1115,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.162.0801.0001 | AMD64        | InternalFast | KLmtHrhUCxh6S19/7/4BYURzp7XklQKLLEWydCvPn1Y= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.162.0801.0001/amd64/OneDriveSetup.exe   |
-| 22.162.0801.0001 | x86          | InternalFast | bFzgNI0fN7gYteTjJUzNnR6xNI9HAJfmNfF0ri/yhN4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.162.0801.0001/OneDriveSetup.exe         |
+| 22.164.0803.0001 | AMD64        | InternalFast | 7ae3W14qSI+hwPKsBu5/tiWc3dfEImsqxo3JD//IPGU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.164.0803.0001/amd64/OneDriveSetup.exe   |
+| 22.164.0803.0001 | x86          | InternalFast | nOk/tJ0ukjACvHkf5Z+kY9mHxBGm+xIXEFGW27uQGio= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.164.0803.0001/OneDriveSetup.exe         |
 | 22.161.0731.0001 | AMD64        | InternalSlow | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/amd64/OneDriveSetup.exe   |
 | 22.161.0731.0001 | x86          | InternalSlow | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/OneDriveSetup.exe         |
 | 22.156.0724.0001 | AMD64        | Insider      | wb8DfH442fvZASwz/pCngH26g7V1pizjJu1BiKOk4XA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.156.0724.0001/amd64/OneDriveSetup.exe   |
@@ -3402,9 +3402,9 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
 | 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
 | 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
 | 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
