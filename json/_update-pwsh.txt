@@ -1,0 +1,8 @@
+json/DockerDesktop.json
+json/Gimp.json
+json/GoogleChrome.json
+json/Microsoft365Apps.json
+json/SafeExamBrowser.json
+json/VideoLanVlcPlayer.json
+json/diagrams.net.json
+json/jrsoftwareInnoSetup.json
