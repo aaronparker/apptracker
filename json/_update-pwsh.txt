@@ -1,0 +1,6 @@
+json/1Password.json
+json/ControlUpAgent.json
+json/ControlUpConsole.json
+json/Gimp.json
+json/TeXstudio.json
+json/VideoLanVlcPlayer.json
