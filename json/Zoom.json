@@ -1,56 +1,93 @@
 [
   {
     "Version": "5.11.4.7185",
-    "Platform": "Windows",
-    "Type": "Exe",
+    "Platform": "Meetings",
+    "Type": "exe",
+    "Architecture": "ARM64",
+    "URI": "https://cdn.zoom.us/prod/5.11.4.7185/arm64/ZoomInstallerFull.exe"
+  },
+  {
+    "Version": "5.11.4.7185",
+    "Platform": "Meetings",
+    "Type": "msi",
+    "Architecture": "ARM64",
+    "URI": "https://cdn.zoom.us/prod/5.11.4.7185/arm64/ZoomInstallerFull.msi"
+  },
+  {
+    "Version": "5.11.4.7185",
+    "Platform": "Meetings",
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.11.4.7185/x64/ZoomInstallerFull.exe"
+  },
+  {
+    "Version": "5.11.4.7185",
+    "Platform": "Meetings",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.11.4.7185/x64/ZoomInstallerFull.msi"
+  },
+  {
+    "Version": "5.11.4.7185",
+    "Platform": "Meetings",
+    "Type": "exe",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.4.7185/ZoomInstaller.exe"
   },
   {
     "Version": "5.11.4.7185",
-    "Platform": "Windows",
-    "Type": "Msi",
+    "Platform": "Meetings",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.4.7185/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.11.3.1634",
-    "Platform": "Windows",
-    "Type": "Rooms",
+    "Platform": "Rooms",
+    "Type": "exe",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.3.1634/zoomrooms-5.11.3.1634-x86.exe"
   },
   {
     "Version": "5.11.3.564",
-    "Platform": "Windows",
-    "Type": "Notes",
+    "Platform": "Plugin",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginSetup.msi"
   },
   {
     "Version": "5.11.3.563",
-    "Platform": "Windows",
-    "Type": "Outlook",
+    "Platform": "Plugin",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.3.563/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "5.11.0.534",
-    "Platform": "Windows",
-    "Type": "Lync",
+    "Platform": "Plugin",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi"
   },
   {
     "Version": "Latest",
     "Platform": "Citrix",
-    "Type": "Client",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
   },
   {
     "Version": "Latest",
     "Platform": "VDI",
-    "Type": "Host",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi"
   },
   {
     "Version": "Latest",
     "Platform": "VMware",
-    "Type": "Client",
+    "Type": "msi",
+    "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi"
   }
 ]
