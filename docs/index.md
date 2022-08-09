@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.8.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.8.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://www.nic.funet.fi/pub/mirrors/ftp.gimp.org/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.nju.edu.cn/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -993,8 +993,8 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15601.20028 | BetaChannel       | Beta                                  | 08/05/2022 16:26:53 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15427.20210 | CurrentPreview    | Current Channel (Preview)             | 08/08/2022 20:55:38 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15427.20194 | Current           | Current Channel                       | 08/03/2022 21:30:50 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15427.20194 | CurrentPreview    | Current Channel (Preview)             | 08/04/2022 16:16:12 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15225.20370 | MonthlyEnterprise | Monthly Enterprise                    | 07/26/2022 18:58:34 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20646 | SemiAnnual        | Semi-Annual Channel                   | 07/26/2022 18:33:13 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20646 | SemiAnnualPreview | Semi-Annual Channel Preview           | 07/26/2022 18:54:52 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1007,8 +1007,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.39.0  | win32-x64      | Insider | 9f0ffe2089e6e69657dcd765402ba7064f370d5f4d7e3f4da73098c065205e90 | https://sqlopsbuilds.azureedge.net/insider/c56a8b3d8bade14026565b2f2d4eab5dcdd8d3d2/azuredatastudio-windows-setup-1.39.0-insider.exe      |
-| 1.39.0  | win32-x64-user | Insider | 507f01461b0887aa37bda347f450ab4f89c1ee32a984e8a75c6516e4bb6afad8 | https://sqlopsbuilds.azureedge.net/insider/c56a8b3d8bade14026565b2f2d4eab5dcdd8d3d2/azuredatastudio-windows-user-setup-1.39.0-insider.exe |
+| 1.39.0  | win32-x64      | Insider | 393312b09a8043eb9319daf1de3458fe28d4258daefe37332ef3cd8167c1b182 | https://sqlopsbuilds.azureedge.net/insider/4ebe4c45478b80537f852f8caac8c781f15034ee/azuredatastudio-windows-setup-1.39.0-insider.exe      |
+| 1.39.0  | win32-x64-user | Insider | 8831a6e3f29dfa9c4d6bfb4a55a34446e4c962d396075d2427c32be1959fe91d | https://sqlopsbuilds.azureedge.net/insider/4ebe4c45478b80537f852f8caac8c781f15034ee/azuredatastudio-windows-user-setup-1.39.0-insider.exe |
 | 1.38.0  | win32-x64      | Stable  | faaa64f370ca13c90e6a9a4cf99316e6dc3d058ac36decf860e6a0cb7cd47ec9 | https://sqlopsbuilds.azureedge.net/stable/dff93c4736269ef2a7e8a225737a0d8354bf0246/azuredatastudio-windows-setup-1.38.0.exe               |
 | 1.38.0  | win32-x64-user | Stable  | a42565035701502e653535c5696d49e2132d8c55878895b00cde766e29c22e1d | https://sqlopsbuilds.azureedge.net/stable/dff93c4736269ef2a7e8a225737a0d8354bf0246/azuredatastudio-windows-user-setup-1.38.0.exe          |
 
@@ -1115,9 +1115,11 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.165.0804.0001 | AMD64        | InternalFast | FnDdTiYsjfEp4+InsJgOOOWMJNid+b88defc1D1RvVA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.165.0804.0001/amd64/OneDriveSetup.exe   |
-| 22.165.0804.0001 | x86          | InternalFast | 1HAtKb8Sa/wzUVXSeESsYxoc9+JMMfgBUhpdPTs5ryk= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.165.0804.0001/OneDriveSetup.exe         |
+| 22.166.0807.0001 | AMD64        | InternalFast | GiYXa54Uxga1Q55BZOmoOIaA5bGL9/ya9eh42ncVTOs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.166.0807.0001/amd64/OneDriveSetup.exe   |
+| 22.166.0807.0001 | x86          | InternalFast | 3vQ19EgV4KgIkPjH84WmHInTz8pTwRStfMSIFkpKcUg= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.166.0807.0001/OneDriveSetup.exe         |
+| 22.161.0731.0001 | AMD64        | Insider      | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/amd64/OneDriveSetup.exe   |
 | 22.161.0731.0001 | AMD64        | InternalSlow | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/amd64/OneDriveSetup.exe   |
+| 22.161.0731.0001 | x86          | Insider      | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/OneDriveSetup.exe         |
 | 22.161.0731.0001 | x86          | InternalSlow | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/OneDriveSetup.exe         |
 | 22.156.0724.0001 | AMD64        | Insider      | wb8DfH442fvZASwz/pCngH26g7V1pizjJu1BiKOk4XA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.156.0724.0001/amd64/OneDriveSetup.exe   |
 | 22.156.0724.0001 | x86          | Insider      | I86RYT3MAtJ1Ag0+CmW9bDmzoXhHcDFV8csGyXbmytM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.156.0724.0001/OneDriveSetup.exe         |
@@ -3398,14 +3400,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
