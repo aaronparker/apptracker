@@ -1,0 +1,5 @@
+json/AdobeAcrobatDC.json
+json/AdobeAcrobatReaderDC.json
+json/Gimp.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
