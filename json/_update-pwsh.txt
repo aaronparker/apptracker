@@ -1,0 +1,6 @@
+json/HashicorpTerraform.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/RStudio.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json

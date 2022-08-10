@@ -1,20 +1,20 @@
 [
   {
-    "Version": "6.0.1-beta.0.20220810.1",
+    "Version": "6.0.1-latest.20220810.2",
     "Architecture": "x64",
     "Release": "Alpha",
-    "Date": "2022-08-10T11:03:04.586Z",
-    "Size": 330151920,
-    "Sha512": "5qE7JBWiWr0aHqxHgCevvH6me0yCU4JmFcbuWH0AcBN1Ck8ZypGQlxjH1f9nljl6AXJEQO9PksXHXoj535t8pA==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.1-beta.0.20220810.1.exe"
+    "Date": "2022-08-10T14:00:36.398Z",
+    "Size": 330157776,
+    "Sha512": "3tY4ZihAPtVSJwMXscFYVp9Ei2Qu35S70TccBQIaudq3o7Mx/PY+WyfsY7Y1Y4o12sL5aYmjQh1C8PTtZrobLA==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.1-latest.20220810.2.exe"
   },
   {
-    "Version": "6.0.0-latest.20220728.2",
+    "Version": "6.0.1-latest.20220810.2",
     "Architecture": "x64",
     "Release": "Stable",
-    "Date": "2022-07-28T11:19:03.618Z",
-    "Size": 294091016,
-    "Sha512": "EDbUxqL10KgZbgzk806HpT1RKKolmFKLrGlzRGmj+oKd6yRXzFmfW9nnZiPSNILUtcCWAYR1MVboPFe7nctFEQ==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.0-latest.20220728.2.exe"
+    "Date": "2022-08-10T14:00:36.398Z",
+    "Size": 330157776,
+    "Sha512": "3tY4ZihAPtVSJwMXscFYVp9Ei2Qu35S70TccBQIaudq3o7Mx/PY+WyfsY7Y1Y4o12sL5aYmjQh1C8PTtZrobLA==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.1-latest.20220810.2.exe"
   }
 ]
