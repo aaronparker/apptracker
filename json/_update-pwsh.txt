@@ -1,3 +1,0 @@
-json/Gimp.json
-json/McNeelRhino.json
-json/VideoLanVlcPlayer.json
