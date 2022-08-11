@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.8.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.8.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.snt.utwente.nl/pub/software/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.fau.de/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -995,7 +995,7 @@
 | 16.0.15606.20002 | BetaChannel       | Beta                                  | 08/09/2022 20:46:10 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15427.20210 | Current           | Current Channel                       | 08/09/2022 08:16:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15427.20210 | CurrentPreview    | Current Channel (Preview)             | 08/09/2022 08:33:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15330.20298 | MonthlyEnterprise | Monthly Enterprise                    | 08/09/2022 09:41:03 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15225.20394 | MonthlyEnterprise | Monthly Enterprise                    | 08/09/2022 09:47:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20660 | SemiAnnual        | Semi-Annual Channel                   | 08/09/2022 10:13:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20660 | SemiAnnualPreview | Semi-Annual Channel Preview           | 08/09/2022 10:12:59 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14332.20358 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 08/09/2022 16:16:46 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1120,9 +1120,7 @@
 | 22.166.0807.0001 | AMD64        | InternalSlow | GiYXa54Uxga1Q55BZOmoOIaA5bGL9/ya9eh42ncVTOs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/amd64/OneDriveSetup.exe   |
 | 22.166.0807.0001 | x86          | InternalSlow | 3vQ19EgV4KgIkPjH84WmHInTz8pTwRStfMSIFkpKcUg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/OneDriveSetup.exe         |
 | 22.161.0731.0001 | AMD64        | Insider      | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/amd64/OneDriveSetup.exe   |
-| 22.161.0731.0001 | AMD64        | InternalSlow | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/amd64/OneDriveSetup.exe   |
 | 22.161.0731.0001 | x86          | Insider      | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/OneDriveSetup.exe         |
-| 22.161.0731.0001 | x86          | InternalSlow | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.161.0731.0001/OneDriveSetup.exe         |
 | 22.156.0724.0001 | AMD64        | Insider      | wb8DfH442fvZASwz/pCngH26g7V1pizjJu1BiKOk4XA= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.156.0724.0001/amd64/OneDriveSetup.exe   |
 | 22.156.0724.0001 | x86          | Insider      | I86RYT3MAtJ1Ag0+CmW9bDmzoXhHcDFV8csGyXbmytM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.156.0724.0001/OneDriveSetup.exe         |
 | 22.151.0717.0001 | AMD64        | Production   | sOKzCbfB2JtAYesUo7dvudYjSGiXCAQm3ZpxRyARNm0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.151.0717.0001/amd64/OneDriveSetup.exe       |
@@ -1160,17 +1158,17 @@
 
 | Version      | Date       | Language              | URI                                                                                                   |
 | ------------ | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
-| 15.0.18410.0 | 03/05/2022 | Chinese (Simplified)  | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-CHS.exe |
-| 15.0.18410.0 | 03/05/2022 | Chinese (Traditional) | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-CHT.exe |
-| 15.0.18410.0 | 03/05/2022 | English               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ENU.exe |
-| 15.0.18410.0 | 03/05/2022 | French                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-FRA.exe |
-| 15.0.18410.0 | 03/05/2022 | German                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-DEU.exe |
-| 15.0.18410.0 | 03/05/2022 | Italian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ITA.exe |
-| 15.0.18410.0 | 03/05/2022 | Japanese              | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-JPN.exe |
-| 15.0.18410.0 | 03/05/2022 | Korean                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-KOR.exe |
-| 15.0.18410.0 | 03/05/2022 | Portuguese (Brazil)   | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-PTB.exe |
-| 15.0.18410.0 | 03/05/2022 | Russian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-RUS.exe |
-| 15.0.18410.0 | 03/05/2022 | Spanish               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ESN.exe |
+| 15.0.18410.0 | 03/05/2022 | Chinese (Simplified)  | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-CHS.exe |
+| 15.0.18410.0 | 03/05/2022 | Chinese (Traditional) | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-CHT.exe |
+| 15.0.18410.0 | 03/05/2022 | English               | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-ENU.exe |
+| 15.0.18410.0 | 03/05/2022 | French                | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-FRA.exe |
+| 15.0.18410.0 | 03/05/2022 | German                | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-DEU.exe |
+| 15.0.18410.0 | 03/05/2022 | Italian               | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-ITA.exe |
+| 15.0.18410.0 | 03/05/2022 | Japanese              | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-JPN.exe |
+| 15.0.18410.0 | 03/05/2022 | Korean                | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-KOR.exe |
+| 15.0.18410.0 | 03/05/2022 | Portuguese (Brazil)   | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-PTB.exe |
+| 15.0.18410.0 | 03/05/2022 | Russian               | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-RUS.exe |
+| 15.0.18410.0 | 03/05/2022 | Spanish               | https://download.microsoft.com/download/a/e/4/ae40fdd2-1545-444a-b884-8818de1cfcb0/SSMS-Setup-ESN.exe |
 
 ## MicrosoftTeams
 
@@ -3246,7 +3244,7 @@
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
-| 3.3.1   | https://downloads.getfiddler.com/win/Fiddler%20Everywhere%203.3.1.exe |
+| 3.4.0   | https://downloads.getfiddler.com/win/Fiddler%20Everywhere%203.4.0.exe |
 
 ## Terminals
 
@@ -3402,14 +3400,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe     |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi     |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip     |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
