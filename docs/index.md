@@ -330,8 +330,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1.15.0  | Windows  | x64          | zip  | 06/21/2022 | 46902387 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.0/Blender_Launcher_v1.15.0_Windows_x64.zip       |
-| 1.15.0  | Windows  | x64          | zip  | 06/21/2022 | 46927030 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.0/Blender_Launcher_v1.15.0_Windows_x64_DEBUG.zip |
+| 1.15.1  | Windows  | x64          | zip  | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
+| 1.15.1  | Windows  | x64          | zip  | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
 
 ## BlueJ
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.icm.edu.pl/pub/graphics/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -670,8 +670,8 @@
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
 | 106.0.5216.6  | x64          | dev     | 08/05/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 106.0.5216.6  | x86          | dev     | 08/05/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 105.0.5195.19 | x64          | beta    | 08/04/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 105.0.5195.19 | x86          | beta    | 08/04/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 105.0.5195.28 | x64          | beta    | 08/10/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 105.0.5195.28 | x86          | beta    | 08/10/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 104.0.5112.81 | x64          | stable  | 08/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 104.0.5112.81 | x86          | stable  | 08/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -719,10 +719,10 @@
 
 [Link](https://www.boundaryproject.io/)
 
-| Version | Type | Architecture | URI                                                                            |
-| ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
-| 0.9.1   | zip  | x64          | https://releases.hashicorp.com/boundary/0.9.1/boundary_0.9.1_windows_amd64.zip |
-| 0.9.1   | zip  | x86          | https://releases.hashicorp.com/boundary/0.9.1/boundary_0.9.1_windows_386.zip   |
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 0.10.0  | zip  | x64          | https://releases.hashicorp.com/boundary/0.10.0/boundary_0.10.0_windows_amd64.zip |
+| 0.10.0  | zip  | x86          | https://releases.hashicorp.com/boundary/0.10.0/boundary_0.10.0_windows_386.zip   |
 
 ## HashicorpConsul
 
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -909,7 +909,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1115,8 +1115,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.167.0808.0001 | AMD64        | InternalFast | jSw1K3dEMq9HN5lQmc7xplAakkLoV5BnLdsaejgwkNA= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.167.0808.0001/amd64/OneDriveSetup.exe   |
-| 22.167.0808.0001 | x86          | InternalFast | fwTagy4rIc17ihPcJ6F/9QpNqtSOSC3A5jOBQoQFlWM= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.167.0808.0001/OneDriveSetup.exe         |
+| 22.168.0809.0001 | AMD64        | InternalFast | c5LS+R6NpvJkEbBLflS53lWT/BXnA5Qs8/nJ+eT2YpE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.168.0809.0001/amd64/OneDriveSetup.exe   |
+| 22.168.0809.0001 | x86          | InternalFast | LsvuPsrTgDEdy7gxBmKIDkoTQExzyU3OxfQnSVKp19o= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.168.0809.0001/OneDriveSetup.exe         |
 | 22.166.0807.0001 | AMD64        | InternalSlow | GiYXa54Uxga1Q55BZOmoOIaA5bGL9/ya9eh42ncVTOs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/amd64/OneDriveSetup.exe   |
 | 22.166.0807.0001 | x86          | InternalSlow | 3vQ19EgV4KgIkPjH84WmHInTz8pTwRStfMSIFkpKcUg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/OneDriveSetup.exe         |
 | 22.161.0731.0001 | AMD64        | Insider      | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/amd64/OneDriveSetup.exe   |
@@ -1178,18 +1178,18 @@
 
 | Version      | Ring    | Architecture | Type | URI                                                                                                |
 | ------------ | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
+| 1.5.00.21463 | General | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.21463/Teams_windows_arm64.exe |
+| 1.5.00.21463 | General | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.21463/Teams_windows_arm64.msi |
+| 1.5.00.21463 | General | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.21463/Teams_windows_x64.exe     |
+| 1.5.00.21463 | General | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.21463/Teams_windows_x64.msi     |
+| 1.5.00.21463 | General | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.21463/Teams_windows.exe             |
+| 1.5.00.21463 | General | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.21463/Teams_windows.msi             |
 | 1.5.00.19754 | Preview | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.19754/Teams_windows_arm64.exe |
 | 1.5.00.19754 | Preview | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.19754/Teams_windows_arm64.msi |
 | 1.5.00.19754 | Preview | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.19754/Teams_windows_x64.exe     |
 | 1.5.00.19754 | Preview | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.19754/Teams_windows_x64.msi     |
 | 1.5.00.19754 | Preview | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.19754/Teams_windows.exe             |
 | 1.5.00.19754 | Preview | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.19754/Teams_windows.msi             |
-| 1.5.00.17656 | General | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.17656/Teams_windows_arm64.exe |
-| 1.5.00.17656 | General | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.17656/Teams_windows_arm64.msi |
-| 1.5.00.17656 | General | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.17656/Teams_windows_x64.exe     |
-| 1.5.00.17656 | General | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.17656/Teams_windows_x64.msi     |
-| 1.5.00.17656 | General | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.17656/Teams_windows.exe             |
-| 1.5.00.17656 | General | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.17656/Teams_windows.msi             |
 
 ## MicrosoftVisualStudio
 
@@ -3402,14 +3402,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
