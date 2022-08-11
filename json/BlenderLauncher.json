@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.15.0",
+    "Version": "1.15.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "06/21/2022",
-    "Size": 46902387,
-    "URI": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.0/Blender_Launcher_v1.15.0_Windows_x64.zip"
+    "Date": "08/09/2022",
+    "Size": 46908603,
+    "URI": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip"
   },
   {
-    "Version": "1.15.0",
+    "Version": "1.15.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "06/21/2022",
-    "Size": 46927030,
-    "URI": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.0/Blender_Launcher_v1.15.0_Windows_x64_DEBUG.zip"
+    "Date": "08/09/2022",
+    "Size": 46895843,
+    "URI": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip"
   }
 ]
