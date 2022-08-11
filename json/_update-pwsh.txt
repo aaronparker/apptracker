@@ -1,9 +1,0 @@
-json/BlenderLauncher.json
-json/Gimp.json
-json/GoogleChrome.json
-json/HashicorpBoundary.json
-json/LogMeInGoToOpener.json
-json/MicrosoftOneDrive.json
-json/MicrosoftTeams.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
