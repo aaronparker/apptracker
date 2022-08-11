@@ -1,0 +1,8 @@
+json/1Password.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftSsms.json
+json/TelerikFiddlerEverywhere.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
