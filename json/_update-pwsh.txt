@@ -1,0 +1,8 @@
+json/Fork.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/RStudio.json
+json/SumatraPDFReader.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
