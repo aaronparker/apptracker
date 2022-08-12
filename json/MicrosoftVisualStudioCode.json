@@ -4,48 +4,48 @@
     "Platform": "win32-arm64",
     "Channel": "Insider",
     "Architecture": "ARM64",
-    "Sha256": "ab13f351cf9831f272c52968dffc0ca0164a03938531d40f04d02f116c374dc5",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/VSCodeSetup-arm64-1.71.0-insider.exe"
+    "Sha256": "5099ee87148e279616eee9e6f9887bd6b6df1fb8ee3427a36a437180d951bcde",
+    "URI": "https://az764295.vo.msecnd.net/insider/eebdf8174b087979ae6af103f6f2e2f6f9062056/VSCodeSetup-arm64-1.71.0-insider.exe"
   },
   {
     "Version": "1.71.0",
     "Platform": "win32-arm64-user",
     "Channel": "Insider",
     "Architecture": "ARM64",
-    "Sha256": "44515b1ea83c505785fae6bc476fca958fc965a46276f740973f3925175841dd",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/VSCodeUserSetup-arm64-1.71.0-insider.exe"
+    "Sha256": "be152ff6dedbea77b55f64209aacf9c8d57b954e9be05004c4b3b95602c2aa23",
+    "URI": "https://az764295.vo.msecnd.net/insider/eebdf8174b087979ae6af103f6f2e2f6f9062056/VSCodeUserSetup-arm64-1.71.0-insider.exe"
   },
   {
     "Version": "1.71.0",
     "Platform": "win32-x64",
     "Channel": "Insider",
     "Architecture": "x64",
-    "Sha256": "447afde98cf6b2bd2d50be79a7efa11386947eb2b42c25101c24d5930b6a713d",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/VSCodeSetup-x64-1.71.0-insider.exe"
+    "Sha256": "b2805c0a537824fe997b85ce9f443b47e3a2d1a4489ebe2cd1970d9bd928163c",
+    "URI": "https://az764295.vo.msecnd.net/insider/eebdf8174b087979ae6af103f6f2e2f6f9062056/VSCodeSetup-x64-1.71.0-insider.exe"
   },
   {
     "Version": "1.71.0",
     "Platform": "win32-x64-user",
     "Channel": "Insider",
     "Architecture": "x64",
-    "Sha256": "18014a68f2c63142f78c2c33e3cbf8338726806dcc455ce32e77051063da3815",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/VSCodeUserSetup-x64-1.71.0-insider.exe"
+    "Sha256": "390bb42785a3850d4b936e579188cc8c1984717ffff2e1a350a6fa9abbea5c8c",
+    "URI": "https://az764295.vo.msecnd.net/insider/eebdf8174b087979ae6af103f6f2e2f6f9062056/VSCodeUserSetup-x64-1.71.0-insider.exe"
   },
   {
     "Version": "1.71.0",
     "Platform": "win32",
     "Channel": "Insider",
     "Architecture": "x86",
-    "Sha256": "4d94fb279e4f3202ebe67a9a65f0779d5a2a8850cf4acfd083186b51c79a9a7f",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/VSCodeSetup-ia32-1.71.0-insider.exe"
+    "Sha256": "dea7e9ea71fbb3a5c286baab7fd4dfc1897b3f158ee2d36b09095cc26cf4c268",
+    "URI": "https://az764295.vo.msecnd.net/insider/eebdf8174b087979ae6af103f6f2e2f6f9062056/VSCodeSetup-ia32-1.71.0-insider.exe"
   },
   {
     "Version": "1.71.0",
     "Platform": "win32-user",
     "Channel": "Insider",
     "Architecture": "x86",
-    "Sha256": "35a6aaa0f32053d9ec486c8ccdfee6e9186213a05aff8dab95c1bb835276d441",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/VSCodeUserSetup-ia32-1.71.0-insider.exe"
+    "Sha256": "82415d861ffbe15db87553e5077138facb964f45bab6a76a24bb7564fdcb9545",
+    "URI": "https://az764295.vo.msecnd.net/insider/eebdf8174b087979ae6af103f6f2e2f6f9062056/VSCodeUserSetup-ia32-1.71.0-insider.exe"
   },
   {
     "Version": "1.70.1",
