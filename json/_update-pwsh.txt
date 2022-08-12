@@ -1,0 +1,12 @@
+json/1Password.json
+json/Gimp.json
+json/HashicorpBoundary.json
+json/HashicorpConsul.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftSsms.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
