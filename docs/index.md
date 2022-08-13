@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.8.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.8.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                       |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.ip-connect.vn.ua/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.gwdg.de/pub/grafik/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -668,8 +668,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 106.0.5216.6  | x64          | dev     | 08/05/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 106.0.5216.6  | x86          | dev     | 08/05/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 106.0.5231.2  | x64          | dev     | 08/12/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 106.0.5231.2  | x86          | dev     | 08/12/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 105.0.5195.28 | x64          | beta    | 08/10/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 105.0.5195.28 | x86          | beta    | 08/10/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 104.0.5112.81 | x64          | stable  | 08/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1027,7 +1027,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------- |
-| 1.25.0  | Windows  | x86          | exe  | 05/12/2022 | 108796160 | https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.25.0/Windows_StorageExplorer.exe |
+| 1.25.1  | Windows  | x86          | exe  | 05/12/2022 | 108790600 | https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.25.1/Windows_StorageExplorer.exe |
 
 ## MicrosoftBicep
 
@@ -1053,13 +1053,13 @@
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 105.0.1336.2  | Any      | Policy     | Enterprise | any          | BE5446A9F78B42A47DC6A2BD2601148D6C139097270708BC8C33C89E960F5C0B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d993e141-d117-4bf4-8599-dbe29d2a889c/MicrosoftEdgePolicyTemplates.cab            |
-| 105.0.1336.2  | Windows  | Dev        | Consumer   | arm64        | 7CB19EC97435890D7E52AC8C882F3D2B5714F6B0DD6B627FCAF6217773784110 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de74fd0a-37fd-4ea1-928a-52c33412803b/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 105.0.1336.2  | Windows  | Dev        | Enterprise | arm64        | 7CB19EC97435890D7E52AC8C882F3D2B5714F6B0DD6B627FCAF6217773784110 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de74fd0a-37fd-4ea1-928a-52c33412803b/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 105.0.1336.2  | Windows  | Dev        | Consumer   | x64          | D91B533D7CBF4C5E92FA9B35B7C4BA6DC8854CE9114988DCBD6FF0CFD85720FA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9db944bf-6a95-4896-880b-0056940abad2/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 105.0.1336.2  | Windows  | Dev        | Enterprise | x64          | D91B533D7CBF4C5E92FA9B35B7C4BA6DC8854CE9114988DCBD6FF0CFD85720FA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9db944bf-6a95-4896-880b-0056940abad2/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 105.0.1336.2  | Windows  | Dev        | Consumer   | x86          | 67991CF3BE2ADE77F7981E8F58C12A531DBFA3B245A8051936CA1EB12F37569D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5feaac08-2a21-453c-825c-3aa77a0e12e1/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 105.0.1336.2  | Windows  | Dev        | Enterprise | x86          | 67991CF3BE2ADE77F7981E8F58C12A531DBFA3B245A8051936CA1EB12F37569D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5feaac08-2a21-453c-825c-3aa77a0e12e1/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 105.0.1343.4  | Any      | Policy     | Enterprise | any          | 4ACB6F8666DE1679C900819C0EE30D45C490763996AB2E1D475C2F846DCE5720 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0de4532a-9c16-4b54-b16d-c110f1357347/MicrosoftEdgePolicyTemplates.cab            |
+| 105.0.1343.4  | Windows  | Dev        | Consumer   | arm64        | EA1BB6261A8F92D42514AF9E20F961EF248A47997BDE4AA4E9856681AA2C7FA3 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2fb14c0f-adfe-42ba-8e0a-075698992d14/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 105.0.1343.4  | Windows  | Dev        | Enterprise | arm64        | EA1BB6261A8F92D42514AF9E20F961EF248A47997BDE4AA4E9856681AA2C7FA3 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2fb14c0f-adfe-42ba-8e0a-075698992d14/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 105.0.1343.4  | Windows  | Dev        | Consumer   | x64          | E4F2C3FA32893AE44788B773D3F5F5A3B32F8BD385A26BC3852ACFF444AE8468 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77b19406-1d01-4f93-97a2-04ab6d6c2919/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 105.0.1343.4  | Windows  | Dev        | Enterprise | x64          | E4F2C3FA32893AE44788B773D3F5F5A3B32F8BD385A26BC3852ACFF444AE8468 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77b19406-1d01-4f93-97a2-04ab6d6c2919/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 105.0.1343.4  | Windows  | Dev        | Consumer   | x86          | 3E9DD0C8B43C5BF12BCB3780DCDF717B6F8AE0ADB77A20222D98BE2A6CEFB726 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d26ffa81-4611-43c8-a71d-de6efd921d83/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 105.0.1343.4  | Windows  | Dev        | Enterprise | x86          | 3E9DD0C8B43C5BF12BCB3780DCDF717B6F8AE0ADB77A20222D98BE2A6CEFB726 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d26ffa81-4611-43c8-a71d-de6efd921d83/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 104.0.1293.54 | Windows  | Stable     | Consumer   | arm64        | 8868BAC687B1A862DC21D0BC0E210D7361C2C06EB07F838AED22941901021692 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a474498a-357a-4af0-89ee-210a723fed19/MicrosoftEdgeEnterpriseARM64.msi            |
 | 104.0.1293.54 | Windows  | Stable     | Enterprise | arm64        | 8868BAC687B1A862DC21D0BC0E210D7361C2C06EB07F838AED22941901021692 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a474498a-357a-4af0-89ee-210a723fed19/MicrosoftEdgeEnterpriseARM64.msi            |
 | 104.0.1293.54 | Windows  | Stable     | Consumer   | x64          | DF10F35A2A8C38D0D368F9F093FCBB04D96C170DD370267F8C158CD8E0D147C0 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d5f98e6-819e-49ab-8dc3-e65d8f27815b/MicrosoftEdgeEnterpriseX64.msi              |
@@ -1081,9 +1081,9 @@
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
-| 105.0.1336.2  | Dev     | ARM64        | https://msedgedriver.azureedge.net/105.0.1336.2/edgedriver_arm64.zip  |
-| 105.0.1336.2  | Dev     | x64          | https://msedgedriver.azureedge.net/105.0.1336.2/edgedriver_win64.zip  |
-| 105.0.1336.2  | Dev     | x86          | https://msedgedriver.azureedge.net/105.0.1336.2/edgedriver_win32.zip  |
+| 105.0.1343.4  | Dev     | ARM64        | https://msedgedriver.azureedge.net/105.0.1343.4/edgedriver_arm64.zip  |
+| 105.0.1343.4  | Dev     | x64          | https://msedgedriver.azureedge.net/105.0.1343.4/edgedriver_win64.zip  |
+| 105.0.1343.4  | Dev     | x86          | https://msedgedriver.azureedge.net/105.0.1343.4/edgedriver_win32.zip  |
 | 104.0.1293.54 | Stable  | ARM64        | https://msedgedriver.azureedge.net/104.0.1293.54/edgedriver_arm64.zip |
 | 104.0.1293.54 | Stable  | x64          | https://msedgedriver.azureedge.net/104.0.1293.54/edgedriver_win64.zip |
 | 104.0.1293.54 | Stable  | x86          | https://msedgedriver.azureedge.net/104.0.1293.54/edgedriver_win32.zip |
@@ -1115,8 +1115,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.169.0810.0001 | AMD64        | InternalFast | t9KnNeO4mQ6M92pYEYoWnmM0KFjLR9OxUk1YOFJ+rR8= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.169.0810.0001/amd64/OneDriveSetup.exe   |
-| 22.169.0810.0001 | x86          | InternalFast | JB7WKfYdm6n6z3JIDA2sfqsS4WCYmXXPNtF+4+dkQ9Q= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.169.0810.0001/OneDriveSetup.exe         |
+| 22.170.0811.0001 | AMD64        | InternalFast | zgPLFGnx46Ytm8vpyo3uFE7EB6lpNvMARI31gXphhHU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.170.0811.0001/amd64/OneDriveSetup.exe   |
+| 22.170.0811.0001 | x86          | InternalFast | 54+Tm+/PyHqPwvUHI3Qe39dQsUEZowjW7b+vOM8blJ0= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.170.0811.0001/OneDriveSetup.exe         |
 | 22.166.0807.0001 | AMD64        | InternalSlow | GiYXa54Uxga1Q55BZOmoOIaA5bGL9/ya9eh42ncVTOs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/amd64/OneDriveSetup.exe   |
 | 22.166.0807.0001 | x86          | InternalSlow | 3vQ19EgV4KgIkPjH84WmHInTz8pTwRStfMSIFkpKcUg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/OneDriveSetup.exe         |
 | 22.161.0731.0001 | AMD64        | Insider      | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/amd64/OneDriveSetup.exe   |
@@ -3398,14 +3398,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe      |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi      |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip      |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe    |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi    |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip    |
 
 ## VisualCppRedistAIO
 
