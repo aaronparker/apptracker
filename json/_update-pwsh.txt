@@ -1,0 +1,3 @@
+json/1Password.json
+json/Gimp.json
+json/VideoLanVlcPlayer.json
