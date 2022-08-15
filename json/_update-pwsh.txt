@@ -1,5 +1,0 @@
-json/Gimp.json
-json/Praat.json
-json/ScreenToGif.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
