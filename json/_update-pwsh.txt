@@ -1,7 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftWvdRemoteDesktop.json
-json/TechSmithCamtasia.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
