@@ -1,7 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OctopusDeployServer.json
-json/VideoLanVlcPlayer.json
