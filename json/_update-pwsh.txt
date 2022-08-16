@@ -1,3 +1,0 @@
-json/AmazonCorretto.json
-json/Gimp.json
-json/VideoLanVlcPlayer.json
