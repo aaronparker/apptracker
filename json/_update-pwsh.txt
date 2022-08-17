@@ -1,0 +1,6 @@
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/MicrosoftTeams.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
