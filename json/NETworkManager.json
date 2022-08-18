@@ -1,9 +1,9 @@
 {
-  "Version": "2022.2.22.0",
+  "Version": "2022.8.18.0",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
-  "Date": "02/22/2022",
-  "Size": 22279944,
-  "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2022.2.22.0/NETworkManager_2022.2.22.0_Setup.exe"
+  "Date": "08/17/2022",
+  "Size": 22009457,
+  "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2022.8.18.0/NETworkManager_2022.8.18.0_Setup.exe"
 }

@@ -1,0 +1,11 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/NETworkManager.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
