@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.8.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.8.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.cc.uoc.gr/mirrors/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -668,8 +668,8 @@
 
 | Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 106.0.5231.2   | x64          | dev     | 08/12/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 106.0.5231.2   | x86          | dev     | 08/12/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 106.0.5245.0   | x64          | dev     | 08/18/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 106.0.5245.0   | x86          | dev     | 08/18/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 105.0.5195.37  | x64          | beta    | 08/17/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 105.0.5195.37  | x86          | beta    | 08/17/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 104.0.5112.102 | x64          | stable  | 08/16/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1123,9 +1123,7 @@
 | 22.166.0807.0001 | AMD64        | InternalSlow | GiYXa54Uxga1Q55BZOmoOIaA5bGL9/ya9eh42ncVTOs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/amd64/OneDriveSetup.exe   |
 | 22.166.0807.0001 | x86          | Insider      | 3vQ19EgV4KgIkPjH84WmHInTz8pTwRStfMSIFkpKcUg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.166.0807.0001/OneDriveSetup.exe         |
 | 22.166.0807.0001 | x86          | InternalSlow | 3vQ19EgV4KgIkPjH84WmHInTz8pTwRStfMSIFkpKcUg= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.166.0807.0001/OneDriveSetup.exe         |
-| 22.161.0731.0001 | AMD64        | Insider      | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/amd64/OneDriveSetup.exe   |
 | 22.161.0731.0001 | AMD64        | Production   | iQpyWcF4hHHtbFc15C75cf1vkLQngPpPDFEy2ihtZXU= | exe  | https://oneclient.sfx.ms/Win/Prod/22.161.0731.0001/amd64/OneDriveSetup.exe       |
-| 22.161.0731.0001 | x86          | Insider      | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.161.0731.0001/OneDriveSetup.exe         |
 | 22.161.0731.0001 | x86          | Production   | WImm6AftmeFIE64TFrIBGEq7CQ3D4DDvDqJ+Ak/HRhM= | exe  | https://oneclient.sfx.ms/Win/Prod/22.161.0731.0001/OneDriveSetup.exe             |
 | 22.156.0724.0001 | AMD64        | Production   | wb8DfH442fvZASwz/pCngH26g7V1pizjJu1BiKOk4XA= | exe  | https://oneclient.sfx.ms/Win/Prod/22.156.0724.0001/amd64/OneDriveSetup.exe       |
 | 22.156.0724.0001 | x86          | Production   | I86RYT3MAtJ1Ag0+CmW9bDmzoXhHcDFV8csGyXbmytM= | exe  | https://oneclient.sfx.ms/Win/Prod/22.156.0724.0001/OneDriveSetup.exe             |
@@ -1258,15 +1256,15 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3401.0 | ARM64        | Dogfood | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3491.0 | ARM64        | Dogfood | Unknown    | EA3AD4570E52D478B73483D1EB3AE332 | RemoteDesktop_1.2.3491.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54uWv |
+| 1.2.3491.0 | x64          | Dogfood | 08/17/2022 | C22C4D6BC571833BAC8A4324ACB781D8 | RemoteDesktop_1.2.3491.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54Nf9 |
+| 1.2.3491.0 | x86          | Dogfood | Unknown    | CEA4D2DE53AC7EC657D784E82D810043 | RemoteDesktop_1.2.3491.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54Nfa |
 | 1.2.3401.0 | ARM64        | Insider | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
 | 1.2.3401.0 | ARM64        | Public  | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
-| 1.2.3401.0 | x64          | Dogfood | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x64          | Insider | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x64          | Public  | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
-| 1.2.3401.0 | x86          | Dogfood | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
-| 1.2.3401.0 | x86          | Insider | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
-| 1.2.3401.0 | x86          | Public  | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Insider | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Public  | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
 
 ## MicrosoftWvdRtcService
 
@@ -2862,10 +2860,10 @@
 
 [Link](https://www.opera.com/browsers/opera)
 
-| Version      | Architecture | Type | URI                                                                                           |
-| ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
-| 89.0.4447.91 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.91/win/Opera_89.0.4447.91_Setup_x64.exe |
-| 89.0.4447.91 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.91/win/Opera_89.0.4447.91_Setup.exe     |
+| Version       | Architecture | Type | URI                                                                                             |
+| ------------- | ------------ | ---- | ----------------------------------------------------------------------------------------------- |
+| 89.0.4447.101 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.101/win/Opera_89.0.4447.101_Setup_x64.exe |
+| 89.0.4447.101 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/89.0.4447.101/win/Opera_89.0.4447.101_Setup.exe     |
 
 ## OperaGXBrowser
 
@@ -2957,8 +2955,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------- |
-| 6.2.15  | Windows  | x64          | zip  | 08/14/2022 | 13147580 | https://github.com/praat/praat/releases/download/v6.2.15/praat6215_win64.zip |
-| 6.2.15  | Windows  | x86          | zip  | 08/14/2022 | 12990374 | https://github.com/praat/praat/releases/download/v6.2.15/praat6215_win32.zip |
+| 6.2.16  | Windows  | x64          | zip  | 08/18/2022 | 13149842 | https://github.com/praat/praat/releases/download/v6.2.16/praat6216_win64.zip |
+| 6.2.16  | Windows  | x86          | zip  | 08/18/2022 | 12988599 | https://github.com/praat/praat/releases/download/v6.2.16/praat6216_win32.zip |
 
 ## ProjectLibre
 
@@ -3404,14 +3402,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe           |
+| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi           |
+| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip           |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
