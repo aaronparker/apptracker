@@ -129,12 +129,12 @@
 
 [Link](https://adoptium.net/)
 
-| Version       | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                  |
-| ------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| jdk-11.0.16+8 | jdk  | x64          | 2889b216eefce687a6557aa3dfd1a8797cf108668583fc48054960b5650dab08 | 175529984 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16_8.msi    |
-| jdk-11.0.16+8 | jre  | x64          | a85c378bdc695800d041ba14dd0711677ff394772dea6b3cc03f67c91a823bab | 31932416  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jre_x64_windows_hotspot_11.0.16_8.msi    |
-| jdk-11.0.16+8 | jdk  | x86          | 4be1ce7515454e09a3891b9f6c02a799c062352329ee165f15a025275a7dabd9 | 157656064 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.16_8.msi |
-| jdk-11.0.16+8 | jre  | x86          | bd037623bb02fcb2423933d78ae466bf9c203cfd9a9dd577c8d8cd54eb5435cc | 28022784  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.16_8.msi |
+| Version         | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                      |
+| --------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| jdk-11.0.16.1+1 | jdk  | x64          | d528dbd30b066d9654e1c9a0ce54985ad6575efdf0de6bea32bb35589a9830e1 | 175532032 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16.1_1.msi    |
+| jdk-11.0.16.1+1 | jre  | x64          | 2e69a0b9b90fbf95dc28878dce5657be9aa7cfec5a475e696553d3f84c18b2c0 | 31949824  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jre_x64_windows_hotspot_11.0.16.1_1.msi    |
+| jdk-11.0.16.1+1 | jdk  | x86          | 6ef77937b226ad84297add5a70da463defdd88749255b1254e4aa1d6025aabe4 | 157659136 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.16.1_1.msi |
+| jdk-11.0.16.1+1 | jre  | x86          | b0d829bd3af9389c2a5defde1bbbae8cd139f742c93bedd60f7e090cf6f93492 | 28028928  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.16.1_1.msi |
 
 ## AdoptiumTemurin16
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.freedif.org/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -909,7 +909,7 @@
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 539     | 11/24/2020 14:44:35 | https://launch.getgo.com/builds/launcher/539/GoToOpenerMultiUser.msi |
 
 ## MasterPackager
 
@@ -1259,12 +1259,12 @@
 | 1.2.3491.0 | ARM64        | Dogfood | Unknown    | EA3AD4570E52D478B73483D1EB3AE332 | RemoteDesktop_1.2.3491.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54uWv |
 | 1.2.3491.0 | x64          | Dogfood | 08/17/2022 | C22C4D6BC571833BAC8A4324ACB781D8 | RemoteDesktop_1.2.3491.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54Nf9 |
 | 1.2.3491.0 | x86          | Dogfood | Unknown    | CEA4D2DE53AC7EC657D784E82D810043 | RemoteDesktop_1.2.3491.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54Nfa |
-| 1.2.3401.0 | ARM64        | Insider | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
-| 1.2.3401.0 | ARM64        | Public  | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Insider | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Public  | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
 | 1.2.3401.0 | x64          | Insider | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x64          | Public  | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
-| 1.2.3401.0 | x86          | Insider | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
-| 1.2.3401.0 | x86          | Public  | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Insider | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Public  | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
 
 ## MicrosoftWvdRtcService
 
@@ -3402,14 +3402,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                          |
-| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
 
 ## VisualCppRedistAIO
 
