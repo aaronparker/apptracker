@@ -1,0 +1,6 @@
+json/AdoptiumTemurin11.json
+json/Gimp.json
+json/LogMeInGoToOpener.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json

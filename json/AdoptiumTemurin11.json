@@ -1,34 +1,34 @@
 [
   {
-    "Version": "jdk-11.0.16+8",
+    "Version": "jdk-11.0.16.1+1",
     "Type": "jdk",
     "Architecture": "x64",
-    "Checksum": "2889b216eefce687a6557aa3dfd1a8797cf108668583fc48054960b5650dab08",
-    "Size": 175529984,
-    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16_8.msi"
+    "Checksum": "d528dbd30b066d9654e1c9a0ce54985ad6575efdf0de6bea32bb35589a9830e1",
+    "Size": 175532032,
+    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.16.1_1.msi"
   },
   {
-    "Version": "jdk-11.0.16+8",
+    "Version": "jdk-11.0.16.1+1",
     "Type": "jre",
     "Architecture": "x64",
-    "Checksum": "a85c378bdc695800d041ba14dd0711677ff394772dea6b3cc03f67c91a823bab",
-    "Size": 31932416,
-    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jre_x64_windows_hotspot_11.0.16_8.msi"
+    "Checksum": "2e69a0b9b90fbf95dc28878dce5657be9aa7cfec5a475e696553d3f84c18b2c0",
+    "Size": 31949824,
+    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jre_x64_windows_hotspot_11.0.16.1_1.msi"
   },
   {
-    "Version": "jdk-11.0.16+8",
+    "Version": "jdk-11.0.16.1+1",
     "Type": "jdk",
     "Architecture": "x86",
-    "Checksum": "4be1ce7515454e09a3891b9f6c02a799c062352329ee165f15a025275a7dabd9",
-    "Size": 157656064,
-    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.16_8.msi"
+    "Checksum": "6ef77937b226ad84297add5a70da463defdd88749255b1254e4aa1d6025aabe4",
+    "Size": 157659136,
+    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.16.1_1.msi"
   },
   {
-    "Version": "jdk-11.0.16+8",
+    "Version": "jdk-11.0.16.1+1",
     "Type": "jre",
     "Architecture": "x86",
-    "Checksum": "bd037623bb02fcb2423933d78ae466bf9c203cfd9a9dd577c8d8cd54eb5435cc",
-    "Size": 28022784,
-    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16%2B8/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.16_8.msi"
+    "Checksum": "b0d829bd3af9389c2a5defde1bbbae8cd139f742c93bedd60f7e090cf6f93492",
+    "Size": 28028928,
+    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.16.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.16.1_1.msi"
   }
 ]
