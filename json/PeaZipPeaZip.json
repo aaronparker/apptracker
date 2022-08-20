@@ -1,29 +1,29 @@
 [
   {
-    "Version": "8.7.0",
+    "Version": "8.8.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "06/25/2022",
-    "Size": 9557461,
-    "URI": "https://github.com/peazip/PeaZip/releases/download/8.7.0/peazip-8.7.0.WIN64.exe"
+    "Date": "08/20/2022",
+    "Size": 9591996,
+    "URI": "https://github.com/peazip/PeaZip/releases/download/8.8.0/peazip-8.8.0.WIN64.exe"
   },
   {
-    "Version": "8.7.0",
+    "Version": "8.8.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "06/25/2022",
-    "Size": 9760768,
-    "URI": "https://github.com/peazip/PeaZip/releases/download/8.7.0/peazip-8.7.0.WIN64.msi"
+    "Date": "08/20/2022",
+    "Size": 9793536,
+    "URI": "https://github.com/peazip/PeaZip/releases/download/8.8.0/peazip-8.8.0.WIN64.msi"
   },
   {
-    "Version": "8.7.0",
+    "Version": "8.8.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "06/25/2022",
-    "Size": 8808427,
-    "URI": "https://github.com/peazip/PeaZip/releases/download/8.7.0/peazip-8.7.0.WINDOWS.exe"
+    "Date": "08/20/2022",
+    "Size": 8835429,
+    "URI": "https://github.com/peazip/PeaZip/releases/download/8.8.0/peazip-8.8.0.WINDOWS.exe"
   }
 ]
