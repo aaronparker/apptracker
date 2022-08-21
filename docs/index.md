@@ -473,10 +473,10 @@
 
 [Link](https://dngrep.github.io/)
 
-| Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                |
-| -------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------- |
-| 3.0.84.0 | Windows  | x64          | msi  | 06/25/2022 | 6672384 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.84.0/dnGREP.3.0.84.x64.msi |
-| 3.0.84.0 | Windows  | x86          | msi  | 06/25/2022 | 6664192 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.84.0/dnGREP.3.0.84.x86.msi |
+| Version   | Platform | Architecture | Type | Date       | Size    | URI                                                                                  |
+| --------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------ |
+| 3.0.136.0 | Windows  | x64          | msi  | 08/20/2022 | 6742016 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.136.0/dnGREP.3.0.136.x64.msi |
+| 3.0.136.0 | Windows  | x86          | msi  | 08/20/2022 | 6733824 | https://github.com/dnGrep/dnGrep/releases/download/v3.0.136.0/dnGREP.3.0.136.x86.msi |
 
 ## DockerDesktop
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://gimp.cu.be/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -1257,8 +1257,8 @@
 | 1.2.3491.0 | ARM64        | Dogfood | Unknown    | EA3AD4570E52D478B73483D1EB3AE332 | RemoteDesktop_1.2.3491.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54uWv |
 | 1.2.3491.0 | x64          | Dogfood | 08/17/2022 | C22C4D6BC571833BAC8A4324ACB781D8 | RemoteDesktop_1.2.3491.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54Nf9 |
 | 1.2.3491.0 | x86          | Dogfood | Unknown    | CEA4D2DE53AC7EC657D784E82D810043 | RemoteDesktop_1.2.3491.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54Nfa |
-| 1.2.3401.0 | ARM64        | Insider | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
-| 1.2.3401.0 | ARM64        | Public  | Unknown    | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Insider | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
+| 1.2.3401.0 | ARM64        | Public  | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
 | 1.2.3401.0 | x64          | Insider | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x64          | Public  | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
 | 1.2.3401.0 | x86          | Insider | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
@@ -2896,8 +2896,8 @@
 
 | Version          | URI                                                                          |
 | ---------------- | ---------------------------------------------------------------------------- |
-| 4.311.8179.42221 | https://www.getpaint.net/updates/zip/paint.net.4.3.11.install.anycpu.web.zip |
-| 4.311.8179.42221 | https://www.dotpdn.com/files/paint.net.4.3.11.install.anycpu.web.zip         |
+| 4.312.8267.29064 | https://www.getpaint.net/updates/zip/paint.net.4.3.12.install.anycpu.web.zip |
+| 4.312.8267.29064 | https://www.dotpdn.com/files/paint.net.4.3.12.install.anycpu.web.zip         |
 
 ## PaintDotNetOfflineInstaller
 
@@ -2905,12 +2905,12 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 4.3.11  | Windows  | ARM64        | zip  | 11/18/2021 | 55401705 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.install.arm64.zip |
-| 4.3.11  | Windows  | ARM64        | zip  | 11/18/2021 | 65857811 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.winmsi.arm64.zip  |
-| 4.3.11  | Windows  | x64          | zip  | 11/18/2021 | 63973009 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.install.x64.zip   |
-| 4.3.11  | Windows  | x64          | zip  | 11/18/2021 | 74294070 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.winmsi.x64.zip    |
-| 4.3.11  | Windows  | x86          | zip  | 11/18/2021 | 57432917 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.install.x86.zip   |
-| 4.3.11  | Windows  | x86          | zip  | 11/18/2021 | 67536139 | https://github.com/paintdotnet/release/releases/download/v4.3.11/paint.net.4.3.11.winmsi.x86.zip    |
+| 4.3.12  | Windows  | ARM64        | zip  | 11/18/2021 | 55461803 | https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.install.arm64.zip |
+| 4.3.12  | Windows  | ARM64        | zip  | 11/18/2021 | 65913988 | https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.winmsi.arm64.zip  |
+| 4.3.12  | Windows  | x64          | zip  | 11/18/2021 | 64033833 | https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.install.x64.zip   |
+| 4.3.12  | Windows  | x64          | zip  | 11/18/2021 | 74368753 | https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.winmsi.x64.zip    |
+| 4.3.12  | Windows  | x86          | zip  | 11/18/2021 | 57534075 | https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.install.x86.zip   |
+| 4.3.12  | Windows  | x86          | zip  | 11/18/2021 | 67679114 | https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.winmsi.x86.zip    |
 
 ## Pandoc
 
@@ -3400,14 +3400,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe     |
+| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi     |
+| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip     |
 
 ## VisualCppRedistAIO
 
