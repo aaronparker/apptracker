@@ -4,41 +4,41 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "EXE",
-    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe"
+    "URI": "https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "MSI",
-    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi"
+    "URI": "https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "ZIP",
-    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip"
+    "URI": "https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "EXE",
-    "URI": "https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe"
+    "URI": "https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "MSI",
-    "URI": "https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi"
+    "URI": "https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi"
   },
   {
     "Version": "3.0.16",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "ZIP",
-    "URI": "https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip"
+    "URI": "https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip"
   }
 ]
