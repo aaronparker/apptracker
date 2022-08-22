@@ -1,7 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/JamTreeSizeFree.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
