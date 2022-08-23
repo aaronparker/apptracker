@@ -1,8 +1,0 @@
-json/1Password.json
-json/AdoptiumTemurin17.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
