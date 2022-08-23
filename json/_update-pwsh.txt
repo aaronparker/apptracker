@@ -1,4 +1,0 @@
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/Pandoc.json
-json/VideoLanVlcPlayer.json
