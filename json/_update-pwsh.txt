@@ -1,0 +1,6 @@
+json/1Password.json
+json/Gimp.json
+json/HashicorpBoundary.json
+json/MicrosoftOneDrive.json
+json/Praat.json
+json/RStudio.json
