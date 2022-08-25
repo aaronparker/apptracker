@@ -1,7 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/JetBrainsIntelliJIDEA.json
-json/JetBrainsPyCharm.json
-json/MicrosoftAzureDataStudio.json
-json/VideoLanVlcPlayer.json
-json/stealthpuppyWindowsCustomisedDefaults.json
