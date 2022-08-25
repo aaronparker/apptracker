@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.8.0   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.8.0   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.8.0.exe |
 
 ## 1Password7
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.jaleco.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.cc.uoc.gr/mirrors/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -832,21 +832,21 @@
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
-| -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2022.2.1 | 222.3739.54 | IntelliJ IDEA Community | 08/17/2022 | 628391664 | https://download.jetbrains.com/idea/ideaIC-2022.2.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.2.1.exe |
-| 2022.2.1 | 222.3739.54 | IntelliJ IDEA Ultimate  | 08/17/2022 | 737178936 | https://download.jetbrains.com/idea/ideaIU-2022.2.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.2.1.exe |
-| 2022.1.3 | 221.6008.17 | IntelliJ IDEA Edu       | 07/28/2022 | 687417128 | https://download.jetbrains.com/idea/ideaIE-2022.1.3.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.1.3.exe |
+| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
+| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| 2022.2.1 | 222.3739.54  | IntelliJ IDEA Community | 08/17/2022 | 628391664 | https://download.jetbrains.com/idea/ideaIC-2022.2.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.2.1.exe |
+| 2022.2.1 | 222.3739.54  | IntelliJ IDEA Ultimate  | 08/17/2022 | 737178936 | https://download.jetbrains.com/idea/ideaIU-2022.2.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.2.1.exe |
+| 2022.2   | 222.3345.148 | IntelliJ IDEA Edu       | 08/25/2022 | 692140048 | https://download.jetbrains.com/idea/ideaIE-2022.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIE-2022.2.exe   |
 
 ## JetBrainsPyCharm
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build       | Edition              | Date       | Size      | Sha256                                                                         | URI                                                                     |
-| -------- | ----------- | -------------------- | ---------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| 2022.2.1 | 222.3739.56 | PyCharm Community    | 08/17/2022 | 395586608 | https://download.jetbrains.com/python/pycharm-community-2022.2.1.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.2.1.exe    |
-| 2022.2.1 | 222.3739.56 | PyCharm Professional | 08/17/2022 | 493030488 | https://download.jetbrains.com/python/pycharm-professional-2022.2.1.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.2.1.exe |
-| 2022.1.3 | 221.6008.17 | PyCharm Edu          | 07/28/2022 | 394466856 | https://download.jetbrains.com/python/pycharm-edu-2022.1.3.exe.sha256          | https://download.jetbrains.com/python/pycharm-edu-2022.1.3.exe          |
+| Version  | Build        | Edition              | Date       | Size      | Sha256                                                                         | URI                                                                     |
+| -------- | ------------ | -------------------- | ---------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| 2022.2.1 | 222.3739.56  | PyCharm Community    | 08/17/2022 | 395586608 | https://download.jetbrains.com/python/pycharm-community-2022.2.1.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.2.1.exe    |
+| 2022.2.1 | 222.3739.56  | PyCharm Professional | 08/17/2022 | 493030488 | https://download.jetbrains.com/python/pycharm-professional-2022.2.1.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.2.1.exe |
+| 2022.2   | 222.3345.148 | PyCharm Edu          | 08/25/2022 | 393294128 | https://download.jetbrains.com/python/pycharm-edu-2022.2.exe.sha256            | https://download.jetbrains.com/python/pycharm-edu-2022.2.exe            |
 
 ## jq
 
@@ -1007,8 +1007,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | f2921268c2179b1ad9549543bd0b066315646087f52a82d24519c70f33dc4d49 | https://sqlopsbuilds.azureedge.net/insider/87e406cacaec045dc5591cd5c5e4ec89c6549ce3/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | 71540db6d832d176532b046295b08c48f145963c88e31a2841ca5253fd2a2a52 | https://sqlopsbuilds.azureedge.net/insider/87e406cacaec045dc5591cd5c5e4ec89c6549ce3/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | 8cd963e61dc799c4db42dfcc79bbbb071e4b8061a5bcdda30bbaaec1ebeed699 | https://sqlopsbuilds.azureedge.net/insider/f62b2d68a484098f973e5136c487ff3ce8974eeb/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 3c26042c2876178592e3d485fec953ec78efa03659f5ce6629c4208c003ec9fd | https://sqlopsbuilds.azureedge.net/insider/f62b2d68a484098f973e5136c487ff3ce8974eeb/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.0  | win32-x64      | Stable  | 7d5b6c7dc55946855372d5f96fc9f52516a35ada63b2e18b6264ca5d2b287dbd | https://sqlopsbuilds.azureedge.net/stable/9fdb2161d49b4d4ab6798809faa042a898ca2eae/azuredatastudio-windows-setup-1.39.0.exe               |
 | 1.39.0  | win32-x64-user | Stable  | e2903004893179289c6895839a8f2fc3e54cc0b99fe0c063208b4c4357c1542f | https://sqlopsbuilds.azureedge.net/stable/9fdb2161d49b4d4ab6798809faa042a898ca2eae/azuredatastudio-windows-user-setup-1.39.0.exe          |
 
@@ -3152,8 +3152,8 @@
 
 | Version     | Platform | Architecture | Type      | Date       | Size  | URI                                                                                                      |
 | ----------- | -------- | ------------ | --------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| 2208.24.108 | Windows  | x86          | intunewin | 08/24/2022 | 29045 | https://github.com/aaronparker/image-customise/releases/download/v2208.24.108/Install-Defaults.intunewin |
-| 2208.24.108 | Windows  | x86          | zip       | 08/24/2022 | 25820 | https://github.com/aaronparker/image-customise/releases/download/v2208.24.108/image-customise.zip        |
+| 2208.25.110 | Windows  | x86          | intunewin | 08/25/2022 | 29125 | https://github.com/aaronparker/image-customise/releases/download/v2208.25.110/Install-Defaults.intunewin |
+| 2208.25.110 | Windows  | x86          | zip       | 08/25/2022 | 25883 | https://github.com/aaronparker/image-customise/releases/download/v2208.25.110/image-customise.zip        |
 
 ## StefansToolsgregpWin
 
@@ -3402,14 +3402,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
