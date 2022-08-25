@@ -1,0 +1,11 @@
+json/1Password.json
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpTerraform.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/SignalDesktop.json
+json/Slack.json
+json/VideoLanVlcPlayer.json
