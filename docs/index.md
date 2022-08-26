@@ -160,12 +160,12 @@
 
 [Link](https://adoptium.net/)
 
-| Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
-| ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| jdk-18.0.2+9 | jdk  | x64          | b3f9fd4f94e9f117387de4ecbfaf0903a93e64c39683236acba583e75d41ba07 | 169661952 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2_9.msi    |
-| jdk-18.0.2+9 | jre  | x64          | 5a29dbdbdfff80c24a02aa6ee239f36a1891efc4c07e80ebb238d2f9b6cdb0a8 | 32083456  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi    |
-| jdk-18.0.2+9 | jdk  | x86          | bd8cb44c08b6d1df7372504e9461cff81463f54fee57e932ff3ee644d8f43419 | 166300160 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2_9.msi |
-| jdk-18.0.2+9 | jre  | x86          | f50ebcf0f0e5f89bfb37794f08832639a73df00c9d838888e76104ee2ab85938 | 29801472  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi |
+| Version        | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                    |
+| -------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| jdk-18.0.2.1+1 | jdk  | x64          | e766c2d6100e70786ff0bb154054dd64bb45ea14ffc995544bbced98eb1c8703 | 169668608 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2.1_1.msi    |
+| jdk-18.0.2.1+1 | jre  | x64          | 1e726c0ea2a8b25c2c75a8174df173dd54c98caa0235ef49d84a03292f152bfc | 32096256  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.msi    |
+| jdk-18.0.2.1+1 | jdk  | x86          | 42c8472b2806210ac021212ec6c2115476a0a0444d5910b35d077e854f1aed13 | 166297600 | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.msi |
+| jdk-18.0.2.1+1 | jre  | x86          | dfdd3b64d2d5ea56a9ba93c044b84e11e8a4a6d4b42f5dceb6ac904557e9df0e | 29788672  | https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.msi |
 
 ## AdoptiumTemurin8
 
@@ -619,9 +619,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ukfast.co.uk/sites/gimp.org/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ftp.lysator.liu.se/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -993,7 +993,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15619.20000 | BetaChannel       | Beta                                  | 08/23/2022 16:56:00 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15601.20064 | CurrentPreview    | Current Channel (Preview)             | 08/23/2022 17:01:01 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15601.20078 | CurrentPreview    | Current Channel (Preview)             | 08/26/2022 15:57:08 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15427.20210 | Current           | Current Channel                       | 08/09/2022 08:16:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15330.20306 | MonthlyEnterprise | Monthly Enterprise                    | 08/19/2022 00:15:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20660 | SemiAnnual        | Semi-Annual Channel                   | 08/09/2022 10:13:44 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -3039,18 +3039,18 @@
 | 1.4.1743           | dd96cf1193108c9cd46aa450e8948aa5df7c1ae065dc45219eac3870d05fb6bc | 227780990 | Juliet Rose       | Preview | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-1.4.1743.zip               |
 | 1.4.1743-4         | d54593e712749e85b1049653b46fee416b40ca045e78a7431bae576fdbbf4f68 | 161044432 | Juliet Rose       | Preview | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.exe         |
 | 1.4.1743-4         | 2d255f43b5d104062d69f30ba14b0fd2720cc79c2a7aea33a14f9fc90e45b4bd | 234551432 | Juliet Rose       | Preview | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.zip         |
-| 2022.02.4+498      | 8eec7f30a3586140ba6af0fa008d7ae037ba205ccc4481017163190cdd117264 | 177269464 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-498.exe          |
-| 2022.02.4+497.pro2 | 4eb0714dd784871014b8110dfdde3bcf00b35ace2bd8bbd54e1f67428f1fb158 | 181040760 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-497.pro2.exe |
-| 2022.02.4+498      | 1697063b09c1308c10bee9a7e341f99ced482baeac9a35f1931c18de56ad2651 | 245869690 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-498.zip          |
-| 2022.02.4+497.pro2 | 14de0a7d7269dc3d7049232d896af91d705d0383388cd2c09bc75f58efd49d9e | 250813139 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-497.pro2.zip |
-| 2022.02.4+498      | 8eec7f30a3586140ba6af0fa008d7ae037ba205ccc4481017163190cdd117264 | 177269464 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-498.exe          |
-| 2022.02.4+497.pro2 | 4eb0714dd784871014b8110dfdde3bcf00b35ace2bd8bbd54e1f67428f1fb158 | 181040760 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-497.pro2.exe |
-| 2022.02.4+498      | 1697063b09c1308c10bee9a7e341f99ced482baeac9a35f1931c18de56ad2651 | 245869690 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-498.zip          |
-| 2022.02.4+497.pro2 | 14de0a7d7269dc3d7049232d896af91d705d0383388cd2c09bc75f58efd49d9e | 250813139 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-497.pro2.zip |
-| 2022.02.4+498      | 8eec7f30a3586140ba6af0fa008d7ae037ba205ccc4481017163190cdd117264 | 177269464 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-498.exe          |
-| 2022.02.4+497.pro2 | 4eb0714dd784871014b8110dfdde3bcf00b35ace2bd8bbd54e1f67428f1fb158 | 181040760 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-497.pro2.exe |
-| 2022.02.4+498      | 1697063b09c1308c10bee9a7e341f99ced482baeac9a35f1931c18de56ad2651 | 245869690 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-498.zip          |
-| 2022.02.4+497.pro2 | 14de0a7d7269dc3d7049232d896af91d705d0383388cd2c09bc75f58efd49d9e | 250813139 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-497.pro2.zip |
+| 2022.02.4+499      | e8ed0d398a805433f6698c532a29a0d680ed670f985d81a2f1bb658eecfb5785 | 177270032 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-499.exe          |
+| 2022.02.4+498.pro1 | 4fb5865cb20c16d582b8f6fb5c2d598e208df6814bfc696254bdfca0c8cd2e1a | 181038696 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-498.pro1.exe |
+| 2022.02.4+499      | 45623febe1ffe6b30522863d9567cd769aa84769e6019f774642e191424ca45e | 245870243 | Ghost Orchid      | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-499.zip          |
+| 2022.02.4+498.pro1 | 213995f8ff2fe88d69ace62e606c53348c7866e9d9ca5593284aed946ea17230 | 250813578 | Ghost Orchid      | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-498.pro1.zip |
+| 2022.02.4+499      | e8ed0d398a805433f6698c532a29a0d680ed670f985d81a2f1bb658eecfb5785 | 177270032 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-499.exe          |
+| 2022.02.4+498.pro1 | 4fb5865cb20c16d582b8f6fb5c2d598e208df6814bfc696254bdfca0c8cd2e1a | 181038696 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-498.pro1.exe |
+| 2022.02.4+499      | 45623febe1ffe6b30522863d9567cd769aa84769e6019f774642e191424ca45e | 245870243 | Prairie Trillium  | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-499.zip          |
+| 2022.02.4+498.pro1 | 213995f8ff2fe88d69ace62e606c53348c7866e9d9ca5593284aed946ea17230 | 250813578 | Prairie Trillium  | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-498.pro1.zip |
+| 2022.02.4+499      | e8ed0d398a805433f6698c532a29a0d680ed670f985d81a2f1bb658eecfb5785 | 177270032 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-499.exe          |
+| 2022.02.4+498.pro1 | 4fb5865cb20c16d582b8f6fb5c2d598e208df6814bfc696254bdfca0c8cd2e1a | 181038696 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+                  | exe  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-498.pro1.exe |
+| 2022.02.4+499      | 45623febe1ffe6b30522863d9567cd769aa84769e6019f774642e191424ca45e | 245870243 | Spotted Wakerobin | Release | RStudio Desktop     | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-499.zip          |
+| 2022.02.4+498.pro1 | 213995f8ff2fe88d69ace62e606c53348c7866e9d9ca5593284aed946ea17230 | 250813578 | Spotted Wakerobin | Release | RStudio Desktop Pro | Windows 10+ (installer-less) | zip  | https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-498.pro1.zip |
 
 ## SafeExamBrowser
 
@@ -3260,8 +3260,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 4.3.0   | Windows  | x86          | exe  | 08/07/2022 | 115164248 | https://github.com/texstudio-org/texstudio/releases/download/4.3.0/texstudio-4.3.0-win-qt5.exe |
-| 4.3.0   | Windows  | x86          | exe  | 08/07/2022 | 128323139 | https://github.com/texstudio-org/texstudio/releases/download/4.3.0/texstudio-4.3.0-win-qt6.exe |
+| 4.3.1   | Windows  | x86          | exe  | 08/26/2022 | 115220210 | https://github.com/texstudio-org/texstudio/releases/download/4.3.1/texstudio-4.3.1-win-qt5.exe |
+| 4.3.1   | Windows  | x86          | exe  | 08/26/2022 | 128925667 | https://github.com/texstudio-org/texstudio/releases/download/4.3.1/texstudio-4.3.1-win-qt6.exe |
 
 ## TogglDesktop
 
@@ -3400,14 +3400,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe  |
-| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi  |
-| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip  |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
