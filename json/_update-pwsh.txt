@@ -1,7 +1,0 @@
-json/AdoptiumTemurin18.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/RStudio.json
-json/TeXstudio.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
