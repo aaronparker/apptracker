@@ -94,7 +94,7 @@ hide:
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Updates are posted every 6 hours. Last update: $(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id).
+Updates are posted every 8 hours. Last update: $(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id).
 
 A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
 "@
