@@ -1,8 +1,0 @@
-json/HashicorpVault.json
-json/MicrosoftOneDrive.json
-json/MicrosoftSsms.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OpenJDK.json
-json/TelerikFiddlerEverywhere.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
