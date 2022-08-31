@@ -1,0 +1,15 @@
+json/GitForWindows.json
+json/GoogleChrome.json
+json/HashicorpBoundary.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/SumatraPDFReader.json
+json/TableauDesktop.json
+json/TableauPrep.json
+json/TableauReader.json
+json/VideoLanVlcPlayer.json
