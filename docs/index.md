@@ -766,8 +766,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.11.2  | zip  | x64          | https://releases.hashicorp.com/vault/1.11.2/vault_1.11.2_windows_amd64.zip |
-| 1.11.2  | zip  | x86          | https://releases.hashicorp.com/vault/1.11.2/vault_1.11.2_windows_386.zip   |
+| 1.10.6  | zip  | x64          | https://releases.hashicorp.com/vault/1.10.6/vault_1.10.6_windows_amd64.zip |
+| 1.10.6  | zip  | x86          | https://releases.hashicorp.com/vault/1.10.6/vault_1.10.6_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -861,9 +861,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1119,7 +1119,9 @@
 | 22.182.0829.0001 | x86          | InternalFast | VKQkDDDqp53yFUnWrMRIBExO6tYCboMvs66C4A8lOIQ= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.182.0829.0001/OneDriveSetup.exe         |
 | 22.181.0828.0001 | AMD64        | InternalSlow | zhTvRPbgxgSVuUUhcqrsnc5+44Rcipzvy8bk9sBQzUY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.181.0828.0001/amd64/OneDriveSetup.exe   |
 | 22.181.0828.0001 | x86          | InternalSlow | pv50nVDE4dZG5EiOMcbWY4kAAyWO93Vi00rb9aW86zM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.181.0828.0001/OneDriveSetup.exe         |
+| 22.176.0821.0002 | AMD64        | Insider      | KHLIfWC0z6h6VsRjzShi2Q6SJeDJvydJT8O2DPvp2jQ= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.176.0821.0002/amd64/OneDriveSetup.exe   |
 | 22.176.0821.0002 | AMD64        | InternalSlow | KHLIfWC0z6h6VsRjzShi2Q6SJeDJvydJT8O2DPvp2jQ= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.176.0821.0002/amd64/OneDriveSetup.exe   |
+| 22.176.0821.0002 | x86          | Insider      | opIdAm/kWBEkfz9Y9IfJbwIkeOUBZ7SH4yY82yJujHk= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.176.0821.0002/OneDriveSetup.exe         |
 | 22.176.0821.0002 | x86          | InternalSlow | opIdAm/kWBEkfz9Y9IfJbwIkeOUBZ7SH4yY82yJujHk= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.176.0821.0002/OneDriveSetup.exe         |
 | 22.171.0814.0003 | AMD64        | Insider      | 3U8zX+2OS2AzNRrV92cTjS7nq45fpaUXKLqpAAioYmk= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.171.0814.0003/amd64/OneDriveSetup.exe   |
 | 22.171.0814.0003 | AMD64        | Production   | 3U8zX+2OS2AzNRrV92cTjS7nq45fpaUXKLqpAAioYmk= | exe  | https://oneclient.sfx.ms/Win/Prod/22.171.0814.0003/amd64/OneDriveSetup.exe       |
@@ -1127,8 +1129,6 @@
 | 22.171.0814.0003 | x86          | Production   | RmTW0crE24sTYA/KY0QLoZRJskbfejv0hqqpntzMfsg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.171.0814.0003/OneDriveSetup.exe             |
 | 22.166.0807.0002 | AMD64        | Production   | MCBL75PWkvvL90dbFU4/ZdOqzm+PAwr55BLz2ejZpZU= | exe  | https://oneclient.sfx.ms/Win/Prod/22.166.0807.0002/amd64/OneDriveSetup.exe       |
 | 22.166.0807.0002 | x86          | Production   | K0R2QAVy4q5yNdpiKzgKzaUmQ2eo/hwPsTr8T4cT6Zw= | exe  | https://oneclient.sfx.ms/Win/Prod/22.166.0807.0002/OneDriveSetup.exe             |
-| 22.161.0731.0002 | AMD64        | Production   | fUTugdIhovxZmXJIRnJxS/Fmsl8llWY9tFKdBb5TQu8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.161.0731.0002/amd64/OneDriveSetup.exe       |
-| 22.161.0731.0002 | x86          | Production   | Q9oyDLDWKCW7F23IiCWKt2iE6b44mq9RMrKV0hCYRaw= | exe  | https://oneclient.sfx.ms/Win/Prod/22.161.0731.0002/OneDriveSetup.exe             |
 | 22.077.0410.0007 | AMD64        | Enterprise   | JjoeTY78Krp49KXJEyjtE1O9WSuFmFoNKECtVwKGDW8= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/amd64/OneDriveSetup.exe |
 | 22.077.0410.0007 | x86          | Enterprise   | jjiooBnk6w0tEt20O1IWzT63jvuFUxpZgJDoJdpkDgg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/OneDriveSetup.exe       |
 
@@ -1170,6 +1170,7 @@
 | 15.0.18410.0 | 03/05/2022 | Korean                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-KOR.exe |
 | 15.0.18410.0 | 03/05/2022 | Portuguese (Brazil)   | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-PTB.exe |
 | 15.0.18410.0 | 03/05/2022 | Russian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-RUS.exe |
+| 15.0.18410.0 | 03/05/2022 | Spanish               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ESN.exe |
 
 ## MicrosoftTeams
 
@@ -1257,13 +1258,13 @@
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3495.0 | ARM64        | Dogfood | Unknown    | A3415D1FBE6F1E26D0D8A555CADA6EB8 | RemoteDesktop_1.2.3495.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQq |
 | 1.2.3495.0 | ARM64        | Insider | Unknown    | A3415D1FBE6F1E26D0D8A555CADA6EB8 | RemoteDesktop_1.2.3495.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQq |
-| 1.2.3495.0 | x64          | Dogfood | Unknown    | 42279698C398C0993B51F8132C5B15CB | RemoteDesktop_1.2.3495.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55Cbx |
+| 1.2.3495.0 | x64          | Dogfood | 08/30/2022 | 42279698C398C0993B51F8132C5B15CB | RemoteDesktop_1.2.3495.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55Cbx |
 | 1.2.3495.0 | x64          | Insider | 08/30/2022 | 42279698C398C0993B51F8132C5B15CB | RemoteDesktop_1.2.3495.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55Cbx |
 | 1.2.3495.0 | x86          | Dogfood | Unknown    | C9AF0064D062781CE978CA3359D888F2 | RemoteDesktop_1.2.3495.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQp |
 | 1.2.3495.0 | x86          | Insider | Unknown    | C9AF0064D062781CE978CA3359D888F2 | RemoteDesktop_1.2.3495.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQp |
 | 1.2.3401.0 | ARM64        | Public  | 07/18/2022 | 5DA8B12BB571AF895CAE50AA2F06BA22 | RemoteDesktop_1.2.3401.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51od9 |
 | 1.2.3401.0 | x64          | Public  | 07/18/2022 | 5222E1619BD531A3B91539188E5DA4DA | RemoteDesktop_1.2.3401.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy5 |
-| 1.2.3401.0 | x86          | Public  | Unknown    | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
+| 1.2.3401.0 | x86          | Public  | 07/18/2022 | C53624C830BEE00E5F685456F9BE8F7E | RemoteDesktop_1.2.3401.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51gy7 |
 
 ## MicrosoftWvdRtcService
 
@@ -2823,18 +2824,17 @@
 | 11.0.14.9-2         | Windows  | x64          | msi  | 02/14/2022 | 254092515 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-11.0.14.9-2.windows.ojdkbuild.x86_64.msi                |
 | 11.0.14.9-2         | Windows  | x64          | msi  | 02/14/2022 | 50831422  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-jre-11.0.14.9-2.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.322-1.b06     | Windows  | x64          | msi  | 01/29/2022 | 220295644 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86_64.msi  |
+| 11.0.12.7-1         | Windows  | x64          | msi  | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
 | 17.0.2.0.8-1        | Windows  | x64          | msi  | 01/28/2022 | 51790059  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.jre.win.x86_64.msi                        |
-| 17.0.2.0.8-1        | Windows  | x64          | msi  | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
+| 11.0.14.9-1         | Windows  | x64          | msi  | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
 | 11.0.14.9-1         | Windows  | x64          | msi  | 01/28/2022 | 50806846  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-jre-11.0.14.9-1.windows.ojdkbuild.x86_64.msi            |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | 11/07/2021 | 51765483  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi                      |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | 11/07/2021 | 257778624 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.win.x86_64.msi                          |
 | 11.0.13.8-1         | Windows  | x64          | msi  | 11/07/2021 | 253990292 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-11.0.13.8-1.windows.ojdkbuild.x86_64.msi                |
 | 11.0.13.8-1         | Windows  | x64          | msi  | 11/07/2021 | 50806850  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-jre-11.0.13.8-1.windows.ojdkbuild.x86_64.msi            |
-| 11.0.12.7-1         | Windows  | x64          | msi  | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
+| 1.8.0.312-1.b07     | Windows  | x64          | msi  | 11/07/2021 | 220279260 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86_64.msi  |
+| 17.0.2.0.8-1        | Windows  | x64          | msi  | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
 | 11.0.12.7-1         | Windows  | x64          | msi  | 07/24/2021 | 50815166  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-jre-11.0.12.7-1.windows.ojdkbuild.x86_64.msi            |
-| 11.0.14.9-1         | Windows  | x64          | msi  | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
-| 1.8.0.302-1.b08     | Windows  | x64          | msi  | 07/24/2021 | 219668956 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86_64.msi  |
-| 1.8.0.302-1.b08-x86 | Windows  | x86          | msi  | 07/24/2021 | 146079456 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08-x86/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86.msi |
 | 1.8.0.322-1.b06-x86 | Windows  | x86          | msi  | 01/29/2022 | 146566880 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06-x86/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86.msi |
 | 1.8.0.332-1.b09-x86 | Windows  | x86          | msi  | 04/30/2022 | 146435808 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09-x86/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86.msi |
 | 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
@@ -3246,7 +3246,7 @@
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
-| 3.4.0   | https://downloads.getfiddler.com/win/Fiddler%20Everywhere%203.4.0.exe |
+| 3.4.1   | https://downloads.getfiddler.com/win/Fiddler%20Everywhere%203.4.1.exe |
 
 ## Terminals
 
@@ -3402,14 +3402,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe  |
+| 3.0.16  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi  |
+| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip  |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
