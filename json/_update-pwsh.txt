@@ -1,0 +1,8 @@
+json/BitwardenDesktop.json
+json/Microsoft.NET.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OBSStudio.json
+json/PDFForgePDFCreator.json
+json/VMwareTools.json
+json/VideoLanVlcPlayer.json

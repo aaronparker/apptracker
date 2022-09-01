@@ -1,6 +1,8 @@
 {
-  "Version": "1.1.0",
-  "Architecture": "x86",
-  "Type": "exe",
-  "URI": "https://nchc.dl.sourceforge.net/project/pdfcreator/PDFCreator%20Web%20Setup/version%201.1.0/PDFCreatorWebSetup.exe"
+  "Version": "4.4.3",
+  "Date": "07/26/2022",
+  "Size": 40795760,
+  "MD5": "5e0edff7f36e76b8b053e60b9b728950",
+  "Filename": "PDFCreator-4_4_3-Setup.exe",
+  "URI": "https://download.pdfforge.org/download/pdfcreator/4.4.3/PDFCreator-4_4_3-Setup.exe?file=PDFCreator-4_4_3-Setup.exe&download"
 }
