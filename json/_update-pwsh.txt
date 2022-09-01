@@ -1,8 +1,0 @@
-json/1Password.json
-json/DockerDesktop.json
-json/GhislerTotalCommander.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OperaBrowser.json
-json/OperaGXBrowser.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
