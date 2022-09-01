@@ -1,0 +1,11 @@
+json/1Password.json
+json/Gimp.json
+json/HashicorpNomad.json
+json/HashicorpVault.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
