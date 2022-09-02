@@ -1,5 +1,0 @@
-json/CodelerityApacheNetBeans.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
