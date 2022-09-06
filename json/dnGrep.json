@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.0.136.0",
+    "Version": "3.0.154.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "08/20/2022",
-    "Size": 6742016,
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.0.136.0/dnGREP.3.0.136.x64.msi"
+    "Date": "09/05/2022",
+    "Size": 6770688,
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.0.154.0/dnGREP.3.0.154.x64.msi"
   },
   {
-    "Version": "3.0.136.0",
+    "Version": "3.0.154.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "08/20/2022",
-    "Size": 6733824,
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.0.136.0/dnGREP.3.0.136.x86.msi"
+    "Date": "09/05/2022",
+    "Size": 6762496,
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.0.154.0/dnGREP.3.0.154.x86.msi"
   }
 ]
