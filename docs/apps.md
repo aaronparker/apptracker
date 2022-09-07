@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# 204 Supported Applications
+# 206 Supported Applications
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -130,6 +130,7 @@ hide:
 | MiniZinc IDE                                                      | https://www.minizinc.org/                                                                  |
 | MirantisLens                                                      | https://k8slens.dev/                                                                       |
 | Mozilla Firefox                                                   | https://www.mozilla.org/en-US/firefox/new/                                                 |
+| Mozilla Gecko Driver                                              | https://developer.mozilla.org/en-US/docs/Web/WebDriver                                     |
 | Mozilla Thunderbird                                               | https://www.thunderbird.net/                                                               |
 | mRemoteNG                                                         | https://mremoteng.org/                                                                     |
 | MuseScore                                                         | https://musescore.org/                                                                     |
@@ -192,6 +193,7 @@ hide:
 | Toggl Desktop                                                     | https://www.toggl.com/                                                                     |
 | Tor Project Tor Browser                                           | https://www.torproject.org/                                                                |
 | Tower                                                             | https://www.git-tower.com/windows/                                                         |
+| Tracker Software PDF X-Change Editor                              | https://pdf-xchange.eu/pdf-xchange-editor/index.htm                                        |
 | USBPcap                                                           | https://github.com/desowin/usbpcap/                                                        |
 | vast limits uberAgent                                             | https://uberagent.com/                                                                     |
 | VeraCrypt                                                         | https://www.veracrypt.fr/en/Home.html                                                      |
