@@ -1,8 +1,0 @@
-json/1Password.json
-json/Microsoft365Apps.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftOneDrive.json
-json/MicrosoftPowerToys.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/VideoLanVlcPlayer.json
