@@ -1,20 +1,20 @@
 [
   {
-    "Version": "0.61.1",
+    "Version": "0.62.0",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "08/02/2022",
-    "Size": 86822344,
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.61.1/PowerToysSetup-0.61.1-arm64.exe"
+    "Date": "09/05/2022",
+    "Size": 123265864,
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.62.0/PowerToysSetup-0.62.0-arm64.exe"
   },
   {
-    "Version": "0.61.1",
+    "Version": "0.62.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "08/02/2022",
-    "Size": 91993992,
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.61.1/PowerToysSetup-0.61.1-x64.exe"
+    "Date": "09/05/2022",
+    "Size": 130698888,
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.62.0/PowerToysSetup-0.62.0-x64.exe"
   }
 ]
