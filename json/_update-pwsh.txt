@@ -1,0 +1,11 @@
+json/1Password.json
+json/GoogleChrome.json
+json/HashicorpTerraform.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftWvdRemoteDesktop.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
+json/Wireshark.json
+json/jrsoftwareInnoSetup.json
