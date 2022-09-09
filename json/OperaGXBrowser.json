@@ -1,14 +1,14 @@
 [
   {
-    "Version": "90.0.4480.86",
+    "Version": "90.0.4480.100",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_gx/90.0.4480.86/win/Opera_GX_90.0.4480.86_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_gx/90.0.4480.100/win/Opera_GX_90.0.4480.100_Setup_x64.exe"
   },
   {
-    "Version": "90.0.4480.86",
+    "Version": "90.0.4480.100",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_gx/90.0.4480.86/win/Opera_GX_90.0.4480.86_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_gx/90.0.4480.100/win/Opera_GX_90.0.4480.100_Setup.exe"
   }
 ]

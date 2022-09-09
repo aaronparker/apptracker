@@ -1,0 +1,8 @@
+json/AdobeAcrobat.json
+json/Fork.json
+json/Gimp.json
+json/KeePass.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
+json/diagrams.net.json
