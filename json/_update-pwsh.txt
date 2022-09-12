@@ -1,0 +1,8 @@
+json/BitwardenDesktop.json
+json/CitrixWorkspaceApp.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/OperaBrowser.json
+json/VideoLanVlcPlayer.json
