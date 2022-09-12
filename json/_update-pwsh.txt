@@ -1,0 +1,4 @@
+json/1Password.json
+json/Praat.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
