@@ -1,5 +1,0 @@
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VastLimitsUberAgent.json
-json/VideoLanVlcPlayer.json
