@@ -1,17 +1,17 @@
 [
   {
-    "Version": "4.0.408",
+    "Version": "4.0.409",
     "Channel": "beta",
-    "sha1": "CE65B048B680DD7E8B6A8C250AD4E09F0C76DE25",
+    "sha1": "6815DE80ADD811CE93577DC4C70B496AC055DA2C",
     "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/408-54176b08/Tower-4.0.408.exe"
+    "URI": "https://www.git-tower.com/apps/tower3-win/409-67553534/Tower-4.0.409.exe"
   },
   {
-    "Version": "4.0.408",
+    "Version": "4.0.409",
     "Channel": "beta",
-    "sha1": "DAB9C06356F9F9342094904CE5A86EF06A62002D",
+    "sha1": "04EEC6713A2B848F6A36C6EB6D7AB2DA08BA3AA6",
     "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/408-54176b08/Tower-4.0.408.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/409-67553534/Tower-4.0.409.msi"
   },
   {
     "Version": "3.4.405",
