@@ -618,9 +618,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -671,8 +671,8 @@
 | 107.0.5286.2   | x86          | dev     | 09/08/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 106.0.5249.30  | x64          | beta    | 09/07/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 106.0.5249.30  | x86          | beta    | 09/07/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 105.0.5195.102 | x64          | stable  | 09/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 105.0.5195.102 | x86          | stable  | 09/02/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 105.0.5195.127 | x64          | stable  | 09/13/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 105.0.5195.127 | x86          | stable  | 09/13/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
 ## Gpg4win
 
@@ -720,8 +720,8 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 0.10.3  | zip  | x64          | https://releases.hashicorp.com/boundary/0.10.3/boundary_0.10.3_windows_amd64.zip |
-| 0.10.3  | zip  | x86          | https://releases.hashicorp.com/boundary/0.10.3/boundary_0.10.3_windows_386.zip   |
+| 0.10.4  | zip  | x64          | https://releases.hashicorp.com/boundary/0.10.4/boundary_0.10.4_windows_amd64.zip |
+| 0.10.4  | zip  | x86          | https://releases.hashicorp.com/boundary/0.10.4/boundary_0.10.4_windows_386.zip   |
 
 ## HashicorpConsul
 
@@ -772,10 +772,10 @@
 
 [Link](https://www.waypointproject.io/)
 
-| Version | Type | Architecture | URI                                                                            |
-| ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
-| 0.9.1   | zip  | x64          | https://releases.hashicorp.com/waypoint/0.9.1/waypoint_0.9.1_windows_amd64.zip |
-| 0.9.1   | zip  | x86          | https://releases.hashicorp.com/waypoint/0.9.1/waypoint_0.9.1_windows_386.zip   |
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 0.10.0  | zip  | x64          | https://releases.hashicorp.com/waypoint/0.10.0/waypoint_0.10.0_windows_amd64.zip |
+| 0.10.0  | zip  | x86          | https://releases.hashicorp.com/waypoint/0.10.0/waypoint_0.10.0_windows_386.zip   |
 
 ## ImageGlass
 
@@ -934,7 +934,7 @@
 
 | Version          | Release | URI                                                                           |
 | ---------------- | ------- | ----------------------------------------------------------------------------- |
-| 7.21.22208.13001 | 7       | https://files.mcneel.com/dujour/exe/20220727/rhino_en-us_7.21.22208.13001.exe |
+| 7.22.22255.05001 | 7       | https://files.mcneel.com/dujour/exe/20220912/rhino_en-us_7.22.22255.05001.exe |
 | 6.35.21222.17001 | 6       | https://files.mcneel.com/dujour/exe/20210810/rhino_en-us_6.35.21222.17001.exe |
 
 ## MendeleyDesktop
@@ -960,15 +960,15 @@
 
 | Version | Architecture | Installer      | Channel | Type | URI                                                                                                                                                                       |
 | ------- | ------------ | -------------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.0.400 | ARM64        | sdk            | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/9008bb12-55cc-4103-8a4c-4352b4d83a6e/9245d6ec198c190169cf09a97a61f762/dotnet-sdk-6.0.400-win-arm64.exe            |
-| 6.0.400 | x64          | sdk            | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/9a1d2e89-d785-4493-aaf3-73864627a1ea/245bdfaa9c46b87acfb2afbd10ecb0d0/dotnet-sdk-6.0.400-win-x64.exe              |
-| 6.0.400 | x86          | sdk            | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/a0e80246-00b9-4677-a524-c343c1f2943c/5bd095f31e0dd114627276514a182ca7/dotnet-sdk-6.0.400-win-x86.exe              |
-| 6.0.8   | ARM64        | runtime        | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/cbef9889-7cf4-461b-aa60-5c5f309a551c/131274bd29f18e75642bb8b0e5425893/dotnet-runtime-6.0.8-win-arm64.exe          |
-| 6.0.8   | ARM64        | windowsdesktop | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/17737b16-dbb0-45f8-9684-16cce46f0835/14475e8380422840249513d58c70d8da/windowsdesktop-runtime-6.0.8-win-arm64.exe  |
-| 6.0.8   | x64          | runtime        | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/5af3de9d-1e5f-48ff-bfb7-f93c0957ffae/e8dd664b0439f4725f8c968e7aae7dd1/dotnet-runtime-6.0.8-win-x64.exe            |
-| 6.0.8   | x64          | windowsdesktop | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/b4a17a47-2fe8-498d-b817-30ad2e23f413/00020402af25ba40990c6cc3db5cb270/windowsdesktop-runtime-6.0.8-win-x64.exe    |
-| 6.0.8   | x86          | windowsdesktop | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/61747fc6-7236-4d5e-85e5-a5df5f480f3a/02203594bf1331f0875aa6491419ffa1/windowsdesktop-runtime-6.0.8-win-x86.exe    |
-| 6.0.8   | x86          | runtime        | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/db70cd1d-4f33-4dc4-8293-57bb362175c7/5c27048a0fc814e58bc196666a9b0c61/dotnet-runtime-6.0.8-win-x86.exe            |
+| 6.0.401 | ARM64        | sdk            | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/e38faaf6-0897-43bb-b41e-62ab6879219d/a1812a5a9c3d8a9aef7506a2c2997c4e/dotnet-sdk-6.0.401-win-arm64.exe            |
+| 6.0.401 | x64          | sdk            | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/cebf08ce-ecf1-4439-8a0a-d81b3a4cad12/674ba293b83bdc9b1e00ddfa3ab82f10/dotnet-sdk-6.0.401-win-x64.exe              |
+| 6.0.401 | x86          | sdk            | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/11e3a491-faf6-4fd2-8958-dad4583d8f92/87a93af277f13e506866a1dff37ad155/dotnet-sdk-6.0.401-win-x86.exe              |
+| 6.0.9   | ARM64        | runtime        | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/33f256c2-7e5b-463a-aade-48e32cf33cb1/ffd2b6be86c54ed6009411430622af85/dotnet-runtime-6.0.9-win-arm64.exe          |
+| 6.0.9   | ARM64        | windowsdesktop | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/e207429e-4cdc-43ed-868e-aeecbd1ae9d0/d32e40bb2385e7407ea235dc5541ef29/windowsdesktop-runtime-6.0.9-win-arm64.exe  |
+| 6.0.9   | x64          | runtime        | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/9dc77a6b-0276-4ad5-9bfa-d84b546686ef/f01bbcf2dc0e7f5dbd0a7d337fd4cd43/dotnet-runtime-6.0.9-win-x64.exe            |
+| 6.0.9   | x64          | windowsdesktop | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/fe8415d4-8a35-4af9-80a5-51306a96282d/05f9b2a1b4884238e69468e49b3a5453/windowsdesktop-runtime-6.0.9-win-x64.exe    |
+| 6.0.9   | x86          | windowsdesktop | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/925f9407-2767-4341-857a-43cdfad71e17/0b84db913bdbb1dcf02db937a3cd3f63/windowsdesktop-runtime-6.0.9-win-x86.exe    |
+| 6.0.9   | x86          | runtime        | LTS     | exe  | https://download.visualstudio.microsoft.com/download/pr/6020f3fc-5cf8-4e25-bc7f-dcf8744137ac/4cb5ced4e015e426fddc554b130c3052/dotnet-runtime-6.0.9-win-x86.exe            |
 | 5.0.408 | ARM64        | sdk            | Current | exe  | https://download.visualstudio.microsoft.com/download/pr/e321cfb2-03e9-445f-9302-b1e00c58ec33/fdcfd22a41bf72e3098045c326ce376a/dotnet-sdk-5.0.408-win-arm64.exe            |
 | 5.0.408 | x64          | sdk            | Current | exe  | https://download.visualstudio.microsoft.com/download/pr/14ccbee3-e812-4068-af47-1631444310d1/3b8da657b99d28f1ae754294c9a8f426/dotnet-sdk-5.0.408-win-x64.exe              |
 | 5.0.408 | x86          | sdk            | Current | exe  | https://download.visualstudio.microsoft.com/download/pr/d20a2521-d273-4ce3-b740-f9b2c363d110/e569a7b31d816d2f04baa81bf06a59ba/dotnet-sdk-5.0.408-win-x86.exe              |
@@ -978,12 +978,12 @@
 | 5.0.17  | x64          | windowsdesktop | Current | exe  | https://download.visualstudio.microsoft.com/download/pr/3aa4e942-42cd-4bf5-afe7-fc23bd9c69c5/64da54c8864e473c19a7d3de15790418/windowsdesktop-runtime-5.0.17-win-x64.exe   |
 | 5.0.17  | x86          | windowsdesktop | Current | exe  | https://download.visualstudio.microsoft.com/download/pr/b6fe5f2a-95f4-46f1-9824-f5994f10bc69/db5ec9b47ec877b5276f83a185fdb6a0/windowsdesktop-runtime-5.0.17-win-x86.exe   |
 | 5.0.17  | x86          | runtime        | Current | exe  | https://download.visualstudio.microsoft.com/download/pr/54683c13-6b04-4d7d-b4d4-1f055b50ea43/e99048e2840d57040e8312058853a5b9/dotnet-runtime-5.0.17-win-x86.exe           |
-| 3.1.422 | x64          | sdk            | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/6414fa6d-dc70-4e1a-ba00-c08bc18a1a2a/0223996d225593798019681f0a1e5946/dotnet-sdk-3.1.422-win-x64.exe              |
-| 3.1.422 | x86          | sdk            | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/19629d8e-df1c-4e84-862b-bb9e41672731/c8b1cf3ae7d9f2651068bc1cdb72c754/dotnet-sdk-3.1.422-win-x86.exe              |
-| 3.1.28  | x64          | windowsdesktop | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/5c74593e-f156-44c8-9957-f11996de72bc/d3e0e26c64a5a2d860c5c0deca975d78/windowsdesktop-runtime-3.1.28-win-x64.exe   |
-| 3.1.28  | x64          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/83149576-180d-49ab-be17-83110eb2379b/9dfe3f504f0bd38d2d8d4bd1c544f6ce/dotnet-runtime-3.1.28-win-x64.exe           |
-| 3.1.28  | x86          | windowsdesktop | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/d2ec7ca2-017d-4d06-a6da-3707daa3c3b1/1f2e108653e3d8316e1657105ef24b93/windowsdesktop-runtime-3.1.28-win-x86.exe   |
-| 3.1.28  | x86          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/31628805-a966-4391-8982-8c1434daf966/74ae6a781e7c7b1fbc28645791e988b1/dotnet-runtime-3.1.28-win-x86.exe           |
+| 3.1.423 | x64          | sdk            | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/c6eac4d8-45f2-442d-a43d-79b30249cef8/35ffdb7ea4dc51f11705732a3a1d1d4c/dotnet-sdk-3.1.423-win-x64.exe              |
+| 3.1.423 | x86          | sdk            | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/c6ea7fa7-8fb2-4430-84dd-a096476168ff/2d982333aaba7eb119c6cd51e7a9835a/dotnet-sdk-3.1.423-win-x86.exe              |
+| 3.1.29  | x64          | windowsdesktop | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/6a9318dd-fec5-4df3-84df-ffd917b382ea/d3391ca5a4e14a8a96e04bbfa5c4c2dc/windowsdesktop-runtime-3.1.29-win-x64.exe   |
+| 3.1.29  | x64          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/6fd5d472-74ea-43f2-8d85-bf942b9faa2d/5f7e7161389843833675b884c20d4157/dotnet-runtime-3.1.29-win-x64.exe           |
+| 3.1.29  | x86          | windowsdesktop | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/b5a2058e-d1a7-48f6-a615-353973a1f960/9a2efe2b3d299f1e276106da8cea1c1d/windowsdesktop-runtime-3.1.29-win-x86.exe   |
+| 3.1.29  | x86          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/bb2ff940-1763-457b-9b65-aef6b9226727/f48a275a098e530d1cd38d3cc7026840/dotnet-runtime-3.1.29-win-x86.exe           |
 
 ## Microsoft365Apps
 
@@ -991,8 +991,8 @@
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
+| 16.0.15709.20000 | BetaChannel       | Beta                                  | 09/13/2022 21:27:49 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15629.20070 | CurrentPreview    | Current Channel (Preview)             | 09/12/2022 17:58:33 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15629.20058 | BetaChannel       | Beta                                  | 09/06/2022 17:01:41 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20148 | Current           | Current Channel                       | 09/13/2022 07:46:55 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20148 | SemiAnnualPreview | Semi-Annual Channel Preview           | 09/13/2022 08:02:29 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15427.20284 | MonthlyEnterprise | Monthly Enterprise                    | 09/13/2022 07:56:01 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1034,9 +1034,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------- |
-| 0.10.13 | Windows  | ARM64        | exe  | 09/08/2022 | 42282384 | https://github.com/Azure/bicep/releases/download/v0.10.13/bicep-win-arm64.exe     |
-| 0.10.13 | Windows  | x64          | exe  | 09/08/2022 | 19308984 | https://github.com/Azure/bicep/releases/download/v0.10.13/bicep-setup-win-x64.exe |
-| 0.10.13 | Windows  | x64          | exe  | 09/08/2022 | 41830864 | https://github.com/Azure/bicep/releases/download/v0.10.13/bicep-win-x64.exe       |
+| 0.10.61 | Windows  | ARM64        | exe  | 09/13/2022 | 42289560 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-win-arm64.exe     |
+| 0.10.61 | Windows  | x64          | exe  | 09/13/2022 | 19306256 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-setup-win-x64.exe |
+| 0.10.61 | Windows  | x64          | exe  | 09/13/2022 | 41838032 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-win-x64.exe       |
 
 ## MicrosoftBotFrameworkEmulator
 
@@ -1052,13 +1052,13 @@
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 107.0.1375.0  | Any      | Policy     | Enterprise | any          | 06DFAC6664C69F6E441E6C8C42B4F44C4C4DF3D7EFCBE2DDD9ACB2C14AA6D6B9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c53c657-1c5b-4f5b-9c1e-6410b256a880/MicrosoftEdgePolicyTemplates.cab            |
-| 107.0.1375.0  | Windows  | Dev        | Consumer   | arm64        | 76DC3DBEC2C9A8CF58CE40C492802AA39AE37819E63DE7458CCEE7B5B403EC95 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee928daa-e545-4f93-893f-3236d648f466/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 107.0.1375.0  | Windows  | Dev        | Enterprise | arm64        | 76DC3DBEC2C9A8CF58CE40C492802AA39AE37819E63DE7458CCEE7B5B403EC95 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee928daa-e545-4f93-893f-3236d648f466/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 107.0.1375.0  | Windows  | Dev        | Consumer   | x64          | F37133410EB70BEA845AD6E39775169276F059F705DCD58E50C26B22F6416B86 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cd7b18b6-b076-4c6c-a23e-b6ff0f016297/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 107.0.1375.0  | Windows  | Dev        | Enterprise | x64          | F37133410EB70BEA845AD6E39775169276F059F705DCD58E50C26B22F6416B86 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cd7b18b6-b076-4c6c-a23e-b6ff0f016297/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 107.0.1375.0  | Windows  | Dev        | Consumer   | x86          | 60DCDAF1529CE3C0F47395611DE13D2D9F7E5332F6B6428B99BCDBF073EAC1EC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d640f754-15cb-4e53-951a-14fb21d81fe7/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 107.0.1375.0  | Windows  | Dev        | Enterprise | x86          | 60DCDAF1529CE3C0F47395611DE13D2D9F7E5332F6B6428B99BCDBF073EAC1EC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d640f754-15cb-4e53-951a-14fb21d81fe7/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 107.0.1379.1  | Any      | Policy     | Enterprise | any          | B80BB8A29C64F60CEA8D7500773AE3EA0A643D1DD13C711254F38246F1D966D3 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a3ddefe4-0922-4f43-9ee5-782f98f1e975/MicrosoftEdgePolicyTemplates.cab            |
+| 107.0.1379.1  | Windows  | Dev        | Consumer   | arm64        | 21660F21D5276A4F8D4E408F11E6A57EE2DCF2BDAC297A2AC77FD6863151283B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/52cfb736-2a12-4033-ba63-da255ba3fdfe/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 107.0.1379.1  | Windows  | Dev        | Enterprise | arm64        | 21660F21D5276A4F8D4E408F11E6A57EE2DCF2BDAC297A2AC77FD6863151283B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/52cfb736-2a12-4033-ba63-da255ba3fdfe/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 107.0.1379.1  | Windows  | Dev        | Consumer   | x64          | 2E07D9334A40C5543CE2037EB68BABBFE1E7D718B1EC462801470D1951C3117E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6c00156-a788-41be-b744-919ecb154056/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 107.0.1379.1  | Windows  | Dev        | Enterprise | x64          | 2E07D9334A40C5543CE2037EB68BABBFE1E7D718B1EC462801470D1951C3117E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6c00156-a788-41be-b744-919ecb154056/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 107.0.1379.1  | Windows  | Dev        | Consumer   | x86          | AC4A85700DF60BE3690DEACB410CEA0A5DB409BDDBA1521826C11BDF89A585DB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3bf9055-124c-44a2-803d-d4dc2f5ef2da/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 107.0.1379.1  | Windows  | Dev        | Enterprise | x86          | AC4A85700DF60BE3690DEACB410CEA0A5DB409BDDBA1521826C11BDF89A585DB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3bf9055-124c-44a2-803d-d4dc2f5ef2da/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 105.0.1343.34 | Windows  | Beta       | Consumer   | arm64        | A0C90B70852144F62FA6394AE2FF76ABB4AFF2714479023644132399E44A382C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/57150d71-c86b-4df0-b2c2-09bacade955e/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 105.0.1343.34 | Windows  | Beta       | Enterprise | arm64        | A0C90B70852144F62FA6394AE2FF76ABB4AFF2714479023644132399E44A382C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/57150d71-c86b-4df0-b2c2-09bacade955e/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 105.0.1343.34 | Windows  | Beta       | Consumer   | x64          | F15598B1A1B11C62E7948FEA93CD2C1114654061E4E391A4CEA7AD1B706FEF07 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5641f79-4adb-4422-85f3-0b6b6236724b/MicrosoftEdgeBetaEnterpriseX64.msi          |
@@ -1080,9 +1080,9 @@
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
-| 107.0.1375.0  | Dev     | ARM64        | https://msedgedriver.azureedge.net/107.0.1375.0/edgedriver_arm64.zip  |
-| 107.0.1375.0  | Dev     | x64          | https://msedgedriver.azureedge.net/107.0.1375.0/edgedriver_win64.zip  |
-| 107.0.1375.0  | Dev     | x86          | https://msedgedriver.azureedge.net/107.0.1375.0/edgedriver_win32.zip  |
+| 107.0.1379.1  | Dev     | ARM64        | https://msedgedriver.azureedge.net/107.0.1379.1/edgedriver_arm64.zip  |
+| 107.0.1379.1  | Dev     | x64          | https://msedgedriver.azureedge.net/107.0.1379.1/edgedriver_win64.zip  |
+| 107.0.1379.1  | Dev     | x86          | https://msedgedriver.azureedge.net/107.0.1379.1/edgedriver_win32.zip  |
 | 105.0.1343.34 | Beta    | ARM64        | https://msedgedriver.azureedge.net/105.0.1343.34/edgedriver_arm64.zip |
 | 105.0.1343.34 | Beta    | x64          | https://msedgedriver.azureedge.net/105.0.1343.34/edgedriver_win64.zip |
 | 105.0.1343.34 | Beta    | x86          | https://msedgedriver.azureedge.net/105.0.1343.34/edgedriver_win32.zip |
@@ -1114,8 +1114,10 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.191.0911.0001 | AMD64        | InternalFast | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.191.0911.0001/amd64/OneDriveSetup.exe   |
-| 22.191.0911.0001 | x86          | InternalFast | Sg/+XGNWew2a0zHlWEmSQa6Yo8z7ZJAlo3d+ABt05Vs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.191.0911.0001/OneDriveSetup.exe         |
+| 22.192.0912.0001 | AMD64        | InternalFast | ghDWJBwLKVinaKTjrK+N0k4CPDtizxxsdys+UqKK9EY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.192.0912.0001/amd64/OneDriveSetup.exe   |
+| 22.192.0912.0001 | x86          | InternalFast | x9qkTp7qLSqQEKVAY5iJLC07P76duPiBemnekSve68M= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.192.0912.0001/OneDriveSetup.exe         |
+| 22.191.0911.0001 | AMD64        | InternalSlow | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.191.0911.0001/amd64/OneDriveSetup.exe   |
+| 22.191.0911.0001 | x86          | InternalSlow | Sg/+XGNWew2a0zHlWEmSQa6Yo8z7ZJAlo3d+ABt05Vs= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.191.0911.0001/OneDriveSetup.exe         |
 | 22.186.0904.0001 | AMD64        | Insider      | spMFhg3gLDT+Cnsz1cVbQNZ01VQm5Ypj5PjgNS3wy9Y= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.186.0904.0001/amd64/OneDriveSetup.exe   |
 | 22.186.0904.0001 | AMD64        | InternalSlow | spMFhg3gLDT+Cnsz1cVbQNZ01VQm5Ypj5PjgNS3wy9Y= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.186.0904.0001/amd64/OneDriveSetup.exe   |
 | 22.186.0904.0001 | x86          | Insider      | 6vd+kCto1XeUG2ExqHyJw/VNMw7nNmB7YqOa12CfcZg= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.186.0904.0001/OneDriveSetup.exe         |
@@ -1230,9 +1232,9 @@
 
 [Link](https://visualstudio.microsoft.com/)
 
-| Version         | Sha256                                                           | Size    | URI                                                                                                                                                                        |
-| --------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 16.11.32802.440 | 839860805a1c886989eda8da2bcf4698c6488eb5747c7c3dc3ca4b4a37d0d592 | 1484384 | https://download.visualstudio.microsoft.com/download/pr/e33403d5-ac1e-4600-b624-d59ccd7b9a13/839860805a1c886989eda8da2bcf4698c6488eb5747c7c3dc3ca4b4a37d0d592/vs_Setup.exe |
+| Version        | Sha256                                                           | Size    | URI                                                                                                                                                                        |
+| -------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16.11.32901.82 | 4060e103345a40fda21f833a0b312055be902e920c88786864a50b88b2086fe8 | 1485448 | https://download.visualstudio.microsoft.com/download/pr/6d7709aa-465b-4604-b797-3f9c1d911e67/4060e103345a40fda21f833a0b312055be902e920c88786864a50b88b2086fe8/vs_Setup.exe |
 
 ## MicrosoftVisualStudioCode
 
@@ -1240,18 +1242,18 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.72.0  | win32-arm64      | Insider | ARM64        | b71e96b37c1dd87e3d8c9eda20e59cad07447a8e25d95364c8c621616e7a12a4 | https://az764295.vo.msecnd.net/insider/1a55beb2aaee64eb8d0cbe5b61b10088bbc6c895/VSCodeSetup-arm64-1.72.0-insider.exe     |
-| 1.72.0  | win32-arm64-user | Insider | ARM64        | d0c705dca7da14978ea08a44cab64b0a08d5f43609e089b1324b63c1a9a268f5 | https://az764295.vo.msecnd.net/insider/1a55beb2aaee64eb8d0cbe5b61b10088bbc6c895/VSCodeUserSetup-arm64-1.72.0-insider.exe |
-| 1.72.0  | win32-x64        | Insider | x64          | 2a29e74fba7ad589bad11b70b8bb5382a5297464cee1b2fa90d07c7377e20c72 | https://az764295.vo.msecnd.net/insider/1a55beb2aaee64eb8d0cbe5b61b10088bbc6c895/VSCodeSetup-x64-1.72.0-insider.exe       |
-| 1.72.0  | win32-x64-user   | Insider | x64          | fa8b43b2cbfea53825c12d043ec139152605c82da327b49fdab70421e60dd932 | https://az764295.vo.msecnd.net/insider/1a55beb2aaee64eb8d0cbe5b61b10088bbc6c895/VSCodeUserSetup-x64-1.72.0-insider.exe   |
-| 1.72.0  | win32            | Insider | x86          | 40e537fccd8a1274bc7933220bf538a9a4a8db0ba21b9a06f8611905897e3d39 | https://az764295.vo.msecnd.net/insider/1a55beb2aaee64eb8d0cbe5b61b10088bbc6c895/VSCodeSetup-ia32-1.72.0-insider.exe      |
-| 1.72.0  | win32-user       | Insider | x86          | b3ea7a15cf77a619f6a2dffd2c9c30d8ffbbc9cda6f78439bc3fb88b08d5c3a7 | https://az764295.vo.msecnd.net/insider/1a55beb2aaee64eb8d0cbe5b61b10088bbc6c895/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
-| 1.71.0  | win32-arm64      | Stable  | ARM64        | 288bdf955f9b916fadb6b89e987b67d2e5688f178419c3dd12532c673274d3a7 | https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeSetup-arm64-1.71.0.exe              |
-| 1.71.0  | win32-arm64-user | Stable  | ARM64        | ac92fe50101bdc7235c73aeb3e0166109386d0dfb9588da7c994c4ffb5c9f5a7 | https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeUserSetup-arm64-1.71.0.exe          |
-| 1.71.0  | win32-x64        | Stable  | x64          | fa573edf879ba238ee8d1c007f6eeef2e2f7270c67a839699624082c88e33d7f | https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeSetup-x64-1.71.0.exe                |
-| 1.71.0  | win32-x64-user   | Stable  | x64          | 65336b81d7fb6d17132ca7e4f205c413d457014c82abdfd466c5366d7d84ba5b | https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeUserSetup-x64-1.71.0.exe            |
-| 1.71.0  | win32            | Stable  | x86          | 5a0a0b053bf099507bb50c2c9fa7a8133c0286969cf94811853a3e8d01de00ad | https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeSetup-ia32-1.71.0.exe               |
-| 1.71.0  | win32-user       | Stable  | x86          | f362168a7d7c8f44f5d228998d4aec97ea2efa07cc80dcac5e2530bcd83fdcc3 | https://az764295.vo.msecnd.net/stable/784b0177c56c607789f9638da7b6bf3230d47a8c/VSCodeUserSetup-ia32-1.71.0.exe           |
+| 1.72.0  | win32-arm64      | Insider | ARM64        | fbbc669c837f2faccaf0e1aaa395ee3898f6e005cf7772e61f714c9de9076469 | https://az764295.vo.msecnd.net/insider/17c77dd9bc6af406be11e45e11627b72fba507e7/VSCodeSetup-arm64-1.72.0-insider.exe     |
+| 1.72.0  | win32-arm64-user | Insider | ARM64        | 194ea9a0e58af38bff376e7d5456af687ff77d50d62aa8452b880d89a4601283 | https://az764295.vo.msecnd.net/insider/17c77dd9bc6af406be11e45e11627b72fba507e7/VSCodeUserSetup-arm64-1.72.0-insider.exe |
+| 1.72.0  | win32-x64        | Insider | x64          | 6486978a58c7ce827c30cf61a005d2cb116ff778346813edffb3bc52d88b23b4 | https://az764295.vo.msecnd.net/insider/17c77dd9bc6af406be11e45e11627b72fba507e7/VSCodeSetup-x64-1.72.0-insider.exe       |
+| 1.72.0  | win32-x64-user   | Insider | x64          | 327d8656f59062b1dcda07a96ef734fda3444c84f0f19a6a03e41b7ee1a5a8d8 | https://az764295.vo.msecnd.net/insider/17c77dd9bc6af406be11e45e11627b72fba507e7/VSCodeUserSetup-x64-1.72.0-insider.exe   |
+| 1.72.0  | win32            | Insider | x86          | 34a725879ba38e614cec64087a37eec7a019c88aab1b4daf0627acb0ea81980b | https://az764295.vo.msecnd.net/insider/17c77dd9bc6af406be11e45e11627b72fba507e7/VSCodeSetup-ia32-1.72.0-insider.exe      |
+| 1.72.0  | win32-user       | Insider | x86          | 6a56201e4b08f9278c1bd286ff6586b3803affb2fed9d6be925f291f8777109a | https://az764295.vo.msecnd.net/insider/17c77dd9bc6af406be11e45e11627b72fba507e7/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
+| 1.71.1  | win32-arm64      | Stable  | ARM64        | 0e11d07fa68d3b20a787f30dcb6667a097f8c07a4c617c6e3cab39f8bbc51ee1 | https://az764295.vo.msecnd.net/stable/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/VSCodeSetup-arm64-1.71.1.exe              |
+| 1.71.1  | win32-arm64-user | Stable  | ARM64        | fb8805abaf0de3bfd1d0b3738d8f46edf7d1544043d4a1721a6b7ec372604355 | https://az764295.vo.msecnd.net/stable/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/VSCodeUserSetup-arm64-1.71.1.exe          |
+| 1.71.1  | win32-x64        | Stable  | x64          | 4bd59cd974cdd5f06fb6474f57e3b036265a79b4f080d789a87d82d6a7bcb924 | https://az764295.vo.msecnd.net/stable/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/VSCodeSetup-x64-1.71.1.exe                |
+| 1.71.1  | win32-x64-user   | Stable  | x64          | 891f00900d04e76763b9ca7ed4d0efc9d341822e95a6d4b5896a65329d95a799 | https://az764295.vo.msecnd.net/stable/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/VSCodeUserSetup-x64-1.71.1.exe            |
+| 1.71.1  | win32            | Stable  | x86          | 3894ed688692e0cd05ae87d9c1f014fcc80208db2b814c55e492eae8b29714c4 | https://az764295.vo.msecnd.net/stable/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/VSCodeSetup-ia32-1.71.1.exe               |
+| 1.71.1  | win32-user       | Stable  | x86          | 0234a57fd1d394d608e6ca2b3ba8a046905eca9e7016494a317df5d6d7e9b685 | https://az764295.vo.msecnd.net/stable/e7f30e38c5a4efafeec8ad52861eb772a9ee4dfb/VSCodeUserSetup-ia32-1.71.1.exe           |
 
 ## MicrosoftWindowsPackageManagerClient
 
@@ -1291,15 +1293,15 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3572.0 | ARM64        | Dogfood | Unknown    | 92DC2DF589A9A7F1ED4EAB8B5572C32E | RemoteDesktop_1.2.3572.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55JS6 |
+| 1.2.3572.0 | x64          | Dogfood | 09/13/2022 | 22893D400126666058D17E67CBE12F5C | RemoteDesktop_1.2.3572.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JF |
+| 1.2.3572.0 | x86          | Dogfood | Unknown    | 95DE194B5682650B80143A4A28F1A423 | RemoteDesktop_1.2.3572.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JG |
+| 1.2.3497.0 | ARM64        | Insider | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
+| 1.2.3497.0 | x64          | Insider | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
+| 1.2.3497.0 | x86          | Insider | Unknown    | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
 | 1.2.3496.0 | ARM64        | Public  | 09/08/2022 | 05749F5E0C9612A2AD534AA7FD7F7C11 | RemoteDesktop_1.2.3496.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55C52 |
 | 1.2.3496.0 | x64          | Public  | 09/08/2022 | A1D5C446F6C1DDD8343F8CC229B9CE59 | RemoteDesktop_1.2.3496.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55C53 |
 | 1.2.3496.0 | x86          | Public  | 09/08/2022 | 4C207F14ED791D44A75622D4FDA77421 | RemoteDesktop_1.2.3496.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55C54 |
-| 1.2.3495.0 | ARM64        | Dogfood | Unknown    | A3415D1FBE6F1E26D0D8A555CADA6EB8 | RemoteDesktop_1.2.3495.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQq |
-| 1.2.3495.0 | ARM64        | Insider | Unknown    | A3415D1FBE6F1E26D0D8A555CADA6EB8 | RemoteDesktop_1.2.3495.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQq |
-| 1.2.3495.0 | x64          | Dogfood | 08/30/2022 | 42279698C398C0993B51F8132C5B15CB | RemoteDesktop_1.2.3495.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55Cbx |
-| 1.2.3495.0 | x64          | Insider | 08/30/2022 | 42279698C398C0993B51F8132C5B15CB | RemoteDesktop_1.2.3495.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55Cbx |
-| 1.2.3495.0 | x86          | Dogfood | Unknown    | C9AF0064D062781CE978CA3359D888F2 | RemoteDesktop_1.2.3495.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQp |
-| 1.2.3495.0 | x86          | Insider | Unknown    | C9AF0064D062781CE978CA3359D888F2 | RemoteDesktop_1.2.3495.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE55EQp |
 
 ## MicrosoftWvdRtcService
 
@@ -1345,7 +1347,7 @@
 
 | Version                 | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                          |
 | ----------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 6.0.2-latest.20220908.1 | x64          | Alpha   | 09/08/2022 18:35:37 | 330612616 | FXIrDO6qA/iWbGFiJPHMpIN1FgShDyHY04iluHdIJiHuLsE2PjTiUmWA26vKGlHigt6ev5Olo9gz4IPEg/2I5A== | https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.2-latest.20220908.1.exe |
+| 2022.9.131508-alpha     | x64          | Alpha   | 09/13/2022 15:51:03 | 332574616 | 0l4LP0gj6zagdNMkWN5shienyc0vI83tx8BRU22097KZqHzWlsiDcz0Jq8UGnco2G3TNPMkTP5XQfBM6L/3TsA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.131508-alpha.exe     |
 | 6.0.2-latest.20220908.1 | x64          | Stable  | 09/08/2022 18:35:37 | 330612616 | FXIrDO6qA/iWbGFiJPHMpIN1FgShDyHY04iluHdIJiHuLsE2PjTiUmWA26vKGlHigt6ev5Olo9gz4IPEg/2I5A== | https://downloads.k8slens.dev/ide/Lens%20Setup%206.0.2-latest.20220908.1.exe |
 
 ## MozillaFirefox
@@ -3456,14 +3458,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe     |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi     |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip     |
-| 3.0.16  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                   |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
