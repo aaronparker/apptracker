@@ -7518,15 +7518,6 @@
     "Version": "91.13.0",
     "Architecture": "x64",
     "Channel": "FIREFOX_ESR",
-    "Language": "ka",
-    "Type": "msi",
-    "Filename": "Firefox Setup 91.13.0esr.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.13.0esr/win64/ka/Firefox%20Setup%2091.13.0esr.msi"
-  },
-  {
-    "Version": "91.13.0",
-    "Architecture": "x64",
-    "Channel": "FIREFOX_ESR",
     "Language": "kab",
     "Type": "exe",
     "Filename": "Firefox Setup 91.13.0esr.exe",
