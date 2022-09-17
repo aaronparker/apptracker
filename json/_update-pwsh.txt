@@ -1,0 +1,3 @@
+json/1Password.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
