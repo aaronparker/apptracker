@@ -1,2 +1,0 @@
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
