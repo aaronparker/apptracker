@@ -1,0 +1,6 @@
+json/1Password.json
+json/FileZilla.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/VideoLanVlcPlayer.json
