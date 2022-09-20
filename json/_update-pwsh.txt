@@ -1,8 +1,0 @@
-json/1Password.json
-json/BlueJ.json
-json/DevToys.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
