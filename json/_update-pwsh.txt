@@ -1,5 +1,0 @@
-json/HashicorpConsul.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/Slack.json
-json/VideoLanVlcPlayer.json
