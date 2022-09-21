@@ -1,0 +1,7 @@
+json/ArtifexGhostscript.json
+json/Gimp.json
+json/HashicorpTerraform.json
+json/MicrosoftOneDrive.json
+json/MirantisLens.json
+json/OperaBrowser.json
+json/VideoLanVlcPlayer.json
