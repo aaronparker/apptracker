@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/RStudio.json
+json/VideoLanVlcPlayer.json
