@@ -44,15 +44,15 @@
     "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-1.4.1743-4.zip"
   },
   {
-    "Version": "2022.02.4+500",
-    "Sha256": "c7f3541997543d6f653a504980c52db79ca6b9c662f192ff3b22fe8f72e174cf",
-    "Size": 176808120,
+    "Version": "2022.02.4+501",
+    "Sha256": "b7f0e2f2fbb154d33727aeb23a7faaa9f26673d08b127cee8beaf9ab66caae1d",
+    "Size": 177265640,
     "Branch": "Ghost Orchid",
     "Channel": "Release",
     "ProductName": "RStudio Desktop",
     "InstallerName": "Windows 10+",
     "Type": "exe",
-    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-500.exe"
+    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-501.exe"
   },
   {
     "Version": "2022.02.4+500.pro1",
@@ -66,15 +66,15 @@
     "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-500.pro1.exe"
   },
   {
-    "Version": "2022.02.4+500",
-    "Sha256": "0a09a6b53ff0165f1c5b6f14f2bafae564bcd929d2c979135931fe5e98d7ef3e",
-    "Size": 245262846,
+    "Version": "2022.02.4+501",
+    "Sha256": "b68a74d30c378ddb7269c3d24dbe72a2dea217a3403ff51869a6e473fab1f42b",
+    "Size": 245870047,
     "Branch": "Ghost Orchid",
     "Channel": "Release",
     "ProductName": "RStudio Desktop",
     "InstallerName": "Windows 10+ (installer-less)",
     "Type": "zip",
-    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-500.zip"
+    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-501.zip"
   },
   {
     "Version": "2022.02.4+500.pro1",
@@ -88,15 +88,15 @@
     "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-500.pro1.zip"
   },
   {
-    "Version": "2022.02.4+500",
-    "Sha256": "c7f3541997543d6f653a504980c52db79ca6b9c662f192ff3b22fe8f72e174cf",
-    "Size": 176808120,
+    "Version": "2022.02.4+501",
+    "Sha256": "b7f0e2f2fbb154d33727aeb23a7faaa9f26673d08b127cee8beaf9ab66caae1d",
+    "Size": 177265640,
     "Branch": "Prairie Trillium",
     "Channel": "Release",
     "ProductName": "RStudio Desktop",
     "InstallerName": "Windows 10+",
     "Type": "exe",
-    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-500.exe"
+    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-501.exe"
   },
   {
     "Version": "2022.02.4+500.pro1",
@@ -110,15 +110,15 @@
     "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-500.pro1.exe"
   },
   {
-    "Version": "2022.02.4+500",
-    "Sha256": "0a09a6b53ff0165f1c5b6f14f2bafae564bcd929d2c979135931fe5e98d7ef3e",
-    "Size": 245262846,
+    "Version": "2022.02.4+501",
+    "Sha256": "b68a74d30c378ddb7269c3d24dbe72a2dea217a3403ff51869a6e473fab1f42b",
+    "Size": 245870047,
     "Branch": "Prairie Trillium",
     "Channel": "Release",
     "ProductName": "RStudio Desktop",
     "InstallerName": "Windows 10+ (installer-less)",
     "Type": "zip",
-    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-500.zip"
+    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-501.zip"
   },
   {
     "Version": "2022.02.4+500.pro1",
@@ -132,15 +132,15 @@
     "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-500.pro1.zip"
   },
   {
-    "Version": "2022.02.4+500",
-    "Sha256": "c7f3541997543d6f653a504980c52db79ca6b9c662f192ff3b22fe8f72e174cf",
-    "Size": 176808120,
+    "Version": "2022.02.4+501",
+    "Sha256": "b7f0e2f2fbb154d33727aeb23a7faaa9f26673d08b127cee8beaf9ab66caae1d",
+    "Size": 177265640,
     "Branch": "Spotted Wakerobin",
     "Channel": "Release",
     "ProductName": "RStudio Desktop",
     "InstallerName": "Windows 10+",
     "Type": "exe",
-    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-500.exe"
+    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-501.exe"
   },
   {
     "Version": "2022.02.4+500.pro1",
@@ -154,15 +154,15 @@
     "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-pro-2022.02.4-500.pro1.exe"
   },
   {
-    "Version": "2022.02.4+500",
-    "Sha256": "0a09a6b53ff0165f1c5b6f14f2bafae564bcd929d2c979135931fe5e98d7ef3e",
-    "Size": 245262846,
+    "Version": "2022.02.4+501",
+    "Sha256": "b68a74d30c378ddb7269c3d24dbe72a2dea217a3403ff51869a6e473fab1f42b",
+    "Size": 245870047,
     "Branch": "Spotted Wakerobin",
     "Channel": "Release",
     "ProductName": "RStudio Desktop",
     "InstallerName": "Windows 10+ (installer-less)",
     "Type": "zip",
-    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-500.zip"
+    "URI": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.02.4-501.zip"
   },
   {
     "Version": "2022.02.4+500.pro1",
