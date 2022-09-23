@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## 1Password7
 
@@ -860,9 +860,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1236,12 +1236,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.72.0  | win32-arm64      | Insider | ARM64        | 4f8ea28db8350dd517900d27fe1196a7b4391b90e99be94f22eaef69ebe012ad | https://az764295.vo.msecnd.net/insider/1f148906f1ece5c83a60ed8e211c9f387188dca3/VSCodeSetup-arm64-1.72.0-insider.exe     |
-| 1.72.0  | win32-arm64-user | Insider | ARM64        | 0266fd5ad34860618f2cb5472139285c91839df7c4c8390ebf34aa20634d1928 | https://az764295.vo.msecnd.net/insider/1f148906f1ece5c83a60ed8e211c9f387188dca3/VSCodeUserSetup-arm64-1.72.0-insider.exe |
-| 1.72.0  | win32-x64        | Insider | x64          | e26fcbf00cf9356a3984c171abffb6c5150d19187df128b7d04b09d7c2d1ff8b | https://az764295.vo.msecnd.net/insider/1f148906f1ece5c83a60ed8e211c9f387188dca3/VSCodeSetup-x64-1.72.0-insider.exe       |
-| 1.72.0  | win32-x64-user   | Insider | x64          | e77852b7d97cd0723c4799c0504028a000438be8a44ff6d0a38d1e7e90355075 | https://az764295.vo.msecnd.net/insider/1f148906f1ece5c83a60ed8e211c9f387188dca3/VSCodeUserSetup-x64-1.72.0-insider.exe   |
-| 1.72.0  | win32            | Insider | x86          | 9f140c2239d14d79a31f4c34bfe2912436087159d9e7604941c4bd88d232cc53 | https://az764295.vo.msecnd.net/insider/1f148906f1ece5c83a60ed8e211c9f387188dca3/VSCodeSetup-ia32-1.72.0-insider.exe      |
-| 1.72.0  | win32-user       | Insider | x86          | 32750c7dbfa0a6fb2d291b98220f981677a6ef30b47022c8052b9eefa6e10fde | https://az764295.vo.msecnd.net/insider/1f148906f1ece5c83a60ed8e211c9f387188dca3/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
+| 1.72.0  | win32-arm64      | Insider | ARM64        | 15434afb8ee50ce43b49068a97623c5be04c7913203e45500fc1b4cf2f80c2fb | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeSetup-arm64-1.72.0-insider.exe     |
+| 1.72.0  | win32-arm64-user | Insider | ARM64        | a3c7b4b5ca5d395dd4a40aacd7c647b047a6f5b5deed0fc161399a408d2e5f63 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeUserSetup-arm64-1.72.0-insider.exe |
+| 1.72.0  | win32-x64        | Insider | x64          | 458acb5efaeeba926afa62aab1b83e4816b70394ecb04a6024f18e43e28d4b5d | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeSetup-x64-1.72.0-insider.exe       |
+| 1.72.0  | win32-x64-user   | Insider | x64          | 98ea5f3a2574b6927fa068668ac10478f855182420ecac147eca5763e7ff5f15 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeUserSetup-x64-1.72.0-insider.exe   |
+| 1.72.0  | win32            | Insider | x86          | 974cf96fcd5e66930755cb8a30750406002a5c1253275cd3619092a8a9a4d678 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeSetup-ia32-1.72.0-insider.exe      |
+| 1.72.0  | win32-user       | Insider | x86          | 53754ffde71b4dc005f68da45a876c3669aef8484b3fd79d6392ebb727f97234 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
 | 1.71.2  | win32-arm64      | Stable  | ARM64        | 5a84833df5c0c3820f45b0680daa716924215905ae1eec7576afb962025ae582 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-arm64-1.71.2.exe              |
 | 1.71.2  | win32-arm64-user | Stable  | ARM64        | a22af1cd37d849b4983e0ae790d9fa5f1c209977a54103636bab07e239c3e6a8 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeUserSetup-arm64-1.71.2.exe          |
 | 1.71.2  | win32-x64        | Stable  | x64          | 650219067b39d73c4b96e5cd6353105372f61dfa1a81d8ac05c571a064b3a630 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-x64-1.71.2.exe                |
@@ -1288,7 +1288,7 @@
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3573.0 | ARM64        | Dogfood | Unknown    | 4AAB0466959E06AF5377F89E312F132F | RemoteDesktop_1.2.3573.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK |
-| 1.2.3573.0 | x64          | Dogfood | Unknown    | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
+| 1.2.3573.0 | x64          | Dogfood | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
 | 1.2.3573.0 | x86          | Dogfood | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
 | 1.2.3497.0 | ARM64        | Insider | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
 | 1.2.3497.0 | ARM64        | Public  | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
@@ -1341,7 +1341,7 @@
 
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2022.9.191151-alpha  | x64          | Alpha   | 09/19/2022 12:30:21 | 333244632 | kT394FlGtjFNlk9OvBnBno7O1oeK5X4BILmzw+ZACZq6M0/G+IZdFT+pY1rYgyBlXzbVA0SnbNuIEWUIAjNrzw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.191151-alpha.exe  |
+| 2022.9.231310-alpha  | x64          | Alpha   | 09/23/2022 13:49:46 | 333229656 | RDR/gfHxUTkd48sGNPfHDC24aX2sEpv5+10m2FzQoGIs7l5NAaxzN2Yc7IwB/A2V1tOHamwqZYqt0Sw5ZEb+dg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.231310-alpha.exe  |
 | 2022.9.211442-latest | x64          | Stable  | 09/21/2022 15:32:23 | 333223384 | Ml+jaDG4JUOVirqTJK6XQZlZY1zo5dRZj4R8kOqmhTobwQEFqZQRZefroRlLKOxNHeKKOv+XMg8pf2Icb2IFIA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.211442-latest.exe |
 
 ## MozillaFirefox
@@ -3636,14 +3636,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
