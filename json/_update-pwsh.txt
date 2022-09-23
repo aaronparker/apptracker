@@ -1,6 +1,0 @@
-json/1Password.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
