@@ -4,37 +4,115 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-**Last update**: Friday, 23 September 2022 16:08:02 Etc/UTC
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## MicrosoftVisualStudioCode
 
 [Link](https://code.visualstudio.com)
 
-**Last update**: Friday, 23 September 2022 16:08:02 Etc/UTC
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.72.0  | win32-arm64      | Insider | ARM64        | 15434afb8ee50ce43b49068a97623c5be04c7913203e45500fc1b4cf2f80c2fb | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeSetup-arm64-1.72.0-insider.exe     |
-| 1.72.0  | win32-arm64-user | Insider | ARM64        | a3c7b4b5ca5d395dd4a40aacd7c647b047a6f5b5deed0fc161399a408d2e5f63 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeUserSetup-arm64-1.72.0-insider.exe |
-| 1.72.0  | win32-x64        | Insider | x64          | 458acb5efaeeba926afa62aab1b83e4816b70394ecb04a6024f18e43e28d4b5d | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeSetup-x64-1.72.0-insider.exe       |
-| 1.72.0  | win32-x64-user   | Insider | x64          | 98ea5f3a2574b6927fa068668ac10478f855182420ecac147eca5763e7ff5f15 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeUserSetup-x64-1.72.0-insider.exe   |
-| 1.72.0  | win32            | Insider | x86          | 974cf96fcd5e66930755cb8a30750406002a5c1253275cd3619092a8a9a4d678 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeSetup-ia32-1.72.0-insider.exe      |
-| 1.72.0  | win32-user       | Insider | x86          | 53754ffde71b4dc005f68da45a876c3669aef8484b3fd79d6392ebb727f97234 | https://az764295.vo.msecnd.net/insider/b9f7f85e90b4d51b38fcbf4232801ab04bd659cb/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
+| 1.72.0  | win32-arm64      | Insider | ARM64        | 588af7d8f8b997be5614234aacd8667d59ab7ce1f9d836494454386c76b2d0ff | https://az764295.vo.msecnd.net/insider/43676d69e091e7f9451667925f3f0cc20d7e7221/VSCodeSetup-arm64-1.72.0-insider.exe     |
+| 1.72.0  | win32-arm64-user | Insider | ARM64        | 1fab1c3614a8768238d59727db597b09bd62551c6675b9e53f5ba15592e16764 | https://az764295.vo.msecnd.net/insider/43676d69e091e7f9451667925f3f0cc20d7e7221/VSCodeUserSetup-arm64-1.72.0-insider.exe |
+| 1.72.0  | win32-x64        | Insider | x64          | 58ae95cb32febb5a74c33d211c2549a1c0d1114fe799f9ec225febc20cc3c0f8 | https://az764295.vo.msecnd.net/insider/43676d69e091e7f9451667925f3f0cc20d7e7221/VSCodeSetup-x64-1.72.0-insider.exe       |
+| 1.72.0  | win32-x64-user   | Insider | x64          | 2baa69cdaa88e97587df470acff733bde8bfc084da7e780a386b815995cd3655 | https://az764295.vo.msecnd.net/insider/43676d69e091e7f9451667925f3f0cc20d7e7221/VSCodeUserSetup-x64-1.72.0-insider.exe   |
+| 1.72.0  | win32            | Insider | x86          | 7aac08b8d0f281edaf4ce493ffe7845a8431867ccbc8b23d3a9b4064e7aace0b | https://az764295.vo.msecnd.net/insider/43676d69e091e7f9451667925f3f0cc20d7e7221/VSCodeSetup-ia32-1.72.0-insider.exe      |
+| 1.72.0  | win32-user       | Insider | x86          | 74079e078427558c1d5a63e32059cc423d625274db462d5e2d1576fb2331b526 | https://az764295.vo.msecnd.net/insider/43676d69e091e7f9451667925f3f0cc20d7e7221/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
 | 1.71.2  | win32-arm64      | Stable  | ARM64        | 5a84833df5c0c3820f45b0680daa716924215905ae1eec7576afb962025ae582 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-arm64-1.71.2.exe              |
 | 1.71.2  | win32-arm64-user | Stable  | ARM64        | a22af1cd37d849b4983e0ae790d9fa5f1c209977a54103636bab07e239c3e6a8 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeUserSetup-arm64-1.71.2.exe          |
 | 1.71.2  | win32-x64        | Stable  | x64          | 650219067b39d73c4b96e5cd6353105372f61dfa1a81d8ac05c571a064b3a630 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-x64-1.71.2.exe                |
 | 1.71.2  | win32-x64-user   | Stable  | x64          | f4cd3b2d845bd2a61152707c2b8626c10e8e9bcd1a8163944c34635172f6cdd9 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeUserSetup-x64-1.71.2.exe            |
 | 1.71.2  | win32            | Stable  | x86          | 5490f66302e7f99e386e17a88af259d7787a2027dbed68f1695cc3d4760a82b8 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-ia32-1.71.2.exe               |
 | 1.71.2  | win32-user       | Stable  | x86          | 75a7ad8f4c45ed4d817df657a39b265ce01b7616930138601ae349cd77572886 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeUserSetup-ia32-1.71.2.exe           |
+
+## MicrosoftWvdRemoteDesktop
+
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
+
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
+
+| Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.3573.0 | ARM64        | Dogfood | Unknown    | 4AAB0466959E06AF5377F89E312F132F | RemoteDesktop_1.2.3573.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK |
+| 1.2.3573.0 | x64          | Dogfood | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
+| 1.2.3573.0 | x86          | Dogfood | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
+| 1.2.3497.0 | ARM64        | Insider | 09/13/2022 | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
+| 1.2.3497.0 | ARM64        | Public  | 09/13/2022 | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
+| 1.2.3497.0 | x64          | Insider | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
+| 1.2.3497.0 | x64          | Public  | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
+| 1.2.3497.0 | x86          | Insider | 09/13/2022 | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
+| 1.2.3497.0 | x86          | Public  | 09/13/2022 | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
+
+## 1Password
+
+[Link](https://1password.com/)
+
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
+
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+
+## MicrosoftOneDrive
+
+[Link](https://onedrive.live.com/)
+
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
+
+| Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
+| ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
+| 22.201.0922.0001 | AMD64        | InternalFast | RfuGMYRqY07VDIOZNAtX/n55S4LK/MGVdqQBSPeHsXU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.201.0922.0001/amd64/OneDriveSetup.exe   |
+| 22.201.0922.0001 | x86          | InternalFast | Swr3adXNUOUVWeKvFT8giuXlDtc1wHVQNahay1f/NgQ= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.201.0922.0001/OneDriveSetup.exe         |
+| 22.196.0918.0001 | AMD64        | InternalSlow | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.196.0918.0001/amd64/OneDriveSetup.exe   |
+| 22.196.0918.0001 | x86          | InternalSlow | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.196.0918.0001/OneDriveSetup.exe         |
+| 22.191.0911.0001 | AMD64        | Insider      | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.191.0911.0001/amd64/OneDriveSetup.exe   |
+| 22.191.0911.0001 | AMD64        | Production   | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.191.0911.0001/amd64/OneDriveSetup.exe       |
+| 22.191.0911.0001 | x86          | Insider      | Sg/+XGNWew2a0zHlWEmSQa6Yo8z7ZJAlo3d+ABt05Vs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.191.0911.0001/OneDriveSetup.exe         |
+| 22.191.0911.0001 | x86          | Production   | Sg/+XGNWew2a0zHlWEmSQa6Yo8z7ZJAlo3d+ABt05Vs= | exe  | https://oneclient.sfx.ms/Win/Prod/22.191.0911.0001/OneDriveSetup.exe             |
+| 22.186.0904.0001 | AMD64        | Production   | spMFhg3gLDT+Cnsz1cVbQNZ01VQm5Ypj5PjgNS3wy9Y= | exe  | https://oneclient.sfx.ms/Win/Prod/22.186.0904.0001/amd64/OneDriveSetup.exe       |
+| 22.186.0904.0001 | x86          | Production   | 6vd+kCto1XeUG2ExqHyJw/VNMw7nNmB7YqOa12CfcZg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.186.0904.0001/OneDriveSetup.exe             |
+| 22.181.0828.0002 | AMD64        | Production   | wctRccLPRCqfRL0/g5mpqjjrRhxqCEziP7bPfxtAS6s= | exe  | https://oneclient.sfx.ms/Win/Prod/22.181.0828.0002/amd64/OneDriveSetup.exe       |
+| 22.181.0828.0002 | x86          | Production   | 2a4Sj9erer6l3tyV9W9LGCYF1w8hWsXxq9Hx2gX9I3E= | exe  | https://oneclient.sfx.ms/Win/Prod/22.181.0828.0002/OneDriveSetup.exe             |
+| 22.077.0410.0007 | AMD64        | Enterprise   | JjoeTY78Krp49KXJEyjtE1O9WSuFmFoNKECtVwKGDW8= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/amd64/OneDriveSetup.exe |
+| 22.077.0410.0007 | x86          | Enterprise   | jjiooBnk6w0tEt20O1IWzT63jvuFUxpZgJDoJdpkDgg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/OneDriveSetup.exe       |
+
+## Microsoft365Apps
+
+[Link](https://www.microsoft.com/office)
+
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
+
+| Version          | Channel           | Name                                  | Date                | URI                                               |
+| ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
+| 16.0.15715.20014 | BetaChannel       | Beta                                  | 09/23/2022 15:35:00 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15629.20152 | CurrentPreview    | Current Channel (Preview)             | 09/23/2022 20:50:04 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15601.20148 | Current           | Current Channel                       | 09/13/2022 07:46:55 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15601.20148 | SemiAnnualPreview | Semi-Annual Channel Preview           | 09/13/2022 08:02:29 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15427.20284 | MonthlyEnterprise | Monthly Enterprise                    | 09/13/2022 07:56:01 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14931.20724 | SemiAnnual        | Semi-Annual Channel                   | 09/13/2022 07:49:43 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14332.20375 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 09/13/2022 13:16:04 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.10390.20024 | PerpetualVL2019   | Office 2029 Perpetual Enterprise      | 09/13/2022 14:20:27 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+
+## Gimp
+
+[Link](https://www.gimp.org/)
+
+**Last update**: Saturday, 24 September 2022 00:28:46 Etc/UTC
+
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## jrsoftwareInnoSetup
 
@@ -45,34 +123,6 @@
 | Version | URI                                                   |
 | ------- | ----------------------------------------------------- |
 | 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
-
-## MicrosoftWvdRemoteDesktop
-
-[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
-
-**Last update**: Friday, 23 September 2022 16:08:02 Etc/UTC
-
-| Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3573.0 | ARM64        | Dogfood | Unknown    | 4AAB0466959E06AF5377F89E312F132F | RemoteDesktop_1.2.3573.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK |
-| 1.2.3573.0 | x64          | Dogfood | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
-| 1.2.3573.0 | x86          | Dogfood | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
-| 1.2.3497.0 | ARM64        | Insider | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
-| 1.2.3497.0 | ARM64        | Public  | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
-| 1.2.3497.0 | x64          | Insider | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
-| 1.2.3497.0 | x64          | Public  | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
-| 1.2.3497.0 | x86          | Insider | 09/13/2022 | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
-| 1.2.3497.0 | x86          | Public  | 09/13/2022 | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
-
-## 1Password
-
-[Link](https://1password.com/)
-
-**Last update**: Friday, 23 September 2022 16:08:02 Etc/UTC
-
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## MirantisLens
 
@@ -85,25 +135,16 @@
 | 2022.9.231310-alpha  | x64          | Alpha   | 09/23/2022 13:49:46 | 333229656 | RDR/gfHxUTkd48sGNPfHDC24aX2sEpv5+10m2FzQoGIs7l5NAaxzN2Yc7IwB/A2V1tOHamwqZYqt0Sw5ZEb+dg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.231310-alpha.exe  |
 | 2022.9.211442-latest | x64          | Stable  | 09/21/2022 15:32:23 | 333223384 | Ml+jaDG4JUOVirqTJK6XQZlZY1zo5dRZj4R8kOqmhTobwQEFqZQRZefroRlLKOxNHeKKOv+XMg8pf2Icb2IFIA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.211442-latest.exe |
 
-## OctopusDeployServer
+## SumatraPDFReader
 
-[Link](https://octopus.com/)
-
-**Last update**: Friday, 23 September 2022 08:08:46 Etc/UTC
-
-| Version      | Date       | URI                                                                     |
-| ------------ | ---------- | ----------------------------------------------------------------------- |
-| 2022.3.10560 | 09/22/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.3.10560-x64.msi |
-
-## DockerDesktop
-
-[Link](https://www.docker.com/products/docker-desktop/)
+[Link](https://www.sumatrapdfreader.org/)
 
 **Last update**: Friday, 23 September 2022 08:08:46 Etc/UTC
 
-| Version | Build | Size      | Type | URI                                                               |
-| ------- | ----- | --------- | ---- | ----------------------------------------------------------------- |
-| 4.12.0  | 85629 | 548820824 | msi  | https://desktop.docker.com/win/main/amd64/85629/DockerDesktop.msi |
+| Version | Architecture | Type | URI                                                                           |
+| ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## MicrosoftAzureDataStudio
 
@@ -118,15 +159,25 @@
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
-## Gimp
+## DockerDesktop
 
-[Link](https://www.gimp.org/)
+[Link](https://www.docker.com/products/docker-desktop/)
 
 **Last update**: Friday, 23 September 2022 08:08:46 Etc/UTC
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Build | Size      | Type | URI                                                               |
+| ------- | ----- | --------- | ---- | ----------------------------------------------------------------- |
+| 4.12.0  | 85629 | 548820824 | msi  | https://desktop.docker.com/win/main/amd64/85629/DockerDesktop.msi |
+
+## OctopusDeployServer
+
+[Link](https://octopus.com/)
+
+**Last update**: Friday, 23 September 2022 08:08:46 Etc/UTC
+
+| Version      | Date       | URI                                                                     |
+| ------------ | ---------- | ----------------------------------------------------------------------- |
+| 2022.3.10560 | 09/22/2022 | https://download.octopusdeploy.com/octopus/Octopus.2022.3.10560-x64.msi |
 
 ## stealthpuppyWindowsCustomisedDefaults
 
@@ -138,131 +189,6 @@
 | ----------- | -------- | ------------ | --------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |
 | 2209.22.116 | Windows  | x86          | intunewin | 09/22/2022 | 32757 | https://github.com/aaronparker/image-customise/releases/download/v2209.22.116/Install-Defaults.intunewin |
 | 2209.22.116 | Windows  | x86          | zip       | 09/22/2022 | 29162 | https://github.com/aaronparker/image-customise/releases/download/v2209.22.116/image-customise.zip        |
-
-## SumatraPDFReader
-
-[Link](https://www.sumatrapdfreader.org/)
-
-**Last update**: Friday, 23 September 2022 08:08:46 Etc/UTC
-
-| Version | Architecture | Type | URI                                                                           |
-| ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
-
-## Audacity
-
-[Link](https://www.audacityteam.org/)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |
-| 3.2.0   | Windows  | x64          | exe  | 09/22/2022 | 14290656 | https://github.com/audacity/audacity/releases/download/Audacity-3.2.0/audacity-win-3.2.0-64bit.exe |
-| 3.2.0   | Windows  | x86          | exe  | 09/22/2022 | 13032272 | https://github.com/audacity/audacity/releases/download/Audacity-3.2.0/audacity-win-3.2.0-32bit.exe |
-
-## MicrosoftOneDrive
-
-[Link](https://onedrive.live.com/)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
-| ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.200.0921.0001 | AMD64        | InternalFast | TC/O78Yd7zSeauc/tpixSFy2X1f8kWC3sqHBx8WZ2rk= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.200.0921.0001/amd64/OneDriveSetup.exe   |
-| 22.200.0921.0001 | x86          | InternalFast | f8b7wrP15t+B5HONo4bRTT380va3mWOGVa1rh98QjcY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.200.0921.0001/OneDriveSetup.exe         |
-| 22.196.0918.0001 | AMD64        | InternalSlow | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.196.0918.0001/amd64/OneDriveSetup.exe   |
-| 22.196.0918.0001 | x86          | InternalSlow | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.196.0918.0001/OneDriveSetup.exe         |
-| 22.191.0911.0001 | AMD64        | Insider      | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.191.0911.0001/amd64/OneDriveSetup.exe   |
-| 22.191.0911.0001 | x86          | Insider      | Sg/+XGNWew2a0zHlWEmSQa6Yo8z7ZJAlo3d+ABt05Vs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.191.0911.0001/OneDriveSetup.exe         |
-| 22.186.0904.0001 | AMD64        | Production   | spMFhg3gLDT+Cnsz1cVbQNZ01VQm5Ypj5PjgNS3wy9Y= | exe  | https://oneclient.sfx.ms/Win/Prod/22.186.0904.0001/amd64/OneDriveSetup.exe       |
-| 22.186.0904.0001 | x86          | Production   | 6vd+kCto1XeUG2ExqHyJw/VNMw7nNmB7YqOa12CfcZg= | exe  | https://oneclient.sfx.ms/Win/Prod/22.186.0904.0001/OneDriveSetup.exe             |
-| 22.181.0828.0002 | AMD64        | Production   | wctRccLPRCqfRL0/g5mpqjjrRhxqCEziP7bPfxtAS6s= | exe  | https://oneclient.sfx.ms/Win/Prod/22.181.0828.0002/amd64/OneDriveSetup.exe       |
-| 22.181.0828.0002 | x86          | Production   | 2a4Sj9erer6l3tyV9W9LGCYF1w8hWsXxq9Hx2gX9I3E= | exe  | https://oneclient.sfx.ms/Win/Prod/22.181.0828.0002/OneDriveSetup.exe             |
-| 22.077.0410.0007 | AMD64        | Enterprise   | JjoeTY78Krp49KXJEyjtE1O9WSuFmFoNKECtVwKGDW8= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/amd64/OneDriveSetup.exe |
-| 22.077.0410.0007 | x86          | Enterprise   | jjiooBnk6w0tEt20O1IWzT63jvuFUxpZgJDoJdpkDgg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.077.0410.0007/OneDriveSetup.exe       |
-
-## MicrosoftEdgeDriver
-
-[Link](https://www.microsoft.com/edge)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version       | Channel | Architecture | URI                                                                   |
-| ------------- | ------- | ------------ | --------------------------------------------------------------------- |
-| 107.0.1387.2  | Dev     | ARM64        | https://msedgedriver.azureedge.net/107.0.1387.2/edgedriver_arm64.zip  |
-| 107.0.1387.2  | Dev     | x64          | https://msedgedriver.azureedge.net/107.0.1387.2/edgedriver_win64.zip  |
-| 107.0.1387.2  | Dev     | x86          | https://msedgedriver.azureedge.net/107.0.1387.2/edgedriver_win32.zip  |
-| 106.0.1370.17 | Beta    | ARM64        | https://msedgedriver.azureedge.net/106.0.1370.17/edgedriver_arm64.zip |
-| 106.0.1370.17 | Beta    | x64          | https://msedgedriver.azureedge.net/106.0.1370.17/edgedriver_win64.zip |
-| 106.0.1370.17 | Beta    | x86          | https://msedgedriver.azureedge.net/106.0.1370.17/edgedriver_win32.zip |
-| 105.0.1343.50 | Stable  | ARM64        | https://msedgedriver.azureedge.net/105.0.1343.50/edgedriver_arm64.zip |
-| 105.0.1343.50 | Stable  | x64          | https://msedgedriver.azureedge.net/105.0.1343.50/edgedriver_win64.zip |
-| 105.0.1343.50 | Stable  | x86          | https://msedgedriver.azureedge.net/105.0.1343.50/edgedriver_win32.zip |
-
-## HashicorpConsul
-
-[Link](https://www.consul.io/)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version | Type | Architecture | URI                                                                            |
-| ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
-| 1.11.10 | zip  | x64          | https://releases.hashicorp.com/consul/1.11.10/consul_1.11.10_windows_amd64.zip |
-| 1.11.10 | zip  | x86          | https://releases.hashicorp.com/consul/1.11.10/consul_1.11.10_windows_386.zip   |
-
-## MicrosoftEdge
-
-[Link](https://www.microsoft.com/edge)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
-| ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 107.0.1387.2  | Any      | Policy     | Enterprise | any          | AADC8263F0F7D9EDAD667B694A03FBD45B6A72564B52F4418275B5FD5D796F5C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cdbaa134-bd6d-40dd-b8a3-204c65c25e5e/MicrosoftEdgePolicyTemplates.cab            |
-| 107.0.1387.2  | Windows  | Dev        | Consumer   | arm64        | FC9E4B555F05B12718065E9A1C8BABD688114493C9EC4DA478467D59B337C564 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/017da790-b3f7-43da-a3f9-00c4644e110d/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 107.0.1387.2  | Windows  | Dev        | Enterprise | arm64        | FC9E4B555F05B12718065E9A1C8BABD688114493C9EC4DA478467D59B337C564 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/017da790-b3f7-43da-a3f9-00c4644e110d/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 107.0.1387.2  | Windows  | Dev        | Consumer   | x64          | 3003A88200FE5905330CBC93E0D96901560730F29289034F7CFB66636FD1166E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77d56e69-59c6-40bb-bc94-3a801a93d7c5/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 107.0.1387.2  | Windows  | Dev        | Enterprise | x64          | 3003A88200FE5905330CBC93E0D96901560730F29289034F7CFB66636FD1166E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77d56e69-59c6-40bb-bc94-3a801a93d7c5/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 107.0.1387.2  | Windows  | Dev        | Consumer   | x86          | 96D3E781180BF753D5BF1BD73F30110A835317607F5C56649D39A3E9EDAB5AF8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/619bb6b4-747f-4cae-8831-613c0e0e9de1/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 107.0.1387.2  | Windows  | Dev        | Enterprise | x86          | 96D3E781180BF753D5BF1BD73F30110A835317607F5C56649D39A3E9EDAB5AF8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/619bb6b4-747f-4cae-8831-613c0e0e9de1/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 106.0.1370.17 | Windows  | Beta       | Consumer   | arm64        | A6496AC846F064735FE481E032363E667E1DEB40275F97F108285CF03581F04C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/83f03fe8-f95c-4ddc-a933-c86b8d3d63cf/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 106.0.1370.17 | Windows  | Beta       | Enterprise | arm64        | A6496AC846F064735FE481E032363E667E1DEB40275F97F108285CF03581F04C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/83f03fe8-f95c-4ddc-a933-c86b8d3d63cf/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 106.0.1370.17 | Windows  | Beta       | Consumer   | x64          | DB12CBBB0FA7569A9E1E02986DCF0E00F12ABF783EB6E612ABAEDAC5F7924DAF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/26e709b8-7d5f-443b-9d7a-bf12d9a13a7d/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 106.0.1370.17 | Windows  | Beta       | Enterprise | x64          | DB12CBBB0FA7569A9E1E02986DCF0E00F12ABF783EB6E612ABAEDAC5F7924DAF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/26e709b8-7d5f-443b-9d7a-bf12d9a13a7d/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 106.0.1370.17 | Windows  | Beta       | Consumer   | x86          | 45B613E53DC344BC44FF21058B5BB488561EC7BEC8621CC84B4EADECDF3135B2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5b29dc1-0643-4579-83a8-b69d07d20f5e/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 106.0.1370.17 | Windows  | Beta       | Enterprise | x86          | 45B613E53DC344BC44FF21058B5BB488561EC7BEC8621CC84B4EADECDF3135B2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5b29dc1-0643-4579-83a8-b69d07d20f5e/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 105.0.1343.50 | Windows  | Stable     | Consumer   | arm64        | 4938511E5C409E74A0B6A522C03802936F2ECDF6BA621D85B236A14B47B8E004 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e215904c-7647-4cf1-aa50-13c7c0842939/MicrosoftEdgeEnterpriseARM64.msi            |
-| 105.0.1343.50 | Windows  | Stable     | Enterprise | arm64        | 4938511E5C409E74A0B6A522C03802936F2ECDF6BA621D85B236A14B47B8E004 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e215904c-7647-4cf1-aa50-13c7c0842939/MicrosoftEdgeEnterpriseARM64.msi            |
-| 105.0.1343.50 | Windows  | Stable     | Consumer   | x64          | ECB7C143F42DA64E91AF536C4A9BCCB6B4F7E063ED5350A81B804FF6C108A035 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43dad407-9104-48f5-89ac-7a46dc52ab63/MicrosoftEdgeEnterpriseX64.msi              |
-| 105.0.1343.50 | Windows  | Stable     | Enterprise | x64          | ECB7C143F42DA64E91AF536C4A9BCCB6B4F7E063ED5350A81B804FF6C108A035 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43dad407-9104-48f5-89ac-7a46dc52ab63/MicrosoftEdgeEnterpriseX64.msi              |
-| 105.0.1343.50 | Windows  | Stable     | Consumer   | x86          | FB857BBF4ABECDB1C7D2F7EB98A2BD237E02308B5385CF1B7054FAD9EDAA106A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e3d3e3c6-5b9e-4c37-91c4-e59aaef1111b/MicrosoftEdgeEnterpriseX86.msi              |
-| 105.0.1343.50 | Windows  | Stable     | Enterprise | x86          | FB857BBF4ABECDB1C7D2F7EB98A2BD237E02308B5385CF1B7054FAD9EDAA106A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e3d3e3c6-5b9e-4c37-91c4-e59aaef1111b/MicrosoftEdgeEnterpriseX86.msi              |
-| 1.3.167.21    | Windows  | EdgeUpdate | Consumer   | x86          | E578023974F5B64216BE4BFCFBF09FC24F1F73FCE87756317B99B3A62EC329CE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/04eb12e5-4f00-44dc-832c-dd84c556643a/MicrosoftEdgeUpdateSetup_X86_1.3.167.21.exe |
-| 1.3.167.21    | Windows  | EdgeUpdate | Enterprise | x86          | E578023974F5B64216BE4BFCFBF09FC24F1F73FCE87756317B99B3A62EC329CE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/04eb12e5-4f00-44dc-832c-dd84c556643a/MicrosoftEdgeUpdateSetup_X86_1.3.167.21.exe |
-
-## MicrosoftEdgeWebView2Runtime
-
-[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version       | Channel | Architecture | URI                                                                                                                                                           |
-| ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 105.0.1343.50 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f6b1167-36b6-4375-888b-222dc7598010/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 105.0.1343.50 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/07a7ff04-997f-42c9-a7c1-640c9137a06e/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 105.0.1343.50 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97ba280d-6d37-476a-a151-da3a687b07dd/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
-
-## HashicorpWaypoint
-
-[Link](https://www.waypointproject.io/)
-
-**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
-
-| Version | Type | Architecture | URI                                                                              |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 0.10.1  | zip  | x64          | https://releases.hashicorp.com/waypoint/0.10.1/waypoint_0.10.1_windows_amd64.zip |
-| 0.10.1  | zip  | x86          | https://releases.hashicorp.com/waypoint/0.10.1/waypoint_0.10.1_windows_386.zip   |
 
 ## MicrosoftTeams
 
@@ -321,6 +247,17 @@
 | 1.5.00.21668 | TAP               | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.21668/Teams_windows.exe             |
 | 1.5.00.21668 | TAP               | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.21668/Teams_windows.msi             |
 
+## OBSStudio
+
+[Link](https://obsproject.com/)
+
+**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
+
+| Version | Architecture | URI                                                                                  |
+| ------- | ------------ | ------------------------------------------------------------------------------------ |
+| 28.0.2  | x64          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.0.2-Full-Installer-x64.exe |
+| 28.0.2  | x86          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.0.2-Full-Installer-x86.exe |
+
 ## GoogleChrome
 
 [Link](https://cloud.google.com/chrome-enterprise/browser/download/)
@@ -336,16 +273,98 @@
 | 105.0.5195.127 | x64          | stable  | 09/13/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 105.0.5195.127 | x86          | stable  | 09/13/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
-## OBSStudio
+## HashicorpWaypoint
 
-[Link](https://obsproject.com/)
+[Link](https://www.waypointproject.io/)
 
 **Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
 
-| Version | Architecture | URI                                                                                  |
-| ------- | ------------ | ------------------------------------------------------------------------------------ |
-| 28.0.2  | x64          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.0.2-Full-Installer-x64.exe |
-| 28.0.2  | x86          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.0.2-Full-Installer-x86.exe |
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 0.10.1  | zip  | x64          | https://releases.hashicorp.com/waypoint/0.10.1/waypoint_0.10.1_windows_amd64.zip |
+| 0.10.1  | zip  | x86          | https://releases.hashicorp.com/waypoint/0.10.1/waypoint_0.10.1_windows_386.zip   |
+
+## Audacity
+
+[Link](https://www.audacityteam.org/)
+
+**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |
+| 3.2.0   | Windows  | x64          | exe  | 09/22/2022 | 14290656 | https://github.com/audacity/audacity/releases/download/Audacity-3.2.0/audacity-win-3.2.0-64bit.exe |
+| 3.2.0   | Windows  | x86          | exe  | 09/22/2022 | 13032272 | https://github.com/audacity/audacity/releases/download/Audacity-3.2.0/audacity-win-3.2.0-32bit.exe |
+
+## MicrosoftEdge
+
+[Link](https://www.microsoft.com/edge)
+
+**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
+
+| Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
+| ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 107.0.1387.2  | Any      | Policy     | Enterprise | any          | AADC8263F0F7D9EDAD667B694A03FBD45B6A72564B52F4418275B5FD5D796F5C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cdbaa134-bd6d-40dd-b8a3-204c65c25e5e/MicrosoftEdgePolicyTemplates.cab            |
+| 107.0.1387.2  | Windows  | Dev        | Consumer   | arm64        | FC9E4B555F05B12718065E9A1C8BABD688114493C9EC4DA478467D59B337C564 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/017da790-b3f7-43da-a3f9-00c4644e110d/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 107.0.1387.2  | Windows  | Dev        | Enterprise | arm64        | FC9E4B555F05B12718065E9A1C8BABD688114493C9EC4DA478467D59B337C564 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/017da790-b3f7-43da-a3f9-00c4644e110d/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 107.0.1387.2  | Windows  | Dev        | Consumer   | x64          | 3003A88200FE5905330CBC93E0D96901560730F29289034F7CFB66636FD1166E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77d56e69-59c6-40bb-bc94-3a801a93d7c5/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 107.0.1387.2  | Windows  | Dev        | Enterprise | x64          | 3003A88200FE5905330CBC93E0D96901560730F29289034F7CFB66636FD1166E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77d56e69-59c6-40bb-bc94-3a801a93d7c5/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 107.0.1387.2  | Windows  | Dev        | Consumer   | x86          | 96D3E781180BF753D5BF1BD73F30110A835317607F5C56649D39A3E9EDAB5AF8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/619bb6b4-747f-4cae-8831-613c0e0e9de1/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 107.0.1387.2  | Windows  | Dev        | Enterprise | x86          | 96D3E781180BF753D5BF1BD73F30110A835317607F5C56649D39A3E9EDAB5AF8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/619bb6b4-747f-4cae-8831-613c0e0e9de1/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 106.0.1370.17 | Windows  | Beta       | Consumer   | arm64        | A6496AC846F064735FE481E032363E667E1DEB40275F97F108285CF03581F04C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/83f03fe8-f95c-4ddc-a933-c86b8d3d63cf/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 106.0.1370.17 | Windows  | Beta       | Enterprise | arm64        | A6496AC846F064735FE481E032363E667E1DEB40275F97F108285CF03581F04C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/83f03fe8-f95c-4ddc-a933-c86b8d3d63cf/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 106.0.1370.17 | Windows  | Beta       | Consumer   | x64          | DB12CBBB0FA7569A9E1E02986DCF0E00F12ABF783EB6E612ABAEDAC5F7924DAF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/26e709b8-7d5f-443b-9d7a-bf12d9a13a7d/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 106.0.1370.17 | Windows  | Beta       | Enterprise | x64          | DB12CBBB0FA7569A9E1E02986DCF0E00F12ABF783EB6E612ABAEDAC5F7924DAF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/26e709b8-7d5f-443b-9d7a-bf12d9a13a7d/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 106.0.1370.17 | Windows  | Beta       | Consumer   | x86          | 45B613E53DC344BC44FF21058B5BB488561EC7BEC8621CC84B4EADECDF3135B2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5b29dc1-0643-4579-83a8-b69d07d20f5e/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 106.0.1370.17 | Windows  | Beta       | Enterprise | x86          | 45B613E53DC344BC44FF21058B5BB488561EC7BEC8621CC84B4EADECDF3135B2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5b29dc1-0643-4579-83a8-b69d07d20f5e/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 105.0.1343.50 | Windows  | Stable     | Consumer   | arm64        | 4938511E5C409E74A0B6A522C03802936F2ECDF6BA621D85B236A14B47B8E004 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e215904c-7647-4cf1-aa50-13c7c0842939/MicrosoftEdgeEnterpriseARM64.msi            |
+| 105.0.1343.50 | Windows  | Stable     | Enterprise | arm64        | 4938511E5C409E74A0B6A522C03802936F2ECDF6BA621D85B236A14B47B8E004 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e215904c-7647-4cf1-aa50-13c7c0842939/MicrosoftEdgeEnterpriseARM64.msi            |
+| 105.0.1343.50 | Windows  | Stable     | Consumer   | x64          | ECB7C143F42DA64E91AF536C4A9BCCB6B4F7E063ED5350A81B804FF6C108A035 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43dad407-9104-48f5-89ac-7a46dc52ab63/MicrosoftEdgeEnterpriseX64.msi              |
+| 105.0.1343.50 | Windows  | Stable     | Enterprise | x64          | ECB7C143F42DA64E91AF536C4A9BCCB6B4F7E063ED5350A81B804FF6C108A035 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43dad407-9104-48f5-89ac-7a46dc52ab63/MicrosoftEdgeEnterpriseX64.msi              |
+| 105.0.1343.50 | Windows  | Stable     | Consumer   | x86          | FB857BBF4ABECDB1C7D2F7EB98A2BD237E02308B5385CF1B7054FAD9EDAA106A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e3d3e3c6-5b9e-4c37-91c4-e59aaef1111b/MicrosoftEdgeEnterpriseX86.msi              |
+| 105.0.1343.50 | Windows  | Stable     | Enterprise | x86          | FB857BBF4ABECDB1C7D2F7EB98A2BD237E02308B5385CF1B7054FAD9EDAA106A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e3d3e3c6-5b9e-4c37-91c4-e59aaef1111b/MicrosoftEdgeEnterpriseX86.msi              |
+| 1.3.167.21    | Windows  | EdgeUpdate | Consumer   | x86          | E578023974F5B64216BE4BFCFBF09FC24F1F73FCE87756317B99B3A62EC329CE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/04eb12e5-4f00-44dc-832c-dd84c556643a/MicrosoftEdgeUpdateSetup_X86_1.3.167.21.exe |
+| 1.3.167.21    | Windows  | EdgeUpdate | Enterprise | x86          | E578023974F5B64216BE4BFCFBF09FC24F1F73FCE87756317B99B3A62EC329CE | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/04eb12e5-4f00-44dc-832c-dd84c556643a/MicrosoftEdgeUpdateSetup_X86_1.3.167.21.exe |
+
+## HashicorpConsul
+
+[Link](https://www.consul.io/)
+
+**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
+
+| Version | Type | Architecture | URI                                                                            |
+| ------- | ---- | ------------ | ------------------------------------------------------------------------------ |
+| 1.11.10 | zip  | x64          | https://releases.hashicorp.com/consul/1.11.10/consul_1.11.10_windows_amd64.zip |
+| 1.11.10 | zip  | x86          | https://releases.hashicorp.com/consul/1.11.10/consul_1.11.10_windows_386.zip   |
+
+## MicrosoftEdgeDriver
+
+[Link](https://www.microsoft.com/edge)
+
+**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
+
+| Version       | Channel | Architecture | URI                                                                   |
+| ------------- | ------- | ------------ | --------------------------------------------------------------------- |
+| 107.0.1387.2  | Dev     | ARM64        | https://msedgedriver.azureedge.net/107.0.1387.2/edgedriver_arm64.zip  |
+| 107.0.1387.2  | Dev     | x64          | https://msedgedriver.azureedge.net/107.0.1387.2/edgedriver_win64.zip  |
+| 107.0.1387.2  | Dev     | x86          | https://msedgedriver.azureedge.net/107.0.1387.2/edgedriver_win32.zip  |
+| 106.0.1370.17 | Beta    | ARM64        | https://msedgedriver.azureedge.net/106.0.1370.17/edgedriver_arm64.zip |
+| 106.0.1370.17 | Beta    | x64          | https://msedgedriver.azureedge.net/106.0.1370.17/edgedriver_win64.zip |
+| 106.0.1370.17 | Beta    | x86          | https://msedgedriver.azureedge.net/106.0.1370.17/edgedriver_win32.zip |
+| 105.0.1343.50 | Stable  | ARM64        | https://msedgedriver.azureedge.net/105.0.1343.50/edgedriver_arm64.zip |
+| 105.0.1343.50 | Stable  | x64          | https://msedgedriver.azureedge.net/105.0.1343.50/edgedriver_win64.zip |
+| 105.0.1343.50 | Stable  | x86          | https://msedgedriver.azureedge.net/105.0.1343.50/edgedriver_win32.zip |
+
+## MicrosoftEdgeWebView2Runtime
+
+[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+
+**Last update**: Friday, 23 September 2022 00:27:52 Etc/UTC
+
+| Version       | Channel | Architecture | URI                                                                                                                                                           |
+| ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 105.0.1343.50 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f6b1167-36b6-4375-888b-222dc7598010/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 105.0.1343.50 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/07a7ff04-997f-42c9-a7c1-640c9137a06e/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 105.0.1343.50 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97ba280d-6d37-476a-a151-da3a687b07dd/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## RStudio
 
@@ -382,6 +401,17 @@
 | ------- | ---------------------------------------------------------------- |
 | 5.60.0  | https://updates.signal.org/desktop/signal-desktop-win-5.60.0.exe |
 
+## OperaBrowser
+
+[Link](https://www.opera.com/browsers/opera)
+
+**Last update**: Wednesday, 21 September 2022 16:08:26 Etc/UTC
+
+| Version      | Architecture | Type | URI                                                                                           |
+| ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
+| 91.0.4516.20 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/91.0.4516.20/win/Opera_91.0.4516.20_Setup_x64.exe |
+| 91.0.4516.20 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/91.0.4516.20/win/Opera_91.0.4516.20_Setup.exe     |
+
 ## HashicorpTerraform
 
 [Link](https://www.terraform.io/)
@@ -403,17 +433,6 @@
 | ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------------------- |
 | 10.0.0  | Windows  | x64          | exe  | 09/21/2022 | 54711744 | https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs1000/gs1000w64.exe |
 | 10.0.0  | Windows  | x86          | exe  | 09/21/2022 | 42816408 | https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs1000/gs1000w32.exe |
-
-## OperaBrowser
-
-[Link](https://www.opera.com/browsers/opera)
-
-**Last update**: Wednesday, 21 September 2022 16:08:26 Etc/UTC
-
-| Version      | Architecture | Type | URI                                                                                           |
-| ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
-| 91.0.4516.20 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/91.0.4516.20/win/Opera_91.0.4516.20_Setup_x64.exe |
-| 91.0.4516.20 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/91.0.4516.20/win/Opera_91.0.4516.20_Setup.exe     |
 
 ## Slack
 
@@ -468,23 +487,6 @@
 | 4.0.4785 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
 | 4.0.4785 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
 
-## Microsoft365Apps
-
-[Link](https://www.microsoft.com/office)
-
-**Last update**: Tuesday, 20 September 2022 00:29:16 Etc/UTC
-
-| Version          | Channel           | Name                                  | Date                | URI                                               |
-| ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
-| 16.0.15709.20000 | BetaChannel       | Beta                                  | 09/13/2022 21:27:49 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15629.20118 | CurrentPreview    | Current Channel (Preview)             | 09/19/2022 20:05:16 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15601.20148 | Current           | Current Channel                       | 09/13/2022 07:46:55 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15601.20148 | SemiAnnualPreview | Semi-Annual Channel Preview           | 09/13/2022 08:02:29 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15427.20284 | MonthlyEnterprise | Monthly Enterprise                    | 09/13/2022 07:56:01 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14931.20724 | SemiAnnual        | Semi-Annual Channel                   | 09/13/2022 07:49:43 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14332.20375 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 09/13/2022 13:16:04 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.10390.20024 | PerpetualVL2019   | Office 2029 Perpetual Enterprise      | 09/13/2022 14:20:27 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-
 ## FileZilla
 
 [Link](https://filezilla-project.org/)
@@ -516,17 +518,6 @@
 | ------- | ---------------------------------------------------- |
 | 4.2.0   | https://updates.tdesktop.com/tsetup/tsetup.4.2.0.exe |
 
-## MicrosoftPowerToys
-
-[Link](https://github.com/microsoft/PowerToys/)
-
-**Last update**: Friday, 16 September 2022 00:26:38 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ |
-| 0.62.1  | Windows  | ARM64        | exe  | 09/13/2022 | 123884664 | https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-arm64.exe |
-| 0.62.1  | Windows  | x64          | exe  | 09/13/2022 | 131237424 | https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-x64.exe   |
-
 ## BitwardenDesktop
 
 [Link](https://bitwarden.com/)
@@ -548,6 +539,17 @@
 | 2022.2.2 | 222.4167.33  | PyCharm Community    | 09/15/2022 | 395790224 | https://download.jetbrains.com/python/pycharm-community-2022.2.2.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.2.2.exe    |
 | 2022.2.2 | 222.4167.33  | PyCharm Professional | 09/15/2022 | 493370656 | https://download.jetbrains.com/python/pycharm-professional-2022.2.2.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.2.2.exe |
 | 2022.2   | 222.3345.148 | PyCharm Edu          | 08/25/2022 | 393294128 | https://download.jetbrains.com/python/pycharm-edu-2022.2.exe.sha256            | https://download.jetbrains.com/python/pycharm-edu-2022.2.exe            |
+
+## MicrosoftPowerToys
+
+[Link](https://github.com/microsoft/PowerToys/)
+
+**Last update**: Friday, 16 September 2022 00:26:38 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ |
+| 0.62.1  | Windows  | ARM64        | exe  | 09/13/2022 | 123884664 | https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-arm64.exe |
+| 0.62.1  | Windows  | x64          | exe  | 09/13/2022 | 131237424 | https://github.com/microsoft/PowerToys/releases/download/v0.62.1/PowerToysSetup-0.62.1-x64.exe   |
 
 ## Cyberduck
 
@@ -616,6 +618,18 @@
 | 2022.2.2 | 222.4167.29  | IntelliJ IDEA Ultimate  | 09/14/2022 | 737476600 | https://download.jetbrains.com/idea/ideaIU-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.2.2.exe |
 | 2022.2   | 222.3345.148 | IntelliJ IDEA Edu       | 08/25/2022 | 692140048 | https://download.jetbrains.com/idea/ideaIE-2022.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIE-2022.2.exe   |
 
+## MicrosoftBicep
+
+[Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+
+**Last update**: Wednesday, 14 September 2022 00:26:09 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                               |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------- |
+| 0.10.61 | Windows  | ARM64        | exe  | 09/13/2022 | 42289560 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-win-arm64.exe     |
+| 0.10.61 | Windows  | x64          | exe  | 09/13/2022 | 19306256 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-setup-win-x64.exe |
+| 0.10.61 | Windows  | x64          | exe  | 09/13/2022 | 41838032 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-win-x64.exe       |
+
 ## MicrosoftVisualStudio
 
 [Link](https://visualstudio.microsoft.com/)
@@ -669,18 +683,6 @@
 | 3.1.29  | x64          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/6fd5d472-74ea-43f2-8d85-bf942b9faa2d/5f7e7161389843833675b884c20d4157/dotnet-runtime-3.1.29-win-x64.exe           |
 | 3.1.29  | x86          | windowsdesktop | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/b5a2058e-d1a7-48f6-a615-353973a1f960/9a2efe2b3d299f1e276106da8cea1c1d/windowsdesktop-runtime-3.1.29-win-x86.exe   |
 | 3.1.29  | x86          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/bb2ff940-1763-457b-9b65-aef6b9226727/f48a275a098e530d1cd38d3cc7026840/dotnet-runtime-3.1.29-win-x86.exe           |
-
-## MicrosoftBicep
-
-[Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
-
-**Last update**: Wednesday, 14 September 2022 00:26:09 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                               |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------- |
-| 0.10.61 | Windows  | ARM64        | exe  | 09/13/2022 | 42289560 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-win-arm64.exe     |
-| 0.10.61 | Windows  | x64          | exe  | 09/13/2022 | 19306256 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-setup-win-x64.exe |
-| 0.10.61 | Windows  | x64          | exe  | 09/13/2022 | 41838032 | https://github.com/Azure/bicep/releases/download/v0.10.61/bicep-win-x64.exe       |
 
 ## VastLimitsUberAgent
 
@@ -838,16 +840,6 @@
 | 8.4.5   | Windows  | x86          | exe  | 09/07/2022 | 4285552 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.Installer.exe                |
 | 8.4.5   | Windows  | x86          | zip  | 09/07/2022 | 5050679 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.zip                 |
 
-## WinSCP
-
-[Link](https://winscp.net/)
-
-**Last update**: Tuesday, 06 September 2022 16:10:05 Etc/UTC
-
-| Version | Architecture | Type | URI                                                                                  |
-| ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
-| 5.21.3  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21.3/WinSCP-5.21.3-Setup.exe |
-
 ## Zoom
 
 [Link](https://zoom.us/)
@@ -882,6 +874,16 @@
 | 3.10.7  | 3      | 58755d6906f825168999c83ce82315d7 | 27779240 | 09/06/2022 | exe  | x86          | https://www.python.org/ftp/python/3.10.7/python-3.10.7.exe       |
 | 2.7.18  | 2      | a425c758d38f8e28b56f4724b499239a | 20598784 | 04/20/2020 | msi  | x64          | https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi |
 | 2.7.18  | 2      | db6ad9195b3086c6b4cefb9493d738d2 | 19632128 | 04/20/2020 | msi  | x86          | https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi       |
+
+## WinSCP
+
+[Link](https://winscp.net/)
+
+**Last update**: Tuesday, 06 September 2022 16:10:05 Etc/UTC
+
+| Version | Architecture | Type | URI                                                                                  |
+| ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
+| 5.21.3  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21.3/WinSCP-5.21.3-Setup.exe |
 
 ## dnGrep
 
@@ -979,6 +981,26 @@
 | 1.11.3  | zip  | x64          | https://releases.hashicorp.com/vault/1.11.3/vault_1.11.3_windows_amd64.zip |
 | 1.11.3  | zip  | x86          | https://releases.hashicorp.com/vault/1.11.3/vault_1.11.3_windows_386.zip   |
 
+## MicrosoftSsms
+
+[Link](https://go.microsoft.com/fwlink/?LinkId=531355)
+
+**Last update**: Wednesday, 31 August 2022 16:08:12 Etc/UTC
+
+| Version      | Date       | Language              | URI                                                                                                   |
+| ------------ | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
+| 15.0.18410.0 | 03/05/2022 | Chinese (Simplified)  | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-CHS.exe |
+| 15.0.18410.0 | 03/05/2022 | Chinese (Traditional) | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-CHT.exe |
+| 15.0.18410.0 | 03/05/2022 | English               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ENU.exe |
+| 15.0.18410.0 | 03/05/2022 | French                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-FRA.exe |
+| 15.0.18410.0 | 03/05/2022 | German                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-DEU.exe |
+| 15.0.18410.0 | 03/05/2022 | Italian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ITA.exe |
+| 15.0.18410.0 | 03/05/2022 | Japanese              | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-JPN.exe |
+| 15.0.18410.0 | 03/05/2022 | Korean                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-KOR.exe |
+| 15.0.18410.0 | 03/05/2022 | Portuguese (Brazil)   | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-PTB.exe |
+| 15.0.18410.0 | 03/05/2022 | Russian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-RUS.exe |
+| 15.0.18410.0 | 03/05/2022 | Spanish               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ESN.exe |
+
 ## OpenJDK
 
 [Link](https://openjdk.java.net/)
@@ -1009,26 +1031,6 @@
 | 1.8.0.322-1.b06-x86 | Windows  | x86          | msi  | 01/29/2022 | 146566880 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06-x86/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86.msi |
 | 1.8.0.332-1.b09-x86 | Windows  | x86          | msi  | 04/30/2022 | 146435808 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09-x86/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86.msi |
 | 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
-
-## MicrosoftSsms
-
-[Link](https://go.microsoft.com/fwlink/?LinkId=531355)
-
-**Last update**: Wednesday, 31 August 2022 16:08:12 Etc/UTC
-
-| Version      | Date       | Language              | URI                                                                                                   |
-| ------------ | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
-| 15.0.18410.0 | 03/05/2022 | Chinese (Simplified)  | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-CHS.exe |
-| 15.0.18410.0 | 03/05/2022 | Chinese (Traditional) | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-CHT.exe |
-| 15.0.18410.0 | 03/05/2022 | English               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ENU.exe |
-| 15.0.18410.0 | 03/05/2022 | French                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-FRA.exe |
-| 15.0.18410.0 | 03/05/2022 | German                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-DEU.exe |
-| 15.0.18410.0 | 03/05/2022 | Italian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ITA.exe |
-| 15.0.18410.0 | 03/05/2022 | Japanese              | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-JPN.exe |
-| 15.0.18410.0 | 03/05/2022 | Korean                | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-KOR.exe |
-| 15.0.18410.0 | 03/05/2022 | Portuguese (Brazil)   | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-PTB.exe |
-| 15.0.18410.0 | 03/05/2022 | Russian               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-RUS.exe |
-| 15.0.18410.0 | 03/05/2022 | Spanish               | https://download.microsoft.com/download/8/a/8/8a8073d2-2e00-472b-9a18-88361d105915/SSMS-Setup-ESN.exe |
 
 ## TelerikFiddlerEverywhere
 
@@ -1263,16 +1265,6 @@
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------- |
 | 2.19.2  | Windows  | x64          | msi  | 08/22/2022 | 25219072 | https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-windows-x86_64.msi |
 
-## VercelHyper
-
-[Link](https://hyper.js/)
-
-**Last update**: Monday, 22 August 2022 12:07:56 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                            |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------ |
-| 3.3.0   | Windows  | x86          | exe  | 08/22/2022 | 69717688 | https://github.com/vercel/hyper/releases/download/v3.3.0/Hyper-Setup-3.3.0.exe |
-
 ## LogMeInGoToOpener
 
 [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi-g2m850002)
@@ -1282,6 +1274,16 @@
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
 | 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+
+## VercelHyper
+
+[Link](https://hyper.js/)
+
+**Last update**: Monday, 22 August 2022 12:07:56 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------ |
+| 3.3.0   | Windows  | x86          | exe  | 08/22/2022 | 69717688 | https://github.com/vercel/hyper/releases/download/v3.3.0/Hyper-Setup-3.3.0.exe |
 
 ## Zotero
 
@@ -1598,16 +1600,6 @@
 | 0.9.7   | Windows  | x64          | exe  | 08/03/2022 | 119233486 | https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x64.exe |
 | 0.9.7   | Windows  | x86          | exe  | 08/03/2022 | 115180016 | https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x32.exe |
 
-## MicrosoftWindowsPackageManagerClient
-
-[Link](https://docs.microsoft.com/en-us/windows/package-manager/)
-
-**Last update**: Wednesday, 03 August 2022 18:21:58 Etc/UTC
-
-| Version  | Platform | Architecture | Type       | Date       | Size     | URI                                                                                                                        |
-| -------- | -------- | ------------ | ---------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1.3.2091 | Windows  | x86          | msixbundle | 07/28/2022 | 14587619 | https://github.com/microsoft/winget-cli/releases/download/v1.3.2091/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle |
-
 ## AkeoRufus
 
 [Link](https://rufus.ie/)
@@ -1620,6 +1612,16 @@
 | 3.20    | Windows  | ARM64        | exe  | 08/03/2022 | 3893320 | https://github.com/pbatard/rufus/releases/download/v3.20/rufus-3.20_arm64.exe |
 | 3.20    | Windows  | x86          | exe  | 08/03/2022 | 1395272 | https://github.com/pbatard/rufus/releases/download/v3.20/rufus-3.20.exe       |
 | 3.20    | Windows  | x86          | exe  | 08/03/2022 | 1395272 | https://github.com/pbatard/rufus/releases/download/v3.20/rufus-3.20p.exe      |
+
+## MicrosoftWindowsPackageManagerClient
+
+[Link](https://docs.microsoft.com/en-us/windows/package-manager/)
+
+**Last update**: Wednesday, 03 August 2022 18:21:58 Etc/UTC
+
+| Version  | Platform | Architecture | Type       | Date       | Size     | URI                                                                                                                        |
+| -------- | -------- | ------------ | ---------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1.3.2091 | Windows  | x86          | msixbundle | 07/28/2022 | 14587619 | https://github.com/microsoft/winget-cli/releases/download/v1.3.2091/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle |
 
 ## Handbrake
 
@@ -1773,6 +1775,16 @@
 | 0.15.9  | Windows  | x86          | exe  | 07/26/2022 | 64348264 | https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9-32.exe    |
 | 0.15.9  | Windows  | x86          | exe  | 07/26/2022 | 67681704 | https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9.exe       |
 
+## MasterPackager
+
+[Link](https://www.masterpackager.com/)
+
+**Last update**: Tuesday, 26 July 2022 18:22:56 Etc/UTC
+
+| Version   | Type | URI                                                                                     |
+| --------- | ---- | --------------------------------------------------------------------------------------- |
+| 22.3.8241 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_22.3.8241.0.msi |
+
 ## CitrixVMTools
 
 [Link](https://www.citrix.com/downloads/citrix-hypervisor/)
@@ -1785,16 +1797,6 @@
 | 9.3.0.73   | x86          | 5844992 | D9057A5A174887A78FE8B60120FF293FA540156232B145D71CC01A99DACCC0F5 | http://downloadns.citrix.com.edgesuite.net/17442/managementagentx86.msi |
 | 7.2.0.1555 | x64          | 9383936 | 9ac5c19ad64d8dd2b51a11ea05dc2e63441db1d8812cdae38bb1de14e77ec6e8 | http://downloadns.citrix.com.edgesuite.net/14656/managementagentx64.msi |
 | 7.2.0.1555 | x86          | 9371648 | ea75775404f3e6e550a6d27b11c7cb9a6d6197484edc994a2984850606f20aab | http://downloadns.citrix.com.edgesuite.net/14655/managementagentx86.msi |
-
-## MasterPackager
-
-[Link](https://www.masterpackager.com/)
-
-**Last update**: Tuesday, 26 July 2022 18:22:56 Etc/UTC
-
-| Version   | Type | URI                                                                                     |
-| --------- | ---- | --------------------------------------------------------------------------------------- |
-| 22.3.8241 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_22.3.8241.0.msi |
 
 ## MicrosoftWvdBootloader
 
@@ -1877,6 +1879,17 @@
 | ----------- | -------- | -------------------------------------------------------- |
 | 4.4.3.26655 | English  | https://www.scootersoftware.com/BCompare-4.4.3.26655.exe |
 
+## OracleJava8
+
+[Link](https://www.java.com)
+
+**Last update**: Tuesday, 19 July 2022 18:22:21 Etc/UTC
+
+| Version       | Architecture | URI                                                                                                                                       |
+| ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.8.0_341-b10 | x64          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_341-b10/424b9da4b48848379167015dcc250d8d/windows-i586/jre-8u341-windows-x64.exe  |
+| 1.8.0_341-b10 | x86          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_341-b10/424b9da4b48848379167015dcc250d8d/windows-i586/jre-8u341-windows-i586.exe |
+
 ## VMwareHorizonClientAlt
 
 [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
@@ -1896,17 +1909,6 @@
 | Version        | URI                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 8.6.0.20094380 | https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.6.0/20094380/VMware-Horizon-Client-2206-8.6.0-20094380.exe.tar |
-
-## OracleJava8
-
-[Link](https://www.java.com)
-
-**Last update**: Tuesday, 19 July 2022 18:22:21 Etc/UTC
-
-| Version       | Architecture | URI                                                                                                                                       |
-| ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.0_341-b10 | x64          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_341-b10/424b9da4b48848379167015dcc250d8d/windows-i586/jre-8u341-windows-x64.exe  |
-| 1.8.0_341-b10 | x86          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_341-b10/424b9da4b48848379167015dcc250d8d/windows-i586/jre-8u341-windows-i586.exe |
 
 ## BeekeeperStudio
 
@@ -2066,650 +2068,650 @@
 
 | Version | Architecture | Channel                | Language | Type | Filename                      | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ach/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/af/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/an/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ar/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ast/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/az/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/be/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/bg/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/br/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/bs/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ca/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/cak/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/cs/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/cy/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/da/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/de/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/dsb/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/el/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/en-CA/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/en-GB/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/en-US/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/eo/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/es-AR/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/es-CL/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/es-ES/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/es-MX/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/et/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/eu/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/fa/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ff/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/fi/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/fr/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/fy-NL/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ga-IE/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/gd/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/gl/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/gn/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/gu-IN/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/he/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/hi-IN/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/hr/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/hsb/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/hu/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/hy-AM/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ia/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/id/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/is/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/it/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ja/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ka/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/kab/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/kk/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/km/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/kn/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ko/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/lij/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/lt/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/lv/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/mk/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/mr/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ms/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/my/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/nb-NO/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ne-NP/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/nl/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/nn-NO/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/oc/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/pa-IN/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/pl/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/pt-BR/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/pt-PT/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/rm/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ro/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ru/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/si/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/sk/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/sl/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/son/Firefox%20Setup%20105.0.exe             |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/sq/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/sr/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/sv-SE/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ta/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/te/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/th/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/tr/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/uk/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/ur/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/uz/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/vi/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/xh/Firefox%20Setup%20105.0.exe              |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/zh-CN/Firefox%20Setup%20105.0.exe           |
-| 105.0   | ARM64        | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64-aarch64/zh-TW/Firefox%20Setup%20105.0.exe           |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ach/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ach/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/af/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/af/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/an/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/an/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ar/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ar/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ast/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ast/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/az/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/az/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/be/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/be/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/bg/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/bg/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/br/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/br/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/bs/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/bs/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ca/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ca/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/cak/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/cak/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/cs/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/cs/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/cy/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/cy/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/da/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/da/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/de/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/de/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/dsb/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/dsb/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/el/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/el/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/en-CA/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/en-CA/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/en-GB/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/en-GB/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/en-US/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/en-US/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/eo/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/eo/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-AR/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-AR/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-CL/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-CL/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-ES/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-ES/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-MX/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/es-MX/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/et/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/et/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/eu/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/eu/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fa/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fa/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ff/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ff/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fi/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fi/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fy-NL/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/fy-NL/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ga-IE/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ga-IE/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gd/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gd/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gn/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gn/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gu-IN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/gu-IN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/he/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/he/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hi-IN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hi-IN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hsb/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hsb/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hu/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hu/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hy-AM/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/hy-AM/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ia/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ia/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/id/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/id/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/is/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/is/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/it/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/it/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ja/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ja/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ka/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ka/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/kab/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/kab/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/kk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/kk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/km/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/km/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/kn/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/kn/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ko/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ko/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/lij/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/lij/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/lt/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/lt/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/lv/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/lv/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/mk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/mk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/mr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/mr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ms/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ms/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/my/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/my/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/nb-NO/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/nb-NO/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ne-NP/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ne-NP/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/nl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/nl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/nn-NO/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/nn-NO/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/oc/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/oc/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pa-IN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pa-IN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pt-BR/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pt-BR/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pt-PT/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/pt-PT/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/rm/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/rm/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ro/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ro/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ru/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ru/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/si/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/si/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/son/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/son/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sq/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sq/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sv-SE/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/sv-SE/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ta/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ta/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/te/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/te/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/th/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/th/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/tr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/tr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/uk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/uk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ur/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/ur/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/uz/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/uz/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/vi/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/vi/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/xh/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/xh/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/zh-CN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/zh-CN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/zh-TW/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/zh-TW/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win64/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ach/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ach/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/af/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/af/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/an/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/an/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ar/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ar/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ast/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ast/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/az/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/az/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/be/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/be/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/bg/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/bg/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/br/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/br/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/bs/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/bs/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ca/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ca/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/cak/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/cak/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/cs/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/cs/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/cy/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/cy/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/da/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/da/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/de/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/de/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/dsb/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/dsb/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/el/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/el/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/en-CA/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/en-CA/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/en-GB/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/en-GB/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/en-US/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/en-US/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/eo/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/eo/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-AR/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-AR/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-CL/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-CL/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-ES/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-ES/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-MX/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/es-MX/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/et/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/et/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/eu/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/eu/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fa/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fa/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ff/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ff/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fi/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fi/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fy-NL/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/fy-NL/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ga-IE/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ga-IE/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gd/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gd/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gn/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gn/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gu-IN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/gu-IN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/he/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/he/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hi-IN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hi-IN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hsb/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hsb/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hu/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hu/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hy-AM/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/hy-AM/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ia/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ia/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/id/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/id/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/is/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/is/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/it/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/it/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ja/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ja/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ka/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ka/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/kab/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/kab/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/kk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/kk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/km/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/km/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/kn/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/kn/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ko/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ko/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/lij/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/lij/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/lt/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/lt/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/lv/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/lv/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/mk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/mk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/mr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/mr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ms/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ms/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/my/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/my/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/nb-NO/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/nb-NO/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ne-NP/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ne-NP/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/nl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/nl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/nn-NO/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/nn-NO/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/oc/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/oc/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pa-IN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pa-IN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pt-BR/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pt-BR/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pt-PT/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/pt-PT/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/rm/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/rm/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ro/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ro/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ru/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ru/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/si/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/si/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sl/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sl/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/son/Firefox%20Setup%20105.0.exe                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/son/Firefox%20Setup%20105.0.msi                     |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sq/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sq/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sv-SE/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/sv-SE/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ta/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ta/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/te/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/te/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/th/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/th/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/tr/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/tr/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/uk/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/uk/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ur/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/ur/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/uz/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/uz/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/vi/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/vi/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/xh/Firefox%20Setup%20105.0.exe                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/xh/Firefox%20Setup%20105.0.msi                      |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/zh-CN/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/zh-CN/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 105.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/zh-TW/Firefox%20Setup%20105.0.exe                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 105.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/zh-TW/Firefox%20Setup%20105.0.msi                   |
-| 105.0   | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 105.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0/win32/multi/Firefox%20Setup%20105.0.msix                  |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ach/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/af/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/an/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ar/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ast/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/az/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/be/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/bg/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/br/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/bs/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ca/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/cak/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/cs/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/cy/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/da/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/de/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/dsb/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/el/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/en-CA/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/en-GB/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/en-US/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/eo/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/es-AR/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/es-CL/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/es-ES/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/es-MX/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/et/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/eu/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/fa/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ff/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/fi/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/fr/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/fy-NL/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ga-IE/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/gd/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/gl/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/gn/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/gu-IN/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/he/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/hi-IN/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/hr/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/hsb/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/hu/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/hy-AM/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ia/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/id/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/is/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/it/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ja/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ka/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/kab/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/kk/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/km/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/kn/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ko/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/lij/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/lt/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/lv/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/mk/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/mr/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ms/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/my/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/nb-NO/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ne-NP/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/nl/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/nn-NO/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/oc/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/pa-IN/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/pl/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/pt-BR/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/pt-PT/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/rm/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ro/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ru/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/si/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/sk/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/sl/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/son/Firefox%20Setup%20105.0.1.exe         |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/sq/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/sr/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/sv-SE/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ta/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/te/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/th/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/tr/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/uk/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/ur/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/uz/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/vi/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/xh/Firefox%20Setup%20105.0.1.exe          |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/zh-CN/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | ARM64        | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64-aarch64/zh-TW/Firefox%20Setup%20105.0.1.exe       |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ach/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ach/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/af/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/af/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/an/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/an/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ar/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ar/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ast/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ast/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/az/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/az/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/be/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/be/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/bg/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/bg/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/br/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/br/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/bs/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/bs/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ca/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ca/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/cak/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/cak/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/cs/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/cs/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/cy/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/cy/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/da/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/da/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/de/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/de/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/dsb/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/dsb/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/el/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/el/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/en-CA/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/en-CA/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/en-GB/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/en-GB/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/en-US/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/en-US/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/eo/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/eo/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-AR/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-AR/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-CL/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-CL/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-ES/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-ES/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-MX/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/es-MX/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/et/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/et/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/eu/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/eu/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fa/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fa/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ff/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ff/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fi/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fi/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fy-NL/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/fy-NL/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ga-IE/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ga-IE/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gd/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gd/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gn/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gn/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gu-IN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/gu-IN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/he/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/he/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hi-IN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hi-IN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hsb/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hsb/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hu/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hu/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hy-AM/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/hy-AM/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ia/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ia/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/id/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/id/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/is/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/is/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/it/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/it/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ja/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ja/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ka/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ka/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/kab/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/kab/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/kk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/kk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/km/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/km/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/kn/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/kn/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ko/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ko/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/lij/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/lij/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/lt/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/lt/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/lv/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/lv/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/mk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/mk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/mr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/mr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ms/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ms/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/my/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/my/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/nb-NO/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/nb-NO/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ne-NP/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ne-NP/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/nl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/nl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/nn-NO/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/nn-NO/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/oc/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/oc/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pa-IN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pa-IN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pt-BR/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pt-BR/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pt-PT/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/pt-PT/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/rm/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/rm/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ro/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ro/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ru/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ru/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/si/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/si/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/son/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/son/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sq/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sq/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sv-SE/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/sv-SE/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ta/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ta/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/te/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/te/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/th/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/th/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/tr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/tr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/uk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/uk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ur/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/ur/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/uz/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/uz/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/vi/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/vi/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/xh/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/xh/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/zh-CN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/zh-CN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/zh-TW/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/zh-TW/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win64/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ach/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ach/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/af/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/af/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/an/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/an/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ar/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ar/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ast/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ast/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/az/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/az/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/be/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/be/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/bg/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/bg/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/br/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/br/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/bs/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/bs/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ca/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ca/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/cak/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/cak/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/cs/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/cs/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/cy/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/cy/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/da/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/da/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/de/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/de/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/dsb/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/dsb/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/el/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/el/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/en-CA/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/en-CA/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/en-GB/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/en-GB/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/en-US/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/en-US/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/eo/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/eo/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-AR/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-AR/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-CL/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-CL/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-ES/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-ES/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-MX/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/es-MX/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/et/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/et/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/eu/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/eu/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fa/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fa/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ff/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ff/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fi/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fi/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fy-NL/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/fy-NL/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ga-IE/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ga-IE/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gd/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gd/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gn/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gn/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gu-IN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/gu-IN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/he/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/he/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hi-IN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hi-IN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hsb/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hsb/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hu/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hu/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hy-AM/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/hy-AM/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ia/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ia/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/id/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/id/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/is/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/is/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/it/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/it/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ja/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ja/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ka/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ka/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/kab/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/kab/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/kk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/kk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/km/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/km/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/kn/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/kn/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ko/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ko/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/lij/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/lij/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/lt/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/lt/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/lv/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/lv/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/mk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/mk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/mr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/mr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ms/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ms/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/my/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/my/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/nb-NO/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/nb-NO/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ne-NP/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ne-NP/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/nl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/nl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/nn-NO/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/nn-NO/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/oc/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/oc/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pa-IN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pa-IN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pt-BR/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pt-BR/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pt-PT/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/pt-PT/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/rm/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/rm/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ro/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ro/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ru/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ru/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/si/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/si/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sl/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sl/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/son/Firefox%20Setup%20105.0.1.exe                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/son/Firefox%20Setup%20105.0.1.msi                 |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sq/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sq/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sv-SE/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/sv-SE/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ta/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ta/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/te/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/te/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/th/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/th/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/tr/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/tr/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/uk/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/uk/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ur/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/ur/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/uz/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/uz/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/vi/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/vi/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/xh/Firefox%20Setup%20105.0.1.exe                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/xh/Firefox%20Setup%20105.0.1.msi                  |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/zh-CN/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/zh-CN/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 105.0.1.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/zh-TW/Firefox%20Setup%20105.0.1.exe               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 105.0.1.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/zh-TW/Firefox%20Setup%20105.0.1.msi               |
+| 105.0.1 | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 105.0.1.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/105.0.1/win32/multi/Firefox%20Setup%20105.0.1.msix              |
 | 102.3.0 | ARM64        | FIREFOX_ESR            | ach      | exe  | Firefox Setup 102.3.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.3.0esr/win64-aarch64/ach/Firefox%20Setup%20102.3.0esr.exe   |
 | 102.3.0 | ARM64        | FIREFOX_ESR            | af       | exe  | Firefox Setup 102.3.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.3.0esr/win64-aarch64/af/Firefox%20Setup%20102.3.0esr.exe    |
 | 102.3.0 | ARM64        | FIREFOX_ESR            | an       | exe  | Firefox Setup 102.3.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.3.0esr/win64-aarch64/an/Firefox%20Setup%20102.3.0esr.exe    |
@@ -3386,6 +3388,303 @@
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 3.10.2.45 | 63d9767e795547109ca7d0bcf0ae4577414f8b4e | https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.10.2/EgnyteDesktopApp_3.10.2_45.msi |
 
+## TelerikFiddlerClassic
+
+[Link](https://www.telerik.com/fiddler/fiddler-classic)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version     | URI                                                               |
+| ----------- | ----------------------------------------------------------------- |
+| 2.6.3.49793 | https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe |
+
+## KeePassXCTeamKeePassXC
+
+[Link](https://keepassxc.org/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                         |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
+| 2.7.1   | Windows  | x64          | msi  | 04/06/2022 | 52416512 | https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64-LegacyWindows.msi |
+| 2.7.1   | Windows  | x64          | msi  | 04/06/2022 | 45428736 | https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi               |
+
+## OpenShellMenu
+
+[Link](https://open-shell.github.io/Open-Shell-Menu/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------- |
+| 4.4.170 | Windows  | x86          | exe  | 05/12/2022 | 7380480 | https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.170/OpenShellSetup_4_4_170.exe |
+
+## MendeleyDesktop
+
+[Link](https://www.mendeley.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | URI                                                                              |
+| ------- | -------------------------------------------------------------------------------- |
+| 1.19.8  | https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe |
+
+## GitHubAtom
+
+[Link](https://atom.io/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                      |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------ |
+| 1.60.0  | Windows  | x64          | exe  | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe |
+| 1.60.0  | Windows  | x86          | exe  | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe     |
+
+## Scratch
+
+[Link](https://scratch.mit.edu/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | URI                                                                    |
+| ------- | ---------------------------------------------------------------------- |
+| 3.29.1  | https://downloads.scratch.mit.edu/desktop/Scratch%203.29.1%20Setup.exe |
+
+## Terminals
+
+[Link](https://github.com/terminals-Origin/Terminals/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
+| 4.0.1   | Windows  | x86          | msi  | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
+
+## AdoptOpenJDK8
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                           |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.26.0  | Windows  | x64          | msi  | 01/11/2019 | 105721856 | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
+| 0.26.0  | Windows  | x64          | msi  | 01/11/2019 | 43614208  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
+| 0.26.0  | Windows  | x86          | msi  | 01/11/2019 | 98983936  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
+| 0.26.0  | Windows  | x86          | msi  | 01/11/2019 | 36962304  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
+
+## Minitab
+
+[Link](https://www.minitab.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version     | Architecture | Release | URI                                                                                                                      |
+| ----------- | ------------ | ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 20.4.0.0    | x64          | 20      | https://files3.minitab.com/prodinstalls/minitab/minitab20/20.4.0.0/updates/commercial/minitab20.4.0.0setup.x64.exe       |
+| 19.2020.1.0 | x64          | 19      | https://files3.minitab.com/prodinstalls/minitab/minitab19/19.2020.1.0/updates/commercial/minitab19.2020.1.0setup.x64.exe |
+
+## Greenshot
+
+[Link](https://getgreenshot.org/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                                     |
+| -------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.2.10.6 | Windows  | x86          | exe  | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
+| 1.2.10.6 | Windows  | x86          | exe  | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
+| 1.2.10.6 | Windows  | x86          | zip  | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
+
+## CendioThinLinc
+
+[Link](https://www.cendio.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | URI                                                                   |
+| ------- | --------------------------------------------------------------------- |
+| 4.14.0  | https://www.cendio.com/downloads/clients/tl-4.14.0-client-windows.exe |
+
+## Miniconda
+
+[Link](https://docs.conda.io/en/latest/miniconda.html)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                           |
+| ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 4.12.0  | x64          | 05/16/2022 19:57:24 | 72311592 | a7a3fdb0de9e69087cc969f501cdd0d5 | b221ccdb2bbc5a8209a292f858ae05fd87f882f79be75b37d26faa881523c057 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86_64.exe |
+| 4.12.0  | x64          | 05/16/2022 19:57:25 | 74002632 | 40ec9cc634375a21d13f64356567b3b5 | 94f24e52e316fa935ccf94b0c504ceca8e6abc6190c68378e18550c95bb7cee1 | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86_64.exe |
+| 4.12.0  | x64          | 05/16/2022 19:57:25 | 74687656 | db94d2476895f7a838a89a396ac75a0b | 1acbc2e8277ddd54a5f724896c7edee112d068529588d944702966c867e7e9cc | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe |
+| 4.12.0  | x86          | 05/16/2022 19:57:25 | 68643808 | 8e93fdd25b917421db92dd7c7882f1d1 | a6af674b984a333b53aaf99043f6af4f50b0bb2ab78e0b732aa60c47bbfb0704 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86.exe    |
+| 4.12.0  | x86          | 05/16/2022 19:57:24 | 70068144 | 00ddd3da3f79855148176a1fc244dc51 | 60cc5874b3cce9d80a38fb2b28df96d880e8e95d1b5848b15c20f1181e2807db | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86.exe    |
+| 4.12.0  | x86          | 05/16/2022 19:57:25 | 71081736 | 9753453d01c8369e3679d083f7ced75c | 4fb64e6c9c28b88beab16994bfba4829110ea3145baa60bda5344174ab65d462 | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86.exe    |
+
+## ProjectLibre
+
+[Link](https://www.projectlibre.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Architecture | Type | URI                                                                                            |
+| ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | https://nchc.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+
+## jq
+
+[Link](http://stedolan.github.io/jq/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                  |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------- |
+| 1.6     | Windows  | x64          | exe  | 11/02/2018 | 3525307 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe |
+| 1.6     | Windows  | x86          | exe  | 11/02/2018 | 2711358 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win32.exe |
+
+## AdobeBrackets
+
+[Link](http://brackets.io/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
+| 1.14.2  | Windows  | x86          | msi  | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
+
+## Nomacs
+
+[Link](https://nomacs.org/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                              |
+| -------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------- |
+| 3.16.224 | Windows  | x64          | exe  | 07/17/2020 | 24207408 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe |
+| 3.16.224 | Windows  | x64          | msi  | 07/17/2020 | 39862272 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi |
+
+## USBPcap
+
+[Link](https://github.com/desowin/usbpcap/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size   | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ---------- | ------ | ------------------------------------------------------------------------------------- |
+| 1.5.4.0 | Windows  | x86          | exe  | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
+
+## OpenWebStart
+
+[Link](https://openwebstart.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
+| 1.6.0   | Windows  | x64          | exe  | 05/16/2022 | 54949816 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x64_1_6_0.exe |
+| 1.6.0   | Windows  | x86          | exe  | 05/16/2022 | 55648184 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x32_1_6_0.exe |
+
+## deviceTRUST
+
+[Link](https://devicetrust.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version    | Platform | Type   | Name                                            | URI                                                                                       |
+| ---------- | -------- | ------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 21.1.210.0 | Windows  | Bundle | deviceTRUST 21.1.210                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.210.zip                         |
+| 21.1.200.0 | Windows  | Bundle | deviceTRUST 21.1.200                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.200.zip                         |
+| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.200.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe          |
+| 21.1.110.0 | Windows  | Bundle | deviceTRUST 21.1.110                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.110.zip                         |
+| 21.1.110.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.110.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.110.0.exe          |
+| 21.1.100.0 | Windows  | Bundle | deviceTRUST 21.1.100                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.100.zip                         |
+| 21.1.100.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.100.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.100.0.exe          |
+| 20.2.400.0 | Windows  | Bundle | deviceTRUST 20.2.400                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.400.zip                         |
+| 20.2.400.0 | Windows  | Client | deviceTRUST Windows Client 20.2.400.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.400.0.exe                    |
+| 20.2.340.0 | Windows  | Bundle | deviceTRUST 20.2.340                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.340.zip                         |
+| 20.2.340.0 | Windows  | Client | deviceTRUST Windows Client 20.2.340.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.340.0.exe                    |
+| 20.2.310.0 | IGEL     | Client | deviceTRUST IGEL Client 20.2.310                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.2.310.0.zip         |
+| 20.2.310.0 | macOS    | Client | deviceTRUST macOS Client 20.2.310               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.2.310.0.dmg        |
+| 20.2.300.0 | Linux    | Client | deviceTRUST Linux Client 20.2.300               | https://storage.devicetrust.com/client/dtclient-linux-amd64-release-20.2.300.0.deb        |
+| 20.1.300.0 | Windows  | Bundle | deviceTRUST 20.1.300                            | https://storage.devicetrust.com/download/deviceTRUST-20.1.300.zip                         |
+| 20.1.300.0 | Windows  | Client | deviceTRUST Windows Client 20.1.300             | https://storage.devicetrust.com/client/dtclient-release-20.1.300.0.exe                    |
+| 20.1.200.0 | eLux     | Client | deviceTRUST eLux Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-eluxrp6-amd64-release-20.1.200.0.zip      |
+| 20.1.200.0 | IGEL     | Client | deviceTRUST IGEL Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.1.200.0.zip         |
+| 20.1.200.0 | macOS    | Client | deviceTRUST macOS Client 20.1.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.1.200.dmg          |
+| 19.4.200.0 | macOS    | Client | deviceTRUST macOS Client 19.4.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-19.4.200.dmg          |
+| 19.4.100.0 | Windows  | Bundle | deviceTRUST 19.4.100                            | https://storage.devicetrust.com/696DC206E3D4EAB3705F6FA0EBD704A4/deviceTRUST-19.4.100.zip |
+| 19.4.100.0 | Windows  | Client | deviceTRUST Windows Client 19.4.100             | https://storage.devicetrust.com/client/dtclient-release-19.4.100.0.exe                    |
+
+## LogMeInGoToMeeting
+
+[Link](https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version     | Type         | URI                                                                                       |
+| ----------- | ------------ | ----------------------------------------------------------------------------------------- |
+| 10.19.19950 | Latest       | https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_IT.msi                  |
+| 10.19.19950 | XenAppLatest | https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_Xen.msi                 |
+| 10.17.19796 | Minimum      | https://builds.cdn.getgo.com/builds/g2m/19796/G2MSetup10.17.19796_IT.msi                  |
+| 10.15       | Multi-build  | https://builds.cdn.getgo.com/builds/G2MSetupBundle/20220427_55/G2MSetup10.15-10.19_IT.msi |
+
+## FreeFem
+
+[Link](https://freefem.org/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                       |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------- |
+| 4.11    | Windows  | x64          | exe  | 04/05/2022 | 244726781 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFem%2B%2B-4.11-win64-petsctest.exe |
+| 4.11    | Windows  | x64          | exe  | 04/05/2022 | 196151185 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFEM-4.11-win64.exe                 |
+| 4.11    | Windows  | x64          | exe  | 04/05/2022 | 198642033 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFEM-4.11-windows10test-win64.exe   |
+
+## WixToolset
+
+[Link](https://wixtoolset.org/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                        |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------- |
+| 3.11.2  | Windows  | x86          | exe  | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
+
+## 7ZipZS
+
+[Link](https://mcmilk.de/projects/7-Zip-zstd/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
+| 21.03   | Windows  | ARM32        | exe  | 10/05/2021 | 2739321 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-arm.exe   |
+| 21.03   | Windows  | ARM64        | exe  | 10/05/2021 | 2641899 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-arm64.exe |
+| 21.03   | Windows  | x64          | exe  | 10/05/2021 | 2814535 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-x64.exe   |
+| 21.03   | Windows  | x86          | exe  | 10/05/2021 | 2551448 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-x32.exe   |
+
+## Anaconda
+
+[Link](https://www.anaconda.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                    |
+| ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2022.05 | x64          | 05/10/2022 18:22:02 | 622731992 | 9dec53982beb2659b65107a6ad10e863 | 2766eb102f9d65da36d262b651777358de39fbe5f1a74f9854a2e5e29caeeeec | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe |
+| 2022.05 | x86          | 05/10/2022 18:21:59 | 511528600 | f581359e0f0081a8cc83071556f9fd1d | cd8c688349bcd1f429e3b383620fb0d19f52be0f765b2eae78d63b41aefb2e73 | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86.exe    |
+
+## AtlassianSourcetree
+
+[Link](https://www.sourcetreeapp.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | Type | URI                                                                                                        |
+| ------- | ---- | ---------------------------------------------------------------------------------------------------------- |
+| 3.4.9   | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.9.exe           |
+| 3.4.9   | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.9.msi |
+
 ## BISF
 
 [Link](https://eucweb.com/)
@@ -3879,303 +4178,6 @@
 | Version    | Platform | Architecture | Type | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
 | 2205.143.2 | Windows  | x86          | exe  | 05/14/2021 | 2546080 | https://github.com/RDAnalyzer/release/releases/download/2205.143.2/RemoteDisplayAnalyzer.exe |
-
-## AtlassianSourcetree
-
-[Link](https://www.sourcetreeapp.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Type | URI                                                                                                        |
-| ------- | ---- | ---------------------------------------------------------------------------------------------------------- |
-| 3.4.9   | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.9.exe           |
-| 3.4.9   | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.9.msi |
-
-## Anaconda
-
-[Link](https://www.anaconda.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                    |
-| ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2022.05 | x64          | 05/10/2022 18:22:02 | 622731992 | 9dec53982beb2659b65107a6ad10e863 | 2766eb102f9d65da36d262b651777358de39fbe5f1a74f9854a2e5e29caeeeec | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe |
-| 2022.05 | x86          | 05/10/2022 18:21:59 | 511528600 | f581359e0f0081a8cc83071556f9fd1d | cd8c688349bcd1f429e3b383620fb0d19f52be0f765b2eae78d63b41aefb2e73 | https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86.exe    |
-
-## 7ZipZS
-
-[Link](https://mcmilk.de/projects/7-Zip-zstd/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 21.03   | Windows  | ARM32        | exe  | 10/05/2021 | 2739321 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-arm.exe   |
-| 21.03   | Windows  | ARM64        | exe  | 10/05/2021 | 2641899 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-arm64.exe |
-| 21.03   | Windows  | x64          | exe  | 10/05/2021 | 2814535 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-x64.exe   |
-| 21.03   | Windows  | x86          | exe  | 10/05/2021 | 2551448 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v21.03-v1.5.0-R2/7z21.03-zstd-x32.exe   |
-
-## Miniconda
-
-[Link](https://docs.conda.io/en/latest/miniconda.html)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                           |
-| ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 4.12.0  | x64          | 05/16/2022 19:57:24 | 72311592 | a7a3fdb0de9e69087cc969f501cdd0d5 | b221ccdb2bbc5a8209a292f858ae05fd87f882f79be75b37d26faa881523c057 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86_64.exe |
-| 4.12.0  | x64          | 05/16/2022 19:57:25 | 74002632 | 40ec9cc634375a21d13f64356567b3b5 | 94f24e52e316fa935ccf94b0c504ceca8e6abc6190c68378e18550c95bb7cee1 | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86_64.exe |
-| 4.12.0  | x64          | 05/16/2022 19:57:25 | 74687656 | db94d2476895f7a838a89a396ac75a0b | 1acbc2e8277ddd54a5f724896c7edee112d068529588d944702966c867e7e9cc | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe |
-| 4.12.0  | x86          | 05/16/2022 19:57:25 | 68643808 | 8e93fdd25b917421db92dd7c7882f1d1 | a6af674b984a333b53aaf99043f6af4f50b0bb2ab78e0b732aa60c47bbfb0704 | https://repo.anaconda.com/miniconda/Miniconda3-py37_4.12.0-Windows-x86.exe    |
-| 4.12.0  | x86          | 05/16/2022 19:57:24 | 70068144 | 00ddd3da3f79855148176a1fc244dc51 | 60cc5874b3cce9d80a38fb2b28df96d880e8e95d1b5848b15c20f1181e2807db | https://repo.anaconda.com/miniconda/Miniconda3-py38_4.12.0-Windows-x86.exe    |
-| 4.12.0  | x86          | 05/16/2022 19:57:25 | 71081736 | 9753453d01c8369e3679d083f7ced75c | 4fb64e6c9c28b88beab16994bfba4829110ea3145baa60bda5344174ab65d462 | https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86.exe    |
-
-## TelerikFiddlerClassic
-
-[Link](https://www.telerik.com/fiddler/fiddler-classic)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version     | URI                                                               |
-| ----------- | ----------------------------------------------------------------- |
-| 2.6.3.49793 | https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe |
-
-## KeePassXCTeamKeePassXC
-
-[Link](https://keepassxc.org/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                         |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
-| 2.7.1   | Windows  | x64          | msi  | 04/06/2022 | 52416512 | https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64-LegacyWindows.msi |
-| 2.7.1   | Windows  | x64          | msi  | 04/06/2022 | 45428736 | https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi               |
-
-## OpenShellMenu
-
-[Link](https://open-shell.github.io/Open-Shell-Menu/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------- |
-| 4.4.170 | Windows  | x86          | exe  | 05/12/2022 | 7380480 | https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.170/OpenShellSetup_4_4_170.exe |
-
-## MendeleyDesktop
-
-[Link](https://www.mendeley.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | URI                                                                              |
-| ------- | -------------------------------------------------------------------------------- |
-| 1.19.8  | https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe |
-
-## GitHubAtom
-
-[Link](https://atom.io/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                      |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------ |
-| 1.60.0  | Windows  | x64          | exe  | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe |
-| 1.60.0  | Windows  | x86          | exe  | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe     |
-
-## Scratch
-
-[Link](https://scratch.mit.edu/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | URI                                                                    |
-| ------- | ---------------------------------------------------------------------- |
-| 3.29.1  | https://downloads.scratch.mit.edu/desktop/Scratch%203.29.1%20Setup.exe |
-
-## Terminals
-
-[Link](https://github.com/terminals-Origin/Terminals/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 4.0.1   | Windows  | x86          | msi  | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
-
-## AdoptOpenJDK8
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                           |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.26.0  | Windows  | x64          | msi  | 01/11/2019 | 105721856 | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
-| 0.26.0  | Windows  | x64          | msi  | 01/11/2019 | 43614208  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
-| 0.26.0  | Windows  | x86          | msi  | 01/11/2019 | 98983936  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
-| 0.26.0  | Windows  | x86          | msi  | 01/11/2019 | 36962304  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
-
-## Minitab
-
-[Link](https://www.minitab.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version     | Architecture | Release | URI                                                                                                                      |
-| ----------- | ------------ | ------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 20.4.0.0    | x64          | 20      | https://files3.minitab.com/prodinstalls/minitab/minitab20/20.4.0.0/updates/commercial/minitab20.4.0.0setup.x64.exe       |
-| 19.2020.1.0 | x64          | 19      | https://files3.minitab.com/prodinstalls/minitab/minitab19/19.2020.1.0/updates/commercial/minitab19.2020.1.0setup.x64.exe |
-
-## Greenshot
-
-[Link](https://getgreenshot.org/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version  | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                                     |
-| -------- | -------- | ------------ | ---- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.10.6 | Windows  | x86          | exe  | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
-| 1.2.10.6 | Windows  | x86          | exe  | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
-| 1.2.10.6 | Windows  | x86          | zip  | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
-
-## WixToolset
-
-[Link](https://wixtoolset.org/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                        |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------- |
-| 3.11.2  | Windows  | x86          | exe  | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
-
-## CendioThinLinc
-
-[Link](https://www.cendio.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | URI                                                                   |
-| ------- | --------------------------------------------------------------------- |
-| 4.14.0  | https://www.cendio.com/downloads/clients/tl-4.14.0-client-windows.exe |
-
-## ProjectLibre
-
-[Link](https://www.projectlibre.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Architecture | Type | URI                                                                                            |
-| ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | https://nchc.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
-
-## jq
-
-[Link](http://stedolan.github.io/jq/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                  |
-| ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------- |
-| 1.6     | Windows  | x64          | exe  | 11/02/2018 | 3525307 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe |
-| 1.6     | Windows  | x86          | exe  | 11/02/2018 | 2711358 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win32.exe |
-
-## AdobeBrackets
-
-[Link](http://brackets.io/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
-| 1.14.2  | Windows  | x86          | msi  | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
-
-## Nomacs
-
-[Link](https://nomacs.org/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                              |
-| -------- | -------- | ------------ | ---- | ---------- | -------- | -------------------------------------------------------------------------------- |
-| 3.16.224 | Windows  | x64          | exe  | 07/17/2020 | 24207408 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe |
-| 3.16.224 | Windows  | x64          | msi  | 07/17/2020 | 39862272 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi |
-
-## USBPcap
-
-[Link](https://github.com/desowin/usbpcap/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size   | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ---------- | ------ | ------------------------------------------------------------------------------------- |
-| 1.5.4.0 | Windows  | x86          | exe  | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
-
-## OpenWebStart
-
-[Link](https://openwebstart.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 1.6.0   | Windows  | x64          | exe  | 05/16/2022 | 54949816 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x64_1_6_0.exe |
-| 1.6.0   | Windows  | x86          | exe  | 05/16/2022 | 55648184 | https://github.com/karakun/OpenWebStart/releases/download/v1.6.0/OpenWebStart_windows-x32_1_6_0.exe |
-
-## deviceTRUST
-
-[Link](https://devicetrust.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version    | Platform | Type   | Name                                            | URI                                                                                       |
-| ---------- | -------- | ------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 21.1.210.0 | Windows  | Bundle | deviceTRUST 21.1.210                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.210.zip                         |
-| 21.1.200.0 | Windows  | Bundle | deviceTRUST 21.1.200                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.200.zip                         |
-| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.200.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe          |
-| 21.1.110.0 | Windows  | Bundle | deviceTRUST 21.1.110                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.110.zip                         |
-| 21.1.110.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.110.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.110.0.exe          |
-| 21.1.100.0 | Windows  | Bundle | deviceTRUST 21.1.100                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.100.zip                         |
-| 21.1.100.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.100.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.100.0.exe          |
-| 20.2.400.0 | Windows  | Bundle | deviceTRUST 20.2.400                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.400.zip                         |
-| 20.2.400.0 | Windows  | Client | deviceTRUST Windows Client 20.2.400.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.400.0.exe                    |
-| 20.2.340.0 | Windows  | Bundle | deviceTRUST 20.2.340                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.340.zip                         |
-| 20.2.340.0 | Windows  | Client | deviceTRUST Windows Client 20.2.340.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.340.0.exe                    |
-| 20.2.310.0 | IGEL     | Client | deviceTRUST IGEL Client 20.2.310                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.2.310.0.zip         |
-| 20.2.310.0 | macOS    | Client | deviceTRUST macOS Client 20.2.310               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.2.310.0.dmg        |
-| 20.2.300.0 | Linux    | Client | deviceTRUST Linux Client 20.2.300               | https://storage.devicetrust.com/client/dtclient-linux-amd64-release-20.2.300.0.deb        |
-| 20.1.300.0 | Windows  | Bundle | deviceTRUST 20.1.300                            | https://storage.devicetrust.com/download/deviceTRUST-20.1.300.zip                         |
-| 20.1.300.0 | Windows  | Client | deviceTRUST Windows Client 20.1.300             | https://storage.devicetrust.com/client/dtclient-release-20.1.300.0.exe                    |
-| 20.1.200.0 | eLux     | Client | deviceTRUST eLux Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-eluxrp6-amd64-release-20.1.200.0.zip      |
-| 20.1.200.0 | IGEL     | Client | deviceTRUST IGEL Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.1.200.0.zip         |
-| 20.1.200.0 | macOS    | Client | deviceTRUST macOS Client 20.1.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.1.200.dmg          |
-| 19.4.200.0 | macOS    | Client | deviceTRUST macOS Client 19.4.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-19.4.200.dmg          |
-| 19.4.100.0 | Windows  | Bundle | deviceTRUST 19.4.100                            | https://storage.devicetrust.com/696DC206E3D4EAB3705F6FA0EBD704A4/deviceTRUST-19.4.100.zip |
-| 19.4.100.0 | Windows  | Client | deviceTRUST Windows Client 19.4.100             | https://storage.devicetrust.com/client/dtclient-release-19.4.100.0.exe                    |
-
-## LogMeInGoToMeeting
-
-[Link](https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version     | Type         | URI                                                                                       |
-| ----------- | ------------ | ----------------------------------------------------------------------------------------- |
-| 10.19.19950 | Latest       | https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_IT.msi                  |
-| 10.19.19950 | XenAppLatest | https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_Xen.msi                 |
-| 10.17.19796 | Minimum      | https://builds.cdn.getgo.com/builds/g2m/19796/G2MSetup10.17.19796_IT.msi                  |
-| 10.15       | Multi-build  | https://builds.cdn.getgo.com/builds/G2MSetupBundle/20220427_55/G2MSetup10.15-10.19_IT.msi |
-
-## FreeFem
-
-[Link](https://freefem.org/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                       |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | --------------------------------------------------------------------------------------------------------- |
-| 4.11    | Windows  | x64          | exe  | 04/05/2022 | 244726781 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFem%2B%2B-4.11-win64-petsctest.exe |
-| 4.11    | Windows  | x64          | exe  | 04/05/2022 | 196151185 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFEM-4.11-win64.exe                 |
-| 4.11    | Windows  | x64          | exe  | 04/05/2022 | 198642033 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.11/FreeFEM-4.11-windows10test-win64.exe   |
 
 ## Win32OpenSSH
 
