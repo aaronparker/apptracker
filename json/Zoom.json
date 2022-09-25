@@ -74,14 +74,14 @@
     "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginAdminTool.msi"
   },
   {
     "Version": "5.11.3.564",
     "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginAdminTool.msi"
+    "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginSetup.msi"
   },
   {
     "Version": "5.11.3.563",
