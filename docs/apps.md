@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# 206 Supported Applications
+# 211 Supported Applications
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -43,6 +43,7 @@ hide:
 | Citrix VM Tools                                                   | https://www.citrix.com/downloads/citrix-hypervisor/                                        |
 | Citrix Workspace app                                              | https://www.citrix.com/downloads/workspace-app/                                            |
 | Codelerity Apache NetBeans                                        | https://www.codelerity.com/netbeans/                                                       |
+| Connection Experience Indicator                                   | https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/              |
 | ControlUp Agent                                                   | https://www.controlup.com/products/controlup/agent/                                        |
 | ControlUp Console                                                 | https://www.controlup.com/products/controlup/management/                                   |
 | iterate GmbH Cyberduck                                            | https://cyberduck.io/                                                                      |
@@ -156,6 +157,7 @@ hide:
 | Pandoc                                                            | https://pandoc.org/                                                                        |
 | pdfforge PDFCreator                                               | https://www.pdfforge.org/pdfcreator                                                        |
 | PeaZip PeaZip                                                     | https://peazip.github.io/                                                                  |
+| Piriform CCleaner Free                                            | https://www.ccleaner.com/ccleaner                                                          |
 | Postman                                                           | https://www.getpostman.com/                                                                |
 | Praat                                                             | https://www.fon.hum.uva.nl/praat/                                                          |
 | ProjectLibre                                                      | https://www.projectlibre.com/                                                              |
@@ -166,6 +168,7 @@ hide:
 | R Core Team R for Windows                                         | https://cran.r-project.org/bin/windows/base/                                               |
 | Remote Desktop Analyzer                                           | https://rdanalyzer.com/                                                                    |
 | RingCentral                                                       | https://www.ringcentral.com                                                                |
+| Rizonesoft Notepad3                                               | https://www.rizonesoft.com/downloads/notepad3                                              |
 | RStudio Desktop                                                   | https://www.rstudio.com/                                                                   |
 | Safe Exam Browser                                                 | https://safeexambrowser.org/                                                               |
 | SAGA-GIS                                                          | http://www.saga-gis.org/                                                                   |
@@ -176,6 +179,7 @@ hide:
 | Signal for Windows                                                | https://www.signal.org/                                                                    |
 | Slack                                                             | https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer  |
 | SmartBear SoapUI                                                  | https://www.soapui.org/                                                                    |
+| Sober Lemur PDFSam Basic                                          | https://pdfsam.org/pdfsam-basic/                                                           |
 | stealthpuppy Windows Customised Defaults                          | https://stealthpuppy.com/image-customise/                                                  |
 | Stefans Tools gregpWin                                            | https://tools.stefankueng.com/grepWin.html                                                 |
 | Sumatra PDF Reader                                                | https://www.sumatrapdfreader.org/                                                          |
@@ -213,4 +217,5 @@ hide:
 | Wireshark                                                         | https://www.wireshark.org/#download                                                        |
 | WiX Toolset                                                       | https://wixtoolset.org/                                                                    |
 | Zoom                                                              | https://zoom.us/                                                                           |
+| ZorgMail Veilig verzenden plug-in                                 | https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/    |
 | Zotero                                                            | https://www.zotero.org/                                                                    |
