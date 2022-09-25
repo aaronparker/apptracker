@@ -1290,15 +1290,6 @@
     "Version": "102.3.0",
     "Architecture": "x86",
     "Channel": "LATEST_THUNDERBIRD_VERSION",
-    "Language": "br",
-    "Type": "msi",
-    "Filename": "Thunderbird Setup 102.3.0.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.3.0/win32/br/Thunderbird%20Setup%20102.3.0.msi"
-  },
-  {
-    "Version": "102.3.0",
-    "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
     "Language": "ca",
     "Type": "exe",
     "Filename": "Thunderbird Setup 102.3.0.exe",
