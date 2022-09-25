@@ -2,6 +2,15 @@
   {
     "Version": "22.002.20212",
     "Type": "Update",
+    "Product": "Reader",
+    "Track": "DC",
+    "Language": "Multi",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200220212/AcroRdrDCx64Upd2200220212_MUI.msp"
+  },
+  {
+    "Version": "22.002.20212",
+    "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",

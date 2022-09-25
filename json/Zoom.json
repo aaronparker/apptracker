@@ -32,7 +32,7 @@
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.11.11.8425/ZoomInstaller.exe"
+    "URI": "https://cdn.zoom.us/prod/5.11.11.8425/ZoomInstallerFull.exe"
   },
   {
     "Version": "5.11.11.8425",
@@ -45,26 +45,54 @@
     "Version": "5.11.3.1634",
     "Platform": "Rooms",
     "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/x64/zoomrooms-5.11.3.1634-x64.exe"
+  },
+  {
+    "Version": "5.11.3.1634",
+    "Platform": "Rooms",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/x64/zoomrooms-5.11.3.1634-x64.msi"
+  },
+  {
+    "Version": "5.11.3.1634",
+    "Platform": "Rooms",
+    "Type": "exe",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.3.1634/zoomrooms-5.11.3.1634-x86.exe"
   },
   {
+    "Version": "5.11.3.1634",
+    "Platform": "Rooms",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/zoomrooms-5.11.3.1634-x86.msi"
+  },
+  {
     "Version": "5.11.3.564",
-    "Platform": "Plugin",
+    "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginSetup.msi"
   },
   {
+    "Version": "5.11.3.564",
+    "Platform": "Notes",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.11.3.564/ZoomNotesPluginAdminTool.msi"
+  },
+  {
     "Version": "5.11.3.563",
-    "Platform": "Plugin",
+    "Platform": "Outlook",
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.3.563/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "5.11.0.534",
-    "Platform": "Plugin",
+    "Platform": "Lync",
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi"

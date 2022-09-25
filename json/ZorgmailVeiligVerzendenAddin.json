@@ -1,0 +1,17 @@
+[
+  {
+    "Version": "2.11.7.0",
+    "Edition": "Default",
+    "URI": "https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook.zip"
+  },
+  {
+    "Version": "2.11.7.0",
+    "Edition": "Gemeenten",
+    "URI": "https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-Gemeenten.zip"
+  },
+  {
+    "Version": "2.11.7.0",
+    "Edition": "SIGRA",
+    "URI": "https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-SIGRA.zip"
+  }
+]
