@@ -1,8 +1,0 @@
-json/1Password.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/RingCentral.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
