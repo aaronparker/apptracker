@@ -1,0 +1,7 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/StefansToolsgregpWin.json
+json/VideoLanVlcPlayer.json
+json/dbeaver.json
+json/jrsoftwareInnoSetup.json
