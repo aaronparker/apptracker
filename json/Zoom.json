@@ -42,6 +42,34 @@
     "URI": "https://cdn.zoom.us/prod/5.12.0.8964/ZoomInstallerFull.msi"
   },
   {
+    "Version": "5.12.0.1933",
+    "Platform": "Rooms",
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.exe"
+  },
+  {
+    "Version": "5.12.0.1933",
+    "Platform": "Rooms",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.msi"
+  },
+  {
+    "Version": "5.12.0.1933",
+    "Platform": "Rooms",
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.exe"
+  },
+  {
+    "Version": "5.12.0.1933",
+    "Platform": "Rooms",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.msi"
+  },
+  {
     "Version": "5.12.0.719",
     "Platform": "Notes",
     "Type": "msi",
@@ -61,34 +89,6 @@
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "5.11.3.1634",
-    "Platform": "Rooms",
-    "Type": "exe",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/x64/zoomrooms-5.11.3.1634-x64.exe"
-  },
-  {
-    "Version": "5.11.3.1634",
-    "Platform": "Rooms",
-    "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/x64/zoomrooms-5.11.3.1634-x64.msi"
-  },
-  {
-    "Version": "5.11.3.1634",
-    "Platform": "Rooms",
-    "Type": "exe",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/zoomrooms-5.11.3.1634-x86.exe"
-  },
-  {
-    "Version": "5.11.3.1634",
-    "Platform": "Rooms",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.11.3.1634/zoomrooms-5.11.3.1634-x86.msi"
   },
   {
     "Version": "5.11.0.534",

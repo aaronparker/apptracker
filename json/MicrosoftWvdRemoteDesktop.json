@@ -12,7 +12,7 @@
     "Version": "1.2.3573.0",
     "Architecture": "x64",
     "Channel": "Dogfood",
-    "Date": "09/22/2022",
+    "Date": "Unknown",
     "MD5": "D4C24DCFA9E8A23B410B4AF63403E252",
     "Filename": "RemoteDesktop_1.2.3573.0_x64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4"
@@ -30,7 +30,7 @@
     "Version": "1.2.3497.0",
     "Architecture": "ARM64",
     "Channel": "Insider",
-    "Date": "09/13/2022",
+    "Date": "Unknown",
     "MD5": "02A020E87F85813E241D2D4DDE341439",
     "Filename": "RemoteDesktop_1.2.3497.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz"
@@ -39,7 +39,7 @@
     "Version": "1.2.3497.0",
     "Architecture": "ARM64",
     "Channel": "Public",
-    "Date": "09/13/2022",
+    "Date": "Unknown",
     "MD5": "02A020E87F85813E241D2D4DDE341439",
     "Filename": "RemoteDesktop_1.2.3497.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz"
@@ -66,7 +66,7 @@
     "Version": "1.2.3497.0",
     "Architecture": "x86",
     "Channel": "Insider",
-    "Date": "09/13/2022",
+    "Date": "Unknown",
     "MD5": "FC2A55AADBB55C4BBE1E6B87FBA40965",
     "Filename": "RemoteDesktop_1.2.3497.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB"
