@@ -1,0 +1,10 @@
+json/AutoDarkMode.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
