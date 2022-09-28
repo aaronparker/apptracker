@@ -1,0 +1,7 @@
+json/Gimp.json
+json/HashicorpTerraform.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
