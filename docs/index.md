@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## 1Password7
 
@@ -627,9 +627,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -869,9 +869,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1015,8 +1015,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | e8d04804cc7be3ce364ee2f6281ea120dd3fd75f4ade010171961becc8c15a1b | https://sqlopsbuilds.azureedge.net/insider/02697105f559d6326570ae5e2c9dab7fba24e0aa/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | 99874c436138584e3e7cb03b08a45525db9f479ef51974a409134792e5bf1e74 | https://sqlopsbuilds.azureedge.net/insider/02697105f559d6326570ae5e2c9dab7fba24e0aa/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | 2b2e43a0b3858b58152c7e59146371d2be2c9c723fd78ee8c09de14b19a70691 | https://sqlopsbuilds.azureedge.net/insider/36dabcbd96cdb4a14322441c9e36473dc0da77bc/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 048c08d04afe3b0bca0446e0561581b3ff995a42a80333436a6887901de432ba | https://sqlopsbuilds.azureedge.net/insider/36dabcbd96cdb4a14322441c9e36473dc0da77bc/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -3640,18 +3640,18 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 8.4.5   | Windows  | ARM64        | 7z   | 09/07/2022 | 3573181 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.arm64.7z            |
-| 8.4.5   | Windows  | ARM64        | 7z   | 09/07/2022 | 1839169 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.minimalist.arm64.7z |
-| 8.4.5   | Windows  | ARM64        | exe  | 09/07/2022 | 4184384 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.Installer.arm64.exe          |
-| 8.4.5   | Windows  | ARM64        | zip  | 09/07/2022 | 5249275 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.arm64.zip           |
-| 8.4.5   | Windows  | x64          | 7z   | 09/07/2022 | 1905750 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.minimalist.x64.7z   |
-| 8.4.5   | Windows  | x64          | 7z   | 09/07/2022 | 3726443 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.x64.7z              |
-| 8.4.5   | Windows  | x64          | exe  | 09/07/2022 | 4537472 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.Installer.x64.exe            |
-| 8.4.5   | Windows  | x64          | zip  | 09/07/2022 | 5481150 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.x64.zip             |
-| 8.4.5   | Windows  | x86          | 7z   | 09/07/2022 | 3449305 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.7z                  |
-| 8.4.5   | Windows  | x86          | 7z   | 09/07/2022 | 1690071 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.minimalist.7z       |
-| 8.4.5   | Windows  | x86          | exe  | 09/07/2022 | 4285552 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.Installer.exe                |
-| 8.4.5   | Windows  | x86          | zip  | 09/07/2022 | 5050679 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.5/npp.8.4.5.portable.zip                 |
+| 8.4.6   | Windows  | ARM64        | 7z   | 09/29/2022 | 3616837 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.arm64.7z            |
+| 8.4.6   | Windows  | ARM64        | 7z   | 09/29/2022 | 1877454 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.minimalist.arm64.7z |
+| 8.4.6   | Windows  | ARM64        | exe  | 09/29/2022 | 4227112 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.Installer.arm64.exe          |
+| 8.4.6   | Windows  | ARM64        | zip  | 09/29/2022 | 5313963 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.arm64.zip           |
+| 8.4.6   | Windows  | x64          | 7z   | 09/29/2022 | 1942680 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.minimalist.x64.7z   |
+| 8.4.6   | Windows  | x64          | 7z   | 09/29/2022 | 3768959 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.x64.7z              |
+| 8.4.6   | Windows  | x64          | exe  | 09/29/2022 | 4583360 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.Installer.x64.exe            |
+| 8.4.6   | Windows  | x64          | zip  | 09/29/2022 | 5547289 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.x64.zip             |
+| 8.4.6   | Windows  | x86          | 7z   | 09/29/2022 | 3499235 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.7z                  |
+| 8.4.6   | Windows  | x86          | 7z   | 09/29/2022 | 1734635 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.minimalist.7z       |
+| 8.4.6   | Windows  | x86          | exe  | 09/29/2022 | 4335088 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.Installer.exe                |
+| 8.4.6   | Windows  | x86          | zip  | 09/29/2022 | 5124399 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.portable.zip                 |
 
 ## Obsidian
 
@@ -4319,14 +4319,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe          |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi          |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip          |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe            |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi            |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip            |
 
 ## VisualCppRedistAIO
 
@@ -4458,8 +4458,8 @@
 | 5.12.0.1933 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.msi |
 | 5.12.0.1933 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.exe     |
 | 5.12.0.1933 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
@@ -4482,5 +4482,5 @@
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |
-| 6.0.13  | https://download.zotero.org/client/release/6.0.13/Zotero-6.0.13_setup.exe |
+| 6.0.14  | https://download.zotero.org/client/release/6.0.14/Zotero-6.0.14_setup.exe |
 
