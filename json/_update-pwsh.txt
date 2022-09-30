@@ -1,0 +1,12 @@
+json/GoogleChrome.json
+json/HashicorpVault.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/Postman.json
+json/SignalDesktop.json
+json/SumatraPDFReader.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
