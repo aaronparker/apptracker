@@ -1,4 +1,0 @@
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
