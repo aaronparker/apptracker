@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## 1Password7
 
@@ -632,9 +632,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -685,8 +685,8 @@
 | 108.0.5327.0  | x86          | dev     | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 107.0.5304.18 | x64          | beta    | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 107.0.5304.18 | x86          | beta    | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 106.0.5249.62 | x64          | stable  | 09/27/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 106.0.5249.62 | x86          | stable  | 09/27/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 106.0.5249.91 | x64          | stable  | 09/30/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 106.0.5249.91 | x86          | stable  | 09/30/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
 ## Gpg4win
 
@@ -1020,8 +1020,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | bd5db2520fdee42363bea961aeef860b9c46fdf194531355c352ef4cdec6ebd8 | https://sqlopsbuilds.azureedge.net/insider/791443ddb7d5971371b42de568602c3bc2b8bfb1/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | aa75bed6a1cd9a83c3d9560c7b9c3b9c393436f363627d9d31bf7139e6537bc1 | https://sqlopsbuilds.azureedge.net/insider/791443ddb7d5971371b42de568602c3bc2b8bfb1/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | 634669a08cc8692614825cf5236043ef73285f05c16aef87a04ea7c9fbc98f07 | https://sqlopsbuilds.azureedge.net/insider/2a3e41e821c6b741962a83e4de44fcda070f0794/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 2bbf5a131b0f2d5f1d34c33e076ec1a92eedcac898de3bfed6dcce478e6b6a67 | https://sqlopsbuilds.azureedge.net/insider/2a3e41e821c6b741962a83e4de44fcda070f0794/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -1128,12 +1128,14 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.205.0928.0001 | AMD64        | InternalFast | V7JgZofWMrqzNbl5bW9RW7CISgni36w8apAjLMcn1aE= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.205.0928.0001/amd64/OneDriveSetup.exe   |
-| 22.205.0928.0001 | x86          | InternalFast | LJ4tPKQ8tkvWabaqUj7czuxNEPrkIVgOpoipoeCtS6s= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.205.0928.0001/OneDriveSetup.exe         |
+| 22.206.0929.0001 | AMD64        | InternalFast | YcCLKc6Xs1jYKW+0udCecMHN5wXx7HEG90Y/sPLl8v4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.206.0929.0001/amd64/OneDriveSetup.exe   |
+| 22.206.0929.0001 | x86          | InternalFast | rl/C70IWdRLnoSCvc04c8YJEMGNFE1XXT3HRqkLVh2U= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.206.0929.0001/OneDriveSetup.exe         |
 | 22.202.0925.0001 | AMD64        | InternalSlow | FXUJ85f6aV214K4bhdZJq1FSuNOO8i3msU2LSRfYzeM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.202.0925.0001/amd64/OneDriveSetup.exe   |
 | 22.202.0925.0001 | x86          | InternalSlow | NqAx5TolUN3NG0ekjuxZ1m87v88BvO9BAkOYlItireQ= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.202.0925.0001/OneDriveSetup.exe         |
 | 22.196.0918.0001 | AMD64        | Insider      | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.196.0918.0001/amd64/OneDriveSetup.exe   |
+| 22.196.0918.0001 | AMD64        | Production   | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/amd64/OneDriveSetup.exe       |
 | 22.196.0918.0001 | x86          | Insider      | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.196.0918.0001/OneDriveSetup.exe         |
+| 22.196.0918.0001 | x86          | Production   | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/OneDriveSetup.exe             |
 | 22.191.0911.0001 | AMD64        | Production   | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.191.0911.0001/amd64/OneDriveSetup.exe       |
 | 22.191.0911.0001 | x86          | Production   | Sg/+XGNWew2a0zHlWEmSQa6Yo8z7ZJAlo3d+ABt05Vs= | exe  | https://oneclient.sfx.ms/Win/Prod/22.191.0911.0001/OneDriveSetup.exe             |
 | 22.186.0904.0001 | AMD64        | Production   | spMFhg3gLDT+Cnsz1cVbQNZ01VQm5Ypj5PjgNS3wy9Y= | exe  | https://oneclient.sfx.ms/Win/Prod/22.186.0904.0001/amd64/OneDriveSetup.exe       |
@@ -1187,12 +1189,12 @@
 
 | Version      | Ring              | Architecture | Type | URI                                                                                                |
 | ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
-| 1.5.00.27061 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.27061/Teams_windows_arm64.exe |
-| 1.5.00.27061 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.27061/Teams_windows_arm64.msi |
-| 1.5.00.27061 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.27061/Teams_windows_x64.exe     |
-| 1.5.00.27061 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.27061/Teams_windows_x64.msi     |
-| 1.5.00.27061 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.27061/Teams_windows.exe             |
-| 1.5.00.27061 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.27061/Teams_windows.msi             |
+| 1.5.00.27363 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.27363/Teams_windows_arm64.exe |
+| 1.5.00.27363 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.27363/Teams_windows_arm64.msi |
+| 1.5.00.27363 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.27363/Teams_windows_x64.exe     |
+| 1.5.00.27363 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.27363/Teams_windows_x64.msi     |
+| 1.5.00.27363 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.27363/Teams_windows.exe             |
+| 1.5.00.27363 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.27363/Teams_windows.msi             |
 | 1.5.00.21668 | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.21668/Teams_windows_arm64.exe |
 | 1.5.00.21668 | DeveloperPartners | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.21668/Teams_windows_arm64.msi |
 | 1.5.00.21668 | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.21668/Teams_windows_arm64.exe |
@@ -1305,11 +1307,11 @@
 | 1.2.3573.0 | ARM64        | Insider | Unknown    | 4AAB0466959E06AF5377F89E312F132F | RemoteDesktop_1.2.3573.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK |
 | 1.2.3573.0 | x64          | Dogfood | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
 | 1.2.3573.0 | x64          | Insider | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
-| 1.2.3573.0 | x86          | Dogfood | 09/22/2022 | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
-| 1.2.3573.0 | x86          | Insider | 09/22/2022 | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
-| 1.2.3497.0 | ARM64        | Public  | 09/13/2022 | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
+| 1.2.3573.0 | x86          | Dogfood | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
+| 1.2.3573.0 | x86          | Insider | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
+| 1.2.3497.0 | ARM64        | Public  | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
 | 1.2.3497.0 | x64          | Public  | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
-| 1.2.3497.0 | x86          | Public  | 09/13/2022 | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
+| 1.2.3497.0 | x86          | Public  | Unknown    | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
 
 ## MicrosoftWvdRtcService
 
@@ -4322,14 +4324,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4461,8 +4463,8 @@
 | 5.12.0.1933 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.msi |
 | 5.12.0.1933 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.exe     |
 | 5.12.0.1933 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
@@ -4485,5 +4487,5 @@
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |
-| 6.0.14  | https://download.zotero.org/client/release/6.0.14/Zotero-6.0.14_setup.exe |
+| 6.0.15  | https://download.zotero.org/client/release/6.0.15/Zotero-6.0.15_setup.exe |
 
