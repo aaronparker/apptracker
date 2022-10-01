@@ -21,10 +21,10 @@
     "Version": "5.21.1129.1",
     "Platform": "Windows",
     "Architecture": "x86",
-    "Type": "zip",
+    "Type": "exe",
     "Date": "11/29/2021",
-    "Size": 4891333,
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_Setup.zip"
+    "Size": 5456104,
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_Setup.exe"
   },
   {
     "Version": "5.21.1129.1",
