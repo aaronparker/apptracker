@@ -632,9 +632,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -1305,13 +1305,13 @@
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3573.0 | ARM64        | Dogfood | Unknown    | 4AAB0466959E06AF5377F89E312F132F | RemoteDesktop_1.2.3573.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK |
 | 1.2.3573.0 | ARM64        | Insider | Unknown    | 4AAB0466959E06AF5377F89E312F132F | RemoteDesktop_1.2.3573.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK |
-| 1.2.3573.0 | x64          | Dogfood | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
-| 1.2.3573.0 | x64          | Insider | 09/22/2022 | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
-| 1.2.3573.0 | x86          | Dogfood | 09/22/2022 | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
-| 1.2.3573.0 | x86          | Insider | 09/22/2022 | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
+| 1.2.3573.0 | x64          | Dogfood | Unknown    | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
+| 1.2.3573.0 | x64          | Insider | Unknown    | D4C24DCFA9E8A23B410B4AF63403E252 | RemoteDesktop_1.2.3573.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR4 |
+| 1.2.3573.0 | x86          | Dogfood | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
+| 1.2.3573.0 | x86          | Insider | Unknown    | 21ECF56DBAC3B4E7E9D88357A9B0B43B | RemoteDesktop_1.2.3573.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57sR5 |
 | 1.2.3497.0 | ARM64        | Public  | Unknown    | 02A020E87F85813E241D2D4DDE341439 | RemoteDesktop_1.2.3497.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567Jz |
 | 1.2.3497.0 | x64          | Public  | 09/13/2022 | A39C4E59C668E271767ADFAF62C5E6AC | RemoteDesktop_1.2.3497.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JA |
-| 1.2.3497.0 | x86          | Public  | 09/13/2022 | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
+| 1.2.3497.0 | x86          | Public  | Unknown    | FC2A55AADBB55C4BBE1E6B87FBA40965 | RemoteDesktop_1.2.3497.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE567JB |
 
 ## MicrosoftWvdRtcService
 
@@ -3932,6 +3932,7 @@
 | 5.21.1129.1 | Windows  | x64          | zip  | 11/29/2021 | 6078965 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x64.zip         |
 | 5.21.1129.1 | Windows  | x86          | exe  | 11/29/2021 | 4914152 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3Portable_5.21.1129.1.paf.exe |
 | 5.21.1129.1 | Windows  | x86          | exe  | 11/29/2021 | 5456104 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_Setup.exe       |
+| 5.21.1129.1 | Windows  | x86          | exe  | 11/29/2021 | 3804280 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x86_Setup.exe   |
 | 5.21.1129.1 | Windows  | x86          | zip  | 11/29/2021 | 5799426 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x86.zip         |
 
 ## RStudio
@@ -4082,8 +4083,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
-| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -4324,14 +4325,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe   |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi   |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip   |
-| 3.0.16  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
