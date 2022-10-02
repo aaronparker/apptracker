@@ -1,5 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/RizonesoftNotepad3.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
