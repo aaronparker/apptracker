@@ -1,0 +1,8 @@
+json/1Password.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OBSStudio.json
+json/Praat.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

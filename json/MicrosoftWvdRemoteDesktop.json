@@ -3,7 +3,7 @@
     "Version": "1.2.3573.0",
     "Architecture": "ARM64",
     "Channel": "Dogfood",
-    "Date": "09/22/2022",
+    "Date": "Unknown",
     "MD5": "4AAB0466959E06AF5377F89E312F132F",
     "Filename": "RemoteDesktop_1.2.3573.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK"
@@ -12,7 +12,7 @@
     "Version": "1.2.3573.0",
     "Architecture": "ARM64",
     "Channel": "Insider",
-    "Date": "09/22/2022",
+    "Date": "Unknown",
     "MD5": "4AAB0466959E06AF5377F89E312F132F",
     "Filename": "RemoteDesktop_1.2.3573.0_ARM64.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE57aYK"
