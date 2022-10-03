@@ -1,7 +1,0 @@
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftSsms.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
