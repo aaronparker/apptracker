@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## 1Password7
 
@@ -607,8 +607,8 @@
 
 | Version | Type | URI                                                 |
 | ------- | ---- | --------------------------------------------------- |
-| 11.4.0  | Exe  | https://download.pdf24.org/pdf24-creator-11.4.0.exe |
-| 11.4.0  | Msi  | https://download.pdf24.org/pdf24-creator-11.4.0.msi |
+| 11.5.0  | Exe  | https://download.pdf24.org/pdf24-creator-11.5.0.exe |
+| 11.5.0  | Msi  | https://download.pdf24.org/pdf24-creator-11.5.0.msi |
 
 ## Gephi
 
@@ -632,9 +632,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -1252,12 +1252,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.72.0  | win32-arm64      | Insider | ARM64        | 5f09085ca2fc3711d5f2cbdf6718d441584c6bcb272c4f6cfe916aa4cdaf48bc | https://az764295.vo.msecnd.net/insider/9fb452c4852ef098206ec67a2b236ad5fd0ba828/VSCodeSetup-arm64-1.72.0-insider.exe     |
-| 1.72.0  | win32-arm64-user | Insider | ARM64        | 6343a92ae8b3e319e390e1069a41c47cefa5ad30e0c349731507c9ae47db4d4e | https://az764295.vo.msecnd.net/insider/9fb452c4852ef098206ec67a2b236ad5fd0ba828/VSCodeUserSetup-arm64-1.72.0-insider.exe |
-| 1.72.0  | win32-x64        | Insider | x64          | b2630e9be316bf1c4ec0a4074b6a63aee58f6f61347cb43ebfff93f33a4f9682 | https://az764295.vo.msecnd.net/insider/9fb452c4852ef098206ec67a2b236ad5fd0ba828/VSCodeSetup-x64-1.72.0-insider.exe       |
-| 1.72.0  | win32-x64-user   | Insider | x64          | 29dae55b9b55394e7909257a5ede1ea6346ccd37acf5918269159653c2d814c1 | https://az764295.vo.msecnd.net/insider/9fb452c4852ef098206ec67a2b236ad5fd0ba828/VSCodeUserSetup-x64-1.72.0-insider.exe   |
-| 1.72.0  | win32            | Insider | x86          | b71bb98b2a839538450d1215a98103a31fc3d80f526bd0d65e2861fafb1b4aab | https://az764295.vo.msecnd.net/insider/9fb452c4852ef098206ec67a2b236ad5fd0ba828/VSCodeSetup-ia32-1.72.0-insider.exe      |
-| 1.72.0  | win32-user       | Insider | x86          | 8f7364ec85b290c51e875c42d43aef4b9b1aeb075e891a96b2ebc564af212b80 | https://az764295.vo.msecnd.net/insider/9fb452c4852ef098206ec67a2b236ad5fd0ba828/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
+| 1.72.0  | win32-arm64      | Insider | ARM64        | 8c1dcb0df3453fe770b6558fbdbeb6c5331b017ef0a6fc67c6d2acbc02e4aeb3 | https://az764295.vo.msecnd.net/insider/a12109a6ac8cdb070d94d63a5dc3a3a8f53bad8c/VSCodeSetup-arm64-1.72.0-insider.exe     |
+| 1.72.0  | win32-arm64-user | Insider | ARM64        | 59d01ad31b42157b6c7c9cf37863da99b7113d92f4f67494be175d2620f8d1d1 | https://az764295.vo.msecnd.net/insider/a12109a6ac8cdb070d94d63a5dc3a3a8f53bad8c/VSCodeUserSetup-arm64-1.72.0-insider.exe |
+| 1.72.0  | win32-x64        | Insider | x64          | 34d999f294e32f140788a1f7cbad15551f6b42984ead183b21dddd00f0daa6e4 | https://az764295.vo.msecnd.net/insider/a12109a6ac8cdb070d94d63a5dc3a3a8f53bad8c/VSCodeSetup-x64-1.72.0-insider.exe       |
+| 1.72.0  | win32-x64-user   | Insider | x64          | 191b4e38edad9bbc79fe7a1d6e2c5f7d71e40e92158c09c9106c6a676bfa6273 | https://az764295.vo.msecnd.net/insider/a12109a6ac8cdb070d94d63a5dc3a3a8f53bad8c/VSCodeUserSetup-x64-1.72.0-insider.exe   |
+| 1.72.0  | win32            | Insider | x86          | dab36a4854d4598df77764f2ba167e8fdce94707b81a7c6231c03948135c6c44 | https://az764295.vo.msecnd.net/insider/a12109a6ac8cdb070d94d63a5dc3a3a8f53bad8c/VSCodeSetup-ia32-1.72.0-insider.exe      |
+| 1.72.0  | win32-user       | Insider | x86          | 3abe1222ffe4e976c280787449cd2eb56f3773b87fa845fdc37993a0850a3ece | https://az764295.vo.msecnd.net/insider/a12109a6ac8cdb070d94d63a5dc3a3a8f53bad8c/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
 | 1.71.2  | win32-arm64      | Stable  | ARM64        | 5a84833df5c0c3820f45b0680daa716924215905ae1eec7576afb962025ae582 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-arm64-1.71.2.exe              |
 | 1.71.2  | win32-arm64-user | Stable  | ARM64        | a22af1cd37d849b4983e0ae790d9fa5f1c209977a54103636bab07e239c3e6a8 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeUserSetup-arm64-1.71.2.exe          |
 | 1.71.2  | win32-x64        | Stable  | x64          | 650219067b39d73c4b96e5cd6353105372f61dfa1a81d8ac05c571a064b3a630 | https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeSetup-x64-1.71.2.exe                |
@@ -4327,12 +4327,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe               |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi               |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip               |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe          |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi          |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip          |
 
 ## VisualCppRedistAIO
 
