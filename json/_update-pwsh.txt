@@ -1,0 +1,4 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/VideoLanVlcPlayer.json
