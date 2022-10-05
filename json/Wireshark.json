@@ -12,15 +12,15 @@
     "URI": "https://1.na.dl.wireshark.org/win64/Wireshark-win64-4.0.0.msi"
   },
   {
-    "Version": "4.0.0",
+    "Version": "3.6.8",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-4.0.0.exe"
+    "URI": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.6.8.exe"
   },
   {
-    "Version": "4.0.0",
+    "Version": "3.6.8",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-4.0.0.msi"
+    "URI": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.6.8.msi"
   }
 ]
