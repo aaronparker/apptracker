@@ -123,8 +123,8 @@ extra:
 
 # Page tree
 nav:
-  - Updates by name: index.md
-  - Updates by date: date.md
+  - Updates by date: index.md
+  - Updates by name: name.md
   - Supported apps: apps.md
   - About: about.md
   - Evergreen: https://stealthpuppy.com/evergreen

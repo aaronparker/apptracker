@@ -58,8 +58,8 @@ jobs:
           run: |
             $params = @{
               Path           = "${{ github.workspace }}/json"
-              UpdatesAlpha   = "${{ github.workspace }}/docs/index.md"
-              UpdatesDate    = "${{ github.workspace }}/docs/date.md"
+              UpdatesAlpha   = "${{ github.workspace }}/docs/name.md"
+              UpdatesDate    = "${{ github.workspace }}/docs/index.md"
               AppsFile       = "${{ github.workspace }}/docs/apps.md"
               AboutFile      = "${{ github.workspace }}/docs/about.md"
               LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
