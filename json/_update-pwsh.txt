@@ -1,7 +1,0 @@
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftOneDrive.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
-json/Wireshark.json
-json/Zoom.json
