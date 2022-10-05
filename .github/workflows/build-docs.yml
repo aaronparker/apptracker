@@ -3,9 +3,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'docs/index.md'
-      - 'docs/apps.md'
-      - 'docs/about.md'
+      - 'docs/*'
       - 'mkdocs.yml'
       - 'requirements.txt'
   workflow_dispatch:
