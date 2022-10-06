@@ -1,0 +1,8 @@
+json/1Password.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/PDFForgePDFCreator.json
+json/TechSmithSnagit.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
