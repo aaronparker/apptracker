@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## 1Password7
 
@@ -276,10 +276,10 @@
 
 [Link](https://www.sourcetreeapp.com/)
 
-| Version | Type | URI                                                                                                        |
-| ------- | ---- | ---------------------------------------------------------------------------------------------------------- |
-| 3.4.9   | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.9.exe           |
-| 3.4.9   | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.9.msi |
+| Version | Type | URI                                                                                                         |
+| ------- | ---- | ----------------------------------------------------------------------------------------------------------- |
+| 3.4.10  | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.10.exe           |
+| 3.4.10  | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.10.msi |
 
 ## Audacity
 
@@ -679,14 +679,14 @@
 
 [Link](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-| Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
-| ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 108.0.5327.0  | x64          | dev     | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 108.0.5327.0  | x86          | dev     | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 107.0.5304.18 | x64          | beta    | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 107.0.5304.18 | x86          | beta    | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 106.0.5249.91 | x64          | stable  | 09/30/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 106.0.5249.91 | x86          | stable  | 09/30/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
+| -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
+| 108.0.5327.0   | x64          | dev     | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 108.0.5327.0   | x86          | dev     | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 107.0.5304.18  | x64          | beta    | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 107.0.5304.18  | x86          | beta    | 09/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 106.0.5249.103 | x64          | stable  | 10/06/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 106.0.5249.103 | x86          | stable  | 10/06/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
 ## Gpg4win
 
@@ -752,8 +752,8 @@
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
-| 1.3.5   | zip  | x64          | https://releases.hashicorp.com/nomad/1.3.5/nomad_1.3.5_windows_amd64.zip |
-| 1.3.5   | zip  | x86          | https://releases.hashicorp.com/nomad/1.3.5/nomad_1.3.5_windows_386.zip   |
+| 1.4.0   | zip  | x64          | https://releases.hashicorp.com/nomad/1.4.0/nomad_1.4.0_windows_amd64.zip |
+| 1.4.0   | zip  | x86          | https://releases.hashicorp.com/nomad/1.4.0/nomad_1.4.0_windows_386.zip   |
 
 ## HashicorpPacker
 
@@ -1020,8 +1020,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | adf13d39f7aefbb75e80a3c0b68cc4142f1cc0435872a457911642d04497b3f0 | https://sqlopsbuilds.azureedge.net/insider/08341c70fd55b51fa7b90e8317930dc4de1af577/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | d0deba1012183ae27bf6a9c70aa600452fc6b091b9eefae0d87a20da1038a02e | https://sqlopsbuilds.azureedge.net/insider/08341c70fd55b51fa7b90e8317930dc4de1af577/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | fa5999efb9c99f14b29f47fa2e8740c7fea84ff1e0031267eff5e3326f6a36c2 | https://sqlopsbuilds.azureedge.net/insider/65a3bd7491a54b992f858a7170337d4e9c525267/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 4963a277066b31b6a460989dcedaaf56a5a6604e3dad1ad7c2b7bb16040236cd | https://sqlopsbuilds.azureedge.net/insider/65a3bd7491a54b992f858a7170337d4e9c525267/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -1304,7 +1304,7 @@
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3575.0 | ARM64        | Dogfood | 10/04/2022 | 62A1B2117B4DB2CDDFD435E418D3516B | RemoteDesktop_1.2.3575.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE593vn |
-| 1.2.3575.0 | ARM64        | Insider | Unknown    | 62A1B2117B4DB2CDDFD435E418D3516B | RemoteDesktop_1.2.3575.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE593vn |
+| 1.2.3575.0 | ARM64        | Insider | 10/04/2022 | 62A1B2117B4DB2CDDFD435E418D3516B | RemoteDesktop_1.2.3575.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE593vn |
 | 1.2.3575.0 | ARM64        | Public  | 10/04/2022 | 62A1B2117B4DB2CDDFD435E418D3516B | RemoteDesktop_1.2.3575.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE593vn |
 | 1.2.3575.0 | x64          | Dogfood | 10/04/2022 | 22DF3CC6A3B38EFEFE2D7DA07D91890F | RemoteDesktop_1.2.3575.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59dUV |
 | 1.2.3575.0 | x64          | Insider | 10/04/2022 | 22DF3CC6A3B38EFEFE2D7DA07D91890F | RemoteDesktop_1.2.3575.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59dUV |
@@ -1357,7 +1357,7 @@
 
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2022.10.31204-alpha  | x64          | Alpha   | 10/03/2022 12:46:15 | 293157872 | mQYUFq1ikjjSOS3LbLHAHE8vBfpH24wDoEv9u9GzBVvdafyDiQhphMzvZWRDvCxtohYHrmFivA0mj8rEHUQK4Q== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.10.31204-alpha.exe  |
+| 2022.10.52011-alpha  | x64          | Alpha   | 10/05/2022 20:55:54 | 293156336 | ToiVbS2p4BZU4C+qeKHo4gX39U5CvWXLB+XE6R88fjxxvJwn+M2Najl55mpKnIuHoG3m8t47D9BxsfIBsNqtcQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.10.52011-alpha.exe  |
 | 2022.9.280635-latest | x64          | Stable  | 09/28/2022 07:13:11 | 293061704 | 0uRn442mcXvaLdWM6Elm2OE18RAEYS2zz6pPUcqOJmAhvzhu0JaegFmZ3pOotjFXPgOxjHsocbk5zGGwdo0ZUg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.280635-latest.exe |
 
 ## MozillaFirefox
@@ -4030,7 +4030,7 @@
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
-| 5.61.1  | https://updates.signal.org/desktop/signal-desktop-win-5.61.1.exe |
+| 5.62.0  | https://updates.signal.org/desktop/signal-desktop-win-5.62.0.exe |
 
 ## Slack
 
@@ -4325,14 +4325,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe                 |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi                 |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip                 |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
