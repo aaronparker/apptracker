@@ -1,0 +1,26 @@
+[
+  {
+    "Version": "2022.7.183",
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_7_183.exe"
+  },
+  {
+    "Version": "2022.7.183",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_7_183.msi"
+  },
+  {
+    "Version": "2022.7.183",
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_7_183_32.exe"
+  },
+  {
+    "Version": "2022.7.183",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_7_183_32.msi"
+  }
+]

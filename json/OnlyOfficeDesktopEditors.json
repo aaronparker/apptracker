@@ -1,0 +1,38 @@
+[
+  {
+    "Version": "7.2.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "Date": "09/23/2022",
+    "Size": 226086112,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x64.exe"
+  },
+  {
+    "Version": "7.2.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "09/23/2022",
+    "Size": 305614336,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x64.msi"
+  },
+  {
+    "Version": "7.2.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "09/23/2022",
+    "Size": 205099864,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x86.exe"
+  },
+  {
+    "Version": "7.2.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Date": "09/23/2022",
+    "Size": 281211392,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x86.msi"
+  }
+]
