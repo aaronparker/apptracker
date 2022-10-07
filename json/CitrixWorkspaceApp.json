@@ -1,12 +1,12 @@
 [
   {
-    "Version": "22.9.0.28",
+    "Version": "22.10.0.21",
     "Title": "Citrix Workspace - Current Release",
-    "Size": "274571184",
-    "Hash": "bf3504d0e81e1809c6b47e13923a8592b4c3fc72fdc00a2c8b216461931dafef",
-    "Date": "09/12/2022",
+    "Size": "278768048",
+    "Hash": "99e6a31531de099059569da344bed0960da0ecb92cbe091cb998ccbdb66dc66c",
+    "Date": "10/06/2022",
     "Stream": "Current",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.9.0.28.exe"
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.10.0.21.exe"
   },
   {
     "Version": "22.3.1000.1054",

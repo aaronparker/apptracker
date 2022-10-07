@@ -16,18 +16,18 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "107.0.5304.18",
+    "Version": "107.0.5304.29",
     "Architecture": "x64",
     "Channel": "beta",
-    "Date": "09/29/2022",
+    "Date": "10/06/2022",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "107.0.5304.18",
+    "Version": "107.0.5304.29",
     "Architecture": "x86",
     "Channel": "beta",
-    "Date": "09/29/2022",
+    "Date": "10/06/2022",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
