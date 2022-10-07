@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# 211 Supported Applications
+# 214 Supported Applications
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -17,6 +17,7 @@ hide:
 | Adobe Acrobat DC Pro and Standard                                 | https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html                               |
 | Adobe Acrobat Reader DC                                           | https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html                                    |
 | Adobe Brackets                                                    | http://brackets.io/                                                                        |
+| Adobe Connect meeting application                                 | https://www.adobe.com/products/adobeconnect.html                                           |
 | Adoptium Temurin 11                                               | https://adoptium.net/                                                                      |
 | Adoptium Temurin 16                                               | https://adoptium.net/                                                                      |
 | Adoptium Temurin 17                                               | https://adoptium.net/                                                                      |
@@ -145,10 +146,12 @@ hide:
 | OBS Studio                                                        | https://obsproject.com/                                                                    |
 | Octopus Deploy Server                                             | https://octopus.com/                                                                       |
 | Octopus Tentacle                                                  | https://octopus.com/                                                                       |
+| ONLYOFFICE Desktop Editors                                        | https://www.onlyoffice.com/desktop.aspx                                                    |
 | OpenJDK                                                           | https://openjdk.java.net/                                                                  |
 | Open-Shell-Menu                                                   | https://open-shell.github.io/Open-Shell-Menu/                                              |
 | OpenWebStart                                                      | https://openwebstart.com/                                                                  |
 | Opera Browser                                                     | https://www.opera.com/browsers/opera                                                       |
+| Opera Crypto Browser                                              | https://www.opera.com/crypto/next                                                          |
 | Opera GX Browser                                                  | https://www.opera.com/gx                                                                   |
 | Oracle Java 8                                                     | https://www.java.com                                                                       |
 | Oracle VirtualBox                                                 | https://www.virtualbox.org/                                                                |

@@ -126,6 +126,17 @@
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
 | 1.14.2  | Windows  | x86          | msi  | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
 
+## AdobeConnect
+
+[Link](https://www.adobe.com/products/adobeconnect.html)
+
+| Version    | Type | Architecture | URI                                                                                              |
+| ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------ |
+| 2022.7.183 | exe  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_7_183.exe    |
+| 2022.7.183 | msi  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_7_183.msi         |
+| 2022.7.183 | exe  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_7_183_32.exe |
+| 2022.7.183 | msi  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_7_183_32.msi      |
+
 ## AdoptiumTemurin11
 
 [Link](https://adoptium.net/)
@@ -632,9 +643,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -1133,7 +1144,9 @@
 | 22.207.1002.0001 | AMD64        | InternalSlow | ODR1dONFw743DvO12ybwxEKX/jpfUGQdmJ4201OqNAY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.207.1002.0001/amd64/OneDriveSetup.exe   |
 | 22.207.1002.0001 | x86          | InternalSlow | H5+LEbxuCtaOWC4lYV+OzCgZ3EntVSQlTgdebiq3gkc= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.207.1002.0001/OneDriveSetup.exe         |
 | 22.202.0925.0001 | AMD64        | Insider      | FXUJ85f6aV214K4bhdZJq1FSuNOO8i3msU2LSRfYzeM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.202.0925.0001/amd64/OneDriveSetup.exe   |
+| 22.202.0925.0001 | AMD64        | Production   | FXUJ85f6aV214K4bhdZJq1FSuNOO8i3msU2LSRfYzeM= | exe  | https://oneclient.sfx.ms/Win/Prod/22.202.0925.0001/amd64/OneDriveSetup.exe       |
 | 22.202.0925.0001 | x86          | Insider      | NqAx5TolUN3NG0ekjuxZ1m87v88BvO9BAkOYlItireQ= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.202.0925.0001/OneDriveSetup.exe         |
+| 22.202.0925.0001 | x86          | Production   | NqAx5TolUN3NG0ekjuxZ1m87v88BvO9BAkOYlItireQ= | exe  | https://oneclient.sfx.ms/Win/Prod/22.202.0925.0001/OneDriveSetup.exe             |
 | 22.196.0918.0001 | AMD64        | Production   | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/amd64/OneDriveSetup.exe       |
 | 22.196.0918.0001 | x86          | Production   | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/OneDriveSetup.exe             |
 | 22.191.0911.0001 | AMD64        | Production   | yMrIpNI1Ecjfm8nxSX3ALxtHgpkkMTYsqMHdbXO/jcI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.191.0911.0001/amd64/OneDriveSetup.exe       |
@@ -1301,9 +1314,9 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3576.0 | ARM64        | Dogfood | 10/06/2022 | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
-| 1.2.3576.0 | ARM64        | Insider | 10/06/2022 | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
-| 1.2.3576.0 | ARM64        | Public  | 10/06/2022 | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
+| 1.2.3576.0 | ARM64        | Dogfood | Unknown    | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
+| 1.2.3576.0 | ARM64        | Insider | Unknown    | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
+| 1.2.3576.0 | ARM64        | Public  | Unknown    | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
 | 1.2.3576.0 | x64          | Dogfood | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
 | 1.2.3576.0 | x64          | Insider | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
 | 1.2.3576.0 | x64          | Public  | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
@@ -1356,7 +1369,7 @@
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 2022.10.52011-alpha  | x64          | Alpha   | 10/05/2022 20:55:54 | 293156336 | ToiVbS2p4BZU4C+qeKHo4gX39U5CvWXLB+XE6R88fjxxvJwn+M2Najl55mpKnIuHoG3m8t47D9BxsfIBsNqtcQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.10.52011-alpha.exe  |
-| 2022.9.280635-latest | x64          | Stable  | 09/28/2022 07:13:11 | 293061704 | 0uRn442mcXvaLdWM6Elm2OE18RAEYS2zz6pPUcqOJmAhvzhu0JaegFmZ3pOotjFXPgOxjHsocbk5zGGwdo0ZUg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.9.280635-latest.exe |
+| 2022.10.70653-latest | x64          | Stable  | 10/07/2022 07:46:51 | 293158688 | AfMOMIzxQA1h3ztbOsqIt5Afc3rSTXe9KWDph51rhXaqWwxq82RF3r2bE4zkS4GaI6Wcz6PTVxm3EpUkXwLFCw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.10.70653-latest.exe |
 
 ## MozillaFirefox
 
@@ -3692,6 +3705,17 @@
 | 6.2.206 | x64          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.2.206-x64.msi |
 | 6.2.206 | x86          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.2.206.msi     |
 
+## OnlyOfficeDesktopEditors
+
+[Link](https://www.onlyoffice.com/desktop.aspx)
+
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                          |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------------- |
+| 7.2.0   | Windows  | x64          | exe  | 09/23/2022 | 226086112 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x64.exe |
+| 7.2.0   | Windows  | x64          | msi  | 09/23/2022 | 305614336 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x64.msi |
+| 7.2.0   | Windows  | x86          | exe  | 09/23/2022 | 205099864 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x86.exe |
+| 7.2.0   | Windows  | x86          | msi  | 09/23/2022 | 281211392 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.2.0/DesktopEditors_x86.msi |
+
 ## OpenJDK
 
 [Link](https://openjdk.java.net/)
@@ -3742,19 +3766,31 @@
 
 [Link](https://www.opera.com/browsers/opera)
 
-| Version      | Architecture | Type | URI                                                                                           |
-| ------------ | ------------ | ---- | --------------------------------------------------------------------------------------------- |
-| 91.0.4516.65 | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/91.0.4516.65/win/Opera_91.0.4516.65_Setup_x64.exe |
-| 91.0.4516.65 | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/91.0.4516.65/win/Opera_91.0.4516.65_Setup.exe     |
+| Version      | Channel   | Architecture | Type | URI                                                                                                     |
+| ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
+| 92.0.4561.8  | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/92.0.4561.8/win/Opera_beta_92.0.4561.8_Setup_x64.exe           |
+| 92.0.4561.8  | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/92.0.4561.8/win/Opera_beta_92.0.4561.8_Setup.exe               |
+| 92.0.4561.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/92.0.4561.0/win/Opera_Developer_92.0.4561.0_Setup_x64.exe |
+| 92.0.4561.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/92.0.4561.0/win/Opera_Developer_92.0.4561.0_Setup.exe     |
+| 91.0.4516.65 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.65/win/Opera_91.0.4516.65_Setup_x64.exe                   |
+| 91.0.4516.65 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.65/win/Opera_91.0.4516.65_Setup.exe                       |
+
+## OperaCryptoBrowser
+
+[Link](https://www.opera.com/crypto/next)
+
+| Version       | Channel | Architecture | Type | URI                                                                                                   |
+| ------------- | ------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |
+| 90.0.4480.128 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/90.0.4480.128/win/Opera_Crypto_90.0.4480.128_Setup_x64.exe |
 
 ## OperaGXBrowser
 
 [Link](https://www.opera.com/gx)
 
-| Version      | Architecture | Type | URI                                                                                         |
-| ------------ | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 91.0.4516.36 | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/91.0.4516.36/win/Opera_GX_91.0.4516.36_Setup_x64.exe |
-| 91.0.4516.36 | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/91.0.4516.36/win/Opera_GX_91.0.4516.36_Setup.exe     |
+| Version      | Channel | Architecture | Type | URI                                                                                         |
+| ------------ | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------- |
+| 91.0.4516.36 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/91.0.4516.36/win/Opera_GX_91.0.4516.36_Setup_x64.exe |
+| 91.0.4516.36 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/91.0.4516.36/win/Opera_GX_91.0.4516.36_Setup.exe     |
 
 ## OracleJava8
 
@@ -3826,9 +3862,9 @@
 
 [Link](https://www.ccleaner.com/ccleaner)
 
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.04.10044 | ccsetup604.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| Version | Filename       | URI                                                                                                              |
+| ------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+|         | ccsetup604.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -4323,14 +4359,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe      |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi      |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip      |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
+| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
