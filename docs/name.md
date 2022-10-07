@@ -632,9 +632,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -874,9 +874,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1020,8 +1020,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | fa5999efb9c99f14b29f47fa2e8740c7fea84ff1e0031267eff5e3326f6a36c2 | https://sqlopsbuilds.azureedge.net/insider/65a3bd7491a54b992f858a7170337d4e9c525267/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | 4963a277066b31b6a460989dcedaaf56a5a6604e3dad1ad7c2b7bb16040236cd | https://sqlopsbuilds.azureedge.net/insider/65a3bd7491a54b992f858a7170337d4e9c525267/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | 3ec1ff6b62964b0083688744cd1b9742942a85c30034acf1acbbf991f2dff4b5 | https://sqlopsbuilds.azureedge.net/insider/9f5ee328259c201706eddb58596b81c17b4ab7a0/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 8b0cb04a50cdca0ae348ddf318ebca1846b06c5c3c676440dcbc4825b2ec6c99 | https://sqlopsbuilds.azureedge.net/insider/9f5ee328259c201706eddb58596b81c17b4ab7a0/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -1250,16 +1250,16 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.72.0  | win32-arm64      | Insider | ARM64        | aec763b4c13f9e903633ff11f598340a53ca84f0da9a2d7b208ee58cfcfbefd7 | https://az764295.vo.msecnd.net/insider/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeSetup-arm64-1.72.0-insider.exe     |
-| 1.72.0  | win32-arm64-user | Insider | ARM64        | c3e72015164611ca7d44ec772705d5cbf83b5a1330c62baacc54f898982b6a1a | https://az764295.vo.msecnd.net/insider/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-arm64-1.72.0-insider.exe |
+| 1.73.0  | win32-arm64      | Insider | ARM64        | a053d77daa562a70d6ca9626174fd795d1f0f5c904e9ffdd1478e1ef466d7736 | https://az764295.vo.msecnd.net/insider/fad3a77833b9249158dfd88477114a06435e46a2/VSCodeSetup-arm64-1.73.0-insider.exe     |
+| 1.73.0  | win32-arm64-user | Insider | ARM64        | 200ab1d1336af4899d34af22d0b0ac83c9ca76ef2a97d51897ffc373d9ba1db6 | https://az764295.vo.msecnd.net/insider/fad3a77833b9249158dfd88477114a06435e46a2/VSCodeUserSetup-arm64-1.73.0-insider.exe |
+| 1.73.0  | win32-x64        | Insider | x64          | adcdc1c530a1d5ed7b90c7a400f2fa38151e11515d85fa3315aed6178e1afadb | https://az764295.vo.msecnd.net/insider/fad3a77833b9249158dfd88477114a06435e46a2/VSCodeSetup-x64-1.73.0-insider.exe       |
+| 1.73.0  | win32-x64-user   | Insider | x64          | f179ec7af0ec4628230690f53cb4ece8cb14984a930fdade7a77eb95b29d3286 | https://az764295.vo.msecnd.net/insider/fad3a77833b9249158dfd88477114a06435e46a2/VSCodeUserSetup-x64-1.73.0-insider.exe   |
+| 1.73.0  | win32            | Insider | x86          | 05a94e6652cda85dd38c2189ce42dbdfa565463ddae558b0c8397eaba6037318 | https://az764295.vo.msecnd.net/insider/fad3a77833b9249158dfd88477114a06435e46a2/VSCodeSetup-ia32-1.73.0-insider.exe      |
+| 1.73.0  | win32-user       | Insider | x86          | 710314ba02f38848c19bf2a6abdbf1f594f7319dcde68679ad97dcfd005d3e41 | https://az764295.vo.msecnd.net/insider/fad3a77833b9249158dfd88477114a06435e46a2/VSCodeUserSetup-ia32-1.73.0-insider.exe  |
 | 1.72.0  | win32-arm64      | Stable  | ARM64        | 0cf2d454d86c70c2d52d5efcb4b59f48fc07495e5b42ec6b450c0b3a2307fcdf | https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeSetup-arm64-1.72.0.exe              |
 | 1.72.0  | win32-arm64-user | Stable  | ARM64        | 976cf392f6ca3d7623a4ce433ce1d1d5638071db8029006356b764930bfd86a3 | https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-arm64-1.72.0.exe          |
-| 1.72.0  | win32-x64        | Insider | x64          | 71c25cf912bdb36a5a1d67d17ca918ddde378f79ce53d82973110113b75e2b04 | https://az764295.vo.msecnd.net/insider/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeSetup-x64-1.72.0-insider.exe       |
-| 1.72.0  | win32-x64-user   | Insider | x64          | a8527d1bf8a3a64e2f9bf54383d2d176d8e18df577c89be1bfc62b185253a373 | https://az764295.vo.msecnd.net/insider/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-x64-1.72.0-insider.exe   |
 | 1.72.0  | win32-x64        | Stable  | x64          | a57e2842f24d901205c80a36aeddd56c6471bd4d21cf4544d8d82f2182ad755e | https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeSetup-x64-1.72.0.exe                |
 | 1.72.0  | win32-x64-user   | Stable  | x64          | 9f7f9274698480a14a40d4621d96a5ba7be07cbe64d1b3bf1be5d66feffab4df | https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-x64-1.72.0.exe            |
-| 1.72.0  | win32            | Insider | x86          | 3df970e53df239beb7872dee873d4ea74f8ec59270e67f4a63ef0724b82c4b3e | https://az764295.vo.msecnd.net/insider/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeSetup-ia32-1.72.0-insider.exe      |
-| 1.72.0  | win32-user       | Insider | x86          | 0f8fc2f91ca39f183c5a603d3291b9198525e7fb5b832f133d0242ee7dee1581 | https://az764295.vo.msecnd.net/insider/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-ia32-1.72.0-insider.exe  |
 | 1.72.0  | win32            | Stable  | x86          | 8815c27f3ef5e69b3b02254f44da612d022d0c102306d0d61cf3886daf1d6ec3 | https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeSetup-ia32-1.72.0.exe               |
 | 1.72.0  | win32-user       | Stable  | x86          | ef265b800dcfdfb027f9ba8ce6a3e0b496fa1f0ec5ee9d66fad498b9b41b2f25 | https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-ia32-1.72.0.exe           |
 
@@ -1307,9 +1307,9 @@
 | 1.2.3576.0 | x64          | Dogfood | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
 | 1.2.3576.0 | x64          | Insider | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
 | 1.2.3576.0 | x64          | Public  | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
-| 1.2.3576.0 | x86          | Dogfood | Unknown    | 9962CCFB5102FDBD4D8D141AC3885A5E | RemoteDesktop_1.2.3576.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ |
-| 1.2.3576.0 | x86          | Insider | Unknown    | 9962CCFB5102FDBD4D8D141AC3885A5E | RemoteDesktop_1.2.3576.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ |
-| 1.2.3576.0 | x86          | Public  | Unknown    | 9962CCFB5102FDBD4D8D141AC3885A5E | RemoteDesktop_1.2.3576.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ |
+| 1.2.3576.0 | x86          | Dogfood | 10/06/2022 | 9962CCFB5102FDBD4D8D141AC3885A5E | RemoteDesktop_1.2.3576.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ |
+| 1.2.3576.0 | x86          | Insider | 10/06/2022 | 9962CCFB5102FDBD4D8D141AC3885A5E | RemoteDesktop_1.2.3576.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ |
+| 1.2.3576.0 | x86          | Public  | 10/06/2022 | 9962CCFB5102FDBD4D8D141AC3885A5E | RemoteDesktop_1.2.3576.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ |
 
 ## MicrosoftWvdRtcService
 
@@ -4323,14 +4323,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe      |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi      |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip      |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4462,8 +4462,8 @@
 | 5.12.0.1933 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.msi |
 | 5.12.0.1933 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.exe     |
 | 5.12.0.1933 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
