@@ -643,9 +643,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -885,9 +885,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1314,9 +1314,9 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3576.0 | ARM64        | Dogfood | Unknown    | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
-| 1.2.3576.0 | ARM64        | Insider | Unknown    | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
-| 1.2.3576.0 | ARM64        | Public  | Unknown    | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
+| 1.2.3576.0 | ARM64        | Dogfood | 10/06/2022 | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
+| 1.2.3576.0 | ARM64        | Insider | 10/06/2022 | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
+| 1.2.3576.0 | ARM64        | Public  | 10/06/2022 | 133C14244BAD0C8FCF50196B6091A6E6 | RemoteDesktop_1.2.3576.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFG |
 | 1.2.3576.0 | x64          | Dogfood | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
 | 1.2.3576.0 | x64          | Insider | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
 | 1.2.3576.0 | x64          | Public  | 10/06/2022 | 4BF5A8CD65AD364B512A0CA2D8B08321 | RemoteDesktop_1.2.3576.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58YFH |
@@ -4361,12 +4361,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe               |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi               |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip               |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe       |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi       |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip       |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4498,8 +4498,8 @@
 | 5.12.0.1933 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.msi |
 | 5.12.0.1933 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.exe     |
 | 5.12.0.1933 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
