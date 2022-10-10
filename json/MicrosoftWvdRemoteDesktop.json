@@ -57,7 +57,7 @@
     "Version": "1.2.3576.0",
     "Architecture": "x86",
     "Channel": "Dogfood",
-    "Date": "10/06/2022",
+    "Date": "Unknown",
     "MD5": "9962CCFB5102FDBD4D8D141AC3885A5E",
     "Filename": "RemoteDesktop_1.2.3576.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ"
@@ -66,7 +66,7 @@
     "Version": "1.2.3576.0",
     "Architecture": "x86",
     "Channel": "Insider",
-    "Date": "10/06/2022",
+    "Date": "Unknown",
     "MD5": "9962CCFB5102FDBD4D8D141AC3885A5E",
     "Filename": "RemoteDesktop_1.2.3576.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ"
@@ -75,7 +75,7 @@
     "Version": "1.2.3576.0",
     "Architecture": "x86",
     "Channel": "Public",
-    "Date": "10/06/2022",
+    "Date": "Unknown",
     "MD5": "9962CCFB5102FDBD4D8D141AC3885A5E",
     "Filename": "RemoteDesktop_1.2.3576.0_x86.msi",
     "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59ekJ"
