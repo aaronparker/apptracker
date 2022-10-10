@@ -1,45 +1,45 @@
 [
   {
-    "Version": "5.12.0.8964",
+    "Version": "5.12.2.9281",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.8964/arm64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.9281/arm64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.12.0.8964",
+    "Version": "5.12.2.9281",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.8964/arm64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.9281/arm64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.12.0.8964",
+    "Version": "5.12.2.9281",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.8964/x64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.9281/x64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.12.0.8964",
+    "Version": "5.12.2.9281",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.8964/x64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.9281/x64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.12.0.8964",
+    "Version": "5.12.2.9281",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.8964/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.9281/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.12.0.8964",
+    "Version": "5.12.2.9281",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.8964/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.9281/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.12.0.1933",
