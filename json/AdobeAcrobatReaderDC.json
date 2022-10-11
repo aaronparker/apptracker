@@ -1,59 +1,59 @@
 [
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "MUI",
     "Architecture": "x64",
-    "Name": "Reader DC 2022.002.20191 MUI for Windows-64bit",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200220191/AcroRdrDCx642200220191_MUI.exe"
+    "Name": "Reader DC 2022.003.20258 MUI for Windows-64bit",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200220191/AcroRdrDCx642200320258_MUI.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "English",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 English for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_en_US.exe"
+    "Name": "Reader DC 2022.003.20258 English for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_en_US.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "English (UK)",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 English UK for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_en_US.exe"
+    "Name": "Reader DC 2022.003.20258 English UK for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_en_US.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "French",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 French for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_fr_FR.exe"
+    "Name": "Reader DC 2022.003.20258 French for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_fr_FR.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "German",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 German for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_de_DE.exe"
+    "Name": "Reader DC 2022.003.20258 German for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_de_DE.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "Japanese",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 Japanese for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_ja_JP.exe"
+    "Name": "Reader DC 2022.003.20258 Japanese for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_ja_JP.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "MUI",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 MUI for Windows-32bit",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_MUI.exe"
+    "Name": "Reader DC 2022.003.20258 MUI for Windows-32bit",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_MUI.exe"
   },
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Language": "Spanish",
     "Architecture": "x86",
-    "Name": "Reader DC 2022.002.20191 Spanish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200220191/AcroRdrDC2200220191_es_ES.exe"
+    "Name": "Reader DC 2022.003.20258 Spanish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_es_ES.exe"
   },
   {
     "Version": "19.008.20071",
