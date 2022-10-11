@@ -1,19 +1,19 @@
 [
   {
-    "Version": "22.211.1006.0001",
+    "Version": "22.212.1009.0001",
     "Architecture": "AMD64",
     "Ring": "InternalFast",
-    "Sha256": "DQfqnHeqLvr6Xll9dM0xrAaHJQohacQvNck6E2KOb04=",
+    "Sha256": "R6Was5Pttadx6hJpgGmAW1UHnL0giDKHek6KA6MiE6w=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.211.1006.0001/amd64/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.212.1009.0001/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "22.211.1006.0001",
+    "Version": "22.212.1009.0001",
     "Architecture": "x86",
     "Ring": "InternalFast",
-    "Sha256": "sr0d7i8IX4WEG1BHt3GWB2V3yHrs8KhAwiqGQgvhTeY=",
+    "Sha256": "0iTb9IK2LHCRzn6C+V1JIm9Hfw9PrphfasUZsIU3+fs=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.211.1006.0001/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.212.1009.0001/OneDriveSetup.exe"
   },
   {
     "Version": "22.207.1002.0001",

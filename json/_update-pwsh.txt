@@ -1,0 +1,8 @@
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OracleVirtualBox.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
