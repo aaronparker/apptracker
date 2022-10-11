@@ -1,8 +1,0 @@
-json/AdobeAcrobat.json
-json/Cyberduck.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OperaBrowser.json
-json/OperaGXBrowser.json
-json/VideoLanVlcPlayer.json
