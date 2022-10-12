@@ -1,0 +1,14 @@
+json/AdobeAcrobatReaderDC.json
+json/Gimp.json
+json/GoogleChrome.json
+json/JetBrainsPyCharm.json
+json/McNeelRhino.json
+json/Microsoft.NET.json
+json/Microsoft365Apps.json
+json/MicrosoftVisualStudio.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/PSFPython.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
