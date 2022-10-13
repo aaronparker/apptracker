@@ -1314,7 +1314,7 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3662.0 | ARM64        | Dogfood | Unknown    | 06A1FB88BC14A351DD91B09681AEB357 | RemoteDesktop_1.2.3662.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58RcM |
+| 1.2.3662.0 | ARM64        | Dogfood | 10/11/2022 | 06A1FB88BC14A351DD91B09681AEB357 | RemoteDesktop_1.2.3662.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58RcM |
 | 1.2.3662.0 | x64          | Dogfood | 10/11/2022 | B7310C557FC4E981DC01F36D2ACCA90F | RemoteDesktop_1.2.3662.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58RcN |
 | 1.2.3662.0 | x86          | Dogfood | Unknown    | E7D44F419B03B726CD7FC028619DD38F | RemoteDesktop_1.2.3662.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58U5r |
 | 1.2.3577.0 | ARM64        | Insider | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
@@ -2845,11 +2845,11 @@
 
 [Link](https://obsidian.md/)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 0.15.9  | Windows  | ARM64        | exe  | 07/26/2022 | 72519720 | https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9-arm64.exe |
-| 0.15.9  | Windows  | x86          | exe  | 07/26/2022 | 64348264 | https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9-32.exe    |
-| 0.15.9  | Windows  | x86          | exe  | 07/26/2022 | 67681704 | https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian.0.15.9.exe       |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 1.0.0   | Windows  | ARM64        | exe  | 10/13/2022 | 72514792 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.0/Obsidian.1.0.0-arm64.exe |
+| 1.0.0   | Windows  | x86          | exe  | 10/13/2022 | 64343368 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.0/Obsidian.1.0.0-32.exe    |
+| 1.0.0   | Windows  | x86          | exe  | 10/13/2022 | 67676840 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.0/Obsidian.1.0.0.exe       |
 
 ## OBSStudio
 
@@ -2944,8 +2944,8 @@
 | 93.0.4569.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/93.0.4569.0/win/Opera_Developer_93.0.4569.0_Setup.exe     |
 | 92.0.4561.11 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/92.0.4561.11/win/Opera_beta_92.0.4561.11_Setup_x64.exe         |
 | 92.0.4561.11 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/92.0.4561.11/win/Opera_beta_92.0.4561.11_Setup.exe             |
-| 91.0.4516.65 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.65/win/Opera_91.0.4516.65_Setup_x64.exe                   |
-| 91.0.4516.65 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.65/win/Opera_91.0.4516.65_Setup.exe                       |
+| 91.0.4516.77 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.77/win/Opera_91.0.4516.77_Setup_x64.exe                   |
+| 91.0.4516.77 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.77/win/Opera_91.0.4516.77_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -3530,14 +3530,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe         |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi         |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe    |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi    |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip    |
 
 ## VisualCppRedistAIO
 
