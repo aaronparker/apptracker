@@ -1,0 +1,4 @@
+json/MicrosoftWvdRemoteDesktop.json
+json/Obsidian.json
+json/OperaBrowser.json
+json/VideoLanVlcPlayer.json
