@@ -10,6 +10,16 @@
     "URI": "https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe"
   },
   {
+    "Version": "3.10.8",
+    "Python": 3,
+    "md5": "10efcd9a8777fe84f9a9c583d074e632",
+    "Size": 27820784,
+    "Date": "10/11/2022",
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://www.python.org/ftp/python/3.10.8/python-3.10.8.exe"
+  },
+  {
     "Version": "2.7.18",
     "Python": 2,
     "md5": "a425c758d38f8e28b56f4724b499239a",
