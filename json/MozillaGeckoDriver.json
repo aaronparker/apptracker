@@ -1,20 +1,29 @@
 [
   {
-    "Version": "0.31.0",
+    "Version": "0.32.0",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "zip",
+    "Date": "10/13/2022",
+    "Size": 1561954,
+    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win-aarch64.zip"
+  },
+  {
+    "Version": "0.32.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "04/11/2022",
-    "Size": 1486138,
-    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip"
+    "Date": "10/13/2022",
+    "Size": 1661089,
+    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip"
   },
   {
-    "Version": "0.31.0",
+    "Version": "0.32.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "04/11/2022",
-    "Size": 1426204,
-    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win32.zip"
+    "Date": "10/13/2022",
+    "Size": 1601693,
+    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win32.zip"
   }
 ]

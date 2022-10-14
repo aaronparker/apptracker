@@ -1,19 +1,19 @@
 [
   {
-    "Version": "22.214.1011.0001",
+    "Version": "22.215.1012.0001",
     "Architecture": "AMD64",
     "Ring": "InternalFast",
-    "Sha256": "PCFqTe6QrCt+72TzkPjirdGb9zX8ZS04RtiBTQWm7ek=",
+    "Sha256": "7Et3LDV41l2jCWv4aiQvusDmzBoGQNmlHQhuFaR6uIY=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.214.1011.0001/amd64/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.215.1012.0001/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "22.214.1011.0001",
+    "Version": "22.215.1012.0001",
     "Architecture": "x86",
     "Ring": "InternalFast",
-    "Sha256": "L7fahg+uBK3J6Dl0do6GUNuysLCCqLU23bJyPRNFEHI=",
+    "Sha256": "glPqscaSZ9Mrav2sur5NRvmVmzDxfhTpUDcuB9gsusQ=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.214.1011.0001/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/MsitFast/22.215.1012.0001/OneDriveSetup.exe"
   },
   {
     "Version": "22.212.1009.0001",
@@ -64,20 +64,20 @@
     "URI": "https://oneclient.sfx.ms/Win/MsitSlow/22.207.1002.0001/OneDriveSetup.exe"
   },
   {
-    "Version": "22.202.0925.0001",
+    "Version": "22.202.0925.0002",
     "Architecture": "AMD64",
     "Ring": "Production",
-    "Sha256": "FXUJ85f6aV214K4bhdZJq1FSuNOO8i3msU2LSRfYzeM=",
+    "Sha256": "qGpL8Vt7vTVVyT70Cj8mBdTemjBJVM79Igk+PDOSq+k=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Prod/22.202.0925.0001/amd64/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Prod/22.202.0925.0002/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "22.202.0925.0001",
+    "Version": "22.202.0925.0002",
     "Architecture": "x86",
     "Ring": "Production",
-    "Sha256": "NqAx5TolUN3NG0ekjuxZ1m87v88BvO9BAkOYlItireQ=",
+    "Sha256": "O4V7G//TVrczG/bUh5GA6Hy9D49S0Vj/GsjtCYPNre0=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Prod/22.202.0925.0001/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Prod/22.202.0925.0002/OneDriveSetup.exe"
   },
   {
     "Version": "22.196.0918.0001",
