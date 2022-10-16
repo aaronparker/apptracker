@@ -1,5 +1,0 @@
-json/1Password.json
-json/Fork.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
