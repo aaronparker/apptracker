@@ -1,0 +1,7 @@
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/OperaBrowser.json
+json/OperaCryptoBrowser.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
