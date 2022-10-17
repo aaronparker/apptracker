@@ -42,39 +42,32 @@
     "URI": "https://cdn.zoom.us/prod/5.12.2.9281/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.12.0.1933",
+    "Version": "5.12.2.1970",
     "Platform": "Rooms",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.exe"
   },
   {
-    "Version": "5.12.0.1933",
+    "Version": "5.12.2.1970",
     "Platform": "Rooms",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/x64/zoomrooms-5.12.0.1933-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.msi"
   },
   {
-    "Version": "5.12.0.1933",
+    "Version": "5.12.2.1970",
     "Platform": "Rooms",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.exe"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.exe"
   },
   {
-    "Version": "5.12.0.1933",
+    "Version": "5.12.2.1970",
     "Platform": "Rooms",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.1933/zoomrooms-5.12.0.1933-x86.msi"
-  },
-  {
-    "Version": "5.12.0.719",
-    "Platform": "Notes",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.msi"
   },
   {
     "Version": "5.12.0.719",
@@ -82,6 +75,13 @@
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi"
+  },
+  {
+    "Version": "5.12.0.719",
+    "Platform": "Notes",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi"
   },
   {
     "Version": "5.12.0.718",
