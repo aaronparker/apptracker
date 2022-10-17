@@ -1,5 +1,0 @@
-json/1Password.json
-json/Gpg4win.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
