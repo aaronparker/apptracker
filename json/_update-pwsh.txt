@@ -1,0 +1,6 @@
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/OctopusDeployServer.json
+json/OracleJava8.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
