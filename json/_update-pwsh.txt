@@ -1,0 +1,7 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftAzureStorageExplorer.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
