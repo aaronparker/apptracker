@@ -1,0 +1,6 @@
+json/Anaconda.json
+json/ImageMagickStudioImageMagick.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/SumatraPDFReader.json
