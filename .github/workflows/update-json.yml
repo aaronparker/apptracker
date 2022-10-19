@@ -21,7 +21,7 @@ jobs:
 
       # - name: Install and cache PowerShell modules
       #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v5.0
+      #   uses: potatoqualitee/psmodulecache@v5.1
       #   with:
       #     modules-to-cache: Evergreen, DnsClient-PS
       #     force: true
@@ -128,7 +128,7 @@ jobs:
 
       # - name: Install and cache PowerShell modules
       #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v5.0
+      #   uses: potatoqualitee/psmodulecache@v5.1
       #   with:
       #     modules-to-cache: Evergreen
       #     force: true
@@ -270,7 +270,7 @@ jobs:
 
       - name: Install and cache PowerShell modules
         id: psmodulecache
-        uses: potatoqualitee/psmodulecache@v5.0
+        uses: potatoqualitee/psmodulecache@v5.1
         with:
           modules-to-cache: Evergreen
           force: true
@@ -355,7 +355,7 @@ jobs:
 
       # - name: Install and cache PowerShell modules
       #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v5.0
+      #   uses: potatoqualitee/psmodulecache@v5.1
       #   with:
       #     modules-to-cache: Evergreen
       #     shell: pwsh
