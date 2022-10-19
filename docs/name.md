@@ -642,9 +642,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitForWindows
 
@@ -884,9 +884,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1150,8 +1150,6 @@
 | 22.207.1002.0002 | x86          | Production   | jkLuZRkakS8oxrGA1tS15hIngNdi2esuBoOUeKwuzqY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.207.1002.0002/OneDriveSetup.exe             |
 | 22.202.0925.0002 | AMD64        | Production   | qGpL8Vt7vTVVyT70Cj8mBdTemjBJVM79Igk+PDOSq+k= | exe  | https://oneclient.sfx.ms/Win/Prod/22.202.0925.0002/amd64/OneDriveSetup.exe       |
 | 22.202.0925.0002 | x86          | Production   | O4V7G//TVrczG/bUh5GA6Hy9D49S0Vj/GsjtCYPNre0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.202.0925.0002/OneDriveSetup.exe             |
-| 22.196.0918.0001 | AMD64        | Production   | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/amd64/OneDriveSetup.exe       |
-| 22.196.0918.0001 | x86          | Production   | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/OneDriveSetup.exe             |
 | 22.131.0619.0001 | AMD64        | Enterprise   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/amd64/OneDriveSetup.exe |
 | 22.131.0619.0001 | x86          | Enterprise   | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/OneDriveSetup.exe       |
 
@@ -1264,12 +1262,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.73.0  | win32-arm64      | Insider | ARM64        | 8672c20147ae9832f915ecb7fa3c68b1c51365f80fb23d132b73e4b421256fa6 | https://az764295.vo.msecnd.net/insider/7ea2788a43a4c35d8da63a419725ba2485de395b/VSCodeSetup-arm64-1.73.0-insider.exe     |
-| 1.73.0  | win32-arm64-user | Insider | ARM64        | 53d91b273aa53aed9a1087ae448def444b8df28b0461544d6b67ace13a6c26d2 | https://az764295.vo.msecnd.net/insider/7ea2788a43a4c35d8da63a419725ba2485de395b/VSCodeUserSetup-arm64-1.73.0-insider.exe |
-| 1.73.0  | win32-x64        | Insider | x64          | fbb72d4f8e6428ffb0aa4ebf1235e3e1e88b9571b9cd1dcebf0c1b7a60ab203c | https://az764295.vo.msecnd.net/insider/7ea2788a43a4c35d8da63a419725ba2485de395b/VSCodeSetup-x64-1.73.0-insider.exe       |
-| 1.73.0  | win32-x64-user   | Insider | x64          | 77c41eb027f270420faa908920d682db294163da0e9a9dac10e9c4087c720cc1 | https://az764295.vo.msecnd.net/insider/7ea2788a43a4c35d8da63a419725ba2485de395b/VSCodeUserSetup-x64-1.73.0-insider.exe   |
-| 1.73.0  | win32            | Insider | x86          | a7415ec694d9fcc8fcf1b0128de54b2c1a65a4dc384ed090d502b6845dd95865 | https://az764295.vo.msecnd.net/insider/7ea2788a43a4c35d8da63a419725ba2485de395b/VSCodeSetup-ia32-1.73.0-insider.exe      |
-| 1.73.0  | win32-user       | Insider | x86          | d251d069740ad280cf9df7d5952dbfb8dacc6541f6ce8890682e2a8beb19aec6 | https://az764295.vo.msecnd.net/insider/7ea2788a43a4c35d8da63a419725ba2485de395b/VSCodeUserSetup-ia32-1.73.0-insider.exe  |
+| 1.73.0  | win32-arm64      | Insider | ARM64        | 6a9caeb913e2cf3411a48d05a450fcd96334d915fea44d1804718f41a11705ac | https://az764295.vo.msecnd.net/insider/9d3fbb3d9a50055be0a8c6d721625d02c9de492d/VSCodeSetup-arm64-1.73.0-insider.exe     |
+| 1.73.0  | win32-arm64-user | Insider | ARM64        | 15539ad3d1850887c52735503c1bfd745a1afccd510e4e2265cecc7ca9b69c73 | https://az764295.vo.msecnd.net/insider/9d3fbb3d9a50055be0a8c6d721625d02c9de492d/VSCodeUserSetup-arm64-1.73.0-insider.exe |
+| 1.73.0  | win32-x64        | Insider | x64          | 08903833745c71bb8c8a00a4a1c4271bec0b16e579fab9e129b50775eb9e29ad | https://az764295.vo.msecnd.net/insider/9d3fbb3d9a50055be0a8c6d721625d02c9de492d/VSCodeSetup-x64-1.73.0-insider.exe       |
+| 1.73.0  | win32-x64-user   | Insider | x64          | 69f32f850d4d3c88c7e5f9ef9442c929c6e20441ad9e5a8df68b72ede9c1c850 | https://az764295.vo.msecnd.net/insider/9d3fbb3d9a50055be0a8c6d721625d02c9de492d/VSCodeUserSetup-x64-1.73.0-insider.exe   |
+| 1.73.0  | win32            | Insider | x86          | 030569a4772088519f81728498e764162a9d7241d4967fff800b80343fd4405c | https://az764295.vo.msecnd.net/insider/9d3fbb3d9a50055be0a8c6d721625d02c9de492d/VSCodeSetup-ia32-1.73.0-insider.exe      |
+| 1.73.0  | win32-user       | Insider | x86          | 958e9f3c7df6ced3827997c9ef319488a2f61e99e2d4e813fe10cd3f27244d3e | https://az764295.vo.msecnd.net/insider/9d3fbb3d9a50055be0a8c6d721625d02c9de492d/VSCodeUserSetup-ia32-1.73.0-insider.exe  |
 | 1.72.2  | win32-arm64      | Stable  | ARM64        | 0f999ce07fb8fb499fd146f1840f152992aba2eb3fe4d7469d312e58b980ba5b | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeSetup-arm64-1.72.2.exe              |
 | 1.72.2  | win32-arm64-user | Stable  | ARM64        | a639afb7dd3fd44985ed4003c32731da639b9a5b03bbc034213122825fad5ba8 | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeUserSetup-arm64-1.72.2.exe          |
 | 1.72.2  | win32-x64        | Stable  | x64          | b2b8a7156ec0079a1801db1647d6dbc4206345689772495eac311e0e6afcad57 | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeSetup-x64-1.72.2.exe                |
@@ -1316,10 +1314,10 @@
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3662.0 | ARM64        | Dogfood | Unknown    | 06A1FB88BC14A351DD91B09681AEB357 | RemoteDesktop_1.2.3662.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58RcM |
-| 1.2.3662.0 | x64          | Dogfood | Unknown    | B7310C557FC4E981DC01F36D2ACCA90F | RemoteDesktop_1.2.3662.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58RcN |
+| 1.2.3662.0 | x64          | Dogfood | 10/11/2022 | B7310C557FC4E981DC01F36D2ACCA90F | RemoteDesktop_1.2.3662.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58RcN |
 | 1.2.3662.0 | x86          | Dogfood | Unknown    | E7D44F419B03B726CD7FC028619DD38F | RemoteDesktop_1.2.3662.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58U5r |
-| 1.2.3577.0 | ARM64        | Insider | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
-| 1.2.3577.0 | ARM64        | Public  | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
+| 1.2.3577.0 | ARM64        | Insider | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
+| 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
 | 1.2.3577.0 | x64          | Insider | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
 | 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
 | 1.2.3577.0 | x86          | Insider | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
@@ -3772,10 +3770,10 @@
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
 | 93.0.4575.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/93.0.4575.0/win/Opera_Developer_93.0.4575.0_Setup_x64.exe |
 | 93.0.4575.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/93.0.4575.0/win/Opera_Developer_93.0.4575.0_Setup.exe     |
+| 92.0.4561.21 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/92.0.4561.21/win/Opera_92.0.4561.21_Setup_x64.exe                   |
+| 92.0.4561.21 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/92.0.4561.21/win/Opera_92.0.4561.21_Setup.exe                       |
 | 92.0.4561.11 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/92.0.4561.11/win/Opera_beta_92.0.4561.11_Setup_x64.exe         |
 | 92.0.4561.11 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/92.0.4561.11/win/Opera_beta_92.0.4561.11_Setup.exe             |
-| 91.0.4516.77 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.77/win/Opera_91.0.4516.77_Setup_x64.exe                   |
-| 91.0.4516.77 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/91.0.4516.77/win/Opera_91.0.4516.77_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -4360,14 +4358,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe            |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi            |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip            |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe      |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi      |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip      |
 
 ## VisualCppRedistAIO
 
@@ -4375,7 +4373,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 0.63.0  | Windows  | x64          | zip  | 10/03/2022 | 28897058 | https://github.com/abbodi1406/vcredist/releases/download/v0.63.0/VisualCppRedist_AIO_x86_x64_63.zip |
+| 0.64.0  | Windows  | x64          | zip  | 10/19/2022 | 28897294 | https://github.com/abbodi1406/vcredist/releases/download/v0.64.0/VisualCppRedist_AIO_x86_x64_64.zip |
 
 ## VMwareHorizonClient
 
