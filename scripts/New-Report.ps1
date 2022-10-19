@@ -28,6 +28,7 @@ Import-Module -Name "Evergreen" -Force
 Import-Module -Name "MarkdownPS" -Force
 
 #region Update the list of supported apps in index.md, sorted alphabetically
+$UniqueAppsCount = 0
 $Markdown = New-MDHeader -Text "Updates by name" -Level 1
 $Markdown += "`n"
 foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.json"))) {
@@ -44,6 +45,8 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.jso
     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
     $Markdown += "`n"
+
+    $UniqueAppsCount += (Get-Content -Path $File.FullName | ConvertFrom-Json).Count
 }
 $Markdown | Out-File -FilePath $UpdatesAlpha -Force -Encoding "Utf8" -NoNewline
 #endregion
@@ -108,8 +111,11 @@ $markdown += "hide:`n"
 $markdown += "  - navigation`n"
 $markdown += "  - toc`n"
 $markdown += "---`n`n"
-$markdown += New-MDHeader -Text "$((Find-EvergreenApp).Count) Supported Applications" -Level 1
+$markdown += New-MDHeader -Text "Supported Applications" -Level 1
 $markdown += "`n"
+$line = "App Version Tracker is using Evergreen " + '`' + $newVersion + '`' + " to track $((Find-EvergreenApp).Count) applications and $UniqueAppsCount unique application installers:"
+$markdown += $line
+$markdown += "`n`n"
 $markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
 $markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
 #endregion
