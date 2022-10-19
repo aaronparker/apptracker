@@ -4,7 +4,9 @@ hide:
   - toc
 ---
 
-# 214 Supported Applications
+# Supported Applications
+
+App Version Tracker is using Evergreen `` to track 214 applications and 3027 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
