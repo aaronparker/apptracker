@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 214 applications and 3025 unique application installers:
+App Version Tracker is using Evergreen to track 222 applications and 3056 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -37,12 +37,14 @@ App Version Tracker is using Evergreen to track 214 applications and 3025 unique
 | Atlassian Sourcetree                                              | https://www.sourcetreeapp.com/                                                             |
 | Audacity                                                          | https://www.audacityteam.org/                                                              |
 | Windows Auto Dark Mode                                            | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode                                    |
+| AWS SAM CLI                                                       | https://github.com/aws/aws-sam-cli/                                                        |
 | Beekeeper Studio                                                  | https://www.beekeeperstudio.io/                                                            |
 | Base Image Script Framework                                       | https://eucweb.com/                                                                        |
 | Bitwarden Desktop                                                 | https://bitwarden.com/                                                                     |
 | Blender Launcher                                                  | https://dotbow.github.io/Blender-Launcher/                                                 |
 | BlueJ                                                             | https://www.bluej.org/                                                                     |
 | Cendio ThinLinc                                                   | https://www.cendio.com/                                                                    |
+| Chromium ChromeDriver                                             | https://chromedriver.chromium.org/home                                                     |
 | Citrix VM Tools                                                   | https://www.citrix.com/downloads/citrix-hypervisor/                                        |
 | Citrix Workspace app                                              | https://www.citrix.com/downloads/workspace-app/                                            |
 | Codelerity Apache NetBeans                                        | https://www.codelerity.com/netbeans/                                                       |
@@ -57,6 +59,7 @@ App Version Tracker is using Evergreen to track 214 applications and 3025 unique
 | diagrams.net                                                      | https://www.diagrams.net/                                                                  |
 | dnGrep                                                            | https://dngrep.github.io/                                                                  |
 | Docker Desktop                                                    | https://www.docker.com/products/docker-desktop/                                            |
+| Double Commander                                                  | https://github.com/doublecmd/doublecmd/                                                    |
 | Egnyte Desktop App                                                | https://www.egnyte.com/solutions/sharing-collaboration                                     |
 | FileZilla                                                         | https://filezilla-project.org/                                                             |
 | Dan Pristupov Fork                                                | https://www.fork.dev                                                                       |
@@ -70,6 +73,7 @@ App Version Tracker is using Evergreen to track 214 applications and 3025 unique
 | Gephi                                                             | https://gephi.org/                                                                         |
 | Ghisler TotalCommander                                            | https://www.ghisler.com/                                                                   |
 | GIMP                                                              | https://www.gimp.org/                                                                      |
+| Git Extensions                                                    | https://github.com/gitextensions/gitextensions                                             |
 | Git for Windows                                                   | https://gitforwindows.org/                                                                 |
 | GitHub Atom                                                       | https://atom.io/                                                                           |
 | GitHub release                                                    | https://github.com/                                                                        |
@@ -98,10 +102,12 @@ App Version Tracker is using Evergreen to track 214 applications and 3025 unique
 | Karakun OpenWebStart                                              | https://openwebstart.com/ows/                                                              |
 | KeePass                                                           | https://keepass.net/                                                                       |
 | KeePassXC Team KeePassXC                                          | https://keepassxc.org/                                                                     |
+| KeeWeb                                                            | https://github.com/keeweb/keeweb                                                           |
 | LogMeIn GoToMeeting                                               | https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013                    |
 | LogMeIn GoToOpener                                                | https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi-g2m850002 |
 | Master Packager                                                   | https://www.masterpackager.com/                                                            |
 | Mattermost Desktop                                                | https://github.com/mattermost/desktop                                                      |
+| Maximus5 ConEmu                                                   | https://github.com/Maximus5/ConEmu                                                         |
 | McNeel Rhino                                                      | https://www.rhino3d.com/                                                                   |
 | Mendeley Desktop                                                  | https://www.mendeley.com/                                                                  |
 | Mestrelab Mnova                                                   | https://mestrelab.com/software/mnova/                                                      |
@@ -117,6 +123,7 @@ App Version Tracker is using Evergreen to track 214 applications and 3025 unique
 | Microsoft Edge WebView2 Runtime                                   | https://developer.microsoft.com/en-us/microsoft-edge/webview2/                             |
 | Microsoft FSLogix Apps                                            | https://docs.microsoft.com/fslogix/                                                        |
 | Microsoft OneDrive                                                | https://onedrive.live.com/                                                                 |
+| Microsoft Teams                                                   | https://www.microsoft.com/teams                                                            |
 | Microsoft PowerShell                                              | https://docs.microsoft.com/powershell/                                                     |
 | Microsoft PowerToys                                               | https://github.com/microsoft/PowerToys/                                                    |
 | Microsoft SQL Server Management Studio                            | https://go.microsoft.com/fwlink/?LinkId=531355                                             |
@@ -150,6 +157,7 @@ App Version Tracker is using Evergreen to track 214 applications and 3025 unique
 | Octopus Tentacle                                                  | https://octopus.com/                                                                       |
 | ONLYOFFICE Desktop Editors                                        | https://www.onlyoffice.com/desktop.aspx                                                    |
 | OpenJDK                                                           | https://openjdk.java.net/                                                                  |
+| OpenLens                                                          | https://github.com/MuhammedKalkan/OpenLens/                                                |
 | Open-Shell-Menu                                                   | https://open-shell.github.io/Open-Shell-Menu/                                              |
 | OpenWebStart                                                      | https://openwebstart.com/                                                                  |
 | Opera Browser                                                     | https://www.opera.com/browsers/opera                                                       |
