@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.3.2",
+    "Version": "1.3.3",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/terraform/1.3.2/terraform_1.3.2_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/terraform/1.3.3/terraform_1.3.3_windows_amd64.zip"
   },
   {
-    "Version": "1.3.2",
+    "Version": "1.3.3",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/terraform/1.3.2/terraform_1.3.2_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/terraform/1.3.3/terraform_1.3.3_windows_386.zip"
   }
 ]

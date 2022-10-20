@@ -1,14 +1,26 @@
 [
   {
-    "Version": "22.002.20191",
+    "Version": "22.003.20258",
     "Architecture": "x64",
-    "Type": "Pro",
+    "Sku": "Pro",
+    "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip"
+  },
+  {
+    "Version": "22.003.20258",
+    "Architecture": "x64",
+    "Sku": "Standard",
+    "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip"
+  },
+  {
+    "Version": "22.003.20258",
+    "Architecture": "x86",
+    "Sku": "Pro",
     "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip"
   },
   {
-    "Version": "22.002.20191",
-    "Architecture": "x64",
-    "Type": "Standard",
+    "Version": "22.003.20258",
+    "Architecture": "x86",
+    "Sku": "Standard",
     "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip"
   }
 ]

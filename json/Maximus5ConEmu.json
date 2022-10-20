@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "22.08.07",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "7z",
+    "Date": "08/07/2022",
+    "Size": 4861104,
+    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v22.08.07/ConEmuPack.220807.7z"
+  },
+  {
+    "Version": "22.08.07",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "08/07/2022",
+    "Size": 7969624,
+    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v22.08.07/ConEmuSetup.220807.exe"
+  },
+  {
+    "Version": "22.08.07",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "08/07/2022",
+    "Size": 4834600,
+    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v22.08.07/ConEmu_220807_English.paf.exe"
+  }
+]

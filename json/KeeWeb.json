@@ -1,0 +1,65 @@
+[
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "Date": "07/18/2021",
+    "Size": 59490304,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.exe"
+  },
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "zip",
+    "Date": "07/18/2021",
+    "Size": 85382735,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.zip"
+  },
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "Date": "07/18/2021",
+    "Size": 63026752,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.exe"
+  },
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "Date": "07/18/2021",
+    "Size": 83753334,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.zip"
+  },
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "07/18/2021",
+    "Size": 60156888,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.exe"
+  },
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "Date": "07/18/2021",
+    "Size": 7160996,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.html.zip"
+  },
+  {
+    "Version": "1.18.7",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "Date": "07/18/2021",
+    "Size": 79082537,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.zip"
+  }
+]

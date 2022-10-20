@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "3.5.4",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Date": "09/29/2021",
+    "Size": 23908352,
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-3.5.4.12724-65f01f399.msi"
+  },
+  {
+    "Version": "3.5.4",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "Date": "09/29/2021",
+    "Size": 23153128,
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-Portable-3.5.4.12724-65f01f399.zip"
+  }
+]
