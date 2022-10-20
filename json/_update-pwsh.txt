@@ -1,0 +1,4 @@
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
