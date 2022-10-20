@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.3.3",
+    "Version": "4.3.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "07/27/2022",
-    "Size": 54468608,
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v4.3.3/pdfsam-4.3.3.msi"
+    "Date": "10/20/2022",
+    "Size": 59756544,
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v4.3.4/pdfsam-4.3.4.msi"
   },
   {
-    "Version": "4.3.3",
+    "Version": "4.3.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "07/27/2022",
-    "Size": 52896323,
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v4.3.3/pdfsam-4.3.3-windows.zip"
+    "Date": "10/20/2022",
+    "Size": 58177389,
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v4.3.4/pdfsam-4.3.4-windows.zip"
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.11.10",
+    "Version": "1.11.11",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/consul/1.11.10/consul_1.11.10_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/consul/1.11.11/consul_1.11.11_windows_amd64.zip"
   },
   {
-    "Version": "1.11.10",
+    "Version": "1.11.11",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/consul/1.11.10/consul_1.11.10_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/consul/1.11.11/consul_1.11.11_windows_386.zip"
   }
 ]
