@@ -1,5 +1,0 @@
-json/BitwardenDesktop.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VMwareHorizonClientAlt.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
