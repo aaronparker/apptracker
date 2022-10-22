@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                               |
-| ------- | ----------------------------------------------------------------- |
-| 8.9.5   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
+| Version | URI                                                           |
+| ------- | ------------------------------------------------------------- |
+| 8.9.5   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.5.exe |
 
 ## 1Password7
 
@@ -674,9 +674,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1081,7 +1081,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15813.20002 | BetaChannel       | Beta                                  | 10/18/2022 17:39:17 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15726.20140 | CurrentPreview    | Current Channel (Preview)             | 10/18/2022 21:51:02 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15726.20164 | CurrentPreview    | Current Channel (Preview)             | 10/21/2022 16:27:23 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15629.20208 | Current           | Current Channel                       | 10/11/2022 15:09:36 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20230 | MonthlyEnterprise | Monthly Enterprise                    | 10/11/2022 07:36:41 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20230 | SemiAnnualPreview | Semi-Annual Channel Preview           | 10/11/2022 09:19:57 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1095,8 +1095,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | 30d6be82cca927412f82547de82c2b29a9986ff3b4d9fbdfc3d408be383c1d5a | https://sqlopsbuilds.azureedge.net/insider/0f46b3ef9bac74de5dbe5277ece470f1111cc3a5/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | 1f6a8c0a1c3fd91cce2e3f06bf052f7697b8200ae4cbbaedb85bf21336da7722 | https://sqlopsbuilds.azureedge.net/insider/0f46b3ef9bac74de5dbe5277ece470f1111cc3a5/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | 7abca2f65b87b7ec77b14e65d98174bbcb664878defcf2f91d10a80afae09e60 | https://sqlopsbuilds.azureedge.net/insider/533e1ec1b921d2d246695f6edc441a8231790e9a/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 390788975da48c7a05c35ab1d9fa2676bc73c9e6f3351852ba7e5dff0438b5e3 | https://sqlopsbuilds.azureedge.net/insider/533e1ec1b921d2d246695f6edc441a8231790e9a/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -1141,7 +1141,7 @@
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 108.0.1438.1  | Any      | Policy     | Enterprise | any          | 0E6F799E25DCEFFEBE6857F58031AADF3138BEFEE5715B329DFE26DAB8BA6A2C | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/42342c93-34bc-40ab-b306-a2f01954c9dd/MicrosoftEdgePolicyTemplates.cab            |
+| 108.0.1450.0  | Any      | Policy     | Enterprise | any          | 92A4E80D2CEB03A4052C0C761D8A301504D6CAC4F4E2AECC81E08B82DAAD43E9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/37097aaa-ae36-4416-b6db-697e1c025a45/MicrosoftEdgePolicyTemplates.cab            |
 | 108.0.1438.1  | Windows  | Dev        | Consumer   | arm64        | 2C72BDBB094995A1286EB57DE96F381252C27904DA1D418B8DA43F5803B67AEA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97e46c50-c752-4e91-900b-e82ee0b9f950/MicrosoftEdgeDevEnterpriseARM64.msi         |
 | 108.0.1438.1  | Windows  | Dev        | Enterprise | arm64        | 2C72BDBB094995A1286EB57DE96F381252C27904DA1D418B8DA43F5803B67AEA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97e46c50-c752-4e91-900b-e82ee0b9f950/MicrosoftEdgeDevEnterpriseARM64.msi         |
 | 108.0.1438.1  | Windows  | Dev        | Consumer   | x64          | 3BD4F2D98D420C3FC484F11A77D4578226B0B8B2B45F3EE761A16136643BACA7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/db16a038-2c97-4a5b-8470-f68fc02c3a99/MicrosoftEdgeDevEnterpriseX64.msi           |
@@ -1203,8 +1203,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.220.1019.0001 | AMD64        | InternalFast | z0ULIHq0Kbdb93xugA4tTL3sfomLrs8R799PBgn2wec= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.220.1019.0001/amd64/OneDriveSetup.exe   |
-| 22.220.1019.0001 | x86          | InternalFast | 3TBRHwr6jvFtJ0BBVCOhvOX+lHmR7LtCgSEMPxhxkVw= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.220.1019.0001/OneDriveSetup.exe         |
+| 22.221.1020.0001 | AMD64        | InternalFast | p+10coXyTXKfEJodSRI7h0cw0gZW7VnQJbcRWn03TIs= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.221.1020.0001/amd64/OneDriveSetup.exe   |
+| 22.221.1020.0001 | x86          | InternalFast | NRAgYKWOSp8adcnb1r+60Ifg1JRtDGW0/9vO3ommLv4= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.221.1020.0001/OneDriveSetup.exe         |
 | 22.217.1016.0001 | AMD64        | InternalSlow | Xhafruaxs1QQjQF6CARBybBdfTDKFvOqZHNbOWCAG1c= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.217.1016.0001/amd64/OneDriveSetup.exe   |
 | 22.217.1016.0001 | x86          | InternalSlow | NaS7XY/YcD0DAnYFYL9eaeDOSYm7iyzXaqGjyEbPcHY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.217.1016.0001/OneDriveSetup.exe         |
 | 22.212.1009.0003 | AMD64        | Insider      | 466uwcwzb8JziaWizHyxEhwSz3jpvLrQTdp3v6mkOAc= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.212.1009.0003/amd64/OneDriveSetup.exe   |
@@ -4441,14 +4441,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4580,8 +4580,8 @@
 | 5.12.2.1970 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.msi |
 | 5.12.2.1970 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.exe     |
 | 5.12.2.1970 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
