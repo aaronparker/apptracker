@@ -1,0 +1,5 @@
+json/1Password.json
+json/MicrosoftWvdRemoteDesktop.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
