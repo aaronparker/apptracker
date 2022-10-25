@@ -1,7 +1,0 @@
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftOneDrive.json
-json/MicrosoftOutlook.json
-json/PSFPython.json
-json/Slack.json
-json/VideoLanVlcPlayer.json
