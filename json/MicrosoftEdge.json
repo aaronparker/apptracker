@@ -93,6 +93,15 @@
     "Version": "107.0.1418.20",
     "Platform": "Windows",
     "Channel": "Beta",
+    "Release": "Enterprise",
+    "Architecture": "x64",
+    "Hash": "5D79402BD0841F731B36DD98C4D37EC90D0A81DFA627B49AB391C444E4054C64",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e519a66-fb76-4f2e-9e5c-1b18958e58f3/MicrosoftEdgeBetaEnterpriseX64.msi"
+  },
+  {
+    "Version": "107.0.1418.20",
+    "Platform": "Windows",
+    "Channel": "Beta",
     "Release": "Consumer",
     "Architecture": "x86",
     "Hash": "25057B09CEF26D3B381ED0F600618B0B19773BD6510E974554A81C7B454EB2DD",
