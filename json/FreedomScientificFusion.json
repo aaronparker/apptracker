@@ -1,12 +1,5 @@
-[
-  {
-    "Version": "2022.2207.4",
-    "Date": "July 2022",
-    "URI": "https://fusion2022.vfo.digital/2022.2207.4.400/3C2E21E8-BD91-4DD3-B68B-675013FAB3B0/F2022.2207.4.400-Offline-x86.exe"
-  },
-  {
-    "Version": "2022.2207.4",
-    "Date": "July 2022",
-    "URI": "https://fusion2022.vfo.digital/2022.2207.4.400/3C2E21E8-BD91-4DD3-B68B-675013FAB3B0/F2022.2207.4.400-Offline-x64.exe"
-  }
-]
+{
+  "Version": "2023.2210.10",
+  "Date": "October 2022",
+  "URI": "https://fusion2023.vfo.digital/2023.2210.10.400/013B913E-48DE-4A39-B784-18BE7A400248/F2023.2210.10.400-Offline-x64.exe"
+}

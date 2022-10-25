@@ -1,12 +1,5 @@
-[
-  {
-    "Version": "2022.2207.14",
-    "Date": "July 2022",
-    "URI": "https://zoomtext2022.vfo.digital/2022.2207.14.400/C39EE606-6D92-4CE4-BA85-B3EB318D4ED2/ZT2022.2207.14.400-Offline-x86.exe"
-  },
-  {
-    "Version": "2022.2207.14",
-    "Date": "July 2022",
-    "URI": "https://zoomtext2022.vfo.digital/2022.2207.14.400/C39EE606-6D92-4CE4-BA85-B3EB318D4ED2/ZT2022.2207.14.400-Offline-x64.exe"
-  }
-]
+{
+  "Version": "2023.2210.28",
+  "Date": "October 2022",
+  "URI": "https://zoomtext2023.vfo.digital/2023.2210.28.400/E8814E40-36F3-4EB5-8F17-36C02DF6FD70/ZT2023.2210.28.400-Offline-x64.exe"
+}
