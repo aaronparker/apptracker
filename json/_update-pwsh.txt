@@ -1,7 +1,0 @@
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OperaGXBrowser.json
-json/PiriformCCleanerFree.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
