@@ -1,0 +1,12 @@
+json/ChromiumChromeDriver.json
+json/GoogleChrome.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/PSFPython.json
+json/PiriformCCleanerFree.json
+json/TorProjectTorBrowser.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

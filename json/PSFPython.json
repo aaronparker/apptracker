@@ -2,12 +2,32 @@
   {
     "Version": "3.11.0",
     "Python": 3,
+    "md5": "18e5bd9a4854109adf3b77c7c9dc1ded",
+    "Size": 24289144,
+    "Date": "10/24/2022",
+    "Type": "exe",
+    "Architecture": "ARM64",
+    "URI": "https://www.python.org/ftp/python/3.11.0/python-3.11.0-arm64.exe"
+  },
+  {
+    "Version": "3.11.0",
+    "Python": 3,
     "md5": "4fe11b2b0bb0c744cf74aff537f7cd7f",
     "Size": 25157416,
     "Date": "10/24/2022",
     "Type": "exe",
     "Architecture": "x64",
     "URI": "https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe"
+  },
+  {
+    "Version": "3.11.0",
+    "Python": 3,
+    "md5": "e369a267acaad62487223bd835279bb9",
+    "Size": 23987136,
+    "Date": "10/24/2022",
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://www.python.org/ftp/python/3.11.0/python-3.11.0.exe"
   },
   {
     "Version": "2.7.18",
