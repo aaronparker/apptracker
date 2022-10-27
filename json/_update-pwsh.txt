@@ -1,0 +1,10 @@
+json/AdobeAcrobatDC.json
+json/AdobeAcrobatProStdDC.json
+json/AdobeAcrobatReaderDC.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/TorProjectTorBrowser.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
