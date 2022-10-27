@@ -65,12 +65,12 @@
 
 | Version      | Type      | Architecture | URI                                                                                                        |
 | ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 22.003.20258 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320258/AcrobatDCx64Upd2200320258.msp     |
-| 22.003.20258 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320258/AcroRdrDCx64Upd2200320258.msp     |
-| 22.003.20258 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320258/AcroRdrDCx64Upd2200320258_MUI.msp |
-| 22.003.20258 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320258/AcrobatDCUpd2200320258.msp        |
-| 22.003.20258 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDCUpd2200320258.msp         |
-| 22.003.20258 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDCUpd2200320258_MUI.msp     |
+| 22.003.20263 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320263/AcrobatDCx64Upd2200320263.msp     |
+| 22.003.20263 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320263/AcroRdrDCx64Upd2200320263.msp     |
+| 22.003.20263 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320263/AcroRdrDCx64Upd2200320263_MUI.msp |
+| 22.003.20263 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320263/AcrobatDCUpd2200320263.msp        |
+| 22.003.20263 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDCUpd2200320263.msp         |
+| 22.003.20263 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDCUpd2200320263_MUI.msp     |
 
 ## AdobeAcrobatProStdDC
 
@@ -78,10 +78,10 @@
 
 | Version      | Architecture | Sku      | URI                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
-| 22.003.20258 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 22.003.20258 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 22.003.20258 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-| 22.003.20258 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 22.003.20263 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 22.003.20263 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 22.003.20263 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 22.003.20263 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
 
 ## AdobeAcrobatReaderDC
 
@@ -89,14 +89,14 @@
 
 | Version      | Language              | Architecture | Name                                               | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 22.003.20258 | MUI                   | x64          | Reader DC 2022.003.20258 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320258/AcroRdrDCx642200320258_MUI.exe |
-| 22.003.20258 | English               | x86          | Reader DC 2022.003.20258 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_en_US.exe   |
-| 22.003.20258 | English (UK)          | x86          | Reader DC 2022.003.20258 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_en_US.exe   |
-| 22.003.20258 | French                | x86          | Reader DC 2022.003.20258 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_fr_FR.exe   |
-| 22.003.20258 | German                | x86          | Reader DC 2022.003.20258 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_de_DE.exe   |
-| 22.003.20258 | Japanese              | x86          | Reader DC 2022.003.20258 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_ja_JP.exe   |
-| 22.003.20258 | MUI                   | x86          | Reader DC 2022.003.20258 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_MUI.exe     |
-| 22.003.20258 | Spanish               | x86          | Reader DC 2022.003.20258 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320258/AcroRdrDC2200320258_es_ES.exe   |
+| 22.003.20263 | MUI                   | x64          | Reader DC 2022.003.20263 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2200320263/AcroRdrDCx642200320263_MUI.exe |
+| 22.003.20263 | English               | x86          | Reader DC 2022.003.20263 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_en_US.exe   |
+| 22.003.20263 | English (UK)          | x86          | Reader DC 2022.003.20263 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_en_US.exe   |
+| 22.003.20263 | French                | x86          | Reader DC 2022.003.20263 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_fr_FR.exe   |
+| 22.003.20263 | German                | x86          | Reader DC 2022.003.20263 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_de_DE.exe   |
+| 22.003.20263 | Japanese              | x86          | Reader DC 2022.003.20263 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_ja_JP.exe   |
+| 22.003.20263 | MUI                   | x86          | Reader DC 2022.003.20263 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_MUI.exe     |
+| 22.003.20263 | Spanish               | x86          | Reader DC 2022.003.20263 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2200320263/AcroRdrDC2200320263_es_ES.exe   |
 | 19.008.20071 | Basque                | x86          | Reader DC 2019.008.20071 Basque for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_eu_ES.exe   |
 | 19.008.20071 | Catalan               | x86          | Reader DC 2019.008.20071 Catalan for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_ca_ES.exe   |
 | 19.008.20071 | Chinese (Simplified)  | x86          | Reader DC 2019.008.20071 Chinese Simp for  Windows | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_zh_CN.exe   |
@@ -672,9 +672,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1092,8 +1092,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.40.0  | win32-x64      | Insider | ab61da98fca32525fd16d91a98f8db451e4d12cdfda0eae6bf1ad70823f8368e | https://sqlopsbuilds.azureedge.net/insider/d5cf088ba7b794859438fd2c1902249fd1e6a947/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | ac7e99893645abca81eb1309f9be387eff4625110bbf5dae4ef94f6d2fa43d1d | https://sqlopsbuilds.azureedge.net/insider/d5cf088ba7b794859438fd2c1902249fd1e6a947/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64      | Insider | 3235f0bc5d73783bf165ed58b3336e08b2fde22d464db90e263d9a59b1e95c77 | https://sqlopsbuilds.azureedge.net/insider/fae8ffbe25a461da717d40780f6bb405c399d998/azuredatastudio-windows-setup-1.40.0-insider.exe      |
+| 1.40.0  | win32-x64-user | Insider | 7274bbef3b4e46c2dfcdcb480e3d7e73f637a05c6b22498dd58d2d035bbc9e07 | https://sqlopsbuilds.azureedge.net/insider/fae8ffbe25a461da717d40780f6bb405c399d998/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -1202,9 +1202,9 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
 | 22.224.1025.0001 | AMD64        | InternalFast | OpJSmvf0ZJtQs1GME2L3jDCHd8++qyEkZq57aVz42Js= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.224.1025.0001/amd64/OneDriveSetup.exe   |
 | 22.224.1025.0001 | x86          | InternalFast | tY+17Iv3NRqXJUtKsrI5cp6/5h/rMOpSPja1vcRkhF8= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.224.1025.0001/OneDriveSetup.exe         |
-| 22.217.1016.0001 | AMD64        | Insider      | Xhafruaxs1QQjQF6CARBybBdfTDKFvOqZHNbOWCAG1c= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0001/amd64/OneDriveSetup.exe   |
+| 22.217.1016.0002 | AMD64        | Insider      | UbyR6ZMfMa+aGFVTrFaor6Boy1liAb5CsjfbxnWSyYs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0002/amd64/OneDriveSetup.exe   |
+| 22.217.1016.0002 | x86          | Insider      | yK5pn+CkOq2ItjL5yqc2UInUHZlXp8mujTlfulDfYFI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0002/OneDriveSetup.exe         |
 | 22.217.1016.0001 | AMD64        | InternalSlow | Xhafruaxs1QQjQF6CARBybBdfTDKFvOqZHNbOWCAG1c= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.217.1016.0001/amd64/OneDriveSetup.exe   |
-| 22.217.1016.0001 | x86          | Insider      | NaS7XY/YcD0DAnYFYL9eaeDOSYm7iyzXaqGjyEbPcHY= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0001/OneDriveSetup.exe         |
 | 22.217.1016.0001 | x86          | InternalSlow | NaS7XY/YcD0DAnYFYL9eaeDOSYm7iyzXaqGjyEbPcHY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.217.1016.0001/OneDriveSetup.exe         |
 | 22.212.1009.0004 | AMD64        | Production   | CYQ1JN+yGi5hGE0vzNCaqA5qCBJwzS1bFjfFctlmbPY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.212.1009.0004/amd64/OneDriveSetup.exe       |
 | 22.212.1009.0004 | x86          | Production   | v0Vo8B3yGzgKLJpyvYMsu4JSMd9jc0Ba6JFKahBm7i4= | exe  | https://oneclient.sfx.ms/Win/Prod/22.212.1009.0004/OneDriveSetup.exe             |
@@ -1381,13 +1381,13 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3667.0 | ARM64        | Dogfood | 10/25/2022 | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
-| 1.2.3667.0 | ARM64        | Insider | 10/25/2022 | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
+| 1.2.3667.0 | ARM64        | Dogfood | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
+| 1.2.3667.0 | ARM64        | Insider | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
 | 1.2.3667.0 | x64          | Dogfood | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
 | 1.2.3667.0 | x64          | Insider | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
 | 1.2.3667.0 | x86          | Dogfood | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
 | 1.2.3667.0 | x86          | Insider | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
-| 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
+| 1.2.3577.0 | ARM64        | Public  | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
 | 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
 | 1.2.3577.0 | x86          | Public  | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
 
@@ -4307,78 +4307,78 @@
 
 | Version | Architecture | Type | Language | URI                                                                                     |
 | ------- | ------------ | ---- | -------- | --------------------------------------------------------------------------------------- |
-| 11.5.5  | x64          | exe  | ar       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ar.exe    |
-| 11.5.5  | x64          | exe  | ca       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ca.exe    |
-| 11.5.5  | x64          | exe  | cs       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_cs.exe    |
-| 11.5.5  | x64          | exe  | da       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_da.exe    |
-| 11.5.5  | x64          | exe  | de       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_de.exe    |
-| 11.5.5  | x64          | exe  | el       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_el.exe    |
-| 11.5.5  | x64          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_en-US.exe |
-| 11.5.5  | x64          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_es-AR.exe |
-| 11.5.5  | x64          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_es-ES.exe |
-| 11.5.5  | x64          | exe  | fa       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_fa.exe    |
-| 11.5.5  | x64          | exe  | fr       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_fr.exe    |
-| 11.5.5  | x64          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ga-IE.exe |
-| 11.5.5  | x64          | exe  | he       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_he.exe    |
-| 11.5.5  | x64          | exe  | hu       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_hu.exe    |
-| 11.5.5  | x64          | exe  | id       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_id.exe    |
-| 11.5.5  | x64          | exe  | is       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_is.exe    |
-| 11.5.5  | x64          | exe  | it       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_it.exe    |
-| 11.5.5  | x64          | exe  | ja       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ja.exe    |
-| 11.5.5  | x64          | exe  | ka       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ka.exe    |
-| 11.5.5  | x64          | exe  | ko       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ko.exe    |
-| 11.5.5  | x64          | exe  | lt       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_lt.exe    |
-| 11.5.5  | x64          | exe  | mk       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_mk.exe    |
-| 11.5.5  | x64          | exe  | ms       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ms.exe    |
-| 11.5.5  | x64          | exe  | my       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_my.exe    |
-| 11.5.5  | x64          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_nb-NO.exe |
-| 11.5.5  | x64          | exe  | nl       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_nl.exe    |
-| 11.5.5  | x64          | exe  | pl       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_pl.exe    |
-| 11.5.5  | x64          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_pt-BR.exe |
-| 11.5.5  | x64          | exe  | ro       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ro.exe    |
-| 11.5.5  | x64          | exe  | ru       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_ru.exe    |
-| 11.5.5  | x64          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_sv-SE.exe |
-| 11.5.5  | x64          | exe  | th       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_th.exe    |
-| 11.5.5  | x64          | exe  | tr       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_tr.exe    |
-| 11.5.5  | x64          | exe  | vi       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_vi.exe    |
-| 11.5.5  | x64          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_zh-CN.exe |
-| 11.5.5  | x64          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-win64-11.5.5_zh-TW.exe |
-| 11.5.5  | x86          | exe  | ar       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ar.exe          |
-| 11.5.5  | x86          | exe  | ca       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ca.exe          |
-| 11.5.5  | x86          | exe  | cs       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_cs.exe          |
-| 11.5.5  | x86          | exe  | da       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_da.exe          |
-| 11.5.5  | x86          | exe  | de       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_de.exe          |
-| 11.5.5  | x86          | exe  | el       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_el.exe          |
-| 11.5.5  | x86          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_en-US.exe       |
-| 11.5.5  | x86          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_es-AR.exe       |
-| 11.5.5  | x86          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_es-ES.exe       |
-| 11.5.5  | x86          | exe  | fa       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_fa.exe          |
-| 11.5.5  | x86          | exe  | fr       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_fr.exe          |
-| 11.5.5  | x86          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ga-IE.exe       |
-| 11.5.5  | x86          | exe  | he       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_he.exe          |
-| 11.5.5  | x86          | exe  | hu       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_hu.exe          |
-| 11.5.5  | x86          | exe  | id       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_id.exe          |
-| 11.5.5  | x86          | exe  | is       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_is.exe          |
-| 11.5.5  | x86          | exe  | it       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_it.exe          |
-| 11.5.5  | x86          | exe  | ja       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ja.exe          |
-| 11.5.5  | x86          | exe  | ka       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ka.exe          |
-| 11.5.5  | x86          | exe  | ko       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ko.exe          |
-| 11.5.5  | x86          | exe  | lt       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_lt.exe          |
-| 11.5.5  | x86          | exe  | mk       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_mk.exe          |
-| 11.5.5  | x86          | exe  | ms       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ms.exe          |
-| 11.5.5  | x86          | exe  | my       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_my.exe          |
-| 11.5.5  | x86          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_nb-NO.exe       |
-| 11.5.5  | x86          | exe  | nl       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_nl.exe          |
-| 11.5.5  | x86          | exe  | pl       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_pl.exe          |
-| 11.5.5  | x86          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_pt-BR.exe       |
-| 11.5.5  | x86          | exe  | ro       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ro.exe          |
-| 11.5.5  | x86          | exe  | ru       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_ru.exe          |
-| 11.5.5  | x86          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_sv-SE.exe       |
-| 11.5.5  | x86          | exe  | th       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_th.exe          |
-| 11.5.5  | x86          | exe  | tr       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_tr.exe          |
-| 11.5.5  | x86          | exe  | vi       | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_vi.exe          |
-| 11.5.5  | x86          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_zh-CN.exe       |
-| 11.5.5  | x86          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.5.5/torbrowser-install-11.5.5_zh-TW.exe       |
+| 11.5.6  | x64          | exe  | ar       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ar.exe    |
+| 11.5.6  | x64          | exe  | ca       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ca.exe    |
+| 11.5.6  | x64          | exe  | cs       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_cs.exe    |
+| 11.5.6  | x64          | exe  | da       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_da.exe    |
+| 11.5.6  | x64          | exe  | de       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_de.exe    |
+| 11.5.6  | x64          | exe  | el       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_el.exe    |
+| 11.5.6  | x64          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_en-US.exe |
+| 11.5.6  | x64          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_es-AR.exe |
+| 11.5.6  | x64          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_es-ES.exe |
+| 11.5.6  | x64          | exe  | fa       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_fa.exe    |
+| 11.5.6  | x64          | exe  | fr       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_fr.exe    |
+| 11.5.6  | x64          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ga-IE.exe |
+| 11.5.6  | x64          | exe  | he       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_he.exe    |
+| 11.5.6  | x64          | exe  | hu       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_hu.exe    |
+| 11.5.6  | x64          | exe  | id       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_id.exe    |
+| 11.5.6  | x64          | exe  | is       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_is.exe    |
+| 11.5.6  | x64          | exe  | it       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_it.exe    |
+| 11.5.6  | x64          | exe  | ja       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ja.exe    |
+| 11.5.6  | x64          | exe  | ka       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ka.exe    |
+| 11.5.6  | x64          | exe  | ko       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ko.exe    |
+| 11.5.6  | x64          | exe  | lt       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_lt.exe    |
+| 11.5.6  | x64          | exe  | mk       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_mk.exe    |
+| 11.5.6  | x64          | exe  | ms       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ms.exe    |
+| 11.5.6  | x64          | exe  | my       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_my.exe    |
+| 11.5.6  | x64          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_nb-NO.exe |
+| 11.5.6  | x64          | exe  | nl       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_nl.exe    |
+| 11.5.6  | x64          | exe  | pl       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_pl.exe    |
+| 11.5.6  | x64          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_pt-BR.exe |
+| 11.5.6  | x64          | exe  | ro       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ro.exe    |
+| 11.5.6  | x64          | exe  | ru       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_ru.exe    |
+| 11.5.6  | x64          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_sv-SE.exe |
+| 11.5.6  | x64          | exe  | th       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_th.exe    |
+| 11.5.6  | x64          | exe  | tr       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_tr.exe    |
+| 11.5.6  | x64          | exe  | vi       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_vi.exe    |
+| 11.5.6  | x64          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_zh-CN.exe |
+| 11.5.6  | x64          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-win64-11.5.6_zh-TW.exe |
+| 11.5.6  | x86          | exe  | ar       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ar.exe          |
+| 11.5.6  | x86          | exe  | ca       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ca.exe          |
+| 11.5.6  | x86          | exe  | cs       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_cs.exe          |
+| 11.5.6  | x86          | exe  | da       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_da.exe          |
+| 11.5.6  | x86          | exe  | de       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_de.exe          |
+| 11.5.6  | x86          | exe  | el       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_el.exe          |
+| 11.5.6  | x86          | exe  | en-US    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_en-US.exe       |
+| 11.5.6  | x86          | exe  | es-AR    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_es-AR.exe       |
+| 11.5.6  | x86          | exe  | es-ES    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_es-ES.exe       |
+| 11.5.6  | x86          | exe  | fa       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_fa.exe          |
+| 11.5.6  | x86          | exe  | fr       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_fr.exe          |
+| 11.5.6  | x86          | exe  | ga-IE    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ga-IE.exe       |
+| 11.5.6  | x86          | exe  | he       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_he.exe          |
+| 11.5.6  | x86          | exe  | hu       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_hu.exe          |
+| 11.5.6  | x86          | exe  | id       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_id.exe          |
+| 11.5.6  | x86          | exe  | is       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_is.exe          |
+| 11.5.6  | x86          | exe  | it       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_it.exe          |
+| 11.5.6  | x86          | exe  | ja       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ja.exe          |
+| 11.5.6  | x86          | exe  | ka       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ka.exe          |
+| 11.5.6  | x86          | exe  | ko       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ko.exe          |
+| 11.5.6  | x86          | exe  | lt       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_lt.exe          |
+| 11.5.6  | x86          | exe  | mk       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_mk.exe          |
+| 11.5.6  | x86          | exe  | ms       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ms.exe          |
+| 11.5.6  | x86          | exe  | my       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_my.exe          |
+| 11.5.6  | x86          | exe  | nb-NO    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_nb-NO.exe       |
+| 11.5.6  | x86          | exe  | nl       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_nl.exe          |
+| 11.5.6  | x86          | exe  | pl       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_pl.exe          |
+| 11.5.6  | x86          | exe  | pt-BR    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_pt-BR.exe       |
+| 11.5.6  | x86          | exe  | ro       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ro.exe          |
+| 11.5.6  | x86          | exe  | ru       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_ru.exe          |
+| 11.5.6  | x86          | exe  | sv-SE    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_sv-SE.exe       |
+| 11.5.6  | x86          | exe  | th       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_th.exe          |
+| 11.5.6  | x86          | exe  | tr       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_tr.exe          |
+| 11.5.6  | x86          | exe  | vi       | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_vi.exe          |
+| 11.5.6  | x86          | exe  | zh-CN    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_zh-CN.exe       |
+| 11.5.6  | x86          | exe  | zh-TW    | https://dist.torproject.org/torbrowser/11.5.6/torbrowser-install-11.5.6_zh-TW.exe       |
 
 ## Tower
 
@@ -4439,14 +4439,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                   |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe               |
+| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi               |
+| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip               |
 
 ## VisualCppRedistAIO
 
@@ -4578,8 +4578,8 @@
 | 5.12.2.1970 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.msi |
 | 5.12.2.1970 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.exe     |
 | 5.12.2.1970 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
