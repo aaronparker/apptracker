@@ -1,0 +1,11 @@
+json/1Password.json
+json/ChromiumChromeDriver.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json

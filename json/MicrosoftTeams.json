@@ -28,20 +28,6 @@
     "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.28567/Teams_windows_x64.msi"
   },
   {
-    "Version": "1.5.00.28567",
-    "Ring": "Preview",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.5.00.28567/Teams_windows.exe"
-  },
-  {
-    "Version": "1.5.00.28567",
-    "Ring": "Preview",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.5.00.28567/Teams_windows.msi"
-  },
-  {
     "Version": "1.5.00.28361",
     "Ring": "DeveloperPartners",
     "Architecture": "ARM64",
