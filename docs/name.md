@@ -548,6 +548,114 @@
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 3.10.2.45 | 63d9767e795547109ca7d0bcf0ae4577414f8b4e | https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.10.2/EgnyteDesktopApp_3.10.2_45.msi |
 
+## ESETEndpointAntivirus
+
+[Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
+
+| Version    | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                |
+| ---------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
+| 9.1.2060.1 | 179859456 | fabae5894d041b7a02ebb64777c12159abee34c5 | ja_JP    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v9/9.1.2060.1/eea_arm64_full.msi |
+| 9.1.2060.1 | 44826624  | a6f5fc4181ac3d87bec06f30ea514e6308e229e7 | ja_JP    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v9/9.1.2060.1/eea_arm64.msi      |
+| 9.1.2060.1 | 206372864 | 44ed3d3ce41d8a1fb758cb1a4867125867d1c0c5 | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v9/9.1.2060.1/eea_nt64_full.msi  |
+| 9.1.2060.1 | 48046080  | 2ecca7d1d08122d0d7340edfcfec44544446c6db | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v9/9.1.2060.1/eea_nt64.msi       |
+| 9.1.2060.1 | 198815744 | 9d55282bb423c797d6d1c8b6ad2c891f96ca25e9 | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v9/9.1.2060.1/eea_nt32_full.msi  |
+| 9.1.2060.1 | 44367872  | fb221b8bfce32dfbb7a2d612040c5ef74f77d1fc | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v9/9.1.2060.1/eea_nt32.msi       |
+
+## ESETEndpointSecurity
+
+[Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
+
+| Version    | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                |
+| ---------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
+| 9.1.2060.1 | 182292480 | ce0fd886cd66c2f3f3a1c697284f09699dcf250b | ja_JP    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v9/9.1.2060.1/ees_arm64_full.msi |
+| 9.1.2060.1 | 45309952  | 351dd291ac6e18a4938cdc646bb48a103c321a05 | ja_JP    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v9/9.1.2060.1/ees_arm64.msi      |
+| 9.1.2060.1 | 48652288  | 2c2180df636fc0f34426cca5a3d43396d94a658d | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v9/9.1.2060.1/ees_nt64.msi       |
+| 9.1.2060.1 | 210878464 | f1d7d10238fc9a8ef5c35264a58bf40db27b076b | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v9/9.1.2060.1/ees_nt64_full.msi  |
+| 9.1.2060.1 | 44961792  | 18ea2bcd42dce309fc5cd616119c6d90656bbd9c | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v9/9.1.2060.1/ees_nt32.msi       |
+| 9.1.2060.1 | 202854400 | 58d4f362514077730aa116a0fe3e9c67c0eb1fd6 | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v9/9.1.2060.1/ees_nt32_full.msi  |
+
+## ESETFullDiskEncryption
+
+[Link](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/)
+
+| Version  | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                              |
+| -------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------ |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | cs_CZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_csy.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | de_DE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_deu.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | el_GR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ell.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_enu.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | es_CL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_esl.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | es_ES    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_esn.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | fr_CA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_frc.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | fr_FR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_fra.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | hr_HR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_hrv.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | hu_HU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_hun.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | id_ID    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ind.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | it_IT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ita.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_jpn.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | ko_KR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_kor.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | pl_PL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_plk.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | pt_BR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ptb.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | ru_RU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_rus.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | sk_SK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_sky.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | tr_TR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_trk.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_chs.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_cht.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | cs_CZ    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_csy.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | de_DE    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_deu.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | el_GR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ell.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_enu.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | es_CL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_esl.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | es_ES    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_esn.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | fr_CA    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_frc.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | fr_FR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_fra.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | hr_HR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_hrv.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | hu_HU    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_hun.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | id_ID    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ind.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | it_IT    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ita.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_jpn.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | ko_KR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_kor.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | pl_PL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_plk.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | pt_BR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ptb.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | ru_RU    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_rus.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | sk_SK    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_sky.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | tr_TR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_trk.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | zh_CN    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_chs.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | zh_TW    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_cht.msi |
+
+## ESETInspectConnector
+
+[Link](https://www.eset.com/int/business/download/inspect/)
+
+| Version    | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                     |
+| ---------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
+| 1.8.2211.0 | 20135936 | 40989c6451713be292e6203272b029319c3ef5b8 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.8.2211.0/ei_connector_nt64_enu.msi |
+| 1.8.2211.0 | 18264064 | 2caa4ef43694fbc9d85ff5255fcfd02f73e42543 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.8.2211.0/ei_connector_nt32_enu.msi |
+
+## ESETPROTECTServer
+
+[Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
+
+| Version    | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                   |
+| ---------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |
+| 9.1.1296.0 | 125984768 | 2e1c080deddeb8f37ec40affb8e520d901ebdcf4 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v9/9.1.1296.0/server_x64.msi |
+
+## ESETSecureAuthentication
+
+[Link](https://www.eset.com/au/business/download/secure-authentication/)
+
+| Version  | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                            |
+| -------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |
+| 3.0.61.0 | 132579328 | 6c83047eba54bc374527aaf4825612e3c42d26ee | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/esa/windows/v3/3.0.61.0/esa_nt64_enu.msi |
+
+## ESETServerSecurity
+
+[Link](https://www.eset.com/int/business/solutions/file-server-security/)
+
+| Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                |
+| ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
+| 9.0.12013.1 | 192274432 | 4e4e9fe3905b222079587f78bd9c12c52284f8dc | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12013.1/efsw_nt64_jpn.msi |
+
 ## FileZilla
 
 [Link](https://filezilla-project.org/)
@@ -671,9 +779,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -921,9 +1029,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1083,7 +1191,7 @@
 | 16.0.15601.20230 | SemiAnnualPreview | Semi-Annual Channel Preview           | 10/11/2022 09:19:57 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14931.20764 | SemiAnnual        | Semi-Annual Channel                   | 10/11/2022 07:46:28 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14332.20400 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 10/11/2022 13:12:54 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.10391.20029 | PerpetualVL2019   | Office 2029 Perpetual Enterprise      | 10/11/2022 13:16:19 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.10391.20029 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 10/11/2022 13:16:19 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 
 ## MicrosoftAzureDataStudio
 
@@ -1207,8 +1315,6 @@
 | 22.217.1016.0002 | AMD64        | Production   | UbyR6ZMfMa+aGFVTrFaor6Boy1liAb5CsjfbxnWSyYs= | exe  | https://oneclient.sfx.ms/Win/Prod/22.217.1016.0002/amd64/OneDriveSetup.exe       |
 | 22.217.1016.0002 | x86          | Insider      | yK5pn+CkOq2ItjL5yqc2UInUHZlXp8mujTlfulDfYFI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0002/OneDriveSetup.exe         |
 | 22.217.1016.0002 | x86          | Production   | yK5pn+CkOq2ItjL5yqc2UInUHZlXp8mujTlfulDfYFI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.217.1016.0002/OneDriveSetup.exe             |
-| 22.217.1016.0001 | AMD64        | InternalSlow | Xhafruaxs1QQjQF6CARBybBdfTDKFvOqZHNbOWCAG1c= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.217.1016.0001/amd64/OneDriveSetup.exe   |
-| 22.217.1016.0001 | x86          | InternalSlow | NaS7XY/YcD0DAnYFYL9eaeDOSYm7iyzXaqGjyEbPcHY= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.217.1016.0001/OneDriveSetup.exe         |
 | 22.212.1009.0004 | AMD64        | Production   | CYQ1JN+yGi5hGE0vzNCaqA5qCBJwzS1bFjfFctlmbPY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.212.1009.0004/amd64/OneDriveSetup.exe       |
 | 22.212.1009.0004 | x86          | Production   | v0Vo8B3yGzgKLJpyvYMsu4JSMd9jc0Ba6JFKahBm7i4= | exe  | https://oneclient.sfx.ms/Win/Prod/22.212.1009.0004/OneDriveSetup.exe             |
 | 22.207.1002.0003 | AMD64        | Production   | JciwQOxPftPUZWjwRcRxw/9Np3OXY+nLkvbIUoJJbyY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.207.1002.0003/amd64/OneDriveSetup.exe       |
@@ -1274,6 +1380,8 @@
 | 1.5.00.28567 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.28567/Teams_windows_arm64.msi |
 | 1.5.00.28567 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.28567/Teams_windows_x64.exe     |
 | 1.5.00.28567 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.28567/Teams_windows_x64.msi     |
+| 1.5.00.28567 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.5.00.28567/Teams_windows.exe             |
+| 1.5.00.28567 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.5.00.28567/Teams_windows.msi             |
 | 1.5.00.28361 | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.28361/Teams_windows_arm64.exe |
 | 1.5.00.28361 | DeveloperPartners | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.28361/Teams_windows_arm64.msi |
 | 1.5.00.28361 | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.28361/Teams_windows_arm64.exe |
@@ -1382,12 +1490,12 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3667.0 | ARM64        | Dogfood | 10/25/2022 | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
-| 1.2.3667.0 | ARM64        | Insider | 10/25/2022 | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
+| 1.2.3667.0 | ARM64        | Dogfood | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
+| 1.2.3667.0 | ARM64        | Insider | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
 | 1.2.3667.0 | x64          | Dogfood | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
 | 1.2.3667.0 | x64          | Insider | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
-| 1.2.3667.0 | x86          | Dogfood | 10/25/2022 | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
-| 1.2.3667.0 | x86          | Insider | 10/25/2022 | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
+| 1.2.3667.0 | x86          | Dogfood | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
+| 1.2.3667.0 | x86          | Insider | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
 | 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
 | 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
 | 1.2.3577.0 | x86          | Public  | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
@@ -3964,6 +4072,69 @@
 | 6.2.23  | Windows  | x64          | zip  | 10/08/2022 | 13461907 | https://github.com/praat/praat/releases/download/v6.2.23/praat6223_win64.zip |
 | 6.2.23  | Windows  | x86          | zip  | 10/08/2022 | 13032260 | https://github.com/praat/praat/releases/download/v6.2.23/praat6223_win32.zip |
 
+## ProgressChefInfraClient
+
+[Link](https://www.chef.io/products/chef-infra)
+
+| Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
+| -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 18.0.169 | x64          | current  | 10       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/current/chef/18.0.169/windows/10/chef-client-18.0.169-1-x64.msi      |
+| 18.0.169 | x64          | current  | 11       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/current/chef/18.0.169/windows/11/chef-client-18.0.169-1-x64.msi      |
+| 18.0.169 | x64          | current  | 2012r2   | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/current/chef/18.0.169/windows/2012r2/chef-client-18.0.169-1-x64.msi  |
+| 18.0.169 | x64          | current  | 2016     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/current/chef/18.0.169/windows/2016/chef-client-18.0.169-1-x64.msi    |
+| 18.0.169 | x64          | current  | 2019     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/current/chef/18.0.169/windows/2019/chef-client-18.0.169-1-x64.msi    |
+| 18.0.169 | x64          | current  | 2022     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/current/chef/18.0.169/windows/2022/chef-client-18.0.169-1-x64.msi    |
+| 18.0.169 | x64          | stable   | 10       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/10/chef-client-18.0.169-1-x64.msi       |
+| 18.0.169 | x64          | stable   | 11       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/11/chef-client-18.0.169-1-x64.msi       |
+| 18.0.169 | x64          | stable   | 2012r2   | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/2012r2/chef-client-18.0.169-1-x64.msi   |
+| 18.0.169 | x64          | stable   | 2016     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/2016/chef-client-18.0.169-1-x64.msi     |
+| 18.0.169 | x64          | stable   | 2019     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/2019/chef-client-18.0.169-1-x64.msi     |
+| 18.0.169 | x64          | stable   | 2022     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/2022/chef-client-18.0.169-1-x64.msi     |
+| 18.0.169 | x64          | unstable | 10       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/unstable/chef/18.0.169/windows/10/chef-client-18.0.169-1-x64.msi     |
+| 18.0.169 | x64          | unstable | 11       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/unstable/chef/18.0.169/windows/11/chef-client-18.0.169-1-x64.msi     |
+| 18.0.169 | x64          | unstable | 2012r2   | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/unstable/chef/18.0.169/windows/2012r2/chef-client-18.0.169-1-x64.msi |
+| 18.0.169 | x64          | unstable | 2016     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/unstable/chef/18.0.169/windows/2016/chef-client-18.0.169-1-x64.msi   |
+| 18.0.169 | x64          | unstable | 2019     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/unstable/chef/18.0.169/windows/2019/chef-client-18.0.169-1-x64.msi   |
+| 18.0.169 | x64          | unstable | 2022     | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/unstable/chef/18.0.169/windows/2022/chef-client-18.0.169-1-x64.msi   |
+
+## ProgressChefInSpec
+
+[Link](https://www.chef.io/products/chef-inspec)
+
+| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                           |
+| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 5.18.17 | x64          | current | 10       | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/10/inspec-5.18.17-1-x64.msi     |
+| 5.18.17 | x64          | current | 11       | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/11/inspec-5.18.17-1-x64.msi     |
+| 5.18.17 | x64          | current | 2012r2   | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2012r2/inspec-5.18.17-1-x64.msi |
+| 5.18.17 | x64          | current | 2016     | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2016/inspec-5.18.17-1-x64.msi   |
+| 5.18.17 | x64          | current | 2019     | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2019/inspec-5.18.17-1-x64.msi   |
+| 5.18.17 | x64          | current | 2022     | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2022/inspec-5.18.17-1-x64.msi   |
+| 5.18.14 | x64          | stable  | 10       | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/10/inspec-5.18.14-1-x64.msi      |
+| 5.18.14 | x64          | stable  | 11       | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/11/inspec-5.18.14-1-x64.msi      |
+| 5.18.14 | x64          | stable  | 2012r2   | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/2012r2/inspec-5.18.14-1-x64.msi  |
+| 5.18.14 | x64          | stable  | 2016     | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/2016/inspec-5.18.14-1-x64.msi    |
+| 5.18.14 | x64          | stable  | 2019     | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/2019/inspec-5.18.14-1-x64.msi    |
+| 5.18.14 | x64          | stable  | 2022     | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/2022/inspec-5.18.14-1-x64.msi    |
+
+## ProgressChefWorkstation
+
+[Link](https://www.chef.io/products/chef-workstation)
+
+| Version    | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                     |
+| ---------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 22.10.1014 | x64          | current | 10       | 36d151626e20e9a39925088ed5e2d2a4102b057956d4e44f8de5fd2f4afde1f5 | https://packages.chef.io/files/current/chef-workstation/22.10.1014/windows/10/chef-workstation-22.10.1014-1-x64.msi     |
+| 22.10.1014 | x64          | current | 11       | 36d151626e20e9a39925088ed5e2d2a4102b057956d4e44f8de5fd2f4afde1f5 | https://packages.chef.io/files/current/chef-workstation/22.10.1014/windows/11/chef-workstation-22.10.1014-1-x64.msi     |
+| 22.10.1014 | x64          | current | 2012r2   | 36d151626e20e9a39925088ed5e2d2a4102b057956d4e44f8de5fd2f4afde1f5 | https://packages.chef.io/files/current/chef-workstation/22.10.1014/windows/2012r2/chef-workstation-22.10.1014-1-x64.msi |
+| 22.10.1014 | x64          | current | 2016     | 36d151626e20e9a39925088ed5e2d2a4102b057956d4e44f8de5fd2f4afde1f5 | https://packages.chef.io/files/current/chef-workstation/22.10.1014/windows/2016/chef-workstation-22.10.1014-1-x64.msi   |
+| 22.10.1014 | x64          | current | 2019     | 36d151626e20e9a39925088ed5e2d2a4102b057956d4e44f8de5fd2f4afde1f5 | https://packages.chef.io/files/current/chef-workstation/22.10.1014/windows/2019/chef-workstation-22.10.1014-1-x64.msi   |
+| 22.10.1014 | x64          | current | 2022     | 36d151626e20e9a39925088ed5e2d2a4102b057956d4e44f8de5fd2f4afde1f5 | https://packages.chef.io/files/current/chef-workstation/22.10.1014/windows/2022/chef-workstation-22.10.1014-1-x64.msi   |
+| 22.10.1013 | x64          | stable  | 10       | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/10/chef-workstation-22.10.1013-1-x64.msi      |
+| 22.10.1013 | x64          | stable  | 11       | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/11/chef-workstation-22.10.1013-1-x64.msi      |
+| 22.10.1013 | x64          | stable  | 2012r2   | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2012r2/chef-workstation-22.10.1013-1-x64.msi  |
+| 22.10.1013 | x64          | stable  | 2016     | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2016/chef-workstation-22.10.1013-1-x64.msi    |
+| 22.10.1013 | x64          | stable  | 2019     | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2019/chef-workstation-22.10.1013-1-x64.msi    |
+| 22.10.1013 | x64          | stable  | 2022     | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2022/chef-workstation-22.10.1013-1-x64.msi    |
+
 ## ProjectLibre
 
 [Link](https://www.projectlibre.com/)
@@ -4006,9 +4177,9 @@
 
 | Version | Architecture | Type | URI                                                                             |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 0.77    | ARM64        | msi  | https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.77-installer.msi |
-| 0.77    | x64          | msi  | https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.77-installer.msi  |
-| 0.77    | x86          | msi  | https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.77-installer.msi        |
+| 0.78    | ARM64        | msi  | https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.78-installer.msi |
+| 0.78    | x64          | msi  | https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi  |
+| 0.78    | x86          | msi  | https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.78-installer.msi        |
 
 ## RCoreTeamRforWindows
 
@@ -4440,14 +4611,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                          |
-| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe        |
-| 3.0.16  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.msi        |
-| 3.0.16  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.zip        |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe      |
+| 3.0.16  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi      |
+| 3.0.16  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip      |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4529,12 +4700,12 @@
 
 [Link](https://winmerge.org/)
 
-| Version | Architecture | Type | URI                                                                                                    |
-| ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
-| 2.16.16 | ARM64        | exe  | https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-ARM64-Setup.exe       |
-| 2.16.16 | x64          | exe  | https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-x64-Setup.exe         |
-| 2.16.16 | x64          | exe  | https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-x64-PerUser-Setup.exe |
-| 2.16.16 | x86          | exe  | https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-Setup.exe             |
+| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                    |
+| ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------------------------ |
+| 2.16.24 | Windows  | ARM64        | exe  | 10/26/2022 | 9516200 | https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-ARM64-Setup.exe       |
+| 2.16.24 | Windows  | x64          | exe  | 10/26/2022 | 8671488 | https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-x64-PerUser-Setup.exe |
+| 2.16.24 | Windows  | x64          | exe  | 10/26/2022 | 8671352 | https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-x64-Setup.exe         |
+| 2.16.24 | Windows  | x86          | exe  | 10/26/2022 | 8165536 | https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-Setup.exe             |
 
 ## WinSCP
 
@@ -4579,8 +4750,8 @@
 | 5.12.2.1970 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.msi |
 | 5.12.2.1970 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.exe     |
 | 5.12.2.1970 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |

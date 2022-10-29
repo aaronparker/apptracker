@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 222 applications and 3051 unique application installers:
+App Version Tracker is using Evergreen to track 232 applications and 3152 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -61,6 +61,13 @@ App Version Tracker is using Evergreen to track 222 applications and 3051 unique
 | Docker Desktop                                                    | https://www.docker.com/products/docker-desktop/                                            |
 | Double Commander                                                  | https://github.com/doublecmd/doublecmd/                                                    |
 | Egnyte Desktop App                                                | https://www.egnyte.com/solutions/sharing-collaboration                                     |
+| ESET Endpoint Antivirus                                           | https://www.eset.com/au/business/solutions/endpoint-protection/                            |
+| ESET Endpoint Security                                            | https://www.eset.com/au/business/solutions/endpoint-protection/                            |
+| ESET Full Disk Encryption                                         | https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/           |
+| ESET Inspect Connector                                            | https://www.eset.com/int/business/download/inspect/                                        |
+| ESET Endpoint Antivirus                                           | https://www.eset.com/au/business/solutions/endpoint-protection/                            |
+| ESET Secure Authentication                                        | https://www.eset.com/au/business/download/secure-authentication/                           |
+| ESET Server Security                                              | https://www.eset.com/int/business/solutions/file-server-security/                          |
 | FileZilla                                                         | https://filezilla-project.org/                                                             |
 | Dan Pristupov Fork                                                | https://www.fork.dev                                                                       |
 | Foxit PDF Editor                                                  | https://www.foxit.com/pdf-editor/                                                          |
@@ -173,6 +180,9 @@ App Version Tracker is using Evergreen to track 222 applications and 3051 unique
 | Piriform CCleaner Free                                            | https://www.ccleaner.com/ccleaner                                                          |
 | Postman                                                           | https://www.getpostman.com/                                                                |
 | Praat                                                             | https://www.fon.hum.uva.nl/praat/                                                          |
+| Progress Chef Infra Client                                        | https://www.chef.io/products/chef-infra                                                    |
+| Progress Chef InSpec                                              | https://www.chef.io/products/chef-inspec                                                   |
+| Progress Chef Workstation                                         | https://www.chef.io/products/chef-workstation                                              |
 | ProjectLibre                                                      | https://www.projectlibre.com/                                                              |
 | Protege                                                           | https://protege.stanford.edu/                                                              |
 | PSAppDeployToolkit                                                | https://psappdeploytoolkit.com/                                                            |
