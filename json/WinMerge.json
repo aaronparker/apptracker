@@ -1,26 +1,38 @@
 [
   {
-    "Version": "2.16.16",
+    "Version": "2.16.24",
+    "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-ARM64-Setup.exe"
+    "Date": "10/26/2022",
+    "Size": 9516200,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-ARM64-Setup.exe"
   },
   {
-    "Version": "2.16.16",
+    "Version": "2.16.24",
+    "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-x64-Setup.exe"
+    "Date": "10/26/2022",
+    "Size": 8671488,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-x64-PerUser-Setup.exe"
   },
   {
-    "Version": "2.16.16",
+    "Version": "2.16.24",
+    "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-x64-PerUser-Setup.exe"
+    "Date": "10/26/2022",
+    "Size": 8671352,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-x64-Setup.exe"
   },
   {
-    "Version": "2.16.16",
+    "Version": "2.16.24",
+    "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/winmerge/stable/2.16.16/WinMerge-2.16.16-Setup.exe"
+    "Date": "10/26/2022",
+    "Size": 8165536,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.24/WinMerge-2.16.24-Setup.exe"
   }
 ]
