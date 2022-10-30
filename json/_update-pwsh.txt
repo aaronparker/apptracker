@@ -1,0 +1,7 @@
+json/ControlUpAgent.json
+json/ControlUpConsole.json
+json/Gimp.json
+json/Microsoft.NET.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
