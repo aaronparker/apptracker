@@ -1,7 +1,0 @@
-json/FoxitPDFEditor.json
-json/FoxitReader.json
-json/GitForWindows.json
-json/MicrosoftWvdRemoteDesktop.json
-json/RCoreTeamRforWindows.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
