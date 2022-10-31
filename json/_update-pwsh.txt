@@ -1,0 +1,8 @@
+json/1Password.json
+json/CitrixWorkspaceApp.json
+json/DockerDesktop.json
+json/Gimp.json
+json/MattermostDesktop.json
+json/MicrosoftWvdRemoteDesktop.json
+json/Tower.json
+json/Zoom.json
