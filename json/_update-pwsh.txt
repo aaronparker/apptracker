@@ -1,0 +1,7 @@
+json/Gimp.json
+json/GitExtensions.json
+json/MicrosoftWvdRemoteDesktop.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

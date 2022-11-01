@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.5.4",
+    "Version": "v4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "09/29/2021",
-    "Size": 23908352,
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-3.5.4.12724-65f01f399.msi"
+    "Date": "11/01/2022",
+    "Size": 21028864,
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v4/GitExtensions-4.0.0-cba315df5.msi"
   },
   {
-    "Version": "3.5.4",
+    "Version": "v4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "09/29/2021",
-    "Size": 23153128,
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-Portable-3.5.4.12724-65f01f399.zip"
+    "Date": "11/01/2022",
+    "Size": 20397135,
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v4/GitExtensions-Portable-4.0.0-cba315df5.zip"
   }
 ]
