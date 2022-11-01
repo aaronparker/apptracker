@@ -1,0 +1,13 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftOutlook.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/NETworkManager.json
+json/OBSStudio.json
+json/RCoreTeamRforWindows.json
+json/TeamViewer.json
+json/Tower.json
+json/VideoLanVlcPlayer.json
+json/Zotero.json

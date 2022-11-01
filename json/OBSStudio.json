@@ -1,12 +1,12 @@
 [
   {
-    "Version": "28.0.3",
+    "Version": "28.1.0",
     "Architecture": "x64",
-    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.0.3-Full-Installer-x64.exe"
+    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.1.0-Full-Installer-x64.exe"
   },
   {
-    "Version": "28.0.3",
+    "Version": "28.1.0",
     "Architecture": "x86",
-    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.0.3-Full-Installer-x86.exe"
+    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.1.0-Full-Installer-x86.exe"
   }
 ]
