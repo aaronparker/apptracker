@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.12.0",
+    "Version": "1.10.8",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/vault/1.12.0/vault_1.12.0_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/vault/1.10.8/vault_1.10.8_windows_amd64.zip"
   },
   {
-    "Version": "1.12.0",
+    "Version": "1.10.8",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/vault/1.12.0/vault_1.12.0_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/vault/1.10.8/vault_1.10.8_windows_386.zip"
   }
 ]
