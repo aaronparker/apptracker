@@ -6,3 +6,12 @@ json/HashicorpVault.json
 json/MicrosoftWvdRemoteDesktop.json
 json/SumatraPDFReader.json
 json/VideoLanVlcPlayer.json
+json/1Password.json
+json/GoogleChrome.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftVisualStudioCode.json
+json/ProgressChefInfraClient.json
+json/Slack.json
+json/gretl.json
