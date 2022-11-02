@@ -1,0 +1,9 @@
+json/1Password.json
+json/AutoDarkMode.json
+json/ControlUpAgent.json
+json/ControlUpConsole.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
