@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 232 applications and 3154 unique application installers:
+App Version Tracker is using Evergreen to track 232 applications and 3156 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
