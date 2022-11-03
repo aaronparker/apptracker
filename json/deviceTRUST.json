@@ -7,6 +7,20 @@
     "URI": "https://storage.devicetrust.com/client/dtclient-igel-amd64-release-21.1.310.0.zip"
   },
   {
+    "Version": "21.1.310.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 21.1.310",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-21.1.310.zip"
+  },
+  {
+    "Version": "21.1.310.0",
+    "Platform": "Windows",
+    "Type": "Client",
+    "Name": "deviceTRUST Windows Client Extension 21.1.310.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.310.0.exe"
+  },
+  {
     "Version": "21.1.300.0",
     "Platform": "IGEL",
     "Type": "Client",
@@ -45,15 +59,15 @@
     "Version": "21.1.200.0",
     "Platform": "Windows",
     "Type": "Client",
-    "Name": "deviceTRUST Windows Client Extension 21.1.200.0",
-    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe"
+    "Name": "deviceTRUST Windows Client Extension 21.1.210.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.210.0.exe"
   },
   {
     "Version": "21.1.200.0",
     "Platform": "Windows",
     "Type": "Client",
-    "Name": "deviceTRUST Windows Client Extension 21.1.210.0",
-    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.210.0.exe"
+    "Name": "deviceTRUST Windows Client Extension 21.1.200.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe"
   },
   {
     "Version": "21.1.110.0",

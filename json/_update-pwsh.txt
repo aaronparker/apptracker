@@ -1,0 +1,13 @@
+json/1Password.json
+json/ESETInspectConnector.json
+json/ESETSecureAuthentication.json
+json/Gimp.json
+json/ImageGlass.json
+json/MicrosoftTeams.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/OperaCryptoBrowser.json
+json/Postman.json
+json/VideoLanVlcPlayer.json
+json/deviceTRUST.json
+json/jrsoftwareInnoSetup.json
