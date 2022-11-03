@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.9.8   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.8.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.9.8   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.8.exe |
 
 ## 1Password7
 
@@ -375,6 +375,7 @@
 
 | Version       | Channel | Type | URI                                                                              |
 | ------------- | ------- | ---- | -------------------------------------------------------------------------------- |
+| 108.0.5359.22 | beta    | zip  | https://chromedriver.storage.googleapis.com/108.0.5359.22/chromedriver_win32.zip |
 | 107.0.5304.62 | stable  | zip  | https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip |
 
 ## CitrixVMTools
@@ -779,9 +780,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -839,8 +840,8 @@
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
 | 109.0.5384.2  | x64          | dev     | 11/01/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 109.0.5384.2  | x86          | dev     | 11/01/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 108.0.5359.22 | x64          | beta    | 10/28/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 108.0.5359.22 | x86          | beta    | 10/28/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 108.0.5359.29 | x64          | beta    | 11/02/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 108.0.5359.29 | x86          | beta    | 11/02/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 107.0.5304.88 | x64          | stable  | 10/27/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 107.0.5304.88 | x86          | stable  | 10/27/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -926,8 +927,8 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.3.3   | zip  | x64          | https://releases.hashicorp.com/terraform/1.3.3/terraform_1.3.3_windows_amd64.zip |
-| 1.3.3   | zip  | x86          | https://releases.hashicorp.com/terraform/1.3.3/terraform_1.3.3_windows_386.zip   |
+| 1.3.4   | zip  | x64          | https://releases.hashicorp.com/terraform/1.3.4/terraform_1.3.4_windows_amd64.zip |
+| 1.3.4   | zip  | x86          | https://releases.hashicorp.com/terraform/1.3.4/terraform_1.3.4_windows_386.zip   |
 
 ## HashicorpVault
 
@@ -1184,7 +1185,7 @@
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
-| 16.0.15822.20000 | BetaChannel       | Beta                                  | 10/25/2022 18:03:37 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15831.20012 | BetaChannel       | Beta                                  | 11/02/2022 22:11:26 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15726.20174 | Current           | Current Channel                       | 10/27/2022 16:05:34 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15726.20174 | CurrentPreview    | Current Channel (Preview)             | 10/26/2022 15:48:00 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20230 | MonthlyEnterprise | Monthly Enterprise                    | 10/11/2022 07:36:41 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1307,17 +1308,15 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.228.1031.0001 | AMD64        | InternalFast | PazHTyihgyGtLRLs7k+1WkqMV1CXJZaBr8ltEBxpB9w= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.228.1031.0001/amd64/OneDriveSetup.exe   |
-| 22.228.1031.0001 | x86          | InternalFast | ilDjRtYk9zJ/Gf6mL4gPDthJtB6r9jLgK4Flq63+0/o= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.228.1031.0001/OneDriveSetup.exe         |
+| 22.229.1101.0001 | AMD64        | InternalFast | 3IvxNuB/bkaubekNjskUXJ84Os5VMm3CtTv8+OQuwYk= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.229.1101.0001/amd64/OneDriveSetup.exe   |
+| 22.229.1101.0001 | x86          | InternalFast | tA0u0oY7ovyOe8paDd3Mk1Uu9aS+klrE++bZCbS7ld8= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.229.1101.0001/OneDriveSetup.exe         |
 | 22.227.1030.0001 | AMD64        | InternalSlow | RKjYd3ICdEv2EUr+7X2HFL3Lnq5X9GuGrsoCl/drCgE= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.227.1030.0001/amd64/OneDriveSetup.exe   |
 | 22.227.1030.0001 | x86          | InternalSlow | iThFgpurBSkA7xzbNkHM4aI9ohrauWLWpyreHWmSuY0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.227.1030.0001/OneDriveSetup.exe         |
 | 22.225.1026.0001 | AMD64        | Insider      | ZRORL7baqZq9EGIFX22eD9YmpZkza/Rf7+smMe6x+Sk= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.225.1026.0001/amd64/OneDriveSetup.exe   |
 | 22.225.1026.0001 | AMD64        | InternalSlow | ZRORL7baqZq9EGIFX22eD9YmpZkza/Rf7+smMe6x+Sk= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.225.1026.0001/amd64/OneDriveSetup.exe   |
 | 22.225.1026.0001 | x86          | Insider      | r7CTLrslHnawtHibYXRaHjFfgTVTSNSsBDYdeuZOLv4= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.225.1026.0001/OneDriveSetup.exe         |
 | 22.225.1026.0001 | x86          | InternalSlow | r7CTLrslHnawtHibYXRaHjFfgTVTSNSsBDYdeuZOLv4= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.225.1026.0001/OneDriveSetup.exe         |
-| 22.217.1016.0002 | AMD64        | Insider      | UbyR6ZMfMa+aGFVTrFaor6Boy1liAb5CsjfbxnWSyYs= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0002/amd64/OneDriveSetup.exe   |
 | 22.217.1016.0002 | AMD64        | Production   | UbyR6ZMfMa+aGFVTrFaor6Boy1liAb5CsjfbxnWSyYs= | exe  | https://oneclient.sfx.ms/Win/Prod/22.217.1016.0002/amd64/OneDriveSetup.exe       |
-| 22.217.1016.0002 | x86          | Insider      | yK5pn+CkOq2ItjL5yqc2UInUHZlXp8mujTlfulDfYFI= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.217.1016.0002/OneDriveSetup.exe         |
 | 22.217.1016.0002 | x86          | Production   | yK5pn+CkOq2ItjL5yqc2UInUHZlXp8mujTlfulDfYFI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.217.1016.0002/OneDriveSetup.exe             |
 | 22.212.1009.0004 | AMD64        | Production   | CYQ1JN+yGi5hGE0vzNCaqA5qCBJwzS1bFjfFctlmbPY= | exe  | https://oneclient.sfx.ms/Win/Prod/22.212.1009.0004/amd64/OneDriveSetup.exe       |
 | 22.212.1009.0004 | x86          | Production   | v0Vo8B3yGzgKLJpyvYMsu4JSMd9jc0Ba6JFKahBm7i4= | exe  | https://oneclient.sfx.ms/Win/Prod/22.212.1009.0004/OneDriveSetup.exe             |
@@ -1349,10 +1348,10 @@
 
 [Link](https://github.com/microsoft/PowerToys/)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                              |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 0.63.0  | Windows  | ARM64        | exe  | 10/03/2022 | 84390504 | https://github.com/microsoft/PowerToys/releases/download/v0.63.0/PowerToysSetup-0.63.0-arm64.exe |
-| 0.63.0  | Windows  | x64          | exe  | 10/03/2022 | 87338792 | https://github.com/microsoft/PowerToys/releases/download/v0.63.0/PowerToysSetup-0.63.0-x64.exe   |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                              |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------ |
+| 0.64.0  | Windows  | ARM64        | exe  | 11/02/2022 | 100545000 | https://github.com/microsoft/PowerToys/releases/download/v0.64.0/PowerToysSetup-0.64.0-arm64.exe |
+| 0.64.0  | Windows  | x64          | exe  | 11/02/2022 | 103505152 | https://github.com/microsoft/PowerToys/releases/download/v0.64.0/PowerToysSetup-0.64.0-x64.exe   |
 
 ## MicrosoftSsms
 
@@ -1443,16 +1442,16 @@
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1.73.0  | win32-arm64      | Insider | ARM64        | 6e829cadfe8052ebb3d48247f5d19a84ee6945bd05138e09a1468de392155d15 | https://az764295.vo.msecnd.net/insider/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeSetup-arm64-1.73.0-insider.exe     |
 | 1.73.0  | win32-arm64-user | Insider | ARM64        | 53f541e542f7d9aa13f08f8699c3e2e9cd37533ff73b05d8e2df0e002c3a4007 | https://az764295.vo.msecnd.net/insider/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeUserSetup-arm64-1.73.0-insider.exe |
+| 1.73.0  | win32-arm64      | Stable  | ARM64        | db0efa17b36f6711fee5ebf88024e194c298aecbd7e783bdfa27bac48b60e803 | https://az764295.vo.msecnd.net/stable/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeSetup-arm64-1.73.0.exe              |
+| 1.73.0  | win32-arm64-user | Stable  | ARM64        | 5458319d51fe3b13387301897b0c56df5bbd5519567b7992984bfc5bf62d6092 | https://az764295.vo.msecnd.net/stable/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeUserSetup-arm64-1.73.0.exe          |
 | 1.73.0  | win32-x64        | Insider | x64          | f5f3ada5d31b71bdee22281ba37b8a3d4bc2a0c94b96a405efd6e95ab0401622 | https://az764295.vo.msecnd.net/insider/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeSetup-x64-1.73.0-insider.exe       |
 | 1.73.0  | win32-x64-user   | Insider | x64          | cba23b4036ec4b3e073b3e9d5945476b9bd6bd6e7b2895812245352bdacd52b4 | https://az764295.vo.msecnd.net/insider/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeUserSetup-x64-1.73.0-insider.exe   |
+| 1.73.0  | win32-x64        | Stable  | x64          | 1e873f19353a269d64cb4b33aef18dda32e932d772a632a8c940b6f3de89358a | https://az764295.vo.msecnd.net/stable/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeSetup-x64-1.73.0.exe                |
+| 1.73.0  | win32-x64-user   | Stable  | x64          | 1504b15c57dc308cc04c5475eb7fa6fa4356b41e0df96f84f21a9eeee204bd82 | https://az764295.vo.msecnd.net/stable/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeUserSetup-x64-1.73.0.exe            |
 | 1.73.0  | win32            | Insider | x86          | 27b739cb6f383098624e553a80f3a70323a857104c9b12aab01182f939a3c255 | https://az764295.vo.msecnd.net/insider/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeSetup-ia32-1.73.0-insider.exe      |
 | 1.73.0  | win32-user       | Insider | x86          | 00e4a3e7900826ad30d0ad4fa1361f6c536d43cc564bfa9ff3fdc69e33f51211 | https://az764295.vo.msecnd.net/insider/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeUserSetup-ia32-1.73.0-insider.exe  |
-| 1.72.2  | win32-arm64      | Stable  | ARM64        | 0f999ce07fb8fb499fd146f1840f152992aba2eb3fe4d7469d312e58b980ba5b | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeSetup-arm64-1.72.2.exe              |
-| 1.72.2  | win32-arm64-user | Stable  | ARM64        | a639afb7dd3fd44985ed4003c32731da639b9a5b03bbc034213122825fad5ba8 | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeUserSetup-arm64-1.72.2.exe          |
-| 1.72.2  | win32-x64        | Stable  | x64          | b2b8a7156ec0079a1801db1647d6dbc4206345689772495eac311e0e6afcad57 | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeSetup-x64-1.72.2.exe                |
-| 1.72.2  | win32-x64-user   | Stable  | x64          | 619432a09418ecd5f308724db3bca320fca55520713c00735da290aea3a0632e | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeUserSetup-x64-1.72.2.exe            |
-| 1.72.2  | win32            | Stable  | x86          | d86a422c35fa92f4926c38a8d3862882069aa8373c9d64536b10d25d52babb38 | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeSetup-ia32-1.72.2.exe               |
-| 1.72.2  | win32-user       | Stable  | x86          | e6ae299580030eda88b7f510372837db31ceb5c9d9dad574db2a3d1bff90fc20 | https://az764295.vo.msecnd.net/stable/d045a5eda657f4d7b676dedbfa7aab8207f8a075/VSCodeUserSetup-ia32-1.72.2.exe           |
+| 1.73.0  | win32            | Stable  | x86          | ead2247d1ddbe6fa1f2d3fe52697cf2493b71658325684bf63229f47a9cf096d | https://az764295.vo.msecnd.net/stable/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeSetup-ia32-1.73.0.exe               |
+| 1.73.0  | win32-user       | Stable  | x86          | 2328402b0fbbf1acc114c484d05cfb738a0e14ef08f118ced889f5a0ba1883c7 | https://az764295.vo.msecnd.net/stable/8fa188b2b301d36553cbc9ce1b0a146ccb93351f/VSCodeUserSetup-ia32-1.73.0.exe           |
 
 ## MicrosoftWindowsPackageManagerClient
 
@@ -1494,8 +1493,8 @@
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3667.0 | ARM64        | Dogfood | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
 | 1.2.3667.0 | ARM64        | Insider | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
-| 1.2.3667.0 | x64          | Dogfood | Unknown    | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
-| 1.2.3667.0 | x64          | Insider | Unknown    | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
+| 1.2.3667.0 | x64          | Dogfood | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
+| 1.2.3667.0 | x64          | Insider | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
 | 1.2.3667.0 | x86          | Dogfood | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
 | 1.2.3667.0 | x86          | Insider | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
 | 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
@@ -4615,12 +4614,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://lesnet.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe         |
-| 3.0.16  | Windows  | x64          | MSI  | https://lesnet.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi         |
-| 3.0.16  | Windows  | x64          | ZIP  | https://lesnet.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip         |
-| 3.0.16  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe            |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi            |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip            |
 
 ## VisualCppRedistAIO
 
@@ -4752,8 +4751,8 @@
 | 5.12.2.1970 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.msi |
 | 5.12.2.1970 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.exe     |
 | 5.12.2.1970 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
