@@ -1,0 +1,7 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/OctopusDeployServer.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
