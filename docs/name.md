@@ -187,10 +187,10 @@
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| jdk8u345-b01 | jdk  | x64          | a19b85fedcc830aa81c6aeb07449905032b7b391c033a1647639486b25f2e1f3 | 90339840 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jdk_x64_windows_hotspot_8u345b01.msi    |
-| jdk8u345-b01 | jre  | x64          | 30253824132f22de22fef11242fc9cd7a183b5e09757bb57ad1d82c03d852a3c | 32482304 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jre_x64_windows_hotspot_8u345b01.msi    |
-| jdk8u345-b01 | jdk  | x86          | a260d36fbb0d891448899d74297786a2d682137f97be93239e6b001a951d5196 | 91100672 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jdk_x86-32_windows_hotspot_8u345b01.msi |
-| jdk8u345-b01 | jre  | x86          | df0b460e3d262dd36a9814dc1409738f0a4e90d989077baf5ce521fa8cac08f8 | 31193600 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u345-b01/OpenJDK8U-jre_x86-32_windows_hotspot_8u345b01.msi |
+| jdk8u352-b08 | jdk  | x64          | c3f2ee62970bae81aa163e155faab8498638962a0a480aa01620d3122ad902ee | 89772032 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u352b08.msi    |
+| jdk8u352-b08 | jre  | x64          | 27bc5324a8d684e6afa286029c64e4d90e12d4f0b947093865b6c78ac83bd6ee | 32305152 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x64_windows_hotspot_8u352b08.msi    |
+| jdk8u352-b08 | jdk  | x86          | c4e7e38444bbf57572b15c7ff16ecf58ae4939e804d9a1902974ede615227b06 | 90513408 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u352b08.msi |
+| jdk8u352-b08 | jre  | x86          | 0f97ce285feb5a4fb9743866552b18713c8d67729c99f121c704b26431744275 | 31019008 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u352b08.msi |
 
 ## AdoptOpenJDK11
 
@@ -782,9 +782,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1493,13 +1493,13 @@
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3667.0 | ARM64        | Dogfood | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
 | 1.2.3667.0 | ARM64        | Insider | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
-| 1.2.3667.0 | x64          | Dogfood | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
-| 1.2.3667.0 | x64          | Insider | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
-| 1.2.3667.0 | x86          | Dogfood | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
-| 1.2.3667.0 | x86          | Insider | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
-| 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
+| 1.2.3667.0 | x64          | Dogfood | Unknown    | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
+| 1.2.3667.0 | x64          | Insider | Unknown    | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
+| 1.2.3667.0 | x86          | Dogfood | 10/25/2022 | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
+| 1.2.3667.0 | x86          | Insider | 10/25/2022 | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
+| 1.2.3577.0 | ARM64        | Public  | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
 | 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
-| 1.2.3577.0 | x86          | Public  | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
+| 1.2.3577.0 | x86          | Public  | Unknown    | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
 
 ## MicrosoftWvdRtcService
 
@@ -4079,18 +4079,18 @@
 
 | Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
 | -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 18.0.174 | x64          | unstable | 10       | 639e43c8248ab26bfea605ac3e270bb390a2019da76461f66e8b0c7b58b64c4d | https://packages.chef.io/files/unstable/chef/18.0.174/windows/10/chef-client-18.0.174-1-x64.msi     |
+| 18.0.174 | x64          | unstable | 11       | 639e43c8248ab26bfea605ac3e270bb390a2019da76461f66e8b0c7b58b64c4d | https://packages.chef.io/files/unstable/chef/18.0.174/windows/11/chef-client-18.0.174-1-x64.msi     |
+| 18.0.174 | x64          | unstable | 2012r2   | 639e43c8248ab26bfea605ac3e270bb390a2019da76461f66e8b0c7b58b64c4d | https://packages.chef.io/files/unstable/chef/18.0.174/windows/2012r2/chef-client-18.0.174-1-x64.msi |
+| 18.0.174 | x64          | unstable | 2016     | 639e43c8248ab26bfea605ac3e270bb390a2019da76461f66e8b0c7b58b64c4d | https://packages.chef.io/files/unstable/chef/18.0.174/windows/2016/chef-client-18.0.174-1-x64.msi   |
+| 18.0.174 | x64          | unstable | 2019     | 639e43c8248ab26bfea605ac3e270bb390a2019da76461f66e8b0c7b58b64c4d | https://packages.chef.io/files/unstable/chef/18.0.174/windows/2019/chef-client-18.0.174-1-x64.msi   |
+| 18.0.174 | x64          | unstable | 2022     | 639e43c8248ab26bfea605ac3e270bb390a2019da76461f66e8b0c7b58b64c4d | https://packages.chef.io/files/unstable/chef/18.0.174/windows/2022/chef-client-18.0.174-1-x64.msi   |
 | 18.0.172 | x64          | current  | 10       | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/current/chef/18.0.172/windows/10/chef-client-18.0.172-1-x64.msi      |
 | 18.0.172 | x64          | current  | 11       | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/current/chef/18.0.172/windows/11/chef-client-18.0.172-1-x64.msi      |
 | 18.0.172 | x64          | current  | 2012r2   | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/current/chef/18.0.172/windows/2012r2/chef-client-18.0.172-1-x64.msi  |
 | 18.0.172 | x64          | current  | 2016     | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/current/chef/18.0.172/windows/2016/chef-client-18.0.172-1-x64.msi    |
 | 18.0.172 | x64          | current  | 2019     | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/current/chef/18.0.172/windows/2019/chef-client-18.0.172-1-x64.msi    |
 | 18.0.172 | x64          | current  | 2022     | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/current/chef/18.0.172/windows/2022/chef-client-18.0.172-1-x64.msi    |
-| 18.0.172 | x64          | unstable | 10       | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/unstable/chef/18.0.172/windows/10/chef-client-18.0.172-1-x64.msi     |
-| 18.0.172 | x64          | unstable | 11       | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/unstable/chef/18.0.172/windows/11/chef-client-18.0.172-1-x64.msi     |
-| 18.0.172 | x64          | unstable | 2012r2   | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/unstable/chef/18.0.172/windows/2012r2/chef-client-18.0.172-1-x64.msi |
-| 18.0.172 | x64          | unstable | 2016     | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/unstable/chef/18.0.172/windows/2016/chef-client-18.0.172-1-x64.msi   |
-| 18.0.172 | x64          | unstable | 2019     | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/unstable/chef/18.0.172/windows/2019/chef-client-18.0.172-1-x64.msi   |
-| 18.0.172 | x64          | unstable | 2022     | 41107e7c195dfccd11c03c0e4592e8b1e1e0571597158a7b1f7f95a3942d503e | https://packages.chef.io/files/unstable/chef/18.0.172/windows/2022/chef-client-18.0.172-1-x64.msi   |
 | 18.0.169 | x64          | stable   | 10       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/10/chef-client-18.0.169-1-x64.msi       |
 | 18.0.169 | x64          | stable   | 11       | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/11/chef-client-18.0.169-1-x64.msi       |
 | 18.0.169 | x64          | stable   | 2012r2   | ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2 | https://packages.chef.io/files/stable/chef/18.0.169/windows/2012r2/chef-client-18.0.169-1-x64.msi   |
@@ -4612,14 +4612,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe          |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi          |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip          |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
