@@ -1,7 +1,0 @@
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdInfraAgent.json
-json/OctopusDeployServer.json
-json/PiriformCCleanerFree.json
-json/VideoLanVlcPlayer.json
