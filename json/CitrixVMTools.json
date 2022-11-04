@@ -1,30 +1,30 @@
 [
   {
-    "Version": "9.3.0.73",
+    "Version": null,
     "Architecture": "x64",
-    "Size": 5873664,
-    "Checksum": "49B80717B0B2AB362AA49451B2794B146035EBD010A16CFCEFD2AB5EFD2A7416",
-    "URI": "http://downloadns.citrix.com.edgesuite.net/17444/managementagentx64.msi"
+    "Size": null,
+    "Checksum": null,
+    "URI": null
   },
   {
-    "Version": "9.3.0.73",
-    "Architecture": "x86",
-    "Size": 5844992,
-    "Checksum": "D9057A5A174887A78FE8B60120FF293FA540156232B145D71CC01A99DACCC0F5",
-    "URI": "http://downloadns.citrix.com.edgesuite.net/17442/managementagentx86.msi"
-  },
-  {
-    "Version": "7.2.0.1555",
+    "Version": null,
     "Architecture": "x64",
-    "Size": 9383936,
-    "Checksum": "9ac5c19ad64d8dd2b51a11ea05dc2e63441db1d8812cdae38bb1de14e77ec6e8",
-    "URI": "http://downloadns.citrix.com.edgesuite.net/14656/managementagentx64.msi"
+    "Size": null,
+    "Checksum": null,
+    "URI": null
   },
   {
-    "Version": "7.2.0.1555",
+    "Version": null,
     "Architecture": "x86",
-    "Size": 9371648,
-    "Checksum": "ea75775404f3e6e550a6d27b11c7cb9a6d6197484edc994a2984850606f20aab",
-    "URI": "http://downloadns.citrix.com.edgesuite.net/14655/managementagentx86.msi"
+    "Size": null,
+    "Checksum": null,
+    "URI": null
+  },
+  {
+    "Version": null,
+    "Architecture": "x86",
+    "Size": null,
+    "Checksum": null,
+    "URI": null
   }
 ]
