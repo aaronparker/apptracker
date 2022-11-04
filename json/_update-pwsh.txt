@@ -1,5 +1,0 @@
-json/AdoptiumTemurin8.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
