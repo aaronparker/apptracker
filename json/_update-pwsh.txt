@@ -1,7 +1,0 @@
-json/1Password.json
-json/MicrosoftOneDrive.json
-json/MicrosoftTeams.json
-json/MicrosoftWvdRemoteDesktop.json
-json/PiriformCCleanerFree.json
-json/Postman.json
-json/VideoLanVlcPlayer.json
