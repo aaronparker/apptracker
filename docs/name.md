@@ -134,10 +134,10 @@
 
 | Version    | Type | Architecture | URI                                                                                              |
 | ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------ |
-| 2022.7.183 | exe  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_7_183.exe    |
-| 2022.7.183 | msi  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_7_183.msi         |
-| 2022.7.183 | exe  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_7_183_32.exe |
-| 2022.7.183 | msi  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_7_183_32.msi      |
+| 2022.10.42 | exe  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_10_42.exe    |
+| 2022.10.42 | msi  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_10_42.msi         |
+| 2022.10.42 | exe  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_10_42_32.exe |
+| 2022.10.42 | msi  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_10_42_32.msi      |
 
 ## AdoptiumTemurin11
 
@@ -681,20 +681,20 @@
 
 | Version      | Date       | Language           | URI                                                                                                                                                                      |
 | ------------ | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 12.0.1.12430 | 07/29/2022 | Danish             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Danish&distID=             |
-| 12.0.1.12430 | 07/29/2022 | Dutch              | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Dutch&distID=              |
-| 12.0.1.12430 | 07/29/2022 | English            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=English&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Finnish            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Finnish&distID=            |
-| 12.0.1.12430 | 07/29/2022 | French             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=French&distID=             |
-| 12.0.1.12430 | 07/29/2022 | German             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=German&distID=             |
-| 12.0.1.12430 | 07/29/2022 | Italian            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Italian&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Multi-Language     | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Multi-Language&distID=     |
-| 12.0.1.12430 | 07/29/2022 | Norwegian          | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Norwegian&distID=          |
-| 12.0.1.12430 | 07/29/2022 | Polish             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Polish&distID=             |
-| 12.0.1.12430 | 07/29/2022 | Portuguese(Brazil) | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Portuguese(Brazil)&distID= |
-| 12.0.1.12430 | 07/29/2022 | Russian            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Russian&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Spanish            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Spanish&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Swedish            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.1.12430&package_type=msi&language=Swedish&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Danish             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Danish&distID=             |
+| 12.0.2.12465 | 11/07/2022 | Dutch              | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Dutch&distID=              |
+| 12.0.2.12465 | 11/07/2022 | English            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=English&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Finnish            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Finnish&distID=            |
+| 12.0.2.12465 | 11/07/2022 | French             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=French&distID=             |
+| 12.0.2.12465 | 11/07/2022 | German             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=German&distID=             |
+| 12.0.2.12465 | 11/07/2022 | Italian            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Italian&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Multi-Language     | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Multi-Language&distID=     |
+| 12.0.2.12465 | 11/07/2022 | Norwegian          | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Norwegian&distID=          |
+| 12.0.2.12465 | 11/07/2022 | Polish             | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Polish&distID=             |
+| 12.0.2.12465 | 11/07/2022 | Portuguese(Brazil) | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Portuguese(Brazil)&distID= |
+| 12.0.2.12465 | 11/07/2022 | Russian            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Russian&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Spanish            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Spanish&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Swedish            | https://www.foxit.com/downloads/latest.html?product=Foxit-PhantomPDF-Business&platform=Windows&version=12.0.2.12465&package_type=msi&language=Swedish&distID=            |
 
 ## FoxitReader
 
@@ -702,19 +702,19 @@
 
 | Version      | Date       | Language           | URI                                                                                                                                                                    |
 | ------------ | ---------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 12.0.1.12430 | 07/29/2022 | Danish             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Danish&distID=             |
-| 12.0.1.12430 | 07/29/2022 | Dutch              | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Dutch&distID=              |
-| 12.0.1.12430 | 07/29/2022 | English            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=English&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Finnish            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Finnish&distID=            |
-| 12.0.1.12430 | 07/29/2022 | French             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=French&distID=             |
-| 12.0.1.12430 | 07/29/2022 | German             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=German&distID=             |
-| 12.0.1.12430 | 07/29/2022 | Italian            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Italian&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Norwegian          | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Norwegian&distID=          |
-| 12.0.1.12430 | 07/29/2022 | Polish             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Polish&distID=             |
-| 12.0.1.12430 | 07/29/2022 | Portuguese(Brazil) | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Portuguese(Brazil)&distID= |
-| 12.0.1.12430 | 07/29/2022 | Russian            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Russian&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Spanish            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Spanish&distID=            |
-| 12.0.1.12430 | 07/29/2022 | Swedish            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.1.12430&package_type=msi&language=Swedish&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Danish             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Danish&distID=             |
+| 12.0.2.12465 | 11/07/2022 | Dutch              | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Dutch&distID=              |
+| 12.0.2.12465 | 11/07/2022 | English            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=English&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Finnish            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Finnish&distID=            |
+| 12.0.2.12465 | 11/07/2022 | French             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=French&distID=             |
+| 12.0.2.12465 | 11/07/2022 | German             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=German&distID=             |
+| 12.0.2.12465 | 11/07/2022 | Italian            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Italian&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Norwegian          | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Norwegian&distID=          |
+| 12.0.2.12465 | 11/07/2022 | Polish             | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Polish&distID=             |
+| 12.0.2.12465 | 11/07/2022 | Portuguese(Brazil) | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Portuguese(Brazil)&distID= |
+| 12.0.2.12465 | 11/07/2022 | Russian            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Russian&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Spanish            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Spanish&distID=            |
+| 12.0.2.12465 | 11/07/2022 | Swedish            | https://www.foxit.com/downloads/latest.html?product=Foxit-Enterprise-Reader&platform=Windows&version=12.0.2.12465&package_type=msi&language=Swedish&distID=            |
 
 ## FreedomScientificFusion
 
@@ -782,9 +782,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -981,7 +981,7 @@
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
-| 8.50    | https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe |
+| 8.51    | https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe |
 
 ## JASP
 
@@ -1203,7 +1203,7 @@
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.40.0  | win32-x64      | Insider | 2676d02006b35eb093c3dd1f9d0b717dd740de9ed412176fac9707daf2cb68e4 | https://sqlopsbuilds.azureedge.net/insider/222afe12c1b0d76af4f735e1faf7af7caa42b7fb/azuredatastudio-windows-setup-1.40.0-insider.exe      |
-| 1.40.0  | win32-x64-user | Insider | 015a76978de6e17e7e962fb207e4974609640fd0a70f2698dc0b4118623cbf19 | https://sqlopsbuilds.azureedge.net/insider/222afe12c1b0d76af4f735e1faf7af7caa42b7fb/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
+| 1.40.0  | win32-x64-user | Insider | b1675b70ed4a799d7d4b2a9e698d0e870ceb635af7346a90060112c5b8b91722 | https://sqlopsbuilds.azureedge.net/insider/8be87a905ad5b9efa9ba76f19dca13a634efa808/azuredatastudio-windows-user-setup-1.40.0-insider.exe |
 | 1.39.1  | win32-x64      | Stable  | b7e993c516dc30e57b1678a47798c31cdd6483adeac7826ab37abfccbd14bb92 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-setup-1.39.1.exe               |
 | 1.39.1  | win32-x64-user | Stable  | fc571082fd61c3c86d3e25cd70ef5b877499180bc4065823d153020223062a36 | https://sqlopsbuilds.azureedge.net/stable/7553f799e175f471b7590302dd65c997b838b29b/azuredatastudio-windows-user-setup-1.39.1.exe          |
 
@@ -4053,9 +4053,9 @@
 
 [Link](https://www.ccleaner.com/ccleaner)
 
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.05.10110 | ccsetup605.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| Version | Filename       | URI                                                                                                              |
+| ------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+|         | ccsetup605.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -4206,11 +4206,11 @@
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 22.3.30 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
-| 22.3.30 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
-| 22.3.30 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
-| 22.3.30 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
-| 22.3.30 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
+| 22.3.35 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
+| 22.3.35 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
+| 22.3.35 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
+| 22.3.35 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
+| 22.3.35 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
 
 ## RizonesoftNotepad3
 
@@ -4614,14 +4614,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe    |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi    |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip    |
-| 3.0.16  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe            |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi            |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip            |
 
 ## VisualCppRedistAIO
 
@@ -4753,8 +4753,8 @@
 | 5.12.2.1970 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.2.1970/x64/zoomrooms-5.12.2.1970-x64.msi |
 | 5.12.2.1970 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.exe     |
 | 5.12.2.1970 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.2.1970/zoomrooms-5.12.2.1970-x86.msi     |
-| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest      | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
