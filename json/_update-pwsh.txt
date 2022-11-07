@@ -1,0 +1,10 @@
+json/AdobeConnect.json
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/JamTreeSizeProfessional.json
+json/MicrosoftAzureDataStudio.json
+json/PiriformCCleanerFree.json
+json/RingCentral.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
