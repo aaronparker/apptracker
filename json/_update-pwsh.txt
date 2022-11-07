@@ -1,0 +1,10 @@
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/PiriformCCleanerFree.json
+json/Postman.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
