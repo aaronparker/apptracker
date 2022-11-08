@@ -8,51 +8,51 @@
   },
   {
     "Version": "16.0.15726.20202",
+    "Channel": "Current",
+    "Name": "Current Channel",
+    "Date": "2022-11-08T09:07:32.707Z",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
+    "Version": "16.0.15726.20202",
     "Channel": "CurrentPreview",
     "Name": "Current Channel (Preview)",
     "Date": "2022-11-03T18:11:33.22Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15726.20174",
-    "Channel": "Current",
-    "Name": "Current Channel",
-    "Date": "2022-10-27T16:05:34.223Z",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.15601.20230",
+    "Version": "16.0.15629.20258",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise",
-    "Date": "2022-10-11T07:36:41.393Z",
+    "Date": "2022-11-08T09:05:24.95Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15601.20230",
+    "Version": "16.0.15601.20286",
     "Channel": "SemiAnnualPreview",
     "Name": "Semi-Annual Channel Preview",
-    "Date": "2022-10-11T09:19:57.72Z",
+    "Date": "2022-11-08T14:38:26Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14931.20764",
+    "Version": "16.0.14931.20806",
     "Channel": "SemiAnnual",
     "Name": "Semi-Annual Channel",
-    "Date": "2022-10-11T07:46:28.713Z",
+    "Date": "2022-11-08T08:55:37.023Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14332.20400",
+    "Version": "16.0.14332.20416",
     "Channel": "PerpetualVL2021",
     "Name": "Office LTSC 2021 Perpetual Enterprise",
-    "Date": "2022-10-11T13:12:54.863Z",
+    "Date": "2022-11-08T14:24:51.753Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10391.20029",
+    "Version": "16.0.10392.20029",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "2022-10-11T13:16:19.593Z",
+    "Date": "2022-11-08T14:25:50.923Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }
 ]
