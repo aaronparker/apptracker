@@ -1,0 +1,11 @@
+json/1Password.json
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/MicrosoftBicep.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftVisualStudioCode.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
