@@ -1,0 +1,13 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/Microsoft.NET.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerToys.json
+json/MicrosoftVisualStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/PiriformCCleanerFree.json
+json/ProgressChefInfraClient.json
