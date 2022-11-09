@@ -1,0 +1,8 @@
+json/1Password.json
+json/CitrixVMTools.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OpenLens.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
