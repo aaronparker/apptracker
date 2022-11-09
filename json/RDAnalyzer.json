@@ -1,9 +1,9 @@
 {
-  "Version": "2205.143.2",
+  "Version": "2211.313.3",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "Date": "05/14/2021",
-  "Size": 2546080,
-  "URI": "https://github.com/RDAnalyzer/release/releases/download/2205.143.2/RemoteDisplayAnalyzer.exe"
+  "Size": 2549216,
+  "URI": "https://github.com/RDAnalyzer/release/releases/download/2211.313.3/RemoteDisplayAnalyzer.exe"
 }
