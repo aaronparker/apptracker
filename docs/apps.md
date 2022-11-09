@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 232 applications and 3157 unique application installers:
+App Version Tracker is using Evergreen to track 241 applications and 3198 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -28,6 +28,12 @@ App Version Tracker is using Evergreen to track 232 applications and 3157 unique
 | AdoptOpenJDK OpenJDK Official Binaries (JDK 11u)                  | https://adoptopenjdk.net/index.html                                                        |
 | AdoptOpenJDK OpenJDK Official Binaries (JDK 16u)                  | https://adoptopenjdk.net/index.html                                                        |
 | AdoptOpenJDK OpenJDK Official Binaries (JDK 8u)                   | https://adoptopenjdk.net/index.html                                                        |
+| AdoptOpenJDK IcedTeaWeb                                           | https://adoptopenjdk.net/icedtea-web.html                                                  |
+| AdoptOpenJDK Semuru 11                                            | https://adoptopenjdk.net/index.html                                                        |
+| AdoptOpenJDK Semuru 17                                            | https://adoptopenjdk.net/index.html                                                        |
+| AdoptOpenJDK Semuru 18                                            | https://adoptopenjdk.net/index.html                                                        |
+| AdoptOpenJDK Semuru 8                                             | https://adoptopenjdk.net/index.html                                                        |
+| Airtame App                                                       | https://airtame.com/                                                                       |
 | Akeo Rufus                                                        | https://rufus.ie/                                                                          |
 | Amazon Corretto                                                   | https://aws.amazon.com/corretto/                                                           |
 | Anaconda                                                          | https://www.anaconda.com/                                                                  |
@@ -123,6 +129,7 @@ App Version Tracker is using Evergreen to track 232 applications and 3157 unique
 | Microsoft Azure Data Studio                                       | https://docs.microsoft.com/en-us/sql/azure-data-studio/                                    |
 | Azure Functions Core Tools                                        | https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local                 |
 | Microsoft Azure Storage Explorer                                  | https://azure.microsoft.com/en-au/features/storage-explorer/                               |
+| MicrosoftAzureWindowsVMAgent                                      | https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows          |
 | Microsoft Bicep                                                   | https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview               |
 | Microsoft Bot Framework Emulator                                  | https://github.com/microsoft/BotFramework-Emulator/                                        |
 | Microsoft Edge                                                    | https://www.microsoft.com/edge                                                             |
@@ -194,6 +201,7 @@ App Version Tracker is using Evergreen to track 232 applications and 3157 unique
 | Rizonesoft Notepad3                                               | https://www.rizonesoft.com/downloads/notepad3                                              |
 | RStudio Desktop                                                   | https://www.rstudio.com/                                                                   |
 | Safe Exam Browser                                                 | https://safeexambrowser.org/                                                               |
+| Safing Portmaster                                                 | https://safing.io/                                                                         |
 | SAGA-GIS                                                          | http://www.saga-gis.org/                                                                   |
 | Scooter Beyond Compare                                            | https://scootersoftware.com/                                                               |
 | Scratch                                                           | https://scratch.mit.edu/                                                                   |
@@ -227,6 +235,7 @@ App Version Tracker is using Evergreen to track 232 applications and 3157 unique
 | Vercel Hyper                                                      | https://hyper.js/                                                                          |
 | VideoLan VLC Player                                               | https://www.videolan.org/vlc/                                                              |
 | VisualCppRedistAIO                                                | https://github.com/abbodi1406/vcredist                                                     |
+| VMPlex Workstation                                                | https://github.com/0xf005ba11/vmplex-ws                                                    |
 | VMware Horizon Client                                             | https://docs.vmware.com/en/VMware-Horizon-Client/index.html                                |
 | VMware Horizon Client (alternate method)                          | https://docs.vmware.com/en/VMware-Horizon-Client/index.html                                |
 | VMware OS Optimization Tool                                       | https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide     |
