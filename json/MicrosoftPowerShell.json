@@ -1,5 +1,25 @@
 [
   {
+    "Version": "7.3.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "11/09/2022",
+    "Size": 106225664,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x64.msi",
+    "Release": "Stable"
+  },
+  {
+    "Version": "7.3.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Date": "11/09/2022",
+    "Size": 97538048,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x86.msi",
+    "Release": "Stable"
+  },
+  {
     "Version": "7.2.7",
     "Platform": "Windows",
     "Architecture": "x64",
@@ -12,32 +32,12 @@
   {
     "Version": "7.2.7",
     "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Date": "10/20/2022",
-    "Size": 106971136,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.7/PowerShell-7.2.7-win-x64.msi",
-    "Release": "Stable"
-  },
-  {
-    "Version": "7.2.7",
-    "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "Date": "10/20/2022",
     "Size": 97320960,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.7/PowerShell-7.2.7-win-x86.msi",
     "Release": "LTS"
-  },
-  {
-    "Version": "7.2.7",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Date": "10/20/2022",
-    "Size": 97320960,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.7/PowerShell-7.2.7-win-x86.msi",
-    "Release": "Stable"
   },
   {
     "Version": "7.0.13",
