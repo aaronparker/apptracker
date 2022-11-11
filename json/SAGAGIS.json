@@ -1,14 +1,14 @@
 [
   {
-    "Version": "8.4.0",
+    "Version": "8.4.1",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.4.0/saga-8.4.0_x64_setup.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.4.1/saga-8.4.1_x64_setup.exe"
   },
   {
-    "Version": "8.4.0",
+    "Version": "8.4.1",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.4.0/saga-8.4.0_win32_setup.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%208/SAGA%20-%208.4.1/saga-8.4.1_win32_setup.exe"
   }
 ]
