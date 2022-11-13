@@ -1,0 +1,7 @@
+json/AirtameApp.json
+json/ControlUpAgent.json
+json/ControlUpConsole.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json

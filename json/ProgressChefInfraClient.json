@@ -59,6 +59,14 @@
     "Version": "18.0.175",
     "Architecture": "x64",
     "Channel": "current",
+    "Platform": "11",
+    "Sha256": "03e1845604a777d322c4b2f7f23943cbb77fa4e6b071319c3e47d948744e71e8",
+    "URI": "https://packages.chef.io/files/current/chef/18.0.175/windows/11/chef-client-18.0.175-1-x64.msi"
+  },
+  {
+    "Version": "18.0.175",
+    "Architecture": "x64",
+    "Channel": "current",
     "Platform": "2012r2",
     "Sha256": "03e1845604a777d322c4b2f7f23943cbb77fa4e6b071319c3e47d948744e71e8",
     "URI": "https://packages.chef.io/files/current/chef/18.0.175/windows/2012r2/chef-client-18.0.175-1-x64.msi"
@@ -102,6 +110,14 @@
     "Platform": "11",
     "Sha256": "ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2",
     "URI": "https://packages.chef.io/files/stable/chef/18.0.169/windows/11/chef-client-18.0.169-1-x64.msi"
+  },
+  {
+    "Version": "18.0.169",
+    "Architecture": "x64",
+    "Channel": "stable",
+    "Platform": "2012r2",
+    "Sha256": "ba957bd0780168aee3b2180e9181f356c64930af73bcbc327feace49fc68e9a2",
+    "URI": "https://packages.chef.io/files/stable/chef/18.0.169/windows/2012r2/chef-client-18.0.169-1-x64.msi"
   },
   {
     "Version": "18.0.169",
