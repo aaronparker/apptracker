@@ -1,0 +1,9 @@
+json/AirtameApp.json
+json/Fork.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/ProgressChefWorkstation.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
