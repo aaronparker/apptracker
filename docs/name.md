@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -751,7 +751,7 @@
 
 | Version | URI                                           |
 | ------- | --------------------------------------------- |
-| 1.79.0  | https://fork.dev/update/win/ForkInstaller.exe |
+| 1.79.1  | https://fork.dev/update/win/ForkInstaller.exe |
 
 ## FoxitPDFEditor
 
@@ -860,9 +860,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1110,9 +1110,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1531,12 +1531,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.74.0  | win32-arm64      | Insider | ARM64        | 3175b017d1831678dfd8e0bc6d1cab9fa0c8402f974a5fdad19251941d0075a2 | https://az764295.vo.msecnd.net/insider/a62879bb46c84d0936798cf06debf5f92b04e4b4/VSCodeSetup-arm64-1.74.0-insider.exe     |
-| 1.74.0  | win32-arm64-user | Insider | ARM64        | 636c23b1d70d6b2163212cb0912ffebe84b7511793578dd8039a700cf43ffe2c | https://az764295.vo.msecnd.net/insider/a62879bb46c84d0936798cf06debf5f92b04e4b4/VSCodeUserSetup-arm64-1.74.0-insider.exe |
-| 1.74.0  | win32-x64        | Insider | x64          | 6b13f8d3b95948b0390fb84a1f6ab17bce598be84d91ed1e70fa0161aea82c5a | https://az764295.vo.msecnd.net/insider/a62879bb46c84d0936798cf06debf5f92b04e4b4/VSCodeSetup-x64-1.74.0-insider.exe       |
-| 1.74.0  | win32-x64-user   | Insider | x64          | e197eb78ef1ee27bf911341fcb6ab1761b1dbe49909ab5db69b394ecb1be28fa | https://az764295.vo.msecnd.net/insider/a62879bb46c84d0936798cf06debf5f92b04e4b4/VSCodeUserSetup-x64-1.74.0-insider.exe   |
-| 1.74.0  | win32            | Insider | x86          | 6968854f80b45cda74a1355cff13f8df0ba18a792ef14961c49cf3878bc7ba57 | https://az764295.vo.msecnd.net/insider/a62879bb46c84d0936798cf06debf5f92b04e4b4/VSCodeSetup-ia32-1.74.0-insider.exe      |
-| 1.74.0  | win32-user       | Insider | x86          | fba4286b96f697875424d6fcbe5a93b9f978bb1c488c9e0caa7e7ac373c30fbb | https://az764295.vo.msecnd.net/insider/a62879bb46c84d0936798cf06debf5f92b04e4b4/VSCodeUserSetup-ia32-1.74.0-insider.exe  |
+| 1.74.0  | win32-arm64      | Insider | ARM64        | 65ff9ad2498b573c167c1f2055ae86167ce8ead2bcfce2fdf55a3062b857bb78 | https://az764295.vo.msecnd.net/insider/3fb8e8feb1c93a490feb2c2259713d4c8f0e0058/VSCodeSetup-arm64-1.74.0-insider.exe     |
+| 1.74.0  | win32-arm64-user | Insider | ARM64        | abf4a0a8738f26b158945b96c33a697c6ec75900eb9c0ae7117a91967c4b8785 | https://az764295.vo.msecnd.net/insider/3fb8e8feb1c93a490feb2c2259713d4c8f0e0058/VSCodeUserSetup-arm64-1.74.0-insider.exe |
+| 1.74.0  | win32-x64        | Insider | x64          | 7e99241444e06cd5129b74da1d53ac83cd5f85bbafdaf6f46c5838cd449b8a08 | https://az764295.vo.msecnd.net/insider/3fb8e8feb1c93a490feb2c2259713d4c8f0e0058/VSCodeSetup-x64-1.74.0-insider.exe       |
+| 1.74.0  | win32-x64-user   | Insider | x64          | 1bbb6c62a9ca11478745ac9082e24a7ba24ba0b1baef82d97c4a2732f80f538f | https://az764295.vo.msecnd.net/insider/3fb8e8feb1c93a490feb2c2259713d4c8f0e0058/VSCodeUserSetup-x64-1.74.0-insider.exe   |
+| 1.74.0  | win32            | Insider | x86          | 4483e2d3bea8163449929106cc09ad3f6a5aa227d8c3ccfe7e5ce17276a3d833 | https://az764295.vo.msecnd.net/insider/3fb8e8feb1c93a490feb2c2259713d4c8f0e0058/VSCodeSetup-ia32-1.74.0-insider.exe      |
+| 1.74.0  | win32-user       | Insider | x86          | f5b2ac854035257ace101ef0159e5514b689178677f8ad3c3b79d6f437f24d08 | https://az764295.vo.msecnd.net/insider/3fb8e8feb1c93a490feb2c2259713d4c8f0e0058/VSCodeUserSetup-ia32-1.74.0-insider.exe  |
 | 1.73.1  | win32-arm64      | Stable  | ARM64        | 47eb216387886c7c11fd18b489c456aeffea60a9f96ac0e5d834c9d12a3617b1 | https://az764295.vo.msecnd.net/stable/6261075646f055b99068d3688932416f2346dd3b/VSCodeSetup-arm64-1.73.1.exe              |
 | 1.73.1  | win32-arm64-user | Stable  | ARM64        | c68cc64157997fe569fbdefc0993c751728688d80243809c08783699bc5d0780 | https://az764295.vo.msecnd.net/stable/6261075646f055b99068d3688932416f2346dd3b/VSCodeUserSetup-arm64-1.73.1.exe          |
 | 1.73.1  | win32-x64        | Stable  | x64          | 47746bb858382632e699d5766c9cfec4029357748420de70136f08a515d8298a | https://az764295.vo.msecnd.net/stable/6261075646f055b99068d3688932416f2346dd3b/VSCodeSetup-x64-1.73.1.exe                |
@@ -1586,11 +1586,11 @@
 | 1.2.3745.0 | x64          | Dogfood | Unknown    | 2EA6C399569585205095483A80864BAA | RemoteDesktop_1.2.3745.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5c2MQ |
 | 1.2.3745.0 | x86          | Dogfood | Unknown    | 39BA9687FEC7E61A14047944CAF2BAE7 | RemoteDesktop_1.2.3745.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5c2MR |
 | 1.2.3667.0 | ARM64        | Insider | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
-| 1.2.3667.0 | x64          | Insider | Unknown    | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
+| 1.2.3667.0 | x64          | Insider | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
 | 1.2.3667.0 | x86          | Insider | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
-| 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
+| 1.2.3577.0 | ARM64        | Public  | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
 | 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
-| 1.2.3577.0 | x86          | Public  | Unknown    | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
+| 1.2.3577.0 | x86          | Public  | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
 
 ## MicrosoftWvdRtcService
 
@@ -4045,8 +4045,8 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 94.0.4597.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/94.0.4597.0/win/Opera_Developer_94.0.4597.0_Setup_x64.exe |
-| 94.0.4597.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/94.0.4597.0/win/Opera_Developer_94.0.4597.0_Setup.exe     |
+| 94.0.4604.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/94.0.4604.0/win/Opera_Developer_94.0.4604.0_Setup_x64.exe |
+| 94.0.4604.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/94.0.4604.0/win/Opera_Developer_94.0.4604.0_Setup.exe     |
 | 93.0.4585.7  | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/93.0.4585.7/win/Opera_beta_93.0.4585.7_Setup_x64.exe           |
 | 93.0.4585.7  | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/93.0.4585.7/win/Opera_beta_93.0.4585.7_Setup.exe               |
 | 92.0.4561.43 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/92.0.4561.43/win/Opera_92.0.4561.43_Setup_x64.exe                   |
@@ -4214,12 +4214,12 @@
 
 | Version    | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                     |
 | ---------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 22.11.1015 | x64          | current | 10       | ad472b997e2f8bb38974671ee2c0b81dd3bdb3b015ee4d3519721be0fdc972cd | https://packages.chef.io/files/current/chef-workstation/22.11.1015/windows/10/chef-workstation-22.11.1015-1-x64.msi     |
-| 22.11.1015 | x64          | current | 11       | ad472b997e2f8bb38974671ee2c0b81dd3bdb3b015ee4d3519721be0fdc972cd | https://packages.chef.io/files/current/chef-workstation/22.11.1015/windows/11/chef-workstation-22.11.1015-1-x64.msi     |
-| 22.11.1015 | x64          | current | 2012r2   | ad472b997e2f8bb38974671ee2c0b81dd3bdb3b015ee4d3519721be0fdc972cd | https://packages.chef.io/files/current/chef-workstation/22.11.1015/windows/2012r2/chef-workstation-22.11.1015-1-x64.msi |
-| 22.11.1015 | x64          | current | 2016     | ad472b997e2f8bb38974671ee2c0b81dd3bdb3b015ee4d3519721be0fdc972cd | https://packages.chef.io/files/current/chef-workstation/22.11.1015/windows/2016/chef-workstation-22.11.1015-1-x64.msi   |
-| 22.11.1015 | x64          | current | 2019     | ad472b997e2f8bb38974671ee2c0b81dd3bdb3b015ee4d3519721be0fdc972cd | https://packages.chef.io/files/current/chef-workstation/22.11.1015/windows/2019/chef-workstation-22.11.1015-1-x64.msi   |
-| 22.11.1015 | x64          | current | 2022     | ad472b997e2f8bb38974671ee2c0b81dd3bdb3b015ee4d3519721be0fdc972cd | https://packages.chef.io/files/current/chef-workstation/22.11.1015/windows/2022/chef-workstation-22.11.1015-1-x64.msi   |
+| 22.11.1016 | x64          | current | 10       | 8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2 | https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/10/chef-workstation-22.11.1016-1-x64.msi     |
+| 22.11.1016 | x64          | current | 11       | 8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2 | https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/11/chef-workstation-22.11.1016-1-x64.msi     |
+| 22.11.1016 | x64          | current | 2012r2   | 8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2 | https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2012r2/chef-workstation-22.11.1016-1-x64.msi |
+| 22.11.1016 | x64          | current | 2016     | 8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2 | https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2016/chef-workstation-22.11.1016-1-x64.msi   |
+| 22.11.1016 | x64          | current | 2019     | 8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2 | https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2019/chef-workstation-22.11.1016-1-x64.msi   |
+| 22.11.1016 | x64          | current | 2022     | 8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2 | https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2022/chef-workstation-22.11.1016-1-x64.msi   |
 | 22.10.1013 | x64          | stable  | 10       | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/10/chef-workstation-22.10.1013-1-x64.msi      |
 | 22.10.1013 | x64          | stable  | 11       | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/11/chef-workstation-22.10.1013-1-x64.msi      |
 | 22.10.1013 | x64          | stable  | 2012r2   | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2012r2/chef-workstation-22.10.1013-1-x64.msi  |
@@ -4711,14 +4711,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe   |
+| 3.0.16  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi   |
+| 3.0.16  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip   |
+| 3.0.16  | Windows  | x86          | EXE  | https://mirror2.evolution-host.com/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
+| 3.0.16  | Windows  | x86          | MSI  | https://mirror2.evolution-host.com/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
+| 3.0.16  | Windows  | x86          | ZIP  | https://mirror2.evolution-host.com/vlc/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
 
 ## VisualCppRedistAIO
 
