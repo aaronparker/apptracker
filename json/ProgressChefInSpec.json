@@ -75,6 +75,22 @@
     "Version": "5.18.14",
     "Architecture": "x64",
     "Channel": "stable",
+    "Platform": "2016",
+    "Sha256": "f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5",
+    "URI": "https://packages.chef.io/files/stable/inspec/5.18.14/windows/2016/inspec-5.18.14-1-x64.msi"
+  },
+  {
+    "Version": "5.18.14",
+    "Architecture": "x64",
+    "Channel": "stable",
+    "Platform": "2019",
+    "Sha256": "f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5",
+    "URI": "https://packages.chef.io/files/stable/inspec/5.18.14/windows/2019/inspec-5.18.14-1-x64.msi"
+  },
+  {
+    "Version": "5.18.14",
+    "Architecture": "x64",
+    "Channel": "stable",
     "Platform": "2022",
     "Sha256": "f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5",
     "URI": "https://packages.chef.io/files/stable/inspec/5.18.14/windows/2022/inspec-5.18.14-1-x64.msi"
