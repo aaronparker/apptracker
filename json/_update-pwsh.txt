@@ -1,0 +1,7 @@
+json/1Password.json
+json/MicrosoftWvdRemoteDesktop.json
+json/NevcairielLAVFilters.json
+json/ProgressChefInfraClient.json
+json/TechSmithCamtasia.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
