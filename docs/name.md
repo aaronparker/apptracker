@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                           |
-| ------- | ------------------------------------------------------------- |
-| 8.9.8   | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.8.exe |
+| Version | URI                                                               |
+| ------- | ----------------------------------------------------------------- |
+| 8.9.8   | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.8.exe |
 
 ## 1Password7
 
@@ -1110,9 +1110,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1586,9 +1586,9 @@
 | 1.2.3667.0 | ARM64        | Insider | Unknown    | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
 | 1.2.3667.0 | x64          | Insider | Unknown    | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
 | 1.2.3667.0 | x86          | Insider | Unknown    | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
-| 1.2.3577.0 | ARM64        | Public  | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
+| 1.2.3577.0 | ARM64        | Public  | 10/10/2022 | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
 | 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
-| 1.2.3577.0 | x86          | Public  | Unknown    | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
+| 1.2.3577.0 | x86          | Public  | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
 
 ## MicrosoftWvdRtcService
 
@@ -3896,9 +3896,9 @@
 
 [Link](https://github.com/Nevcairiel/LAVFilters)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                           |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------- |
-| 0.77    | Windows  | x86          | exe  | 11/10/2022 | 14573472 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77/LAVFilters-0.77-Installer.exe |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 0.77.1  | Windows  | x86          | exe  | 11/15/2022 | 14575904 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.1/LAVFilters-0.77.1-Installer.exe |
 
 ## Nomacs
 
@@ -4168,12 +4168,12 @@
 
 | Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
 | -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 18.0.184 | x64          | unstable | 10       | 7114075432fd57c83bd8bb455583c28f340fc53064f27d4c637d2470d9ec9851 | https://packages.chef.io/files/unstable/chef/18.0.184/windows/10/chef-client-18.0.184-1-x64.msi     |
-| 18.0.184 | x64          | unstable | 11       | 7114075432fd57c83bd8bb455583c28f340fc53064f27d4c637d2470d9ec9851 | https://packages.chef.io/files/unstable/chef/18.0.184/windows/11/chef-client-18.0.184-1-x64.msi     |
-| 18.0.184 | x64          | unstable | 2012r2   | 7114075432fd57c83bd8bb455583c28f340fc53064f27d4c637d2470d9ec9851 | https://packages.chef.io/files/unstable/chef/18.0.184/windows/2012r2/chef-client-18.0.184-1-x64.msi |
-| 18.0.184 | x64          | unstable | 2016     | 7114075432fd57c83bd8bb455583c28f340fc53064f27d4c637d2470d9ec9851 | https://packages.chef.io/files/unstable/chef/18.0.184/windows/2016/chef-client-18.0.184-1-x64.msi   |
-| 18.0.184 | x64          | unstable | 2019     | 7114075432fd57c83bd8bb455583c28f340fc53064f27d4c637d2470d9ec9851 | https://packages.chef.io/files/unstable/chef/18.0.184/windows/2019/chef-client-18.0.184-1-x64.msi   |
-| 18.0.184 | x64          | unstable | 2022     | 7114075432fd57c83bd8bb455583c28f340fc53064f27d4c637d2470d9ec9851 | https://packages.chef.io/files/unstable/chef/18.0.184/windows/2022/chef-client-18.0.184-1-x64.msi   |
+| 18.0.185 | x64          | unstable | 10       | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/unstable/chef/18.0.185/windows/10/chef-client-18.0.185-1-x64.msi     |
+| 18.0.185 | x64          | unstable | 11       | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/unstable/chef/18.0.185/windows/11/chef-client-18.0.185-1-x64.msi     |
+| 18.0.185 | x64          | unstable | 2012r2   | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/unstable/chef/18.0.185/windows/2012r2/chef-client-18.0.185-1-x64.msi |
+| 18.0.185 | x64          | unstable | 2016     | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/unstable/chef/18.0.185/windows/2016/chef-client-18.0.185-1-x64.msi   |
+| 18.0.185 | x64          | unstable | 2019     | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/unstable/chef/18.0.185/windows/2019/chef-client-18.0.185-1-x64.msi   |
+| 18.0.185 | x64          | unstable | 2022     | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/unstable/chef/18.0.185/windows/2022/chef-client-18.0.185-1-x64.msi   |
 | 18.0.175 | x64          | current  | 10       | 03e1845604a777d322c4b2f7f23943cbb77fa4e6b071319c3e47d948744e71e8 | https://packages.chef.io/files/current/chef/18.0.175/windows/10/chef-client-18.0.175-1-x64.msi      |
 | 18.0.175 | x64          | current  | 11       | 03e1845604a777d322c4b2f7f23943cbb77fa4e6b071319c3e47d948744e71e8 | https://packages.chef.io/files/current/chef/18.0.175/windows/11/chef-client-18.0.175-1-x64.msi      |
 | 18.0.175 | x64          | current  | 2012r2   | 03e1845604a777d322c4b2f7f23943cbb77fa4e6b071319c3e47d948744e71e8 | https://packages.chef.io/files/current/chef/18.0.175/windows/2012r2/chef-client-18.0.175-1-x64.msi  |
@@ -4508,8 +4508,8 @@
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
-| 22.2.1  | 09/29/2022 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2221/camtasia.exe |
-| 22.2.1  | 09/29/2022 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2221/camtasia.msi |
+| 22.3.0  | 11/15/2022 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2230/camtasia.exe |
+| 22.3.0  | 11/15/2022 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2230/camtasia.msi |
 
 ## TechSmithSnagit
 
@@ -4709,14 +4709,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
-| 3.0.16  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
-| 3.0.16  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
-| 3.0.16  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                               |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.16/win32/vlc-3.0.16-win32.exe       |
+| 3.0.16  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.16/win32/vlc-3.0.16-win32.msi       |
+| 3.0.16  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.16/win32/vlc-3.0.16-win32.zip       |
 
 ## VisualCppRedistAIO
 
