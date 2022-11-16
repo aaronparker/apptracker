@@ -1,29 +1,29 @@
 [
   {
-    "Version": "3.4.0",
+    "Version": "3.4.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "08/05/2022",
-    "Size": 120389632,
-    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.0/SEB_3.4.0.480_x64_Setup.msi"
+    "Date": "11/15/2022",
+    "Size": 131940352,
+    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.1/SEB_3.4.1.505_x64_Setup.msi"
   },
   {
-    "Version": "3.4.0",
+    "Version": "3.4.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "08/05/2022",
-    "Size": 233938944,
-    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.0/SEB_3.4.0.480_SetupBundle.exe"
+    "Date": "11/15/2022",
+    "Size": 256083336,
+    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.1/SEB_3.4.1.505_SetupBundle.exe"
   },
   {
-    "Version": "3.4.0",
+    "Version": "3.4.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "08/05/2022",
-    "Size": 113451008,
-    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.0/SEB_3.4.0.480_x86_Setup.msi"
+    "Date": "11/15/2022",
+    "Size": 124035072,
+    "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.1/SEB_3.4.1.505_x86_Setup.msi"
   }
 ]
