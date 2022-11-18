@@ -1,0 +1,10 @@
+json/Gimp.json
+json/GitHubAtom.json
+json/GitHubRelease.json
+json/JetBrainsPyCharm.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OracleVirtualBox.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
