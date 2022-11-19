@@ -1,5 +1,0 @@
-json/1Password.json
-json/MicrosoftWvdRemoteDesktop.json
-json/TeXstudio.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
