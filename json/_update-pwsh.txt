@@ -1,0 +1,9 @@
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
