@@ -42,6 +42,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.jso
         $Markdown += "`n`n"
     }
 
+    Write-Host "File: $($File.Name)"
     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
     $Markdown += "`n"
