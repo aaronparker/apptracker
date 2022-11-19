@@ -78,6 +78,7 @@ foreach ($File in $LastUpdates) {
         $Markdown += "`n`n"
     }
 
+    Write-Host "File: $($File.Name)"
     $Table = Get-Content -Path $(Join-Path -Path $Path -ChildPath $File.Name) | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
     $Markdown += "`n"
