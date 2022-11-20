@@ -1,6 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OpenLens.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
