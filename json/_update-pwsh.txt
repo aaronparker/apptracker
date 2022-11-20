@@ -1,4 +1,0 @@
-json/MasterPackager.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
