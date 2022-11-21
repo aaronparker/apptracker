@@ -1,0 +1,8 @@
+json/BISF.json
+json/BeekeeperStudio.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json

@@ -1,9 +1,9 @@
 {
-  "Version": "7.1912.6",
+  "Version": "7.1912.7",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "MSI",
-  "Date": "01/19/2021",
-  "Size": 3205632,
-  "URI": "https://github.com/EUCweb/BIS-F/releases/download/7.1912.6/setup-BIS-F-7.1912.6.11041.MSI"
+  "Date": "11/19/2022",
+  "Size": 3357696,
+  "URI": "https://github.com/EUCweb/BIS-F/releases/download/7.1912.7/setup-BIS-F-7.1912.7.11042.MSI"
 }
