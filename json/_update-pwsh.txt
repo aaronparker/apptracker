@@ -1,0 +1,8 @@
+json/Gimp.json
+json/JetBrainsIntelliJIDEA.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
