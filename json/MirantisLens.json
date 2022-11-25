@@ -9,12 +9,12 @@
     "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202022.11.241354-alpha.exe"
   },
   {
-    "Version": "2022.11.211937-latest",
+    "Version": "2022.11.241650-latest",
     "Architecture": "x64",
     "Release": "Stable",
-    "Date": "2022-11-21T20:01:07.214Z",
-    "Size": 371295584,
-    "Sha512": "DbyWIQv9Z3itQk5y2DNcV1gNbis9Hb2uLOuWbbE8eNRNaUelzlQrCrM/ViBCRQuED9OluyK7TCOfFGCbKyZjGQ==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202022.11.211937-latest.exe"
+    "Date": "2022-11-24T17:14:30.811Z",
+    "Size": 371332072,
+    "Sha512": "VUPLYAptf9In6tAIGQsm5gmeFAzZV4rQAWUynsNTqp4vh0647xWAqCeQ3JuwqP5Pl3HsO5YVLEhhLnI5TGdPVg==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202022.11.241650-latest.exe"
   }
 ]
