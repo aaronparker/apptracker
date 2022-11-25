@@ -1,9 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/MirantisLens.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
