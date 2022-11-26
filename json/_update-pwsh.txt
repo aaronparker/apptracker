@@ -1,0 +1,5 @@
+json/AirtameApp.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
