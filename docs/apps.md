@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 241 applications and 3417 unique application installers:
+App Version Tracker is using Evergreen to track 247 applications and 3649 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -43,6 +43,7 @@ App Version Tracker is using Evergreen to track 241 applications and 3417 unique
 | Atlassian Sourcetree                                              | https://www.sourcetreeapp.com/                                                             |
 | Audacity                                                          | https://www.audacityteam.org/                                                              |
 | Windows Auto Dark Mode                                            | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode                                    |
+| AWS CLI                                                           | https://github.com/aws/aws-cli/                                                            |
 | AWS SAM CLI                                                       | https://github.com/aws/aws-sam-cli/                                                        |
 | Beekeeper Studio                                                  | https://www.beekeeperstudio.io/                                                            |
 | Base Image Script Framework                                       | https://eucweb.com/                                                                        |
@@ -113,6 +114,7 @@ App Version Tracker is using Evergreen to track 241 applications and 3417 unique
 | jq                                                                | http://stedolan.github.io/jq/                                                              |
 | jrsoftware InnoSetup                                              | https://www.innosetup.com                                                                  |
 | Karakun OpenWebStart                                              | https://openwebstart.com/ows/                                                              |
+| KDiff3                                                            | https://kdiff3.sourceforge.net/                                                            |
 | KeePass                                                           | https://keepass.net/                                                                       |
 | KeePassXC Team KeePassXC                                          | https://keepassxc.org/                                                                     |
 | KeeWeb                                                            | https://github.com/keeweb/keeweb                                                           |
@@ -142,6 +144,7 @@ App Version Tracker is using Evergreen to track 241 applications and 3417 unique
 | Microsoft PowerToys                                               | https://github.com/microsoft/PowerToys/                                                    |
 | Microsoft SQL Server Management Studio                            | https://go.microsoft.com/fwlink/?LinkId=531355                                             |
 | Microsoft Teams                                                   | https://www.microsoft.com/teams                                                            |
+| Microsoft Terminal                                                | https://github.com/microsoft/terminal/                                                     |
 | Microsoft Visual Studio                                           | https://visualstudio.microsoft.com/                                                        |
 | Microsoft Visual Studio Code                                      | https://code.visualstudio.com                                                              |
 | Microsoft Windows Package Manager Client                          | https://docs.microsoft.com/en-us/windows/package-manager/                                  |
@@ -248,6 +251,9 @@ App Version Tracker is using Evergreen to track 241 applications and 3417 unique
 | WinSCP                                                            | https://winscp.net/                                                                        |
 | Wireshark                                                         | https://www.wireshark.org/#download                                                        |
 | WiX Toolset                                                       | https://wixtoolset.org/                                                                    |
+| XnSoft Convert                                                    | https://www.xnview.com/en/xnconvert/                                                       |
+| XnSoft XnView MP                                                  | https://www.xnview.com/en/xnviewmp/                                                        |
+| Yubico Authenticator                                              | https://github.com/Yubico/yubioath-flutter/                                                |
 | Zoom                                                              | https://zoom.us/                                                                           |
 | ZorgMail Veilig verzenden plug-in                                 | https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/    |
 | Zotero                                                            | https://www.zotero.org/                                                                    |
