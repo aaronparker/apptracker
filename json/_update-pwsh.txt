@@ -1,0 +1,15 @@
+json/AirtameApp.json
+json/ESETEndpointAntivirus.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OpenLens.json
+json/TeXstudio.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
+json/AWSCLI.json
+json/KDiff3.json
+json/MicrosoftTerminal.json
+json/XnSoftXnConvert.json
+json/XnSoftXnViewMP.json
+json/YubicoAuthenticator.json

@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "0.9.98",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://nchc.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe"
+  },
+  {
+    "Version": "0.9.98",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://nchc.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe"
+  }
+]

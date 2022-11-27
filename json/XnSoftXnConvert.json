@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "1.95",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.xnview.com/XnConvert-win-x64.exe"
+  },
+  {
+    "Version": "1.95",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.xnview.com/XnConvert-win.exe"
+  }
+]
