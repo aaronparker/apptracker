@@ -1,8 +1,8 @@
 {
-  "Version": "0.3.2209.23022",
-  "Architecture": "x64",
-  "Date": "Mon, 26 Sep 2022 21:02:47 GMT",
-  "Size": "954368",
-  "Filename": "MsMMRHostInstaller_0.3.2209.23022_x64.msi",
+  "Version": "101322",
+  "Architecture": "x86",
+  "Date": "Thu, 13 Oct 2022 19:04:54 GMT",
+  "Size": "970752",
+  "Filename": "MsMmrHostMsi101322.msi",
   "URI": "https://aka.ms/avdmmr/msi"
 }
