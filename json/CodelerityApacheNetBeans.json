@@ -1,9 +1,9 @@
 {
-  "Version": "v15-build1",
+  "Version": "v16-build1",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
-  "Date": "08/30/2022",
-  "Size": 546768968,
-  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v15-build1/Apache-NetBeans-15.exe"
+  "Date": "11/24/2022",
+  "Size": 547053176,
+  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache-NetBeans-16.exe"
 }
