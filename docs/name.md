@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -395,7 +395,7 @@
 
 | Version | Type | URI                                             |
 | ------- | ---- | ----------------------------------------------- |
-| 2.9.2   | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.9.2.msi |
+| 2.9.3   | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.9.3.msi |
 
 ## AWSSAMCLI
 
@@ -492,7 +492,7 @@
 
 | Version    | Platform | Architecture | Type | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
-| v15-build1 | Windows  | x86          | exe  | 08/30/2022 | 546768968 | https://github.com/codelerity/netbeans-installers/releases/download/v15-build1/Apache-NetBeans-15.exe |
+| v16-build1 | Windows  | x86          | exe  | 11/24/2022 | 547053176 | https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache-NetBeans-16.exe |
 
 ## ConnectionExperienceIndicator
 
@@ -1312,9 +1312,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1370,8 +1370,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 109.0.5414.10 | x64          | dev     | 11/17/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 109.0.5414.10 | x86          | dev     | 11/17/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 109.0.5414.25 | x64          | dev     | 11/30/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 109.0.5414.25 | x86          | dev     | 11/30/2022 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 108.0.5359.72 | x64          | stable  | 11/29/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 108.0.5359.72 | x86          | stable  | 11/29/2022 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 | 108.0.5359.71 | x64          | beta    | 11/29/2022 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
@@ -1432,8 +1432,8 @@
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
-| 1.14.1  | zip  | x64          | https://releases.hashicorp.com/consul/1.14.1/consul_1.14.1_windows_amd64.zip |
-| 1.14.1  | zip  | x86          | https://releases.hashicorp.com/consul/1.14.1/consul_1.14.1_windows_386.zip   |
+| 1.14.2  | zip  | x64          | https://releases.hashicorp.com/consul/1.14.2/consul_1.14.2_windows_amd64.zip |
+| 1.14.2  | zip  | x86          | https://releases.hashicorp.com/consul/1.14.2/consul_1.14.2_windows_386.zip   |
 
 ## HashicorpNomad
 
@@ -1459,8 +1459,8 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.3.5   | zip  | x64          | https://releases.hashicorp.com/terraform/1.3.5/terraform_1.3.5_windows_amd64.zip |
-| 1.3.5   | zip  | x86          | https://releases.hashicorp.com/terraform/1.3.5/terraform_1.3.5_windows_386.zip   |
+| 1.3.6   | zip  | x64          | https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_amd64.zip |
+| 1.3.6   | zip  | x86          | https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_386.zip   |
 
 ## HashicorpVault
 
@@ -1468,8 +1468,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.12.1  | zip  | x64          | https://releases.hashicorp.com/vault/1.12.1/vault_1.12.1_windows_amd64.zip |
-| 1.12.1  | zip  | x86          | https://releases.hashicorp.com/vault/1.12.1/vault_1.12.1_windows_386.zip   |
+| 1.12.2  | zip  | x64          | https://releases.hashicorp.com/vault/1.12.2/vault_1.12.2_windows_amd64.zip |
+| 1.12.2  | zip  | x86          | https://releases.hashicorp.com/vault/1.12.2/vault_1.12.2_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -1533,11 +1533,11 @@
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
-| -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2022.2.4 | 222.4459.24 | IntelliJ IDEA Community | 11/23/2022 | 628566784 | https://download.jetbrains.com/idea/ideaIC-2022.2.4.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2022.2.4.exe |
-| 2022.2.4 | 222.4459.24 | IntelliJ IDEA Ultimate  | 11/23/2022 | 737577128 | https://download.jetbrains.com/idea/ideaIU-2022.2.4.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2022.2.4.exe |
-| 2022.2.2 | 222.4345.35 | IntelliJ IDEA Edu       | 10/27/2022 | 693805272 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
+| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
+| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| 2022.3   | 223.7571.182 | IntelliJ IDEA Community | 11/30/2022 | 683003488 | https://download.jetbrains.com/idea/ideaIC-2022.3.exe.sha256   | https://download.jetbrains.com/idea/ideaIC-2022.3.exe   |
+| 2022.3   | 223.7571.182 | IntelliJ IDEA Ultimate  | 11/30/2022 | 792833080 | https://download.jetbrains.com/idea/ideaIU-2022.3.exe.sha256   | https://download.jetbrains.com/idea/ideaIU-2022.3.exe   |
+| 2022.2.2 | 222.4345.35  | IntelliJ IDEA Edu       | 10/27/2022 | 693805272 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
 
 ## JetBrainsPyCharm
 
@@ -1562,9 +1562,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1726,7 +1726,7 @@
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
-| 16.0.15917.20000 | BetaChannel       | Beta                                  | 11/22/2022 23:09:49 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15928.20000 | BetaChannel       | Beta                                  | 11/30/2022 19:13:59 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15831.20164 | CurrentPreview    | Current Channel (Preview)             | 11/26/2022 00:18:21 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15726.20202 | Current           | Current Channel                       | 11/08/2022 09:07:32 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15629.20258 | MonthlyEnterprise | Monthly Enterprise                    | 11/08/2022 09:05:24 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1858,16 +1858,16 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.249.1128.0001 | AMD64        | InternalFast | W9AVdvUT4ONITSriOBxxFtIffflgU17RnyXMKUvDFKo= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.249.1128.0001/amd64/OneDriveSetup.exe   |
-| 22.249.1128.0001 | x86          | InternalFast | MnmQsst1Mk40g4ecFs7m6lvmCqgPqCl0ucTHr9wcALM= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.249.1128.0001/OneDriveSetup.exe         |
+| 22.250.1129.0001 | AMD64        | InternalFast | 719sWaZan6iR2PyBcEuroGdbFNdMi3SxJUVReDwJLvU= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.250.1129.0001/amd64/OneDriveSetup.exe   |
+| 22.250.1129.0001 | x86          | InternalFast | QP6Trcuxdurl4v4MOfngRhmSvLIujkctuhpXB5MrzTY= | exe  | https://oneclient.sfx.ms/Win/MsitFast/22.250.1129.0001/OneDriveSetup.exe         |
 | 22.248.1127.0001 | AMD64        | InternalSlow | CIprYodOKm+SJIYLQeoXR4631s6ZtY0r0J8sTMfQKLM= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.248.1127.0001/amd64/OneDriveSetup.exe   |
 | 22.248.1127.0001 | x86          | InternalSlow | 893BRhK0GiIi9dulEMgK+w6Cp0suhjs2y+aT2nTHr8Y= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.248.1127.0001/OneDriveSetup.exe         |
-| 22.238.1114.0001 | AMD64        | Insider      | oULyItlLg7NWRUaXGis0rUs3HDOPN3QRH0oHTOFTbYc= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.238.1114.0001/amd64/OneDriveSetup.exe   |
+| 22.238.1114.0002 | AMD64        | Insider      | t9k2aa0KwIS3+33lowaH3ZDOqPsRZxdXu5KlVd1kUxc= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.238.1114.0002/amd64/OneDriveSetup.exe   |
+| 22.238.1114.0002 | x86          | Insider      | fltDOAWGKud27n91qOsKOgDCYGJTqCIsUPsF6m++XF8= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.238.1114.0002/OneDriveSetup.exe         |
 | 22.238.1114.0001 | AMD64        | InternalSlow | oULyItlLg7NWRUaXGis0rUs3HDOPN3QRH0oHTOFTbYc= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.238.1114.0001/amd64/OneDriveSetup.exe   |
-| 22.238.1114.0001 | x86          | Insider      | zgtE+OAxDMVSP3LupgH0l+SKx8qe0s3wXmQTOYX4HS0= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.238.1114.0001/OneDriveSetup.exe         |
 | 22.238.1114.0001 | x86          | InternalSlow | zgtE+OAxDMVSP3LupgH0l+SKx8qe0s3wXmQTOYX4HS0= | exe  | https://oneclient.sfx.ms/Win/MsitSlow/22.238.1114.0001/OneDriveSetup.exe         |
-| 22.232.1106.0001 | AMD64        | Insider      | jJJr+Ky+Ll/deXOblnRIR8ctPUC/EIGFv7HKv5n/Xhc= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.232.1106.0001/amd64/OneDriveSetup.exe   |
-| 22.232.1106.0001 | x86          | Insider      | r2lyMsYskAH7OpwKtwlz5jwsjj7WAfX48TcTFTD4LYQ= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.232.1106.0001/OneDriveSetup.exe         |
+| 22.232.1106.0002 | AMD64        | Production   | byLhEcZkECR86ueNanygUEvz/Yx4wICt9QRG2+gRLSQ= | exe  | https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/amd64/OneDriveSetup.exe       |
+| 22.232.1106.0002 | x86          | Production   | rC9jv+5CtFSo27wAaYrFqsQ87M9CxzqJVddlsR3X3Yw= | exe  | https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/OneDriveSetup.exe             |
 | 22.227.1030.0001 | AMD64        | Production   | RKjYd3ICdEv2EUr+7X2HFL3Lnq5X9GuGrsoCl/drCgE= | exe  | https://oneclient.sfx.ms/Win/Prod/22.227.1030.0001/amd64/OneDriveSetup.exe       |
 | 22.227.1030.0001 | x86          | Production   | iThFgpurBSkA7xzbNkHM4aI9ohrauWLWpyreHWmSuY0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.227.1030.0001/OneDriveSetup.exe             |
 | 22.131.0619.0001 | AMD64        | Enterprise   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/amd64/OneDriveSetup.exe |
@@ -1999,12 +1999,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.74.0  | win32-arm64      | Insider | ARM64        | 759a37c5882efd25746eca7d23b6314b7b2c7dbb0ac1125a56ccd7e77bb9c1a2 | https://az764295.vo.msecnd.net/insider/9908b3d5ae12691da5adc2f18e21a100ee8eeb58/VSCodeSetup-arm64-1.74.0-insider.exe     |
-| 1.74.0  | win32-arm64-user | Insider | ARM64        | 74538403ff2eda3360556978b5e0636a3dd2419d02a963263fc8c516199467a9 | https://az764295.vo.msecnd.net/insider/9908b3d5ae12691da5adc2f18e21a100ee8eeb58/VSCodeUserSetup-arm64-1.74.0-insider.exe |
-| 1.74.0  | win32-x64        | Insider | x64          | be5f0e59545cc509faf108d85518d8ed9144b14e7cd248d486d87d98364591fb | https://az764295.vo.msecnd.net/insider/9908b3d5ae12691da5adc2f18e21a100ee8eeb58/VSCodeSetup-x64-1.74.0-insider.exe       |
-| 1.74.0  | win32-x64-user   | Insider | x64          | a4b160ad55ed12c9dce147af84ad4788dc2098bd1c780dd1034f6dd7c3e0f1ce | https://az764295.vo.msecnd.net/insider/9908b3d5ae12691da5adc2f18e21a100ee8eeb58/VSCodeUserSetup-x64-1.74.0-insider.exe   |
-| 1.74.0  | win32            | Insider | x86          | 9da9adaa75cdbe2e57dc683a0e977123c5bdadd807f47e967bd2924f3f44e0a1 | https://az764295.vo.msecnd.net/insider/9908b3d5ae12691da5adc2f18e21a100ee8eeb58/VSCodeSetup-ia32-1.74.0-insider.exe      |
-| 1.74.0  | win32-user       | Insider | x86          | ea6c9942d84541193f5067df800958c08deb35e860335679f1146b9f15f2abc4 | https://az764295.vo.msecnd.net/insider/9908b3d5ae12691da5adc2f18e21a100ee8eeb58/VSCodeUserSetup-ia32-1.74.0-insider.exe  |
+| 1.74.0  | win32-arm64      | Insider | ARM64        | 6c66762eb0874ba0aa7671ca4dcc6909f4751e13f69e566899afa8842216c70e | https://az764295.vo.msecnd.net/insider/56d73a45e38259976188a982331c9fb5d156cd25/VSCodeSetup-arm64-1.74.0-insider.exe     |
+| 1.74.0  | win32-arm64-user | Insider | ARM64        | f1abedec3999ec1aabe7d48d9b123779fccbe47e00d99f06e0a704af367b137f | https://az764295.vo.msecnd.net/insider/56d73a45e38259976188a982331c9fb5d156cd25/VSCodeUserSetup-arm64-1.74.0-insider.exe |
+| 1.74.0  | win32-x64        | Insider | x64          | f40f0d87c160a73be696e681d4e2717abcba33c8559305fa5bd2b1766e768663 | https://az764295.vo.msecnd.net/insider/56d73a45e38259976188a982331c9fb5d156cd25/VSCodeSetup-x64-1.74.0-insider.exe       |
+| 1.74.0  | win32-x64-user   | Insider | x64          | 08ba9e0f7669df701e5f03b7e42f1d568d55fc6655b5b2293e5ff58839213809 | https://az764295.vo.msecnd.net/insider/56d73a45e38259976188a982331c9fb5d156cd25/VSCodeUserSetup-x64-1.74.0-insider.exe   |
+| 1.74.0  | win32            | Insider | x86          | 448fd041a85980ad39ae1201a33765071108b700ceec84420f86264f0a32a54b | https://az764295.vo.msecnd.net/insider/56d73a45e38259976188a982331c9fb5d156cd25/VSCodeSetup-ia32-1.74.0-insider.exe      |
+| 1.74.0  | win32-user       | Insider | x86          | 32e4d2982a6a690cd582de5cdc3926e36e33ac09bf1c24e16d598d94ce35f675 | https://az764295.vo.msecnd.net/insider/56d73a45e38259976188a982331c9fb5d156cd25/VSCodeUserSetup-ia32-1.74.0-insider.exe  |
 | 1.73.1  | win32-arm64      | Stable  | ARM64        | 47eb216387886c7c11fd18b489c456aeffea60a9f96ac0e5d834c9d12a3617b1 | https://az764295.vo.msecnd.net/stable/6261075646f055b99068d3688932416f2346dd3b/VSCodeSetup-arm64-1.73.1.exe              |
 | 1.73.1  | win32-arm64-user | Stable  | ARM64        | c68cc64157997fe569fbdefc0993c751728688d80243809c08783699bc5d0780 | https://az764295.vo.msecnd.net/stable/6261075646f055b99068d3688932416f2346dd3b/VSCodeUserSetup-arm64-1.73.1.exe          |
 | 1.73.1  | win32-x64        | Stable  | x64          | 47746bb858382632e699d5766c9cfec4029357748420de70136f08a515d8298a | https://az764295.vo.msecnd.net/stable/6261075646f055b99068d3688932416f2346dd3b/VSCodeSetup-x64-1.73.1.exe                |
@@ -2050,15 +2050,15 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3770.0 | ARM64        | Dogfood | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | ARM64        | Insider | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | x64          | Dogfood | Unknown    | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
+| 1.2.3770.0 | ARM64        | Dogfood | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | ARM64        | Insider | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | x64          | Dogfood | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
 | 1.2.3770.0 | x64          | Insider | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
-| 1.2.3770.0 | x86          | Dogfood | Unknown    | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
-| 1.2.3770.0 | x86          | Insider | Unknown    | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
-| 1.2.3577.0 | ARM64        | Public  | Unknown    | BF61D4EF492152B522CF89B3489752D2 | RemoteDesktop_1.2.3577.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R77 |
-| 1.2.3577.0 | x64          | Public  | 10/10/2022 | CDBF8C6580953B45054ABA074B3AB023 | RemoteDesktop_1.2.3577.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE58R78 |
-| 1.2.3577.0 | x86          | Public  | 10/10/2022 | B2E15820D62DB2B983B3607371BAC83E | RemoteDesktop_1.2.3577.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE591Lx |
+| 1.2.3770.0 | x86          | Dogfood | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
+| 1.2.3770.0 | x86          | Insider | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
+| 1.2.3667.0 | ARM64        | Public  | 10/25/2022 | 29C0327B104A3E2BC4BB77E5D87D9046 | RemoteDesktop_1.2.3667.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5aCCE |
+| 1.2.3667.0 | x64          | Public  | 10/25/2022 | 25340D9486197C0C0CE1A91D4C418A76 | RemoteDesktop_1.2.3667.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvS |
+| 1.2.3667.0 | x86          | Public  | 10/25/2022 | 531A9CBB55C49DC66805508DD44E52EC | RemoteDesktop_1.2.3667.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axvR |
 
 ## MicrosoftWvdRtcService
 
@@ -4062,270 +4062,270 @@
 
 | Version | Architecture | Channel                    | Language | Type | Filename                      | URI                                                                                                                       |
 | ------- | ------------ | -------------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | af       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/af/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | af       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/af/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ar/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ar/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ast      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ast/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ast      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ast/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | be       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/be/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | be       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/be/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | bg       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/bg/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | bg       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/bg/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | br       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/br/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | br       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/br/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ca       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ca/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ca       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ca/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | cak      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/cak/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | cak      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/cak/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | cs       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/cs/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | cs       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/cs/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | cy       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/cy/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | cy       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/cy/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | da       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/da/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | da       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/da/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/de/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/de/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | dsb      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/dsb/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | dsb      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/dsb/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | el       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/el/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | el       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/el/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/en-CA/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/en-CA/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/en-GB/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/en-GB/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/en-US/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/en-US/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | es-AR    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/es-AR/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | es-AR    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/es-AR/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/es-ES/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/es-ES/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | es-MX    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/es-MX/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | es-MX    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/es-MX/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | et       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/et/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | et       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/et/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | eu       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/eu/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | eu       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/eu/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | fi       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/fi/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | fi       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/fi/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/fr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/fr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | fy-NL    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/fy-NL/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | fy-NL    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/fy-NL/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ga-IE    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ga-IE/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ga-IE    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ga-IE/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | gd       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/gd/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | gd       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/gd/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | gl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/gl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | gl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/gl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | he       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/he/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | he       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/he/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hsb      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hsb/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hsb      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hsb/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hu       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hu/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hu       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hu/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hy-AM    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hy-AM/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | hy-AM    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/hy-AM/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | id       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/id/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | id       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/id/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | is       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/is/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | is       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/is/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/it/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/it/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ja/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ja/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ka       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ka/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ka       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ka/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | kab      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/kab/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | kab      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/kab/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | kk       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/kk/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | kk       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/kk/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ko       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ko/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ko       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ko/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | lt       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/lt/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | lt       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/lt/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | lv       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/lv/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | lv       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/lv/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ms       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ms/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ms       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ms/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | nb-NO    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/nb-NO/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | nb-NO    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/nb-NO/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/nl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/nl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | nn-NO    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/nn-NO/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | nn-NO    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/nn-NO/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pa-IN    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pa-IN/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pa-IN    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pa-IN/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pt-BR/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pt-BR/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pt-PT/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/pt-PT/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | rm       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/rm/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | rm       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/rm/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ro       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ro/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ro       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ro/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ru/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/ru/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sk       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sk/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sk       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sk/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sq       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sq/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sq       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sq/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sv-SE/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/sv-SE/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | th       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/th/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | th       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/th/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | tr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/tr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | tr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/tr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | uk       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/uk/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | uk       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/uk/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | uz       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/uz/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | uz       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/uz/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | vi       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/vi/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | vi       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/vi/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/zh-CN/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/zh-CN/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/zh-TW/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win64/zh-TW/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | af       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/af/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | af       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/af/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ar/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ar/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ast      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ast/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ast      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ast/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | be       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/be/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | be       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/be/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | bg       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/bg/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | bg       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/bg/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | br       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/br/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | br       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/br/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ca       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ca/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ca       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ca/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | cak      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/cak/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | cak      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/cak/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | cs       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/cs/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | cs       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/cs/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | cy       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/cy/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | cy       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/cy/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | da       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/da/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | da       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/da/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/de/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/de/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | dsb      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/dsb/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | dsb      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/dsb/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | el       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/el/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | el       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/el/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/en-CA/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/en-CA/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/en-GB/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/en-GB/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/en-US/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/en-US/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | es-AR    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/es-AR/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | es-AR    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/es-AR/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/es-ES/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/es-ES/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | es-MX    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/es-MX/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | es-MX    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/es-MX/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | et       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/et/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | et       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/et/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | eu       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/eu/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | eu       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/eu/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | fi       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/fi/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | fi       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/fi/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/fr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/fr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | fy-NL    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/fy-NL/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | fy-NL    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/fy-NL/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ga-IE    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ga-IE/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ga-IE    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ga-IE/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | gd       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/gd/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | gd       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/gd/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | gl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/gl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | gl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/gl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | he       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/he/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | he       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/he/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hsb      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hsb/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hsb      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hsb/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hu       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hu/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hu       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hu/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hy-AM    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hy-AM/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | hy-AM    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/hy-AM/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | id       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/id/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | id       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/id/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | is       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/is/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | is       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/is/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/it/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/it/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ja/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ja/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ka       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ka/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ka       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ka/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | kab      | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/kab/Thunderbird%20Setup%20102.5.0.exe   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | kab      | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/kab/Thunderbird%20Setup%20102.5.0.msi   |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | kk       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/kk/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | kk       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/kk/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ko       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ko/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ko       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ko/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | lt       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/lt/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | lt       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/lt/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | lv       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/lv/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | lv       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/lv/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ms       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ms/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ms       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ms/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | nb-NO    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/nb-NO/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | nb-NO    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/nb-NO/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/nl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/nl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | nn-NO    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/nn-NO/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | nn-NO    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/nn-NO/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pa-IN    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pa-IN/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pa-IN    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pa-IN/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pt-BR/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pt-BR/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pt-PT/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/pt-PT/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | rm       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/rm/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | rm       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/rm/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ro       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ro/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ro       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ro/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ru/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/ru/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sk       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sk/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sk       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sk/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sl       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sl/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sl       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sl/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sq       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sq/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sq       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sq/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sv-SE/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/sv-SE/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | th       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/th/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | th       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/th/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | tr       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/tr/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | tr       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/tr/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | uk       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/uk/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | uk       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/uk/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | uz       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/uz/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | uz       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/uz/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | vi       | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/vi/Thunderbird%20Setup%20102.5.0.exe    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | vi       | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/vi/Thunderbird%20Setup%20102.5.0.msi    |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/zh-CN/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/zh-CN/Thunderbird%20Setup%20102.5.0.msi |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 102.5.0.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/zh-TW/Thunderbird%20Setup%20102.5.0.exe |
-| 102.5.0 | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 102.5.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.0/win32/zh-TW/Thunderbird%20Setup%20102.5.0.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | af       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/af/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | af       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/af/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ar/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ar/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ast      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ast/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ast      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ast/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | be       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/be/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | be       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/be/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | bg       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/bg/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | bg       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/bg/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | br       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/br/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | br       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/br/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ca       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ca/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ca       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ca/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | cak      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/cak/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | cak      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/cak/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | cs       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/cs/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | cs       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/cs/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | cy       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/cy/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | cy       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/cy/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | da       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/da/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | da       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/da/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/de/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/de/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | dsb      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/dsb/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | dsb      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/dsb/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | el       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/el/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | el       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/el/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/en-CA/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/en-CA/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/en-GB/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/en-GB/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/en-US/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/en-US/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | es-AR    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/es-AR/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | es-AR    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/es-AR/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/es-ES/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/es-ES/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | es-MX    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/es-MX/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | es-MX    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/es-MX/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | et       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/et/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | et       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/et/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | eu       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/eu/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | eu       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/eu/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | fi       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/fi/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | fi       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/fi/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/fr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/fr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | fy-NL    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/fy-NL/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | fy-NL    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/fy-NL/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ga-IE    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ga-IE/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ga-IE    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ga-IE/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | gd       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/gd/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | gd       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/gd/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | gl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/gl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | gl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/gl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | he       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/he/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | he       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/he/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hsb      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hsb/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hsb      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hsb/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hu       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hu/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hu       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hu/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hy-AM    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hy-AM/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | hy-AM    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/hy-AM/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | id       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/id/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | id       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/id/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | is       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/is/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | is       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/is/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/it/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/it/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ja/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ja/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ka       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ka/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ka       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ka/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | kab      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/kab/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | kab      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/kab/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | kk       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/kk/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | kk       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/kk/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ko       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ko/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ko       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ko/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | lt       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/lt/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | lt       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/lt/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | lv       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/lv/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | lv       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/lv/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ms       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ms/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ms       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ms/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | nb-NO    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/nb-NO/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | nb-NO    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/nb-NO/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/nl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/nl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | nn-NO    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/nn-NO/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | nn-NO    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/nn-NO/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pa-IN    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pa-IN/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pa-IN    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pa-IN/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pt-BR/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pt-BR/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pt-PT/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/pt-PT/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | rm       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/rm/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | rm       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/rm/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ro       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ro/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ro       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ro/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ru/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/ru/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sk       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sk/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sk       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sk/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sq       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sq/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sq       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sq/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sv-SE/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/sv-SE/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | th       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/th/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | th       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/th/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | tr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/tr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | tr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/tr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | uk       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/uk/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | uk       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/uk/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | uz       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/uz/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | uz       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/uz/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | vi       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/vi/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | vi       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/vi/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/zh-CN/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/zh-CN/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/zh-TW/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x64          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win64/zh-TW/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | af       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/af/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | af       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/af/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ar       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ar/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ar       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ar/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ast      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ast/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ast      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ast/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | be       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/be/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | be       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/be/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | bg       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/bg/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | bg       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/bg/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | br       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/br/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | br       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/br/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ca       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ca/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ca       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ca/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | cak      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/cak/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | cak      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/cak/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | cs       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/cs/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | cs       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/cs/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | cy       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/cy/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | cy       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/cy/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | da       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/da/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | da       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/da/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | de       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/de/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | de       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/de/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | dsb      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/dsb/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | dsb      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/dsb/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | el       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/el/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | el       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/el/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/en-CA/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | en-CA    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/en-CA/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/en-GB/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | en-GB    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/en-GB/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/en-US/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | en-US    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/en-US/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | es-AR    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/es-AR/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | es-AR    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/es-AR/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/es-ES/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | es-ES    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/es-ES/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | es-MX    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/es-MX/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | es-MX    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/es-MX/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | et       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/et/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | et       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/et/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | eu       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/eu/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | eu       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/eu/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | fi       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/fi/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | fi       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/fi/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | fr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/fr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | fr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/fr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | fy-NL    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/fy-NL/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | fy-NL    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/fy-NL/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ga-IE    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ga-IE/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ga-IE    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ga-IE/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | gd       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/gd/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | gd       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/gd/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | gl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/gl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | gl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/gl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | he       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/he/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | he       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/he/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hsb      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hsb/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hsb      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hsb/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hu       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hu/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hu       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hu/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hy-AM    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hy-AM/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | hy-AM    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/hy-AM/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | id       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/id/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | id       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/id/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | is       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/is/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | is       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/is/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | it       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/it/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | it       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/it/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ja       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ja/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ja       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ja/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ka       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ka/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ka       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ka/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | kab      | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/kab/Thunderbird%20Setup%20102.5.1.exe   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | kab      | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/kab/Thunderbird%20Setup%20102.5.1.msi   |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | kk       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/kk/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | kk       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/kk/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ko       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ko/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ko       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ko/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | lt       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/lt/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | lt       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/lt/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | lv       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/lv/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | lv       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/lv/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ms       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ms/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ms       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ms/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | nb-NO    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/nb-NO/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | nb-NO    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/nb-NO/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | nl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/nl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | nl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/nl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | nn-NO    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/nn-NO/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | nn-NO    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/nn-NO/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pa-IN    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pa-IN/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pa-IN    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pa-IN/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pt-BR/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pt-BR    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pt-BR/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pt-PT/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | pt-PT    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/pt-PT/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | rm       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/rm/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | rm       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/rm/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ro       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ro/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ro       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ro/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ru       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ru/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | ru       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/ru/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sk       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sk/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sk       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sk/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sl       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sl/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sl       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sl/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sq       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sq/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sq       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sq/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sv-SE/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | sv-SE    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/sv-SE/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | th       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/th/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | th       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/th/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | tr       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/tr/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | tr       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/tr/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | uk       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/uk/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | uk       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/uk/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | uz       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/uz/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | uz       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/uz/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | vi       | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/vi/Thunderbird%20Setup%20102.5.1.exe    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | vi       | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/vi/Thunderbird%20Setup%20102.5.1.msi    |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/zh-CN/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/zh-CN/Thunderbird%20Setup%20102.5.1.msi |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | exe  | Thunderbird Setup 102.5.1.exe | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/zh-TW/Thunderbird%20Setup%20102.5.1.exe |
+| 102.5.1 | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 102.5.1.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.5.1/win32/zh-TW/Thunderbird%20Setup%20102.5.1.msi |
 
 ## mRemoteNG
 
@@ -4882,9 +4882,9 @@
 
 [Link](https://www.signal.org/)
 
-| Version | URI                                                              |
-| ------- | ---------------------------------------------------------------- |
-| 5.63.1  | https://updates.signal.org/desktop/signal-desktop-win-5.63.1.exe |
+| Version | URI                                                             |
+| ------- | --------------------------------------------------------------- |
+| 6.0.0   | https://updates.signal.org/desktop/signal-desktop-win-6.0.0.exe |
 
 ## Slack
 
@@ -5178,14 +5178,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe     |
-| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi     |
-| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip     |
-| 3.0.16  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe |
-| 3.0.16  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi |
-| 3.0.16  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.16  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe |
+| 3.0.16  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.msi |
+| 3.0.16  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.zip |
+| 3.0.16  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.exe  |
+| 3.0.16  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.msi  |
+| 3.0.16  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.16/win32/vlc-3.0.16-win32.zip  |
 
 ## VisualCppRedistAIO
 
@@ -5235,8 +5235,8 @@
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| 12.1.5  | x64          | https://packages.vmware.com/tools/releases/12.1.5/windows/x64/VMware-tools-12.1.5-20735119-x86_64.exe |
-| 12.1.5  | x86          | https://packages.vmware.com/tools/releases/12.1.5/windows/x86/VMware-tools-12.1.5-20735119-i386.exe   |
+| 12.1.0  | x64          | https://packages.vmware.com/tools/releases/12.1.0/windows/x64/VMware-tools-12.1.0-20219665-x86_64.exe |
+| 12.1.0  | x86          | https://packages.vmware.com/tools/releases/12.1.0/windows/x86/VMware-tools-12.1.0-20219665-i386.exe   |
 
 ## VMwareWorkstationPlayer
 
