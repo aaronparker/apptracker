@@ -1,0 +1,6 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VMwareTools.json
+json/VideoLanVlcPlayer.json
