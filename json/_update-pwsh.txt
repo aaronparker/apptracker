@@ -1,0 +1,10 @@
+json/AirtameApp.json
+json/Cyberduck.json
+json/DockerDesktop.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/Tower.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
