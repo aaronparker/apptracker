@@ -1,0 +1,9 @@
+json/AirtameApp.json
+json/ChromiumChromeDriver.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/SumatraPDFReader.json
+json/VMwareTools.json
+json/VideoLanVlcPlayer.json
