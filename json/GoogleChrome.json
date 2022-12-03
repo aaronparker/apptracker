@@ -32,18 +32,18 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "108.0.5359.72",
+    "Version": "108.0.5359.95",
     "Architecture": "x64",
     "Channel": "stable",
-    "Date": "11/29/2022",
+    "Date": "12/02/2022",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "108.0.5359.72",
+    "Version": "108.0.5359.95",
     "Architecture": "x86",
     "Channel": "stable",
-    "Date": "11/29/2022",
+    "Date": "12/02/2022",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   }
