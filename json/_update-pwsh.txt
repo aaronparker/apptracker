@@ -1,4 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
