@@ -1,5 +1,21 @@
 [
   {
+    "Version": "110.0.5449.3",
+    "Architecture": "x64",
+    "Channel": "dev",
+    "Date": "12/05/2022",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "110.0.5449.3",
+    "Architecture": "x86",
+    "Channel": "dev",
+    "Date": "12/05/2022",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
+  },
+  {
     "Version": "109.0.5414.25",
     "Architecture": "x64",
     "Channel": "beta",
@@ -9,27 +25,11 @@
   },
   {
     "Version": "109.0.5414.25",
-    "Architecture": "x64",
-    "Channel": "dev",
-    "Date": "11/30/2022",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
-  },
-  {
-    "Version": "109.0.5414.25",
     "Architecture": "x86",
     "Channel": "beta",
     "Date": "12/01/2022",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "109.0.5414.25",
-    "Architecture": "x86",
-    "Channel": "dev",
-    "Date": "11/30/2022",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "108.0.5359.95",
