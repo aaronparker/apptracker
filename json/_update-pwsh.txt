@@ -1,8 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/ImageMagickStudioImageMagick.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
-json/dbeaver.json
-json/dnGrep.json
-json/jrsoftwareInnoSetup.json
