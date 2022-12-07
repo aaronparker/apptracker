@@ -1,9 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OpenLens.json
-json/OperaGXBrowser.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
