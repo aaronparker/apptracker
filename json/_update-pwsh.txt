@@ -1,7 +1,0 @@
-json/Cyberduck.json
-json/FreeFem.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
