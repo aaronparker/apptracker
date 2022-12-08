@@ -96,22 +96,6 @@
     "URI": "https://oneclient.sfx.ms/Win/Prod/22.238.1114.0002/OneDriveSetup.exe"
   },
   {
-    "Version": "22.232.1106.0002",
-    "Architecture": "AMD64",
-    "Ring": "Production",
-    "Sha256": "byLhEcZkECR86ueNanygUEvz/Yx4wICt9QRG2+gRLSQ=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "22.232.1106.0002",
-    "Architecture": "x86",
-    "Ring": "Production",
-    "Sha256": "rC9jv+5CtFSo27wAaYrFqsQ87M9CxzqJVddlsR3X3Yw=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/OneDriveSetup.exe"
-  },
-  {
     "Version": "22.227.1030.0001",
     "Architecture": "AMD64",
     "Ring": "Production",
