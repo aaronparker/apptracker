@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "Date": "11/25/2022",
-    "Size": 55185320,
+    "Size": 55193168,
     "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.7.0/OpenWebStart_windows-x64_1_7_0.exe"
   },
   {
@@ -14,7 +14,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "Date": "11/25/2022",
-    "Size": 55797160,
+    "Size": 55805520,
     "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.7.0/OpenWebStart_windows-x32_1_7_0.exe"
   }
 ]
