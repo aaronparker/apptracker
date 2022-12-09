@@ -1,6 +1,0 @@
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/ZorgmailVeiligVerzendenAddin.json
-json/jrsoftwareInnoSetup.json
