@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -395,7 +395,7 @@
 
 | Version | Type | URI                                             |
 | ------- | ---- | ----------------------------------------------- |
-| 2.9.5   | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.9.5.msi |
+| 2.9.6   | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.9.6.msi |
 
 ## AWSSAMCLI
 
@@ -1203,7 +1203,7 @@
 
 | Version | URI                                           |
 | ------- | --------------------------------------------- |
-| 1.79.2  | https://fork.dev/update/win/ForkInstaller.exe |
+| 1.80.0  | https://fork.dev/update/win/ForkInstaller.exe |
 
 ## FoxitPDFEditor
 
@@ -1421,8 +1421,8 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 0.11.1  | zip  | x64          | https://releases.hashicorp.com/boundary/0.11.1/boundary_0.11.1_windows_amd64.zip |
-| 0.11.1  | zip  | x86          | https://releases.hashicorp.com/boundary/0.11.1/boundary_0.11.1_windows_386.zip   |
+| 0.11.2  | zip  | x64          | https://releases.hashicorp.com/boundary/0.11.2/boundary_0.11.2_windows_amd64.zip |
+| 0.11.2  | zip  | x86          | https://releases.hashicorp.com/boundary/0.11.2/boundary_0.11.2_windows_386.zip   |
 
 ## HashicorpConsul
 
@@ -1856,18 +1856,18 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.254.1205.0001 | AMD64        | InternalFast | UbLim6JpV5xByOLrqnNV4Dhmj8IfdEMdOYBfW/biZ0c= | exe  | https://oneclient.sfx.ms/Win/Installers/22.254.1205.0001/amd64/OneDriveSetup.exe |
-| 22.254.1205.0001 | x86          | InternalFast | O7wszV3roae2fwCghiwvXV88z3k5oixE6IlV6DYFaPk= | exe  | https://oneclient.sfx.ms/Win/Installers/22.254.1205.0001/OneDriveSetup.exe       |
+| 22.257.1208.0001 | AMD64        | InternalFast | CY8VXSugmCxFqa6yGfjO0fh+XCn7Fw02MRNqmJzTQ3M= | exe  | https://oneclient.sfx.ms/Win/Installers/22.257.1208.0001/amd64/OneDriveSetup.exe |
+| 22.257.1208.0001 | x86          | InternalFast | OArFC3G6/hbLMi3htC4RXqi3A1A46OuaIj/tw247jro= | exe  | https://oneclient.sfx.ms/Win/Installers/22.257.1208.0001/OneDriveSetup.exe       |
 | 22.253.1204.0001 | AMD64        | InternalSlow | gzXJi8ysTlWCzZ2NcWP5WwCWAheVW0zVdPN6UY+ZydU= | exe  | https://oneclient.sfx.ms/Win/Installers/22.253.1204.0001/amd64/OneDriveSetup.exe |
 | 22.253.1204.0001 | x86          | InternalSlow | DpD2d+qM3paKo/64yCmmSth1k1mcBdgPhOVGHCQGQCI= | exe  | https://oneclient.sfx.ms/Win/Installers/22.253.1204.0001/OneDriveSetup.exe       |
 | 22.248.1127.0001 | AMD64        | Insider      | CIprYodOKm+SJIYLQeoXR4631s6ZtY0r0J8sTMfQKLM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.248.1127.0001/amd64/OneDriveSetup.exe   |
+| 22.248.1127.0001 | AMD64        | Production   | CIprYodOKm+SJIYLQeoXR4631s6ZtY0r0J8sTMfQKLM= | exe  | https://oneclient.sfx.ms/Win/Prod/22.248.1127.0001/amd64/OneDriveSetup.exe       |
 | 22.248.1127.0001 | x86          | Insider      | 893BRhK0GiIi9dulEMgK+w6Cp0suhjs2y+aT2nTHr8Y= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.248.1127.0001/OneDriveSetup.exe         |
+| 22.248.1127.0001 | x86          | Production   | 893BRhK0GiIi9dulEMgK+w6Cp0suhjs2y+aT2nTHr8Y= | exe  | https://oneclient.sfx.ms/Win/Prod/22.248.1127.0001/OneDriveSetup.exe             |
 | 22.238.1114.0002 | AMD64        | Production   | t9k2aa0KwIS3+33lowaH3ZDOqPsRZxdXu5KlVd1kUxc= | exe  | https://oneclient.sfx.ms/Win/Prod/22.238.1114.0002/amd64/OneDriveSetup.exe       |
 | 22.238.1114.0002 | x86          | Production   | fltDOAWGKud27n91qOsKOgDCYGJTqCIsUPsF6m++XF8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.238.1114.0002/OneDriveSetup.exe             |
 | 22.232.1106.0002 | AMD64        | Production   | byLhEcZkECR86ueNanygUEvz/Yx4wICt9QRG2+gRLSQ= | exe  | https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/amd64/OneDriveSetup.exe       |
 | 22.232.1106.0002 | x86          | Production   | rC9jv+5CtFSo27wAaYrFqsQ87M9CxzqJVddlsR3X3Yw= | exe  | https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/OneDriveSetup.exe             |
-| 22.227.1030.0001 | AMD64        | Production   | RKjYd3ICdEv2EUr+7X2HFL3Lnq5X9GuGrsoCl/drCgE= | exe  | https://oneclient.sfx.ms/Win/Prod/22.227.1030.0001/amd64/OneDriveSetup.exe       |
-| 22.227.1030.0001 | x86          | Production   | iThFgpurBSkA7xzbNkHM4aI9ohrauWLWpyreHWmSuY0= | exe  | https://oneclient.sfx.ms/Win/Prod/22.227.1030.0001/OneDriveSetup.exe             |
 | 22.131.0619.0001 | AMD64        | Enterprise   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/amd64/OneDriveSetup.exe |
 | 22.131.0619.0001 | x86          | Enterprise   | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/OneDriveSetup.exe       |
 
@@ -4636,12 +4636,12 @@
 
 | Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
 | -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 18.0.195 | x64          | unstable | 10       | 7483d6b9cf9ac9e20befa6cd08123061f358e9dd27ed3985411949ae282d6107 | https://packages.chef.io/files/unstable/chef/18.0.195/windows/10/chef-client-18.0.195-1-x64.msi     |
-| 18.0.195 | x64          | unstable | 11       | 7483d6b9cf9ac9e20befa6cd08123061f358e9dd27ed3985411949ae282d6107 | https://packages.chef.io/files/unstable/chef/18.0.195/windows/11/chef-client-18.0.195-1-x64.msi     |
-| 18.0.195 | x64          | unstable | 2012r2   | 7483d6b9cf9ac9e20befa6cd08123061f358e9dd27ed3985411949ae282d6107 | https://packages.chef.io/files/unstable/chef/18.0.195/windows/2012r2/chef-client-18.0.195-1-x64.msi |
-| 18.0.195 | x64          | unstable | 2016     | 7483d6b9cf9ac9e20befa6cd08123061f358e9dd27ed3985411949ae282d6107 | https://packages.chef.io/files/unstable/chef/18.0.195/windows/2016/chef-client-18.0.195-1-x64.msi   |
-| 18.0.195 | x64          | unstable | 2019     | 7483d6b9cf9ac9e20befa6cd08123061f358e9dd27ed3985411949ae282d6107 | https://packages.chef.io/files/unstable/chef/18.0.195/windows/2019/chef-client-18.0.195-1-x64.msi   |
-| 18.0.195 | x64          | unstable | 2022     | 7483d6b9cf9ac9e20befa6cd08123061f358e9dd27ed3985411949ae282d6107 | https://packages.chef.io/files/unstable/chef/18.0.195/windows/2022/chef-client-18.0.195-1-x64.msi   |
+| 18.0.196 | x64          | unstable | 10       | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/unstable/chef/18.0.196/windows/10/chef-client-18.0.196-1-x64.msi     |
+| 18.0.196 | x64          | unstable | 11       | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/unstable/chef/18.0.196/windows/11/chef-client-18.0.196-1-x64.msi     |
+| 18.0.196 | x64          | unstable | 2012r2   | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/unstable/chef/18.0.196/windows/2012r2/chef-client-18.0.196-1-x64.msi |
+| 18.0.196 | x64          | unstable | 2016     | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/unstable/chef/18.0.196/windows/2016/chef-client-18.0.196-1-x64.msi   |
+| 18.0.196 | x64          | unstable | 2019     | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/unstable/chef/18.0.196/windows/2019/chef-client-18.0.196-1-x64.msi   |
+| 18.0.196 | x64          | unstable | 2022     | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/unstable/chef/18.0.196/windows/2022/chef-client-18.0.196-1-x64.msi   |
 | 18.0.185 | x64          | current  | 10       | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/current/chef/18.0.185/windows/10/chef-client-18.0.185-1-x64.msi      |
 | 18.0.185 | x64          | current  | 11       | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/current/chef/18.0.185/windows/11/chef-client-18.0.185-1-x64.msi      |
 | 18.0.185 | x64          | current  | 2012r2   | 189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b | https://packages.chef.io/files/current/chef/18.0.185/windows/2012r2/chef-client-18.0.185-1-x64.msi  |
@@ -4935,8 +4935,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -5106,14 +5106,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.exe                       |
-| 3.0.18  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.msi                       |
-| 3.0.18  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.zip                       |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
+| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
+| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5280,8 +5280,8 @@
 | 5.12.7.2172  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.7.2172/x64/zoomrooms-5.12.7.2172-x64.msi |
 | 5.12.7.2172  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.7.2172/zoomrooms-5.12.7.2172-x86.exe     |
 | 5.12.7.2172  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.7.2172/zoomrooms-5.12.7.2172-x86.msi     |
-| 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
