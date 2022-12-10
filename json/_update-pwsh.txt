@@ -1,0 +1,10 @@
+json/1Password.json
+json/AWSCLI.json
+json/AirtameApp.json
+json/Fork.json
+json/HashicorpBoundary.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
