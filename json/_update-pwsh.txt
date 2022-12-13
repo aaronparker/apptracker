@@ -1,0 +1,11 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/ProgressChefInfraClient.json
+json/SumatraPDFReader.json
+json/TrackerSoftwarePDFXChangeEditor.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
