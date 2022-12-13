@@ -1,0 +1,14 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/GitForWindows.json
+json/HashicorpPacker.json
+json/ImageMagickStudioImageMagick.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MirantisLens.json
+json/ProgressChefInfraClient.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
