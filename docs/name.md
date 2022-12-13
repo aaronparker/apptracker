@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1310,9 +1310,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1329,16 +1329,16 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2.38.1  | Windows  | x64          | exe  | 10/07/2022 | 53360624 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe                         |
-| 2.38.1  | Windows  | x64          | exe  | 10/07/2022 | 48639184 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/PortableGit-2.38.1-64-bit.7z.exe              |
-| 2.38.1  | Windows  | x64          | zip  | 10/07/2022 | 29574587 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/MinGit-2.38.1-64-bit.zip                      |
-| 2.38.1  | Windows  | x64          | zip  | 10/07/2022 | 26492923 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/MinGit-2.38.1-busybox-64-bit.zip              |
-| 2.38.1  | Windows  | x64          | zip  | 10/07/2022 | 15692018 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/pdbs-for-git-64-bit-2.38.1.1.b85c8f604d-1.zip |
-| 2.38.1  | Windows  | x86          | exe  | 10/07/2022 | 53755728 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-32-bit.exe                         |
-| 2.38.1  | Windows  | x86          | exe  | 10/07/2022 | 49490360 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/PortableGit-2.38.1-32-bit.7z.exe              |
-| 2.38.1  | Windows  | x86          | zip  | 10/07/2022 | 31328040 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/MinGit-2.38.1-32-bit.zip                      |
-| 2.38.1  | Windows  | x86          | zip  | 10/07/2022 | 25183935 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/MinGit-2.38.1-busybox-32-bit.zip              |
-| 2.38.1  | Windows  | x86          | zip  | 10/07/2022 | 17766459 | https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/pdbs-for-git-32-bit-2.38.1.1.b85c8f604d-1.zip |
+| 2.39.0  | Windows  | x64          | exe  | 12/12/2022 | 52866496 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/Git-2.39.0-64-bit.exe                         |
+| 2.39.0  | Windows  | x64          | exe  | 12/12/2022 | 48281056 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/PortableGit-2.39.0-64-bit.7z.exe              |
+| 2.39.0  | Windows  | x64          | zip  | 12/12/2022 | 29136645 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-64-bit.zip                      |
+| 2.39.0  | Windows  | x64          | zip  | 12/12/2022 | 26050728 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-busybox-64-bit.zip              |
+| 2.39.0  | Windows  | x64          | zip  | 12/12/2022 | 15720774 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/pdbs-for-git-64-bit-2.39.0.1.de9501c66f-1.zip |
+| 2.39.0  | Windows  | x86          | exe  | 12/12/2022 | 53042760 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/Git-2.39.0-32-bit.exe                         |
+| 2.39.0  | Windows  | x86          | exe  | 12/12/2022 | 48849960 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/PortableGit-2.39.0-32-bit.7z.exe              |
+| 2.39.0  | Windows  | x86          | zip  | 12/12/2022 | 30629655 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-32-bit.zip                      |
+| 2.39.0  | Windows  | x86          | zip  | 12/12/2022 | 24470380 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-busybox-32-bit.zip              |
+| 2.39.0  | Windows  | x86          | zip  | 12/12/2022 | 17790238 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/pdbs-for-git-32-bit-2.39.0.1.de9501c66f-1.zip |
 
 ## GitHubAtom
 
@@ -1448,8 +1448,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.8.4   | zip  | x64          | https://releases.hashicorp.com/packer/1.8.4/packer_1.8.4_windows_amd64.zip |
-| 1.8.4   | zip  | x86          | https://releases.hashicorp.com/packer/1.8.4/packer_1.8.4_windows_386.zip   |
+| 1.8.5   | zip  | x64          | https://releases.hashicorp.com/packer/1.8.5/packer_1.8.5_windows_amd64.zip |
+| 1.8.5   | zip  | x86          | https://releases.hashicorp.com/packer/1.8.5/packer_1.8.5_windows_386.zip   |
 
 ## HashicorpTerraform
 
@@ -1493,7 +1493,7 @@
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| 7.1.0-53 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-53-Q16-HDRI-x64-dll.exe |
+| 7.1.0-54 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-54-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -1725,7 +1725,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.15929.20006 | BetaChannel       | Beta                                  | 12/06/2022 18:36:14 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15928.20066 | CurrentPreview    | Current Channel (Preview)             | 12/08/2022 22:56:25 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15928.20098 | CurrentPreview    | Current Channel (Preview)             | 12/12/2022 18:44:23 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15831.20190 | Current           | Current Channel                       | 12/06/2022 18:20:50 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15629.20258 | MonthlyEnterprise | Monthly Enterprise                    | 11/08/2022 09:05:24 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20286 | SemiAnnualPreview | Semi-Annual Channel Preview           | 11/08/2022 14:38:26 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1739,8 +1739,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.41.0  | win32-x64      | Insider | c733d7b794ef94ca3eab5d22de89b21ccdd5b03170686251283b59b1037c5612 | https://sqlopsbuilds.azureedge.net/insider/17b41ae3d7a5ec7f704a2655cbf77f85f7681400/azuredatastudio-windows-setup-1.41.0-insider.exe      |
-| 1.41.0  | win32-x64-user | Insider | b27d24af0cea72d2aeac879c03011ba6e912d3f29295b8ecd36d18574304187e | https://sqlopsbuilds.azureedge.net/insider/17b41ae3d7a5ec7f704a2655cbf77f85f7681400/azuredatastudio-windows-user-setup-1.41.0-insider.exe |
+| 1.41.0  | win32-x64      | Insider | c7f5e3d091f12e7345df335823d19fd9502cd9d2e148366367773302718b0f53 | https://sqlopsbuilds.azureedge.net/insider/5a6db7def1bed26bd4a008ff1ff36efad1fa587b/azuredatastudio-windows-setup-1.41.0-insider.exe      |
+| 1.41.0  | win32-x64-user | Insider | e433b8695ac90c8e92fb72afa864122803af1affdb87da7ee040db49e1803b09 | https://sqlopsbuilds.azureedge.net/insider/5a6db7def1bed26bd4a008ff1ff36efad1fa587b/azuredatastudio-windows-user-setup-1.41.0-insider.exe |
 | 1.40.1  | win32-x64      | Stable  | eea2dad78606380c2c3cf1b16940375869979ae93ed0f2fc340178d4ab44d417 | https://sqlopsbuilds.azureedge.net/stable/3a32679ab590c1023ab4de6f191769e7e127d25b/azuredatastudio-windows-setup-1.40.1.exe               |
 | 1.40.1  | win32-x64-user | Stable  | 572c9d64dc757f9dc58a96d18bb73f1e9331201879ac040dc96d19817ead51b0 | https://sqlopsbuilds.azureedge.net/stable/3a32679ab590c1023ab4de6f191769e7e127d25b/azuredatastudio-windows-user-setup-1.40.1.exe          |
 
@@ -1856,9 +1856,11 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 22.257.1208.0001 | AMD64        | InternalFast | CY8VXSugmCxFqa6yGfjO0fh+XCn7Fw02MRNqmJzTQ3M= | exe  | https://oneclient.sfx.ms/Win/Installers/22.257.1208.0001/amd64/OneDriveSetup.exe |
-| 22.257.1208.0001 | x86          | InternalFast | OArFC3G6/hbLMi3htC4RXqi3A1A46OuaIj/tw247jro= | exe  | https://oneclient.sfx.ms/Win/Installers/22.257.1208.0001/OneDriveSetup.exe       |
+| 22.258.1211.0001 | AMD64        | InternalFast | JEnZBHfRIfcMEasjiaJltE+NB6lmAmbsSmqwHn5A7vc= | exe  | https://oneclient.sfx.ms/Win/Installers/22.258.1211.0001/amd64/OneDriveSetup.exe |
+| 22.258.1211.0001 | x86          | InternalFast | RzxQGem3LCZRiMpaibcpyQ31X2C0/yQw4ZQJB/d1CYo= | exe  | https://oneclient.sfx.ms/Win/Installers/22.258.1211.0001/OneDriveSetup.exe       |
+| 22.253.1204.0001 | AMD64        | Insider      | gzXJi8ysTlWCzZ2NcWP5WwCWAheVW0zVdPN6UY+ZydU= | exe  | https://oneclient.sfx.ms/Win/Installers/22.253.1204.0001/amd64/OneDriveSetup.exe |
 | 22.253.1204.0001 | AMD64        | InternalSlow | gzXJi8ysTlWCzZ2NcWP5WwCWAheVW0zVdPN6UY+ZydU= | exe  | https://oneclient.sfx.ms/Win/Installers/22.253.1204.0001/amd64/OneDriveSetup.exe |
+| 22.253.1204.0001 | x86          | Insider      | DpD2d+qM3paKo/64yCmmSth1k1mcBdgPhOVGHCQGQCI= | exe  | https://oneclient.sfx.ms/Win/Installers/22.253.1204.0001/OneDriveSetup.exe       |
 | 22.253.1204.0001 | x86          | InternalSlow | DpD2d+qM3paKo/64yCmmSth1k1mcBdgPhOVGHCQGQCI= | exe  | https://oneclient.sfx.ms/Win/Installers/22.253.1204.0001/OneDriveSetup.exe       |
 | 22.248.1127.0001 | AMD64        | Insider      | CIprYodOKm+SJIYLQeoXR4631s6ZtY0r0J8sTMfQKLM= | exe  | https://oneclient.sfx.ms/Win/Insiders/22.248.1127.0001/amd64/OneDriveSetup.exe   |
 | 22.248.1127.0001 | AMD64        | Production   | CIprYodOKm+SJIYLQeoXR4631s6ZtY0r0J8sTMfQKLM= | exe  | https://oneclient.sfx.ms/Win/Prod/22.248.1127.0001/amd64/OneDriveSetup.exe       |
@@ -1866,8 +1868,6 @@
 | 22.248.1127.0001 | x86          | Production   | 893BRhK0GiIi9dulEMgK+w6Cp0suhjs2y+aT2nTHr8Y= | exe  | https://oneclient.sfx.ms/Win/Prod/22.248.1127.0001/OneDriveSetup.exe             |
 | 22.238.1114.0002 | AMD64        | Production   | t9k2aa0KwIS3+33lowaH3ZDOqPsRZxdXu5KlVd1kUxc= | exe  | https://oneclient.sfx.ms/Win/Prod/22.238.1114.0002/amd64/OneDriveSetup.exe       |
 | 22.238.1114.0002 | x86          | Production   | fltDOAWGKud27n91qOsKOgDCYGJTqCIsUPsF6m++XF8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.238.1114.0002/OneDriveSetup.exe             |
-| 22.232.1106.0002 | AMD64        | Production   | byLhEcZkECR86ueNanygUEvz/Yx4wICt9QRG2+gRLSQ= | exe  | https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/amd64/OneDriveSetup.exe       |
-| 22.232.1106.0002 | x86          | Production   | rC9jv+5CtFSo27wAaYrFqsQ87M9CxzqJVddlsR3X3Yw= | exe  | https://oneclient.sfx.ms/Win/Prod/22.232.1106.0002/OneDriveSetup.exe             |
 | 22.131.0619.0001 | AMD64        | Enterprise   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/amd64/OneDriveSetup.exe |
 | 22.131.0619.0001 | x86          | Enterprise   | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/OneDriveSetup.exe       |
 
@@ -2100,10 +2100,10 @@
 
 [Link](https://k8slens.dev/)
 
-| Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
-| -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2022.11.291933-alpha | x64          | Alpha   | 11/29/2022 20:05:35 | 371321264 | K16sBxUvd9QkTIu3Uj6sI+w2FofpqaN3W699SRH3wrOLouxBtbzkL4ZT1uNd1fn2/Iw+UdJQcDHbyMRTfmhnVw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.11.291933-alpha.exe |
-| 2022.12.11410-latest | x64          | Stable  | 12/01/2022 14:34:12 | 371367752 | WdWk7XdKCMIIdNdAcAEllhNoEcNyHgFACYJq/mYAJLpK1A6+3I6pIosl0NH1bKNXXKnCp+UIE9nbXB1du3ed5w== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.12.11410-latest.exe |
+| Version               | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                        |
+| --------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2022.11.291933-alpha  | x64          | Alpha   | 11/29/2022 20:05:35 | 371321264 | K16sBxUvd9QkTIu3Uj6sI+w2FofpqaN3W699SRH3wrOLouxBtbzkL4ZT1uNd1fn2/Iw+UdJQcDHbyMRTfmhnVw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.11.291933-alpha.exe  |
+| 2022.12.121519-latest | x64          | Stable  | 12/12/2022 15:43:03 | 371387072 | olHE8a8sBTzbJg8fTmJO6glnXxDbKey3fO99q/oUWZ35OfwzeWADvkoR+ac1wv+Jf5ySF8PNzrByjs5561enLg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.12.121519-latest.exe |
 
 ## MozillaFirefox
 
@@ -4636,12 +4636,12 @@
 
 | Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
 | -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 18.0.197 | x64          | unstable | 10       | 9b5a658b2ece799c249ff459901a47ce8f9ad1601327108d6a16e3c2f25831b2 | https://packages.chef.io/files/unstable/chef/18.0.197/windows/10/chef-client-18.0.197-1-x64.msi     |
-| 18.0.197 | x64          | unstable | 11       | 9b5a658b2ece799c249ff459901a47ce8f9ad1601327108d6a16e3c2f25831b2 | https://packages.chef.io/files/unstable/chef/18.0.197/windows/11/chef-client-18.0.197-1-x64.msi     |
-| 18.0.197 | x64          | unstable | 2012r2   | 9b5a658b2ece799c249ff459901a47ce8f9ad1601327108d6a16e3c2f25831b2 | https://packages.chef.io/files/unstable/chef/18.0.197/windows/2012r2/chef-client-18.0.197-1-x64.msi |
-| 18.0.197 | x64          | unstable | 2016     | 9b5a658b2ece799c249ff459901a47ce8f9ad1601327108d6a16e3c2f25831b2 | https://packages.chef.io/files/unstable/chef/18.0.197/windows/2016/chef-client-18.0.197-1-x64.msi   |
-| 18.0.197 | x64          | unstable | 2019     | 9b5a658b2ece799c249ff459901a47ce8f9ad1601327108d6a16e3c2f25831b2 | https://packages.chef.io/files/unstable/chef/18.0.197/windows/2019/chef-client-18.0.197-1-x64.msi   |
-| 18.0.197 | x64          | unstable | 2022     | 9b5a658b2ece799c249ff459901a47ce8f9ad1601327108d6a16e3c2f25831b2 | https://packages.chef.io/files/unstable/chef/18.0.197/windows/2022/chef-client-18.0.197-1-x64.msi   |
+| 18.0.198 | x64          | unstable | 10       | 21bb6a7fd53464177798b10c9b8cc825aadd66d8a34c7948734b88a7e76b7681 | https://packages.chef.io/files/unstable/chef/18.0.198/windows/10/chef-client-18.0.198-1-x64.msi     |
+| 18.0.198 | x64          | unstable | 11       | 21bb6a7fd53464177798b10c9b8cc825aadd66d8a34c7948734b88a7e76b7681 | https://packages.chef.io/files/unstable/chef/18.0.198/windows/11/chef-client-18.0.198-1-x64.msi     |
+| 18.0.198 | x64          | unstable | 2012r2   | 21bb6a7fd53464177798b10c9b8cc825aadd66d8a34c7948734b88a7e76b7681 | https://packages.chef.io/files/unstable/chef/18.0.198/windows/2012r2/chef-client-18.0.198-1-x64.msi |
+| 18.0.198 | x64          | unstable | 2016     | 21bb6a7fd53464177798b10c9b8cc825aadd66d8a34c7948734b88a7e76b7681 | https://packages.chef.io/files/unstable/chef/18.0.198/windows/2016/chef-client-18.0.198-1-x64.msi   |
+| 18.0.198 | x64          | unstable | 2019     | 21bb6a7fd53464177798b10c9b8cc825aadd66d8a34c7948734b88a7e76b7681 | https://packages.chef.io/files/unstable/chef/18.0.198/windows/2019/chef-client-18.0.198-1-x64.msi   |
+| 18.0.198 | x64          | unstable | 2022     | 21bb6a7fd53464177798b10c9b8cc825aadd66d8a34c7948734b88a7e76b7681 | https://packages.chef.io/files/unstable/chef/18.0.198/windows/2022/chef-client-18.0.198-1-x64.msi   |
 | 18.0.196 | x64          | current  | 10       | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/current/chef/18.0.196/windows/10/chef-client-18.0.196-1-x64.msi      |
 | 18.0.196 | x64          | current  | 11       | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/current/chef/18.0.196/windows/11/chef-client-18.0.196-1-x64.msi      |
 | 18.0.196 | x64          | current  | 2012r2   | b2bbc47e479c4ea94c3a3194b6521f871c294848a54f0943db5d0a312551d9aa | https://packages.chef.io/files/current/chef/18.0.196/windows/2012r2/chef-client-18.0.196-1-x64.msi  |
@@ -4935,8 +4935,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
-| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
+| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
+| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
 
 ## TableauDesktop
 
@@ -5106,14 +5106,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                          |
-| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe             |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi             |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip             |
 
 ## VisualCppRedistAIO
 
@@ -5280,8 +5280,8 @@
 | 5.12.7.2172  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.7.2172/x64/zoomrooms-5.12.7.2172-x64.msi |
 | 5.12.7.2172  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.7.2172/zoomrooms-5.12.7.2172-x86.exe     |
 | 5.12.7.2172  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.7.2172/zoomrooms-5.12.7.2172-x86.msi     |
-| 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
