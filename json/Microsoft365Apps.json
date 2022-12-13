@@ -14,38 +14,38 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15831.20190",
+    "Version": "16.0.15831.20208",
     "Channel": "Current",
     "Name": "Current Channel",
-    "Date": "2022-12-06T18:20:50.753Z",
+    "Date": "2022-12-13T10:03:35.857Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15629.20258",
+    "Version": "16.0.15726.20262",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise",
-    "Date": "2022-11-08T09:05:24.95Z",
+    "Date": "2022-12-13T10:01:13.853Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15601.20286",
+    "Version": "16.0.15601.20378",
     "Channel": "SemiAnnualPreview",
     "Name": "Semi-Annual Channel Preview",
-    "Date": "2022-11-08T14:38:26Z",
+    "Date": "2022-12-13T09:18:30.457Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14931.20806",
+    "Version": "16.0.14931.20858",
     "Channel": "SemiAnnual",
     "Name": "Semi-Annual Channel",
-    "Date": "2022-11-08T08:55:37.023Z",
+    "Date": "2022-12-13T10:05:39.923Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14332.20416",
+    "Version": "16.0.14332.20435",
     "Channel": "PerpetualVL2021",
     "Name": "Office LTSC 2021 Perpetual Enterprise",
-    "Date": "2022-11-08T14:24:51.753Z",
+    "Date": "2022-12-13T15:31:16.213Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
