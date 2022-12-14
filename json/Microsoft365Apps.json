@@ -1,9 +1,9 @@
 [
   {
-    "Version": "16.0.15929.20006",
+    "Version": "16.0.16012.20000",
     "Channel": "BetaChannel",
     "Name": "Beta",
-    "Date": "2022-12-06T18:36:14.457Z",
+    "Date": "2022-12-13T20:41:48.63Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
@@ -45,14 +45,14 @@
     "Version": "16.0.14332.20435",
     "Channel": "PerpetualVL2021",
     "Name": "Office LTSC 2021 Perpetual Enterprise",
-    "Date": "2022-12-13T15:31:16.213Z",
+    "Date": "2022-12-13T15:59:38.19Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10392.20029",
+    "Version": "16.0.10393.20026",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "2022-11-08T14:25:50.923Z",
+    "Date": "2022-12-13T21:53:45.297Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }
 ]
