@@ -1,0 +1,14 @@
+json/1Password.json
+json/AtlassianSourcetree.json
+json/GeekSoftwarePDF24Creator.json
+json/Gimp.json
+json/HashicorpConsul.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MuseScore.json
+json/OperaBrowser.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/XnSoftXnConvert.json
+json/XnSoftXnViewMP.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

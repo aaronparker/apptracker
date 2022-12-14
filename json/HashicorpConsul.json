@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.12.8",
+    "Version": "1.14.2",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/consul/1.12.8/consul_1.12.8_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/consul/1.14.2/consul_1.14.2_windows_amd64.zip"
   },
   {
-    "Version": "1.12.8",
+    "Version": "1.14.2",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/consul/1.12.8/consul_1.12.8_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/consul/1.14.2/consul_1.14.2_windows_386.zip"
   }
 ]
