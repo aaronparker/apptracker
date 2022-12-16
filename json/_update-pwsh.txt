@@ -1,8 +1,0 @@
-json/Anki.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MirantisLens.json
-json/PiriformCCleanerFree.json
-json/TorProjectTorBrowser.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
