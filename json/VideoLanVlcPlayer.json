@@ -25,20 +25,20 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "EXE",
-    "URI": "https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe"
+    "URI": "https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "MSI",
-    "URI": "https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi"
+    "URI": "https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "ZIP",
-    "URI": "https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip"
+    "URI": "https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip"
   }
 ]
