@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -1310,9 +1310,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1560,9 +1560,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1807,12 +1807,12 @@
 | 109.0.1518.23 | Windows  | Beta       | Enterprise | x64          | DADAC7B73C6132A94E3AA995959B18B82605235137D0B88D1B1804CBDFDBE883 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2895efda-6097-429b-af4d-9b20c1baa8ab/MicrosoftEdgeBetaEnterpriseX64.msi          |
 | 109.0.1518.23 | Windows  | Beta       | Consumer   | x86          | 7972B496BA8EED5F0658853896A8526BB617CDA2C3585889FB5FB01F34C251EA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c797a7d7-79b7-4481-bf83-2d60d9d06a1e/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 109.0.1518.23 | Windows  | Beta       | Enterprise | x86          | 7972B496BA8EED5F0658853896A8526BB617CDA2C3585889FB5FB01F34C251EA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c797a7d7-79b7-4481-bf83-2d60d9d06a1e/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 108.0.1462.46 | Windows  | Stable     | Consumer   | arm64        | 4BE05D2AA0DB26FCC0FF3324EB873A1FBED015D5B577D029F16309218693155D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/06c47f42-44ed-4b70-94e6-0fd88a77ecb5/MicrosoftEdgeEnterpriseARM64.msi            |
-| 108.0.1462.46 | Windows  | Stable     | Enterprise | arm64        | 4BE05D2AA0DB26FCC0FF3324EB873A1FBED015D5B577D029F16309218693155D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/06c47f42-44ed-4b70-94e6-0fd88a77ecb5/MicrosoftEdgeEnterpriseARM64.msi            |
-| 108.0.1462.46 | Windows  | Stable     | Consumer   | x64          | F4DAEE95993E71D517842DDEED60061710ACCC8D9E39232C6F4B51A0551E56FF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a5ae4c6-1967-4a5e-923a-d7d6dd438b2a/MicrosoftEdgeEnterpriseX64.msi              |
-| 108.0.1462.46 | Windows  | Stable     | Enterprise | x64          | F4DAEE95993E71D517842DDEED60061710ACCC8D9E39232C6F4B51A0551E56FF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a5ae4c6-1967-4a5e-923a-d7d6dd438b2a/MicrosoftEdgeEnterpriseX64.msi              |
-| 108.0.1462.46 | Windows  | Stable     | Consumer   | x86          | CE840C8FEE7DA5C1031A5CDC8CA81460C8C2E099EA31B529B662C5407A300542 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fe2ac2cf-1772-44f2-8eae-745a8b2125c4/MicrosoftEdgeEnterpriseX86.msi              |
-| 108.0.1462.46 | Windows  | Stable     | Enterprise | x86          | CE840C8FEE7DA5C1031A5CDC8CA81460C8C2E099EA31B529B662C5407A300542 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fe2ac2cf-1772-44f2-8eae-745a8b2125c4/MicrosoftEdgeEnterpriseX86.msi              |
+| 108.0.1462.54 | Windows  | Stable     | Consumer   | arm64        | D64116BB234CF71F59F44887774B6A101E8BE018E20FD31C03394E413156F335 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e8675b4-4388-4945-9898-18ee64bd2189/MicrosoftEdgeEnterpriseARM64.msi            |
+| 108.0.1462.54 | Windows  | Stable     | Enterprise | arm64        | D64116BB234CF71F59F44887774B6A101E8BE018E20FD31C03394E413156F335 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e8675b4-4388-4945-9898-18ee64bd2189/MicrosoftEdgeEnterpriseARM64.msi            |
+| 108.0.1462.54 | Windows  | Stable     | Consumer   | x64          | F83E437302C1C9CECC7E9F133DB4CD649CF14A4B4776503CD02C0A0CF5838E70 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/92bc3738-b5d1-4fe2-8359-695b6d17661d/MicrosoftEdgeEnterpriseX64.msi              |
+| 108.0.1462.54 | Windows  | Stable     | Enterprise | x64          | F83E437302C1C9CECC7E9F133DB4CD649CF14A4B4776503CD02C0A0CF5838E70 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/92bc3738-b5d1-4fe2-8359-695b6d17661d/MicrosoftEdgeEnterpriseX64.msi              |
+| 108.0.1462.54 | Windows  | Stable     | Consumer   | x86          | 1D1C715786360BFAE6C598213D704FF7BFC7DC7D933E982DB69B5332A6C13B64 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a197141-bb80-41be-a232-eb0cf90f8cdd/MicrosoftEdgeEnterpriseX86.msi              |
+| 108.0.1462.54 | Windows  | Stable     | Enterprise | x86          | 1D1C715786360BFAE6C598213D704FF7BFC7DC7D933E982DB69B5332A6C13B64 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a197141-bb80-41be-a232-eb0cf90f8cdd/MicrosoftEdgeEnterpriseX86.msi              |
 | 1.3.171.37    | Windows  | EdgeUpdate | Consumer   | x86          | 1462EA9EB9B9507111A1724C9EE1A6D02B5100B9D52196E959F2344302B1B8D4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e7b4ca6-dba3-477c-8522-b9f69610bde0/MicrosoftEdgeUpdateSetup_X86_1.3.171.37.exe |
 | 1.3.171.37    | Windows  | EdgeUpdate | Enterprise | x86          | 1462EA9EB9B9507111A1724C9EE1A6D02B5100B9D52196E959F2344302B1B8D4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e7b4ca6-dba3-477c-8522-b9f69610bde0/MicrosoftEdgeUpdateSetup_X86_1.3.171.37.exe |
 
@@ -1828,9 +1828,9 @@
 | 109.0.1518.23 | Beta    | ARM64        | https://msedgedriver.azureedge.net/109.0.1518.23/edgedriver_arm64.zip |
 | 109.0.1518.23 | Beta    | x64          | https://msedgedriver.azureedge.net/109.0.1518.23/edgedriver_win64.zip |
 | 109.0.1518.23 | Beta    | x86          | https://msedgedriver.azureedge.net/109.0.1518.23/edgedriver_win32.zip |
-| 108.0.1462.46 | Stable  | ARM64        | https://msedgedriver.azureedge.net/108.0.1462.46/edgedriver_arm64.zip |
-| 108.0.1462.46 | Stable  | x64          | https://msedgedriver.azureedge.net/108.0.1462.46/edgedriver_win64.zip |
-| 108.0.1462.46 | Stable  | x86          | https://msedgedriver.azureedge.net/108.0.1462.46/edgedriver_win32.zip |
+| 108.0.1462.54 | Stable  | ARM64        | https://msedgedriver.azureedge.net/108.0.1462.54/edgedriver_arm64.zip |
+| 108.0.1462.54 | Stable  | x64          | https://msedgedriver.azureedge.net/108.0.1462.54/edgedriver_win64.zip |
+| 108.0.1462.54 | Stable  | x86          | https://msedgedriver.azureedge.net/108.0.1462.54/edgedriver_win32.zip |
 
 ## MicrosoftEdgeWebView2Runtime
 
@@ -1838,9 +1838,9 @@
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 108.0.1462.46 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5c2d48b-a140-47b3-bbcb-256e9af70b2e/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 108.0.1462.46 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e516d67-e834-4e72-ae7b-fe18b0ea75bb/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 108.0.1462.46 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a6eb8fdb-ffe3-4886-a1a3-14c7f72627a3/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| 108.0.1462.54 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6792fa8a-4f92-49b2-b372-cc229b777623/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 108.0.1462.54 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/238fc310-c6c1-4a3e-a806-4a7c3c17b377/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 108.0.1462.54 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/250324c2-63a0-41d5-8921-1f5a0673446d/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftFSLogixApps
 
@@ -1997,12 +1997,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.75.0  | win32-arm64      | Insider | ARM64        | 133c2e28901db6ec401fa785999292df9414a0b267ab9ed1aa9476c8576fe703 | https://az764295.vo.msecnd.net/insider/44531ffc7b7477dbe82750040d8ed69bae2bb140/VSCodeSetup-arm64-1.75.0-insider.exe     |
-| 1.75.0  | win32-arm64-user | Insider | ARM64        | 71bffecb21b5235375c8a4ade6e6e6b7a96f392c126ced0e7055b2f8caacec3f | https://az764295.vo.msecnd.net/insider/44531ffc7b7477dbe82750040d8ed69bae2bb140/VSCodeUserSetup-arm64-1.75.0-insider.exe |
-| 1.75.0  | win32-x64        | Insider | x64          | 6bf72e72340b28e533be04dd7fcefc69cab83a22ffc47019454a35cafbc9d835 | https://az764295.vo.msecnd.net/insider/44531ffc7b7477dbe82750040d8ed69bae2bb140/VSCodeSetup-x64-1.75.0-insider.exe       |
-| 1.75.0  | win32-x64-user   | Insider | x64          | 77817858f547c50a1992b03b547f7b22646bd0c097928982e0b0bb1e21edeb03 | https://az764295.vo.msecnd.net/insider/44531ffc7b7477dbe82750040d8ed69bae2bb140/VSCodeUserSetup-x64-1.75.0-insider.exe   |
-| 1.75.0  | win32            | Insider | x86          | ba6974220438db2201b15205f6e41115015142aa1f4f3c31687580569f9509da | https://az764295.vo.msecnd.net/insider/44531ffc7b7477dbe82750040d8ed69bae2bb140/VSCodeSetup-ia32-1.75.0-insider.exe      |
-| 1.75.0  | win32-user       | Insider | x86          | d393f6fca8b14c3c15c0702cab3b5d8e645538dcab44dacad58b8c97e53debeb | https://az764295.vo.msecnd.net/insider/44531ffc7b7477dbe82750040d8ed69bae2bb140/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
+| 1.75.0  | win32-arm64      | Insider | ARM64        | 5d264715b6b8795ef0eb9ffe86b866974dcdc51e6fd2f4d309b0184b4e577054 | https://az764295.vo.msecnd.net/insider/edc432e920c3ec2c2af5e8a99b8e4b782633d298/VSCodeSetup-arm64-1.75.0-insider.exe     |
+| 1.75.0  | win32-arm64-user | Insider | ARM64        | 8dc1ea7eb70f086054da7d8ceb52d9e8bdc025166290b0b1f494115cb5bde7b2 | https://az764295.vo.msecnd.net/insider/edc432e920c3ec2c2af5e8a99b8e4b782633d298/VSCodeUserSetup-arm64-1.75.0-insider.exe |
+| 1.75.0  | win32-x64        | Insider | x64          | fe8a3aa9dc4a3d624da709fd19de40f0ed03540fff61e83239d08f04ee2e6729 | https://az764295.vo.msecnd.net/insider/edc432e920c3ec2c2af5e8a99b8e4b782633d298/VSCodeSetup-x64-1.75.0-insider.exe       |
+| 1.75.0  | win32-x64-user   | Insider | x64          | 70f517d0101c6cbaca128c55d0c0180823d63971bc6b90732acc65c96d013d57 | https://az764295.vo.msecnd.net/insider/edc432e920c3ec2c2af5e8a99b8e4b782633d298/VSCodeUserSetup-x64-1.75.0-insider.exe   |
+| 1.75.0  | win32            | Insider | x86          | 1828148b7493eef7069168d97cfb015da848626719df3987349585c1e083585e | https://az764295.vo.msecnd.net/insider/edc432e920c3ec2c2af5e8a99b8e4b782633d298/VSCodeSetup-ia32-1.75.0-insider.exe      |
+| 1.75.0  | win32-user       | Insider | x86          | 15d92a3aedb5aecc454ffa48c0ecc8fb0007eacb4aac94a82bd5997d2b32bd61 | https://az764295.vo.msecnd.net/insider/edc432e920c3ec2c2af5e8a99b8e4b782633d298/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
 | 1.74.1  | win32-arm64      | Stable  | ARM64        | 4ff1702696f13518019a8a6dea6e1d164d79ebfb9e1b50eb26e1a77d6d2ed70c | https://az764295.vo.msecnd.net/stable/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/VSCodeSetup-arm64-1.74.1.exe              |
 | 1.74.1  | win32-arm64-user | Stable  | ARM64        | cbf93fa0192f3d7ecd9cd3efce944589e1f20dfb47c9e8ad8af4549163652c53 | https://az764295.vo.msecnd.net/stable/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/VSCodeUserSetup-arm64-1.74.1.exe          |
 | 1.74.1  | win32-x64        | Stable  | x64          | e824f068797de93cc0f28ec0a881142aafc0d0f05f2157f617f2afa7959f1bd4 | https://az764295.vo.msecnd.net/stable/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/VSCodeSetup-x64-1.74.1.exe                |
@@ -4606,9 +4606,9 @@
 
 [Link](https://www.ccleaner.com/ccleaner)
 
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.07.10191 | ccsetup607.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| Version | Filename       | URI                                                                                                              |
+| ------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+|         | ccsetup607.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -5104,14 +5104,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
-| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
+| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
 
 ## VisualCppRedistAIO
 
@@ -5279,8 +5279,8 @@
 | 5.12.7.2172  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.12.7.2172/x64/zoomrooms-5.12.7.2172-x64.msi |
 | 5.12.7.2172  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.12.7.2172/zoomrooms-5.12.7.2172-x86.exe     |
 | 5.12.7.2172  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.12.7.2172/zoomrooms-5.12.7.2172-x86.msi     |
-| 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginSetup.msi           |
+| 5.12.0.719   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.719/ZoomNotesPluginAdminTool.msi       |
 | 5.12.0.718   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.12.0.718/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
