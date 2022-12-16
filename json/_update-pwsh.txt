@@ -1,0 +1,8 @@
+json/AirtameApp.json
+json/Gimp.json
+json/HashicorpWaypoint.json
+json/MicrosoftAzureDataStudio.json
+json/OctopusTentacle.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
