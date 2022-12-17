@@ -1,6 +1,0 @@
-json/1Password.json
-json/AWSCLI.json
-json/AirtameApp.json
-json/GoogleChrome.json
-json/MicrosoftAzureDataStudio.json
-json/VideoLanVlcPlayer.json
