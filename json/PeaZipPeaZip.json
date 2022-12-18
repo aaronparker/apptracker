@@ -1,20 +1,20 @@
 [
   {
-    "Version": "8.9.0",
+    "Version": "9.0.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "09/21/2022",
-    "Size": 9631118,
-    "URI": "https://github.com/peazip/PeaZip/releases/download/8.9.0/peazip-8.9.0.WIN64.exe"
+    "Date": "12/18/2022",
+    "Size": 9644221,
+    "URI": "https://github.com/peazip/PeaZip/releases/download/9.0.0/peazip-9.0.0.WIN64.exe"
   },
   {
-    "Version": "8.9.0",
+    "Version": "9.0.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "09/21/2022",
-    "Size": 8875465,
-    "URI": "https://github.com/peazip/PeaZip/releases/download/8.9.0/peazip-8.9.0.WINDOWS.exe"
+    "Date": "12/18/2022",
+    "Size": 8894501,
+    "URI": "https://github.com/peazip/PeaZip/releases/download/9.0.0/peazip-9.0.0.WINDOWS.exe"
   }
 ]
