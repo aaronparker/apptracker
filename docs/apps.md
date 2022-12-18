@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 247 applications and 3576 unique application installers:
+App Version Tracker is using Evergreen to track 248 applications and 3583 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -90,6 +90,7 @@ App Version Tracker is using Evergreen to track 247 applications and 3576 unique
 | Git Extensions                                                    | https://github.com/gitextensions/gitextensions                                             |
 | Git for Windows                                                   | https://gitforwindows.org/                                                                 |
 | GitHub Atom                                                       | https://atom.io/                                                                           |
+| GitHub Desktop                                                    | https://desktop.github.com/                                                                |
 | GitHub release                                                    | https://github.com/                                                                        |
 | Google Chrome                                                     | https://cloud.google.com/chrome-enterprise/browser/download/                               |
 | Gpg4win                                                           | https://www.gpg4win.org/                                                                   |
