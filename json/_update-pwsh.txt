@@ -1,8 +1,0 @@
-json/1Password.json
-json/ImageMagickStudioImageMagick.json
-json/MicrosoftWvdRemoteDesktop.json
-json/PiriformCCleanerFree.json
-json/Praat.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
