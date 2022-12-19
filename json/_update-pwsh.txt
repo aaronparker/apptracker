@@ -1,3 +1,0 @@
-json/1Password.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
