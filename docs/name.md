@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -403,7 +403,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------- |
-| 1.66.0  | Windows  | x86          | msi  | 11/29/2022 | 55390208 | https://github.com/aws/aws-sam-cli/releases/download/v1.66.0/AWS_SAM_CLI_64_PY3.msi |
+| 1.67.0  | Windows  | x86          | msi  | 12/19/2022 | 55971840 | https://github.com/aws/aws-sam-cli/releases/download/v1.67.0/AWS_SAM_CLI_64_PY3.msi |
 
 ## BeekeeperStudio
 
@@ -1311,9 +1311,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1572,9 +1572,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1737,7 +1737,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16012.20000 | BetaChannel       | Beta                                  | 12/13/2022 20:41:48 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.15928.20098 | CurrentPreview    | Current Channel (Preview)             | 12/12/2022 18:44:23 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.15928.20160 | CurrentPreview    | Current Channel (Preview)             | 12/19/2022 16:13:14 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15831.20208 | Current           | Current Channel                       | 12/13/2022 10:03:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15726.20262 | MonthlyEnterprise | Monthly Enterprise                    | 12/13/2022 10:01:13 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20378 | SemiAnnualPreview | Semi-Annual Channel Preview           | 12/13/2022 09:18:30 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -4368,7 +4368,7 @@
 
 | Version      | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                 |
 | ------------ | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2022.10.31.0 | Windows  | x86          | exe  | 10/31/2022 | 22455338 | https://github.com/BornToBeRoot/NETworkManager/releases/download/2022.10.31.0/NETworkManager_2022.10.31.0_Setup.exe |
+| 2022.12.20.0 | Windows  | x86          | exe  | 12/19/2022 | 22536198 | https://github.com/BornToBeRoot/NETworkManager/releases/download/2022.12.20.0/NETworkManager_2022.12.20.0_Setup.exe |
 
 ## NevcairielLAVFilters
 
@@ -4927,8 +4927,8 @@
 
 | Version     | Platform | Architecture | Type      | Date       | Size  | URI                                                                                                      |
 | ----------- | -------- | ------------ | --------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| 2211.29.129 | Windows  | x86          | intunewin | 11/30/2022 | 33797 | https://github.com/aaronparker/image-customise/releases/download/v2211.29.129/Install-Defaults.intunewin |
-| 2211.29.129 | Windows  | x86          | zip       | 11/30/2022 | 30135 | https://github.com/aaronparker/image-customise/releases/download/v2211.29.129/image-customise.zip        |
+| 2212.13.135 | Windows  | x86          | intunewin | 12/13/2022 | 34597 | https://github.com/aaronparker/image-customise/releases/download/v2212.13.135/Install-Defaults.intunewin |
+| 2212.13.135 | Windows  | x86          | zip       | 12/13/2022 | 30828 | https://github.com/aaronparker/image-customise/releases/download/v2212.13.135/image-customise.zip        |
 
 ## StefansToolsgregpWin
 
@@ -5116,14 +5116,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe            |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi            |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip            |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5281,8 +5281,8 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
-| 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginSetup.msi           |
 | 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginAdminTool.msi       |
+| 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginSetup.msi           |
 | 5.13.0.774   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.774/ZoomOutlookPluginSetup.msi         |
 | 5.12.9.10650 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.12.9.10650/arm64/ZoomInstallerFull.exe      |
 | 5.12.9.10650 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.12.9.10650/arm64/ZoomInstallerFull.msi      |
