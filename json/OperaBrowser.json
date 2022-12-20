@@ -14,18 +14,18 @@
     "URI": "https://get.geo.opera.com/pub/opera-developer/95.0.4632.0/win/Opera_Developer_95.0.4632.0_Setup.exe"
   },
   {
-    "Version": "94.0.4606.26",
+    "Version": "94.0.4606.38",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/94.0.4606.26/win/Opera_94.0.4606.26_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/94.0.4606.38/win/Opera_94.0.4606.38_Setup_x64.exe"
   },
   {
-    "Version": "94.0.4606.26",
+    "Version": "94.0.4606.38",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/94.0.4606.26/win/Opera_94.0.4606.26_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/94.0.4606.38/win/Opera_94.0.4606.38_Setup.exe"
   },
   {
     "Version": "94.0.4606.19",

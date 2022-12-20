@@ -1,0 +1,12 @@
+json/1Password.json
+json/Gimp.json
+json/Gpg4win.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/Obsidian.json
+json/OperaBrowser.json
+json/SAGAGIS.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
