@@ -1,6 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/OpenLens.json
-json/ProgressChefInfraClient.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
