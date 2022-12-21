@@ -1,51 +1,51 @@
 [
   {
-    "Version": "22.11.1016",
+    "Version": "22.12.1024",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "10",
-    "Sha256": "8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2",
-    "URI": "https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/10/chef-workstation-22.11.1016-1-x64.msi"
+    "Sha256": "354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60",
+    "URI": "https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/10/chef-workstation-22.12.1024-1-x64.msi"
   },
   {
-    "Version": "22.11.1016",
+    "Version": "22.12.1024",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "11",
-    "Sha256": "8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2",
-    "URI": "https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/11/chef-workstation-22.11.1016-1-x64.msi"
+    "Sha256": "354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60",
+    "URI": "https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/11/chef-workstation-22.12.1024-1-x64.msi"
   },
   {
-    "Version": "22.11.1016",
+    "Version": "22.12.1024",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2012r2",
-    "Sha256": "8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2",
-    "URI": "https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2012r2/chef-workstation-22.11.1016-1-x64.msi"
+    "Sha256": "354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60",
+    "URI": "https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2012r2/chef-workstation-22.12.1024-1-x64.msi"
   },
   {
-    "Version": "22.11.1016",
+    "Version": "22.12.1024",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2016",
-    "Sha256": "8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2",
-    "URI": "https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2016/chef-workstation-22.11.1016-1-x64.msi"
+    "Sha256": "354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60",
+    "URI": "https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2016/chef-workstation-22.12.1024-1-x64.msi"
   },
   {
-    "Version": "22.11.1016",
+    "Version": "22.12.1024",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2019",
-    "Sha256": "8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2",
-    "URI": "https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2019/chef-workstation-22.11.1016-1-x64.msi"
+    "Sha256": "354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60",
+    "URI": "https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2019/chef-workstation-22.12.1024-1-x64.msi"
   },
   {
-    "Version": "22.11.1016",
+    "Version": "22.12.1024",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2022",
-    "Sha256": "8c124ed22402d2fd1e56ac3010138ed1b06a24a60f9f49cab844d948e45b26b2",
-    "URI": "https://packages.chef.io/files/current/chef-workstation/22.11.1016/windows/2022/chef-workstation-22.11.1016-1-x64.msi"
+    "Sha256": "354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60",
+    "URI": "https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2022/chef-workstation-22.12.1024-1-x64.msi"
   },
   {
     "Version": "22.10.1013",
