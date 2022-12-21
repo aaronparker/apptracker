@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -525,7 +525,7 @@
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |
-| 8.5.2.38799 | 12/07/2022 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.5.2.38799.exe |
+| 8.5.3.38959 | 12/21/2022 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.5.3.38959.exe |
 
 ## dbeaver
 
@@ -1172,7 +1172,7 @@
 
 | Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                     |
 | ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 10.0.1128.0 | 126922752 | e9e0bda1958a03d98acac1ec7a1a8fe17bce5b64 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v10/10.0.1128.0/server_x64.msi |
+| 10.0.1129.0 | 126922752 | aa7c665674b9a1a264f2ab18092c9a2030b575d9 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v10/10.0.1129.0/server_x64.msi |
 
 ## ESETSecureAuthentication
 
@@ -1311,9 +1311,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1330,16 +1330,16 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2.39.0  | Windows  | x64          | exe  | 12/12/2022 | 52866496 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/Git-2.39.0-64-bit.exe                         |
-| 2.39.0  | Windows  | x64          | exe  | 12/12/2022 | 48281056 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/PortableGit-2.39.0-64-bit.7z.exe              |
-| 2.39.0  | Windows  | x64          | zip  | 12/12/2022 | 29136645 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-64-bit.zip                      |
-| 2.39.0  | Windows  | x64          | zip  | 12/12/2022 | 26050728 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-busybox-64-bit.zip              |
-| 2.39.0  | Windows  | x64          | zip  | 12/12/2022 | 15720774 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/pdbs-for-git-64-bit-2.39.0.1.de9501c66f-1.zip |
-| 2.39.0  | Windows  | x86          | exe  | 12/12/2022 | 53042760 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/Git-2.39.0-32-bit.exe                         |
-| 2.39.0  | Windows  | x86          | exe  | 12/12/2022 | 48849960 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/PortableGit-2.39.0-32-bit.7z.exe              |
-| 2.39.0  | Windows  | x86          | zip  | 12/12/2022 | 30629655 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-32-bit.zip                      |
-| 2.39.0  | Windows  | x86          | zip  | 12/12/2022 | 24470380 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/MinGit-2.39.0-busybox-32-bit.zip              |
-| 2.39.0  | Windows  | x86          | zip  | 12/12/2022 | 17790238 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.1/pdbs-for-git-32-bit-2.39.0.1.de9501c66f-1.zip |
+| 2.39.0  | Windows  | x64          | exe  | 12/21/2022 | 52999992 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-64-bit.exe                       |
+| 2.39.0  | Windows  | x64          | exe  | 12/21/2022 | 48373080 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe            |
+| 2.39.0  | Windows  | x64          | zip  | 12/21/2022 | 29207175 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-64-bit.zip                    |
+| 2.39.0  | Windows  | x64          | zip  | 12/21/2022 | 26121264 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-busybox-64-bit.zip            |
+| 2.39.0  | Windows  | x64          | zip  | 12/21/2022 | 15718960 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/pdbs-for-git-64-bit-2.39.0.2.e7d4c50480-1.zip |
+| 2.39.0  | Windows  | x86          | exe  | 12/21/2022 | 53114320 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-32-bit.exe                       |
+| 2.39.0  | Windows  | x86          | exe  | 12/21/2022 | 48871424 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-32-bit.7z.exe            |
+| 2.39.0  | Windows  | x86          | zip  | 12/21/2022 | 30702001 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-32-bit.zip                    |
+| 2.39.0  | Windows  | x86          | zip  | 12/21/2022 | 24542704 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-busybox-32-bit.zip            |
+| 2.39.0  | Windows  | x86          | zip  | 12/21/2022 | 17787905 | https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/pdbs-for-git-32-bit-2.39.0.2.e7d4c50480-1.zip |
 
 ## GitHubAtom
 
@@ -1572,9 +1572,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -4447,8 +4447,8 @@
 
 | Version | Architecture | URI                                                                         |
 | ------- | ------------ | --------------------------------------------------------------------------- |
-| 6.3.302 | x64          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.3.302-x64.msi |
-| 6.3.302 | x86          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.3.302.msi     |
+| 6.2.277 | x64          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.2.277-x64.msi |
+| 6.2.277 | x86          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.2.277.msi     |
 
 ## OnlyOfficeDesktopEditors
 
@@ -4542,8 +4542,8 @@
 
 | Version      | Channel | Architecture | Type | URI                                                                                         |
 | ------------ | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 93.0.4585.72 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/93.0.4585.72/win/Opera_GX_93.0.4585.72_Setup_x64.exe |
-| 93.0.4585.72 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/93.0.4585.72/win/Opera_GX_93.0.4585.72_Setup.exe     |
+| 93.0.4585.78 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/93.0.4585.78/win/Opera_GX_93.0.4585.78_Setup_x64.exe |
+| 93.0.4585.78 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/93.0.4585.78/win/Opera_GX_93.0.4585.78_Setup.exe     |
 
 ## OracleJava8
 
@@ -4828,7 +4828,7 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.0.3   | exe  | x64          | https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe |
+| 1.0.4   | exe  | x64          | https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe |
 
 ## SAGAGIS
 
@@ -5116,14 +5116,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                      |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------ |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.exe              |
-| 3.0.18  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.msi              |
-| 3.0.18  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.zip              |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
+| 3.0.18  | Windows  | x64          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
+| 3.0.18  | Windows  | x64          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
