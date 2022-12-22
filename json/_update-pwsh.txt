@@ -1,7 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/ESETEndpointAntivirus.json
-json/ESETEndpointSecurity.json
-json/ESETInspectConnector.json
-json/MirantisLens.json
-json/VideoLanVlcPlayer.json
