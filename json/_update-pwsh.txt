@@ -1,0 +1,10 @@
+json/1Password.json
+json/AWSCLI.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OpenLens.json
+json/ProgressChefInfraClient.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
