@@ -1,7 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/Miniconda.json
-json/OctopusTentacle.json
-json/VideoLanVlcPlayer.json
-json/diagrams.net.json
