@@ -1,6 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/Obsidian.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
