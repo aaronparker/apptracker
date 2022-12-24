@@ -1,29 +1,29 @@
 [
   {
-    "Version": "1.1.8",
+    "Version": "1.1.9",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "12/20/2022",
-    "Size": 72600728,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.8/Obsidian.1.1.8-arm64.exe"
+    "Date": "12/23/2022",
+    "Size": 72690776,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian.1.1.9-arm64.exe"
   },
   {
-    "Version": "1.1.8",
+    "Version": "1.1.9",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "12/20/2022",
-    "Size": 64412272,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.8/Obsidian.1.1.8-32.exe"
+    "Date": "12/23/2022",
+    "Size": 68627128,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian.1.1.9-32.exe"
   },
   {
-    "Version": "1.1.8",
+    "Version": "1.1.9",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "12/20/2022",
-    "Size": 67746312,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.8/Obsidian.1.1.8.exe"
+    "Date": "12/23/2022",
+    "Size": 72690816,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian.1.1.9.exe"
   }
 ]
