@@ -1,9 +1,9 @@
 {
-  "Version": "22.3.0",
+  "Version": "22.3.1",
   "Platform": "Windows",
   "Architecture": "x64",
   "Type": "exe",
-  "Date": "12/04/2022",
-  "Size": 112567496,
-  "URI": "https://github.com/dbeaver/dbeaver/releases/download/22.3.0/dbeaver-ce-22.3.0-x86_64-setup.exe"
+  "Date": "12/21/2022",
+  "Size": 113741064,
+  "URI": "https://github.com/dbeaver/dbeaver/releases/download/22.3.1/dbeaver-ce-22.3.1-x86_64-setup.exe"
 }
