@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/NotepadPlusPlus.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
