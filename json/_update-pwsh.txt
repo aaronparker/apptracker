@@ -1,5 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
-json/1Password.json
