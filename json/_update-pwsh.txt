@@ -1,7 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
