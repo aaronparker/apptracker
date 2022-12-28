@@ -1,0 +1,9 @@
+json/1Password.json
+json/AirtameApp.json
+json/Audacity.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/Zotero.json
