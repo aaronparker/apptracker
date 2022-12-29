@@ -1,7 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/Handbrake.json
-json/JetBrainsPyCharm.json
-json/Microsoft365Apps.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
