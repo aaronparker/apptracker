@@ -1,4 +1,0 @@
-json/Gimp.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/NanaZip.json
