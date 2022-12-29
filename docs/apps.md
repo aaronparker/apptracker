@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 248 applications and 3139 unique application installers:
+App Version Tracker is using Evergreen to track 249 applications and 3134 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -116,7 +116,7 @@ App Version Tracker is using Evergreen to track 248 applications and 3139 unique
 | jrsoftware InnoSetup                                              | https://www.innosetup.com                                                                  |
 | Karakun OpenWebStart                                              | https://openwebstart.com/ows/                                                              |
 | KDiff3                                                            | https://kdiff3.sourceforge.net/                                                            |
-| KeePass                                                           | https://keepass.net/                                                                       |
+| KeePass Password Safe                                             | https://keepass.info/                                                                      |
 | KeePassXC Team KeePassXC                                          | https://keepassxc.org/                                                                     |
 | KeeWeb                                                            | https://github.com/keeweb/keeweb                                                           |
 | LogMeIn GoToMeeting                                               | https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013                    |
@@ -163,6 +163,7 @@ App Version Tracker is using Evergreen to track 248 applications and 3139 unique
 | Mozilla Thunderbird                                               | https://www.thunderbird.net/                                                               |
 | mRemoteNG                                                         | https://mremoteng.org/                                                                     |
 | MuseScore                                                         | https://musescore.org/                                                                     |
+| NanaZip                                                           | https://github.com/M2Team/NanaZip                                                          |
 | Ben Olden-Cooligan NAPS2                                          | https://www.naps2.com/                                                                     |
 | NETworkManager                                                    | https://github.com/BornToBeRoot/NETworkManager                                             |
 | Nevcairiel LAV Filters                                            | https://github.com/Nevcairiel/LAVFilters                                                   |
