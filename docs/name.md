@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -867,9 +867,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -976,12 +976,14 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 1.5.1   | Windows  | ARM64        | exe  | 01/10/2022 | 16019016 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-arm64-Win_GUI.exe  |
-| 1.5.1   | Windows  | ARM64        | zip  | 01/10/2022 | 23903359 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-arm64-Win_GUI.zip  |
-| 1.5.1   | Windows  | ARM64        | zip  | 01/10/2022 | 15347520 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrakeCLI-1.5.1-win-aarch64.zip |
-| 1.5.1   | Windows  | x64          | exe  | 01/10/2022 | 20446704 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-x86_64-Win_GUI.exe |
-| 1.5.1   | Windows  | x64          | zip  | 01/10/2022 | 28770807 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrake-1.5.1-x86_64-Win_GUI.zip |
-| 1.5.1   | Windows  | x86          | zip  | 01/10/2022 | 18302675 | https://github.com/HandBrake/HandBrake/releases/download/1.5.1/HandBrakeCLI-1.5.1-win-x86_64.zip  |
+| 1.6.0   | Windows  | ARM64        | exe  | 12/28/2022 | 18834024 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-arm64-Win_GUI.exe  |
+| 1.6.0   | Windows  | ARM64        | zip  | 12/28/2022 | 27526078 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-arm64-Win_GUI.zip  |
+| 1.6.0   | Windows  | ARM64        | zip  | 12/28/2022 | 17129120 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrakeCLI-1.6.0-win-aarch64.zip |
+| 1.6.0   | Windows  | ARM64        | zip  | 12/28/2022 | 17558807 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/LibHB-1.6.0-win-aarch64.zip        |
+| 1.6.0   | Windows  | x64          | exe  | 12/28/2022 | 23028632 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.exe |
+| 1.6.0   | Windows  | x64          | zip  | 12/28/2022 | 32064879 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.zip |
+| 1.6.0   | Windows  | x86          | zip  | 12/28/2022 | 21802189 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrakeCLI-1.6.0-win-x86_64.zip  |
+| 1.6.0   | Windows  | x86          | zip  | 12/28/2022 | 22393864 | https://github.com/HandBrake/HandBrake/releases/download/1.6.0/LibHB-1.6.0-win-x86_64.zip         |
 
 ## HashicorpBoundary
 
@@ -1109,11 +1111,11 @@
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build        | Edition              | Date       | Size      | Sha256                                                                       | URI                                                                   |
-| -------- | ------------ | -------------------- | ---------- | --------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2022.3   | 223.7571.203 | PyCharm Community    | 12/01/2022 | 414052512 | https://download.jetbrains.com/python/pycharm-community-2022.3.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.3.exe    |
-| 2022.3   | 223.7571.203 | PyCharm Professional | 12/01/2022 | 504214264 | https://download.jetbrains.com/python/pycharm-professional-2022.3.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.3.exe |
-| 2022.2.2 | 222.4345.35  | PyCharm Edu          | 10/27/2022 | 394799056 | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe.sha256        | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe        |
+| Version  | Build       | Edition              | Date       | Size      | Sha256                                                                         | URI                                                                     |
+| -------- | ----------- | -------------------- | ---------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| 2022.3.1 | 223.8214.51 | PyCharm Community    | 12/28/2022 | 422493552 | https://download.jetbrains.com/python/pycharm-community-2022.3.1.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2022.3.1.exe    |
+| 2022.3.1 | 223.8214.51 | PyCharm Professional | 12/28/2022 | 513169376 | https://download.jetbrains.com/python/pycharm-professional-2022.3.1.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2022.3.1.exe |
+| 2022.2.2 | 222.4345.35 | PyCharm Edu          | 10/27/2022 | 394799056 | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe.sha256          | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe          |
 
 ## jq
 
@@ -1292,7 +1294,7 @@
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
-| 16.0.16020.20000 | BetaChannel       | Beta                                  | 12/27/2022 15:32:41 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16026.20002 | BetaChannel       | Beta                                  | 12/28/2022 16:47:03 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15928.20198 | CurrentPreview    | Current Channel (Preview)             | 12/26/2022 17:15:10 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15831.20208 | Current           | Current Channel                       | 12/13/2022 10:03:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15726.20262 | MonthlyEnterprise | Monthly Enterprise                    | 12/13/2022 10:01:13 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1617,7 +1619,7 @@
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | 1.2.3770.0 | ARM64        | Dogfood | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | ARM64        | Insider | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | ARM64        | Insider | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
 | 1.2.3770.0 | ARM64        | Public  | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
 | 1.2.3770.0 | x64          | Dogfood | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
 | 1.2.3770.0 | x64          | Insider | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
@@ -4670,14 +4672,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe         |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi         |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe                 |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi                 |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip                 |
 
 ## VisualCppRedistAIO
 
