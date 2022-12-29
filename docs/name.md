@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.10  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.10  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.10.exe |
 
 ## 1Password7
 
@@ -869,7 +869,7 @@
 
 | Version | Date       | Sha256                                                           | URI                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1130,9 +1130,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -4674,14 +4674,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                         |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                             |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4839,12 +4839,12 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
-| 5.13.0.11216 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.0.11216/arm64/ZoomInstallerFull.exe      |
-| 5.13.0.11216 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.0.11216/arm64/ZoomInstallerFull.msi      |
-| 5.13.0.11216 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.0.11216/x64/ZoomInstallerFull.exe        |
-| 5.13.0.11216 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.0.11216/x64/ZoomInstallerFull.msi        |
-| 5.13.0.11216 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.0.11216/ZoomInstallerFull.exe            |
-| 5.13.0.11216 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.11216/ZoomInstallerFull.msi            |
+| 5.13.3.11494 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.3.11494/arm64/ZoomInstallerFull.exe      |
+| 5.13.3.11494 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.3.11494/arm64/ZoomInstallerFull.msi      |
+| 5.13.3.11494 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.3.11494/x64/ZoomInstallerFull.exe        |
+| 5.13.3.11494 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.3.11494/x64/ZoomInstallerFull.msi        |
+| 5.13.3.11494 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.3.11494/ZoomInstallerFull.exe            |
+| 5.13.3.11494 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.3.11494/ZoomInstallerFull.msi            |
 | 5.13.0.2301  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.0.2301/x64/zoomrooms-5.13.0.2301-x64.exe |
 | 5.13.0.2301  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.0.2301/x64/zoomrooms-5.13.0.2301-x64.msi |
 | 5.13.0.2301  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.0.2301/zoomrooms-5.13.0.2301-x86.exe     |
