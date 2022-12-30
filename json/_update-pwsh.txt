@@ -1,6 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
