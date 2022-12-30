@@ -1,8 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/GoogleChrome.json
-json/ImageMagickStudioImageMagick.json
-json/MicrosoftWvdRemoteDesktop.json
-json/RizonesoftNotepad3.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
