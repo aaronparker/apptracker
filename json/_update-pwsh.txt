@@ -1,6 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/Gimp.json
-json/Handbrake.json
-json/VideoLanVlcPlayer.json
-json/MicrosoftVdot.json
