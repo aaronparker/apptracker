@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 249 applications and 3140 unique application installers:
+App Version Tracker is using Evergreen to track 250 applications and 3139 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -146,6 +146,7 @@ App Version Tracker is using Evergreen to track 249 applications and 3140 unique
 | Microsoft SQL Server Management Studio                            | https://go.microsoft.com/fwlink/?LinkId=531355                                             |
 | Microsoft Teams                                                   | https://www.microsoft.com/teams                                                            |
 | Microsoft Terminal                                                | https://github.com/microsoft/terminal/                                                     |
+| Microsoft Virtual Desktop Optimization Tool                       | https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool              |
 | Microsoft Visual Studio                                           | https://visualstudio.microsoft.com/                                                        |
 | Microsoft Visual Studio Code                                      | https://code.visualstudio.com                                                              |
 | Microsoft Windows Package Manager Client                          | https://docs.microsoft.com/en-us/windows/package-manager/                                  |
