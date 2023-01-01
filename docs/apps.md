@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 250 applications and 3139 unique application installers:
+App Version Tracker is using Evergreen to track 250 applications and 3140 unique application installers:
 
 | Application                                                       | Link                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -38,7 +38,7 @@ App Version Tracker is using Evergreen to track 250 applications and 3139 unique
 | Amazon Corretto                                                   | https://aws.amazon.com/corretto/                                                           |
 | Anaconda                                                          | https://www.anaconda.com/                                                                  |
 | Anki                                                              | https://github.com/ankitects/anki/                                                         |
-| AppVentix                                                         | https://appventix.com/                                                                     |
+| AppVentiX                                                         | https://appventix.com/                                                                     |
 | Artifex Ghostscript                                               | https://www.ghostscript.com/                                                               |
 | Atlassian Sourcetree                                              | https://www.sourcetreeapp.com/                                                             |
 | Audacity                                                          | https://www.audacityteam.org/                                                              |
