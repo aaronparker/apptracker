@@ -1,0 +1,7 @@
+json/GeekSoftwarePDF24Creator.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OperaBrowser.json
+json/SumatraPDFReader.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
