@@ -1,5 +1,53 @@
 [
   {
+    "Version": "18.0.206",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "10",
+    "Sha256": "536167eed86969c48bbec26dee175f07ded6286a604bab40d8e7ec84539d958c",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.0.206/windows/10/chef-client-18.0.206-1-x64.msi"
+  },
+  {
+    "Version": "18.0.206",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "11",
+    "Sha256": "536167eed86969c48bbec26dee175f07ded6286a604bab40d8e7ec84539d958c",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.0.206/windows/11/chef-client-18.0.206-1-x64.msi"
+  },
+  {
+    "Version": "18.0.206",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2012r2",
+    "Sha256": "536167eed86969c48bbec26dee175f07ded6286a604bab40d8e7ec84539d958c",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.0.206/windows/2012r2/chef-client-18.0.206-1-x64.msi"
+  },
+  {
+    "Version": "18.0.206",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2016",
+    "Sha256": "536167eed86969c48bbec26dee175f07ded6286a604bab40d8e7ec84539d958c",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.0.206/windows/2016/chef-client-18.0.206-1-x64.msi"
+  },
+  {
+    "Version": "18.0.206",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2019",
+    "Sha256": "536167eed86969c48bbec26dee175f07ded6286a604bab40d8e7ec84539d958c",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.0.206/windows/2019/chef-client-18.0.206-1-x64.msi"
+  },
+  {
+    "Version": "18.0.206",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2022",
+    "Sha256": "536167eed86969c48bbec26dee175f07ded6286a604bab40d8e7ec84539d958c",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.0.206/windows/2022/chef-client-18.0.206-1-x64.msi"
+  },
+  {
     "Version": "18.0.205",
     "Architecture": "x64",
     "Channel": "current",
@@ -94,53 +142,5 @@
     "Platform": "2022",
     "Sha256": "189525427a7a309b7fd37dac52e43d0b892178ebe60f880c146e7a6d0d946b5b",
     "URI": "https://packages.chef.io/files/stable/chef/18.0.185/windows/2022/chef-client-18.0.185-1-x64.msi"
-  },
-  {
-    "Version": "16.18.23",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "10",
-    "Sha256": "6cf5bd7275d816fac7c17d07802c22463a326b3cc00dc52b7be25fd50949125d",
-    "URI": "https://packages.chef.io/files/unstable/chef/16.18.23/windows/10/chef-client-16.18.23-1-x64.msi"
-  },
-  {
-    "Version": "16.18.23",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "11",
-    "Sha256": "6cf5bd7275d816fac7c17d07802c22463a326b3cc00dc52b7be25fd50949125d",
-    "URI": "https://packages.chef.io/files/unstable/chef/16.18.23/windows/11/chef-client-16.18.23-1-x64.msi"
-  },
-  {
-    "Version": "16.18.23",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2012r2",
-    "Sha256": "6cf5bd7275d816fac7c17d07802c22463a326b3cc00dc52b7be25fd50949125d",
-    "URI": "https://packages.chef.io/files/unstable/chef/16.18.23/windows/2012r2/chef-client-16.18.23-1-x64.msi"
-  },
-  {
-    "Version": "16.18.23",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2016",
-    "Sha256": "6cf5bd7275d816fac7c17d07802c22463a326b3cc00dc52b7be25fd50949125d",
-    "URI": "https://packages.chef.io/files/unstable/chef/16.18.23/windows/2016/chef-client-16.18.23-1-x64.msi"
-  },
-  {
-    "Version": "16.18.23",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2019",
-    "Sha256": "6cf5bd7275d816fac7c17d07802c22463a326b3cc00dc52b7be25fd50949125d",
-    "URI": "https://packages.chef.io/files/unstable/chef/16.18.23/windows/2019/chef-client-16.18.23-1-x64.msi"
-  },
-  {
-    "Version": "16.18.23",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2022",
-    "Sha256": "6cf5bd7275d816fac7c17d07802c22463a326b3cc00dc52b7be25fd50949125d",
-    "URI": "https://packages.chef.io/files/unstable/chef/16.18.23/windows/2022/chef-client-16.18.23-1-x64.msi"
   }
 ]
