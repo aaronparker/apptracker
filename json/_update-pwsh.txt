@@ -1,8 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/GitHubDesktop.json
-json/HashicorpTerraform.json
-json/MicrosoftVisualStudioCode.json
-json/OperaBrowser.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
