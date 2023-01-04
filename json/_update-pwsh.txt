@@ -1,5 +1,0 @@
-json/CitrixWorkspaceApp.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
