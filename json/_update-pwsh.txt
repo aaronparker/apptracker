@@ -1,0 +1,7 @@
+json/1Password.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
