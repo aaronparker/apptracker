@@ -1,0 +1,11 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/JamTreeSizeProfessional.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/OperaGXBrowser.json
+json/PiriformCCleanerFree.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
