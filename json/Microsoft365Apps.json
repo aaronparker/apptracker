@@ -8,16 +8,16 @@
   },
   {
     "Version": "16.0.15928.20198",
-    "Channel": "CurrentPreview",
-    "Name": "Current Channel (Preview)",
-    "Date": "2022-12-26T17:15:10.757Z",
+    "Channel": "Current",
+    "Name": "Current Channel",
+    "Date": "2023-01-04T19:13:04.23Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15831.20208",
-    "Channel": "Current",
-    "Name": "Current Channel",
-    "Date": "2022-12-13T10:03:35.857Z",
+    "Version": "16.0.15928.20198",
+    "Channel": "CurrentPreview",
+    "Name": "Current Channel (Preview)",
+    "Date": "2022-12-26T17:15:10.757Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {

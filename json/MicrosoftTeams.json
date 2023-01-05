@@ -4,14 +4,14 @@
     "Ring": "Preview",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.35066/Teams_windows_arm64.exe"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.376/Teams_windows_arm64.exe"
   },
   {
     "Version": "1.5.00.35066",
     "Ring": "Preview",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.35066/Teams_windows_arm64.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.376/Teams_windows_arm64.msi"
   },
   {
     "Version": "1.5.00.35066",
