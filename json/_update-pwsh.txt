@@ -1,0 +1,7 @@
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftWvdRemoteDesktop.json
+json/PiriformCCleanerFree.json
+json/Postman.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
