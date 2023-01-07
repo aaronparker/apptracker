@@ -1,0 +1,11 @@
+json/Gimp.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/PiriformCCleanerFree.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/dnGrep.json
+json/jrsoftwareInnoSetup.json
