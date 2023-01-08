@@ -1,0 +1,5 @@
+json/Gimp.json
+json/OBSStudio.json
+json/VercelHyper.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
