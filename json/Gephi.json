@@ -1,20 +1,20 @@
 [
   {
-    "Version": "0.9.7",
+    "Version": "0.10.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "08/03/2022",
-    "Size": 119233486,
-    "URI": "https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x64.exe"
+    "Date": "01/07/2023",
+    "Size": 125999640,
+    "URI": "https://github.com/gephi/gephi/releases/download/v0.10.0/gephi-0.10.0-windows-x64.exe"
   },
   {
-    "Version": "0.9.7",
+    "Version": "0.10.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "08/03/2022",
-    "Size": 115180016,
-    "URI": "https://github.com/gephi/gephi/releases/download/v0.9.7/gephi-0.9.7-windows-x32.exe"
+    "Date": "01/07/2023",
+    "Size": 121921320,
+    "URI": "https://github.com/gephi/gephi/releases/download/v0.10.0/gephi-0.10.0-windows-x32.exe"
   }
 ]
