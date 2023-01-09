@@ -1,9 +1,0 @@
-json/AirtameApp.json
-json/Anki.json
-json/Gimp.json
-json/MicrosoftWvdRemoteDesktop.json
-json/Postman.json
-json/ProgressChefWorkstation.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
