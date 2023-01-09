@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -342,8 +342,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------- |
-| 2.1.55  | Windows  | x86          | exe  | 12/16/2022 | 130119192 | https://github.com/ankitects/anki/releases/download/2.1.55/anki-2.1.55-windows-qt5.exe |
-| 2.1.55  | Windows  | x86          | exe  | 12/16/2022 | 149618464 | https://github.com/ankitects/anki/releases/download/2.1.55/anki-2.1.55-windows-qt6.exe |
+| 2.1.56  | Windows  | x86          | exe  | 01/09/2023 | 130175192 | https://github.com/ankitects/anki/releases/download/2.1.56/anki-2.1.56-windows-qt5.exe |
+| 2.1.56  | Windows  | x86          | exe  | 01/09/2023 | 149674888 | https://github.com/ankitects/anki/releases/download/2.1.56/anki-2.1.56-windows-qt6.exe |
 
 ## AppVentix
 
@@ -876,9 +876,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1137,9 +1137,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1633,15 +1633,15 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3770.0 | ARM64        | Dogfood | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | ARM64        | Insider | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | ARM64        | Public  | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | ARM64        | Dogfood | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | ARM64        | Insider | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | ARM64        | Public  | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
 | 1.2.3770.0 | x64          | Dogfood | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
 | 1.2.3770.0 | x64          | Insider | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
 | 1.2.3770.0 | x64          | Public  | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
-| 1.2.3770.0 | x86          | Dogfood | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
-| 1.2.3770.0 | x86          | Insider | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
-| 1.2.3770.0 | x86          | Public  | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
+| 1.2.3770.0 | x86          | Dogfood | Unknown    | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
+| 1.2.3770.0 | x86          | Insider | Unknown    | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
+| 1.2.3770.0 | x86          | Public  | Unknown    | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
 
 ## MicrosoftWvdRtcService
 
@@ -4207,7 +4207,7 @@
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
-| 10.6.0  | 171283760 | A4BE4ACC1557CE45C18EE53ED05D337209389E46 | 11/29/2022 20:38:43 | x64          | Postman-win64-10.6.0-Setup.exe | https://dl.pstmn.io/download/version/10.6.0/windows64 |
+| 10.7.0  | 171814704 | 6ED0F3765225CA821982EFC7A9015B25238740EF | 01/06/2023 06:59:52 | x64          | Postman-win64-10.7.0-Setup.exe | https://dl.pstmn.io/download/version/10.7.0/windows64 |
 | 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe  | https://dl.pstmn.io/download/version/9.4.1/windows32  |
 
 ## Praat
@@ -4275,12 +4275,12 @@
 | 22.12.1024 | x64          | current | 2016     | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2016/chef-workstation-22.12.1024-1-x64.msi   |
 | 22.12.1024 | x64          | current | 2019     | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2019/chef-workstation-22.12.1024-1-x64.msi   |
 | 22.12.1024 | x64          | current | 2022     | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/current/chef-workstation/22.12.1024/windows/2022/chef-workstation-22.12.1024-1-x64.msi   |
-| 22.10.1013 | x64          | stable  | 10       | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/10/chef-workstation-22.10.1013-1-x64.msi      |
-| 22.10.1013 | x64          | stable  | 11       | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/11/chef-workstation-22.10.1013-1-x64.msi      |
-| 22.10.1013 | x64          | stable  | 2012r2   | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2012r2/chef-workstation-22.10.1013-1-x64.msi  |
-| 22.10.1013 | x64          | stable  | 2016     | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2016/chef-workstation-22.10.1013-1-x64.msi    |
-| 22.10.1013 | x64          | stable  | 2019     | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2019/chef-workstation-22.10.1013-1-x64.msi    |
-| 22.10.1013 | x64          | stable  | 2022     | 48049a9141ea0e0871abe279d1b2b87341232891463ee8022490a4fc15f5a1fb | https://packages.chef.io/files/stable/chef-workstation/22.10.1013/windows/2022/chef-workstation-22.10.1013-1-x64.msi    |
+| 22.12.1024 | x64          | stable  | 10       | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/10/chef-workstation-22.12.1024-1-x64.msi      |
+| 22.12.1024 | x64          | stable  | 11       | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/11/chef-workstation-22.12.1024-1-x64.msi      |
+| 22.12.1024 | x64          | stable  | 2012r2   | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/2012r2/chef-workstation-22.12.1024-1-x64.msi  |
+| 22.12.1024 | x64          | stable  | 2016     | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/2016/chef-workstation-22.12.1024-1-x64.msi    |
+| 22.12.1024 | x64          | stable  | 2019     | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/2019/chef-workstation-22.12.1024-1-x64.msi    |
+| 22.12.1024 | x64          | stable  | 2022     | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/2022/chef-workstation-22.12.1024-1-x64.msi    |
 
 ## ProjectLibre
 
@@ -4695,14 +4695,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe          |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi          |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip          |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
+| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
+| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4860,16 +4860,16 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.13.5.2391  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.5.2391/x64/zoomrooms-5.13.5.2391-x64.exe |
+| 5.13.5.2391  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.5.2391/x64/zoomrooms-5.13.5.2391-x64.msi |
+| 5.13.5.2391  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.5.2391/zoomrooms-5.13.5.2391-x86.exe     |
+| 5.13.5.2391  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.2391/zoomrooms-5.13.5.2391-x86.msi     |
 | 5.13.3.11494 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.3.11494/arm64/ZoomInstallerFull.exe      |
 | 5.13.3.11494 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.3.11494/arm64/ZoomInstallerFull.msi      |
 | 5.13.3.11494 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.3.11494/x64/ZoomInstallerFull.exe        |
 | 5.13.3.11494 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.3.11494/x64/ZoomInstallerFull.msi        |
 | 5.13.3.11494 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.3.11494/ZoomInstallerFull.exe            |
 | 5.13.3.11494 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.3.11494/ZoomInstallerFull.msi            |
-| 5.13.0.2301  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.0.2301/x64/zoomrooms-5.13.0.2301-x64.exe |
-| 5.13.0.2301  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.0.2301/x64/zoomrooms-5.13.0.2301-x64.msi |
-| 5.13.0.2301  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.0.2301/zoomrooms-5.13.0.2301-x86.exe     |
-| 5.13.0.2301  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.2301/zoomrooms-5.13.0.2301-x86.msi     |
 | 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginAdminTool.msi       |
 | 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginSetup.msi           |
 | 5.13.0.774   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.774/ZoomOutlookPluginSetup.msi         |
