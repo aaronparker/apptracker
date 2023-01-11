@@ -434,9 +434,9 @@
 
 [Link](https://bitwarden.com/)
 
-| Version   | Type | URI                                                                       |
-| --------- | ---- | ------------------------------------------------------------------------- |
-| 2022.12.0 | exe  | https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2022.12.0.exe |
+| Version  | Type | URI                                                                      |
+| -------- | ---- | ------------------------------------------------------------------------ |
+| 2023.1.0 | exe  | https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2023.1.0.exe |
 
 ## BlenderLauncher
 
@@ -876,9 +876,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -945,8 +945,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 110.0.5481.24 | x64          | dev     | 01/05/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 110.0.5481.24 | x86          | dev     | 01/05/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 110.0.5481.30 | x64          | dev     | 01/11/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 110.0.5481.30 | x86          | dev     | 01/11/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 109.0.5414.75 | x64          | stable  | 01/10/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 109.0.5414.75 | x86          | stable  | 01/10/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 | 109.0.5414.74 | x64          | beta    | 01/04/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
@@ -1638,9 +1638,9 @@
 | 1.2.3909.0 | ARM64        | Dogfood | Unknown    | 2C657CE361E803D0AEDFDC969F8F5635 | RemoteDesktop_1.2.3909.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5egHi |
 | 1.2.3909.0 | x64          | Dogfood | Unknown    | 1876A6468473E4BB99907FEB37C871AF | RemoteDesktop_1.2.3909.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5er33 |
 | 1.2.3909.0 | x86          | Dogfood | Unknown    | A90B861A58C8E8BE62A31CE6BFCF867E | RemoteDesktop_1.2.3909.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5egHh |
-| 1.2.3770.0 | ARM64        | Insider | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | ARM64        | Public  | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
-| 1.2.3770.0 | x64          | Insider | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
+| 1.2.3770.0 | ARM64        | Insider | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | ARM64        | Public  | Unknown    | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
+| 1.2.3770.0 | x64          | Insider | Unknown    | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
 | 1.2.3770.0 | x64          | Public  | 11/28/2022 | 7F290FEB147D517FDD24171263FAC8C1 | RemoteDesktop_1.2.3770.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx |
 | 1.2.3770.0 | x86          | Insider | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
 | 1.2.3770.0 | x86          | Public  | 11/28/2022 | 8BBF51E43C78E38CDFE2711EDF2E7523 | RemoteDesktop_1.2.3770.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh |
@@ -1685,10 +1685,10 @@
 
 [Link](https://k8slens.dev/)
 
-| Version               | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                        |
-| --------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2023.1.91516-alpha    | x64          | Alpha   | 01/09/2023 15:41:02 | 371743344 | gVbMmy6yq9b1plvbkKyM/il/pU1GIDUIIv015V0hAW3wq8DWyBk1Cz7BTndWN2OdYa4L9pR4qSxLWk76RSovAw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.1.91516-alpha.exe    |
-| 2022.12.221341-latest | x64          | Stable  | 12/22/2022 14:04:55 | 371705792 | 03pPm4p1yY+GBcgB9WV4Lp2+LAl23kq8wOchts2OekDAySDC3gqARANZN/vnKeO1Uwb0OG8cSTvWOK1XNa6UIQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202022.12.221341-latest.exe |
+| Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
+| -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2023.1.91516-alpha   | x64          | Alpha   | 01/09/2023 15:41:02 | 371743344 | gVbMmy6yq9b1plvbkKyM/il/pU1GIDUIIv015V0hAW3wq8DWyBk1Cz7BTndWN2OdYa4L9pR4qSxLWk76RSovAw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.1.91516-alpha.exe   |
+| 2023.1.110749-latest | x64          | Stable  | 01/11/2023 08:12:54 | 371740496 | ntb5PjocaCsIflXAH/BsBy9xdx8/q6/I5AmoSK9+xsX8iIezQAu1QXC2ZICGHaPnq9gt7AErkRf0A3I6GjqI+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.1.110749-latest.exe |
 
 ## MozillaFirefox
 
@@ -4104,8 +4104,8 @@
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
 | 96.0.4660.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4660.0/win/Opera_Developer_96.0.4660.0_Setup_x64.exe |
 | 96.0.4660.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4660.0/win/Opera_Developer_96.0.4660.0_Setup.exe     |
-| 95.0.4635.10 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.10/win/Opera_beta_95.0.4635.10_Setup_x64.exe         |
-| 95.0.4635.10 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.10/win/Opera_beta_95.0.4635.10_Setup.exe             |
+| 95.0.4635.12 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.12/win/Opera_beta_95.0.4635.12_Setup_x64.exe         |
+| 95.0.4635.12 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.12/win/Opera_beta_95.0.4635.12_Setup.exe             |
 | 94.0.4606.54 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/94.0.4606.54/win/Opera_94.0.4606.54_Setup_x64.exe                   |
 | 94.0.4606.54 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/94.0.4606.54/win/Opera_94.0.4606.54_Setup.exe                       |
 
@@ -4696,14 +4696,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.exe               |
-| 3.0.18  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.msi               |
-| 3.0.18  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.zip               |
+| Version | Platform | Architecture | Type | URI                                                               |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4871,8 +4871,8 @@
 | 5.13.4.11835 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.4.11835/x64/ZoomInstallerFull.msi        |
 | 5.13.4.11835 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.4.11835/ZoomInstallerFull.exe            |
 | 5.13.4.11835 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.4.11835/ZoomInstallerFull.msi            |
-| 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginAdminTool.msi       |
 | 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginSetup.msi           |
+| 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginAdminTool.msi       |
 | 5.13.0.774   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.774/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
