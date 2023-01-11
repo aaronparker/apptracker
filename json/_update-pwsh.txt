@@ -1,0 +1,9 @@
+json/1Password.json
+json/ChromiumChromeDriver.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/PaintDotNetOfflineInstaller.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json

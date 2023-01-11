@@ -1,56 +1,47 @@
 [
   {
-    "Version": "4.3.12",
+    "Version": "5.0",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "Date": "11/18/2021",
-    "Size": 55461803,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.install.arm64.zip"
+    "Size": 58431300,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0/paint.net.5.0.install.arm64.zip"
   },
   {
-    "Version": "4.3.12",
+    "Version": "5.0",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "Date": "11/18/2021",
-    "Size": 65913988,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.winmsi.arm64.zip"
+    "Size": 67383226,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0/paint.net.5.0.winmsi.arm64.zip"
   },
   {
-    "Version": "4.3.12",
+    "Version": "5.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "11/18/2021",
-    "Size": 64033833,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.install.x64.zip"
+    "Size": 66577333,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0/paint.net.5.0.install.x64.zip"
   },
   {
-    "Version": "4.3.12",
+    "Version": "5.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "11/18/2021",
-    "Size": 74368753,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.winmsi.x64.zip"
+    "Size": 74741720,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0/paint.net.5.0.winmsi.x64.zip"
   },
   {
-    "Version": "4.3.12",
+    "Version": "5.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "Date": "11/18/2021",
-    "Size": 57534075,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.install.x86.zip"
-  },
-  {
-    "Version": "4.3.12",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "Date": "11/18/2021",
-    "Size": 67679114,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v4.3.12/paint.net.4.3.12.winmsi.x86.zip"
+    "Size": 750765,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0/paint.net.5.0.install.anycpu.web.zip"
   }
 ]
