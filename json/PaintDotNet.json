@@ -1,10 +1,4 @@
-[
-  {
-    "Version": "4.312.8267.29064",
-    "URI": "https://www.getpaint.net/updates/zip/paint.net.4.3.12.install.anycpu.web.zip"
-  },
-  {
-    "Version": "4.312.8267.29064",
-    "URI": "https://www.dotpdn.com/files/paint.net.4.3.12.install.anycpu.web.zip"
-  }
-]
+{
+  "Version": "5.0.8410.34435",
+  "URI": "https://github.com/paintdotnet/release/releases/download/v5.0/paint.net.5.0.install.anycpu.web.zip"
+}
