@@ -1,0 +1,9 @@
+json/AirtameApp.json
+json/DockerDesktop.json
+json/Gimp.json
+json/OperaBrowser.json
+json/OperaGXBrowser.json
+json/PiriformCCleanerFree.json
+json/TechSmithSnagit.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
