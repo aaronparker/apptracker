@@ -1,0 +1,10 @@
+json/AWSSAMCLI.json
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdRemoteDesktop.json
+json/Postman.json
+json/VMwareHorizonClient.json
+json/VMwareHorizonClientAlt.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
