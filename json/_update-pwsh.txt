@@ -1,7 +1,0 @@
-json/BitwardenDesktop.json
-json/ChromiumChromeDriver.json
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VastLimitsUberAgent.json
-json/VideoLanVlcPlayer.json
