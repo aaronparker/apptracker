@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.12  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.12.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.12  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.12.exe |
 
 ## 1Password7
 
@@ -876,9 +876,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://abqix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1416,8 +1416,8 @@
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 109.0.1518.52 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/67109fdb-291f-49a9-9235-5cbe78b79357/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 109.0.1518.52 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/24191e08-d609-467b-91bd-ec00d983c69b/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 109.0.1518.52 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e15bf74-23e0-4393-8113-7c8cc824217e/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| 109.0.1518.52 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e62b5da-adf5-4ef5-bf82-12517e7348cc/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 109.0.1518.52 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bfdce06a-0f21-4027-b725-25d27a2b493f/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftFSLogixApps
 
@@ -1635,8 +1635,8 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.3909.0 | ARM64        | Dogfood | 01/10/2023 | 2C657CE361E803D0AEDFDC969F8F5635 | RemoteDesktop_1.2.3909.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5egHi |
-| 1.2.3909.0 | x64          | Dogfood | Unknown    | 1876A6468473E4BB99907FEB37C871AF | RemoteDesktop_1.2.3909.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5er33 |
+| 1.2.3909.0 | ARM64        | Dogfood | Unknown    | 2C657CE361E803D0AEDFDC969F8F5635 | RemoteDesktop_1.2.3909.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5egHi |
+| 1.2.3909.0 | x64          | Dogfood | 01/10/2023 | 1876A6468473E4BB99907FEB37C871AF | RemoteDesktop_1.2.3909.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5er33 |
 | 1.2.3909.0 | x86          | Dogfood | Unknown    | A90B861A58C8E8BE62A31CE6BFCF867E | RemoteDesktop_1.2.3909.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5egHh |
 | 1.2.3770.0 | ARM64        | Insider | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
 | 1.2.3770.0 | ARM64        | Public  | 11/28/2022 | CD69DE7864B9D5C7E6E7F87BFCFAF506 | RemoteDesktop_1.2.3770.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni |
@@ -4077,7 +4077,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------ |
-| 6.4.0   | Windows  | x86          | exe  | 01/03/2023 | 111805944 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.0-alpha.2/OpenLens-6.4.0-alpha.2.exe |
+| 6.4.0   | Windows  | x86          | exe  | 01/14/2023 | 111805088 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.0-alpha.3/OpenLens-6.4.0-alpha.3.exe |
 
 ## OpenShellMenu
 
@@ -4207,7 +4207,7 @@
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
-| 10.8.0  | 171942704 | A83831DA081BC2098AD44692A277B4CC78D012ED | 01/10/2023 18:02:44 | x64          | Postman-win64-10.8.0-Setup.exe | https://dl.pstmn.io/download/version/10.8.0/windows64 |
+| 10.7.0  | 171814704 | 6ED0F3765225CA821982EFC7A9015B25238740EF | 01/06/2023 06:59:52 | x64          | Postman-win64-10.7.0-Setup.exe | https://dl.pstmn.io/download/version/10.7.0/windows64 |
 | 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe  | https://dl.pstmn.io/download/version/9.4.1/windows32  |
 
 ## Praat
@@ -4695,14 +4695,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
-| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
-| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
-| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4870,8 +4870,8 @@
 | 5.13.4.11835 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.4.11835/x64/ZoomInstallerFull.msi        |
 | 5.13.4.11835 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.4.11835/ZoomInstallerFull.exe            |
 | 5.13.4.11835 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.4.11835/ZoomInstallerFull.msi            |
-| 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginSetup.msi           |
 | 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginAdminTool.msi       |
+| 5.13.0.775   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.775/ZoomNotesPluginSetup.msi           |
 | 5.13.0.774   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.0.774/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
@@ -4896,5 +4896,5 @@
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |
-| 6.0.19  | https://download.zotero.org/client/release/6.0.19/Zotero-6.0.19_setup.exe |
+| 6.0.20  | https://download.zotero.org/client/release/6.0.20/Zotero-6.0.20_setup.exe |
 
