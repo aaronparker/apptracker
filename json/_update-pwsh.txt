@@ -1,0 +1,10 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
