@@ -876,9 +876,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                             |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1137,9 +1137,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1582,12 +1582,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.75.0  | win32-arm64      | Insider | ARM64        | 3fceb171dc55415611dda3495572e1b46cfadeacb526c7a480ffb0d0d806acc2 | https://vscode.blob.core.windows.net/insider/7ef08adcc620ba1e4fcda7530c8bc907264acae9/VSCodeSetup-arm64-1.75.0-insider.exe     |
-| 1.75.0  | win32-arm64-user | Insider | ARM64        | cf80ecc0bca71b6bc7148ae6d2f3aef7ac86a74f5086ac93827c938e83ea4d4f | https://vscode.blob.core.windows.net/insider/7ef08adcc620ba1e4fcda7530c8bc907264acae9/VSCodeUserSetup-arm64-1.75.0-insider.exe |
-| 1.75.0  | win32-x64        | Insider | x64          | 154b6ca0ab6f8281355e934dbf96f258c3de501a914763fc700ff8c22ebe15b2 | https://vscode.blob.core.windows.net/insider/7ef08adcc620ba1e4fcda7530c8bc907264acae9/VSCodeSetup-x64-1.75.0-insider.exe       |
-| 1.75.0  | win32-x64-user   | Insider | x64          | 43f40b731a153da1753f0366a913661cbadf2699b3dd454b1ba529511adb378b | https://vscode.blob.core.windows.net/insider/7ef08adcc620ba1e4fcda7530c8bc907264acae9/VSCodeUserSetup-x64-1.75.0-insider.exe   |
-| 1.75.0  | win32            | Insider | x86          | aa72bc9a0e52c59c75405c2eeff00d65e13a4361764114f8d5dec9c3a18994c1 | https://vscode.blob.core.windows.net/insider/7ef08adcc620ba1e4fcda7530c8bc907264acae9/VSCodeSetup-ia32-1.75.0-insider.exe      |
-| 1.75.0  | win32-user       | Insider | x86          | a9781d394c18592378c7d4f0e90b4f8f311d9316e706e5cf6e15068bfceb97ca | https://vscode.blob.core.windows.net/insider/7ef08adcc620ba1e4fcda7530c8bc907264acae9/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
+| 1.75.0  | win32-arm64      | Insider | ARM64        | 994541bf47de4303fad4a6678bc59301649ad9ced7eacdac904df0bc344b4691 | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeSetup-arm64-1.75.0-insider.exe     |
+| 1.75.0  | win32-arm64-user | Insider | ARM64        | 1cd499fce3e0f6f9d22870c5a4ccc55f846b5d454bd198e406868a6374fec38c | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeUserSetup-arm64-1.75.0-insider.exe |
+| 1.75.0  | win32-x64        | Insider | x64          | 0bcebd658807000f2cf0195eeef004f493937353f8cf1c21def1d4f697bcd85b | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeSetup-x64-1.75.0-insider.exe       |
+| 1.75.0  | win32-x64-user   | Insider | x64          | e054eafaad56b78bbd970cc75c8fac15e5ca7a2a3ac4b38ca88380464c7cbc1c | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeUserSetup-x64-1.75.0-insider.exe   |
+| 1.75.0  | win32            | Insider | x86          | c03eb92c3bdb9b3dd47a130e2757cace5457617465227b8af02a4fd0b64c4a5f | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeSetup-ia32-1.75.0-insider.exe      |
+| 1.75.0  | win32-user       | Insider | x86          | 67be9861e4faf20054c1b2547b6d20cf97973add1264612056cd009b2e53f5ed | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
 | 1.74.3  | win32-arm64      | Stable  | ARM64        | 50e324837fc54c809276357842cd524250637030ebdb87963e9793f0219d6e01 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-arm64-1.74.3.exe                    |
 | 1.74.3  | win32-arm64-user | Stable  | ARM64        | 43ff47f7860541c964fcb78740610071f49daaaab58ec37d4301402d70ec7aee | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeUserSetup-arm64-1.74.3.exe                |
 | 1.74.3  | win32-x64        | Stable  | x64          | cea32aa015116f8346e054c59497908f6da6059361c1b33d5b68059031f2dc97 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-x64-1.74.3.exe                      |
@@ -4248,12 +4248,12 @@
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                           |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 5.18.17 | x64          | current | 10       | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/10/inspec-5.18.17-1-x64.msi     |
-| 5.18.17 | x64          | current | 11       | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/11/inspec-5.18.17-1-x64.msi     |
-| 5.18.17 | x64          | current | 2012r2   | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2012r2/inspec-5.18.17-1-x64.msi |
-| 5.18.17 | x64          | current | 2016     | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2016/inspec-5.18.17-1-x64.msi   |
-| 5.18.17 | x64          | current | 2019     | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2019/inspec-5.18.17-1-x64.msi   |
-| 5.18.17 | x64          | current | 2022     | 173a8d4b1860a54853dcdaeb6d3ce0ce230237c36878621654d31e7582b7f90a | https://packages.chef.io/files/current/inspec/5.18.17/windows/2022/inspec-5.18.17-1-x64.msi   |
+| 5.21.24 | x64          | current | 10       | 28fd948d55a2baa22cbd5912048552a8ad282a8c7871bae1bff2d46ed90c58c0 | https://packages.chef.io/files/current/inspec/5.21.24/windows/10/inspec-5.21.24-1-x64.msi     |
+| 5.21.24 | x64          | current | 11       | 28fd948d55a2baa22cbd5912048552a8ad282a8c7871bae1bff2d46ed90c58c0 | https://packages.chef.io/files/current/inspec/5.21.24/windows/11/inspec-5.21.24-1-x64.msi     |
+| 5.21.24 | x64          | current | 2012r2   | 28fd948d55a2baa22cbd5912048552a8ad282a8c7871bae1bff2d46ed90c58c0 | https://packages.chef.io/files/current/inspec/5.21.24/windows/2012r2/inspec-5.21.24-1-x64.msi |
+| 5.21.24 | x64          | current | 2016     | 28fd948d55a2baa22cbd5912048552a8ad282a8c7871bae1bff2d46ed90c58c0 | https://packages.chef.io/files/current/inspec/5.21.24/windows/2016/inspec-5.21.24-1-x64.msi   |
+| 5.21.24 | x64          | current | 2019     | 28fd948d55a2baa22cbd5912048552a8ad282a8c7871bae1bff2d46ed90c58c0 | https://packages.chef.io/files/current/inspec/5.21.24/windows/2019/inspec-5.21.24-1-x64.msi   |
+| 5.21.24 | x64          | current | 2022     | 28fd948d55a2baa22cbd5912048552a8ad282a8c7871bae1bff2d46ed90c58c0 | https://packages.chef.io/files/current/inspec/5.21.24/windows/2022/inspec-5.21.24-1-x64.msi   |
 | 5.18.14 | x64          | stable  | 10       | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/10/inspec-5.18.14-1-x64.msi      |
 | 5.18.14 | x64          | stable  | 11       | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/11/inspec-5.18.14-1-x64.msi      |
 | 5.18.14 | x64          | stable  | 2012r2   | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/2012r2/inspec-5.18.14-1-x64.msi  |
@@ -4693,14 +4693,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe         |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi         |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe    |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi    |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip    |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4858,18 +4858,18 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.13.6.2407  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.exe |
+| 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
+| 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
+| 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
 | 5.13.5.12053 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.5.12053/arm64/ZoomInstallerFull.exe      |
 | 5.13.5.12053 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.5.12053/arm64/ZoomInstallerFull.msi      |
 | 5.13.5.12053 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.5.12053/x64/ZoomInstallerFull.exe        |
 | 5.13.5.12053 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.5.12053/x64/ZoomInstallerFull.msi        |
 | 5.13.5.12053 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.5.12053/ZoomInstallerFull.exe            |
 | 5.13.5.12053 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.12053/ZoomInstallerFull.msi            |
-| 5.13.5.2391  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.5.2391/x64/zoomrooms-5.13.5.2391-x64.exe |
-| 5.13.5.2391  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.5.2391/x64/zoomrooms-5.13.5.2391-x64.msi |
-| 5.13.5.2391  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.5.2391/zoomrooms-5.13.5.2391-x86.exe     |
-| 5.13.5.2391  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.2391/zoomrooms-5.13.5.2391-x86.msi     |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
