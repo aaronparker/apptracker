@@ -1,27 +1,27 @@
 [
   {
-    "Version": "7.0.4",
+    "Version": "7.0.6",
     "Channel": "LATEST",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/7.0.4/VirtualBox-7.0.4-154605-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe"
   },
   {
-    "Version": "7.0.4",
+    "Version": "7.0.6",
     "Channel": "LATEST",
     "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/7.0.4/VBoxGuestAdditions_7.0.4.iso"
+    "URI": "https://download.virtualbox.org/virtualbox/7.0.6/VBoxGuestAdditions_7.0.6.iso"
   },
   {
-    "Version": "6.1.40",
+    "Version": "6.1.42",
     "Channel": "STABLE",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/6.1.40/VirtualBox-6.1.40-154048-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/6.1.42/VirtualBox-6.1.42-155177-Win.exe"
   },
   {
-    "Version": "6.1.40",
+    "Version": "6.1.42",
     "Channel": "STABLE",
     "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/6.1.40/VBoxGuestAdditions_6.1.40.iso"
+    "URI": "https://download.virtualbox.org/virtualbox/6.1.42/VBoxGuestAdditions_6.1.42.iso"
   },
   {
     "Version": "7.0.0_BETA3",
