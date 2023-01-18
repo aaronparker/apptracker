@@ -6,7 +6,7 @@
 
 | Version | URI                                                                |
 | ------- | ------------------------------------------------------------------ |
-| 8.9.12  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.12.exe |
+| 8.9.13  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.13.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -876,9 +876,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -921,10 +921,10 @@
 
 | Version | Architecture | Type | URI                                                                                                       |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 3.1.3   | ARM64        | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.3-4731f276/GitHubDesktopSetup-arm64.exe |
-| 3.1.3   | ARM64        | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.3-4731f276/GitHubDesktopSetup-arm64.msi |
-| 3.1.3   | x64          | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.3-4731f276/GitHubDesktopSetup-x64.exe   |
-| 3.1.3   | x64          | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.3-4731f276/GitHubDesktopSetup-x64.msi   |
+| 3.1.4   | ARM64        | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.4-eaeb66dd/GitHubDesktopSetup-arm64.exe |
+| 3.1.4   | ARM64        | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.4-eaeb66dd/GitHubDesktopSetup-arm64.msi |
+| 3.1.4   | x64          | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.4-eaeb66dd/GitHubDesktopSetup-x64.exe   |
+| 3.1.4   | x64          | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.1.4-eaeb66dd/GitHubDesktopSetup-x64.msi   |
 
 ## GitHubRelease
 
@@ -947,8 +947,8 @@
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
 | 111.0.5532.2  | x64          | dev     | 01/12/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 111.0.5532.2  | x86          | dev     | 01/12/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 110.0.5481.30 | x64          | beta    | 01/12/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 110.0.5481.30 | x86          | beta    | 01/12/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 110.0.5481.38 | x64          | beta    | 01/18/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 110.0.5481.38 | x86          | beta    | 01/18/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 109.0.5414.75 | x64          | stable  | 01/10/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 109.0.5414.75 | x86          | stable  | 01/10/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -1137,9 +1137,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1584,12 +1584,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.75.0  | win32-arm64      | Insider | ARM64        | 994541bf47de4303fad4a6678bc59301649ad9ced7eacdac904df0bc344b4691 | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeSetup-arm64-1.75.0-insider.exe     |
-| 1.75.0  | win32-arm64-user | Insider | ARM64        | 1cd499fce3e0f6f9d22870c5a4ccc55f846b5d454bd198e406868a6374fec38c | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeUserSetup-arm64-1.75.0-insider.exe |
-| 1.75.0  | win32-x64        | Insider | x64          | 0bcebd658807000f2cf0195eeef004f493937353f8cf1c21def1d4f697bcd85b | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeSetup-x64-1.75.0-insider.exe       |
-| 1.75.0  | win32-x64-user   | Insider | x64          | e054eafaad56b78bbd970cc75c8fac15e5ca7a2a3ac4b38ca88380464c7cbc1c | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeUserSetup-x64-1.75.0-insider.exe   |
-| 1.75.0  | win32            | Insider | x86          | c03eb92c3bdb9b3dd47a130e2757cace5457617465227b8af02a4fd0b64c4a5f | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeSetup-ia32-1.75.0-insider.exe      |
-| 1.75.0  | win32-user       | Insider | x86          | 67be9861e4faf20054c1b2547b6d20cf97973add1264612056cd009b2e53f5ed | https://vscode.blob.core.windows.net/insider/1379f0375440df946adc62f7afb8375dd45d5adf/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
+| 1.75.0  | win32-arm64      | Insider | ARM64        | 24ae187ac46df172ae06dd33381e6db9aaeb1d57e40bcd3f1c8868c8dd5b5ac6 | https://vscode.blob.core.windows.net/insider/a0562ccdb202a29ac35da81c2b5482e517158f32/VSCodeSetup-arm64-1.75.0-insider.exe     |
+| 1.75.0  | win32-arm64-user | Insider | ARM64        | 40f32d144dff374fe4201eaba228c6a31795731e9807793be8229367459c04d4 | https://vscode.blob.core.windows.net/insider/a0562ccdb202a29ac35da81c2b5482e517158f32/VSCodeUserSetup-arm64-1.75.0-insider.exe |
+| 1.75.0  | win32-x64        | Insider | x64          | db459fff609d9c9749bee8a66ed41b8d5229f663aac2b6950685fdb68b749ec9 | https://vscode.blob.core.windows.net/insider/a0562ccdb202a29ac35da81c2b5482e517158f32/VSCodeSetup-x64-1.75.0-insider.exe       |
+| 1.75.0  | win32-x64-user   | Insider | x64          | 8775bf46eb60033f58df03993b91228acb7fa574d14c11e96b13b4548d36b46e | https://vscode.blob.core.windows.net/insider/a0562ccdb202a29ac35da81c2b5482e517158f32/VSCodeUserSetup-x64-1.75.0-insider.exe   |
+| 1.75.0  | win32            | Insider | x86          | 4b30ddc49f1a22a6158d8623715c137b09a9e6c36646ed6d8c40f7fed565ca9e | https://vscode.blob.core.windows.net/insider/a0562ccdb202a29ac35da81c2b5482e517158f32/VSCodeSetup-ia32-1.75.0-insider.exe      |
+| 1.75.0  | win32-user       | Insider | x86          | 1f8077cce698aa43073c81dd8d813f15d76c43edadabe872f7aa920cc69d80e5 | https://vscode.blob.core.windows.net/insider/a0562ccdb202a29ac35da81c2b5482e517158f32/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
 | 1.74.3  | win32-arm64      | Stable  | ARM64        | 50e324837fc54c809276357842cd524250637030ebdb87963e9793f0219d6e01 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-arm64-1.74.3.exe                    |
 | 1.74.3  | win32-arm64-user | Stable  | ARM64        | 43ff47f7860541c964fcb78740610071f49daaaab58ec37d4301402d70ec7aee | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeUserSetup-arm64-1.74.3.exe                |
 | 1.74.3  | win32-x64        | Stable  | x64          | cea32aa015116f8346e054c59497908f6da6059361c1b33d5b68059031f2dc97 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-x64-1.74.3.exe                      |
@@ -4104,8 +4104,8 @@
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
 | 96.0.4660.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4660.0/win/Opera_Developer_96.0.4660.0_Setup_x64.exe |
 | 96.0.4660.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4660.0/win/Opera_Developer_96.0.4660.0_Setup.exe     |
-| 95.0.4635.12 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.12/win/Opera_beta_95.0.4635.12_Setup_x64.exe         |
-| 95.0.4635.12 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.12/win/Opera_beta_95.0.4635.12_Setup.exe             |
+| 95.0.4635.15 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.15/win/Opera_beta_95.0.4635.15_Setup_x64.exe         |
+| 95.0.4635.15 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.15/win/Opera_beta_95.0.4635.15_Setup.exe             |
 | 94.0.4606.65 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/94.0.4606.65/win/Opera_94.0.4606.65_Setup_x64.exe                   |
 | 94.0.4606.65 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/94.0.4606.65/win/Opera_94.0.4606.65_Setup.exe                       |
 
@@ -4199,7 +4199,7 @@
 
 | Version    | Filename       | URI                                                                                                              |
 | ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.07.10191 | ccsetup607.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| 6.08.10255 | ccsetup608.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -4360,13 +4360,13 @@
 
 [Link](https://www.rizonesoft.com/downloads/notepad3)
 
-| Version     | Platform | Architecture | Type | Date       | Size    | URI                                                                                                                |
-| ----------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 5.21.1129.1 | Windows  | x64          | exe  | 11/29/2021 | 5456104 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x64_Setup.exe    |
-| 5.21.1129.1 | Windows  | x64          | zip  | 11/29/2021 | 6078965 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x64_Portable.zip |
-| 5.21.1129.1 | Windows  | x86          | exe  | 11/29/2021 | 4914152 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3Portable_5.21.1129.1.paf.exe  |
-| 5.21.1129.1 | Windows  | x86          | exe  | 11/29/2021 | 3804280 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x86_Setup.exe    |
-| 5.21.1129.1 | Windows  | x86          | zip  | 11/29/2021 | 5799426 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.21.1129.1/Notepad3_5.21.1129.1_x86_Portable.zip |
+| Version    | Platform | Architecture | Type | Date       | Size    | URI                                                                                                              |
+| ---------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
+| 6.23.118.1 | Windows  | x64          | exe  | 01/18/2023 | 4153208 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x64_Setup.exe    |
+| 6.23.118.1 | Windows  | x64          | zip  | 01/18/2023 | 6421447 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x64_Portable.zip |
+| 6.23.118.1 | Windows  | x86          | exe  | 01/18/2023 | 5206784 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3Portable_6.23.118.1.paf.exe  |
+| 6.23.118.1 | Windows  | x86          | exe  | 01/18/2023 | 3933824 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x86_Setup.exe    |
+| 6.23.118.1 | Windows  | x86          | zip  | 01/18/2023 | 6104771 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x86_Portable.zip |
 
 ## RStudio
 
@@ -4695,14 +4695,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe                 |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi                 |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip                 |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
