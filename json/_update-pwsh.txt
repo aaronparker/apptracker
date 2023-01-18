@@ -1,0 +1,11 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/GitHubDesktop.json
+json/GoogleChrome.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/PiriformCCleanerFree.json
+json/RizonesoftNotepad3.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
