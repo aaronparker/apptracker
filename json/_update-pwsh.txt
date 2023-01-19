@@ -1,9 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdRtcService.json
-json/OperaBrowser.json
-json/PiriformCCleanerFree.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
