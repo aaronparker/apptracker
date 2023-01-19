@@ -1,0 +1,9 @@
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdInfraAgent.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OBSStudio.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/stealthpuppyWindowsCustomisedDefaults.json
