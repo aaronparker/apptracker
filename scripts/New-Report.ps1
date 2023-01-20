@@ -37,7 +37,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.jso
 
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    If ($Null -ne $Link) {
+    if ($Null -ne $Link) {
         $Markdown += New-MDLink -Text "Link" -Link $Link
         $Markdown += "`n`n"
     }
