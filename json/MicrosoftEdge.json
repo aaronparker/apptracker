@@ -63,6 +63,24 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/98dfb4f5-71ef-4444-ac5d-dff8a15ca4d1/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
+    "Version": "109.0.1518.61",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Consumer",
+    "Architecture": "arm64",
+    "Hash": "B935D45681A4073D983433BC91BD72CE004D2BA05771F32EA2ABD153E7B404DE",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed6a74df-5313-4f5d-b350-87cc53bc8d13/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "109.0.1518.61",
+    "Platform": "Windows",
+    "Channel": "Stable",
+    "Release": "Enterprise",
+    "Architecture": "arm64",
+    "Hash": "B935D45681A4073D983433BC91BD72CE004D2BA05771F32EA2ABD153E7B404DE",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed6a74df-5313-4f5d-b350-87cc53bc8d13/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
     "Version": "109.0.1518.55",
     "Platform": "Windows",
     "Channel": "Beta",
@@ -79,24 +97,6 @@
     "Architecture": "arm64",
     "Hash": "D39CF42068DF90891C2C711C3A1DD13A20AB48615820E80850B01AAF5023134C",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f384e18e-274f-4d7e-b1ed-1303a3a33067/MicrosoftEdgeBetaEnterpriseARM64.msi"
-  },
-  {
-    "Version": "109.0.1518.55",
-    "Platform": "Windows",
-    "Channel": "Stable",
-    "Release": "Consumer",
-    "Architecture": "arm64",
-    "Hash": "202979A8D3592618F9505CE0495959161C82A4E129D49B83F03B35BEC39139FD",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7fb2bd8-2676-4942-b7ec-27a42575eec2/MicrosoftEdgeEnterpriseARM64.msi"
-  },
-  {
-    "Version": "109.0.1518.55",
-    "Platform": "Windows",
-    "Channel": "Stable",
-    "Release": "Enterprise",
-    "Architecture": "arm64",
-    "Hash": "202979A8D3592618F9505CE0495959161C82A4E129D49B83F03B35BEC39139FD",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7fb2bd8-2676-4942-b7ec-27a42575eec2/MicrosoftEdgeEnterpriseARM64.msi"
   },
   {
     "Version": "109.0.1518.55",
