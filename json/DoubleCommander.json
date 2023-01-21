@@ -1,56 +1,56 @@
 [
   {
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "12/03/2022",
-    "Size": 9100504,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.9/doublecmd-1.0.9.x86_64-win64.exe"
+    "Date": "01/21/2023",
+    "Size": 9099690,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.exe"
   },
   {
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "12/03/2022",
-    "Size": 14623513,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.9/doublecmd-1.0.9.x86_64-win64.msi"
+    "Date": "01/21/2023",
+    "Size": 14623515,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.msi"
   },
   {
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "12/03/2022",
-    "Size": 14029443,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.9/doublecmd-1.0.9.x86_64-win64.zip"
+    "Date": "01/21/2023",
+    "Size": 14029919,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.zip"
   },
   {
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "12/03/2022",
-    "Size": 8741701,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.9/doublecmd-1.0.9.i386-win32.exe"
+    "Date": "01/21/2023",
+    "Size": 8741444,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.i386-win32.exe"
   },
   {
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "12/03/2022",
-    "Size": 13898512,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.9/doublecmd-1.0.9.i386-win32.msi"
+    "Date": "01/21/2023",
+    "Size": 13898514,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.i386-win32.msi"
   },
   {
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "12/03/2022",
-    "Size": 13313102,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.9/doublecmd-1.0.9.i386-win32.zip"
+    "Date": "01/21/2023",
+    "Size": 13313484,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.i386-win32.zip"
   }
 ]
