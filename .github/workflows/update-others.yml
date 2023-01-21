@@ -80,7 +80,7 @@ jobs:
           foreach ($app in @("MozillaFirefox", "MozillaThunderbird")) {
               Write-Host "`nChecking: $app"
               $file = Get-Item -Path "${{ github.workspace }}/json/$app.json"
-              if ($Null -ne $file) {
+              if ($null -ne $file) {
                   Write-Host "Update with: $($file.FullName)."
                   wrangler kv:key put $app.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
               }

@@ -72,7 +72,7 @@ jobs:
             $Updates = Get-Content -Path $UpdateFile
           }
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-          if ($Null -ne $files) {
+          if ($null -ne $files) {
               $Updates += $files
               $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
           }
@@ -179,7 +179,7 @@ jobs:
             $Updates = Get-Content -Path $UpdateFile
           }
           $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-          if ($Null -ne $files) {
+          if ($null -ne $files) {
             $Updates += $files
             $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
           }
@@ -242,14 +242,14 @@ jobs:
         run: |
           foreach ($UpdateFile in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
               $Files = Get-Content -Path $UpdateFile -ErrorAction "SilentlyContinue"
-              if ($Null -ne $Files) {
+              if ($null -ne $Files) {
                   Write-Host "Found $($Files.Count) files with changes."
                   foreach ($file in $Files) {
                       Write-Host "`nChecking: $file"
                       if ($file -match "json$") {
                           Write-Host "Update with: ${{ github.workspace }}/$file."
                           $file = Get-Item -Path "${{ github.workspace }}/$file" -ErrorAction "SilentlyContinue"
-                          if ($Null -ne $file) {
+                          if ($null -ne $file) {
                               wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
                           }
                           else {

@@ -37,7 +37,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.jso
 
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    if ($Null -ne $Link) {
+    if ($null -ne $Link) {
         $Markdown += New-MDLink -Text "Link" -Link $Link
         $Markdown += "`n`n"
     }
@@ -66,7 +66,7 @@ foreach ($File in $LastUpdates) {
 
     $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $($File.Name -replace ".json", "") } | `
         Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    if ($Null -ne $Link) {
+    if ($null -ne $Link) {
         $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
         $Markdown += "`n`n"
 

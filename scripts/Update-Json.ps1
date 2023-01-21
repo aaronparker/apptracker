@@ -14,20 +14,20 @@ Function Test-PSCore {
         .SYNOPSIS
             Returns True if running on PowerShell Core.
     #>
-    [CmdletBinding(SupportsShouldProcess = $False)]
+    [CmdletBinding(SupportsShouldProcess = $false)]
     [OutputType([Boolean])]
     param (
-        [Parameter(Mandatory = $False, Position = 0)]
+        [Parameter(Mandatory = $false, Position = 0)]
         [ValidateNotNullOrEmpty()]
         [System.String] $Version = '6.0.0'
     )
 
     # Check whether current PowerShell environment matches or is higher than $Version
     If (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
-        Write-Output -InputObject $True
+        Write-Output -InputObject $true
     }
     Else {
-        Write-Output -InputObject $False
+        Write-Output -InputObject $false
     }
 }
 #endregion
@@ -55,17 +55,17 @@ if (Test-PSCore) {
         catch {
             Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
             Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
-            $Output = $Null
+            $Output = $null
         }
 
-        if ($Null -eq $Output) {
+        if ($null -eq $Output) {
             Write-Host -Object "Output from apps is null: $App." -ForegroundColor "Cyan"
         }
         elseif ("RateLimited" -in $Output.Version) {
             Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
         }
         else {
-            $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+            $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
                 ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
             Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
@@ -82,18 +82,18 @@ else {
                 Name          = $file.BaseName
                 ErrorAction   = "SilentlyContinue"
                 WarningAction = "SilentlyContinue"
-                Verbose       = $True
+                Verbose       = $true
             }
             $Output = Get-EvergreenApp @params
 
-            if ($Null -eq $Output) {
+            if ($null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
             }
             elseif ($Output[0].Version -eq "RateLimited") {
                 Write-Host -Object "Skipping. GitHub API rate limited: $($file.BaseName)." -ForegroundColor "Cyan"
             }
             else {
-                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
                     ConvertTo-Json | Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Verbose
                 Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
             }
@@ -109,18 +109,18 @@ else {
                 Name          = $App
                 ErrorAction   = "SilentlyContinue"
                 WarningAction = "SilentlyContinue"
-                Verbose       = $True
+                Verbose       = $true
             }
             $Output = Get-EvergreenApp @params
 
-            if ($Null -eq $Output) {
+            if ($null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
             }
             elseif ("RateLimited" -in $Output.Version) {
                 Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
             }
             else {
-                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Architecture", "Channel", "Release", "Ring", "Language", "Platform", "Product", "Branch", "JDK", "Title", "Edition", "Type" -ErrorAction "SilentlyContinue" | `
+                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
                     ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
                 Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
             }
