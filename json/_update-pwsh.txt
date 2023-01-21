@@ -1,7 +1,0 @@
-json/1Password.json
-json/AdoptiumTemurin11.json
-json/DoubleCommander.json
-json/Gimp.json
-json/GoogleChrome.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
