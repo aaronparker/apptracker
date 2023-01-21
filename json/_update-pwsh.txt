@@ -1,9 +1,0 @@
-json/AdoptiumTemurin11.json
-json/Gimp.json
-json/GoogleChrome.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftOneDrive.json
-json/VideoLanVlcPlayer.json
-json/diagrams.net.json
