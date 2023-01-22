@@ -20,6 +20,24 @@
   {
     "Version": "2.39.1",
     "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "01/12/2023",
+    "Size": 53114560,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe"
+  },
+  {
+    "Version": "2.39.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "01/12/2023",
+    "Size": 48868896,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/PortableGit-2.39.1-32-bit.7z.exe"
+  },
+  {
+    "Version": "2.39.1",
+    "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "01/12/2023",
@@ -43,24 +61,6 @@
     "Date": "01/12/2023",
     "Size": 15723204,
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/pdbs-for-git-64-bit-2.39.1.1.b03dafd9c2-1.zip"
-  },
-  {
-    "Version": "2.39.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Date": "01/12/2023",
-    "Size": 53114560,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe"
-  },
-  {
-    "Version": "2.39.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "Date": "01/12/2023",
-    "Size": 48868896,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/PortableGit-2.39.1-32-bit.7z.exe"
   },
   {
     "Version": "2.39.1",

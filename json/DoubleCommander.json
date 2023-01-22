@@ -11,24 +11,6 @@
   {
     "Version": "1.0.10",
     "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Date": "01/21/2023",
-    "Size": 14623515,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.msi"
-  },
-  {
-    "Version": "1.0.10",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "Date": "01/21/2023",
-    "Size": 14029919,
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.zip"
-  },
-  {
-    "Version": "1.0.10",
-    "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "Date": "01/21/2023",
@@ -38,11 +20,29 @@
   {
     "Version": "1.0.10",
     "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "01/21/2023",
+    "Size": 14623515,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.msi"
+  },
+  {
+    "Version": "1.0.10",
+    "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "Date": "01/21/2023",
     "Size": 13898514,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.i386-win32.msi"
+  },
+  {
+    "Version": "1.0.10",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "Date": "01/21/2023",
+    "Size": 14029919,
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.0.10/doublecmd-1.0.10.x86_64-win64.zip"
   },
   {
     "Version": "1.0.10",

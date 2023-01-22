@@ -20,11 +20,65 @@
   {
     "Version": "2.37.1",
     "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "08/14/2022",
+    "Size": 9244672,
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.x64.msi"
+  },
+  {
+    "Version": "2.37.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "08/14/2022",
+    "Size": 72953856,
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.x64.msi"
+  },
+  {
+    "Version": "2.37.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Date": "08/14/2022",
+    "Size": 9179136,
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.x86.msi"
+  },
+  {
+    "Version": "2.37.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Date": "08/14/2022",
+    "Size": 67407872,
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.x86.msi"
+  },
+  {
+    "Version": "2.37.1",
+    "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "msix",
     "Date": "08/14/2022",
     "Size": 65591332,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.arm64.msix"
+  },
+  {
+    "Version": "2.37.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msix",
+    "Date": "08/14/2022",
+    "Size": 79285585,
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.x64.msix"
+  },
+  {
+    "Version": "2.37.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msix",
+    "Date": "08/14/2022",
+    "Size": 65495595,
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.x86.msix"
   },
   {
     "Version": "2.37.1",
@@ -48,33 +102,6 @@
     "Version": "2.37.1",
     "Platform": "Windows",
     "Architecture": "x64",
-    "Type": "msi",
-    "Date": "08/14/2022",
-    "Size": 9244672,
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.x64.msi"
-  },
-  {
-    "Version": "2.37.1",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Date": "08/14/2022",
-    "Size": 72953856,
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.x64.msi"
-  },
-  {
-    "Version": "2.37.1",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msix",
-    "Date": "08/14/2022",
-    "Size": 79285585,
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.x64.msix"
-  },
-  {
-    "Version": "2.37.1",
-    "Platform": "Windows",
-    "Architecture": "x64",
     "Type": "zip",
     "Date": "08/14/2022",
     "Size": 7358676,
@@ -88,33 +115,6 @@
     "Date": "08/14/2022",
     "Size": 71104810,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Portable.x64.zip"
-  },
-  {
-    "Version": "2.37.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Date": "08/14/2022",
-    "Size": 9179136,
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.x86.msi"
-  },
-  {
-    "Version": "2.37.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Date": "08/14/2022",
-    "Size": 67407872,
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.x86.msi"
-  },
-  {
-    "Version": "2.37.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msix",
-    "Date": "08/14/2022",
-    "Size": 65495595,
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.x86.msix"
   },
   {
     "Version": "2.37.1",

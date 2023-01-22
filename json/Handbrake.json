@@ -2,6 +2,15 @@
   {
     "Version": "1.6.0",
     "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "Date": "12/28/2022",
+    "Size": 23028632,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.exe"
+  },
+  {
+    "Version": "1.6.0",
+    "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "Date": "12/28/2022",
@@ -16,15 +25,6 @@
     "Date": "12/28/2022",
     "Size": 17558807,
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/LibHB-1.6.0-win-aarch64.zip"
-  },
-  {
-    "Version": "1.6.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Date": "12/28/2022",
-    "Size": 23028632,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.exe"
   },
   {
     "Version": "1.6.0",

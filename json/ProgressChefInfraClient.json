@@ -58,50 +58,18 @@
   {
     "Version": "18.1.0",
     "Architecture": "x64",
-    "Channel": "current",
-    "Platform": "11",
-    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
-    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi"
-  },
-  {
-    "Version": "18.1.0",
-    "Architecture": "x64",
-    "Channel": "current",
-    "Platform": "2012r2",
-    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
-    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi"
-  },
-  {
-    "Version": "18.1.0",
-    "Architecture": "x64",
-    "Channel": "current",
-    "Platform": "2016",
-    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
-    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi"
-  },
-  {
-    "Version": "18.1.0",
-    "Architecture": "x64",
-    "Channel": "current",
-    "Platform": "2019",
-    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
-    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi"
-  },
-  {
-    "Version": "18.1.0",
-    "Architecture": "x64",
-    "Channel": "current",
-    "Platform": "2022",
-    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
-    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi"
-  },
-  {
-    "Version": "18.1.0",
-    "Architecture": "x64",
     "Channel": "stable",
     "Platform": "10",
     "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
     "URI": "https://packages.chef.io/files/stable/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi"
+  },
+  {
+    "Version": "18.1.0",
+    "Architecture": "x64",
+    "Channel": "current",
+    "Platform": "11",
+    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
+    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi"
   },
   {
     "Version": "18.1.0",
@@ -114,10 +82,26 @@
   {
     "Version": "18.1.0",
     "Architecture": "x64",
+    "Channel": "current",
+    "Platform": "2012r2",
+    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
+    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi"
+  },
+  {
+    "Version": "18.1.0",
+    "Architecture": "x64",
     "Channel": "stable",
     "Platform": "2012r2",
     "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
     "URI": "https://packages.chef.io/files/stable/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi"
+  },
+  {
+    "Version": "18.1.0",
+    "Architecture": "x64",
+    "Channel": "current",
+    "Platform": "2016",
+    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
+    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi"
   },
   {
     "Version": "18.1.0",
@@ -130,10 +114,26 @@
   {
     "Version": "18.1.0",
     "Architecture": "x64",
+    "Channel": "current",
+    "Platform": "2019",
+    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
+    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi"
+  },
+  {
+    "Version": "18.1.0",
+    "Architecture": "x64",
     "Channel": "stable",
     "Platform": "2019",
     "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
     "URI": "https://packages.chef.io/files/stable/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi"
+  },
+  {
+    "Version": "18.1.0",
+    "Architecture": "x64",
+    "Channel": "current",
+    "Platform": "2022",
+    "Sha256": "c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c",
+    "URI": "https://packages.chef.io/files/current/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi"
   },
   {
     "Version": "18.1.0",

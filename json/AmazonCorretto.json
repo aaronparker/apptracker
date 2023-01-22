@@ -8,17 +8,17 @@
   },
   {
     "Version": "8.362.08.1",
-    "Architecture": "x64",
-    "JDK": "8",
-    "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x64-jre.zip"
-  },
-  {
-    "Version": "8.362.08.1",
     "Architecture": "x86",
     "JDK": "8",
     "Type": "msi",
     "URI": "https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x86-jdk.msi"
+  },
+  {
+    "Version": "8.362.08.1",
+    "Architecture": "x64",
+    "JDK": "8",
+    "Type": "zip",
+    "URI": "https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x64-jre.zip"
   },
   {
     "Version": "8.362.08.1",

@@ -1,15 +1,15 @@
 [
   {
     "Version": "5.2.2",
-    "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://releases.mattermost.com/desktop/5.2.2/mattermost-desktop-5.2.2-x64.msi"
-  },
-  {
-    "Version": "5.2.2",
     "Type": "exe",
     "Architecture": "x86",
     "URI": "https://releases.mattermost.com/desktop/5.2.2/mattermost-desktop-setup-5.2.2-win.exe"
+  },
+  {
+    "Version": "5.2.2",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://releases.mattermost.com/desktop/5.2.2/mattermost-desktop-5.2.2-x64.msi"
   },
   {
     "Version": "5.2.2",
