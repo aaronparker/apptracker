@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.13  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.13.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.13  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.13.exe |
 
 ## 1Password7
 
@@ -187,9 +187,9 @@
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| jdk8u352-b08 | jdk  | x64          | c3f2ee62970bae81aa163e155faab8498638962a0a480aa01620d3122ad902ee | 89772032 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u352b08.msi    |
+| jdk8u362-b09 | jdk  | x64          | 07d6ff7bb5400a618e7e8c6e6104c04c1df6141fa85026526676aa8af011e44c | 90394624 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jdk_x64_windows_hotspot_8u362b09.msi    |
 | jdk8u352-b08 | jdk  | x86          | c4e7e38444bbf57572b15c7ff16ecf58ae4939e804d9a1902974ede615227b06 | 90513408 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u352b08.msi |
-| jdk8u352-b08 | jre  | x64          | 27bc5324a8d684e6afa286029c64e4d90e12d4f0b947093865b6c78ac83bd6ee | 32305152 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x64_windows_hotspot_8u352b08.msi    |
+| jdk8u362-b09 | jre  | x64          | fc4b3811a2cb08b1acbb6fc752ef6b2b52375406b6618baa2901f69ba0e03b9f | 32821248 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x64_windows_hotspot_8u362b09.msi    |
 | jdk8u352-b08 | jre  | x86          | 0f97ce285feb5a4fb9743866552b18713c8d67729c99f121c704b26431744275 | 31019008 | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u352b08.msi |
 
 ## AdoptOpenJDK11
@@ -868,9 +868,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -937,8 +937,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 111.0.5545.4  | x64          | dev     | 01/22/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 111.0.5545.3  | x86          | dev     | 01/21/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 111.0.5545.4  | x86          | dev     | 01/21/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 111.0.5532.2  | x64          | dev     | 01/23/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 110.0.5481.38 | x64          | beta    | 01/18/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 110.0.5481.38 | x86          | beta    | 01/18/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 109.0.5414.75 | x64          | stable  | 01/10/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -1574,12 +1574,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.75.0  | win32            | Insider | x86          | 22865a01b872def982bf6d5581ebc6813c55a5ea78dc37f3e00374f36ad78193 | https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeSetup-ia32-1.75.0-insider.exe      |
-| 1.75.0  | win32-arm64      | Insider | ARM64        | bf3dae3ea3780698cf7669f3d46405a25c9ff2b1fae39fac3c3a608428a824dd | https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeSetup-arm64-1.75.0-insider.exe     |
-| 1.75.0  | win32-arm64-user | Insider | ARM64        | 907af3d24ec94a4d42ac15c3ee3cab323bfcf14753868602bb5794c81ddebf9d | https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeUserSetup-arm64-1.75.0-insider.exe |
-| 1.75.0  | win32-user       | Insider | x86          | f0b97966e3c701126df74064ba69ed6d92b1d66fdaa224c1618ad083efbeb818 | https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
-| 1.75.0  | win32-x64        | Insider | x64          | 0f73737d568fcd836eec8275bd578369b574307092a69080b2866bd3c9ffdd77 | https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeSetup-x64-1.75.0-insider.exe       |
-| 1.75.0  | win32-x64-user   | Insider | x64          | 549db4b59b62ec2bce9d8762f6983ebac3a054628f0527c9de9cee519ca76c3b | https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeUserSetup-x64-1.75.0-insider.exe   |
+| 1.75.0  | win32            | Insider | x86          | c72faf9b7aead6a8d7aa14f1aae8d41d5d128d98f8c7bee0ff6b728572ecb54e | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeSetup-ia32-1.75.0-insider.exe      |
+| 1.75.0  | win32-arm64      | Insider | ARM64        | d93bbdc26cf3b5e021b76720504776567824fc47b7dcf260cfa62dbbe9476ce9 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeSetup-arm64-1.75.0-insider.exe     |
+| 1.75.0  | win32-arm64-user | Insider | ARM64        | 91e5c44f3fd892c89d2dc2dcfce7ea8bcaa1461bfd9a126c2460074f493992d6 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeUserSetup-arm64-1.75.0-insider.exe |
+| 1.75.0  | win32-user       | Insider | x86          | 22c8cc438bec235f637e2d487e1c9ab45b9bed392b380333586fa0776027cb51 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
+| 1.75.0  | win32-x64        | Insider | x64          | 738a4a45d104a2953e67eea4921e3a2a83ff4b1e4a0c803b70e99b4de3d90020 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeSetup-x64-1.75.0-insider.exe       |
+| 1.75.0  | win32-x64-user   | Insider | x64          | fa7c542546a84969439257b5d22044c39cfc5dfe676cb26b69a192acc3c26544 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeUserSetup-x64-1.75.0-insider.exe   |
 | 1.74.3  | win32            | Stable  | x86          | f735aac7cc7d86ed486039f028295179ec3126d7a1d5eb8d6baf42409ab182f3 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-ia32-1.74.3.exe                     |
 | 1.74.3  | win32-arm64      | Stable  | ARM64        | 50e324837fc54c809276357842cd524250637030ebdb87963e9793f0219d6e01 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-arm64-1.74.3.exe                    |
 | 1.74.3  | win32-arm64-user | Stable  | ARM64        | 43ff47f7860541c964fcb78740610071f49daaaab58ec37d4301402d70ec7aee | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeUserSetup-arm64-1.74.3.exe                |
@@ -4091,8 +4091,8 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 96.0.4660.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4660.0/win/Opera_Developer_96.0.4660.0_Setup_x64.exe |
-| 96.0.4660.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4660.0/win/Opera_Developer_96.0.4660.0_Setup.exe     |
+| 96.0.4674.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4674.0/win/Opera_Developer_96.0.4674.0_Setup_x64.exe |
+| 96.0.4674.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4674.0/win/Opera_Developer_96.0.4674.0_Setup.exe     |
 | 95.0.4635.15 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.15/win/Opera_beta_95.0.4635.15_Setup_x64.exe         |
 | 95.0.4635.15 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.15/win/Opera_beta_95.0.4635.15_Setup.exe             |
 | 94.0.4606.76 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/94.0.4606.76/win/Opera_94.0.4606.76_Setup_x64.exe                   |
@@ -4112,8 +4112,8 @@
 
 | Version      | Channel | Architecture | Type | URI                                                                                         |
 | ------------ | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 94.0.4606.69 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/94.0.4606.69/win/Opera_GX_94.0.4606.69_Setup_x64.exe |
-| 94.0.4606.69 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/94.0.4606.69/win/Opera_GX_94.0.4606.69_Setup.exe     |
+| 94.0.4606.79 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/94.0.4606.79/win/Opera_GX_94.0.4606.79_Setup_x64.exe |
+| 94.0.4606.79 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/94.0.4606.79/win/Opera_GX_94.0.4606.79_Setup.exe     |
 
 ## OracleJava8
 
@@ -4684,14 +4684,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe          |
-| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi          |
-| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip          |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe                          |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi                          |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip                          |
 
 ## VisualCppRedistAIO
 
@@ -4796,7 +4796,7 @@
 
 | Version | Architecture | Type | URI                                                                                  |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
-| 5.21.6  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21.6/WinSCP-5.21.6-Setup.exe |
+| 5.21.7  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21.7/WinSCP-5.21.7-Setup.exe |
 
 ## Wireshark
 
@@ -4859,8 +4859,8 @@
 | 5.13.5.12053 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.5.12053/arm64/ZoomInstallerFull.msi      |
 | 5.13.5.12053 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.5.12053/x64/ZoomInstallerFull.msi        |
 | 5.13.5.12053 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.12053/ZoomInstallerFull.msi            |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
