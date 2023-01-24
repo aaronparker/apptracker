@@ -1,0 +1,14 @@
+json/AdobeAcrobat.json
+json/AdobeAcrobatDC.json
+json/AdobeAcrobatProStdDC.json
+json/AdobeAcrobatReaderDC.json
+json/AdoptiumTemurin17.json
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/ProgressChefInSpec.json
+json/TeamViewer.json
+json/TelerikFiddlerEverywhere.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
