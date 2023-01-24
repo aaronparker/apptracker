@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.13  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.13.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.13  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.13.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -868,9 +868,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -937,8 +937,8 @@
 
 | Version       | Architecture | Channel | Date       | Type | URI                                                                                     |
 | ------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 111.0.5545.3  | x64          | dev     | 01/22/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 111.0.5545.3  | x86          | dev     | 01/21/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 111.0.5545.4  | x64          | dev     | 01/22/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 111.0.5545.4  | x86          | dev     | 01/21/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 110.0.5481.38 | x64          | beta    | 01/18/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 110.0.5481.38 | x86          | beta    | 01/18/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 109.0.5414.75 | x64          | stable  | 01/10/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -1131,9 +1131,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1310,8 +1310,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | f481a0b2e3945501e0bf76c5cf4fdfc283907f2b65774357d802f225e2cbf78e | https://sqlopsbuilds.azureedge.net/insider/e2a7767b53c82ea8f045c57f01e7010c37094083/azuredatastudio-windows-setup-1.42.0-insider.exe      |
-| 1.42.0  | win32-x64-user | Insider | 2775d0a5ac550c400f1343bbeb81b02bb9ee9bcfe1de2c6d8570246f01642c0f | https://sqlopsbuilds.azureedge.net/insider/e2a7767b53c82ea8f045c57f01e7010c37094083/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
+| 1.42.0  | win32-x64      | Insider | 25b140a078f5ff75c24f118d6584a00032e8d982e2693bc48fa2901c38eb900e | https://sqlopsbuilds.azureedge.net/insider/ec4bc7f7db1dfdc2ee9732d6f2f9e447797aa5c0/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64-user | Insider | a502eee583f321af8ddfee72a9a41555ab0c116983b2a38b3f33ea5724d082cc | https://sqlopsbuilds.azureedge.net/insider/ec4bc7f7db1dfdc2ee9732d6f2f9e447797aa5c0/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.40.2  | win32-x64      | Stable  | 88b455affe1c2d523e85fba85408517c885a47bc3df2ec88985b204989a83445 | https://sqlopsbuilds.azureedge.net/stable/661384637db384fe5d4e6224069adbe708580b16/azuredatastudio-windows-setup-1.40.2.exe               |
 | 1.40.2  | win32-x64-user | Stable  | 4467e780498d3064be3a8e1831b513d4ea32441bc11f9ce3737b1a2bbf358181 | https://sqlopsbuilds.azureedge.net/stable/661384637db384fe5d4e6224069adbe708580b16/azuredatastudio-windows-user-setup-1.40.2.exe          |
 
@@ -1427,18 +1427,20 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.015.0119.0001 | AMD64        | InternalFast | d0eYW0i0s+d6GWxn1bz4d2UNIY37DxvMFHK7Qm0e9ys= | exe  | https://oneclient.sfx.ms/Win/Installers/23.015.0119.0001/amd64/OneDriveSetup.exe |
-| 23.015.0119.0001 | x86          | InternalFast | Krg0BRtPP3fCUcB2mPlfNr0/tp2+Bc/J6EVMubTJvzU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.015.0119.0001/OneDriveSetup.exe       |
+| 23.016.0122.0001 | AMD64        | InternalFast | fLLeFuKgV/iv4pLf7EodjrOi3WZAbUdqz8wZywSUeNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.016.0122.0001/amd64/OneDriveSetup.exe |
+| 23.016.0122.0001 | x86          | InternalFast | /2R4lWEOp9jUhnBoaUsSRemUBkYDnzu7vyb3q3kqrrI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.016.0122.0001/OneDriveSetup.exe       |
+| 23.011.0115.0004 | AMD64        | Insider      | bsAim74Q2vAik4SYL97Pblqykfn0ugkkB+VzNsG7WhI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0004/amd64/OneDriveSetup.exe |
+| 23.011.0115.0004 | x86          | Insider      | Gk+uo4+w29mIzUz4HiycLUOq9ZHx7tu7wptF0KIfWfk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0004/OneDriveSetup.exe       |
 | 23.011.0115.0001 | AMD64        | InternalSlow | rdH20VBXnSBkPFl3JY0PLQQdIBoK/ljuyfV+OdrzgTA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0001/amd64/OneDriveSetup.exe |
 | 23.011.0115.0001 | x86          | InternalSlow | FGf4YpSsUxdqSf6gooPGWcxtWen9ZvEfS5wdXzOvPVA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0001/OneDriveSetup.exe       |
+| 23.007.0109.0004 | AMD64        | Production   | jeSPmHJyYwlAOnU/ozU3ACY2kiIhkI1TWRLNUWOfTY0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0004/amd64/OneDriveSetup.exe |
+| 23.007.0109.0004 | x86          | Production   | z8FIpmF6oQe7ui7Q+gPrVI9dcFDflW2qyuwgjPhpHsc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0004/OneDriveSetup.exe       |
 | 23.007.0109.0001 | AMD64        | Insider      | 7bPfBQTiUj/rzezuuLTaFVJ3H23LucD/ziItwTfmsFo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0001/amd64/OneDriveSetup.exe |
-| 23.007.0109.0001 | AMD64        | Production   | 7bPfBQTiUj/rzezuuLTaFVJ3H23LucD/ziItwTfmsFo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0001/amd64/OneDriveSetup.exe |
 | 23.007.0109.0001 | x86          | Insider      | ZeIdMapoGMbupdQgNcdV1CutU8+b5eCBOqfhx28XBj8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0001/OneDriveSetup.exe       |
-| 23.007.0109.0001 | x86          | Production   | ZeIdMapoGMbupdQgNcdV1CutU8+b5eCBOqfhx28XBj8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0001/OneDriveSetup.exe       |
 | 23.002.0102.0004 | AMD64        | Production   | EwMVlp0oVybyDqNdwzSjlePTHoO6vsO9FuM/nUX+BOQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.002.0102.0004/amd64/OneDriveSetup.exe |
 | 23.002.0102.0004 | x86          | Production   | V3IUxyUThcJlvZyMONd+HMBGdNSoHBWn3DEhKfye3pI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.002.0102.0004/OneDriveSetup.exe       |
-| 22.131.0619.0001 | AMD64        | Enterprise   | oRJK6vbSwqa8EUWBwjnXitZxz8r4RDrTcamdbEB20Mg= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/amd64/OneDriveSetup.exe |
-| 22.131.0619.0001 | x86          | Enterprise   | ObZEdqfd8gn9RhzR4SkuVS+Xu4R0vye5OnAaUgRl9E4= | exe  | https://oneclient.sfx.ms/Win/Enterprise/22.131.0619.0001/OneDriveSetup.exe       |
+| 22.196.0918.0001 | AMD64        | Enterprise   | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/amd64/OneDriveSetup.exe       |
+| 22.196.0918.0001 | x86          | Enterprise   | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/OneDriveSetup.exe             |
 
 ## MicrosoftOutlook
 
@@ -1574,12 +1576,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.75.0  | win32            | Insider | x86          | c72faf9b7aead6a8d7aa14f1aae8d41d5d128d98f8c7bee0ff6b728572ecb54e | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeSetup-ia32-1.75.0-insider.exe      |
-| 1.75.0  | win32-arm64      | Insider | ARM64        | d93bbdc26cf3b5e021b76720504776567824fc47b7dcf260cfa62dbbe9476ce9 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeSetup-arm64-1.75.0-insider.exe     |
-| 1.75.0  | win32-arm64-user | Insider | ARM64        | 91e5c44f3fd892c89d2dc2dcfce7ea8bcaa1461bfd9a126c2460074f493992d6 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeUserSetup-arm64-1.75.0-insider.exe |
-| 1.75.0  | win32-user       | Insider | x86          | 22c8cc438bec235f637e2d487e1c9ab45b9bed392b380333586fa0776027cb51 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
-| 1.75.0  | win32-x64        | Insider | x64          | 738a4a45d104a2953e67eea4921e3a2a83ff4b1e4a0c803b70e99b4de3d90020 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeSetup-x64-1.75.0-insider.exe       |
-| 1.75.0  | win32-x64-user   | Insider | x64          | fa7c542546a84969439257b5d22044c39cfc5dfe676cb26b69a192acc3c26544 | https://vscode.blob.core.windows.net/insider/f1b09237cd400d92987cf7a9681995e8011ef54c/VSCodeUserSetup-x64-1.75.0-insider.exe   |
+| 1.75.0  | win32            | Insider | x86          | 08e5afa367550ddf0065daabf9c5515a9145fae910e07dcad6b5efbc731f63ea | https://vscode.blob.core.windows.net/insider/0a6c277e4faa44a6b6eb82ddca8bfeccf7fecef6/VSCodeSetup-ia32-1.75.0-insider.exe      |
+| 1.75.0  | win32-arm64      | Insider | ARM64        | fbe72c8993cd86b9902edff9d2706f9d957709eda981b3f36b9f35a9324d33bb | https://vscode.blob.core.windows.net/insider/0a6c277e4faa44a6b6eb82ddca8bfeccf7fecef6/VSCodeSetup-arm64-1.75.0-insider.exe     |
+| 1.75.0  | win32-arm64-user | Insider | ARM64        | 0001e20dc3cf33f63fd9cf269c987947abdfaa77bf7fd0797306101eb669609d | https://vscode.blob.core.windows.net/insider/0a6c277e4faa44a6b6eb82ddca8bfeccf7fecef6/VSCodeUserSetup-arm64-1.75.0-insider.exe |
+| 1.75.0  | win32-user       | Insider | x86          | 39241c501ab591bfe990051e8298d3df7c43b69c3427d05d9fb544e25985cefe | https://vscode.blob.core.windows.net/insider/0a6c277e4faa44a6b6eb82ddca8bfeccf7fecef6/VSCodeUserSetup-ia32-1.75.0-insider.exe  |
+| 1.75.0  | win32-x64        | Insider | x64          | 87687b6f76037d02f157e96c30af81dfa62af6a5799fe3d7c180986e5437e0e8 | https://vscode.blob.core.windows.net/insider/0a6c277e4faa44a6b6eb82ddca8bfeccf7fecef6/VSCodeSetup-x64-1.75.0-insider.exe       |
+| 1.75.0  | win32-x64-user   | Insider | x64          | d0e58e634a6c58dfce9712319e6ec231332b9d8b9991a0964cb1ac0fbf43fc54 | https://vscode.blob.core.windows.net/insider/0a6c277e4faa44a6b6eb82ddca8bfeccf7fecef6/VSCodeUserSetup-x64-1.75.0-insider.exe   |
 | 1.74.3  | win32            | Stable  | x86          | f735aac7cc7d86ed486039f028295179ec3126d7a1d5eb8d6baf42409ab182f3 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-ia32-1.74.3.exe                     |
 | 1.74.3  | win32-arm64      | Stable  | ARM64        | 50e324837fc54c809276357842cd524250637030ebdb87963e9793f0219d6e01 | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeSetup-arm64-1.74.3.exe                    |
 | 1.74.3  | win32-arm64-user | Stable  | ARM64        | 43ff47f7860541c964fcb78740610071f49daaaab58ec37d4301402d70ec7aee | https://az764295.vo.msecnd.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/VSCodeUserSetup-arm64-1.74.3.exe                |
@@ -4009,7 +4011,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2022.4.8344 | 01/18/2023 | https://download.octopusdeploy.com/octopus/Octopus.2022.4.8344-x64.msi |
+| 2022.4.8362 | 01/24/2023 | https://download.octopusdeploy.com/octopus/Octopus.2022.4.8362-x64.msi |
 
 ## OctopusTentacle
 
@@ -4239,12 +4241,12 @@
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                           |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 5.21.26 | x64          | current | 10       | 297dcbaaafe1c92158c005f1c7c672a1e2220631b214e8a902a1e6ba4ec9fcf8 | https://packages.chef.io/files/current/inspec/5.21.26/windows/10/inspec-5.21.26-1-x64.msi     |
-| 5.21.26 | x64          | current | 11       | 297dcbaaafe1c92158c005f1c7c672a1e2220631b214e8a902a1e6ba4ec9fcf8 | https://packages.chef.io/files/current/inspec/5.21.26/windows/11/inspec-5.21.26-1-x64.msi     |
-| 5.21.26 | x64          | current | 2012r2   | 297dcbaaafe1c92158c005f1c7c672a1e2220631b214e8a902a1e6ba4ec9fcf8 | https://packages.chef.io/files/current/inspec/5.21.26/windows/2012r2/inspec-5.21.26-1-x64.msi |
-| 5.21.26 | x64          | current | 2016     | 297dcbaaafe1c92158c005f1c7c672a1e2220631b214e8a902a1e6ba4ec9fcf8 | https://packages.chef.io/files/current/inspec/5.21.26/windows/2016/inspec-5.21.26-1-x64.msi   |
-| 5.21.26 | x64          | current | 2019     | 297dcbaaafe1c92158c005f1c7c672a1e2220631b214e8a902a1e6ba4ec9fcf8 | https://packages.chef.io/files/current/inspec/5.21.26/windows/2019/inspec-5.21.26-1-x64.msi   |
-| 5.21.26 | x64          | current | 2022     | 297dcbaaafe1c92158c005f1c7c672a1e2220631b214e8a902a1e6ba4ec9fcf8 | https://packages.chef.io/files/current/inspec/5.21.26/windows/2022/inspec-5.21.26-1-x64.msi   |
+| 5.21.28 | x64          | current | 10       | 0d6b5aa5786b2efb7a12934a1c3f63e7d6c5b749f66830e4e3d0ad36613e6408 | https://packages.chef.io/files/current/inspec/5.21.28/windows/10/inspec-5.21.28-1-x64.msi     |
+| 5.21.28 | x64          | current | 11       | 0d6b5aa5786b2efb7a12934a1c3f63e7d6c5b749f66830e4e3d0ad36613e6408 | https://packages.chef.io/files/current/inspec/5.21.28/windows/11/inspec-5.21.28-1-x64.msi     |
+| 5.21.28 | x64          | current | 2012r2   | 0d6b5aa5786b2efb7a12934a1c3f63e7d6c5b749f66830e4e3d0ad36613e6408 | https://packages.chef.io/files/current/inspec/5.21.28/windows/2012r2/inspec-5.21.28-1-x64.msi |
+| 5.21.28 | x64          | current | 2016     | 0d6b5aa5786b2efb7a12934a1c3f63e7d6c5b749f66830e4e3d0ad36613e6408 | https://packages.chef.io/files/current/inspec/5.21.28/windows/2016/inspec-5.21.28-1-x64.msi   |
+| 5.21.28 | x64          | current | 2019     | 0d6b5aa5786b2efb7a12934a1c3f63e7d6c5b749f66830e4e3d0ad36613e6408 | https://packages.chef.io/files/current/inspec/5.21.28/windows/2019/inspec-5.21.28-1-x64.msi   |
+| 5.21.28 | x64          | current | 2022     | 0d6b5aa5786b2efb7a12934a1c3f63e7d6c5b749f66830e4e3d0ad36613e6408 | https://packages.chef.io/files/current/inspec/5.21.28/windows/2022/inspec-5.21.28-1-x64.msi   |
 | 5.18.14 | x64          | stable  | 10       | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/10/inspec-5.18.14-1-x64.msi      |
 | 5.18.14 | x64          | stable  | 11       | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/11/inspec-5.18.14-1-x64.msi      |
 | 5.18.14 | x64          | stable  | 2012r2   | f1674287fb8180e4a047b36a933533389dd3a76758e7d716227c6a16b9628ca5 | https://packages.chef.io/files/stable/inspec/5.18.14/windows/2012r2/inspec-5.18.14-1-x64.msi  |
@@ -4449,10 +4451,10 @@
 
 [Link](https://getsharex.com/)
 
-| Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------- |
-| 14.1.0  | Windows  | x86          | exe  | 07/15/2022 | 7496080 | https://github.com/ShareX/ShareX/releases/download/v14.1.0/ShareX-14.1.0-setup.exe    |
-| 14.1.0  | Windows  | x86          | zip  | 07/15/2022 | 7721103 | https://github.com/ShareX/ShareX/releases/download/v14.1.0/ShareX-14.1.0-portable.zip |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------- |
+| 15.0.0  | Windows  | x86          | exe  | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
+| 15.0.0  | Windows  | x86          | zip  | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
 
 ## SignalDesktop
 
@@ -4684,14 +4686,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe             |
-| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi             |
-| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip             |
-| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe  |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi  |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip  |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
