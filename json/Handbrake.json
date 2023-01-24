@@ -1,56 +1,74 @@
 [
   {
-    "Version": "1.6.0",
+    "Version": "1.6.1",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "Date": "01/22/2023",
+    "Size": 17185064,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.exe"
+  },
+  {
+    "Version": "1.6.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "12/28/2022",
-    "Size": 23028632,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.exe"
+    "Date": "01/22/2023",
+    "Size": 23066024,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.exe"
   },
   {
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
-    "Date": "12/28/2022",
-    "Size": 17129120,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrakeCLI-1.6.0-win-aarch64.zip"
+    "Date": "01/22/2023",
+    "Size": 25568465,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.zip"
   },
   {
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
-    "Date": "12/28/2022",
-    "Size": 17558807,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/LibHB-1.6.0-win-aarch64.zip"
+    "Date": "01/22/2023",
+    "Size": 17125492,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-aarch64.zip"
   },
   {
-    "Version": "1.6.0",
+    "Version": "1.6.1",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "zip",
+    "Date": "01/22/2023",
+    "Size": 17560300,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-aarch64.zip"
+  },
+  {
+    "Version": "1.6.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "12/28/2022",
-    "Size": 32064879,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrake-1.6.0-x86_64-Win_GUI.zip"
+    "Date": "01/22/2023",
+    "Size": 32107821,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.zip"
   },
   {
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "12/28/2022",
-    "Size": 21802189,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/HandBrakeCLI-1.6.0-win-x86_64.zip"
+    "Date": "01/22/2023",
+    "Size": 21841487,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip"
   },
   {
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "12/28/2022",
-    "Size": 22393864,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.0/LibHB-1.6.0-win-x86_64.zip"
+    "Date": "01/22/2023",
+    "Size": 22434962,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-x86_64.zip"
   }
 ]
