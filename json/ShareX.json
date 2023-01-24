@@ -1,20 +1,20 @@
 [
   {
-    "Version": "14.1.0",
+    "Version": "15.0.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "07/15/2022",
-    "Size": 7496080,
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v14.1.0/ShareX-14.1.0-setup.exe"
+    "Date": "01/18/2023",
+    "Size": 35744551,
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe"
   },
   {
-    "Version": "14.1.0",
+    "Version": "15.0.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "07/15/2022",
-    "Size": 7721103,
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v14.1.0/ShareX-14.1.0-portable.zip"
+    "Date": "01/18/2023",
+    "Size": 47026050,
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip"
   }
 ]
