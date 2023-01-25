@@ -1,62 +1,42 @@
 [
   {
-    "Version": "7.3.1",
+    "Version": "7.3.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "12/13/2022",
-    "Size": 106213376,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.1/PowerShell-7.3.1-win-x64.msi",
+    "Date": "01/24/2023",
+    "Size": 105549824,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.2/PowerShell-7.3.2-win-x64.msi",
     "Release": "Stable"
   },
   {
-    "Version": "7.3.1",
+    "Version": "7.3.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "12/13/2022",
-    "Size": 97525760,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.1/PowerShell-7.3.1-win-x86.msi",
+    "Date": "01/24/2023",
+    "Size": 97935360,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.2/PowerShell-7.3.2-win-x86.msi",
     "Release": "Stable"
   },
   {
-    "Version": "7.2.8",
+    "Version": "7.2.9",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "12/13/2022",
-    "Size": 106979328,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.8/PowerShell-7.2.8-win-x64.msi",
+    "Date": "01/24/2023",
+    "Size": 106995712,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.9/PowerShell-7.2.9-win-x64.msi",
     "Release": "LTS"
   },
   {
-    "Version": "7.2.8",
+    "Version": "7.2.9",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "12/13/2022",
-    "Size": 97308672,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.8/PowerShell-7.2.8-win-x86.msi",
-    "Release": "LTS"
-  },
-  {
-    "Version": "7.0.13",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Date": "10/20/2022",
-    "Size": 92106752,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.13/PowerShell-7.0.13-win-x64.msi",
-    "Release": "LTS"
-  },
-  {
-    "Version": "7.0.13",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Date": "10/20/2022",
-    "Size": 83656704,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.13/PowerShell-7.0.13-win-x86.msi",
+    "Date": "01/24/2023",
+    "Size": 97325056,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.9/PowerShell-7.2.9-win-x86.msi",
     "Release": "LTS"
   }
 ]

@@ -1,0 +1,16 @@
+json/1Password.json
+json/AWSSAMCLI.json
+json/AirtameApp.json
+json/FileZilla.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftAzureStorageExplorer.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftPowerShell.json
+json/MicrosoftTerminal.json
+json/MicrosoftWvdRemoteDesktop.json
+json/PiriformCCleanerFree.json
+json/Praat.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
