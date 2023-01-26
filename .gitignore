@@ -40,3 +40,4 @@ Thumbs.db
 ######################
 .vs/**
 
+package-lock.json
