@@ -1,15 +1,6 @@
 [
   {
     "Version": "10.0.2034.1",
-    "Size": 190013440,
-    "Hash": "e8edab43f2a11a3f53453157dbd92f9cef34e553",
-    "Language": "ja_JP",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_arm64_full.msi"
-  },
-  {
-    "Version": "10.0.2034.1",
     "Size": 48762880,
     "Hash": "7631d2e03f2636154a8544351f4c9e2f279290f4",
     "Language": "ja_JP",
@@ -19,12 +10,12 @@
   },
   {
     "Version": "10.0.2034.1",
-    "Size": 50515968,
-    "Hash": "f7721e8571d4f030d9dfac331b1da64e6c005131",
+    "Size": 190013440,
+    "Hash": "e8edab43f2a11a3f53453157dbd92f9cef34e553",
     "Language": "ja_JP",
-    "Architecture": "x64",
+    "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_nt64.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_arm64_full.msi"
   },
   {
     "Version": "10.0.2034.1",
@@ -37,12 +28,12 @@
   },
   {
     "Version": "10.0.2034.1",
-    "Size": 46522368,
-    "Hash": "a0673d98b925d6486ecf19eda773fcfdfd1d4315",
+    "Size": 50515968,
+    "Hash": "f7721e8571d4f030d9dfac331b1da64e6c005131",
     "Language": "ja_JP",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_nt32.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_nt64.msi"
   },
   {
     "Version": "10.0.2034.1",
@@ -52,5 +43,14 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_nt32_full.msi"
+  },
+  {
+    "Version": "10.0.2034.1",
+    "Size": 46522368,
+    "Hash": "a0673d98b925d6486ecf19eda773fcfdfd1d4315",
+    "Language": "ja_JP",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_nt32.msi"
   }
 ]
