@@ -1,0 +1,10 @@
+json/1Password.json
+json/AirtameApp.json
+json/Audacity.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/XnSoftXnViewMP.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json
