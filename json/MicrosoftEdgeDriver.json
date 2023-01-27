@@ -36,10 +36,10 @@
     "URI": "https://msedgedriver.azureedge.net/110.0.1587.22/edgedriver_win32.zip"
   },
   {
-    "Version": "109.0.1518.69",
+    "Version": "109.0.1518.70",
     "Channel": "Stable",
     "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/109.0.1518.69/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.azureedge.net/109.0.1518.70/edgedriver_arm64.zip"
   },
   {
     "Version": "109.0.1518.69",

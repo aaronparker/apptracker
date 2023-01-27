@@ -1,0 +1,14 @@
+json/AirtameApp.json
+json/Cyberduck.json
+json/Gimp.json
+json/HashicorpConsul.json
+json/JetBrainsIntelliJIDEA.json
+json/JetBrainsPyCharm.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftSsms.json
+json/TableauPrep.json
+json/VideoLanVlcPlayer.json

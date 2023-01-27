@@ -1,19 +1,19 @@
 [
   {
-    "Version": "23.019.0124.0003",
+    "Version": "23.020.0125.0001",
     "Architecture": "AMD64",
     "Ring": "InternalFast",
-    "Sha256": "7ebGJO4fzZk/hMfxfRkuKjwcR8+WFiGyY8uGZePUBhE=",
+    "Sha256": "Zv86PNiYv3+Um2U7Df0orAsFaICV51P96/7mJgPoKdQ=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.019.0124.0003/amd64/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "23.019.0124.0003",
+    "Version": "23.020.0125.0001",
     "Architecture": "x86",
     "Ring": "InternalFast",
-    "Sha256": "GkOlI0avy/JeLVgPEqQkBMIL46lp763YRs0eGRmBwkg=",
+    "Sha256": "WqqhXHSjR634rclRuVThgFdwmYhHCcAqGqvSOZqGgQw=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.019.0124.0003/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/OneDriveSetup.exe"
   },
   {
     "Version": "23.016.0122.0001",
