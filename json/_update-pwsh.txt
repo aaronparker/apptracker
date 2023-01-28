@@ -1,0 +1,5 @@
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
