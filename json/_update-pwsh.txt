@@ -1,0 +1,3 @@
+json/Gimp.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
