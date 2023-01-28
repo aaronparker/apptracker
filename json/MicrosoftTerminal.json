@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.16.10231.0",
+    "Version": "1.16.10261.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msixbundle",
-    "Date": "01/23/2023",
-    "Size": 39747565,
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.16.10231.0/Microsoft.WindowsTerminal_Win10_1.16.10231.0_8wekyb3d8bbwe.msixbundle"
+    "Date": "01/27/2023",
+    "Size": 39751707,
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle"
   },
   {
-    "Version": "1.16.10231.0",
+    "Version": "1.16.10261.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msixbundle",
-    "Date": "01/23/2023",
-    "Size": 19472000,
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.16.10231.0/Microsoft.WindowsTerminal_Win11_1.16.10232.0_8wekyb3d8bbwe.msixbundle"
+    "Date": "01/27/2023",
+    "Size": 19475778,
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.16.10261.0/Microsoft.WindowsTerminal_Win11_1.16.10262.0_8wekyb3d8bbwe.msixbundle"
   }
 ]

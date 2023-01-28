@@ -1,0 +1,11 @@
+json/1Password.json
+json/AirtameApp.json
+json/Fork.json
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpConsul.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTerminal.json
+json/Praat.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
