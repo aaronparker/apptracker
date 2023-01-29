@@ -1,0 +1,5 @@
+json/AirtameApp.json
+json/Gimp.json
+json/ImageMagickStudioImageMagick.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
