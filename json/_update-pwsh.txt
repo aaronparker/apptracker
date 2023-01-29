@@ -1,3 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/VideoLanVlcPlayer.json
