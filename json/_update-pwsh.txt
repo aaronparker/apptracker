@@ -1,7 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/OctopusDeployServer.json
-json/OpenLens.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
