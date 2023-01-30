@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -615,7 +615,7 @@
 
 | Version | Build | Size      | Type | URI                                                                              |
 | ------- | ----- | --------- | ---- | -------------------------------------------------------------------------------- |
-| 4.16.2  | 95914 | 623176016 | exe  | https://desktop.docker.com/win/main/amd64/95914/Docker%20Desktop%20Installer.exe |
+| 4.16.3  | 96739 | 623223120 | exe  | https://desktop.docker.com/win/main/amd64/96739/Docker%20Desktop%20Installer.exe |
 | 4.15.0  | 93002 | 613613904 | exe  | https://desktop.docker.com/win/main/amd64/93002/Docker%20Desktop%20Installer.exe |
 
 ## DoubleCommander
@@ -745,7 +745,25 @@
 
 | Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                |
 | ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
-| 9.0.12013.1 | 192274432 | 4e4e9fe3905b222079587f78bd9c12c52284f8dc | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12013.1/efsw_nt64_jpn.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | cs_CZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_csy.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | de_DE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_deu.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_enu.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | es_CL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_esl.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | es_ES    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_esn.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | fr_CA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_frc.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | fr_FR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_fra.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | id_ID    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_ind.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | it_IT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_ita.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | ko_KR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_kor.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | nl_NL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_nld.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | pl_PL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_plk.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | pt_BR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_ptb.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | ru_RU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_rus.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | sk_SK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_sky.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | tr_TR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_trk.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | uk_UA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_ukr.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_chs.msi |
+| 9.0.12017.0 | 212840448 | 02c6f8cfaae2e865fecc0a0e77d9141cea483d81 | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.0/efsw_nt64_cht.msi |
 
 ## FileZilla
 
@@ -753,7 +771,7 @@
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3.62.2  | 11905648 | 9596496e8200bb8d314503ddad973304a48461b8dcb052912d5d068d3877172ee1d57f53556b3807cd6df4c875babf1393f9a2b2bd1c8e6a9d9b37ba971ee656 | https://download.filezilla-project.org/client/FileZilla_3.62.2_win64-setup.exe |
+| 3.63.1  | 12146872 | 4c3608323fad874963ba35bd64b1f70168dc1db71be4b15589e94d7a9ea28c3f1789183c1ca782c9e5269c2f1557869b392870d447e668c2dd407330a4d94374 | https://download.filezilla-project.org/client/FileZilla_3.63.1_win64-setup.exe |
 
 ## Fork
 
@@ -868,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://abqix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1064,7 +1082,7 @@
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| 7.1.0-59 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-59-Q16-HDRI-x64-dll.exe |
+| 7.1.0-60 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-60-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -1310,7 +1328,7 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | 44e6c18fc50a7b402aaccc0e2b0380f8d806ed54f4e3f989ccc4844391a6a8aa | https://sqlopsbuilds.azureedge.net/insider/75d455185a9cf91003958a27546bea09bc3b71aa/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64      | Insider | 4e9c2f7597803bebc855f0f1660f963ce5c3840dd15eb03b75d30c16d4e5b5de | https://sqlopsbuilds.azureedge.net/insider/72651819d67d3732884e76dedfa82f6258fb2913/azuredatastudio-windows-setup-1.42.0-insider.exe      |
 | 1.42.0  | win32-x64-user | Insider | f5969837eacf1d8e7a2240d83c719cd4bb17b7701c374c3286ea1496da4ae345 | https://sqlopsbuilds.azureedge.net/insider/72651819d67d3732884e76dedfa82f6258fb2913/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.0  | win32-x64      | Stable  | 2b09c315e4658cb12ab964afc503724c7593a706dfbcc4af7ea06ab51e73ffc2 | https://sqlopsbuilds.azureedge.net/stable/cf5e0fe1a33709e2a82dc94f42dbe88487803d62/azuredatastudio-windows-setup-1.41.0.exe               |
 | 1.41.0  | win32-x64-user | Stable  | 0007ba29fa15b4e9f530592c921d2e9e46f95d59e336182e90fa4b8cedba756c | https://sqlopsbuilds.azureedge.net/stable/cf5e0fe1a33709e2a82dc94f42dbe88487803d62/azuredatastudio-windows-user-setup-1.41.0.exe          |
@@ -1429,7 +1447,9 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
 | 23.022.0126.0001 | AMD64        | InternalFast | iBXsM/HlIXkU1Ip8vPsE9WxeVA8ipur5YIxWI1nQLJc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.022.0126.0001/amd64/OneDriveSetup.exe |
 | 23.022.0126.0001 | x86          | InternalFast | 4ZzmhlLR1eM4kPdxEVY/q9RSycvQzTCbt9d9OXur5Zo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.022.0126.0001/OneDriveSetup.exe       |
+| 23.020.0125.0001 | AMD64        | Insider      | Zv86PNiYv3+Um2U7Df0orAsFaICV51P96/7mJgPoKdQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/amd64/OneDriveSetup.exe |
 | 23.020.0125.0001 | AMD64        | InternalSlow | Zv86PNiYv3+Um2U7Df0orAsFaICV51P96/7mJgPoKdQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/amd64/OneDriveSetup.exe |
+| 23.020.0125.0001 | x86          | Insider      | WqqhXHSjR634rclRuVThgFdwmYhHCcAqGqvSOZqGgQw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/OneDriveSetup.exe       |
 | 23.020.0125.0001 | x86          | InternalSlow | WqqhXHSjR634rclRuVThgFdwmYhHCcAqGqvSOZqGgQw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/OneDriveSetup.exe       |
 | 23.011.0115.0004 | AMD64        | Insider      | bsAim74Q2vAik4SYL97Pblqykfn0ugkkB+VzNsG7WhI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0004/amd64/OneDriveSetup.exe |
 | 23.011.0115.0004 | AMD64        | Production   | bsAim74Q2vAik4SYL97Pblqykfn0ugkkB+VzNsG7WhI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0004/amd64/OneDriveSetup.exe |
@@ -4064,9 +4084,9 @@
 
 [Link](https://github.com/MuhammedKalkan/OpenLens/)
 
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                  |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
-| 6.4.0   | Windows  | x86          | exe  | 01/30/2023 | 102436944 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.0-beta.9/OpenLens-6.4.0-beta.9.exe |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                    |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------ |
+| 6.4.0   | Windows  | x86          | exe  | 01/30/2023 | 102439736 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.0-beta.10/OpenLens-6.4.0-beta.10.exe |
 
 ## OpenShellMenu
 
@@ -4684,14 +4704,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.exe               |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.msi               |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.zip               |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe     |
+| 3.0.18  | Windows  | x64          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi     |
+| 3.0.18  | Windows  | x64          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip     |
 
 ## VisualCppRedistAIO
 
@@ -4859,8 +4879,8 @@
 | 5.13.5.12053 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.5.12053/arm64/ZoomInstallerFull.msi      |
 | 5.13.5.12053 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.5.12053/x64/ZoomInstallerFull.msi        |
 | 5.13.5.12053 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.12053/ZoomInstallerFull.msi            |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
