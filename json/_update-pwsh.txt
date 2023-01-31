@@ -1,7 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftTeams.json
-json/MicrosoftVisualStudioCode.json
-json/Postman.json
-json/RingCentral.json
-json/VideoLanVlcPlayer.json
