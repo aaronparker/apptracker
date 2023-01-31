@@ -1,21 +1,21 @@
 [
   {
     "Version": "10.0.2034.1",
-    "Size": 48762880,
-    "Hash": "7631d2e03f2636154a8544351f4c9e2f279290f4",
-    "Language": "ja_JP",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_arm64.msi"
-  },
-  {
-    "Version": "10.0.2034.1",
     "Size": 190013440,
     "Hash": "e8edab43f2a11a3f53453157dbd92f9cef34e553",
     "Language": "ja_JP",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_arm64_full.msi"
+  },
+  {
+    "Version": "10.0.2034.1",
+    "Size": 48762880,
+    "Hash": "7631d2e03f2636154a8544351f4c9e2f279290f4",
+    "Language": "ja_JP",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.0.2034.1/ees_arm64.msi"
   },
   {
     "Version": "10.0.2034.1",

@@ -1,0 +1,14 @@
+json/AdobeAcrobat.json
+json/AirtameApp.json
+json/ControlUpAgent.json
+json/ESETEndpointAntivirus.json
+json/ESETEndpointSecurity.json
+json/MicrosoftAzureDataStudio.json
+json/NotepadPlusPlus.json
+json/OnlyOfficeDesktopEditors.json
+json/OperaBrowser.json
+json/SoberLemurPDFSamBasic.json
+json/Tower.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

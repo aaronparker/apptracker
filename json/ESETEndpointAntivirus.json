@@ -19,15 +19,6 @@
   },
   {
     "Version": "10.0.2034.1",
-    "Size": 49864704,
-    "Hash": "21934d336a7cc2d032051630dd2cbefd9748ad69",
-    "Language": "ja_JP",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v10/10.0.2034.1/eea_nt64.msi"
-  },
-  {
-    "Version": "10.0.2034.1",
     "Size": 211734528,
     "Hash": "b330ace9bab02dd35c449b2c3689392173553561",
     "Language": "ja_JP",
@@ -37,12 +28,12 @@
   },
   {
     "Version": "10.0.2034.1",
-    "Size": 203902976,
-    "Hash": "5cfe9ee3d60e6911393d9aa78c3669e4ffded742",
+    "Size": 49864704,
+    "Hash": "21934d336a7cc2d032051630dd2cbefd9748ad69",
     "Language": "ja_JP",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v10/10.0.2034.1/eea_nt32_full.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v10/10.0.2034.1/eea_nt64.msi"
   },
   {
     "Version": "10.0.2034.1",
@@ -52,5 +43,14 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v10/10.0.2034.1/eea_nt32.msi"
+  },
+  {
+    "Version": "10.0.2034.1",
+    "Size": 203902976,
+    "Hash": "5cfe9ee3d60e6911393d9aa78c3669e4ffded742",
+    "Language": "ja_JP",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v10/10.0.2034.1/eea_nt32_full.msi"
   }
 ]
