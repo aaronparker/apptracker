@@ -1,0 +1,11 @@
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftBicep.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/Praat.json
+json/SoberLemurPDFSamBasic.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
