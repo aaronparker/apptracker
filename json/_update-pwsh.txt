@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
