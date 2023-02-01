@@ -1,0 +1,9 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/OperaBrowser.json
+json/SafingPortmaster.json
+json/SoberLemurPDFSamBasic.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
