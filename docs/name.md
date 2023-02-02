@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -4228,26 +4228,26 @@
 
 [Link](https://www.chef.io/products/chef-infra)
 
-| Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                             |
-| ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 18.1.7  | x64          | unstable | 10       | b6cc56db93454f2379627faa00ecfbdc151543de4e1587ba35e6b1ba5a2f6763 | https://packages.chef.io/files/unstable/chef/18.1.7/windows/10/chef-client-18.1.7-1-x64.msi     |
-| 18.1.7  | x64          | unstable | 11       | b6cc56db93454f2379627faa00ecfbdc151543de4e1587ba35e6b1ba5a2f6763 | https://packages.chef.io/files/unstable/chef/18.1.7/windows/11/chef-client-18.1.7-1-x64.msi     |
-| 18.1.7  | x64          | unstable | 2012r2   | b6cc56db93454f2379627faa00ecfbdc151543de4e1587ba35e6b1ba5a2f6763 | https://packages.chef.io/files/unstable/chef/18.1.7/windows/2012r2/chef-client-18.1.7-1-x64.msi |
-| 18.1.7  | x64          | unstable | 2016     | b6cc56db93454f2379627faa00ecfbdc151543de4e1587ba35e6b1ba5a2f6763 | https://packages.chef.io/files/unstable/chef/18.1.7/windows/2016/chef-client-18.1.7-1-x64.msi   |
-| 18.1.7  | x64          | unstable | 2019     | b6cc56db93454f2379627faa00ecfbdc151543de4e1587ba35e6b1ba5a2f6763 | https://packages.chef.io/files/unstable/chef/18.1.7/windows/2019/chef-client-18.1.7-1-x64.msi   |
-| 18.1.7  | x64          | unstable | 2022     | b6cc56db93454f2379627faa00ecfbdc151543de4e1587ba35e6b1ba5a2f6763 | https://packages.chef.io/files/unstable/chef/18.1.7/windows/2022/chef-client-18.1.7-1-x64.msi   |
-| 18.1.0  | x64          | current  | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi      |
-| 18.1.0  | x64          | stable   | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi       |
-| 18.1.0  | x64          | current  | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi      |
-| 18.1.0  | x64          | stable   | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi       |
-| 18.1.0  | x64          | current  | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi  |
-| 18.1.0  | x64          | stable   | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi   |
-| 18.1.0  | x64          | current  | 2016     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi    |
-| 18.1.0  | x64          | stable   | 2016     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi     |
-| 18.1.0  | x64          | current  | 2019     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi    |
-| 18.1.0  | x64          | stable   | 2019     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi     |
-| 18.1.0  | x64          | current  | 2022     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi    |
-| 18.1.0  | x64          | stable   | 2022     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi     |
+| Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                               |
+| ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 18.1.10 | x64          | unstable | 10       | 3e3fc8543657fd86e20f870db23488667f33476a6851c34e8482232716288abc | https://packages.chef.io/files/unstable/chef/18.1.10/windows/10/chef-client-18.1.10-1-x64.msi     |
+| 18.1.10 | x64          | unstable | 11       | 3e3fc8543657fd86e20f870db23488667f33476a6851c34e8482232716288abc | https://packages.chef.io/files/unstable/chef/18.1.10/windows/11/chef-client-18.1.10-1-x64.msi     |
+| 18.1.10 | x64          | unstable | 2012r2   | 3e3fc8543657fd86e20f870db23488667f33476a6851c34e8482232716288abc | https://packages.chef.io/files/unstable/chef/18.1.10/windows/2012r2/chef-client-18.1.10-1-x64.msi |
+| 18.1.10 | x64          | unstable | 2016     | 3e3fc8543657fd86e20f870db23488667f33476a6851c34e8482232716288abc | https://packages.chef.io/files/unstable/chef/18.1.10/windows/2016/chef-client-18.1.10-1-x64.msi   |
+| 18.1.10 | x64          | unstable | 2019     | 3e3fc8543657fd86e20f870db23488667f33476a6851c34e8482232716288abc | https://packages.chef.io/files/unstable/chef/18.1.10/windows/2019/chef-client-18.1.10-1-x64.msi   |
+| 18.1.10 | x64          | unstable | 2022     | 3e3fc8543657fd86e20f870db23488667f33476a6851c34e8482232716288abc | https://packages.chef.io/files/unstable/chef/18.1.10/windows/2022/chef-client-18.1.10-1-x64.msi   |
+| 18.1.0  | x64          | current  | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi        |
+| 18.1.0  | x64          | stable   | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi         |
+| 18.1.0  | x64          | current  | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi        |
+| 18.1.0  | x64          | stable   | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi         |
+| 18.1.0  | x64          | current  | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi    |
+| 18.1.0  | x64          | stable   | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi     |
+| 18.1.0  | x64          | current  | 2016     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi      |
+| 18.1.0  | x64          | stable   | 2016     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi       |
+| 18.1.0  | x64          | current  | 2019     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi      |
+| 18.1.0  | x64          | stable   | 2019     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi       |
+| 18.1.0  | x64          | current  | 2022     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/current/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi      |
+| 18.1.0  | x64          | stable   | 2022     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi       |
 
 ## ProgressChefInSpec
 
@@ -4700,14 +4700,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe          |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi          |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip          |
 
 ## VisualCppRedistAIO
 
