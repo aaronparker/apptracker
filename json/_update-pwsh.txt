@@ -1,0 +1,8 @@
+json/AirtameApp.json
+json/Gimp.json
+json/MozillaGeckoDriver.json
+json/OperaBrowser.json
+json/OperaCryptoBrowser.json
+json/TelerikFiddlerEverywhere.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
