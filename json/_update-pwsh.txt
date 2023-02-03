@@ -1,5 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
