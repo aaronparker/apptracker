@@ -1,0 +1,16 @@
+json/AWSSAMCLI.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftAzureWindowsVMAgent.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftSsms.json
+json/MicrosoftVisualStudioCode.json
+json/OperaGXBrowser.json
+json/ProgressChefInfraClient.json
+json/SignalDesktop.json
+json/SoberLemurPDFSamBasic.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
