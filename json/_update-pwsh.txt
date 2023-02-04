@@ -1,0 +1,7 @@
+json/1Password.json
+json/Gimp.json
+json/OBSStudio.json
+json/PiriformCCleanerFree.json
+json/TeXstudio.json
+json/VideoLanVlcPlayer.json
+json/diagrams.net.json
