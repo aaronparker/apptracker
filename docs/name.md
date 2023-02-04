@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.14  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.14  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
 
 ## 1Password7
 
@@ -593,11 +593,11 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 20.8.10 | Windows  | x86          | exe  | 01/20/2023 | 101243792 | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.10/draw.io-20.8.10-windows-installer.exe               |
-| 20.8.10 | Windows  | x86          | exe  | 01/20/2023 | 101028040 | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.10/draw.io-20.8.10-windows-no-installer.exe            |
-| 20.8.10 | Windows  | x86          | exe  | 01/20/2023 | 97381840  | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.10/draw.io-ia32-20.8.10-windows-32bit-installer.exe    |
-| 20.8.10 | Windows  | x86          | exe  | 01/20/2023 | 97166544  | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.10/draw.io-ia32-20.8.10-windows-32bit-no-installer.exe |
-| 20.8.10 | Windows  | x86          | msi  | 01/20/2023 | 132870144 | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.10/draw.io-20.8.10.msi                                 |
+| 20.8.16 | Windows  | x86          | exe  | 02/03/2023 | 101247512 | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.16/draw.io-20.8.16-windows-installer.exe               |
+| 20.8.16 | Windows  | x86          | exe  | 02/03/2023 | 101031680 | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.16/draw.io-20.8.16-windows-no-installer.exe            |
+| 20.8.16 | Windows  | x86          | exe  | 02/03/2023 | 97396176  | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.16/draw.io-ia32-20.8.16-windows-32bit-installer.exe    |
+| 20.8.16 | Windows  | x86          | exe  | 02/03/2023 | 97180880  | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.16/draw.io-ia32-20.8.16-windows-32bit-no-installer.exe |
+| 20.8.16 | Windows  | x86          | msi  | 02/03/2023 | 132882432 | https://github.com/jgraph/drawio-desktop/releases/download/v20.8.16/draw.io-20.8.16.msi                                 |
 
 ## dnGrep
 
@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -4021,7 +4021,7 @@
 
 | Version | Architecture | URI                                                                                  |
 | ------- | ------------ | ------------------------------------------------------------------------------------ |
-| 29.0.1  | x64          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-29.0.1-Full-Installer-x64.exe |
+| 29.0.2  | x64          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-29.0.2-Full-Installer-x64.exe |
 
 ## OctopusDeployServer
 
@@ -4206,9 +4206,9 @@
 
 [Link](https://www.ccleaner.com/ccleaner)
 
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.08.10255 | ccsetup608.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| Version | Filename       | URI                                                                                                              |
+| ------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+|         | ccsetup608.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -4625,7 +4625,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 4.4.1   | Windows  | x86          | exe  | 11/27/2022 | 141258002 | https://github.com/texstudio-org/texstudio/releases/download/4.4.1/texstudio-4.4.1-win-qt6.exe |
+| 4.5.1   | Windows  | x86          | exe  | 02/04/2023 | 142852335 | https://github.com/texstudio-org/texstudio/releases/download/4.5.1/texstudio-4.5.1-win-qt6.exe |
 
 ## TogglDesktop
 
@@ -4704,14 +4704,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.mangohost.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.mangohost.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.mangohost.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                       |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
 
 ## VisualCppRedistAIO
 
