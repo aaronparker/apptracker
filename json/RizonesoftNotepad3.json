@@ -1,47 +1,47 @@
 [
   {
-    "Version": "6.23.118.1",
+    "Version": "6.23.203.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "01/18/2023",
-    "Size": 4153208,
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x64_Setup.exe"
+    "Date": "02/03/2023",
+    "Size": 4154728,
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Setup.exe"
   },
   {
-    "Version": "6.23.118.1",
+    "Version": "6.23.203.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "01/18/2023",
-    "Size": 5206784,
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3Portable_6.23.118.1.paf.exe"
+    "Date": "02/03/2023",
+    "Size": 5207528,
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3Portable_6.23.203.2.paf.exe"
   },
   {
-    "Version": "6.23.118.1",
+    "Version": "6.23.203.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "01/18/2023",
-    "Size": 3933824,
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x86_Setup.exe"
+    "Date": "02/03/2023",
+    "Size": 3935624,
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Setup.exe"
   },
   {
-    "Version": "6.23.118.1",
+    "Version": "6.23.203.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "01/18/2023",
-    "Size": 6421447,
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x64_Portable.zip"
+    "Date": "02/03/2023",
+    "Size": 6421908,
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Portable.zip"
   },
   {
-    "Version": "6.23.118.1",
+    "Version": "6.23.203.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "01/18/2023",
-    "Size": 6104771,
-    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.118.1/Notepad3_6.23.118.1_x86_Portable.zip"
+    "Date": "02/03/2023",
+    "Size": 6105337,
+    "URI": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Portable.zip"
   }
 ]

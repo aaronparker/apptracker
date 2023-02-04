@@ -1,0 +1,13 @@
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/OpenLens.json
+json/Postman.json
+json/RizonesoftNotepad3.json
+json/ScooterBeyondCompare.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
