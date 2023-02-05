@@ -1,0 +1,6 @@
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/PiriformCCleanerFree.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
