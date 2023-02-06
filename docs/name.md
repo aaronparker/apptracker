@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.14  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.14  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1053,10 +1053,10 @@
 
 [Link](https://www.vaultproject.io/)
 
-| Version | Type | Architecture | URI                                                                        |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.12.2  | zip  | x64          | https://releases.hashicorp.com/vault/1.12.2/vault_1.12.2_windows_amd64.zip |
-| 1.12.2  | zip  | x86          | https://releases.hashicorp.com/vault/1.12.2/vault_1.12.2_windows_386.zip   |
+| Version | Type | Architecture | URI                                                                          |
+| ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
+| 1.10.10 | zip  | x64          | https://releases.hashicorp.com/vault/1.10.10/vault_1.10.10_windows_amd64.zip |
+| 1.10.10 | zip  | x86          | https://releases.hashicorp.com/vault/1.10.10/vault_1.10.10_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -1149,9 +1149,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
+| Version | URI                                                      |
+| ------- | -------------------------------------------------------- |
+| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1328,7 +1328,7 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | 38bc28db0a41f6726aa0341ddd742eb23ab03ec3edd997ec63f3844288eab9d7 | https://sqlopsbuilds.azureedge.net/insider/8f638be68760115109c83444ee19a49ab112aa2e/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64      | Insider | 3c567583b9da8eac18ce0d80e7885b59381b55bb777d482fe5ecbf130145b3ed | https://sqlopsbuilds.azureedge.net/insider/ac0dc4ee7627ba907c401c0c3d78746546b269b2/azuredatastudio-windows-setup-1.42.0-insider.exe      |
 | 1.42.0  | win32-x64-user | Insider | ae503d396fac4ae30b3eec610a7ee7eddef72b35c9e2b7ce201a4f68e1aac036 | https://sqlopsbuilds.azureedge.net/insider/ac0dc4ee7627ba907c401c0c3d78746546b269b2/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.1  | win32-x64      | Stable  | 96aa90d1691e30cf3eaff7e818c8f3182585920e9cb46fa6c495b77c8e0e81fc | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-setup-1.41.1.exe               |
 | 1.41.1  | win32-x64-user | Stable  | d97cf7e81b9edaf86545798509b01c87e6a462e289fe6a306c556a6be433879c | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-user-setup-1.41.1.exe          |
@@ -4111,8 +4111,8 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 96.0.4691.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4691.0/win/Opera_Developer_96.0.4691.0_Setup_x64.exe |
-| 96.0.4691.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/96.0.4691.0/win/Opera_Developer_96.0.4691.0_Setup.exe     |
+| 97.0.4697.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4697.0/win/Opera_Developer_97.0.4697.0_Setup_x64.exe |
+| 97.0.4697.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4697.0/win/Opera_Developer_97.0.4697.0_Setup.exe     |
 | 95.0.4635.28 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.28/win/Opera_beta_95.0.4635.28_Setup_x64.exe         |
 | 95.0.4635.28 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.28/win/Opera_beta_95.0.4635.28_Setup.exe             |
 | 95.0.4635.25 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.25/win/Opera_95.0.4635.25_Setup_x64.exe                   |
@@ -4704,14 +4704,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
 
 ## VisualCppRedistAIO
 
@@ -4869,16 +4869,16 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.13.7.12602 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.7.12602/arm64/ZoomInstallerFull.exe      |
+| 5.13.7.12602 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.7.12602/x64/ZoomInstallerFull.exe        |
+| 5.13.7.12602 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.7.12602/ZoomInstallerFull.exe            |
+| 5.13.7.12602 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.7.12602/arm64/ZoomInstallerFull.msi      |
+| 5.13.7.12602 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.7.12602/x64/ZoomInstallerFull.msi        |
+| 5.13.7.12602 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.7.12602/ZoomInstallerFull.msi            |
 | 5.13.6.2407  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.exe |
 | 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
 | 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
 | 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| 5.13.5.12053 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.5.12053/arm64/ZoomInstallerFull.exe      |
-| 5.13.5.12053 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.5.12053/x64/ZoomInstallerFull.exe        |
-| 5.13.5.12053 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.5.12053/ZoomInstallerFull.exe            |
-| 5.13.5.12053 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.5.12053/arm64/ZoomInstallerFull.msi      |
-| 5.13.5.12053 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.5.12053/x64/ZoomInstallerFull.msi        |
-| 5.13.5.12053 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.12053/ZoomInstallerFull.msi            |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
