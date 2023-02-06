@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.9.14  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.9.14  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
 
 ## 1Password7
 
@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1082,7 +1082,7 @@
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| 7.1.0-60 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-60-Q16-HDRI-x64-dll.exe |
+| 7.1.0-61 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-61-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -1329,7 +1329,7 @@
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.42.0  | win32-x64      | Insider | 38bc28db0a41f6726aa0341ddd742eb23ab03ec3edd997ec63f3844288eab9d7 | https://sqlopsbuilds.azureedge.net/insider/8f638be68760115109c83444ee19a49ab112aa2e/azuredatastudio-windows-setup-1.42.0-insider.exe      |
-| 1.42.0  | win32-x64-user | Insider | 6333091489c275d07ae5a3c7e17c1d67d5c414613aeb1217415cceca1063d63b | https://sqlopsbuilds.azureedge.net/insider/8f638be68760115109c83444ee19a49ab112aa2e/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
+| 1.42.0  | win32-x64-user | Insider | ae503d396fac4ae30b3eec610a7ee7eddef72b35c9e2b7ce201a4f68e1aac036 | https://sqlopsbuilds.azureedge.net/insider/ac0dc4ee7627ba907c401c0c3d78746546b269b2/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.1  | win32-x64      | Stable  | 96aa90d1691e30cf3eaff7e818c8f3182585920e9cb46fa6c495b77c8e0e81fc | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-setup-1.41.1.exe               |
 | 1.41.1  | win32-x64-user | Stable  | d97cf7e81b9edaf86545798509b01c87e6a462e289fe6a306c556a6be433879c | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-user-setup-1.41.1.exe          |
 
@@ -1594,12 +1594,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | d1cf28183e0de5f9839374cf3aba7ad8660cfc0c1b77e9997a88e54ed3d076a0 | https://vscode.blob.core.windows.net/insider/c4a609f94329b17d91cd13a4fd113d1abfe5ec1f/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | 598fa3af289132726aeca82f0e2818faf8c335eeef4ec9ecd49fcefee0695d6d | https://vscode.blob.core.windows.net/insider/c4a609f94329b17d91cd13a4fd113d1abfe5ec1f/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | b097284b386b138e463e7f47187eda39f4f9379526e15e3de8a76ce9f65aeeeb | https://vscode.blob.core.windows.net/insider/c4a609f94329b17d91cd13a4fd113d1abfe5ec1f/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | d7d52a4ae629dca728e115bb67cb1fbaa4d2eb3723333bb8862554aa468935f4 | https://vscode.blob.core.windows.net/insider/c4a609f94329b17d91cd13a4fd113d1abfe5ec1f/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | 44457a90a2fcfdee5679d967fcdda236b0dbdf04bf1baf356aa8298d5e893e04 | https://vscode.blob.core.windows.net/insider/c4a609f94329b17d91cd13a4fd113d1abfe5ec1f/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | f583362135d23447da02b73de1f8d66b6085c52e62502e1788bbb254ca802553 | https://vscode.blob.core.windows.net/insider/c4a609f94329b17d91cd13a4fd113d1abfe5ec1f/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 8341da43e3e99cbbcdfb01da881f2d3e24fae1bccc8299dfe6c175000bbf26a0 | https://vscode.blob.core.windows.net/insider/c9e3ef865539061b5602c6b9ac6030332aa1ce70/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | fb47612d99c45c274c8bd0ec787dce992032b0b72a9867e065e820e42e14d45a | https://vscode.blob.core.windows.net/insider/c9e3ef865539061b5602c6b9ac6030332aa1ce70/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | a8053b1d396780d0b6dda8336ccc446f295fce4a7a9215867590c3a907475b5d | https://vscode.blob.core.windows.net/insider/c9e3ef865539061b5602c6b9ac6030332aa1ce70/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 2a13c46755a10c6c2a04f377a98d5f099ababdcd913cc541dca984f7799a75de | https://vscode.blob.core.windows.net/insider/c9e3ef865539061b5602c6b9ac6030332aa1ce70/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | 40b18dfa026f7f5172bef2ba5c4e22edd51b3e3a4f480d119e77b7f67628c036 | https://vscode.blob.core.windows.net/insider/c9e3ef865539061b5602c6b9ac6030332aa1ce70/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | 55682fffb16367c7df0dd6a83cd3fb603cb53e7a10d6444217095d7b86f6cd46 | https://vscode.blob.core.windows.net/insider/c9e3ef865539061b5602c6b9ac6030332aa1ce70/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.0  | win32            | Stable  | x86          | deba56cb0b1c2295dc80bd8a97dc5ccfce7aebc8c54300788e61770fb38fd73e | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-ia32-1.75.0.exe                     |
 | 1.75.0  | win32-arm64      | Stable  | ARM64        | fccdda847046261fabdfe6dd7f0d8a0b420e432c1e42bdd3d1f51ee488a0f59b | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-arm64-1.75.0.exe                    |
 | 1.75.0  | win32-arm64-user | Stable  | ARM64        | da5d401dde89060a375e6c32784e97055bd6e4b7993290c1e697c167501da146 | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-arm64-1.75.0.exe                |
@@ -4278,12 +4278,12 @@
 
 | Version    | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                    |
 | ---------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 23.1.1025  | x64          | current | 10       | 1338be9a579c5be2bc3875f128b19da1d9063967bdc039ec7c521992437a6241 | https://packages.chef.io/files/current/chef-workstation/23.1.1025/windows/10/chef-workstation-23.1.1025-1-x64.msi      |
-| 23.1.1025  | x64          | current | 11       | 1338be9a579c5be2bc3875f128b19da1d9063967bdc039ec7c521992437a6241 | https://packages.chef.io/files/current/chef-workstation/23.1.1025/windows/11/chef-workstation-23.1.1025-1-x64.msi      |
-| 23.1.1025  | x64          | current | 2012r2   | 1338be9a579c5be2bc3875f128b19da1d9063967bdc039ec7c521992437a6241 | https://packages.chef.io/files/current/chef-workstation/23.1.1025/windows/2012r2/chef-workstation-23.1.1025-1-x64.msi  |
-| 23.1.1025  | x64          | current | 2016     | 1338be9a579c5be2bc3875f128b19da1d9063967bdc039ec7c521992437a6241 | https://packages.chef.io/files/current/chef-workstation/23.1.1025/windows/2016/chef-workstation-23.1.1025-1-x64.msi    |
-| 23.1.1025  | x64          | current | 2019     | 1338be9a579c5be2bc3875f128b19da1d9063967bdc039ec7c521992437a6241 | https://packages.chef.io/files/current/chef-workstation/23.1.1025/windows/2019/chef-workstation-23.1.1025-1-x64.msi    |
-| 23.1.1025  | x64          | current | 2022     | 1338be9a579c5be2bc3875f128b19da1d9063967bdc039ec7c521992437a6241 | https://packages.chef.io/files/current/chef-workstation/23.1.1025/windows/2022/chef-workstation-23.1.1025-1-x64.msi    |
+| 23.2.1026  | x64          | current | 10       | c2edb5e083e94e2c76900b507401f34e260637115fa9dfb6b90554655405c79f | https://packages.chef.io/files/current/chef-workstation/23.2.1026/windows/10/chef-workstation-23.2.1026-1-x64.msi      |
+| 23.2.1026  | x64          | current | 11       | c2edb5e083e94e2c76900b507401f34e260637115fa9dfb6b90554655405c79f | https://packages.chef.io/files/current/chef-workstation/23.2.1026/windows/11/chef-workstation-23.2.1026-1-x64.msi      |
+| 23.2.1026  | x64          | current | 2012r2   | c2edb5e083e94e2c76900b507401f34e260637115fa9dfb6b90554655405c79f | https://packages.chef.io/files/current/chef-workstation/23.2.1026/windows/2012r2/chef-workstation-23.2.1026-1-x64.msi  |
+| 23.2.1026  | x64          | current | 2016     | c2edb5e083e94e2c76900b507401f34e260637115fa9dfb6b90554655405c79f | https://packages.chef.io/files/current/chef-workstation/23.2.1026/windows/2016/chef-workstation-23.2.1026-1-x64.msi    |
+| 23.2.1026  | x64          | current | 2019     | c2edb5e083e94e2c76900b507401f34e260637115fa9dfb6b90554655405c79f | https://packages.chef.io/files/current/chef-workstation/23.2.1026/windows/2019/chef-workstation-23.2.1026-1-x64.msi    |
+| 23.2.1026  | x64          | current | 2022     | c2edb5e083e94e2c76900b507401f34e260637115fa9dfb6b90554655405c79f | https://packages.chef.io/files/current/chef-workstation/23.2.1026/windows/2022/chef-workstation-23.2.1026-1-x64.msi    |
 | 22.12.1024 | x64          | stable  | 10       | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/10/chef-workstation-22.12.1024-1-x64.msi     |
 | 22.12.1024 | x64          | stable  | 11       | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/11/chef-workstation-22.12.1024-1-x64.msi     |
 | 22.12.1024 | x64          | stable  | 2012r2   | 354ac2415e0a346565c9effeaa7a02d7848943c2e9325ee5c4517eabdf460e60 | https://packages.chef.io/files/stable/chef-workstation/22.12.1024/windows/2012r2/chef-workstation-22.12.1024-1-x64.msi |
@@ -4359,11 +4359,11 @@
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 22.4.33 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
-| 22.4.33 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
-| 22.4.33 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
-| 22.4.33 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
-| 22.4.33 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
+| 22.4.34 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
+| 22.4.34 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
+| 22.4.34 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
+| 22.4.34 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
+| 22.4.34 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
 
 ## RizonesoftNotepad3
 
@@ -4707,11 +4707,11 @@
 | Version | Platform | Architecture | Type | URI                                                                           |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
 | 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe    |
+| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
 | 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi    |
+| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
 | 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip    |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
 
 ## VisualCppRedistAIO
 
