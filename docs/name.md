@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1053,10 +1053,10 @@
 
 [Link](https://www.vaultproject.io/)
 
-| Version | Type | Architecture | URI                                                                          |
-| ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
-| 1.10.10 | zip  | x64          | https://releases.hashicorp.com/vault/1.10.10/vault_1.10.10_windows_amd64.zip |
-| 1.10.10 | zip  | x86          | https://releases.hashicorp.com/vault/1.10.10/vault_1.10.10_windows_386.zip   |
+| Version | Type | Architecture | URI                                                                        |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------- |
+| 1.12.3  | zip  | x64          | https://releases.hashicorp.com/vault/1.12.3/vault_1.12.3_windows_amd64.zip |
+| 1.12.3  | zip  | x86          | https://releases.hashicorp.com/vault/1.12.3/vault_1.12.3_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -1453,12 +1453,8 @@
 | 23.023.0129.0001 | x86          | InternalSlow | qdpf+ms3RopPwXgWqeZx3QJWlocr2rdiw04Hi/tHdBw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0001/OneDriveSetup.exe       |
 | 23.020.0125.0002 | AMD64        | Production   | brtPMUYEr18ka85OmyYBuXmMUmTWEbIKKzKXb7SRmvU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0002/amd64/OneDriveSetup.exe |
 | 23.020.0125.0002 | x86          | Production   | jm3nBnY1z4VXnuCwNgT1+fV/8Va9gQPN/mllpHl9qNA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0002/OneDriveSetup.exe       |
-| 23.020.0125.0001 | AMD64        | Insider      | Zv86PNiYv3+Um2U7Df0orAsFaICV51P96/7mJgPoKdQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/amd64/OneDriveSetup.exe |
-| 23.020.0125.0001 | x86          | Insider      | WqqhXHSjR634rclRuVThgFdwmYhHCcAqGqvSOZqGgQw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0001/OneDriveSetup.exe       |
 | 23.011.0115.0009 | AMD64        | Production   | vKRLnWKh0NKFhvrsKWXf1hmYa1HihsQy5436fEfxQnI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0009/amd64/OneDriveSetup.exe |
 | 23.011.0115.0009 | x86          | Production   | RquTyFZLxyv28eo60naYFeB820+18gTHYYkiJ92fDSo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0009/OneDriveSetup.exe       |
-| 23.007.0109.0004 | AMD64        | Production   | jeSPmHJyYwlAOnU/ozU3ACY2kiIhkI1TWRLNUWOfTY0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0004/amd64/OneDriveSetup.exe |
-| 23.007.0109.0004 | x86          | Production   | z8FIpmF6oQe7ui7Q+gPrVI9dcFDflW2qyuwgjPhpHsc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.007.0109.0004/OneDriveSetup.exe       |
 | 22.196.0918.0001 | AMD64        | Enterprise   | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/amd64/OneDriveSetup.exe       |
 | 22.196.0918.0001 | x86          | Enterprise   | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/OneDriveSetup.exe             |
 
@@ -4225,8 +4221,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------- |
-| 6.3.06  | Windows  | x64          | zip  | 01/31/2023 | 13543982 | https://github.com/praat/praat/releases/download/v6.3.06/praat6306_win64.zip |
-| 6.3.06  | Windows  | x86          | zip  | 01/31/2023 | 13110895 | https://github.com/praat/praat/releases/download/v6.3.06/praat6306_win32.zip |
+| 6.3.07  | Windows  | x64          | zip  | 02/06/2023 | 13548826 | https://github.com/praat/praat/releases/download/v6.3.07/praat6307_win64.zip |
+| 6.3.07  | Windows  | x86          | zip  | 02/06/2023 | 13110094 | https://github.com/praat/praat/releases/download/v6.3.07/praat6307_win32.zip |
 
 ## ProgressChefInfraClient
 
@@ -4313,7 +4309,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 3.9.1   | Windows  | x86          | zip  | 01/20/2023 | 3597012 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.1/PSAppDeployToolkit_v3.9.1.zip |
+| 3.9.2   | Windows  | x86          | zip  | 02/06/2023 | 3598993 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.2/PSAppDeployToolkit_v3.9.2.zip |
 
 ## PSFPython
 
@@ -4593,7 +4589,7 @@
 
 | Version | URI                                                  |
 | ------- | ---------------------------------------------------- |
-| 4.6.0   | https://updates.tdesktop.com/tsetup/tsetup.4.6.0.exe |
+| 4.6.1   | https://updates.tdesktop.com/tsetup/tsetup.4.6.1.exe |
 
 ## TelerikFiddlerClassic
 
@@ -4704,14 +4700,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4879,8 +4875,8 @@
 | 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
 | 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
 | 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
