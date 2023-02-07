@@ -1,0 +1,8 @@
+json/Gimp.json
+json/HashicorpVault.json
+json/MicrosoftOneDrive.json
+json/PSAppDeployToolkit.json
+json/Praat.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json

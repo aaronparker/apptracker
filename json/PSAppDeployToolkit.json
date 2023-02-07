@@ -1,9 +1,9 @@
 {
-  "Version": "3.9.1",
+  "Version": "3.9.2",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "zip",
-  "Date": "01/20/2023",
-  "Size": 3597012,
-  "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.1/PSAppDeployToolkit_v3.9.1.zip"
+  "Date": "02/06/2023",
+  "Size": 3598993,
+  "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.2/PSAppDeployToolkit_v3.9.2.zip"
 }
