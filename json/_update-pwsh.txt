@@ -1,0 +1,7 @@
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftVisualStudioCode.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
