@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.9.14  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.9.14  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.9.14.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -461,8 +461,8 @@
 
 | Version       | Channel | Type | URI                                                                              |
 | ------------- | ------- | ---- | -------------------------------------------------------------------------------- |
-| 110.0.5481.30 | beta    | zip  | https://chromedriver.storage.googleapis.com/110.0.5481.30/chromedriver_win32.zip |
-| 110.0.5481.30 | stable  | zip  | https://chromedriver.storage.googleapis.com/110.0.5481.30/chromedriver_win32.zip |
+| 110.0.5481.77 | beta    | zip  | https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip |
+| 110.0.5481.77 | stable  | zip  | https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip |
 
 ## CitrixVMTools
 
@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://abqix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1149,9 +1149,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1329,7 +1329,7 @@
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.42.0  | win32-x64      | Insider | 62699ceb897ae85f82b483f749e28beb67daf8e6e14fd758ed923fbf3bf4a150 | https://sqlopsbuilds.azureedge.net/insider/99a924dbcdce7bbaa0ab78b19f84e83035e54651/azuredatastudio-windows-setup-1.42.0-insider.exe      |
-| 1.42.0  | win32-x64-user | Insider | 505d1fdb1264e7a0b89ad8506e96a03bbdb3ea215da8bdfbe6231a6546a944e0 | https://sqlopsbuilds.azureedge.net/insider/e1b35d266a42d7b2051ca991834e6b04cfb921bc/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
+| 1.42.0  | win32-x64-user | Insider | 4a65b9bd36d7333722e3a69fbbab8c992d8ed2f290599508d22ac7a031e2bee5 | https://sqlopsbuilds.azureedge.net/insider/99a924dbcdce7bbaa0ab78b19f84e83035e54651/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.1  | win32-x64      | Stable  | 96aa90d1691e30cf3eaff7e818c8f3182585920e9cb46fa6c495b77c8e0e81fc | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-setup-1.41.1.exe               |
 | 1.41.1  | win32-x64-user | Stable  | d97cf7e81b9edaf86545798509b01c87e6a462e289fe6a306c556a6be433879c | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-user-setup-1.41.1.exe          |
 
@@ -1590,12 +1590,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 0a75d846f28d421eace9213272dc0a95ed5ed7ca069691c34f2414fe1ff8cacf | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | b8e6994572bb3828a79e32cccccfa06131c7dbe65433e3a0305cf733a9e9c1f2 | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | 95f06d515735551c391c7901995ca726eb7c0b02067391cf980300c4f0f31f37 | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | 4174c3b3482460dfb84a45750ca9569b50f4bc593f36f5ebd21b3ed7cd7f2dca | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | 07b09736dbdb30940aaf6a70bf8779e7a7dd988cfefd01fed01e03855d111ebf | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | 0ba88943904a05258767ddbb744e003f223b54a9117d14bdda1577657d50ab0a | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 639f27229b85afdb15917e77976dff22d4215ef69b78566d8591dbb630a82299 | https://vscode.blob.core.windows.net/insider/beb9ed3758624b918f918886bb904b0b62511c08/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | 194d9f9aab18818f5a734ecf0f62658abe4170efe7b90a07fef9bd4cd0729032 | https://vscode.blob.core.windows.net/insider/beb9ed3758624b918f918886bb904b0b62511c08/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | 53996e2f01302e4d50bcb37abd1b66f4a08e68a6458394c1d3a24f715511b208 | https://vscode.blob.core.windows.net/insider/beb9ed3758624b918f918886bb904b0b62511c08/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 2c9de288ad9049c59c2c1c8a1c336a741835633303f08e1cc613ea93d50aacc3 | https://vscode.blob.core.windows.net/insider/beb9ed3758624b918f918886bb904b0b62511c08/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | 4a91949fb7075b2c8417d1054cb054daa34baa9f71e321be690181d3ddb7739d | https://vscode.blob.core.windows.net/insider/beb9ed3758624b918f918886bb904b0b62511c08/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | d85837d1b07fd6dc14e7e547cd9bdbfc2d291b44ce35ca7b3e6773eda61e332d | https://vscode.blob.core.windows.net/insider/beb9ed3758624b918f918886bb904b0b62511c08/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.0  | win32            | Stable  | x86          | deba56cb0b1c2295dc80bd8a97dc5ccfce7aebc8c54300788e61770fb38fd73e | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-ia32-1.75.0.exe                     |
 | 1.75.0  | win32-arm64      | Stable  | ARM64        | fccdda847046261fabdfe6dd7f0d8a0b420e432c1e42bdd3d1f51ee488a0f59b | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-arm64-1.75.0.exe                    |
 | 1.75.0  | win32-arm64-user | Stable  | ARM64        | da5d401dde89060a375e6c32784e97055bd6e4b7993290c1e697c167501da146 | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-arm64-1.75.0.exe                |
@@ -1693,7 +1693,7 @@
 
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2023.1.91516-alpha   | x64          | Alpha   | 01/09/2023 15:41:02 | 371743344 | gVbMmy6yq9b1plvbkKyM/il/pU1GIDUIIv015V0hAW3wq8DWyBk1Cz7BTndWN2OdYa4L9pR4qSxLWk76RSovAw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.1.91516-alpha.exe   |
+| 2023.2.81050-alpha   | x64          | Alpha   | 02/08/2023 11:03:49 | 308480672 | eDu7SjMXLqG0yCTMp68ANt57Z1n+JCKwyl4KiEMCRMuOdxCt9o6LOflZPBRri/LoRIqnA3BJgk2pAYZUGsmjeg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.2.81050-alpha.exe   |
 | 2023.1.110749-latest | x64          | Stable  | 01/11/2023 08:12:54 | 371740496 | ntb5PjocaCsIflXAH/BsBy9xdx8/q6/I5AmoSK9+xsX8iIezQAu1QXC2ZICGHaPnq9gt7AErkRf0A3I6GjqI+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.1.110749-latest.exe |
 
 ## MozillaFirefox
@@ -3641,9 +3641,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
-| 0.32.1  | Windows  | ARM64        | zip  | 02/02/2023 | 1541031 | https://github.com/mozilla/geckodriver/releases/download/v0.32.1/geckodriver-v0.32.1-win-aarch64.zip |
-| 0.32.1  | Windows  | x64          | zip  | 02/02/2023 | 1665253 | https://github.com/mozilla/geckodriver/releases/download/v0.32.1/geckodriver-v0.32.1-win64.zip       |
-| 0.32.1  | Windows  | x86          | zip  | 02/02/2023 | 1605421 | https://github.com/mozilla/geckodriver/releases/download/v0.32.1/geckodriver-v0.32.1-win32.zip       |
+| 0.32.2  | Windows  | ARM64        | zip  | 02/08/2023 | 1541136 | https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win-aarch64.zip |
+| 0.32.2  | Windows  | x64          | zip  | 02/08/2023 | 1665171 | https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win64.zip       |
+| 0.32.2  | Windows  | x86          | zip  | 02/08/2023 | 1605875 | https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win32.zip       |
 
 ## MozillaThunderbird
 
@@ -4040,12 +4040,12 @@
 
 [Link](https://www.onlyoffice.com/desktop.aspx)
 
-| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 7.3.0.1 | Windows  | x64          | exe  | 02/01/2023 | 227792768 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0.1/DesktopEditors_x64.exe |
-| 7.3.0.1 | Windows  | x86          | exe  | 02/01/2023 | 206759344 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0.1/DesktopEditors_x86.exe |
-| 7.3.0.1 | Windows  | x64          | msi  | 02/01/2023 | 318215168 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0.1/DesktopEditors_x64.msi |
-| 7.3.0.1 | Windows  | x86          | msi  | 02/01/2023 | 293612032 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0.1/DesktopEditors_x86.msi |
+| Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                          |
+| ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------------- |
+| 7.3.0   | Windows  | x64          | exe  | 01/31/2023 | 227792768 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0/DesktopEditors_x64.exe |
+| 7.3.0   | Windows  | x86          | exe  | 01/31/2023 | 206759344 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0/DesktopEditors_x86.exe |
+| 7.3.0   | Windows  | x64          | msi  | 01/31/2023 | 318215168 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0/DesktopEditors_x64.msi |
+| 7.3.0   | Windows  | x86          | msi  | 01/31/2023 | 293612032 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.3.0/DesktopEditors_x86.msi |
 
 ## OpenJDK
 
@@ -4109,10 +4109,10 @@
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
 | 97.0.4697.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4697.0/win/Opera_Developer_97.0.4697.0_Setup_x64.exe |
 | 97.0.4697.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4697.0/win/Opera_Developer_97.0.4697.0_Setup.exe     |
+| 95.0.4635.37 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.37/win/Opera_95.0.4635.37_Setup_x64.exe                   |
+| 95.0.4635.37 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.37/win/Opera_95.0.4635.37_Setup.exe                       |
 | 95.0.4635.28 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.28/win/Opera_beta_95.0.4635.28_Setup_x64.exe         |
 | 95.0.4635.28 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/95.0.4635.28/win/Opera_beta_95.0.4635.28_Setup.exe             |
-| 95.0.4635.25 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.25/win/Opera_95.0.4635.25_Setup_x64.exe                   |
-| 95.0.4635.25 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.25/win/Opera_95.0.4635.25_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -4202,9 +4202,9 @@
 
 [Link](https://www.ccleaner.com/ccleaner)
 
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.08.10255 | ccsetup608.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| Version | Filename       | URI                                                                                                              |
+| ------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+|         | ccsetup608.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -4317,9 +4317,9 @@
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                              |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ---------------------------------------------------------------- |
-| 3.11.1  | 3      | 3a98e0f9754199d99a7a97a6dacb0d91 | 24355528 | 12/06/2022 | exe  | ARM64        | https://www.python.org/ftp/python/3.11.1/python-3.11.1-arm64.exe |
-| 3.11.1  | 3      | 3a02deed11f7ff4dbc1188d201ad164a | 25218984 | 12/06/2022 | exe  | x64          | https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe |
-| 3.11.1  | 3      | a592f5db4f45ddc3a46c0ae465d3bee0 | 24054000 | 12/06/2022 | exe  | x86          | https://www.python.org/ftp/python/3.11.1/python-3.11.1.exe       |
+| 3.11.2  | 3      | 040ab03501a65cc26bd340323bb1972e | 24451768 | 02/08/2023 | exe  | ARM64        | https://www.python.org/ftp/python/3.11.2/python-3.11.2-arm64.exe |
+| 3.11.2  | 3      | 4331ca54d9eacdbe6e97d6ea63526e57 | 25325400 | 02/08/2023 | exe  | x64          | https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe |
+| 3.11.2  | 3      | 2123016702bbb45688baedc3695852f4 | 24155760 | 02/08/2023 | exe  | x86          | https://www.python.org/ftp/python/3.11.2/python-3.11.2.exe       |
 | 2.7.18  | 2      | a425c758d38f8e28b56f4724b499239a | 20598784 | 04/20/2020 | msi  | x64          | https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi |
 | 2.7.18  | 2      | db6ad9195b3086c6b4cefb9493d738d2 | 19632128 | 04/20/2020 | msi  | x86          | https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi       |
 
@@ -4648,9 +4648,9 @@
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
 | 4.2.422 | beta    | 4E6AC3BF7F323D462EC53CA04C7C2FA4563EF1FD | exe  | https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.exe |
+| 4.2.422 | stable  | 4E6AC3BF7F323D462EC53CA04C7C2FA4563EF1FD | exe  | https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.exe |
 | 4.2.422 | beta    | 43F25B929BBE23CC26A71AD5A0EC5D12509BA486 | msi  | https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.msi |
-| 4.1.418 | stable  | BA712491861905A19E9063F53F88B7A66659DAF0 | exe  | https://www.git-tower.com/apps/tower3-win/418-2691dd92/Tower-4.1.418.exe |
-| 4.1.418 | stable  | 6B97781F7D002A7BECDABB00D513DA370D4F8EED | msi  | https://www.git-tower.com/apps/tower3-win/418-2691dd92/Tower-4.1.418.msi |
+| 4.2.422 | stable  | 43F25B929BBE23CC26A71AD5A0EC5D12509BA486 | msi  | https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.msi |
 
 ## TrackerSoftwarePDFXChangeEditor
 
@@ -4700,14 +4700,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe      |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi      |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip      |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe           |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi           |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip           |
 
 ## VisualCppRedistAIO
 
@@ -4875,8 +4875,8 @@
 | 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
 | 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
 | 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
