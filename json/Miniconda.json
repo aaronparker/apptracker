@@ -1,38 +1,38 @@
 [
   {
-    "Version": "22.11.1",
+    "Version": "23.1.0",
     "Architecture": "x64",
-    "Date": "2022-12-22T22:33:02Z",
-    "Size": 55508040,
-    "MD5": "ba47b40656f76abbca8264fa0acbdf6e",
-    "Sha256": "2e3086630fa3fae7636432a954be530c88d0705fce497120d56e0f5d865b0d51",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py310_22.11.1-1-Windows-x86_64.exe"
+    "Date": "2023-02-08T03:27:22.844Z",
+    "Size": 55780192,
+    "MD5": "7980717ca220e8b6c243dccac67c4dc5",
+    "Sha256": "d4517212c8ac44fd8b5ccc2d4d9f38c2dd924c77a81c2be92c3a72e70dd3e907",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Windows-x86_64.exe"
   },
   {
-    "Version": "22.11.1",
+    "Version": "23.1.0",
     "Architecture": "x64",
-    "Date": "2022-12-22T22:33:52Z",
-    "Size": 53156368,
-    "MD5": "24ae5652714facacd66af29ab32b8222",
-    "Sha256": "4d48f78d7edbf4db0660f3b3e28b6fa17fa469cdc98c76b94e08662b92a308bd",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_22.11.1-1-Windows-x86_64.exe"
+    "Date": "2023-02-08T03:27:23.105Z",
+    "Size": 53091592,
+    "MD5": "20c4eaf94d930195eb75347183959256",
+    "Sha256": "2319e6ab37215daf08f47b0da35a53f6a648121029113ae2ba53917d777b84bd",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_23.1.0-1-Windows-x86_64.exe"
   },
   {
-    "Version": "22.11.1",
+    "Version": "23.1.0",
     "Architecture": "x64",
-    "Date": "2022-12-22T22:34:41Z",
-    "Size": 55004184,
-    "MD5": "c7ca71e1084a277439e9a7ca25a523e9",
-    "Sha256": "9f6ce5307db5da4e391ced4a6a73159234c3fc64ab4c1d6621dd0b64b0c24b5f",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_22.11.1-1-Windows-x86_64.exe"
+    "Date": "2023-02-08T03:27:23.341Z",
+    "Size": 54904280,
+    "MD5": "b18d094dfd56a62de95f0f49e9d52275",
+    "Sha256": "4178df2a15284fd07b10c5fad592e5c15e6be5bfc37ee90d8e02bbde7792f6f9",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_23.1.0-1-Windows-x86_64.exe"
   },
   {
-    "Version": "22.11.1",
+    "Version": "23.1.0",
     "Architecture": "x64",
-    "Date": "2022-12-22T22:35:33Z",
-    "Size": 55567608,
-    "MD5": "72da1b5dc8efd389e8aae9de5dfc498f",
-    "Sha256": "4b92942fbd70e84a221306a801b3e4c06dd46e894f949a3eb19b4b150ec19171",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_22.11.1-1-Windows-x86_64.exe"
+    "Date": "2023-02-08T03:27:23.59Z",
+    "Size": 55516784,
+    "MD5": "4350f9ca8bbf67fc5fc3eeea926d6341",
+    "Sha256": "a2e7ec485e5412673fad31e6a5a79f9de73792e7c966764f92eabf25ec37557f",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_23.1.0-1-Windows-x86_64.exe"
   }
 ]
