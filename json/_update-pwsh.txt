@@ -1,5 +1,0 @@
-json/AirtameApp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/Miniconda.json
-json/VideoLanVlcPlayer.json
