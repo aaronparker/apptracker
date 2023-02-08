@@ -1,14 +1,14 @@
 [
   {
-    "Version": "110.0.5481.30",
+    "Version": "110.0.5481.77",
     "Channel": "beta",
     "Type": "zip",
-    "URI": "https://chromedriver.storage.googleapis.com/110.0.5481.30/chromedriver_win32.zip"
+    "URI": "https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip"
   },
   {
-    "Version": "110.0.5481.30",
+    "Version": "110.0.5481.77",
     "Channel": "stable",
     "Type": "zip",
-    "URI": "https://chromedriver.storage.googleapis.com/110.0.5481.30/chromedriver_win32.zip"
+    "URI": "https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip"
   }
 ]

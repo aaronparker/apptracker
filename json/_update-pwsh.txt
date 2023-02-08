@@ -1,0 +1,16 @@
+json/1Password.json
+json/AirtameApp.json
+json/ChromiumChromeDriver.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/MozillaGeckoDriver.json
+json/OnlyOfficeDesktopEditors.json
+json/OperaBrowser.json
+json/PSFPython.json
+json/PiriformCCleanerFree.json
+json/Tower.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/jrsoftwareInnoSetup.json

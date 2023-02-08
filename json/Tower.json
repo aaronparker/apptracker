@@ -8,23 +8,23 @@
   },
   {
     "Version": "4.2.422",
+    "Channel": "stable",
+    "sha1": "4E6AC3BF7F323D462EC53CA04C7C2FA4563EF1FD",
+    "Type": "exe",
+    "URI": "https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.exe"
+  },
+  {
+    "Version": "4.2.422",
     "Channel": "beta",
     "sha1": "43F25B929BBE23CC26A71AD5A0EC5D12509BA486",
     "Type": "msi",
     "URI": "https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.msi"
   },
   {
-    "Version": "4.1.418",
+    "Version": "4.2.422",
     "Channel": "stable",
-    "sha1": "BA712491861905A19E9063F53F88B7A66659DAF0",
-    "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/418-2691dd92/Tower-4.1.418.exe"
-  },
-  {
-    "Version": "4.1.418",
-    "Channel": "stable",
-    "sha1": "6B97781F7D002A7BECDABB00D513DA370D4F8EED",
+    "sha1": "43F25B929BBE23CC26A71AD5A0EC5D12509BA486",
     "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/418-2691dd92/Tower-4.1.418.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/422-f33ca494/Tower-4.2.422.msi"
   }
 ]
