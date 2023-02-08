@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1328,7 +1328,7 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | dd3afdf04c5b04a035379148c61771e9800cb8a5fd405fdfcb1d45f040eb6b98 | https://sqlopsbuilds.azureedge.net/insider/e1b35d266a42d7b2051ca991834e6b04cfb921bc/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64      | Insider | 62699ceb897ae85f82b483f749e28beb67daf8e6e14fd758ed923fbf3bf4a150 | https://sqlopsbuilds.azureedge.net/insider/99a924dbcdce7bbaa0ab78b19f84e83035e54651/azuredatastudio-windows-setup-1.42.0-insider.exe      |
 | 1.42.0  | win32-x64-user | Insider | 505d1fdb1264e7a0b89ad8506e96a03bbdb3ea215da8bdfbe6231a6546a944e0 | https://sqlopsbuilds.azureedge.net/insider/e1b35d266a42d7b2051ca991834e6b04cfb921bc/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.1  | win32-x64      | Stable  | 96aa90d1691e30cf3eaff7e818c8f3182585920e9cb46fa6c495b77c8e0e81fc | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-setup-1.41.1.exe               |
 | 1.41.1  | win32-x64-user | Stable  | d97cf7e81b9edaf86545798509b01c87e6a462e289fe6a306c556a6be433879c | https://sqlopsbuilds.azureedge.net/stable/33dce95b152227c4f10f6251ab30690fe9895c0c/azuredatastudio-windows-user-setup-1.41.1.exe          |
@@ -1590,12 +1590,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 4550262944a4495fc3b2364755a2e255d09927364a85d0eae3f237226c69cc4d | https://vscode.blob.core.windows.net/insider/25514d899f4bd877803defb213719f8af3d997d3/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | 850eac6e1bcf79eed0159a8d650a734996fcf958d647fd949d486c5221103d75 | https://vscode.blob.core.windows.net/insider/25514d899f4bd877803defb213719f8af3d997d3/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | a9aa9c9c15728a36dcc379042648fa45844d3a08867c5ad6f53be662aab675b3 | https://vscode.blob.core.windows.net/insider/25514d899f4bd877803defb213719f8af3d997d3/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | 856c9cb547ee711b46be634dbf010605bcbbd2a209dcda91f2a89c3ffb4fecd5 | https://vscode.blob.core.windows.net/insider/25514d899f4bd877803defb213719f8af3d997d3/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | 9c2d43fde7827fc6fa262d5a2b183857425c8fa56f65ad6147ea1b57ed2fe9e4 | https://vscode.blob.core.windows.net/insider/25514d899f4bd877803defb213719f8af3d997d3/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | 11e120307c6b890fce0467a2ffafe74244bfb0b0811f23be825c90384de5ba82 | https://vscode.blob.core.windows.net/insider/25514d899f4bd877803defb213719f8af3d997d3/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 0a75d846f28d421eace9213272dc0a95ed5ed7ca069691c34f2414fe1ff8cacf | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | b8e6994572bb3828a79e32cccccfa06131c7dbe65433e3a0305cf733a9e9c1f2 | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | 95f06d515735551c391c7901995ca726eb7c0b02067391cf980300c4f0f31f37 | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 4174c3b3482460dfb84a45750ca9569b50f4bc593f36f5ebd21b3ed7cd7f2dca | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | 07b09736dbdb30940aaf6a70bf8779e7a7dd988cfefd01fed01e03855d111ebf | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | 0ba88943904a05258767ddbb744e003f223b54a9117d14bdda1577657d50ab0a | https://vscode.blob.core.windows.net/insider/a7d49b0f35f50e460835a55d20a00a735d1665a3/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.0  | win32            | Stable  | x86          | deba56cb0b1c2295dc80bd8a97dc5ccfce7aebc8c54300788e61770fb38fd73e | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-ia32-1.75.0.exe                     |
 | 1.75.0  | win32-arm64      | Stable  | ARM64        | fccdda847046261fabdfe6dd7f0d8a0b420e432c1e42bdd3d1f51ee488a0f59b | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-arm64-1.75.0.exe                    |
 | 1.75.0  | win32-arm64-user | Stable  | ARM64        | da5d401dde89060a375e6c32784e97055bd6e4b7993290c1e697c167501da146 | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-arm64-1.75.0.exe                |
@@ -1663,12 +1663,12 @@
 
 [Link](https://docs.conda.io/en/latest/miniconda.html)
 
-| Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                               |
-| ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 22.11.1 | x64          | 12/22/2022 22:33:02 | 55508040 | ba47b40656f76abbca8264fa0acbdf6e | 2e3086630fa3fae7636432a954be530c88d0705fce497120d56e0f5d865b0d51 | https://repo.anaconda.com/miniconda/Miniconda3-py310_22.11.1-1-Windows-x86_64.exe |
-| 22.11.1 | x64          | 12/22/2022 22:33:52 | 53156368 | 24ae5652714facacd66af29ab32b8222 | 4d48f78d7edbf4db0660f3b3e28b6fa17fa469cdc98c76b94e08662b92a308bd | https://repo.anaconda.com/miniconda/Miniconda3-py37_22.11.1-1-Windows-x86_64.exe  |
-| 22.11.1 | x64          | 12/22/2022 22:34:41 | 55004184 | c7ca71e1084a277439e9a7ca25a523e9 | 9f6ce5307db5da4e391ced4a6a73159234c3fc64ab4c1d6621dd0b64b0c24b5f | https://repo.anaconda.com/miniconda/Miniconda3-py38_22.11.1-1-Windows-x86_64.exe  |
-| 22.11.1 | x64          | 12/22/2022 22:35:33 | 55567608 | 72da1b5dc8efd389e8aae9de5dfc498f | 4b92942fbd70e84a221306a801b3e4c06dd46e894f949a3eb19b4b150ec19171 | https://repo.anaconda.com/miniconda/Miniconda3-py39_22.11.1-1-Windows-x86_64.exe  |
+| Version | Architecture | Date                | Size     | MD5                              | Sha256                                                           | URI                                                                              |
+| ------- | ------------ | ------------------- | -------- | -------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 23.1.0  | x64          | 02/08/2023 03:27:22 | 55780192 | 7980717ca220e8b6c243dccac67c4dc5 | d4517212c8ac44fd8b5ccc2d4d9f38c2dd924c77a81c2be92c3a72e70dd3e907 | https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Windows-x86_64.exe |
+| 23.1.0  | x64          | 02/08/2023 03:27:23 | 53091592 | 20c4eaf94d930195eb75347183959256 | 2319e6ab37215daf08f47b0da35a53f6a648121029113ae2ba53917d777b84bd | https://repo.anaconda.com/miniconda/Miniconda3-py37_23.1.0-1-Windows-x86_64.exe  |
+| 23.1.0  | x64          | 02/08/2023 03:27:23 | 54904280 | b18d094dfd56a62de95f0f49e9d52275 | 4178df2a15284fd07b10c5fad592e5c15e6be5bfc37ee90d8e02bbde7792f6f9 | https://repo.anaconda.com/miniconda/Miniconda3-py38_23.1.0-1-Windows-x86_64.exe  |
+| 23.1.0  | x64          | 02/08/2023 03:27:23 | 55516784 | 4350f9ca8bbf67fc5fc3eeea926d6341 | a2e7ec485e5412673fad31e6a5a79f9de73792e7c966764f92eabf25ec37557f | https://repo.anaconda.com/miniconda/Miniconda3-py39_23.1.0-1-Windows-x86_64.exe  |
 
 ## Minitab
 
@@ -4700,14 +4700,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
-| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
-| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
-| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe      |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi      |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip      |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
