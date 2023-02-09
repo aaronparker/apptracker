@@ -1,9 +1,0 @@
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/MicrosoftVisualStudioCode.json
-json/Postman.json
-json/SumatraPDFReader.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/jrsoftwareInnoSetup.json
