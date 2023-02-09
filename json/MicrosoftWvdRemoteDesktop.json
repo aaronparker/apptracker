@@ -21,72 +21,72 @@
   },
   {
     "Version": "1.2.3918.0",
+    "Architecture": "x64",
+    "Channel": "Dogfood",
+    "Date": "01/31/2023",
+    "MD5": "2842D11D00299488D3D1E1B790541F71",
+    "Sha2": "03F307BF5F649CCD1797EEF931D0CA868FDD5C3C302871A4BA842CBCE4CE0B862A6DAF81F7A8C5213CEB7BBDCB58A349C872CE8A28BEF47A6023CCB43CCA6ACE",
+    "Filename": "RemoteDesktop_1.2.3918.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHz3"
+  },
+  {
+    "Version": "1.2.3918.0",
+    "Architecture": "x64",
+    "Channel": "Insider",
+    "Date": "01/31/2023",
+    "MD5": "2842D11D00299488D3D1E1B790541F71",
+    "Sha2": "03F307BF5F649CCD1797EEF931D0CA868FDD5C3C302871A4BA842CBCE4CE0B862A6DAF81F7A8C5213CEB7BBDCB58A349C872CE8A28BEF47A6023CCB43CCA6ACE",
+    "Filename": "RemoteDesktop_1.2.3918.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHz3"
+  },
+  {
+    "Version": "1.2.3918.0",
+    "Architecture": "x86",
+    "Channel": "Dogfood",
+    "Date": "01/31/2023",
+    "MD5": "8911402391CBCDBB8A10491C55F8736A",
+    "Sha2": "CFF144BD036EDA07EAB8DD6A132A53D49AF19BD350D9554F14DCC074A0E407120C9EA97A485EAAC1636B3A1B2773C0C16306EC708F79CCE094C8054DF74432F5",
+    "Filename": "RemoteDesktop_1.2.3918.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWzLu"
+  },
+  {
+    "Version": "1.2.3918.0",
+    "Architecture": "x86",
+    "Channel": "Insider",
+    "Date": "01/31/2023",
+    "MD5": "8911402391CBCDBB8A10491C55F8736A",
+    "Sha2": "CFF144BD036EDA07EAB8DD6A132A53D49AF19BD350D9554F14DCC074A0E407120C9EA97A485EAAC1636B3A1B2773C0C16306EC708F79CCE094C8054DF74432F5",
+    "Filename": "RemoteDesktop_1.2.3918.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWzLu"
+  },
+  {
+    "Version": "1.2.3770.0",
     "Architecture": "ARM64",
     "Channel": "Public",
-    "Date": "01/31/2023",
-    "MD5": "1A282FE82CB01DBCC8835E9CE143E94E",
-    "Sha2": "7524172FFB89A9CBC03F5C11B31B1B768D2DAA10EA38A330DABD9A5DEDB4ABECC4DB0C296F01D325B82FCE0D26A8D8680550F674AF724659C33C97EC313D4814",
-    "Filename": "RemoteDesktop_1.2.3918.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWPlp"
+    "Date": "11/28/2022",
+    "MD5": "CD69DE7864B9D5C7E6E7F87BFCFAF506",
+    "Sha2": "9E3F3833A9D83D7ACC6A40BC143EBC42A9C50B2576D81B5AABA53897CE48B8B532E35D9C1F55E2D5BFC0F244C864DC69100E2397D17BEEBEDAFB2EABE73CC578",
+    "Filename": "RemoteDesktop_1.2.3770.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpni"
   },
   {
-    "Version": "1.2.3918.0",
-    "Architecture": "x64",
-    "Channel": "Dogfood",
-    "Date": "01/31/2023",
-    "MD5": "2842D11D00299488D3D1E1B790541F71",
-    "Sha2": "03F307BF5F649CCD1797EEF931D0CA868FDD5C3C302871A4BA842CBCE4CE0B862A6DAF81F7A8C5213CEB7BBDCB58A349C872CE8A28BEF47A6023CCB43CCA6ACE",
-    "Filename": "RemoteDesktop_1.2.3918.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHz3"
-  },
-  {
-    "Version": "1.2.3918.0",
-    "Architecture": "x64",
-    "Channel": "Insider",
-    "Date": "01/31/2023",
-    "MD5": "2842D11D00299488D3D1E1B790541F71",
-    "Sha2": "03F307BF5F649CCD1797EEF931D0CA868FDD5C3C302871A4BA842CBCE4CE0B862A6DAF81F7A8C5213CEB7BBDCB58A349C872CE8A28BEF47A6023CCB43CCA6ACE",
-    "Filename": "RemoteDesktop_1.2.3918.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHz3"
-  },
-  {
-    "Version": "1.2.3918.0",
+    "Version": "1.2.3770.0",
     "Architecture": "x64",
     "Channel": "Public",
-    "Date": "01/31/2023",
-    "MD5": "2842D11D00299488D3D1E1B790541F71",
-    "Sha2": "03F307BF5F649CCD1797EEF931D0CA868FDD5C3C302871A4BA842CBCE4CE0B862A6DAF81F7A8C5213CEB7BBDCB58A349C872CE8A28BEF47A6023CCB43CCA6ACE",
-    "Filename": "RemoteDesktop_1.2.3918.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHz3"
+    "Date": "11/28/2022",
+    "MD5": "7F290FEB147D517FDD24171263FAC8C1",
+    "Sha2": "69F04D7BFA801FDB1562ACE32B5B8458B0B8A496141BFEE510B1421B014AA2B584E14671F3AAECE126C28DA19D7D7E4526755B76DEB3322A2575284BA6CEF1FA",
+    "Filename": "RemoteDesktop_1.2.3770.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5ckjx"
   },
   {
-    "Version": "1.2.3918.0",
-    "Architecture": "x86",
-    "Channel": "Dogfood",
-    "Date": "01/31/2023",
-    "MD5": "8911402391CBCDBB8A10491C55F8736A",
-    "Sha2": "CFF144BD036EDA07EAB8DD6A132A53D49AF19BD350D9554F14DCC074A0E407120C9EA97A485EAAC1636B3A1B2773C0C16306EC708F79CCE094C8054DF74432F5",
-    "Filename": "RemoteDesktop_1.2.3918.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWzLu"
-  },
-  {
-    "Version": "1.2.3918.0",
-    "Architecture": "x86",
-    "Channel": "Insider",
-    "Date": "01/31/2023",
-    "MD5": "8911402391CBCDBB8A10491C55F8736A",
-    "Sha2": "CFF144BD036EDA07EAB8DD6A132A53D49AF19BD350D9554F14DCC074A0E407120C9EA97A485EAAC1636B3A1B2773C0C16306EC708F79CCE094C8054DF74432F5",
-    "Filename": "RemoteDesktop_1.2.3918.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWzLu"
-  },
-  {
-    "Version": "1.2.3918.0",
+    "Version": "1.2.3770.0",
     "Architecture": "x86",
     "Channel": "Public",
-    "Date": "01/31/2023",
-    "MD5": "8911402391CBCDBB8A10491C55F8736A",
-    "Sha2": "CFF144BD036EDA07EAB8DD6A132A53D49AF19BD350D9554F14DCC074A0E407120C9EA97A485EAAC1636B3A1B2773C0C16306EC708F79CCE094C8054DF74432F5",
-    "Filename": "RemoteDesktop_1.2.3918.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWzLu"
+    "Date": "11/28/2022",
+    "MD5": "8BBF51E43C78E38CDFE2711EDF2E7523",
+    "Sha2": "5D0FAF549764E62DEDEB175B3421A710D1D6933D868F307EAA8733E27269A1D93F75E1964938E382477EAE1006443CC4A0C9984B96BB126B73E5AE13F1396D2D",
+    "Filename": "RemoteDesktop_1.2.3770.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cpnh"
   }
 ]
