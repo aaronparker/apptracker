@@ -886,9 +886,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1149,9 +1149,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1445,8 +1445,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.029.0206.0001 | AMD64        | InternalFast | m4AYTwgX/r/Xwl+ZEPHsFPVh4x2UtQXm4AaVd1IKn4A= | exe  | https://oneclient.sfx.ms/Win/Installers/23.029.0206.0001/amd64/OneDriveSetup.exe |
-| 23.029.0206.0001 | x86          | InternalFast | XWiaBpolT0fLDcpmGjqWkJEW7bWjKSN+19NiRs/obsU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.029.0206.0001/OneDriveSetup.exe       |
+| 23.030.0207.0001 | AMD64        | InternalFast | t7Cbw5pTCk8VjBx8T3/9NSLuMnIQferIVCSBTaR8mRc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.030.0207.0001/amd64/OneDriveSetup.exe |
+| 23.030.0207.0001 | x86          | InternalFast | qLoroPFIrw+Ms9QcWaHNveLr+4jZsS+m+O/za3VEmQc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.030.0207.0001/OneDriveSetup.exe       |
 | 23.028.0205.0002 | AMD64        | InternalSlow | REFwT4z6CCKew/EQxoePX1ID1KTIfKKeCnqbrwkwnHI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/amd64/OneDriveSetup.exe |
 | 23.028.0205.0002 | x86          | InternalSlow | mD+JhgxslOUPltCaqUaXxkKLbCFDdvHj/Ed0WMLg4h0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/OneDriveSetup.exe       |
 | 23.023.0129.0002 | AMD64        | Production   | WDxJGhGby6ZdjhCSsSR/eDNWDY4DSGIXcoTaH3eEVYs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0002/amd64/OneDriveSetup.exe |
@@ -1592,12 +1592,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | ca74515e56fc201668ed45953aa51d69448df10de44a29dce9a3e1ebc3a5c311 | https://vscode.blob.core.windows.net/insider/31e476ee1eafffc4389cd0c8f018ab472898a7ce/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | 86613a8813011030c65539900180658748bb2330b603d75fbe7e229f2d8a5471 | https://vscode.blob.core.windows.net/insider/31e476ee1eafffc4389cd0c8f018ab472898a7ce/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | afc12182dbfdedb9eed97c5aea52c937aad0f9b96fc6005f68a39d533c6e46c7 | https://vscode.blob.core.windows.net/insider/31e476ee1eafffc4389cd0c8f018ab472898a7ce/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | bbb3bfd88595d64251de79bcaf3279d2717fb4bd3a651848410791e196759520 | https://vscode.blob.core.windows.net/insider/31e476ee1eafffc4389cd0c8f018ab472898a7ce/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | 9babc054fc5fd208012b44a3a5cdad52b7012ff20df48f32e7877f8269ebd985 | https://vscode.blob.core.windows.net/insider/31e476ee1eafffc4389cd0c8f018ab472898a7ce/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | 7dc39d10772f2472c5851f37d74ccab8c9caab31570fc03fbc530860b8788fb2 | https://vscode.blob.core.windows.net/insider/31e476ee1eafffc4389cd0c8f018ab472898a7ce/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | f8cdc9ee245d72a03642cf9a0e8954d4a94e78b019626ea01667ef6ebefb37b7 | https://vscode.blob.core.windows.net/insider/853b32bad26ed5ffe2d29b95be45adc7f753e35a/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | 1c388328d571095af060f0b14808318b257e2427bbceb92ca0d210fb5b8a0e3a | https://vscode.blob.core.windows.net/insider/853b32bad26ed5ffe2d29b95be45adc7f753e35a/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | 538c103ebb2bb03967e03972e492f393d1e35c76b1ceb35b498a35354459a8db | https://vscode.blob.core.windows.net/insider/853b32bad26ed5ffe2d29b95be45adc7f753e35a/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 186013aff955ad1fb84247394d0d1803385236d991999db9b1369212a27f10da | https://vscode.blob.core.windows.net/insider/853b32bad26ed5ffe2d29b95be45adc7f753e35a/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | e03bdf1c0b51ead99f3e095883b6d9aae9d9ad1bb1fdda8ebbaa676b802149d7 | https://vscode.blob.core.windows.net/insider/853b32bad26ed5ffe2d29b95be45adc7f753e35a/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | 41375c12ccf1b271e23240f5e06dedb1bcd273fbdf67e57f82d9df917c0aae76 | https://vscode.blob.core.windows.net/insider/853b32bad26ed5ffe2d29b95be45adc7f753e35a/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.0  | win32            | Stable  | x86          | deba56cb0b1c2295dc80bd8a97dc5ccfce7aebc8c54300788e61770fb38fd73e | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-ia32-1.75.0.exe                     |
 | 1.75.0  | win32-arm64      | Stable  | ARM64        | fccdda847046261fabdfe6dd7f0d8a0b420e432c1e42bdd3d1f51ee488a0f59b | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-arm64-1.75.0.exe                    |
 | 1.75.0  | win32-arm64-user | Stable  | ARM64        | da5d401dde89060a375e6c32784e97055bd6e4b7993290c1e697c167501da146 | https://az764295.vo.msecnd.net/stable/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-arm64-1.75.0.exe                |
@@ -4214,7 +4214,7 @@
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                   |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | ----------------------------------------------------- |
-| 10.9.3  | 167427632 | DFE9BFE82899435380BE71F47ED3B60C176F2769 | 02/03/2023 17:31:51 | x64          | Postman-win64-10.9.3-Setup.exe | https://dl.pstmn.io/download/version/10.9.3/windows64 |
+| 10.9.4  | 167429168 | 420A51FF55150BC19F7749D3F33BDC5724B15B09 | 02/08/2023 17:07:40 | x64          | Postman-win64-10.9.4-Setup.exe | https://dl.pstmn.io/download/version/10.9.4/windows64 |
 | 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe  | https://dl.pstmn.io/download/version/9.4.1/windows32  |
 
 ## Praat
@@ -4531,8 +4531,8 @@
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe |
-| 3.4.6   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe    |
+| 3.3.3   | x64          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe |
+| 3.3.3   | x86          | exe  | https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe    |
 
 ## TableauDesktop
 
@@ -4591,7 +4591,7 @@
 
 | Version | URI                                                  |
 | ------- | ---------------------------------------------------- |
-| 4.6.1   | https://updates.tdesktop.com/tsetup/tsetup.4.6.1.exe |
+| 4.6.2   | https://updates.tdesktop.com/tsetup/tsetup.4.6.2.exe |
 
 ## TelerikFiddlerClassic
 
@@ -4702,14 +4702,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe  |
-| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi  |
-| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip  |
-| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                             |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe           |
+| 3.0.18  | Windows  | x64          | MSI  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi           |
+| 3.0.18  | Windows  | x64          | ZIP  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip           |
 
 ## VisualCppRedistAIO
 
@@ -4877,8 +4877,8 @@
 | 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
 | 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
 | 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
