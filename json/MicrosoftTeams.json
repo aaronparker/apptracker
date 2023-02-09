@@ -67,7 +67,7 @@
     "Ring": "ITAdmins",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.1381/Teams_windows_arm64.exe"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.376/Teams_windows_arm64.exe"
   },
   {
     "Version": "1.6.00.1381",
@@ -214,7 +214,7 @@
     "Ring": "ITAdmins",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.1381/Teams_windows_arm64.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.376/Teams_windows_arm64.msi"
   },
   {
     "Version": "1.6.00.1381",

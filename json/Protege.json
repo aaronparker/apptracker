@@ -1,9 +1,9 @@
 {
-  "Version": "5.5.0",
+  "Version": "5.6.0",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "zip",
-  "Date": "03/14/2019",
-  "Size": 122786263,
-  "URI": "https://github.com/protegeproject/protege-distribution/releases/download/v5.5.0/Protege-5.5.0-win.zip"
+  "Date": "02/09/2023",
+  "Size": 112220825,
+  "URI": "https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.0/Protege-5.6.0-win.zip"
 }
