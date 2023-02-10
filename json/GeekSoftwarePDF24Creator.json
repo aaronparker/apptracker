@@ -1,12 +1,12 @@
 [
   {
-    "Version": "11.10.1",
+    "Version": "11.10.2",
     "Type": "Exe",
-    "URI": "https://download.pdf24.org/pdf24-creator-11.10.1.exe"
+    "URI": "https://download.pdf24.org/pdf24-creator-11.10.2.exe"
   },
   {
-    "Version": "11.10.1",
+    "Version": "11.10.2",
     "Type": "Msi",
-    "URI": "https://download.pdf24.org/pdf24-creator-11.10.1.msi"
+    "URI": "https://download.pdf24.org/pdf24-creator-11.10.2.msi"
   }
 ]
