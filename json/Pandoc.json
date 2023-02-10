@@ -1,9 +1,9 @@
 {
-  "Version": "3.0.1",
+  "Version": "3.1",
   "Platform": "Windows",
   "Architecture": "x64",
   "Type": "msi",
-  "Date": "01/25/2023",
-  "Size": 27480064,
-  "URI": "https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-windows-x86_64.msi"
+  "Date": "02/10/2023",
+  "Size": 27488256,
+  "URI": "https://github.com/jgm/pandoc/releases/download/3.1/pandoc-3.1-windows-x86_64.msi"
 }
