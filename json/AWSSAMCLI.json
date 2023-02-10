@@ -1,9 +1,9 @@
 {
-  "Version": "1.72.0",
+  "Version": "1.73.0",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "msi",
-  "Date": "02/02/2023",
-  "Size": 65490944,
-  "URI": "https://github.com/aws/aws-sam-cli/releases/download/v1.72.0/AWS_SAM_CLI_64_PY3.msi"
+  "Date": "02/08/2023",
+  "Size": 66011136,
+  "URI": "https://github.com/aws/aws-sam-cli/releases/download/v1.73.0/AWS_SAM_CLI_64_PY3.msi"
 }
