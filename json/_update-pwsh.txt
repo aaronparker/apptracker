@@ -1,9 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/GoogleChrome.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftOneDrive.json
-json/MicrosoftVisualStudioCode.json
-json/SignalDesktop.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
