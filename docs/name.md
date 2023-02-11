@@ -868,9 +868,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1131,9 +1131,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -4431,21 +4431,21 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                              |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------- |
-| 2.37.1  | Windows  | ARM64        | msi  | 08/14/2022 | 9195520  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.Arm64.msi    |
-| 2.37.1  | Windows  | ARM64        | msi  | 08/14/2022 | 68247552 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.Arm64.msi          |
-| 2.37.1  | Windows  | x64          | msi  | 08/14/2022 | 9244672  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.x64.msi      |
-| 2.37.1  | Windows  | x64          | msi  | 08/14/2022 | 72953856 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.x64.msi            |
-| 2.37.1  | Windows  | x86          | msi  | 08/14/2022 | 9179136  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Setup.x86.msi      |
-| 2.37.1  | Windows  | x86          | msi  | 08/14/2022 | 67407872 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Setup.x86.msi            |
-| 2.37.1  | Windows  | ARM64        | msix | 08/14/2022 | 65591332 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.arm64.msix       |
-| 2.37.1  | Windows  | x64          | msix | 08/14/2022 | 79285585 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.x64.msix         |
-| 2.37.1  | Windows  | x86          | msix | 08/14/2022 | 65495595 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Package.x86.msix         |
-| 2.37.1  | Windows  | ARM64        | zip  | 08/14/2022 | 7345326  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Portable.Arm64.zip |
-| 2.37.1  | Windows  | ARM64        | zip  | 08/14/2022 | 66363192 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Portable.Arm64.zip       |
-| 2.37.1  | Windows  | x64          | zip  | 08/14/2022 | 7358676  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Portable.x64.zip   |
-| 2.37.1  | Windows  | x64          | zip  | 08/14/2022 | 71104810 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Portable.x64.zip         |
-| 2.37.1  | Windows  | x86          | zip  | 08/14/2022 | 7330393  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Light.Portable.x86.zip   |
-| 2.37.1  | Windows  | x86          | zip  | 08/14/2022 | 65546579 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.1/ScreenToGif.2.37.1.Portable.x86.zip         |
+| 2.37.2  | Windows  | ARM64        | msi  | 02/11/2023 | 9269248  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Light.Setup.Arm64.msi    |
+| 2.37.2  | Windows  | ARM64        | msi  | 02/11/2023 | 68337664 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Setup.Arm64.msi          |
+| 2.37.2  | Windows  | x64          | msi  | 02/11/2023 | 9318400  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Light.Setup.x64.msi      |
+| 2.37.2  | Windows  | x64          | msi  | 02/11/2023 | 73076736 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Setup.x64.msi            |
+| 2.37.2  | Windows  | x86          | msi  | 02/11/2023 | 9256960  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Light.Setup.x86.msi      |
+| 2.37.2  | Windows  | x86          | msi  | 02/11/2023 | 67518464 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Setup.x86.msi            |
+| 2.37.2  | Windows  | ARM64        | msix | 02/11/2023 | 72644021 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Package.arm64.msix       |
+| 2.37.2  | Windows  | x64          | msix | 02/11/2023 | 80067582 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Package.x64.msix         |
+| 2.37.2  | Windows  | x86          | msix | 02/11/2023 | 66116963 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Package.x86.msix         |
+| 2.37.2  | Windows  | ARM64        | zip  | 02/11/2023 | 7429312  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Light.Portable.Arm64.zip |
+| 2.37.2  | Windows  | ARM64        | zip  | 02/11/2023 | 66455531 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Portable.Arm64.zip       |
+| 2.37.2  | Windows  | x64          | zip  | 02/11/2023 | 7435295  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Light.Portable.x64.zip   |
+| 2.37.2  | Windows  | x64          | zip  | 02/11/2023 | 71219172 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Portable.x64.zip         |
+| 2.37.2  | Windows  | x86          | zip  | 02/11/2023 | 7415148  | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Light.Portable.x86.zip   |
+| 2.37.2  | Windows  | x86          | zip  | 02/11/2023 | 65665558 | https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Portable.x86.zip         |
 
 ## ShareX
 
@@ -4686,14 +4686,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe     |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi     |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip     |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe           |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi           |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip           |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
