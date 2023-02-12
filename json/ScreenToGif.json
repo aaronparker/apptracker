@@ -59,7 +59,7 @@
     "Architecture": "ARM64",
     "Type": "msix",
     "Date": "02/11/2023",
-    "Size": 72644021,
+    "Size": 72646778,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Package.arm64.msix"
   },
   {
@@ -68,7 +68,7 @@
     "Architecture": "x64",
     "Type": "msix",
     "Date": "02/11/2023",
-    "Size": 80067582,
+    "Size": 86547351,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Package.x64.msix"
   },
   {
@@ -77,7 +77,7 @@
     "Architecture": "x86",
     "Type": "msix",
     "Date": "02/11/2023",
-    "Size": 66116963,
+    "Size": 72506796,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.37.2/ScreenToGif.2.37.2.Package.x86.msix"
   },
   {
