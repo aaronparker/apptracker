@@ -230,7 +230,7 @@ jobs:
         shell: pwsh
         run: |
           $Files = "${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt"
-          Remove-Item -Path $file -Force -ErrorAction "SilentlyContinue"
+          Remove-Item -Path $Files -Force -ErrorAction "SilentlyContinue"
 
       - name: Install and cache PowerShell modules
         id: psmodulecache
