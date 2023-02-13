@@ -19,23 +19,6 @@ jobs:
         with:
           ref: main
 
-      # - name: Install and cache PowerShell modules
-      #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v5.2
-      #   with:
-      #     modules-to-cache: Evergreen, DnsClient-PS
-      #     force: true
-      #     shell: pwsh
-
-      # - name: List Evergreen
-      #   id: list-module
-      #   shell: pwsh
-      #   run: |
-      #     Update-Module -Name "Evergreen" -Force
-      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-      #     #echo "::set-output name=version::$Version"
-      #     Write-Host "Evergreen version: $Version"
-
       - name: Install modules
         shell: pwsh
         run: |
@@ -126,23 +109,6 @@ jobs:
           git config --global core.safecrlf false
           git pull origin main
 
-      # - name: Install and cache PowerShell modules
-      #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v5.2
-      #   with:
-      #     modules-to-cache: Evergreen
-      #     force: true
-      #     shell: powershell
-
-      # - name: List Evergreen
-      #   id: list-module
-      #   shell: powershell
-      #   run: |
-      #     Update-Module -Name "Evergreen" -Force
-      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-      #     #echo "::set-output name=version::$Version"
-      #     Write-Host "Evergreen version: $Version"
-
       - name: Install modules
         shell: powershell
         run: |
@@ -216,10 +182,9 @@ jobs:
         if: steps.commit.outputs.changes_detected == 'false'
         run: echo "No changes detected."
 
-  update-kv:
+  update-kv-apps:
     needs: [update-pwsh, update-powershell]
     runs-on: ubuntu-latest
-    name: update-cloudflarekv
 
     steps:
       - uses: actions/checkout@v3
@@ -264,9 +229,8 @@ jobs:
         id: remove-update
         shell: pwsh
         run: |
-          foreach ($file in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
-            Remove-Item -Path $file -Force -ErrorAction "SilentlyContinue"
-          }
+          $Files = "${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt"
+          Remove-Item -Path $file -Force -ErrorAction "SilentlyContinue"
 
       - name: Install and cache PowerShell modules
         id: psmodulecache
@@ -288,6 +252,7 @@ jobs:
       - name: Update Cloudflare KV with all apps list
         id: update-allapps
         shell: pwsh
+        working-directory: "${{ github.workspace }}"
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
           CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
@@ -337,8 +302,73 @@ jobs:
         if: steps.commit.outputs.changes_detected == 'false'
         run: echo "No changes detected."
 
+  update-endpoints-versions:
+    needs: [update-pwsh, update-powershell]
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: 'aaronparker/evergreen'
+          ref: main
+
+      - name: Update Cloudflare KV for endpoints/versions data
+        id: update-endpoints
+        shell: pwsh
+        working-directory: "${{ github.workspace }}"
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+        run: |
+            # Get endpoint URLs from Evergreen manifests and post to the version endpoint
+            $UrlMatch = "http[s]?\:\/\/([^\/?#]+)(?:[\/?#]|$)"
+            $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/Evergreen/Manifests" -Recurse -Include "*.json" | ForEach-Object {
+                [PSCustomObject]@{
+                    Application = $_.BaseName
+                    Endpoints   = ((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
+                        Select-Object -Unique | `
+                        Sort-Object) -replace "http://|https://", "").TrimEnd("/|#"))
+                }
+            }
+            $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
+            wrangler kv:key put "endpoints-versions" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+            Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
+
+  update-endpoints-downloads:
+    needs: [update-pwsh, update-powershell]
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Update Cloudflare KV for endpoints/downloads data
+        id: update-endpoints
+        shell: pwsh
+        working-directory: "${{ github.workspace }}"
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+        run: |
+            # Get endpoint URLs from Evergreen manifests and post to the downloads endpoint
+            $UrlMatch = "http[s]?\:\/\/([^\/?#]+)(?:[\/?#]|$)"
+            $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/json" -Recurse -Include "*.json" | ForEach-Object {
+                [PSCustomObject]@{
+                    Application = $_.BaseName
+                    Endpoints   = ((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
+                        Select-Object -Unique | `
+                        Sort-Object) -replace "http://|https://", "").TrimEnd("/|#"))
+                }
+            }
+            $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
+            wrangler kv:key put "endpoints-downloads" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+            Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
+
   update-docs:
-    needs: [update-pwsh, update-powershell, update-kv]
+    needs: [update-pwsh, update-powershell, update-kv-apps]
     runs-on: ubuntu-latest
 
     steps:
@@ -352,22 +382,6 @@ jobs:
         run: |
           git config --global core.safecrlf false
           git pull origin main
-
-      # - name: Install and cache PowerShell modules
-      #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v5.2
-      #   with:
-      #     modules-to-cache: Evergreen
-      #     shell: pwsh
-
-      # - name: List Evergreen
-      #   id: list-module
-      #   shell: pwsh
-      #   run: |
-      #     Update-Module -Name "Evergreen" -Force
-      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-      #     #echo "::set-output name=version::$Version"
-      #     Write-Host "Evergreen version: $Version"
 
       - name: Install modules
         shell: pwsh
