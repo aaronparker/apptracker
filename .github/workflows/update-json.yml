@@ -312,6 +312,12 @@ jobs:
           repository: 'aaronparker/evergreen'
           ref: main
 
+      - name: Install Wrangler
+        id: install-wrangler
+        shell: bash
+        run: |
+          npm install -g wrangler
+
       - name: Update Cloudflare KV for endpoints/versions data
         id: update-endpoints
         shell: pwsh
@@ -343,6 +349,12 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: main
+
+      - name: Install Wrangler
+        id: install-wrangler
+        shell: bash
+        run: |
+          npm install -g wrangler
 
       - name: Update Cloudflare KV for endpoints/downloads data
         id: update-endpoints
