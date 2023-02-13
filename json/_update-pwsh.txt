@@ -1,7 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/MasterPackager.json
-json/OperaBrowser.json
-json/Postman.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
