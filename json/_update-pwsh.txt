@@ -1,0 +1,8 @@
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
