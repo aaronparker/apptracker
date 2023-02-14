@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -868,9 +868,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -941,8 +941,8 @@
 | 112.0.5582.0  | x86          | dev     | 02/10/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 111.0.5563.19 | x64          | beta    | 02/09/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 111.0.5563.19 | x86          | beta    | 02/09/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 110.0.5481.78 | x64          | stable  | 02/07/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 110.0.5481.78 | x86          | stable  | 02/07/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 110.0.5481.97 | x64          | stable  | 02/13/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 110.0.5481.97 | x86          | stable  | 02/13/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
 ## Gpg4win
 
@@ -1296,7 +1296,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16202.20000 | BetaChannel       | Beta                                  | 02/07/2023 15:59:05 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16026.20170 | CurrentPreview    | Current Channel (Preview)             | 01/31/2023 19:06:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20128 | CurrentPreview    | Current Channel (Preview)             | 02/13/2023 17:54:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16026.20146 | Current           | Current Channel                       | 01/26/2023 18:47:10 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15831.20252 | MonthlyEnterprise | Monthly Enterprise                    | 01/10/2023 09:23:48 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20456 | SemiAnnual        | Semi-Annual Channel                   | 01/10/2023 09:30:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1310,8 +1310,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | c94960b41ceb0552288befeaf9cc97c50c737da0c7c50dcc770b459afd5a1df5 | https://sqlopsbuilds.azureedge.net/insider/882a7342e073fcfd521ab42b1b1a9388bf3eec0c/azuredatastudio-windows-setup-1.42.0-insider.exe      |
-| 1.42.0  | win32-x64-user | Insider | 8b0a166d02f6b2c316a0b9891cc6d30627517da0aee419b0c391ed37ba632879 | https://sqlopsbuilds.azureedge.net/insider/882a7342e073fcfd521ab42b1b1a9388bf3eec0c/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
+| 1.42.0  | win32-x64      | Insider | 307df5767cb6d2a20a000d41ddbfd060c08d37688b6fde6eb3fd300741dcbc3c | https://sqlopsbuilds.azureedge.net/insider/93f5581bc7dbe7655c4df207aaa2d2c0b1b76135/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64-user | Insider | 3d33f4cf8a375cdb2156497d439ea1bffc06bc7ffb7470865d6a36ef30268bfc | https://sqlopsbuilds.azureedge.net/insider/93f5581bc7dbe7655c4df207aaa2d2c0b1b76135/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.2  | win32-x64      | Stable  | bbfc1a6d8a3b115ed5eb668a611a6c0611d39d5f721c7e69ce26271745a72940 | https://sqlopsbuilds.azureedge.net/stable/0f0960d0e774e1ce903b79378addff96117c27a6/azuredatastudio-windows-setup-1.41.2.exe               |
 | 1.41.2  | win32-x64-user | Stable  | 0a450a815be3d8bd90bc3c1cf1a41f2bd725e10c57fddba12b4037cc86c07fd4 | https://sqlopsbuilds.azureedge.net/stable/0f0960d0e774e1ce903b79378addff96117c27a6/azuredatastudio-windows-user-setup-1.41.2.exe          |
 
@@ -1427,20 +1427,16 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.032.0209.0001 | AMD64        | InternalFast | L5yrMcPnPRp+NClBjQMEMVXlOKuTFDOVErIi33Dp4YE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.032.0209.0001/amd64/OneDriveSetup.exe |
-| 23.032.0209.0001 | x86          | InternalFast | FnJ5dz7UyaxOtC1biFP2v3ZmLJDqfffBrAvMvQnQ84A= | exe  | https://oneclient.sfx.ms/Win/Installers/23.032.0209.0001/OneDriveSetup.exe       |
+| 23.033.0212.0001 | AMD64        | InternalFast | dEg4BGbCrYWHra2izvcoZ6nwyxZGHMCNw0zRFVIb5mg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/amd64/OneDriveSetup.exe |
+| 23.033.0212.0001 | x86          | InternalFast | f6ZMu0spy5Fft2jMXy9YnI2gNakFcCyM1NMnQqQPVBc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/OneDriveSetup.exe       |
 | 23.028.0205.0002 | AMD64        | Insider      | REFwT4z6CCKew/EQxoePX1ID1KTIfKKeCnqbrwkwnHI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/amd64/OneDriveSetup.exe |
 | 23.028.0205.0002 | AMD64        | InternalSlow | REFwT4z6CCKew/EQxoePX1ID1KTIfKKeCnqbrwkwnHI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/amd64/OneDriveSetup.exe |
 | 23.028.0205.0002 | x86          | Insider      | mD+JhgxslOUPltCaqUaXxkKLbCFDdvHj/Ed0WMLg4h0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/OneDriveSetup.exe       |
 | 23.028.0205.0002 | x86          | InternalSlow | mD+JhgxslOUPltCaqUaXxkKLbCFDdvHj/Ed0WMLg4h0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/OneDriveSetup.exe       |
 | 23.023.0129.0002 | AMD64        | Production   | WDxJGhGby6ZdjhCSsSR/eDNWDY4DSGIXcoTaH3eEVYs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0002/amd64/OneDriveSetup.exe |
 | 23.023.0129.0002 | x86          | Production   | i8jahVocDZn+SV+JzZIzDwK7IgbkFr1Vs/dyhuUzSgE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0002/OneDriveSetup.exe       |
-| 23.023.0129.0001 | AMD64        | Insider      | Nz9XrB+dBtlPnzGzUyXwyeriUA5ZwVCcsP9QLfMwC/c= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0001/amd64/OneDriveSetup.exe |
-| 23.023.0129.0001 | x86          | Insider      | qdpf+ms3RopPwXgWqeZx3QJWlocr2rdiw04Hi/tHdBw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0001/OneDriveSetup.exe       |
 | 23.020.0125.0003 | AMD64        | Production   | UIi/vXl1jK2PzWg8PHNF3WRfuupLs/QCu8e5CvJx3wA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0003/amd64/OneDriveSetup.exe |
 | 23.020.0125.0003 | x86          | Production   | 8E+HnCzlFbmoRoh4a+qklUQoiu2Xy4YWS3S98ugv6jE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.020.0125.0003/OneDriveSetup.exe       |
-| 23.011.0115.0009 | AMD64        | Production   | vKRLnWKh0NKFhvrsKWXf1hmYa1HihsQy5436fEfxQnI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0009/amd64/OneDriveSetup.exe |
-| 23.011.0115.0009 | x86          | Production   | RquTyFZLxyv28eo60naYFeB820+18gTHYYkiJ92fDSo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.011.0115.0009/OneDriveSetup.exe       |
 | 22.196.0918.0001 | AMD64        | Enterprise   | t8+s0xWCZgBy0C2KE1CwfJt1Y+V6aI3snN0tweNBJKI= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/amd64/OneDriveSetup.exe       |
 | 22.196.0918.0001 | x86          | Enterprise   | mkkxRoka354CggV94GbMQyyXo5YeGyZMlh78o91QHg8= | exe  | https://oneclient.sfx.ms/Win/Prod/22.196.0918.0001/OneDriveSetup.exe             |
 
@@ -4216,12 +4212,12 @@
 
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                              |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 18.1.15 | x64          | unstable | 10       | 65f86d2d10570b0437ba5ce317725b40fb17a0d93e9eaf643f5adf174c41fd70 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
-| 18.1.15 | x64          | unstable | 11       | 65f86d2d10570b0437ba5ce317725b40fb17a0d93e9eaf643f5adf174c41fd70 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
-| 18.1.15 | x64          | unstable | 2012r2   | 65f86d2d10570b0437ba5ce317725b40fb17a0d93e9eaf643f5adf174c41fd70 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
-| 18.1.15 | x64          | unstable | 2016     | 65f86d2d10570b0437ba5ce317725b40fb17a0d93e9eaf643f5adf174c41fd70 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
-| 18.1.15 | x64          | unstable | 2019     | 65f86d2d10570b0437ba5ce317725b40fb17a0d93e9eaf643f5adf174c41fd70 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
-| 18.1.15 | x64          | unstable | 2022     | 65f86d2d10570b0437ba5ce317725b40fb17a0d93e9eaf643f5adf174c41fd70 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
+| 18.1.15 | x64          | unstable | 10       | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
+| 18.1.15 | x64          | unstable | 11       | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
+| 18.1.15 | x64          | unstable | 2012r2   | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
+| 18.1.15 | x64          | unstable | 2016     | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
+| 18.1.15 | x64          | unstable | 2019     | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
+| 18.1.15 | x64          | unstable | 2022     | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/unstable/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi    |
 | 18.1.12 | x64          | current  | 10       | 4a34fc76958deb45ead6f703bf24124aa784bd6fcbb44f4fd36e793396a6d4fb | https://packages.chef.io/files/current/chef/18.1.12/windows/10/chef-client-18.1.12-1-x64.msi     |
 | 18.1.12 | x64          | current  | 11       | 4a34fc76958deb45ead6f703bf24124aa784bd6fcbb44f4fd36e793396a6d4fb | https://packages.chef.io/files/current/chef/18.1.12/windows/11/chef-client-18.1.12-1-x64.msi     |
 | 18.1.12 | x64          | current  | 2012r2   | 4a34fc76958deb45ead6f703bf24124aa784bd6fcbb44f4fd36e793396a6d4fb | https://packages.chef.io/files/current/chef/18.1.12/windows/2012r2/chef-client-18.1.12-1-x64.msi |
@@ -4686,14 +4682,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
-| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
-| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
-| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe      |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi      |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip      |
 
 ## VisualCppRedistAIO
 
