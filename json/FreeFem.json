@@ -1,9 +1,20 @@
-{
-  "Version": "4.12",
-  "Platform": "Windows",
-  "Architecture": "x64",
-  "Type": "exe",
-  "Date": "12/01/2022",
-  "Size": 274238002,
-  "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win64.exe"
-}
+[
+  {
+    "Version": "4.12",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "Date": "12/01/2022",
+    "Size": 272333222,
+    "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win11-x64.exe"
+  },
+  {
+    "Version": "4.12",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "Date": "12/01/2022",
+    "Size": 274238002,
+    "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win64.exe"
+  }
+]
