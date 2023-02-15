@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.0  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.0  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
 
 ## 1Password7
 
@@ -134,10 +134,10 @@
 
 | Version    | Type | Architecture | URI                                                                                              |
 | ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------ |
-| 2022.10.42 | exe  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_10_42.exe    |
-| 2022.10.42 | exe  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2022_10_42_32.exe |
-| 2022.10.42 | msi  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_10_42.msi         |
-| 2022.10.42 | msi  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2022_10_42_32.msi      |
+| 2023.2.187 | exe  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2023_2_187.exe    |
+| 2023.2.187 | exe  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2023_2_187_32.exe |
+| 2023.2.187 | msi  | x64          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2023_2_187.msi         |
+| 2023.2.187 | msi  | x86          | https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2023_2_187_32.msi      |
 
 ## AdoptiumTemurin11
 
@@ -237,14 +237,14 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-| Version   | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                                  |
-| --------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.17+8 | Windows  | x64          | msi  | 07/20/2021 | 181465088 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.17%2B8_openj9-0.35.0/ibm-semeru-open-jdk_x64_windows_11.0.17_8_openj9-0.35.0.msi        |
-| 11.0.17+8 | Windows  | x64          | msi  | 07/20/2021 | 34426880  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.17%2B8_openj9-0.35.0/ibm-semeru-open-jre_x64_windows_11.0.17_8_openj9-0.35.0.msi        |
-| 11.0.17+8 | Windows  | x64          | zip  | 07/20/2021 | 46171274  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.17%2B8_openj9-0.35.0/ibm-semeru-open-debugimage_x64_windows_11.0.17_8_openj9-0.35.0.zip |
-| 11.0.17+8 | Windows  | x64          | zip  | 07/20/2021 | 208746185 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.17%2B8_openj9-0.35.0/ibm-semeru-open-jdk_x64_windows_11.0.17_8_openj9-0.35.0.zip        |
-| 11.0.17+8 | Windows  | x64          | zip  | 07/20/2021 | 46994029  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.17%2B8_openj9-0.35.0/ibm-semeru-open-jre_x64_windows_11.0.17_8_openj9-0.35.0.zip        |
-| 11.0.17+8 | Windows  | x64          | zip  | 07/20/2021 | 7913861   | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.17%2B8_openj9-0.35.0/ibm-semeru-open-testimage_x64_windows_11.0.17_8_openj9-0.35.0.zip  |
+| Version    | Platform | Architecture | Type | Date       | Size      | URI                                                                                                                                                                    |
+| ---------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.0.18+10 | Windows  | x64          | msi  | 07/20/2021 | 181751808 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jdk_x64_windows_11.0.18_10_openj9-0.36.1.msi        |
+| 11.0.18+10 | Windows  | x64          | msi  | 07/20/2021 | 34467840  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jre_x64_windows_11.0.18_10_openj9-0.36.1.msi        |
+| 11.0.18+10 | Windows  | x64          | zip  | 07/20/2021 | 46337139  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-debugimage_x64_windows_11.0.18_10_openj9-0.36.1.zip |
+| 11.0.18+10 | Windows  | x64          | zip  | 07/20/2021 | 209014758 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jdk_x64_windows_11.0.18_10_openj9-0.36.1.zip        |
+| 11.0.18+10 | Windows  | x64          | zip  | 07/20/2021 | 47079087  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jre_x64_windows_11.0.18_10_openj9-0.36.1.zip        |
+| 11.0.18+10 | Windows  | x64          | zip  | 07/20/2021 | 7834514   | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-testimage_x64_windows_11.0.18_10_openj9-0.36.1.zip  |
 
 ## AdoptOpenJDKSemuru17
 
@@ -870,7 +870,7 @@
 
 | Version | Date       | Sha256                                                           | URI                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1131,9 +1131,9 @@
 
 [Link](https://www.innosetup.com)
 
-| Version | URI                                                      |
-| ------- | -------------------------------------------------------- |
-| 6.2.1   | https://mlaan2.home.xs4all.nl/ispack/innosetup-6.2.1.exe |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 6.2.1   | https://files.jrsoftware.org/is/6/innosetup-6.2.1.exe |
 
 ## KarakunOpenWebStart
 
@@ -1296,7 +1296,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16206.20000 | BetaChannel       | Beta                                  | 02/14/2023 18:20:39 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20128 | CurrentPreview    | Current Channel (Preview)             | 02/13/2023 17:54:07 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20156 | CurrentPreview    | Current Channel (Preview)             | 02/15/2023 00:48:26 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16026.20200 | Current           | Current Channel                       | 02/14/2023 16:28:29 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15928.20282 | MonthlyEnterprise | Monthly Enterprise                    | 02/14/2023 16:48:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20538 | SemiAnnual        | Semi-Annual Channel                   | 02/14/2023 16:28:42 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1310,8 +1310,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | 2163071d71237da44c10939e34125417df34196e8a666c872b44cd50911bd722 | https://sqlopsbuilds.azureedge.net/insider/385e4a22450d4549d58a262dcd503e636f1ed30d/azuredatastudio-windows-setup-1.42.0-insider.exe      |
-| 1.42.0  | win32-x64-user | Insider | 0164b80f95ec25cae0fc7b608bdb7016090dbd6af6c2291a804d5e1c92d588e9 | https://sqlopsbuilds.azureedge.net/insider/385e4a22450d4549d58a262dcd503e636f1ed30d/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
+| 1.42.0  | win32-x64      | Insider | 039450a695904a0b0352d00647841d322c973aa79411dc80d74bb62d44255a4d | https://sqlopsbuilds.azureedge.net/insider/d9b24522e5c5ab11301ebc9c3addbcedf8e9229b/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64-user | Insider | f2a279f200c85a411b8a6093ae4f5b2bbc33773cd58edc65b43fe2bf3754218e | https://sqlopsbuilds.azureedge.net/insider/d9b24522e5c5ab11301ebc9c3addbcedf8e9229b/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.2  | win32-x64      | Stable  | bbfc1a6d8a3b115ed5eb668a611a6c0611d39d5f721c7e69ce26271745a72940 | https://sqlopsbuilds.azureedge.net/stable/0f0960d0e774e1ce903b79378addff96117c27a6/azuredatastudio-windows-setup-1.41.2.exe               |
 | 1.41.2  | win32-x64-user | Stable  | 0a450a815be3d8bd90bc3c1cf1a41f2bd725e10c57fddba12b4037cc86c07fd4 | https://sqlopsbuilds.azureedge.net/stable/0f0960d0e774e1ce903b79378addff96117c27a6/azuredatastudio-windows-user-setup-1.41.2.exe          |
 
@@ -1573,12 +1573,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 6f0ebf65116e59908979d41a05efbf8d7b24544c4dcccfd4b810c1ff5c53b19f | https://vscode.blob.core.windows.net/insider/af4a70d991053dcbf64d9a86c76a02dced81d9c4/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | a307251a16b368ba4a0f1197744d0ee8f11400bde59a941b42e4ef47153c324f | https://vscode.blob.core.windows.net/insider/af4a70d991053dcbf64d9a86c76a02dced81d9c4/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | 3da4fe9a1a506d0c88455c606fef5213855883f02b3e3c2dd4d160093042b06e | https://vscode.blob.core.windows.net/insider/af4a70d991053dcbf64d9a86c76a02dced81d9c4/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | e6564f7ec440d91ce12698f5d000b49d27f348c7bed681e2de2f4b0e45afbb50 | https://vscode.blob.core.windows.net/insider/af4a70d991053dcbf64d9a86c76a02dced81d9c4/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | 190388541da290522d1ebd30d9f0699ae74b78bc950a7346ceeece80ba5eafe0 | https://vscode.blob.core.windows.net/insider/af4a70d991053dcbf64d9a86c76a02dced81d9c4/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | 337433477eadd4bb8ddd946f4a065c8f8f71868592fc062d215a6b224f8c0d5e | https://vscode.blob.core.windows.net/insider/af4a70d991053dcbf64d9a86c76a02dced81d9c4/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 95d8210acc7cf59c4b461cfc0ba2969770f88c3922ac34994e5415a0e78dbaab | https://vscode.blob.core.windows.net/insider/b2cc8c48b93222cd9727c4e70be3a269b132e5d8/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | 67a5508346ea912a2d0851ab46d8a3097f2eefc2758dd299f3bc6d932d4c8754 | https://vscode.blob.core.windows.net/insider/b2cc8c48b93222cd9727c4e70be3a269b132e5d8/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | eb5ff63563cbd50a5b1731bee3bea4042ae7bf133e400558e59b413e046325a6 | https://vscode.blob.core.windows.net/insider/b2cc8c48b93222cd9727c4e70be3a269b132e5d8/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 61b89868f89b6fd04128b20c8a70d11b1579c3374387f7a5f88abd817984069c | https://vscode.blob.core.windows.net/insider/b2cc8c48b93222cd9727c4e70be3a269b132e5d8/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | 233108de88b07f0ddc3c4e88a325a44284b2999f47fce19edd53c22d9b917f12 | https://vscode.blob.core.windows.net/insider/b2cc8c48b93222cd9727c4e70be3a269b132e5d8/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | 6674899b21540db90793a9523e1d3dcba3467bf8e446d137054a3728331ea626 | https://vscode.blob.core.windows.net/insider/b2cc8c48b93222cd9727c4e70be3a269b132e5d8/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.1  | win32            | Stable  | x86          | 5572878ea3fc267a711103df8e8855517b9b65abf132562b493576ca3cabd84c | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-ia32-1.75.1.exe                     |
 | 1.75.1  | win32-arm64      | Stable  | ARM64        | 2c60bad73fe720a1b58078b165cca3daad86625a2375d407c43c1e1069f9e594 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-arm64-1.75.1.exe                    |
 | 1.75.1  | win32-arm64-user | Stable  | ARM64        | b2b4d9c7d67524e0202a6e86477df298c9e35b182a062b7608e0383e83959a50 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeUserSetup-arm64-1.75.1.exe                |
@@ -4685,12 +4685,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                               |
 | ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe      |
+| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi      |
+| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip      |
+| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
