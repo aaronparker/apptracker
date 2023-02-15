@@ -1,9 +1,0 @@
-json/1Password.json
-json/AdobeConnect.json
-json/AdoptOpenJDKSemuru11.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/VideoLanVlcPlayer.json
-json/jrsoftwareInnoSetup.json
