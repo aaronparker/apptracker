@@ -1,92 +1,92 @@
 [
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "01/12/2023",
-    "Size": 52998824,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe"
+    "Date": "02/07/2023",
+    "Size": 53002824,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-64-bit.exe"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "01/12/2023",
-    "Size": 48387760,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/PortableGit-2.39.1-64-bit.7z.exe"
+    "Date": "02/07/2023",
+    "Size": 48383424,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/PortableGit-2.39.2-64-bit.7z.exe"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "01/12/2023",
-    "Size": 53114560,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe"
+    "Date": "02/07/2023",
+    "Size": 53132448,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-32-bit.exe"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "01/12/2023",
-    "Size": 48868896,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/PortableGit-2.39.1-32-bit.7z.exe"
+    "Date": "02/07/2023",
+    "Size": 48887936,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/PortableGit-2.39.2-32-bit.7z.exe"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "01/12/2023",
-    "Size": 29210775,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-64-bit.zip"
+    "Date": "02/07/2023",
+    "Size": 29211171,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-64-bit.zip"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "01/12/2023",
-    "Size": 26124864,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-busybox-64-bit.zip"
+    "Date": "02/07/2023",
+    "Size": 26125288,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-busybox-64-bit.zip"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "01/12/2023",
-    "Size": 15723204,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/pdbs-for-git-64-bit-2.39.1.1.b03dafd9c2-1.zip"
+    "Date": "02/07/2023",
+    "Size": 15727276,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/pdbs-for-git-64-bit-2.39.2.1.a82fa99b36-1.zip"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "01/12/2023",
-    "Size": 30705792,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-32-bit.zip"
+    "Date": "02/07/2023",
+    "Size": 30709088,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-32-bit.zip"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "01/12/2023",
-    "Size": 24546498,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-busybox-32-bit.zip"
+    "Date": "02/07/2023",
+    "Size": 24549807,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-busybox-32-bit.zip"
   },
   {
-    "Version": "2.39.1",
+    "Version": "2.39.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "01/12/2023",
-    "Size": 17792442,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/pdbs-for-git-32-bit-2.39.1.1.b03dafd9c2-1.zip"
+    "Date": "02/07/2023",
+    "Size": 17796554,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/pdbs-for-git-32-bit-2.39.2.1.a82fa99b36-1.zip"
   }
 ]
