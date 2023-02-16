@@ -1,110 +1,110 @@
 [
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "Date": "07/20/2021",
-    "Size": 106426368,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jdk_x64_windows_8u352b08_openj9-0.35.0.msi"
+    "Size": 106139648,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_8u362b09_openj9-0.36.0.msi"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "Date": "07/20/2021",
-    "Size": 44007424,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jre_x64_windows_8u352b08_openj9-0.35.0.msi"
+    "Size": 43692032,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_8u362b09_openj9-0.36.0.msi"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "Date": "07/20/2021",
-    "Size": 99643392,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jdk_x86-32_windows_8u352b08_openj9-0.35.0.msi"
+    "Size": 99405824,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jdk_x86-32_windows_8u362b09_openj9-0.36.0.msi"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "Date": "07/20/2021",
-    "Size": 37355520,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jre_x86-32_windows_8u352b08_openj9-0.35.0.msi"
+    "Size": 37097472,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jre_x86-32_windows_8u362b09_openj9-0.36.0.msi"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 46616129,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-debugimage_x64_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 46904074,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-debugimage_x64_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 120297495,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jdk_x64_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 119981434,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 49260235,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jre_x64_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 48912128,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 2109640,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-testimage_x64_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 2109415,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-testimage_x64_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 43051993,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-debugimage_x86-32_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 43277942,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-debugimage_x86-32_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 117145505,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jdk_x86-32_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 116882826,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jdk_x86-32_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 46262458,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-jre_x86-32_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 45961849,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-jre_x86-32_windows_8u362b09_openj9-0.36.0.zip"
   },
   {
-    "Version": "jdk8u352-b08-openj9-0.35.0",
+    "Version": "8u362-b09",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "Date": "07/20/2021",
-    "Size": 1793371,
-    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u352-b08-openj9-0.35.0/ibm-semeru-open-testimage_x86-32_windows_8u352b08_openj9-0.35.0.zip"
+    "Size": 1793440,
+    "URI": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u362-b09_openj9-0.36.0/ibm-semeru-open-testimage_x86-32_windows_8u362b09_openj9-0.36.0.zip"
   }
 ]
