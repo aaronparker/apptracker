@@ -1,0 +1,8 @@
+json/AirtameApp.json
+json/Anki.json
+json/AppVentiX.json
+json/Cyberduck.json
+json/MirantisLens.json
+json/Protege.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
