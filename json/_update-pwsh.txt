@@ -1,0 +1,8 @@
+json/GoogleChrome.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/VideoLanVlcPlayer.json
