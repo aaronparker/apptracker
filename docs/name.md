@@ -35,10 +35,10 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 22.01   | Windows  | ARM32        | exe  | 01/15/2023 | 2537875 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.2-R1/7z22.01-zstd-arm.exe   |
-| 22.01   | Windows  | ARM64        | exe  | 01/15/2023 | 2833844 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.2-R1/7z22.01-zstd-arm64.exe |
-| 22.01   | Windows  | x64          | exe  | 01/15/2023 | 2844596 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.2-R1/7z22.01-zstd-x64.exe   |
-| 22.01   | Windows  | x86          | exe  | 01/15/2023 | 2557331 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.2-R1/7z22.01-zstd-x32.exe   |
+| 22.01   | Windows  | ARM32        | exe  | 02/18/2023 | 2893402 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-arm.exe   |
+| 22.01   | Windows  | ARM64        | exe  | 02/18/2023 | 2815365 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-arm64.exe |
+| 22.01   | Windows  | x64          | exe  | 02/18/2023 | 2966512 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-x64.exe   |
+| 22.01   | Windows  | x86          | exe  | 02/18/2023 | 2671864 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-x32.exe   |
 
 ## AdobeAcrobat
 
@@ -869,9 +869,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -4686,14 +4686,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe          |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi          |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip          |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4861,8 +4861,8 @@
 | 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
 | 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
 | 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginAdminTool.msi       |
+| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
 | 5.13.5.783   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.783/ZoomOutlookPluginSetup.msi         |
 | 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
