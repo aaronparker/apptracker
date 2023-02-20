@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
