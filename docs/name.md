@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.0  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.0  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -869,9 +869,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1576,12 +1576,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 20d59873a522d53e031329feb3017842e538286adac94b5d782f0fcccde2b9dd | https://vscode.blob.core.windows.net/insider/96a795cc0b1cd62f9ff66c347637f917c6dde3da/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | d3924cd97036a181935a7b1beb4335004669ace039329a9a30179e06143bc08d | https://vscode.blob.core.windows.net/insider/96a795cc0b1cd62f9ff66c347637f917c6dde3da/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | 51a08f1018303c2b09f96a734a22e61b28acc545cc5f483ab0b4dbf03f731852 | https://vscode.blob.core.windows.net/insider/96a795cc0b1cd62f9ff66c347637f917c6dde3da/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | 2fda25a0975e3c421110ff01493e4147fa0bbdbffd1037b20125ab67132dcfe5 | https://vscode.blob.core.windows.net/insider/96a795cc0b1cd62f9ff66c347637f917c6dde3da/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | 2f4831b1d2a02b4214830b3580715ca19f1272578f652989cf39f23901ef2817 | https://vscode.blob.core.windows.net/insider/96a795cc0b1cd62f9ff66c347637f917c6dde3da/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | b4d5c1c577d064c8de62486fd46b94e08206ad7a9f06850c1152941d3e8eaed8 | https://vscode.blob.core.windows.net/insider/96a795cc0b1cd62f9ff66c347637f917c6dde3da/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 404f51e435f8eebf5d6230f7ec7013a442cbdd71cdc4b245b5f8d88e2fd1027d | https://vscode.blob.core.windows.net/insider/4e3219683563939873497516a235691aa2731274/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | 5ac2d3dc65327c493b505649c7061def78d98b0c6c0f5659563fa8df2922bf02 | https://vscode.blob.core.windows.net/insider/4e3219683563939873497516a235691aa2731274/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | 2db204a5dd643626742de08d6120bfb6206eeb1fc272eec40ee166d8fadfd7b8 | https://vscode.blob.core.windows.net/insider/4e3219683563939873497516a235691aa2731274/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 47373c177ab02e69a728d2b38bc2d285ba34ca1a94a77950e4a426419df5b2eb | https://vscode.blob.core.windows.net/insider/4e3219683563939873497516a235691aa2731274/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | d6b61fddbc76c687ddc3d05e1455d4b44ebd3b4e69357d24f6d87eabf5330ab9 | https://vscode.blob.core.windows.net/insider/4e3219683563939873497516a235691aa2731274/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | 37b8f9adccb086696c0048bde5bc0a3e76e004fe1208a0784e5ae8fac9a21d61 | https://vscode.blob.core.windows.net/insider/4e3219683563939873497516a235691aa2731274/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.1  | win32            | Stable  | x86          | 5572878ea3fc267a711103df8e8855517b9b65abf132562b493576ca3cabd84c | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-ia32-1.75.1.exe                     |
 | 1.75.1  | win32-arm64      | Stable  | ARM64        | 2c60bad73fe720a1b58078b165cca3daad86625a2375d407c43c1e1069f9e594 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-arm64-1.75.1.exe                    |
 | 1.75.1  | win32-arm64-user | Stable  | ARM64        | b2b4d9c7d67524e0202a6e86477df298c9e35b182a062b7608e0383e83959a50 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeUserSetup-arm64-1.75.1.exe                |
@@ -4011,7 +4011,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2022.4.8454 | 02/16/2023 | https://download.octopusdeploy.com/octopus/Octopus.2022.4.8454-x64.msi |
+| 2022.4.8463 | 02/19/2023 | https://download.octopusdeploy.com/octopus/Octopus.2022.4.8463-x64.msi |
 
 ## OctopusTentacle
 
@@ -4688,12 +4688,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                             |
 | ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe        |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi        |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip        |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.exe                     |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.msi                     |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.zip                     |
 
 ## VisualCppRedistAIO
 
