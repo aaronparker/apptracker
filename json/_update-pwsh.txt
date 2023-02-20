@@ -1,0 +1,5 @@
+json/Gimp.json
+json/PaintDotNet.json
+json/PaintDotNetOfflineInstaller.json
+json/VideoLanVlcPlayer.json
+json/dbeaver.json
