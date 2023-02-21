@@ -1,0 +1,12 @@
+json/1Password.json
+json/CodelerityApacheNetBeans.json
+json/ESETEndpointAntivirus.json
+json/ESETEndpointSecurity.json
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/Gimp.json
+json/GitHubDesktop.json
+json/OperaGXBrowser.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
