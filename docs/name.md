@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.0  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.0  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
 
 ## 1Password7
 
@@ -869,9 +869,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1429,14 +1429,14 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.037.0216.0001 | AMD64        | InternalFast | S+kW6K0hl27Dv8ldP8TeCngLIlSImlk4KRYL7yZiao8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.037.0216.0001/amd64/OneDriveSetup.exe |
-| 23.037.0216.0001 | x86          | InternalFast | /rp+kJlckHRtP1kqW4W3xozOAUA8gwwqUz/Dar0xrNU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.037.0216.0001/OneDriveSetup.exe       |
+| 23.038.0219.0001 | AMD64        | InternalFast | HZsvY+c0XPxpUTmE8Z/lDKkH9zySQngM4ygTZzl2Y5w= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/amd64/OneDriveSetup.exe |
+| 23.038.0219.0001 | x86          | InternalFast | NGWpo0rLZznvBgAPQjfM8bAgCB5wpcoVZRrxS6ZCZrs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/OneDriveSetup.exe       |
 | 23.035.0214.0001 | AMD64        | Insider      | CXsUE4DboqIr0ID9odawTGpQp6cwVT0g5K2O21GBoZs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/amd64/OneDriveSetup.exe |
 | 23.035.0214.0001 | AMD64        | InternalSlow | CXsUE4DboqIr0ID9odawTGpQp6cwVT0g5K2O21GBoZs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/amd64/OneDriveSetup.exe |
 | 23.035.0214.0001 | x86          | Insider      | MlSBlZPJLEMUQHBc8WTeCpzrFmqXJCOeYsbrCn1yWPU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/OneDriveSetup.exe       |
 | 23.035.0214.0001 | x86          | InternalSlow | MlSBlZPJLEMUQHBc8WTeCpzrFmqXJCOeYsbrCn1yWPU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/OneDriveSetup.exe       |
-| 23.033.0212.0001 | AMD64        | Insider      | dEg4BGbCrYWHra2izvcoZ6nwyxZGHMCNw0zRFVIb5mg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/amd64/OneDriveSetup.exe |
-| 23.033.0212.0001 | x86          | Insider      | f6ZMu0spy5Fft2jMXy9YnI2gNakFcCyM1NMnQqQPVBc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/OneDriveSetup.exe       |
+| 23.033.0212.0001 | AMD64        | Production   | dEg4BGbCrYWHra2izvcoZ6nwyxZGHMCNw0zRFVIb5mg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/amd64/OneDriveSetup.exe |
+| 23.033.0212.0001 | x86          | Production   | f6ZMu0spy5Fft2jMXy9YnI2gNakFcCyM1NMnQqQPVBc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/OneDriveSetup.exe       |
 | 23.028.0205.0002 | AMD64        | Production   | REFwT4z6CCKew/EQxoePX1ID1KTIfKKeCnqbrwkwnHI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/amd64/OneDriveSetup.exe |
 | 23.028.0205.0002 | x86          | Production   | mD+JhgxslOUPltCaqUaXxkKLbCFDdvHj/Ed0WMLg4h0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/OneDriveSetup.exe       |
 | 23.023.0129.0002 | AMD64        | Production   | WDxJGhGby6ZdjhCSsSR/eDNWDY4DSGIXcoTaH3eEVYs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.023.0129.0002/amd64/OneDriveSetup.exe |
@@ -1576,12 +1576,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 345443d6dbfd8417c4a07e510040e0d81c91b897a9f4e55253e59c2c26e4f01f | https://vscode.blob.core.windows.net/insider/78cb4eb690930964f4dcddde7c4828bdb5beaabd/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | 866d785a29bd37bcf40ea74178d157d8f221a91a66bfbc3b5687613ec05f6b33 | https://vscode.blob.core.windows.net/insider/78cb4eb690930964f4dcddde7c4828bdb5beaabd/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | 376817bb1eac7ebdfaaf9940efacede484dbd8beab07f497b6165631bb4e705d | https://vscode.blob.core.windows.net/insider/78cb4eb690930964f4dcddde7c4828bdb5beaabd/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | 556d64dd274b13ce4a65ff2421512e654d60b1610bdf8d6805aa765e95db1749 | https://vscode.blob.core.windows.net/insider/78cb4eb690930964f4dcddde7c4828bdb5beaabd/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | d049ce52b7c211c8292bcddf9f210326d177fc44637b2e97095a1e47f26c8974 | https://vscode.blob.core.windows.net/insider/78cb4eb690930964f4dcddde7c4828bdb5beaabd/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | 0e8dbf7affb7c83c306381ca791bf77877ca61b0f1b6e9f1476cbfb9521b3021 | https://vscode.blob.core.windows.net/insider/78cb4eb690930964f4dcddde7c4828bdb5beaabd/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 36c5d79e963b2b83c317bd7606c06b43d2c113fcaf61524d6487e370d55d5290 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | 786d4ac786ba5752c448971b7fdf5c3895c990f37957f96aa0ea695c77d170d6 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | e06479bac296a8f7bfdf99944f3f2801a0ffbf447efe24be416d421196bdbd0f | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | 2f561a6009b552b71dd990c5e8ae851df15c9d15a5503304def0dbfba32a398f | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | f2b79792f872ddf786ea43eb48b85d25dff10f1c733e6e1e07bd298450e63734 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | ef14a801ed01b39ac844ac74f899b4e90761465d2081641804f0a0e07398cca4 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.1  | win32            | Stable  | x86          | 5572878ea3fc267a711103df8e8855517b9b65abf132562b493576ca3cabd84c | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-ia32-1.75.1.exe                     |
 | 1.75.1  | win32-arm64      | Stable  | ARM64        | 2c60bad73fe720a1b58078b165cca3daad86625a2375d407c43c1e1069f9e594 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-arm64-1.75.1.exe                    |
 | 1.75.1  | win32-arm64-user | Stable  | ARM64        | b2b4d9c7d67524e0202a6e86477df298c9e35b182a062b7608e0383e83959a50 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeUserSetup-arm64-1.75.1.exe                |
@@ -4214,26 +4214,26 @@
 
 [Link](https://www.chef.io/products/chef-infra)
 
-| Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
-| -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 18.1.15  | x64          | current  | 10       | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/current/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi        |
-| 18.1.15  | x64          | current  | 11       | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/current/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi        |
-| 18.1.15  | x64          | current  | 2012r2   | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/current/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi        |
-| 18.1.15  | x64          | current  | 2016     | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/current/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi        |
-| 18.1.15  | x64          | current  | 2019     | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/current/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi        |
-| 18.1.15  | x64          | current  | 2022     | cac3adee291f96315543284ee55266ac48d3bcecd1e357b6023e85810c596687 | https://packages.chef.io/files/current/chef/18.1.15/windows/10/chef-client-18.1.15-1-x64.msi        |
-| 18.1.0   | x64          | stable   | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi           |
-| 18.1.0   | x64          | stable   | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi           |
-| 18.1.0   | x64          | stable   | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi       |
-| 18.1.0   | x64          | stable   | 2016     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi         |
-| 18.1.0   | x64          | stable   | 2019     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi         |
-| 18.1.0   | x64          | stable   | 2022     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi         |
-| 16.18.30 | x64          | unstable | 10       | d584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90 | https://packages.chef.io/files/unstable/chef/16.18.30/windows/10/chef-client-16.18.30-1-x64.msi     |
-| 16.18.30 | x64          | unstable | 11       | d584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90 | https://packages.chef.io/files/unstable/chef/16.18.30/windows/11/chef-client-16.18.30-1-x64.msi     |
-| 16.18.30 | x64          | unstable | 2012r2   | d584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90 | https://packages.chef.io/files/unstable/chef/16.18.30/windows/2012r2/chef-client-16.18.30-1-x64.msi |
-| 16.18.30 | x64          | unstable | 2016     | d584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90 | https://packages.chef.io/files/unstable/chef/16.18.30/windows/2016/chef-client-16.18.30-1-x64.msi   |
-| 16.18.30 | x64          | unstable | 2019     | d584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90 | https://packages.chef.io/files/unstable/chef/16.18.30/windows/2019/chef-client-16.18.30-1-x64.msi   |
-| 16.18.30 | x64          | unstable | 2022     | d584e40da66acd72091199ac57326e4dc36dc66a8f79ad5668bf9c20a52ecb90 | https://packages.chef.io/files/unstable/chef/16.18.30/windows/2022/chef-client-16.18.30-1-x64.msi   |
+| Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                           |
+| ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 18.1.21 | x64          | current  | 10       | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
+| 18.1.21 | x64          | unstable | 10       | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/unstable/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi |
+| 18.1.21 | x64          | current  | 11       | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
+| 18.1.21 | x64          | unstable | 11       | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/unstable/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi |
+| 18.1.21 | x64          | current  | 2012r2   | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
+| 18.1.21 | x64          | unstable | 2012r2   | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/unstable/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi |
+| 18.1.21 | x64          | current  | 2016     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
+| 18.1.21 | x64          | unstable | 2016     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/unstable/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi |
+| 18.1.21 | x64          | current  | 2019     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
+| 18.1.21 | x64          | unstable | 2019     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/unstable/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi |
+| 18.1.21 | x64          | current  | 2022     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
+| 18.1.21 | x64          | unstable | 2022     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/unstable/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi |
+| 18.1.0  | x64          | stable   | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi     |
+| 18.1.0  | x64          | stable   | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi     |
+| 18.1.0  | x64          | stable   | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi |
+| 18.1.0  | x64          | stable   | 2016     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2016/chef-client-18.1.0-1-x64.msi   |
+| 18.1.0  | x64          | stable   | 2019     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2019/chef-client-18.1.0-1-x64.msi   |
+| 18.1.0  | x64          | stable   | 2022     | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2022/chef-client-18.1.0-1-x64.msi   |
 
 ## ProgressChefInSpec
 
@@ -4548,7 +4548,7 @@
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
-| 15.38.3 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
+| 15.39.3 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
 ## TechSmithCamtasia
 
@@ -4686,14 +4686,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                      |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------ |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe        |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi        |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip        |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
