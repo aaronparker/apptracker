@@ -1313,9 +1313,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://abqix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -2020,12 +2020,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                            |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 36c5d79e963b2b83c317bd7606c06b43d2c113fcaf61524d6487e370d55d5290 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | 786d4ac786ba5752c448971b7fdf5c3895c990f37957f96aa0ea695c77d170d6 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | e06479bac296a8f7bfdf99944f3f2801a0ffbf447efe24be416d421196bdbd0f | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | 2f561a6009b552b71dd990c5e8ae851df15c9d15a5503304def0dbfba32a398f | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | f2b79792f872ddf786ea43eb48b85d25dff10f1c733e6e1e07bd298450e63734 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | ef14a801ed01b39ac844ac74f899b4e90761465d2081641804f0a0e07398cca4 | https://vscode.blob.core.windows.net/insider/5454665328aa30aeb989abfc195e7a7aacd94edf/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | a0c503f706ac897e778ed38a7da3ea08a12b947c57d8e00fd1a4a10e6096c819 | https://vscode.blob.core.windows.net/insider/7b6b6869e8f5b71b5e9cdbd3f590b10964f89607/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | 38aff32d78b64f867ef22fce2a650c18e60cab90e167bd846b0902b19e45a39c | https://vscode.blob.core.windows.net/insider/7b6b6869e8f5b71b5e9cdbd3f590b10964f89607/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | 400a0d50538ff0dab74fb5ba14949d20c8cfa2d3e16069472ac40e72917b18c5 | https://vscode.blob.core.windows.net/insider/7b6b6869e8f5b71b5e9cdbd3f590b10964f89607/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | aa4a93d1c611033759a5513ed497ac7e54513525ffac8c75d2749bd0409720cf | https://vscode.blob.core.windows.net/insider/7b6b6869e8f5b71b5e9cdbd3f590b10964f89607/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | 1cd011042be1da2e4c0347b6fcf5a8c1da517f3650b0cb2c3a175c3011904567 | https://vscode.blob.core.windows.net/insider/7b6b6869e8f5b71b5e9cdbd3f590b10964f89607/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | a796b86a42fac29e0df90a0f5faca3291be44658eefde7528b4a5026110f868f | https://vscode.blob.core.windows.net/insider/7b6b6869e8f5b71b5e9cdbd3f590b10964f89607/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.1  | win32            | Stable  | x86          | 5572878ea3fc267a711103df8e8855517b9b65abf132562b493576ca3cabd84c | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-ia32-1.75.1.exe                     |
 | 1.75.1  | win32-arm64      | Stable  | ARM64        | 2c60bad73fe720a1b58078b165cca3daad86625a2375d407c43c1e1069f9e594 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-arm64-1.75.1.exe                    |
 | 1.75.1  | win32-arm64-user | Stable  | ARM64        | b2b4d9c7d67524e0202a6e86477df298c9e35b182a062b7608e0383e83959a50 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeUserSetup-arm64-1.75.1.exe                |
@@ -2123,7 +2123,7 @@
 
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2023.2.170829-alpha  | x64          | Alpha   | 02/17/2023 08:54:52 | 308364000 | Y1JPlSwkVb6xFMejmv1TP7rmgyB4z3U/5DcekK2r70PJu/tScMx6ZEOVGAief1izYl9ZIwLbTb19NutlcsfMJA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.2.170829-alpha.exe  |
+| 2023.2.221454-alpha  | x64          | Alpha   | 02/22/2023 15:19:22 | 308442320 | DB4cd1Cmwtb8Ps32jfVtbU+TfTnPEUrP7PhQvY5mZMZp1eEQdfoXutH9TntJJf9Ps5I8PiYk8PUPwdYZwnGBmA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.2.221454-alpha.exe  |
 | 2023.1.110749-latest | x64          | Stable  | 01/11/2023 08:12:54 | 371740496 | ntb5PjocaCsIflXAH/BsBy9xdx8/q6/I5AmoSK9+xsX8iIezQAu1QXC2ZICGHaPnq9gt7AErkRf0A3I6GjqI+w== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.1.110749-latest.exe |
 
 ## MozillaFirefox
@@ -4435,11 +4435,11 @@
 
 [Link](https://obsidian.md/)
 
-| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
-| ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 1.1.9   | Windows  | ARM64        | exe  | 12/23/2022 | 72690776 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian.1.1.9-arm64.exe |
-| 1.1.9   | Windows  | x86          | exe  | 12/23/2022 | 68627128 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian.1.1.9-32.exe    |
-| 1.1.9   | Windows  | x86          | exe  | 12/23/2022 | 72690816 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian.1.1.9.exe       |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
+| 1.1.15  | Windows  | ARM64        | exe  | 02/22/2023 | 72582528 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.15/Obsidian.1.1.15-arm64.exe |
+| 1.1.15  | Windows  | x86          | exe  | 02/22/2023 | 68690184 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.15/Obsidian.1.1.15-32.exe    |
+| 1.1.15  | Windows  | x86          | exe  | 02/22/2023 | 72743952 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.15/Obsidian.1.1.15.exe       |
 
 ## OBSStudio
 
@@ -4539,10 +4539,10 @@
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
 | 97.0.4711.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4711.0/win/Opera_Developer_97.0.4711.0_Setup_x64.exe |
 | 97.0.4711.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4711.0/win/Opera_Developer_97.0.4711.0_Setup.exe     |
+| 96.0.4693.20 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.20/win/Opera_96.0.4693.20_Setup_x64.exe                   |
+| 96.0.4693.20 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.20/win/Opera_96.0.4693.20_Setup.exe                       |
 | 96.0.4693.16 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/96.0.4693.16/win/Opera_beta_96.0.4693.16_Setup_x64.exe         |
 | 96.0.4693.16 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/96.0.4693.16/win/Opera_beta_96.0.4693.16_Setup.exe             |
-| 95.0.4635.46 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.46/win/Opera_95.0.4635.46_Setup_x64.exe                   |
-| 95.0.4635.46 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.46/win/Opera_95.0.4635.46_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -5130,14 +5130,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe             |
-| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi             |
-| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip             |
-| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe  |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi  |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip  |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
