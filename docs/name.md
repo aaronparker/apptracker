@@ -35,10 +35,10 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 22.01   | Windows  | ARM32        | exe  | 02/18/2023 | 2893402 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-arm.exe   |
-| 22.01   | Windows  | ARM64        | exe  | 02/18/2023 | 2815365 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-arm64.exe |
-| 22.01   | Windows  | x64          | exe  | 02/18/2023 | 2966512 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-x64.exe   |
-| 22.01   | Windows  | x86          | exe  | 02/18/2023 | 2671864 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R2/7z22.01-zstd-x32.exe   |
+| 22.01   | Windows  | ARM32        | exe  | 02/21/2023 | 2892390 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-arm.exe   |
+| 22.01   | Windows  | ARM64        | exe  | 02/21/2023 | 2815701 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-arm64.exe |
+| 22.01   | Windows  | x64          | exe  | 02/21/2023 | 2965127 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-x64.exe   |
+| 22.01   | Windows  | x86          | exe  | 02/21/2023 | 2673098 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-x32.exe   |
 
 ## AdobeAcrobat
 
@@ -605,9 +605,9 @@
 
 | Version   | Platform | Architecture | Type | Date       | Size    | URI                                                                                  |
 | --------- | -------- | ------------ | ---- | ---------- | ------- | ------------------------------------------------------------------------------------ |
-| 3.2.242.0 | Windows  | x64          | msi  | 01/06/2023 | 7094272 | https://github.com/dnGrep/dnGrep/releases/download/v3.2.242.0/dnGREP.3.2.242.x64.msi |
-| 3.2.242.0 | Windows  | x86          | msi  | 01/06/2023 | 7090176 | https://github.com/dnGrep/dnGrep/releases/download/v3.2.242.0/dnGREP.3.2.242.x86.msi |
-| 3.2.242.0 | Windows  | x86          | zip  | 01/06/2023 | 5938118 | https://github.com/dnGrep/dnGrep/releases/download/v3.2.242.0/dnGrep.3.2.242.0.zip   |
+| 3.2.279.0 | Windows  | x64          | msi  | 02/18/2023 | 7106560 | https://github.com/dnGrep/dnGrep/releases/download/v3.2.279.0/dnGREP.3.2.279.x64.msi |
+| 3.2.279.0 | Windows  | x86          | msi  | 02/18/2023 | 7102464 | https://github.com/dnGrep/dnGrep/releases/download/v3.2.279.0/dnGREP.3.2.279.x86.msi |
+| 3.2.279.0 | Windows  | x86          | zip  | 02/18/2023 | 5951943 | https://github.com/dnGrep/dnGrep/releases/download/v3.2.279.0/dnGrep.3.2.279.0.zip   |
 
 ## DockerDesktop
 
@@ -1313,9 +1313,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror2.sandyriver.net/pub/software/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1740,8 +1740,8 @@
 
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
-| 16.0.16206.20000 | BetaChannel       | Beta                                  | 02/14/2023 18:20:39 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20156 | CurrentPreview    | Current Channel (Preview)             | 02/15/2023 00:48:26 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16216.20004 | BetaChannel       | Beta                                  | 02/21/2023 16:01:10 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20184 | CurrentPreview    | Current Channel (Preview)             | 02/21/2023 17:59:40 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16026.20200 | Current           | Current Channel                       | 02/14/2023 16:28:29 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15928.20282 | MonthlyEnterprise | Monthly Enterprise                    | 02/14/2023 16:48:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20538 | SemiAnnual        | Semi-Annual Channel                   | 02/14/2023 16:28:42 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1793,9 +1793,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------- |
-| 0.14.46 | Windows  | ARM64        | exe  | 02/07/2023 | 47289560 | https://github.com/Azure/bicep/releases/download/v0.14.46/bicep-win-arm64.exe     |
-| 0.14.46 | Windows  | x64          | exe  | 02/07/2023 | 20996632 | https://github.com/Azure/bicep/releases/download/v0.14.46/bicep-setup-win-x64.exe |
-| 0.14.46 | Windows  | x64          | exe  | 02/07/2023 | 46581656 | https://github.com/Azure/bicep/releases/download/v0.14.46/bicep-win-x64.exe       |
+| 0.14.85 | Windows  | ARM64        | exe  | 02/17/2023 | 47297792 | https://github.com/Azure/bicep/releases/download/v0.14.85/bicep-win-arm64.exe     |
+| 0.14.85 | Windows  | x64          | exe  | 02/17/2023 | 20999880 | https://github.com/Azure/bicep/releases/download/v0.14.85/bicep-setup-win-x64.exe |
+| 0.14.85 | Windows  | x64          | exe  | 02/17/2023 | 46589328 | https://github.com/Azure/bicep/releases/download/v0.14.85/bicep-win-x64.exe       |
 
 ## MicrosoftBotFrameworkEmulator
 
@@ -1873,8 +1873,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.038.0219.0001 | AMD64        | InternalFast | HZsvY+c0XPxpUTmE8Z/lDKkH9zySQngM4ygTZzl2Y5w= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/amd64/OneDriveSetup.exe |
-| 23.038.0219.0001 | x86          | InternalFast | NGWpo0rLZznvBgAPQjfM8bAgCB5wpcoVZRrxS6ZCZrs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/OneDriveSetup.exe       |
+| 23.039.0220.0001 | AMD64        | InternalFast | rJiIAPsmAIyaibtcQVAWFZudCqSndYJ9GO0j1Owq+sI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.039.0220.0001/amd64/OneDriveSetup.exe |
+| 23.039.0220.0001 | x86          | InternalFast | gSxivLkie+LBQywJAuLXmvh2hRPwse8bcvJO9i0Vyy8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.039.0220.0001/OneDriveSetup.exe       |
 | 23.035.0214.0001 | AMD64        | Insider      | CXsUE4DboqIr0ID9odawTGpQp6cwVT0g5K2O21GBoZs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/amd64/OneDriveSetup.exe |
 | 23.035.0214.0001 | AMD64        | InternalSlow | CXsUE4DboqIr0ID9odawTGpQp6cwVT0g5K2O21GBoZs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/amd64/OneDriveSetup.exe |
 | 23.035.0214.0001 | x86          | Insider      | MlSBlZPJLEMUQHBc8WTeCpzrFmqXJCOeYsbrCn1yWPU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/OneDriveSetup.exe       |
@@ -1940,12 +1940,12 @@
 
 | Version     | Ring              | Architecture | Type | URI                                                                                               |
 | ----------- | ----------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------- |
-| 1.6.00.2573 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.2573/Teams_windows_arm64.exe |
-| 1.6.00.2573 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.2573/Teams_windows_x64.exe     |
-| 1.6.00.2573 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.2573/Teams_windows.exe             |
-| 1.6.00.2573 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.2573/Teams_windows_arm64.msi |
-| 1.6.00.2573 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.2573/Teams_windows_x64.msi     |
-| 1.6.00.2573 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.2573/Teams_windows.msi             |
+| 1.6.00.4472 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.4472/Teams_windows_arm64.exe |
+| 1.6.00.4472 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.4472/Teams_windows_x64.exe     |
+| 1.6.00.4472 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.4472/Teams_windows.exe             |
+| 1.6.00.4472 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.4472/Teams_windows_arm64.msi |
+| 1.6.00.4472 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.4472/Teams_windows_x64.msi     |
+| 1.6.00.4472 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.4472/Teams_windows.msi             |
 | 1.6.00.1381 | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.1381/Teams_windows_arm64.exe |
 | 1.6.00.1381 | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.1381/Teams_windows_arm64.exe |
 | 1.6.00.1381 | General           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.1381/Teams_windows_arm64.exe |
@@ -2071,11 +2071,11 @@
 
 | Version    | Architecture | Channel | Date       | MD5                              | Sha2                                                                                                                             | Filename                           | URI                                                              |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------- |
-| 1.2.4062.0 | ARM64        | Dogfood | 02/14/2023 | 3DDBE8EC33CD31520D5CD8C1194FA520 | 3AF4696191783C940CB308B7C3BE74157C16EB42AFCD7294A543807EBEEEC40B639BE1B7610797A8CABBEA585E4CBB01B0E923F65288C1C9D60193A09A0A9EB1 | RemoteDesktop_1.2.4062.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWX06H |
+| 1.2.4063.0 | ARM64        | Dogfood | 02/21/2023 | 3A5D33EDEBB8C223593B5129D46AB8FB | B496DEC57F8C22B3E6C12B35FB2ADA09117CCCFF4B14B0F6A9753B1D6903E0563E6EB31B950E62B2ED846E460CD3E068BEF5F748692903B87AF32A1A28BD92F2 | RemoteDesktop_1.2.4063.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWXbRZ |
+| 1.2.4063.0 | x64          | Dogfood | 02/21/2023 | 8841BA68F72EA78DE0973D75D4D6E1E6 | 77C03FDF3E875B3557356CD5ED38825713F731FDBBA14E9DC8AD7304D49A6BA2701B211974388D84BBEFEA89B70D7E842706CB9041DDE7373650BB9C8A59DBB3 | RemoteDesktop_1.2.4063.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWXm8u |
+| 1.2.4063.0 | x86          | Dogfood | 02/21/2023 | A69D1521C5FF95D025468F9D385B28A8 | 03E4F175B6E1D09FE3EE1B47C0514A4B66F05BD55FD3CB37A512A82A811618CC9F504218C5860B2A7DEBFC6718A5E2D567585BAFD263DD6799153E6786136047 | RemoteDesktop_1.2.4063.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWXjrn |
 | 1.2.4062.0 | ARM64        | Insider | 02/14/2023 | 3DDBE8EC33CD31520D5CD8C1194FA520 | 3AF4696191783C940CB308B7C3BE74157C16EB42AFCD7294A543807EBEEEC40B639BE1B7610797A8CABBEA585E4CBB01B0E923F65288C1C9D60193A09A0A9EB1 | RemoteDesktop_1.2.4062.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWX06H |
-| 1.2.4062.0 | x64          | Dogfood | 02/14/2023 | 61E7E40887BAA3A1748EB68D39181D10 | 57A09679A64D3797747940E4487426234595BA86EB029CFBB8ECF7337059F0DA71A55B9255F29304A97AB038A26E65AC03DC1C1A99926909C8F26A5BF2642F9D | RemoteDesktop_1.2.4062.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWMse |
 | 1.2.4062.0 | x64          | Insider | 02/14/2023 | 61E7E40887BAA3A1748EB68D39181D10 | 57A09679A64D3797747940E4487426234595BA86EB029CFBB8ECF7337059F0DA71A55B9255F29304A97AB038A26E65AC03DC1C1A99926909C8F26A5BF2642F9D | RemoteDesktop_1.2.4062.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWMse |
-| 1.2.4062.0 | x86          | Dogfood | 02/14/2023 | 24D46373C09EBAD71332DD4050333FF8 | 4402125B72A2E4826CE0F7F5309FF51BD37EF347794B5313A37046506A724C09B89A17B542F04E96B7A618A02A596AC9EB8C4440B4E087BDFEB4514AFC6D7073 | RemoteDesktop_1.2.4062.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWMsf |
 | 1.2.4062.0 | x86          | Insider | 02/14/2023 | 24D46373C09EBAD71332DD4050333FF8 | 4402125B72A2E4826CE0F7F5309FF51BD37EF347794B5313A37046506A724C09B89A17B542F04E96B7A618A02A596AC9EB8C4440B4E087BDFEB4514AFC6D7073 | RemoteDesktop_1.2.4062.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWMsf |
 | 1.2.3918.0 | ARM64        | Public  | 01/31/2023 | 1A282FE82CB01DBCC8835E9CE143E94E | 7524172FFB89A9CBC03F5C11B31B1B768D2DAA10EA38A330DABD9A5DEDB4ABECC4DB0C296F01D325B82FCE0D26A8D8680550F674AF724659C33C97EC313D4814 | RemoteDesktop_1.2.3918.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWPlp |
 | 1.2.3918.0 | x64          | Public  | 01/31/2023 | 2842D11D00299488D3D1E1B790541F71 | 03F307BF5F649CCD1797EEF931D0CA868FDD5C3C302871A4BA842CBCE4CE0B862A6DAF81F7A8C5213CEB7BBDCB58A349C872CE8A28BEF47A6023CCB43CCA6ACE | RemoteDesktop_1.2.3918.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHz3 |
@@ -4660,18 +4660,18 @@
 
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                           |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 18.1.22 | x64          | current  | 10       | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | unstable | 10       | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/unstable/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi |
+| 18.1.22 | x64          | current  | 11       | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | unstable | 11       | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/unstable/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi |
+| 18.1.22 | x64          | current  | 2012r2   | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | unstable | 2012r2   | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/unstable/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi |
+| 18.1.22 | x64          | current  | 2016     | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | unstable | 2016     | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/unstable/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi |
+| 18.1.22 | x64          | current  | 2019     | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | unstable | 2019     | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/unstable/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi |
+| 18.1.22 | x64          | current  | 2022     | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | unstable | 2022     | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/unstable/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi |
-| 18.1.21 | x64          | current  | 10       | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
-| 18.1.21 | x64          | current  | 11       | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
-| 18.1.21 | x64          | current  | 2012r2   | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
-| 18.1.21 | x64          | current  | 2016     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
-| 18.1.21 | x64          | current  | 2019     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
-| 18.1.21 | x64          | current  | 2022     | 62fba2f7f030df7733308b8c6a6745c9687637acdc39ecd8c30c8a401c121e54 | https://packages.chef.io/files/current/chef/18.1.21/windows/10/chef-client-18.1.21-1-x64.msi  |
 | 18.1.0  | x64          | stable   | 10       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/10/chef-client-18.1.0-1-x64.msi     |
 | 18.1.0  | x64          | stable   | 11       | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/11/chef-client-18.1.0-1-x64.msi     |
 | 18.1.0  | x64          | stable   | 2012r2   | c2b8d8833d7d90838c56d258f9a33b2e1b0d71c90fc2b54dd5cd3e7a34c8868c | https://packages.chef.io/files/stable/chef/18.1.0/windows/2012r2/chef-client-18.1.0-1-x64.msi |
@@ -5130,14 +5130,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe          |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi          |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip          |
+| Version | Platform | Architecture | Type | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
+| 3.0.18  | Windows  | x64          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.exe                                |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.msi                                |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.zip                                |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5221,9 +5221,10 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
-| 9.1.0.0 | Windows  | ARM64        | zip  | 11/02/2022 | 3956466 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.1.0.0p1-Beta/OpenSSH-ARM64.zip |
-| 9.1.0.0 | Windows  | x64          | zip  | 11/02/2022 | 4397401 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.1.0.0p1-Beta/OpenSSH-Win64.zip |
-| 9.1.0.0 | Windows  | x86          | zip  | 11/02/2022 | 3827631 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.1.0.0p1-Beta/OpenSSH-Win32.zip |
+| 9.2.0.0 | Windows  | ARM32        | zip  | 02/16/2023 | 3811862 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.0.0p1-Beta/OpenSSH-ARM.zip   |
+| 9.2.0.0 | Windows  | ARM64        | zip  | 02/16/2023 | 3988462 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.0.0p1-Beta/OpenSSH-ARM64.zip |
+| 9.2.0.0 | Windows  | x64          | zip  | 02/16/2023 | 4444835 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.0.0p1-Beta/OpenSSH-Win64.zip |
+| 9.2.0.0 | Windows  | x86          | zip  | 02/16/2023 | 3859738 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.0.0p1-Beta/OpenSSH-Win32.zip |
 
 ## WinMerge
 
