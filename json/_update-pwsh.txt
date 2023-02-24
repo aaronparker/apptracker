@@ -1,0 +1,11 @@
+json/1Password.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftVisualStudioCode.json
+json/MiniZincIDE.json
+json/OpenLens.json
+json/Postman.json

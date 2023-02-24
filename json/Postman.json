@@ -1,12 +1,12 @@
 [
   {
-    "Version": "10.10.8",
-    "Size": 167457328,
-    "Hash": "C712EA2518CD9B4ECBF055393A4B10F20859B823",
-    "Date": "02/22/2023 20:30:31",
+    "Version": "10.10.3",
+    "Size": 168084528,
+    "Hash": "1BD670A72F8C99DC94035234F9740972903F474A",
+    "Date": "02/13/2023 19:22:03",
     "Architecture": "x64",
-    "Filename": "Postman-win64-10.10.8-Setup.exe",
-    "URI": "https://dl.pstmn.io/download/version/10.10.8/windows64"
+    "Filename": "Postman-win64-10.10.3-Setup.exe",
+    "URI": "https://dl.pstmn.io/download/version/10.10.3/windows64"
   },
   {
     "Version": "9.4.1",
