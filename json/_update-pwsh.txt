@@ -1,0 +1,4 @@
+json/Gimp.json
+json/PeaZipPeaZip.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
