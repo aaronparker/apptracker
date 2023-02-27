@@ -1,9 +1,9 @@
 [
   {
-    "Version": "111.0.5563.19",
+    "Version": "111.0.5563.41",
     "Channel": "beta",
     "Type": "zip",
-    "URI": "https://chromedriver.storage.googleapis.com/111.0.5563.19/chromedriver_win32.zip"
+    "URI": "https://chromedriver.storage.googleapis.com/111.0.5563.41/chromedriver_win32.zip"
   },
   {
     "Version": "110.0.5481.77",
