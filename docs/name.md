@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.0  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.0  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.0.exe |
 
 ## 1Password7
 
@@ -35,10 +35,10 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 22.01   | Windows  | ARM32        | exe  | 02/21/2023 | 2892390 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-arm.exe   |
-| 22.01   | Windows  | ARM64        | exe  | 02/21/2023 | 2815701 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-arm64.exe |
-| 22.01   | Windows  | x64          | exe  | 02/21/2023 | 2965127 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-x64.exe   |
-| 22.01   | Windows  | x86          | exe  | 02/21/2023 | 2673098 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R3/7z22.01-zstd-x32.exe   |
+| 22.01   | Windows  | ARM32        | exe  | 02/27/2023 | 2904971 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R4/7z22.01-zstd-arm.exe   |
+| 22.01   | Windows  | ARM64        | exe  | 02/27/2023 | 2823078 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R4/7z22.01-zstd-arm64.exe |
+| 22.01   | Windows  | x64          | exe  | 02/27/2023 | 2975333 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R4/7z22.01-zstd-x64.exe   |
+| 22.01   | Windows  | x86          | exe  | 02/27/2023 | 2681579 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.4-R4/7z22.01-zstd-x32.exe   |
 
 ## AdobeAcrobat
 
@@ -461,7 +461,7 @@
 
 | Version       | Channel | Type | URI                                                                              |
 | ------------- | ------- | ---- | -------------------------------------------------------------------------------- |
-| 111.0.5563.19 | beta    | zip  | https://chromedriver.storage.googleapis.com/111.0.5563.19/chromedriver_win32.zip |
+| 111.0.5563.41 | beta    | zip  | https://chromedriver.storage.googleapis.com/111.0.5563.41/chromedriver_win32.zip |
 | 110.0.5481.77 | stable  | zip  | https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip |
 
 ## CitrixVMTools
@@ -1205,7 +1205,7 @@
 
 | Version | URI                                           |
 | ------- | --------------------------------------------- |
-| 1.81.1  | https://fork.dev/update/win/ForkInstaller.exe |
+| 1.82.1  | https://fork.dev/update/win/ForkInstaller.exe |
 
 ## FoxitPDFEditor
 
@@ -1313,9 +1313,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
 
 ## GitExtensions
 
@@ -1755,7 +1755,7 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.0  | win32-x64      | Insider | 6b1e5c08992dbc8b45fdf099628507c6275997ead2fa004d9f55f559e7949db0 | https://sqlopsbuilds.azureedge.net/insider/91cdd610fdb5b7fda1c76c1b96a74a8f18b3abd3/azuredatastudio-windows-setup-1.42.0-insider.exe      |
+| 1.42.0  | win32-x64      | Insider | 51fa63504fc3c5cb6676fd0e1c2cd66b147821168a50af28aaf47b8baeeed8ab | https://sqlopsbuilds.azureedge.net/insider/1e8519d54a6507504bfdbec4faa3082648609455/azuredatastudio-windows-setup-1.42.0-insider.exe      |
 | 1.42.0  | win32-x64-user | Insider | 9cef5563d080c8a98743da38fd7b435447ddee23d828a5c747e843b69b7928ff | https://sqlopsbuilds.azureedge.net/insider/1e8519d54a6507504bfdbec4faa3082648609455/azuredatastudio-windows-user-setup-1.42.0-insider.exe |
 | 1.41.2  | win32-x64      | Stable  | bbfc1a6d8a3b115ed5eb668a611a6c0611d39d5f721c7e69ce26271745a72940 | https://sqlopsbuilds.azureedge.net/stable/0f0960d0e774e1ce903b79378addff96117c27a6/azuredatastudio-windows-setup-1.41.2.exe               |
 | 1.41.2  | win32-x64-user | Stable  | 0a450a815be3d8bd90bc3c1cf1a41f2bd725e10c57fddba12b4037cc86c07fd4 | https://sqlopsbuilds.azureedge.net/stable/0f0960d0e774e1ce903b79378addff96117c27a6/azuredatastudio-windows-user-setup-1.41.2.exe          |
@@ -4536,8 +4536,8 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 97.0.4711.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4711.0/win/Opera_Developer_97.0.4711.0_Setup_x64.exe |
-| 97.0.4711.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4711.0/win/Opera_Developer_97.0.4711.0_Setup.exe     |
+| 97.0.4718.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4718.0/win/Opera_Developer_97.0.4718.0_Setup_x64.exe |
+| 97.0.4718.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4718.0/win/Opera_Developer_97.0.4718.0_Setup.exe     |
 | 96.0.4693.20 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.20/win/Opera_96.0.4693.20_Setup_x64.exe                   |
 | 96.0.4693.20 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.20/win/Opera_96.0.4693.20_Setup.exe                       |
 | 96.0.4693.16 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/96.0.4693.16/win/Opera_beta_96.0.4693.16_Setup_x64.exe         |
@@ -4684,12 +4684,12 @@
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                           |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 5.21.35 | x64          | current | 10       | 8075ca2572af8fa9feb0faaf87bfb1939d6adc98aa2fc2a66b13748131a8c785 | https://packages.chef.io/files/current/inspec/5.21.35/windows/10/inspec-5.21.35-1-x64.msi     |
-| 5.21.35 | x64          | current | 11       | 8075ca2572af8fa9feb0faaf87bfb1939d6adc98aa2fc2a66b13748131a8c785 | https://packages.chef.io/files/current/inspec/5.21.35/windows/11/inspec-5.21.35-1-x64.msi     |
-| 5.21.35 | x64          | current | 2012r2   | 8075ca2572af8fa9feb0faaf87bfb1939d6adc98aa2fc2a66b13748131a8c785 | https://packages.chef.io/files/current/inspec/5.21.35/windows/2012r2/inspec-5.21.35-1-x64.msi |
-| 5.21.35 | x64          | current | 2016     | 8075ca2572af8fa9feb0faaf87bfb1939d6adc98aa2fc2a66b13748131a8c785 | https://packages.chef.io/files/current/inspec/5.21.35/windows/2016/inspec-5.21.35-1-x64.msi   |
-| 5.21.35 | x64          | current | 2019     | 8075ca2572af8fa9feb0faaf87bfb1939d6adc98aa2fc2a66b13748131a8c785 | https://packages.chef.io/files/current/inspec/5.21.35/windows/2019/inspec-5.21.35-1-x64.msi   |
-| 5.21.35 | x64          | current | 2022     | 8075ca2572af8fa9feb0faaf87bfb1939d6adc98aa2fc2a66b13748131a8c785 | https://packages.chef.io/files/current/inspec/5.21.35/windows/2022/inspec-5.21.35-1-x64.msi   |
+| 5.21.38 | x64          | current | 10       | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/10/inspec-5.21.38-1-x64.msi     |
+| 5.21.38 | x64          | current | 11       | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/11/inspec-5.21.38-1-x64.msi     |
+| 5.21.38 | x64          | current | 2012r2   | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2012r2/inspec-5.21.38-1-x64.msi |
+| 5.21.38 | x64          | current | 2016     | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2016/inspec-5.21.38-1-x64.msi   |
+| 5.21.38 | x64          | current | 2019     | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2019/inspec-5.21.38-1-x64.msi   |
+| 5.21.38 | x64          | current | 2022     | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2022/inspec-5.21.38-1-x64.msi   |
 | 5.21.29 | x64          | stable  | 10       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/10/inspec-5.21.29-1-x64.msi      |
 | 5.21.29 | x64          | stable  | 11       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/11/inspec-5.21.29-1-x64.msi      |
 | 5.21.29 | x64          | stable  | 2012r2   | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2012r2/inspec-5.21.29-1-x64.msi  |
@@ -5129,14 +5129,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5295,7 +5295,9 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | 5.13.10.810  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi        |
 | 5.13.7.12602 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.7.12602/arm64/ZoomInstallerFull.exe      |
 | 5.13.7.12602 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.7.12602/x64/ZoomInstallerFull.exe        |
@@ -5307,8 +5309,6 @@
 | 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
 | 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
 | 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| 5.13.5.784   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.5.784/ZoomNotesPluginSetup.msi           |
-| 5.11.0.534   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.11.0.534/ZoomLyncPluginSetup.msi            |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
