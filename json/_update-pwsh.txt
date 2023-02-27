@@ -1,7 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/Postman.json
-json/ProgressChefInSpec.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
