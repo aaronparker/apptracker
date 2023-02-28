@@ -615,8 +615,8 @@
 
 | Version | Build | Size      | Type | URI                                                                              |
 | ------- | ----- | --------- | ---- | -------------------------------------------------------------------------------- |
+| 4.17.0  | 99724 | 655320912 | exe  | https://desktop.docker.com/win/main/amd64/99724/Docker%20Desktop%20Installer.exe |
 | 4.16.3  | 96739 | 623223120 | exe  | https://desktop.docker.com/win/main/amd64/96739/Docker%20Desktop%20Installer.exe |
-| 4.15.0  | 93002 | 613613904 | exe  | https://desktop.docker.com/win/main/amd64/93002/Docker%20Desktop%20Installer.exe |
 
 ## DoubleCommander
 
@@ -1315,7 +1315,7 @@
 
 | Version | Date       | Sha256                                                           | URI                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.32 | 06/20/2022 | e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1741,7 +1741,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16216.20004 | BetaChannel       | Beta                                  | 02/21/2023 16:01:10 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20184 | CurrentPreview    | Current Channel (Preview)             | 02/21/2023 17:59:40 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20218 | CurrentPreview    | Current Channel (Preview)             | 02/27/2023 22:03:34 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16026.20200 | Current           | Current Channel                       | 02/14/2023 16:28:29 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15928.20282 | MonthlyEnterprise | Monthly Enterprise                    | 02/14/2023 16:48:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20538 | SemiAnnual        | Semi-Annual Channel                   | 02/14/2023 16:28:42 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1811,13 +1811,13 @@
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 111.0.1661.22 | Any      | Policy     | Enterprise | any          | 0CD43336C14F4CF56ACB10CECF590DF37E9CD2DA2253F8AFB440BC3473EA1036 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc7b6275-0676-40be-83e8-f1e4d0ea6b7e/MicrosoftEdgePolicyTemplates.cab            |
-| 111.0.1661.22 | Windows  | Beta       | Consumer   | arm64        | 29078D2C84DD33BA4424F4700FFB3768488E72E4B6182F65D6F8A1DF34C481A9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e91bbf5-308d-4770-8d44-88a51ac7cf3b/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 111.0.1661.22 | Windows  | Beta       | Enterprise | arm64        | 29078D2C84DD33BA4424F4700FFB3768488E72E4B6182F65D6F8A1DF34C481A9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e91bbf5-308d-4770-8d44-88a51ac7cf3b/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 111.0.1661.22 | Windows  | Beta       | Consumer   | x64          | 359C3777A5A42564D41F2907E184985EF57368CE922001909CBAD3C575E772C6 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/52c938f3-4a95-49f6-bcff-863cb7c03291/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 111.0.1661.22 | Windows  | Beta       | Enterprise | x64          | 359C3777A5A42564D41F2907E184985EF57368CE922001909CBAD3C575E772C6 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/52c938f3-4a95-49f6-bcff-863cb7c03291/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 111.0.1661.22 | Windows  | Beta       | Consumer   | x86          | D5BDB312BF7563278B5E3C535F5D7A1DFB50113A24B3D551F14D2B71E173E25A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b681ac6f-fae0-4198-982b-21e76942afbb/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 111.0.1661.22 | Windows  | Beta       | Enterprise | x86          | D5BDB312BF7563278B5E3C535F5D7A1DFB50113A24B3D551F14D2B71E173E25A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b681ac6f-fae0-4198-982b-21e76942afbb/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 111.0.1661.24 | Any      | Policy     | Enterprise | any          | 30DDD41BF5AD98FBA866C6865A0BF87B45CDCA8653A84D2F403C62CE32C27E3E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f25d19a4-4d4e-4bea-9da3-88696a11e3e9/MicrosoftEdgePolicyTemplates.cab            |
+| 111.0.1661.24 | Windows  | Beta       | Consumer   | arm64        | A56DD00FE895E6BDA51B701E73DB4955FA7D1708C1A04B914D2659B95C2F0F3A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a10a207-9ee0-416a-9b32-feda7085bd9a/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 111.0.1661.24 | Windows  | Beta       | Enterprise | arm64        | A56DD00FE895E6BDA51B701E73DB4955FA7D1708C1A04B914D2659B95C2F0F3A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a10a207-9ee0-416a-9b32-feda7085bd9a/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 111.0.1661.24 | Windows  | Beta       | Consumer   | x64          | F72C4B89157FBE5D4BBE4E1D4AF63A09320D2FD541C08EC1A32DB4E8200CA6D7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6df58dc5-0134-4fb6-8659-b1b2b3412454/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 111.0.1661.24 | Windows  | Beta       | Enterprise | x64          | F72C4B89157FBE5D4BBE4E1D4AF63A09320D2FD541C08EC1A32DB4E8200CA6D7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6df58dc5-0134-4fb6-8659-b1b2b3412454/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 111.0.1661.24 | Windows  | Beta       | Consumer   | x86          | 95DEF17A4AAD81E9DD8D09F4173B99FAC172251C93A6B3EF1C639D8FA8E53C64 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ef5929b-66c4-48e4-958f-596373f53381/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 111.0.1661.24 | Windows  | Beta       | Enterprise | x86          | 95DEF17A4AAD81E9DD8D09F4173B99FAC172251C93A6B3EF1C639D8FA8E53C64 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ef5929b-66c4-48e4-958f-596373f53381/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 111.0.1660.14 | Windows  | Dev        | Consumer   | arm64        | 0C3E23D60C31DADC624FB91FA5AE704A9E8B478348A9CB45A998CF4BD5835E5F | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a384539-2db7-4839-abca-0e1701d08f43/MicrosoftEdgeDevEnterpriseARM64.msi         |
 | 111.0.1660.14 | Windows  | Dev        | Consumer   | x64          | AC4A0AA7DAD3A7E7211EE288883E909C30323D843C997AA0B1A003C2473D3599 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d0fd93a-ab4d-48a8-a9f6-c2975fac21e5/MicrosoftEdgeDevEnterpriseX64.msi           |
 | 111.0.1660.14 | Windows  | Dev        | Consumer   | x86          | 7BBF5E11297A4ED1F62F6B9722FED6EDFBB4A04EA65D3562D927233F7818E1DD | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7df09538-3aa6-4389-94c2-f823c9bdc6f8/MicrosoftEdgeDevEnterpriseX86.msi           |
@@ -1836,9 +1836,9 @@
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
-| 111.0.1661.22 | Beta    | ARM64        | https://msedgedriver.azureedge.net/111.0.1661.22/edgedriver_arm64.zip |
-| 111.0.1661.22 | Beta    | x64          | https://msedgedriver.azureedge.net/111.0.1661.22/edgedriver_win64.zip |
-| 111.0.1661.22 | Beta    | x86          | https://msedgedriver.azureedge.net/111.0.1661.22/edgedriver_win32.zip |
+| 111.0.1661.24 | Beta    | ARM64        | https://msedgedriver.azureedge.net/111.0.1661.24/edgedriver_arm64.zip |
+| 111.0.1661.24 | Beta    | x64          | https://msedgedriver.azureedge.net/111.0.1661.24/edgedriver_win64.zip |
+| 111.0.1661.24 | Beta    | x86          | https://msedgedriver.azureedge.net/111.0.1661.24/edgedriver_win32.zip |
 | 111.0.1660.14 | Dev     | ARM64        | https://msedgedriver.azureedge.net/111.0.1660.14/edgedriver_arm64.zip |
 | 111.0.1660.14 | Dev     | x64          | https://msedgedriver.azureedge.net/111.0.1660.14/edgedriver_win64.zip |
 | 111.0.1660.14 | Dev     | x86          | https://msedgedriver.azureedge.net/111.0.1660.14/edgedriver_win32.zip |
@@ -1870,16 +1870,14 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.042.0223.0001 | AMD64        | InternalFast | 8Ao7UifkMQiMjUk2n7MsoNobD6w958oqfge+hfs7HLg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.042.0223.0001/amd64/OneDriveSetup.exe |
-| 23.042.0223.0001 | x86          | InternalFast | yMD1XS5qZvvY8mn2lzpVgQVms0GY18fnN21EVSn9vXI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.042.0223.0001/OneDriveSetup.exe       |
+| 23.043.0226.0001 | AMD64        | InternalFast | kdrqRiqqfx0S2yPaV5BIKICXsZqVe692v6flQ5+8GOI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.043.0226.0001/amd64/OneDriveSetup.exe |
+| 23.043.0226.0001 | x86          | InternalFast | cpdjLIiQbTKACm7LejpzPBNVyhYKmIHEeq4h1B+hTfQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.043.0226.0001/OneDriveSetup.exe       |
 | 23.040.0221.0001 | AMD64        | Insider      | tLHSp/mes/8QJI0EKVTALpYXrzTZFXdm3A4toJrHMoc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/amd64/OneDriveSetup.exe |
 | 23.040.0221.0001 | AMD64        | InternalSlow | tLHSp/mes/8QJI0EKVTALpYXrzTZFXdm3A4toJrHMoc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/amd64/OneDriveSetup.exe |
 | 23.040.0221.0001 | x86          | Insider      | buK2V5ygzMLdYDBFH7/Lm0QqDOpwWWweJ7jxYbD+RrA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/OneDriveSetup.exe       |
 | 23.040.0221.0001 | x86          | InternalSlow | buK2V5ygzMLdYDBFH7/Lm0QqDOpwWWweJ7jxYbD+RrA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/OneDriveSetup.exe       |
-| 23.038.0219.0001 | AMD64        | Insider      | HZsvY+c0XPxpUTmE8Z/lDKkH9zySQngM4ygTZzl2Y5w= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/amd64/OneDriveSetup.exe |
-| 23.038.0219.0001 | x86          | Insider      | NGWpo0rLZznvBgAPQjfM8bAgCB5wpcoVZRrxS6ZCZrs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/OneDriveSetup.exe       |
-| 23.035.0214.0001 | AMD64        | Production   | CXsUE4DboqIr0ID9odawTGpQp6cwVT0g5K2O21GBoZs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/amd64/OneDriveSetup.exe |
-| 23.035.0214.0001 | x86          | Production   | MlSBlZPJLEMUQHBc8WTeCpzrFmqXJCOeYsbrCn1yWPU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.035.0214.0001/OneDriveSetup.exe       |
+| 23.038.0219.0001 | AMD64        | Production   | HZsvY+c0XPxpUTmE8Z/lDKkH9zySQngM4ygTZzl2Y5w= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/amd64/OneDriveSetup.exe |
+| 23.038.0219.0001 | x86          | Production   | NGWpo0rLZznvBgAPQjfM8bAgCB5wpcoVZRrxS6ZCZrs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/OneDriveSetup.exe       |
 | 23.033.0212.0001 | AMD64        | Production   | dEg4BGbCrYWHra2izvcoZ6nwyxZGHMCNw0zRFVIb5mg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/amd64/OneDriveSetup.exe |
 | 23.033.0212.0001 | x86          | Production   | f6ZMu0spy5Fft2jMXy9YnI2gNakFcCyM1NMnQqQPVBc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.033.0212.0001/OneDriveSetup.exe       |
 | 23.028.0205.0002 | AMD64        | Production   | REFwT4z6CCKew/EQxoePX1ID1KTIfKKeCnqbrwkwnHI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.028.0205.0002/amd64/OneDriveSetup.exe |
@@ -1893,7 +1891,7 @@
 
 | Version        | Sha1Hash                                 | Size    | URI                                                                                                    |
 | -------------- | ---------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |
-| 1.2023.2100500 | 237FD8C8D13AE183F5AB74AD8005F91DDB1B416A | 7510893 | https://res.cdn.office.net/nativehost/5mttl/installer/v1/win-x64/prod/Outlook-1.2023.2100500-full.szip |
+| 1.2023.2220400 | DA96F2F37C870A69C3AC2753EE69349C47803A08 | 7517750 | https://res.cdn.office.net/nativehost/5mttl/installer/v1/win-x64/prod/Outlook-1.2023.2220400-full.szip |
 
 ## MicrosoftPowerShell
 
@@ -2019,12 +2017,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.0  | win32            | Insider | x86          | 2c913bbcf4230d81e133c45983df4de6ab2b66efa4bb8b7aa41fcf2074fc9ecc | https://az764295.vo.msecnd.net/insider/ead95b4a7014d12ddcb2dd6ddcb16e73f1e4cd67/VSCodeSetup-ia32-1.76.0-insider.exe      |
-| 1.76.0  | win32-arm64      | Insider | ARM64        | 06d7624f72f59491609ac1dad3319b6bb15c18d92400c7c26db7f63e5b476cab | https://az764295.vo.msecnd.net/insider/ead95b4a7014d12ddcb2dd6ddcb16e73f1e4cd67/VSCodeSetup-arm64-1.76.0-insider.exe     |
-| 1.76.0  | win32-arm64-user | Insider | ARM64        | 51003b7692edc0caea37fecaf100418d4e364bc14cdc522074fec6997c334c56 | https://az764295.vo.msecnd.net/insider/ead95b4a7014d12ddcb2dd6ddcb16e73f1e4cd67/VSCodeUserSetup-arm64-1.76.0-insider.exe |
-| 1.76.0  | win32-user       | Insider | x86          | 34ebb0144e1113141b5360c13c00e43e707ac286dd31e1bbaf1c234675bb223f | https://az764295.vo.msecnd.net/insider/ead95b4a7014d12ddcb2dd6ddcb16e73f1e4cd67/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
-| 1.76.0  | win32-x64        | Insider | x64          | e74c4b6680a9169a69f70535c264e7750e314a68fb0dceda30f631acb7939931 | https://az764295.vo.msecnd.net/insider/ead95b4a7014d12ddcb2dd6ddcb16e73f1e4cd67/VSCodeSetup-x64-1.76.0-insider.exe       |
-| 1.76.0  | win32-x64-user   | Insider | x64          | 0fc6afef8909d3f374f2d99c2e999a87d4515d952345e6566431ef14aae4a268 | https://az764295.vo.msecnd.net/insider/ead95b4a7014d12ddcb2dd6ddcb16e73f1e4cd67/VSCodeUserSetup-x64-1.76.0-insider.exe   |
+| 1.76.0  | win32            | Insider | x86          | 0466c9a85fdb3814ae801202345d5efaea31f9d865164addf802276421ebf336 | https://az764295.vo.msecnd.net/insider/3c8099c659099d3af89a66f9635b4700a887f177/VSCodeSetup-ia32-1.76.0-insider.exe      |
+| 1.76.0  | win32-arm64      | Insider | ARM64        | ee0b770832125a6a42f47c35ea5cd7d855acef8656f3f83cb79caf499597a1fe | https://az764295.vo.msecnd.net/insider/3c8099c659099d3af89a66f9635b4700a887f177/VSCodeSetup-arm64-1.76.0-insider.exe     |
+| 1.76.0  | win32-arm64-user | Insider | ARM64        | 1a9ba9163167925db7a53526442f1957aa976fb1d3fa4ca1abb5b0718338ec04 | https://az764295.vo.msecnd.net/insider/3c8099c659099d3af89a66f9635b4700a887f177/VSCodeUserSetup-arm64-1.76.0-insider.exe |
+| 1.76.0  | win32-user       | Insider | x86          | af3f9c55f942736d384992e6b9d554df55b8584ff7699c0d64814e4c88def7ce | https://az764295.vo.msecnd.net/insider/3c8099c659099d3af89a66f9635b4700a887f177/VSCodeUserSetup-ia32-1.76.0-insider.exe  |
+| 1.76.0  | win32-x64        | Insider | x64          | 41d5a9848d99202e9a01ce2454703317b0721ca7c6310bdd38307bdff55c6df6 | https://az764295.vo.msecnd.net/insider/3c8099c659099d3af89a66f9635b4700a887f177/VSCodeSetup-x64-1.76.0-insider.exe       |
+| 1.76.0  | win32-x64-user   | Insider | x64          | 7d9ec7a8370eb5d7a44b10a73b522148a8f1e23ce4efff80424b3f07b30b7bda | https://az764295.vo.msecnd.net/insider/3c8099c659099d3af89a66f9635b4700a887f177/VSCodeUserSetup-x64-1.76.0-insider.exe   |
 | 1.75.1  | win32            | Stable  | x86          | 5572878ea3fc267a711103df8e8855517b9b65abf132562b493576ca3cabd84c | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-ia32-1.75.1.exe               |
 | 1.75.1  | win32-arm64      | Stable  | ARM64        | 2c60bad73fe720a1b58078b165cca3daad86625a2375d407c43c1e1069f9e594 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeSetup-arm64-1.75.1.exe              |
 | 1.75.1  | win32-arm64-user | Stable  | ARM64        | b2b4d9c7d67524e0202a6e86477df298c9e35b182a062b7608e0383e83959a50 | https://az764295.vo.msecnd.net/stable/441438abd1ac652551dbe4d408dfcec8a499b8bf/VSCodeUserSetup-arm64-1.75.1.exe          |
@@ -4549,7 +4547,7 @@
 
 | Version      | Channel | Architecture | Type | URI                                                                                                 |
 | ------------ | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |
-| 95.0.4635.47 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/95.0.4635.47/win/Opera_Crypto_95.0.4635.47_Setup_x64.exe |
+| 96.0.4693.24 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/96.0.4693.24/win/Opera_Crypto_96.0.4693.24_Setup_x64.exe |
 
 ## OperaGXBrowser
 
@@ -4659,12 +4657,12 @@
 
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                           |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 18.1.24 | x64          | unstable | 10       | 4ac016ff7dbb36a7cbdc1095c50429e7aecf5729ccfe4b862ac34bb512975e6a | https://packages.chef.io/files/unstable/chef/18.1.24/windows/10/chef-client-18.1.24-1-x64.msi |
-| 18.1.24 | x64          | unstable | 11       | 4ac016ff7dbb36a7cbdc1095c50429e7aecf5729ccfe4b862ac34bb512975e6a | https://packages.chef.io/files/unstable/chef/18.1.24/windows/10/chef-client-18.1.24-1-x64.msi |
-| 18.1.24 | x64          | unstable | 2012r2   | 4ac016ff7dbb36a7cbdc1095c50429e7aecf5729ccfe4b862ac34bb512975e6a | https://packages.chef.io/files/unstable/chef/18.1.24/windows/10/chef-client-18.1.24-1-x64.msi |
-| 18.1.24 | x64          | unstable | 2016     | 4ac016ff7dbb36a7cbdc1095c50429e7aecf5729ccfe4b862ac34bb512975e6a | https://packages.chef.io/files/unstable/chef/18.1.24/windows/10/chef-client-18.1.24-1-x64.msi |
-| 18.1.24 | x64          | unstable | 2019     | 4ac016ff7dbb36a7cbdc1095c50429e7aecf5729ccfe4b862ac34bb512975e6a | https://packages.chef.io/files/unstable/chef/18.1.24/windows/10/chef-client-18.1.24-1-x64.msi |
-| 18.1.24 | x64          | unstable | 2022     | 4ac016ff7dbb36a7cbdc1095c50429e7aecf5729ccfe4b862ac34bb512975e6a | https://packages.chef.io/files/unstable/chef/18.1.24/windows/10/chef-client-18.1.24-1-x64.msi |
+| 18.1.26 | x64          | unstable | 10       | 57775b9c2230cae3e5196586d6e2fe78100061005870fe0745aa53b7be2913a0 | https://packages.chef.io/files/unstable/chef/18.1.26/windows/10/chef-client-18.1.26-1-x64.msi |
+| 18.1.26 | x64          | unstable | 11       | 57775b9c2230cae3e5196586d6e2fe78100061005870fe0745aa53b7be2913a0 | https://packages.chef.io/files/unstable/chef/18.1.26/windows/10/chef-client-18.1.26-1-x64.msi |
+| 18.1.26 | x64          | unstable | 2012r2   | 57775b9c2230cae3e5196586d6e2fe78100061005870fe0745aa53b7be2913a0 | https://packages.chef.io/files/unstable/chef/18.1.26/windows/10/chef-client-18.1.26-1-x64.msi |
+| 18.1.26 | x64          | unstable | 2016     | 57775b9c2230cae3e5196586d6e2fe78100061005870fe0745aa53b7be2913a0 | https://packages.chef.io/files/unstable/chef/18.1.26/windows/10/chef-client-18.1.26-1-x64.msi |
+| 18.1.26 | x64          | unstable | 2019     | 57775b9c2230cae3e5196586d6e2fe78100061005870fe0745aa53b7be2913a0 | https://packages.chef.io/files/unstable/chef/18.1.26/windows/10/chef-client-18.1.26-1-x64.msi |
+| 18.1.26 | x64          | unstable | 2022     | 57775b9c2230cae3e5196586d6e2fe78100061005870fe0745aa53b7be2913a0 | https://packages.chef.io/files/unstable/chef/18.1.26/windows/10/chef-client-18.1.26-1-x64.msi |
 | 18.1.22 | x64          | current  | 10       | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | current  | 11       | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
 | 18.1.22 | x64          | current  | 2012r2   | 9249f4c0a51f850dd2fc69802bb328e6d162d7a79522409002d47eca2e992962 | https://packages.chef.io/files/current/chef/18.1.22/windows/10/chef-client-18.1.22-1-x64.msi  |
@@ -4684,12 +4682,12 @@
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                           |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 5.21.38 | x64          | current | 10       | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/10/inspec-5.21.38-1-x64.msi     |
-| 5.21.38 | x64          | current | 11       | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/11/inspec-5.21.38-1-x64.msi     |
-| 5.21.38 | x64          | current | 2012r2   | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2012r2/inspec-5.21.38-1-x64.msi |
-| 5.21.38 | x64          | current | 2016     | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2016/inspec-5.21.38-1-x64.msi   |
-| 5.21.38 | x64          | current | 2019     | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2019/inspec-5.21.38-1-x64.msi   |
-| 5.21.38 | x64          | current | 2022     | 12ce413417a6baafa11ea541d1eb992f0140438bb0db6e01c4135b583405e706 | https://packages.chef.io/files/current/inspec/5.21.38/windows/2022/inspec-5.21.38-1-x64.msi   |
+| 5.21.40 | x64          | current | 10       | 771ff1f5587c9eae366d810030c61f416f04c86eb0b899cb43069a7ce034662f | https://packages.chef.io/files/current/inspec/5.21.40/windows/10/inspec-5.21.40-1-x64.msi     |
+| 5.21.40 | x64          | current | 11       | 771ff1f5587c9eae366d810030c61f416f04c86eb0b899cb43069a7ce034662f | https://packages.chef.io/files/current/inspec/5.21.40/windows/11/inspec-5.21.40-1-x64.msi     |
+| 5.21.40 | x64          | current | 2012r2   | 771ff1f5587c9eae366d810030c61f416f04c86eb0b899cb43069a7ce034662f | https://packages.chef.io/files/current/inspec/5.21.40/windows/2012r2/inspec-5.21.40-1-x64.msi |
+| 5.21.40 | x64          | current | 2016     | 771ff1f5587c9eae366d810030c61f416f04c86eb0b899cb43069a7ce034662f | https://packages.chef.io/files/current/inspec/5.21.40/windows/2016/inspec-5.21.40-1-x64.msi   |
+| 5.21.40 | x64          | current | 2019     | 771ff1f5587c9eae366d810030c61f416f04c86eb0b899cb43069a7ce034662f | https://packages.chef.io/files/current/inspec/5.21.40/windows/2019/inspec-5.21.40-1-x64.msi   |
+| 5.21.40 | x64          | current | 2022     | 771ff1f5587c9eae366d810030c61f416f04c86eb0b899cb43069a7ce034662f | https://packages.chef.io/files/current/inspec/5.21.40/windows/2022/inspec-5.21.40-1-x64.msi   |
 | 5.21.29 | x64          | stable  | 10       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/10/inspec-5.21.29-1-x64.msi      |
 | 5.21.29 | x64          | stable  | 11       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/11/inspec-5.21.29-1-x64.msi      |
 | 5.21.29 | x64          | stable  | 2012r2   | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2012r2/inspec-5.21.29-1-x64.msi  |
@@ -5129,14 +5127,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe         |
+| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi         |
+| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip         |
 
 ## VisualCppRedistAIO
 
@@ -5278,8 +5276,8 @@
 
 | Version | Architecture | Type | URI                                              |
 | ------- | ------------ | ---- | ------------------------------------------------ |
-| 1.4.2   | x64          | exe  | https://download.xnview.com/XnViewMP-win-x64.exe |
-| 1.4.2   | x86          | exe  | https://download.xnview.com/XnViewMP-win.exe     |
+| 1.4.3   | x64          | exe  | https://download.xnview.com/XnViewMP-win-x64.exe |
+| 1.4.3   | x86          | exe  | https://download.xnview.com/XnViewMP-win.exe     |
 
 ## YubicoAuthenticator
 
@@ -5293,27 +5291,27 @@
 
 [Link](https://zoom.us/)
 
-| Version      | Platform | Type | Architecture | URI                                                                    |
-| ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
-| 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
-| 5.13.10.810  | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi        |
-| 5.13.7.12602 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.7.12602/arm64/ZoomInstallerFull.exe      |
-| 5.13.7.12602 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.7.12602/x64/ZoomInstallerFull.exe        |
-| 5.13.7.12602 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.7.12602/ZoomInstallerFull.exe            |
-| 5.13.7.12602 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.7.12602/arm64/ZoomInstallerFull.msi      |
-| 5.13.7.12602 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.7.12602/x64/ZoomInstallerFull.msi        |
-| 5.13.7.12602 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.7.12602/ZoomInstallerFull.msi            |
-| 5.13.6.2407  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.exe |
-| 5.13.6.2407  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
-| 5.13.6.2407  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
-| 5.13.6.2407  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
-| Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
-| Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
-| Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
-| Latest       | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                      |
-| Latest       | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                 |
+| Version       | Platform | Type | Architecture | URI                                                                    |
+| ------------- | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.13.10.13305 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.10.13305/arm64/ZoomInstallerFull.exe     |
+| 5.13.10.13305 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.10.13305/x64/ZoomInstallerFull.exe       |
+| 5.13.10.13305 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.10.13305/ZoomInstallerFull.exe           |
+| 5.13.10.13305 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.10.13305/arm64/ZoomInstallerFull.msi     |
+| 5.13.10.13305 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.13305/x64/ZoomInstallerFull.msi       |
+| 5.13.10.13305 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.13305/ZoomInstallerFull.msi           |
+| 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
+| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
+| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
+| 5.13.10.810   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi        |
+| 5.13.6.2407   | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.exe |
+| 5.13.6.2407   | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.exe     |
+| 5.13.6.2407   | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.6.2407/x64/zoomrooms-5.13.6.2407-x64.msi |
+| 5.13.6.2407   | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.6.2407/zoomrooms-5.13.6.2407-x86.msi     |
+| Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
+| Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
+| Latest        | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
+| Latest        | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                      |
+| Latest        | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                 |
 
 ## ZorgmailVeiligVerzendenAddin
 
