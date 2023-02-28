@@ -1,0 +1,8 @@
+json/1Password.json
+json/ESETEndpointAntivirus.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/OperaGXBrowser.json
+json/ProgressChefInSpec.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
