@@ -1,0 +1,14 @@
+json/DockerDesktop.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftOutlook.json
+json/MicrosoftVisualStudioCode.json
+json/OperaCryptoBrowser.json
+json/ProgressChefInSpec.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/XnSoftXnViewMP.json
+json/Zoom.json
