@@ -1,5 +1,0 @@
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftOneDrive.json
-json/MicrosoftWvdRemoteDesktop.json
-json/VideoLanVlcPlayer.json
