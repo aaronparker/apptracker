@@ -1,8 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/AtlassianSourcetree.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftAzureDataStudio.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
