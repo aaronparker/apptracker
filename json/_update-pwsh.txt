@@ -1,0 +1,6 @@
+json/AirtameApp.json
+json/Gimp.json
+json/GitHubDesktop.json
+json/OperaBrowser.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
