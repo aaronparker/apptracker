@@ -1,0 +1,14 @@
+json/1Password.json
+json/AWSCLI.json
+json/ESETEndpointAntivirus.json
+json/ESETEndpointSecurity.json
+json/ESETServerSecurity.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/Obsidian.json
+json/OctopusDeployServer.json
+json/VMwareHorizonClient.json
+json/VideoLanVlcPlayer.json
+json/ResponsivelyApp.json
