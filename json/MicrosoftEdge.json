@@ -1,5 +1,14 @@
 [
   {
+    "Version": "111.0.1661.27",
+    "Platform": "Windows",
+    "Channel": "Beta",
+    "Release": "Consumer",
+    "Architecture": "arm64",
+    "Hash": "1722112B4E9672631A07A262D0492E325217180DBA29C9A55FC0D67D2D60FAE5",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d922303-8bbc-4230-8378-68b23283fecb/MicrosoftEdgeBetaEnterpriseARM64.msi"
+  },
+  {
     "Version": "111.0.1661.24",
     "Platform": "Any",
     "Channel": "Policy",
@@ -7,24 +16,6 @@
     "Architecture": "any",
     "Hash": "30DDD41BF5AD98FBA866C6865A0BF87B45CDCA8653A84D2F403C62CE32C27E3E",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f25d19a4-4d4e-4bea-9da3-88696a11e3e9/MicrosoftEdgePolicyTemplates.cab"
-  },
-  {
-    "Version": "111.0.1661.24",
-    "Platform": "Windows",
-    "Channel": "Beta",
-    "Release": "Consumer",
-    "Architecture": "arm64",
-    "Hash": "A56DD00FE895E6BDA51B701E73DB4955FA7D1708C1A04B914D2659B95C2F0F3A",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a10a207-9ee0-416a-9b32-feda7085bd9a/MicrosoftEdgeBetaEnterpriseARM64.msi"
-  },
-  {
-    "Version": "111.0.1661.24",
-    "Platform": "Windows",
-    "Channel": "Beta",
-    "Release": "Enterprise",
-    "Architecture": "arm64",
-    "Hash": "A56DD00FE895E6BDA51B701E73DB4955FA7D1708C1A04B914D2659B95C2F0F3A",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a10a207-9ee0-416a-9b32-feda7085bd9a/MicrosoftEdgeBetaEnterpriseARM64.msi"
   },
   {
     "Version": "111.0.1661.24",

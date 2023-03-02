@@ -1,9 +1,9 @@
 [
   {
-    "Version": "111.0.1661.24",
+    "Version": "111.0.1661.27",
     "Channel": "Beta",
     "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/111.0.1661.24/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_arm64.zip"
   },
   {
     "Version": "111.0.1661.24",
