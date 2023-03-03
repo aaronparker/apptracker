@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2022c",
+    "Version": "2023a",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/gretl/gretl/2022c/gretl-2022c-64.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe"
   },
   {
-    "Version": "2022c",
+    "Version": "2023a",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/gretl/gretl/2022c/gretl-2022c-32.exe"
+    "URI": "https://nchc.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe"
   }
 ]
