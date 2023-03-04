@@ -1,4 +1,0 @@
-json/Gimp.json
-json/MicrosoftWvdRtcService.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
