@@ -1,5 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/VideoLanVlcPlayer.json
