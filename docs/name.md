@@ -1110,9 +1110,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1667,15 +1667,15 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.046.0301.0001 | AMD64        | InternalFast | 3nwrLPiGw6IBnpyaCCrEz5UgTprpW2u3cy4XxVKcgzI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.046.0301.0001/amd64/OneDriveSetup.exe |
-| 23.046.0301.0001 | x86          | InternalFast | caB4Hsa9V0WOdOgNV9pWOKDHTl4PGZBBYBPHj6lqXdg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.046.0301.0001/OneDriveSetup.exe       |
+| 23.047.0302.0001 | AMD64        | InternalFast | 3ljYDJG9xw42VF8TMaBtmcDpan87IK2Ka/WSsEPVNiU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.047.0302.0001/amd64/OneDriveSetup.exe |
+| 23.047.0302.0001 | x86          | InternalFast | CmsCc1Rm7g7JtYqj6nXtUMVmXYyNYwr6z/pnnm+XWjo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.047.0302.0001/OneDriveSetup.exe       |
+| 23.045.0228.0001 | AMD64        | Insider      | ekRVfpGzfSXKPiXZx2guxQthNBKR9StZQBfLw37FkkA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.045.0228.0001/amd64/OneDriveSetup.exe |
 | 23.045.0228.0001 | AMD64        | InternalSlow | ekRVfpGzfSXKPiXZx2guxQthNBKR9StZQBfLw37FkkA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.045.0228.0001/amd64/OneDriveSetup.exe |
+| 23.045.0228.0001 | x86          | Insider      | 0/cYfbb+q0OiGK9b/pXOMmaw+WgarqAqt9VmiFT9ZR8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.045.0228.0001/OneDriveSetup.exe       |
 | 23.045.0228.0001 | x86          | InternalSlow | 0/cYfbb+q0OiGK9b/pXOMmaw+WgarqAqt9VmiFT9ZR8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.045.0228.0001/OneDriveSetup.exe       |
 | 23.043.0226.0001 | AMD64        | Insider      | kdrqRiqqfx0S2yPaV5BIKICXsZqVe692v6flQ5+8GOI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.043.0226.0001/amd64/OneDriveSetup.exe |
 | 23.043.0226.0001 | x86          | Insider      | cpdjLIiQbTKACm7LejpzPBNVyhYKmIHEeq4h1B+hTfQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.043.0226.0001/OneDriveSetup.exe       |
-| 23.040.0221.0001 | AMD64        | Insider      | tLHSp/mes/8QJI0EKVTALpYXrzTZFXdm3A4toJrHMoc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/amd64/OneDriveSetup.exe |
 | 23.040.0221.0001 | AMD64        | Production   | tLHSp/mes/8QJI0EKVTALpYXrzTZFXdm3A4toJrHMoc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/amd64/OneDriveSetup.exe |
-| 23.040.0221.0001 | x86          | Insider      | buK2V5ygzMLdYDBFH7/Lm0QqDOpwWWweJ7jxYbD+RrA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/OneDriveSetup.exe       |
 | 23.040.0221.0001 | x86          | Production   | buK2V5ygzMLdYDBFH7/Lm0QqDOpwWWweJ7jxYbD+RrA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.040.0221.0001/OneDriveSetup.exe       |
 | 23.038.0219.0001 | AMD64        | Production   | HZsvY+c0XPxpUTmE8Z/lDKkH9zySQngM4ygTZzl2Y5w= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/amd64/OneDriveSetup.exe |
 | 23.038.0219.0001 | x86          | Production   | NGWpo0rLZznvBgAPQjfM8bAgCB5wpcoVZRrxS6ZCZrs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/OneDriveSetup.exe       |
@@ -1841,9 +1841,9 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-| Version | Architecture | Date                          | Size    | Filename                                                  | URI                                                              |
-| ------- | ------------ | ----------------------------- | ------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| Unknown | x64          | Mon, 25 Jul 2022 16:29:59 GMT | 5107712 | Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH |
+| Version | Architecture | Date                          | Size | Filename                                                  | URI                                                              |
+| ------- | ------------ | ----------------------------- | ---- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| Unknown | x64          | Mon, 25 Jul 2022 16:29:59 GMT |      | Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH |
 
 ## MicrosoftWvdInfraAgent
 
@@ -4934,14 +4934,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe                  |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi                  |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip                  |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5111,8 +5111,8 @@
 | 5.13.10.2558  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.msi |
 | 5.13.10.2558  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.msi     |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi             |
-| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
 | 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
+| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
 | 5.13.10.810   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi          |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                      |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi                |
