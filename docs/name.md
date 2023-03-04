@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1110,9 +1110,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1608,15 +1608,15 @@
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 111.0.1661.27 | Any      | Policy     | Enterprise | any          | E86932E8CC5CC14F988B8DA769062EEF61AD9FF82F9716F35A9569A27E9F7098 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/80d95bf7-0547-42a3-82ee-7d9ee5fef9b4/MicrosoftEdgePolicyTemplates.cab            |
+| 111.0.1661.30 | Any      | Policy     | Enterprise | any          | 5252CE64CBF5EE8B6C3F2ED8AB68B692F9267E6DAEEF25235B7B55C7D3160EE5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f61a350e-e7c8-4e3f-85cc-947ad6b70367/MicrosoftEdgePolicyTemplates.cab            |
+| 111.0.1661.30 | Windows  | Beta       | Consumer   | x64          | DD805E1B7D00BE1B398F063C9DD3488D06AD90B4B7F356DCDA0B54C8E4D06FC8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9396f36c-f6f1-45b9-84a8-78f86dadbc20/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 111.0.1661.30 | Windows  | Beta       | Enterprise | x64          | DD805E1B7D00BE1B398F063C9DD3488D06AD90B4B7F356DCDA0B54C8E4D06FC8 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9396f36c-f6f1-45b9-84a8-78f86dadbc20/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 111.0.1661.30 | Windows  | Beta       | Consumer   | x86          | D603BE1E5870E9A03F70C3E7350B7DB4FDAEAE95CBFDB8797E694C3DC02275D4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8218c15e-4b05-44e0-a004-242e0e375c99/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 111.0.1661.30 | Windows  | Beta       | Enterprise | x86          | D603BE1E5870E9A03F70C3E7350B7DB4FDAEAE95CBFDB8797E694C3DC02275D4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8218c15e-4b05-44e0-a004-242e0e375c99/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 111.0.1661.27 | Windows  | Beta       | Consumer   | arm64        | 1722112B4E9672631A07A262D0492E325217180DBA29C9A55FC0D67D2D60FAE5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d922303-8bbc-4230-8378-68b23283fecb/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 111.0.1661.27 | Windows  | Beta       | Enterprise | arm64        | 1722112B4E9672631A07A262D0492E325217180DBA29C9A55FC0D67D2D60FAE5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d922303-8bbc-4230-8378-68b23283fecb/MicrosoftEdgeBetaEnterpriseARM64.msi        |
 | 111.0.1661.27 | Windows  | Dev        | Consumer   | arm64        | 19E90076A684539B2A0B7392A46FA1A0F5E322904419AD77D3CFBA9A5E49F030 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6291823-7033-420a-8c9f-ad3b655695c6/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 111.0.1661.27 | Windows  | Beta       | Consumer   | x64          | C9FA71B24352A3F5DBEB94BACEE4E34B34E2F98C591BD7B5A2987194E24BE3DB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/68e4d314-ce66-4213-8e68-cc4a736d8898/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 111.0.1661.27 | Windows  | Beta       | Enterprise | x64          | C9FA71B24352A3F5DBEB94BACEE4E34B34E2F98C591BD7B5A2987194E24BE3DB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/68e4d314-ce66-4213-8e68-cc4a736d8898/MicrosoftEdgeBetaEnterpriseX64.msi          |
 | 111.0.1661.27 | Windows  | Dev        | Consumer   | x64          | 8EC958EE2AEACD2FB71C9E15558FB211ED9AD3AFA293AA031003418A37E92D33 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1154525d-de45-493d-bc36-31d5c2b4bf34/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 111.0.1661.27 | Windows  | Beta       | Consumer   | x86          | D6A72E5816D95BD52572EA3934F41AD3945F7A6720CA2A5A3D2E33CA71DF2D76 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc9ad3cd-170d-40f1-83ba-fca2abcf9367/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 111.0.1661.27 | Windows  | Beta       | Enterprise | x86          | D6A72E5816D95BD52572EA3934F41AD3945F7A6720CA2A5A3D2E33CA71DF2D76 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc9ad3cd-170d-40f1-83ba-fca2abcf9367/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 111.0.1661.27 | Windows  | Dev        | Consumer   | x86          | 1A04AB32D384266C2C947572911AB5EC31ECCD5F470C1F03F9172E246CABF97A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/37e3d3a2-8bb3-4b18-8c74-93a58afe4afa/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 110.0.1587.63 | Windows  | Stable     | Consumer   | arm64        | E5940FCF379BDC0DC00E17DA7F8B287227D7D2210B72423A213A5E5168F67782 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce40deb8-4d5c-41df-854e-c4ea22d941c4/MicrosoftEdgeEnterpriseARM64.msi            |
 | 110.0.1587.63 | Windows  | Stable     | Enterprise | arm64        | E5940FCF379BDC0DC00E17DA7F8B287227D7D2210B72423A213A5E5168F67782 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce40deb8-4d5c-41df-854e-c4ea22d941c4/MicrosoftEdgeEnterpriseARM64.msi            |
@@ -1633,11 +1633,11 @@
 
 | Version       | Channel | Architecture | URI                                                                   |
 | ------------- | ------- | ------------ | --------------------------------------------------------------------- |
+| 111.0.1661.30 | Beta    | x64          | https://msedgedriver.azureedge.net/111.0.1661.30/edgedriver_win64.zip |
+| 111.0.1661.30 | Beta    | x86          | https://msedgedriver.azureedge.net/111.0.1661.30/edgedriver_win32.zip |
 | 111.0.1661.27 | Beta    | ARM64        | https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_arm64.zip |
 | 111.0.1661.27 | Dev     | ARM64        | https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_arm64.zip |
-| 111.0.1661.27 | Beta    | x64          | https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_win64.zip |
 | 111.0.1661.27 | Dev     | x64          | https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_win64.zip |
-| 111.0.1661.27 | Beta    | x86          | https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_win32.zip |
 | 111.0.1661.27 | Dev     | x86          | https://msedgedriver.azureedge.net/111.0.1661.27/edgedriver_win32.zip |
 | 110.0.1587.63 | Stable  | ARM64        | https://msedgedriver.azureedge.net/110.0.1587.63/edgedriver_arm64.zip |
 | 110.0.1587.63 | Stable  | x64          | https://msedgedriver.azureedge.net/110.0.1587.63/edgedriver_win64.zip |
@@ -4934,14 +4934,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                       |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.exe               |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.msi               |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win32/vlc-3.0.18-win32.zip               |
 
 ## VisualCppRedistAIO
 
