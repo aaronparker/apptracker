@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdBootloader.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
