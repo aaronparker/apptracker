@@ -1110,9 +1110,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                          |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://abqix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1818,8 +1818,8 @@
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1.77.0  | win32            | Insider | x86          | e8bf30390ba77ec1dfa3d1e3c091d4e23f09d8c1863d77377024ad22f41ea0d9 | https://az764295.vo.msecnd.net/insider/0cab3cc3cbe4d4ac2cbf30e8c30351d9db6dcfb4/VSCodeSetup-ia32-1.77.0-insider.exe      |
 | 1.77.0  | win32-arm64      | Insider | ARM64        | dc5a49f20610838006b982ec51c773c9d8e4e959b3e6f11171cf9c1b465bb09d | https://az764295.vo.msecnd.net/insider/0cab3cc3cbe4d4ac2cbf30e8c30351d9db6dcfb4/VSCodeSetup-arm64-1.77.0-insider.exe     |
-| 1.77.0  | win32-arm64-user | Insider | ARM64        | ea9d38e4459555f527a6febe2ddc9b92967e9987dedf690d7226daef03f76044 | https://az764295.vo.msecnd.net/insider/06ce7933733b1ab05e410e46a6a622dfffb31927/VSCodeUserSetup-arm64-1.77.0-insider.exe |
-| 1.77.0  | win32-user       | Insider | x86          | 5443c21af4f1e83e99237fd75c4713312ddb900e5cb2d7f00589aa08fdcef720 | https://az764295.vo.msecnd.net/insider/06ce7933733b1ab05e410e46a6a622dfffb31927/VSCodeUserSetup-ia32-1.77.0-insider.exe  |
+| 1.77.0  | win32-arm64-user | Insider | ARM64        | 8db4f75746507c9f38dc45f3bca559921e230fc54fb94e8e27effc9e77b51d00 | https://az764295.vo.msecnd.net/insider/0cab3cc3cbe4d4ac2cbf30e8c30351d9db6dcfb4/VSCodeUserSetup-arm64-1.77.0-insider.exe |
+| 1.77.0  | win32-user       | Insider | x86          | a16e42b94cb587a664e4dd561ff711d71fb0c93f595758a56ba3ee2d4d4f91d0 | https://az764295.vo.msecnd.net/insider/0cab3cc3cbe4d4ac2cbf30e8c30351d9db6dcfb4/VSCodeUserSetup-ia32-1.77.0-insider.exe  |
 | 1.77.0  | win32-x64        | Insider | x64          | 33f339e25d8bb8041193ebd58d8f902605642e5fd748d552c513737173402ead | https://az764295.vo.msecnd.net/insider/0cab3cc3cbe4d4ac2cbf30e8c30351d9db6dcfb4/VSCodeSetup-x64-1.77.0-insider.exe       |
 | 1.77.0  | win32-x64-user   | Insider | x64          | e85cd05ded47a7d0c1fb2340475a97385a9f5f134a547d0147406058e810a2fd | https://az764295.vo.msecnd.net/insider/0cab3cc3cbe4d4ac2cbf30e8c30351d9db6dcfb4/VSCodeUserSetup-x64-1.77.0-insider.exe   |
 | 1.76.0  | win32            | Stable  | x86          | 6a140c21bcbc187c2fbef5cfda1fbb9646d2b0c83bfbc5fafa695ac4565b3d59 | https://az764295.vo.msecnd.net/stable/92da9481c0904c6adfe372c12da3b7748d74bdcb/VSCodeSetup-ia32-1.76.0.exe               |
@@ -1841,9 +1841,9 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-| Version | Architecture | Date                          | Size    | Filename                                                  | URI                                                              |
-| ------- | ------------ | ----------------------------- | ------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| Unknown | x64          | Mon, 25 Jul 2022 16:29:59 GMT | 5107712 | Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH |
+| Version | Architecture | Date                          | Size | Filename                                                  | URI                                                              |
+| ------- | ------------ | ----------------------------- | ---- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| Unknown | x64          | Mon, 25 Jul 2022 16:29:59 GMT |      | Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH |
 
 ## MicrosoftWvdInfraAgent
 
@@ -1920,7 +1920,7 @@
 | Version             | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                      |
 | ------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 2023.2.231011-alpha | x64          | Alpha   | 02/23/2023 10:34:54 | 308450904 | l4yExH1rtFH48F1JG59qmXGBiojvBnZ2HtVeJ8IgM7s+HFeAA0gcPFnyqYfZ4XE0AlSXOTteFBbCZcmFIjMFpQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.2.231011-alpha.exe |
-| 2023.3.31330-latest | x64          | Stable  | 03/03/2023 13:49:53 | 309765984 | RtyWvTt1NSxTqP+ALjVPzK7uA7R6pcnIFqGEl5aic2FeBQe/3Ey3vsdtgnM20xnIJr2QCSGAwLRRltaDoW1gJQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.3.31330-latest.exe |
+| 2023.3.61120-latest | x64          | Stable  | 03/06/2023 11:45:44 | 309755696 | pXCwgXWWtvZWcXMSziYKidqCs9mxb41Nh+diaFD7ZJh9uS58Z1RnVv3wICORIfn7myrVKliiM1O9+U5fGRSPrA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.3.61120-latest.exe |
 
 ## MozillaFirefox
 
@@ -4251,7 +4251,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2023.1.9672 | 03/03/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.1.9672-x64.msi |
+| 2023.1.9680 | 03/06/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.1.9680-x64.msi |
 
 ## OctopusTentacle
 
@@ -4308,7 +4308,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------- |
-| 6.4.1   | Windows  | x86          | exe  | 03/03/2023 | 137372800 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.1/OpenLens-6.4.1.exe |
+| 6.4.2   | Windows  | x86          | exe  | 03/06/2023 | 137370272 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.2/OpenLens-6.4.2.exe |
 
 ## OpenShellMenu
 
@@ -4333,10 +4333,10 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
+| 98.0.4725.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4725.0/win/Opera_Developer_98.0.4725.0_Setup_x64.exe |
+| 98.0.4725.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4725.0/win/Opera_Developer_98.0.4725.0_Setup.exe     |
 | 97.0.4719.4  | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.4/win/Opera_beta_97.0.4719.4_Setup_x64.exe           |
 | 97.0.4719.4  | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.4/win/Opera_beta_97.0.4719.4_Setup.exe               |
-| 97.0.4718.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4718.0/win/Opera_Developer_97.0.4718.0_Setup_x64.exe |
-| 97.0.4718.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/97.0.4718.0/win/Opera_Developer_97.0.4718.0_Setup.exe     |
 | 96.0.4693.31 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.31/win/Opera_96.0.4693.31_Setup_x64.exe                   |
 | 96.0.4693.31 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.31/win/Opera_96.0.4693.31_Setup.exe                       |
 
@@ -4934,14 +4934,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
-| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
-| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
-| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5100,19 +5100,19 @@
 
 | Version       | Platform | Type | Architecture | URI                                                                      |
 | ------------- | -------- | ---- | ------------ | ------------------------------------------------------------------------ |
-| 5.13.10.13305 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.10.13305/arm64/ZoomInstallerFull.exe       |
-| 5.13.10.13305 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.10.13305/x64/ZoomInstallerFull.exe         |
-| 5.13.10.13305 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.10.13305/ZoomInstallerFull.exe             |
-| 5.13.10.13305 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.10.13305/arm64/ZoomInstallerFull.msi       |
-| 5.13.10.13305 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.13305/x64/ZoomInstallerFull.msi         |
-| 5.13.10.13305 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.13305/ZoomInstallerFull.msi             |
+| 5.13.11.13434 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.11.13434/arm64/ZoomInstallerFull.exe       |
+| 5.13.11.13434 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.11.13434/x64/ZoomInstallerFull.exe         |
+| 5.13.11.13434 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.11.13434/ZoomInstallerFull.exe             |
+| 5.13.11.13434 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.11.13434/arm64/ZoomInstallerFull.msi       |
+| 5.13.11.13434 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.11.13434/x64/ZoomInstallerFull.msi         |
+| 5.13.11.13434 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.11.13434/ZoomInstallerFull.msi             |
 | 5.13.10.2558  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.exe |
 | 5.13.10.2558  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.exe     |
 | 5.13.10.2558  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.msi |
 | 5.13.10.2558  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.msi     |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi             |
-| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
 | 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
+| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
 | 5.13.10.810   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi          |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                      |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi                |
