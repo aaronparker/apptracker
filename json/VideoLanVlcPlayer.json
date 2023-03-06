@@ -4,41 +4,41 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "EXE",
-    "URI": "https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe"
+    "URI": "https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "EXE",
-    "URI": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe"
+    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "MSI",
-    "URI": "https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi"
+    "URI": "https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "MSI",
-    "URI": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi"
+    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "ZIP",
-    "URI": "https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip"
+    "URI": "https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "ZIP",
-    "URI": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip"
+    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip"
   }
 ]
