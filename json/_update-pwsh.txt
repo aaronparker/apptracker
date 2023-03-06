@@ -1,0 +1,9 @@
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdBootloader.json
+json/MirantisLens.json
+json/OctopusDeployServer.json
+json/OpenLens.json
+json/OperaBrowser.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
