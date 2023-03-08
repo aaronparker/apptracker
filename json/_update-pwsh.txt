@@ -1,0 +1,13 @@
+json/1Password.json
+json/ChromiumChromeDriver.json
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpConsul.json
+json/MicrosoftBicep.json
+json/MicrosoftEdge.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerToys.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/OpenLens.json
+json/VideoLanVlcPlayer.json

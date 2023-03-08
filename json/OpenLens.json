@@ -1,9 +1,9 @@
 {
-  "Version": "6.4.3",
+  "Version": "6.4.4",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "Date": "03/07/2023",
-  "Size": 137372584,
-  "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.3/OpenLens-6.4.3.exe"
+  "Size": 137368376,
+  "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.4/OpenLens-6.4.4.exe"
 }
