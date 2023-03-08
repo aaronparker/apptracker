@@ -1110,9 +1110,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -4187,7 +4187,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 0.77.1  | Windows  | x86          | exe  | 11/15/2022 | 14575904 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.1/LAVFilters-0.77.1-Installer.exe |
+| 0.77.2  | Windows  | x86          | exe  | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
 
 ## Nomacs
 
@@ -4306,7 +4306,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | -------------------------------------------------------------------------------------- |
-| 6.4.4   | Windows  | x86          | exe  | 03/07/2023 | 137368376 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.4/OpenLens-6.4.4.exe |
+| 6.4.5   | Windows  | x86          | exe  | 03/08/2023 | 137375008 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.4.5/OpenLens-6.4.5.exe |
 
 ## OpenShellMenu
 
@@ -4335,8 +4335,8 @@
 | 98.0.4725.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4725.0/win/Opera_Developer_98.0.4725.0_Setup.exe     |
 | 97.0.4719.4  | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.4/win/Opera_beta_97.0.4719.4_Setup_x64.exe           |
 | 97.0.4719.4  | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.4/win/Opera_beta_97.0.4719.4_Setup.exe               |
-| 96.0.4693.31 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.31/win/Opera_96.0.4693.31_Setup_x64.exe                   |
-| 96.0.4693.31 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.31/win/Opera_96.0.4693.31_Setup.exe                       |
+| 96.0.4693.50 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.50/win/Opera_96.0.4693.50_Setup_x64.exe                   |
+| 96.0.4693.50 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.50/win/Opera_96.0.4693.50_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -4932,14 +4932,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe       |
-| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi       |
-| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                             |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe    |
+| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi    |
+| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip    |
+| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5109,8 +5109,8 @@
 | 5.13.10.2558  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.msi |
 | 5.13.10.2558  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.msi     |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi             |
-| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
 | 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
+| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
 | 5.13.10.810   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi          |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                      |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi                |
