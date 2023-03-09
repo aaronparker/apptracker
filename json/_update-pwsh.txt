@@ -1,0 +1,11 @@
+json/1Password.json
+json/Gimp.json
+json/JetBrainsPyCharm.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftWvdBootloader.json
+json/OpenLens.json
+json/OperaBrowser.json
+json/OperaGXBrowser.json
+json/TeamViewer.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
