@@ -1,17 +1,17 @@
 [
   {
-    "Version": "112.0.5615.12",
+    "Version": "112.0.5615.20",
     "Architecture": "x64",
     "Channel": "dev",
-    "Date": "03/02/2023",
+    "Date": "03/08/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "112.0.5615.12",
+    "Version": "112.0.5615.20",
     "Architecture": "x86",
     "Channel": "dev",
-    "Date": "03/02/2023",
+    "Date": "03/08/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
