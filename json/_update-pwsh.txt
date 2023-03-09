@@ -1,0 +1,8 @@
+json/1Password.json
+json/AdobeAcrobatDC.json
+json/AdobeAcrobatProStdDC.json
+json/AdobeAcrobatReaderDC.json
+json/ImageMagickStudioImageMagick.json
+json/MicrosoftVisualStudioCode.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
