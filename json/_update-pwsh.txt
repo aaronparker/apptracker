@@ -1,9 +1,0 @@
-json/JetBrainsIntelliJIDEA.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftAzureStorageExplorer.json
-json/MicrosoftVisualStudioCode.json
-json/MicrosoftWvdBootloader.json
-json/MirantisLens.json
-json/VMwareTools.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
