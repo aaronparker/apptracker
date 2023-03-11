@@ -1,0 +1,10 @@
+json/AWSCLI.json
+json/AirtameApp.json
+json/Gimp.json
+json/JetBrainsPyCharm.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeams.json
+json/MicrosoftVisualStudioCode.json
+json/VideoLanVlcPlayer.json
