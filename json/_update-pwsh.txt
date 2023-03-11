@@ -1,0 +1,7 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
