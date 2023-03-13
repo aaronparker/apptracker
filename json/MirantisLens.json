@@ -9,12 +9,12 @@
     "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202023.2.231011-alpha.exe"
   },
   {
-    "Version": "2023.3.90958-latest",
+    "Version": "2023.3.100736-latest",
     "Architecture": "x64",
     "Release": "Stable",
-    "Date": "2023-03-09T10:17:10.56Z",
-    "Size": 309751336,
-    "Sha512": "eFSuM7GIb1Hs3doqjxa/XmYGpJia8Auedbl3coEdzy7T6Qy+8I7pbpBH/6GsFTqSfnrpIJ7h8rXDouZdqWn1gA==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202023.3.90958-latest.exe"
+    "Date": "2023-03-10T07:50:13.09Z",
+    "Size": 309760096,
+    "Sha512": "jzuIUfX2lOFNbThuHDo/Fitgiah1RgRqV6BN03SmgT8K+r4qHuDo8H/1Za92yADm8jBMxeeP2ungN8VDy/I+Mg==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202023.3.100736-latest.exe"
   }
 ]
