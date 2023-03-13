@@ -1109,9 +1109,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1251,8 +1251,8 @@
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
-| 1.5.0   | zip  | x64          | https://releases.hashicorp.com/nomad/1.5.0/nomad_1.5.0_windows_amd64.zip |
-| 1.5.0   | zip  | x86          | https://releases.hashicorp.com/nomad/1.5.0/nomad_1.5.0_windows_386.zip   |
+| 1.5.1   | zip  | x64          | https://releases.hashicorp.com/nomad/1.5.1/nomad_1.5.1_windows_amd64.zip |
+| 1.5.1   | zip  | x86          | https://releases.hashicorp.com/nomad/1.5.1/nomad_1.5.1_windows_386.zip   |
 
 ## HashicorpPacker
 
@@ -1673,9 +1673,9 @@
 | 23.050.0307.0001 | x86          | Insider      | kRYniCuP36TyHwMhQhYhewrkloqG8kgsHRWddVF1+aQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.050.0307.0001/OneDriveSetup.exe       |
 | 23.050.0307.0001 | x86          | InternalSlow | kRYniCuP36TyHwMhQhYhewrkloqG8kgsHRWddVF1+aQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.050.0307.0001/OneDriveSetup.exe       |
 | 23.048.0305.0002 | AMD64        | Insider      | tBpFLyicWGtEDZfwerd+HxJIpuch5L+vmgBL33qBy1I= | exe  | https://oneclient.sfx.ms/Win/Installers/23.048.0305.0002/amd64/OneDriveSetup.exe |
+| 23.048.0305.0002 | AMD64        | Production   | tBpFLyicWGtEDZfwerd+HxJIpuch5L+vmgBL33qBy1I= | exe  | https://oneclient.sfx.ms/Win/Installers/23.048.0305.0002/amd64/OneDriveSetup.exe |
 | 23.048.0305.0002 | x86          | Insider      | BC+wkT4PivOv8D9xHKYStK9mcldW5mOdVho3sI8RmEE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.048.0305.0002/OneDriveSetup.exe       |
-| 23.045.0228.0001 | AMD64        | Production   | ekRVfpGzfSXKPiXZx2guxQthNBKR9StZQBfLw37FkkA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.045.0228.0001/amd64/OneDriveSetup.exe |
-| 23.045.0228.0001 | x86          | Production   | 0/cYfbb+q0OiGK9b/pXOMmaw+WgarqAqt9VmiFT9ZR8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.045.0228.0001/OneDriveSetup.exe       |
+| 23.048.0305.0002 | x86          | Production   | BC+wkT4PivOv8D9xHKYStK9mcldW5mOdVho3sI8RmEE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.048.0305.0002/OneDriveSetup.exe       |
 | 23.043.0226.0001 | AMD64        | Production   | kdrqRiqqfx0S2yPaV5BIKICXsZqVe692v6flQ5+8GOI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.043.0226.0001/amd64/OneDriveSetup.exe |
 | 23.043.0226.0001 | x86          | Production   | cpdjLIiQbTKACm7LejpzPBNVyhYKmIHEeq4h1B+hTfQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.043.0226.0001/OneDriveSetup.exe       |
 | 23.038.0219.0001 | AMD64        | Production   | HZsvY+c0XPxpUTmE8Z/lDKkH9zySQngM4ygTZzl2Y5w= | exe  | https://oneclient.sfx.ms/Win/Installers/23.038.0219.0001/amd64/OneDriveSetup.exe |
@@ -1815,12 +1815,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.77.0  | win32            | Insider | x86          | 50685c85cabae58fa972d08baf6feb35021c59030e66c66000b38607acbf0cb5 | https://az764295.vo.msecnd.net/insider/f42f45a7d219952ac07b6ed6ba5c4c107cf5aa2d/VSCodeSetup-ia32-1.77.0-insider.exe      |
-| 1.77.0  | win32-arm64      | Insider | ARM64        | 9ebc08166706c9202a5269d5765555527666f2efdf21cb22330fd822b5039c7e | https://az764295.vo.msecnd.net/insider/f42f45a7d219952ac07b6ed6ba5c4c107cf5aa2d/VSCodeSetup-arm64-1.77.0-insider.exe     |
-| 1.77.0  | win32-arm64-user | Insider | ARM64        | 38ce7fd2d19ba83c715d66c35851f168c37fee4c88a770d5f01c364cc74936a9 | https://az764295.vo.msecnd.net/insider/f42f45a7d219952ac07b6ed6ba5c4c107cf5aa2d/VSCodeUserSetup-arm64-1.77.0-insider.exe |
-| 1.77.0  | win32-user       | Insider | x86          | 5cece5b62ee8278ab8b1003519a61fa018a644cdd8c35368486e6718281a2343 | https://az764295.vo.msecnd.net/insider/f42f45a7d219952ac07b6ed6ba5c4c107cf5aa2d/VSCodeUserSetup-ia32-1.77.0-insider.exe  |
-| 1.77.0  | win32-x64        | Insider | x64          | 4ab46d03f352658c6ae19d5a6956096742e84dcb27c10bacb5d5e2e736bb318c | https://az764295.vo.msecnd.net/insider/f42f45a7d219952ac07b6ed6ba5c4c107cf5aa2d/VSCodeSetup-x64-1.77.0-insider.exe       |
-| 1.77.0  | win32-x64-user   | Insider | x64          | 4aa98043ea1c037624b06394247b5d5253aac6fed19af9e115e34d6c1191016b | https://az764295.vo.msecnd.net/insider/f42f45a7d219952ac07b6ed6ba5c4c107cf5aa2d/VSCodeUserSetup-x64-1.77.0-insider.exe   |
+| 1.77.0  | win32            | Insider | x86          | d09f8cbe789288f3cd3abedbcd2e74b89ed7291355dd00fe48bf1fd29847a3d4 | https://az764295.vo.msecnd.net/insider/522890f47c000a79c4f4a42f1325758c4c23b010/VSCodeSetup-ia32-1.77.0-insider.exe      |
+| 1.77.0  | win32-arm64      | Insider | ARM64        | 9053f4dbd282b440e7127312fef70c0439c1be5df9be9cdccf27ce6051c878ee | https://az764295.vo.msecnd.net/insider/522890f47c000a79c4f4a42f1325758c4c23b010/VSCodeSetup-arm64-1.77.0-insider.exe     |
+| 1.77.0  | win32-arm64-user | Insider | ARM64        | ec4a770152f046fccd68bbc38b94d7bb322da406bd56aafe0c4ebfc96ab0d1e3 | https://az764295.vo.msecnd.net/insider/522890f47c000a79c4f4a42f1325758c4c23b010/VSCodeUserSetup-arm64-1.77.0-insider.exe |
+| 1.77.0  | win32-user       | Insider | x86          | 5707dfc6e7713517f3e9f63e7bba5db3791ed98bcea95639f70687575052d930 | https://az764295.vo.msecnd.net/insider/522890f47c000a79c4f4a42f1325758c4c23b010/VSCodeUserSetup-ia32-1.77.0-insider.exe  |
+| 1.77.0  | win32-x64        | Insider | x64          | 40266046bd536a06961206d8b6bfe98f4eb8d895b09b6fa5bf6ba6a5693ce7fa | https://az764295.vo.msecnd.net/insider/522890f47c000a79c4f4a42f1325758c4c23b010/VSCodeSetup-x64-1.77.0-insider.exe       |
+| 1.77.0  | win32-x64-user   | Insider | x64          | 6c38e68d2418127a22d2184bf5f0ec05a194ae3b5397d580fc4da9bf8583b24b | https://az764295.vo.msecnd.net/insider/522890f47c000a79c4f4a42f1325758c4c23b010/VSCodeUserSetup-x64-1.77.0-insider.exe   |
 | 1.76.1  | win32            | Stable  | x86          | 3492a690b8ed084cf1ce0d2b9e716c7bea40c471e7323423459c8e6bda126745 | https://az764295.vo.msecnd.net/stable/5e805b79fcb6ba4c2d23712967df89a089da575b/VSCodeSetup-ia32-1.76.1.exe               |
 | 1.76.1  | win32-arm64      | Stable  | ARM64        | c01c07ee46ee2e06db59cb3b0ead53716d1459950c39fc02c6a3b7e61fd44a99 | https://az764295.vo.msecnd.net/stable/5e805b79fcb6ba4c2d23712967df89a089da575b/VSCodeSetup-arm64-1.76.1.exe              |
 | 1.76.1  | win32-arm64-user | Stable  | ARM64        | e651d92b204b0606ed88be0b65ff28e6de0ed033171e73baa44fab22e6175131 | https://az764295.vo.msecnd.net/stable/5e805b79fcb6ba4c2d23712967df89a089da575b/VSCodeUserSetup-arm64-1.76.1.exe          |
@@ -4155,7 +4155,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
-| 4.0.1   | Windows  | x64          | msi  | 01/12/2023 | 103006208 | https://github.com/musescore/MuseScore/releases/download/v4.0.1/MuseScore-4.0.1.230121751-x86_64.msi |
+| 4.0.2   | Windows  | x64          | msi  | 03/13/2023 | 103133184 | https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651553-x86_64.msi |
 
 ## NanaZip
 
@@ -4332,8 +4332,8 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 98.0.4725.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4725.0/win/Opera_Developer_98.0.4725.0_Setup_x64.exe |
-| 98.0.4725.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4725.0/win/Opera_Developer_98.0.4725.0_Setup.exe     |
+| 98.0.4732.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4732.0/win/Opera_Developer_98.0.4732.0_Setup_x64.exe |
+| 98.0.4732.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4732.0/win/Opera_Developer_98.0.4732.0_Setup.exe     |
 | 97.0.4719.11 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.11/win/Opera_beta_97.0.4719.11_Setup_x64.exe         |
 | 97.0.4719.11 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.11/win/Opera_beta_97.0.4719.11_Setup.exe             |
 | 96.0.4693.50 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/96.0.4693.50/win/Opera_96.0.4693.50_Setup_x64.exe                   |
@@ -4933,14 +4933,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
-| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
-| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
+| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
+| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
+| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5110,8 +5110,8 @@
 | 5.13.10.2558  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.msi |
 | 5.13.10.2558  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.msi     |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi             |
-| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
 | 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
+| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
 | 5.13.10.810   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi          |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                      |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi                |
