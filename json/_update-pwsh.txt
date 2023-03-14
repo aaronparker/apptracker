@@ -1,0 +1,9 @@
+json/AirtameApp.json
+json/ESETServerSecurity.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/ResponsivelyApp.json
+json/TechSmithSnagit.json
+json/VideoLanVlcPlayer.json
