@@ -1,4 +1,0 @@
-json/Gimp.json
-json/GitForWindows.json
-json/MicrosoftAzureDataStudio.json
-json/VideoLanVlcPlayer.json
