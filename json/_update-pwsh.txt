@@ -1,8 +1,0 @@
-json/1Password.json
-json/AppVentiX.json
-json/Gimp.json
-json/HashicorpTerraform.json
-json/MicrosoftOneDrive.json
-json/OperaBrowser.json
-json/PiriformCCleanerFree.json
-json/VideoLanVlcPlayer.json
