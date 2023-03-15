@@ -1,147 +1,147 @@
 [
   {
-    "Version": "7.0.201",
+    "Version": "7.0.202",
     "Architecture": "ARM64",
     "Installer": "sdk",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/f4796156-a19f-40fc-9d8c-6543ec5adcd0/de42f2104b710774b2e08c5c05a9fafc/dotnet-sdk-7.0.201-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/32d8d194-4ab7-4913-a524-ba8b971896c2/a45108bd93c9da7e110837968c55e221/dotnet-sdk-7.0.202-win-arm64.exe"
   },
   {
-    "Version": "7.0.201",
+    "Version": "7.0.202",
     "Architecture": "x64",
     "Installer": "sdk",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/b7d6d427-1b5a-4152-8851-f3ac29d708d3/06489eb031cb0b842602f870e05ed34f/dotnet-sdk-7.0.201-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/c6ad374b-9b66-49ed-a140-588348d0c29a/78084d635f2a4011ccd65dc7fd9e83ce/dotnet-sdk-7.0.202-win-x64.exe"
   },
   {
-    "Version": "7.0.201",
+    "Version": "7.0.202",
     "Architecture": "x86",
     "Installer": "sdk",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/5403a1dd-8da1-4834-a2fb-76b22bb97e95/f66af405335125c8c6b703aeb10f7851/dotnet-sdk-7.0.201-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/9d754e4b-caa0-4f0f-b254-b0ee1fdb580f/360dbbbf186f32ecf661b178a1768652/dotnet-sdk-7.0.202-win-x86.exe"
   },
   {
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Architecture": "ARM64",
     "Installer": "runtime",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/e10a268e-16e9-410a-9efd-fb981956f687/8c681785d701dd6aa01ec877e5a21acb/dotnet-runtime-7.0.3-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/aa70e646-6d6d-49f2-a7e5-5cad90f3783b/309665ecddef746789a848f7a8cca610/dotnet-runtime-7.0.4-win-arm64.exe"
   },
   {
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Architecture": "ARM64",
     "Installer": "windowsdesktop",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/96fb549b-f859-4722-9a62-41906c64be61/35ad6083caf6488eef4f9ef8504d4795/windowsdesktop-runtime-7.0.3-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/f9e5d878-12fa-4c6a-889c-3c03c22cecb9/0ccb0a599375a19ba34dbbb318864297/windowsdesktop-runtime-7.0.4-win-arm64.exe"
   },
   {
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Architecture": "x64",
     "Installer": "windowsdesktop",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/3ebf014d-fcb9-4200-b3fe-76ba2000b027/840f2f95833ce400a9949e35f1581d28/windowsdesktop-runtime-7.0.3-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b6a55627-12de-482a-aea8-17d635f4b775/d8798c0c796a945c657d04438cf9b84d/windowsdesktop-runtime-7.0.4-win-x64.exe"
   },
   {
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Architecture": "x64",
     "Installer": "runtime",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/c69813b7-2ece-4c2e-8c45-e33006985e18/61cc8fe4693a662b2da55ad932a46446/dotnet-runtime-7.0.3-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/7e842a78-9877-4b82-8450-f3311b406a6f/83352282a0bdf1e5f9dfc5fcc88dc83f/dotnet-runtime-7.0.4-win-x64.exe"
   },
   {
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Architecture": "x86",
     "Installer": "runtime",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9dd2da29-ca47-40fb-81a0-96fe26ea8ea2/e8f7e09a6d4848b8c4a13282d964b9e1/dotnet-runtime-7.0.3-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/a44ad7c4-c079-4299-a5a5-669d53707f76/9a94eeb3cdf9529d40e8020a3b8f6c61/dotnet-runtime-7.0.4-win-x86.exe"
   },
   {
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Architecture": "x86",
     "Installer": "windowsdesktop",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/fb8bf100-9e1c-472c-8bc8-aa16fff44f53/8d36f5a56edff8620f9c63c1e73ba88c/windowsdesktop-runtime-7.0.3-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/9c8d474f-e58f-4ab2-ab3c-f6c2c8616910/41b492e1c41083c823d56162c700de57/windowsdesktop-runtime-7.0.4-win-x86.exe"
   },
   {
-    "Version": "6.0.406",
+    "Version": "6.0.407",
     "Architecture": "ARM64",
     "Installer": "sdk",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/f206c2cc-a062-4e26-90ae-7647450de9e1/c4e5b1e0a32613215d998f2bdef12a9c/dotnet-sdk-6.0.406-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/ef7f0961-bb98-4d11-8cb2-9697a9cf55f0/ff7adb80e8d1fa056f5d51616a4fdcd1/dotnet-sdk-6.0.407-win-arm64.exe"
   },
   {
-    "Version": "6.0.406",
+    "Version": "6.0.407",
     "Architecture": "x64",
     "Installer": "sdk",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/4a725ea4-cd2c-4383-9b63-263156d5f042/d973777b32563272b85617105a06d272/dotnet-sdk-6.0.406-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/38dca5f5-f10f-49fb-b07f-a42dd123ea30/335bb4811c9636b3a4687757f9234db9/dotnet-sdk-6.0.407-win-x64.exe"
   },
   {
-    "Version": "6.0.406",
+    "Version": "6.0.407",
     "Architecture": "x86",
     "Installer": "sdk",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/cacc3503-733e-4ffb-8eab-920f78ea6fc8/3d5603c46de0317eccf75d136749e57b/dotnet-sdk-6.0.406-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/3f294688-ec3f-4b85-ba46-ca13bd42979b/97c526c92203e8c13e5beb3172523594/dotnet-sdk-6.0.407-win-x86.exe"
   },
   {
-    "Version": "6.0.14",
+    "Version": "6.0.15",
     "Architecture": "ARM64",
     "Installer": "runtime",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/affde4e0-2933-4982-a410-8ee5e3ebd954/8013d4d3f8de2e090dacacbbf9094cde/dotnet-runtime-6.0.14-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/74453a1d-cd7a-4fb7-90a9-40fc56b7324c/f7511ec1107310ca104dec62f86717af/dotnet-runtime-6.0.15-win-arm64.exe"
   },
   {
-    "Version": "6.0.14",
+    "Version": "6.0.15",
     "Architecture": "ARM64",
     "Installer": "windowsdesktop",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/55813168-b54b-456f-91df-e0aace414af9/770cd0e0d68e6757cd56c0fd14dbf5f7/windowsdesktop-runtime-6.0.14-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/ed661b4a-6784-4b40-8872-c7df46d2fc4d/22ee24e9434437b66f1d5431504c049b/windowsdesktop-runtime-6.0.15-win-arm64.exe"
   },
   {
-    "Version": "6.0.14",
+    "Version": "6.0.15",
     "Architecture": "x64",
     "Installer": "windowsdesktop",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/035efed3-6386-4e1d-bcbc-384a20ebf47e/abfbea2303e0ce9cb15d430314e5858f/windowsdesktop-runtime-6.0.14-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/513d13b7-b456-45af-828b-b7b7981ff462/edf44a743b78f8b54a2cec97ce888346/windowsdesktop-runtime-6.0.15-win-x64.exe"
   },
   {
-    "Version": "6.0.14",
+    "Version": "6.0.15",
     "Architecture": "x64",
     "Installer": "runtime",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/cdd7a605-be77-47fe-a8ac-d982c8e5d692/c8abed93d34b110b4f3d3254e56de254/dotnet-runtime-6.0.14-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/0f609431-fc27-4d13-a6b3-15db9153836a/4c7704d6a26f6099e0ff94cb5a853206/dotnet-runtime-6.0.15-win-x64.exe"
   },
   {
-    "Version": "6.0.14",
+    "Version": "6.0.15",
     "Architecture": "x86",
     "Installer": "runtime",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/36ba8cdf-e5c2-4ab8-96e7-e7133f0517dd/e63c28b38f8896298544263469e9f285/dotnet-runtime-6.0.14-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/46f6ac54-6f22-4c0b-92c2-9cc6a427c08f/a00a86f9652ea609e40b337e3553c1e6/dotnet-runtime-6.0.15-win-x86.exe"
   },
   {
-    "Version": "6.0.14",
+    "Version": "6.0.15",
     "Architecture": "x86",
     "Installer": "windowsdesktop",
     "Channel": "LTS",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/e66c97f8-3ca5-4cbc-aaf8-77079b21f41f/3ce8574df28f49d85091b1af758eccb7/windowsdesktop-runtime-6.0.14-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/c7294693-5754-4bb0-b4a4-bcb63d4ef661/dd21bbae18ee17a1f8cb004bd1a7d365/windowsdesktop-runtime-6.0.15-win-x86.exe"
   },
   {
     "Version": "3.1.426",

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "6.2.277",
+    "Version": "6.3.417",
     "Architecture": "x64",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.2.277-x64.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.3.417-x64.msi"
   },
   {
-    "Version": "6.2.277",
+    "Version": "6.3.417",
     "Architecture": "x86",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.2.277.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.6.3.417.msi"
   }
 ]
