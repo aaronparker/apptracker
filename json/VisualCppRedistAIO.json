@@ -1,20 +1,20 @@
 [
   {
-    "Version": "0.68.0",
+    "Version": "0.69.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
-    "Date": "03/14/2023",
-    "Size": 28912767,
-    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.68.0/VisualCppRedist_AIO_x86_x64_68.zip"
+    "Date": "03/16/2023",
+    "Size": 28854547,
+    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.69.0/VisualCppRedist_AIO_x86_x64_69.zip"
   },
   {
-    "Version": "0.68.0",
+    "Version": "0.69.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "03/14/2023",
-    "Size": 17190673,
-    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.68.0/VisualCppRedist_AIO_x86only.zip"
+    "Date": "03/16/2023",
+    "Size": 17177694,
+    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.69.0/VisualCppRedist_AIO_x86only.zip"
   }
 ]

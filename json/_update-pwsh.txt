@@ -1,0 +1,12 @@
+json/1Password.json
+json/Gimp.json
+json/HashicorpTerraform.json
+json/OnlyOfficeDesktopEditors.json
+json/OpenLens.json
+json/OperaBrowser.json
+json/Postman.json
+json/SumatraPDFReader.json
+json/VMwareTools.json
+json/VideoLanVlcPlayer.json
+json/VisualCppRedistAIO.json
+json/Zoom.json
