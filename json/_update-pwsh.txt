@@ -1,0 +1,10 @@
+json/1Password.json
+json/AWSCLI.json
+json/Gimp.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/OpenLens.json
+json/VideoLanVlcPlayer.json
