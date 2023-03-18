@@ -1111,7 +1111,7 @@
 
 | Version | Date       | Sha256                                                           | URI                                                                         |
 | ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1635,9 +1635,9 @@
 | 112.0.1722.11 | Beta    | ARM64        | https://msedgedriver.azureedge.net/112.0.1722.11/edgedriver_arm64.zip |
 | 112.0.1722.11 | Dev     | ARM64        | https://msedgedriver.azureedge.net/112.0.1722.11/edgedriver_arm64.zip |
 | 112.0.1722.11 | Beta    | x64          | https://msedgedriver.azureedge.net/112.0.1722.11/edgedriver_win64.zip |
+| 112.0.1722.11 | Dev     | x64          | https://msedgedriver.azureedge.net/112.0.1722.11/edgedriver_win64.zip |
 | 112.0.1722.11 | Beta    | x86          | https://msedgedriver.azureedge.net/112.0.1722.11/edgedriver_win32.zip |
-| 112.0.1722.7  | Dev     | x64          | https://msedgedriver.azureedge.net/112.0.1722.7/edgedriver_win64.zip  |
-| 112.0.1722.7  | Dev     | x86          | https://msedgedriver.azureedge.net/112.0.1722.7/edgedriver_win32.zip  |
+| 112.0.1722.11 | Dev     | x86          | https://msedgedriver.azureedge.net/112.0.1722.11/edgedriver_win32.zip |
 | 111.0.1661.44 | Stable  | ARM64        | https://msedgedriver.azureedge.net/111.0.1661.44/edgedriver_arm64.zip |
 | 111.0.1661.44 | Stable  | x64          | https://msedgedriver.azureedge.net/111.0.1661.44/edgedriver_win64.zip |
 | 111.0.1661.44 | Stable  | x86          | https://msedgedriver.azureedge.net/111.0.1661.44/edgedriver_win32.zip |
@@ -4933,14 +4933,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.mangohost.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe       |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.mangohost.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi       |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.mangohost.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
