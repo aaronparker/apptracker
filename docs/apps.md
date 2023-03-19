@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 251 applications and 3381 unique application installers:
+App Version Tracker is using Evergreen to track 255 applications and 3387 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -43,6 +43,7 @@ App Version Tracker is using Evergreen to track 251 applications and 3381 unique
 | Atlassian Sourcetree                                              | https://www.sourcetreeapp.com/                                                                   |
 | Audacity                                                          | https://www.audacityteam.org/                                                                    |
 | Windows Auto Dark Mode                                            | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode                                          |
+| Autodesk Fusion 360                                               | https://www.autodesk.com/products/fusion-360/overview                                            |
 | AWS CLI                                                           | https://github.com/aws/aws-cli/                                                                  |
 | AWS SAM CLI                                                       | https://github.com/aws/aws-sam-cli/                                                              |
 | Beekeeper Studio                                                  | https://www.beekeeperstudio.io/                                                                  |
@@ -93,6 +94,9 @@ App Version Tracker is using Evergreen to track 251 applications and 3381 unique
 | GitHub Desktop                                                    | https://desktop.github.com/                                                                      |
 | GitHub release                                                    | https://github.com/                                                                              |
 | Google Chrome                                                     | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
+| GoTo Connect                                                      | https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments       |
+| GoTo Meeting                                                      | https://support.goto.com/meeting/help/install-via-msi-windows                                    |
+| GoTo Opener                                                       | https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi                 |
 | Gpg4win                                                           | https://www.gpg4win.org/                                                                         |
 | Greenshot                                                         | https://getgreenshot.org/                                                                        |
 | gretl                                                             | http://gretl.sourceforge.net/                                                                    |
@@ -129,6 +133,7 @@ App Version Tracker is using Evergreen to track 251 applications and 3381 unique
 | Microsoft 365 Apps                                                | https://www.microsoft.com/office                                                                 |
 | Microsoft Azure Data Studio                                       | https://docs.microsoft.com/en-us/sql/azure-data-studio/                                          |
 | Azure Functions Core Tools                                        | https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local                       |
+| Microsoft Azure Pipelines Agent                                   | https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents                           |
 | Microsoft Azure Storage Explorer                                  | https://azure.microsoft.com/en-au/features/storage-explorer/                                     |
 | MicrosoftAzureWindowsVMAgent                                      | https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows                |
 | Microsoft Bicep                                                   | https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview                     |
@@ -186,6 +191,7 @@ App Version Tracker is using Evergreen to track 251 applications and 3381 unique
 | dotPDN LLC Paint.NET                                              | https://getpaint.net                                                                             |
 | dotPDN LLC Paint.NET                                              | https://getpaint.net/                                                                            |
 | Pandoc                                                            | https://pandoc.org/                                                                              |
+| PDF Arranger                                                      | https://github.com/pdfarranger/pdfarranger/                                                      |
 | pdfforge PDFCreator                                               | https://www.pdfforge.org/pdfcreator                                                              |
 | PeaZip PeaZip                                                     | https://peazip.github.io/                                                                        |
 | Piriform CCleaner Free                                            | https://www.ccleaner.com/ccleaner                                                                |
