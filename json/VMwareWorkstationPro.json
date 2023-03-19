@@ -1,8 +1,8 @@
 {
-  "Version": "16.2.5",
-  "Date": "11/09/2021",
-  "Sha256": "c73981be21420270c20533c473e90288a5f71bb0ee23ab605b88817919091a8b",
-  "Size": "615.54 MB",
+  "Version": "17.0.1",
+  "Date": "02/02/2023",
+  "Sha256": "6b1de8005ae088209016b7f24a21d831ba6255d302b7adbe642d4fe0dbb4939e",
+  "Size": "607.72 MB",
   "Type": "exe",
-  "URI": "https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.2.1-18811642.exe"
+  "URI": "https://download3.vmware.com/software/WKST-1701-WIN/VMware-workstation-full-17.0.1-21139696.exe"
 }

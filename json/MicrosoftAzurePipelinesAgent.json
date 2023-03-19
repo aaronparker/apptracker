@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "2.217.2",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://vstsagentpackage.azureedge.net/agent/2.217.2/vsts-agent-win-x64-2.217.2.zip"
+  },
+  {
+    "Version": "2.217.2",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://vstsagentpackage.azureedge.net/agent/2.217.2/vsts-agent-win-x86-2.217.2.zip"
+  }
+]
