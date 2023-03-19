@@ -4,8 +4,6 @@
 "GoToMeeting.json","19/3/2023 8:09:20 AM"
 "GoToConnect.json","19/3/2023 8:09:20 AM"
 "AutodeskFusion360.json","19/3/2023 8:09:20 AM"
-"LogMeInGoToMeeting.json","19/3/2023 8:09:20 AM"
-"LogMeInGoToOpener.json","19/3/2023 8:09:20 AM"
 "VMwareWorkstationPro.json","19/3/2023 8:09:20 AM"
 "VMwareWorkstationPlayer.json","19/3/2023 8:09:20 AM"
 "MicrosoftAzurePipelinesAgent.json","19/3/2023 8:09:20 AM"

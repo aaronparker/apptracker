@@ -119,8 +119,6 @@ App Version Tracker is using Evergreen to track 251 applications and 3381 unique
 | KeePass Password Safe                                             | https://keepass.info/                                                                            |
 | KeePassXC Team KeePassXC                                          | https://keepassxc.org/                                                                           |
 | KeeWeb                                                            | https://github.com/keeweb/keeweb                                                                 |
-| LogMeIn GoToMeeting                                               | https://support.goto.com/meeting/help/install-via-msi-windows-g2m010013                          |
-| LogMeIn GoToOpener                                                | https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi-g2m850002       |
 | Master Packager                                                   | https://www.masterpackager.com/                                                                  |
 | Mattermost Desktop                                                | https://github.com/mattermost/desktop                                                            |
 | Maximus5 ConEmu                                                   | https://github.com/Maximus5/ConEmu                                                               |
