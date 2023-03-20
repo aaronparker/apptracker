@@ -1,5 +1,12 @@
 [
   {
+    "Version": "5.14.0.849",
+    "Platform": "Outlook",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi"
+  },
+  {
     "Version": "5.13.11.13434",
     "Platform": "Meetings",
     "Type": "exe",
@@ -89,13 +96,6 @@
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi"
-  },
-  {
-    "Version": "5.13.10.810",
-    "Platform": "Outlook",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.13.10.810/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "Latest",
