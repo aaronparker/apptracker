@@ -1,0 +1,6 @@
+json/Gimp.json
+json/NETworkManager.json
+json/OctopusDeployServer.json
+json/SumatraPDFReader.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json

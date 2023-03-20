@@ -1,14 +1,14 @@
 [
   {
-    "Version": "3.3.3",
+    "Version": "3.4.6",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-64-install.exe"
+    "URI": "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe"
   },
   {
-    "Version": "3.3.3",
+    "Version": "3.4.6",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.sumatrapdfreader.org/dl/rel/3.3.3/SumatraPDF-3.3.3-install.exe"
+    "URI": "https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe"
   }
 ]
