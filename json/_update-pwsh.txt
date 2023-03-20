@@ -1,0 +1,9 @@
+json/1Password.json
+json/AirtameApp.json
+json/Anaconda.json
+json/CitrixWorkspaceApp.json
+json/DockerDesktop.json
+json/MicrosoftOneDrive.json
+json/OperaBrowser.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
