@@ -1,0 +1,8 @@
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftTeams.json
+json/MicrosoftVisualStudioCode.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
