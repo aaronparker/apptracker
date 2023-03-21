@@ -1,5 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftAzurePipelinesAgent.json
-json/TeamViewer.json
-json/VideoLanVlcPlayer.json
