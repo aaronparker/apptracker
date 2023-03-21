@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.3  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.3  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
 
 ## 1Password7
 
@@ -332,9 +332,9 @@
 
 [Link](https://www.anaconda.com/)
 
-| Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                            |
-| ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2023.03 | x64          | 03/20/2023 15:41:36 | 824175688 | 050c0b10077fd8c4335bb66c1e50570d | 849daee6c1926bb43306d0e4ce0cc50719b5bb5e43e085fc5092513ef8bf1fd5 | https://repo.anaconda.com/archive/Anaconda3-py310_2023.03-0-Windows-x86_64.exe |
+| Version | Architecture | Date                | Size      | MD5                              | Sha256                                                           | URI                                                                    |
+| ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2023.03 | x64          | 03/20/2023 15:41:36 | 824175688 | 050c0b10077fd8c4335bb66c1e50570d | 849daee6c1926bb43306d0e4ce0cc50719b5bb5e43e085fc5092513ef8bf1fd5 | https://repo.anaconda.com/archive/Anaconda3-2023.03-Windows-x86_64.exe |
 
 ## Anki
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1555,8 +1555,8 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16310.20000 | BetaChannel       | Beta                                  | 03/14/2023 16:41:08 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16227.20094 | CurrentPreview    | Current Channel (Preview)             | 03/13/2023 18:16:36 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20306 | Current           | Current Channel                       | 03/14/2023 18:11:30 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16227.20158 | CurrentPreview    | Current Channel (Preview)             | 03/20/2023 15:20:09 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20332 | Current           | Current Channel                       | 03/20/2023 23:00:22 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16130.20306 | SemiAnnualPreview | Semi-Annual Channel Preview           | 03/14/2023 17:48:21 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16026.20238 | MonthlyEnterprise | Monthly Enterprise                    | 03/14/2023 08:07:55 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20578 | SemiAnnual        | Semi-Annual Channel                   | 03/14/2023 14:49:45 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1693,8 +1693,8 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.060.0316.0005 | AMD64        | InternalFast | t5BFpy7Gg7UAeERZ4m5WBy+AQ5tXOv8/gX6EausRxmc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.060.0316.0005/amd64/OneDriveSetup.exe |
-| 23.060.0316.0005 | x86          | InternalFast | 6dLbClHTWjhcy1IpSYE84THyXib+6+15LtNLhF6zh/Y= | exe  | https://oneclient.sfx.ms/Win/Installers/23.060.0316.0005/OneDriveSetup.exe       |
+| 23.061.0319.0001 | AMD64        | InternalFast | llsgQ1BB0CPwNVjZ6HKRWbmUOdEW6IpcGb3IaBKYZTI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0001/amd64/OneDriveSetup.exe |
+| 23.061.0319.0001 | x86          | InternalFast | HeQ5ggisHHZpCMUDjntcCxOusLncNtISXhjbQC31N14= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0001/OneDriveSetup.exe       |
 | 23.056.0314.0001 | AMD64        | Insider      | LoLDuPz4Xhwb1l4SeqhfuCOrpFoUegsChKxpFIR/WIo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.056.0314.0001/amd64/OneDriveSetup.exe |
 | 23.056.0314.0001 | AMD64        | InternalSlow | LoLDuPz4Xhwb1l4SeqhfuCOrpFoUegsChKxpFIR/WIo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.056.0314.0001/amd64/OneDriveSetup.exe |
 | 23.056.0314.0001 | x86          | Insider      | 6H9rytE029YnXBx1Jx5AEm44p/okA8z0/KvQKnGxul0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.056.0314.0001/OneDriveSetup.exe       |
@@ -4750,9 +4750,9 @@
 
 | Version  | Platform   | Architecture | URI                                                                                                  |
 | -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
-| 4.29.149 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.29.149/prod/x64/slack-standalone-4.29.149.0.msi  |
-| 4.29.149 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.29.149/prod/ia32/slack-standalone-4.29.149.0.msi |
-| 4.29.149 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.29.149/prod/x64/SlackSetup.msi                   |
+| 4.31.152 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.31.152/prod/x64/slack-standalone-4.31.152.0.msi  |
+| 4.31.152 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.31.152/prod/ia32/slack-standalone-4.31.152.0.msi |
+| 4.31.152 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.31.152/prod/x64/SlackSetup.msi                   |
 
 ## SmartBearSoapUI
 
@@ -4966,14 +4966,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe       |
-| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi       |
-| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip       |
-| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5131,27 +5131,27 @@
 
 [Link](https://zoom.us/)
 
-| Version       | Platform | Type | Architecture | URI                                                                      |
-| ------------- | -------- | ---- | ------------ | ------------------------------------------------------------------------ |
-| 5.14.0.849    | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi           |
-| 5.13.11.13434 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.13.11.13434/arm64/ZoomInstallerFull.exe       |
-| 5.13.11.13434 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.13.11.13434/x64/ZoomInstallerFull.exe         |
-| 5.13.11.13434 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.13.11.13434/ZoomInstallerFull.exe             |
-| 5.13.11.13434 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.13.11.13434/arm64/ZoomInstallerFull.msi       |
-| 5.13.11.13434 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.13.11.13434/x64/ZoomInstallerFull.msi         |
-| 5.13.11.13434 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.13.11.13434/ZoomInstallerFull.msi             |
-| 5.13.10.2558  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.exe |
-| 5.13.10.2558  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.exe     |
-| 5.13.10.2558  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.msi |
-| 5.13.10.2558  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.msi     |
-| 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi             |
-| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
-| 5.13.10.811   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
-| Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                      |
-| Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi                |
-| Latest        | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                  |
-| Latest        | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                        |
-| Latest        | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                   |
+| Version      | Platform | Type | Architecture | URI                                                                      |
+| ------------ | -------- | ---- | ------------ | ------------------------------------------------------------------------ |
+| 5.14.0.13888 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.14.0.13888/arm64/ZoomInstallerFull.exe        |
+| 5.14.0.13888 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.14.0.13888/x64/ZoomInstallerFull.exe          |
+| 5.14.0.13888 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.exe              |
+| 5.14.0.13888 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.14.0.13888/arm64/ZoomInstallerFull.msi        |
+| 5.14.0.13888 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.14.0.13888/x64/ZoomInstallerFull.msi          |
+| 5.14.0.13888 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.msi              |
+| 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi           |
+| 5.13.10.2558 | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.exe |
+| 5.13.10.2558 | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.exe     |
+| 5.13.10.2558 | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.13.10.2558/x64/zoomrooms-5.13.10.2558-x64.msi |
+| 5.13.10.2558 | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.2558/zoomrooms-5.13.10.2558-x86.msi     |
+| 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi             |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi        |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi            |
+| Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                      |
+| Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi                |
+| Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                  |
+| Latest       | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                        |
+| Latest       | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                   |
 
 ## ZorgmailVeiligVerzendenAddin
 
