@@ -1,0 +1,8 @@
+json/1Password.json
+json/Anaconda.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/Slack.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
