@@ -1,0 +1,10 @@
+json/AdobeAcrobat.json
+json/ArtifexGhostscript.json
+json/Gimp.json
+json/MicrosoftEdge.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/OperaCryptoBrowser.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
