@@ -9,6 +9,24 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/87d8df88-c983-4f3f-b433-c1f0358ec303/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
   {
+    "Version": "112.0.1722.17",
+    "Platform": "Windows",
+    "Channel": "Dev",
+    "Release": "Consumer",
+    "Architecture": "x64",
+    "Hash": "8E0179F2B0366D1EB7D766B36C4C23ED7D9A0AC0578782C1BA25D2AEA77A684F",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d3c3933b-c5f1-4f46-a8f3-3585a004eb1d/MicrosoftEdgeDevEnterpriseX64.msi"
+  },
+  {
+    "Version": "112.0.1722.17",
+    "Platform": "Windows",
+    "Channel": "Dev",
+    "Release": "Consumer",
+    "Architecture": "x86",
+    "Hash": "426729A7493D2A50E592B2006566441E1B24AE601915457C66300F25A8E5BF9B",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dac8e22c-1d65-45d8-b8e1-6610cdbc7feb/MicrosoftEdgeDevEnterpriseX86.msi"
+  },
+  {
     "Version": "112.0.1722.15",
     "Platform": "Any",
     "Channel": "Policy",

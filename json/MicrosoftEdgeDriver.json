@@ -6,6 +6,18 @@
     "URI": "https://msedgedriver.azureedge.net/112.0.1722.17/edgedriver_arm64.zip"
   },
   {
+    "Version": "112.0.1722.17",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "URI": "https://msedgedriver.azureedge.net/112.0.1722.17/edgedriver_win64.zip"
+  },
+  {
+    "Version": "112.0.1722.17",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "URI": "https://msedgedriver.azureedge.net/112.0.1722.17/edgedriver_win32.zip"
+  },
+  {
     "Version": "112.0.1722.15",
     "Channel": "Beta",
     "Architecture": "ARM64",
