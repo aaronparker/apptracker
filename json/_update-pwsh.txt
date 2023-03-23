@@ -8,3 +8,15 @@ json/OperaBrowser.json
 json/OperaCryptoBrowser.json
 json/VideoLanVlcPlayer.json
 json/Zoom.json
+json/1Password.json
+json/AWSCLI.json
+json/BitwardenDesktop.json
+json/Cyberduck.json
+json/HashicorpNomad.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftAzureWindowsVMAgent.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOutlook.json
+json/OpenLens.json
+json/ProgressChefInfraClient.json
+json/SignalDesktop.json
