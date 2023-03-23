@@ -1,8 +1,0 @@
-json/1Password.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftEdge.json
-json/MicrosoftEdgeDriver.json
-json/MicrosoftOneDrive.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
