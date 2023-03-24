@@ -1,9 +1,0 @@
-json/1Password.json
-json/AWSSAMCLI.json
-json/AirtameApp.json
-json/Gimp.json
-json/GoogleChrome.json
-json/MicrosoftOneDrive.json
-json/MicrosoftVisualStudioCode.json
-json/NotepadPlusPlus.json
-json/VideoLanVlcPlayer.json
