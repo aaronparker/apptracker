@@ -1,38 +1,38 @@
 [
   {
-    "Version": "3.21",
+    "Version": "3.22",
     "Platform": "Windows",
     "Architecture": "ARM32",
     "Type": "exe",
-    "Date": "11/28/2022",
-    "Size": 3722824,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.21/rufus-3.21_arm.exe"
+    "Date": "03/25/2023",
+    "Size": 4215368,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22_arm.exe"
   },
   {
-    "Version": "3.21",
+    "Version": "3.22",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "11/28/2022",
-    "Size": 3898440,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.21/rufus-3.21_arm64.exe"
+    "Date": "03/25/2023",
+    "Size": 4720712,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22_arm64.exe"
   },
   {
-    "Version": "3.21",
+    "Version": "3.22",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "11/28/2022",
-    "Size": 1397320,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.21/rufus-3.21.exe"
+    "Date": "03/25/2023",
+    "Size": 1419336,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22.exe"
   },
   {
-    "Version": "3.21",
+    "Version": "3.22",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "11/28/2022",
-    "Size": 1397320,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.21/rufus-3.21p.exe"
+    "Date": "03/25/2023",
+    "Size": 1419336,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22p.exe"
   }
 ]

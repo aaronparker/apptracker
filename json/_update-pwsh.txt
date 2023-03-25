@@ -1,0 +1,6 @@
+json/1Password.json
+json/AirtameApp.json
+json/AkeoRufus.json
+json/Gimp.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
