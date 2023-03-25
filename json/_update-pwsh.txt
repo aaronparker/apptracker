@@ -1,0 +1,3 @@
+json/Gimp.json
+json/SumatraPDFReader.json
+json/VideoLanVlcPlayer.json
