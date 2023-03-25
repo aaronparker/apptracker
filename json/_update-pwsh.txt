@@ -1,0 +1,13 @@
+json/AWSCLI.json
+json/Gimp.json
+json/GoToConnect.json
+json/GoogleChrome.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/ProgressChefInSpec.json
+json/ProgressChefWorkstation.json
+json/VideoLanVlcPlayer.json
