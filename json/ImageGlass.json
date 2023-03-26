@@ -5,8 +5,8 @@
     "Architecture": "x64",
     "Type": "msi",
     "Date": "03/24/2023",
-    "Size": 28211712,
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.deleted.msi"
+    "Size": 25956864,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.delete2.msi"
   },
   {
     "Version": "8.8.3.28",
@@ -14,7 +14,16 @@
     "Architecture": "x64",
     "Type": "msi",
     "Date": "03/24/2023",
-    "Size": 25956864,
+    "Size": 28211712,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.deleted1.msi"
+  },
+  {
+    "Version": "8.8.3.28",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "Date": "03/24/2023",
+    "Size": 25950720,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.msi"
   },
   {
@@ -23,8 +32,8 @@
     "Architecture": "x86",
     "Type": "msi",
     "Date": "03/24/2023",
-    "Size": 19264512,
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.deleted.msi"
+    "Size": 19262976,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.delete2.msi"
   },
   {
     "Version": "8.8.3.28",
@@ -32,7 +41,16 @@
     "Architecture": "x86",
     "Type": "msi",
     "Date": "03/24/2023",
-    "Size": 19262976,
+    "Size": 19264512,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.deleted1.msi"
+  },
+  {
+    "Version": "8.8.3.28",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Date": "03/24/2023",
+    "Size": 19266048,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.msi"
   }
 ]

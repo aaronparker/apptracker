@@ -1,0 +1,7 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/ImageGlass.json
+json/ImageMagickStudioImageMagick.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
