@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/VMwareTools.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
