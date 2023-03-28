@@ -1,0 +1,11 @@
+json/1Password.json
+json/BitwardenDesktop.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftOneDrive.json
+json/Pandoc.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
