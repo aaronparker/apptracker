@@ -1,0 +1,5 @@
+json/1Password.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
