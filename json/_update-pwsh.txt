@@ -1,0 +1,16 @@
+json/1Password.json
+json/AirtameApp.json
+json/CitrixWorkspaceApp.json
+json/ESETInspectConnector.json
+json/Gimp.json
+json/JetBrainsIntelliJIDEA.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftOutlook.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/ProgressChefInSpec.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
