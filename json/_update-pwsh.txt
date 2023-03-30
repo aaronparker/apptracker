@@ -1,9 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftOneDrive.json
-json/PaintDotNet.json
-json/PaintDotNetOfflineInstaller.json
-json/VMwareTools.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
