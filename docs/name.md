@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.3  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.3  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
 
 ## 1Password7
 
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1573,8 +1573,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.43.0  | win32-x64      | Insider | 7d396aa924d0717b3d4d832ef069b80f83d3aba0d9a913aada439ea89425c31f | https://sqlopsbuilds.azureedge.net/insider/afafee844ce2b07eb55bdb6f40ee1ce88c0bbf4e/azuredatastudio-windows-setup-1.43.0-insider.exe      |
-| 1.43.0  | win32-x64-user | Insider | 171746f1a2fd6b6d2a92ac61a81fb2ad823705cedbdf7d42c161e39a6451628b | https://sqlopsbuilds.azureedge.net/insider/afafee844ce2b07eb55bdb6f40ee1ce88c0bbf4e/azuredatastudio-windows-user-setup-1.43.0-insider.exe |
+| 1.43.0  | win32-x64      | Insider | 0b736b27e6b4e6c01942608eee5bbd42127f30e931c4b8923e68aa3d65c09f0d | https://sqlopsbuilds.azureedge.net/insider/ff603fa911960c9c9e90e3e370c05eb439208c2a/azuredatastudio-windows-setup-1.43.0-insider.exe      |
+| 1.43.0  | win32-x64-user | Insider | f5f35bc34ea37dbe9c7315ca6d0b52b6e622a9af7225f873fd9f4b73897960b3 | https://sqlopsbuilds.azureedge.net/insider/ff603fa911960c9c9e90e3e370c05eb439208c2a/azuredatastudio-windows-user-setup-1.43.0-insider.exe |
 | 1.42.0  | win32-x64      | Stable  | 39b5a69c1b1598859ecea46627adfd69693820fdd3de75084bf18dbcfccd8b2b | https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-setup-1.42.0.exe               |
 | 1.42.0  | win32-x64-user | Stable  | f426ff9f3616904cb0f62c88a20e28e9cf02c43c3e9f9843cbb566a1048cb97d | https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-user-setup-1.42.0.exe          |
 
@@ -1699,7 +1699,9 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
 | 23.068.0328.0001 | AMD64        | InternalFast | W9+ObGIkLNKUA7yE9NVCdLGs2Z9FiZwwsHMShvXOFkY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.068.0328.0001/amd64/OneDriveSetup.exe |
 | 23.068.0328.0001 | x86          | InternalFast | oRz72H2k6qnsFpSTKGcn9fWowzUizjRZTVugn4iUFJ8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.068.0328.0001/OneDriveSetup.exe       |
+| 23.066.0326.0001 | AMD64        | Insider      | scf3t9O1LvPGwaMJVwT1xocKNtf3W0dYf0aJ8JVmiYc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0001/amd64/OneDriveSetup.exe |
 | 23.066.0326.0001 | AMD64        | InternalSlow | scf3t9O1LvPGwaMJVwT1xocKNtf3W0dYf0aJ8JVmiYc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0001/amd64/OneDriveSetup.exe |
+| 23.066.0326.0001 | x86          | Insider      | 0wsufJawxjdqtiyFCNPV/L+QNcVl2wgWJGLkHqsI7EI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0001/OneDriveSetup.exe       |
 | 23.066.0326.0001 | x86          | InternalSlow | 0wsufJawxjdqtiyFCNPV/L+QNcVl2wgWJGLkHqsI7EI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0001/OneDriveSetup.exe       |
 | 23.063.0321.0001 | AMD64        | Insider      | NuMwN4mB5ubRPYYjrYYqD1DgcL4Gm/jUwyDjyDEMZA4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.063.0321.0001/amd64/OneDriveSetup.exe |
 | 23.063.0321.0001 | AMD64        | Production   | NuMwN4mB5ubRPYYjrYYqD1DgcL4Gm/jUwyDjyDEMZA4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.063.0321.0001/amd64/OneDriveSetup.exe |
@@ -4411,9 +4413,9 @@
 
 [Link](https://getpaint.net)
 
-| Version       | URI                                                                                                    |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| 5.2.8451.6614 | https://github.com/paintdotnet/release/releases/download/v5.0.2/paint.net.5.0.2.install.anycpu.web.zip |
+| Version        | URI                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------ |
+| 5.3.8488.42200 | https://github.com/paintdotnet/release/releases/download/v5.0.3/paint.net.5.0.3.install.anycpu.web.zip |
 
 ## PaintDotNetOfflineInstaller
 
@@ -4421,11 +4423,11 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |
-| 5.0.2   | Windows  | ARM64        | zip  | 11/18/2021 | 57186379 | https://github.com/paintdotnet/release/releases/download/v5.0.2/paint.net.5.0.2.install.arm64.zip      |
-| 5.0.2   | Windows  | ARM64        | zip  | 11/18/2021 | 66059954 | https://github.com/paintdotnet/release/releases/download/v5.0.2/paint.net.5.0.2.winmsi.arm64.zip       |
-| 5.0.2   | Windows  | x64          | zip  | 11/18/2021 | 64623492 | https://github.com/paintdotnet/release/releases/download/v5.0.2/paint.net.5.0.2.install.x64.zip        |
-| 5.0.2   | Windows  | x64          | zip  | 11/18/2021 | 72808477 | https://github.com/paintdotnet/release/releases/download/v5.0.2/paint.net.5.0.2.winmsi.x64.zip         |
-| 5.0.2   | Windows  | x86          | zip  | 11/18/2021 | 752016   | https://github.com/paintdotnet/release/releases/download/v5.0.2/paint.net.5.0.2.install.anycpu.web.zip |
+| 5.0.3   | Windows  | ARM64        | zip  | 11/18/2021 | 57399382 | https://github.com/paintdotnet/release/releases/download/v5.0.3/paint.net.5.0.3.install.arm64.zip      |
+| 5.0.3   | Windows  | ARM64        | zip  | 11/18/2021 | 66264645 | https://github.com/paintdotnet/release/releases/download/v5.0.3/paint.net.5.0.3.winmsi.arm64.zip       |
+| 5.0.3   | Windows  | x64          | zip  | 11/18/2021 | 64739015 | https://github.com/paintdotnet/release/releases/download/v5.0.3/paint.net.5.0.3.install.x64.zip        |
+| 5.0.3   | Windows  | x64          | zip  | 11/18/2021 | 73082211 | https://github.com/paintdotnet/release/releases/download/v5.0.3/paint.net.5.0.3.winmsi.x64.zip         |
+| 5.0.3   | Windows  | x86          | zip  | 11/18/2021 | 752142   | https://github.com/paintdotnet/release/releases/download/v5.0.3/paint.net.5.0.3.install.anycpu.web.zip |
 
 ## Pandoc
 
@@ -4970,14 +4972,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5028,8 +5030,8 @@
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| 12.2.0  | x64          | https://packages.vmware.com/tools/releases/12.2.0/windows/x64/VMware-tools-12.2.0-21223074-x86_64.exe |
-| 12.2.0  | x86          | https://packages.vmware.com/tools/releases/12.2.0/windows/x86/VMware-tools-12.2.0-21223074-i386.exe   |
+| 12.1.5  | x64          | https://packages.vmware.com/tools/releases/12.1.5/windows/x64/VMware-tools-12.1.5-20735119-x86_64.exe |
+| 12.1.5  | x86          | https://packages.vmware.com/tools/releases/12.1.5/windows/x86/VMware-tools-12.1.5-20735119-i386.exe   |
 
 ## VMwareWorkstationPlayer
 
@@ -5137,20 +5139,20 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.14.1.2691  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.14.1.2691/x64/zoomrooms-5.14.1.2691-x64.exe |
+| 5.14.1.2691  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.14.1.2691/zoomrooms-5.14.1.2691-x86.exe     |
+| 5.14.1.2691  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.14.1.2691/x64/zoomrooms-5.14.1.2691-x64.msi |
+| 5.14.1.2691  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.1.2691/zoomrooms-5.14.1.2691-x86.msi     |
 | 5.14.0.13888 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.14.0.13888/arm64/ZoomInstallerFull.exe      |
 | 5.14.0.13888 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.14.0.13888/x64/ZoomInstallerFull.exe        |
 | 5.14.0.13888 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.exe            |
 | 5.14.0.13888 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.14.0.13888/arm64/ZoomInstallerFull.msi      |
 | 5.14.0.13888 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.14.0.13888/x64/ZoomInstallerFull.msi        |
 | 5.14.0.13888 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.msi            |
-| 5.14.0.2683  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.14.0.2683/x64/zoomrooms-5.14.0.2683-x64.exe |
-| 5.14.0.2683  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.14.0.2683/zoomrooms-5.14.0.2683-x86.exe     |
-| 5.14.0.2683  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.14.0.2683/x64/zoomrooms-5.14.0.2683-x64.msi |
-| 5.14.0.2683  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.2683/zoomrooms-5.14.0.2683-x86.msi     |
 | 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
