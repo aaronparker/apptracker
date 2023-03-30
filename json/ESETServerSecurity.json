@@ -1,5 +1,14 @@
 [
   {
+    "Version": "10.0.12010.1",
+    "Size": 47263744,
+    "Hash": "f5351ad42684bbc94f9e89e39a456b1118d9801f",
+    "Language": "ja_JP",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12010.1/efsw_nt64_jpn.msi"
+  },
+  {
     "Version": "10.0.12010.0",
     "Size": 47190016,
     "Hash": "1ba2c544113bfc56a641070e722a05e66d34803f",
@@ -169,14 +178,5 @@
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12010.0/efsw_nt64_cht.msi"
-  },
-  {
-    "Version": "9.0.12017.1",
-    "Size": 212914176,
-    "Hash": "1c478789454040db684a35e98f9507dfb71d6229",
-    "Language": "ja_JP",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v9/9.0.12017.1/efsw_nt64_jpn.msi"
   }
 ]
