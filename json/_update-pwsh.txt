@@ -1,0 +1,10 @@
+json/1Password.json
+json/AWSCLI.json
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpVault.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
