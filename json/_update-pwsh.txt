@@ -1,0 +1,14 @@
+json/AirtameApp.json
+json/Anki.json
+json/Gimp.json
+json/HashicorpConsul.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MiniZincIDE.json
+json/ProgressChefInfraClient.json
+json/VMwareHorizonClient.json
+json/VMwareHorizonClientAlt.json
+json/VMwareOSOptimizationTool.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json

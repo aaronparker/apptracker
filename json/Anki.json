@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2.1.60",
+    "Version": "2.1.61",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "02/22/2023",
-    "Size": 123541000,
-    "URI": "https://github.com/ankitects/anki/releases/download/2.1.60/anki-2.1.60-windows-qt5.exe"
+    "Date": "03/31/2023",
+    "Size": 123951520,
+    "URI": "https://github.com/ankitects/anki/releases/download/2.1.61/anki-2.1.61-windows-qt5.exe"
   },
   {
-    "Version": "2.1.60",
+    "Version": "2.1.61",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "02/22/2023",
-    "Size": 143119560,
-    "URI": "https://github.com/ankitects/anki/releases/download/2.1.60/anki-2.1.60-windows-qt6.exe"
+    "Date": "03/31/2023",
+    "Size": 143477704,
+    "URI": "https://github.com/ankitects/anki/releases/download/2.1.61/anki-2.1.61-windows-qt6.exe"
   }
 ]

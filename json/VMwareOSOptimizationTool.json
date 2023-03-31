@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2203",
+    "Version": "1.2.0",
     "Date": "04/05/2022",
     "Sha256": "ccc40a199d85afae5342bf8be742411b6bad6cec7099c73fa70eb69273b5e45d",
     "Size": "13.53 MB",
     "Type": "exe",
     "Title": "Windows OS Optimization Tool for Horizon",
-    "URI": "https://download3.vmware.com/software/CART_OSOT_1_1/VMwareHorizonOSOptimizationTool-x86_64-1.1.2204.19587979.exe"
+    "URI": "https://download3.vmware.com/software/CART_OSOT_1_2/VMwareHorizonOSOptimizationTool-x86_64-1.1.2204.19587979.exe"
   },
   {
-    "Version": "2203",
+    "Version": "1.2.0",
     "Date": "04/05/2022",
     "Sha256": "93977af42dee1cf43396bb2d5fdc9d6e6646008249ea1fa1188976d75a59d164",
     "Size": "225.61 KB",
     "Type": "zip",
     "Title": "VMware OS Optimization Tool plugin for Microsoft Deployment Toolkit (MDT)",
-    "URI": "https://download3.vmware.com/software/CART_OSOT_1_1/VMwareHorizonOSOptimizationMDTPlugin-x86_64-1.1.2204.19587979.zip"
+    "URI": "https://download3.vmware.com/software/CART_OSOT_1_2/VMwareHorizonOSOptimizationMDTPlugin-x86_64-1.1.2204.19587979.zip"
   }
 ]
