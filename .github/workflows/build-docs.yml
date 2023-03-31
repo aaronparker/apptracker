@@ -1,4 +1,4 @@
-﻿name: mkdocs-ci
+name: mkdocs-ci
 on:
   push:
     branches: [ main ]
@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: 3.x
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           key: ${{ github.ref }}
           path: .cache
