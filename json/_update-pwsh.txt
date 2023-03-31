@@ -1,0 +1,6 @@
+json/AWSCLI.json
+json/Fork.json
+json/Gimp.json
+json/OpenLens.json
+json/VideoLanVlcPlayer.json
+json/diagrams.net.json
