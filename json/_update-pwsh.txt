@@ -1,2 +1,0 @@
-json/OpenLens.json
-json/VideoLanVlcPlayer.json
