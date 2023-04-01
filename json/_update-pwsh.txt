@@ -1,9 +1,0 @@
-json/AirtameApp.json
-json/Fork.json
-json/Gimp.json
-json/GoToConnect.json
-json/MicrosoftOneDrive.json
-json/MicrosoftTeams.json
-json/Slack.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
