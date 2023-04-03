@@ -1,0 +1,5 @@
+json/Gimp.json
+json/ImageMagickStudioImageMagick.json
+json/VideoLanVlcPlayer.json
+json/VisualCppRedistAIO.json
+json/Zoom.json
