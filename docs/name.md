@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1704,9 +1704,9 @@
 | 23.068.0328.0003 | x86          | Insider      | YwCDXTHtAHpkProwUHuQ5oitE2JebXqrY5EQmEDiqrI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.068.0328.0003/OneDriveSetup.exe       |
 | 23.068.0328.0003 | x86          | InternalSlow | YwCDXTHtAHpkProwUHuQ5oitE2JebXqrY5EQmEDiqrI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.068.0328.0003/OneDriveSetup.exe       |
 | 23.066.0326.0005 | AMD64        | Insider      | sqkOPS3BW3cNySGYZjOECeffjCClSh/46Je1hl2pNMA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/amd64/OneDriveSetup.exe |
+| 23.066.0326.0005 | AMD64        | Production   | sqkOPS3BW3cNySGYZjOECeffjCClSh/46Je1hl2pNMA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/amd64/OneDriveSetup.exe |
 | 23.066.0326.0005 | x86          | Insider      | 42MN9YeXj2QSCSOMFM66PExN5CwOPqJiyt6IK9TJtNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/OneDriveSetup.exe       |
-| 23.063.0321.0001 | AMD64        | Production   | NuMwN4mB5ubRPYYjrYYqD1DgcL4Gm/jUwyDjyDEMZA4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.063.0321.0001/amd64/OneDriveSetup.exe |
-| 23.063.0321.0001 | x86          | Production   | +UhrDawOw79YSYkowea8W5XrfzlrBEdqDFpw0yT8bzo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.063.0321.0001/OneDriveSetup.exe       |
+| 23.066.0326.0005 | x86          | Production   | 42MN9YeXj2QSCSOMFM66PExN5CwOPqJiyt6IK9TJtNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/OneDriveSetup.exe       |
 | 23.061.0319.0003 | AMD64        | Production   | E6v37dtjo4NiIicNjaQTy15u41UHjDrYyVeh/GYQgxE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0003/amd64/OneDriveSetup.exe |
 | 23.061.0319.0003 | x86          | Production   | hSmiMdCPTCQ8SCR9b5t1b5tNEuKDLd49H4e8dpPX9Ms= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0003/OneDriveSetup.exe       |
 | 23.054.0313.0001 | AMD64        | Production   | qDhncecA0jDkBqmFVzWBUsYFzT7wyzOruhouxLXq8JA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.054.0313.0001/amd64/OneDriveSetup.exe |
@@ -3897,9 +3897,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size    | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
-| 0.32.2  | Windows  | ARM64        | zip  | 02/08/2023 | 1541136 | https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win-aarch64.zip |
-| 0.32.2  | Windows  | x64          | zip  | 02/08/2023 | 1665171 | https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win64.zip       |
-| 0.32.2  | Windows  | x86          | zip  | 02/08/2023 | 1605875 | https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win32.zip       |
+| 0.33.0  | Windows  | ARM64        | zip  | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
+| 0.33.0  | Windows  | x64          | zip  | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
+| 0.33.0  | Windows  | x86          | zip  | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
 
 ## MozillaThunderbird
 
@@ -4363,8 +4363,8 @@
 
 | Version      | Channel   | Architecture | Type | URI                                                                                                     |
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 98.0.4746.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4746.0/win/Opera_Developer_98.0.4746.0_Setup_x64.exe |
-| 98.0.4746.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4746.0/win/Opera_Developer_98.0.4746.0_Setup.exe     |
+| 98.0.4756.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4756.0/win/Opera_Developer_98.0.4756.0_Setup_x64.exe |
+| 98.0.4756.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/98.0.4756.0/win/Opera_Developer_98.0.4756.0_Setup.exe     |
 | 97.0.4719.43 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/97.0.4719.43/win/Opera_97.0.4719.43_Setup_x64.exe                   |
 | 97.0.4719.43 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/97.0.4719.43/win/Opera_97.0.4719.43_Setup.exe                       |
 | 97.0.4719.17 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/97.0.4719.17/win/Opera_beta_97.0.4719.17_Setup_x64.exe         |
@@ -4974,12 +4974,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                               |
 | ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe     |
-| 3.0.18  | Windows  | x86          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi     |
-| 3.0.18  | Windows  | x86          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip     |
-| 3.0.18  | Windows  | x86          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| 3.0.18  | Windows  | x64          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
+| 3.0.18  | Windows  | x64          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5139,20 +5139,20 @@
 
 | Version      | Platform | Type | Architecture | URI                                                                    |
 | ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.14.2.14578 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.14.2.14578/arm64/ZoomInstallerFull.exe      |
+| 5.14.2.14578 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.14.2.14578/x64/ZoomInstallerFull.exe        |
+| 5.14.2.14578 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.14.2.14578/ZoomInstallerFull.exe            |
+| 5.14.2.14578 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.14.2.14578/arm64/ZoomInstallerFull.msi      |
+| 5.14.2.14578 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.14.2.14578/x64/ZoomInstallerFull.msi        |
+| 5.14.2.14578 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.14.2.14578/ZoomInstallerFull.msi            |
 | 5.14.1.2691  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.14.1.2691/x64/zoomrooms-5.14.1.2691-x64.exe |
 | 5.14.1.2691  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.14.1.2691/zoomrooms-5.14.1.2691-x86.exe     |
 | 5.14.1.2691  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.14.1.2691/x64/zoomrooms-5.14.1.2691-x64.msi |
 | 5.14.1.2691  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.1.2691/zoomrooms-5.14.1.2691-x86.msi     |
-| 5.14.0.13888 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.14.0.13888/arm64/ZoomInstallerFull.exe      |
-| 5.14.0.13888 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.14.0.13888/x64/ZoomInstallerFull.exe        |
-| 5.14.0.13888 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.exe            |
-| 5.14.0.13888 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.14.0.13888/arm64/ZoomInstallerFull.msi      |
-| 5.14.0.13888 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.14.0.13888/x64/ZoomInstallerFull.msi        |
-| 5.14.0.13888 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.msi            |
 | 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
