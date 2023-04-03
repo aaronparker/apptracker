@@ -1,6 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/SumatraPDFReader.json
-json/VideoLanVlcPlayer.json
