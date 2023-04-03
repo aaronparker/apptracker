@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                          |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1346,7 +1346,7 @@
 
 | Version | URI                                                                                                     |
 | ------- | ------------------------------------------------------------------------------------------------------- |
-| 7.1.1-5 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-5-Q16-HDRI-x64-dll.exe |
+| 7.1.1-6 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-6-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -4972,14 +4972,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
+| Version | Platform | Architecture | Type | URI                                                                       |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.exe               |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.msi               |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.zip               |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -4987,8 +4987,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
-| 0.69.0  | Windows  | x64          | zip  | 03/16/2023 | 28854547 | https://github.com/abbodi1406/vcredist/releases/download/v0.69.0/VisualCppRedist_AIO_x86_x64_69.zip |
-| 0.69.0  | Windows  | x86          | zip  | 03/16/2023 | 17177694 | https://github.com/abbodi1406/vcredist/releases/download/v0.69.0/VisualCppRedist_AIO_x86only.zip    |
+| 0.70.0  | Windows  | x64          | zip  | 04/02/2023 | 28856643 | https://github.com/abbodi1406/vcredist/releases/download/v0.70.0/VisualCppRedist_AIO_x86_x64_70.zip |
+| 0.70.0  | Windows  | x86          | zip  | 04/02/2023 | 17183183 | https://github.com/abbodi1406/vcredist/releases/download/v0.70.0/VisualCppRedist_AIO_x86only.zip    |
 
 ## VMPlexWorkstation
 
@@ -5151,8 +5151,8 @@
 | 5.14.0.13888 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.13888/ZoomInstallerFull.msi            |
 | 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
