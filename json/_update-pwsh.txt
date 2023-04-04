@@ -1,9 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/Gimp.json
-json/MattermostDesktop.json
-json/MicrosoftVisualStudioCode.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/XnSoftXnConvert.json
-json/Zoom.json
