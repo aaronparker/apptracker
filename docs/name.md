@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.3  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.3  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
 
 ## 1Password7
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1331,14 +1331,10 @@
 
 [Link](https://imageglass.org/)
 
-| Version  | Platform | Architecture | Type | Date       | Size     | URI                                                                                                       |
-| -------- | -------- | ------------ | ---- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |
-| 8.8.3.28 | Windows  | x64          | msi  | 03/24/2023 | 25956864 | https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.delete2.msi  |
-| 8.8.3.28 | Windows  | x64          | msi  | 03/24/2023 | 28211712 | https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.deleted1.msi |
-| 8.8.3.28 | Windows  | x64          | msi  | 03/24/2023 | 25950720 | https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x64.msi          |
-| 8.8.3.28 | Windows  | x86          | msi  | 03/24/2023 | 19262976 | https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.delete2.msi  |
-| 8.8.3.28 | Windows  | x86          | msi  | 03/24/2023 | 19264512 | https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.deleted1.msi |
-| 8.8.3.28 | Windows  | x86          | msi  | 03/24/2023 | 19266048 | https://github.com/d2phap/ImageGlass/releases/download/8.8.3.28/ImageGlass_Kobe_8.8.3.28_x86.msi          |
+| Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
+| 8.8.4.4 | Windows  | x64          | msi  | 04/04/2023 | 28530176 | https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x64.msi |
+| 8.8.4.4 | Windows  | x86          | msi  | 04/04/2023 | 19526656 | https://github.com/d2phap/ImageGlass/releases/download/8.8.4.4/ImageGlass_Kobe_8.8.4.4_x86.msi |
 
 ## ImageMagickStudioImageMagick
 
@@ -1573,8 +1569,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.43.0  | win32-x64      | Insider | 9e5aa6706e8bbd0f555ba9e14037dd5f2ffd639f9b35ae6145770d7e0700ee84 | https://sqlopsbuilds.azureedge.net/insider/2a14562ec71b108cef3f0840f62b58a66c7115c2/azuredatastudio-windows-setup-1.43.0-insider.exe      |
-| 1.43.0  | win32-x64-user | Insider | f771c45bdc574b38da97940f4fc43304625d62ebf1e0a58481af8ae9791a91bf | https://sqlopsbuilds.azureedge.net/insider/2a14562ec71b108cef3f0840f62b58a66c7115c2/azuredatastudio-windows-user-setup-1.43.0-insider.exe |
+| 1.44.0  | win32-x64      | Insider | 78ecbec47c8fb0d517bd9a0a3fe59ad192856aaf739474cfc219958f74337e42 | https://sqlopsbuilds.azureedge.net/insider/958a3f85e5544b75a802d71ba0868c2fd2d4bcf6/azuredatastudio-windows-setup-1.44.0-insider.exe      |
+| 1.44.0  | win32-x64-user | Insider | bc62950f708c16756d61f7e203bebe398eea104904d365b2b6a8f99685686139 | https://sqlopsbuilds.azureedge.net/insider/958a3f85e5544b75a802d71ba0868c2fd2d4bcf6/azuredatastudio-windows-user-setup-1.44.0-insider.exe |
 | 1.42.0  | win32-x64      | Stable  | 39b5a69c1b1598859ecea46627adfd69693820fdd3de75084bf18dbcfccd8b2b | https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-setup-1.42.0.exe               |
 | 1.42.0  | win32-x64-user | Stable  | f426ff9f3616904cb0f62c88a20e28e9cf02c43c3e9f9843cbb566a1048cb97d | https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-user-setup-1.42.0.exe          |
 
@@ -1764,12 +1760,17 @@
 
 | Version     | Ring              | Architecture | Type | URI                                                                                               |
 | ----------- | ----------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------- |
+| 1.6.00.8767 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.8767/Teams_windows_arm64.exe |
+| 1.6.00.8767 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.8767/Teams_windows_x64.exe     |
+| 1.6.00.8767 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.8767/Teams_windows.exe             |
+| 1.6.00.8767 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.8767/Teams_windows_arm64.msi |
+| 1.6.00.8767 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.8767/Teams_windows_x64.msi     |
+| 1.6.00.8767 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.8767/Teams_windows.msi             |
 | 1.6.00.6754 | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | General           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | ITAdmins          | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | OuterRing         | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | Public            | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | TAP               | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
 | 1.6.00.6754 | DeveloperPartners | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
@@ -1777,7 +1778,6 @@
 | 1.6.00.6754 | General           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
 | 1.6.00.6754 | ITAdmins          | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
 | 1.6.00.6754 | OuterRing         | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
 | 1.6.00.6754 | Public            | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
 | 1.6.00.6754 | TAP               | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
 | 1.6.00.6754 | DeveloperPartners | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
@@ -1785,7 +1785,6 @@
 | 1.6.00.6754 | General           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
 | 1.6.00.6754 | ITAdmins          | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
 | 1.6.00.6754 | OuterRing         | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
 | 1.6.00.6754 | Public            | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
 | 1.6.00.6754 | TAP               | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
 | 1.6.00.6754 | DeveloperPartners | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
@@ -1793,7 +1792,6 @@
 | 1.6.00.6754 | General           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
 | 1.6.00.6754 | ITAdmins          | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
 | 1.6.00.6754 | OuterRing         | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
 | 1.6.00.6754 | Public            | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
 | 1.6.00.6754 | TAP               | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
 | 1.6.00.6754 | DeveloperPartners | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
@@ -1801,7 +1799,6 @@
 | 1.6.00.6754 | General           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
 | 1.6.00.6754 | ITAdmins          | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
 | 1.6.00.6754 | OuterRing         | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
 | 1.6.00.6754 | Public            | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
 | 1.6.00.6754 | TAP               | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
 | 1.6.00.6754 | DeveloperPartners | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
@@ -1809,7 +1806,6 @@
 | 1.6.00.6754 | General           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
 | 1.6.00.6754 | ITAdmins          | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
 | 1.6.00.6754 | OuterRing         | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
 | 1.6.00.6754 | Public            | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
 | 1.6.00.6754 | TAP               | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
 
@@ -4279,7 +4275,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2023.1.9767 | 03/27/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.1.9767-x64.msi |
+| 2023.1.9781 | 04/04/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.1.9781-x64.msi |
 
 ## OctopusTentacle
 
@@ -4492,12 +4488,12 @@
 
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                            |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 18.2.5  | x64          | current  | 10       | 3056bacc0660eb65e91fc66aaa163c97ade5605a9801c4cfd52d0a0b46e1b678 | https://packages.chef.io/files/current/chef/18.2.5/windows/10/chef-client-18.2.5-1-x64.msi     |
-| 18.2.5  | x64          | current  | 11       | 3056bacc0660eb65e91fc66aaa163c97ade5605a9801c4cfd52d0a0b46e1b678 | https://packages.chef.io/files/current/chef/18.2.5/windows/11/chef-client-18.2.5-1-x64.msi     |
-| 18.2.5  | x64          | current  | 2012r2   | 3056bacc0660eb65e91fc66aaa163c97ade5605a9801c4cfd52d0a0b46e1b678 | https://packages.chef.io/files/current/chef/18.2.5/windows/2012r2/chef-client-18.2.5-1-x64.msi |
-| 18.2.5  | x64          | current  | 2016     | 3056bacc0660eb65e91fc66aaa163c97ade5605a9801c4cfd52d0a0b46e1b678 | https://packages.chef.io/files/current/chef/18.2.5/windows/2016/chef-client-18.2.5-1-x64.msi   |
-| 18.2.5  | x64          | current  | 2019     | 3056bacc0660eb65e91fc66aaa163c97ade5605a9801c4cfd52d0a0b46e1b678 | https://packages.chef.io/files/current/chef/18.2.5/windows/2019/chef-client-18.2.5-1-x64.msi   |
-| 18.2.5  | x64          | current  | 2022     | 3056bacc0660eb65e91fc66aaa163c97ade5605a9801c4cfd52d0a0b46e1b678 | https://packages.chef.io/files/current/chef/18.2.5/windows/2022/chef-client-18.2.5-1-x64.msi   |
+| 18.2.6  | x64          | current  | 10       | 00594dcb530e426a16cf2100788ef3b590340ab99f009485ed6505a8269a7b3f | https://packages.chef.io/files/current/chef/18.2.6/windows/10/chef-client-18.2.6-1-x64.msi     |
+| 18.2.6  | x64          | current  | 11       | 00594dcb530e426a16cf2100788ef3b590340ab99f009485ed6505a8269a7b3f | https://packages.chef.io/files/current/chef/18.2.6/windows/11/chef-client-18.2.6-1-x64.msi     |
+| 18.2.6  | x64          | current  | 2012r2   | 00594dcb530e426a16cf2100788ef3b590340ab99f009485ed6505a8269a7b3f | https://packages.chef.io/files/current/chef/18.2.6/windows/2012r2/chef-client-18.2.6-1-x64.msi |
+| 18.2.6  | x64          | current  | 2016     | 00594dcb530e426a16cf2100788ef3b590340ab99f009485ed6505a8269a7b3f | https://packages.chef.io/files/current/chef/18.2.6/windows/2016/chef-client-18.2.6-1-x64.msi   |
+| 18.2.6  | x64          | current  | 2019     | 00594dcb530e426a16cf2100788ef3b590340ab99f009485ed6505a8269a7b3f | https://packages.chef.io/files/current/chef/18.2.6/windows/2019/chef-client-18.2.6-1-x64.msi   |
+| 18.2.6  | x64          | current  | 2022     | 00594dcb530e426a16cf2100788ef3b590340ab99f009485ed6505a8269a7b3f | https://packages.chef.io/files/current/chef/18.2.6/windows/2022/chef-client-18.2.6-1-x64.msi   |
 | 18.2.3  | x64          | unstable | 10       | 1ab9905fe7150a7a52d620ece7805869464a5b2a6da70f6483fc7bff32504b4f | https://packages.chef.io/files/unstable/chef/18.2.3/windows/10/chef-client-18.2.3-1-x64.msi    |
 | 18.2.3  | x64          | unstable | 11       | 1ab9905fe7150a7a52d620ece7805869464a5b2a6da70f6483fc7bff32504b4f | https://packages.chef.io/files/unstable/chef/18.2.3/windows/10/chef-client-18.2.3-1-x64.msi    |
 | 18.2.3  | x64          | unstable | 2012r2   | 1ab9905fe7150a7a52d620ece7805869464a5b2a6da70f6483fc7bff32504b4f | https://packages.chef.io/files/unstable/chef/18.2.3/windows/10/chef-client-18.2.3-1-x64.msi    |
@@ -4625,11 +4621,11 @@
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 22.4.34 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
-| 22.4.34 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
-| 22.4.34 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
-| 22.4.34 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
-| 22.4.34 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
+| 23.1.22 | Windows  | Exe      | https://app.ringcentral.com/download/RingCentral.exe                                             |
+| 23.1.22 | Windows  | Meetings | https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi                  |
+| 23.1.22 | Windows  | Msi      | https://app.ringcentral.com/download/RingCentral-x64.msi                                         |
+| 23.1.22 | Windows  | Outlook  | https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi |
+| 23.1.22 | Windows  | Rooms    | https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi                     |
 
 ## RizonesoftNotepad3
 
@@ -4672,9 +4668,9 @@
 
 | Version | Platform | Architecture | Type | Date       | Size      | URI                                                                                                           |
 | ------- | -------- | ------------ | ---- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------- |
-| 3.4.1   | Windows  | x86          | exe  | 11/15/2022 | 256083336 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.1/SEB_3.4.1.505_SetupBundle.exe |
-| 3.4.1   | Windows  | x64          | msi  | 11/15/2022 | 131940352 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.1/SEB_3.4.1.505_x64_Setup.msi   |
-| 3.4.1   | Windows  | x86          | msi  | 11/15/2022 | 124035072 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.4.1/SEB_3.4.1.505_x86_Setup.msi   |
+| 3.5.0   | Windows  | x86          | exe  | 04/03/2023 | 260867728 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe |
+| 3.5.0   | Windows  | x64          | msi  | 04/03/2023 | 134868992 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x64_Setup.msi   |
+| 3.5.0   | Windows  | x86          | msi  | 04/03/2023 | 125992960 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x86_Setup.msi   |
 
 ## SafingPortmaster
 
@@ -4970,14 +4966,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                           |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
+| Version | Platform | Architecture | Type | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe        |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi        |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip        |
 
 ## VisualCppRedistAIO
 
@@ -5149,8 +5145,8 @@
 | 5.14.1.2691  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.1.2691/zoomrooms-5.14.1.2691-x86.msi     |
 | 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
