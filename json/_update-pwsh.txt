@@ -1,0 +1,11 @@
+json/1Password.json
+json/7ZipZS.json
+json/AirtameApp.json
+json/Gimp.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftBicep.json
+json/MicrosoftVisualStudioCode.json
+json/OperaGXBrowser.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
