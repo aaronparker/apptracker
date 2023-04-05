@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2023.2302.15",
+    "Version": "2023.2303.144",
     "Architecture": "ARM64",
-    "Date": "February 2023",
-    "URI": "https://jaws2023.vfo.digital/2023.2302.15.400/7D80290E-F5E8-4491-A7C1-24BC48BE7FEC/J2023.2302.15.400-Offline-arm64.exe"
+    "Date": "April 2023",
+    "URI": "https://jaws2023.vfo.digital/2023.2303.144.400/1B0E21E2-168A-4D3E-85EE-DD449C3C17D0/J2023.2303.144.400-Offline-arm64.exe"
   },
   {
-    "Version": "2023.2302.15",
+    "Version": "2023.2303.144",
     "Architecture": "x64",
-    "Date": "February 2023",
-    "URI": "https://jaws2023.vfo.digital/2023.2302.15.400/7D80290E-F5E8-4491-A7C1-24BC48BE7FEC/J2023.2302.15.400-Offline-x64.exe"
+    "Date": "April 2023",
+    "URI": "https://jaws2023.vfo.digital/2023.2303.144.400/1B0E21E2-168A-4D3E-85EE-DD449C3C17D0/J2023.2303.144.400-Offline-x64.exe"
   }
 ]
