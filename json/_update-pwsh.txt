@@ -1,0 +1,8 @@
+json/1Password.json
+json/AirtameApp.json
+json/Cyberduck.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/ProgressChefInfraClient.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
