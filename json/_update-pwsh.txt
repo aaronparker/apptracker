@@ -1,0 +1,13 @@
+json/1Password.json
+json/AirtameApp.json
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/NotepadPlusPlus.json
+json/OctopusDeployServer.json
+json/OpenLens.json
+json/OperaBrowser.json
+json/OperaCryptoBrowser.json
+json/ProgressChefInfraClient.json
+json/TelerikFiddlerEverywhere.json
+json/VideoLanVlcPlayer.json
