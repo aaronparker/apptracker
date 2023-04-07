@@ -1,0 +1,14 @@
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerToys.json
+json/MicrosoftWvdRemoteDesktop.json
+json/ProgressChefInfraClient.json
+json/TechSmithSnagit.json
+json/TrackerSoftwarePDFXChangeEditor.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
