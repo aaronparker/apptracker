@@ -1,0 +1,9 @@
+json/1Password.json
+json/AWSCLI.json
+json/AWSSAMCLI.json
+json/Gimp.json
+json/HashicorpBoundary.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
