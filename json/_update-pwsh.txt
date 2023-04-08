@@ -1,3 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/VideoLanVlcPlayer.json
