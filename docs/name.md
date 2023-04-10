@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1698,12 +1698,14 @@
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
 | 23.075.0406.0001 | AMD64        | InternalFast | MvYXZ8SGtuzTbxenWxaYlh9UIYiZz6fSMCtwmCM0yl0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.075.0406.0001/amd64/OneDriveSetup.exe |
 | 23.075.0406.0001 | x86          | InternalFast | nOyogZNw5ivGFO9p+9xyn+H7/5Q9mQ+9Owejgjw7AHQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.075.0406.0001/OneDriveSetup.exe       |
+| 23.073.0404.0001 | AMD64        | Insider      | +xxFXpgATc/1a8iSpRVhZQ+eu8JfjpZtnP6hI4RlfvM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.073.0404.0001/amd64/OneDriveSetup.exe |
 | 23.073.0404.0001 | AMD64        | InternalSlow | +xxFXpgATc/1a8iSpRVhZQ+eu8JfjpZtnP6hI4RlfvM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.073.0404.0001/amd64/OneDriveSetup.exe |
+| 23.073.0404.0001 | x86          | Insider      | cUlgp4heoKIaUWylHtqJWgAur2lVAmYce5Q+ybArxOQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.073.0404.0001/OneDriveSetup.exe       |
 | 23.073.0404.0001 | x86          | InternalSlow | cUlgp4heoKIaUWylHtqJWgAur2lVAmYce5Q+ybArxOQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.073.0404.0001/OneDriveSetup.exe       |
 | 23.071.0402.0001 | AMD64        | Insider      | 1G+8wt3QwG4It2pq2NmuScwxPg1SW6ZAWtDO15ag/rs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.071.0402.0001/amd64/OneDriveSetup.exe |
+| 23.071.0402.0001 | AMD64        | Production   | 1G+8wt3QwG4It2pq2NmuScwxPg1SW6ZAWtDO15ag/rs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.071.0402.0001/amd64/OneDriveSetup.exe |
 | 23.071.0402.0001 | x86          | Insider      | K7FVmAqAOktQwnYlLQG7AsPHVPyEgE1EUXei+eS8NZ4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.071.0402.0001/OneDriveSetup.exe       |
-| 23.068.0328.0003 | AMD64        | Production   | QHYjcX2KBxCZoDPKEiPHGTUTBXxiJN9pwMw1hyHA5Ew= | exe  | https://oneclient.sfx.ms/Win/Installers/23.068.0328.0003/amd64/OneDriveSetup.exe |
-| 23.068.0328.0003 | x86          | Production   | YwCDXTHtAHpkProwUHuQ5oitE2JebXqrY5EQmEDiqrI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.068.0328.0003/OneDriveSetup.exe       |
+| 23.071.0402.0001 | x86          | Production   | K7FVmAqAOktQwnYlLQG7AsPHVPyEgE1EUXei+eS8NZ4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.071.0402.0001/OneDriveSetup.exe       |
 | 23.066.0326.0005 | AMD64        | Production   | sqkOPS3BW3cNySGYZjOECeffjCClSh/46Je1hl2pNMA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/amd64/OneDriveSetup.exe |
 | 23.066.0326.0005 | x86          | Production   | 42MN9YeXj2QSCSOMFM66PExN5CwOPqJiyt6IK9TJtNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/OneDriveSetup.exe       |
 | 23.061.0319.0003 | AMD64        | Production   | E6v37dtjo4NiIicNjaQTy15u41UHjDrYyVeh/GYQgxE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0003/amd64/OneDriveSetup.exe |
@@ -4971,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
+| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
+| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
+| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
