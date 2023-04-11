@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.3  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.3  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.3.exe |
 
 ## 1Password7
 
@@ -46,14 +46,14 @@
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.001.20093 | Update | Reader  | DC    | Multi    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120093/AcroRdrDCx64Upd2300120093_MUI.msp |
-| 23.001.20093 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120093/AcrobatDCx64Upd2300120093.msp     |
-| 23.001.20093 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120093/AcroRdrDCx64Upd2300120093.msp     |
-| 23.001.20093 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120093/AcroRdrDCUpd2300120093_MUI.msp     |
-| 23.001.20093 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120093/AcrobatDCUpd2300120093.msp        |
-| 23.001.20093 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120093/AcroRdrDCUpd2300120093.msp         |
-| 20.005.30441 | Update | Reader  | 2020  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530441/AcroRdr2020Upd2000530441_MUI.msp |
-| 20.005.30441 | Update | Acrobat | 2020  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530441/Acrobat2020Upd2000530441.msp    |
+| 23.001.20143 | Update | Reader  | DC    | Multi    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcroRdrDCx64Upd2300120143_MUI.msp |
+| 23.001.20143 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcrobatDCx64Upd2300120143.msp     |
+| 23.001.20143 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcroRdrDCx64Upd2300120143.msp     |
+| 23.001.20143 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDCUpd2300120143_MUI.msp     |
+| 23.001.20143 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcrobatDCUpd2300120143.msp        |
+| 23.001.20143 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDCUpd2300120143.msp         |
+| 20.005.30467 | Update | Reader  | 2020  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530467/AcroRdr2020Upd2000530467_MUI.msp |
+| 20.005.30467 | Update | Acrobat | 2020  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530467/Acrobat2020Upd2000530467.msp    |
 | 17.012.30262 | Update | Reader  | 2017  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230262/AcroRdr2017Upd1701230262_MUI.msp |
 | 17.012.30262 | Update | Acrobat | 2017  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2017/1701230262/Acrobat2017Upd1701230262.msp    |
 | 15.006.30527 | Update | Reader  | 2015  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2015/1500630527/AcroRdr2015Upd1500630527_MUI.msp |
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -419,8 +419,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
-| 3.9.5   | Windows  | x86          | exe  | 04/10/2023 | 70319696 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.5/Beekeeper-Studio-3.9.5-portable.exe |
-| 3.9.5   | Windows  | x86          | exe  | 04/10/2023 | 70482600 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.5/Beekeeper-Studio-Setup-3.9.5.exe    |
+| 3.9.6   | Windows  | x86          | exe  | 04/11/2023 | 70316304 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.6/Beekeeper-Studio-3.9.6-portable.exe |
+| 3.9.6   | Windows  | x86          | exe  | 04/11/2023 | 70479208 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.6/Beekeeper-Studio-Setup-3.9.6.exe    |
 
 ## BISF
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1556,12 +1556,12 @@
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16403.20000 | BetaChannel       | Beta                                  | 04/04/2023 23:35:20 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16327.20104 | CurrentPreview    | Current Channel (Preview)             | 04/07/2023 00:12:11 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16227.20258 | Current           | Current Channel                       | 04/04/2023 23:32:33 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20306 | SemiAnnualPreview | Semi-Annual Channel Preview           | 03/14/2023 17:48:21 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16026.20238 | MonthlyEnterprise | Monthly Enterprise                    | 03/14/2023 08:07:55 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16227.20280 | Current           | Current Channel                       | 04/11/2023 08:04:19 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20394 | MonthlyEnterprise | Monthly Enterprise                    | 04/11/2023 08:04:40 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20394 | SemiAnnualPreview | Semi-Annual Channel Preview           | 04/11/2023 08:05:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.15601.20578 | SemiAnnual        | Semi-Annual Channel                   | 03/14/2023 14:49:45 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14332.20481 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 03/14/2023 13:21:11 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.10396.20023 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 03/14/2023 14:15:02 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14332.20493 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 04/11/2023 13:17:37 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.10397.20021 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 04/11/2023 13:21:56 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 
 ## MicrosoftAzureDataStudio
 
@@ -4475,10 +4475,10 @@
 
 [Link](https://www.getpostman.com/)
 
-| Version | Size      | Hash                                     | Date                | Architecture | Filename                        | URI                                                    |
-| ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------- | ------------------------------------------------------ |
-| 10.12.0 | 172626992 | D1793D8A2B5838F04D550902455AFD5C26B47D0E | 03/15/2023 04:59:25 | x64          | Postman-win64-10.12.0-Setup.exe | https://dl.pstmn.io/download/version/10.12.0/windows64 |
-| 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe   | https://dl.pstmn.io/download/version/9.4.1/windows32   |
+| Version  | Size      | Hash                                     | Date                | Architecture | Filename                         | URI                                                     |
+| -------- | --------- | ---------------------------------------- | ------------------- | ------------ | -------------------------------- | ------------------------------------------------------- |
+| 10.12.13 | 173129776 | 3638F170BF48978DB89755B8A184B1D4399C388D | 04/11/2023 06:49:47 | x64          | Postman-win64-10.12.13-Setup.exe | https://dl.pstmn.io/download/version/10.12.13/windows64 |
+| 9.4.1    | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe    | https://dl.pstmn.io/download/version/9.4.1/windows32    |
 
 ## Praat
 
@@ -4843,8 +4843,8 @@
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
-| 22.5.2  | 03/23/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2252/camtasia.exe |
-| 22.5.2  | 03/23/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2252/camtasia.msi |
+| 22.5.3  | 04/11/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2253/camtasia.exe |
+| 22.5.3  | 04/11/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2253/camtasia.msi |
 
 ## TechSmithSnagit
 
@@ -4973,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe       |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi       |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
+| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
+| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5087,7 +5087,7 @@
 
 | Version | Architecture | Type | URI                                                                                  |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------ |
-| 5.21.7  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21.7/WinSCP-5.21.7-Setup.exe |
+| 5.21.8  | x86          | exe  | https://nchc.dl.sourceforge.net/project/winscp/WinSCP/5.21.8/WinSCP-5.21.8-Setup.exe |
 
 ## Wireshark
 
@@ -5152,8 +5152,8 @@
 | 5.14.2.2710  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.2.2710/zoomrooms-5.14.2.2710-x86.msi     |
 | 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
