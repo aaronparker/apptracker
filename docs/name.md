@@ -65,12 +65,12 @@
 
 | Version      | Type      | Architecture | URI                                                                                                        |
 | ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.001.20064 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120064/AcrobatDCx64Upd2300120064.msp     |
-| 23.001.20064 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120064/AcrobatDCUpd2300120064.msp        |
-| 23.001.20064 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120064/AcroRdrDCx64Upd2300120064.msp     |
-| 23.001.20064 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDCUpd2300120064.msp         |
-| 23.001.20064 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120064/AcroRdrDCx64Upd2300120064_MUI.msp |
-| 23.001.20064 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDCUpd2300120064_MUI.msp     |
+| 23.001.20143 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcrobatDCx64Upd2300120143.msp     |
+| 23.001.20143 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcrobatDCUpd2300120143.msp        |
+| 23.001.20143 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcroRdrDCx64Upd2300120143.msp     |
+| 23.001.20143 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDCUpd2300120143.msp         |
+| 23.001.20143 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcroRdrDCx64Upd2300120143_MUI.msp |
+| 23.001.20143 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDCUpd2300120143_MUI.msp     |
 
 ## AdobeAcrobatProStdDC
 
@@ -78,10 +78,10 @@
 
 | Version      | Architecture | Sku      | URI                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
-| 23.001.20064 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.001.20064 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.001.20064 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-| 23.001.20064 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 23.001.20143 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.001.20143 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.001.20143 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 23.001.20143 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
 
 ## AdobeAcrobatReaderDC
 
@@ -89,7 +89,14 @@
 
 | Version      | Language              | Architecture | Name                                               | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 23.001.20064 | MUI                   | x64          | Reader DC 2023.001.20064 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120064/AcroRdrDCx642300120064_MUI.exe |
+| 23.001.20143 | MUI                   | x64          | Reader DC 2023.001.20143 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300120143/AcroRdrDCx642300120143_MUI.exe |
+| 23.001.20143 | English               | x86          | Reader DC 2023.001.20143 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_en_US.exe   |
+| 23.001.20143 | English (UK)          | x86          | Reader DC 2023.001.20143 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_en_US.exe   |
+| 23.001.20143 | French                | x86          | Reader DC 2023.001.20143 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_fr_FR.exe   |
+| 23.001.20143 | German                | x86          | Reader DC 2023.001.20143 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_de_DE.exe   |
+| 23.001.20143 | Japanese              | x86          | Reader DC 2023.001.20143 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_ja_JP.exe   |
+| 23.001.20143 | MUI                   | x86          | Reader DC 2023.001.20143 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_MUI.exe     |
+| 23.001.20143 | Spanish               | x86          | Reader DC 2023.001.20143 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120143/AcroRdrDC2300120143_es_ES.exe   |
 | 23.001.20064 | Basque                | x86          | Reader DC 2023.001.20064 Basque for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_eu_ES.exe   |
 | 23.001.20064 | Catalan               | x86          | Reader DC 2023.001.20064 Catalan for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_ca_ES.exe   |
 | 23.001.20064 | Chinese (Simplified)  | x86          | Reader DC 2023.001.20064 Chinese Simp for  Windows | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_zh_CN.exe   |
@@ -98,16 +105,10 @@
 | 23.001.20064 | Czech                 | x86          | Reader DC 2023.001.20064 Czech for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_cs_CZ.exe   |
 | 23.001.20064 | Danish                | x86          | Reader DC 2023.001.20064 Danish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_da_DK.exe   |
 | 23.001.20064 | Dutch                 | x86          | Reader DC 2023.001.20064 Dutch for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_nl_NL.exe   |
-| 23.001.20064 | English               | x86          | Reader DC 2023.001.20064 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_en_US.exe   |
-| 23.001.20064 | English (UK)          | x86          | Reader DC 2023.001.20064 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_en_US.exe   |
 | 23.001.20064 | Finnish               | x86          | Reader DC 2023.001.20064 Finnish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_fi_FI.exe   |
-| 23.001.20064 | French                | x86          | Reader DC 2023.001.20064 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_fr_FR.exe   |
-| 23.001.20064 | German                | x86          | Reader DC 2023.001.20064 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_de_DE.exe   |
 | 23.001.20064 | Hungarian             | x86          | Reader DC 2023.001.20064 Hungarian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_hu_HU.exe   |
 | 23.001.20064 | Italian               | x86          | Reader DC 2023.001.20064 Italian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_it_IT.exe   |
-| 23.001.20064 | Japanese              | x86          | Reader DC 2023.001.20064 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_ja_JP.exe   |
 | 23.001.20064 | Korean                | x86          | Reader DC 2023.001.20064 Korean for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_ko_KR.exe   |
-| 23.001.20064 | MUI                   | x86          | Reader DC 2023.001.20064 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_MUI.exe     |
 | 23.001.20064 | Norwegian             | x86          | Reader DC 2023.001.20064 Norwegian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_nb_NO.exe   |
 | 23.001.20064 | Polish                | x86          | Reader DC 2023.001.20064 Polish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_pl_PL.exe   |
 | 23.001.20064 | Portuguese            | x86          | Reader DC 2023.001.20064 Portuguese for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_pt_BR.exe   |
@@ -115,7 +116,6 @@
 | 23.001.20064 | Russian               | x86          | Reader DC 2023.001.20064 Russian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_ru_RU.exe   |
 | 23.001.20064 | Slovakian             | x86          | Reader DC 2023.001.20064 Slovakian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_sk_SK.exe   |
 | 23.001.20064 | Slovenian             | x86          | Reader DC 2023.001.20064 Slovenian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_sl_SI.exe   |
-| 23.001.20064 | Spanish               | x86          | Reader DC 2023.001.20064 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_es_ES.exe   |
 | 23.001.20064 | Swedish               | x86          | Reader DC 2023.001.20064 Swedish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_sv_SE.exe   |
 | 23.001.20064 | Turkish               | x86          | Reader DC 2023.001.20064 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_tr_TR.exe   |
 | 23.001.20064 | Ukrainian             | x86          | Reader DC 2023.001.20064 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_uk_UA.exe   |
@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -419,8 +419,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
-| 3.8.9   | Windows  | x86          | exe  | 01/17/2023 | 66436040 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.8.9/Beekeeper-Studio-3.8.9-portable.exe |
-| 3.8.9   | Windows  | x86          | exe  | 01/17/2023 | 66598952 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.8.9/Beekeeper-Studio-Setup-3.8.9.exe    |
+| 3.9.5   | Windows  | x86          | exe  | 04/10/2023 | 70319696 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.5/Beekeeper-Studio-3.9.5-portable.exe |
+| 3.9.5   | Windows  | x86          | exe  | 04/10/2023 | 70482600 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.5/Beekeeper-Studio-Setup-3.9.5.exe    |
 
 ## BISF
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                   |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1569,8 +1569,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.44.0  | win32-x64      | Insider | 343fbbbc32172fc12f8f32124fffa436683c368c76f43d3409fe3ab444a6da84 | https://sqlopsbuilds.azureedge.net/insider/6a2ec12a3537725aaea52716c734114504760118/azuredatastudio-windows-setup-1.44.0-insider.exe      |
-| 1.44.0  | win32-x64-user | Insider | b93072a0a26fb7c04645747ad2638a98ee6f667f40c91becb409e99f0ff8bdb7 | https://sqlopsbuilds.azureedge.net/insider/6a2ec12a3537725aaea52716c734114504760118/azuredatastudio-windows-user-setup-1.44.0-insider.exe |
+| 1.44.0  | win32-x64      | Insider | be03a2435001616c74258b2681a708b4a696d5e6a5bda4c8da07e3ab69bbd9ab | https://sqlopsbuilds.azureedge.net/insider/4d3d74e3dad12d9c94655fc6aee7b9d4c31a8bbf/azuredatastudio-windows-setup-1.44.0-insider.exe      |
+| 1.44.0  | win32-x64-user | Insider | 7cc4f79f746a699cea1309429e5768589b725164358e74565907f8dfaa025b53 | https://sqlopsbuilds.azureedge.net/insider/4d3d74e3dad12d9c94655fc6aee7b9d4c31a8bbf/azuredatastudio-windows-user-setup-1.44.0-insider.exe |
 | 1.42.0  | win32-x64      | Stable  | 39b5a69c1b1598859ecea46627adfd69693820fdd3de75084bf18dbcfccd8b2b | https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-setup-1.42.0.exe               |
 | 1.42.0  | win32-x64-user | Stable  | f426ff9f3616904cb0f62c88a20e28e9cf02c43c3e9f9843cbb566a1048cb97d | https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-user-setup-1.42.0.exe          |
 
@@ -1847,12 +1847,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.78.0  | win32            | Insider | x86          | 1100800a6200c5dda64af321b73416720961752ac6481e3ad372a936aadde2b8 | https://az764295.vo.msecnd.net/insider/7f03ec6f7a48791d8027761b22773b454fc52478/VSCodeSetup-ia32-1.78.0-insider.exe      |
-| 1.78.0  | win32-arm64      | Insider | ARM64        | 6a6dd4c6a9ca91e4aed3347c8cc0cdbdc70fd1dd17c16da802de019b8abbfafd | https://az764295.vo.msecnd.net/insider/7f03ec6f7a48791d8027761b22773b454fc52478/VSCodeSetup-arm64-1.78.0-insider.exe     |
-| 1.78.0  | win32-arm64-user | Insider | ARM64        | d6863d59498c244115c27d1714e70aa493fcfbea463c518e563e28d5eeb24d7c | https://az764295.vo.msecnd.net/insider/7f03ec6f7a48791d8027761b22773b454fc52478/VSCodeUserSetup-arm64-1.78.0-insider.exe |
-| 1.78.0  | win32-user       | Insider | x86          | c853f1e24a28b029fa3bc11ec0b63783f4ae6b9e8ad1b02e85d150bbc8e38ef0 | https://az764295.vo.msecnd.net/insider/7f03ec6f7a48791d8027761b22773b454fc52478/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
-| 1.78.0  | win32-x64        | Insider | x64          | d12d4385be766fa928bf0e7e07b035cf63b3ba45422c062167033dd793af898d | https://az764295.vo.msecnd.net/insider/7f03ec6f7a48791d8027761b22773b454fc52478/VSCodeSetup-x64-1.78.0-insider.exe       |
-| 1.78.0  | win32-x64-user   | Insider | x64          | f647a898d39edb186b8e768c6e4d5ea8a9c886fc4da68330d09c80d24c1e654b | https://az764295.vo.msecnd.net/insider/7f03ec6f7a48791d8027761b22773b454fc52478/VSCodeUserSetup-x64-1.78.0-insider.exe   |
+| 1.78.0  | win32            | Insider | x86          | 2323cd63922d4c3b97bd0b6dc912950e1c13860b7bf1cf553d7490138834f2d1 | https://az764295.vo.msecnd.net/insider/761de52b5e297a8ea461dd501c897cc74c407733/VSCodeSetup-ia32-1.78.0-insider.exe      |
+| 1.78.0  | win32-arm64      | Insider | ARM64        | 5bb7a33181f8eddc88c89e0d24182318c8d70615a04b978b1d448bca7b541810 | https://az764295.vo.msecnd.net/insider/761de52b5e297a8ea461dd501c897cc74c407733/VSCodeSetup-arm64-1.78.0-insider.exe     |
+| 1.78.0  | win32-arm64-user | Insider | ARM64        | 08700d88fc8e09b679c33f7161109dc11ee3053e67a0e28288539f83a065e008 | https://az764295.vo.msecnd.net/insider/761de52b5e297a8ea461dd501c897cc74c407733/VSCodeUserSetup-arm64-1.78.0-insider.exe |
+| 1.78.0  | win32-user       | Insider | x86          | 17c96613e3b795c6278fddef41ee2d8d17e88a3777268bd7fe21321e843996da | https://az764295.vo.msecnd.net/insider/761de52b5e297a8ea461dd501c897cc74c407733/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
+| 1.78.0  | win32-x64        | Insider | x64          | d6e187c9dec72eef3582bb3c53cb3a6e951c667609de87fafa7fd2d66c1fd7fa | https://az764295.vo.msecnd.net/insider/761de52b5e297a8ea461dd501c897cc74c407733/VSCodeSetup-x64-1.78.0-insider.exe       |
+| 1.78.0  | win32-x64-user   | Insider | x64          | 6375d167fbedf4c9ec48c1d8ce5ef409145c35f3ef50cb16f287cd9d9557d84a | https://az764295.vo.msecnd.net/insider/761de52b5e297a8ea461dd501c897cc74c407733/VSCodeUserSetup-x64-1.78.0-insider.exe   |
 | 1.77.1  | win32            | Stable  | x86          | 12b327000d58c5026a81cb947d8dbc175460351cdfc5cdbeba2163d6ee06cbd1 | https://az764295.vo.msecnd.net/stable/b7886d7461186a5eac768481578c1d7ca80e2d21/VSCodeSetup-ia32-1.77.1.exe               |
 | 1.77.1  | win32-arm64      | Stable  | ARM64        | 5e0dc73db9529c598a7b013212a9a2756f828a3d9d77e612a68a15f5364d7f0e | https://az764295.vo.msecnd.net/stable/b7886d7461186a5eac768481578c1d7ca80e2d21/VSCodeSetup-arm64-1.77.1.exe              |
 | 1.77.1  | win32-arm64-user | Stable  | ARM64        | d132dd35d693362aeba16ac9dd9fbb9aab9c6c3e9fb749edd6ab62b263250451 | https://az764295.vo.msecnd.net/stable/b7886d7461186a5eac768481578c1d7ca80e2d21/VSCodeUserSetup-arm64-1.77.1.exe          |
@@ -4973,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe       |
-| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi       |
-| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip       |
-| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                             |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe       |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi       |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.netcologne.de/videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip       |
 
 ## VisualCppRedistAIO
 
