@@ -1,0 +1,9 @@
+json/AdobeAcrobatDC.json
+json/AdobeAcrobatProStdDC.json
+json/AdobeAcrobatReaderDC.json
+json/AirtameApp.json
+json/BeekeeperStudio.json
+json/Gimp.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/VideoLanVlcPlayer.json
