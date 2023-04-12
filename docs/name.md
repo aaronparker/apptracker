@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -419,8 +419,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
-| 3.9.6   | Windows  | x86          | exe  | 04/11/2023 | 70316304 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.6/Beekeeper-Studio-3.9.6-portable.exe |
-| 3.9.6   | Windows  | x86          | exe  | 04/11/2023 | 70479208 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.6/Beekeeper-Studio-Setup-3.9.6.exe    |
+| 3.9.8   | Windows  | x86          | exe  | 04/12/2023 | 70316800 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.8/Beekeeper-Studio-3.9.8-portable.exe |
+| 3.9.8   | Windows  | x86          | exe  | 04/12/2023 | 70479704 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.8/Beekeeper-Studio-Setup-3.9.8.exe    |
 
 ## BISF
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                          |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1847,12 +1847,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.78.0  | win32            | Insider | x86          | ad402b77f8e48b33c91e0dbd60c1738f656b16bc2d85a5e19d8e088d34f53b71 | https://az764295.vo.msecnd.net/insider/079272e4a37ceecd22dcebc3566bb46c8580a13c/VSCodeSetup-ia32-1.78.0-insider.exe      |
-| 1.78.0  | win32-arm64      | Insider | ARM64        | 005c58d730787bbf430c6472c02ce34f002edcf21f30d36046c46a9ffebcbed9 | https://az764295.vo.msecnd.net/insider/079272e4a37ceecd22dcebc3566bb46c8580a13c/VSCodeSetup-arm64-1.78.0-insider.exe     |
-| 1.78.0  | win32-arm64-user | Insider | ARM64        | 23320a115dd49b9760934e5de56cc79eb16905eca7644bbbd2fe043241f32f34 | https://az764295.vo.msecnd.net/insider/079272e4a37ceecd22dcebc3566bb46c8580a13c/VSCodeUserSetup-arm64-1.78.0-insider.exe |
-| 1.78.0  | win32-user       | Insider | x86          | 667a79552bd542a95396f9e1650e77a076ed350c1da3aec3aee140694633ad91 | https://az764295.vo.msecnd.net/insider/079272e4a37ceecd22dcebc3566bb46c8580a13c/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
-| 1.78.0  | win32-x64        | Insider | x64          | a3556d84c8e5a78f3e194dd94acc53bcb8464509a400cb595c52af2c225f523a | https://az764295.vo.msecnd.net/insider/079272e4a37ceecd22dcebc3566bb46c8580a13c/VSCodeSetup-x64-1.78.0-insider.exe       |
-| 1.78.0  | win32-x64-user   | Insider | x64          | 15fe0f3a39c20c21dab554ab4983bedaad28562a63df12094efc6c3c8db2eb81 | https://az764295.vo.msecnd.net/insider/079272e4a37ceecd22dcebc3566bb46c8580a13c/VSCodeUserSetup-x64-1.78.0-insider.exe   |
+| 1.78.0  | win32            | Insider | x86          | 1778e1c17fb87849f8aa7e910084b8173e8caba852b2d50088d070f17226dba1 | https://az764295.vo.msecnd.net/insider/e5512217bcfb2b644fe7ad6c465fe0b45d23265b/VSCodeSetup-ia32-1.78.0-insider.exe      |
+| 1.78.0  | win32-arm64      | Insider | ARM64        | 8fe4bf7894e075b5cf54c20478217bebfab3a8a1984cb9991ce034ac2fbb6dbb | https://az764295.vo.msecnd.net/insider/e5512217bcfb2b644fe7ad6c465fe0b45d23265b/VSCodeSetup-arm64-1.78.0-insider.exe     |
+| 1.78.0  | win32-arm64-user | Insider | ARM64        | 9c4d2411b79bb1142c0d989334fd4b19940f28f1f2e3ebac7c5fcc9c9adba4d4 | https://az764295.vo.msecnd.net/insider/e5512217bcfb2b644fe7ad6c465fe0b45d23265b/VSCodeUserSetup-arm64-1.78.0-insider.exe |
+| 1.78.0  | win32-user       | Insider | x86          | 03bb32c60df29a62eeeb2f0ba46a13a6835756072f11ebf38e3cae5e430bfd35 | https://az764295.vo.msecnd.net/insider/e5512217bcfb2b644fe7ad6c465fe0b45d23265b/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
+| 1.78.0  | win32-x64        | Insider | x64          | 011f785fbbb4543db0c4ea8f81c1c9ef6d96976b722844f8643af75df82b43b3 | https://az764295.vo.msecnd.net/insider/e5512217bcfb2b644fe7ad6c465fe0b45d23265b/VSCodeSetup-x64-1.78.0-insider.exe       |
+| 1.78.0  | win32-x64-user   | Insider | x64          | 771e4245d2f4dae7f8db46dd958ad4fbf8f333499db6836b66f3a034efaaab80 | https://az764295.vo.msecnd.net/insider/e5512217bcfb2b644fe7ad6c465fe0b45d23265b/VSCodeUserSetup-x64-1.78.0-insider.exe   |
 | 1.77.2  | win32            | Stable  | x86          | a0ddfd672bce71100c5ef482349c38b3c6b92202803acc4fb55ad70957f65233 | https://az764295.vo.msecnd.net/stable/e344f1f539a80912a0e9357cec841f36ce97a4e2/VSCodeSetup-ia32-1.77.2.exe               |
 | 1.77.2  | win32-arm64      | Stable  | ARM64        | c85b060758fc5139fd76d46f0e77b5c07b4673ecf03c81585c8816a0e4b3fe6f | https://az764295.vo.msecnd.net/stable/e344f1f539a80912a0e9357cec841f36ce97a4e2/VSCodeSetup-arm64-1.77.2.exe              |
 | 1.77.2  | win32-arm64-user | Stable  | ARM64        | 14d5310a73ca771c3d2b3ad65375bc0c0f49b0504fe5c16a70e07c68faf46905 | https://az764295.vo.msecnd.net/stable/e344f1f539a80912a0e9357cec841f36ce97a4e2/VSCodeUserSetup-arm64-1.77.2.exe          |
@@ -4976,11 +4976,11 @@
 | Version | Platform | Architecture | Type | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
 | 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe            |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
 | 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi            |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
 | 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip            |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5152,8 +5152,8 @@
 | 5.14.2.2710  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.2.2710/zoomrooms-5.14.2.2710-x86.msi     |
 | 5.14.0.849   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.0.849/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
