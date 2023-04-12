@@ -1,0 +1,12 @@
+json/1Password.json
+json/Gimp.json
+json/Microsoft.NET.json
+json/Microsoft365Apps.json
+json/MicrosoftBicep.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudio.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/OctopusDeployServer.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
