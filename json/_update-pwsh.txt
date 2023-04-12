@@ -1,7 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/GeekSoftwarePDF24Creator.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/OperaBrowser.json
-json/VideoLanVlcPlayer.json
