@@ -1,0 +1,5 @@
+json/Gimp.json
+json/MicrosoftVisualStudioCode.json
+json/OpenLens.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
