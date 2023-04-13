@@ -14,17 +14,17 @@
     "URI": "https://sqlopsbuilds.azureedge.net/insider/4d3d74e3dad12d9c94655fc6aee7b9d4c31a8bbf/azuredatastudio-windows-user-setup-1.44.0-insider.exe"
   },
   {
-    "Version": "1.42.0",
+    "Version": "1.43.0",
     "Platform": "win32-x64",
     "Channel": "Stable",
-    "Sha256": "39b5a69c1b1598859ecea46627adfd69693820fdd3de75084bf18dbcfccd8b2b",
-    "URI": "https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-setup-1.42.0.exe"
+    "Sha256": "f66053f1f2ed5e337562fb4c934d8867bb6136039ed0100d9baa1fdaac990516",
+    "URI": "https://sqlopsbuilds.azureedge.net/stable/b790d700898b1095d83e62f0de14678a58222520/azuredatastudio-windows-setup-1.43.0.exe"
   },
   {
-    "Version": "1.42.0",
+    "Version": "1.43.0",
     "Platform": "win32-x64-user",
     "Channel": "Stable",
-    "Sha256": "f426ff9f3616904cb0f62c88a20e28e9cf02c43c3e9f9843cbb566a1048cb97d",
-    "URI": "https://sqlopsbuilds.azureedge.net/stable/22f384e569bc90d8b3231cc8c8cff99ea16c5052/azuredatastudio-windows-user-setup-1.42.0.exe"
+    "Sha256": "b1c699599a6ae1760336927ba70a7a282e0210de66eacbac79580a7b367efc8d",
+    "URI": "https://sqlopsbuilds.azureedge.net/stable/b790d700898b1095d83e62f0de14678a58222520/azuredatastudio-windows-user-setup-1.43.0.exe"
   }
 ]

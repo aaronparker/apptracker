@@ -1,0 +1,16 @@
+json/1Password.json
+json/AWSCLI.json
+json/AirtameApp.json
+json/Cyberduck.json
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpTerraform.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerToys.json
+json/MicrosoftVisualStudioCode.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
+json/Wireshark.json

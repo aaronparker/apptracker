@@ -1,26 +1,26 @@
 [
   {
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.4.exe"
+    "URI": "https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.5.exe"
   },
   {
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.4.msi"
+    "URI": "https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.5.msi"
   },
   {
-    "Version": "3.6.12",
+    "Version": "3.6.13",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.12.exe"
+    "URI": "https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.13.exe"
   },
   {
-    "Version": "3.6.12",
+    "Version": "3.6.13",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.12.msi"
+    "URI": "https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.13.msi"
   }
 ]
