@@ -213,11 +213,11 @@ jobs:
                       Write-Host "`nChecking: $file"
                       if ($file -match "json$") {
                           Write-Host "Update with: ${{ github.workspace }}/$file."
-                          $file = Get-Item -Path "${{ github.workspace }}/$file" -ErrorAction "SilentlyContinue"
-                          if ($null -ne $file) {
+                          try {
+                              $file = Get-Item -Path "${{ github.workspace }}/$file" -ErrorAction "SilentlyContinue"
                               wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
                           }
-                          else {
+                          catch {
                               Write-Warning -Message "Input from $file is not a valid."
                           }
                       }
@@ -237,7 +237,7 @@ jobs:
         uses: potatoqualitee/psmodulecache@v5.2
         with:
           modules-to-cache: Evergreen
-          force: true
+          updatable: true
           shell: pwsh
 
       - name: List Evergreen
