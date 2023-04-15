@@ -19,27 +19,13 @@ jobs:
         with:
           ref: main
 
-      # - name: Install and cache PowerShell modules
-      #   id: psmodulecache
-      #   uses: potatoqualitee/psmodulecache@v4.5
-      #   with:
-      #     modules-to-cache: Evergreen, DnsClient-PS
-      #     force: true
-      #     shell: pwsh
-
-      # - name: List Evergreen
-      #   id: list-module
-      #   shell: pwsh
-      #   run: |
-      #     Update-Module -Name "Evergreen" -Force
-      #     $Version = (Get-Module -Name "Evergreen" -ListAvailable | Select-Object -First 1).Version.ToString()
-      #     #echo "::set-output name=version::$Version"
-      #     Write-Host "Evergreen version: $Version"
-
-      - name: Install modules
-        shell: pwsh
-        run: |
-          Install-Module -Name "Evergreen", "DnsClient-PS" -Force
+      - name: Install and cache PowerShell modules
+        id: psmodulecache
+        uses: potatoqualitee/psmodulecache@v5.2
+        with:
+          modules-to-cache: Evergreen
+          updatable: true
+          shell: pwsh
 
       # Import GPG key
       - name: Import GPG key
