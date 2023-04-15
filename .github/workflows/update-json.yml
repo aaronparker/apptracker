@@ -233,7 +233,7 @@ jobs:
           Remove-Item -Path $Files -Force -ErrorAction "SilentlyContinue"
 
       - name: Install modules
-        shell: powershell
+        shell: pwsh
         run: |
           Install-Module -Name "Evergreen" -Force
 

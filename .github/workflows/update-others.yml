@@ -20,7 +20,7 @@ jobs:
           ref: main
 
       - name: Install modules
-        shell: powershell
+        shell: pwsh
         run: |
           Install-Module -Name "Evergreen" -Force
 
