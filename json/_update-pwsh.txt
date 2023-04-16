@@ -10,3 +10,4 @@ json/AirtameApp.json
 json/MicrosoftEdge.json
 json/MicrosoftEdgeDriver.json
 json/MicrosoftEdgeWebView2Runtime.json
+json/TeXstudio.json

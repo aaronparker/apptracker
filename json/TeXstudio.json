@@ -1,9 +1,9 @@
 {
-  "Version": "4.5.1",
+  "Version": "4.5.2",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
-  "Date": "02/04/2023",
-  "Size": 142852335,
-  "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.5.1/texstudio-4.5.1-win-qt6.exe"
+  "Date": "04/15/2023",
+  "Size": 141122669,
+  "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.5.2/texstudio-4.5.2-win-qt6.exe"
 }
