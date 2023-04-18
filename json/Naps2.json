@@ -1,20 +1,20 @@
 [
   {
-    "Version": "6.1.1",
+    "Version": "6.1.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "06/17/2019",
-    "Size": 2373820,
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v6.1.1/naps2-6.1.1-setup.exe"
+    "Date": "07/27/2019",
+    "Size": 2376439,
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v6.1.2/naps2-6.1.2-setup.exe"
   },
   {
-    "Version": "6.1.1",
+    "Version": "6.1.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "06/17/2019",
-    "Size": 2646016,
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v6.1.1/naps2-6.1.1-setup.msi"
+    "Date": "07/27/2019",
+    "Size": 2650112,
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v6.1.2/naps2-6.1.2-setup.msi"
   }
 ]
