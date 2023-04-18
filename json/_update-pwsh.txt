@@ -1,9 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/OperaBrowser.json
-json/OperaCryptoBrowser.json
-json/OracleJava8.json
-json/OracleVirtualBox.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
