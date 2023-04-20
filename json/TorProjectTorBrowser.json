@@ -1,16 +1,16 @@
 [
   {
-    "Version": "12.0.4",
+    "Version": "12.0.5",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ALL",
-    "URI": "https://dist.torproject.org/torbrowser/12.0.4/torbrowser-install-win64-12.0.4_ALL.exe"
+    "URI": "https://dist.torproject.org/torbrowser/12.0.5/torbrowser-install-win64-12.0.5_ALL.exe"
   },
   {
-    "Version": "12.0.4",
+    "Version": "12.0.5",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ALL",
-    "URI": "https://dist.torproject.org/torbrowser/12.0.4/torbrowser-install-12.0.4_ALL.exe"
+    "URI": "https://dist.torproject.org/torbrowser/12.0.5/torbrowser-install-12.0.5_ALL.exe"
   }
 ]

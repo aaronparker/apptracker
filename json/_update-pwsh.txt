@@ -10,3 +10,6 @@ json/ProgressChefInfraClient.json
 json/VideoLanVlcPlayer.json
 json/YubicoAuthenticator.json
 json/Zotero.json
+json/GoogleChrome.json
+json/SignalDesktop.json
+json/TorProjectTorBrowser.json
