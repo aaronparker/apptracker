@@ -1,0 +1,10 @@
+json/1Password.json
+json/AdoptiumTemurin11.json
+json/AirtameApp.json
+json/Gimp.json
+json/OperaBrowser.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/XnSoftXnViewMP.json
+json/Zoom.json
+json/ZorgmailVeiligVerzendenAddin.json
