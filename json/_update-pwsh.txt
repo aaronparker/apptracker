@@ -1,8 +1,0 @@
-json/1Password.json
-json/AWSCLI.json
-json/AdoptiumTemurin17.json
-json/Gimp.json
-json/MicrosoftVisualStudioCode.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
