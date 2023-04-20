@@ -419,8 +419,8 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
-| 3.9.8   | Windows  | x86          | exe  | 04/12/2023 | 70316800 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.8/Beekeeper-Studio-3.9.8-portable.exe |
-| 3.9.8   | Windows  | x86          | exe  | 04/12/2023 | 70479704 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.8/Beekeeper-Studio-Setup-3.9.8.exe    |
+| 3.9.9   | Windows  | x86          | exe  | 04/19/2023 | 70314744 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-3.9.9-portable.exe |
+| 3.9.9   | Windows  | x86          | exe  | 04/19/2023 | 70477640 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-Setup-3.9.9.exe    |
 
 ## BISF
 
@@ -1018,20 +1018,20 @@
 
 | Version      | Date       | Language           | URI                                                                                                             |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
-| 12.1.1.15289 | 02/21/2023 | Danish             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Dutch              | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | English            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_enu_Setup_Website.msi  |
-| 12.1.1.15289 | 02/21/2023 | Finnish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | French             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | German             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Italian            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Multi-Language     | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Norwegian          | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Polish             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Russian            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Spanish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
-| 12.1.1.15289 | 02/21/2023 | Swedish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.1/FoxitPDFEditor1211_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Danish             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Dutch              | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | English            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_enu_Setup_Website.msi  |
+| 12.1.2.15332 | 04/19/2023 | Finnish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | French             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | German             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Italian            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Multi-Language     | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Norwegian          | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Polish             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Russian            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Spanish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
+| 12.1.2.15332 | 04/19/2023 | Swedish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.2/FoxitPDFEditor1212_L10N_Setup_Website.msi |
 
 ## FoxitReader
 
@@ -1039,19 +1039,19 @@
 
 | Version      | Date       | Language           | URI                                                                                                 |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------- |
-| 12.1.1.15289 | 02/21/2023 | Danish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Dutch              | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | English            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_enu_Setup.msi  |
-| 12.1.1.15289 | 02/21/2023 | Finnish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | French             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | German             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Italian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Norwegian          | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Polish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Russian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Spanish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
-| 12.1.1.15289 | 02/21/2023 | Swedish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.1/FoxitPDFReader1211_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Danish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Dutch              | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | English            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_enu_Setup.msi  |
+| 12.1.2.15332 | 04/19/2023 | Finnish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | French             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | German             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Italian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Norwegian          | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Polish             | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Russian            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Spanish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
+| 12.1.2.15332 | 04/19/2023 | Swedish            | https://cdn01.foxitsoftware.com/product/reader/desktop/win/12.1.2/FoxitPDFReader1212_L10N_Setup.msi |
 
 ## FreedomScientificFusion
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                          |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1189,8 +1189,8 @@
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
 | 114.0.5714.0   | x64          | dev     | 04/17/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 114.0.5714.0   | x86          | dev     | 04/17/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 113.0.5672.35  | x64          | beta    | 04/13/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 113.0.5672.35  | x86          | beta    | 04/13/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 113.0.5672.53  | x64          | beta    | 04/19/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 113.0.5672.53  | x86          | beta    | 04/19/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 112.0.5615.138 | x64          | stable  | 04/18/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 112.0.5615.138 | x86          | stable  | 04/18/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
@@ -1696,18 +1696,20 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.082.0417.0001 | AMD64        | InternalFast | gylRGbJgzPeT8sWz/UdU2+aVTvQP2RuEQagfnNEjDUQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.082.0417.0001/amd64/OneDriveSetup.exe |
-| 23.082.0417.0001 | x86          | InternalFast | 23spwR4B/ynxzmrig9R1BCAUEOm1UFUb8r5tfLzJcto= | exe  | https://oneclient.sfx.ms/Win/Installers/23.082.0417.0001/OneDriveSetup.exe       |
+| 23.083.0418.0001 | AMD64        | InternalFast | pptIny9K4Bch29H+qbS+/ohWQp4XHCUwy1JtjLidNsg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.083.0418.0001/amd64/OneDriveSetup.exe |
+| 23.083.0418.0001 | x86          | InternalFast | xbjNHpHyUpMXmBF13xHrBgOtdhcXyoeCZNbeoUeU0Ro= | exe  | https://oneclient.sfx.ms/Win/Installers/23.083.0418.0001/OneDriveSetup.exe       |
+| 23.081.0416.0001 | AMD64        | Insider      | O+pQFchPXDIFX6U/EKDyvoWA73tZW00IGUyIjaar9a0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.081.0416.0001/amd64/OneDriveSetup.exe |
 | 23.081.0416.0001 | AMD64        | InternalSlow | O+pQFchPXDIFX6U/EKDyvoWA73tZW00IGUyIjaar9a0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.081.0416.0001/amd64/OneDriveSetup.exe |
+| 23.081.0416.0001 | x86          | Insider      | cwQS7S6EUj7OEbA/SvpjQIfpwS/Qb4Z+Crc1pfpR0MI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.081.0416.0001/OneDriveSetup.exe       |
 | 23.081.0416.0001 | x86          | InternalSlow | cwQS7S6EUj7OEbA/SvpjQIfpwS/Qb4Z+Crc1pfpR0MI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.081.0416.0001/OneDriveSetup.exe       |
 | 23.078.0411.0001 | AMD64        | Insider      | QjabTHmiMocQ7AE5sMcT93k6wBtppOw/yBB2m1mcVBM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/amd64/OneDriveSetup.exe |
+| 23.078.0411.0001 | AMD64        | Production   | QjabTHmiMocQ7AE5sMcT93k6wBtppOw/yBB2m1mcVBM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/amd64/OneDriveSetup.exe |
 | 23.078.0411.0001 | x86          | Insider      | 1Y6HyLV2Q6aZpI0PFW5xCsMBrCL5nu3su/eOLphJDmA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/OneDriveSetup.exe       |
+| 23.078.0411.0001 | x86          | Production   | 1Y6HyLV2Q6aZpI0PFW5xCsMBrCL5nu3su/eOLphJDmA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/OneDriveSetup.exe       |
 | 23.076.0409.0001 | AMD64        | Production   | CHS/yYGbPK26P/a2wNIQPoZEhItBKMNUNouyULV9vrk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.076.0409.0001/amd64/OneDriveSetup.exe |
 | 23.076.0409.0001 | x86          | Production   | pI4RBFwZW4TkqIIQ+G4WjhExyLQtEiwyDhCx/+wQfZ0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.076.0409.0001/OneDriveSetup.exe       |
 | 23.071.0402.0001 | AMD64        | Production   | 1G+8wt3QwG4It2pq2NmuScwxPg1SW6ZAWtDO15ag/rs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.071.0402.0001/amd64/OneDriveSetup.exe |
 | 23.071.0402.0001 | x86          | Production   | K7FVmAqAOktQwnYlLQG7AsPHVPyEgE1EUXei+eS8NZ4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.071.0402.0001/OneDriveSetup.exe       |
-| 23.066.0326.0005 | AMD64        | Production   | sqkOPS3BW3cNySGYZjOECeffjCClSh/46Je1hl2pNMA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/amd64/OneDriveSetup.exe |
-| 23.066.0326.0005 | x86          | Production   | 42MN9YeXj2QSCSOMFM66PExN5CwOPqJiyt6IK9TJtNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.066.0326.0005/OneDriveSetup.exe       |
 | 23.002.0102.0006 | AMD64        | Enterprise   | 9XKXy7MyNP2WmvLEXDqHXvxI1cTww4HwGA6sjbLWiz4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.002.0102.0006/amd64/OneDriveSetup.exe |
 | 23.002.0102.0006 | x86          | Enterprise   | W+KlzY9HZE7ltNwOmnGZT28FtTZ5SZ1av4SCtsJc/WE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.002.0102.0006/OneDriveSetup.exe       |
 
@@ -1845,12 +1847,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.78.0  | win32            | Insider | x86          | eec961e8d3adc5c1d02ac7a008ee7f7d943064c31d653146019c90876a2421ce | https://az764295.vo.msecnd.net/insider/95396f14dbae4d5def754d8635010f8e5743f56c/VSCodeSetup-ia32-1.78.0-insider.exe      |
-| 1.78.0  | win32-arm64      | Insider | ARM64        | 3acabb255941c03e6df7dcd7e3be1c6fab56873c815a5345da2ddcdddc720581 | https://az764295.vo.msecnd.net/insider/95396f14dbae4d5def754d8635010f8e5743f56c/VSCodeSetup-arm64-1.78.0-insider.exe     |
-| 1.78.0  | win32-arm64-user | Insider | ARM64        | 184471a17beb7711003cefcdd862af210cdddafdb673fe2074d7b7177630e5e7 | https://az764295.vo.msecnd.net/insider/95396f14dbae4d5def754d8635010f8e5743f56c/VSCodeUserSetup-arm64-1.78.0-insider.exe |
-| 1.78.0  | win32-user       | Insider | x86          | 6433d507a4652a1e2a583e7c7186c74c577eba4f8ba0591ffbd7243a5b82f552 | https://az764295.vo.msecnd.net/insider/95396f14dbae4d5def754d8635010f8e5743f56c/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
-| 1.78.0  | win32-x64        | Insider | x64          | 4513ba7edfd8cac4407d210d50d884faac4def92472745f3235b89784879b544 | https://az764295.vo.msecnd.net/insider/95396f14dbae4d5def754d8635010f8e5743f56c/VSCodeSetup-x64-1.78.0-insider.exe       |
-| 1.78.0  | win32-x64-user   | Insider | x64          | 682953bc38d63a695870328ad23978a768d924ed3179082997b0a598f41597bf | https://az764295.vo.msecnd.net/insider/95396f14dbae4d5def754d8635010f8e5743f56c/VSCodeUserSetup-x64-1.78.0-insider.exe   |
+| 1.78.0  | win32            | Insider | x86          | 0cfde887485e2b8b772e42147d853b83fd16454bb0e79c45590ccef443cd8c07 | https://az764295.vo.msecnd.net/insider/545d981034e010e2e31396faf224996c31eceab1/VSCodeSetup-ia32-1.78.0-insider.exe      |
+| 1.78.0  | win32-arm64      | Insider | ARM64        | c1d03c5d65f329eb7a7829cb6b563005d6d0a48dc1e15b425cb2714680440766 | https://az764295.vo.msecnd.net/insider/545d981034e010e2e31396faf224996c31eceab1/VSCodeSetup-arm64-1.78.0-insider.exe     |
+| 1.78.0  | win32-arm64-user | Insider | ARM64        | b93b37c08c821d14480c62550a488704ced201345314da8c0d91b2b1a1a40b93 | https://az764295.vo.msecnd.net/insider/545d981034e010e2e31396faf224996c31eceab1/VSCodeUserSetup-arm64-1.78.0-insider.exe |
+| 1.78.0  | win32-user       | Insider | x86          | f5c0d3c565a1a684a3f2094345afba514645899feebcdbf3aa221d41c756f6df | https://az764295.vo.msecnd.net/insider/545d981034e010e2e31396faf224996c31eceab1/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
+| 1.78.0  | win32-x64        | Insider | x64          | eaba66194eb472c6980b1e21ad1710d92a26ae84cde9913e7739a03a11f0ba78 | https://az764295.vo.msecnd.net/insider/545d981034e010e2e31396faf224996c31eceab1/VSCodeSetup-x64-1.78.0-insider.exe       |
+| 1.78.0  | win32-x64-user   | Insider | x64          | be30bc54d46aa63d3895763c1019a2b7a74b1698799b3a7c48e06e52c028113d | https://az764295.vo.msecnd.net/insider/545d981034e010e2e31396faf224996c31eceab1/VSCodeUserSetup-x64-1.78.0-insider.exe   |
 | 1.77.3  | win32            | Stable  | x86          | b9fe8a0521ffe563697a807dc1d7f988d3d9aa5a70b190e93804198204540ff4 | https://az764295.vo.msecnd.net/stable/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/VSCodeSetup-ia32-1.77.3.exe               |
 | 1.77.3  | win32-arm64      | Stable  | ARM64        | b84fe3982156b206ba10e2da39056d2a7ded3792d653e5b781ee5513902ed1ef | https://az764295.vo.msecnd.net/stable/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/VSCodeSetup-arm64-1.77.3.exe              |
 | 1.77.3  | win32-arm64-user | Stable  | ARM64        | 36e16f318abdf30be03529132d53c75373ce33064dc940abcc7884b5ca875896 | https://az764295.vo.msecnd.net/stable/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/VSCodeUserSetup-arm64-1.77.3.exe          |
@@ -4493,18 +4495,18 @@
 
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                               |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 18.2.12 | x64          | current  | 10       | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/current/chef/18.2.12/windows/10/chef-client-18.2.12-1-x64.msi      |
-| 18.2.12 | x64          | unstable | 10       | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/unstable/chef/18.2.12/windows/10/chef-client-18.2.12-1-x64.msi     |
-| 18.2.12 | x64          | current  | 11       | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/current/chef/18.2.12/windows/11/chef-client-18.2.12-1-x64.msi      |
-| 18.2.12 | x64          | unstable | 11       | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/unstable/chef/18.2.12/windows/11/chef-client-18.2.12-1-x64.msi     |
-| 18.2.12 | x64          | current  | 2012r2   | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/current/chef/18.2.12/windows/2012r2/chef-client-18.2.12-1-x64.msi  |
-| 18.2.12 | x64          | unstable | 2012r2   | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/unstable/chef/18.2.12/windows/2012r2/chef-client-18.2.12-1-x64.msi |
-| 18.2.12 | x64          | current  | 2016     | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/current/chef/18.2.12/windows/2016/chef-client-18.2.12-1-x64.msi    |
-| 18.2.12 | x64          | unstable | 2016     | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/unstable/chef/18.2.12/windows/2016/chef-client-18.2.12-1-x64.msi   |
-| 18.2.12 | x64          | current  | 2019     | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/current/chef/18.2.12/windows/2019/chef-client-18.2.12-1-x64.msi    |
-| 18.2.12 | x64          | unstable | 2019     | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/unstable/chef/18.2.12/windows/2019/chef-client-18.2.12-1-x64.msi   |
-| 18.2.12 | x64          | current  | 2022     | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/current/chef/18.2.12/windows/2022/chef-client-18.2.12-1-x64.msi    |
-| 18.2.12 | x64          | unstable | 2022     | 26022e72b0217de7ccd360c7576ae37b741015fde6445586c254a545d2d3b635 | https://packages.chef.io/files/unstable/chef/18.2.12/windows/2022/chef-client-18.2.12-1-x64.msi   |
+| 18.2.13 | x64          | current  | 10       | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/10/chef-client-18.2.13-1-x64.msi      |
+| 18.2.13 | x64          | unstable | 10       | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/unstable/chef/18.2.13/windows/10/chef-client-18.2.13-1-x64.msi     |
+| 18.2.13 | x64          | current  | 11       | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/11/chef-client-18.2.13-1-x64.msi      |
+| 18.2.13 | x64          | unstable | 11       | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/unstable/chef/18.2.13/windows/11/chef-client-18.2.13-1-x64.msi     |
+| 18.2.13 | x64          | current  | 2012r2   | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2012r2/chef-client-18.2.13-1-x64.msi  |
+| 18.2.13 | x64          | unstable | 2012r2   | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/unstable/chef/18.2.13/windows/2012r2/chef-client-18.2.13-1-x64.msi |
+| 18.2.13 | x64          | current  | 2016     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2016/chef-client-18.2.13-1-x64.msi    |
+| 18.2.13 | x64          | unstable | 2016     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/unstable/chef/18.2.13/windows/2016/chef-client-18.2.13-1-x64.msi   |
+| 18.2.13 | x64          | current  | 2019     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2019/chef-client-18.2.13-1-x64.msi    |
+| 18.2.13 | x64          | unstable | 2019     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/unstable/chef/18.2.13/windows/2019/chef-client-18.2.13-1-x64.msi   |
+| 18.2.13 | x64          | current  | 2022     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2022/chef-client-18.2.13-1-x64.msi    |
+| 18.2.13 | x64          | unstable | 2022     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/unstable/chef/18.2.13/windows/2022/chef-client-18.2.13-1-x64.msi   |
 | 18.2.7  | x64          | stable   | 10       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/10/chef-client-18.2.7-1-x64.msi         |
 | 18.2.7  | x64          | stable   | 11       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/11/chef-client-18.2.7-1-x64.msi         |
 | 18.2.7  | x64          | stable   | 2012r2   | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2012r2/chef-client-18.2.7-1-x64.msi     |
@@ -4747,7 +4749,7 @@
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
-| 6.14.0  | https://updates.signal.org/desktop/signal-desktop-win-6.14.0.exe |
+| 6.15.0  | https://updates.signal.org/desktop/signal-desktop-win-6.15.0.exe |
 
 ## Slack
 
@@ -4909,8 +4911,8 @@
 
 | Version | Architecture | Type | Language | URI                                                                                   |
 | ------- | ------------ | ---- | -------- | ------------------------------------------------------------------------------------- |
-| 12.0.4  | x64          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.0.4/torbrowser-install-win64-12.0.4_ALL.exe |
-| 12.0.4  | x86          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.0.4/torbrowser-install-12.0.4_ALL.exe       |
+| 12.0.5  | x64          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.0.5/torbrowser-install-win64-12.0.5_ALL.exe |
+| 12.0.5  | x86          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.0.5/torbrowser-install-12.0.5_ALL.exe       |
 
 ## Tower
 
@@ -4971,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe     |
-| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi     |
-| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip     |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe  |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi  |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip  |
 
 ## VisualCppRedistAIO
 
@@ -5130,7 +5132,7 @@
 
 | Version | Platform | Architecture | Type | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
-| 6.1.0   | Windows  | x64          | msi  | 01/25/2023 | 46231552 | https://github.com/Yubico/yubioath-flutter/releases/download/6.1.0/yubico-authenticator-6.1.0-win64.msi |
+| 6.2.0   | Windows  | x64          | msi  | 04/19/2023 | 47366144 | https://github.com/Yubico/yubioath-flutter/releases/download/6.2.0/yubico-authenticator-6.2.0-win64.msi |
 
 ## Zoom
 
@@ -5174,5 +5176,5 @@
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |
-| 6.0.24  | https://download.zotero.org/client/release/6.0.24/Zotero-6.0.24_setup.exe |
+| 6.0.25  | https://download.zotero.org/client/release/6.0.25/Zotero-6.0.25_setup.exe |
 
