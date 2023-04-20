@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.4  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.4.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.5  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.5.exe |
 
 ## 1Password7
 
@@ -145,9 +145,9 @@
 
 | Version        | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                    |
 | -------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| jdk-11.0.18+10 | jdk  | x64          | 71e84c14606d1478147b46c3687486af0b51886192ff3b6239e51c1af413c688 | 174874624 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18%2B10/OpenJDK11U-jdk_x64_windows_hotspot_11.0.18_10.msi    |
+| jdk-11.0.19+7  | jdk  | x64          | 8f8f136e2071591c6ea7bc58d629a5c8ad23c829bb1878200fdff0c0fe97712c | 174358528 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.19%2B7/OpenJDK11U-jdk_x64_windows_hotspot_11.0.19_7.msi      |
 | jdk-11.0.18+10 | jdk  | x86          | 4848a69f8071048fbe1b1923006d7f188522875301619c5e26911e3c5ba6182b | 156872704 | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18%2B10/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.18_10.msi |
-| jdk-11.0.18+10 | jre  | x64          | 453ab7002d939ce44e54178fe1a83b4cf3cab6649e11c7aa7ee535feb6f0d7b6 | 31899648  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.18_10.msi    |
+| jdk-11.0.19+7  | jre  | x64          | 4556ea75ccc16f762f661675bd8a22e64b52890fa2fb330729316e120791ac09 | 31363072  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.19%2B7/OpenJDK11U-jre_x64_windows_hotspot_11.0.19_7.msi      |
 | jdk-11.0.18+10 | jre  | x86          | 77d5f22d06f9c22cfe3813b90df9986cc79b701342317c991d57522f6152f111 | 27934720  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18%2B10/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.18_10.msi |
 
 ## AdoptiumTemurin16
@@ -297,9 +297,9 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.3-setup.exe    |
-| 4.5.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.3-portable.exe |
-| 4.5.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.3-setup.msi    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
+| 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -4362,14 +4362,14 @@
 
 [Link](https://www.opera.com/browsers/opera)
 
-| Version      | Channel   | Architecture | Type | URI                                                                                                     |
-| ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 99.0.4765.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/99.0.4765.0/win/Opera_Developer_99.0.4765.0_Setup_x64.exe |
-| 99.0.4765.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/99.0.4765.0/win/Opera_Developer_99.0.4765.0_Setup.exe     |
-| 98.0.4759.3  | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.3/win/Opera_beta_98.0.4759.3_Setup_x64.exe           |
-| 98.0.4759.3  | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.3/win/Opera_beta_98.0.4759.3_Setup.exe               |
-| 97.0.4719.83 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/97.0.4719.83/win/Opera_97.0.4719.83_Setup_x64.exe                   |
-| 97.0.4719.83 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/97.0.4719.83/win/Opera_97.0.4719.83_Setup.exe                       |
+| Version     | Channel   | Architecture | Type | URI                                                                                                     |
+| ----------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
+| 99.0.4765.0 | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/99.0.4765.0/win/Opera_Developer_99.0.4765.0_Setup_x64.exe |
+| 99.0.4765.0 | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/99.0.4765.0/win/Opera_Developer_99.0.4765.0_Setup.exe     |
+| 98.0.4759.6 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/98.0.4759.6/win/Opera_98.0.4759.6_Setup_x64.exe                     |
+| 98.0.4759.6 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/98.0.4759.6/win/Opera_98.0.4759.6_Setup.exe                         |
+| 98.0.4759.3 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.3/win/Opera_beta_98.0.4759.3_Setup_x64.exe           |
+| 98.0.4759.3 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.3/win/Opera_beta_98.0.4759.3_Setup.exe               |
 
 ## OperaCryptoBrowser
 
@@ -4495,18 +4495,18 @@
 
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                               |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 18.2.14 | x64          | unstable | 10       | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/unstable/chef/18.2.14/windows/10/chef-client-18.2.14-1-x64.msi     |
-| 18.2.14 | x64          | unstable | 11       | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/unstable/chef/18.2.14/windows/11/chef-client-18.2.14-1-x64.msi     |
-| 18.2.14 | x64          | unstable | 2012r2   | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2012r2/chef-client-18.2.14-1-x64.msi |
-| 18.2.14 | x64          | unstable | 2016     | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2016/chef-client-18.2.14-1-x64.msi   |
-| 18.2.14 | x64          | unstable | 2019     | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2019/chef-client-18.2.14-1-x64.msi   |
-| 18.2.14 | x64          | unstable | 2022     | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2022/chef-client-18.2.14-1-x64.msi   |
-| 18.2.13 | x64          | current  | 10       | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/10/chef-client-18.2.13-1-x64.msi      |
-| 18.2.13 | x64          | current  | 11       | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/11/chef-client-18.2.13-1-x64.msi      |
-| 18.2.13 | x64          | current  | 2012r2   | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2012r2/chef-client-18.2.13-1-x64.msi  |
-| 18.2.13 | x64          | current  | 2016     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2016/chef-client-18.2.13-1-x64.msi    |
-| 18.2.13 | x64          | current  | 2019     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2019/chef-client-18.2.13-1-x64.msi    |
-| 18.2.13 | x64          | current  | 2022     | 30d820577ef643b1b0826934363d766b8ab714fdb290a01066106d97078c3441 | https://packages.chef.io/files/current/chef/18.2.13/windows/2022/chef-client-18.2.13-1-x64.msi    |
+| 18.2.14 | x64          | current  | 10       | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/current/chef/18.2.14/windows/10/chef-client-18.2.14-1-x64.msi      |
+| 18.2.14 | x64          | unstable | 10       | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/10/chef-client-18.2.14-1-x64.msi     |
+| 18.2.14 | x64          | current  | 11       | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/current/chef/18.2.14/windows/11/chef-client-18.2.14-1-x64.msi      |
+| 18.2.14 | x64          | unstable | 11       | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/11/chef-client-18.2.14-1-x64.msi     |
+| 18.2.14 | x64          | current  | 2012r2   | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/current/chef/18.2.14/windows/2012r2/chef-client-18.2.14-1-x64.msi  |
+| 18.2.14 | x64          | unstable | 2012r2   | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2012r2/chef-client-18.2.14-1-x64.msi |
+| 18.2.14 | x64          | current  | 2016     | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/current/chef/18.2.14/windows/2016/chef-client-18.2.14-1-x64.msi    |
+| 18.2.14 | x64          | unstable | 2016     | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2016/chef-client-18.2.14-1-x64.msi   |
+| 18.2.14 | x64          | current  | 2019     | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/current/chef/18.2.14/windows/2019/chef-client-18.2.14-1-x64.msi    |
+| 18.2.14 | x64          | unstable | 2019     | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2019/chef-client-18.2.14-1-x64.msi   |
+| 18.2.14 | x64          | current  | 2022     | 31bcfb9f0751aba01cf267e98c4f71f695169b44fd9be5f5f82f2e3dddcfd99f | https://packages.chef.io/files/current/chef/18.2.14/windows/2022/chef-client-18.2.14-1-x64.msi    |
+| 18.2.14 | x64          | unstable | 2022     | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2022/chef-client-18.2.14-1-x64.msi   |
 | 18.2.7  | x64          | stable   | 10       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/10/chef-client-18.2.7-1-x64.msi         |
 | 18.2.7  | x64          | stable   | 11       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/11/chef-client-18.2.7-1-x64.msi         |
 | 18.2.7  | x64          | stable   | 2012r2   | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2012r2/chef-client-18.2.7-1-x64.msi     |
@@ -4976,11 +4976,11 @@
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
 | 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
+| 3.0.18  | Windows  | x86          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
 | 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
+| 3.0.18  | Windows  | x86          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
 | 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
+| 3.0.18  | Windows  | x86          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5123,8 +5123,8 @@
 
 | Version | Architecture | Type | URI                                              |
 | ------- | ------------ | ---- | ------------------------------------------------ |
-| 1.4.3   | x64          | exe  | https://download.xnview.com/XnViewMP-win-x64.exe |
-| 1.4.3   | x86          | exe  | https://download.xnview.com/XnViewMP-win.exe     |
+| 1.4.4   | x64          | exe  | https://download.xnview.com/XnViewMP-win-x64.exe |
+| 1.4.4   | x86          | exe  | https://download.xnview.com/XnViewMP-win.exe     |
 
 ## YubicoAuthenticator
 
@@ -5152,8 +5152,8 @@
 | 5.14.2.2710  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.14.2.2710/x64/zoomrooms-5.14.2.2710-x64.msi |
 | 5.14.2.2710  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.2.2710/zoomrooms-5.14.2.2710-x86.msi     |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
@@ -5164,11 +5164,11 @@
 
 [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)
 
-| Version  | Edition   | URI                                                                                                                       |
-| -------- | --------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2.12.1.0 | Default   | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook.zip           |
-| 2.12.1.0 | Gemeenten | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-Gemeenten.zip |
-| 2.12.1.0 | SIGRA     | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-SIGRA.zip     |
+| Version | Edition   | URI                                                                                                                       |
+| ------- | --------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2.12.2  | Default   | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook.zip           |
+| 2.12.2  | Gemeenten | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-Gemeenten.zip |
+| 2.12.2  | SIGRA     | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-SIGRA.zip     |
 
 ## Zotero
 
