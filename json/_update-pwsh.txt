@@ -1,9 +1,0 @@
-json/1Password.json
-json/Gimp.json
-json/Microsoft365Apps.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/ProgressChefInfraClient.json
-json/RCoreTeamRforWindows.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
