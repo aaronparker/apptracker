@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.5  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.5.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.5  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.5.exe |
 
 ## 1Password7
 
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1555,7 +1555,7 @@
 | Version          | Channel           | Name                                  | Date                | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.16414.20000 | BetaChannel       | Beta                                  | 04/18/2023 16:41:32 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16327.20186 | CurrentPreview    | Current Channel (Preview)             | 04/18/2023 22:35:33 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16327.20200 | CurrentPreview    | Current Channel (Preview)             | 04/20/2023 23:47:38 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16227.20280 | Current           | Current Channel                       | 04/11/2023 08:04:19 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16130.20394 | MonthlyEnterprise | Monthly Enterprise                    | 04/11/2023 08:04:40 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.16130.20394 | SemiAnnualPreview | Semi-Annual Channel Preview           | 04/11/2023 08:05:35 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
@@ -1569,8 +1569,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.44.0  | win32-x64      | Insider | b1b89606d145e41f9e3a87e2b4656eaec4cb47673cba8838c11298da4ef8d570 | https://sqlopsbuilds.azureedge.net/insider/0bdb35d9abfd0dbdfd54b071a1b6c1a0aa61a4ea/azuredatastudio-windows-setup-1.44.0-insider.exe      |
-| 1.44.0  | win32-x64-user | Insider | 36f809040259335eb1cab7f98e25eedaf85a68ad2dc99846146ed13c9f788d95 | https://sqlopsbuilds.azureedge.net/insider/0bdb35d9abfd0dbdfd54b071a1b6c1a0aa61a4ea/azuredatastudio-windows-user-setup-1.44.0-insider.exe |
+| 1.44.0  | win32-x64      | Insider | c8caac9304b97ae36c044f27a6d2e5aecba7db2bcc7c1782509b2a04b277ec8f | https://sqlopsbuilds.azureedge.net/insider/c8618d39fe2d3ebcd25fa41d9ede456c157c6315/azuredatastudio-windows-setup-1.44.0-insider.exe      |
+| 1.44.0  | win32-x64-user | Insider | 41d9ff9d792f1448e6275033d9bd63334eccc9dfb14232d53be445184b60e9cf | https://sqlopsbuilds.azureedge.net/insider/c8618d39fe2d3ebcd25fa41d9ede456c157c6315/azuredatastudio-windows-user-setup-1.44.0-insider.exe |
 | 1.43.0  | win32-x64      | Stable  | f66053f1f2ed5e337562fb4c934d8867bb6136039ed0100d9baa1fdaac990516 | https://sqlopsbuilds.azureedge.net/stable/b790d700898b1095d83e62f0de14678a58222520/azuredatastudio-windows-setup-1.43.0.exe               |
 | 1.43.0  | win32-x64-user | Stable  | b1c699599a6ae1760336927ba70a7a282e0210de66eacbac79580a7b367efc8d | https://sqlopsbuilds.azureedge.net/stable/b790d700898b1095d83e62f0de14678a58222520/azuredatastudio-windows-user-setup-1.43.0.exe          |
 
@@ -1847,12 +1847,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.78.0  | win32            | Insider | x86          | 09d6df7c92406e4ac4e36a6fc91776e80f95dfe2339100150ed9fd38ef911600 | https://az764295.vo.msecnd.net/insider/208bbb0d788cce3eb80799e3565ee2204391b86d/VSCodeSetup-ia32-1.78.0-insider.exe      |
-| 1.78.0  | win32-arm64      | Insider | ARM64        | 718e1a05f2aa7bd2cf91c5532f580ef7ab1637f9927151913aaf00042f688883 | https://az764295.vo.msecnd.net/insider/208bbb0d788cce3eb80799e3565ee2204391b86d/VSCodeSetup-arm64-1.78.0-insider.exe     |
-| 1.78.0  | win32-arm64-user | Insider | ARM64        | 4b703a88bb494acb484be41c993ee2641099cf811525f18de8948375ab2ce0db | https://az764295.vo.msecnd.net/insider/208bbb0d788cce3eb80799e3565ee2204391b86d/VSCodeUserSetup-arm64-1.78.0-insider.exe |
-| 1.78.0  | win32-user       | Insider | x86          | 05321d8fa857632534f9321225da21d8f7d726f0b191ddab9c0c9ed3d571c8ee | https://az764295.vo.msecnd.net/insider/208bbb0d788cce3eb80799e3565ee2204391b86d/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
-| 1.78.0  | win32-x64        | Insider | x64          | 642378e217e84111a3639c2c9f717da58b803df1e41f21fc25df2c0aacf5b55f | https://az764295.vo.msecnd.net/insider/208bbb0d788cce3eb80799e3565ee2204391b86d/VSCodeSetup-x64-1.78.0-insider.exe       |
-| 1.78.0  | win32-x64-user   | Insider | x64          | fd38ad5f36fad761b0d21a60a11c7fbd8e22a499764d96b615473a15c9d753ff | https://az764295.vo.msecnd.net/insider/208bbb0d788cce3eb80799e3565ee2204391b86d/VSCodeUserSetup-x64-1.78.0-insider.exe   |
+| 1.78.0  | win32            | Insider | x86          | 8217872cf2b15439652510a3fe3864b3cfd02e9aaedaca44f782801f10178e8d | https://az764295.vo.msecnd.net/insider/b19017cea80b6157aa8214c984a70022e77526f2/VSCodeSetup-ia32-1.78.0-insider.exe      |
+| 1.78.0  | win32-arm64      | Insider | ARM64        | c49c329b74354e1c3df89e0c68855e1b604791f01447d847577faea0afd1b27a | https://az764295.vo.msecnd.net/insider/b19017cea80b6157aa8214c984a70022e77526f2/VSCodeSetup-arm64-1.78.0-insider.exe     |
+| 1.78.0  | win32-arm64-user | Insider | ARM64        | b00491f563e854680dde0ca431025b51b787867e70fff10f8976b627a1e1e314 | https://az764295.vo.msecnd.net/insider/b19017cea80b6157aa8214c984a70022e77526f2/VSCodeUserSetup-arm64-1.78.0-insider.exe |
+| 1.78.0  | win32-user       | Insider | x86          | 78d9eeb16df933dd4f187ab42f1b3855466d7e061c16d667775fe42fde365e9d | https://az764295.vo.msecnd.net/insider/b19017cea80b6157aa8214c984a70022e77526f2/VSCodeUserSetup-ia32-1.78.0-insider.exe  |
+| 1.78.0  | win32-x64        | Insider | x64          | 98e7ec34d09ee3f8e136aa2158a439d727369d3936e276bc65940ca05abe3ddd | https://az764295.vo.msecnd.net/insider/b19017cea80b6157aa8214c984a70022e77526f2/VSCodeSetup-x64-1.78.0-insider.exe       |
+| 1.78.0  | win32-x64-user   | Insider | x64          | 453e8969ea6c00baf1d3f02762cb04edc9fd8838f5a2ac01b997123b48124508 | https://az764295.vo.msecnd.net/insider/b19017cea80b6157aa8214c984a70022e77526f2/VSCodeUserSetup-x64-1.78.0-insider.exe   |
 | 1.77.3  | win32            | Stable  | x86          | b9fe8a0521ffe563697a807dc1d7f988d3d9aa5a70b190e93804198204540ff4 | https://az764295.vo.msecnd.net/stable/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/VSCodeSetup-ia32-1.77.3.exe               |
 | 1.77.3  | win32-arm64      | Stable  | ARM64        | b84fe3982156b206ba10e2da39056d2a7ded3792d653e5b781ee5513902ed1ef | https://az764295.vo.msecnd.net/stable/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/VSCodeSetup-arm64-1.77.3.exe              |
 | 1.77.3  | win32-arm64-user | Stable  | ARM64        | 36e16f318abdf30be03529132d53c75373ce33064dc940abcc7884b5ca875896 | https://az764295.vo.msecnd.net/stable/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/VSCodeUserSetup-arm64-1.77.3.exe          |
@@ -4496,17 +4496,17 @@
 | Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                               |
 | ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 18.2.15 | x64          | current  | 10       | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/current/chef/18.2.15/windows/10/chef-client-18.2.15-1-x64.msi      |
-| 18.2.15 | x64          | unstable | 10       | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/unstable/chef/18.2.15/windows/10/chef-client-18.2.15-1-x64.msi     |
 | 18.2.15 | x64          | current  | 11       | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/current/chef/18.2.15/windows/11/chef-client-18.2.15-1-x64.msi      |
-| 18.2.15 | x64          | unstable | 11       | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/unstable/chef/18.2.15/windows/11/chef-client-18.2.15-1-x64.msi     |
 | 18.2.15 | x64          | current  | 2012r2   | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/current/chef/18.2.15/windows/2012r2/chef-client-18.2.15-1-x64.msi  |
-| 18.2.15 | x64          | unstable | 2012r2   | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/unstable/chef/18.2.15/windows/2012r2/chef-client-18.2.15-1-x64.msi |
 | 18.2.15 | x64          | current  | 2016     | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/current/chef/18.2.15/windows/2016/chef-client-18.2.15-1-x64.msi    |
-| 18.2.15 | x64          | unstable | 2016     | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/unstable/chef/18.2.15/windows/2016/chef-client-18.2.15-1-x64.msi   |
 | 18.2.15 | x64          | current  | 2019     | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/current/chef/18.2.15/windows/2019/chef-client-18.2.15-1-x64.msi    |
-| 18.2.15 | x64          | unstable | 2019     | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/unstable/chef/18.2.15/windows/2019/chef-client-18.2.15-1-x64.msi   |
 | 18.2.15 | x64          | current  | 2022     | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/current/chef/18.2.15/windows/2022/chef-client-18.2.15-1-x64.msi    |
-| 18.2.15 | x64          | unstable | 2022     | 2e011b249c839b881eeb74de7885aeaaf73086d0f9e7db67fec5d3478241e6cb | https://packages.chef.io/files/unstable/chef/18.2.15/windows/2022/chef-client-18.2.15-1-x64.msi   |
+| 18.2.14 | x64          | unstable | 10       | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/10/chef-client-18.2.14-1-x64.msi     |
+| 18.2.14 | x64          | unstable | 11       | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/11/chef-client-18.2.14-1-x64.msi     |
+| 18.2.14 | x64          | unstable | 2012r2   | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2012r2/chef-client-18.2.14-1-x64.msi |
+| 18.2.14 | x64          | unstable | 2016     | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2016/chef-client-18.2.14-1-x64.msi   |
+| 18.2.14 | x64          | unstable | 2019     | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2019/chef-client-18.2.14-1-x64.msi   |
+| 18.2.14 | x64          | unstable | 2022     | 1db40cea87eea9eb3a38ab1348664cb55f84c03f677fdb4db279b1741e92f47d | https://packages.chef.io/files/unstable/chef/18.2.14/windows/2022/chef-client-18.2.14-1-x64.msi   |
 | 18.2.7  | x64          | stable   | 10       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/10/chef-client-18.2.7-1-x64.msi         |
 | 18.2.7  | x64          | stable   | 11       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/11/chef-client-18.2.7-1-x64.msi         |
 | 18.2.7  | x64          | stable   | 2012r2   | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2012r2/chef-client-18.2.7-1-x64.msi     |
@@ -4604,7 +4604,7 @@
 
 | Version | URI                                                         |
 | ------- | ----------------------------------------------------------- |
-| 4.2.3   | https://cran.r-project.org/bin/windows/base/R-4.2.3-win.exe |
+| 4.3.0   | https://cran.r-project.org/bin/windows/base/R-4.2.3-win.exe |
 
 ## RDAnalyzer
 
@@ -4973,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe      |
-| 3.0.18  | Windows  | x86          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi      |
-| 3.0.18  | Windows  | x86          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip      |
-| 3.0.18  | Windows  | x86          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5152,8 +5152,8 @@
 | 5.14.2.2710  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.14.2.2710/x64/zoomrooms-5.14.2.2710-x64.msi |
 | 5.14.2.2710  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.2.2710/zoomrooms-5.14.2.2710-x86.msi     |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
