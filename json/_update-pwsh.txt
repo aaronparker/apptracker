@@ -1,0 +1,10 @@
+json/AWSSAMCLI.json
+json/AdoptiumTemurin8.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zotero.json
+json/diagrams.net.json

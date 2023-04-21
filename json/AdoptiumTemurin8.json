@@ -1,11 +1,11 @@
 [
   {
-    "Version": "jdk8u362-b09",
+    "Version": "jdk8u372-b07",
     "Type": "jdk",
     "Architecture": "x64",
-    "Checksum": "07d6ff7bb5400a618e7e8c6e6104c04c1df6141fa85026526676aa8af011e44c",
-    "Size": 90394624,
-    "URI": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jdk_x64_windows_hotspot_8u362b09.msi"
+    "Checksum": "e75a4e4a70d0fb5c0f1ca4855cb2a7f3c9ccb3d5dea5af0f45d4608a563c45b8",
+    "Size": 89829376,
+    "URI": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u372-b07/OpenJDK8U-jdk_x64_windows_hotspot_8u372b07.msi"
   },
   {
     "Version": "jdk8u362-b09",
@@ -16,12 +16,12 @@
     "URI": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jdk_x86-32_windows_hotspot_8u362b09.msi"
   },
   {
-    "Version": "jdk8u362-b09",
+    "Version": "jdk8u372-b07",
     "Type": "jre",
     "Architecture": "x64",
-    "Checksum": "fc4b3811a2cb08b1acbb6fc752ef6b2b52375406b6618baa2901f69ba0e03b9f",
-    "Size": 32821248,
-    "URI": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x64_windows_hotspot_8u362b09.msi"
+    "Checksum": "34af6f80b9ad0351ce668a5e8968cfe9b83ee84776365320697aabe8a6d22e09",
+    "Size": 32256000,
+    "URI": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u372-b07/OpenJDK8U-jre_x64_windows_hotspot_8u372b07.msi"
   },
   {
     "Version": "jdk8u362-b09",

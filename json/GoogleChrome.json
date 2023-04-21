@@ -1,17 +1,17 @@
 [
   {
-    "Version": "114.0.5714.0",
+    "Version": "114.0.5720.4",
     "Architecture": "x64",
     "Channel": "dev",
-    "Date": "04/17/2023",
+    "Date": "04/20/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "114.0.5714.0",
+    "Version": "114.0.5720.4",
     "Architecture": "x86",
     "Channel": "dev",
-    "Date": "04/17/2023",
+    "Date": "04/20/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },

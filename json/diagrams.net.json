@@ -1,47 +1,47 @@
 [
   {
-    "Version": "21.1.2",
+    "Version": "21.2.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/30/2023",
-    "Size": 101713608,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/draw.io-21.1.2-windows-installer.exe"
+    "Date": "04/20/2023",
+    "Size": 104018664,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.1/draw.io-21.2.1-windows-installer.exe"
   },
   {
-    "Version": "21.1.2",
+    "Version": "21.2.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/30/2023",
-    "Size": 101497856,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/draw.io-21.1.2-windows-no-installer.exe"
+    "Date": "04/20/2023",
+    "Size": 103802880,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.1/draw.io-21.2.1-windows-no-installer.exe"
   },
   {
-    "Version": "21.1.2",
+    "Version": "21.2.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/30/2023",
-    "Size": 97849184,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/draw.io-ia32-21.1.2-windows-32bit-installer.exe"
+    "Date": "04/20/2023",
+    "Size": 100097176,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.1/draw.io-ia32-21.2.1-windows-32bit-installer.exe"
   },
   {
-    "Version": "21.1.2",
+    "Version": "21.2.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/30/2023",
-    "Size": 97633840,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/draw.io-ia32-21.1.2-windows-32bit-no-installer.exe"
+    "Date": "04/20/2023",
+    "Size": 99881864,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.1/draw.io-ia32-21.2.1-windows-32bit-no-installer.exe"
   },
   {
-    "Version": "21.1.2",
+    "Version": "21.2.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "03/30/2023",
-    "Size": 134328320,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/draw.io-21.1.2.msi"
+    "Date": "04/20/2023",
+    "Size": 137007104,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.1/draw.io-21.2.1.msi"
   }
 ]
