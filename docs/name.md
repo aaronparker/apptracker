@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                    |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1696,15 +1696,15 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.084.0419.0001 | AMD64        | InternalFast | ileBI6u21Lx8HStt1luM9AIHD16FvAO7H0waQEcIEcE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.084.0419.0001/amd64/OneDriveSetup.exe |
-| 23.084.0419.0001 | x86          | InternalFast | 8ze7vHp7fOVlj4tauzC6fDZRw1AY72p4+scixcu08/A= | exe  | https://oneclient.sfx.ms/Win/Installers/23.084.0419.0001/OneDriveSetup.exe       |
+| 23.085.0420.0001 | AMD64        | InternalFast | DD2Ub1mO7RyMymxm513rKLtfoD8TKjmNjLejq5EuJWk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.085.0420.0001/amd64/OneDriveSetup.exe |
+| 23.085.0420.0001 | x86          | InternalFast | Blg8eJ+Vo9v7PcblxPda4eKit/xR6oCCzcYpMjzgbuc= | exe  | https://oneclient.sfx.ms/Win/Installers/23.085.0420.0001/OneDriveSetup.exe       |
+| 23.083.0418.0001 | AMD64        | Insider      | pptIny9K4Bch29H+qbS+/ohWQp4XHCUwy1JtjLidNsg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.083.0418.0001/amd64/OneDriveSetup.exe |
 | 23.083.0418.0001 | AMD64        | InternalSlow | pptIny9K4Bch29H+qbS+/ohWQp4XHCUwy1JtjLidNsg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.083.0418.0001/amd64/OneDriveSetup.exe |
+| 23.083.0418.0001 | x86          | Insider      | xbjNHpHyUpMXmBF13xHrBgOtdhcXyoeCZNbeoUeU0Ro= | exe  | https://oneclient.sfx.ms/Win/Installers/23.083.0418.0001/OneDriveSetup.exe       |
 | 23.083.0418.0001 | x86          | InternalSlow | xbjNHpHyUpMXmBF13xHrBgOtdhcXyoeCZNbeoUeU0Ro= | exe  | https://oneclient.sfx.ms/Win/Installers/23.083.0418.0001/OneDriveSetup.exe       |
 | 23.081.0416.0001 | AMD64        | Insider      | O+pQFchPXDIFX6U/EKDyvoWA73tZW00IGUyIjaar9a0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.081.0416.0001/amd64/OneDriveSetup.exe |
 | 23.081.0416.0001 | x86          | Insider      | cwQS7S6EUj7OEbA/SvpjQIfpwS/Qb4Z+Crc1pfpR0MI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.081.0416.0001/OneDriveSetup.exe       |
-| 23.078.0411.0001 | AMD64        | Insider      | QjabTHmiMocQ7AE5sMcT93k6wBtppOw/yBB2m1mcVBM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/amd64/OneDriveSetup.exe |
 | 23.078.0411.0001 | AMD64        | Production   | QjabTHmiMocQ7AE5sMcT93k6wBtppOw/yBB2m1mcVBM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/amd64/OneDriveSetup.exe |
-| 23.078.0411.0001 | x86          | Insider      | 1Y6HyLV2Q6aZpI0PFW5xCsMBrCL5nu3su/eOLphJDmA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/OneDriveSetup.exe       |
 | 23.078.0411.0001 | x86          | Production   | 1Y6HyLV2Q6aZpI0PFW5xCsMBrCL5nu3su/eOLphJDmA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.078.0411.0001/OneDriveSetup.exe       |
 | 23.076.0409.0001 | AMD64        | Production   | CHS/yYGbPK26P/a2wNIQPoZEhItBKMNUNouyULV9vrk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.076.0409.0001/amd64/OneDriveSetup.exe |
 | 23.076.0409.0001 | x86          | Production   | pI4RBFwZW4TkqIIQ+G4WjhExyLQtEiwyDhCx/+wQfZ0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.076.0409.0001/OneDriveSetup.exe       |
@@ -4693,8 +4693,8 @@
 
 | Version | Architecture | Type | URI                                                                                                       |
 | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 9.0.0   | x64          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.0/saga-9.0.0_x64_setup.exe   |
-| 9.0.0   | x86          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.0/saga-9.0.0_win32_setup.exe |
+| 9.0.1   | x64          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_x64_setup.exe   |
+| 9.0.1   | x86          | exe  | https://nchc.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_win32_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -4973,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                          |
-| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe               |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi               |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip               |
 
 ## VisualCppRedistAIO
 
