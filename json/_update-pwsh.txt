@@ -1,5 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/SAGAGIS.json
-json/VideoLanVlcPlayer.json
