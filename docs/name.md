@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe    |
+| 4.5.2   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe |
 | 4.5.2   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi    |
 
 ## AkeoRufus
@@ -1118,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1342,7 +1342,7 @@
 
 | Version | URI                                                                                                     |
 | ------- | ------------------------------------------------------------------------------------------------------- |
-| 7.1.1-7 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-7-Q16-HDRI-x64-dll.exe |
+| 7.1.1-8 | https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.1-8-Q16-HDRI-x64-dll.exe |
 
 ## JamTreeSizeFree
 
@@ -1765,56 +1765,56 @@
 
 [Link](https://www.microsoft.com/teams)
 
-| Version     | Ring              | Architecture | Type | URI                                                                                               |
-| ----------- | ----------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------- |
-| 1.6.00.9467 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.9467/Teams_windows_arm64.exe |
-| 1.6.00.9467 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.9467/Teams_windows_x64.exe     |
-| 1.6.00.9467 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.9467/Teams_windows.exe             |
-| 1.6.00.9467 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.9467/Teams_windows_arm64.msi |
-| 1.6.00.9467 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.9467/Teams_windows_x64.msi     |
-| 1.6.00.9467 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.9467/Teams_windows.msi             |
-| 1.6.00.6754 | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | General           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | ITAdmins          | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | OuterRing         | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | Public            | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | TAP               | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe |
-| 1.6.00.6754 | DeveloperPartners | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | Dogfood           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | General           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | ITAdmins          | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | OuterRing         | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | Public            | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | TAP               | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe     |
-| 1.6.00.6754 | DeveloperPartners | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | Dogfood           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | General           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | ITAdmins          | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | OuterRing         | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | Public            | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | TAP               | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe             |
-| 1.6.00.6754 | DeveloperPartners | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | Dogfood           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | General           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | ITAdmins          | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | OuterRing         | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | Public            | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | TAP               | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi |
-| 1.6.00.6754 | DeveloperPartners | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | Dogfood           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | General           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | ITAdmins          | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | OuterRing         | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | Public            | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | TAP               | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi     |
-| 1.6.00.6754 | DeveloperPartners | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | Dogfood           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | General           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | ITAdmins          | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | OuterRing         | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | Public            | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
-| 1.6.00.6754 | TAP               | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi             |
+| Version      | Ring              | Architecture | Type | URI                                                                                                |
+| ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
+| 1.6.00.11166 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe |
+| 1.6.00.11166 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe     |
+| 1.6.00.11166 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe             |
+| 1.6.00.11166 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi |
+| 1.6.00.11166 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi     |
+| 1.6.00.11166 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi             |
+| 1.6.00.6754  | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | General           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | ITAdmins          | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | OuterRing         | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | Public            | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | TAP               | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe  |
+| 1.6.00.6754  | DeveloperPartners | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | Dogfood           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | General           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | ITAdmins          | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | OuterRing         | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | Public            | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | TAP               | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe      |
+| 1.6.00.6754  | DeveloperPartners | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | Dogfood           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | General           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | ITAdmins          | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | OuterRing         | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | Public            | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | TAP               | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe              |
+| 1.6.00.6754  | DeveloperPartners | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | Dogfood           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | General           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | ITAdmins          | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | OuterRing         | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | Public            | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | TAP               | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi  |
+| 1.6.00.6754  | DeveloperPartners | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | Dogfood           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | General           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | ITAdmins          | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | OuterRing         | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | Public            | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | TAP               | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi      |
+| 1.6.00.6754  | DeveloperPartners | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
+| 1.6.00.6754  | Dogfood           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
+| 1.6.00.6754  | General           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
+| 1.6.00.6754  | ITAdmins          | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
+| 1.6.00.6754  | OuterRing         | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
+| 1.6.00.6754  | Public            | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
+| 1.6.00.6754  | TAP               | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi              |
 
 ## MicrosoftTerminal
 
@@ -4862,7 +4862,7 @@
 
 | Version | URI                                                  |
 | ------- | ---------------------------------------------------- |
-| 4.7.1   | https://updates.tdesktop.com/tsetup/tsetup.4.7.1.exe |
+| 4.8.0   | https://updates.tdesktop.com/tsetup/tsetup.4.8.0.exe |
 
 ## TelerikFiddlerClassic
 
@@ -4973,14 +4973,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe         |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi         |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip         |
+| Version | Platform | Architecture | Type | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe        |
+| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi        |
+| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip        |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
