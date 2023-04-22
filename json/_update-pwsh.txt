@@ -1,0 +1,8 @@
+json/1Password.json
+json/AWSCLI.json
+json/Gimp.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/RCoreTeamRforWindows.json
+json/VideoLanVlcPlayer.json
