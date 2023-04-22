@@ -1,6 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/ImageMagickStudioImageMagick.json
-json/MicrosoftTeams.json
-json/TelegramDesktop.json
-json/VideoLanVlcPlayer.json
