@@ -1,8 +1,0 @@
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftAzureDataStudio.json
-json/MicrosoftVisualStudioCode.json
-json/ScreenToGif.json
-json/VideoLanVlcPlayer.json
-json/Zoom.json
-json/dbeaver.json
