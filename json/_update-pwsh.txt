@@ -1,0 +1,10 @@
+json/AirtameApp.json
+json/Audacity.json
+json/ESETSecureAuthentication.json
+json/Gimp.json
+json/MicrosoftOneDrive.json
+json/Miniconda.json
+json/OperaCryptoBrowser.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json

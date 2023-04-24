@@ -1,9 +1,9 @@
 {
-  "Version": "3.0.63.0",
-  "Size": 132579328,
-  "Hash": "605af757aa391224a0eaef178c95aeb06fd9410f",
+  "Version": "3.0.65.0",
+  "Size": 132603904,
+  "Hash": "92198a64e8a3c973b63e43d0b79493a42c4510df",
   "Language": "en_US",
   "Architecture": "x64",
   "Type": "msi",
-  "URI": "https://repository.eset.com/v1/com/eset/apps/business/esa/windows/v3/3.0.63.0/esa_nt64_enu.msi"
+  "URI": "https://repository.eset.com/v1/com/eset/apps/business/esa/windows/v3/3.0.65.0/esa_nt64_enu.msi"
 }

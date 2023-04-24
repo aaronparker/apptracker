@@ -1,38 +1,29 @@
 [
   {
-    "Version": "23.1.0",
+    "Version": "23.3.1",
     "Architecture": "x64",
-    "Date": "2023-02-08T03:27:22.844Z",
-    "Size": 55780192,
-    "MD5": "7980717ca220e8b6c243dccac67c4dc5",
-    "Sha256": "d4517212c8ac44fd8b5ccc2d4d9f38c2dd924c77a81c2be92c3a72e70dd3e907",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Windows-x86_64.exe"
+    "Date": "2023-04-24T14:16:49.87Z",
+    "Size": 56506304,
+    "MD5": "3d95928887cf344a2925dd13ba9a50ee",
+    "Sha256": "307194e1f12bbeb52b083634e89cc67db4f7980bd542254b43d3309eaf7cb358",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py310_23.3.1-0-Windows-x86_64.exe"
   },
   {
-    "Version": "23.1.0",
+    "Version": "23.3.1",
     "Architecture": "x64",
-    "Date": "2023-02-08T03:27:23.105Z",
-    "Size": 53091592,
-    "MD5": "20c4eaf94d930195eb75347183959256",
-    "Sha256": "2319e6ab37215daf08f47b0da35a53f6a648121029113ae2ba53917d777b84bd",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py37_23.1.0-1-Windows-x86_64.exe"
+    "Date": "2023-04-24T14:16:50.113Z",
+    "Size": 55700480,
+    "MD5": "5e9b7983a2dbaf1338b4f28f26808bce",
+    "Sha256": "f567b46b2312af5e60ec8f45daf9be626295b7716651e6e7434c447feea9123a",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_23.3.1-0-Windows-x86_64.exe"
   },
   {
-    "Version": "23.1.0",
+    "Version": "23.3.1",
     "Architecture": "x64",
-    "Date": "2023-02-08T03:27:23.341Z",
-    "Size": 54904280,
-    "MD5": "b18d094dfd56a62de95f0f49e9d52275",
-    "Sha256": "4178df2a15284fd07b10c5fad592e5c15e6be5bfc37ee90d8e02bbde7792f6f9",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py38_23.1.0-1-Windows-x86_64.exe"
-  },
-  {
-    "Version": "23.1.0",
-    "Architecture": "x64",
-    "Date": "2023-02-08T03:27:23.59Z",
-    "Size": 55516784,
-    "MD5": "4350f9ca8bbf67fc5fc3eeea926d6341",
-    "Sha256": "a2e7ec485e5412673fad31e6a5a79f9de73792e7c966764f92eabf25ec37557f",
-    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_23.1.0-1-Windows-x86_64.exe"
+    "Date": "2023-04-24T14:16:50.368Z",
+    "Size": 56295176,
+    "MD5": "ec04d81b9ecaf95ba6c0ec1747970d6a",
+    "Sha256": "155958e7922d8b7aa6cb3115aeb66d2efcdae1237a6f1c11e23ca75ea96d291a",
+    "URI": "https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-Windows-x86_64.exe"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.2.5",
+    "Version": "3.3.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
-    "Date": "03/01/2023",
-    "Size": 14392168,
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.5/audacity-win-3.2.5-x64.exe"
+    "Date": "04/23/2023",
+    "Size": 14849800,
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.0/audacity-win-3.3.0-x64.exe"
   },
   {
-    "Version": "3.2.5",
+    "Version": "3.3.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/01/2023",
-    "Size": 13144760,
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.5/audacity-win-3.2.5-x32.exe"
+    "Date": "04/23/2023",
+    "Size": 13544664,
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.0/audacity-win-3.3.0-x32.exe"
   }
 ]
