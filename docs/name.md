@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.5  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.5.exe |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.5  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.5.exe |
 
 ## 1Password7
 
@@ -1119,9 +1119,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -4383,8 +4383,8 @@
 
 | Version      | Channel | Architecture | Type | URI                                                                                         |
 | ------------ | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 97.0.4719.84 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/97.0.4719.84/win/Opera_GX_97.0.4719.84_Setup_x64.exe |
-| 97.0.4719.84 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/97.0.4719.84/win/Opera_GX_97.0.4719.84_Setup.exe     |
+| 97.0.4719.89 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/97.0.4719.89/win/Opera_GX_97.0.4719.89_Setup_x64.exe |
+| 97.0.4719.89 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/97.0.4719.89/win/Opera_GX_97.0.4719.89_Setup.exe     |
 
 ## OracleJava8
 
@@ -4450,7 +4450,7 @@
 
 | Version | Date       | Size     | MD5                              | Filename                   | URI                                                                                                                         |
 | ------- | ---------- | -------- | -------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 5.0.3   | 12/08/2022 | 39184760 | c3441267a4f584f649c9154a2442057b | PDFCreator-5_0_3-Setup.exe | https://download.pdfforge.org/download/pdfcreator/5.0.3/PDFCreator-5_0_3-Setup.exe?file=PDFCreator-5_0_3-Setup.exe&download |
+| 5.1.0   | 04/24/2023 | 51962760 | bd41008f7d8fcbffbfa602b9394c6955 | PDFCreator-5_1_0-Setup.exe | https://download.pdfforge.org/download/pdfcreator/5.1.0/PDFCreator-5_1_0-Setup.exe?file=PDFCreator-5_1_0-Setup.exe&download |
 
 ## PeaZipPeaZip
 
@@ -4516,20 +4516,20 @@
 
 [Link](https://www.chef.io/products/chef-inspec)
 
-| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                           |
-| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 5.21.43 | x64          | current | 10       | 95881b724a98e0bde73b8cef9df0ef4cc24f6dfd1083a244fa527de265377b11 | https://packages.chef.io/files/current/inspec/5.21.43/windows/10/inspec-5.21.43-1-x64.msi     |
-| 5.21.43 | x64          | current | 11       | 95881b724a98e0bde73b8cef9df0ef4cc24f6dfd1083a244fa527de265377b11 | https://packages.chef.io/files/current/inspec/5.21.43/windows/11/inspec-5.21.43-1-x64.msi     |
-| 5.21.43 | x64          | current | 2012r2   | 95881b724a98e0bde73b8cef9df0ef4cc24f6dfd1083a244fa527de265377b11 | https://packages.chef.io/files/current/inspec/5.21.43/windows/2012r2/inspec-5.21.43-1-x64.msi |
-| 5.21.43 | x64          | current | 2016     | 95881b724a98e0bde73b8cef9df0ef4cc24f6dfd1083a244fa527de265377b11 | https://packages.chef.io/files/current/inspec/5.21.43/windows/2016/inspec-5.21.43-1-x64.msi   |
-| 5.21.43 | x64          | current | 2019     | 95881b724a98e0bde73b8cef9df0ef4cc24f6dfd1083a244fa527de265377b11 | https://packages.chef.io/files/current/inspec/5.21.43/windows/2019/inspec-5.21.43-1-x64.msi   |
-| 5.21.43 | x64          | current | 2022     | 95881b724a98e0bde73b8cef9df0ef4cc24f6dfd1083a244fa527de265377b11 | https://packages.chef.io/files/current/inspec/5.21.43/windows/2022/inspec-5.21.43-1-x64.msi   |
-| 5.21.29 | x64          | stable  | 10       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/10/inspec-5.21.29-1-x64.msi      |
-| 5.21.29 | x64          | stable  | 11       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/11/inspec-5.21.29-1-x64.msi      |
-| 5.21.29 | x64          | stable  | 2012r2   | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2012r2/inspec-5.21.29-1-x64.msi  |
-| 5.21.29 | x64          | stable  | 2016     | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2016/inspec-5.21.29-1-x64.msi    |
-| 5.21.29 | x64          | stable  | 2019     | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2019/inspec-5.21.29-1-x64.msi    |
-| 5.21.29 | x64          | stable  | 2022     | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2022/inspec-5.21.29-1-x64.msi    |
+| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                          |
+| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 6.4.3   | x64          | current | 10       | 0f0cc9a2784ab8b2924ac0ce3d86e2b5fd1391238cf1a8c37091970065d3318a | https://packages.chef.io/files/current/inspec/6.4.3/windows/10/inspec-6.4.3-1-x64.msi        |
+| 6.4.3   | x64          | current | 11       | 0f0cc9a2784ab8b2924ac0ce3d86e2b5fd1391238cf1a8c37091970065d3318a | https://packages.chef.io/files/current/inspec/6.4.3/windows/11/inspec-6.4.3-1-x64.msi        |
+| 6.4.3   | x64          | current | 2012r2   | 0f0cc9a2784ab8b2924ac0ce3d86e2b5fd1391238cf1a8c37091970065d3318a | https://packages.chef.io/files/current/inspec/6.4.3/windows/2012r2/inspec-6.4.3-1-x64.msi    |
+| 6.4.3   | x64          | current | 2016     | 0f0cc9a2784ab8b2924ac0ce3d86e2b5fd1391238cf1a8c37091970065d3318a | https://packages.chef.io/files/current/inspec/6.4.3/windows/2016/inspec-6.4.3-1-x64.msi      |
+| 6.4.3   | x64          | current | 2019     | 0f0cc9a2784ab8b2924ac0ce3d86e2b5fd1391238cf1a8c37091970065d3318a | https://packages.chef.io/files/current/inspec/6.4.3/windows/2019/inspec-6.4.3-1-x64.msi      |
+| 6.4.3   | x64          | current | 2022     | 0f0cc9a2784ab8b2924ac0ce3d86e2b5fd1391238cf1a8c37091970065d3318a | https://packages.chef.io/files/current/inspec/6.4.3/windows/2022/inspec-6.4.3-1-x64.msi      |
+| 5.21.29 | x64          | stable  | 10       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/10/inspec-5.21.29-1-x64.msi     |
+| 5.21.29 | x64          | stable  | 11       | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/11/inspec-5.21.29-1-x64.msi     |
+| 5.21.29 | x64          | stable  | 2012r2   | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2012r2/inspec-5.21.29-1-x64.msi |
+| 5.21.29 | x64          | stable  | 2016     | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2016/inspec-5.21.29-1-x64.msi   |
+| 5.21.29 | x64          | stable  | 2019     | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2019/inspec-5.21.29-1-x64.msi   |
+| 5.21.29 | x64          | stable  | 2022     | f83760288569c15014e8064766267e03ae00fb1df092e9a06fcb5e80f493adaa | https://packages.chef.io/files/stable/inspec/5.21.29/windows/2022/inspec-5.21.29-1-x64.msi   |
 
 ## ProgressChefWorkstation
 
@@ -4782,8 +4782,8 @@
 
 | Version     | Platform | Architecture | Type      | Date       | Size  | URI                                                                                                      |
 | ----------- | -------- | ------------ | --------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| 2301.19.147 | Windows  | x86          | intunewin | 01/19/2023 | 34501 | https://github.com/aaronparker/image-customise/releases/download/v2301.19.147/Install-Defaults.intunewin |
-| 2301.19.147 | Windows  | x86          | zip       | 01/19/2023 | 30758 | https://github.com/aaronparker/image-customise/releases/download/v2301.19.147/image-customise.zip        |
+| 2304.25.160 | Windows  | x86          | intunewin | 04/25/2023 | 36549 | https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/Install-Defaults.intunewin |
+| 2304.25.160 | Windows  | x86          | zip       | 04/25/2023 | 32486 | https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/image-customise.zip        |
 
 ## StefansToolsgregpWin
 
@@ -4841,8 +4841,8 @@
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
-| 22.5.3  | 04/11/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2253/camtasia.exe |
-| 22.5.3  | 04/11/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2253/camtasia.msi |
+| 23.0.1  | 04/25/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2301/camtasia.exe |
+| 23.0.1  | 04/25/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2301/camtasia.msi |
 
 ## TechSmithSnagit
 
@@ -4971,14 +4971,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                        |
-| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe      |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi      |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip      |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
+| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
+| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5038,7 +5038,7 @@
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------------------------------------------------------------------- |
-| 17.0.1  | 02/02/2023 | 5422765f358f5068bad832ae8bd6615480ddffebe0313c1337a8c958f3415739 | 577.06 MB | exe  | https://download3.vmware.com/software/WKST-PLAYER-1701/VMware-player-full-17.0.1-21139696.exe |
+| 17.0.2  | 02/02/2023 | 5422765f358f5068bad832ae8bd6615480ddffebe0313c1337a8c958f3415739 | 577.06 MB | exe  | https://download3.vmware.com/software/WKST-PLAYER-1701/VMware-player-full-17.0.1-21139696.exe |
 
 ## VMwareWorkstationPro
 
