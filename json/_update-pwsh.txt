@@ -1,0 +1,9 @@
+json/1Password.json
+json/Gimp.json
+json/OperaGXBrowser.json
+json/PDFForgePDFCreator.json
+json/ProgressChefInSpec.json
+json/TechSmithCamtasia.json
+json/VMwareWorkstationPlayer.json
+json/VideoLanVlcPlayer.json
+json/stealthpuppyWindowsCustomisedDefaults.json

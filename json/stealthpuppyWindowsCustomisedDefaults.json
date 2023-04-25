@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2301.19.147",
+    "Version": "2304.25.160",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "intunewin",
-    "Date": "01/19/2023",
-    "Size": 34501,
-    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2301.19.147/Install-Defaults.intunewin"
+    "Date": "04/25/2023",
+    "Size": 36549,
+    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/Install-Defaults.intunewin"
   },
   {
-    "Version": "2301.19.147",
+    "Version": "2304.25.160",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "01/19/2023",
-    "Size": 30758,
-    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2301.19.147/image-customise.zip"
+    "Date": "04/25/2023",
+    "Size": 32486,
+    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/image-customise.zip"
   }
 ]
