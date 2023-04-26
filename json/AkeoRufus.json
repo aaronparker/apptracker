@@ -1,38 +1,47 @@
 [
   {
-    "Version": "3.22",
+    "Version": "4.0",
     "Platform": "Windows",
     "Architecture": "ARM32",
     "Type": "exe",
-    "Date": "03/25/2023",
-    "Size": 4215368,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22_arm.exe"
+    "Date": "04/25/2023",
+    "Size": 4231752,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0_arm.exe"
   },
   {
-    "Version": "3.22",
+    "Version": "4.0",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Date": "03/25/2023",
-    "Size": 4720712,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22_arm64.exe"
+    "Date": "04/25/2023",
+    "Size": 4736584,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0_arm64.exe"
   },
   {
-    "Version": "3.22",
+    "Version": "4.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/25/2023",
-    "Size": 1419336,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22.exe"
+    "Date": "04/25/2023",
+    "Size": 1411144,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0.exe"
   },
   {
-    "Version": "3.22",
+    "Version": "4.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "03/25/2023",
-    "Size": 1419336,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v3.22/rufus-3.22p.exe"
+    "Date": "04/25/2023",
+    "Size": 1411144,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0p.exe"
+  },
+  {
+    "Version": "4.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "04/25/2023",
+    "Size": 1424968,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0_x86.exe"
   }
 ]
