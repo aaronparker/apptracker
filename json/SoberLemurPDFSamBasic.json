@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.1.1",
+    "Version": "5.1.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "03/23/2023",
-    "Size": 70250496,
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.1.1/pdfsam-5.1.1.msi"
+    "Date": "04/26/2023",
+    "Size": 70557696,
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2.msi"
   },
   {
-    "Version": "5.1.1",
+    "Version": "5.1.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "03/23/2023",
-    "Size": 68734764,
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.1.1/pdfsam-5.1.1-windows.zip"
+    "Date": "04/26/2023",
+    "Size": 69037130,
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2-windows.zip"
   }
 ]
