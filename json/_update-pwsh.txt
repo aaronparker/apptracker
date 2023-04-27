@@ -1,0 +1,7 @@
+json/DockerDesktop.json
+json/Gimp.json
+json/OctopusDeployServer.json
+json/OperaBrowser.json
+json/TeamViewer.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
