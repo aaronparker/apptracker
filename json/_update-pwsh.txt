@@ -1,9 +1,0 @@
-json/1Password.json
-json/AirtameApp.json
-json/Gimp.json
-json/MicrosoftOneDrive.json
-json/MicrosoftVisualStudioCode.json
-json/OctopusDeployServer.json
-json/OperaGXBrowser.json
-json/TeamViewer.json
-json/VideoLanVlcPlayer.json
