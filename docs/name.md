@@ -625,8 +625,8 @@
 
 | Version | Build  | Size      | Type | URI                                                                               |
 | ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |
+| 4.19.0  | 106363 | 651885904 | exe  | https://desktop.docker.com/win/main/amd64/106363/Docker%20Desktop%20Installer.exe |
 | 4.18.0  | 104112 | 671050576 | exe  | https://desktop.docker.com/win/main/amd64/104112/Docker%20Desktop%20Installer.exe |
-| 4.17.1  | 101757 | 655728464 | exe  | https://desktop.docker.com/win/main/amd64/101757/Docker%20Desktop%20Installer.exe |
 
 ## DoubleCommander
 
@@ -1120,9 +1120,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                          |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -4283,7 +4283,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2023.1.9879 | 04/27/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.1.9879-x64.msi |
+| 2023.1.9886 | 04/27/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.1.9886-x64.msi |
 
 ## OctopusTentacle
 
@@ -4367,10 +4367,10 @@
 | ------------ | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
 | 99.0.4780.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/99.0.4780.0/win/Opera_Developer_99.0.4780.0_Setup_x64.exe |
 | 99.0.4780.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/99.0.4780.0/win/Opera_Developer_99.0.4780.0_Setup.exe     |
-| 98.0.4759.15 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/98.0.4759.15/win/Opera_98.0.4759.15_Setup_x64.exe                   |
-| 98.0.4759.15 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/98.0.4759.15/win/Opera_98.0.4759.15_Setup.exe                       |
-| 98.0.4759.3  | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.3/win/Opera_beta_98.0.4759.3_Setup_x64.exe           |
-| 98.0.4759.3  | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.3/win/Opera_beta_98.0.4759.3_Setup.exe               |
+| 98.0.4759.21 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.21/win/Opera_beta_98.0.4759.21_Setup_x64.exe         |
+| 98.0.4759.21 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/98.0.4759.21/win/Opera_beta_98.0.4759.21_Setup.exe             |
+| 95.0.4635.84 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.84/win/Opera_95.0.4635.84_Setup_x64.exe                   |
+| 95.0.4635.84 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/95.0.4635.84/win/Opera_95.0.4635.84_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -4836,7 +4836,7 @@
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
-| 15.17.7 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
+| 15.41.7 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
 ## TechSmithCamtasia
 
@@ -4976,12 +4976,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                             |
 | ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe       |
-| 3.0.18  | Windows  | x64          | MSI  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi       |
-| 3.0.18  | Windows  | x64          | ZIP  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip       |
+| 3.0.18  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe      |
+| 3.0.18  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi      |
+| 3.0.18  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip      |
 
 ## VisualCppRedistAIO
 
@@ -5153,8 +5153,8 @@
 | 5.14.5.2778  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.14.5.2778/zoomrooms-5.14.5.2778-x86.msi     |
 | 5.14.5.851   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.14.5.851/ZoomOutlookPluginSetup.msi         |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi          |
+| 5.13.10.811  | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi      |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
 | Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
