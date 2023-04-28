@@ -3,12 +3,16 @@
     "Version": "2023a",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe"
+    "Size": "37755640",
+    "Md5": "48f8ad3cd5478375d672ae8891193314",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe"
   },
   {
     "Version": "2023a",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://nchc.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe"
+    "Size": "34226712",
+    "Md5": "b5ce5488b276688bbdcff0772022f3f2",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe"
   }
 ]
