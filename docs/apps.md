@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 255 applications and 3394 unique application installers:
+App Version Tracker is using Evergreen to track 256 applications and 3408 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -132,14 +132,14 @@ App Version Tracker is using Evergreen to track 255 applications and 3394 unique
 | Microsoft .NET Desktop Runtime                                    | https://dotnet.microsoft.com/download/                                                           |
 | Microsoft 365 Apps                                                | https://www.microsoft.com/office                                                                 |
 | Microsoft Azure Data Studio                                       | https://docs.microsoft.com/en-us/sql/azure-data-studio/                                          |
-| Azure Functions Core Tools                                        | https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local                       |
+| Microsoft Azure Functions Core Tools                              | https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local                       |
 | Microsoft Azure Pipelines Agent                                   | https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents                           |
 | Microsoft Azure Storage Explorer                                  | https://azure.microsoft.com/en-au/features/storage-explorer/                                     |
-| MicrosoftAzureWindowsVMAgent                                      | https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows                |
+| Microsoft Azure Windows VMAgent                                   | https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows                |
 | Microsoft Bicep                                                   | https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview                     |
 | Microsoft Bot Framework Emulator                                  | https://github.com/microsoft/BotFramework-Emulator/                                              |
 | Microsoft Edge                                                    | https://www.microsoft.com/edge                                                                   |
-| Microsoft Edge                                                    | https://www.microsoft.com/edge                                                                   |
+| Microsoft Edge WebDriver                                          | https://www.microsoft.com/edge                                                                   |
 | Microsoft Edge WebView2 Runtime                                   | https://developer.microsoft.com/en-us/microsoft-edge/webview2/                                   |
 | Microsoft FSLogix Apps                                            | https://docs.microsoft.com/fslogix/                                                              |
 | Microsoft OneDrive                                                | https://onedrive.live.com/                                                                       |
@@ -148,6 +148,7 @@ App Version Tracker is using Evergreen to track 255 applications and 3394 unique
 | Microsoft PowerToys                                               | https://github.com/microsoft/PowerToys/                                                          |
 | Microsoft SQL Server Management Studio                            | https://go.microsoft.com/fwlink/?LinkId=531355                                                   |
 | Microsoft Teams                                                   | https://www.microsoft.com/teams                                                                  |
+| Microsoft Teams 2 Preview                                         | https://www.microsoft.com/teams                                                                  |
 | Microsoft Terminal                                                | https://github.com/microsoft/terminal/                                                           |
 | Microsoft Virtual Desktop Optimization Tool                       | https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool                    |
 | Microsoft Visual Studio                                           | https://visualstudio.microsoft.com/                                                              |
