@@ -1,8 +1,24 @@
 [
   {
-    "Version": "23.087.0424.0001",
+    "Version": "23.089.0426.0001",
     "Architecture": "AMD64",
     "Ring": "InternalFast",
+    "Sha256": "mJvvVdl4P0oRcFhPp3rSXGNLZjmkG6rFNuerKc05kI4=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.089.0426.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "23.089.0426.0001",
+    "Architecture": "x86",
+    "Ring": "InternalFast",
+    "Sha256": "enZY3vWX9OyN3lgMGKt7hCYZutceoCitimmSNbBoEP8=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.089.0426.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "23.087.0424.0001",
+    "Architecture": "AMD64",
+    "Ring": "InternalSlow",
     "Sha256": "hxHXgaYWFj93/bLXfKTSUFs9jb/3hcHeehV698EsmI0=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.087.0424.0001/amd64/OneDriveSetup.exe"
@@ -10,7 +26,7 @@
   {
     "Version": "23.087.0424.0001",
     "Architecture": "x86",
-    "Ring": "InternalFast",
+    "Ring": "InternalSlow",
     "Sha256": "t+CXQo82kqzxrzCNQ11ZTnlDy1WuboLNZQpp7vUXIus=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.087.0424.0001/OneDriveSetup.exe"
@@ -25,24 +41,8 @@
   },
   {
     "Version": "23.086.0423.0001",
-    "Architecture": "AMD64",
-    "Ring": "InternalSlow",
-    "Sha256": "KfXYxIo3Q4p2n3i5cIcV6bEfL4LKD7/M0cIoFWtXyi0=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.086.0423.0001/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.086.0423.0001",
     "Architecture": "x86",
     "Ring": "Insider",
-    "Sha256": "om00vVB/qMRqgyL//bNSmZLMeJtO70bQryVVmbh0JJg=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.086.0423.0001/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.086.0423.0001",
-    "Architecture": "x86",
-    "Ring": "InternalSlow",
     "Sha256": "om00vVB/qMRqgyL//bNSmZLMeJtO70bQryVVmbh0JJg=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.086.0423.0001/OneDriveSetup.exe"
