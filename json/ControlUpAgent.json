@@ -1,14 +1,14 @@
 [
   {
-    "Version": "8.7.0.655",
+    "Version": "8.8.0.762",
     "Framework": "64bit-.net45",
     "Architecture": "x64",
-    "URI": "https://downloads.controlup.com/agent/8.7.0.655/ControlUpAgent-net45-x64-8.7.0.655-signed.msi"
+    "URI": "https://downloads.controlup.com/agent/8.8.0.762/ControlUpAgent-net45-x64-8.8.0.762-signed.msi"
   },
   {
-    "Version": "8.7.0.655",
+    "Version": "8.8.0.762",
     "Framework": "32bit-.net45",
     "Architecture": "x86",
-    "URI": "https://downloads.controlup.com/agent/8.7.0.655/ControlUpAgent-net45-x86-8.7.0.655-signed.msi"
+    "URI": "https://downloads.controlup.com/agent/8.8.0.762/ControlUpAgent-net45-x86-8.8.0.762-signed.msi"
   }
 ]
