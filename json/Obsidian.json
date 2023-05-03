@@ -23,6 +23,15 @@
     "Architecture": "x86",
     "Type": "exe",
     "Date": "05/02/2023",
+    "Size": 74895776,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.2.7/Obsidian.1.2.7-all-users.exe"
+  },
+  {
+    "Version": "1.2.7",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Date": "05/02/2023",
     "Size": 74920656,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.2.7/Obsidian.1.2.7.exe"
   }

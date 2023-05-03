@@ -6,9 +6,9 @@
     "URI": "https://chromedriver.storage.googleapis.com/113.0.5672.24/chromedriver_win32.zip"
   },
   {
-    "Version": "112.0.5615.49",
+    "Version": "113.0.5672.24",
     "Channel": "stable",
     "Type": "zip",
-    "URI": "https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip"
+    "URI": "https://chromedriver.storage.googleapis.com/113.0.5672.24/chromedriver_win32.zip"
   }
 ]
