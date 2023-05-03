@@ -1,0 +1,15 @@
+json/7zip.json
+json/AirtameApp.json
+json/ChromiumChromeDriver.json
+json/Gimp.json
+json/GitHubDesktop.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/ResponsivelyApp.json
+json/SAGAGIS.json
+json/TeamViewer.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
