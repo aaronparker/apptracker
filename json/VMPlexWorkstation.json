@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.0.0.11",
+    "Version": "1.0.0.12",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
-    "Date": "04/16/2023",
-    "Size": 73265786,
-    "URI": "https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.11/VMPlex.exe"
+    "Date": "05/04/2023",
+    "Size": 73266440,
+    "URI": "https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/VMPlex.exe"
   },
   {
-    "Version": "1.0.0.11",
+    "Version": "1.0.0.12",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "04/16/2023",
-    "Size": 67648282,
-    "URI": "https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.11/vmplex-ws-1.0.0.11.zip"
+    "Date": "05/04/2023",
+    "Size": 67646693,
+    "URI": "https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/vmplex-ws-1.0.0.12.zip"
   }
 ]
