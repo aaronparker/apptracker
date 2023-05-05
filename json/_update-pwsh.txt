@@ -1,0 +1,17 @@
+json/1Password.json
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/HashicorpNomad.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/diagrams.net.json
+json/gretl.json
