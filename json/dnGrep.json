@@ -1,29 +1,29 @@
 [
   {
-    "Version": "3.2.279.0",
+    "Version": "3.2.306.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
-    "Date": "02/18/2023",
-    "Size": 7106560,
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.279.0/dnGREP.3.2.279.x64.msi"
+    "Date": "05/04/2023",
+    "Size": 7143424,
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x64.msi"
   },
   {
-    "Version": "3.2.279.0",
+    "Version": "3.2.306.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
-    "Date": "02/18/2023",
-    "Size": 7102464,
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.279.0/dnGREP.3.2.279.x86.msi"
+    "Date": "05/04/2023",
+    "Size": 7139328,
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x86.msi"
   },
   {
-    "Version": "3.2.279.0",
+    "Version": "3.2.306.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
-    "Date": "02/18/2023",
-    "Size": 5951943,
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.279.0/dnGrep.3.2.279.0.zip"
+    "Date": "05/04/2023",
+    "Size": 5983160,
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGrep.3.2.306.0.zip"
   }
 ]

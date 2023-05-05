@@ -1,0 +1,17 @@
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/HashicorpPacker.json
+json/KDiff3.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/dnGrep.json
+json/gretl.json
