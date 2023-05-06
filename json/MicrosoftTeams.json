@@ -1,10 +1,94 @@
 [
   {
     "Version": "1.6.00.11166",
+    "Ring": "DeveloperPartners",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Dogfood",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "General",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "ITAdmins",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "OuterRing",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
     "Ring": "Preview",
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Public",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "TAP",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Dogfood",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "General",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "ITAdmins",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "OuterRing",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
   },
   {
     "Version": "1.6.00.11166",
@@ -15,10 +99,108 @@
   },
   {
     "Version": "1.6.00.11166",
+    "Ring": "Public",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "TAP",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Dogfood",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "General",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "ITAdmins",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "OuterRing",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
     "Ring": "Preview",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Public",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "TAP",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.exe"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "DeveloperPartners",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Dogfood",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "General",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "ITAdmins",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "OuterRing",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
   },
   {
     "Version": "1.6.00.11166",
@@ -29,10 +211,108 @@
   },
   {
     "Version": "1.6.00.11166",
+    "Ring": "Public",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "TAP",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.11166/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Dogfood",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "General",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "ITAdmins",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "OuterRing",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
     "Ring": "Preview",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Public",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "TAP",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.11166/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "Dogfood",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "General",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "ITAdmins",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
+  },
+  {
+    "Version": "1.6.00.11166",
+    "Ring": "OuterRing",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
   },
   {
     "Version": "1.6.00.11166",
@@ -42,297 +322,17 @@
     "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
   },
   {
-    "Version": "1.6.00.6754",
-    "Ring": "DeveloperPartners",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Dogfood",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "General",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "ITAdmins",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "OuterRing",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Public",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "TAP",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Dogfood",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "General",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "ITAdmins",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "OuterRing",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Public",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "TAP",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Dogfood",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "General",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "ITAdmins",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "OuterRing",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Public",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "TAP",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.exe"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "DeveloperPartners",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Dogfood",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "General",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "ITAdmins",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "OuterRing",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Public",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "TAP",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.6754/Teams_windows_arm64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Dogfood",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "General",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "ITAdmins",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "OuterRing",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Public",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "TAP",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6754/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "Dogfood",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "General",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "ITAdmins",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
-    "Ring": "OuterRing",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
-  },
-  {
-    "Version": "1.6.00.6754",
+    "Version": "1.6.00.11166",
     "Ring": "Public",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
   },
   {
-    "Version": "1.6.00.6754",
+    "Version": "1.6.00.11166",
     "Ring": "TAP",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.6754/Teams_windows.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.11166/Teams_windows.msi"
   }
 ]
