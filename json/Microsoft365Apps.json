@@ -8,37 +8,37 @@
   },
   {
     "Version": "16.0.16327.20248",
+    "Channel": "Current",
+    "Name": "Current Channel",
+    "Date": "2023-05-09T07:46:39.677Z",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
+    "Version": "16.0.16327.20248",
     "Channel": "CurrentPreview",
     "Name": "Current Channel (Preview)",
     "Date": "2023-05-02T18:26:44.667Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16327.20214",
-    "Channel": "Current",
-    "Name": "Current Channel",
-    "Date": "2023-04-26T00:01:28.853Z",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.16130.20394",
+    "Version": "16.0.16130.20500",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise",
-    "Date": "2023-04-11T08:04:40.293Z",
+    "Date": "2023-05-09T07:48:26.453Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16130.20394",
+    "Version": "16.0.16130.20500",
     "Channel": "SemiAnnualPreview",
     "Name": "Semi-Annual Channel Preview",
-    "Date": "2023-04-11T08:05:35.157Z",
+    "Date": "2023-05-09T07:49:04.863Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.15601.20626",
+    "Version": "16.0.15601.20660",
     "Channel": "SemiAnnual",
     "Name": "Semi-Annual Channel",
-    "Date": "2023-04-11T16:17:19.843Z",
+    "Date": "2023-05-09T07:49:58.98Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {

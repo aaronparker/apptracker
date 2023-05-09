@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.5.2",
-    "Installer": "Portable",
-    "Type": "exe",
-    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-portable.exe"
-  },
-  {
-    "Version": "4.5.2",
+    "Version": "4.6.3",
     "Installer": "Windows",
     "Type": "exe",
-    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.exe"
+    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe"
   },
   {
-    "Version": "4.5.2",
+    "Version": "4.6.3",
+    "Installer": "Portable",
+    "Type": "exe",
+    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe"
+  },
+  {
+    "Version": "4.6.3",
     "Installer": "MSI",
     "Type": "msi",
-    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.5.2-setup.msi"
+    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi"
   }
 ]
