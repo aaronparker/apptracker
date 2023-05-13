@@ -3,6 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
+  "InstallerType": "Default",
   "Date": "01/25/2023",
   "Size": 89343840,
   "URI": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.2.2/ResponsivelyApp-Setup-1.2.2.exe"

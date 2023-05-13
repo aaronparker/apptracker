@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "12/08/2021",
     "Size": 187154432,
     "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_17.0.6_10_openj9-0.36.0.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "12/08/2021",
     "Size": 34033664,
     "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_17.0.6_10_openj9-0.36.0.msi"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Debug",
     "Date": "12/08/2021",
     "Size": 46322376,
     "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-debugimage_x64_windows_17.0.6_10_openj9-0.36.0.zip"
@@ -31,6 +34,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "12/08/2021",
     "Size": 213579766,
     "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_17.0.6_10_openj9-0.36.0.zip"
@@ -40,6 +44,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "12/08/2021",
     "Size": 47118260,
     "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_17.0.6_10_openj9-0.36.0.zip"
@@ -49,6 +54,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "12/08/2021",
     "Size": 8112490,
     "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-testimage_x64_windows_17.0.6_10_openj9-0.36.0.zip"

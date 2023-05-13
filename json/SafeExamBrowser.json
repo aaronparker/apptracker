@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "04/03/2023",
     "Size": 260867728,
     "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/03/2023",
     "Size": 134868992,
     "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x64_Setup.msi"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/03/2023",
     "Size": 125992960,
     "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x86_Setup.msi"

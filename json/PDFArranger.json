@@ -3,6 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "msi",
+  "InstallerType": "Default",
   "Date": "11/27/2022",
   "Size": 37305856,
   "URI": "https://github.com/pdfarranger/pdfarranger/releases/download/1.9.2/pdfarranger-1.9.2-windows-installer.msi"

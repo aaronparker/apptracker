@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "01/17/2023",
     "Size": 125986656,
     "URI": "https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x64.exe"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "01/17/2023",
     "Size": 121932728,
     "URI": "https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x32.exe"

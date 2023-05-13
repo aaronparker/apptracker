@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "05/04/2023",
     "Size": 7143424,
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x64.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "05/04/2023",
     "Size": 7139328,
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGREP.3.2.306.x86.msi"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "05/04/2023",
     "Size": 5983160,
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v3.2.306.0/dnGrep.3.2.306.0.zip"

@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "10/27/2021",
     "Size": 6561483,
     "URI": "https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "10/27/2021",
     "Size": 7615638,
     "URI": "https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.portable.bin.zip"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "10/27/2021",
     "Size": 6367313,
     "URI": "https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.win.bin.zip"

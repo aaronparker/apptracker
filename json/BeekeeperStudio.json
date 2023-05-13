@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "Portable",
     "Date": "04/19/2023",
     "Size": 70314744,
     "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-3.9.9-portable.exe"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "04/19/2023",
     "Size": 70477640,
     "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-Setup-3.9.9.exe"

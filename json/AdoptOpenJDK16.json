@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "06/12/2020",
     "Size": 184905728,
     "URI": "https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jdk_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "06/12/2020",
     "Size": 31494144,
     "URI": "https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jre_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi"

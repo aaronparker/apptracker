@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "01/11/2019",
     "Size": 105721856,
     "URI": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "01/11/2019",
     "Size": 43614208,
     "URI": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "01/11/2019",
     "Size": 98983936,
     "URI": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi"
@@ -31,6 +34,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "01/11/2019",
     "Size": 36962304,
     "URI": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi"

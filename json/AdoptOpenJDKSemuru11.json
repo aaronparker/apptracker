@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "07/20/2021",
     "Size": 181751808,
     "URI": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jdk_x64_windows_11.0.18_10_openj9-0.36.1.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "07/20/2021",
     "Size": 34467840,
     "URI": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jre_x64_windows_11.0.18_10_openj9-0.36.1.msi"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Debug",
     "Date": "07/20/2021",
     "Size": 46337139,
     "URI": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-debugimage_x64_windows_11.0.18_10_openj9-0.36.1.zip"
@@ -31,6 +34,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "07/20/2021",
     "Size": 209014758,
     "URI": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jdk_x64_windows_11.0.18_10_openj9-0.36.1.zip"
@@ -40,6 +44,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "07/20/2021",
     "Size": 47079087,
     "URI": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jre_x64_windows_11.0.18_10_openj9-0.36.1.zip"
@@ -49,6 +54,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "07/20/2021",
     "Size": 7834514,
     "URI": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-testimage_x64_windows_11.0.18_10_openj9-0.36.1.zip"

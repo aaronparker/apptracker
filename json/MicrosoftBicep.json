@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "05/03/2023",
     "Size": 57662016,
     "URI": "https://github.com/Azure/bicep/releases/download/v0.17.1/bicep-win-arm64.exe"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "05/03/2023",
     "Size": 24587648,
     "URI": "https://github.com/Azure/bicep/releases/download/v0.17.1/bicep-setup-win-x64.exe"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "05/03/2023",
     "Size": 57534976,
     "URI": "https://github.com/Azure/bicep/releases/download/v0.17.1/bicep-win-x64.exe"

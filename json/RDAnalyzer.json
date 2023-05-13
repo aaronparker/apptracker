@@ -3,6 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
+  "InstallerType": "Default",
   "Date": "05/14/2021",
   "Size": 2549216,
   "URI": "https://github.com/RDAnalyzer/release/releases/download/2211.313.3/RemoteDisplayAnalyzer.exe"

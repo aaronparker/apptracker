@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "05/03/2023",
     "Size": 14061880,
     "URI": "https://github.com/praat/praat/releases/download/v6.3.10/praat6310_win64.zip"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Default",
     "Date": "05/03/2023",
     "Size": 13928403,
     "URI": "https://github.com/praat/praat/releases/download/v6.3.10/praat6310_win32.zip"

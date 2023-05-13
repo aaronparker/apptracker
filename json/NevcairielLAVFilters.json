@@ -3,6 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
+  "InstallerType": "Default",
   "Date": "03/08/2023",
   "Size": 14572552,
   "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe"

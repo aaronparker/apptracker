@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "04/13/2023",
     "Size": 9357216,
     "URI": "https://github.com/peazip/PeaZip/releases/download/9.2.0/peazip-9.2.0.WIN64.exe"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "04/13/2023",
     "Size": 8647428,
     "URI": "https://github.com/peazip/PeaZip/releases/download/9.2.0/peazip-9.2.0.WINDOWS.exe"

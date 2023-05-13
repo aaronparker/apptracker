@@ -3,6 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
+  "InstallerType": "Default",
   "Date": "02/20/2023",
   "Size": 561747256,
   "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v17-build1/Apache-NetBeans-17.exe"

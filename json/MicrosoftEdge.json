@@ -174,18 +174,18 @@
     "Version": "1.3.175.27",
     "Platform": "Windows",
     "Channel": "EdgeUpdate",
-    "Release": "Enterprise",
+    "Release": "Consumer",
     "Architecture": "x86",
     "Hash": "77ED94948626A855386FB3AC2C1803A58566D35D92B957802F30E80276ADBA18",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a866c2a8-d479-4ea5-a049-b40064567d5b/MicrosoftEdgeUpdateSetup_X86_1.3.175.27.exe"
   },
   {
-    "Version": "1.3.173.55",
+    "Version": "1.3.175.27",
     "Platform": "Windows",
     "Channel": "EdgeUpdate",
-    "Release": "Consumer",
+    "Release": "Enterprise",
     "Architecture": "x86",
-    "Hash": "314D3CF516B614D1ADD7B827A866AE8433DD116773FE633CB3591371D3CF50B7",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c3d824b6-e5f6-40ed-9798-d3e1d1d6a1c4/MicrosoftEdgeUpdateSetup_X86_1.3.173.55.exe"
+    "Hash": "77ED94948626A855386FB3AC2C1803A58566D35D92B957802F30E80276ADBA18",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a866c2a8-d479-4ea5-a049-b40064567d5b/MicrosoftEdgeUpdateSetup_X86_1.3.175.27.exe"
   }
 ]

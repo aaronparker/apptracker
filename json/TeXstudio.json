@@ -3,6 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
+  "InstallerType": "Default",
   "Date": "04/15/2023",
   "Size": 141122669,
   "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.5.2/texstudio-4.5.2-win-qt6.exe"

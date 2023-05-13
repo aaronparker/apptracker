@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 9277440,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Light.Setup.Arm64.msi"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 68399104,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Setup.Arm64.msi"
@@ -22,6 +24,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 9330688,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Light.Setup.x64.msi"
@@ -31,6 +34,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 73179136,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Setup.x64.msi"
@@ -40,6 +44,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 9269248,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Light.Setup.x86.msi"
@@ -49,6 +54,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 67612672,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Setup.x86.msi"
@@ -58,6 +64,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "msix",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 65669344,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Package.arm64.msix"
@@ -67,6 +74,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msix",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 79572562,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Package.x64.msix"
@@ -76,6 +84,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msix",
+    "InstallerType": "Default",
     "Date": "04/24/2023",
     "Size": 65604837,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Package.x86.msix"
@@ -85,6 +94,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "04/24/2023",
     "Size": 7434334,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Light.Portable.Arm64.zip"
@@ -94,6 +104,7 @@
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "04/24/2023",
     "Size": 66513406,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Portable.Arm64.zip"
@@ -103,6 +114,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "04/24/2023",
     "Size": 7443310,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Light.Portable.x64.zip"
@@ -112,6 +124,7 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "04/24/2023",
     "Size": 71320910,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Portable.x64.zip"
@@ -121,6 +134,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "04/24/2023",
     "Size": 7422524,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Light.Portable.x86.zip"
@@ -130,6 +144,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "04/24/2023",
     "Size": 65766058,
     "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.38/ScreenToGif.2.38.Portable.x86.zip"

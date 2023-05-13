@@ -4,6 +4,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "Default",
     "Date": "01/18/2023",
     "Size": 35744551,
     "URI": "https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe"
@@ -13,6 +14,7 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
+    "InstallerType": "Portable",
     "Date": "01/18/2023",
     "Size": 47026050,
     "URI": "https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip"
