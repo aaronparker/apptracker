@@ -93,8 +93,10 @@ else {
                 Write-Host -Object "Skipping. GitHub API rate limited: $($file.BaseName)." -ForegroundColor "Cyan"
             }
             else {
-                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
-                    ConvertTo-Json | Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Verbose
+                $Output | `
+                    Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
+                    ConvertTo-Json | `
+                    Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Verbose
                 Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
             }
         }
@@ -120,8 +122,10 @@ else {
                 Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
             }
             else {
-                $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
-                    ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+                $Output | `
+                    Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue" | `
+                    ConvertTo-Json | `
+                    Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
                 Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
             }
         }

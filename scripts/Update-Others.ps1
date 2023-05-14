@@ -9,7 +9,7 @@ param(
 )
 
 #region Functions
-Function Test-PSCore {
+function Test-PSCore {
     <#
         .SYNOPSIS
             Returns True if running on PowerShell Core.
@@ -23,10 +23,10 @@ Function Test-PSCore {
     )
 
     # Check whether current PowerShell environment matches or is higher than $Version
-    If (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
+    if (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
         Write-Output -InputObject $true
     }
-    Else {
+    else {
         Write-Output -InputObject $false
     }
 }
@@ -34,7 +34,6 @@ Function Test-PSCore {
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
-
 
 # MozillaFirefox is a special case, so we need to run it separately
 foreach ($App in @("MozillaFirefox", "MozillaThunderbird")) {
@@ -51,8 +50,10 @@ foreach ($App in @("MozillaFirefox", "MozillaThunderbird")) {
         Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
     }
     else {
-        $Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Type", "Architecture", "Channel", "Language" -ErrorAction "SilentlyContinue" | `
-            ConvertTo-Json | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+        $Output | `
+            Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Type", "Architecture", "Channel", "Language" -ErrorAction "SilentlyContinue" | `
+            ConvertTo-Json | `
+            Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
         Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
     }
 }

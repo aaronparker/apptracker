@@ -21,7 +21,7 @@ param(
 #     Out-File -FilePath $LastUpdateFile -Encoding "utf8" -Force
 
 #region Functions
-Function Test-PSCore {
+function Test-PSCore {
     <#
         .SYNOPSIS
             Returns True if running on PowerShell Core.
@@ -35,10 +35,10 @@ Function Test-PSCore {
     )
 
     # Check whether current PowerShell environment matches or is higher than $Version
-    If (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
+    if (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
         Write-Output -InputObject $true
     }
-    Else {
+    else {
         Write-Output -InputObject $false
     }
 }
