@@ -1,0 +1,14 @@
+json/7zip.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/OperaBrowser.json
+json/PDFForgePDFCreator.json
+json/ProgressChefWorkstation.json
+json/ProjectLibre.json
+json/Tower.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json

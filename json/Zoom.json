@@ -42,6 +42,13 @@
     "URI": "https://cdn.zoom.us/prod/5.14.8.16213/ZoomInstallerFull.msi"
   },
   {
+    "Version": "5.14.6.863",
+    "Platform": "Outlook",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.14.6.863/ZoomOutlookPluginSetup.msi"
+  },
+  {
     "Version": "5.14.5.2778",
     "Platform": "Rooms",
     "Type": "exe",
@@ -68,13 +75,6 @@
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.14.5.2778/zoomrooms-5.14.5.2778-x86.msi"
-  },
-  {
-    "Version": "5.14.5.851",
-    "Platform": "Outlook",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.14.5.851/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "5.13.10.812",
