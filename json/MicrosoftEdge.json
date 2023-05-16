@@ -63,58 +63,58 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/98e4c69b-45f7-4fcc-a7c6-263f4064f11f/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
-    "Version": "114.0.1823.11",
+    "Version": "114.0.1823.18",
     "Platform": "Windows",
     "Channel": "Beta",
     "Release": "Consumer",
     "Architecture": "arm64",
-    "Hash": "C424A99E58F6D080D7AC64FC64D6ABEE126C955506A85EE5A0CF537964D1F910",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/889c942b-b1d5-444c-af33-8d65181910ec/MicrosoftEdgeBetaEnterpriseARM64.msi"
+    "Hash": "677B3C818A5AE9008529A43A61EC86E7B1788CF5A3474A83976DE5B76E9BD9BD",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce8db034-f629-4777-b18d-7ee775b179c7/MicrosoftEdgeBetaEnterpriseARM64.msi"
   },
   {
-    "Version": "114.0.1823.11",
+    "Version": "114.0.1823.18",
     "Platform": "Windows",
     "Channel": "Beta",
     "Release": "Enterprise",
     "Architecture": "arm64",
-    "Hash": "C424A99E58F6D080D7AC64FC64D6ABEE126C955506A85EE5A0CF537964D1F910",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/889c942b-b1d5-444c-af33-8d65181910ec/MicrosoftEdgeBetaEnterpriseARM64.msi"
+    "Hash": "677B3C818A5AE9008529A43A61EC86E7B1788CF5A3474A83976DE5B76E9BD9BD",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce8db034-f629-4777-b18d-7ee775b179c7/MicrosoftEdgeBetaEnterpriseARM64.msi"
   },
   {
-    "Version": "114.0.1823.11",
+    "Version": "114.0.1823.18",
     "Platform": "Windows",
     "Channel": "Beta",
     "Release": "Consumer",
     "Architecture": "x64",
-    "Hash": "D22DD6442CB87FCA9826781DDDB8FDF7E9F0FAB1C41C9A88F208770CF6FFE669",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cf7511a-88e2-42ec-818a-117aa6e83a88/MicrosoftEdgeBetaEnterpriseX64.msi"
+    "Hash": "9DE5865380CCA3CB2C469F1A7B7DD7827716F3791A71A7CDC22C968B633D8DEF",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4a090df-bfbd-4fe6-819b-65e468b9739d/MicrosoftEdgeBetaEnterpriseX64.msi"
   },
   {
-    "Version": "114.0.1823.11",
+    "Version": "114.0.1823.18",
     "Platform": "Windows",
     "Channel": "Beta",
     "Release": "Enterprise",
     "Architecture": "x64",
-    "Hash": "D22DD6442CB87FCA9826781DDDB8FDF7E9F0FAB1C41C9A88F208770CF6FFE669",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cf7511a-88e2-42ec-818a-117aa6e83a88/MicrosoftEdgeBetaEnterpriseX64.msi"
+    "Hash": "9DE5865380CCA3CB2C469F1A7B7DD7827716F3791A71A7CDC22C968B633D8DEF",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4a090df-bfbd-4fe6-819b-65e468b9739d/MicrosoftEdgeBetaEnterpriseX64.msi"
   },
   {
-    "Version": "114.0.1823.11",
+    "Version": "114.0.1823.18",
     "Platform": "Windows",
     "Channel": "Beta",
     "Release": "Consumer",
     "Architecture": "x86",
-    "Hash": "14D0DFE9F7B270C48A83E1F5C71018AA1C0490851C631138BDBDABC5D023F3CE",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/85c49a00-6b2f-48df-88de-929a77ddec4e/MicrosoftEdgeBetaEnterpriseX86.msi"
+    "Hash": "35EA7A152C806509C98E14012A5B224E362DE5DA3E3B5FE8CB3FC65D4072784E",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c6a45fd-6bf8-40c5-8b27-a29ba112a9f5/MicrosoftEdgeBetaEnterpriseX86.msi"
   },
   {
-    "Version": "114.0.1823.11",
+    "Version": "114.0.1823.18",
     "Platform": "Windows",
     "Channel": "Beta",
     "Release": "Enterprise",
     "Architecture": "x86",
-    "Hash": "14D0DFE9F7B270C48A83E1F5C71018AA1C0490851C631138BDBDABC5D023F3CE",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/85c49a00-6b2f-48df-88de-929a77ddec4e/MicrosoftEdgeBetaEnterpriseX86.msi"
+    "Hash": "35EA7A152C806509C98E14012A5B224E362DE5DA3E3B5FE8CB3FC65D4072784E",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c6a45fd-6bf8-40c5-8b27-a29ba112a9f5/MicrosoftEdgeBetaEnterpriseX86.msi"
   },
   {
     "Version": "113.0.1774.42",
