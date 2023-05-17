@@ -1,0 +1,15 @@
+json/1Password.json
+json/7zip.json
+json/Gimp.json
+json/HashicorpConsul.json
+json/JetBrainsPyCharm.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/ProjectLibre.json
+json/TeamViewer.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
