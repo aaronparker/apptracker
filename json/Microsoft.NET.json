@@ -1,27 +1,27 @@
 [
   {
-    "Version": "7.0.203",
+    "Version": "7.0.302",
     "Architecture": "ARM64",
     "Installer": "sdk",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/99681982-34f1-447c-996f-e2deeaccc2b0/097021e4edee399854ad3bb1032db86d/dotnet-sdk-7.0.203-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/9e558c79-327a-4f0c-a183-1a79eb0f24c2/ca092e40ac7b058a736d9a5d6a34d32b/dotnet-sdk-7.0.302-win-arm64.exe"
   },
   {
-    "Version": "7.0.203",
+    "Version": "7.0.302",
     "Architecture": "x64",
     "Installer": "sdk",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/89a2923a-18df-4dce-b069-51e687b04a53/9db4348b561703e622de7f03b1f11e93/dotnet-sdk-7.0.203-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/974313ac-3d89-4c51-a6e8-338d864cf907/6ed5d4933878cada1b194dd1084a7e12/dotnet-sdk-7.0.302-win-x64.exe"
   },
   {
-    "Version": "7.0.203",
+    "Version": "7.0.302",
     "Architecture": "x86",
     "Installer": "sdk",
     "Channel": "Current",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/60253bf7-2405-4ee4-84ea-0a5fc9764f13/f5bd3e91214abfbb89e0f522e92aca70/dotnet-sdk-7.0.203-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/eea023e2-70cf-414d-a67c-3ed47320610f/5b583ff30d689f2eb12a321f6d4504bf/dotnet-sdk-7.0.302-win-x86.exe"
   },
   {
     "Version": "7.0.5",

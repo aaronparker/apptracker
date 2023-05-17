@@ -1,66 +1,66 @@
 [
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Any",
     "Channel": "Policy",
     "Release": "Enterprise",
     "Architecture": "any",
-    "Hash": "CBB75BD49D60F21CA099E28A175AC4728FC0A217A0C1D0FBD8B9E2FBC7AA03A5",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c9bdfb8-681c-4013-bd78-be6679c97ac4/MicrosoftEdgePolicyTemplates.cab"
+    "Hash": "39601A0F6187256723E4C58908CB02AFD265B73BCA93D9B9A9BB5E4ADC63F1CC",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/20daeb07-43d1-49dd-bb5d-a0036a16072a/MicrosoftEdgePolicyTemplates.cab"
   },
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Consumer",
     "Architecture": "arm64",
-    "Hash": "4223A9014FA384D4F28303EE9D3C0B54018B6BB6964FCFBE33FC8D57560CEC89",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f8406b28-61d6-42b0-b19c-046858caae4c/MicrosoftEdgeDevEnterpriseARM64.msi"
+    "Hash": "54428C7565E247D1C85C0674438B8725FA7F601F1F82A50FE86434671600B96D",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a4eeef4-7bed-4011-8e0a-d5231d009806/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Enterprise",
     "Architecture": "arm64",
-    "Hash": "4223A9014FA384D4F28303EE9D3C0B54018B6BB6964FCFBE33FC8D57560CEC89",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f8406b28-61d6-42b0-b19c-046858caae4c/MicrosoftEdgeDevEnterpriseARM64.msi"
+    "Hash": "54428C7565E247D1C85C0674438B8725FA7F601F1F82A50FE86434671600B96D",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a4eeef4-7bed-4011-8e0a-d5231d009806/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Consumer",
     "Architecture": "x64",
-    "Hash": "23EB0101B795A3B95AD10E36DD4B91DB72B805886EA3D7E72E1954E6137548ED",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa87c738-6aa4-4974-abf5-a7d05cae81a8/MicrosoftEdgeDevEnterpriseX64.msi"
+    "Hash": "54BFE4DB2EF60188680BAFFDE1C9135609A34504BB6DF6DCD1D07A3BD25B7243",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dabdb3fc-9165-47ff-a842-61b23f4be525/MicrosoftEdgeDevEnterpriseX64.msi"
   },
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Enterprise",
     "Architecture": "x64",
-    "Hash": "23EB0101B795A3B95AD10E36DD4B91DB72B805886EA3D7E72E1954E6137548ED",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa87c738-6aa4-4974-abf5-a7d05cae81a8/MicrosoftEdgeDevEnterpriseX64.msi"
+    "Hash": "54BFE4DB2EF60188680BAFFDE1C9135609A34504BB6DF6DCD1D07A3BD25B7243",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dabdb3fc-9165-47ff-a842-61b23f4be525/MicrosoftEdgeDevEnterpriseX64.msi"
   },
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Consumer",
     "Architecture": "x86",
-    "Hash": "AC5639352921EC04D029C8CEFED558403CDF0FE17E70115CCE001836ACACBF9B",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/98e4c69b-45f7-4fcc-a7c6-263f4064f11f/MicrosoftEdgeDevEnterpriseX86.msi"
+    "Hash": "6811F140792A4C0FB4C1E19029338BE7D44BDCCCCA9E57F5108D16DECA7A9503",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ac5f52b-65e3-45f4-ae7d-3f671bdb99e1/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
-    "Version": "115.0.1843.0",
+    "Version": "115.0.1851.0",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Enterprise",
     "Architecture": "x86",
-    "Hash": "AC5639352921EC04D029C8CEFED558403CDF0FE17E70115CCE001836ACACBF9B",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/98e4c69b-45f7-4fcc-a7c6-263f4064f11f/MicrosoftEdgeDevEnterpriseX86.msi"
+    "Hash": "6811F140792A4C0FB4C1E19029338BE7D44BDCCCCA9E57F5108D16DECA7A9503",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ac5f52b-65e3-45f4-ae7d-3f671bdb99e1/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
     "Version": "114.0.1823.18",

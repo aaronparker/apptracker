@@ -32,18 +32,18 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "113.0.5672.93",
+    "Version": "113.0.5672.127",
     "Architecture": "x64",
     "Channel": "stable",
-    "Date": "05/08/2023",
+    "Date": "05/16/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "113.0.5672.93",
+    "Version": "113.0.5672.127",
     "Architecture": "x86",
     "Channel": "stable",
-    "Date": "05/08/2023",
+    "Date": "05/16/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   }
