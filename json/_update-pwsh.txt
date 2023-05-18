@@ -13,3 +13,5 @@ json/VideoLanVlcPlayer.json
 json/WinSCP.json
 json/Zoom.json
 json/gretl.json
+json/GoogleChrome.json
+json/MicrosoftAzureDataStudio.json
