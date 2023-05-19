@@ -1,0 +1,16 @@
+json/7zip.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/ProgressChefInfraClient.json
+json/SAGAGIS.json
+json/SignalDesktop.json
+json/TableauDesktop.json
+json/TableauPrep.json
+json/TableauReader.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
