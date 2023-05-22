@@ -1,5 +1,19 @@
 [
   {
+    "Version": "23140.300.2107.7811",
+    "Release": "Consumer",
+    "Architecture": "macOS",
+    "Type": "pkg",
+    "URI": "https://statics.teams.cdn.office.net/production-osx/23140.300.2107.7811/MicrosoftTeams.pkg"
+  },
+  {
+    "Version": "23140.300.2107.7811",
+    "Release": "Enterprise",
+    "Architecture": "macOS",
+    "Type": "pkg",
+    "URI": "https://statics.teams.microsoft.com/production-osx/23140.300.2107.7811/MicrosoftTeams.pkg"
+  },
+  {
     "Version": "23126.205.2083.4917",
     "Release": "Consumer",
     "Architecture": "arm64",
