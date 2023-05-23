@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "1658438",
     "Md5": "109aafc5593286a951c1046658d120ba",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe"
   },
   {
     "Version": "22.01",
@@ -13,7 +13,7 @@
     "Type": "exe",
     "Size": "1607459",
     "Md5": "8db963c7d47f982df0723ea8c0599a9e",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe"
   },
   {
     "Version": "22.01",
@@ -21,7 +21,7 @@
     "Type": "exe",
     "Size": "1575742",
     "Md5": "a6a0f7c173094f8dafef996157751ecf",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe"
   },
   {
     "Version": "22.01",
@@ -29,7 +29,7 @@
     "Type": "exe",
     "Size": "1290308",
     "Md5": "734e95cdbe04f53fe7c28eeaaaad7327",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe"
   },
   {
     "Version": "22.01",
@@ -37,7 +37,7 @@
     "Type": "msi",
     "Size": "1912320",
     "Md5": "50515f156ae516461e28dd453230d448",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi"
+    "URI": "https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi"
   },
   {
     "Version": "22.01",
@@ -45,6 +45,6 @@
     "Type": "msi",
     "Size": "1490432",
     "Md5": "b25400614f24ebd0b76421e596ee18c6",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi"
+    "URI": "https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi"
   }
 ]

@@ -1,8 +1,18 @@
-{
-  "Version": "5.21.8",
-  "Architecture": "x86",
-  "Type": "exe",
-  "Size": "11483960",
-  "Md5": "3defb74e05d96442baf61835349c0065",
-  "URI": "https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/5.21.8/WinSCP-5.21.8-Setup.exe"
-}
+[
+  {
+    "Version": "6.1",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Size": "11113824",
+    "Md5": "cb7c2cacb63e7f617c83b1ad8a6b5ebf",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe"
+  },
+  {
+    "Version": "6.1",
+    "Architecture": "x86",
+    "Type": "msi",
+    "Size": "27852800",
+    "Md5": "7ee5b968e704fafc4a27720d5207d05e",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi"
+  }
+]
