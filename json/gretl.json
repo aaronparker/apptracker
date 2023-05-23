@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "37755640",
     "Md5": "48f8ad3cd5478375d672ae8891193314",
-    "URI": "https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe"
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe"
   },
   {
     "Version": "2023a",
@@ -13,6 +13,6 @@
     "Type": "exe",
     "Size": "34226712",
     "Md5": "b5ce5488b276688bbdcff0772022f3f2",
-    "URI": "https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe"
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe"
   }
 ]
