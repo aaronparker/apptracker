@@ -1,0 +1,13 @@
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/KeePass.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTerminal.json
+json/MicrosoftWvdRemoteDesktop.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
