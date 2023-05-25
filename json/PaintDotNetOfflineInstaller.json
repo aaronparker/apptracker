@@ -1,52 +1,52 @@
 [
   {
-    "Version": "5.0.5",
+    "Version": "5.0.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/07/2023",
-    "Size": 57589057,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.5/paint.net.5.0.5.install.arm64.zip"
+    "Size": 57584854,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.6/paint.net.5.0.6.install.arm64.zip"
   },
   {
-    "Version": "5.0.5",
+    "Version": "5.0.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/07/2023",
-    "Size": 66535872,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.5/paint.net.5.0.5.winmsi.arm64.zip"
+    "Size": 66541920,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.6/paint.net.5.0.6.winmsi.arm64.zip"
   },
   {
-    "Version": "5.0.5",
+    "Version": "5.0.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/07/2023",
-    "Size": 64994254,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.5/paint.net.5.0.5.install.x64.zip"
+    "Size": 64969087,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.6/paint.net.5.0.6.install.x64.zip"
   },
   {
-    "Version": "5.0.5",
+    "Version": "5.0.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/07/2023",
-    "Size": 73426179,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.5/paint.net.5.0.5.winmsi.x64.zip"
+    "Size": 73426884,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.6/paint.net.5.0.6.winmsi.x64.zip"
   },
   {
-    "Version": "5.0.5",
+    "Version": "5.0.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/07/2023",
-    "Size": 752266,
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.5/paint.net.5.0.5.install.anycpu.web.zip"
+    "Size": 752166,
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.6/paint.net.5.0.6.install.anycpu.web.zip"
   }
 ]

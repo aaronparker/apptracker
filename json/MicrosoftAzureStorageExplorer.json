@@ -1,22 +1,10 @@
-[
-  {
-    "Version": "1.29.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
-    "Date": "03/28/2023",
-    "Size": 111420424,
-    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.29.1/StorageExplorer-windows-ia32.exe"
-  },
-  {
-    "Version": "1.29.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
-    "Date": "03/28/2023",
-    "Size": 111420424,
-    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.29.1/Windows-StorageExplorer.exe"
-  }
-]
+{
+  "Version": "1.29.2",
+  "Platform": "Windows",
+  "Architecture": "x86",
+  "Type": "exe",
+  "InstallerType": "Default",
+  "Date": "03/28/2023",
+  "Size": 111422520,
+  "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.29.2/StorageExplorer-windows-ia32.exe"
+}
