@@ -297,8 +297,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
 | 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
+| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
 | 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
 ## AkeoRufus
@@ -1119,9 +1119,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                      |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://abqix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1245,10 +1245,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
-| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
-| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
+| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
 
 ## Handbrake
 
@@ -1427,19 +1427,19 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://newcontinuum.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://newcontinuum.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                               |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 2.53.1  | x86          | exe  | 4408888 | 0f6def7c3a9ea84e45768b7a02d2cabc | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1-Setup.exe |
-| 2.53.1  | x86          | msi  | 3789312 | 9687c510596ca019c2d7b25e39aeb50d | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                                   |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2.53.1  | x86          | exe  | 4408888 | 0f6def7c3a9ea84e45768b7a02d2cabc | https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1-Setup.exe |
+| 2.53.1  | x86          | msi  | 3789312 | 9687c510596ca019c2d7b25e39aeb50d | https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1570,8 +1570,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.45.0  | win32-x64      | Insider | 245dff39e3c3c3ebb7353a6300eac03142345cb7a385b8738861c67f148a3d46 | https://sqlopsbuilds.azureedge.net/insider/a82519ca0f04ca4d37c18c6bf3e663112d1f9878/azuredatastudio-windows-setup-1.45.0-insider.exe      |
-| 1.45.0  | win32-x64-user | Insider | 3ae4c45cc2554302f571da4153b1016c26d4877ff5b522f40c346bc88b99eddc | https://sqlopsbuilds.azureedge.net/insider/a82519ca0f04ca4d37c18c6bf3e663112d1f9878/azuredatastudio-windows-user-setup-1.45.0-insider.exe |
+| 1.45.0  | win32-x64      | Insider | eafe047ff8445174a6bad9c4962ce210e77f86df67ac4d0dc19c64dfc87f77d3 | https://sqlopsbuilds.azureedge.net/insider/e62486bee6217e9749e687344d7beb1a7dbf0364/azuredatastudio-windows-setup-1.45.0-insider.exe      |
+| 1.45.0  | win32-x64-user | Insider | 7aa516e97a45af5e99cd7dbba2d8ea0f24fb1474a1a2b4ac359027e1a3b82aaf | https://sqlopsbuilds.azureedge.net/insider/e62486bee6217e9749e687344d7beb1a7dbf0364/azuredatastudio-windows-user-setup-1.45.0-insider.exe |
 | 1.44.0  | win32-x64      | Stable  | 1556fd4a72000c4ff1e9afcdcf1da669821997c6aa3d0045e95c1846166811f0 | https://sqlopsbuilds.azureedge.net/stable/31bee67f005648cdc9186f28ef39b4f1d6585e0f/azuredatastudio-windows-setup-1.44.0.exe               |
 | 1.44.0  | win32-x64-user | Stable  | df5bf6b6d5c1ba3276040eeac5f0d8327659c50e0f7097c3f4de8cedd920c435 | https://sqlopsbuilds.azureedge.net/stable/31bee67f005648cdc9186f28ef39b4f1d6585e0f/azuredatastudio-windows-user-setup-1.44.0.exe          |
 
@@ -1828,16 +1828,16 @@
 
 [Link](https://www.microsoft.com/teams)
 
-| Version             | Release    | Architecture | Type | URI                                                                                                         |
-| ------------------- | ---------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------- |
-| 23140.300.2107.7811 | Consumer   | macOS        | pkg  | https://statics.teams.cdn.office.net/production-osx/23140.300.2107.7811/MicrosoftTeams.pkg                  |
-| 23140.300.2107.7811 | Enterprise | macOS        | pkg  | https://statics.teams.microsoft.com/production-osx/23140.300.2107.7811/MicrosoftTeams.pkg                   |
-| 23126.205.2083.4917 | Consumer   | arm64        | msix | https://statics.teams.cdn.office.net/production-windows-arm64/23126.205.2083.4917/MicrosoftTeams-arm64.msix |
-| 23126.205.2083.4917 | Enterprise | arm64        | msix | https://statics.teams.microsoft.com/production-windows-arm64/23126.205.2083.4917/MSTeams-arm64.msix         |
-| 23126.205.2083.4917 | Consumer   | x64          | msix | https://statics.teams.cdn.office.net/production-windows-x64/23126.205.2083.4917/MicrosoftTeams-x64.msix     |
-| 23126.205.2083.4917 | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23126.205.2083.4917/MSTeams-x64.msix             |
-| 23126.205.2083.4917 | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23126.205.2083.4917/MicrosoftTeams-x86.msix     |
-| 23126.205.2083.4917 | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23126.205.2083.4917/MSTeams-x86.msix             |
+| Version              | Release    | Architecture | Type | URI                                                                                                         |
+| -------------------- | ---------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------- |
+| 23144.1200.2118.1097 | Consumer   | macOS        | pkg  | https://statics.teams.cdn.office.net/production-osx/23144.1200.2118.1097/MicrosoftTeams.pkg                 |
+| 23144.1200.2118.1097 | Enterprise | macOS        | pkg  | https://statics.teams.microsoft.com/production-osx/23144.1200.2118.1097/MicrosoftTeams.pkg                  |
+| 23126.205.2083.4917  | Consumer   | arm64        | msix | https://statics.teams.cdn.office.net/production-windows-arm64/23126.205.2083.4917/MicrosoftTeams-arm64.msix |
+| 23126.205.2083.4917  | Enterprise | arm64        | msix | https://statics.teams.microsoft.com/production-windows-arm64/23126.205.2083.4917/MSTeams-arm64.msix         |
+| 23126.205.2083.4917  | Consumer   | x64          | msix | https://statics.teams.cdn.office.net/production-windows-x64/23126.205.2083.4917/MicrosoftTeams-x64.msix     |
+| 23126.205.2083.4917  | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23126.205.2083.4917/MSTeams-x64.msix             |
+| 23126.205.2083.4917  | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23126.205.2083.4917/MicrosoftTeams-x86.msix     |
+| 23126.205.2083.4917  | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23126.205.2083.4917/MSTeams-x86.msix             |
 
 ## MicrosoftTerminal
 
@@ -4406,8 +4406,8 @@
 
 | Version      | Channel | Architecture | Type | URI                                                                                         |
 | ------------ | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------- |
-| 98.0.4759.74 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/98.0.4759.74/win/Opera_GX_98.0.4759.74_Setup_x64.exe |
-| 98.0.4759.74 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/98.0.4759.74/win/Opera_GX_98.0.4759.74_Setup.exe     |
+| 98.0.4759.79 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/98.0.4759.79/win/Opera_GX_98.0.4759.79_Setup_x64.exe |
+| 98.0.4759.79 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/98.0.4759.79/win/Opera_GX_98.0.4759.79_Setup.exe     |
 
 ## OracleJava8
 
@@ -4712,10 +4712,10 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 9.0.1   | x64          | exe  | 75056275 | 262659d9d8e2264ef4e3452629991883 | https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_x64_setup.exe   |
-| 9.0.1   | x86          | exe  | 51796836 | 9802888f964e157725b0baa2e20337a5 | https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_win32_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 9.0.1   | x64          | exe  | 75056275 | 262659d9d8e2264ef4e3452629991883 | https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_x64_setup.exe   |
+| 9.0.1   | x86          | exe  | 51796836 | 9802888f964e157725b0baa2e20337a5 | https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_win32_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -4770,7 +4770,7 @@
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
-| 6.18.1  | https://updates.signal.org/desktop/signal-desktop-win-6.18.1.exe |
+| 6.19.0  | https://updates.signal.org/desktop/signal-desktop-win-6.19.0.exe |
 
 ## Slack
 
@@ -4941,8 +4941,8 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 5.0.432 | beta    | AB4C35344A3A78358722153D1372B9D4247A8FB5 | exe  | https://www.git-tower.com/apps/tower3-win/432-53833b94/Tower-5.0.432.exe |
-| 5.0.432 | beta    | 2D991F77D36B23F9AB135ACDAA93B5AA7E4C4FBE | msi  | https://www.git-tower.com/apps/tower3-win/432-53833b94/Tower-5.0.432.msi |
+| 5.0.433 | beta    | 5C33691CFBCB569D5CB9BBF70F13E1576B6CFB54 | exe  | https://www.git-tower.com/apps/tower3-win/433-53860dff/Tower-5.0.433.exe |
+| 5.0.433 | beta    | 5F4DB6FC79FFEA112808DEA4280EC1D06CE486E6 | msi  | https://www.git-tower.com/apps/tower3-win/433-53860dff/Tower-5.0.433.msi |
 | 4.3.425 | stable  | BCB03877E35F1FE5E268C92282A34E740807A804 | exe  | https://www.git-tower.com/apps/tower3-win/425-6e26e2b7/Tower-4.3.425.exe |
 | 4.3.425 | stable  | 615AFA6100E07E8C66418F6F0F523C02E99B81EA | msi  | https://www.git-tower.com/apps/tower3-win/425-6e26e2b7/Tower-4.3.425.msi |
 
@@ -4976,11 +4976,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5106,10 +5106,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| 6.1     | x86          | exe  | 11113824 | cb7c2cacb63e7f617c83b1ad8a6b5ebf | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe |
-| 6.1     | x86          | msi  | 27852800 | 7ee5b968e704fafc4a27720d5207d05e | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 6.1     | x86          | exe  | 11113824 | cb7c2cacb63e7f617c83b1ad8a6b5ebf | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe |
+| 6.1     | x86          | msi  | 27852800 | 7ee5b968e704fafc4a27720d5207d05e | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi       |
 
 ## Wireshark
 
