@@ -1,18 +1,18 @@
 [
   {
-    "Version": "9.0.1",
+    "Version": "9.0.2",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "75056275",
-    "Md5": "262659d9d8e2264ef4e3452629991883",
-    "URI": "https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_x64_setup.exe"
+    "Size": "57590012",
+    "Md5": "4f5a0b39770246584e255facffbd1124",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe"
   },
   {
-    "Version": "9.0.1",
+    "Version": "9.0.2",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "51796836",
-    "Md5": "9802888f964e157725b0baa2e20337a5",
-    "URI": "https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.1/saga-9.0.1_win32_setup.exe"
+    "Size": "44109173",
+    "Md5": "4a56088506304bd940eb540dd7c17506",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe"
   }
 ]
