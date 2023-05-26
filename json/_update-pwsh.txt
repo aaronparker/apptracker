@@ -1,0 +1,17 @@
+json/1Password.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/MirantisLens.json
+json/OperaGXBrowser.json
+json/VeraCrypt.json
+json/WinSCP.json
+json/gretl.json
