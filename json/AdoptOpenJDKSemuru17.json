@@ -1,62 +1,62 @@
 [
   {
-    "Version": "17.0.6+10",
+    "Version": "17.0.7+7",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "12/08/2021",
-    "Size": 187154432,
-    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_17.0.6_10_openj9-0.36.0.msi"
+    "Size": 187830272,
+    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_17.0.7_7_openj9-0.38.0.msi"
   },
   {
-    "Version": "17.0.6+10",
+    "Version": "17.0.7+7",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "12/08/2021",
-    "Size": 34033664,
-    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_17.0.6_10_openj9-0.36.0.msi"
+    "Size": 34570240,
+    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_17.0.7_7_openj9-0.38.0.msi"
   },
   {
-    "Version": "17.0.6+10",
+    "Version": "17.0.7+7",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Debug",
     "Date": "12/08/2021",
-    "Size": 46322376,
-    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-debugimage_x64_windows_17.0.6_10_openj9-0.36.0.zip"
+    "Size": 46465230,
+    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-debugimage_x64_windows_17.0.7_7_openj9-0.38.0.zip"
   },
   {
-    "Version": "17.0.6+10",
+    "Version": "17.0.7+7",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "12/08/2021",
-    "Size": 213579766,
-    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_17.0.6_10_openj9-0.36.0.zip"
+    "Size": 214385611,
+    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_17.0.7_7_openj9-0.38.0.zip"
   },
   {
-    "Version": "17.0.6+10",
+    "Version": "17.0.7+7",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "12/08/2021",
-    "Size": 47118260,
-    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_17.0.6_10_openj9-0.36.0.zip"
+    "Size": 47781256,
+    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_17.0.7_7_openj9-0.38.0.zip"
   },
   {
-    "Version": "17.0.6+10",
+    "Version": "17.0.7+7",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "12/08/2021",
-    "Size": 8112490,
-    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-testimage_x64_windows_17.0.6_10_openj9-0.36.0.zip"
+    "Size": 8111870,
+    "URI": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-testimage_x64_windows_17.0.7_7_openj9-0.38.0.zip"
   }
 ]
