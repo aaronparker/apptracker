@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                            |
-| ------- | -------------------------------------------------------------- |
-| 8.10.6  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.6.exe |
+| Version | URI                                                                |
+| ------- | ------------------------------------------------------------------ |
+| 8.10.6  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.6.exe |
 
 ## 1Password7
 
@@ -20,14 +20,14 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
-| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 22.01   | ARM32        | exe  | 1658438 | 109aafc5593286a951c1046658d120ba | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe   |
-| 22.01   | ARM64        | exe  | 1607459 | 8db963c7d47f982df0723ea8c0599a9e | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe |
-| 22.01   | x64          | exe  | 1575742 | a6a0f7c173094f8dafef996157751ecf | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe   |
-| 22.01   | x86          | exe  | 1290308 | 734e95cdbe04f53fe7c28eeaaaad7327 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe       |
-| 22.01   | x64          | msi  | 1912320 | 50515f156ae516461e28dd453230d448 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi   |
-| 22.01   | x86          | msi  | 1490432 | b25400614f24ebd0b76421e596ee18c6 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                   |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------- |
+| 22.01   | ARM32        | exe  | 1658438 | 109aafc5593286a951c1046658d120ba | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe   |
+| 22.01   | ARM64        | exe  | 1607459 | 8db963c7d47f982df0723ea8c0599a9e | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe |
+| 22.01   | x64          | exe  | 1575742 | a6a0f7c173094f8dafef996157751ecf | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe   |
+| 22.01   | x86          | exe  | 1290308 | 734e95cdbe04f53fe7c28eeaaaad7327 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe       |
+| 22.01   | x64          | msi  | 1912320 | 50515f156ae516461e28dd453230d448 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi   |
+| 22.01   | x86          | msi  | 1490432 | b25400614f24ebd0b76421e596ee18c6 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi       |
 
 ## 7ZipZS
 
@@ -237,27 +237,27 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-| Version    | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                    |
-| ---------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.18+10 | Windows  | x64          | msi  | Default       | 07/20/2021 | 181751808 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jdk_x64_windows_11.0.18_10_openj9-0.36.1.msi        |
-| 11.0.18+10 | Windows  | x64          | msi  | Default       | 07/20/2021 | 34467840  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jre_x64_windows_11.0.18_10_openj9-0.36.1.msi        |
-| 11.0.18+10 | Windows  | x64          | zip  | Debug         | 07/20/2021 | 46337139  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-debugimage_x64_windows_11.0.18_10_openj9-0.36.1.zip |
-| 11.0.18+10 | Windows  | x64          | zip  | Default       | 07/20/2021 | 209014758 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jdk_x64_windows_11.0.18_10_openj9-0.36.1.zip        |
-| 11.0.18+10 | Windows  | x64          | zip  | Default       | 07/20/2021 | 47079087  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-jre_x64_windows_11.0.18_10_openj9-0.36.1.zip        |
-| 11.0.18+10 | Windows  | x64          | zip  | Default       | 07/20/2021 | 7834514   | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.18%2B10_openj9-0.36.1/ibm-semeru-open-testimage_x64_windows_11.0.18_10_openj9-0.36.1.zip  |
+| Version   | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                  |
+| --------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.0.19+7 | Windows  | x64          | msi  | Default       | 07/20/2021 | 182431744 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.19%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_11.0.19_7_openj9-0.38.0.msi        |
+| 11.0.19+7 | Windows  | x64          | msi  | Default       | 07/20/2021 | 35033088  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.19%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_11.0.19_7_openj9-0.38.0.msi        |
+| 11.0.19+7 | Windows  | x64          | zip  | Debug         | 07/20/2021 | 46525385  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.19%2B7_openj9-0.38.0/ibm-semeru-open-debugimage_x64_windows_11.0.19_7_openj9-0.38.0.zip |
+| 11.0.19+7 | Windows  | x64          | zip  | Default       | 07/20/2021 | 209819906 | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.19%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_11.0.19_7_openj9-0.38.0.zip        |
+| 11.0.19+7 | Windows  | x64          | zip  | Default       | 07/20/2021 | 47755299  | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.19%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_11.0.19_7_openj9-0.38.0.zip        |
+| 11.0.19+7 | Windows  | x64          | zip  | Default       | 07/20/2021 | 7834387   | https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.19%2B7_openj9-0.38.0/ibm-semeru-open-testimage_x64_windows_11.0.19_7_openj9-0.38.0.zip  |
 
 ## AdoptOpenJDKSemuru17
 
 [Link](https://adoptopenjdk.net/index.html)
 
-| Version   | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                  |
-| --------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.0.6+10 | Windows  | x64          | msi  | Default       | 12/08/2021 | 187154432 | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_17.0.6_10_openj9-0.36.0.msi        |
-| 17.0.6+10 | Windows  | x64          | msi  | Default       | 12/08/2021 | 34033664  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_17.0.6_10_openj9-0.36.0.msi        |
-| 17.0.6+10 | Windows  | x64          | zip  | Debug         | 12/08/2021 | 46322376  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-debugimage_x64_windows_17.0.6_10_openj9-0.36.0.zip |
-| 17.0.6+10 | Windows  | x64          | zip  | Default       | 12/08/2021 | 213579766 | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jdk_x64_windows_17.0.6_10_openj9-0.36.0.zip        |
-| 17.0.6+10 | Windows  | x64          | zip  | Default       | 12/08/2021 | 47118260  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-jre_x64_windows_17.0.6_10_openj9-0.36.0.zip        |
-| 17.0.6+10 | Windows  | x64          | zip  | Default       | 12/08/2021 | 8112490   | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.6%2B10_openj9-0.36.0/ibm-semeru-open-testimage_x64_windows_17.0.6_10_openj9-0.36.0.zip  |
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 17.0.7+7 | Windows  | x64          | msi  | Default       | 12/08/2021 | 187830272 | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_17.0.7_7_openj9-0.38.0.msi        |
+| 17.0.7+7 | Windows  | x64          | msi  | Default       | 12/08/2021 | 34570240  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_17.0.7_7_openj9-0.38.0.msi        |
+| 17.0.7+7 | Windows  | x64          | zip  | Debug         | 12/08/2021 | 46465230  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-debugimage_x64_windows_17.0.7_7_openj9-0.38.0.zip |
+| 17.0.7+7 | Windows  | x64          | zip  | Default       | 12/08/2021 | 214385611 | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jdk_x64_windows_17.0.7_7_openj9-0.38.0.zip        |
+| 17.0.7+7 | Windows  | x64          | zip  | Default       | 12/08/2021 | 47781256  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_17.0.7_7_openj9-0.38.0.zip        |
+| 17.0.7+7 | Windows  | x64          | zip  | Default       | 12/08/2021 | 8111870   | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-testimage_x64_windows_17.0.7_7_openj9-0.38.0.zip  |
 
 ## AdoptOpenJDKSemuru18
 
@@ -405,7 +405,7 @@
 
 | Version | Type | URI                                               |
 | ------- | ---- | ------------------------------------------------- |
-| 2.11.22 | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.11.22.msi |
+| 2.11.23 | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.11.23.msi |
 
 ## AWSSAMCLI
 
@@ -1119,9 +1119,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1245,10 +1245,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
-| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
+| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
 
 ## Handbrake
 
@@ -1429,8 +1429,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
@@ -1641,12 +1641,12 @@
 | 115.0.1866.1  | Windows  | Dev        | Enterprise | x64          | E3FAD9590645F7FB4E16003654269EF6FC5188D2FEB5FC00B4A142AF69570092 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb4ca818-8379-479a-995c-fd4e8ce5fe90/MicrosoftEdgeDevEnterpriseX64.msi           |
 | 115.0.1866.1  | Windows  | Dev        | Consumer   | x86          | 84C63612810A8F7E34E8484BB8C9992196BC9D4B74FD8DD2A8E771697DAF10ED | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77f8a337-f453-4d16-a1cf-226cdd50781f/MicrosoftEdgeDevEnterpriseX86.msi           |
 | 115.0.1866.1  | Windows  | Dev        | Enterprise | x86          | 84C63612810A8F7E34E8484BB8C9992196BC9D4B74FD8DD2A8E771697DAF10ED | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77f8a337-f453-4d16-a1cf-226cdd50781f/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 114.0.1823.24 | Windows  | Beta       | Consumer   | arm64        | D5BE91A192DE30ABBC6BA0A521D3661F4D2D2B87FED1CDCF2A0D3C5A4FF99DFF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a0dc1865-5a88-4ce6-adfe-45b05b6a8bba/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 114.0.1823.24 | Windows  | Beta       | Enterprise | arm64        | D5BE91A192DE30ABBC6BA0A521D3661F4D2D2B87FED1CDCF2A0D3C5A4FF99DFF | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a0dc1865-5a88-4ce6-adfe-45b05b6a8bba/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 114.0.1823.24 | Windows  | Beta       | Consumer   | x64          | E6F49C4808D0D7583422914BF0B43E55F7C92087E07E3C71345B9360131A5D21 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/940ab2fd-120c-4abe-b5cf-81f832e54b85/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 114.0.1823.24 | Windows  | Beta       | Enterprise | x64          | E6F49C4808D0D7583422914BF0B43E55F7C92087E07E3C71345B9360131A5D21 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/940ab2fd-120c-4abe-b5cf-81f832e54b85/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 114.0.1823.24 | Windows  | Beta       | Consumer   | x86          | CAFE17E3F5F3EA322CD9A8DBFEA0459C7017785944F848551F61CBBBAACA5FA4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/42352ac2-575c-47d1-82e9-831ecbd355d6/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 114.0.1823.24 | Windows  | Beta       | Enterprise | x86          | CAFE17E3F5F3EA322CD9A8DBFEA0459C7017785944F848551F61CBBBAACA5FA4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/42352ac2-575c-47d1-82e9-831ecbd355d6/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 114.0.1823.30 | Windows  | Beta       | Consumer   | arm64        | 396AD9A66E517A572135321365A70C8CEE9BFABCFEB770F5CB93AA5B1FE91F2E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3386406a-3ced-42e1-9d9b-39d526fe7c2f/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 114.0.1823.30 | Windows  | Beta       | Enterprise | arm64        | 396AD9A66E517A572135321365A70C8CEE9BFABCFEB770F5CB93AA5B1FE91F2E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3386406a-3ced-42e1-9d9b-39d526fe7c2f/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 114.0.1823.30 | Windows  | Beta       | Consumer   | x64          | 5948B4966FDF7829BB6AA92FB055B7DA8581DCCFD0D0A9979076651F6C177F2A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e14a07bd-5584-4ded-be1f-1c28d38c9f26/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 114.0.1823.30 | Windows  | Beta       | Enterprise | x64          | 5948B4966FDF7829BB6AA92FB055B7DA8581DCCFD0D0A9979076651F6C177F2A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e14a07bd-5584-4ded-be1f-1c28d38c9f26/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 114.0.1823.30 | Windows  | Beta       | Consumer   | x86          | 63AE6626957EA9233681008DF3D4F3B8F9513B2820825CA440AF3CAD64047925 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de6a9169-eb98-4b42-a887-422ff06940d5/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 114.0.1823.30 | Windows  | Beta       | Enterprise | x86          | 63AE6626957EA9233681008DF3D4F3B8F9513B2820825CA440AF3CAD64047925 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de6a9169-eb98-4b42-a887-422ff06940d5/MicrosoftEdgeBetaEnterpriseX86.msi          |
 | 113.0.1774.57 | Windows  | Stable     | Consumer   | arm64        | DB5924C6C454F6016CBDF4D90925A4A2630A23E8B497182AE90D0B76B96F2BCA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/912449f1-2ff5-4a9d-9c18-669266324dbb/MicrosoftEdgeEnterpriseARM64.msi            |
 | 113.0.1774.57 | Windows  | Stable     | Enterprise | arm64        | DB5924C6C454F6016CBDF4D90925A4A2630A23E8B497182AE90D0B76B96F2BCA | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/912449f1-2ff5-4a9d-9c18-669266324dbb/MicrosoftEdgeEnterpriseARM64.msi            |
 | 113.0.1774.57 | Windows  | Stable     | Consumer   | x64          | 8A57EBD08A2C7000BE0D2638D0268608A4E1094C3F211AB991C82C17452D42E0 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/55759d14-099c-4334-abb8-129e589bc264/MicrosoftEdgeEnterpriseX64.msi              |
@@ -1665,9 +1665,9 @@
 | 115.0.1866.1  | Dev     | ARM64        | https://msedgedriver.azureedge.net/115.0.1866.1/edgedriver_arm64.zip  |
 | 115.0.1866.1  | Dev     | x64          | https://msedgedriver.azureedge.net/115.0.1866.1/edgedriver_win64.zip  |
 | 115.0.1866.1  | Dev     | x86          | https://msedgedriver.azureedge.net/115.0.1866.1/edgedriver_win32.zip  |
-| 114.0.1823.24 | Beta    | ARM64        | https://msedgedriver.azureedge.net/114.0.1823.24/edgedriver_arm64.zip |
-| 114.0.1823.24 | Beta    | x64          | https://msedgedriver.azureedge.net/114.0.1823.24/edgedriver_win64.zip |
-| 114.0.1823.24 | Beta    | x86          | https://msedgedriver.azureedge.net/114.0.1823.24/edgedriver_win32.zip |
+| 114.0.1823.30 | Beta    | ARM64        | https://msedgedriver.azureedge.net/114.0.1823.30/edgedriver_arm64.zip |
+| 114.0.1823.30 | Beta    | x64          | https://msedgedriver.azureedge.net/114.0.1823.30/edgedriver_win64.zip |
+| 114.0.1823.30 | Beta    | x86          | https://msedgedriver.azureedge.net/114.0.1823.30/edgedriver_win32.zip |
 | 113.0.1774.57 | Stable  | ARM64        | https://msedgedriver.azureedge.net/113.0.1774.57/edgedriver_arm64.zip |
 | 113.0.1774.57 | Stable  | x64          | https://msedgedriver.azureedge.net/113.0.1774.57/edgedriver_win64.zip |
 | 113.0.1774.57 | Stable  | x86          | https://msedgedriver.azureedge.net/113.0.1774.57/edgedriver_win32.zip |
@@ -1696,20 +1696,20 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.110.0524.0001 | AMD64        | InternalFast | d5ehPhMXgDXa3bRm93T0iRDP5OF4Ap0RXOKsJFPnHuY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.110.0524.0001/amd64/OneDriveSetup.exe |
-| 23.110.0524.0001 | ARM64        | InternalFast | ranRxLblwrZmb2Ro6KH9u6TXTg1QNhGQ8N8/gvpMMb0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.110.0524.0001/arm64/OneDriveSetup.exe |
-| 23.110.0524.0001 | x86          | InternalFast | 8WMvUK3M85oF1ji2CaVU5SYZu0QtDgJ/frC1Ag7SOM8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.110.0524.0001/OneDriveSetup.exe       |
+| 23.111.0525.0001 | AMD64        | InternalFast | v7ntJBODLQwPXlXGLnpNJmgri6rO71u5niVu73IN/kY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.111.0525.0001/amd64/OneDriveSetup.exe |
+| 23.111.0525.0001 | ARM64        | InternalFast | IlDrVCYvwYLPEv7JQ3WUNCU/+sxswcTac1xexf/Z+i8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.111.0525.0001/arm64/OneDriveSetup.exe |
+| 23.111.0525.0001 | x86          | InternalFast | h9XfAOZ3/snx8fyDSR/0310yILkn+Ch0KyrDEc0x7EU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.111.0525.0001/OneDriveSetup.exe       |
 | 23.109.0523.0001 | AMD64        | Insider      | O3RVd/SBsFbzi7zc3g4eDhzAQZU4lOmPNeN/42PfB1M= | exe  | https://oneclient.sfx.ms/Win/Installers/23.109.0523.0001/amd64/OneDriveSetup.exe |
 | 23.109.0523.0001 | AMD64        | InternalSlow | O3RVd/SBsFbzi7zc3g4eDhzAQZU4lOmPNeN/42PfB1M= | exe  | https://oneclient.sfx.ms/Win/Installers/23.109.0523.0001/amd64/OneDriveSetup.exe |
 | 23.109.0523.0001 | ARM64        | Insider      | 0BX1kVJ/KnGGK1qiD42u6F944CH7dKBiukfF/nenqe8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.109.0523.0001/arm64/OneDriveSetup.exe |
 | 23.109.0523.0001 | ARM64        | InternalSlow | 0BX1kVJ/KnGGK1qiD42u6F944CH7dKBiukfF/nenqe8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.109.0523.0001/arm64/OneDriveSetup.exe |
 | 23.109.0523.0001 | x86          | Insider      | 4ac8bRvqK3TnJuJhqY5ABh62RyJTjr40krZLYBz77G4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.109.0523.0001/OneDriveSetup.exe       |
 | 23.109.0523.0001 | x86          | InternalSlow | 4ac8bRvqK3TnJuJhqY5ABh62RyJTjr40krZLYBz77G4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.109.0523.0001/OneDriveSetup.exe       |
-| 23.104.0516.0001 | AMD64        | Insider      | ooIYCQ+oMO2qDelHF6H7Lw2pFDZ8zVSr99okVH/1rHM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.104.0516.0001/amd64/OneDriveSetup.exe |
+| 23.107.0521.0001 | AMD64        | Insider      | stWawjGH5rtIQQBS6KHvWXD6tqJ6fNYOgKLM3zxdR5g= | exe  | https://oneclient.sfx.ms/Win/Installers/23.107.0521.0001/amd64/OneDriveSetup.exe |
+| 23.107.0521.0001 | ARM64        | Insider      | X3BhaKmXQOrPNnwcwEZ3pnUsWdT0xDb05BPmbSF/XDU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.107.0521.0001/arm64/OneDriveSetup.exe |
+| 23.107.0521.0001 | x86          | Insider      | rHHDqlUSW/m7kjhMG6dO9gQI0NgMCEUfTKr/lnJpxKY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.107.0521.0001/OneDriveSetup.exe       |
 | 23.104.0516.0001 | AMD64        | Production   | ooIYCQ+oMO2qDelHF6H7Lw2pFDZ8zVSr99okVH/1rHM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.104.0516.0001/amd64/OneDriveSetup.exe |
-| 23.104.0516.0001 | ARM64        | Insider      | 05jtaoff2ovU2cHxXxxIEIirAIJq+ddM3rErMPUCpR4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.104.0516.0001/arm64/OneDriveSetup.exe |
 | 23.104.0516.0001 | ARM64        | Production   | 05jtaoff2ovU2cHxXxxIEIirAIJq+ddM3rErMPUCpR4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.104.0516.0001/arm64/OneDriveSetup.exe |
-| 23.104.0516.0001 | x86          | Insider      | UdydQxOkbMsYt5LNSVlbhMbB8rqEBNUe+H9YkHOznRQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.104.0516.0001/OneDriveSetup.exe       |
 | 23.104.0516.0001 | x86          | Production   | UdydQxOkbMsYt5LNSVlbhMbB8rqEBNUe+H9YkHOznRQ= | exe  | https://oneclient.sfx.ms/Win/Installers/23.104.0516.0001/OneDriveSetup.exe       |
 | 23.101.0514.0001 | AMD64        | Production   | l8BBYJE/rpoSePuNEuJz+e+HJs2OZSgP0JyV8dR4n/k= | exe  | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0001/amd64/OneDriveSetup.exe |
 | 23.101.0514.0001 | ARM64        | Production   | a0X2i4SqMvQWnqJqoAHw1RBZrC3JNHz/MlcEYCBhG6o= | exe  | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0001/arm64/OneDriveSetup.exe |
@@ -4577,9 +4577,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://netactuate.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://gigenet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -4976,11 +4976,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5106,10 +5106,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 6.1     | x86          | exe  | 11113824 | cb7c2cacb63e7f617c83b1ad8a6b5ebf | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe |
-| 6.1     | x86          | msi  | 27852800 | 7ee5b968e704fafc4a27720d5207d05e | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |
+| 6.1     | x86          | exe  | 11113824 | cb7c2cacb63e7f617c83b1ad8a6b5ebf | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe |
+| 6.1     | x86          | msi  | 27852800 | 7ee5b968e704fafc4a27720d5207d05e | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi       |
 
 ## Wireshark
 
