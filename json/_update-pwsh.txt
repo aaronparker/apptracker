@@ -1,0 +1,8 @@
+json/1Password.json
+json/7zip.json
+json/KeePass.json
+json/ProjectLibre.json
+json/VeraCrypt.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
