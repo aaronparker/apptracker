@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "4408888",
     "Md5": "0f6def7c3a9ea84e45768b7a02d2cabc",
-    "URI": "https://versaweb.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1-Setup.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1-Setup.exe"
   },
   {
     "Version": "2.53.1",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "3789312",
     "Md5": "9687c510596ca019c2d7b25e39aeb50d",
-    "URI": "https://versaweb.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1.msi"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1.msi"
   }
 ]
