@@ -1,0 +1,8 @@
+json/AirtameApp.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/ProjectLibre.json
+json/VeraCrypt.json
+json/Zoom.json
+json/gretl.json
