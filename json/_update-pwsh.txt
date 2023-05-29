@@ -1,0 +1,16 @@
+json/1Password.json
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftTeamsPreview.json
+json/MicrosoftVisualStudioCode.json
+json/ProjectLibre.json
+json/RingCentral.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
