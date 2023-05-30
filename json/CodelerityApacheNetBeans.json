@@ -1,10 +1,10 @@
 {
-  "Version": "v17-build1",
+  "Version": "v18-build1",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "InstallerType": "Default",
-  "Date": "02/20/2023",
-  "Size": 561747256,
-  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v17-build1/Apache-NetBeans-17.exe"
+  "Date": "05/26/2023",
+  "Size": 575287520,
+  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v18-build1/Apache-NetBeans-18.exe"
 }
