@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "2.10.1.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "InstallerType": "Portable",
+    "Date": "12/22/2022",
+    "Size": 9287435,
+    "URI": "https://github.com/OCSInventory-NG/WindowsAgent/releases/download/2.10.1.0/OCS-Windows-Agent-2.10.1.0_x64-Portable.zip"
+  },
+  {
+    "Version": "2.10.1.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "InstallerType": "Default",
+    "Date": "12/22/2022",
+    "Size": 5922213,
+    "URI": "https://github.com/OCSInventory-NG/WindowsAgent/releases/download/2.10.1.0/OCS-Windows-Agent-2.10.1.0_x64.zip"
+  },
+  {
+    "Version": "2.10.1.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "InstallerType": "Portable",
+    "Date": "12/22/2022",
+    "Size": 8417903,
+    "URI": "https://github.com/OCSInventory-NG/WindowsAgent/releases/download/2.10.1.0/OCS-Windows-Agent-2.10.1.0_x86-Portable.zip"
+  },
+  {
+    "Version": "2.10.1.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "InstallerType": "Default",
+    "Date": "12/22/2022",
+    "Size": 5441287,
+    "URI": "https://github.com/OCSInventory-NG/WindowsAgent/releases/download/2.10.1.0/OCS-Windows-Agent-2.10.1.0_x86.zip"
+  }
+]
