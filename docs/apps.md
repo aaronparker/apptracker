@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 256 applications and 3408 unique application installers:
+App Version Tracker is using Evergreen to track 259 applications and 3412 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -94,12 +94,14 @@ App Version Tracker is using Evergreen to track 256 applications and 3408 unique
 | GitHub Desktop                                                    | https://desktop.github.com/                                                                      |
 | GitHub release                                                    | https://github.com/                                                                              |
 | Google Chrome                                                     | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
+| Google Drive                                                      | https://support.google.com/drive/answer/7329379                                                  |
 | GoTo Connect                                                      | https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments       |
 | GoTo Meeting                                                      | https://support.goto.com/meeting/help/install-via-msi-windows                                    |
 | GoTo Opener                                                       | https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi                 |
 | Gpg4win                                                           | https://www.gpg4win.org/                                                                         |
 | Greenshot                                                         | https://getgreenshot.org/                                                                        |
 | gretl                                                             | http://gretl.sourceforge.net/                                                                    |
+| gsudo                                                             | https://gerardog.github.io/gsudo                                                                 |
 | Handbrake                                                         | https://handbrake.fr/                                                                            |
 | Hashicorp Boundary                                                | https://www.boundaryproject.io/                                                                  |
 | Hashicorp Consul                                                  | https://www.consul.io/                                                                           |
@@ -177,6 +179,7 @@ App Version Tracker is using Evergreen to track 256 applications and 3408 unique
 | Notepad++                                                         | https://notepad-plus-plus.org/                                                                   |
 | Obsidian                                                          | https://obsidian.md/                                                                             |
 | OBS Studio                                                        | https://obsproject.com/                                                                          |
+| OCS Inventory Windows Agent                                       | http://https://ocsinventory-ng.org/                                                              |
 | Octopus Deploy Server                                             | https://octopus.com/                                                                             |
 | Octopus Tentacle                                                  | https://octopus.com/                                                                             |
 | ONLYOFFICE Desktop Editors                                        | https://www.onlyoffice.com/desktop.aspx                                                          |
