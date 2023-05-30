@@ -1,10 +1,10 @@
 {
-  "Version": "6.5.0",
+  "Version": "6.5.1",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "InstallerType": "Default",
   "Date": "05/29/2023",
-  "Size": 138576368,
-  "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.0/OpenLens-6.5.0.exe"
+  "Size": 134672880,
+  "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.1/OpenLens-6.5.1.exe"
 }

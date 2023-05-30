@@ -1,0 +1,15 @@
+json/1Password.json
+json/7zip.json
+json/DevToys.json
+json/Gimp.json
+json/ImageMagickStudioImageMagick.json
+json/KDiff3.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTerminal.json
+json/OpenLens.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/dnGrep.json
