@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.7.0",
+    "Version": "1.8.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/25/2022",
-    "Size": 55193168,
-    "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.7.0/OpenWebStart_windows-x64_1_7_0.exe"
+    "Date": "05/17/2023",
+    "Size": 55793232,
+    "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x64_1_8_0.exe"
   },
   {
-    "Version": "1.7.0",
+    "Version": "1.8.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/25/2022",
-    "Size": 55805520,
-    "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.7.0/OpenWebStart_windows-x32_1_7_0.exe"
+    "Date": "05/17/2023",
+    "Size": 55817808,
+    "URI": "https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x32_1_8_0.exe"
   }
 ]
