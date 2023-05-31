@@ -1,0 +1,17 @@
+json/1Password.json
+json/AirtameApp.json
+json/BitwardenDesktop.json
+json/ChromiumChromeDriver.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/MirantisLens.json
+json/OperaBrowser.json
+json/SAGAGIS.json
+json/VastLimitsUberAgent.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/deviceTRUST.json
+json/gretl.json
