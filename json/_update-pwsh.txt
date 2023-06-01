@@ -1,0 +1,17 @@
+json/1Password.json
+json/AWSCLI.json
+json/AWSSAMCLI.json
+json/AirtameApp.json
+json/AkeoRufus.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleDrive.json
+json/HashicorpPacker.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWindowsPackageManagerClient.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
