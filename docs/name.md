@@ -20,14 +20,14 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                 |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------- |
-| 22.01   | ARM32        | exe  | 1658438 | 109aafc5593286a951c1046658d120ba | https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe   |
-| 22.01   | ARM64        | exe  | 1607459 | 8db963c7d47f982df0723ea8c0599a9e | https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe |
-| 22.01   | x64          | exe  | 1575742 | a6a0f7c173094f8dafef996157751ecf | https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe   |
-| 22.01   | x86          | exe  | 1290308 | 734e95cdbe04f53fe7c28eeaaaad7327 | https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe       |
-| 22.01   | x64          | msi  | 1912320 | 50515f156ae516461e28dd453230d448 | https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi   |
-| 22.01   | x86          | msi  | 1490432 | b25400614f24ebd0b76421e596ee18c6 | https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 22.01   | ARM32        | exe  | 1658438 | 109aafc5593286a951c1046658d120ba | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe   |
+| 22.01   | ARM64        | exe  | 1607459 | 8db963c7d47f982df0723ea8c0599a9e | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe |
+| 22.01   | x64          | exe  | 1575742 | a6a0f7c173094f8dafef996157751ecf | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe   |
+| 22.01   | x86          | exe  | 1290308 | 734e95cdbe04f53fe7c28eeaaaad7327 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe       |
+| 22.01   | x64          | msi  | 1912320 | 50515f156ae516461e28dd453230d448 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi   |
+| 22.01   | x86          | msi  | 1490432 | b25400614f24ebd0b76421e596ee18c6 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi       |
 
 ## 7ZipZS
 
@@ -555,39 +555,37 @@
 
 [Link](https://devicetrust.com/)
 
-| Version    | Platform | Type   | Name                                            | URI                                                                                              |
-| ---------- | -------- | ------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 23.1.100.0 | Windows  | Bundle | deviceTRUST 23.1.100                            | https://storage.devicetrust.com/download/deviceTRUST-23.1.100.zip                                |
-| 23.1.100.0 | Windows  | Client | deviceTRUST Windows Client Extension 23.1.100.0 | https://storage.devicetrust.com/client/dtclient-extension-release-23.1.100.0.exe                 |
-| 21.1.310.0 | IGEL     | Client | deviceTRUST IGEL Client 21.1.310                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-21.1.310.0.zip                |
-| 21.1.310.0 | Windows  | Bundle | deviceTRUST 21.1.310                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.310.zip                                |
-| 21.1.310.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.310.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.310.0.exe                 |
-| 21.1.300.0 | IGEL     | Client | deviceTRUST IGEL Client 21.1.300                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-21.1.300.0.zip                |
-| 21.1.300.0 | Linux    | Client | deviceTRUST Linux Client Extension 21.1.300     | https://storage.devicetrust.com/client/dtclient-extension-ubuntu-amd64-release-21.1.300.0.deb    |
-| 21.1.300.0 | macOS    | Client | deviceTRUST macOS Client Extension 21.1.300     | https://storage.devicetrust.com/client/dtclient-extension-macos-universal-release-21.1.300.0.dmg |
-| 21.1.300.0 | Windows  | Bundle | deviceTRUST 21.1.300                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.300.zip                                |
-| 21.1.300.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.300.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.300.0.exe                 |
-| 21.1.210.0 | Windows  | Bundle | deviceTRUST 21.1.210                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.210.zip                                |
-| 21.1.200.0 | Windows  | Bundle | deviceTRUST 21.1.200                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.200.zip                                |
-| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.210.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.210.0.exe                 |
-| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.200.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe                 |
-| 21.1.110.0 | Windows  | Bundle | deviceTRUST 21.1.110                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.110.zip                                |
-| 21.1.110.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.110.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.110.0.exe                 |
-| 21.1.100.0 | Windows  | Bundle | deviceTRUST 21.1.100                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.100.zip                                |
-| 21.1.100.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.100.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.100.0.exe                 |
-| 20.2.400.0 | Windows  | Bundle | deviceTRUST 20.2.400                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.400.zip                                |
-| 20.2.400.0 | Windows  | Client | deviceTRUST Windows Client 20.2.400.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.400.0.exe                           |
-| 20.2.340.0 | Windows  | Bundle | deviceTRUST 20.2.340                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.340.zip                                |
-| 20.2.340.0 | Windows  | Client | deviceTRUST Windows Client 20.2.340.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.340.0.exe                           |
-| 20.2.310.0 | IGEL     | Client | deviceTRUST IGEL Client 20.2.310                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.2.310.0.zip                |
-| 20.2.310.0 | macOS    | Client | deviceTRUST macOS Client 20.2.310               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.2.310.0.dmg               |
-| 20.2.300.0 | Linux    | Client | deviceTRUST Linux Client 20.2.300               | https://storage.devicetrust.com/client/dtclient-linux-amd64-release-20.2.300.0.deb               |
-| 20.1.300.0 | Windows  | Bundle | deviceTRUST 20.1.300                            | https://storage.devicetrust.com/download/deviceTRUST-20.1.300.zip                                |
-| 20.1.300.0 | Windows  | Client | deviceTRUST Windows Client 20.1.300             | https://storage.devicetrust.com/client/dtclient-release-20.1.300.0.exe                           |
-| 20.1.200.0 | eLux     | Client | deviceTRUST eLux Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-eluxrp6-amd64-release-20.1.200.0.zip             |
-| 20.1.200.0 | IGEL     | Client | deviceTRUST IGEL Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.1.200.0.zip                |
-| 20.1.200.0 | macOS    | Client | deviceTRUST macOS Client 20.1.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.1.200.dmg                 |
-| 19.4.100.0 | Windows  | Client | deviceTRUST Windows Client 19.4.100             | https://storage.devicetrust.com/client/dtclient-release-19.4.100.0.exe                           |
+| Version    | Platform | Type   | Name                                            | URI                                                                                       |
+| ---------- | -------- | ------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 21.1.310.0 | IGEL     | Client | deviceTRUST IGEL Client 21.1.310                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-21.1.310.0.zip         |
+| 21.1.310.0 | Windows  | Bundle | deviceTRUST 21.1.310                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.310.zip                         |
+| 21.1.310.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.310.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.310.0.exe          |
+| 21.1.300.0 | IGEL     | Client | deviceTRUST IGEL Client 21.1.300                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-21.1.300.0.zip         |
+| 21.1.300.0 | Windows  | Bundle | deviceTRUST 21.1.300                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.300.zip                         |
+| 21.1.300.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.300.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.300.0.exe          |
+| 21.1.210.0 | Windows  | Bundle | deviceTRUST 21.1.210                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.210.zip                         |
+| 21.1.200.0 | Windows  | Bundle | deviceTRUST 21.1.200                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.200.zip                         |
+| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.210.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.210.0.exe          |
+| 21.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.200.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe          |
+| 21.1.110.0 | Windows  | Bundle | deviceTRUST 21.1.110                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.110.zip                         |
+| 21.1.110.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.110.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.110.0.exe          |
+| 21.1.100.0 | Windows  | Bundle | deviceTRUST 21.1.100                            | https://storage.devicetrust.com/download/deviceTRUST-21.1.100.zip                         |
+| 21.1.100.0 | Windows  | Client | deviceTRUST Windows Client Extension 21.1.100.0 | https://storage.devicetrust.com/client/dtclient-extension-release-21.1.100.0.exe          |
+| 20.2.400.0 | Windows  | Bundle | deviceTRUST 20.2.400                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.400.zip                         |
+| 20.2.400.0 | Windows  | Client | deviceTRUST Windows Client 20.2.400.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.400.0.exe                    |
+| 20.2.340.0 | Windows  | Bundle | deviceTRUST 20.2.340                            | https://storage.devicetrust.com/download/deviceTRUST-20.2.340.zip                         |
+| 20.2.340.0 | Windows  | Client | deviceTRUST Windows Client 20.2.340.0           | https://storage.devicetrust.com/client/dtclient-release-20.2.340.0.exe                    |
+| 20.2.310.0 | IGEL     | Client | deviceTRUST IGEL Client 20.2.310                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.2.310.0.zip         |
+| 20.2.310.0 | macOS    | Client | deviceTRUST macOS Client 20.2.310               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.2.310.0.dmg        |
+| 20.2.300.0 | Linux    | Client | deviceTRUST Linux Client 20.2.300               | https://storage.devicetrust.com/client/dtclient-linux-amd64-release-20.2.300.0.deb        |
+| 20.1.300.0 | Windows  | Bundle | deviceTRUST 20.1.300                            | https://storage.devicetrust.com/download/deviceTRUST-20.1.300.zip                         |
+| 20.1.300.0 | Windows  | Client | deviceTRUST Windows Client 20.1.300             | https://storage.devicetrust.com/client/dtclient-release-20.1.300.0.exe                    |
+| 20.1.200.0 | eLux     | Client | deviceTRUST eLux Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-eluxrp6-amd64-release-20.1.200.0.zip      |
+| 20.1.200.0 | IGEL     | Client | deviceTRUST IGEL Client 20.1.200                | https://storage.devicetrust.com/client/dtclient-igel-amd64-release-20.1.200.0.zip         |
+| 20.1.200.0 | macOS    | Client | deviceTRUST macOS Client 20.1.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.1.200.dmg          |
+| 19.4.200.0 | macOS    | Client | deviceTRUST macOS Client 19.4.200               | https://storage.devicetrust.com/client/dtclient-macos-amd64-release-19.4.200.dmg          |
+| 19.4.100.0 | Windows  | Bundle | deviceTRUST 19.4.100                            | https://storage.devicetrust.com/696DC206E3D4EAB3705F6FA0EBD704A4/deviceTRUST-19.4.100.zip |
+| 19.4.100.0 | Windows  | Client | deviceTRUST Windows Client 19.4.100             | https://storage.devicetrust.com/client/dtclient-release-19.4.100.0.exe                    |
 
 ## DevToys
 
@@ -1120,9 +1118,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
 
 ## GitExtensions
 
@@ -1254,10 +1252,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |
-| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
-| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
+| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
 
 ## gsudo
 
@@ -1449,17 +1447,17 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                                 |
-| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 2.53.1  | x86          | exe  | 4408888 | 0f6def7c3a9ea84e45768b7a02d2cabc | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1-Setup.exe |
-| 2.53.1  | x86          | msi  | 3789312 | 9687c510596ca019c2d7b25e39aeb50d | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 2.53.1  | x86          | exe  | 4408888 | 0f6def7c3a9ea84e45768b7a02d2cabc | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1-Setup.exe |
+| 2.53.1  | x86          | msi  | 3789312 | 9687c510596ca019c2d7b25e39aeb50d | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.53.1/KeePass-2.53.1.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1590,8 +1588,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.45.0  | win32-x64      | Insider | 7f04035267bddeb63ad2e76fa38e5659dc816417892754d5de9e22dac28c481f | https://sqlopsbuilds.azureedge.net/insider/716176be07442ee8ab6b6ee00d217a9376a0750a/azuredatastudio-windows-setup-1.45.0-insider.exe      |
-| 1.45.0  | win32-x64-user | Insider | e76ecd6488ede4c8565aa20589f65005bfdfe353d54941faf1e3570088d65058 | https://sqlopsbuilds.azureedge.net/insider/716176be07442ee8ab6b6ee00d217a9376a0750a/azuredatastudio-windows-user-setup-1.45.0-insider.exe |
+| 1.45.0  | win32-x64      | Insider | cc34b15fde1f2a47964f8ab8c2b4a03716921b0c534a5738830286c0a267bcff | https://sqlopsbuilds.azureedge.net/insider/c16fce3ab95ee4085576778d23a76483a9748a51/azuredatastudio-windows-setup-1.45.0-insider.exe      |
+| 1.45.0  | win32-x64-user | Insider | a4a4d6bdc81b404c59f63953acdb745720d8c63fc12987033be1ce882fd73a5e | https://sqlopsbuilds.azureedge.net/insider/c16fce3ab95ee4085576778d23a76483a9748a51/azuredatastudio-windows-user-setup-1.45.0-insider.exe |
 | 1.44.0  | win32-x64      | Stable  | 1556fd4a72000c4ff1e9afcdcf1da669821997c6aa3d0045e95c1846166811f0 | https://sqlopsbuilds.azureedge.net/stable/31bee67f005648cdc9186f28ef39b4f1d6585e0f/azuredatastudio-windows-setup-1.44.0.exe               |
 | 1.44.0  | win32-x64-user | Stable  | df5bf6b6d5c1ba3276040eeac5f0d8327659c50e0f7097c3f4de8cedd920c435 | https://sqlopsbuilds.azureedge.net/stable/31bee67f005648cdc9186f28ef39b4f1d6585e0f/azuredatastudio-windows-user-setup-1.44.0.exe          |
 
@@ -1848,16 +1846,16 @@
 
 [Link](https://www.microsoft.com/teams)
 
-| Version             | Release    | Architecture | Type | URI                                                                                                         |
-| ------------------- | ---------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------- |
-| 23147.300.2125.5680 | Consumer   | macOS        | pkg  | https://statics.teams.cdn.office.net/production-osx/23147.300.2125.5680/MicrosoftTeams.pkg                  |
-| 23147.300.2125.5680 | Enterprise | macOS        | pkg  | https://statics.teams.microsoft.com/production-osx/23147.300.2125.5680/MicrosoftTeams.pkg                   |
-| 23140.303.2111.9674 | Consumer   | arm64        | msix | https://statics.teams.cdn.office.net/production-windows-arm64/23140.303.2111.9674/MicrosoftTeams-arm64.msix |
-| 23140.303.2111.9674 | Enterprise | arm64        | msix | https://statics.teams.microsoft.com/production-windows-arm64/23140.303.2111.9674/MSTeams-arm64.msix         |
-| 23140.303.2111.9674 | Consumer   | x64          | msix | https://statics.teams.cdn.office.net/production-windows-x64/23140.303.2111.9674/MicrosoftTeams-x64.msix     |
-| 23140.303.2111.9674 | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23140.303.2111.9674/MSTeams-x64.msix             |
-| 23140.303.2111.9674 | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23140.303.2111.9674/MicrosoftTeams-x86.msix     |
-| 23140.303.2111.9674 | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23140.303.2111.9674/MSTeams-x86.msix             |
+| Version              | Release    | Architecture | Type | URI                                                                                                         |
+| -------------------- | ---------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------- |
+| 23151.1400.2134.1897 | Consumer   | macOS        | pkg  | https://statics.teams.cdn.office.net/production-osx/23151.1400.2134.1897/MicrosoftTeams.pkg                 |
+| 23151.1400.2134.1897 | Enterprise | macOS        | pkg  | https://statics.teams.microsoft.com/production-osx/23151.1400.2134.1897/MicrosoftTeams.pkg                  |
+| 23140.303.2111.9674  | Consumer   | arm64        | msix | https://statics.teams.cdn.office.net/production-windows-arm64/23140.303.2111.9674/MicrosoftTeams-arm64.msix |
+| 23140.303.2111.9674  | Enterprise | arm64        | msix | https://statics.teams.microsoft.com/production-windows-arm64/23140.303.2111.9674/MSTeams-arm64.msix         |
+| 23140.303.2111.9674  | Consumer   | x64          | msix | https://statics.teams.cdn.office.net/production-windows-x64/23140.303.2111.9674/MicrosoftTeams-x64.msix     |
+| 23140.303.2111.9674  | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23140.303.2111.9674/MSTeams-x64.msix             |
+| 23140.303.2111.9674  | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23140.303.2111.9674/MicrosoftTeams-x86.msix     |
+| 23140.303.2111.9674  | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23140.303.2111.9674/MSTeams-x86.msix             |
 
 ## MicrosoftTerminal
 
@@ -1889,12 +1887,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.79.0  | win32            | Insider | x86          | 94dd48ae62d3d024d7f2b78d80115c30a716a9126efeb95d2c951fc15cc393e4 | https://az764295.vo.msecnd.net/insider/b9a77b3c7b43f229a430b28070250d55e5d14858/VSCodeSetup-ia32-1.79.0-insider.exe      |
-| 1.79.0  | win32-arm64      | Insider | ARM64        | 7964d7ad7353f878738dab7483c9c2cea09ae9445e6cb03073ac105f1bffb827 | https://az764295.vo.msecnd.net/insider/b9a77b3c7b43f229a430b28070250d55e5d14858/VSCodeSetup-arm64-1.79.0-insider.exe     |
-| 1.79.0  | win32-arm64-user | Insider | ARM64        | da23c78c6b7f9b0fc196ad046a520da9d29c6149c531bda4e14374fca44bd22d | https://az764295.vo.msecnd.net/insider/b9a77b3c7b43f229a430b28070250d55e5d14858/VSCodeUserSetup-arm64-1.79.0-insider.exe |
-| 1.79.0  | win32-user       | Insider | x86          | 9ba17b730af71f1f46737c3a7de5a94aa4df799d0a8be73a9c4f27c820a436aa | https://az764295.vo.msecnd.net/insider/b9a77b3c7b43f229a430b28070250d55e5d14858/VSCodeUserSetup-ia32-1.79.0-insider.exe  |
-| 1.79.0  | win32-x64        | Insider | x64          | 019cd0dc23fbfbb58ddbe3647f49209ebbd4442a882db93df8ea612d424c03ad | https://az764295.vo.msecnd.net/insider/b9a77b3c7b43f229a430b28070250d55e5d14858/VSCodeSetup-x64-1.79.0-insider.exe       |
-| 1.79.0  | win32-x64-user   | Insider | x64          | 85920c197112eb2b63faa8ab88c61cfb6d0c07b3aa96e7abc36279dc67fbc263 | https://az764295.vo.msecnd.net/insider/b9a77b3c7b43f229a430b28070250d55e5d14858/VSCodeUserSetup-x64-1.79.0-insider.exe   |
+| 1.79.0  | win32            | Insider | x86          | 73ec85b46997547b8b66576e3ce6790e2807944e96d37efc71e011f1c1c04f6b | https://az764295.vo.msecnd.net/insider/c3867859cf3e1a73f3ddce5ad36b3791b7883d88/VSCodeSetup-ia32-1.79.0-insider.exe      |
+| 1.79.0  | win32-arm64      | Insider | ARM64        | 64b394ecbedba7b99d6667d0e518f731f3f42e9316475e18e0d19561b259fb51 | https://az764295.vo.msecnd.net/insider/c3867859cf3e1a73f3ddce5ad36b3791b7883d88/VSCodeSetup-arm64-1.79.0-insider.exe     |
+| 1.79.0  | win32-arm64-user | Insider | ARM64        | 52314f8bb350ffa7a159b1b6f14c644791e764c0a832bb862c5ff2ff33240100 | https://az764295.vo.msecnd.net/insider/c3867859cf3e1a73f3ddce5ad36b3791b7883d88/VSCodeUserSetup-arm64-1.79.0-insider.exe |
+| 1.79.0  | win32-user       | Insider | x86          | 2db6f1fde3f4d3e4c1aeeed60ce1dfe2528c247f671198ce4766bd5e71674cd8 | https://az764295.vo.msecnd.net/insider/c3867859cf3e1a73f3ddce5ad36b3791b7883d88/VSCodeUserSetup-ia32-1.79.0-insider.exe  |
+| 1.79.0  | win32-x64        | Insider | x64          | 9f78a1db28a328f2f724e5c500315ca4344f939f09056a37f9c385e6b89447c4 | https://az764295.vo.msecnd.net/insider/c3867859cf3e1a73f3ddce5ad36b3791b7883d88/VSCodeSetup-x64-1.79.0-insider.exe       |
+| 1.79.0  | win32-x64-user   | Insider | x64          | 6b6eeaf203e930a53bf004b3e55ca776b5d1e62037bb8d68851aeb9a0d5df4d5 | https://az764295.vo.msecnd.net/insider/c3867859cf3e1a73f3ddce5ad36b3791b7883d88/VSCodeUserSetup-x64-1.79.0-insider.exe   |
 | 1.78.2  | win32            | Stable  | x86          | 6156e991ed0869f8d1d631c32a6f9f555fdf5019d66521e7ba929bb76c4e54fe | https://az764295.vo.msecnd.net/stable/b3e4e68a0bc097f0ae7907b217c1119af9e03435/VSCodeSetup-ia32-1.78.2.exe               |
 | 1.78.2  | win32-arm64      | Stable  | ARM64        | c55b016c03dd6d7a8742c8e7755d8a3c70a3910cd00305a3d48b40c4fbb2eeaa | https://az764295.vo.msecnd.net/stable/b3e4e68a0bc097f0ae7907b217c1119af9e03435/VSCodeSetup-arm64-1.78.2.exe              |
 | 1.78.2  | win32-arm64-user | Stable  | ARM64        | 85e775d0953c7400eca06a468128a5d10ae92f5586a2076aab70ba536b055fa5 | https://az764295.vo.msecnd.net/stable/b3e4e68a0bc097f0ae7907b217c1119af9e03435/VSCodeUserSetup-arm64-1.78.2.exe          |
@@ -4608,9 +4606,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://gigenet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cfhcable.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -4745,8 +4743,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 9.0.2   | x64          | exe  | 57590012 | 4f5a0b39770246584e255facffbd1124 | https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe   |
-| 9.0.2   | x86          | exe  | 44109173 | 4a56088506304bd940eb540dd7c17506 | https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe |
+| 9.0.2   | x64          | exe  | 57590012 | 4f5a0b39770246584e255facffbd1124 | https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe   |
+| 9.0.2   | x86          | exe  | 44109173 | 4a56088506304bd940eb540dd7c17506 | https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5009,9 +5007,9 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5027,12 +5025,12 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe          |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi          |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip          |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe        |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi        |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip        |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
