@@ -6,7 +6,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "06/01/2023",
-    "Size": 78940624,
+    "Size": 78919688,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.5/Obsidian.1.3.5-arm64.exe"
   },
   {
@@ -16,7 +16,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "06/01/2023",
-    "Size": 71593056,
+    "Size": 71570696,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.5/Obsidian.1.3.5-32.exe"
   },
   {
@@ -26,7 +26,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "06/01/2023",
-    "Size": 75929096,
+    "Size": 75906648,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.5/Obsidian.1.3.5.exe"
   }
 ]
