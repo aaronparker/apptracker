@@ -1,5 +1,19 @@
 [
   {
+    "Version": "23.1.100.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 23.1.100",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-23.1.100.zip"
+  },
+  {
+    "Version": "23.1.100.0",
+    "Platform": "Windows",
+    "Type": "Client",
+    "Name": "deviceTRUST Windows Client Extension 23.1.100.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-23.1.100.0.exe"
+  },
+  {
     "Version": "21.1.310.0",
     "Platform": "IGEL",
     "Type": "Client",
@@ -26,6 +40,20 @@
     "Type": "Client",
     "Name": "deviceTRUST IGEL Client 21.1.300",
     "URI": "https://storage.devicetrust.com/client/dtclient-igel-amd64-release-21.1.300.0.zip"
+  },
+  {
+    "Version": "21.1.300.0",
+    "Platform": "Linux",
+    "Type": "Client",
+    "Name": "deviceTRUST Linux Client Extension 21.1.300",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-ubuntu-amd64-release-21.1.300.0.deb"
+  },
+  {
+    "Version": "21.1.300.0",
+    "Platform": "macOS",
+    "Type": "Client",
+    "Name": "deviceTRUST macOS Client Extension 21.1.300",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-macos-universal-release-21.1.300.0.dmg"
   },
   {
     "Version": "21.1.300.0",
@@ -180,20 +208,6 @@
     "Type": "Client",
     "Name": "deviceTRUST macOS Client 20.1.200",
     "URI": "https://storage.devicetrust.com/client/dtclient-macos-amd64-release-20.1.200.dmg"
-  },
-  {
-    "Version": "19.4.200.0",
-    "Platform": "macOS",
-    "Type": "Client",
-    "Name": "deviceTRUST macOS Client 19.4.200",
-    "URI": "https://storage.devicetrust.com/client/dtclient-macos-amd64-release-19.4.200.dmg"
-  },
-  {
-    "Version": "19.4.100.0",
-    "Platform": "Windows",
-    "Type": "Bundle",
-    "Name": "deviceTRUST 19.4.100",
-    "URI": "https://storage.devicetrust.com/696DC206E3D4EAB3705F6FA0EBD704A4/deviceTRUST-19.4.100.zip"
   },
   {
     "Version": "19.4.100.0",
