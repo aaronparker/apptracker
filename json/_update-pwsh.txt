@@ -1,0 +1,8 @@
+json/7zip.json
+json/AirtameApp.json
+json/KDiff3.json
+json/ProjectLibre.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
