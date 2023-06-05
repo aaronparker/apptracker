@@ -1,0 +1,11 @@
+json/AirtameApp.json
+json/DockerDesktop.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/gretl.json
