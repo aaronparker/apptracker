@@ -28,8 +28,8 @@
     "Platform": "win32-user",
     "Channel": "Insider",
     "Architecture": "x86",
-    "Sha256": "53eab9a71c9661107bc0a29e789f2314b691d3c4c3b531292babc1f9193b7be2",
-    "URI": "https://az764295.vo.msecnd.net/insider/a8e719eeed4dac1f59fc2e48ed00545c0acafc42/VSCodeUserSetup-ia32-1.79.0-insider.exe"
+    "Sha256": "1c818a204e8af79d2e10069576a52f03c09157a302a7f98e194e49f83877a407",
+    "URI": "https://az764295.vo.msecnd.net/insider/aee52551e25d98391f9064996196cd83a9fc8669/VSCodeUserSetup-ia32-1.79.0-insider.exe"
   },
   {
     "Version": "1.79.0",
