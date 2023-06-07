@@ -6,8 +6,8 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "06/06/2023",
-    "Size": 109222576,
-    "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-307/OpenLens.6.5.2-307.exe"
+    "Size": 109232344,
+    "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-309/OpenLens.6.5.2-309.exe"
   },
   {
     "Version": "6.5.2",
@@ -16,7 +16,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "06/06/2023",
-    "Size": 109464352,
-    "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-307/OpenLens.Setup.6.5.2-307.exe"
+    "Size": 109474096,
+    "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-309/OpenLens.Setup.6.5.2-309.exe"
   }
 ]
