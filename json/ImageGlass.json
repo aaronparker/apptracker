@@ -7,6 +7,16 @@
     "InstallerType": "Default",
     "Date": "06/07/2023",
     "Size": 28878336,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x64.delete.msi"
+  },
+  {
+    "Version": "8.9.6.9",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "06/07/2023",
+    "Size": 28893184,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x64.msi"
   },
   {
@@ -17,6 +27,16 @@
     "InstallerType": "Default",
     "Date": "06/07/2023",
     "Size": 19850240,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x86.delete.msi"
+  },
+  {
+    "Version": "8.9.6.9",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "06/07/2023",
+    "Size": 19871744,
     "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.9.6.9/ImageGlass_Kobe_8.9.6.9_x86.msi"
   }
 ]
