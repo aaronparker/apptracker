@@ -3,7 +3,7 @@
     "Version": "116.0.5817.5",
     "Architecture": "x86",
     "Channel": "dev",
-    "Date": "06/09/2023",
+    "Date": "06/10/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
