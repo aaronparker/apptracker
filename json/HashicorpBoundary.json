@@ -1,14 +1,14 @@
 [
   {
-    "Version": "0.12.2",
+    "Version": "0.13.0",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/boundary/0.12.2/boundary_0.12.2_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/boundary/0.13.0/boundary_0.13.0_windows_amd64.zip"
   },
   {
-    "Version": "0.12.2",
+    "Version": "0.13.0",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/boundary/0.12.2/boundary_0.12.2_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/boundary/0.13.0/boundary_0.13.0_windows_386.zip"
   }
 ]

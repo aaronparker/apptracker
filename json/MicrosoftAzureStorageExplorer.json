@@ -1,10 +1,10 @@
 {
-  "Version": "1.29.2",
+  "Version": "1.30.0",
   "Platform": "Windows",
-  "Architecture": "x86",
+  "Architecture": "x64",
   "Type": "exe",
   "InstallerType": "Default",
   "Date": "03/28/2023",
-  "Size": 111422520,
-  "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.29.2/StorageExplorer-windows-ia32.exe"
+  "Size": 133358736,
+  "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.30.0/StorageExplorer-windows-x64.exe"
 }
