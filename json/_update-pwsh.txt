@@ -1,0 +1,16 @@
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeamsPreview.json
+json/MicrosoftVisualStudioCode.json
+json/OnlyOfficeDesktopEditors.json
+json/PiriformCCleanerFree.json
+json/Postman.json
+json/SAGAGIS.json
+json/TelegramDesktop.json
+json/VMwareTools.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
