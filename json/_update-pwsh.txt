@@ -1,0 +1,14 @@
+json/7zip.json
+json/AirtameApp.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/OpenLens.json
+json/ProjectLibre.json
+json/RCoreTeamRforWindows.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
