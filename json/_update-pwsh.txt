@@ -1,0 +1,10 @@
+json/7ZipZS.json
+json/7zip.json
+json/AirtameApp.json
+json/KeePass.json
+json/NotepadPlusPlus.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
