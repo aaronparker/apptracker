@@ -1,0 +1,15 @@
+json/7zip.json
+json/AirtameApp.json
+json/CitrixWorkspaceApp.json
+json/Gimp.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/OctopusDeployServer.json
+json/OctopusTentacle.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
