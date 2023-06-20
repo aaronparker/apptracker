@@ -1,45 +1,45 @@
 [
   {
-    "Version": "5.14.11.17466",
+    "Version": "5.15.0.17890",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/5.14.11.17466/arm64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.0.17890/arm64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.14.11.17466",
+    "Version": "5.15.0.17890",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.14.11.17466/x64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.0.17890/x64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.14.11.17466",
+    "Version": "5.15.0.17890",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.14.11.17466/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.0.17890/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.14.11.17466",
+    "Version": "5.15.0.17890",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/5.14.11.17466/arm64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.0.17890/arm64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.14.11.17466",
+    "Version": "5.15.0.17890",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.14.11.17466/x64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.0.17890/x64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.14.11.17466",
+    "Version": "5.15.0.17890",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.14.11.17466/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.0.17890/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.14.10.876",
@@ -88,14 +88,14 @@
     "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi"
+    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi"
   },
   {
     "Version": "5.13.10.811",
     "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi"
   },
   {
     "Version": "Latest",
