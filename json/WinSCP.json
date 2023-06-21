@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "11113824",
     "Md5": "cb7c2cacb63e7f617c83b1ad8a6b5ebf",
-    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe"
+    "URI": "https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe"
   },
   {
     "Version": "6.1",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "27852800",
     "Md5": "7ee5b968e704fafc4a27720d5207d05e",
-    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi"
+    "URI": "https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi"
   }
 ]
