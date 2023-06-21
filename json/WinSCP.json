@@ -1,18 +1,18 @@
 [
   {
-    "Version": "6.1",
+    "Version": "6.1.1",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "11113824",
-    "Md5": "cb7c2cacb63e7f617c83b1ad8a6b5ebf",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1-Setup.exe"
+    "Size": "11120192",
+    "Md5": "1e31dfc72caed84e44fa9e7eda34f2c6",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe"
   },
   {
-    "Version": "6.1",
+    "Version": "6.1.1",
     "Architecture": "x86",
     "Type": "msi",
     "Size": "27852800",
-    "Md5": "7ee5b968e704fafc4a27720d5207d05e",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1/WinSCP-6.1.msi"
+    "Md5": "4594cfebd742ecb051906fff777a82cf",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi"
   }
 ]
