@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "57590012",
     "Md5": "4f5a0b39770246584e255facffbd1124",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe"
+    "URI": "https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe"
   },
   {
     "Version": "9.0.2",
@@ -13,6 +13,6 @@
     "Type": "exe",
     "Size": "44109173",
     "Md5": "4a56088506304bd940eb540dd7c17506",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe"
+    "URI": "https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe"
   }
 ]

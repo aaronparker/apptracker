@@ -294,45 +294,45 @@
     "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.16472/Teams_windows.msi"
   },
   {
-    "Version": "1.6.00.15884",
+    "Version": "1.6.00.16372",
     "Ring": "Preview",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.15884/Teams_windows_arm64.exe"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.16372/Teams_windows_arm64.exe"
   },
   {
-    "Version": "1.6.00.15884",
+    "Version": "1.6.00.16372",
     "Ring": "Preview",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.15884/Teams_windows_x64.exe"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.16372/Teams_windows_x64.exe"
   },
   {
-    "Version": "1.6.00.15884",
+    "Version": "1.6.00.16372",
     "Ring": "Preview",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.15884/Teams_windows.exe"
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.16372/Teams_windows.exe"
   },
   {
-    "Version": "1.6.00.15884",
+    "Version": "1.6.00.16372",
     "Ring": "Preview",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.15884/Teams_windows_arm64.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.16372/Teams_windows_arm64.msi"
   },
   {
-    "Version": "1.6.00.15884",
+    "Version": "1.6.00.16372",
     "Ring": "Preview",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.15884/Teams_windows_x64.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.16372/Teams_windows_x64.msi"
   },
   {
-    "Version": "1.6.00.15884",
+    "Version": "1.6.00.16372",
     "Ring": "Preview",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.15884/Teams_windows.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.6.00.16372/Teams_windows.msi"
   }
 ]
