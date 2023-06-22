@@ -22,6 +22,13 @@
   },
   {
     "Version": "23159.1802.2163.9887",
+    "Release": "Enterprise",
+    "Architecture": "arm64",
+    "Type": "msix",
+    "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23159.1802.2163.9887/MSTeams-arm64.msix"
+  },
+  {
+    "Version": "23159.1802.2163.9887",
     "Release": "Consumer",
     "Architecture": "x64",
     "Type": "msix",
@@ -47,12 +54,5 @@
     "Architecture": "x86",
     "Type": "msix",
     "URI": "https://statics.teams.microsoft.com/production-windows-x86/23159.1802.2163.9887/MSTeams-x86.msix"
-  },
-  {
-    "Version": "23153.2006.2163.6918",
-    "Release": "Enterprise",
-    "Architecture": "arm64",
-    "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23153.2006.2163.6918/MSTeams-arm64.msix"
   }
 ]

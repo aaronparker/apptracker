@@ -15,3 +15,13 @@ json/ProjectLibre.json
 json/VideoLanVlcPlayer.json
 json/WinSCP.json
 json/gretl.json
+json/AWSCLI.json
+json/BitwardenDesktop.json
+json/GoogleChrome.json
+json/KeePass.json
+json/MicrosoftTeams.json
+json/MicrosoftTeamsPreview.json
+json/SAGAGIS.json
+json/SignalDesktop.json
+json/VeraCrypt.json
+json/Zoom.json
