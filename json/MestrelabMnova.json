@@ -1,14 +1,14 @@
 [
   {
-    "Version": "14.3.2",
-    "Revision": "32681",
+    "Version": "14.3.3",
+    "Revision": "33362",
     "Architecture": "x64",
-    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.2-32681_x64.msi"
+    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.3-33362_x64.msi"
   },
   {
-    "Version": "14.3.2",
-    "Revision": "32681",
+    "Version": "14.3.3",
+    "Revision": "33362",
     "Architecture": "x86",
-    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.2-32681.msi"
+    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.3-33362.msi"
   }
 ]
