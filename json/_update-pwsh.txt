@@ -1,0 +1,12 @@
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/PeaZipPeaZip.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
