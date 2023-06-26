@@ -1,14 +1,14 @@
 [
   {
-    "Version": "3.38.0",
+    "Version": "4.0.0",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-3.38.0-x64.msi"
+    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-4.0.0-x64.msi"
   },
   {
-    "Version": "3.38.0",
+    "Version": "4.0.0",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-3.38.0-ia32.msi"
+    "URI": "https://goto-desktop.goto.com/GoToSetupMachine-4.0.0-ia32.msi"
   }
 ]

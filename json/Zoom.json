@@ -42,39 +42,39 @@
     "URI": "https://cdn.zoom.us/prod/5.15.1.17948/ZoomInstallerFull.msi"
   },
   {
+    "Version": "5.15.0.2989",
+    "Platform": "Rooms",
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.15.0.2989/x64/zoomrooms-5.15.0.2989-x64.exe"
+  },
+  {
+    "Version": "5.15.0.2989",
+    "Platform": "Rooms",
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.15.0.2989/zoomrooms-5.15.0.2989-x86.exe"
+  },
+  {
+    "Version": "5.15.0.2989",
+    "Platform": "Rooms",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.15.0.2989/x64/zoomrooms-5.15.0.2989-x64.msi"
+  },
+  {
+    "Version": "5.15.0.2989",
+    "Platform": "Rooms",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.15.0.2989/zoomrooms-5.15.0.2989-x86.msi"
+  },
+  {
     "Version": "5.14.10.876",
     "Platform": "Outlook",
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.14.10.876/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "5.14.5.2778",
-    "Platform": "Rooms",
-    "Type": "exe",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.14.5.2778/x64/zoomrooms-5.14.5.2778-x64.exe"
-  },
-  {
-    "Version": "5.14.5.2778",
-    "Platform": "Rooms",
-    "Type": "exe",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.14.5.2778/zoomrooms-5.14.5.2778-x86.exe"
-  },
-  {
-    "Version": "5.14.5.2778",
-    "Platform": "Rooms",
-    "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.14.5.2778/x64/zoomrooms-5.14.5.2778-x64.msi"
-  },
-  {
-    "Version": "5.14.5.2778",
-    "Platform": "Rooms",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.14.5.2778/zoomrooms-5.14.5.2778-x86.msi"
   },
   {
     "Version": "5.13.10.812",
@@ -88,14 +88,14 @@
     "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi"
+    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi"
   },
   {
     "Version": "5.13.10.811",
     "Platform": "Notes",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/5.13.10.811/ZoomNotesPluginAdminTool.msi"
   },
   {
     "Version": "Latest",
