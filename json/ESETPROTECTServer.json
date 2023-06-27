@@ -1,9 +1,9 @@
 {
-  "Version": "10.0.1129.0",
-  "Size": 126922752,
-  "Hash": "aa7c665674b9a1a264f2ab18092c9a2030b575d9",
+  "Version": "10.1.1283.0",
+  "Size": 137375744,
+  "Hash": "d4053ba8959e9611a7dbb954880ca636e4ec6991",
   "Language": "en_US",
   "Architecture": "x64",
   "Type": "msi",
-  "URI": "https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v10/10.0.1129.0/server_x64.msi"
+  "URI": "https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v10/10.1.1283.0/server_x64.msi"
 }
