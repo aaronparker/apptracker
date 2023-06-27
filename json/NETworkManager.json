@@ -1,10 +1,10 @@
 {
-  "Version": "2023.4.26.0",
+  "Version": "2023.6.27.0",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "InstallerType": "Default",
-  "Date": "04/25/2023",
-  "Size": 18260754,
-  "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.4.26.0/NETworkManager_2023.4.26.0_Setup.exe"
+  "Date": "06/26/2023",
+  "Size": 18292389,
+  "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.6.27.0/NETworkManager_2023.6.27.0_Setup.exe"
 }
