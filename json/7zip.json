@@ -1,50 +1,58 @@
 [
   {
-    "Version": "22.01",
+    "Version": "23.01",
     "Architecture": "ARM32",
     "Type": "exe",
-    "Size": "1658438",
-    "Md5": "109aafc5593286a951c1046658d120ba",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm.exe"
+    "Size": "1596691",
+    "Md5": "d98f54ca52882376fd8b39b29628a90a",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe"
   },
   {
-    "Version": "22.01",
+    "Version": "23.01",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Size": "1607459",
-    "Md5": "8db963c7d47f982df0723ea8c0599a9e",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-arm64.exe"
+    "Size": "1527518",
+    "Md5": "3c5917f4da614ef892f055c697744b77",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe"
   },
   {
-    "Version": "22.01",
+    "Version": "23.01",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "1575742",
-    "Md5": "a6a0f7c173094f8dafef996157751ecf",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.exe"
+    "Size": "1589510",
+    "Md5": "e5788b13546156281bf0a4b38bdd0901",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe"
   },
   {
-    "Version": "22.01",
+    "Version": "23.01",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "1290308",
-    "Md5": "734e95cdbe04f53fe7c28eeaaaad7327",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.exe"
+    "Size": "584704",
+    "Md5": "58fc6de6c4e5d2fda63565d54feb9e75",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe"
   },
   {
-    "Version": "22.01",
+    "Version": "23.01",
+    "Architecture": "x86",
+    "Type": "exe",
+    "Size": "1301195",
+    "Md5": "1cfb215a6fb373ac33a38b1db320c178",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe"
+  },
+  {
+    "Version": "23.01",
     "Architecture": "x64",
     "Type": "msi",
-    "Size": "1912320",
-    "Md5": "50515f156ae516461e28dd453230d448",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201-x64.msi"
+    "Size": "1933312",
+    "Md5": "7025502de20d7b39fb06870ab06d015b",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi"
   },
   {
-    "Version": "22.01",
+    "Version": "23.01",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "1490432",
-    "Md5": "b25400614f24ebd0b76421e596ee18c6",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/22.01/7z2201.msi"
+    "Size": "1501184",
+    "Md5": "49780e0517aa248e7fd90f50674a2645",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi"
   }
 ]
