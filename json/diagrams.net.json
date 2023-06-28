@@ -1,52 +1,52 @@
 [
   {
-    "Version": "21.5.0",
+    "Version": "21.5.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "06/18/2023",
-    "Size": 104090536,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.0/draw.io-21.5.0-windows-installer.exe"
+    "Date": "06/27/2023",
+    "Size": 104083216,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.1/draw.io-21.5.1-windows-installer.exe"
   },
   {
-    "Version": "21.5.0",
+    "Version": "21.5.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "06/18/2023",
-    "Size": 103875056,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.0/draw.io-21.5.0-windows-no-installer.exe"
+    "Date": "06/27/2023",
+    "Size": 103867752,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.1/draw.io-21.5.1-windows-no-installer.exe"
   },
   {
-    "Version": "21.5.0",
+    "Version": "21.5.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "06/18/2023",
-    "Size": 100127600,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.0/draw.io-ia32-21.5.0-windows-32bit-installer.exe"
+    "Date": "06/27/2023",
+    "Size": 100129528,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.1/draw.io-ia32-21.5.1-windows-32bit-installer.exe"
   },
   {
-    "Version": "21.5.0",
+    "Version": "21.5.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "06/18/2023",
-    "Size": 99912600,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.0/draw.io-ia32-21.5.0-windows-32bit-no-installer.exe"
+    "Date": "06/27/2023",
+    "Size": 99914504,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.1/draw.io-ia32-21.5.1-windows-32bit-no-installer.exe"
   },
   {
-    "Version": "21.5.0",
+    "Version": "21.5.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "06/18/2023",
-    "Size": 137146368,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.0/draw.io-21.5.0.msi"
+    "Date": "06/27/2023",
+    "Size": 137175040,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.1/draw.io-21.5.1.msi"
   }
 ]
