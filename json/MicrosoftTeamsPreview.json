@@ -14,45 +14,45 @@
     "URI": "https://statics.teams.microsoft.com/production-osx/23176.300.2193.5578/MicrosoftTeams.pkg"
   },
   {
-    "Version": "23159.1802.2163.9887",
+    "Version": "23167.1300.2174.9186",
     "Release": "Consumer",
     "Architecture": "arm64",
     "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/23159.1802.2163.9887/MicrosoftTeams-arm64.msix"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/23167.1300.2174.9186/MicrosoftTeams-arm64.msix"
   },
   {
-    "Version": "23159.1802.2163.9887",
+    "Version": "23167.1300.2174.9186",
     "Release": "Enterprise",
     "Architecture": "arm64",
     "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23159.1802.2163.9887/MSTeams-arm64.msix"
+    "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23167.1300.2174.9186/MSTeams-arm64.msix"
   },
   {
-    "Version": "23159.1802.2163.9887",
+    "Version": "23167.1300.2174.9186",
     "Release": "Consumer",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/23159.1802.2163.9887/MicrosoftTeams-x64.msix"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/23167.1300.2174.9186/MicrosoftTeams-x64.msix"
   },
   {
-    "Version": "23159.1802.2163.9887",
+    "Version": "23167.1300.2174.9186",
     "Release": "Enterprise",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-x64/23159.1802.2163.9887/MSTeams-x64.msix"
+    "URI": "https://statics.teams.microsoft.com/production-windows-x64/23167.1300.2174.9186/MSTeams-x64.msix"
   },
   {
-    "Version": "23159.1802.2163.9887",
+    "Version": "23167.1300.2174.9186",
     "Release": "Consumer",
     "Architecture": "x86",
     "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x86/23159.1802.2163.9887/MicrosoftTeams-x86.msix"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x86/23167.1300.2174.9186/MicrosoftTeams-x86.msix"
   },
   {
-    "Version": "23159.1802.2163.9887",
+    "Version": "23167.1300.2174.9186",
     "Release": "Enterprise",
     "Architecture": "x86",
     "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-x86/23159.1802.2163.9887/MSTeams-x86.msix"
+    "URI": "https://statics.teams.microsoft.com/production-windows-x86/23167.1300.2174.9186/MSTeams-x86.msix"
   }
 ]
