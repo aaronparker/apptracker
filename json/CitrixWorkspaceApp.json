@@ -1,12 +1,12 @@
 [
   {
-    "Version": "23.3.0.55",
+    "Version": "23.5.1.83",
     "Title": "Citrix Workspace - Current Release",
-    "Size": "289667504",
-    "Hash": "1391dcc4ea7463f98f960e582593e7f06679fd4d7423cdd92247c260e809f234",
-    "Date": "03/29/2023",
+    "Size": "301319504",
+    "Hash": "20ac5c8afca6fb4ecc352446066dd161dd08b678c8ec1f579b512aa01377a2ef",
+    "Date": "06/30/2023",
     "Stream": "Current",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp23.3.0.55.exe"
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp23.5.1.83.exe"
   },
   {
     "Version": "22.3.3000.3116",
