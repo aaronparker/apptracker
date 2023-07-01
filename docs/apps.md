@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 259 applications and 3424 unique application installers:
+App Version Tracker is using Evergreen to track 261 applications and 3428 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -131,8 +131,9 @@ App Version Tracker is using Evergreen to track 259 applications and 3424 unique
 | McNeel Rhino                                                      | https://www.rhino3d.com/                                                                         |
 | Mendeley Desktop                                                  | https://www.mendeley.com/                                                                        |
 | Mestrelab Mnova                                                   | https://mestrelab.com/software/mnova/                                                            |
-| Microsoft .NET Desktop Runtime                                    | https://dotnet.microsoft.com/download/                                                           |
+| Microsoft .NET                                                    | https://dotnet.microsoft.com/download/                                                           |
 | Microsoft 365 Apps                                                | https://www.microsoft.com/office                                                                 |
+| Microsoft Azure CLI                                               | https://learn.microsoft.com/en-au/cli/azure/                                                     |
 | Microsoft Azure Data Studio                                       | https://docs.microsoft.com/en-us/sql/azure-data-studio/                                          |
 | Microsoft Azure Functions Core Tools                              | https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local                       |
 | Microsoft Azure Pipelines Agent                                   | https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents                           |
@@ -170,6 +171,7 @@ App Version Tracker is using Evergreen to track 259 applications and 3424 unique
 | Mozilla Thunderbird                                               | https://www.thunderbird.net/                                                                     |
 | mRemoteNG                                                         | https://mremoteng.org/                                                                           |
 | MuseScore                                                         | https://musescore.org/                                                                           |
+| mySQL Workbench                                                   | https://dev.mysql.com/doc/workbench/en/                                                          |
 | NanaZip                                                           | https://github.com/M2Team/NanaZip                                                                |
 | Ben Olden-Cooligan NAPS2                                          | https://www.naps2.com/                                                                           |
 | NETworkManager                                                    | https://github.com/BornToBeRoot/NETworkManager                                                   |
