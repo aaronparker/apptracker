@@ -1,0 +1,15 @@
+json/7zip.json
+json/Anaconda.json
+json/GeekSoftwarePDF24Creator.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/Microsoft.NET.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/Win32OpenSSH.json
+json/Zoom.json
+json/gretl.json
+json/MicrosoftAzureCLI.json
+json/mySQLWorkbench.json
