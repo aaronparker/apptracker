@@ -4,41 +4,152 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
 
 | Version | Platform | Architecture | Type | URI                                                                               |
 | ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.exe                       |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.msi                       |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://vlc.pixelx.de/vlc/3.0.18/win64/vlc-3.0.18-win64.zip                       |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe         |
+| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi         |
+| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip         |
 
-## ESETInspectConnector
+## OpenLens
 
-[Link](https://www.eset.com/int/business/download/inspect/)
+[Link](https://github.com/MuhammedKalkan/OpenLens/)
 
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
 
-| Version     | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                      |
-| ----------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------- |
-| 1.10.2672.0 | 23171072 | 808738c44e6767ab6fa09db25397649adc37bfb6 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.10.2672.0/ei_connector_nt64_enu.msi |
-| 1.10.2672.0 | 20955136 | 267d38697a74b35a1bb172d6256bc7a3d4698b51 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.10.2672.0/ei_connector_nt32_enu.msi |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
+| 6.5.2   | Windows  | x86          | exe  | Default       | 06/30/2023 | 109231104 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.exe       |
+| 6.5.2   | Windows  | x86          | exe  | Default       | 06/30/2023 | 109472872 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.Setup.6.5.2-366.exe |
+
+## GoogleChrome
+
+[Link](https://cloud.google.com/chrome-enterprise/browser/download/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
+| -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
+| 116.0.5845.14  | x64          | dev     | 06/30/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 116.0.5845.14  | x86          | dev     | 06/30/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 115.0.5790.56  | x64          | beta    | 06/28/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 115.0.5790.56  | x86          | beta    | 06/28/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 114.0.5735.199 | x64          | stable  | 06/26/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 114.0.5735.199 | x86          | stable  | 06/26/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+
+## AWSCLI
+
+[Link](https://github.com/aws/aws-cli/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Type | URI                                              |
+| ------- | ---- | ------------------------------------------------ |
+| 2.12.6  | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.12.6.msi |
+
+## ProjectLibre
+
+[Link](https://www.projectlibre.com/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://zenlayer.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+
+## MicrosoftVisualStudioCode
+
+[Link](https://code.visualstudio.com)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
+| ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1.80.0  | win32            | Insider | x86          | 5573ae257f46ab8c92dff7f2dfa332a4e37df7447b95b014bc9e9240c6e28212 | https://az764295.vo.msecnd.net/insider/39efe30bfc8e196f5be2119479092bd9eb83e174/VSCodeSetup-ia32-1.80.0-insider.exe      |
+| 1.80.0  | win32-arm64      | Insider | ARM64        | bc6c1190cf445ed267892e5ebf32057213643ef10a78a09ba1c1d10a35f5eebe | https://az764295.vo.msecnd.net/insider/39efe30bfc8e196f5be2119479092bd9eb83e174/VSCodeSetup-arm64-1.80.0-insider.exe     |
+| 1.80.0  | win32-arm64-user | Insider | ARM64        | bd62782c8cbc081dae81a486b9afd7fab9ca0e69777af368f9f658ad0de821b9 | https://az764295.vo.msecnd.net/insider/39efe30bfc8e196f5be2119479092bd9eb83e174/VSCodeUserSetup-arm64-1.80.0-insider.exe |
+| 1.80.0  | win32-user       | Insider | x86          | 3d34ae2bb9f7a61cd9304a0d7f7af21e0bf7ca3bbf6cc4fee927bb8f51a8c022 | https://az764295.vo.msecnd.net/insider/39efe30bfc8e196f5be2119479092bd9eb83e174/VSCodeUserSetup-ia32-1.80.0-insider.exe  |
+| 1.80.0  | win32-x64        | Insider | x64          | c977126d6ab3d6e5254548a0262e824271138a142a990256fc75f5895ffba642 | https://az764295.vo.msecnd.net/insider/39efe30bfc8e196f5be2119479092bd9eb83e174/VSCodeSetup-x64-1.80.0-insider.exe       |
+| 1.80.0  | win32-x64-user   | Insider | x64          | 4509e4784a197ad7a64db8a5331b5cd04e4d37250f2334d6351e975f8f3b19ed | https://az764295.vo.msecnd.net/insider/39efe30bfc8e196f5be2119479092bd9eb83e174/VSCodeUserSetup-x64-1.80.0-insider.exe   |
+| 1.79.2  | win32            | Stable  | x86          | b06e9ae63b8eee6024babc7bbe4f1827e4ad7223438c340fdf41600b2847203b | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeSetup-ia32-1.79.2.exe               |
+| 1.79.2  | win32-arm64      | Stable  | ARM64        | 2fa78982e576b707e0d220ba6c7036aa48a4856ffc686240ea3b67856e1b56ed | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeSetup-arm64-1.79.2.exe              |
+| 1.79.2  | win32-arm64-user | Stable  | ARM64        | 8e31ffeed7958c35e7e7e8526a778153e6d0b8343457abd9bed52b49f725db7f | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeUserSetup-arm64-1.79.2.exe          |
+| 1.79.2  | win32-user       | Stable  | x86          | 3dc85b977c0f159ae77bf1095caec66662b4e7e9f597a6f8e2df0d3929ddbef6 | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeUserSetup-ia32-1.79.2.exe           |
+| 1.79.2  | win32-x64        | Stable  | x64          | b9468afa773c04182ee7387450b29e164c5e68894d7f03e367ef354e609428e4 | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeSetup-x64-1.79.2.exe                |
+| 1.79.2  | win32-x64-user   | Stable  | x64          | 2074a5bbcd470c68f09fc6e08cf9f66ffca07cce8d02d2365b45c12f5dbe702a | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeUserSetup-x64-1.79.2.exe            |
+
+## FileZilla
+
+[Link](https://filezilla-project.org/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Size     | Hash                                                                                                                             | URI                                                                            |
+| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 3.64.0  | 12140960 | 30762221e8b41c63383c06e639cab6730603c5d76bbe14cfd0c499bd3ad690bc82d220b4cff215f2c5b74b81087cdcbd6255c5aa598c350bb111a880f6d9a8dd | https://download.filezilla-project.org/client/FileZilla_3.64.0_win64-setup.exe |
+
+## 1Password
+
+[Link](https://1password.com/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.8  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.8.exe |
+
+## gretl
+
+[Link](http://gretl.sourceforge.net/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://zenlayer.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
+| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://zenlayer.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
+
+## Fork
+
+[Link](https://www.fork.dev)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | URI                                           |
+| ------- | --------------------------------------------- |
+| 1.86.0  | https://fork.dev/update/win/ForkInstaller.exe |
+
+## SAGAGIS
+
+[Link](http://www.saga-gis.org/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 9.0.2   | x64          | exe  | 57590012 | 4f5a0b39770246584e255facffbd1124 | https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe   |
+| 9.0.2   | x86          | exe  | 44109173 | 4a56088506304bd940eb540dd7c17506 | https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe |
 
 ## MicrosoftOneDrive
 
 [Link](https://onedrive.live.com/)
 
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.135.0628.0001 | AMD64        | InternalFast | MyWqXqLBlOpjQ8KFyKEeSwnRLQSBhjlHbi49av7cL+g= | exe  | https://oneclient.sfx.ms/Win/Installers/23.135.0628.0001/amd64/OneDriveSetup.exe |
-| 23.135.0628.0001 | ARM64        | InternalFast | TlJRFSnQ4jGAZ/YePObfQn3THHFJb+PI/7iKAkpNfz4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.135.0628.0001/arm64/OneDriveSetup.exe |
-| 23.135.0628.0001 | x86          | InternalFast | 9CKhTsTTWsWIGzl0+uNKUyMUIZPBOb1TVnLEkkGbhIU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.135.0628.0001/OneDriveSetup.exe       |
+| 23.136.0629.0001 | AMD64        | InternalFast | 0rQwrYsu1NJPQ5/BRBQapElqJ1osqdnWY1SUbKej30Y= | exe  | https://oneclient.sfx.ms/Win/Installers/23.136.0629.0001/amd64/OneDriveSetup.exe |
+| 23.136.0629.0001 | ARM64        | InternalFast | nC9dq+grYl5DQVZYus2swfPguCTbhl1Wl7IYutP+dJA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.136.0629.0001/arm64/OneDriveSetup.exe |
+| 23.136.0629.0001 | x86          | InternalFast | 9f79r4yVpBn6rCNpmBVR3+fCFLsvNQ+Fj0MlbcplTHM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.136.0629.0001/OneDriveSetup.exe       |
+| 23.134.0627.0001 | AMD64        | Insider      | U3urlyk1OZHx7Gbvuc7DStfY4AKXJT8uexk8FYzZKJk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.134.0627.0001/amd64/OneDriveSetup.exe |
 | 23.134.0627.0001 | AMD64        | InternalSlow | U3urlyk1OZHx7Gbvuc7DStfY4AKXJT8uexk8FYzZKJk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.134.0627.0001/amd64/OneDriveSetup.exe |
+| 23.134.0627.0001 | ARM64        | Insider      | ssdqPXnMdisaIhOzMENOx/tSFOYEnwzV9HvH2jjipuo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.134.0627.0001/arm64/OneDriveSetup.exe |
 | 23.134.0627.0001 | ARM64        | InternalSlow | ssdqPXnMdisaIhOzMENOx/tSFOYEnwzV9HvH2jjipuo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.134.0627.0001/arm64/OneDriveSetup.exe |
+| 23.134.0627.0001 | x86          | Insider      | YS/ImN0cIEUIYxbktJ1Vcv6JvSXpUHcOLrFmxfUswn0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.134.0627.0001/OneDriveSetup.exe       |
 | 23.134.0627.0001 | x86          | InternalSlow | YS/ImN0cIEUIYxbktJ1Vcv6JvSXpUHcOLrFmxfUswn0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.134.0627.0001/OneDriveSetup.exe       |
 | 23.132.0625.0001 | AMD64        | Insider      | 6d+1JyWDC2fKpuRzRdQCdJJhyIqf/675OchSCy2thrM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.132.0625.0001/amd64/OneDriveSetup.exe |
 | 23.132.0625.0001 | ARM64        | Insider      | kTtIPWHY2tVthdYR92S+VXKdASAQIpdExfWeq7DMwEs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.132.0625.0001/arm64/OneDriveSetup.exe |
@@ -60,82 +171,71 @@
 
 [Link](https://keepass.info/)
 
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                               |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
-
-## 7zip
-
-[Link](https://www.7-zip.org/)
-
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
-
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                 |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
-
-## WinSCP
-
-[Link](https://winscp.net/)
-
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
-
-## KDiff3
-
-[Link](https://kdiff3.sourceforge.net/)
-
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## Gimp
 
 [Link](https://www.gimp.org/)
 
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Date       | Sha256                                                           | URI                                                                          |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+
+## KDiff3
+
+[Link](https://kdiff3.sourceforge.net/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://versaweb.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://versaweb.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+
+## WinSCP
+
+[Link](https://winscp.net/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                        |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------ |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+
+## 7zip
+
+[Link](https://www.7-zip.org/)
+
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
+
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+
+## ESETInspectConnector
+
+[Link](https://www.eset.com/int/business/download/inspect/)
+
 **Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
-
-## CitrixWorkspaceApp
-
-[Link](https://www.citrix.com/downloads/workspace-app/)
-
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
-
-| Version        | Title                              | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                       |
-| -------------- | ---------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------- |
-| 23.5.1.83      | Citrix Workspace - Current Release | 301319504 | 20ac5c8afca6fb4ecc352446066dd161dd08b678c8ec1f579b512aa01377a2ef | 06/30/2023 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp23.5.1.83.exe      |
-| 22.3.3000.3116 | Citrix Workspace - LTSR            | 96093616  | 9cf8e67f76af96c35ff76836bd2d37ee509721bc628c516e668ab2b1767cfca4 | 03/28/2023 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.3000.3116.exe |
-
-## SAGAGIS
-
-[Link](http://www.saga-gis.org/)
-
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 9.0.2   | x64          | exe  | 57590012 | 4f5a0b39770246584e255facffbd1124 | https://zenlayer.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_x64_setup.exe   |
-| 9.0.2   | x86          | exe  | 44109173 | 4a56088506304bd940eb540dd7c17506 | https://zenlayer.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.2/saga-9.0.2_win32_setup.exe |
+| Version     | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                      |
+| ----------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------- |
+| 1.10.2672.0 | 23171072 | 808738c44e6767ab6fa09db25397649adc37bfb6 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.10.2672.0/ei_connector_nt64_enu.msi |
+| 1.10.2672.0 | 20955136 | 267d38697a74b35a1bb172d6256bc7a3d4698b51 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.10.2672.0/ei_connector_nt32_enu.msi |
 
 ## Zoom
 
@@ -165,28 +265,16 @@
 | Latest       | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                      |
 | Latest       | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                 |
 
-## gretl
+## CitrixWorkspaceApp
 
-[Link](http://gretl.sourceforge.net/)
-
-**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |
-| 2023a   | x64          | exe  | 37755640 | 48f8ad3cd5478375d672ae8891193314 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-64.exe |
-| 2023a   | x86          | exe  | 34226712 | b5ce5488b276688bbdcff0772022f3f2 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023a/gretl-2023a-32.exe |
-
-## AirtameApp
-
-[Link](https://airtame.com/)
+[Link](https://www.citrix.com/downloads/workspace-app/)
 
 **Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
 
-| Version | Installer | Type | URI                                                                     |
-| ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
-| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
-| 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
+| Version        | Title                              | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                       |
+| -------------- | ---------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------- |
+| 23.5.1.83      | Citrix Workspace - Current Release | 301319504 | 20ac5c8afca6fb4ecc352446066dd161dd08b678c8ec1f579b512aa01377a2ef | 06/30/2023 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp23.5.1.83.exe      |
+| 22.3.3000.3116 | Citrix Workspace - LTSR            | 96093616  | 9cf8e67f76af96c35ff76836bd2d37ee509721bc628c516e668ab2b1767cfca4 | 03/28/2023 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.3000.3116.exe |
 
 ## VeraCrypt
 
@@ -200,46 +288,17 @@
 | 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
 | 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
-## 1Password
+## AirtameApp
 
-[Link](https://1password.com/)
+[Link](https://airtame.com/)
 
-**Last update**: Friday, 30 June 2023 08:09:27 Etc/UTC
+**Last update**: Friday, 30 June 2023 16:09:54 Etc/UTC
 
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.8  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.8.exe |
-
-## FileZilla
-
-[Link](https://filezilla-project.org/)
-
-**Last update**: Friday, 30 June 2023 08:09:27 Etc/UTC
-
-| Version    | Size     | Hash                                                                                                                             | URI                                                                                |
-| ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 3.65.0-rc1 | 12161848 | 02987399e617204bd2d08efcbda738d6c95eca54c77bdb8fc2cf4463fb8ee3c145cc76bbb9f8c61c2243b43ae4fad99857215eaaf9d4bea55676e5c17e32f0aa | https://download.filezilla-project.org/client/FileZilla_3.65.0-rc1_win64-setup.exe |
-
-## MicrosoftVisualStudioCode
-
-[Link](https://code.visualstudio.com)
-
-**Last update**: Friday, 30 June 2023 08:09:27 Etc/UTC
-
-| Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
-| ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.80.0  | win32            | Insider | x86          | d31ba10828ed79860d22bbf6eaf14be63771fda02f13debfa2d2339eb01c5acf | https://az764295.vo.msecnd.net/insider/7406a9bdfca18f82a3977ba5eac908d41df7ccac/VSCodeSetup-ia32-1.80.0-insider.exe      |
-| 1.80.0  | win32-arm64      | Insider | ARM64        | b4bce3b0ee4ab6a8a4fabcb03439d7ef45008b5d41898828d5618ce725bfb8bc | https://az764295.vo.msecnd.net/insider/7406a9bdfca18f82a3977ba5eac908d41df7ccac/VSCodeSetup-arm64-1.80.0-insider.exe     |
-| 1.80.0  | win32-arm64-user | Insider | ARM64        | dd9063b7c4999d471490b2d84f97aa6dbe3a298de602e6177b60c05b4f672332 | https://az764295.vo.msecnd.net/insider/7406a9bdfca18f82a3977ba5eac908d41df7ccac/VSCodeUserSetup-arm64-1.80.0-insider.exe |
-| 1.80.0  | win32-user       | Insider | x86          | bb6800238914445a6f4a7a8a498f6bc0e72e63f918acb4372c68965da4acd0ee | https://az764295.vo.msecnd.net/insider/7406a9bdfca18f82a3977ba5eac908d41df7ccac/VSCodeUserSetup-ia32-1.80.0-insider.exe  |
-| 1.80.0  | win32-x64        | Insider | x64          | c252d716c6a78e25c79e41e779b7103b041cce886d94ec0dd2307ad14b7cd2d8 | https://az764295.vo.msecnd.net/insider/7406a9bdfca18f82a3977ba5eac908d41df7ccac/VSCodeSetup-x64-1.80.0-insider.exe       |
-| 1.80.0  | win32-x64-user   | Insider | x64          | 7a12c578db9114b330c6ebfecdad8e54e128c6648bf6cd3ed3819943c10dd4eb | https://az764295.vo.msecnd.net/insider/7406a9bdfca18f82a3977ba5eac908d41df7ccac/VSCodeUserSetup-x64-1.80.0-insider.exe   |
-| 1.79.2  | win32            | Stable  | x86          | b06e9ae63b8eee6024babc7bbe4f1827e4ad7223438c340fdf41600b2847203b | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeSetup-ia32-1.79.2.exe               |
-| 1.79.2  | win32-arm64      | Stable  | ARM64        | 2fa78982e576b707e0d220ba6c7036aa48a4856ffc686240ea3b67856e1b56ed | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeSetup-arm64-1.79.2.exe              |
-| 1.79.2  | win32-arm64-user | Stable  | ARM64        | 8e31ffeed7958c35e7e7e8526a778153e6d0b8343457abd9bed52b49f725db7f | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeUserSetup-arm64-1.79.2.exe          |
-| 1.79.2  | win32-user       | Stable  | x86          | 3dc85b977c0f159ae77bf1095caec66662b4e7e9f597a6f8e2df0d3929ddbef6 | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeUserSetup-ia32-1.79.2.exe           |
-| 1.79.2  | win32-x64        | Stable  | x64          | b9468afa773c04182ee7387450b29e164c5e68894d7f03e367ef354e609428e4 | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeSetup-x64-1.79.2.exe                |
-| 1.79.2  | win32-x64-user   | Stable  | x64          | 2074a5bbcd470c68f09fc6e08cf9f66ffca07cce8d02d2365b45c12f5dbe702a | https://az764295.vo.msecnd.net/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06/VSCodeUserSetup-x64-1.79.2.exe            |
+| Version | Installer | Type | URI                                                                     |
+| ------- | --------- | ---- | ----------------------------------------------------------------------- |
+| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
+| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
+| 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
 ## MicrosoftAzureDataStudio
 
@@ -254,15 +313,23 @@
 | 1.44.1  | win32-x64      | Stable  | 6451e55f514a2d5af2e5991eccaa7a141c5959f786df5f77ca390ccb631e4c54 | https://sqlopsbuilds.azureedge.net/stable/8f53a316fa00a98264f1ab119641cd540b5af25c/azuredatastudio-windows-setup-1.44.1.exe               |
 | 1.44.1  | win32-x64-user | Stable  | 3af4fc6dc716cc58afa4c22a42fddc7aef6cd7790cc2ebe6e8f29454e87db9c6 | https://sqlopsbuilds.azureedge.net/stable/8f53a316fa00a98264f1ab119641cd540b5af25c/azuredatastudio-windows-user-setup-1.44.1.exe          |
 
-## ProjectLibre
+## MicrosoftEdgeDriver
 
-[Link](https://www.projectlibre.com/)
+[Link](https://www.microsoft.com/edge)
 
-**Last update**: Friday, 30 June 2023 08:09:27 Etc/UTC
+**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://gigenet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version        | Channel | Architecture | URI                                                                    |
+| -------------- | ------- | ------------ | ---------------------------------------------------------------------- |
+| 116.0.1938.1   | Dev     | ARM64        | https://msedgedriver.azureedge.net/116.0.1938.1/edgedriver_arm64.zip   |
+| 116.0.1938.1   | Dev     | x64          | https://msedgedriver.azureedge.net/116.0.1938.1/edgedriver_win64.zip   |
+| 116.0.1938.1   | Dev     | x86          | https://msedgedriver.azureedge.net/116.0.1938.1/edgedriver_win32.zip   |
+| 115.0.1901.157 | Beta    | ARM64        | https://msedgedriver.azureedge.net/115.0.1901.157/edgedriver_arm64.zip |
+| 115.0.1901.157 | Beta    | x64          | https://msedgedriver.azureedge.net/115.0.1901.157/edgedriver_win64.zip |
+| 115.0.1901.157 | Beta    | x86          | https://msedgedriver.azureedge.net/115.0.1901.157/edgedriver_win32.zip |
+| 114.0.1823.67  | Stable  | ARM64        | https://msedgedriver.azureedge.net/114.0.1823.67/edgedriver_arm64.zip  |
+| 114.0.1823.67  | Stable  | x64          | https://msedgedriver.azureedge.net/114.0.1823.67/edgedriver_win64.zip  |
+| 114.0.1823.67  | Stable  | x86          | https://msedgedriver.azureedge.net/114.0.1823.67/edgedriver_win32.zip  |
 
 ## MicrosoftEdge
 
@@ -293,49 +360,6 @@
 | 114.0.1823.67  | Windows  | Stable     | Enterprise | x86          | FEBBDECF95F89F3EC4087680ED09DE075BF13A57D88160BF359601A9307A1C0A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/93131671-546e-4333-8004-1bfcc0d50612/MicrosoftEdgeEnterpriseX86.msi              |
 | 1.3.175.29     | Windows  | EdgeUpdate | Consumer   | x86          | 7724306525EC5D83C651A0F3273C3B102168B57461BE4F214CF6E6D0736F3787 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cab24242-013c-4ea4-acd5-580ee0346e58/MicrosoftEdgeUpdateSetup_X86_1.3.175.29.exe |
 | 1.3.175.29     | Windows  | EdgeUpdate | Enterprise | x86          | 7724306525EC5D83C651A0F3273C3B102168B57461BE4F214CF6E6D0736F3787 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cab24242-013c-4ea4-acd5-580ee0346e58/MicrosoftEdgeUpdateSetup_X86_1.3.175.29.exe |
-
-## AWSCLI
-
-[Link](https://github.com/aws/aws-cli/)
-
-**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
-
-| Version | Type | URI                                              |
-| ------- | ---- | ------------------------------------------------ |
-| 2.12.5  | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.12.5.msi |
-
-## ProgressChefWorkstation
-
-[Link](https://www.chef.io/products/chef-workstation)
-
-**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
-
-| Version   | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                   |
-| --------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 23.6.1041 | x64          | current | 10       | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/10/chef-workstation-23.6.1041-1-x64.msi     |
-| 23.6.1041 | x64          | current | 11       | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/11/chef-workstation-23.6.1041-1-x64.msi     |
-| 23.6.1041 | x64          | current | 2012r2   | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2012r2/chef-workstation-23.6.1041-1-x64.msi |
-| 23.6.1041 | x64          | current | 2016     | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2016/chef-workstation-23.6.1041-1-x64.msi   |
-| 23.6.1041 | x64          | current | 2019     | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2019/chef-workstation-23.6.1041-1-x64.msi   |
-| 23.6.1041 | x64          | current | 2022     | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2022/chef-workstation-23.6.1041-1-x64.msi   |
-| 23.5.1040 | x64          | stable  | 10       | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/10/chef-workstation-23.5.1040-1-x64.msi      |
-| 23.5.1040 | x64          | stable  | 11       | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/11/chef-workstation-23.5.1040-1-x64.msi      |
-| 23.5.1040 | x64          | stable  | 2012r2   | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2012r2/chef-workstation-23.5.1040-1-x64.msi  |
-| 23.5.1040 | x64          | stable  | 2016     | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2016/chef-workstation-23.5.1040-1-x64.msi    |
-| 23.5.1040 | x64          | stable  | 2019     | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2019/chef-workstation-23.5.1040-1-x64.msi    |
-| 23.5.1040 | x64          | stable  | 2022     | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2022/chef-workstation-23.5.1040-1-x64.msi    |
-
-## MicrosoftEdgeWebView2Runtime
-
-[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-
-**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
-
-| Version       | Channel | Architecture | URI                                                                                                                                                           |
-| ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 114.0.1823.67 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b4d9c48-76fb-46ba-beb8-4eef3fb40413/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 114.0.1823.67 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/02c54cda-d889-4696-bd54-7baa587df0e4/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 114.0.1823.67 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6211641-f0bf-4539-9eb7-25d445954b5a/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
 ## MicrosoftTeams
 
@@ -394,6 +418,39 @@
 | 1.6.00.16472 | Public            | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.16472/Teams_windows.msi             |
 | 1.6.00.16472 | TAP               | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.16472/Teams_windows.msi             |
 
+## MicrosoftEdgeWebView2Runtime
+
+[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+
+**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
+
+| Version       | Channel | Architecture | URI                                                                                                                                                           |
+| ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 114.0.1823.67 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b4d9c48-76fb-46ba-beb8-4eef3fb40413/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 114.0.1823.67 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/02c54cda-d889-4696-bd54-7baa587df0e4/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 114.0.1823.67 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6211641-f0bf-4539-9eb7-25d445954b5a/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+
+## ProgressChefWorkstation
+
+[Link](https://www.chef.io/products/chef-workstation)
+
+**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
+
+| Version   | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                   |
+| --------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 23.6.1041 | x64          | current | 10       | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/10/chef-workstation-23.6.1041-1-x64.msi     |
+| 23.6.1041 | x64          | current | 11       | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/11/chef-workstation-23.6.1041-1-x64.msi     |
+| 23.6.1041 | x64          | current | 2012r2   | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2012r2/chef-workstation-23.6.1041-1-x64.msi |
+| 23.6.1041 | x64          | current | 2016     | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2016/chef-workstation-23.6.1041-1-x64.msi   |
+| 23.6.1041 | x64          | current | 2019     | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2019/chef-workstation-23.6.1041-1-x64.msi   |
+| 23.6.1041 | x64          | current | 2022     | 36c866dadbffb9b56c5bce53e386f62e4a0f9f71bcc341c060f142aa0c06b36a | https://packages.chef.io/files/current/chef-workstation/23.6.1041/windows/2022/chef-workstation-23.6.1041-1-x64.msi   |
+| 23.5.1040 | x64          | stable  | 10       | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/10/chef-workstation-23.5.1040-1-x64.msi      |
+| 23.5.1040 | x64          | stable  | 11       | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/11/chef-workstation-23.5.1040-1-x64.msi      |
+| 23.5.1040 | x64          | stable  | 2012r2   | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2012r2/chef-workstation-23.5.1040-1-x64.msi  |
+| 23.5.1040 | x64          | stable  | 2016     | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2016/chef-workstation-23.5.1040-1-x64.msi    |
+| 23.5.1040 | x64          | stable  | 2019     | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2019/chef-workstation-23.5.1040-1-x64.msi    |
+| 23.5.1040 | x64          | stable  | 2022     | 10165429533e8e1e65f7e2052e5c01237e0fcf99015acf4aff179c69daf3fbf2 | https://packages.chef.io/files/stable/chef-workstation/23.5.1040/windows/2022/chef-workstation-23.5.1040-1-x64.msi    |
+
 ## DockerDesktop
 
 [Link](https://www.docker.com/products/docker-desktop/)
@@ -404,24 +461,6 @@
 | ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |
 | 4.21.0  | 113844 | 584760656 | exe  | https://desktop.docker.com/win/main/amd64/113844/Docker%20Desktop%20Installer.exe |
 | 4.20.1  | 110738 | 618257744 | exe  | https://desktop.docker.com/win/main/amd64/110738/Docker%20Desktop%20Installer.exe |
-
-## MicrosoftEdgeDriver
-
-[Link](https://www.microsoft.com/edge)
-
-**Last update**: Friday, 30 June 2023 00:22:24 Etc/UTC
-
-| Version        | Channel | Architecture | URI                                                                    |
-| -------------- | ------- | ------------ | ---------------------------------------------------------------------- |
-| 116.0.1938.1   | Dev     | ARM64        | https://msedgedriver.azureedge.net/116.0.1938.1/edgedriver_arm64.zip   |
-| 116.0.1938.1   | Dev     | x64          | https://msedgedriver.azureedge.net/116.0.1938.1/edgedriver_win64.zip   |
-| 116.0.1938.1   | Dev     | x86          | https://msedgedriver.azureedge.net/116.0.1938.1/edgedriver_win32.zip   |
-| 115.0.1901.157 | Beta    | ARM64        | https://msedgedriver.azureedge.net/115.0.1901.157/edgedriver_arm64.zip |
-| 115.0.1901.157 | Beta    | x64          | https://msedgedriver.azureedge.net/115.0.1901.157/edgedriver_win64.zip |
-| 115.0.1901.157 | Beta    | x86          | https://msedgedriver.azureedge.net/115.0.1901.157/edgedriver_win32.zip |
-| 114.0.1823.67  | Stable  | ARM64        | https://msedgedriver.azureedge.net/114.0.1823.67/edgedriver_arm64.zip  |
-| 114.0.1823.67  | Stable  | x64          | https://msedgedriver.azureedge.net/114.0.1823.67/edgedriver_win64.zip  |
-| 114.0.1823.67  | Stable  | x86          | https://msedgedriver.azureedge.net/114.0.1823.67/edgedriver_win32.zip  |
 
 ## OperaBrowser
 
@@ -437,6 +476,16 @@
 | 101.0.4843.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/101.0.4843.0/win/Opera_Developer_101.0.4843.0_Setup.exe     |
 | 100.0.4815.30 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/100.0.4815.30/win/Opera_100.0.4815.30_Setup_x64.exe                   |
 | 100.0.4815.30 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/100.0.4815.30/win/Opera_100.0.4815.30_Setup.exe                       |
+
+## TeamViewer
+
+[Link](https://www.teamviewer.com/)
+
+**Last update**: Thursday, 29 June 2023 16:07:57 Etc/UTC
+
+| Version | URI                                                     |
+| ------- | ------------------------------------------------------- |
+| 15.43.6 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
 ## MicrosoftTeamsPreview
 
@@ -454,16 +503,6 @@
 | 23167.1300.2174.9186 | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23167.1300.2174.9186/MSTeams-x64.msix             |
 | 23167.1300.2174.9186 | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23167.1300.2174.9186/MicrosoftTeams-x86.msix     |
 | 23167.1300.2174.9186 | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23167.1300.2174.9186/MSTeams-x86.msix             |
-
-## TeamViewer
-
-[Link](https://www.teamviewer.com/)
-
-**Last update**: Thursday, 29 June 2023 16:07:57 Etc/UTC
-
-| Version | URI                                                     |
-| ------- | ------------------------------------------------------- |
-| 15.43.6 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
 ## OctopusTentacle
 
@@ -498,21 +537,6 @@
 | ------- | ---------------------------------------------------------------- |
 | 6.23.0  | https://updates.signal.org/desktop/signal-desktop-win-6.23.0.exe |
 
-## GoogleChrome
-
-[Link](https://cloud.google.com/chrome-enterprise/browser/download/)
-
-**Last update**: Thursday, 29 June 2023 00:26:47 Etc/UTC
-
-| Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
-| -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 116.0.5845.4   | x64          | dev     | 06/23/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 116.0.5845.4   | x86          | dev     | 06/23/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 115.0.5790.56  | x64          | beta    | 06/28/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 115.0.5790.56  | x86          | beta    | 06/28/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 114.0.5735.199 | x64          | stable  | 06/26/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 114.0.5735.199 | x86          | stable  | 06/26/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
-
 ## MicrosoftWvdRemoteDesktop
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
@@ -531,27 +555,17 @@
 | 1.2.4337.0 | x64          | Public  | 06/12/2023 | 7FED402890A427F990E32DFCBC6FEEAE | D7397A8403408E1D8F3DB955A10668793507D68F054BE4307A0C08FB4F9C04816678B88607809B6B9F2155F078B7C237E509BD050C5B88139FCA88807ECE672D | RemoteDesktop_1.2.4337.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1697H |
 | 1.2.4337.0 | x86          | Public  | 06/12/2023 | 5E598C3ABA691DA753D5090A9319A628 | 075E49B85287F0E4EE070E7828D74BEECA8EC6A1477F9891831338F9C149E56882F2372650D29284B8D4801C5B96735AA267478643CAD7EED5378F6494680627 | RemoteDesktop_1.2.4337.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15Tzb |
 
-## TorProjectTorBrowser
+## Slack
 
-[Link](https://www.torproject.org/)
-
-**Last update**: Wednesday, 28 June 2023 16:08:03 Etc/UTC
-
-| Version | Architecture | Type | Language | URI                                                                               |
-| ------- | ------------ | ---- | -------- | --------------------------------------------------------------------------------- |
-| 12.5    | x64          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.5/torbrowser-install-win64-12.5_ALL.exe |
-| 12.5    | x86          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.5/torbrowser-install-12.5_ALL.exe       |
-
-## HashicorpTerraform
-
-[Link](https://www.terraform.io/)
+[Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
 
 **Last update**: Wednesday, 28 June 2023 16:08:03 Etc/UTC
 
-| Version | Type | Architecture | URI                                                                              |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.5.2   | zip  | x64          | https://releases.hashicorp.com/terraform/1.5.2/terraform_1.5.2_windows_amd64.zip |
-| 1.5.2   | zip  | x86          | https://releases.hashicorp.com/terraform/1.5.2/terraform_1.5.2_windows_386.zip   |
+| Version | Platform   | Architecture | URI                                                                                                |
+| ------- | ---------- | ------------ | -------------------------------------------------------------------------------------------------- |
+| 4.33.73 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.33.73/prod/x64/slack-standalone-4.33.73.0.msi  |
+| 4.33.73 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.33.73/prod/ia32/slack-standalone-4.33.73.0.msi |
+| 4.33.73 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.33.73/prod/x64/SlackSetup.msi                  |
 
 ## ESETServerSecurity
 
@@ -582,6 +596,28 @@
 | 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_cht.msi |
 | 10.0.12010.1 | 47263744 | f5351ad42684bbc94f9e89e39a456b1118d9801f | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12010.1/efsw_nt64_jpn.msi |
 
+## HashicorpTerraform
+
+[Link](https://www.terraform.io/)
+
+**Last update**: Wednesday, 28 June 2023 16:08:03 Etc/UTC
+
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 1.5.2   | zip  | x64          | https://releases.hashicorp.com/terraform/1.5.2/terraform_1.5.2_windows_amd64.zip |
+| 1.5.2   | zip  | x86          | https://releases.hashicorp.com/terraform/1.5.2/terraform_1.5.2_windows_386.zip   |
+
+## TorProjectTorBrowser
+
+[Link](https://www.torproject.org/)
+
+**Last update**: Wednesday, 28 June 2023 16:08:03 Etc/UTC
+
+| Version | Architecture | Type | Language | URI                                                                               |
+| ------- | ------------ | ---- | -------- | --------------------------------------------------------------------------------- |
+| 12.5    | x64          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.5/torbrowser-install-win64-12.5_ALL.exe |
+| 12.5    | x86          | exe  | ALL      | https://dist.torproject.org/torbrowser/12.5/torbrowser-install-12.5_ALL.exe       |
+
 ## GoogleDrive
 
 [Link](https://support.google.com/drive/answer/7329379)
@@ -591,18 +627,6 @@
 | Version  | Sha256                                                           | Size      | URI                                                          |
 | -------- | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------ |
 | 77.0.3.0 | 0bb3591d46e810672bba68c75096f4fe1d05c2142296e6f456bb270fedb95a23 | 332315416 | https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe |
-
-## Slack
-
-[Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
-
-**Last update**: Wednesday, 28 June 2023 16:08:03 Etc/UTC
-
-| Version | Platform   | Architecture | URI                                                                                                |
-| ------- | ---------- | ------------ | -------------------------------------------------------------------------------------------------- |
-| 4.33.73 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.33.73/prod/x64/slack-standalone-4.33.73.0.msi  |
-| 4.33.73 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.33.73/prod/ia32/slack-standalone-4.33.73.0.msi |
-| 4.33.73 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.33.73/prod/x64/SlackSetup.msi                  |
 
 ## AtlassianSourcetree
 
@@ -641,6 +665,19 @@
 | 18.2.7  | x64          | stable   | 2016     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2016/chef-client-18.2.7-1-x64.msi       |
 | 18.2.7  | x64          | stable   | 2019     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2019/chef-client-18.2.7-1-x64.msi       |
 | 18.2.7  | x64          | stable   | 2022     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2022/chef-client-18.2.7-1-x64.msi       |
+
+## MicrosoftPowerShell
+
+[Link](https://docs.microsoft.com/powershell/)
+
+**Last update**: Wednesday, 28 June 2023 00:24:17 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                              | Release |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
+| 7.3.5   | Windows  | x64          | msi  | Default       | 06/27/2023 | 105742336 | https://github.com/PowerShell/PowerShell/releases/download/v7.3.5/PowerShell-7.3.5-win-x64.msi   | Stable  |
+| 7.3.5   | Windows  | x86          | msi  | Default       | 06/27/2023 | 97591296  | https://github.com/PowerShell/PowerShell/releases/download/v7.3.5/PowerShell-7.3.5-win-x86.msi   | Stable  |
+| 7.2.12  | Windows  | x64          | msi  | Default       | 06/27/2023 | 105906176 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.12/PowerShell-7.2.12-win-x64.msi | LTS     |
+| 7.2.12  | Windows  | x86          | msi  | Default       | 06/27/2023 | 96931840  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.12/PowerShell-7.2.12-win-x86.msi | LTS     |
 
 ## Microsoft365Apps
 
@@ -682,19 +719,6 @@
 | Version     | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                               |
 | ----------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
 | 2023.6.27.1 | Windows  | x86          | exe  | Default       | 06/27/2023 | 18296886 | https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.6.27.1/NETworkManager_2023.6.27.1_Setup.exe |
-
-## MicrosoftPowerShell
-
-[Link](https://docs.microsoft.com/powershell/)
-
-**Last update**: Wednesday, 28 June 2023 00:24:17 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                              | Release |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
-| 7.3.5   | Windows  | x64          | msi  | Default       | 06/27/2023 | 105742336 | https://github.com/PowerShell/PowerShell/releases/download/v7.3.5/PowerShell-7.3.5-win-x64.msi   | Stable  |
-| 7.3.5   | Windows  | x86          | msi  | Default       | 06/27/2023 | 97591296  | https://github.com/PowerShell/PowerShell/releases/download/v7.3.5/PowerShell-7.3.5-win-x86.msi   | Stable  |
-| 7.2.12  | Windows  | x64          | msi  | Default       | 06/27/2023 | 105906176 | https://github.com/PowerShell/PowerShell/releases/download/v7.2.12/PowerShell-7.2.12-win-x64.msi | LTS     |
-| 7.2.12  | Windows  | x86          | msi  | Default       | 06/27/2023 | 96931840  | https://github.com/PowerShell/PowerShell/releases/download/v7.2.12/PowerShell-7.2.12-win-x86.msi | LTS     |
 
 ## OctopusDeployServer
 
@@ -751,44 +775,6 @@
 | 23.1.0  | 06/27/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2310/camtasia.exe |
 | 23.1.0  | 06/27/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2310/camtasia.msi |
 
-## ESETPROTECTServer
-
-[Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
-
-**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
-
-| Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                     |
-| ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 10.1.1283.0 | 137375744 | d4053ba8959e9611a7dbb954880ca636e4ec6991 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v10/10.1.1283.0/server_x64.msi |
-
-## AdobeAcrobatProStdDC
-
-[Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
-
-**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
-
-| Version      | Architecture | Sku      | URI                                                                                          |
-| ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
-| 23.003.20215 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.003.20215 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.003.20215 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-| 23.003.20215 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-
-## AdobeAcrobatDC
-
-[Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
-
-**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
-
-| Version      | Type      | Architecture | URI                                                                                                        |
-| ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.003.20215 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcrobatDCx64Upd2300320215.msp     |
-| 23.003.20215 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcrobatDCUpd2300320215.msp        |
-| 23.003.20215 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcroRdrDCx64Upd2300320215.msp     |
-| 23.003.20215 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320215/AcroRdrDCUpd2300320215.msp         |
-| 23.003.20215 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcroRdrDCx64Upd2300320215_MUI.msp |
-| 23.003.20215 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320215/AcroRdrDCUpd2300320215_MUI.msp     |
-
 ## AdobeAcrobatReaderDC
 
 [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
@@ -828,16 +814,43 @@
 | 23.001.20064 | Turkish               | x86          | Reader DC 2023.001.20064 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_tr_TR.exe   |
 | 23.001.20064 | Ukrainian             | x86          | Reader DC 2023.001.20064 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300120064/AcroRdrDC2300120064_uk_UA.exe   |
 
-## HashicorpConsul
+## ESETPROTECTServer
 
-[Link](https://www.consul.io/)
+[Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
 
-**Last update**: Tuesday, 27 June 2023 00:23:45 Etc/UTC
+**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
 
-| Version | Type | Architecture | URI                                                                          |
-| ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
-| 1.16.0  | zip  | x64          | https://releases.hashicorp.com/consul/1.16.0/consul_1.16.0_windows_amd64.zip |
-| 1.16.0  | zip  | x86          | https://releases.hashicorp.com/consul/1.16.0/consul_1.16.0_windows_386.zip   |
+| Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                     |
+| ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
+| 10.1.1283.0 | 137375744 | d4053ba8959e9611a7dbb954880ca636e4ec6991 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v10/10.1.1283.0/server_x64.msi |
+
+## AdobeAcrobatProStdDC
+
+[Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
+
+**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
+
+| Version      | Architecture | Sku      | URI                                                                                          |
+| ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
+| 23.003.20215 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.003.20215 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.003.20215 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 23.003.20215 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+
+## AdobeAcrobatDC
+
+[Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
+
+**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
+
+| Version      | Type      | Architecture | URI                                                                                                        |
+| ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
+| 23.003.20215 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcrobatDCx64Upd2300320215.msp     |
+| 23.003.20215 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcrobatDCUpd2300320215.msp        |
+| 23.003.20215 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcroRdrDCx64Upd2300320215.msp     |
+| 23.003.20215 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320215/AcroRdrDCUpd2300320215.msp         |
+| 23.003.20215 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320215/AcroRdrDCx64Upd2300320215_MUI.msp |
+| 23.003.20215 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320215/AcroRdrDCUpd2300320215_MUI.msp     |
 
 ## AWSSAMCLI
 
@@ -848,6 +861,17 @@
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |
 | 1.89.0  | Windows  | x86          | msi  | Default       | 06/26/2023 | 82694144 | https://github.com/aws/aws-sam-cli/releases/download/v1.89.0/AWS_SAM_CLI_64_PY3.msi |
+
+## HashicorpConsul
+
+[Link](https://www.consul.io/)
+
+**Last update**: Tuesday, 27 June 2023 00:23:45 Etc/UTC
+
+| Version | Type | Architecture | URI                                                                          |
+| ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
+| 1.16.0  | zip  | x64          | https://releases.hashicorp.com/consul/1.16.0/consul_1.16.0_windows_amd64.zip |
+| 1.16.0  | zip  | x86          | https://releases.hashicorp.com/consul/1.16.0/consul_1.16.0_windows_386.zip   |
 
 ## ImageMagickStudioImageMagick
 
@@ -912,20 +936,6 @@
 | 9.3.0   | Windows  | x64          | exe  | Default       | 06/25/2023 | 9443056 | https://github.com/peazip/PeaZip/releases/download/9.3.0/peazip-9.3.0.WIN64.exe   |
 | 9.3.0   | Windows  | x86          | exe  | Default       | 06/25/2023 | 8697529 | https://github.com/peazip/PeaZip/releases/download/9.3.0/peazip-9.3.0.WINDOWS.exe |
 
-## PaintDotNetOfflineInstaller
-
-[Link](https://getpaint.net/)
-
-**Last update**: Sunday, 25 June 2023 00:25:33 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |
-| 5.0.7   | Windows  | ARM64        | zip  | Default       | 04/07/2023 | 57589826 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.install.arm64.zip      |
-| 5.0.7   | Windows  | ARM64        | zip  | Default       | 04/07/2023 | 66585322 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.winmsi.arm64.zip       |
-| 5.0.7   | Windows  | x64          | zip  | Default       | 04/07/2023 | 65032033 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.install.x64.zip        |
-| 5.0.7   | Windows  | x64          | zip  | Default       | 04/07/2023 | 73426216 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.winmsi.x64.zip         |
-| 5.0.7   | Windows  | x86          | zip  | Default       | 04/07/2023 | 752336   | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.install.anycpu.web.zip |
-
 ## PaintDotNet
 
 [Link](https://getpaint.net)
@@ -945,6 +955,20 @@
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
 | 3.1.4   | Windows  | x64          | msi  | Default       | 06/24/2023 | 32821248 | https://github.com/jgm/pandoc/releases/download/3.1.4/pandoc-3.1.4-windows-x86_64.msi |
+
+## PaintDotNetOfflineInstaller
+
+[Link](https://getpaint.net/)
+
+**Last update**: Sunday, 25 June 2023 00:25:33 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |
+| 5.0.7   | Windows  | ARM64        | zip  | Default       | 04/07/2023 | 57589826 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.install.arm64.zip      |
+| 5.0.7   | Windows  | ARM64        | zip  | Default       | 04/07/2023 | 66585322 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.winmsi.arm64.zip       |
+| 5.0.7   | Windows  | x64          | zip  | Default       | 04/07/2023 | 65032033 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.install.x64.zip        |
+| 5.0.7   | Windows  | x64          | zip  | Default       | 04/07/2023 | 73426216 | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.winmsi.x64.zip         |
+| 5.0.7   | Windows  | x86          | zip  | Default       | 04/07/2023 | 752336   | https://github.com/paintdotnet/release/releases/download/v5.0.7/paint.net.5.0.7.install.anycpu.web.zip |
 
 ## ScreenToGif
 
@@ -989,16 +1013,6 @@
 | 2.41.0  | Windows  | x86          | zip  | Default       | 06/01/2023 | 34156183 | https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/MinGit-2.41.0-busybox-32-bit.zip              |
 | 2.41.0  | Windows  | x86          | zip  | Default       | 06/01/2023 | 18587259 | https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/pdbs-for-git-32-bit-2.41.0.1.ff94e79c47-1.zip |
 
-## JamTreeSizeProfessional
-
-[Link](https://www.jam-software.com/treesize/)
-
-**Last update**: Friday, 23 June 2023 16:09:39 Etc/UTC
-
-| Version | URI                                                              |
-| ------- | ---------------------------------------------------------------- |
-| 9.01    | https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe |
-
 ## MestrelabMnova
 
 [Link](https://mestrelab.com/software/mnova/)
@@ -1009,6 +1023,29 @@
 | ------- | -------- | ------------ | ---------------------------------------------------------------------------- |
 | 14.3.3  | 33362    | x64          | http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.3-33362_x64.msi |
 | 14.3.3  | 33362    | x86          | http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.3-33362.msi     |
+
+## JamTreeSizeProfessional
+
+[Link](https://www.jam-software.com/treesize/)
+
+**Last update**: Friday, 23 June 2023 16:09:39 Etc/UTC
+
+| Version | URI                                                              |
+| ------- | ---------------------------------------------------------------- |
+| 9.01    | https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe |
+
+## GitHubDesktop
+
+[Link](https://desktop.github.com/)
+
+**Last update**: Friday, 23 June 2023 00:25:40 Etc/UTC
+
+| Version | Architecture | Type | URI                                                                                                       |
+| ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+| 3.2.6   | ARM64        | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-arm64.exe |
+| 3.2.6   | x64          | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-x64.exe   |
+| 3.2.6   | ARM64        | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-arm64.msi |
+| 3.2.6   | x64          | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-x64.msi   |
 
 ## Microsoft.NET
 
@@ -1043,19 +1080,6 @@
 | 3.1.32  | x86          | windowsdesktop | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/3f353d2c-0431-48c5-bdf6-fbbe8f901bb5/542a4af07c1df5136a98a1c2df6f3d62/windowsdesktop-runtime-3.1.32-win-x86.exe   |
 | 3.1.32  | x86          | runtime        | 3.1     | exe  | https://download.visualstudio.microsoft.com/download/pr/de4b3438-24a2-4d1d-a845-97355cf97b71/515abb880478b49f7c1bced8fbf07b16/dotnet-runtime-3.1.32-win-x86.exe           |
 
-## GitHubDesktop
-
-[Link](https://desktop.github.com/)
-
-**Last update**: Friday, 23 June 2023 00:25:40 Etc/UTC
-
-| Version | Architecture | Type | URI                                                                                                       |
-| ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 3.2.6   | ARM64        | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-arm64.exe |
-| 3.2.6   | x64          | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-x64.exe   |
-| 3.2.6   | ARM64        | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-arm64.msi |
-| 3.2.6   | x64          | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktopSetup-x64.msi   |
-
 ## AutodeskFusion360
 
 [Link](https://www.autodesk.com/products/fusion-360/overview)
@@ -1065,6 +1089,16 @@
 | Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                           |
 | --------- | ------------ | ----------------- | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |
 | 2.0.16490 | 2.0.16490    | 2.0.1986          | exe  | Fusion 360 Admin Install.exe | https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe |
+
+## BlueJ
+
+[Link](https://www.bluej.org/)
+
+**Last update**: Thursday, 22 June 2023 16:10:49 Etc/UTC
+
+| Version | URI                                                        |
+| ------- | ---------------------------------------------------------- |
+| 5.2.0   | https://www.bluej.org/download/files/BlueJ-windows-520.msi |
 
 ## JetBrainsPyCharm
 
@@ -1077,16 +1111,6 @@
 | 2023.1.3 | 231.9161.41 | PyCharm Community    | 06/21/2023 | 422909704 | https://download.jetbrains.com/python/pycharm-community-2023.1.3.exe.sha256    | https://download.jetbrains.com/python/pycharm-community-2023.1.3.exe    |
 | 2023.1.3 | 231.9161.41 | PyCharm Professional | 06/21/2023 | 521119144 | https://download.jetbrains.com/python/pycharm-professional-2023.1.3.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2023.1.3.exe |
 | 2022.2.2 | 222.4345.35 | PyCharm Edu          | 10/27/2022 | 394799056 | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe.sha256          | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe          |
-
-## BlueJ
-
-[Link](https://www.bluej.org/)
-
-**Last update**: Thursday, 22 June 2023 16:10:49 Etc/UTC
-
-| Version | URI                                                        |
-| ------- | ---------------------------------------------------------- |
-| 5.2.0   | https://www.bluej.org/download/files/BlueJ-windows-520.msi |
 
 ## AdobeAcrobat
 
@@ -1237,6 +1261,19 @@
 | ------- | ------------ | ------------------------------------------------------------------------------------ |
 | 29.1.3  | x64          | https://cdn-fastly.obsproject.com/downloads/OBS-Studio-29.1.3-Full-Installer-x64.exe |
 
+## 7ZipZS
+
+[Link](https://mcmilk.de/projects/7-Zip-zstd/)
+
+**Last update**: Sunday, 18 June 2023 16:07:39 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
+| 22.01   | Windows  | ARM32        | exe  | Default       | 06/18/2023 | 2910111 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm.exe   |
+| 22.01   | Windows  | ARM64        | exe  | Default       | 06/18/2023 | 2820648 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm64.exe |
+| 22.01   | Windows  | x64          | exe  | Default       | 06/18/2023 | 2980752 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-x64.exe   |
+| 22.01   | Windows  | x86          | exe  | Default       | 06/18/2023 | 2687458 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-x32.exe   |
+
 ## NotepadPlusPlus
 
 [Link](https://notepad-plus-plus.org/)
@@ -1258,19 +1295,6 @@
 | 8.5.4   | Windows  | x64          | zip  | Portable      | 06/18/2023 | 5740176 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.4/npp.8.5.4.portable.x64.zip             |
 | 8.5.4   | Windows  | x86          | zip  | Portable      | 06/18/2023 | 5244905 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.4/npp.8.5.4.portable.zip                 |
 
-## 7ZipZS
-
-[Link](https://mcmilk.de/projects/7-Zip-zstd/)
-
-**Last update**: Sunday, 18 June 2023 16:07:39 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 22.01   | Windows  | ARM32        | exe  | Default       | 06/18/2023 | 2910111 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm.exe   |
-| 22.01   | Windows  | ARM64        | exe  | Default       | 06/18/2023 | 2820648 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm64.exe |
-| 22.01   | Windows  | x64          | exe  | Default       | 06/18/2023 | 2980752 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-x64.exe   |
-| 22.01   | Windows  | x86          | exe  | Default       | 06/18/2023 | 2687458 | https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-x32.exe   |
-
 ## RCoreTeamRforWindows
 
 [Link](https://cran.r-project.org/bin/windows/base/)
@@ -1280,17 +1304,6 @@
 | Version | URI                                                         |
 | ------- | ----------------------------------------------------------- |
 | 4.3.1   | https://cran.r-project.org/bin/windows/base/R-4.3.1-win.exe |
-
-## OpenLens
-
-[Link](https://github.com/MuhammedKalkan/OpenLens/)
-
-**Last update**: Friday, 16 June 2023 08:08:04 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
-| 6.5.2   | Windows  | x86          | exe  | Default       | 06/16/2023 | 109236280 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-356/OpenLens.6.5.2-356.exe       |
-| 6.5.2   | Windows  | x86          | exe  | Default       | 06/16/2023 | 109478040 | https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-356/OpenLens.Setup.6.5.2-356.exe |
 
 ## TableauDesktop
 
@@ -1356,6 +1369,37 @@
 | ------------ | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |
 | 99.0.4788.77 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/99.0.4788.77/win/Opera_Crypto_99.0.4788.77_Setup_x64.exe |
 
+## TelegramDesktop
+
+[Link](https://desktop.telegram.org/)
+
+**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
+
+| Version | URI                                                  |
+| ------- | ---------------------------------------------------- |
+| 4.8.4   | https://updates.tdesktop.com/tsetup/tsetup.4.8.4.exe |
+
+## Postman
+
+[Link](https://www.getpostman.com/)
+
+**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
+
+| Version | Size      | Hash                                     | Date                | Architecture | Filename                        | URI                                                    |
+| ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------- | ------------------------------------------------------ |
+| 10.15.0 | 167840304 | 19CF6AF4A7CF43E577ADDCA012B4AD8CC0392DB7 | 06/13/2023 13:17:29 | x64          | Postman-win64-10.15.0-Setup.exe | https://dl.pstmn.io/download/version/10.15.0/windows64 |
+| 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe   | https://dl.pstmn.io/download/version/9.4.1/windows32   |
+
+## PiriformCCleanerFree
+
+[Link](https://www.ccleaner.com/ccleaner)
+
+**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
+
+| Version    | Filename       | URI                                                                                                              |
+| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 6.13.10517 | ccsetup613.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+
 ## VMwareTools
 
 [Link](https://docs.vmware.com/en/VMware-Tools/index.html)
@@ -1379,37 +1423,6 @@
 | 7.4.0   | Windows  | x86          | exe  | Default       | 06/14/2023 | 203677480 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.4.0/DesktopEditors_x86.exe |
 | 7.4.0   | Windows  | x64          | msi  | Default       | 06/14/2023 | 353567232 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.4.0/DesktopEditors_x64.msi |
 | 7.4.0   | Windows  | x86          | msi  | Default       | 06/14/2023 | 326687744 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.4.0/DesktopEditors_x86.msi |
-
-## PiriformCCleanerFree
-
-[Link](https://www.ccleaner.com/ccleaner)
-
-**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
-
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.13.10517 | ccsetup613.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
-
-## Postman
-
-[Link](https://www.getpostman.com/)
-
-**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
-
-| Version | Size      | Hash                                     | Date                | Architecture | Filename                        | URI                                                    |
-| ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------- | ------------------------------------------------------ |
-| 10.15.0 | 167840304 | 19CF6AF4A7CF43E577ADDCA012B4AD8CC0392DB7 | 06/13/2023 13:17:29 | x64          | Postman-win64-10.15.0-Setup.exe | https://dl.pstmn.io/download/version/10.15.0/windows64 |
-| 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe   | https://dl.pstmn.io/download/version/9.4.1/windows32   |
-
-## TelegramDesktop
-
-[Link](https://desktop.telegram.org/)
-
-**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
-
-| Version | URI                                                  |
-| ------- | ---------------------------------------------------- |
-| 4.8.4   | https://updates.tdesktop.com/tsetup/tsetup.4.8.4.exe |
 
 ## BeekeeperStudio
 
@@ -1736,6 +1749,16 @@
 | 1.8.0   | Windows  | x64          | exe  | Default       | 05/17/2023 | 55793232 | https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x64_1_8_0.exe |
 | 1.8.0   | Windows  | x86          | exe  | Default       | 05/17/2023 | 55817808 | https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x32_1_8_0.exe |
 
+## Cyberduck
+
+[Link](https://cyberduck.io/)
+
+**Last update**: Tuesday, 30 May 2023 16:07:42 Etc/UTC
+
+| Version     | Date       | Channel | URI                                                             |
+| ----------- | ---------- | ------- | --------------------------------------------------------------- |
+| 8.6.0.39818 | 05/30/2023 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.6.0.39818.exe |
+
 ## JASP
 
 [Link](https://jasp-stats.org/)
@@ -1755,16 +1778,6 @@
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
 | v18-build1 | Windows  | x86          | exe  | Default       | 05/26/2023 | 575287520 | https://github.com/codelerity/netbeans-installers/releases/download/v18-build1/Apache-NetBeans-18.exe |
-
-## Cyberduck
-
-[Link](https://cyberduck.io/)
-
-**Last update**: Tuesday, 30 May 2023 16:07:42 Etc/UTC
-
-| Version     | Date       | Channel | URI                                                             |
-| ----------- | ---------- | ------- | --------------------------------------------------------------- |
-| 8.6.0.39818 | 05/30/2023 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.6.0.39818.exe |
 
 ## OCSInventoryWindowsAgent
 
@@ -1843,16 +1856,6 @@
 | 17.0.7+7 | Windows  | x64          | zip  | Default       | 12/08/2021 | 47781256  | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-jre_x64_windows_17.0.7_7_openj9-0.38.0.zip        |
 | 17.0.7+7 | Windows  | x64          | zip  | Default       | 12/08/2021 | 8111870   | https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.7%2B7_openj9-0.38.0/ibm-semeru-open-testimage_x64_windows_17.0.7_7_openj9-0.38.0.zip  |
 
-## Fork
-
-[Link](https://www.fork.dev)
-
-**Last update**: Friday, 26 May 2023 16:07:49 Etc/UTC
-
-| Version | URI                                           |
-| ------- | --------------------------------------------- |
-| 1.85.0  | https://fork.dev/update/win/ForkInstaller.exe |
-
 ## AdoptOpenJDKSemuru8
 
 [Link](https://adoptopenjdk.net/index.html)
@@ -1885,6 +1888,19 @@
 | 1.4.1.1024 | x64          | https://www.voidtools.com/Everything.x64.msi |
 | 1.4.1.1024 | x86          | https://www.voidtools.com/Everything.x86.msi |
 
+## Wireshark
+
+[Link](https://www.wireshark.org/#download)
+
+**Last update**: Thursday, 25 May 2023 00:20:20 Etc/UTC
+
+| Version | Architecture | Type | URI                                                            |
+| ------- | ------------ | ---- | -------------------------------------------------------------- |
+| 4.0.6   | x64          | exe  | https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.6.exe  |
+| 4.0.6   | x64          | msi  | https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.6.msi  |
+| 3.6.14  | x86          | exe  | https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.14.exe |
+| 3.6.14  | x86          | msi  | https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.14.msi |
+
 ## MicrosoftSsms
 
 [Link](https://go.microsoft.com/fwlink/?LinkId=531355)
@@ -1904,19 +1920,6 @@
 | 15.0.18410.0 | 03/05/2022 | Portuguese (Brazil)   | https://download.microsoft.com/download/a/c/a/aca4e29f-6925-4d50-a06b-5576c6ea629f/SSMS-Setup-PTB.exe |
 | 15.0.18410.0 | 03/05/2022 | Russian               | https://download.microsoft.com/download/a/c/a/aca4e29f-6925-4d50-a06b-5576c6ea629f/SSMS-Setup-RUS.exe |
 | 15.0.18410.0 | 03/05/2022 | Spanish               | https://download.microsoft.com/download/a/c/a/aca4e29f-6925-4d50-a06b-5576c6ea629f/SSMS-Setup-ESN.exe |
-
-## Wireshark
-
-[Link](https://www.wireshark.org/#download)
-
-**Last update**: Thursday, 25 May 2023 00:20:20 Etc/UTC
-
-| Version | Architecture | Type | URI                                                            |
-| ------- | ------------ | ---- | -------------------------------------------------------------- |
-| 4.0.6   | x64          | exe  | https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.6.exe  |
-| 4.0.6   | x64          | msi  | https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.6.msi  |
-| 3.6.14  | x86          | exe  | https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.14.exe |
-| 3.6.14  | x86          | msi  | https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.14.msi |
 
 ## SafingPortmaster
 
@@ -1939,6 +1942,16 @@
 | 2.7.41491.1088 | Windows  | AMD64        | msi  | Default       | 09/16/2021 | 14909440 | https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1088/WindowsAzureVmAgent.amd64_2.7.41491.1088_2305091088.fre.msi |
 | 2.7.41491.1088 | Windows  | ARM64        | msi  | Default       | 09/16/2021 | 11513856 | https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1088/WindowsAzureVmAgent.arm64_2.7.41491.1088_2305091088.fre.msi |
 
+## Protege
+
+[Link](https://protege.stanford.edu/)
+
+**Last update**: Monday, 22 May 2023 16:07:56 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                          |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
+| 5.6.2   | Windows  | x86          | zip  | Default       | 05/22/2023 | 112240285 | https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.2/Protege-5.6.2-win.zip |
+
 ## HashicorpNomad
 
 [Link](https://www.nomadproject.io/)
@@ -1949,16 +1962,6 @@
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
 | 1.5.6   | zip  | x64          | https://releases.hashicorp.com/nomad/1.5.6/nomad_1.5.6_windows_amd64.zip |
 | 1.5.6   | zip  | x86          | https://releases.hashicorp.com/nomad/1.5.6/nomad_1.5.6_windows_386.zip   |
-
-## Protege
-
-[Link](https://protege.stanford.edu/)
-
-**Last update**: Monday, 22 May 2023 16:07:56 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
-| 5.6.2   | Windows  | x86          | zip  | Default       | 05/22/2023 | 112240285 | https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.2/Protege-5.6.2-win.zip |
 
 ## RDAnalyzer
 
@@ -2001,6 +2004,322 @@
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
 | 0.73.0  | Windows  | x64          | zip  | Default       | 05/14/2023 | 28858747 | https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64_73.zip |
 | 0.73.0  | Windows  | x86          | zip  | Default       | 05/14/2023 | 17183572 | https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86only.zip    |
+
+## GitHubRelease
+
+[Link](https://github.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                         |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------- |
+| 1.60.0  | Windows  | x64          | exe  | Default       | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe    |
+| 1.60.0  | Windows  | x86          | exe  | Default       | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe        |
+| 1.60.0  | Windows  | x64          | zip  | Default       | 03/07/2022 | 202264136 | https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip |
+| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 139094    | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip |
+| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 213343706 | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip         |
+| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 196491597 | https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip     |
+
+## AdoptOpenJDK11
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                        |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 11.0.9.1 | Windows  | x64          | msi  | Default       | 01/11/2019 | 172875776 | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.9.1_1.msi    |
+| 11.0.9.1 | Windows  | x64          | msi  | Default       | 01/11/2019 | 30990336  | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jre_x64_windows_hotspot_11.0.9.1_1.msi    |
+| 11.0.9.1 | Windows  | x86          | msi  | Default       | 01/11/2019 | 154157056 | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.9.1_1.msi |
+| 11.0.9.1 | Windows  | x86          | msi  | Default       | 01/11/2019 | 26812416  | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.9.1_1.msi |
+
+## Naps2
+
+[Link](https://www.naps2.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                              |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------- |
+| 6.1.2   | Windows  | x86          | exe  | Default       | 07/27/2019 | 2376439 | https://github.com/cyanfish/naps2/releases/download/v6.1.2/naps2-6.1.2-setup.exe |
+| 6.1.2   | Windows  | x86          | msi  | Default       | 07/27/2019 | 2650112 | https://github.com/cyanfish/naps2/releases/download/v6.1.2/naps2-6.1.2-setup.msi |
+
+## WixToolset
+
+[Link](https://wixtoolset.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |
+| 3.11.2  | Windows  | x86          | exe  | Default       | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
+
+## BISF
+
+[Link](https://eucweb.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                       |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------- |
+| 7.1912.7 | Windows  | x86          | MSI  | Default       | 11/19/2022 | 3357696 | https://github.com/EUCweb/BIS-F/releases/download/7.1912.7/setup-BIS-F-7.1912.7.11042.MSI |
+
+## AdoptOpenJDK16
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 184905728 | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jdk_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 31494144  | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jre_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
+
+## mRemoteNG
+
+[Link](https://mremoteng.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| 1.76.20 | Windows  | x86          | msi  | Default       | 04/12/2019 | 43593728 | https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi |
+
+## BlenderLauncher
+
+[Link](https://dotbow.github.io/Blender-Launcher/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1.15.1  | Windows  | x64          | zip  | Default       | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
+| 1.15.1  | Windows  | x64          | zip  | Debug         | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
+
+## Maximus5ConEmu
+
+[Link](https://github.com/Maximus5/ConEmu)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
+| 22.12.18 | Windows  | x86          | 7z   | Default       | 12/19/2022 | 4856292 | https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuPack.221218.7z          |
+| 22.12.18 | Windows  | x86          | exe  | Default       | 12/19/2022 | 7965016 | https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe        |
+| 22.12.18 | Windows  | x86          | exe  | Default       | 12/19/2022 | 4828696 | https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmu_221218_English.paf.exe |
+
+## JeremyMainGPUProfiler
+
+[Link](https://github.com/JeremyMain/GPUProfiler)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
+| 1.07a3  | Windows  | x64          | zip  | Default       | 06/08/2021 | 1091066 | https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a3/GPUProfiler_v1.07a3_x64.zip |
+
+## AutoDarkMode
+
+[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version   | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                             |
+| --------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| 10.3.0.90 | Windows  | x86          | exe  | Default       | 11/02/2022 | 55765183 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe |
+| 10.3.0.90 | Windows  | x86          | zip  | Default       | 11/02/2022 | 76106071 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.zip |
+
+## PSAppDeployToolkit
+
+[Link](https://psappdeploytoolkit.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
+| 3.9.3   | Windows  | x86          | zip  | Default       | 05/01/2023 | 3584580 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.3/PSAppDeployToolkit_v3.9.3.zip |
+
+## MuseScore
+
+[Link](https://musescore.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
+| 4.0.2   | Windows  | x64          | msi  | Default       | 03/13/2023 | 103133184 | https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651553-x86_64.msi |
+
+## AdoptOpenJDK8
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                           |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 105721856 | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 43614208  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
+| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 98983936  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
+| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 36962304  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
+
+## AdoptOpenJDKIcedTeaWeb
+
+[Link](https://adoptopenjdk.net/icedtea-web.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1.8.8   | Windows  | x86          | msi  | Default       | 10/27/2021 | 6561483 | https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.msi              |
+| 1.8.8   | Windows  | x86          | zip  | Portable      | 10/27/2021 | 7615638 | https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.portable.bin.zip |
+| 1.8.8   | Windows  | x86          | zip  | Default       | 10/27/2021 | 6367313 | https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.win.bin.zip      |
+
+## MozillaGeckoDriver
+
+[Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
+| 0.33.0  | Windows  | ARM64        | zip  | Default       | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
+| 0.33.0  | Windows  | x64          | zip  | Default       | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
+| 0.33.0  | Windows  | x86          | zip  | Default       | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
+
+## FreeFem
+
+[Link](https://freefem.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------- |
+| 4.12    | Windows  | x64          | exe  | Default       | 12/01/2022 | 272333222 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win11-x64.exe |
+| 4.12    | Windows  | x64          | exe  | Default       | 12/01/2022 | 274238002 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win64.exe     |
+
+## GitExtensions
+
+[Link](https://github.com/gitextensions/gitextensions)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 4.1     | Windows  | x86          | msi  | Default       | 05/11/2023 | 23056384 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-4.1.0.16698-1fe52a137.msi          |
+| 4.1     | Windows  | x86          | zip  | Portable      | 05/11/2023 | 22400892 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-Portable-4.1.0.16698-1fe52a137.zip |
+
+## AdobeBrackets
+
+[Link](http://brackets.io/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
+| 1.14.2  | Windows  | x86          | msi  | Default       | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
+
+## KeeWeb
+
+[Link](https://github.com/keeweb/keeweb)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                    |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------- |
+| 1.18.7  | Windows  | ARM64        | exe  | Default       | 07/18/2021 | 59490304 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.exe |
+| 1.18.7  | Windows  | x64          | exe  | Default       | 07/18/2021 | 63026752 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.exe   |
+| 1.18.7  | Windows  | x86          | exe  | Default       | 07/18/2021 | 60156888 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.exe  |
+| 1.18.7  | Windows  | ARM64        | zip  | Default       | 07/18/2021 | 85382735 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.zip |
+| 1.18.7  | Windows  | x64          | zip  | Default       | 07/18/2021 | 83753334 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.zip   |
+| 1.18.7  | Windows  | x86          | zip  | Default       | 07/18/2021 | 7160996  | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.html.zip      |
+| 1.18.7  | Windows  | x86          | zip  | Default       | 07/18/2021 | 79082537 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.zip  |
+
+## VercelHyper
+
+[Link](https://hyper.js/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------ |
+| 3.4.1   | Windows  | x86          | exe  | Default       | 01/07/2023 | 73828760 | https://github.com/vercel/hyper/releases/download/v3.4.1/Hyper-Setup-3.4.1.exe |
+
+## Notable
+
+[Link](https://notable.app/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |
+| 1.8.4   | Windows  | x86          | exe  | Default       | 01/18/2020 | 90623743 | https://github.com/notable/notable/releases/download/v1.8.4/Notable.Setup.1.8.4.exe |
+
+## jq
+
+[Link](http://stedolan.github.io/jq/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------- |
+| 1.6     | Windows  | x64          | exe  | Default       | 11/02/2018 | 3525307 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe |
+| 1.6     | Windows  | x86          | exe  | Default       | 11/02/2018 | 2711358 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win32.exe |
+
+## DebaucheeBarrier
+
+[Link](https://github.com/debauchee/barrier)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
+| 2.4.0   | Windows  | x86          | exe  | Default       | 11/01/2021 | 9279404 | https://github.com/debauchee/barrier/releases/download/v2.4.0/BarrierSetup-2.4.0-release.exe |
+
+## NevcairielLAVFilters
+
+[Link](https://github.com/Nevcairiel/LAVFilters)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 0.77.2  | Windows  | x86          | exe  | Default       | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
+
+## MicrosoftBotFrameworkEmulator
+
+[Link](https://github.com/microsoft/BotFramework-Emulator/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                         |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 | 164630672 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe |
+
+## TogglDesktop
+
+[Link](https://www.toggl.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 7.5.363 | Windows  | x64          | exe  | Default       | 10/30/2020 | 5850944 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe |
+| 7.5.363 | Windows  | x86          | exe  | Default       | 10/30/2020 | 5449608 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe     |
+
+## AdoptOpenJDKSemuru18
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 18.0.2+9 | Windows  | x64          | msi  | Default       | 02/25/2022 | 187465728 | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jdk_x64_windows_18.0.2_9_openj9-0.33.1.msi        |
+| 18.0.2+9 | Windows  | x64          | msi  | Default       | 02/25/2022 | 33939456  | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.msi        |
+| 18.0.2+9 | Windows  | x64          | zip  | Debug         | 02/25/2022 | 45827466  | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-debugimage_x64_windows_18.0.2_9_openj9-0.33.1.zip |
+| 18.0.2+9 | Windows  | x64          | zip  | Default       | 02/25/2022 | 215022730 | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jdk_x64_windows_18.0.2_9_openj9-0.33.1.zip        |
+| 18.0.2+9 | Windows  | x64          | zip  | Default       | 02/25/2022 | 47034218  | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip        |
+| 18.0.2+9 | Windows  | x64          | zip  | Default       | 02/25/2022 | 8136393   | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-testimage_x64_windows_18.0.2_9_openj9-0.33.1.zip  |
 
 ## GitHubAtom
 
@@ -2073,19 +2392,6 @@
 | 2.16.30 | Windows  | x64          | exe  | User          | 04/26/2023 | 8321792 | https://github.com/WinMerge/winmerge/releases/download/v2.16.30/WinMerge-2.16.30-x64-PerUser-Setup.exe |
 | 2.16.30 | Windows  | x64          | exe  | Default       | 04/26/2023 | 8322064 | https://github.com/WinMerge/winmerge/releases/download/v2.16.30/WinMerge-2.16.30-x64-Setup.exe         |
 | 2.16.30 | Windows  | x86          | exe  | Default       | 04/26/2023 | 7751712 | https://github.com/WinMerge/winmerge/releases/download/v2.16.30/WinMerge-2.16.30-Setup.exe             |
-
-## Win32OpenSSH
-
-[Link](https://github.com/PowerShell/Win32-OpenSSH/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
-| 9.2.2.0 | Windows  | ARM32        | zip  | Default       | 04/13/2023 | 3821254 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-ARM.zip   |
-| 9.2.2.0 | Windows  | ARM64        | zip  | Default       | 04/13/2023 | 3999755 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-ARM64.zip |
-| 9.2.2.0 | Windows  | x64          | zip  | Default       | 04/13/2023 | 4452797 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-Win64.zip |
-| 9.2.2.0 | Windows  | x86          | zip  | Default       | 04/13/2023 | 3874516 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-Win32.zip |
 
 ## Nomacs
 
@@ -2161,15 +2467,18 @@
 | 1.8.0.332-1.b09-x86 | Windows  | x86          | msi  | Default       | 04/30/2022 | 146435808 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09-x86/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86.msi |
 | 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | Default       | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
 
-## YubicoAuthenticator
+## Win32OpenSSH
 
-[Link](https://github.com/Yubico/yubioath-flutter/)
+[Link](https://github.com/PowerShell/Win32-OpenSSH/)
 
 **Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
-| 6.2.0   | Windows  | x64          | msi  | Default       | 04/19/2023 | 47366144 | https://github.com/Yubico/yubioath-flutter/releases/download/6.2.0/yubico-authenticator-6.2.0-win64.msi |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
+| 9.2.2.0 | Windows  | ARM32        | zip  | Default       | 04/13/2023 | 3821254 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-ARM.zip   |
+| 9.2.2.0 | Windows  | ARM64        | zip  | Default       | 04/13/2023 | 3999755 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-ARM64.zip |
+| 9.2.2.0 | Windows  | x64          | zip  | Default       | 04/13/2023 | 4452797 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-Win64.zip |
+| 9.2.2.0 | Windows  | x86          | zip  | Default       | 04/13/2023 | 3874516 | https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.2.2.0p1-Beta/OpenSSH-Win32.zip |
 
 ## Gephi
 
@@ -2182,6 +2491,94 @@
 | 0.10.1  | Windows  | x64          | exe  | Default       | 01/17/2023 | 125986656 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x64.exe |
 | 0.10.1  | Windows  | x86          | exe  | Default       | 01/17/2023 | 121932728 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x32.exe |
 
+## YubicoAuthenticator
+
+[Link](https://github.com/Yubico/yubioath-flutter/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| 6.2.0   | Windows  | x64          | msi  | Default       | 04/19/2023 | 47366144 | https://github.com/Yubico/yubioath-flutter/releases/download/6.2.0/yubico-authenticator-6.2.0-win64.msi |
+
+## Terminals
+
+[Link](https://github.com/terminals-Origin/Terminals/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
+| 4.0.1   | Windows  | x86          | msi  | Default       | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
+
+## RizonesoftNotepad3
+
+[Link](https://www.rizonesoft.com/downloads/notepad3)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                              |
+| ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
+| 6.23.203.2 | Windows  | x64          | exe  | Default       | 02/03/2023 | 4154728 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Setup.exe    |
+| 6.23.203.2 | Windows  | x86          | exe  | Portable      | 02/03/2023 | 5207528 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3Portable_6.23.203.2.paf.exe  |
+| 6.23.203.2 | Windows  | x86          | exe  | Default       | 02/03/2023 | 3935624 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Setup.exe    |
+| 6.23.203.2 | Windows  | x64          | zip  | Portable      | 02/03/2023 | 6421908 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Portable.zip |
+| 6.23.203.2 | Windows  | x86          | zip  | Portable      | 02/03/2023 | 6105337 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Portable.zip |
+
+## PDFArranger
+
+[Link](https://github.com/pdfarranger/pdfarranger/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| 1.9.2   | Windows  | x86          | msi  | Default       | 11/27/2022 | 37305856 | https://github.com/pdfarranger/pdfarranger/releases/download/1.9.2/pdfarranger-1.9.2-windows-installer.msi |
+
+## Greenshot
+
+[Link](https://getgreenshot.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.2.10.6 | Windows  | x86          | exe  | Default       | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
+| 1.2.10.6 | Windows  | x86          | exe  | Portable      | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
+| 1.2.10.6 | Windows  | x86          | zip  | Portable      | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
+
+## TeXstudio
+
+[Link](https://www.texstudio.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
+| 4.5.2   | Windows  | x86          | exe  | Default       | 04/15/2023 | 141122669 | https://github.com/texstudio-org/texstudio/releases/download/4.5.2/texstudio-4.5.2-win-qt6.exe |
+
+## SoberLemurPDFSamBasic
+
+[Link](https://pdfsam.org/pdfsam-basic/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
+| 5.1.2   | Windows  | x86          | msi  | Default       | 04/26/2023 | 70557696 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2.msi         |
+| 5.1.2   | Windows  | x86          | zip  | Default       | 04/26/2023 | 69037130 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2-windows.zip |
+
+## ShareX
+
+[Link](https://getsharex.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
+| 15.0.0  | Windows  | x86          | exe  | Default       | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
+| 15.0.0  | Windows  | x86          | zip  | Portable      | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
+
 ## NanaZip
 
 [Link](https://github.com/M2Team/NanaZip)
@@ -2191,6 +2588,26 @@
 | Version | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                     |
 | ------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 2.0.450 | Windows  | x86          | msixbundle | Default       | 11/24/2022 | 15999629 | https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle |
+
+## USBPcap
+
+[Link](https://github.com/desowin/usbpcap/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | ------------------------------------------------------------------------------------- |
+| 1.5.4.0 | Windows  | x86          | exe  | Default       | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
+
+## ConnectionExperienceIndicator
+
+[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
+| 1.3.0   | Windows  | x86          | exe  | Default       | 07/06/2022 | 429816 | https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe |
 
 ## Handbrake
 
@@ -2208,420 +2625,6 @@
 | 1.6.1   | Windows  | x64          | zip  | Default       | 01/22/2023 | 32107821 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.zip |
 | 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 21841487 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip  |
 | 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 22434962 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-x86_64.zip         |
-
-## ConnectionExperienceIndicator
-
-[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
-| 1.3.0   | Windows  | x86          | exe  | Default       | 07/06/2022 | 429816 | https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe |
-
-## ShareX
-
-[Link](https://getsharex.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
-| 15.0.0  | Windows  | x86          | exe  | Default       | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
-| 15.0.0  | Windows  | x86          | zip  | Portable      | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
-
-## TeXstudio
-
-[Link](https://www.texstudio.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 4.5.2   | Windows  | x86          | exe  | Default       | 04/15/2023 | 141122669 | https://github.com/texstudio-org/texstudio/releases/download/4.5.2/texstudio-4.5.2-win-qt6.exe |
-
-## Greenshot
-
-[Link](https://getgreenshot.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.10.6 | Windows  | x86          | exe  | Default       | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
-| 1.2.10.6 | Windows  | x86          | exe  | Portable      | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
-| 1.2.10.6 | Windows  | x86          | zip  | Portable      | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
-
-## PDFArranger
-
-[Link](https://github.com/pdfarranger/pdfarranger/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 1.9.2   | Windows  | x86          | msi  | Default       | 11/27/2022 | 37305856 | https://github.com/pdfarranger/pdfarranger/releases/download/1.9.2/pdfarranger-1.9.2-windows-installer.msi |
-
-## RizonesoftNotepad3
-
-[Link](https://www.rizonesoft.com/downloads/notepad3)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                              |
-| ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.23.203.2 | Windows  | x64          | exe  | Default       | 02/03/2023 | 4154728 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Setup.exe    |
-| 6.23.203.2 | Windows  | x86          | exe  | Portable      | 02/03/2023 | 5207528 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3Portable_6.23.203.2.paf.exe  |
-| 6.23.203.2 | Windows  | x86          | exe  | Default       | 02/03/2023 | 3935624 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Setup.exe    |
-| 6.23.203.2 | Windows  | x64          | zip  | Portable      | 02/03/2023 | 6421908 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Portable.zip |
-| 6.23.203.2 | Windows  | x86          | zip  | Portable      | 02/03/2023 | 6105337 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Portable.zip |
-
-## Terminals
-
-[Link](https://github.com/terminals-Origin/Terminals/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 4.0.1   | Windows  | x86          | msi  | Default       | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
-
-## SoberLemurPDFSamBasic
-
-[Link](https://pdfsam.org/pdfsam-basic/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
-| 5.1.2   | Windows  | x86          | msi  | Default       | 04/26/2023 | 70557696 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2.msi         |
-| 5.1.2   | Windows  | x86          | zip  | Default       | 04/26/2023 | 69037130 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2-windows.zip |
-
-## AdoptOpenJDKSemuru18
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 18.0.2+9 | Windows  | x64          | msi  | Default       | 02/25/2022 | 187465728 | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jdk_x64_windows_18.0.2_9_openj9-0.33.1.msi        |
-| 18.0.2+9 | Windows  | x64          | msi  | Default       | 02/25/2022 | 33939456  | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.msi        |
-| 18.0.2+9 | Windows  | x64          | zip  | Debug         | 02/25/2022 | 45827466  | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-debugimage_x64_windows_18.0.2_9_openj9-0.33.1.zip |
-| 18.0.2+9 | Windows  | x64          | zip  | Default       | 02/25/2022 | 215022730 | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jdk_x64_windows_18.0.2_9_openj9-0.33.1.zip        |
-| 18.0.2+9 | Windows  | x64          | zip  | Default       | 02/25/2022 | 47034218  | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip        |
-| 18.0.2+9 | Windows  | x64          | zip  | Default       | 02/25/2022 | 8136393   | https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-testimage_x64_windows_18.0.2_9_openj9-0.33.1.zip  |
-
-## USBPcap
-
-[Link](https://github.com/desowin/usbpcap/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | ------------------------------------------------------------------------------------- |
-| 1.5.4.0 | Windows  | x86          | exe  | Default       | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
-
-## MicrosoftBotFrameworkEmulator
-
-[Link](https://github.com/microsoft/BotFramework-Emulator/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                         |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 | 164630672 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe |
-
-## Notable
-
-[Link](https://notable.app/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |
-| 1.8.4   | Windows  | x86          | exe  | Default       | 01/18/2020 | 90623743 | https://github.com/notable/notable/releases/download/v1.8.4/Notable.Setup.1.8.4.exe |
-
-## Maximus5ConEmu
-
-[Link](https://github.com/Maximus5/ConEmu)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
-| 22.12.18 | Windows  | x86          | 7z   | Default       | 12/19/2022 | 4856292 | https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuPack.221218.7z          |
-| 22.12.18 | Windows  | x86          | exe  | Default       | 12/19/2022 | 7965016 | https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe        |
-| 22.12.18 | Windows  | x86          | exe  | Default       | 12/19/2022 | 4828696 | https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmu_221218_English.paf.exe |
-
-## BlenderLauncher
-
-[Link](https://dotbow.github.io/Blender-Launcher/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1.15.1  | Windows  | x64          | zip  | Default       | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
-| 1.15.1  | Windows  | x64          | zip  | Debug         | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
-
-## mRemoteNG
-
-[Link](https://mremoteng.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
-| 1.76.20 | Windows  | x86          | msi  | Default       | 04/12/2019 | 43593728 | https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi |
-
-## AdoptOpenJDK16
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 184905728 | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jdk_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 31494144  | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jre_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
-
-## AutoDarkMode
-
-[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version   | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                             |
-| --------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
-| 10.3.0.90 | Windows  | x86          | exe  | Default       | 11/02/2022 | 55765183 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe |
-| 10.3.0.90 | Windows  | x86          | zip  | Default       | 11/02/2022 | 76106071 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.zip |
-
-## WixToolset
-
-[Link](https://wixtoolset.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |
-| 3.11.2  | Windows  | x86          | exe  | Default       | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
-
-## AdoptOpenJDK11
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                        |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 11.0.9.1 | Windows  | x64          | msi  | Default       | 01/11/2019 | 172875776 | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.9.1_1.msi    |
-| 11.0.9.1 | Windows  | x64          | msi  | Default       | 01/11/2019 | 30990336  | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jre_x64_windows_hotspot_11.0.9.1_1.msi    |
-| 11.0.9.1 | Windows  | x86          | msi  | Default       | 01/11/2019 | 154157056 | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.9.1_1.msi |
-| 11.0.9.1 | Windows  | x86          | msi  | Default       | 01/11/2019 | 26812416  | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.9.1_1.msi |
-
-## Naps2
-
-[Link](https://www.naps2.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                              |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------- |
-| 6.1.2   | Windows  | x86          | exe  | Default       | 07/27/2019 | 2376439 | https://github.com/cyanfish/naps2/releases/download/v6.1.2/naps2-6.1.2-setup.exe |
-| 6.1.2   | Windows  | x86          | msi  | Default       | 07/27/2019 | 2650112 | https://github.com/cyanfish/naps2/releases/download/v6.1.2/naps2-6.1.2-setup.msi |
-
-## GitHubRelease
-
-[Link](https://github.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                         |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------- |
-| 1.60.0  | Windows  | x64          | exe  | Default       | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe    |
-| 1.60.0  | Windows  | x86          | exe  | Default       | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe        |
-| 1.60.0  | Windows  | x64          | zip  | Default       | 03/07/2022 | 202264136 | https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip |
-| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 139094    | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip |
-| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 213343706 | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip         |
-| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 196491597 | https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip     |
-
-## JeremyMainGPUProfiler
-
-[Link](https://github.com/JeremyMain/GPUProfiler)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
-| 1.07a3  | Windows  | x64          | zip  | Default       | 06/08/2021 | 1091066 | https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a3/GPUProfiler_v1.07a3_x64.zip |
-
-## PSAppDeployToolkit
-
-[Link](https://psappdeploytoolkit.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 3.9.3   | Windows  | x86          | zip  | Default       | 05/01/2023 | 3584580 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.3/PSAppDeployToolkit_v3.9.3.zip |
-
-## NevcairielLAVFilters
-
-[Link](https://github.com/Nevcairiel/LAVFilters)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 0.77.2  | Windows  | x86          | exe  | Default       | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
-
-## AdoptOpenJDK8
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                           |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 105721856 | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 43614208  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
-| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 98983936  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
-| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 36962304  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
-
-## AdoptOpenJDKIcedTeaWeb
-
-[Link](https://adoptopenjdk.net/icedtea-web.html)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.8.8   | Windows  | x86          | msi  | Default       | 10/27/2021 | 6561483 | https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.msi              |
-| 1.8.8   | Windows  | x86          | zip  | Portable      | 10/27/2021 | 7615638 | https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.portable.bin.zip |
-| 1.8.8   | Windows  | x86          | zip  | Default       | 10/27/2021 | 6367313 | https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.8/icedtea-web-1.8.8.win.bin.zip      |
-
-## TogglDesktop
-
-[Link](https://www.toggl.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 7.5.363 | Windows  | x64          | exe  | Default       | 10/30/2020 | 5850944 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe |
-| 7.5.363 | Windows  | x86          | exe  | Default       | 10/30/2020 | 5449608 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe     |
-
-## MozillaGeckoDriver
-
-[Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
-| 0.33.0  | Windows  | ARM64        | zip  | Default       | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
-| 0.33.0  | Windows  | x64          | zip  | Default       | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
-| 0.33.0  | Windows  | x86          | zip  | Default       | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
-
-## BISF
-
-[Link](https://eucweb.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                       |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------- |
-| 7.1912.7 | Windows  | x86          | MSI  | Default       | 11/19/2022 | 3357696 | https://github.com/EUCweb/BIS-F/releases/download/7.1912.7/setup-BIS-F-7.1912.7.11042.MSI |
-
-## FreeFem
-
-[Link](https://freefem.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------- |
-| 4.12    | Windows  | x64          | exe  | Default       | 12/01/2022 | 272333222 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win11-x64.exe |
-| 4.12    | Windows  | x64          | exe  | Default       | 12/01/2022 | 274238002 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.12/FreeFem%2B%2B-4.12-win64.exe     |
-
-## GitExtensions
-
-[Link](https://github.com/gitextensions/gitextensions)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 4.1     | Windows  | x86          | msi  | Default       | 05/11/2023 | 23056384 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-4.1.0.16698-1fe52a137.msi          |
-| 4.1     | Windows  | x86          | zip  | Portable      | 05/11/2023 | 22400892 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-Portable-4.1.0.16698-1fe52a137.zip |
-
-## AdobeBrackets
-
-[Link](http://brackets.io/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
-| 1.14.2  | Windows  | x86          | msi  | Default       | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
-
-## KeeWeb
-
-[Link](https://github.com/keeweb/keeweb)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                    |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------- |
-| 1.18.7  | Windows  | ARM64        | exe  | Default       | 07/18/2021 | 59490304 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.exe |
-| 1.18.7  | Windows  | x64          | exe  | Default       | 07/18/2021 | 63026752 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.exe   |
-| 1.18.7  | Windows  | x86          | exe  | Default       | 07/18/2021 | 60156888 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.exe  |
-| 1.18.7  | Windows  | ARM64        | zip  | Default       | 07/18/2021 | 85382735 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.zip |
-| 1.18.7  | Windows  | x64          | zip  | Default       | 07/18/2021 | 83753334 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.zip   |
-| 1.18.7  | Windows  | x86          | zip  | Default       | 07/18/2021 | 7160996  | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.html.zip      |
-| 1.18.7  | Windows  | x86          | zip  | Default       | 07/18/2021 | 79082537 | https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.zip  |
-
-## VercelHyper
-
-[Link](https://hyper.js/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------ |
-| 3.4.1   | Windows  | x86          | exe  | Default       | 01/07/2023 | 73828760 | https://github.com/vercel/hyper/releases/download/v3.4.1/Hyper-Setup-3.4.1.exe |
-
-## MuseScore
-
-[Link](https://musescore.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
-| 4.0.2   | Windows  | x64          | msi  | Default       | 03/13/2023 | 103133184 | https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651553-x86_64.msi |
-
-## jq
-
-[Link](http://stedolan.github.io/jq/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------- |
-| 1.6     | Windows  | x64          | exe  | Default       | 11/02/2018 | 3525307 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win64.exe |
-| 1.6     | Windows  | x86          | exe  | Default       | 11/02/2018 | 2711358 | https://github.com/stedolan/jq/releases/download/jq-1.6/jq-win32.exe |
-
-## DebaucheeBarrier
-
-[Link](https://github.com/debauchee/barrier)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
-| 2.4.0   | Windows  | x86          | exe  | Default       | 11/01/2021 | 9279404 | https://github.com/debauchee/barrier/releases/download/v2.4.0/BarrierSetup-2.4.0-release.exe |
 
 ## XnSoftXnViewMP
 
@@ -2657,6 +2660,16 @@
 | --------- | ---- | --------------------------------------------------------------------------------------- |
 | 23.3.8528 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_23.3.8528.0.msi |
 
+## ControlUpConsole
+
+[Link](https://www.controlup.com/products/controlup/management/)
+
+**Last update**: Wednesday, 03 May 2023 00:20:09 Etc/UTC
+
+| Version   | URI                                                             |
+| --------- | --------------------------------------------------------------- |
+| 8.8.0.778 | https://downloads.controlup.com/console/8.8.0.778/ControlUp.zip |
+
 ## ControlUpAgent
 
 [Link](https://www.controlup.com/products/controlup/agent/)
@@ -2667,16 +2680,6 @@
 | --------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
 | 8.8.0.778 | 64bit-.net45 | x64          | https://downloads.controlup.com/agent/8.8.0.778/ControlUpAgent-net45-x64-8.8.0.778-signed.msi |
 | 8.8.0.778 | 32bit-.net45 | x86          | https://downloads.controlup.com/agent/8.8.0.778/ControlUpAgent-net45-x86-8.8.0.778-signed.msi |
-
-## ControlUpConsole
-
-[Link](https://www.controlup.com/products/controlup/management/)
-
-**Last update**: Wednesday, 03 May 2023 00:20:09 Etc/UTC
-
-| Version   | URI                                                             |
-| --------- | --------------------------------------------------------------- |
-| 8.8.0.778 | https://downloads.controlup.com/console/8.8.0.778/ControlUp.zip |
 
 ## MicrosoftOutlook
 
@@ -2758,6 +2761,16 @@
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------------------------------------------------------------------- |
 | 17.0.2  | 02/02/2023 | 5422765f358f5068bad832ae8bd6615480ddffebe0313c1337a8c958f3415739 | 577.06 MB | exe  | https://download3.vmware.com/software/WKST-PLAYER-1701/VMware-player-full-17.0.1-21139696.exe |
 
+## 1Password7
+
+[Link](https://1password.com/)
+
+**Last update**: Tuesday, 25 April 2023 08:09:38 Etc/UTC
+
+| Version | URI                                                             |
+| ------- | --------------------------------------------------------------- |
+| 7.9.833 | https://c.1password.com/dist/1P/win6/1PasswordSetup-7.9.833.exe |
+
 ## Anaconda
 
 [Link](https://www.anaconda.com/)
@@ -2768,16 +2781,6 @@
 | ------- | ------------ | ------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 2023.03 | x64          | 03/20/2023 15:41:36 | 824175688 | 050c0b10077fd8c4335bb66c1e50570d | 849daee6c1926bb43306d0e4ce0cc50719b5bb5e43e085fc5092513ef8bf1fd5 | https://repo.anaconda.com/archive/Anaconda3-2023.03-0-Windows-x86_64.exe |
 | 2023.03 | x64          | 04/24/2023 17:41:07 | 824774840 | a0db56365060cbc95e2a04ca3f832900 | f13a2ae812d2069654521e7b1d897227ea4af52bff7cd8b3d80e7b2271fc79e4 | https://repo.anaconda.com/archive/Anaconda3-2023.03-1-Windows-x86_64.exe |
-
-## 1Password7
-
-[Link](https://1password.com/)
-
-**Last update**: Tuesday, 25 April 2023 08:09:38 Etc/UTC
-
-| Version | URI                                                             |
-| ------- | --------------------------------------------------------------- |
-| 7.9.833 | https://c.1password.com/dist/1P/win6/1PasswordSetup-7.9.833.exe |
 
 ## ESETSecureAuthentication
 
@@ -2886,17 +2889,6 @@
 | 17.0.7.7.1  | x64          | 17  | msi  | https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-windows-x64.msi     |
 | 11.0.19.7.1 | x86          | 11  | msi  | https://corretto.aws/downloads/resources/11.0.19.7.1/amazon-corretto-11.0.19.7.1-windows-x86.msi   |
 
-## OracleJava8
-
-[Link](https://www.java.com)
-
-**Last update**: Tuesday, 18 April 2023 16:07:40 Etc/UTC
-
-| Version       | Architecture | URI                                                                                                                                       |
-| ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.0_371-b11 | x64          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_371-b11/ce59cff5c23f4e2eaf4e778a117d4c5b/windows-i586/jre-8u371-windows-x64.exe  |
-| 1.8.0_371-b11 | x86          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_371-b11/ce59cff5c23f4e2eaf4e778a117d4c5b/windows-i586/jre-8u371-windows-i586.exe |
-
 ## OracleVirtualBox
 
 [Link](https://www.virtualbox.org/)
@@ -2911,6 +2903,17 @@
 | 7.0.8       | STABLE  | iso  | https://download.virtualbox.org/virtualbox/7.0.8/VBoxGuestAdditions_7.0.8.iso                |
 | 7.0.0_BETA3 | BETA    | exe  | https://download.virtualbox.org/virtualbox/7.0.0_BETA3/VirtualBox-7.0.0_BETA3-153829-Win.exe |
 | 7.0.0_BETA3 | BETA    | iso  | https://download.virtualbox.org/virtualbox/7.0.0_BETA3/VBoxGuestAdditions_7.0.0_BETA3.iso    |
+
+## OracleJava8
+
+[Link](https://www.java.com)
+
+**Last update**: Tuesday, 18 April 2023 16:07:40 Etc/UTC
+
+| Version       | Architecture | URI                                                                                                                                       |
+| ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.8.0_371-b11 | x64          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_371-b11/ce59cff5c23f4e2eaf4e778a117d4c5b/windows-i586/jre-8u371-windows-x64.exe  |
+| 1.8.0_371-b11 | x86          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_371-b11/ce59cff5c23f4e2eaf4e778a117d4c5b/windows-i586/jre-8u371-windows-i586.exe |
 
 ## TechSmithSnagit
 
@@ -2977,6 +2980,16 @@
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 2303    | 04/05/2022 | 5ffc00d377efda8d413e0cc95d9f56c05d33ba8813fd29834a0da9a054bab205 | 333.94 MB | exe  | VMware Horizon Client for Windows | https://download3.vmware.com/software/CART24FQ1_WIN_2303/VMware-Horizon-Client-2203-8.5.0-19584195.exe |
 
+## GoToOpener
+
+[Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)
+
+**Last update**: Sunday, 19 March 2023 08:09:20 Etc/UTC
+
+| Version | Date                | URI                                                                  |
+| ------- | ------------------- | -------------------------------------------------------------------- |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+
 ## GoToMeeting
 
 [Link](https://support.goto.com/meeting/help/install-via-msi-windows)
@@ -2989,16 +3002,6 @@
 | 10.19.19950 | XenAppLatest | https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_Xen.msi                 |
 | 10.17.19796 | Minimum      | https://builds.cdn.getgo.com/builds/g2m/19796/G2MSetup10.17.19796_IT.msi                  |
 | 10.15       | Multi-build  | https://builds.cdn.getgo.com/builds/G2MSetupBundle/20220427_55/G2MSetup10.15-10.19_IT.msi |
-
-## GoToOpener
-
-[Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)
-
-**Last update**: Sunday, 19 March 2023 08:09:20 Etc/UTC
-
-| Version | Date                | URI                                                                  |
-| ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## AppVentiX
 
@@ -5418,35 +5421,15 @@
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 3.10.2.45 | 63d9767e795547109ca7d0bcf0ae4577414f8b4e | https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.10.2/EgnyteDesktopApp_3.10.2_45.msi |
 
-## MendeleyDesktop
+## Scratch
 
-[Link](https://www.mendeley.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | URI                                                                              |
-| ------- | -------------------------------------------------------------------------------- |
-| 1.19.8  | https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe |
-
-## SmartBearSoapUI
-
-[Link](https://www.soapui.org/)
+[Link](https://scratch.mit.edu/)
 
 **Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
-| Version | URI                                                       |
-| ------- | --------------------------------------------------------- |
-| 5.7.0   | http://dl.eviware.com/soapuios/5.7.0/SoapUI-x64-5.7.0.exe |
-
-## TelerikFiddlerClassic
-
-[Link](https://www.telerik.com/fiddler/fiddler-classic)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version     | URI                                                               |
-| ----------- | ----------------------------------------------------------------- |
-| 2.6.3.49793 | https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe |
+| Version | URI                                                                    |
+| ------- | ---------------------------------------------------------------------- |
+| 3.29.1  | https://downloads.scratch.mit.edu/desktop/Scratch%203.29.1%20Setup.exe |
 
 ## MozillaThunderbird
 
@@ -5721,16 +5704,6 @@
 | 102.12.0 | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 102.12.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.12.0/win32/zh-CN/Thunderbird%20Setup%20102.12.0.msi |
 | 102.12.0 | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 102.12.0.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.12.0/win32/zh-TW/Thunderbird%20Setup%20102.12.0.msi |
 
-## Scratch
-
-[Link](https://scratch.mit.edu/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | URI                                                                    |
-| ------- | ---------------------------------------------------------------------- |
-| 3.29.1  | https://downloads.scratch.mit.edu/desktop/Scratch%203.29.1%20Setup.exe |
-
 ## AdoptiumTemurin16
 
 [Link](https://adoptium.net/)
@@ -5741,6 +5714,36 @@
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | jdk-16.0.2+7 | jdk  | x64          | b153c6ce102c6f05fd710c4b26c64224b649457613dad4830dcc6b551c0a4b3d | 181499904 | https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_windows_hotspot_16.0.2_7.msi    |
 | jdk-16.0.2+7 | jdk  | x86          | 5f988fe7360e769918831c0842f8aa4b3f71103b32cdb67ded57750fcb42ecdc | 163936768 | https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x86-32_windows_hotspot_16.0.2_7.msi |
+
+## SmartBearSoapUI
+
+[Link](https://www.soapui.org/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | URI                                                       |
+| ------- | --------------------------------------------------------- |
+| 5.7.0   | http://dl.eviware.com/soapuios/5.7.0/SoapUI-x64-5.7.0.exe |
+
+## MendeleyDesktop
+
+[Link](https://www.mendeley.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | URI                                                                              |
+| ------- | -------------------------------------------------------------------------------- |
+| 1.19.8  | https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe |
+
+## TelerikFiddlerClassic
+
+[Link](https://www.telerik.com/fiddler/fiddler-classic)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version     | URI                                                               |
+| ----------- | ----------------------------------------------------------------- |
+| 2.6.3.49793 | https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe |
 
 ## CendioThinLinc
 
