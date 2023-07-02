@@ -1,9 +1,0 @@
-json/7zip.json
-json/Gimp.json
-json/KeePass.json
-json/ProjectLibre.json
-json/SAGAGIS.json
-json/VideoLanVlcPlayer.json
-json/WinSCP.json
-json/Zoom.json
-json/gretl.json
