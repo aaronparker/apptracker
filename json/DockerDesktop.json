@@ -1,10 +1,10 @@
 [
   {
-    "Version": "4.21.0",
-    "Build": "113844",
-    "Size": "584760656",
+    "Version": "4.21.1",
+    "Build": "114176",
+    "Size": "584747856",
     "Type": "exe",
-    "URI": "https://desktop.docker.com/win/main/amd64/113844/Docker%20Desktop%20Installer.exe"
+    "URI": "https://desktop.docker.com/win/main/amd64/114176/Docker%20Desktop%20Installer.exe"
   },
   {
     "Version": "4.20.1",
