@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "57596458",
     "Md5": "7c906f4459b40a77d3e8a3108142ea63",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.3/saga-9.0.3_x64_setup.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.3/saga-9.0.3_x64_setup.exe"
   },
   {
     "Version": "9.0.3",
@@ -13,6 +13,6 @@
     "Type": "exe",
     "Size": "44114778",
     "Md5": "42a1e4e83fafa9a063a1dbd53cd0f44a",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.3/saga-9.0.3_win32_setup.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.0.3/saga-9.0.3_win32_setup.exe"
   }
 ]
