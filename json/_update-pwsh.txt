@@ -1,0 +1,12 @@
+json/1Password.json
+json/7zip.json
+json/AirtameApp.json
+json/KDiff3.json
+json/KeePass.json
+json/ProjectLibre.json
+json/ResponsivelyApp.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/gsudo.json

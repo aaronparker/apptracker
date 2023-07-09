@@ -6,7 +6,7 @@
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "07/09/2023",
-    "Size": 2322432,
+    "Size": 2326528,
     "URI": "https://github.com/gerardog/gsudo/releases/download/v2.1.0/gsudo.setup.arm64.msi"
   },
   {
@@ -36,7 +36,7 @@
     "Type": "zip",
     "InstallerType": "Portable",
     "Date": "07/09/2023",
-    "Size": 12507904,
+    "Size": 12510179,
     "URI": "https://github.com/gerardog/gsudo/releases/download/v2.1.0/gsudo.portable.zip"
   }
 ]
