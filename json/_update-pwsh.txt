@@ -1,0 +1,10 @@
+json/7zip.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/dbeaver.json
+json/gretl.json
