@@ -14,45 +14,45 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16529.20154",
+    "Version": "16.0.16529.20182",
     "Channel": "Current",
     "Name": "Current Channel",
-    "Date": "2023-06-27T01:05:38.447Z",
+    "Date": "2023-07-11T12:25:11.21Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16327.20324",
+    "Version": "16.0.16501.20242",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise",
-    "Date": "2023-06-13T07:56:08.82Z",
+    "Date": "2023-07-11T12:25:43.72Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16130.20580",
-    "Channel": "SemiAnnualPreview",
-    "Name": "Semi-Annual Channel Preview",
-    "Date": "2023-06-13T07:58:05.607Z",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.15601.20680",
+    "Version": "16.0.16130.20644",
     "Channel": "SemiAnnual",
     "Name": "Semi-Annual Channel",
-    "Date": "2023-06-13T07:59:34.113Z",
+    "Date": "2023-07-11T12:29:24.157Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14332.20517",
+    "Version": "16.0.16130.20644",
+    "Channel": "SemiAnnualPreview",
+    "Name": "Semi-Annual Channel Preview",
+    "Date": "2023-07-11T12:29:05.933Z",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
+    "Version": "16.0.14332.20529",
     "Channel": "PerpetualVL2021",
     "Name": "Office LTSC 2021 Perpetual Enterprise",
-    "Date": "2023-06-13T13:16:22.793Z",
+    "Date": "2023-07-11T13:17:52.947Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10399.20000",
+    "Version": "16.0.10400.20007",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "2023-06-13T13:19:58.617Z",
+    "Date": "2023-07-11T13:23:20.23Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }
 ]
