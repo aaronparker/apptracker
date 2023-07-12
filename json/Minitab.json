@@ -1,9 +1,9 @@
 [
   {
-    "Version": "21.4.0.0",
+    "Version": "21.4.1.0",
     "Architecture": "x64",
     "Release": "21",
-    "URI": "https://files3.minitab.com/prodinstalls/minitab/minitab21/21.4.0.0/updates/commercial/minitab21.4.0.0setup.x64.exe"
+    "URI": "https://files3.minitab.com/prodinstalls/minitab/minitab21/21.4.1.0/updates/commercial/minitab21.4.1.0setup.x64.exe"
   },
   {
     "Version": "20.4.0.0",
