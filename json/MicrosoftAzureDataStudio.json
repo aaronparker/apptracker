@@ -3,15 +3,15 @@
     "Version": "1.46.0",
     "Platform": "win32-x64",
     "Channel": "Insider",
-    "Sha256": "782060ade9bf42e1f14a83b69a79759675ac9dd9014a64287a10b15e7947aa8a",
-    "URI": "https://sqlopsbuilds.azureedge.net/insider/94c1e298df0be16c65509b68b2157b204fcb392e/azuredatastudio-windows-setup-1.46.0-insider.exe"
+    "Sha256": "3b61b089c0afe14e6db12b4585a43239a77c977f86f3b664d6d20ec9a264747f",
+    "URI": "https://sqlopsbuilds.azureedge.net/insider/c3ef0f91cbe8ba25fdaa2d69a7de899588e541ec/azuredatastudio-windows-setup-1.46.0-insider.exe"
   },
   {
     "Version": "1.46.0",
     "Platform": "win32-x64-user",
     "Channel": "Insider",
-    "Sha256": "720cf49184b1e419c14ca1558045127c7d0f3a90ffcf4120f98fb28baf684a6d",
-    "URI": "https://sqlopsbuilds.azureedge.net/insider/94c1e298df0be16c65509b68b2157b204fcb392e/azuredatastudio-windows-user-setup-1.46.0-insider.exe"
+    "Sha256": "8ba5309ef44ded03eb9b2dd512dd767d0a6df7e5f8adbb93378358ec7ba69140",
+    "URI": "https://sqlopsbuilds.azureedge.net/insider/c3ef0f91cbe8ba25fdaa2d69a7de899588e541ec/azuredatastudio-windows-user-setup-1.46.0-insider.exe"
   },
   {
     "Version": "1.44.1",
