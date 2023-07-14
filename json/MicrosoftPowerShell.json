@@ -1,46 +1,46 @@
 [
   {
-    "Version": "7.3.5",
+    "Version": "7.3.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "06/27/2023",
-    "Size": 105742336,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.5/PowerShell-7.3.5-win-x64.msi",
+    "Date": "07/13/2023",
+    "Size": 105631744,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x64.msi",
     "Release": "Stable"
   },
   {
-    "Version": "7.3.5",
+    "Version": "7.3.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "06/27/2023",
-    "Size": 97591296,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.5/PowerShell-7.3.5-win-x86.msi",
+    "Date": "07/13/2023",
+    "Size": 97955840,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x86.msi",
     "Release": "Stable"
   },
   {
-    "Version": "7.2.12",
+    "Version": "7.2.13",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "06/27/2023",
-    "Size": 105906176,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.12/PowerShell-7.2.12-win-x64.msi",
+    "Date": "07/13/2023",
+    "Size": 105762816,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.13/PowerShell-7.2.13-win-x64.msi",
     "Release": "LTS"
   },
   {
-    "Version": "7.2.12",
+    "Version": "7.2.13",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "06/27/2023",
-    "Size": 96931840,
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.12/PowerShell-7.2.12-win-x86.msi",
+    "Date": "07/13/2023",
+    "Size": 96772096,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.13/PowerShell-7.2.13-win-x86.msi",
     "Release": "LTS"
   }
 ]
