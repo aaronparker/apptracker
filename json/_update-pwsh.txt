@@ -1,0 +1,16 @@
+json/7zip.json
+json/AirtameApp.json
+json/BeekeeperStudio.json
+json/Gimp.json
+json/GitForWindows.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftOneDrive.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
