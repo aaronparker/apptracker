@@ -1,6 +1,6 @@
 {
-  "Version": "8.0.33",
+  "Version": "8.0.34",
   "Type": "msi",
   "Architecture": "x64",
-  "URI": "https://cdn.mysql.com/Downloads/MySQLInstaller/mysql-installer-community-8.0.33.msi"
+  "URI": "https://cdn.mysql.com/Downloads/MySQLInstaller/mysql-installer-community-8.0.34.msi"
 }
