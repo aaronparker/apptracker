@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.7.41491.1088",
+    "Version": "2.7.41491.1095",
     "Platform": "Windows",
     "Architecture": "AMD64",
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "09/16/2021",
-    "Size": 14909440,
-    "URI": "https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1088/WindowsAzureVmAgent.amd64_2.7.41491.1088_2305091088.fre.msi"
+    "Size": 15216640,
+    "URI": "https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1095/WindowsAzureVmAgent.amd64_2.7.41491.1095_2307171095.fre.msi"
   },
   {
-    "Version": "2.7.41491.1088",
+    "Version": "2.7.41491.1095",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "09/16/2021",
-    "Size": 11513856,
-    "URI": "https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1088/WindowsAzureVmAgent.arm64_2.7.41491.1088_2305091088.fre.msi"
+    "Size": 11792384,
+    "URI": "https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1095/WindowsAzureVmAgent.arm64_2.7.41491.1095_2307171095.fre.msi"
   }
 ]
