@@ -1,0 +1,11 @@
+json/1Password.json
+json/7zip.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftTeams.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
