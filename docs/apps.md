@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 261 applications and 3423 unique application installers:
+App Version Tracker is using Evergreen to track 265 applications and 3438 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -53,7 +53,6 @@ App Version Tracker is using Evergreen to track 261 applications and 3423 unique
 | BlueJ                                                             | https://www.bluej.org/                                                                           |
 | Cendio ThinLinc                                                   | https://www.cendio.com/                                                                          |
 | Chromium ChromeDriver                                             | https://chromedriver.chromium.org/home                                                           |
-| Citrix VM Tools                                                   | https://www.citrix.com/downloads/citrix-hypervisor/                                              |
 | Citrix Workspace app                                              | https://www.citrix.com/downloads/workspace-app/                                                  |
 | Codelerity Apache NetBeans                                        | https://www.codelerity.com/netbeans/                                                             |
 | Connection Experience Indicator                                   | https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/                    |
@@ -85,6 +84,7 @@ App Version Tracker is using Evergreen to track 261 applications and 3423 unique
 | Freedom Scientific ZoomText                                       | https://www.freedomscientific.com/products/software/zoomtext/                                    |
 | FreeFem                                                           | https://freefem.org/                                                                             |
 | Geek Software PDF24 Creator                                       | https://tools.pdf24.org/en/creator/                                                              |
+| GeoGebra Classic                                                  | https://www.geogebra.org                                                                         |
 | Gephi                                                             | https://gephi.org/                                                                               |
 | Ghisler TotalCommander                                            | https://www.ghisler.com/                                                                         |
 | GIMP                                                              | https://www.gimp.org/                                                                            |
@@ -118,13 +118,14 @@ App Version Tracker is using Evergreen to track 261 applications and 3423 unique
 | JeremyMain GPUProfiler                                            | https://github.com/JeremyMain/GPUProfiler                                                        |
 | JetBrains IntelliJ IDEA                                           | https://www.jetbrains.com/                                                                       |
 | JetBrains PyCharm                                                 | https://www.jetbrains.com/                                                                       |
-| jq                                                                | http://stedolan.github.io/jq/                                                                    |
+| jq                                                                | https://jqlang.github.io/jq/                                                                     |
 | jrsoftware InnoSetup                                              | https://www.innosetup.com                                                                        |
 | Karakun OpenWebStart                                              | https://openwebstart.com/ows/                                                                    |
 | KDiff3                                                            | https://kdiff3.sourceforge.net/                                                                  |
 | KeePass Password Safe                                             | https://keepass.info/                                                                            |
 | KeePassXC Team KeePassXC                                          | https://keepassxc.org/                                                                           |
 | KeeWeb                                                            | https://github.com/keeweb/keeweb                                                                 |
+| LehrerOffice                                                      | https://lehreroffice.net/                                                                        |
 | Master Packager                                                   | https://www.masterpackager.com/                                                                  |
 | Mattermost Desktop                                                | https://github.com/mattermost/desktop                                                            |
 | Maximus5 ConEmu                                                   | https://github.com/Maximus5/ConEmu                                                               |
@@ -176,6 +177,7 @@ App Version Tracker is using Evergreen to track 261 applications and 3423 unique
 | Ben Olden-Cooligan NAPS2                                          | https://www.naps2.com/                                                                           |
 | NETworkManager                                                    | https://github.com/BornToBeRoot/NETworkManager                                                   |
 | Nevcairiel LAV Filters                                            | https://github.com/Nevcairiel/LAVFilters                                                         |
+| Node.js                                                           | https://nodejs.org/                                                                              |
 | nomacs Image Lounge                                               | https://nomacs.org/                                                                              |
 | Notable                                                           | https://notable.app/                                                                             |
 | Notepad++                                                         | https://notepad-plus-plus.org/                                                                   |
@@ -242,9 +244,11 @@ App Version Tracker is using Evergreen to track 261 applications and 3423 unique
 | Telerik Fiddler Everywhere                                        | https://www.telerik.com/fiddler                                                                  |
 | Terminals                                                         | https://github.com/terminals-Origin/Terminals/                                                   |
 | TeXstudio                                                         | https://www.texstudio.org/                                                                       |
+| Thymio Suite                                                      | https://www.thymio.org/                                                                          |
 | Toggl Desktop                                                     | https://www.toggl.com/                                                                           |
 | Tor Project Tor Browser                                           | https://www.torproject.org/                                                                      |
 | Tower                                                             | https://www.git-tower.com/windows/                                                               |
+| TGPi Colour Contrast Analyser                                     | https://www.tpgi.com/color-contrast-checker/                                                     |
 | Tracker Software PDF X-Change Editor                              | https://pdf-xchange.eu/pdf-xchange-editor/index.htm                                              |
 | USBPcap                                                           | https://github.com/desowin/usbpcap/                                                              |
 | vast limits uberAgent                                             | https://uberagent.com/                                                                           |
