@@ -1,0 +1,13 @@
+json/1Password.json
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/OctopusDeployServer.json
+json/Tower.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
