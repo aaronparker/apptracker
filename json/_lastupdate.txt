@@ -3,7 +3,6 @@
 "NodeJs.json","24/7/2023 12:22:44 AM"
 "LehrerOffice.json","24/7/2023 12:22:44 AM"
 "GeoGebraClassic.json","24/7/2023 12:22:44 AM"
-"CitrixVMTools.json","24/7/2023 12:22:44 AM"
 "jq.json","24/7/2023 12:22:44 AM"
 "Maximus5ConEmu.json","24/7/2023 12:22:44 AM"
 "TPGiColourContrastAnalyser.json","24/7/2023 12:22:44 AM"
