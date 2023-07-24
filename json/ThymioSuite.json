@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2.4.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "10/17/2022",
+    "Size": 173608128,
+    "URI": "https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe"
+  },
+  {
+    "Version": "2.4.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "10/17/2022",
+    "Size": 163720032,
+    "URI": "https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe"
+  }
+]

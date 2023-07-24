@@ -1,32 +1,32 @@
 [
   {
-    "Version": "22.12.18",
+    "Version": "23.07.24",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "7z",
     "InstallerType": "Default",
-    "Date": "12/19/2022",
-    "Size": 4856292,
-    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuPack.221218.7z"
+    "Date": "07/24/2023",
+    "Size": 4857689,
+    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuPack.230724.7z"
   },
   {
-    "Version": "22.12.18",
+    "Version": "23.07.24",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/19/2022",
-    "Size": 7965016,
-    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmuSetup.221218.exe"
+    "Date": "07/24/2023",
+    "Size": 7965008,
+    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuSetup.230724.exe"
   },
   {
-    "Version": "22.12.18",
+    "Version": "23.07.24",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/19/2022",
-    "Size": 4828696,
-    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v22.12.18/ConEmu_221218_English.paf.exe"
+    "Date": "07/24/2023",
+    "Size": 4828488,
+    "URI": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmu_230724_English.paf.exe"
   }
 ]
