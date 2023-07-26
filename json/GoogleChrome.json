@@ -1,19 +1,19 @@
 [
   {
-    "Version": "117.0.5897.4",
-    "Architecture": "x86",
-    "Channel": "dev",
-    "Date": "07/23/2023",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
-  },
-  {
     "Version": "117.0.5897.3",
     "Architecture": "x64",
     "Channel": "dev",
     "Date": "07/24/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "117.0.5897.3",
+    "Architecture": "x86",
+    "Channel": "dev",
+    "Date": "07/23/2023",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "116.0.5845.42",
@@ -32,18 +32,18 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "115.0.5790.102",
+    "Version": "115.0.5790.110",
     "Architecture": "x64",
     "Channel": "stable",
-    "Date": "07/21/2023",
+    "Date": "07/25/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "115.0.5790.102",
+    "Version": "115.0.5790.110",
     "Architecture": "x86",
     "Channel": "stable",
-    "Date": "07/21/2023",
+    "Date": "07/25/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   }

@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.9.2",
+    "Version": "1.9.1",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/packer/1.9.2/packer_1.9.2_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/packer/1.9.1/packer_1.9.1_windows_amd64.zip"
   },
   {
-    "Version": "1.9.2",
+    "Version": "1.9.1",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/packer/1.9.2/packer_1.9.2_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/packer/1.9.1/packer_1.9.1_windows_386.zip"
   }
 ]
