@@ -1,10 +1,10 @@
 {
-  "Version": "4.1.0",
+  "Version": "4.1.1",
   "Platform": "Windows",
   "Architecture": "x64",
   "Type": "msi",
   "InstallerType": "Default",
-  "Date": "07/11/2023",
-  "Size": 107241472,
-  "URI": "https://github.com/musescore/MuseScore/releases/download/v4.1.0/MuseScore-4.1.0.231921402-x86_64.msi"
+  "Date": "07/25/2023",
+  "Size": 107331584,
+  "URI": "https://github.com/musescore/MuseScore/releases/download/v4.1.1/MuseScore-4.1.1.232071203-x86_64.msi"
 }
