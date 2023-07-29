@@ -4,97 +4,207 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe               |
-| 3.0.18  | Windows  | x86          | EXE  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi               |
-| 3.0.18  | Windows  | x86          | MSI  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.fau.de/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip               |
-| 3.0.18  | Windows  | x86          | ZIP  | http://mirror.cspacehostings.com/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
-## AWSCLI
+## TelegramDesktop
 
-[Link](https://github.com/aws/aws-cli/)
+[Link](https://desktop.telegram.org/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
 
-| Version | Type | URI                                              |
-| ------- | ---- | ------------------------------------------------ |
-| 2.13.5  | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.13.5.msi |
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 4.8.10  | https://updates.tdesktop.com/tsetup/tsetup.4.8.10.exe |
 
-## MicrosoftTeamsPreview
+## MicrosoftAzureDataStudio
 
-[Link](https://www.microsoft.com/teams)
+[Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
 
-| Version              | Release    | Architecture | Type | URI                                                                                                          |
-| -------------------- | ---------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------ |
-| 23196.703.2250.9029  | Consumer   | macOS        | pkg  | https://statics.teams.cdn.office.net/production-osx/23196.703.2250.9029/MicrosoftTeams.pkg                   |
-| 23196.703.2250.9029  | Enterprise | macOS        | pkg  | https://statics.teams.microsoft.com/production-osx/23196.703.2250.9029/MicrosoftTeams.pkg                    |
-| 23195.1508.2272.5738 | Consumer   | arm64        | msix | https://statics.teams.cdn.office.net/production-windows-arm64/23195.1508.2272.5738/MicrosoftTeams-arm64.msix |
-| 23195.1508.2272.5738 | Enterprise | arm64        | msix | https://statics.teams.microsoft.com/production-windows-arm64/23195.1508.2272.5738/MSTeams-arm64.msix         |
-| 23195.1508.2272.5738 | Consumer   | x64          | msix | https://statics.teams.cdn.office.net/production-windows-x64/23195.1508.2272.5738/MicrosoftTeams-x64.msix     |
-| 23195.1508.2272.5738 | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23195.1508.2272.5738/MSTeams-x64.msix             |
-| 23195.1508.2272.5738 | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23195.1508.2272.5738/MicrosoftTeams-x86.msix     |
-| 23195.1508.2272.5738 | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23195.1508.2272.5738/MSTeams-x86.msix             |
+| Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
+| ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.46.0  | win32-x64      | Insider | 01cb179520225027659c518e66de1878d2ff22628279b1576228e0a9c807cc96 | https://sqlopsbuilds.azureedge.net/insider/71447032738895248960a4662d7ef7026671a1c0/azuredatastudio-windows-setup-1.46.0-insider.exe      |
+| 1.46.0  | win32-x64-user | Insider | 6b632aa9fb8a999421cc6feac4b14af1fbbad044d15299b84f85a8ced4f6da39 | https://sqlopsbuilds.azureedge.net/insider/71447032738895248960a4662d7ef7026671a1c0/azuredatastudio-windows-user-setup-1.46.0-insider.exe |
+| 1.45.0  | win32-x64      | Stable  | 3bd29209604577f3f9c96cc1080b958826d41ff1dbea5a1dc544805a204fa473 | https://sqlopsbuilds.azureedge.net/stable/8eff468100f02157f2219335f7a566d14451ca49/azuredatastudio-windows-setup-1.45.0.exe               |
+| 1.45.0  | win32-x64-user | Stable  | 07b2b99be11247dcff1d5d9a1157d70d0fa71939b1b236a35e745e5654790be2 | https://sqlopsbuilds.azureedge.net/stable/8eff468100f02157f2219335f7a566d14451ca49/azuredatastudio-windows-user-setup-1.45.0.exe          |
 
-## MicrosoftEdge
+## AirtameApp
 
-[Link](https://www.microsoft.com/edge)
+[Link](https://airtame.com/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
 
-| Version        | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
-| -------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 117.0.2007.0   | Any      | Policy     | Enterprise | any          | 16388B1258FF0D539FAC2970F779684C72DA36202443E859B6D4FB6C8B10099A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b911641-a5bf-44d3-9b60-7c3229a02660/MicrosoftEdgePolicyTemplates.cab            |
-| 117.0.2007.0   | Windows  | Dev        | Consumer   | arm64        | 3345C4FC4428E94E10E54DE8F4C5AF72AC7BD997FA237118D4A91BC76AD7A78E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/790cb416-a62a-4450-ac1b-f8ae508b6e02/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 117.0.2007.0   | Windows  | Dev        | Enterprise | arm64        | 3345C4FC4428E94E10E54DE8F4C5AF72AC7BD997FA237118D4A91BC76AD7A78E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/790cb416-a62a-4450-ac1b-f8ae508b6e02/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 117.0.2007.0   | Windows  | Dev        | Consumer   | x64          | 2237D45CC7159D5F9846E0EA38A6EB7641E7FA4885F801F30F4E47B147BA4360 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3a85452-b016-478f-a7e8-4517db7dd362/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 117.0.2007.0   | Windows  | Dev        | Enterprise | x64          | 2237D45CC7159D5F9846E0EA38A6EB7641E7FA4885F801F30F4E47B147BA4360 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3a85452-b016-478f-a7e8-4517db7dd362/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 117.0.2007.0   | Windows  | Dev        | Consumer   | x86          | 2248FC5C2C4F42D7017CB3516D9D6D48D9449BCF21038720C8741019FEC03651 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a15d08d4-182e-440c-bec2-621f53c5471c/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 117.0.2007.0   | Windows  | Dev        | Enterprise | x86          | 2248FC5C2C4F42D7017CB3516D9D6D48D9449BCF21038720C8741019FEC03651 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a15d08d4-182e-440c-bec2-621f53c5471c/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 116.0.1938.29  | Windows  | Beta       | Consumer   | arm64        | 22F57AB4FB7182A408EC05E5656FB547286BA461F6E9C727A287B397605D244A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f3161d6-e49b-4039-a7a1-da4149367202/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 116.0.1938.29  | Windows  | Beta       | Enterprise | arm64        | 22F57AB4FB7182A408EC05E5656FB547286BA461F6E9C727A287B397605D244A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f3161d6-e49b-4039-a7a1-da4149367202/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 116.0.1938.29  | Windows  | Beta       | Consumer   | x64          | B73E83877321F2D49F162AF86E2AA686388E62191FC4FEB88D483492BEA582C2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/875b9e55-8b6f-4e29-b4fe-dc6052b99849/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 116.0.1938.29  | Windows  | Beta       | Enterprise | x64          | B73E83877321F2D49F162AF86E2AA686388E62191FC4FEB88D483492BEA582C2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/875b9e55-8b6f-4e29-b4fe-dc6052b99849/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 116.0.1938.29  | Windows  | Beta       | Consumer   | x86          | 98D66AC18588EA296FA64799E7638E80FBE9CDCFEF7EF6A07AB9D85D84B0779D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d70708f3-28be-42db-954e-2e7124158d2c/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 116.0.1938.29  | Windows  | Beta       | Enterprise | x86          | 98D66AC18588EA296FA64799E7638E80FBE9CDCFEF7EF6A07AB9D85D84B0779D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d70708f3-28be-42db-954e-2e7124158d2c/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 115.0.1901.188 | Windows  | Stable     | Consumer   | arm64        | FCF8497A883E0955082F48B05B274BF58CD927176023458427BF308E88936767 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e26bea79-236a-47d4-b8c1-e3bc09e6fd5d/MicrosoftEdgeEnterpriseARM64.msi            |
-| 115.0.1901.188 | Windows  | Stable     | Enterprise | arm64        | FCF8497A883E0955082F48B05B274BF58CD927176023458427BF308E88936767 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e26bea79-236a-47d4-b8c1-e3bc09e6fd5d/MicrosoftEdgeEnterpriseARM64.msi            |
-| 115.0.1901.188 | Windows  | Stable     | Consumer   | x64          | 9E2760244FB9447E9A27F168F1A20B65CA9327A93541D55480F5B272F05741D5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/41fea851-ee50-44bd-9f20-305df0f9f4e5/MicrosoftEdgeEnterpriseX64.msi              |
-| 115.0.1901.188 | Windows  | Stable     | Enterprise | x64          | 9E2760244FB9447E9A27F168F1A20B65CA9327A93541D55480F5B272F05741D5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/41fea851-ee50-44bd-9f20-305df0f9f4e5/MicrosoftEdgeEnterpriseX64.msi              |
-| 115.0.1901.188 | Windows  | Stable     | Consumer   | x86          | BAFE7CF14A2190C1AE85C883CBD671D444A64741DA23FD7230A62A69F7972408 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff48a0f9-8b02-46c9-bbbc-9c5f9a94b67d/MicrosoftEdgeEnterpriseX86.msi              |
-| 115.0.1901.188 | Windows  | Stable     | Enterprise | x86          | BAFE7CF14A2190C1AE85C883CBD671D444A64741DA23FD7230A62A69F7972408 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff48a0f9-8b02-46c9-bbbc-9c5f9a94b67d/MicrosoftEdgeEnterpriseX86.msi              |
-| 1.3.177.11     | Windows  | EdgeUpdate | Consumer   | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
-| 1.3.177.11     | Windows  | EdgeUpdate | Enterprise | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
+| Version | Installer | Type | URI                                                                     |
+| ------- | --------- | ---- | ----------------------------------------------------------------------- |
+| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
+| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
+| 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
-## MicrosoftEdgeDriver
+## 1Password
 
-[Link](https://www.microsoft.com/edge)
+[Link](https://1password.com/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
 
-| Version        | Channel | Architecture | URI                                                                    |
-| -------------- | ------- | ------------ | ---------------------------------------------------------------------- |
-| 117.0.2007.0   | Dev     | ARM64        | https://msedgedriver.azureedge.net/117.0.2007.0/edgedriver_arm64.zip   |
-| 117.0.2007.0   | Dev     | x64          | https://msedgedriver.azureedge.net/117.0.2007.0/edgedriver_win64.zip   |
-| 117.0.2007.0   | Dev     | x86          | https://msedgedriver.azureedge.net/117.0.2007.0/edgedriver_win32.zip   |
-| 116.0.1938.29  | Beta    | ARM64        | https://msedgedriver.azureedge.net/116.0.1938.29/edgedriver_arm64.zip  |
-| 116.0.1938.29  | Beta    | x64          | https://msedgedriver.azureedge.net/116.0.1938.29/edgedriver_win64.zip  |
-| 116.0.1938.29  | Beta    | x86          | https://msedgedriver.azureedge.net/116.0.1938.29/edgedriver_win32.zip  |
-| 115.0.1901.188 | Stable  | ARM64        | https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_arm64.zip |
-| 115.0.1901.188 | Stable  | x64          | https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_win64.zip |
-| 115.0.1901.188 | Stable  | x86          | https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_win32.zip |
+| Version | URI                                                            |
+| ------- | -------------------------------------------------------------- |
+| 8.10.9  | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.9.exe |
+
+## Zoom
+
+[Link](https://zoom.us/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version      | Platform | Type | Architecture | URI                                                                    |
+| ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
+| 5.15.5.19404 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.15.5.19404/arm64/ZoomInstallerFull.exe      |
+| 5.15.5.19404 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.15.5.19404/x64/ZoomInstallerFull.exe        |
+| 5.15.5.19404 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.15.5.19404/ZoomInstallerFull.exe            |
+| 5.15.5.19404 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.15.5.19404/arm64/ZoomInstallerFull.msi      |
+| 5.15.5.19404 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.15.5.19404/x64/ZoomInstallerFull.msi        |
+| 5.15.5.19404 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.19404/ZoomInstallerFull.msi            |
+| 5.15.5.3049  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.15.5.3049/x64/zoomrooms-5.15.5.3049-x64.exe |
+| 5.15.5.3049  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.15.5.3049/zoomrooms-5.15.5.3049-x86.exe     |
+| 5.15.5.3049  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.15.5.3049/x64/zoomrooms-5.15.5.3049-x64.msi |
+| 5.15.5.3049  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.3049/zoomrooms-5.15.5.3049-x86.msi     |
+| 5.15.5.926   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi         |
+| 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
+| 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
+| 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
+| Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
+| Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
+| Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
+| Latest       | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                      |
+| Latest       | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                 |
+
+## gretl
+
+[Link](http://gretl.sourceforge.net/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+
+## VeraCrypt
+
+[Link](https://www.veracrypt.fr/en/Home.html)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+
+## KDiff3
+
+[Link](https://kdiff3.sourceforge.net/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+
+## KeePass
+
+[Link](https://keepass.info/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+
+## 7zip
+
+[Link](https://www.7-zip.org/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+
+## WinSCP
+
+[Link](https://winscp.net/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+
+## ProjectLibre
+
+[Link](https://www.projectlibre.com/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://newcontinuum.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+
+## Gimp
+
+[Link](https://www.gimp.org/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Date       | Sha256                                                           | URI                                                                                 |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+
+## SAGAGIS
+
+[Link](http://www.saga-gis.org/)
+
+**Last update**: Saturday, 29 July 2023 08:09:22 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 9.1.1   | x64          | exe  | 60964619 | 971c538045f07452d79c76d730478db9 | https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe |
+
+## TeXstudio
+
+[Link](https://www.texstudio.org/)
+
+**Last update**: Saturday, 29 July 2023 00:19:53 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
+| 4.6.0   | Windows  | x86          | exe  | Default       | 07/28/2023 | 142471050 | https://github.com/texstudio-org/texstudio/releases/download/4.6.0/texstudio-4.6.0-win-qt6.exe |
 
 ## MicrosoftOneDrive
 
 [Link](https://onedrive.live.com/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 00:19:53 Etc/UTC
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
@@ -123,161 +233,86 @@
 | 23.061.0319.0003 | ARM64        | Enterprise   | BVqB4gZf6bbUUPWBayzguWGmmTgMVtdXQmyidcN0x1Q= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0003/arm64/OneDriveSetup.exe |
 | 23.061.0319.0003 | x86          | Enterprise   | hSmiMdCPTCQ8SCR9b5t1b5tNEuKDLd49H4e8dpPX9Ms= | exe  | https://oneclient.sfx.ms/Win/Installers/23.061.0319.0003/OneDriveSetup.exe       |
 
-## Gimp
+## MicrosoftEdgeDriver
 
-[Link](https://www.gimp.org/)
+[Link](https://www.microsoft.com/edge)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 00:19:53 Etc/UTC
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.34 | 02/27/2023 | 1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup.exe |
+| Version        | Channel | Architecture | URI                                                                    |
+| -------------- | ------- | ------------ | ---------------------------------------------------------------------- |
+| 117.0.2007.0   | Dev     | ARM64        | https://msedgedriver.azureedge.net/117.0.2007.0/edgedriver_arm64.zip   |
+| 117.0.2007.0   | Dev     | x64          | https://msedgedriver.azureedge.net/117.0.2007.0/edgedriver_win64.zip   |
+| 117.0.2007.0   | Dev     | x86          | https://msedgedriver.azureedge.net/117.0.2007.0/edgedriver_win32.zip   |
+| 116.0.1938.29  | Beta    | ARM64        | https://msedgedriver.azureedge.net/116.0.1938.29/edgedriver_arm64.zip  |
+| 116.0.1938.29  | Beta    | x64          | https://msedgedriver.azureedge.net/116.0.1938.29/edgedriver_win64.zip  |
+| 116.0.1938.29  | Beta    | x86          | https://msedgedriver.azureedge.net/116.0.1938.29/edgedriver_win32.zip  |
+| 115.0.1901.188 | Stable  | ARM64        | https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_arm64.zip |
+| 115.0.1901.188 | Stable  | x64          | https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_win64.zip |
+| 115.0.1901.188 | Stable  | x86          | https://msedgedriver.azureedge.net/115.0.1901.188/edgedriver_win32.zip |
 
-## ProjectLibre
+## AWSCLI
 
-[Link](https://www.projectlibre.com/)
+[Link](https://github.com/aws/aws-cli/)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 00:19:53 Etc/UTC
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://gigenet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Type | URI                                              |
+| ------- | ---- | ------------------------------------------------ |
+| 2.13.5  | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.13.5.msi |
 
-## WinSCP
+## MicrosoftEdge
 
-[Link](https://winscp.net/)
+[Link](https://www.microsoft.com/edge)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 00:19:53 Etc/UTC
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                        |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------ |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| Version        | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
+| -------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 117.0.2007.0   | Any      | Policy     | Enterprise | any          | 16388B1258FF0D539FAC2970F779684C72DA36202443E859B6D4FB6C8B10099A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b911641-a5bf-44d3-9b60-7c3229a02660/MicrosoftEdgePolicyTemplates.cab            |
+| 117.0.2007.0   | Windows  | Dev        | Consumer   | arm64        | 3345C4FC4428E94E10E54DE8F4C5AF72AC7BD997FA237118D4A91BC76AD7A78E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/790cb416-a62a-4450-ac1b-f8ae508b6e02/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 117.0.2007.0   | Windows  | Dev        | Enterprise | arm64        | 3345C4FC4428E94E10E54DE8F4C5AF72AC7BD997FA237118D4A91BC76AD7A78E | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/790cb416-a62a-4450-ac1b-f8ae508b6e02/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 117.0.2007.0   | Windows  | Dev        | Consumer   | x64          | 2237D45CC7159D5F9846E0EA38A6EB7641E7FA4885F801F30F4E47B147BA4360 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3a85452-b016-478f-a7e8-4517db7dd362/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 117.0.2007.0   | Windows  | Dev        | Enterprise | x64          | 2237D45CC7159D5F9846E0EA38A6EB7641E7FA4885F801F30F4E47B147BA4360 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3a85452-b016-478f-a7e8-4517db7dd362/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 117.0.2007.0   | Windows  | Dev        | Consumer   | x86          | 2248FC5C2C4F42D7017CB3516D9D6D48D9449BCF21038720C8741019FEC03651 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a15d08d4-182e-440c-bec2-621f53c5471c/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 117.0.2007.0   | Windows  | Dev        | Enterprise | x86          | 2248FC5C2C4F42D7017CB3516D9D6D48D9449BCF21038720C8741019FEC03651 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a15d08d4-182e-440c-bec2-621f53c5471c/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 116.0.1938.29  | Windows  | Beta       | Consumer   | arm64        | 22F57AB4FB7182A408EC05E5656FB547286BA461F6E9C727A287B397605D244A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f3161d6-e49b-4039-a7a1-da4149367202/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 116.0.1938.29  | Windows  | Beta       | Enterprise | arm64        | 22F57AB4FB7182A408EC05E5656FB547286BA461F6E9C727A287B397605D244A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f3161d6-e49b-4039-a7a1-da4149367202/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 116.0.1938.29  | Windows  | Beta       | Consumer   | x64          | B73E83877321F2D49F162AF86E2AA686388E62191FC4FEB88D483492BEA582C2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/875b9e55-8b6f-4e29-b4fe-dc6052b99849/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 116.0.1938.29  | Windows  | Beta       | Enterprise | x64          | B73E83877321F2D49F162AF86E2AA686388E62191FC4FEB88D483492BEA582C2 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/875b9e55-8b6f-4e29-b4fe-dc6052b99849/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 116.0.1938.29  | Windows  | Beta       | Consumer   | x86          | 98D66AC18588EA296FA64799E7638E80FBE9CDCFEF7EF6A07AB9D85D84B0779D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d70708f3-28be-42db-954e-2e7124158d2c/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 116.0.1938.29  | Windows  | Beta       | Enterprise | x86          | 98D66AC18588EA296FA64799E7638E80FBE9CDCFEF7EF6A07AB9D85D84B0779D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d70708f3-28be-42db-954e-2e7124158d2c/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 115.0.1901.188 | Windows  | Stable     | Consumer   | arm64        | FCF8497A883E0955082F48B05B274BF58CD927176023458427BF308E88936767 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e26bea79-236a-47d4-b8c1-e3bc09e6fd5d/MicrosoftEdgeEnterpriseARM64.msi            |
+| 115.0.1901.188 | Windows  | Stable     | Enterprise | arm64        | FCF8497A883E0955082F48B05B274BF58CD927176023458427BF308E88936767 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e26bea79-236a-47d4-b8c1-e3bc09e6fd5d/MicrosoftEdgeEnterpriseARM64.msi            |
+| 115.0.1901.188 | Windows  | Stable     | Consumer   | x64          | 9E2760244FB9447E9A27F168F1A20B65CA9327A93541D55480F5B272F05741D5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/41fea851-ee50-44bd-9f20-305df0f9f4e5/MicrosoftEdgeEnterpriseX64.msi              |
+| 115.0.1901.188 | Windows  | Stable     | Enterprise | x64          | 9E2760244FB9447E9A27F168F1A20B65CA9327A93541D55480F5B272F05741D5 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/41fea851-ee50-44bd-9f20-305df0f9f4e5/MicrosoftEdgeEnterpriseX64.msi              |
+| 115.0.1901.188 | Windows  | Stable     | Consumer   | x86          | BAFE7CF14A2190C1AE85C883CBD671D444A64741DA23FD7230A62A69F7972408 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff48a0f9-8b02-46c9-bbbc-9c5f9a94b67d/MicrosoftEdgeEnterpriseX86.msi              |
+| 115.0.1901.188 | Windows  | Stable     | Enterprise | x86          | BAFE7CF14A2190C1AE85C883CBD671D444A64741DA23FD7230A62A69F7972408 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff48a0f9-8b02-46c9-bbbc-9c5f9a94b67d/MicrosoftEdgeEnterpriseX86.msi              |
+| 1.3.177.11     | Windows  | EdgeUpdate | Consumer   | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
+| 1.3.177.11     | Windows  | EdgeUpdate | Enterprise | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
 
-## TeXstudio
+## MicrosoftTeamsPreview
 
-[Link](https://www.texstudio.org/)
+[Link](https://www.microsoft.com/teams)
 
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
+**Last update**: Saturday, 29 July 2023 00:19:53 Etc/UTC
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 4.6.0   | Windows  | x86          | exe  | Default       | 07/28/2023 | 142471050 | https://github.com/texstudio-org/texstudio/releases/download/4.6.0/texstudio-4.6.0-win-qt6.exe |
-
-## SAGAGIS
-
-[Link](http://www.saga-gis.org/)
-
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 9.1.1   | x64          | exe  | 60964619 | 971c538045f07452d79c76d730478db9 | https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe |
-
-## KeePass
-
-[Link](https://keepass.info/)
-
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
-
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
-| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
-
-## KDiff3
-
-[Link](https://kdiff3.sourceforge.net/)
-
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
-
-## VeraCrypt
-
-[Link](https://www.veracrypt.fr/en/Home.html)
-
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
-
-## gretl
-
-[Link](http://gretl.sourceforge.net/)
-
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
-
-## Zoom
-
-[Link](https://zoom.us/)
-
-**Last update**: Saturday, 29 July 2023 12:19:53 am Australia/Melbourne
-
-| Version      | Platform | Type | Architecture | URI                                                                    |
-| ------------ | -------- | ---- | ------------ | ---------------------------------------------------------------------- |
-| 5.15.5.19404 | Meetings | exe  | ARM64        | https://cdn.zoom.us/prod/5.15.5.19404/arm64/ZoomInstallerFull.exe      |
-| 5.15.5.19404 | Meetings | exe  | x64          | https://cdn.zoom.us/prod/5.15.5.19404/x64/ZoomInstallerFull.exe        |
-| 5.15.5.19404 | Meetings | exe  | x86          | https://cdn.zoom.us/prod/5.15.5.19404/ZoomInstallerFull.exe            |
-| 5.15.5.19404 | Meetings | msi  | ARM64        | https://cdn.zoom.us/prod/5.15.5.19404/arm64/ZoomInstallerFull.msi      |
-| 5.15.5.19404 | Meetings | msi  | x64          | https://cdn.zoom.us/prod/5.15.5.19404/x64/ZoomInstallerFull.msi        |
-| 5.15.5.19404 | Meetings | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.19404/ZoomInstallerFull.msi            |
-| 5.15.5.3049  | Rooms    | exe  | x64          | https://cdn.zoom.us/prod/5.15.5.3049/x64/zoomrooms-5.15.5.3049-x64.exe |
-| 5.15.5.3049  | Rooms    | exe  | x86          | https://cdn.zoom.us/prod/5.15.5.3049/zoomrooms-5.15.5.3049-x86.exe     |
-| 5.15.5.3049  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.15.5.3049/x64/zoomrooms-5.15.5.3049-x64.msi |
-| 5.15.5.3049  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.3049/zoomrooms-5.15.5.3049-x86.msi     |
-| 5.15.5.926   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi         |
-| 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
-| 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
-| 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-| Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
-| Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
-| Latest       | Plugin   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi                |
-| Latest       | VDI      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi                      |
-| Latest       | VMware   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi                 |
-
-## 1Password
-
-[Link](https://1password.com/)
-
-**Last update**: Friday, 28 July 2023 4:09:11 pm Australia/Melbourne
-
-| Version | URI                                                                |
-| ------- | ------------------------------------------------------------------ |
-| 8.10.9  | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.9.exe |
-
-## 7zip
-
-[Link](https://www.7-zip.org/)
-
-**Last update**: Friday, 28 July 2023 4:09:11 pm Australia/Melbourne
-
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                              |
-| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version              | Release    | Architecture | Type | URI                                                                                                          |
+| -------------------- | ---------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------ |
+| 23196.703.2250.9029  | Consumer   | macOS        | pkg  | https://statics.teams.cdn.office.net/production-osx/23196.703.2250.9029/MicrosoftTeams.pkg                   |
+| 23196.703.2250.9029  | Enterprise | macOS        | pkg  | https://statics.teams.microsoft.com/production-osx/23196.703.2250.9029/MicrosoftTeams.pkg                    |
+| 23195.1508.2272.5738 | Consumer   | arm64        | msix | https://statics.teams.cdn.office.net/production-windows-arm64/23195.1508.2272.5738/MicrosoftTeams-arm64.msix |
+| 23195.1508.2272.5738 | Enterprise | arm64        | msix | https://statics.teams.microsoft.com/production-windows-arm64/23195.1508.2272.5738/MSTeams-arm64.msix         |
+| 23195.1508.2272.5738 | Consumer   | x64          | msix | https://statics.teams.cdn.office.net/production-windows-x64/23195.1508.2272.5738/MicrosoftTeams-x64.msix     |
+| 23195.1508.2272.5738 | Enterprise | x64          | msix | https://statics.teams.microsoft.com/production-windows-x64/23195.1508.2272.5738/MSTeams-x64.msix             |
+| 23195.1508.2272.5738 | Consumer   | x86          | msix | https://statics.teams.cdn.office.net/production-windows-x86/23195.1508.2272.5738/MicrosoftTeams-x86.msix     |
+| 23195.1508.2272.5738 | Enterprise | x86          | msix | https://statics.teams.microsoft.com/production-windows-x86/23195.1508.2272.5738/MSTeams-x86.msix             |
 
 ## MicrosoftVisualStudioCode
 
 [Link](https://code.visualstudio.com)
 
-**Last update**: Friday, 28 July 2023 4:09:11 pm Australia/Melbourne
+**Last update**: Friday, 28 July 2023 16:09:11 Etc/UTC
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -294,48 +329,28 @@
 | 1.80.2  | win32-x64        | Stable  | x64          | 422ac1f2c5bd8ec3e40eee77a536d4f9cad3544eaefe52bf5151f25aac2f6eab | https://az764295.vo.msecnd.net/stable/2ccd690cbff1569e4a83d7c43d45101f817401dc/VSCodeSetup-x64-1.80.2.exe                |
 | 1.80.2  | win32-x64-user   | Stable  | x64          | 48f8afd79936dfbaefe49a7bd07ee365786e9c81037a6ae6e97c92265f646881 | https://az764295.vo.msecnd.net/stable/2ccd690cbff1569e4a83d7c43d45101f817401dc/VSCodeUserSetup-x64-1.80.2.exe            |
 
-## AirtameApp
+## Microsoft365Apps
 
-[Link](https://airtame.com/)
+[Link](https://www.microsoft.com/office)
 
-**Last update**: Friday, 28 July 2023 4:09:11 pm Australia/Melbourne
+**Last update**: Friday, 28 July 2023 00:20:19 Etc/UTC
 
-| Version | Installer | Type | URI                                                                     |
-| ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
-| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
-| 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
-
-## MicrosoftAzureDataStudio
-
-[Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
-
-**Last update**: Friday, 28 July 2023 8:09:32 am Australia/Melbourne
-
-| Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
-| ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.46.0  | win32-x64      | Insider | 414cfeca04e9a9d98abf4b70ddfff1f7462939c83a82ddee7e8b1946c3e65655 | https://sqlopsbuilds.azureedge.net/insider/2254e9caa6e86305569333a52c2c71242c83fe40/azuredatastudio-windows-setup-1.46.0-insider.exe      |
-| 1.46.0  | win32-x64-user | Insider | cfc7c84c6c172536854a40cbfa6f7ba0e178c7608c91d9eb0ac1475e679c5a61 | https://sqlopsbuilds.azureedge.net/insider/2254e9caa6e86305569333a52c2c71242c83fe40/azuredatastudio-windows-user-setup-1.46.0-insider.exe |
-| 1.45.0  | win32-x64      | Stable  | 3bd29209604577f3f9c96cc1080b958826d41ff1dbea5a1dc544805a204fa473 | https://sqlopsbuilds.azureedge.net/stable/8eff468100f02157f2219335f7a566d14451ca49/azuredatastudio-windows-setup-1.45.0.exe               |
-| 1.45.0  | win32-x64-user | Stable  | 07b2b99be11247dcff1d5d9a1157d70d0fa71939b1b236a35e745e5654790be2 | https://sqlopsbuilds.azureedge.net/stable/8eff468100f02157f2219335f7a566d14451ca49/azuredatastudio-windows-user-setup-1.45.0.exe          |
-
-## MicrosoftEdgeWebView2Runtime
-
-[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-
-**Last update**: Friday, 28 July 2023 12:20:19 am Australia/Melbourne
-
-| Version        | Channel | Architecture | URI                                                                                                                                                           |
-| -------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 115.0.1901.188 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e52bd85-2cdc-48fd-88f5-c3c9bbba9cb7/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 115.0.1901.188 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0a450f0-438b-4634-8ff5-24a403ce9263/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 115.0.1901.188 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f3c3dc2-37d5-466d-8718-bc8621e19193/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| Version          | Channel           | Name                                  | Date                | URI                                               |
+| ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
+| 16.0.16721.20002 | BetaChannel       | Beta                                  | 07/26/2023 18:31:15 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16626.20134 | Current           | Current Channel                       | 07/27/2023 20:02:27 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16626.20134 | CurrentPreview    | Current Channel (Preview)             | 07/27/2023 18:38:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16501.20272 | MonthlyEnterprise | Monthly Enterprise                    | 07/27/2023 21:05:24 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20694 | SemiAnnual        | Semi-Annual Channel                   | 07/27/2023 21:06:11 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20694 | SemiAnnualPreview | Semi-Annual Channel Preview           | 07/27/2023 20:51:52 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14332.20542 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 07/27/2023 18:27:13 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.10401.20018 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 07/27/2023 18:24:59 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 
 ## GoogleChrome
 
 [Link](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-**Last update**: Friday, 28 July 2023 12:20:19 am Australia/Melbourne
+**Last update**: Friday, 28 July 2023 00:20:19 Etc/UTC
 
 | Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
@@ -346,38 +361,33 @@
 | 115.0.5790.110 | x64          | stable  | 07/25/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
 | 115.0.5790.110 | x86          | stable  | 07/25/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
+## MicrosoftEdgeWebView2Runtime
+
+[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+
+**Last update**: Friday, 28 July 2023 00:20:19 Etc/UTC
+
+| Version        | Channel | Architecture | URI                                                                                                                                                           |
+| -------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 115.0.1901.188 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e52bd85-2cdc-48fd-88f5-c3c9bbba9cb7/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 115.0.1901.188 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0a450f0-438b-4634-8ff5-24a403ce9263/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 115.0.1901.188 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f3c3dc2-37d5-466d-8718-bc8621e19193/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+
 ## AWSSAMCLI
 
 [Link](https://github.com/aws/aws-sam-cli/)
 
-**Last update**: Friday, 28 July 2023 12:20:19 am Australia/Melbourne
+**Last update**: Friday, 28 July 2023 00:20:19 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |
 | 1.94.0  | Windows  | x86          | msi  | Default       | 07/27/2023 | 83918848 | https://github.com/aws/aws-sam-cli/releases/download/v1.94.0/AWS_SAM_CLI_64_PY3.msi |
 
-## Microsoft365Apps
-
-[Link](https://www.microsoft.com/office)
-
-**Last update**: Friday, 28 July 2023 12:20:19 am Australia/Melbourne
-
-| Version          | Channel           | Name                                  | Date                 | URI                                               |
-| ---------------- | ----------------- | ------------------------------------- | -------------------- | ------------------------------------------------- |
-| 16.0.16721.20002 | BetaChannel       | Beta                                  | 26/7/2023 6:31:15 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16626.20134 | Current           | Current Channel                       | 27/7/2023 8:02:27 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16626.20134 | CurrentPreview    | Current Channel (Preview)             | 27/7/2023 6:38:18 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16501.20272 | MonthlyEnterprise | Monthly Enterprise                    | 27/7/2023 9:05:24 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20694 | SemiAnnual        | Semi-Annual Channel                   | 27/7/2023 9:06:11 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20694 | SemiAnnualPreview | Semi-Annual Channel Preview           | 27/7/2023 8:51:52 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14332.20542 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 27/7/2023 6:27:13 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.10401.20018 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 27/7/2023 6:24:59 pm | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-
 ## WinMerge
 
 [Link](https://winmerge.org/)
 
-**Last update**: Thursday, 27 July 2023 4:07:51 pm Australia/Melbourne
+**Last update**: Thursday, 27 July 2023 16:07:51 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |
@@ -390,7 +400,7 @@
 
 [Link](https://www.jam-software.com/treesize/)
 
-**Last update**: Thursday, 27 July 2023 8:08:57 am Australia/Melbourne
+**Last update**: Thursday, 27 July 2023 08:08:57 Etc/UTC
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
@@ -400,7 +410,7 @@
 
 [Link](https://www.terraform.io/)
 
-**Last update**: Thursday, 27 July 2023 12:21:33 am Australia/Melbourne
+**Last update**: Thursday, 27 July 2023 00:21:33 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
@@ -411,7 +421,7 @@
 
 [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)
 
-**Last update**: Thursday, 27 July 2023 12:21:33 am Australia/Melbourne
+**Last update**: Thursday, 27 July 2023 00:21:33 Etc/UTC
 
 | Version | Architecture | Type | URI                                                           |
 | ------- | ------------ | ---- | ------------------------------------------------------------- |
@@ -422,7 +432,7 @@
 
 [Link](https://musescore.org/)
 
-**Last update**: Thursday, 27 July 2023 12:21:33 am Australia/Melbourne
+**Last update**: Thursday, 27 July 2023 00:21:33 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
@@ -432,7 +442,7 @@
 
 [Link](https://www.jetbrains.com/)
 
-**Last update**: Thursday, 27 July 2023 12:21:33 am Australia/Melbourne
+**Last update**: Thursday, 27 July 2023 00:21:33 Etc/UTC
 
 | Version  | Build        | Edition              | Date       | Size      | Sha256                                                                       | URI                                                                   |
 | -------- | ------------ | -------------------- | ---------- | --------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -440,85 +450,11 @@
 | 2023.2   | 232.8660.197 | PyCharm Professional | 07/26/2023 | 539634640 | https://download.jetbrains.com/python/pycharm-professional-2023.2.exe.sha256 | https://download.jetbrains.com/python/pycharm-professional-2023.2.exe |
 | 2022.2.2 | 222.4345.35  | PyCharm Edu          | 10/27/2022 | 394799056 | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe.sha256        | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe        |
 
-## TelegramDesktop
-
-[Link](https://desktop.telegram.org/)
-
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
-
-| Version | URI                                                  |
-| ------- | ---------------------------------------------------- |
-| 4.8.9   | https://updates.tdesktop.com/tsetup/tsetup.4.8.9.exe |
-
-## GitHubDesktop
-
-[Link](https://desktop.github.com/)
-
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
-
-| Version | Architecture | Type | URI                                                                                                       |
-| ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 3.2.7   | ARM64        | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-arm64.exe |
-| 3.2.7   | x64          | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-x64.exe   |
-| 3.2.7   | ARM64        | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-arm64.msi |
-| 3.2.7   | x64          | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-x64.msi   |
-
-## JetBrainsIntelliJIDEA
-
-[Link](https://www.jetbrains.com/)
-
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
-
-| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
-| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2023.2   | 232.8660.185 | IntelliJ IDEA Community | 07/26/2023 | 692289936 | https://download.jetbrains.com/idea/ideaIC-2023.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIC-2023.2.exe   |
-| 2023.2   | 232.8660.185 | IntelliJ IDEA Ultimate  | 07/26/2023 | 804167192 | https://download.jetbrains.com/idea/ideaIU-2023.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIU-2023.2.exe   |
-| 2022.2.2 | 222.4345.35  | IntelliJ IDEA Edu       | 10/27/2022 | 693805272 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
-
-## BitwardenDesktop
-
-[Link](https://bitwarden.com/)
-
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
-
-| Version  | Type | URI                                                                      |
-| -------- | ---- | ------------------------------------------------------------------------ |
-| 2023.7.1 | exe  | https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2023.7.1.exe |
-
-## OperaBrowser
-
-[Link](https://www.opera.com/browsers/opera)
-
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
-
-| Version       | Channel   | Architecture | Type | URI                                                                                                       |
-| ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 102.0.4871.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/102.0.4871.0/win/Opera_Developer_102.0.4871.0_Setup_x64.exe |
-| 102.0.4871.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/102.0.4871.0/win/Opera_Developer_102.0.4871.0_Setup.exe     |
-| 101.0.4843.25 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/101.0.4843.25/win/Opera_101.0.4843.25_Setup_x64.exe                   |
-| 101.0.4843.25 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/101.0.4843.25/win/Opera_101.0.4843.25_Setup.exe                       |
-| 101.0.4843.19 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/101.0.4843.19/win/Opera_beta_101.0.4843.19_Setup_x64.exe         |
-| 101.0.4843.19 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/101.0.4843.19/win/Opera_beta_101.0.4843.19_Setup.exe             |
-
-## AkeoRufus
-
-[Link](https://rufus.ie/)
-
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                         |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------- |
-| 4.2     | Windows  | ARM32        | exe  | Default       | 07/26/2023 | 4266568 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2_arm.exe   |
-| 4.2     | Windows  | ARM64        | exe  | Default       | 07/26/2023 | 4813384 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2_arm64.exe |
-| 4.2     | Windows  | x86          | exe  | Default       | 07/26/2023 | 1433160 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2.exe       |
-| 4.2     | Windows  | x86          | exe  | Default       | 07/26/2023 | 1433160 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2p.exe      |
-| 4.2     | Windows  | x86          | exe  | Default       | 07/26/2023 | 1447496 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2_x86.exe   |
-
 ## ESETServerSecurity
 
 [Link](https://www.eset.com/int/business/solutions/file-server-security/)
 
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
 
 | Version      | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                  |
 | ------------ | -------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
@@ -547,18 +483,82 @@
 
 [Link](https://k8slens.dev/)
 
-**Last update**: Wednesday, 26 July 2023 4:09:51 pm Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
 
-| Version              | Architecture | Release | Date                 | Size      | Sha512                                                                                   | URI                                                                       |
-| -------------------- | ------------ | ------- | -------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2023.7.261259-alpha  | x64          | Alpha   | 26/7/2023 1:08:46 pm | 201469544 | ehtoEbnrlRkdEwTZbtBs4haX/5LibEtlWCKpZ9crDY03BzBhGijim05BsCbRsKojM7bTfxOZAmMLN+Pp2z6l3Q== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.7.261259-alpha.exe  |
-| 2023.5.310801-latest | x64          | Stable  | 31/5/2023 8:10:25 am | 358622632 | X4EldemUhbiCrBK3KoniKKpkn8IsExyWxtOSY5wGpYpK2zEYx91TNWqHeo2xWznmMR4e31kJID3H1K5nT7n4Wg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.5.310801-latest.exe |
+| Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
+| -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2023.7.261259-alpha  | x64          | Alpha   | 07/26/2023 13:08:46 | 201469544 | ehtoEbnrlRkdEwTZbtBs4haX/5LibEtlWCKpZ9crDY03BzBhGijim05BsCbRsKojM7bTfxOZAmMLN+Pp2z6l3Q== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.7.261259-alpha.exe  |
+| 2023.5.310801-latest | x64          | Stable  | 05/31/2023 08:10:25 | 358622632 | X4EldemUhbiCrBK3KoniKKpkn8IsExyWxtOSY5wGpYpK2zEYx91TNWqHeo2xWznmMR4e31kJID3H1K5nT7n4Wg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.5.310801-latest.exe |
+
+## AkeoRufus
+
+[Link](https://rufus.ie/)
+
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                         |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------- |
+| 4.2     | Windows  | ARM32        | exe  | Default       | 07/26/2023 | 4266568 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2_arm.exe   |
+| 4.2     | Windows  | ARM64        | exe  | Default       | 07/26/2023 | 4813384 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2_arm64.exe |
+| 4.2     | Windows  | x86          | exe  | Default       | 07/26/2023 | 1433160 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2.exe       |
+| 4.2     | Windows  | x86          | exe  | Default       | 07/26/2023 | 1433160 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2p.exe      |
+| 4.2     | Windows  | x86          | exe  | Default       | 07/26/2023 | 1447496 | https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2_x86.exe   |
+
+## GitHubDesktop
+
+[Link](https://desktop.github.com/)
+
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
+
+| Version | Architecture | Type | URI                                                                                                       |
+| ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+| 3.2.7   | ARM64        | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-arm64.exe |
+| 3.2.7   | x64          | exe  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-x64.exe   |
+| 3.2.7   | ARM64        | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-arm64.msi |
+| 3.2.7   | x64          | msi  | https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktopSetup-x64.msi   |
+
+## BitwardenDesktop
+
+[Link](https://bitwarden.com/)
+
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
+
+| Version  | Type | URI                                                                      |
+| -------- | ---- | ------------------------------------------------------------------------ |
+| 2023.7.1 | exe  | https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2023.7.1.exe |
+
+## JetBrainsIntelliJIDEA
+
+[Link](https://www.jetbrains.com/)
+
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
+
+| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
+| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| 2023.2   | 232.8660.185 | IntelliJ IDEA Community | 07/26/2023 | 692289936 | https://download.jetbrains.com/idea/ideaIC-2023.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIC-2023.2.exe   |
+| 2023.2   | 232.8660.185 | IntelliJ IDEA Ultimate  | 07/26/2023 | 804167192 | https://download.jetbrains.com/idea/ideaIU-2023.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIU-2023.2.exe   |
+| 2022.2.2 | 222.4345.35  | IntelliJ IDEA Edu       | 10/27/2022 | 693805272 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
+
+## OperaBrowser
+
+[Link](https://www.opera.com/browsers/opera)
+
+**Last update**: Wednesday, 26 July 2023 16:09:51 Etc/UTC
+
+| Version       | Channel   | Architecture | Type | URI                                                                                                       |
+| ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+| 102.0.4871.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/102.0.4871.0/win/Opera_Developer_102.0.4871.0_Setup_x64.exe |
+| 102.0.4871.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/102.0.4871.0/win/Opera_Developer_102.0.4871.0_Setup.exe     |
+| 101.0.4843.25 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/101.0.4843.25/win/Opera_101.0.4843.25_Setup_x64.exe                   |
+| 101.0.4843.25 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/101.0.4843.25/win/Opera_101.0.4843.25_Setup.exe                       |
+| 101.0.4843.19 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/101.0.4843.19/win/Opera_beta_101.0.4843.19_Setup_x64.exe         |
+| 101.0.4843.19 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/101.0.4843.19/win/Opera_beta_101.0.4843.19_Setup.exe             |
 
 ## HashicorpPacker
 
 [Link](https://packer.io/)
 
-**Last update**: Wednesday, 26 July 2023 8:08:24 am Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 08:08:24 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
@@ -569,7 +569,7 @@
 
 [Link](https://open-shell.github.io/Open-Shell-Menu/)
 
-**Last update**: Wednesday, 26 July 2023 8:08:24 am Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 08:08:24 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------- |
@@ -580,7 +580,7 @@
 
 [Link](https://www.chef.io/products/chef-inspec)
 
-**Last update**: Wednesday, 26 July 2023 12:21:15 am Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 00:21:15 Etc/UTC
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                         |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -601,7 +601,7 @@
 
 [Link](https://visualstudio.microsoft.com/)
 
-**Last update**: Wednesday, 26 July 2023 12:21:15 am Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 00:21:15 Etc/UTC
 
 | Version         | Sha256                                                           | Size    | URI                                                                                                                                                                        |
 | --------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -611,7 +611,7 @@
 
 [Link](https://www.vaultproject.io/)
 
-**Last update**: Wednesday, 26 July 2023 12:21:15 am Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 00:21:15 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
@@ -622,7 +622,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-**Last update**: Wednesday, 26 July 2023 12:21:15 am Australia/Melbourne
+**Last update**: Wednesday, 26 July 2023 00:21:15 Etc/UTC
 
 | Version    | Architecture | Channel | Date       | MD5                              | Sha2                                                                                                                             | Filename                           | URI                                                               |
 | ---------- | ------------ | ------- | ---------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
@@ -640,7 +640,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: Tuesday, 25 July 2023 4:09:01 pm Australia/Melbourne
+**Last update**: Tuesday, 25 July 2023 16:09:01 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size     | URI                                                                                                                            |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -653,7 +653,7 @@
 
 [Link](https://devtoys.app/)
 
-**Last update**: Tuesday, 25 July 2023 4:09:01 pm Australia/Melbourne
+**Last update**: Tuesday, 25 July 2023 16:09:01 Etc/UTC
 
 | Version  | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                                 |
 | -------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -663,7 +663,7 @@
 
 [Link](https://www.teamviewer.com/)
 
-**Last update**: Tuesday, 25 July 2023 4:09:01 pm Australia/Melbourne
+**Last update**: Tuesday, 25 July 2023 16:09:01 Etc/UTC
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
@@ -673,7 +673,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: Tuesday, 25 July 2023 4:09:01 pm Australia/Melbourne
+**Last update**: Tuesday, 25 July 2023 16:09:01 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -682,21 +682,11 @@
 | jdk-17.0.8+7 | jre  | x64          | 57d6d2fd057eb9e293e110c4442bdf6725ea0490be718381b5b24b11d562a537 | 31526912  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8%2B7/OpenJDK17U-jre_x64_windows_hotspot_17.0.8_7.msi    |
 | jdk-17.0.8+7 | jre  | x86          | 89fb5c01ba8890d18757f45860784d008977c2832f50c1b09969b10d5e4a631c | 29200384  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.8_7.msi |
 
-## AutodeskFusion360
-
-[Link](https://www.autodesk.com/products/fusion-360/overview)
-
-**Last update**: Tuesday, 25 July 2023 12:22:00 am Australia/Melbourne
-
-| Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                           |
-| --------- | ------------ | ----------------- | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| 2.0.16753 | 2.0.16753    | 2.0.1986          | exe  | Fusion 360 Admin Install.exe | https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe |
-
 ## AdoptiumTemurin11
 
 [Link](https://adoptium.net/)
 
-**Last update**: Tuesday, 25 July 2023 12:22:00 am Australia/Melbourne
+**Last update**: Tuesday, 25 July 2023 00:22:00 Etc/UTC
 
 | Version       | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                  |
 | ------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -705,11 +695,21 @@
 | jdk-11.0.20+8 | jre  | x64          | 7756baf3708aaae99da7499b1bab4344817aa28069d58cb0b4d5140dc3f73018 | 31399936  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20%2B8/OpenJDK11U-jre_x64_windows_hotspot_11.0.20_8.msi    |
 | jdk-11.0.20+8 | jre  | x86          | 36c845903552b025614ea96442a9e412605ac0c03116aa2529eb1b6af35c3e0c | 27414528  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20%2B8/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.20_8.msi |
 
+## AutodeskFusion360
+
+[Link](https://www.autodesk.com/products/fusion-360/overview)
+
+**Last update**: Tuesday, 25 July 2023 00:22:00 Etc/UTC
+
+| Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                           |
+| --------- | ------------ | ----------------- | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.0.16753 | 2.0.16753    | 2.0.1986          | exe  | Fusion 360 Admin Install.exe | https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe |
+
 ## Praat
 
 [Link](https://www.fon.hum.uva.nl/praat/)
 
-**Last update**: Monday, 24 July 2023 4:08:52 pm Australia/Melbourne
+**Last update**: Monday, 24 July 2023 16:08:52 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------- |
@@ -720,7 +720,7 @@
 
 [Link](https://octopus.com/)
 
-**Last update**: Monday, 24 July 2023 8:11:30 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 08:11:30 Etc/UTC
 
 | Version      | Date       | URI                                                                     |
 | ------------ | ---------- | ----------------------------------------------------------------------- |
@@ -730,7 +730,7 @@
 
 [Link](https://www.git-tower.com/windows/)
 
-**Last update**: Monday, 24 July 2023 8:11:30 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 08:11:30 Etc/UTC
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
@@ -743,7 +743,7 @@
 
 [Link](https://jqlang.github.io/jq/)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------ |
@@ -754,7 +754,7 @@
 
 [Link](https://github.com/dbeaver/dbeaver)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
@@ -764,7 +764,7 @@
 
 [Link](https://www.geogebra.org)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version   | Type | URI                                                                                   |
 | --------- | ---- | ------------------------------------------------------------------------------------- |
@@ -777,7 +777,7 @@
 
 [Link](https://nodejs.org/)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version | Architecture | Type | Channel | URI                                                        |
 | ------- | ------------ | ---- | ------- | ---------------------------------------------------------- |
@@ -796,7 +796,7 @@
 
 [Link](https://lehreroffice.net/)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version  | Type | URI                                                           |
 | -------- | ---- | ------------------------------------------------------------- |
@@ -806,7 +806,7 @@
 
 [Link](https://github.com/Maximus5/ConEmu)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -818,7 +818,7 @@
 
 [Link](https://www.thymio.org/)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
@@ -829,7 +829,7 @@
 
 [Link](https://www.tpgi.com/color-contrast-checker/)
 
-**Last update**: Monday, 24 July 2023 12:22:44 am Australia/Melbourne
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------- |
@@ -840,7 +840,7 @@
 
 [Link](https://imagemagick.org/)
 
-**Last update**: Sunday, 23 July 2023 8:07:45 am Australia/Melbourne
+**Last update**: Sunday, 23 July 2023 08:07:45 Etc/UTC
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
@@ -850,7 +850,7 @@
 
 [Link](https://www.diagrams.net/)
 
-**Last update**: Saturday, 22 July 2023 4:14:49 pm Australia/Melbourne
+**Last update**: Saturday, 22 July 2023 16:14:49 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -864,7 +864,7 @@
 
 [Link](https://www.chef.io/products/chef-infra)
 
-**Last update**: Saturday, 22 July 2023 8:09:20 am Australia/Melbourne
+**Last update**: Saturday, 22 July 2023 08:09:20 Etc/UTC
 
 | Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
 | -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -891,7 +891,7 @@
 
 [Link](https://azure.microsoft.com/en-au/features/storage-explorer/)
 
-**Last update**: Saturday, 22 July 2023 12:21:36 am Australia/Melbourne
+**Last update**: Saturday, 22 July 2023 00:21:36 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |
@@ -901,7 +901,7 @@
 
 [Link](https://pandoc.org/)
 
-**Last update**: Friday, 21 July 2023 4:07:54 pm Australia/Melbourne
+**Last update**: Friday, 21 July 2023 16:07:54 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
@@ -911,7 +911,7 @@
 
 [Link](https://www.nomadproject.io/)
 
-**Last update**: Friday, 21 July 2023 4:07:54 pm Australia/Melbourne
+**Last update**: Friday, 21 July 2023 16:07:54 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
@@ -922,7 +922,7 @@
 
 [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
 
-**Last update**: Friday, 21 July 2023 12:20:59 am Australia/Melbourne
+**Last update**: Friday, 21 July 2023 00:20:59 Etc/UTC
 
 | Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                      |
 | ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------- |
@@ -1048,7 +1048,7 @@
 
 [Link](https://www.microsoft.com/teams)
 
-**Last update**: Friday, 21 July 2023 12:20:59 am Australia/Melbourne
+**Last update**: Friday, 21 July 2023 00:20:59 Etc/UTC
 
 | Version      | Ring              | Architecture | Type | URI                                                                                                |
 | ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
@@ -1105,7 +1105,7 @@
 
 [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
 
-**Last update**: Friday, 21 July 2023 12:20:59 am Australia/Melbourne
+**Last update**: Friday, 21 July 2023 00:20:59 Etc/UTC
 
 | Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                      |
 | ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------- |
@@ -1231,7 +1231,7 @@
 
 [Link](https://www.opera.com/gx)
 
-**Last update**: Thursday, 20 July 2023 4:08:32 pm Australia/Melbourne
+**Last update**: Thursday, 20 July 2023 16:08:32 Etc/UTC
 
 | Version       | Channel | Architecture | Type | URI                                                                                           |
 | ------------- | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------- |
@@ -1242,7 +1242,7 @@
 
 [Link](https://www.telerik.com/fiddler)
 
-**Last update**: Thursday, 20 July 2023 4:08:32 pm Australia/Melbourne
+**Last update**: Thursday, 20 July 2023 16:08:32 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -1252,17 +1252,27 @@
 
 [Link](https://www.signal.org/)
 
-**Last update**: Thursday, 20 July 2023 12:21:52 am Australia/Melbourne
+**Last update**: Thursday, 20 July 2023 00:21:52 Etc/UTC
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
 | 6.26.0  | https://updates.signal.org/desktop/signal-desktop-win-6.26.0.exe |
 
+## PiriformCCleanerFree
+
+[Link](https://www.ccleaner.com/ccleaner)
+
+**Last update**: Wednesday, 19 July 2023 16:09:10 Etc/UTC
+
+| Version    | Filename       | URI                                                                                                              |
+| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 6.14.10584 | ccsetup614.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+
 ## GoogleDrive
 
 [Link](https://support.google.com/drive/answer/7329379)
 
-**Last update**: Wednesday, 19 July 2023 4:09:10 pm Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 16:09:10 Etc/UTC
 
 | Version  | Sha256                                                           | Size      | URI                                                          |
 | -------- | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------ |
@@ -1272,27 +1282,17 @@
 
 [Link](https://jasp-stats.org/)
 
-**Last update**: Wednesday, 19 July 2023 4:09:10 pm Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 16:09:10 Etc/UTC
 
 | Version | URI                                                 |
 | ------- | --------------------------------------------------- |
 | 0.17.3  | https://static.jasp-stats.org/JASP-0.17.3-64bit.msi |
 
-## PiriformCCleanerFree
-
-[Link](https://www.ccleaner.com/ccleaner)
-
-**Last update**: Wednesday, 19 July 2023 4:09:10 pm Australia/Melbourne
-
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.14.10584 | ccsetup614.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
-
 ## FoxitPDFEditor
 
 [Link](https://www.foxit.com/pdf-editor/)
 
-**Last update**: Wednesday, 19 July 2023 8:09:09 am Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 08:09:09 Etc/UTC
 
 | Version      | Date       | Language           | URI                                                                                                             |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -1315,7 +1315,7 @@
 
 [Link](https://www.foxitsoftware.com/pdf-reader/)
 
-**Last update**: Wednesday, 19 July 2023 8:09:09 am Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 08:09:09 Etc/UTC
 
 | Version      | Date       | Language           | URI                                                                                                 |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------- |
@@ -1337,7 +1337,7 @@
 
 [Link](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)
 
-**Last update**: Wednesday, 19 July 2023 12:38:01 am Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 00:38:01 Etc/UTC
 
 | Version        | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                  |
 | -------------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1348,7 +1348,7 @@
 
 [Link](https://www.virtualbox.org/)
 
-**Last update**: Wednesday, 19 July 2023 12:38:01 am Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 00:38:01 Etc/UTC
 
 | Version     | Channel | Type | URI                                                                                          |
 | ----------- | ------- | ---- | -------------------------------------------------------------------------------------------- |
@@ -1363,18 +1363,40 @@
 
 [Link](https://www.waypointproject.io/)
 
-**Last update**: Wednesday, 19 July 2023 12:38:01 am Australia/Melbourne
+**Last update**: Wednesday, 19 July 2023 00:38:01 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
 | 0.11.3  | zip  | x64          | https://releases.hashicorp.com/waypoint/0.11.3/waypoint_0.11.3_windows_amd64.zip |
 | 0.11.3  | zip  | x86          | https://releases.hashicorp.com/waypoint/0.11.3/waypoint_0.11.3_windows_386.zip   |
 
+## TechSmithCamtasia
+
+[Link](https://www.techsmith.com/)
+
+**Last update**: Tuesday, 18 July 2023 16:09:22 Etc/UTC
+
+| Version | Date                | Type | URI                                                                     |
+| ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
+| 23.1.1  | 07/18/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2311/camtasia.exe |
+| 23.1.1  | 07/18/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2311/camtasia.msi |
+
+## OracleJava8
+
+[Link](https://www.java.com)
+
+**Last update**: Tuesday, 18 July 2023 16:09:22 Etc/UTC
+
+| Version       | Architecture | URI                                                                                                                                       |
+| ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.8.0_381-b09 | x64          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_381-b09/8c876547113c4e4aab3c868e9e0ec572/windows-i586/jre-8u381-windows-x64.exe  |
+| 1.8.0_381-b09 | x86          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_381-b09/8c876547113c4e4aab3c868e9e0ec572/windows-i586/jre-8u381-windows-i586.exe |
+
 ## MasterPackager
 
 [Link](https://www.masterpackager.com/)
 
-**Last update**: Tuesday, 18 July 2023 4:09:22 pm Australia/Melbourne
+**Last update**: Tuesday, 18 July 2023 16:09:22 Etc/UTC
 
 | Version   | Type | URI                                                                                     |
 | --------- | ---- | --------------------------------------------------------------------------------------- |
@@ -1384,7 +1406,7 @@
 
 [Link](https://www.boundaryproject.io/)
 
-**Last update**: Tuesday, 18 July 2023 4:09:22 pm Australia/Melbourne
+**Last update**: Tuesday, 18 July 2023 16:09:22 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
@@ -1395,7 +1417,7 @@
 
 [Link](https://aws.amazon.com/corretto/)
 
-**Last update**: Tuesday, 18 July 2023 4:09:22 pm Australia/Melbourne
+**Last update**: Tuesday, 18 July 2023 16:09:22 Etc/UTC
 
 | Version     | Architecture | JDK | Type | URI                                                                                                |
 | ----------- | ------------ | --- | ---- | -------------------------------------------------------------------------------------------------- |
@@ -1409,33 +1431,11 @@
 | 17.0.8.7.1  | x64          | 17  | msi  | https://corretto.aws/downloads/resources/17.0.8.7.1/amazon-corretto-17.0.8.7.1-windows-x64.msi     |
 | 11.0.20.8.1 | x86          | 11  | msi  | https://corretto.aws/downloads/resources/11.0.20.8.1/amazon-corretto-11.0.20.8.1-windows-x86.msi   |
 
-## OracleJava8
-
-[Link](https://www.java.com)
-
-**Last update**: Tuesday, 18 July 2023 4:09:22 pm Australia/Melbourne
-
-| Version       | Architecture | URI                                                                                                                                       |
-| ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.0_381-b09 | x64          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_381-b09/8c876547113c4e4aab3c868e9e0ec572/windows-i586/jre-8u381-windows-x64.exe  |
-| 1.8.0_381-b09 | x86          | https://javadl.oracle.com/webapps/download/GetFile/1.8.0_381-b09/8c876547113c4e4aab3c868e9e0ec572/windows-i586/jre-8u381-windows-i586.exe |
-
-## TechSmithCamtasia
-
-[Link](https://www.techsmith.com/)
-
-**Last update**: Tuesday, 18 July 2023 4:09:22 pm Australia/Melbourne
-
-| Version | Date                | Type | URI                                                                     |
-| ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
-| 23.1.1  | 07/18/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2311/camtasia.exe |
-| 23.1.1  | 07/18/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2311/camtasia.msi |
-
 ## mySQLWorkbench
 
 [Link](https://dev.mysql.com/doc/workbench/en/)
 
-**Last update**: Tuesday, 18 July 2023 8:08:08 am Australia/Melbourne
+**Last update**: Tuesday, 18 July 2023 08:08:08 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                                 |
 | ------- | ---- | ------------ | ----------------------------------------------------------------------------------- |
@@ -1445,7 +1445,7 @@
 
 [Link](https://gitforwindows.org/)
 
-**Last update**: Tuesday, 18 July 2023 12:31:55 am Australia/Melbourne
+**Last update**: Tuesday, 18 July 2023 00:31:55 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -1464,7 +1464,7 @@
 
 [Link](https://gerardog.github.io/gsudo)
 
-**Last update**: Tuesday, 18 July 2023 12:31:55 am Australia/Melbourne
+**Last update**: Tuesday, 18 July 2023 00:31:55 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |
@@ -1477,7 +1477,7 @@
 
 [Link](https://octopus.com/)
 
-**Last update**: Monday, 17 July 2023 8:08:31 am Australia/Melbourne
+**Last update**: Monday, 17 July 2023 08:08:31 Etc/UTC
 
 | Version | Architecture | URI                                                                       |
 | ------- | ------------ | ------------------------------------------------------------------------- |
@@ -1488,7 +1488,7 @@
 
 [Link](https://www.beekeeperstudio.io/)
 
-**Last update**: Saturday, 15 July 2023 12:22:37 am Australia/Melbourne
+**Last update**: Saturday, 15 July 2023 00:22:37 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -1499,7 +1499,7 @@
 
 [Link](https://1password.com/)
 
-**Last update**: Friday, 14 July 2023 4:09:12 pm Australia/Melbourne
+**Last update**: Friday, 14 July 2023 16:09:12 Etc/UTC
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |
@@ -1509,7 +1509,7 @@
 
 [Link](https://tools.pdf24.org/en/creator/)
 
-**Last update**: Friday, 14 July 2023 4:09:12 pm Australia/Melbourne
+**Last update**: Friday, 14 July 2023 16:09:12 Etc/UTC
 
 | Version | Type | URI                                                  |
 | ------- | ---- | ---------------------------------------------------- |
@@ -1520,7 +1520,7 @@
 
 [Link](https://www.gpg4win.org/)
 
-**Last update**: Friday, 14 July 2023 4:09:12 pm Australia/Melbourne
+**Last update**: Friday, 14 July 2023 16:09:12 Etc/UTC
 
 | Version | Architecture | Type | URI                                         |
 | ------- | ------------ | ---- | ------------------------------------------- |
@@ -1530,7 +1530,7 @@
 
 [Link](https://docs.microsoft.com/powershell/)
 
-**Last update**: Friday, 14 July 2023 12:24:11 am Australia/Melbourne
+**Last update**: Friday, 14 July 2023 00:24:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                              | Release |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ------- |
@@ -1543,7 +1543,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 
-**Last update**: Friday, 14 July 2023 12:24:11 am Australia/Melbourne
+**Last update**: Friday, 14 July 2023 00:24:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |
@@ -1555,7 +1555,7 @@
 
 [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)
 
-**Last update**: Thursday, 13 July 2023 8:09:32 am Australia/Melbourne
+**Last update**: Thursday, 13 July 2023 08:09:32 Etc/UTC
 
 | Version | Edition   | URI                                                                                                                       |
 | ------- | --------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -1563,11 +1563,23 @@
 | 2.12.3  | Gemeenten | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-Gemeenten.zip |
 | 2.12.3  | SIGRA     | https://enovationgroup.com/wp-content/uploads/enovation-zip-files/ZorgMail-Veilig-verzenden-plug-in-Outlook-SIGRA.zip     |
 
+## TechSmithSnagit
+
+[Link](https://www.techsmith.com/)
+
+**Last update**: Thursday, 13 July 2023 00:23:32 Etc/UTC
+
+| Version | Date                | Type | Architecture | URI                                                                 |
+| ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |
+| 23.2.0  | 07/12/2023 00:00:00 | exe  | x64          | http://download.techsmith.com/snagit/releases/2320/snagit.exe       |
+| 23.2.0  | 07/12/2023 00:00:00 | msi  | x64          | http://download.techsmith.com/snagit/releases/2320/snagit.msi       |
+| 23.2.0  | 07/12/2023 00:00:00 | msi  | x86          | http://download.techsmith.com/snagit/releases/2320/32bit/snagit.msi |
+
 ## Wireshark
 
 [Link](https://www.wireshark.org/#download)
 
-**Last update**: Thursday, 13 July 2023 12:23:32 am Australia/Melbourne
+**Last update**: Thursday, 13 July 2023 00:23:32 Etc/UTC
 
 | Version | Architecture | Type | URI                                                            |
 | ------- | ------------ | ---- | -------------------------------------------------------------- |
@@ -1576,23 +1588,11 @@
 | 3.6.15  | x86          | exe  | https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.15.exe |
 | 3.6.15  | x86          | msi  | https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.15.msi |
 
-## TechSmithSnagit
-
-[Link](https://www.techsmith.com/)
-
-**Last update**: Thursday, 13 July 2023 12:23:32 am Australia/Melbourne
-
-| Version | Date                | Type | Architecture | URI                                                                 |
-| ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |
-| 23.2.0  | 07/12/2023 00:00:00 | exe  | x64          | http://download.techsmith.com/snagit/releases/2320/snagit.exe       |
-| 23.2.0  | 07/12/2023 00:00:00 | msi  | x64          | http://download.techsmith.com/snagit/releases/2320/snagit.msi       |
-| 23.2.0  | 07/12/2023 00:00:00 | msi  | x86          | http://download.techsmith.com/snagit/releases/2320/32bit/snagit.msi |
-
 ## Minitab
 
 [Link](https://www.minitab.com/)
 
-**Last update**: Wednesday, 12 July 2023 4:09:35 pm Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 16:09:35 Etc/UTC
 
 | Version  | Architecture | Release | URI                                                                                                                |
 | -------- | ------------ | ------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -1603,7 +1603,7 @@
 
 [Link](https://safing.io/)
 
-**Last update**: Wednesday, 12 July 2023 4:09:35 pm Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 16:09:35 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
@@ -1613,7 +1613,7 @@
 
 [Link](https://www.getpostman.com/)
 
-**Last update**: Wednesday, 12 July 2023 8:09:30 am Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 08:09:30 Etc/UTC
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                        | URI                                                    |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------- | ------------------------------------------------------ |
@@ -1624,27 +1624,27 @@
 
 [Link](https://docs.conda.io/en/latest/miniconda.html)
 
-**Last update**: Wednesday, 12 July 2023 12:25:24 am Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 00:25:24 Etc/UTC
 
-| Version | Architecture | Date                 | Size   | MD5                              | Sha256                                                           | URI                                                                                   |
-| ------- | ------------ | -------------------- | ------ | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2023.07 | x64          | 11/7/2023 8:07:06 pm | 724056 | fa267d6d085ee0493e34b7f07d6552a3 | 38a6f11e8f8ebcdbaadd713bb3f3c4ded87c854dc6e2bb8d60df1e2fc2d9f1b5 | https://repo.anaconda.com/miniconda/Miniconda3-uninstaller-patch-win-64-2023.07-0.exe |
+| Version | Architecture | Date                | Size   | MD5                              | Sha256                                                           | URI                                                                                   |
+| ------- | ------------ | ------------------- | ------ | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2023.07 | x64          | 07/11/2023 20:07:06 | 724056 | fa267d6d085ee0493e34b7f07d6552a3 | 38a6f11e8f8ebcdbaadd713bb3f3c4ded87c854dc6e2bb8d60df1e2fc2d9f1b5 | https://repo.anaconda.com/miniconda/Miniconda3-uninstaller-patch-win-64-2023.07-0.exe |
 
 ## Anaconda
 
 [Link](https://www.anaconda.com/)
 
-**Last update**: Wednesday, 12 July 2023 12:25:24 am Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 00:25:24 Etc/UTC
 
-| Version | Architecture | Date                 | Size   | MD5                              | Sha256                                                           | URI                                                                                |
-| ------- | ------------ | -------------------- | ------ | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 2023.07 | x64          | 11/7/2023 6:17:03 pm | 724064 | e920959bf6e3088c8c6692c6ba77b9d2 | 7c89615a41a50031227d3e0eb23dd35a1825a15057ecc1b2a6264fe8514a56bf | https://repo.anaconda.com/archive/Anaconda3-uninstaller-patch-win-64-2023.07-0.exe |
+| Version | Architecture | Date                | Size   | MD5                              | Sha256                                                           | URI                                                                                |
+| ------- | ------------ | ------------------- | ------ | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 2023.07 | x64          | 07/11/2023 18:17:03 | 724064 | e920959bf6e3088c8c6692c6ba77b9d2 | 7c89615a41a50031227d3e0eb23dd35a1825a15057ecc1b2a6264fe8514a56bf | https://repo.anaconda.com/archive/Anaconda3-uninstaller-patch-win-64-2023.07-0.exe |
 
 ## dnGrep
 
 [Link](https://dngrep.github.io/)
 
-**Last update**: Wednesday, 12 July 2023 12:25:24 am Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 00:25:24 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
@@ -1657,7 +1657,7 @@
 
 [Link](https://dotnet.microsoft.com/download/)
 
-**Last update**: Wednesday, 12 July 2023 12:25:24 am Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 00:25:24 Etc/UTC
 
 | Version | Architecture | Installer          | Channel | Hash                                                                                                                             | Type | URI                                                                                                                                                                       |
 | ------- | ------------ | ------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1690,18 +1690,29 @@
 
 [Link](https://www.rhino3d.com/)
 
-**Last update**: Wednesday, 12 July 2023 12:25:24 am Australia/Melbourne
+**Last update**: Wednesday, 12 July 2023 00:25:24 Etc/UTC
 
 | Version          | Release | URI                                                                           |
 | ---------------- | ------- | ----------------------------------------------------------------------------- |
 | 7.31.23166.15001 | 7       | https://files.mcneel.com/dujour/exe/20230615/rhino_en-us_7.31.23166.15001.exe |
 | 6.35.21222.17001 | 6       | https://files.mcneel.com/dujour/exe/20210810/rhino_en-us_6.35.21222.17001.exe |
 
+## CitrixWorkspaceApp
+
+[Link](https://www.citrix.com/downloads/workspace-app/)
+
+**Last update**: Tuesday, 11 July 2023 16:08:26 Etc/UTC
+
+| Version        | Title                              | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                       |
+| -------------- | ---------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------- |
+| 23.5.1.83      | Citrix Workspace - Current Release | 301319504 | 20ac5c8afca6fb4ecc352446066dd161dd08b678c8ec1f579b512aa01377a2ef | 06/30/2023 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp23.5.1.83.exe      |
+| 22.3.4000.4080 | Citrix Workspace - LTSR            | 96388432  | efcc0838ba47e7ceca77daaad0a32e31695b3f7728cee3ad0b77d611265e95a8 | 07/11/2023 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.4000.4080.exe |
+
 ## AdobeAcrobat
 
 [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)
 
-**Last update**: Tuesday, 11 July 2023 4:08:26 pm Australia/Melbourne
+**Last update**: Tuesday, 11 July 2023 16:08:26 Etc/UTC
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1722,29 +1733,18 @@
 
 [Link](https://www.xnview.com/en/xnviewmp/)
 
-**Last update**: Tuesday, 11 July 2023 4:08:26 pm Australia/Melbourne
+**Last update**: Tuesday, 11 July 2023 16:08:26 Etc/UTC
 
 | Version | Architecture | Type | URI                                              |
 | ------- | ------------ | ---- | ------------------------------------------------ |
 | 1.5.0   | x64          | exe  | https://download.xnview.com/XnViewMP-win-x64.exe |
 | 1.5.0   | x86          | exe  | https://download.xnview.com/XnViewMP-win.exe     |
 
-## CitrixWorkspaceApp
-
-[Link](https://www.citrix.com/downloads/workspace-app/)
-
-**Last update**: Tuesday, 11 July 2023 4:08:26 pm Australia/Melbourne
-
-| Version        | Title                              | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                       |
-| -------------- | ---------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------- |
-| 23.5.1.83      | Citrix Workspace - Current Release | 301319504 | 20ac5c8afca6fb4ecc352446066dd161dd08b678c8ec1f579b512aa01377a2ef | 06/30/2023 | Current | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp23.5.1.83.exe      |
-| 22.3.4000.4080 | Citrix Workspace - LTSR            | 96388432  | efcc0838ba47e7ceca77daaad0a32e31695b3f7728cee3ad0b77d611265e95a8 | 07/11/2023 | LTSR    | https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.4000.4080.exe |
-
 ## AdobeAcrobatReaderDC
 
 [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-**Last update**: Tuesday, 11 July 2023 8:10:07 am Australia/Melbourne
+**Last update**: Tuesday, 11 July 2023 08:10:07 Etc/UTC
 
 | Version      | Language              | Architecture | Name                                               | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -1783,7 +1783,7 @@
 
 [Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
 
-**Last update**: Tuesday, 11 July 2023 8:10:07 am Australia/Melbourne
+**Last update**: Tuesday, 11 July 2023 08:10:07 Etc/UTC
 
 | Version      | Architecture | Sku      | URI                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
@@ -1796,7 +1796,7 @@
 
 [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
 
-**Last update**: Tuesday, 11 July 2023 8:10:07 am Australia/Melbourne
+**Last update**: Tuesday, 11 July 2023 08:10:07 Etc/UTC
 
 | Version      | Type      | Architecture | URI                                                                                                        |
 | ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -1811,17 +1811,37 @@
 
 [Link](https://docs.microsoft.com/en-us/windows/package-manager/)
 
-**Last update**: Tuesday, 11 July 2023 12:22:40 am Australia/Melbourne
+**Last update**: Tuesday, 11 July 2023 00:22:40 Etc/UTC
 
 | Version  | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                        |
 | -------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1.5.1881 | Windows  | x86          | msixbundle | Default       | 07/10/2023 | 16061259 | https://github.com/microsoft/winget-cli/releases/download/v1.5.1881/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle |
 
+## FileZilla
+
+[Link](https://filezilla-project.org/)
+
+**Last update**: Monday, 10 July 2023 16:08:12 Etc/UTC
+
+| Version | Size     | Hash                                                                                                                             | URI                                                                            |
+| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 3.65.0  | 12160512 | 3499661a012a44b273ecf4d33bac2cf5aba8874864ded9b2bbf28c6e462ec5f6687e04fad4bdbffc06c71278f130807491dc87a9278a056e361fc24bfebac9e5 | https://download.filezilla-project.org/client/FileZilla_3.65.0_win64-setup.exe |
+
+## DockerDesktop
+
+[Link](https://www.docker.com/products/docker-desktop/)
+
+**Last update**: Monday, 10 July 2023 16:08:12 Etc/UTC
+
+| Version | Build  | Size      | Type | URI                                                                               |
+| ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |
+| 4.21.1  | 114176 | 584747856 | exe  | https://desktop.docker.com/win/main/amd64/114176/Docker%20Desktop%20Installer.exe |
+
 ## Fork
 
 [Link](https://www.fork.dev)
 
-**Last update**: Monday, 10 July 2023 4:08:12 pm Australia/Melbourne
+**Last update**: Monday, 10 July 2023 16:08:12 Etc/UTC
 
 | Version | URI                                           |
 | ------- | --------------------------------------------- |
@@ -1831,7 +1851,7 @@
 
 [Link](https://www.chef.io/products/chef-workstation)
 
-**Last update**: Monday, 10 July 2023 4:08:12 pm Australia/Melbourne
+**Last update**: Monday, 10 July 2023 16:08:12 Etc/UTC
 
 | Version   | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                   |
 | --------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -1848,31 +1868,11 @@
 | 23.7.1042 | x64          | current | 2022     | cd4e5fb1aa6badd3545898728a59141181412854eb8f5c6da9bec0e0860712fb | https://packages.chef.io/files/current/chef-workstation/23.7.1042/windows/2022/chef-workstation-23.7.1042-1-x64.msi   |
 | 23.7.1042 | x64          | stable  | 2022     | cd4e5fb1aa6badd3545898728a59141181412854eb8f5c6da9bec0e0860712fb | https://packages.chef.io/files/stable/chef-workstation/23.7.1042/windows/2022/chef-workstation-23.7.1042-1-x64.msi    |
 
-## DockerDesktop
-
-[Link](https://www.docker.com/products/docker-desktop/)
-
-**Last update**: Monday, 10 July 2023 4:08:12 pm Australia/Melbourne
-
-| Version | Build  | Size      | Type | URI                                                                               |
-| ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |
-| 4.21.1  | 114176 | 584747856 | exe  | https://desktop.docker.com/win/main/amd64/114176/Docker%20Desktop%20Installer.exe |
-
-## FileZilla
-
-[Link](https://filezilla-project.org/)
-
-**Last update**: Monday, 10 July 2023 4:08:12 pm Australia/Melbourne
-
-| Version | Size     | Hash                                                                                                                             | URI                                                                            |
-| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3.65.0  | 12160512 | 3499661a012a44b273ecf4d33bac2cf5aba8874864ded9b2bbf28c6e462ec5f6687e04fad4bdbffc06c71278f130807491dc87a9278a056e361fc24bfebac9e5 | https://download.filezilla-project.org/client/FileZilla_3.65.0_win64-setup.exe |
-
 ## ResponsivelyApp
 
 [Link](https://responsively.app/)
 
-**Last update**: Sunday, 9 July 2023 8:08:37 am Australia/Melbourne
+**Last update**: Sunday, 09 July 2023 08:08:37 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1882,7 +1882,7 @@
 
 [Link](https://freefem.org/)
 
-**Last update**: Saturday, 8 July 2023 4:08:41 pm Australia/Melbourne
+**Last update**: Saturday, 08 July 2023 16:08:41 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |
@@ -1892,7 +1892,7 @@
 
 [Link](https://github.com/pdfarranger/pdfarranger/)
 
-**Last update**: Saturday, 8 July 2023 4:08:41 pm Australia/Melbourne
+**Last update**: Saturday, 08 July 2023 16:08:41 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |
@@ -1902,7 +1902,7 @@
 
 [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-**Last update**: Friday, 7 July 2023 8:09:29 am Australia/Melbourne
+**Last update**: Friday, 07 July 2023 08:09:29 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                             | URI                                                                                                    |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -1912,7 +1912,7 @@
 
 [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-**Last update**: Friday, 7 July 2023 8:09:29 am Australia/Melbourne
+**Last update**: Friday, 07 July 2023 08:09:29 Etc/UTC
 
 | Version         | URI                                                                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1922,7 +1922,7 @@
 
 [Link](https://www.eset.com/int/business/download/inspect/)
 
-**Last update**: Thursday, 6 July 2023 4:13:32 pm Australia/Melbourne
+**Last update**: Thursday, 06 July 2023 16:13:32 Etc/UTC
 
 | Version     | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                  |
 | ----------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
@@ -1933,7 +1933,7 @@
 
 [Link](https://github.com/microsoft/PowerToys/)
 
-**Last update**: Thursday, 6 July 2023 12:25:15 am Australia/Melbourne
+**Last update**: Thursday, 06 July 2023 00:25:15 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
@@ -1946,7 +1946,7 @@
 
 [Link](https://www.torproject.org/)
 
-**Last update**: Wednesday, 5 July 2023 12:23:24 am Australia/Melbourne
+**Last update**: Wednesday, 05 July 2023 00:23:24 Etc/UTC
 
 | Version | Architecture | Type | Language | URI                                                                                   |
 | ------- | ------------ | ---- | -------- | ------------------------------------------------------------------------------------- |
@@ -1957,7 +1957,7 @@
 
 [Link](https://learn.microsoft.com/en-au/cli/azure/)
 
-**Last update**: Tuesday, 4 July 2023 8:09:50 am Australia/Melbourne
+**Last update**: Tuesday, 04 July 2023 08:09:50 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |
@@ -1967,7 +1967,7 @@
 
 [Link](https://www.opera.com/crypto/next)
 
-**Last update**: Monday, 3 July 2023 4:09:08 pm Australia/Melbourne
+**Last update**: Monday, 03 July 2023 16:09:08 Etc/UTC
 
 | Version       | Channel | Architecture | Type | URI                                                                                                   |
 | ------------- | ------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |
@@ -1977,7 +1977,7 @@
 
 [Link](https://www.adobe.com/products/adobeconnect.html)
 
-**Last update**: Monday, 3 July 2023 8:09:35 am Australia/Melbourne
+**Last update**: Monday, 03 July 2023 08:09:35 Etc/UTC
 
 | Version    | Type | Architecture | URI                                                                                              |
 | ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------ |
@@ -1990,7 +1990,7 @@
 
 [Link](https://github.com/PowerShell/Win32-OpenSSH/)
 
-**Last update**: Saturday, 1 July 2023 8:09:08 am Australia/Melbourne
+**Last update**: Saturday, 01 July 2023 08:09:08 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------- |
@@ -2006,7 +2006,7 @@
 
 [Link](https://github.com/MuhammedKalkan/OpenLens/)
 
-**Last update**: Saturday, 1 July 2023 12:25:28 am Australia/Melbourne
+**Last update**: Saturday, 01 July 2023 00:25:28 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
@@ -2017,7 +2017,7 @@
 
 [Link](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
 
-**Last update**: Thursday, 29 June 2023 8:08:59 am Australia/Melbourne
+**Last update**: Thursday, 29 June 2023 08:08:59 Etc/UTC
 
 | Version    | Hash                                                             | Architecture | Type | URI                                                   |
 | ---------- | ---------------------------------------------------------------- | ------------ | ---- | ----------------------------------------------------- |
@@ -2029,7 +2029,7 @@
 
 [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
 
-**Last update**: Wednesday, 28 June 2023 4:08:03 pm Australia/Melbourne
+**Last update**: Wednesday, 28 June 2023 16:08:03 Etc/UTC
 
 | Version | Platform   | Architecture | URI                                                                                                |
 | ------- | ---------- | ------------ | -------------------------------------------------------------------------------------------------- |
@@ -2041,7 +2041,7 @@
 
 [Link](https://www.sourcetreeapp.com/)
 
-**Last update**: Wednesday, 28 June 2023 8:09:53 am Australia/Melbourne
+**Last update**: Wednesday, 28 June 2023 08:09:53 Etc/UTC
 
 | Version | Type | URI                                                                                                         |
 | ------- | ---- | ----------------------------------------------------------------------------------------------------------- |
@@ -2052,7 +2052,7 @@
 
 [Link](https://github.com/BornToBeRoot/NETworkManager)
 
-**Last update**: Wednesday, 28 June 2023 12:24:17 am Australia/Melbourne
+**Last update**: Wednesday, 28 June 2023 00:24:17 Etc/UTC
 
 | Version     | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                               |
 | ----------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -2062,7 +2062,7 @@
 
 [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)
 
-**Last update**: Tuesday, 27 June 2023 8:09:52 am Australia/Melbourne
+**Last update**: Tuesday, 27 June 2023 08:09:52 Etc/UTC
 
 | Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                     |
 | ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
@@ -2072,7 +2072,7 @@
 
 [Link](https://www.consul.io/)
 
-**Last update**: Tuesday, 27 June 2023 12:23:45 am Australia/Melbourne
+**Last update**: Tuesday, 27 June 2023 00:23:45 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |
@@ -2083,7 +2083,7 @@
 
 [Link](https://peazip.github.io/)
 
-**Last update**: Sunday, 25 June 2023 8:08:10 am Australia/Melbourne
+**Last update**: Sunday, 25 June 2023 08:08:10 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------- |
@@ -2094,7 +2094,7 @@
 
 [Link](https://getpaint.net/)
 
-**Last update**: Sunday, 25 June 2023 12:25:33 am Australia/Melbourne
+**Last update**: Sunday, 25 June 2023 00:25:33 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |
@@ -2108,7 +2108,7 @@
 
 [Link](https://getpaint.net)
 
-**Last update**: Sunday, 25 June 2023 12:25:33 am Australia/Melbourne
+**Last update**: Sunday, 25 June 2023 00:25:33 Etc/UTC
 
 | Version        | URI                                                                                                    |
 | -------------- | ------------------------------------------------------------------------------------------------------ |
@@ -2118,7 +2118,7 @@
 
 [Link](https://github.com/NickeManarin/ScreenToGif)
 
-**Last update**: Saturday, 24 June 2023 4:08:11 pm Australia/Melbourne
+**Last update**: Saturday, 24 June 2023 16:08:11 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -2142,7 +2142,7 @@
 
 [Link](https://mestrelab.com/software/mnova/)
 
-**Last update**: Friday, 23 June 2023 4:09:39 pm Australia/Melbourne
+**Last update**: Friday, 23 June 2023 16:09:39 Etc/UTC
 
 | Version | Revision | Architecture | URI                                                                          |
 | ------- | -------- | ------------ | ---------------------------------------------------------------------------- |
@@ -2153,7 +2153,7 @@
 
 [Link](https://www.bluej.org/)
 
-**Last update**: Thursday, 22 June 2023 4:10:49 pm Australia/Melbourne
+**Last update**: Thursday, 22 June 2023 16:10:49 Etc/UTC
 
 | Version | URI                                                        |
 | ------- | ---------------------------------------------------------- |
@@ -2163,7 +2163,7 @@
 
 [Link](https://www.ghostscript.com/)
 
-**Last update**: Thursday, 22 June 2023 12:23:35 am Australia/Melbourne
+**Last update**: Thursday, 22 June 2023 00:23:35 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
@@ -2174,7 +2174,7 @@
 
 [Link](https://www.minizinc.org/)
 
-**Last update**: Wednesday, 21 June 2023 8:08:59 am Australia/Melbourne
+**Last update**: Wednesday, 21 June 2023 08:08:59 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |
@@ -2184,7 +2184,7 @@
 
 [Link](https://www.freedomscientific.com/products/software/jaws/)
 
-**Last update**: Tuesday, 20 June 2023 4:07:40 pm Australia/Melbourne
+**Last update**: Tuesday, 20 June 2023 16:07:40 Etc/UTC
 
 | Version      | Architecture | Date      | URI                                                                                                                    |
 | ------------ | ------------ | --------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -2195,7 +2195,7 @@
 
 [Link](https://www.freedomscientific.com/products/software/fusion/)
 
-**Last update**: Tuesday, 20 June 2023 4:07:40 pm Australia/Melbourne
+**Last update**: Tuesday, 20 June 2023 16:07:40 Etc/UTC
 
 | Version     | Date      | URI                                                                                                                  |
 | ----------- | --------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -2205,7 +2205,7 @@
 
 [Link](https://www.freedomscientific.com/products/software/zoomtext/)
 
-**Last update**: Tuesday, 20 June 2023 4:07:40 pm Australia/Melbourne
+**Last update**: Tuesday, 20 June 2023 16:07:40 Etc/UTC
 
 | Version      | Date      | URI                                                                                                                       |
 | ------------ | --------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -2215,7 +2215,7 @@
 
 [Link](https://github.com/mattermost/desktop)
 
-**Last update**: Tuesday, 20 June 2023 12:20:41 am Australia/Melbourne
+**Last update**: Tuesday, 20 June 2023 00:20:41 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                                  |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------ |
@@ -2227,7 +2227,7 @@
 
 [Link](https://obsproject.com/)
 
-**Last update**: Monday, 19 June 2023 4:08:53 pm Australia/Melbourne
+**Last update**: Monday, 19 June 2023 16:08:53 Etc/UTC
 
 | Version | Architecture | URI                                                                                  |
 | ------- | ------------ | ------------------------------------------------------------------------------------ |
@@ -2237,7 +2237,7 @@
 
 [Link](https://mcmilk.de/projects/7-Zip-zstd/)
 
-**Last update**: Sunday, 18 June 2023 4:07:39 pm Australia/Melbourne
+**Last update**: Sunday, 18 June 2023 16:07:39 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
@@ -2250,7 +2250,7 @@
 
 [Link](https://notepad-plus-plus.org/)
 
-**Last update**: Sunday, 18 June 2023 4:07:39 pm Australia/Melbourne
+**Last update**: Sunday, 18 June 2023 16:07:39 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -2271,7 +2271,7 @@
 
 [Link](https://cran.r-project.org/bin/windows/base/)
 
-**Last update**: Friday, 16 June 2023 4:08:24 pm Australia/Melbourne
+**Last update**: Friday, 16 June 2023 16:08:24 Etc/UTC
 
 | Version | URI                                                         |
 | ------- | ----------------------------------------------------------- |
@@ -2281,7 +2281,7 @@
 
 [Link](https://www.tableau.com/)
 
-**Last update**: Friday, 16 June 2023 12:21:29 am Australia/Melbourne
+**Last update**: Friday, 16 June 2023 00:21:29 Etc/UTC
 
 | Version  | URI                                                               |
 | -------- | ----------------------------------------------------------------- |
@@ -2291,7 +2291,7 @@
 
 [Link](https://www.tableau.com/)
 
-**Last update**: Friday, 16 June 2023 12:21:29 am Australia/Melbourne
+**Last update**: Friday, 16 June 2023 00:21:29 Etc/UTC
 
 | Version  | URI                                                                       |
 | -------- | ------------------------------------------------------------------------- |
@@ -2301,7 +2301,7 @@
 
 [Link](https://www.tableau.com/)
 
-**Last update**: Friday, 16 June 2023 12:21:29 am Australia/Melbourne
+**Last update**: Friday, 16 June 2023 00:21:29 Etc/UTC
 
 | Version  | URI                                                                        |
 | -------- | -------------------------------------------------------------------------- |
@@ -2311,7 +2311,7 @@
 
 [Link](https://docs.vmware.com/en/VMware-Tools/index.html)
 
-**Last update**: Wednesday, 14 June 2023 4:12:08 pm Australia/Melbourne
+**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |
@@ -2322,7 +2322,7 @@
 
 [Link](https://www.onlyoffice.com/desktop.aspx)
 
-**Last update**: Wednesday, 14 June 2023 4:12:08 pm Australia/Melbourne
+**Last update**: Wednesday, 14 June 2023 16:12:08 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------- |
@@ -2335,7 +2335,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
 
-**Last update**: Wednesday, 14 June 2023 12:20:45 am Australia/Melbourne
+**Last update**: Wednesday, 14 June 2023 00:20:45 Etc/UTC
 
 | Version        | Architecture | Date                          | Filename                                  | URI                       |
 | -------------- | ------------ | ----------------------------- | ----------------------------------------- | ------------------------- |
@@ -2345,7 +2345,7 @@
 
 [Link](https://tools.stefankueng.com/grepWin.html)
 
-**Last update**: Saturday, 10 June 2023 4:08:58 pm Australia/Melbourne
+**Last update**: Saturday, 10 June 2023 16:08:58 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------- |
@@ -2356,7 +2356,7 @@
 
 [Link](https://imageglass.org/)
 
-**Last update**: Friday, 9 June 2023 4:08:50 pm Australia/Melbourne
+**Last update**: Friday, 09 June 2023 16:08:50 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------- |
@@ -2369,7 +2369,7 @@
 
 [Link](https://www.audacityteam.org/)
 
-**Last update**: Friday, 9 June 2023 12:22:55 am Australia/Melbourne
+**Last update**: Friday, 09 June 2023 00:22:55 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------ |
@@ -2380,7 +2380,7 @@
 
 [Link](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents)
 
-**Last update**: Wednesday, 7 June 2023 4:07:23 pm Australia/Melbourne
+**Last update**: Wednesday, 07 June 2023 16:07:23 Etc/UTC
 
 | Version | Type | Architecture | URI                                                                                 |
 | ------- | ---- | ------------ | ----------------------------------------------------------------------------------- |
@@ -2391,7 +2391,7 @@
 
 [Link](https://www.python.org/)
 
-**Last update**: Wednesday, 7 June 2023 4:07:23 pm Australia/Melbourne
+**Last update**: Wednesday, 07 June 2023 16:07:23 Etc/UTC
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                              |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ---------------------------------------------------------------- |
@@ -2405,7 +2405,7 @@
 
 [Link](https://github.com/ankitects/anki/)
 
-**Last update**: Monday, 5 June 2023 12:23:06 am Australia/Melbourne
+**Last update**: Monday, 05 June 2023 00:23:06 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------- |
@@ -2416,7 +2416,7 @@
 
 [Link](https://obsidian.md/)
 
-**Last update**: Saturday, 3 June 2023 12:21:48 am Australia/Melbourne
+**Last update**: Saturday, 03 June 2023 00:21:48 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------- |
@@ -2429,7 +2429,7 @@
 
 [Link](https://devicetrust.com/)
 
-**Last update**: Friday, 2 June 2023 4:08:42 pm Australia/Melbourne
+**Last update**: Friday, 02 June 2023 16:08:42 Etc/UTC
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                              |
 | ---------- | -------- | ------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -2469,39 +2469,39 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
-**Last update**: Thursday, 1 June 2023 12:55:09 am Australia/Melbourne
+**Last update**: Thursday, 01 June 2023 00:55:09 Etc/UTC
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |
 | 4.0.5198 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
 | 4.0.5198 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
 
+## VastLimitsUberAgent
+
+[Link](https://uberagent.com/)
+
+**Last update**: Wednesday, 31 May 2023 16:07:58 Etc/UTC
+
+| Version | URI                                                                   |
+| ------- | --------------------------------------------------------------------- |
+| 7.0.2   | https://uberagent.com/downloads/uberAgent/current/uberAgent-7.0.2.zip |
+
 ## ChromiumChromeDriver
 
 [Link](https://chromedriver.chromium.org/home)
 
-**Last update**: Wednesday, 31 May 2023 4:07:58 pm Australia/Melbourne
+**Last update**: Wednesday, 31 May 2023 16:07:58 Etc/UTC
 
 | Version       | Channel | Type | URI                                                                              |
 | ------------- | ------- | ---- | -------------------------------------------------------------------------------- |
 | 114.0.5735.90 | beta    | zip  | https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip |
 | 114.0.5735.90 | stable  | zip  | https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip |
 
-## VastLimitsUberAgent
-
-[Link](https://uberagent.com/)
-
-**Last update**: Wednesday, 31 May 2023 4:07:58 pm Australia/Melbourne
-
-| Version | URI                                                                   |
-| ------- | --------------------------------------------------------------------- |
-| 7.0.2   | https://uberagent.com/downloads/uberAgent/current/uberAgent-7.0.2.zip |
-
 ## OpenWebStart
 
 [Link](https://openwebstart.com/)
 
-**Last update**: Wednesday, 31 May 2023 8:07:45 am Australia/Melbourne
+**Last update**: Wednesday, 31 May 2023 08:07:45 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -2512,7 +2512,7 @@
 
 [Link](https://openwebstart.com/ows/)
 
-**Last update**: Wednesday, 31 May 2023 8:07:45 am Australia/Melbourne
+**Last update**: Wednesday, 31 May 2023 08:07:45 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
@@ -2523,7 +2523,7 @@
 
 [Link](https://www.codelerity.com/netbeans/)
 
-**Last update**: Tuesday, 30 May 2023 4:07:42 pm Australia/Melbourne
+**Last update**: Tuesday, 30 May 2023 16:07:42 Etc/UTC
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
@@ -2533,7 +2533,7 @@
 
 [Link](https://cyberduck.io/)
 
-**Last update**: Tuesday, 30 May 2023 4:07:42 pm Australia/Melbourne
+**Last update**: Tuesday, 30 May 2023 16:07:42 Etc/UTC
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |
@@ -2543,7 +2543,7 @@
 
 [Link](http://https://ocsinventory-ng.org/)
 
-**Last update**: Tuesday, 30 May 2023 8:07:30 am Australia/Melbourne
+**Last update**: Tuesday, 30 May 2023 08:07:30 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                    |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -2556,7 +2556,7 @@
 
 [Link](https://github.com/microsoft/terminal/)
 
-**Last update**: Tuesday, 30 May 2023 12:21:16 am Australia/Melbourne
+**Last update**: Tuesday, 30 May 2023 00:21:16 Etc/UTC
 
 | Version      | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                                   |
 | ------------ | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2566,7 +2566,7 @@
 
 [Link](https://www.ringcentral.com)
 
-**Last update**: Monday, 29 May 2023 8:08:30 am Australia/Melbourne
+**Last update**: Monday, 29 May 2023 08:08:30 Etc/UTC
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
@@ -2580,7 +2580,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: Saturday, 27 May 2023 12:21:28 am Australia/Melbourne
+**Last update**: Saturday, 27 May 2023 00:21:28 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2595,7 +2595,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: Saturday, 27 May 2023 12:21:28 am Australia/Melbourne
+**Last update**: Saturday, 27 May 2023 00:21:28 Etc/UTC
 
 | Version   | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                  |
 | --------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2610,7 +2610,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: Friday, 26 May 2023 4:07:49 pm Australia/Melbourne
+**Last update**: Friday, 26 May 2023 16:07:49 Etc/UTC
 
 | Version   | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                |
 | --------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2631,7 +2631,7 @@
 
 [Link](https://www.voidtools.com/)
 
-**Last update**: Friday, 26 May 2023 8:08:58 am Australia/Melbourne
+**Last update**: Friday, 26 May 2023 08:08:58 Etc/UTC
 
 | Version    | Architecture | URI                                          |
 | ---------- | ------------ | -------------------------------------------- |
@@ -2642,7 +2642,7 @@
 
 [Link](https://go.microsoft.com/fwlink/?LinkId=531355)
 
-**Last update**: Thursday, 25 May 2023 12:20:20 am Australia/Melbourne
+**Last update**: Thursday, 25 May 2023 00:20:20 Etc/UTC
 
 | Version      | Date       | Language              | URI                                                                                                   |
 | ------------ | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -2662,7 +2662,7 @@
 
 [Link](https://protege.stanford.edu/)
 
-**Last update**: Monday, 22 May 2023 4:07:56 pm Australia/Melbourne
+**Last update**: Monday, 22 May 2023 16:07:56 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |
@@ -2672,7 +2672,7 @@
 
 [Link](https://rdanalyzer.com/)
 
-**Last update**: Tuesday, 16 May 2023 4:07:55 pm Australia/Melbourne
+**Last update**: Tuesday, 16 May 2023 16:07:55 Etc/UTC
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -2682,7 +2682,7 @@
 
 [Link](https://www.pdfforge.org/pdfcreator)
 
-**Last update**: Monday, 15 May 2023 4:08:44 pm Australia/Melbourne
+**Last update**: Monday, 15 May 2023 16:08:44 Etc/UTC
 
 | Version | Date       | Size     | MD5                              | Filename                   | URI                                                                                                                         |
 | ------- | ---------- | -------- | -------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -2692,7 +2692,7 @@
 
 [Link](https://keepassxc.org/)
 
-**Last update**: Monday, 15 May 2023 12:21:37 am Australia/Melbourne
+**Last update**: Monday, 15 May 2023 00:21:37 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
@@ -2703,18 +2703,278 @@
 
 [Link](https://github.com/abbodi1406/vcredist)
 
-**Last update**: Monday, 15 May 2023 12:21:37 am Australia/Melbourne
+**Last update**: Monday, 15 May 2023 00:21:37 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
 | 0.73.0  | Windows  | x64          | zip  | Default       | 05/14/2023 | 28858747 | https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64_73.zip |
 | 0.73.0  | Windows  | x86          | zip  | Default       | 05/14/2023 | 17183572 | https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86only.zip    |
 
+## WixToolset
+
+[Link](https://wixtoolset.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |
+| 3.11.2  | Windows  | x86          | exe  | Default       | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
+
+## Gephi
+
+[Link](https://gephi.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------- |
+| 0.10.1  | Windows  | x64          | exe  | Default       | 01/17/2023 | 125986656 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x64.exe |
+| 0.10.1  | Windows  | x86          | exe  | Default       | 01/17/2023 | 121932728 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x32.exe |
+
+## NevcairielLAVFilters
+
+[Link](https://github.com/Nevcairiel/LAVFilters)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 0.77.2  | Windows  | x86          | exe  | Default       | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
+
+## ShareX
+
+[Link](https://getsharex.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
+| 15.0.0  | Windows  | x86          | exe  | Default       | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
+| 15.0.0  | Windows  | x86          | zip  | Portable      | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
+
+## Handbrake
+
+[Link](https://handbrake.fr/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 1.6.1   | Windows  | ARM64        | exe  | Default       | 01/22/2023 | 17185064 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.exe  |
+| 1.6.1   | Windows  | x64          | exe  | Default       | 01/22/2023 | 23066024 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.exe |
+| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 25568465 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.zip  |
+| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17125492 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-aarch64.zip |
+| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17560300 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-aarch64.zip        |
+| 1.6.1   | Windows  | x64          | zip  | Default       | 01/22/2023 | 32107821 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.zip |
+| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 21841487 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip  |
+| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 22434962 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-x86_64.zip         |
+
+## Greenshot
+
+[Link](https://getgreenshot.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.2.10.6 | Windows  | x86          | exe  | Default       | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
+| 1.2.10.6 | Windows  | x86          | exe  | Portable      | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
+| 1.2.10.6 | Windows  | x86          | zip  | Portable      | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
+
+## SafeExamBrowser
+
+[Link](https://safeexambrowser.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                           |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------- |
+| 3.5.0   | Windows  | x86          | exe  | Default       | 04/03/2023 | 260867728 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe |
+| 3.5.0   | Windows  | x64          | msi  | Default       | 04/03/2023 | 134868992 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x64_Setup.msi   |
+| 3.5.0   | Windows  | x86          | msi  | Default       | 04/03/2023 | 125992960 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x86_Setup.msi   |
+
+## ConnectionExperienceIndicator
+
+[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
+| 1.3.0   | Windows  | x86          | exe  | Default       | 07/06/2022 | 429816 | https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe |
+
+## BlenderLauncher
+
+[Link](https://dotbow.github.io/Blender-Launcher/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1.15.1  | Windows  | x64          | zip  | Default       | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
+| 1.15.1  | Windows  | x64          | zip  | Debug         | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
+
+## GitHubAtom
+
+[Link](https://atom.io/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                      |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------ |
+| 1.60.0  | Windows  | x64          | exe  | Default       | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe |
+| 1.60.0  | Windows  | x86          | exe  | Default       | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe     |
+
+## MicrosoftWvdInfraAgent
+
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version       | Architecture | Date                          | Filename                                                  | URI                                                              |
+| ------------- | ------------ | ----------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| 1.0.6129.9100 | x64          | Fri, 10 Mar 2023 01:06:34 GMT | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.6129.9100.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
+
+## SoberLemurPDFSamBasic
+
+[Link](https://pdfsam.org/pdfsam-basic/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
+| 5.1.2   | Windows  | x86          | msi  | Default       | 04/26/2023 | 70557696 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2.msi         |
+| 5.1.2   | Windows  | x86          | zip  | Default       | 04/26/2023 | 69037130 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2-windows.zip |
+
+## AutoDarkMode
+
+[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version   | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                             |
+| --------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| 10.3.0.90 | Windows  | x86          | exe  | Default       | 11/02/2022 | 55765183 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe |
+| 10.3.0.90 | Windows  | x86          | zip  | Default       | 11/02/2022 | 76106071 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.zip |
+
+## AdoptOpenJDK8
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                           |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 105721856 | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 43614208  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
+| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 98983936  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
+| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 36962304  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
+
+## GitHubRelease
+
+[Link](https://github.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                         |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------- |
+| 1.60.0  | Windows  | x64          | exe  | Default       | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe    |
+| 1.60.0  | Windows  | x86          | exe  | Default       | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe        |
+| 1.60.0  | Windows  | x64          | zip  | Default       | 03/07/2022 | 202264136 | https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip |
+| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 139094    | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip |
+| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 213343706 | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip         |
+| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 196491597 | https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip     |
+
+## Notable
+
+[Link](https://notable.app/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |
+| 1.8.4   | Windows  | x86          | exe  | Default       | 01/18/2020 | 90623743 | https://github.com/notable/notable/releases/download/v1.8.4/Notable.Setup.1.8.4.exe |
+
+## MozillaGeckoDriver
+
+[Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
+| 0.33.0  | Windows  | ARM64        | zip  | Default       | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
+| 0.33.0  | Windows  | x64          | zip  | Default       | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
+| 0.33.0  | Windows  | x86          | zip  | Default       | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
+
+## VercelHyper
+
+[Link](https://hyper.js/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------ |
+| 3.4.1   | Windows  | x86          | exe  | Default       | 01/07/2023 | 73828760 | https://github.com/vercel/hyper/releases/download/v3.4.1/Hyper-Setup-3.4.1.exe |
+
+## BISF
+
+[Link](https://eucweb.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                       |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------- |
+| 7.1912.7 | Windows  | x86          | MSI  | Default       | 11/19/2022 | 3357696 | https://github.com/EUCweb/BIS-F/releases/download/7.1912.7/setup-BIS-F-7.1912.7.11042.MSI |
+
+## stealthpuppyWindowsCustomisedDefaults
+
+[Link](https://stealthpuppy.com/image-customise/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version     | Platform | Architecture | Type      | InstallerType | Date       | Size  | URI                                                                                                      |
+| ----------- | -------- | ------------ | --------- | ------------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |
+| 2304.25.160 | Windows  | x86          | intunewin | Default       | 04/25/2023 | 36549 | https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/Install-Defaults.intunewin |
+| 2304.25.160 | Windows  | x86          | zip       | Default       | 04/25/2023 | 32486 | https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/image-customise.zip        |
+
+## AdoptOpenJDK16
+
+[Link](https://adoptopenjdk.net/index.html)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 184905728 | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jdk_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
+| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 31494144  | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jre_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
+
+## Nomacs
+
+[Link](https://nomacs.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |
+| 3.16.224 | Windows  | x64          | exe  | Default       | 07/17/2020 | 24207408 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe |
+| 3.16.224 | Windows  | x64          | msi  | Default       | 07/17/2020 | 39862272 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi |
+
+## JeremyMainGPUProfiler
+
+[Link](https://github.com/JeremyMain/GPUProfiler)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
+| 1.07a3  | Windows  | x64          | zip  | Default       | 06/08/2021 | 1091066 | https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a3/GPUProfiler_v1.07a3_x64.zip |
+
 ## NanaZip
 
 [Link](https://github.com/M2Team/NanaZip)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                     |
 | ------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -2724,7 +2984,7 @@
 
 [Link](http://brackets.io/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
@@ -2734,7 +2994,7 @@
 
 [Link](https://adoptopenjdk.net/icedtea-web.html)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -2746,7 +3006,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2761,7 +3021,7 @@
 
 [Link](https://github.com/keeweb/keeweb)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------- |
@@ -2777,7 +3037,7 @@
 
 [Link](https://github.com/desowin/usbpcap/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | ------------------------------------------------------------------------------------- |
@@ -2787,27 +3047,17 @@
 
 [Link](https://github.com/microsoft/BotFramework-Emulator/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 | 164630672 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe |
 
-## PSAppDeployToolkit
-
-[Link](https://psappdeploytoolkit.com/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 3.9.3   | Windows  | x86          | zip  | Default       | 05/01/2023 | 3584580 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.3/PSAppDeployToolkit_v3.9.3.zip |
-
 ## RizonesoftNotepad3
 
 [Link](https://www.rizonesoft.com/downloads/notepad3)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                              |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -2821,7 +3071,7 @@
 
 [Link](https://adoptopenjdk.net/index.html)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                        |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2830,22 +3080,21 @@
 | 11.0.9.1 | Windows  | x86          | msi  | Default       | 01/11/2019 | 154157056 | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.9.1_1.msi |
 | 11.0.9.1 | Windows  | x86          | msi  | Default       | 01/11/2019 | 26812416  | https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.9.1_1.msi |
 
-## Nomacs
+## PSAppDeployToolkit
 
-[Link](https://nomacs.org/)
+[Link](https://psappdeploytoolkit.com/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |
-| 3.16.224 | Windows  | x64          | exe  | Default       | 07/17/2020 | 24207408 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe |
-| 3.16.224 | Windows  | x64          | msi  | Default       | 07/17/2020 | 39862272 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------- |
+| 3.9.3   | Windows  | x86          | zip  | Default       | 05/01/2023 | 3584580 | https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.9.3/PSAppDeployToolkit_v3.9.3.zip |
 
 ## mRemoteNG
 
 [Link](https://mremoteng.org/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
@@ -2855,7 +3104,7 @@
 
 [Link](https://github.com/debauchee/barrier)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
@@ -2865,7 +3114,7 @@
 
 [Link](https://github.com/doublecmd/doublecmd/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |
@@ -2880,7 +3129,7 @@
 
 [Link](https://www.toggl.com/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -2891,7 +3140,7 @@
 
 [Link](https://github.com/gitextensions/gitextensions)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -2902,7 +3151,7 @@
 
 [Link](https://github.com/Yubico/yubioath-flutter/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
@@ -2912,7 +3161,7 @@
 
 [Link](https://openjdk.java.net/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version             | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                          |
 | ------------------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2943,7 +3192,7 @@
 
 [Link](https://www.naps2.com/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------- |
@@ -2954,277 +3203,28 @@
 
 [Link](https://github.com/0xf005ba11/vmplex-ws)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |
 | 1.0.0.12 | Windows  | x86          | exe  | Default       | 05/04/2023 | 73266440 | https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/VMPlex.exe             |
 | 1.0.0.12 | Windows  | x86          | zip  | Default       | 05/04/2023 | 67646693 | https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/vmplex-ws-1.0.0.12.zip |
 
-## JeremyMainGPUProfiler
-
-[Link](https://github.com/JeremyMain/GPUProfiler)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |
-| 1.07a3  | Windows  | x64          | zip  | Default       | 06/08/2021 | 1091066 | https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a3/GPUProfiler_v1.07a3_x64.zip |
-
 ## Terminals
 
 [Link](https://github.com/terminals-Origin/Terminals/)
 
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
 | 4.0.1   | Windows  | x86          | msi  | Default       | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
 
-## AdoptOpenJDK16
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 184905728 | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jdk_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 06/12/2020 | 31494144  | https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16.0.1%2B9_openj9-0.26.0/OpenJDK16U-jre_x64_windows_openj9_16.0.1_9_openj9-0.26.0.msi |
-
-## Handbrake
-
-[Link](https://handbrake.fr/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 1.6.1   | Windows  | ARM64        | exe  | Default       | 01/22/2023 | 17185064 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.exe  |
-| 1.6.1   | Windows  | x64          | exe  | Default       | 01/22/2023 | 23066024 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.exe |
-| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 25568465 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.zip  |
-| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17125492 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-aarch64.zip |
-| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17560300 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-aarch64.zip        |
-| 1.6.1   | Windows  | x64          | zip  | Default       | 01/22/2023 | 32107821 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.zip |
-| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 21841487 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip  |
-| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 22434962 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-x86_64.zip         |
-
-## SafeExamBrowser
-
-[Link](https://safeexambrowser.org/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                           |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------- |
-| 3.5.0   | Windows  | x86          | exe  | Default       | 04/03/2023 | 260867728 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe |
-| 3.5.0   | Windows  | x64          | msi  | Default       | 04/03/2023 | 134868992 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x64_Setup.msi   |
-| 3.5.0   | Windows  | x86          | msi  | Default       | 04/03/2023 | 125992960 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x86_Setup.msi   |
-
-## Greenshot
-
-[Link](https://getgreenshot.org/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.10.6 | Windows  | x86          | exe  | Default       | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
-| 1.2.10.6 | Windows  | x86          | exe  | Portable      | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
-| 1.2.10.6 | Windows  | x86          | zip  | Portable      | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
-
-## BlenderLauncher
-
-[Link](https://dotbow.github.io/Blender-Launcher/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1.15.1  | Windows  | x64          | zip  | Default       | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
-| 1.15.1  | Windows  | x64          | zip  | Debug         | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
-
-## ShareX
-
-[Link](https://getsharex.com/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
-| 15.0.0  | Windows  | x86          | exe  | Default       | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
-| 15.0.0  | Windows  | x86          | zip  | Portable      | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
-
-## Gephi
-
-[Link](https://gephi.org/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------- |
-| 0.10.1  | Windows  | x64          | exe  | Default       | 01/17/2023 | 125986656 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x64.exe |
-| 0.10.1  | Windows  | x86          | exe  | Default       | 01/17/2023 | 121932728 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x32.exe |
-
-## WixToolset
-
-[Link](https://wixtoolset.org/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |
-| 3.11.2  | Windows  | x86          | exe  | Default       | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
-
-## NevcairielLAVFilters
-
-[Link](https://github.com/Nevcairiel/LAVFilters)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 0.77.2  | Windows  | x86          | exe  | Default       | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
-
-## ConnectionExperienceIndicator
-
-[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
-| 1.3.0   | Windows  | x86          | exe  | Default       | 07/06/2022 | 429816 | https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe |
-
-## GitHubAtom
-
-[Link](https://atom.io/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                      |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------ |
-| 1.60.0  | Windows  | x64          | exe  | Default       | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe |
-| 1.60.0  | Windows  | x86          | exe  | Default       | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe     |
-
-## stealthpuppyWindowsCustomisedDefaults
-
-[Link](https://stealthpuppy.com/image-customise/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version     | Platform | Architecture | Type      | InstallerType | Date       | Size  | URI                                                                                                      |
-| ----------- | -------- | ------------ | --------- | ------------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| 2304.25.160 | Windows  | x86          | intunewin | Default       | 04/25/2023 | 36549 | https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/Install-Defaults.intunewin |
-| 2304.25.160 | Windows  | x86          | zip       | Default       | 04/25/2023 | 32486 | https://github.com/aaronparker/image-customise/releases/download/v2304.25.160/image-customise.zip        |
-
-## SoberLemurPDFSamBasic
-
-[Link](https://pdfsam.org/pdfsam-basic/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
-| 5.1.2   | Windows  | x86          | msi  | Default       | 04/26/2023 | 70557696 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2.msi         |
-| 5.1.2   | Windows  | x86          | zip  | Default       | 04/26/2023 | 69037130 | https://github.com/torakiki/pdfsam/releases/download/v5.1.2/pdfsam-5.1.2-windows.zip |
-
-## AutoDarkMode
-
-[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version   | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                             |
-| --------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
-| 10.3.0.90 | Windows  | x86          | exe  | Default       | 11/02/2022 | 55765183 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe |
-| 10.3.0.90 | Windows  | x86          | zip  | Default       | 11/02/2022 | 76106071 | https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.zip |
-
-## AdoptOpenJDK8
-
-[Link](https://adoptopenjdk.net/index.html)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                           |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 105721856 | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
-| 0.26.0  | Windows  | x64          | msi  | Default       | 01/11/2019 | 43614208  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x64_windows_openj9_8u292b10_openj9-0.26.0.msi    |
-| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 98983936  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jdk_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
-| 0.26.0  | Windows  | x86          | msi  | Default       | 01/11/2019 | 36962304  | https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10_openj9-0.26.0/OpenJDK8U-jre_x86-32_windows_openj9_8u292b10_openj9-0.26.0.msi |
-
-## GitHubRelease
-
-[Link](https://github.com/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                         |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------- |
-| 1.60.0  | Windows  | x64          | exe  | Default       | 03/07/2022 | 198986592 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe    |
-| 1.60.0  | Windows  | x86          | exe  | Default       | 03/07/2022 | 193334112 | https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe        |
-| 1.60.0  | Windows  | x64          | zip  | Default       | 03/07/2022 | 202264136 | https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip |
-| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 139094    | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip |
-| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 213343706 | https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip         |
-| 1.60.0  | Windows  | x86          | zip  | Default       | 03/07/2022 | 196491597 | https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip     |
-
-## Notable
-
-[Link](https://notable.app/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |
-| 1.8.4   | Windows  | x86          | exe  | Default       | 01/18/2020 | 90623743 | https://github.com/notable/notable/releases/download/v1.8.4/Notable.Setup.1.8.4.exe |
-
-## MozillaGeckoDriver
-
-[Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
-| 0.33.0  | Windows  | ARM64        | zip  | Default       | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
-| 0.33.0  | Windows  | x64          | zip  | Default       | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
-| 0.33.0  | Windows  | x86          | zip  | Default       | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
-
-## VercelHyper
-
-[Link](https://hyper.js/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------ |
-| 3.4.1   | Windows  | x86          | exe  | Default       | 01/07/2023 | 73828760 | https://github.com/vercel/hyper/releases/download/v3.4.1/Hyper-Setup-3.4.1.exe |
-
-## MicrosoftWvdInfraAgent
-
-[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version       | Architecture | Date                          | Filename                                                  | URI                                                              |
-| ------------- | ------------ | ----------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| 1.0.6129.9100 | x64          | Fri, 10 Mar 2023 01:06:34 GMT | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.6129.9100.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
-
-## BISF
-
-[Link](https://eucweb.com/)
-
-**Last update**: Saturday, 13 May 2023 8:09:31 am Australia/Melbourne
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                       |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------- |
-| 7.1912.7 | Windows  | x86          | MSI  | Default       | 11/19/2022 | 3357696 | https://github.com/EUCweb/BIS-F/releases/download/7.1912.7/setup-BIS-F-7.1912.7.11042.MSI |
-
 ## ControlUpAgent
 
 [Link](https://www.controlup.com/products/controlup/agent/)
 
-**Last update**: Wednesday, 3 May 2023 12:20:09 am Australia/Melbourne
+**Last update**: Wednesday, 03 May 2023 00:20:09 Etc/UTC
 
 | Version   | Framework    | Architecture | URI                                                                                           |
 | --------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
@@ -3235,7 +3235,7 @@
 
 [Link](https://www.controlup.com/products/controlup/management/)
 
-**Last update**: Wednesday, 3 May 2023 12:20:09 am Australia/Melbourne
+**Last update**: Wednesday, 03 May 2023 00:20:09 Etc/UTC
 
 | Version   | URI                                                             |
 | --------- | --------------------------------------------------------------- |
@@ -3245,7 +3245,7 @@
 
 [Link](https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Last update**: Tuesday, 2 May 2023 12:20:46 am Australia/Melbourne
+**Last update**: Tuesday, 02 May 2023 00:20:46 Etc/UTC
 
 | Version        | Sha1Hash                                 | Size    | URI                                                                                                    |
 | -------------- | ---------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |
@@ -3255,7 +3255,7 @@
 
 [Link](https://www.vmware.com/products/workstation-pro.html)
 
-**Last update**: Wednesday, 26 April 2023 12:21:02 am Australia/Melbourne
+**Last update**: Wednesday, 26 April 2023 00:21:02 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                             |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ----------------------------------------------------------------------------------------------- |
@@ -3265,7 +3265,7 @@
 
 [Link](https://www.vmware.com/products/workstation-player.html)
 
-**Last update**: Tuesday, 25 April 2023 4:09:12 pm Australia/Melbourne
+**Last update**: Tuesday, 25 April 2023 16:09:12 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | URI                                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------------------------------------------------------------------- |
@@ -3275,7 +3275,7 @@
 
 [Link](https://www.eset.com/au/business/download/secure-authentication/)
 
-**Last update**: Monday, 24 April 2023 4:08:29 pm Australia/Melbourne
+**Last update**: Monday, 24 April 2023 16:08:29 Etc/UTC
 
 | Version  | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                            |
 | -------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |
@@ -3285,7 +3285,7 @@
 
 [Link](https://www.zotero.org/)
 
-**Last update**: Friday, 21 April 2023 12:19:49 am Australia/Melbourne
+**Last update**: Friday, 21 April 2023 00:19:49 Etc/UTC
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |
@@ -3295,7 +3295,7 @@
 
 [Link](https://www.xnview.com/en/xnconvert/)
 
-**Last update**: Tuesday, 4 April 2023 4:08:16 pm Australia/Melbourne
+**Last update**: Tuesday, 04 April 2023 16:08:16 Etc/UTC
 
 | Version | Architecture | Type | URI                                               |
 | ------- | ------------ | ---- | ------------------------------------------------- |
@@ -3306,7 +3306,7 @@
 
 [Link](https://www.sumatrapdfreader.org/)
 
-**Last update**: Monday, 3 April 2023 8:10:41 am Australia/Melbourne
+**Last update**: Monday, 03 April 2023 08:10:41 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |
@@ -3317,7 +3317,7 @@
 
 [Link](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
 
-**Last update**: Friday, 31 March 2023 8:09:08 am Australia/Melbourne
+**Last update**: Friday, 31 March 2023 08:09:08 Etc/UTC
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                                                                     | URI                                                                                                                   |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -3328,7 +3328,7 @@
 
 [Link](https://support.goto.com/meeting/help/install-via-msi-windows)
 
-**Last update**: Sunday, 19 March 2023 8:09:20 am Australia/Melbourne
+**Last update**: Sunday, 19 March 2023 08:09:20 Etc/UTC
 
 | Version     | Type         | URI                                                                                       |
 | ----------- | ------------ | ----------------------------------------------------------------------------------------- |
@@ -3341,17 +3341,17 @@
 
 [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)
 
-**Last update**: Sunday, 19 March 2023 8:09:20 am Australia/Melbourne
+**Last update**: Sunday, 19 March 2023 08:09:20 Etc/UTC
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |
-| 562     | 7/4/2022 1:55:42 am | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
+| 562     | 04/06/2022 15:55:42 | https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi |
 
 ## AppVentiX
 
 [Link](https://appventix.com/)
 
-**Last update**: Wednesday, 15 March 2023 4:07:48 pm Australia/Melbourne
+**Last update**: Wednesday, 15 March 2023 16:07:48 Etc/UTC
 
 | Version | Filename             | URI                                    |
 | ------- | -------------------- | -------------------------------------- |
@@ -3361,7 +3361,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-**Last update**: Friday, 10 March 2023 8:09:20 am Australia/Melbourne
+**Last update**: Friday, 10 March 2023 08:09:20 Etc/UTC
 
 | Version | Architecture | Date                          | Size | Filename                                                  | URI                                                              |
 | ------- | ------------ | ----------------------------- | ---- | --------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -3371,7 +3371,7 @@
 
 [Link](https://docs.microsoft.com/fslogix/)
 
-**Last update**: Tuesday, 7 March 2023 12:25:48 am Australia/Melbourne
+**Last update**: Tuesday, 07 March 2023 00:25:48 Etc/UTC
 
 | Version        | Date       | Channel    | URI                                                                                                                |
 | -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -3381,7 +3381,7 @@
 
 [Link](https://scootersoftware.com/)
 
-**Last update**: Tuesday, 7 March 2023 12:25:48 am Australia/Melbourne
+**Last update**: Tuesday, 07 March 2023 00:25:48 Etc/UTC
 
 | Version     | Language | URI                                                      |
 | ----------- | -------- | -------------------------------------------------------- |
@@ -3391,7 +3391,7 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd)
 
-**Last update**: Tuesday, 7 March 2023 12:25:48 am Australia/Melbourne
+**Last update**: Tuesday, 07 March 2023 00:25:48 Etc/UTC
 
 | Version         | Architecture | Date                          | Size | Filename                                         | URI                               |
 | --------------- | ------------ | ----------------------------- | ---- | ------------------------------------------------ | --------------------------------- |
@@ -3401,7 +3401,7 @@
 
 [Link](https://www.innosetup.com)
 
-**Last update**: Wednesday, 15 February 2023 4:07:50 pm Australia/Melbourne
+**Last update**: Wednesday, 15 February 2023 16:07:50 Etc/UTC
 
 | Version | URI                                                   |
 | ------- | ----------------------------------------------------- |
@@ -3411,7 +3411,7 @@
 
 [Link](https://www.rstudio.com/)
 
-**Last update**: Sunday, 12 February 2023 4:07:36 pm Australia/Melbourne
+**Last update**: Sunday, 12 February 2023 16:07:36 Etc/UTC
 
 | Version            | Sha256                                                           | Size      | Branch            | Channel | ProductName         | InstallerName                | Type | URI                                                                                           |
 | ------------------ | ---------------------------------------------------------------- | --------- | ----------------- | ------- | ------------------- | ---------------------------- | ---- | --------------------------------------------------------------------------------------------- |
@@ -3436,7 +3436,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: Sunday, 22 January 2023 12:22:44 am Australia/Melbourne
+**Last update**: Sunday, 22 January 2023 00:22:44 Etc/UTC
 
 | Version        | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                    |
 | -------------- | ---- | ------------ | ---------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3449,7 +3449,7 @@
 
 [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
 
-**Last update**: Saturday, 31 December 2022 12:19:21 am Australia/Melbourne
+**Last update**: Saturday, 31 December 2022 00:19:21 Etc/UTC
 
 | Version    | Type | Filename                                         | URI                                                                                                             |
 | ---------- | ---- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -3459,7 +3459,7 @@
 
 [Link](https://www.jam-software.com/treesize_free/)
 
-**Last update**: Friday, 23 December 2022 4:08:33 pm Australia/Melbourne
+**Last update**: Friday, 23 December 2022 16:08:33 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -3469,7 +3469,7 @@
 
 [Link](https://www.ghisler.com/)
 
-**Last update**: Sunday, 18 December 2022 8:09:36 am Australia/Melbourne
+**Last update**: Sunday, 18 December 2022 08:09:36 Etc/UTC
 
 | Version | Architecture | URI                                           |
 | ------- | ------------ | --------------------------------------------- |
@@ -3480,7 +3480,7 @@
 
 [Link](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/)
 
-**Last update**: Saturday, 29 October 2022 8:08:23 am Australia/Melbourne
+**Last update**: Saturday, 29 October 2022 08:08:23 Etc/UTC
 
 | Version  | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                              |
 | -------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------ |
@@ -3531,7 +3531,7 @@
 
 [Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
-**Last update**: Saturday, 29 October 2022 8:08:23 am Australia/Melbourne
+**Last update**: Saturday, 29 October 2022 08:08:23 Etc/UTC
 
 | Version | Architecture | Type | URI                                                                             |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------- |
@@ -3543,7 +3543,7 @@
 
 [Link](https://www.mozilla.org/en-US/firefox/new/)
 
-**Last update**: Sunday, 12 June 2022 2:23:56 pm Australia/Melbourne
+**Last update**: Sunday, 12 June 2022 14:23:56 Etc/UTC
 
 | Version  | Architecture | Channel                | Language | Type | Filename                       | URI                                                                                                                               |
 | -------- | ------------ | ---------------------- | -------- | ---- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -5484,7 +5484,7 @@
 
 [Link](https://www.egnyte.com/solutions/sharing-collaboration)
 
-**Last update**: Friday, 10 June 2022 12:00:48 am Australia/Melbourne
+**Last update**: Friday, 10 June 2022 00:00:48 Etc/UTC
 
 | Version   | SHA1                                     | URI                                                                                       |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -5494,7 +5494,7 @@
 
 [Link](https://scratch.mit.edu/)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                    |
 | ------- | ---------------------------------------------------------------------- |
@@ -5504,7 +5504,7 @@
 
 [Link](https://www.thunderbird.net/)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | Architecture | Channel                    | Language | Type | Filename                      | URI                                                                                                                       |
 | ------- | ------------ | -------------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -5777,7 +5777,7 @@
 
 [Link](https://www.mendeley.com/)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                              |
 | ------- | -------------------------------------------------------------------------------- |
@@ -5787,7 +5787,7 @@
 
 [Link](https://www.cendio.com/)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
@@ -5797,7 +5797,7 @@
 
 [Link](https://adoptium.net/)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version      | Type | Architecture | Checksum                                                         | Size      | URI                                                                                                                                |
 | ------------ | ---- | ------------ | ---------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -5808,7 +5808,7 @@
 
 [Link](https://www.telerik.com/fiddler/fiddler-classic)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version     | URI                                                               |
 | ----------- | ----------------------------------------------------------------- |
@@ -5818,7 +5818,7 @@
 
 [Link](https://www.soapui.org/)
 
-**Last update**: Thursday, 9 June 2022 10:14:11 pm Australia/Melbourne
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
 
 | Version | URI                                                       |
 | ------- | --------------------------------------------------------- |
