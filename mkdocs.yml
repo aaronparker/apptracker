@@ -32,8 +32,9 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.tabs
-    - navigation.tracking
     - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.indexes
     - toc.integrate
   palette:
     - scheme: default
