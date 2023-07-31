@@ -1,7 +1,7 @@
 {
-  "Version": "100.0.4815.30",
+  "Version": "101.0.4843.29",
   "Channel": "Stable",
   "Architecture": "x64",
   "Type": "exe",
-  "URI": "https://get.geo.opera.com/pub/opera_crypto/100.0.4815.30/win/Opera_Crypto_100.0.4815.30_Setup_x64.exe"
+  "URI": "https://get.geo.opera.com/pub/opera_crypto/101.0.4843.29/win/Opera_Crypto_101.0.4843.29_Setup_x64.exe"
 }
