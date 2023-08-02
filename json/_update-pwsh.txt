@@ -1,0 +1,17 @@
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/KDiff3.json
+json/Microsoft365Apps.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/MicrosoftPowerToys.json
+json/MicrosoftWvdRemoteDesktop.json
+json/PaintDotNetOfflineInstaller.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/SignalDesktop.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/gretl.json

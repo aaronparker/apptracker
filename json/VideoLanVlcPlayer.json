@@ -4,41 +4,41 @@
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "EXE",
-    "URI": "https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe"
+    "URI": "https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "EXE",
-    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe"
+    "URI": "https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "MSI",
-    "URI": "https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi"
+    "URI": "https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "MSI",
-    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi"
+    "URI": "https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "ZIP",
-    "URI": "https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip"
+    "URI": "https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip"
   },
   {
     "Version": "3.0.18",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "ZIP",
-    "URI": "http://mirror.lstn.net/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip"
+    "URI": "https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip"
   }
 ]
