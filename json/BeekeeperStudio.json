@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.9.18",
+    "Version": "3.9.20",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "07/14/2023",
-    "Size": 70474272,
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.18/Beekeeper-Studio-3.9.18-portable.exe"
+    "Date": "08/03/2023",
+    "Size": 70482696,
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.20/Beekeeper-Studio-3.9.20-portable.exe"
   },
   {
-    "Version": "3.9.18",
+    "Version": "3.9.20",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "07/14/2023",
-    "Size": 70637440,
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.18/Beekeeper-Studio-Setup-3.9.18.exe"
+    "Date": "08/03/2023",
+    "Size": 70645856,
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.20/Beekeeper-Studio-Setup-3.9.20.exe"
   }
 ]
