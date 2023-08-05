@@ -1,9 +1,0 @@
-json/7zip.json
-json/AirtameApp.json
-json/Gimp.json
-json/KDiff3.json
-json/ProjectLibre.json
-json/SAGAGIS.json
-json/VideoLanVlcPlayer.json
-json/WinSCP.json
-json/gretl.json
