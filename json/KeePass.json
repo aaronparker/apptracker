@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "4375600",
     "Md5": "f883d719a05fa120c702d3fd395e7f18",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe"
   },
   {
     "Version": "2.54",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "3757568",
     "Md5": "45144779d7e7fe97b693853bdb4bac0b",
-    "URI": "https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi"
+    "URI": "https://gigenet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi"
   }
 ]
