@@ -1,0 +1,13 @@
+json/1Password.json
+json/Gimp.json
+json/GoogleDrive.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftVisualStudioCode.json
+json/PaintDotNetOfflineInstaller.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
