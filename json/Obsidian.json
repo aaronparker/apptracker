@@ -24,6 +24,16 @@
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
+    "InstallerType": "User",
+    "Date": "07/31/2023",
+    "Size": 75908144,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.7/Obsidian.1.3.7-allusers.exe"
+  },
+  {
+    "Version": "1.3.7",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
     "InstallerType": "Default",
     "Date": "07/31/2023",
     "Size": 75837952,
