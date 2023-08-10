@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.11.2872.0",
-    "Size": 29589504,
-    "Hash": "cdd94820f9a41f8f7a9c60ed12439d48a585df0a",
+    "Version": "1.11.2882.0",
+    "Size": 31879168,
+    "Hash": "0d20f8d4a4c0de10e0ab9ab151eddf6aef5738ab",
     "Language": "en_US",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.11.2872.0/ei_connector_nt64.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.11.2882.0/ei_connector_nt64.msi"
   },
   {
-    "Version": "1.11.2872.0",
-    "Size": 27283456,
-    "Hash": "e5570482fae73ba1f13f05d195cd4e113ccf2f3f",
+    "Version": "1.11.2882.0",
+    "Size": 29556736,
+    "Hash": "9bd3079dd9e82b45a4e598c225cf83c4fb682639",
     "Language": "en_US",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.11.2872.0/ei_connector_nt32.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.11.2882.0/ei_connector_nt32.msi"
   }
 ]
