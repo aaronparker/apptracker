@@ -48,51 +48,51 @@
     "URI": "https://az764295.vo.msecnd.net/insider/d62534a60f7eb4280bcbee66bbd84a2e15f13765/VSCodeUserSetup-x64-1.82.0-insider.exe"
   },
   {
-    "Version": "1.81.0",
+    "Version": "1.81.1",
     "Platform": "win32",
     "Channel": "Stable",
     "Architecture": "x86",
-    "Sha256": "2f71cf85f655ae618ff16f6bfdc6034902677658eff56925f3807dd6a13d7ab4",
-    "URI": "https://az764295.vo.msecnd.net/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/VSCodeSetup-ia32-1.81.0.exe"
+    "Sha256": "36b5bd557c39baaa8121945477ec9566174c9a3e6dbc7716ba1f8ac6e98dbfc1",
+    "URI": "https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeSetup-ia32-1.81.1.exe"
   },
   {
-    "Version": "1.81.0",
+    "Version": "1.81.1",
     "Platform": "win32-arm64",
     "Channel": "Stable",
     "Architecture": "ARM64",
-    "Sha256": "197acb99853d5b7dcf0066bac8a8dd568432cb004a7ef0e41d776f61e081f3f6",
-    "URI": "https://az764295.vo.msecnd.net/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/VSCodeSetup-arm64-1.81.0.exe"
+    "Sha256": "310485b6e932f87f64a4346e93ed1fd38f142372d71bf0cfc624099d6734c730",
+    "URI": "https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeSetup-arm64-1.81.1.exe"
   },
   {
-    "Version": "1.81.0",
+    "Version": "1.81.1",
     "Platform": "win32-arm64-user",
     "Channel": "Stable",
     "Architecture": "ARM64",
-    "Sha256": "64a5758bf84535caa7a86cbd01df7a78a622954e9028a1b87b287b995d23941e",
-    "URI": "https://az764295.vo.msecnd.net/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/VSCodeUserSetup-arm64-1.81.0.exe"
+    "Sha256": "4caf5895d966d0047da48a11beb5b312c177b51e46c27a9e1d97ca3931a2b266",
+    "URI": "https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-arm64-1.81.1.exe"
   },
   {
-    "Version": "1.81.0",
+    "Version": "1.81.1",
     "Platform": "win32-user",
     "Channel": "Stable",
     "Architecture": "x86",
-    "Sha256": "d1d8a8eaf8527a47b68c93cfb4cce216ecc3f367d7bb8480ca8385b906f5073c",
-    "URI": "https://az764295.vo.msecnd.net/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/VSCodeUserSetup-ia32-1.81.0.exe"
+    "Sha256": "1990e8c6057366cf1a61211875adfb6abf149ce68ea3655b2f11d5ae0dad4b47",
+    "URI": "https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-ia32-1.81.1.exe"
   },
   {
-    "Version": "1.81.0",
+    "Version": "1.81.1",
     "Platform": "win32-x64",
     "Channel": "Stable",
     "Architecture": "x64",
-    "Sha256": "c75cc46c220ec3e055728416747b8c9a161e3cb5abfd5419f53d1c68fccb1c60",
-    "URI": "https://az764295.vo.msecnd.net/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/VSCodeSetup-x64-1.81.0.exe"
+    "Sha256": "99408c51d4d10232cb240b24a486814c9b50e96fdac6be600f1fe777cd49f4ca",
+    "URI": "https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeSetup-x64-1.81.1.exe"
   },
   {
-    "Version": "1.81.0",
+    "Version": "1.81.1",
     "Platform": "win32-x64-user",
     "Channel": "Stable",
     "Architecture": "x64",
-    "Sha256": "035aad0faa288a99ad2a7f4467f7b0decd06efe02b515d5aaafc237697796d20",
-    "URI": "https://az764295.vo.msecnd.net/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/VSCodeUserSetup-x64-1.81.0.exe"
+    "Sha256": "7a0556eba3cba292595c51a02a2bc742d7db0d2b4393727612bc1cf5cf399a88",
+    "URI": "https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-x64-1.81.1.exe"
   }
 ]
