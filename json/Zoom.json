@@ -1,73 +1,73 @@
 [
   {
-    "Version": "5.15.6.19959",
+    "Version": "5.15.7.20303",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/5.15.6.19959/arm64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.20303/arm64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.15.6.19959",
+    "Version": "5.15.7.20303",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.15.6.19959/x64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.20303/x64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.15.6.19959",
+    "Version": "5.15.7.20303",
     "Platform": "Meetings",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.15.6.19959/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.20303/ZoomInstallerFull.exe"
   },
   {
-    "Version": "5.15.6.19959",
+    "Version": "5.15.7.20303",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/5.15.6.19959/arm64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.20303/arm64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.15.6.19959",
+    "Version": "5.15.7.20303",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.15.6.19959/x64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.20303/x64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.15.6.19959",
+    "Version": "5.15.7.20303",
     "Platform": "Meetings",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.15.6.19959/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.20303/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.15.5.3049",
+    "Version": "5.15.7.3094",
     "Platform": "Rooms",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.15.5.3049/x64/zoomrooms-5.15.5.3049-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.3094/x64/zoomrooms-5.15.7.3094-x64.exe"
   },
   {
-    "Version": "5.15.5.3049",
+    "Version": "5.15.7.3094",
     "Platform": "Rooms",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.15.5.3049/zoomrooms-5.15.5.3049-x86.exe"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.3094/zoomrooms-5.15.7.3094-x86.exe"
   },
   {
-    "Version": "5.15.5.3049",
+    "Version": "5.15.7.3094",
     "Platform": "Rooms",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.15.5.3049/x64/zoomrooms-5.15.5.3049-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.3094/x64/zoomrooms-5.15.7.3094-x64.msi"
   },
   {
-    "Version": "5.15.5.3049",
+    "Version": "5.15.7.3094",
     "Platform": "Rooms",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.15.5.3049/zoomrooms-5.15.5.3049-x86.msi"
+    "URI": "https://cdn.zoom.us/prod/5.15.7.3094/zoomrooms-5.15.7.3094-x86.msi"
   },
   {
     "Version": "5.15.5.926",
