@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "38349952",
     "Md5": "fa81350c368bb041f3dc13722cc354db",
-    "URI": "https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe"
+    "URI": "https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe"
   },
   {
     "Version": "2023b",
@@ -13,6 +13,6 @@
     "Type": "exe",
     "Size": "34376112",
     "Md5": "69b4726e04845858cb590442a0758251",
-    "URI": "https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe"
+    "URI": "https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe"
   }
 ]
