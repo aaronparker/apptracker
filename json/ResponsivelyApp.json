@@ -1,10 +1,10 @@
 {
-  "Version": "1.6.0",
+  "Version": "1.7.0",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "InstallerType": "Default",
   "Date": "01/25/2023",
-  "Size": 80175928,
-  "URI": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.6.0/ResponsivelyApp-Setup-1.6.0.exe"
+  "Size": 80169400,
+  "URI": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.7.0/ResponsivelyApp-Setup-1.7.0.exe"
 }
