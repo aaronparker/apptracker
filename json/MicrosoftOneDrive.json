@@ -9,8 +9,24 @@
   },
   {
     "Version": "23.169.0813.0001",
+    "Architecture": "AMD64",
+    "Ring": "InternalSlow",
+    "Sha256": "Hjug2VH6YZYgTExj4jh/z0LHE5boVmVNB9p712u8nqw=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "23.169.0813.0001",
     "Architecture": "ARM64",
     "Ring": "InternalFast",
+    "Sha256": "9t2UhilYUC+fygaX7jxtlCAyde/gy824AmWaUOON7ak=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/arm64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "23.169.0813.0001",
+    "Architecture": "ARM64",
+    "Ring": "InternalSlow",
     "Sha256": "9t2UhilYUC+fygaX7jxtlCAyde/gy824AmWaUOON7ak=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/arm64/OneDriveSetup.exe"
@@ -24,28 +40,12 @@
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/OneDriveSetup.exe"
   },
   {
-    "Version": "23.166.0808.0003",
-    "Architecture": "AMD64",
-    "Ring": "InternalSlow",
-    "Sha256": "67Od597TzC3snEcMwQmQWcRKyBwonR1M2olbB0Oi5ns=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.166.0808.0003/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.166.0808.0003",
-    "Architecture": "ARM64",
-    "Ring": "InternalSlow",
-    "Sha256": "45NBogogKXLHO8wo+aq9XDLJU3ZKmfJYx643FchAgjw=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.166.0808.0003/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.166.0808.0003",
+    "Version": "23.169.0813.0001",
     "Architecture": "x86",
     "Ring": "InternalSlow",
-    "Sha256": "UV3ofOv8C+R5vsd1w4BbCCBhU/ftjDJGlXN3r2P3LAo=",
+    "Sha256": "PZ6lnMk82slDvVMporesonnuPZO49Jcc+ojVTpeCukU=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.166.0808.0003/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/OneDriveSetup.exe"
   },
   {
     "Version": "23.160.0801.0002",
