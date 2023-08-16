@@ -1,0 +1,15 @@
+json/1Password.json
+json/7zip.json
+json/Gimp.json
+json/KeePass.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/PiriformCCleanerFree.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/TeamViewer.json
+json/Tower.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
