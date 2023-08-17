@@ -1,0 +1,13 @@
+json/7zip.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/XnSoftXnViewMP.json
+json/Zoom.json
+json/gretl.json
