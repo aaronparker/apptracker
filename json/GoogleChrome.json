@@ -1,5 +1,21 @@
 [
   {
+    "Version": "117.0.5938.11",
+    "Architecture": "x64",
+    "Channel": "beta",
+    "Date": "08/16/2023",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
+  },
+  {
+    "Version": "117.0.5938.11",
+    "Architecture": "x86",
+    "Channel": "beta",
+    "Date": "08/16/2023",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
+  },
+  {
     "Version": "117.0.5938.0",
     "Architecture": "x64",
     "Channel": "dev",
@@ -30,21 +46,5 @@
     "Date": "08/15/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "116.0.5845.96",
-    "Architecture": "x64",
-    "Channel": "beta",
-    "Date": "08/14/2023",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
-  },
-  {
-    "Version": "116.0.5845.96",
-    "Architecture": "x86",
-    "Channel": "beta",
-    "Date": "08/14/2023",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   }
 ]
