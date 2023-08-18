@@ -1,10 +1,10 @@
 {
-  "Version": "1.5.2201",
+  "Version": "1.6.2291",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "msixbundle",
   "InstallerType": "Default",
-  "Date": "08/09/2023",
-  "Size": 16071859,
-  "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.5.2201/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
+  "Date": "08/17/2023",
+  "Size": 244531695,
+  "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.6.2291-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
 }
