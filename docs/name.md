@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                             |
-| ------- | --------------------------------------------------------------- |
-| 8.10.12 | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.12.exe |
+| Version | URI                                                                 |
+| ------- | ------------------------------------------------------------------- |
+| 8.10.12 | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.12.exe |
 
 ## 1Password7
 
@@ -20,15 +20,15 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
-| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -298,8 +298,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
 | 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
+| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
 | 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
 ## AkeoRufus
@@ -1125,7 +1125,7 @@
 
 | Version | Date       | Sha256                                                           | URI                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
 
 ## GitExtensions
 
@@ -1330,8 +1330,8 @@
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.5.5   | zip  | x64          | https://releases.hashicorp.com/terraform/1.5.5/terraform_1.5.5_windows_amd64.zip |
-| 1.5.5   | zip  | x86          | https://releases.hashicorp.com/terraform/1.5.5/terraform_1.5.5_windows_386.zip   |
+| 1.5.6   | zip  | x64          | https://releases.hashicorp.com/terraform/1.5.6/terraform_1.5.6_windows_amd64.zip |
+| 1.5.6   | zip  | x86          | https://releases.hashicorp.com/terraform/1.5.6/terraform_1.5.6_windows_386.zip   |
 
 ## HashicorpVault
 
@@ -1404,11 +1404,11 @@
 
 [Link](https://www.jetbrains.com/)
 
-| Version  | Build        | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
-| -------- | ------------ | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
-| 2023.2   | 232.8660.185 | IntelliJ IDEA Community | 07/26/2023 | 692289936 | https://download.jetbrains.com/idea/ideaIC-2023.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIC-2023.2.exe   |
-| 2023.2   | 232.8660.185 | IntelliJ IDEA Ultimate  | 07/26/2023 | 804167192 | https://download.jetbrains.com/idea/ideaIU-2023.2.exe.sha256   | https://download.jetbrains.com/idea/ideaIU-2023.2.exe   |
-| 2022.2.2 | 222.4345.35  | IntelliJ IDEA Edu       | 10/27/2022 | 693805272 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
+| Version  | Build       | Edition                 | Date       | Size      | Sha256                                                         | URI                                                     |
+| -------- | ----------- | ----------------------- | ---------- | --------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| 2023.2.1 | 232.9559.62 | IntelliJ IDEA Community | 08/23/2023 | 695861528 | https://download.jetbrains.com/idea/ideaIC-2023.2.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIC-2023.2.1.exe |
+| 2023.2.1 | 232.9559.62 | IntelliJ IDEA Ultimate  | 08/23/2023 | 810138528 | https://download.jetbrains.com/idea/ideaIU-2023.2.1.exe.sha256 | https://download.jetbrains.com/idea/ideaIU-2023.2.1.exe |
+| 2022.2.2 | 222.4345.35 | IntelliJ IDEA Edu       | 10/27/2022 | 693805272 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
 
 ## JetBrainsPyCharm
 
@@ -1450,19 +1450,19 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://versaweb.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://versaweb.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                             |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1738,15 +1738,18 @@
 | 23.175.0821.0001 | AMD64        | InternalFast | fu4C4ff80jC8YABX10TLZJeFTrNkuSQ6EvAv3hEp/uI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.175.0821.0001/amd64/OneDriveSetup.exe |
 | 23.175.0821.0001 | ARM64        | InternalFast | ubN6/Ct92z/Hg+7hG1Vxv1yWS0EbrWK34H/shzjQ+YE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.175.0821.0001/arm64/OneDriveSetup.exe |
 | 23.175.0821.0001 | x86          | InternalFast | kwRJwwF+SdrUdV9SZAJ/EDdIQV+j/aw9L1GsmgRqQBI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.175.0821.0001/OneDriveSetup.exe       |
+| 23.174.0820.0001 | AMD64        | Insider      | lhK0tu92FgpAdeqlQXDBAj2jmHC0m0DrtsYb2fTCnAE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0001/amd64/OneDriveSetup.exe |
 | 23.174.0820.0001 | AMD64        | InternalSlow | lhK0tu92FgpAdeqlQXDBAj2jmHC0m0DrtsYb2fTCnAE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0001/amd64/OneDriveSetup.exe |
+| 23.174.0820.0001 | ARM64        | Insider      | zBdqRlYda/J5nbytRBcCEwCgutiNs/12LeVa31Svd/8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0001/arm64/OneDriveSetup.exe |
 | 23.174.0820.0001 | ARM64        | InternalSlow | zBdqRlYda/J5nbytRBcCEwCgutiNs/12LeVa31Svd/8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0001/arm64/OneDriveSetup.exe |
+| 23.174.0820.0001 | x86          | Insider      | McxLcm5Uc/yXIcW3TnCc+Ch97tSS5lItdPTHiRKV/4I= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0001/OneDriveSetup.exe       |
 | 23.174.0820.0001 | x86          | InternalSlow | McxLcm5Uc/yXIcW3TnCc+Ch97tSS5lItdPTHiRKV/4I= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0001/OneDriveSetup.exe       |
 | 23.171.0815.0001 | AMD64        | Insider      | Bf8etkyIwiSp7ID2NSEk7AEdDTBSZTuryZ8ajgHc4YM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.171.0815.0001/amd64/OneDriveSetup.exe |
+| 23.171.0815.0001 | AMD64        | Production   | Bf8etkyIwiSp7ID2NSEk7AEdDTBSZTuryZ8ajgHc4YM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.171.0815.0001/amd64/OneDriveSetup.exe |
 | 23.171.0815.0001 | ARM64        | Insider      | Fi0x5xBCPPkXv7ObQE9YP5CcIKIdYw9SupgvRFp2kQA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.171.0815.0001/arm64/OneDriveSetup.exe |
+| 23.171.0815.0001 | ARM64        | Production   | Fi0x5xBCPPkXv7ObQE9YP5CcIKIdYw9SupgvRFp2kQA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.171.0815.0001/arm64/OneDriveSetup.exe |
 | 23.171.0815.0001 | x86          | Insider      | E9Ez6m4BCCAW270UFXsJwuvxxMWgWjgWdphud/MbuyM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.171.0815.0001/OneDriveSetup.exe       |
-| 23.169.0813.0001 | AMD64        | Production   | Hjug2VH6YZYgTExj4jh/z0LHE5boVmVNB9p712u8nqw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/amd64/OneDriveSetup.exe |
-| 23.169.0813.0001 | ARM64        | Production   | 9t2UhilYUC+fygaX7jxtlCAyde/gy824AmWaUOON7ak= | exe  | https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/arm64/OneDriveSetup.exe |
-| 23.169.0813.0001 | x86          | Production   | PZ6lnMk82slDvVMporesonnuPZO49Jcc+ojVTpeCukU= | exe  | https://oneclient.sfx.ms/Win/Installers/23.169.0813.0001/OneDriveSetup.exe       |
+| 23.171.0815.0001 | x86          | Production   | E9Ez6m4BCCAW270UFXsJwuvxxMWgWjgWdphud/MbuyM= | exe  | https://oneclient.sfx.ms/Win/Installers/23.171.0815.0001/OneDriveSetup.exe       |
 | 23.158.0730.0001 | AMD64        | Production   | 8JQzbWwtDNeDA2lS5E7KUy7/VLnQUcBq8sqHC5Zp9dg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.158.0730.0001/amd64/OneDriveSetup.exe |
 | 23.158.0730.0001 | ARM64        | Production   | olGfa6x0lK32Ty9ZarJd4KVkNBvUk5I9Wl5HmXajwhg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.158.0730.0001/arm64/OneDriveSetup.exe |
 | 23.158.0730.0001 | x86          | Production   | 0XY97N1MAA7Enl0YY2ZwK0UfxXIF4x58lGmyR0ohGz0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.158.0730.0001/OneDriveSetup.exe       |
@@ -4460,10 +4463,10 @@
 | ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
 | 103.0.4899.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/103.0.4899.0/win/Opera_Developer_103.0.4899.0_Setup_x64.exe |
 | 103.0.4899.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/103.0.4899.0/win/Opera_Developer_103.0.4899.0_Setup.exe     |
+| 102.0.4880.16 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.16/win/Opera_102.0.4880.16_Setup_x64.exe                   |
+| 102.0.4880.16 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.16/win/Opera_102.0.4880.16_Setup.exe                       |
 | 102.0.4880.10 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/102.0.4880.10/win/Opera_beta_102.0.4880.10_Setup_x64.exe         |
 | 102.0.4880.10 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/102.0.4880.10/win/Opera_beta_102.0.4880.10_Setup.exe             |
-| 101.0.4843.58 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/101.0.4843.58/win/Opera_101.0.4843.58_Setup_x64.exe                   |
-| 101.0.4843.58 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/101.0.4843.58/win/Opera_101.0.4843.58_Setup.exe                       |
 
 ## OperaCryptoBrowser
 
@@ -4580,33 +4583,33 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------- |
-| 6.3.14  | Windows  | x64          | zip  | Default       | 08/04/2023 | 13992932 | https://github.com/praat/praat/releases/download/v6.3.14/praat6314_win64.zip |
-| 6.3.14  | Windows  | x86          | zip  | Default       | 08/04/2023 | 13827758 | https://github.com/praat/praat/releases/download/v6.3.14/praat6314_win32.zip |
+| 6.3.15  | Windows  | x64          | zip  | Default       | 08/23/2023 | 14004378 | https://github.com/praat/praat/releases/download/v6.3.15/praat6315_win64.zip |
+| 6.3.15  | Windows  | x86          | zip  | Default       | 08/23/2023 | 13834641 | https://github.com/praat/praat/releases/download/v6.3.15/praat6315_win32.zip |
 
 ## ProgressChefInfraClient
 
 [Link](https://www.chef.io/products/chef-infra)
 
-| Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                               |
-| ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 18.2.46 | x64          | unstable | 10       | 2b5174f3090fdefee5cf9e75bf53ce1f612cc7db7ca614694a955a7aa7c050ba | https://packages.chef.io/files/unstable/chef/18.2.46/windows/10/chef-client-18.2.46-1-x64.msi     |
-| 18.2.46 | x64          | unstable | 11       | 2b5174f3090fdefee5cf9e75bf53ce1f612cc7db7ca614694a955a7aa7c050ba | https://packages.chef.io/files/unstable/chef/18.2.46/windows/11/chef-client-18.2.46-1-x64.msi     |
-| 18.2.46 | x64          | unstable | 2012r2   | 2b5174f3090fdefee5cf9e75bf53ce1f612cc7db7ca614694a955a7aa7c050ba | https://packages.chef.io/files/unstable/chef/18.2.46/windows/2012r2/chef-client-18.2.46-1-x64.msi |
-| 18.2.46 | x64          | unstable | 2016     | 2b5174f3090fdefee5cf9e75bf53ce1f612cc7db7ca614694a955a7aa7c050ba | https://packages.chef.io/files/unstable/chef/18.2.46/windows/2016/chef-client-18.2.46-1-x64.msi   |
-| 18.2.46 | x64          | unstable | 2019     | 2b5174f3090fdefee5cf9e75bf53ce1f612cc7db7ca614694a955a7aa7c050ba | https://packages.chef.io/files/unstable/chef/18.2.46/windows/2019/chef-client-18.2.46-1-x64.msi   |
-| 18.2.46 | x64          | unstable | 2022     | 2b5174f3090fdefee5cf9e75bf53ce1f612cc7db7ca614694a955a7aa7c050ba | https://packages.chef.io/files/unstable/chef/18.2.46/windows/2022/chef-client-18.2.46-1-x64.msi   |
-| 18.2.44 | x64          | current  | 10       | b211689d6462c9f37ed48367370a72377ee6681f2a1fb9d5e2bdb8222ff14ab1 | https://packages.chef.io/files/current/chef/18.2.44/windows/10/chef-client-18.2.44-1-x64.msi      |
-| 18.2.44 | x64          | current  | 11       | b211689d6462c9f37ed48367370a72377ee6681f2a1fb9d5e2bdb8222ff14ab1 | https://packages.chef.io/files/current/chef/18.2.44/windows/11/chef-client-18.2.44-1-x64.msi      |
-| 18.2.44 | x64          | current  | 2012r2   | b211689d6462c9f37ed48367370a72377ee6681f2a1fb9d5e2bdb8222ff14ab1 | https://packages.chef.io/files/current/chef/18.2.44/windows/2012r2/chef-client-18.2.44-1-x64.msi  |
-| 18.2.44 | x64          | current  | 2016     | b211689d6462c9f37ed48367370a72377ee6681f2a1fb9d5e2bdb8222ff14ab1 | https://packages.chef.io/files/current/chef/18.2.44/windows/2016/chef-client-18.2.44-1-x64.msi    |
-| 18.2.44 | x64          | current  | 2019     | b211689d6462c9f37ed48367370a72377ee6681f2a1fb9d5e2bdb8222ff14ab1 | https://packages.chef.io/files/current/chef/18.2.44/windows/2019/chef-client-18.2.44-1-x64.msi    |
-| 18.2.44 | x64          | current  | 2022     | b211689d6462c9f37ed48367370a72377ee6681f2a1fb9d5e2bdb8222ff14ab1 | https://packages.chef.io/files/current/chef/18.2.44/windows/2022/chef-client-18.2.44-1-x64.msi    |
-| 18.2.7  | x64          | stable   | 10       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/10/chef-client-18.2.7-1-x64.msi         |
-| 18.2.7  | x64          | stable   | 11       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/11/chef-client-18.2.7-1-x64.msi         |
-| 18.2.7  | x64          | stable   | 2012r2   | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2012r2/chef-client-18.2.7-1-x64.msi     |
-| 18.2.7  | x64          | stable   | 2016     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2016/chef-client-18.2.7-1-x64.msi       |
-| 18.2.7  | x64          | stable   | 2019     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2019/chef-client-18.2.7-1-x64.msi       |
-| 18.2.7  | x64          | stable   | 2022     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2022/chef-client-18.2.7-1-x64.msi       |
+| Version  | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                 |
+| -------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 18.2.46  | x64          | current  | 10       | 3e15ffac55fec61b2f5d02ef0f0726ab20dd78527d65e451e45b57ae11ca103a | https://packages.chef.io/files/current/chef/18.2.46/windows/10/chef-client-18.2.46-1-x64.msi        |
+| 18.2.46  | x64          | current  | 11       | 3e15ffac55fec61b2f5d02ef0f0726ab20dd78527d65e451e45b57ae11ca103a | https://packages.chef.io/files/current/chef/18.2.46/windows/11/chef-client-18.2.46-1-x64.msi        |
+| 18.2.46  | x64          | current  | 2012r2   | 3e15ffac55fec61b2f5d02ef0f0726ab20dd78527d65e451e45b57ae11ca103a | https://packages.chef.io/files/current/chef/18.2.46/windows/2012r2/chef-client-18.2.46-1-x64.msi    |
+| 18.2.46  | x64          | current  | 2016     | 3e15ffac55fec61b2f5d02ef0f0726ab20dd78527d65e451e45b57ae11ca103a | https://packages.chef.io/files/current/chef/18.2.46/windows/2016/chef-client-18.2.46-1-x64.msi      |
+| 18.2.46  | x64          | current  | 2019     | 3e15ffac55fec61b2f5d02ef0f0726ab20dd78527d65e451e45b57ae11ca103a | https://packages.chef.io/files/current/chef/18.2.46/windows/2019/chef-client-18.2.46-1-x64.msi      |
+| 18.2.46  | x64          | current  | 2022     | 3e15ffac55fec61b2f5d02ef0f0726ab20dd78527d65e451e45b57ae11ca103a | https://packages.chef.io/files/current/chef/18.2.46/windows/2022/chef-client-18.2.46-1-x64.msi      |
+| 18.2.7   | x64          | stable   | 10       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/10/chef-client-18.2.7-1-x64.msi           |
+| 18.2.7   | x64          | stable   | 11       | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/11/chef-client-18.2.7-1-x64.msi           |
+| 18.2.7   | x64          | stable   | 2012r2   | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2012r2/chef-client-18.2.7-1-x64.msi       |
+| 18.2.7   | x64          | stable   | 2016     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2016/chef-client-18.2.7-1-x64.msi         |
+| 18.2.7   | x64          | stable   | 2019     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2019/chef-client-18.2.7-1-x64.msi         |
+| 18.2.7   | x64          | stable   | 2022     | 6aadc330f31093871c9a5d8ef09c3d64bbb867b9e1c8eb6b7f3601e5f888b323 | https://packages.chef.io/files/stable/chef/18.2.7/windows/2022/chef-client-18.2.7-1-x64.msi         |
+| 17.10.78 | x64          | unstable | 10       | d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994 | https://packages.chef.io/files/unstable/chef/17.10.78/windows/10/chef-client-17.10.78-1-x64.msi     |
+| 17.10.78 | x64          | unstable | 11       | d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994 | https://packages.chef.io/files/unstable/chef/17.10.78/windows/11/chef-client-17.10.78-1-x64.msi     |
+| 17.10.78 | x64          | unstable | 2012r2   | d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994 | https://packages.chef.io/files/unstable/chef/17.10.78/windows/2012r2/chef-client-17.10.78-1-x64.msi |
+| 17.10.78 | x64          | unstable | 2016     | d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994 | https://packages.chef.io/files/unstable/chef/17.10.78/windows/2016/chef-client-17.10.78-1-x64.msi   |
+| 17.10.78 | x64          | unstable | 2019     | d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994 | https://packages.chef.io/files/unstable/chef/17.10.78/windows/2019/chef-client-17.10.78-1-x64.msi   |
+| 17.10.78 | x64          | unstable | 2022     | d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994 | https://packages.chef.io/files/unstable/chef/17.10.78/windows/2022/chef-client-17.10.78-1-x64.msi   |
 
 ## ProgressChefInSpec
 
@@ -4650,9 +4653,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://gigenet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cytranet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -4785,9 +4788,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 9.1.1   | x64          | exe  | 60964619 | 971c538045f07452d79c76d730478db9 | https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 9.1.1   | x64          | exe  | 60964619 | 971c538045f07452d79c76d730478db9 | https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5084,14 +5087,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe      |
-| 3.0.18  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi      |
-| 3.0.18  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip      |
+| Version | Platform | Architecture | Type | URI                                                                        |
+| ------- | -------- | ------------ | ---- | -------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe  |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi  |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip  |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5199,10 +5202,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                   |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
 
 ## Wireshark
 
@@ -5266,8 +5269,8 @@
 | 5.15.7.3094   | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.15.7.3094/x64/zoomrooms-5.15.7.3094-x64.msi |
 | 5.15.7.3094   | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.15.7.3094/zoomrooms-5.15.7.3094-x86.msi     |
 | 5.15.5.926    | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi         |
-| 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
+| 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
