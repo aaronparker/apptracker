@@ -96,51 +96,51 @@
     "URI": "https://packages.chef.io/files/stable/chef/18.2.7/windows/2022/chef-client-18.2.7-1-x64.msi"
   },
   {
-    "Version": "17.10.78",
+    "Version": "17.10.79",
     "Architecture": "x64",
     "Channel": "unstable",
     "Platform": "10",
-    "Sha256": "d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994",
-    "URI": "https://packages.chef.io/files/unstable/chef/17.10.78/windows/10/chef-client-17.10.78-1-x64.msi"
+    "Sha256": "8476d92cc3562a2968a8da79a444a52f52031221f44e454ec64b1b566e38ada0",
+    "URI": "https://packages.chef.io/files/unstable/chef/17.10.79/windows/10/chef-client-17.10.79-1-x64.msi"
   },
   {
-    "Version": "17.10.78",
+    "Version": "17.10.79",
     "Architecture": "x64",
     "Channel": "unstable",
     "Platform": "11",
-    "Sha256": "d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994",
-    "URI": "https://packages.chef.io/files/unstable/chef/17.10.78/windows/11/chef-client-17.10.78-1-x64.msi"
+    "Sha256": "8476d92cc3562a2968a8da79a444a52f52031221f44e454ec64b1b566e38ada0",
+    "URI": "https://packages.chef.io/files/unstable/chef/17.10.79/windows/11/chef-client-17.10.79-1-x64.msi"
   },
   {
-    "Version": "17.10.78",
+    "Version": "17.10.79",
     "Architecture": "x64",
     "Channel": "unstable",
     "Platform": "2012r2",
-    "Sha256": "d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994",
-    "URI": "https://packages.chef.io/files/unstable/chef/17.10.78/windows/2012r2/chef-client-17.10.78-1-x64.msi"
+    "Sha256": "8476d92cc3562a2968a8da79a444a52f52031221f44e454ec64b1b566e38ada0",
+    "URI": "https://packages.chef.io/files/unstable/chef/17.10.79/windows/2012r2/chef-client-17.10.79-1-x64.msi"
   },
   {
-    "Version": "17.10.78",
+    "Version": "17.10.79",
     "Architecture": "x64",
     "Channel": "unstable",
     "Platform": "2016",
-    "Sha256": "d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994",
-    "URI": "https://packages.chef.io/files/unstable/chef/17.10.78/windows/2016/chef-client-17.10.78-1-x64.msi"
+    "Sha256": "8476d92cc3562a2968a8da79a444a52f52031221f44e454ec64b1b566e38ada0",
+    "URI": "https://packages.chef.io/files/unstable/chef/17.10.79/windows/2016/chef-client-17.10.79-1-x64.msi"
   },
   {
-    "Version": "17.10.78",
+    "Version": "17.10.79",
     "Architecture": "x64",
     "Channel": "unstable",
     "Platform": "2019",
-    "Sha256": "d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994",
-    "URI": "https://packages.chef.io/files/unstable/chef/17.10.78/windows/2019/chef-client-17.10.78-1-x64.msi"
+    "Sha256": "8476d92cc3562a2968a8da79a444a52f52031221f44e454ec64b1b566e38ada0",
+    "URI": "https://packages.chef.io/files/unstable/chef/17.10.79/windows/2019/chef-client-17.10.79-1-x64.msi"
   },
   {
-    "Version": "17.10.78",
+    "Version": "17.10.79",
     "Architecture": "x64",
     "Channel": "unstable",
     "Platform": "2022",
-    "Sha256": "d06f1f1439348f1b7f222f143830101ce4d5f36401df7136de0534938c734994",
-    "URI": "https://packages.chef.io/files/unstable/chef/17.10.78/windows/2022/chef-client-17.10.78-1-x64.msi"
+    "Sha256": "8476d92cc3562a2968a8da79a444a52f52031221f44e454ec64b1b566e38ada0",
+    "URI": "https://packages.chef.io/files/unstable/chef/17.10.79/windows/2022/chef-client-17.10.79-1-x64.msi"
   }
 ]
