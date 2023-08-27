@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 265 applications and 3441 unique application installers:
+App Version Tracker is using Evergreen to track 275 applications and 3452 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -67,6 +67,7 @@ App Version Tracker is using Evergreen to track 265 applications and 3441 unique
 | dnGrep                                                            | https://dngrep.github.io/                                                                        |
 | Docker Desktop                                                    | https://www.docker.com/products/docker-desktop/                                                  |
 | Double Commander                                                  | https://github.com/doublecmd/doublecmd/                                                          |
+| Druva inSync Client                                               | https://docs.druva.com/005_inSync_Client                                                         |
 | Egnyte Desktop App                                                | https://www.egnyte.com/solutions/sharing-collaboration                                           |
 | ESET Endpoint Antivirus                                           | https://www.eset.com/au/business/solutions/endpoint-protection/                                  |
 | ESET Endpoint Security                                            | https://www.eset.com/au/business/solutions/endpoint-protection/                                  |
@@ -116,8 +117,17 @@ App Version Tracker is using Evergreen to track 265 applications and 3441 unique
 | JAM Software TreeSize Professional                                | https://www.jam-software.com/treesize/                                                           |
 | JASP                                                              | https://jasp-stats.org/                                                                          |
 | JeremyMain GPUProfiler                                            | https://github.com/JeremyMain/GPUProfiler                                                        |
+| JetBrains CLion                                                   | https://www.jetbrains.com/clion                                                                  |
+| JetBrains DataGrip                                                | https://www.jetbrains.com/datagrip                                                               |
+| JetBrains DataSpell                                               | https://www.jetbrains.com/dataspell                                                              |
+| JetBrains GoLand                                                  | https://www.jetbrains.com/dataspell                                                              |
 | JetBrains IntelliJ IDEA                                           | https://www.jetbrains.com/                                                                       |
+| JetBrains PhpStorm                                                | https://www.jetbrains.com/phpstorm                                                               |
 | JetBrains PyCharm                                                 | https://www.jetbrains.com/                                                                       |
+| JetBrains Rider                                                   | https://www.jetbrains.com/                                                                       |
+| JetBrains RubyMine                                                | https://www.jetbrains.com/rubymine                                                               |
+| JetBrains Space                                                   | https://www.jetbrains.com/space                                                                  |
+| JetBrains WebStorm                                                | https://www.jetbrains.com/webstorm                                                               |
 | jq                                                                | https://jqlang.github.io/jq/                                                                     |
 | jrsoftware InnoSetup                                              | https://www.innosetup.com                                                                        |
 | Karakun OpenWebStart                                              | https://openwebstart.com/ows/                                                                    |
