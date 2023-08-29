@@ -22,13 +22,13 @@
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -47,18 +47,18 @@
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.003.20284 | Update | Reader  | DC    | Multi    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcroRdrDCx64Upd2300320284_MUI.msp |
 | 23.003.20284 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcrobatDCx64Upd2300320284.msp     |
-| 23.003.20284 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcroRdrDCx64Upd2300320284.msp     |
-| 23.003.20284 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDCUpd2300320284_MUI.msp     |
 | 23.003.20284 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcrobatDCUpd2300320284.msp        |
-| 23.003.20284 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDCUpd2300320284.msp         |
 | 20.005.30516 | Update | Reader  | 2020  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530516/AcroRdr2020Upd2000530516_MUI.msp |
 | 20.005.30516 | Update | Acrobat | 2020  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530516/Acrobat2020Upd2000530516.msp    |
 | 17.012.30262 | Update | Reader  | 2017  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230262/AcroRdr2017Upd1701230262_MUI.msp |
 | 17.012.30262 | Update | Acrobat | 2017  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2017/1701230262/Acrobat2017Upd1701230262.msp    |
 | 15.006.30527 | Update | Reader  | 2015  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2015/1500630527/AcroRdr2015Upd1500630527_MUI.msp |
 | 15.006.30527 | Update | Acrobat | 2015  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2015/1500630527/Acrobat2015Upd1500630527.msp    |
+|              | Update | Reader  | DC    | Multi    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC//AcroRdrDCx64Upd_MUI.msp                     |
+|              | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC//AcroRdrDCx64Upd.msp                         |
+|              | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC//AcroRdrDCUpd_MUI.msp                         |
+|              | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC//AcroRdrDCUpd.msp                             |
 
 ## AdobeAcrobatDC
 
@@ -298,8 +298,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
 | 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
+| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
 | 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
 ## AkeoRufus
@@ -503,18 +503,18 @@
 
 [Link](https://www.controlup.com/products/controlup/agent/)
 
-| Version   | Framework    | Architecture | URI                                                                                           |
-| --------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
-| 8.8.0.778 | 64bit-.net45 | x64          | https://downloads.controlup.com/agent/8.8.0.778/ControlUpAgent-net45-x64-8.8.0.778-signed.msi |
-| 8.8.0.778 | 32bit-.net45 | x86          | https://downloads.controlup.com/agent/8.8.0.778/ControlUpAgent-net45-x86-8.8.0.778-signed.msi |
+| Version   | Framework    | Architecture | URI                                                                                            |
+| --------- | ------------ | ------------ | ---------------------------------------------------------------------------------------------- |
+| 8.8.0.992 | 64bit-.net45 | x64          | https://downloads.controlup.com/agent/8.8.0.992/ControlUpAgent-net45-x64-8.8.0.992-signed.msi  |
+| 8.8.0.992 | 32bit-.net45 | x86          |  https://downloads.controlup.com/agent/8.8.0.992/ControlUpAgent-net45-x86-8.8.0.992-signed.msi |
 
 ## ControlUpConsole
 
 [Link](https://www.controlup.com/products/controlup/management/)
 
-| Version | URI |
-| ------- | --- |
-|         |     |
+| Version   | URI                                                              |
+| --------- | ---------------------------------------------------------------- |
+| 8.8.0.992 |  https://downloads.controlup.com/console/8.8.0.992/ControlUp.zip |
 
 ## Cyberduck
 
@@ -1541,8 +1541,8 @@
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
 | ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1891,12 +1891,12 @@
 
 | Version      | Ring              | Architecture | Type | URI                                                                                                |
 | ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |
-| 1.6.00.23677 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.23677/Teams_windows_arm64.exe |
-| 1.6.00.23677 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.23677/Teams_windows_x64.exe     |
-| 1.6.00.23677 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.23677/Teams_windows.exe             |
-| 1.6.00.23677 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.23677/Teams_windows_arm64.msi |
-| 1.6.00.23677 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.23677/Teams_windows_x64.msi     |
-| 1.6.00.23677 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.23677/Teams_windows.msi             |
+| 1.6.00.24078 | Preview           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.24078/Teams_windows_arm64.exe |
+| 1.6.00.24078 | Preview           | x64          | exe  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.24078/Teams_windows_x64.exe     |
+| 1.6.00.24078 | Preview           | x86          | exe  | https://statics.teams.cdn.office.net/production-windows/1.6.00.24078/Teams_windows.exe             |
+| 1.6.00.24078 | Preview           | ARM64        | msi  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.24078/Teams_windows_arm64.msi |
+| 1.6.00.24078 | Preview           | x64          | msi  | https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.24078/Teams_windows_x64.msi     |
+| 1.6.00.24078 | Preview           | x86          | msi  | https://statics.teams.cdn.office.net/production-windows/1.6.00.24078/Teams_windows.msi             |
 | 1.6.00.22378 | DeveloperPartners | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.22378/Teams_windows_arm64.exe |
 | 1.6.00.22378 | Dogfood           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.22378/Teams_windows_arm64.exe |
 | 1.6.00.22378 | General           | ARM64        | exe  | https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.22378/Teams_windows_arm64.exe |
@@ -1985,12 +1985,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.82.0  | win32            | Insider | x86          | 4fdb22b74ccb3f0003e9eed3138bcab6dacb42f40a5774b9c57ba9593167c59c | https://az764295.vo.msecnd.net/insider/f7973f357e7c316a88e8817886f41a843021fe74/VSCodeSetup-ia32-1.82.0-insider.exe      |
-| 1.82.0  | win32-arm64      | Insider | ARM64        | 32ea4e0e3282a88d6986dc9b2910546e6a3f6a9289c9a26a549ea6034a57ebbe | https://az764295.vo.msecnd.net/insider/f7973f357e7c316a88e8817886f41a843021fe74/VSCodeSetup-arm64-1.82.0-insider.exe     |
-| 1.82.0  | win32-arm64-user | Insider | ARM64        | 74e96c2b817f53368fa3f4e2d6e31a7eb2edf3d728e653243535eb7b82da2875 | https://az764295.vo.msecnd.net/insider/f7973f357e7c316a88e8817886f41a843021fe74/VSCodeUserSetup-arm64-1.82.0-insider.exe |
-| 1.82.0  | win32-user       | Insider | x86          | 3ec9c2930245670acf9d733936b826ee45fb0bcc8eb441aa2a896d4bede51ab4 | https://az764295.vo.msecnd.net/insider/f7973f357e7c316a88e8817886f41a843021fe74/VSCodeUserSetup-ia32-1.82.0-insider.exe  |
-| 1.82.0  | win32-x64        | Insider | x64          | 670fb88065340ca653b8b2ec111fa8a1aca1691fcf313b99176a6d80d75ef257 | https://az764295.vo.msecnd.net/insider/f7973f357e7c316a88e8817886f41a843021fe74/VSCodeSetup-x64-1.82.0-insider.exe       |
-| 1.82.0  | win32-x64-user   | Insider | x64          | d167a830a0cb32fb4fb4afd1093cd6616e2c9e2419fef43b3c910e3306d47d87 | https://az764295.vo.msecnd.net/insider/f7973f357e7c316a88e8817886f41a843021fe74/VSCodeUserSetup-x64-1.82.0-insider.exe   |
+| 1.82.0  | win32            | Insider | x86          | 3ca7104ee4fca5158d4f2fd2a749168ea0afdd4d0da8e406b6b0cff54a5a2149 | https://az764295.vo.msecnd.net/insider/ebd67244fb2da33ab078bb2baa96106fda29f336/VSCodeSetup-ia32-1.82.0-insider.exe      |
+| 1.82.0  | win32-arm64      | Insider | ARM64        | ec9898ec83cda6fae0945078bd24fc34eadbb0cc4e127c64550fc50ea48ae913 | https://az764295.vo.msecnd.net/insider/ebd67244fb2da33ab078bb2baa96106fda29f336/VSCodeSetup-arm64-1.82.0-insider.exe     |
+| 1.82.0  | win32-arm64-user | Insider | ARM64        | 7b06e57e03a17d0fe4ee145ccf5ecbc0baa3eeee9013528770c561cbd0ec174d | https://az764295.vo.msecnd.net/insider/ebd67244fb2da33ab078bb2baa96106fda29f336/VSCodeUserSetup-arm64-1.82.0-insider.exe |
+| 1.82.0  | win32-user       | Insider | x86          | a5f2985057b140cc8e2aaac4b08d6e14c71237a90468c23fd62b48b7534ba57a | https://az764295.vo.msecnd.net/insider/ebd67244fb2da33ab078bb2baa96106fda29f336/VSCodeUserSetup-ia32-1.82.0-insider.exe  |
+| 1.82.0  | win32-x64        | Insider | x64          | 5f9f16448fd151738755b4d1a8f396e8f3e0b2860f9ac4d5b9bca9d394e264c1 | https://az764295.vo.msecnd.net/insider/ebd67244fb2da33ab078bb2baa96106fda29f336/VSCodeSetup-x64-1.82.0-insider.exe       |
+| 1.82.0  | win32-x64-user   | Insider | x64          | c4bfd3a80da1b86f56f97eaa0565759fa6c6668287f7d3ae668ef418693e34b6 | https://az764295.vo.msecnd.net/insider/ebd67244fb2da33ab078bb2baa96106fda29f336/VSCodeUserSetup-x64-1.82.0-insider.exe   |
 | 1.81.1  | win32            | Stable  | x86          | 36b5bd557c39baaa8121945477ec9566174c9a3e6dbc7716ba1f8ac6e98dbfc1 | https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeSetup-ia32-1.81.1.exe               |
 | 1.81.1  | win32-arm64      | Stable  | ARM64        | 310485b6e932f87f64a4346e93ed1fd38f142372d71bf0cfc624099d6734c730 | https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeSetup-arm64-1.81.1.exe              |
 | 1.81.1  | win32-arm64-user | Stable  | ARM64        | 4caf5895d966d0047da48a11beb5b312c177b51e46c27a9e1d97ca3931a2b266 | https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-arm64-1.81.1.exe          |
@@ -5147,11 +5147,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5165,14 +5165,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe          |
-| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi          |
-| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip          |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe   |
+| 3.0.18  | Windows  | x64          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi   |
+| 3.0.18  | Windows  | x64          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip   |
 
 ## VisualCppRedistAIO
 
@@ -5280,10 +5280,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                   |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
 
 ## Wireshark
 
