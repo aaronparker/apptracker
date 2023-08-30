@@ -1,0 +1,22 @@
+﻿[
+    {
+        "Version":  "2023.1",
+        "Build":  "17582",
+        "Edition":  "YouTrack",
+        "Sha256":  "https://download.jetbrains.com/charisma/youtrack-2023.1.17582.msi.sha256",
+        "Date":  "8/9/2023",
+        "Size":  449282048,
+        "Type":  "msi",
+        "URI":  "https://download.jetbrains.com/charisma/youtrack-2023.1.17582.msi"
+    },
+    {
+        "Version":  "6.0",
+        "Build":  "3385",
+        "Edition":  "Youtrack Workflow Editor",
+        "Sha256":  "https://download.jetbrains.com/charisma/youtrack-workflow-editor-3385.exe.sha256",
+        "Date":  "3/9/2017",
+        "Size":  126796160,
+        "Type":  "exe",
+        "URI":  "https://download.jetbrains.com/charisma/youtrack-workflow-editor-3385.exe"
+    }
+]
