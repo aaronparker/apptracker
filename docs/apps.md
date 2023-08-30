@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 275 applications and 3449 unique application installers:
+App Version Tracker is using Evergreen to track 282 applications and 3465 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -58,6 +58,7 @@ App Version Tracker is using Evergreen to track 275 applications and 3449 unique
 | Connection Experience Indicator                                   | https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/                    |
 | ControlUp Agent                                                   | https://www.controlup.com/products/controlup/agent/                                              |
 | ControlUp Console                                                 | https://www.controlup.com/products/controlup/management/                                         |
+| ControlUp Remote DX Plugins                                       | https://www.controlup.com/products/controlup/agent/                                              |
 | iterate GmbH Cyberduck                                            | https://cyberduck.io/                                                                            |
 | dbeaver                                                           | https://github.com/dbeaver/dbeaver                                                               |
 | Debauchee Barrier                                                 | https://github.com/debauchee/barrier                                                             |
@@ -95,6 +96,7 @@ App Version Tracker is using Evergreen to track 275 applications and 3449 unique
 | GitHub Desktop                                                    | https://desktop.github.com/                                                                      |
 | GitHub release                                                    | https://github.com/                                                                              |
 | Google Chrome                                                     | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
+| Google Chrome Driver                                              | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
 | Google Drive                                                      | https://support.google.com/drive/answer/7329379                                                  |
 | GoTo Connect                                                      | https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments       |
 | GoTo Meeting                                                      | https://support.goto.com/meeting/help/install-via-msi-windows                                    |
@@ -120,14 +122,19 @@ App Version Tracker is using Evergreen to track 275 applications and 3449 unique
 | JetBrains CLion                                                   | https://www.jetbrains.com/clion                                                                  |
 | JetBrains DataGrip                                                | https://www.jetbrains.com/datagrip                                                               |
 | JetBrains DataSpell                                               | https://www.jetbrains.com/dataspell                                                              |
+| JetBrains Gateway                                                 | https://www.jetbrains.com/                                                                       |
 | JetBrains GoLand                                                  | https://www.jetbrains.com/dataspell                                                              |
+| JetBrains Hub                                                     | https://www.jetbrains.com/hub                                                                    |
 | JetBrains IntelliJ IDEA                                           | https://www.jetbrains.com/                                                                       |
 | JetBrains PhpStorm                                                | https://www.jetbrains.com/phpstorm                                                               |
 | JetBrains PyCharm                                                 | https://www.jetbrains.com/                                                                       |
 | JetBrains Rider                                                   | https://www.jetbrains.com/                                                                       |
 | JetBrains RubyMine                                                | https://www.jetbrains.com/rubymine                                                               |
 | JetBrains Space                                                   | https://www.jetbrains.com/space                                                                  |
+| JetBrains TeamCity                                                | https://www.jetbrains.com/teamcity                                                               |
+| JetBrains Toolbox App                                             | https://www.jetbrains.com/youtrack                                                               |
 | JetBrains WebStorm                                                | https://www.jetbrains.com/webstorm                                                               |
+| JetBrains YouTrack                                                | https://www.jetbrains.com/youtrack                                                               |
 | jq                                                                | https://jqlang.github.io/jq/                                                                     |
 | jrsoftware InnoSetup                                              | https://www.innosetup.com                                                                        |
 | Karakun OpenWebStart                                              | https://openwebstart.com/ows/                                                                    |
