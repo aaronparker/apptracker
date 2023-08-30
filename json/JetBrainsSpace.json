@@ -1,8 +1,10 @@
-﻿{
-    "Version":  "2023.1.2",
-    "Edition":  "Space Desktop",
-    "Date":  "6/27/2023",
-    "Size":  75757184,
-    "Sha256":  "https://download.jetbrains.com/space/jetbrains-space-2023.1.2.exe.sha256",
-    "URI":  "https://download.jetbrains.com/space/jetbrains-space-2023.1.2.exe"
+{
+  "Version": "2023.1.2",
+  "Build": null,
+  "Edition": "Space Desktop",
+  "Sha256": "https://download.jetbrains.com/space/jetbrains-space-2023.1.2.exe.sha256",
+  "Date": "06/27/2023",
+  "Size": 75757184,
+  "Type": "exe",
+  "URI": "https://download.jetbrains.com/space/jetbrains-space-2023.1.2.exe"
 }

@@ -1,0 +1,10 @@
+{
+  "Version": "2023.1",
+  "Build": "17568",
+  "Edition": "Hub",
+  "Sha256": "https://download.jetbrains.com/hub/hub-2023.1.17568.msi.sha256",
+  "Date": "08/09/2023",
+  "Size": 321101824,
+  "Type": "msi",
+  "URI": "https://download.jetbrains.com/hub/hub-2023.1.17568.msi"
+}

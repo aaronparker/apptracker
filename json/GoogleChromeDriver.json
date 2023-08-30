@@ -1,0 +1,66 @@
+[
+  {
+    "Version": "118.0.5978.0",
+    "Revision": "1189418",
+    "Channel": "Canary",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5978.0/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "118.0.5978.0",
+    "Revision": "1189418",
+    "Channel": "Canary",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5978.0/win32/chromedriver-win32.zip"
+  },
+  {
+    "Version": "118.0.5951.0",
+    "Revision": "1183763",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5951.0/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "118.0.5951.0",
+    "Revision": "1183763",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5951.0/win32/chromedriver-win32.zip"
+  },
+  {
+    "Version": "117.0.5938.22",
+    "Revision": "1181205",
+    "Channel": "Beta",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.22/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "117.0.5938.22",
+    "Revision": "1181205",
+    "Channel": "Beta",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.22/win32/chromedriver-win32.zip"
+  },
+  {
+    "Version": "116.0.5845.96",
+    "Revision": "1160321",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "116.0.5845.96",
+    "Revision": "1160321",
+    "Channel": "Stable",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip"
+  }
+]
