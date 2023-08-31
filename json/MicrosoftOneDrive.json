@@ -24,6 +24,30 @@
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.181.0829.0001/OneDriveSetup.exe"
   },
   {
+    "Version": "23.180.0828.0001",
+    "Architecture": "AMD64",
+    "Ring": "InternalSlow",
+    "Sha256": "46NuCqdMpfM5y/k53KKvlWNFXtcPQPVVrCvfBt7lK8c=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.180.0828.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "23.180.0828.0001",
+    "Architecture": "ARM64",
+    "Ring": "InternalSlow",
+    "Sha256": "qXWtnp0nEY9yNo1pZQoScK7KszMsv/t0IedJ1p92GgA=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.180.0828.0001/arm64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "23.180.0828.0001",
+    "Architecture": "x86",
+    "Ring": "InternalSlow",
+    "Sha256": "qM58m8+2ZirpdKo6CwQ39FOLCkow5tdmga0erDVEwpE=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.180.0828.0001/OneDriveSetup.exe"
+  },
+  {
     "Version": "23.176.0822.0002",
     "Architecture": "AMD64",
     "Ring": "Insider",
@@ -70,30 +94,6 @@
     "Sha256": "6Qz8hLA0J2itwAlE2A3TxEnT4ojjec0mmwDEn15cjio=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.176.0822.0002/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.176.0822.0001",
-    "Architecture": "AMD64",
-    "Ring": "InternalSlow",
-    "Sha256": "/Ajb1SfQTgoMTtX41QZVFqbqU026R4AJg0ROk3MAhNI=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.176.0822.0001/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.176.0822.0001",
-    "Architecture": "ARM64",
-    "Ring": "InternalSlow",
-    "Sha256": "LjPq+koFDVAiScbN9ys77Umu3ltcWN3YI6bHBgRp/us=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.176.0822.0001/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.176.0822.0001",
-    "Architecture": "x86",
-    "Ring": "InternalSlow",
-    "Sha256": "5e4JbMiFdijlNAOrVRzVpC6Z8loDys0BVlpSPl25GRY=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.176.0822.0001/OneDriveSetup.exe"
   },
   {
     "Version": "23.174.0820.0003",
