@@ -42,17 +42,17 @@
     "URI": "https://statics.teams.microsoft.com/production-windows-x86/23217.806.2340.1703/MSTeams-x86.msix"
   },
   {
-    "Version": "23217.507.2340.1700",
+    "Version": "23217.509.2348.3397",
     "Release": "Consumer",
     "Architecture": "macOS",
     "Type": "pkg",
-    "URI": "https://statics.teams.cdn.office.net/production-osx/23217.507.2340.1700/MicrosoftTeams.pkg"
+    "URI": "https://statics.teams.cdn.office.net/production-osx/23217.509.2348.3397/MicrosoftTeams.pkg"
   },
   {
-    "Version": "23217.507.2340.1700",
+    "Version": "23217.509.2348.3397",
     "Release": "Enterprise",
     "Architecture": "macOS",
     "Type": "pkg",
-    "URI": "https://statics.teams.microsoft.com/production-osx/23217.507.2340.1700/MicrosoftTeams.pkg"
+    "URI": "https://statics.teams.microsoft.com/production-osx/23217.509.2348.3397/MicrosoftTeams.pkg"
   }
 ]
