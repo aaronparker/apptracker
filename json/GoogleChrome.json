@@ -1,19 +1,19 @@
 [
   {
-    "Version": "118.0.5979.2",
-    "Architecture": "x86",
-    "Channel": "dev",
-    "Date": "09/01/2023",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
-  },
-  {
     "Version": "118.0.5979.0",
     "Architecture": "x64",
     "Channel": "dev",
     "Date": "09/01/2023",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "118.0.5979.0",
+    "Architecture": "x86",
+    "Channel": "dev",
+    "Date": "09/01/2023",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "117.0.5938.35",
