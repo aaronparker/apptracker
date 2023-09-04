@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "19.0.2+7",
+    "ImageType": "jdk",
+    "Date": "2023-01-20T14:17:39Z",
+    "Checksum": "b2372bd728a5a708a4ce5ec6cc8b46489e5292051f4993568ec1d5f395f7e06e",
+    "Size": 173977600,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_x64_windows_hotspot_19.0.2_7.msi"
+  },
+  {
+    "Version": "19.0.2+7",
+    "ImageType": "jre",
+    "Date": "2023-01-20T14:17:54Z",
+    "Checksum": "4ad4aae081243e6962eddd59c4fdfa33d1a3d79acb16d2700a40dc5d8e4861be",
+    "Size": 33234944,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.msi"
+  },
+  {
+    "Version": "19.0.2+7",
+    "ImageType": "jdk",
+    "Date": "2023-01-25T13:04:32Z",
+    "Checksum": "3663195c70afa2b05c8f0297bbf131b02f109159cf9e537afa8f5c7acc1294e7",
+    "Size": 170475520,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.msi"
+  },
+  {
+    "Version": "19.0.2+7",
+    "ImageType": "jre",
+    "Date": "2023-01-25T13:04:47Z",
+    "Checksum": "70e625af4198d74aebd2c6ac652176fab6ac32fc70c57ff7bf751cabdea78507",
+    "Size": 30842880,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.msi"
+  }
+]
