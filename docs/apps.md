@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 282 applications and 3468 unique application installers:
+App Version Tracker is using Evergreen to track 290 applications and 3563 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -24,15 +24,9 @@ App Version Tracker is using Evergreen to track 282 applications and 3468 unique
 | Adoptium Temurin 16                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 17                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 18                                               | https://adoptium.net/                                                                            |
+| Adoptium Temurin 18                                               | https://adoptium.net/                                                                            |
+| Adoptium Temurin 18                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 8                                                | https://adoptium.net/                                                                            |
-| AdoptOpenJDK OpenJDK Official Binaries (JDK 11u)                  | https://adoptopenjdk.net/index.html                                                              |
-| AdoptOpenJDK OpenJDK Official Binaries (JDK 16u)                  | https://adoptopenjdk.net/index.html                                                              |
-| AdoptOpenJDK OpenJDK Official Binaries (JDK 8u)                   | https://adoptopenjdk.net/index.html                                                              |
-| AdoptOpenJDK IcedTeaWeb                                           | https://adoptopenjdk.net/icedtea-web.html                                                        |
-| AdoptOpenJDK Semuru 11                                            | https://adoptopenjdk.net/index.html                                                              |
-| AdoptOpenJDK Semuru 17                                            | https://adoptopenjdk.net/index.html                                                              |
-| AdoptOpenJDK Semuru 18                                            | https://adoptopenjdk.net/index.html                                                              |
-| AdoptOpenJDK Semuru 8                                             | https://adoptopenjdk.net/index.html                                                              |
 | Airtame App                                                       | https://airtame.com/                                                                             |
 | Akeo Rufus                                                        | https://rufus.ie/                                                                                |
 | Amazon Corretto                                                   | https://aws.amazon.com/corretto/                                                                 |
@@ -46,7 +40,14 @@ App Version Tracker is using Evergreen to track 282 applications and 3468 unique
 | Autodesk Fusion 360                                               | https://www.autodesk.com/products/fusion-360/overview                                            |
 | AWS CLI                                                           | https://github.com/aws/aws-cli/                                                                  |
 | AWS SAM CLI                                                       | https://github.com/aws/aws-sam-cli/                                                              |
+| Azul Zulu 11                                                      | https://www.azul.com/downloads/#zulu                                                             |
+| Azul Zulu 17                                                      | https://www.azul.com/downloads/#zulu                                                             |
+| Azul Zulu 8                                                       | https://www.azul.com/downloads/#zulu                                                             |
 | Beekeeper Studio                                                  | https://www.beekeeperstudio.io/                                                                  |
+| BellSoft Liberica JDK 11 LTS                                      | https://bell-sw.com/libericajdk/                                                                 |
+| BellSoft Liberica JDK 17 LTS                                      | https://bell-sw.com/libericajdk/                                                                 |
+| BellSoft Liberica JDK 20                                          | https://bell-sw.com/libericajdk/                                                                 |
+| BellSoft Liberica JDK 8 LTS                                       | https://bell-sw.com/libericajdk/                                                                 |
 | Base Image Script Framework                                       | https://eucweb.com/                                                                              |
 | Bitwarden Desktop                                                 | https://bitwarden.com/                                                                           |
 | Blender Launcher                                                  | https://dotbow.github.io/Blender-Launcher/                                                       |
@@ -164,6 +165,10 @@ App Version Tracker is using Evergreen to track 282 applications and 3468 unique
 | Microsoft Edge WebView2 Runtime                                   | https://developer.microsoft.com/en-us/microsoft-edge/webview2/                                   |
 | Microsoft FSLogix Apps                                            | https://docs.microsoft.com/fslogix/                                                              |
 | Microsoft OneDrive                                                | https://onedrive.live.com/                                                                       |
+| Microsoft OpenJDK 11                                              | https://www.microsoft.com/openjdk                                                                |
+| Microsoft OpenJDK 16                                              | https://www.microsoft.com/openjdk                                                                |
+| Microsoft OpenJDK 17                                              | https://www.microsoft.com/openjdk                                                                |
+| Microsoft OpenJDK 8                                               | https://www.microsoft.com/openjdk                                                                |
 | Microsoft Outlook                                                 | https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook |
 | Microsoft PowerShell                                              | https://docs.microsoft.com/powershell/                                                           |
 | Microsoft PowerToys                                               | https://github.com/microsoft/PowerToys/                                                          |
@@ -232,6 +237,9 @@ App Version Tracker is using Evergreen to track 282 applications and 3468 unique
 | PuTTY                                                             | https://www.chiark.greenend.org.uk/~sgtatham/putty/                                              |
 | R Core Team R for Windows                                         | https://cran.r-project.org/bin/windows/base/                                                     |
 | Remote Desktop Analyzer                                           | https://rdanalyzer.com/                                                                          |
+| Red Hat OpenJDK 11                                                | https://developers.redhat.com/products/openjdk/overview                                          |
+| Red Hat OpenJDK 17                                                | https://developers.redhat.com/products/openjdk/overview                                          |
+| Red Hat OpenJDK 8                                                 | https://developers.redhat.com/products/openjdk/overview                                          |
 | Responsively App                                                  | https://responsively.app/                                                                        |
 | RingCentral                                                       | https://www.ringcentral.com                                                                      |
 | Rizonesoft Notepad3                                               | https://www.rizonesoft.com/downloads/notepad3                                                    |
