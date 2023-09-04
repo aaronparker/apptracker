@@ -1,0 +1,16 @@
+json/1Password.json
+json/7zip.json
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/ProjectLibre.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/YubicoAuthenticator.json
+json/Zoom.json
+json/dbeaver.json
+json/gretl.json
