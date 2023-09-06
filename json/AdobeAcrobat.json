@@ -2,6 +2,15 @@
   {
     "Version": "23.003.20284",
     "Type": "Update",
+    "Product": "Reader",
+    "Track": "DC",
+    "Language": "Multi",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcroRdrDCx64Upd2300320284_MUI.msp"
+  },
+  {
+    "Version": "23.003.20284",
+    "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
@@ -11,11 +20,38 @@
   {
     "Version": "23.003.20284",
     "Type": "Update",
+    "Product": "Reader",
+    "Track": "DC",
+    "Language": "Neutral",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcroRdrDCx64Upd2300320284.msp"
+  },
+  {
+    "Version": "23.003.20284",
+    "Type": "Update",
+    "Product": "Reader",
+    "Track": "DC",
+    "Language": "Multi",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDCUpd2300320284_MUI.msp"
+  },
+  {
+    "Version": "23.003.20284",
+    "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcrobatDCUpd2300320284.msp"
+  },
+  {
+    "Version": "23.003.20284",
+    "Type": "Update",
+    "Product": "Reader",
+    "Track": "DC",
+    "Language": "Neutral",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDCUpd2300320284.msp"
   },
   {
     "Version": "20.005.30516",
@@ -70,41 +106,5 @@
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2015/1500630527/Acrobat2015Upd1500630527.msp"
-  },
-  {
-    "Version": "",
-    "Type": "Update",
-    "Product": "Reader",
-    "Track": "DC",
-    "Language": "Multi",
-    "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC//AcroRdrDCx64Upd_MUI.msp"
-  },
-  {
-    "Version": "",
-    "Type": "Update",
-    "Product": "Reader",
-    "Track": "DC",
-    "Language": "Neutral",
-    "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC//AcroRdrDCx64Upd.msp"
-  },
-  {
-    "Version": "",
-    "Type": "Update",
-    "Product": "Reader",
-    "Track": "DC",
-    "Language": "Multi",
-    "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC//AcroRdrDCUpd_MUI.msp"
-  },
-  {
-    "Version": "",
-    "Type": "Update",
-    "Product": "Reader",
-    "Track": "DC",
-    "Language": "Neutral",
-    "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC//AcroRdrDCUpd.msp"
   }
 ]
