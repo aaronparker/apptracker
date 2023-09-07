@@ -20,15 +20,15 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
-| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                 |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -88,38 +88,38 @@
 
 [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-| Version      | Language              | Architecture | Name                                               | URI                                                                                                     |
-| ------------ | --------------------- | ------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 23.003.20284 | MUI                   | x64          | Reader DC 2023.003.20284 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcroRdrDCx642300320284_MUI.exe |
-| 23.003.20284 | English               | x86          | Reader DC 2023.003.20284 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_en_US.exe   |
-| 23.003.20284 | English (UK)          | x86          | Reader DC 2023.003.20284 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_en_US.exe   |
-| 23.003.20284 | French                | x86          | Reader DC 2023.003.20284 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_fr_FR.exe   |
-| 23.003.20284 | German                | x86          | Reader DC 2023.003.20284 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_de_DE.exe   |
-| 23.003.20284 | Japanese              | x86          | Reader DC 2023.003.20284 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_ja_JP.exe   |
-| 23.003.20284 | MUI                   | x86          | Reader DC 2023.003.20284 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_MUI.exe     |
-| 23.003.20284 | Spanish               | x86          | Reader DC 2023.003.20284 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_es_ES.exe   |
-| 23.003.20269 | Basque                | x86          | Reader DC 2023.003.20269 Basque for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_eu_ES.exe   |
-| 23.003.20269 | Catalan               | x86          | Reader DC 2023.003.20269 Catalan for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ca_ES.exe   |
-| 23.003.20269 | Chinese (Simplified)  | x86          | Reader DC 2023.003.20269 Chinese Simp for  Windows | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_zh_CN.exe   |
-| 23.003.20269 | Chinese (Traditional) | x86          | Reader DC 2023.003.20269 Chinese Trad for Windows  | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_zh_TW.exe   |
-| 23.003.20269 | Croatian              | x86          | Reader DC 2023.003.20269 Croatian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_hr_HR.exe   |
-| 23.003.20269 | Czech                 | x86          | Reader DC 2023.003.20269 Czech for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_cs_CZ.exe   |
-| 23.003.20269 | Danish                | x86          | Reader DC 2023.003.20269 Danish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_da_DK.exe   |
-| 23.003.20269 | Dutch                 | x86          | Reader DC 2023.003.20269 Dutch for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_nl_NL.exe   |
-| 23.003.20269 | Finnish               | x86          | Reader DC 2023.003.20269 Finnish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_fi_FI.exe   |
-| 23.003.20269 | Hungarian             | x86          | Reader DC 2023.003.20269 Hungarian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_hu_HU.exe   |
-| 23.003.20269 | Italian               | x86          | Reader DC 2023.003.20269 Italian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_it_IT.exe   |
-| 23.003.20269 | Korean                | x86          | Reader DC 2023.003.20269 Korean for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ko_KR.exe   |
-| 23.003.20269 | Norwegian             | x86          | Reader DC 2023.003.20269 Norwegian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_nb_NO.exe   |
-| 23.003.20269 | Polish                | x86          | Reader DC 2023.003.20269 Polish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_pl_PL.exe   |
-| 23.003.20269 | Portuguese            | x86          | Reader DC 2023.003.20269 Portuguese for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_pt_BR.exe   |
-| 23.003.20269 | Romanian              | x86          | Reader DC 2023.003.20269 Romanian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ro_RO.exe   |
-| 23.003.20269 | Russian               | x86          | Reader DC 2023.003.20269 Russian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ru_RU.exe   |
-| 23.003.20269 | Slovakian             | x86          | Reader DC 2023.003.20269 Slovakian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_sk_SK.exe   |
-| 23.003.20269 | Slovenian             | x86          | Reader DC 2023.003.20269 Slovenian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_sl_SI.exe   |
-| 23.003.20269 | Swedish               | x86          | Reader DC 2023.003.20269 Swedish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_sv_SE.exe   |
-| 23.003.20269 | Turkish               | x86          | Reader DC 2023.003.20269 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_tr_TR.exe   |
-| 23.003.20269 | Ukrainian             | x86          | Reader DC 2023.003.20269 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_uk_UA.exe   |
+| Version      | Language              | Architecture | Name                                            | URI                                                                                                     |
+| ------------ | --------------------- | ------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 23.003.20284 | MUI                   | x64          | Reader 2023.003.20284 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300320284/AcroRdrDCx642300320284_MUI.exe |
+| 23.003.20284 | English               | x86          | Reader 2023.003.20284 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_en_US.exe   |
+| 23.003.20284 | English (UK)          | x86          | Reader 2023.003.20284 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_en_US.exe   |
+| 23.003.20284 | French                | x86          | Reader 2023.003.20284 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_fr_FR.exe   |
+| 23.003.20284 | German                | x86          | Reader 2023.003.20284 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_de_DE.exe   |
+| 23.003.20284 | Japanese              | x86          | Reader 2023.003.20284 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_ja_JP.exe   |
+| 23.003.20284 | MUI                   | x86          | Reader 2023.003.20284 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_MUI.exe     |
+| 23.003.20284 | Spanish               | x86          | Reader 2023.003.20284 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320284/AcroRdrDC2300320284_es_ES.exe   |
+| 23.003.20269 | Basque                | x86          | Reader 2023.003.20269 Basque for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_eu_ES.exe   |
+| 23.003.20269 | Catalan               | x86          | Reader 2023.003.20269 Catalan for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ca_ES.exe   |
+| 23.003.20269 | Chinese (Simplified)  | x86          | Reader 2023.003.20269 Chinese Simp for  Windows | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_zh_CN.exe   |
+| 23.003.20269 | Chinese (Traditional) | x86          | Reader 2023.003.20269 Chinese Trad for Windows  | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_zh_TW.exe   |
+| 23.003.20269 | Croatian              | x86          | Reader 2023.003.20269 Croatian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_hr_HR.exe   |
+| 23.003.20269 | Czech                 | x86          | Reader 2023.003.20269 Czech for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_cs_CZ.exe   |
+| 23.003.20269 | Danish                | x86          | Reader 2023.003.20269 Danish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_da_DK.exe   |
+| 23.003.20269 | Dutch                 | x86          | Reader 2023.003.20269 Dutch for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_nl_NL.exe   |
+| 23.003.20269 | Finnish               | x86          | Reader 2023.003.20269 Finnish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_fi_FI.exe   |
+| 23.003.20269 | Hungarian             | x86          | Reader 2023.003.20269 Hungarian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_hu_HU.exe   |
+| 23.003.20269 | Italian               | x86          | Reader 2023.003.20269 Italian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_it_IT.exe   |
+| 23.003.20269 | Korean                | x86          | Reader 2023.003.20269 Korean for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ko_KR.exe   |
+| 23.003.20269 | Norwegian             | x86          | Reader 2023.003.20269 Norwegian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_nb_NO.exe   |
+| 23.003.20269 | Polish                | x86          | Reader 2023.003.20269 Polish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_pl_PL.exe   |
+| 23.003.20269 | Portuguese            | x86          | Reader 2023.003.20269 Portuguese for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_pt_BR.exe   |
+| 23.003.20269 | Romanian              | x86          | Reader 2023.003.20269 Romanian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ro_RO.exe   |
+| 23.003.20269 | Russian               | x86          | Reader 2023.003.20269 Russian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_ru_RU.exe   |
+| 23.003.20269 | Slovakian             | x86          | Reader 2023.003.20269 Slovakian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_sk_SK.exe   |
+| 23.003.20269 | Slovenian             | x86          | Reader 2023.003.20269 Slovenian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_sl_SI.exe   |
+| 23.003.20269 | Swedish               | x86          | Reader 2023.003.20269 Swedish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_sv_SE.exe   |
+| 23.003.20269 | Turkish               | x86          | Reader 2023.003.20269 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_tr_TR.exe   |
+| 23.003.20269 | Ukrainian             | x86          | Reader 2023.003.20269 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300320269/AcroRdrDC2300320269_uk_UA.exe   |
 
 ## AdobeBrackets
 
@@ -219,8 +219,8 @@
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
 | 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
+| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
 | 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
 ## AkeoRufus
@@ -582,7 +582,7 @@
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |
-| v18-build1 | Windows  | x86          | exe  | Default       | 05/26/2023 | 575287520 | https://github.com/codelerity/netbeans-installers/releases/download/v18-build1/Apache-NetBeans-18.exe |
+| v19-build1 | Windows  | x86          | exe  | Default       | 08/30/2023 | 578843176 | https://github.com/codelerity/netbeans-installers/releases/download/v19-build1/Apache-NetBeans-19.exe |
 
 ## ConnectionExperienceIndicator
 
@@ -721,7 +721,6 @@
 | Version | Build  | Size      | Type | URI                                                                               |
 | ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |
 | 4.22.1  | 118664 | 607393624 | exe  | https://desktop.docker.com/win/main/amd64/118664/Docker%20Desktop%20Installer.exe |
-| 4.21.1  | 114176 | 584747856 | exe  | https://desktop.docker.com/win/main/amd64/114176/Docker%20Desktop%20Installer.exe |
 
 ## DoubleCommander
 
@@ -1233,9 +1232,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                           |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| Version | Date       | Sha256                                                           | URI                                                                             |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
 
 ## GitExtensions
 
@@ -1302,8 +1301,8 @@
 
 | Version        | Architecture | Channel | Date       | Type | URI                                                                                     |
 | -------------- | ------------ | ------- | ---------- | ---- | --------------------------------------------------------------------------------------- |
-| 118.0.5979.0   | x64          | dev     | 09/06/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 118.0.5979.0   | x86          | dev     | 09/06/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 118.0.5979.0   | x64          | dev     | 09/07/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 118.0.5979.0   | x86          | dev     | 09/07/2023 | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 117.0.5938.48  | x64          | beta    | 09/06/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 117.0.5938.48  | x86          | beta    | 09/06/2023 | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
 | 116.0.5845.180 | x64          | stable  | 09/05/2023 | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
@@ -1382,10 +1381,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1976,14 +1975,14 @@
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
 | 23.186.0905.0001 | AMD64        | InternalFast | 3/8UWCcRXBvFwu2FENc2QI5/k9K+ddv9LPOpz7B7vrI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0001/amd64/OneDriveSetup.exe |
+| 23.186.0905.0001 | AMD64        | InternalSlow | 3/8UWCcRXBvFwu2FENc2QI5/k9K+ddv9LPOpz7B7vrI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0001/amd64/OneDriveSetup.exe |
 | 23.186.0905.0001 | ARM64        | InternalFast | DEyiEC2bi0p4DwFeFZfgjEGKx5OSe7cKJyLx8LIZNx8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0001/arm64/OneDriveSetup.exe |
+| 23.186.0905.0001 | ARM64        | InternalSlow | DEyiEC2bi0p4DwFeFZfgjEGKx5OSe7cKJyLx8LIZNx8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0001/arm64/OneDriveSetup.exe |
 | 23.186.0905.0001 | x86          | InternalFast | 3SAxCrwPphvH7JTsDEmNoRLgTpMs9UbJX7buARrH+Fg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0001/OneDriveSetup.exe       |
+| 23.186.0905.0001 | x86          | InternalSlow | 3SAxCrwPphvH7JTsDEmNoRLgTpMs9UbJX7buARrH+Fg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0001/OneDriveSetup.exe       |
 | 23.184.0903.0001 | AMD64        | Insider      | tbCtWxTwvkFvuDjAQxKxqVTkmEAXki+6eilha8snbNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.184.0903.0001/amd64/OneDriveSetup.exe |
-| 23.184.0903.0001 | AMD64        | InternalSlow | tbCtWxTwvkFvuDjAQxKxqVTkmEAXki+6eilha8snbNI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.184.0903.0001/amd64/OneDriveSetup.exe |
 | 23.184.0903.0001 | ARM64        | Insider      | cM1nB+tHQVGvptkdOd1oBzKXMZi8cwIxL/NMFsmaNoI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.184.0903.0001/arm64/OneDriveSetup.exe |
-| 23.184.0903.0001 | ARM64        | InternalSlow | cM1nB+tHQVGvptkdOd1oBzKXMZi8cwIxL/NMFsmaNoI= | exe  | https://oneclient.sfx.ms/Win/Installers/23.184.0903.0001/arm64/OneDriveSetup.exe |
 | 23.184.0903.0001 | x86          | Insider      | vVCZT7h+Y9ZjZf/QQY7ZJuAkvcCBFX9rWY94PC4ZMqY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.184.0903.0001/OneDriveSetup.exe       |
-| 23.184.0903.0001 | x86          | InternalSlow | vVCZT7h+Y9ZjZf/QQY7ZJuAkvcCBFX9rWY94PC4ZMqY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.184.0903.0001/OneDriveSetup.exe       |
 | 23.182.0830.0001 | AMD64        | Insider      | H9adVYphO5RenAu+y12VMigBsEJCFCzOlPn7tzeOT7s= | exe  | https://oneclient.sfx.ms/Win/Installers/23.182.0830.0001/amd64/OneDriveSetup.exe |
 | 23.182.0830.0001 | ARM64        | Insider      | cgD0fwAWF5A0hZ+lAXcwECClVFPAFsTL5hz/bakjd+o= | exe  | https://oneclient.sfx.ms/Win/Installers/23.182.0830.0001/arm64/OneDriveSetup.exe |
 | 23.182.0830.0001 | x86          | Insider      | T883BEugRmHtVyuDLuy+/SNIst2IVFdRWKWPFuiR8Mk= | exe  | https://oneclient.sfx.ms/Win/Installers/23.182.0830.0001/OneDriveSetup.exe       |
@@ -4633,7 +4632,7 @@
 
 | Version      | Date       | URI                                                                     |
 | ------------ | ---------- | ----------------------------------------------------------------------- |
-| 2023.3.12815 | 09/06/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.3.12815-x64.msi |
+| 2023.3.12841 | 09/07/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.3.12841-x64.msi |
 
 ## OctopusTentacle
 
@@ -4731,7 +4730,7 @@
 
 | Version       | Channel | Architecture | Type | URI                                                                                                   |
 | ------------- | ------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |
-| 101.0.4843.43 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/101.0.4843.43/win/Opera_Crypto_101.0.4843.43_Setup_x64.exe |
+| 102.0.4880.40 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/102.0.4880.40/win/Opera_Crypto_102.0.4880.40_Setup_x64.exe |
 
 ## OperaGXBrowser
 
@@ -4912,7 +4911,7 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cytranet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://versaweb.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5071,9 +5070,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 9.1.1   | x64          | exe  | 60964619 | 971c538045f07452d79c76d730478db9 | https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 9.1.1   | x64          | exe  | 60964619 | 971c538045f07452d79c76d730478db9 | https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5134,11 +5133,11 @@
 
 [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
 
-| Version  | Platform   | Architecture | URI                                                                                                  |
-| -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
-| 4.34.115 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.34.115/prod/x64/slack-standalone-4.34.115.0.msi  |
-| 4.34.115 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.34.115/prod/ia32/slack-standalone-4.34.115.0.msi |
-| 4.34.115 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.34.115/prod/x64/SlackSetup.msi                   |
+| Version | Platform   | Architecture | URI                                                                                                |
+| ------- | ---------- | ------------ | -------------------------------------------------------------------------------------------------- |
+| 4.33.90 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.33.90/prod/x64/slack-standalone-4.33.90.0.msi  |
+| 4.33.90 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.33.90/prod/ia32/slack-standalone-4.33.90.0.msi |
+| 4.33.90 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.33.90/prod/x64/SlackSetup.msi                  |
 
 ## SmartBearSoapUI
 
@@ -5352,11 +5351,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5370,14 +5369,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe       |
-| 3.0.18  | Windows  | x86          | EXE  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi       |
-| 3.0.18  | Windows  | x86          | MSI  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip       |
-| 3.0.18  | Windows  | x86          | ZIP  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
+| 3.0.18  | Windows  | x86          | EXE  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe        |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
+| 3.0.18  | Windows  | x86          | MSI  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi        |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
+| 3.0.18  | Windows  | x86          | ZIP  | https://mirror.csclub.uwaterloo.ca/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip        |
 
 ## VisualCppRedistAIO
 
@@ -5485,10 +5484,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
 
 ## Wireshark
 
