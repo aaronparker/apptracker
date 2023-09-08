@@ -1,6 +1,6 @@
 [
   {
-    "Version": "118.0.5979.0",
+    "Version": "118.0.5993.3",
     "Architecture": "x64",
     "Channel": "dev",
     "Date": "09/07/2023",
@@ -8,7 +8,7 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "118.0.5979.0",
+    "Version": "118.0.5993.3",
     "Architecture": "x86",
     "Channel": "dev",
     "Date": "09/07/2023",
