@@ -1,0 +1,16 @@
+json/7zip.json
+json/AWSCLI.json
+json/AdobeAcrobat.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftBicep.json
+json/MicrosoftVisualStudioCode.json
+json/NodeJs.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
