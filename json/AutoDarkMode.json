@@ -1,22 +1,22 @@
 [
   {
-    "Version": "10.3.0.90",
+    "Version": "10.4.0.35",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/02/2022",
-    "Size": 55765183,
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.exe"
+    "Date": "09/10/2023",
+    "Size": 56419373,
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.0.35/AutoDarkModeX_10.4.0.35.exe"
   },
   {
-    "Version": "10.3.0.90",
+    "Version": "10.4.0.35",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "11/02/2022",
-    "Size": 76106071,
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.3.0.90/AutoDarkModeX_10.3.0.90.zip"
+    "Date": "09/10/2023",
+    "Size": 76654057,
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.0.35/AutoDarkModeX_10.4.0.35.zip"
   }
 ]
