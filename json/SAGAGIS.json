@@ -1,8 +1,8 @@
 {
-  "Version": "9.1.1",
+  "Version": "9.1.2",
   "Architecture": "x64",
   "Type": "exe",
-  "Size": "60964619",
-  "Md5": "971c538045f07452d79c76d730478db9",
-  "URI": "https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.1/saga-9.1.1_x64_setup.exe"
+  "Size": "60974147",
+  "Md5": "f26cc5c9d8dddf66a649a3476d68fb12",
+  "URI": "https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe"
 }
