@@ -1,42 +1,42 @@
 [
   {
-    "Version": "1.4.5",
+    "Version": "1.4.11",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "08/31/2023",
-    "Size": 79113184,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5-arm64.exe"
+    "Date": "09/11/2023",
+    "Size": 79136624,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.11/Obsidian.1.4.11-arm64.exe"
   },
   {
-    "Version": "1.4.5",
+    "Version": "1.4.11",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "08/31/2023",
-    "Size": 71771632,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5-32.exe"
+    "Date": "09/11/2023",
+    "Size": 71795368,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.11/Obsidian.1.4.11-32.exe"
   },
   {
-    "Version": "1.4.5",
+    "Version": "1.4.11",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "08/31/2023",
-    "Size": 76500704,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5-allusers.exe"
+    "Date": "09/11/2023",
+    "Size": 76524624,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.11/Obsidian.1.4.11-allusers.exe"
   },
   {
-    "Version": "1.4.5",
+    "Version": "1.4.11",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "08/31/2023",
-    "Size": 76430248,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5.exe"
+    "Date": "09/11/2023",
+    "Size": 76454744,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.11/Obsidian.1.4.11.exe"
   }
 ]
