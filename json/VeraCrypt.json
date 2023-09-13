@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "22165328",
     "Md5": "a7869a41d85f83d661fa3bea431e78f7",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe"
   },
   {
     "Version": "1.25.9",
@@ -13,7 +13,7 @@
     "Type": "exe",
     "Size": "21972816",
     "Md5": "15b679bd960d04b0eff66c04bfb77241",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe"
+    "URI": "https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe"
   },
   {
     "Version": "1.25.9",
@@ -21,6 +21,6 @@
     "Type": "msi",
     "Size": "30486528",
     "Md5": "25f8a853a23f4b64bd5c723d0c41443d",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi"
+    "URI": "https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi"
   }
 ]
