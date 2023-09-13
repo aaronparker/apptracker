@@ -283,8 +283,8 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
-| 10.01.2 | Windows  | x64          | exe  | Default       | 06/21/2023 | 64806376 | https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10012/gs10012w64.exe |
-| 10.01.2 | Windows  | x86          | exe  | Default       | 06/21/2023 | 52906472 | https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10012/gs10012w32.exe |
+| 10.02.0 | Windows  | x64          | exe  | Default       | 09/13/2023 | 64687944 | https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10020/gs10020w64.exe |
+| 10.02.0 | Windows  | x86          | exe  | Default       | 09/13/2023 | 52786016 | https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10020/gs10020w32.exe |
 
 ## AtlassianSourcetree
 
@@ -1125,7 +1125,7 @@
 | ------------ | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | 13.0.0.21632 | 09/11/2023 | Danish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
 | 13.0.0.21632 | 09/11/2023 | Dutch              | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | English            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/13.0.0/FoxitPDFEditor130_enu_Setup.msi                    |
+| 13.0.0.21632 | 09/11/2023 | English            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/en_us/FoxitPDFEditor130_enu_Setup_Website.msi |
 | 13.0.0.21632 | 09/11/2023 | Finnish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
 | 13.0.0.21632 | 09/11/2023 | French             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
 | 13.0.0.21632 | 09/11/2023 | German             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
@@ -1233,9 +1233,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                        |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
 
 ## GitExtensions
 
@@ -1382,10 +1382,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1453,10 +1453,10 @@
 
 [Link](https://www.terraform.io/)
 
-| Version | Type | Architecture | URI                                                                              |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.5.7   | zip  | x64          | https://releases.hashicorp.com/terraform/1.5.7/terraform_1.5.7_windows_amd64.zip |
-| 1.5.7   | zip  | x86          | https://releases.hashicorp.com/terraform/1.5.7/terraform_1.5.7_windows_386.zip   |
+| Version | Type | Architecture | URI                                                                                |
+| ------- | ---- | ------------ | ---------------------------------------------------------------------------------- |
+| 1.3.10  | zip  | x64          | https://releases.hashicorp.com/terraform/1.3.10/terraform_1.3.10_windows_amd64.zip |
+| 1.3.10  | zip  | x86          | https://releases.hashicorp.com/terraform/1.3.10/terraform_1.3.10_windows_386.zip   |
 
 ## HashicorpVault
 
@@ -1464,8 +1464,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.13.7  | zip  | x64          | https://releases.hashicorp.com/vault/1.13.7/vault_1.13.7_windows_amd64.zip |
-| 1.13.7  | zip  | x86          | https://releases.hashicorp.com/vault/1.13.7/vault_1.13.7_windows_386.zip   |
+| 1.14.3  | zip  | x64          | https://releases.hashicorp.com/vault/1.14.3/vault_1.14.3_windows_amd64.zip |
+| 1.14.3  | zip  | x86          | https://releases.hashicorp.com/vault/1.14.3/vault_1.14.3_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -1579,8 +1579,8 @@
 
 | Version  | Build       | Edition                 | Sha256                                                         | Date       | Size      | Type | URI                                                     |
 | -------- | ----------- | ----------------------- | -------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------- |
-| 2023.2.1 | 232.9559.62 | IntelliJ IDEA Community | https://download.jetbrains.com/idea/ideaIC-2023.2.1.exe.sha256 | 08/23/2023 | 695861528 | exe  | https://download.jetbrains.com/idea/ideaIC-2023.2.1.exe |
-| 2023.2.1 | 232.9559.62 | IntelliJ IDEA Ultimate  | https://download.jetbrains.com/idea/ideaIU-2023.2.1.exe.sha256 | 08/23/2023 | 810138528 | exe  | https://download.jetbrains.com/idea/ideaIU-2023.2.1.exe |
+| 2023.2.2 | 232.9921.47 | IntelliJ IDEA Community | https://download.jetbrains.com/idea/ideaIC-2023.2.2.exe.sha256 | 09/13/2023 | 696702064 | exe  | https://download.jetbrains.com/idea/ideaIC-2023.2.2.exe |
+| 2023.2.2 | 232.9921.47 | IntelliJ IDEA Ultimate  | https://download.jetbrains.com/idea/ideaIU-2023.2.2.exe.sha256 | 09/13/2023 | 811073872 | exe  | https://download.jetbrains.com/idea/ideaIU-2023.2.2.exe |
 | 2022.2.2 | 222.4345.35 | IntelliJ IDEA Edu       | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | 10/27/2022 | 693805272 | exe  | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
 
 ## JetBrainsPhpStorm
@@ -1690,10 +1690,10 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
@@ -1701,8 +1701,8 @@
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1860,8 +1860,8 @@
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |
-| 4.0.5198 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
-| 4.0.5198 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
+| 4.0.5348 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
+| 4.0.5348 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
 
 ## MicrosoftAzurePipelinesAgent
 
@@ -1978,8 +1978,11 @@
 | 23.190.0911.0001 | AMD64        | InternalFast | zTPRqfWvbKaH/v8BqfTPOcKovD9yG5yX3w60GFWDOnY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.190.0911.0001/amd64/OneDriveSetup.exe |
 | 23.190.0911.0001 | ARM64        | InternalFast | xJ63jgsAw1uAZxNd8lIbS629ETZv5a0RKE3nCWdCrn0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.190.0911.0001/arm64/OneDriveSetup.exe |
 | 23.190.0911.0001 | x86          | InternalFast | QusBGYl7i3OD4s/iJOXTpS3m09WhPGz07yGBJc5IWmY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.190.0911.0001/OneDriveSetup.exe       |
+| 23.189.0910.0001 | AMD64        | Insider      | 2rnQSzreWgHgRkOr5kzRw/5xHAPUvI+UMHfsdS6kkRY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/amd64/OneDriveSetup.exe |
 | 23.189.0910.0001 | AMD64        | InternalSlow | 2rnQSzreWgHgRkOr5kzRw/5xHAPUvI+UMHfsdS6kkRY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/amd64/OneDriveSetup.exe |
+| 23.189.0910.0001 | ARM64        | Insider      | W4cJm4swb/mZb5Vg2oW8OEFds/yHeNe+QcHoGE5jNt4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/arm64/OneDriveSetup.exe |
 | 23.189.0910.0001 | ARM64        | InternalSlow | W4cJm4swb/mZb5Vg2oW8OEFds/yHeNe+QcHoGE5jNt4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/arm64/OneDriveSetup.exe |
+| 23.189.0910.0001 | x86          | Insider      | WoI1aKkLad0W2uFKOcPkHdHaQr+9LNUcTXHZG2HOtPo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/OneDriveSetup.exe       |
 | 23.189.0910.0001 | x86          | InternalSlow | WoI1aKkLad0W2uFKOcPkHdHaQr+9LNUcTXHZG2HOtPo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/OneDriveSetup.exe       |
 | 23.186.0905.0002 | AMD64        | Insider      | 8DBqz18cLJnGEbYXPRNeb3Ossf6kDd1aAMU0D5582bg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/amd64/OneDriveSetup.exe |
 | 23.186.0905.0002 | ARM64        | Insider      | wqS3/++Y+MLlm622gxiL550KLBi71rtnJDCtEreLLcg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/arm64/OneDriveSetup.exe |
@@ -2201,9 +2204,9 @@
 
 [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
 
-| Version        | Architecture | Date                          | Filename                                  | URI                       |
-| -------------- | ------------ | ----------------------------- | ----------------------------------------- | ------------------------- |
-| 1.0.2304.12009 | x64          | Tue, 13 Jun 2023 16:08:51 GMT | MsMMRHostInstaller_1.0.2304.12009_x64.msi | https://aka.ms/avdmmr/msi |
+| Version       | Architecture | Date                          | Filename                                 | URI                       |
+| ------------- | ------------ | ----------------------------- | ---------------------------------------- | ------------------------- |
+| 1.0.2309.7002 | x64          | Mon, 11 Sep 2023 20:10:50 GMT | MsMMRHostInstaller_1.0.2309.7002_x64.msi | https://aka.ms/avdmmr/msi |
 
 ## MicrosoftWvdRemoteDesktop
 
@@ -4717,8 +4720,8 @@
 | ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
 | 103.0.4920.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/103.0.4920.0/win/Opera_Developer_103.0.4920.0_Setup_x64.exe |
 | 103.0.4920.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/103.0.4920.0/win/Opera_Developer_103.0.4920.0_Setup.exe     |
-| 102.0.4880.46 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.46/win/Opera_102.0.4880.46_Setup_x64.exe                   |
-| 102.0.4880.46 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.46/win/Opera_102.0.4880.46_Setup.exe                       |
+| 102.0.4880.51 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.51/win/Opera_102.0.4880.51_Setup_x64.exe                   |
+| 102.0.4880.51 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.51/win/Opera_102.0.4880.51_Setup.exe                       |
 | 102.0.4880.38 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/102.0.4880.38/win/Opera_beta_102.0.4880.38_Setup_x64.exe         |
 | 102.0.4880.38 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/102.0.4880.38/win/Opera_beta_102.0.4880.38_Setup.exe             |
 
@@ -4728,7 +4731,7 @@
 
 | Version       | Channel | Architecture | Type | URI                                                                                                   |
 | ------------- | ------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |
-| 102.0.4880.40 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/102.0.4880.40/win/Opera_Crypto_102.0.4880.40_Setup_x64.exe |
+| 102.0.4880.51 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_crypto/102.0.4880.51/win/Opera_Crypto_102.0.4880.51_Setup_x64.exe |
 
 ## OperaGXBrowser
 
@@ -4820,7 +4823,7 @@
 
 | Version    | Filename       | URI                                                                                                              |
 | ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.15.10623 | ccsetup615.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+| 6.16.10662 | ccsetup616.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
 
 ## Postman
 
@@ -5068,9 +5071,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 9.1.2   | x64          | exe  | 60974147 | f26cc5c9d8dddf66a649a3476d68fb12 | https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                        |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 9.1.2   | x64          | exe  | 60974147 | f26cc5c9d8dddf66a649a3476d68fb12 | https://gigenet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5305,10 +5308,10 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 5.1.444 | beta    | 32CA116D151FB8835072BDF0232F02E14AC3024D | exe  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.exe |
-| 5.1.444 | stable  | 32CA116D151FB8835072BDF0232F02E14AC3024D | exe  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.exe |
-| 5.1.444 | beta    | CB52C0436DD205AB1CD8F4166D2A7042F8496CD4 | msi  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.msi |
-| 5.1.444 | stable  | CB52C0436DD205AB1CD8F4166D2A7042F8496CD4 | msi  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.msi |
+| 5.1.445 | beta    | 7AF3635FAD62895ED027DCD8287A42ADC5DDBE33 | exe  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.exe |
+| 5.1.445 | stable  | 7AF3635FAD62895ED027DCD8287A42ADC5DDBE33 | exe  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.exe |
+| 5.1.445 | beta    | 17EA2ECABA8F2321F00E6A64E46A0B51EF360890 | msi  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.msi |
+| 5.1.445 | stable  | 17EA2ECABA8F2321F00E6A64E46A0B51EF360890 | msi  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.msi |
 
 ## TPGiColourContrastAnalyser
 
@@ -5369,11 +5372,11 @@
 
 | Version | Platform | Architecture | Type | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe          |
+| 3.0.18  | Windows  | x64          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe            |
 | 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi          |
+| 3.0.18  | Windows  | x64          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi            |
 | 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip          |
+| 3.0.18  | Windows  | x64          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip            |
 | 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
@@ -5482,10 +5485,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
 
 ## Wireshark
 
