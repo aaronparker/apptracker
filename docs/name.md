@@ -707,12 +707,12 @@
 
 [Link](https://dngrep.github.io/)
 
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
-| 4.0.69.0 | Windows  | x64          | msi  | Default       | 08/08/2023 | 72568832 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.69.0/dnGREP.4.0.69.x64.msi   |
-| 4.0.69.0 | Windows  | x86          | msi  | Default       | 08/08/2023 | 66707456 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.69.0/dnGREP.4.0.69.x86.msi   |
-| 4.0.69.0 | Windows  | x64          | zip  | Default       | 08/08/2023 | 70947976 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.69.0/dnGrep.4.0.69.0.x64.zip |
-| 4.0.69.0 | Windows  | x86          | zip  | Default       | 08/08/2023 | 65030708 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.69.0/dnGrep.4.0.69.0.x86.zip |
+| Version   | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                    |
+| --------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------- |
+| 4.0.115.0 | Windows  | x64          | msi  | Default       | 09/13/2023 | 72794112 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.115.0/dnGREP.4.0.115.x64.msi   |
+| 4.0.115.0 | Windows  | x86          | msi  | Default       | 09/13/2023 | 67117056 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.115.0/dnGREP.4.0.115.x86.msi   |
+| 4.0.115.0 | Windows  | x64          | zip  | Default       | 09/13/2023 | 71164465 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.115.0/dnGrep.4.0.115.0.x64.zip |
+| 4.0.115.0 | Windows  | x86          | zip  | Default       | 09/13/2023 | 65235864 | https://github.com/dnGrep/dnGrep/releases/download/v4.0.115.0/dnGrep.4.0.115.0.x86.zip |
 
 ## DockerDesktop
 
@@ -1121,22 +1121,22 @@
 
 [Link](https://www.foxit.com/pdf-editor/)
 
-| Version      | Date       | Language           | URI                                                                                                             |
-| ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
-| 12.1.3.15356 | 07/19/2023 | Danish             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Dutch              | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | English            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_enu_Setup_Website.msi  |
-| 12.1.3.15356 | 07/19/2023 | Finnish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | French             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | German             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Italian            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Multi-Language     | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Norwegian          | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Polish             | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Russian            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Spanish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
-| 12.1.3.15356 | 07/19/2023 | Swedish            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/12.1.3/FoxitPDFEditor1213_L10N_Setup_Website.msi |
+| Version      | Date       | Language           | URI                                                                                                                      |
+| ------------ | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 13.0.0.21632 | 09/11/2023 | Danish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Dutch              | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | English            | https://cdn01.foxitsoftware.com/product/phantomPDF/desktop/win/13.0.0/FoxitPDFEditor130_enu_Setup.msi                    |
+| 13.0.0.21632 | 09/11/2023 | Finnish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | French             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | German             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Italian            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Multi-Language     | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Norwegian          | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Polish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Russian            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Spanish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| 13.0.0.21632 | 09/11/2023 | Swedish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
 
 ## FoxitReader
 
@@ -1233,9 +1233,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                       |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://mirrors.iu13.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| Version | Date       | Sha256                                                           | URI                                                                        |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://ziply.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
 
 ## GitExtensions
 
@@ -1382,10 +1382,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1690,19 +1690,19 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1849,8 +1849,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.47.0  | win32-x64      | Insider | 3f61e9926658fb69b97d59fe347a631e6e9f671fae5f58c14ff01b456223db8a | https://sqlopsbuilds.azureedge.net/insider/41e7569fdecf41693a7b8eb624809262e5c5f7c8/azuredatastudio-windows-setup-1.47.0-insider.exe      |
-| 1.47.0  | win32-x64-user | Insider | 35a6e4cedc82c8d83e632b021e705938015ad0da4238bdb8e5b9925dde029cde | https://sqlopsbuilds.azureedge.net/insider/41e7569fdecf41693a7b8eb624809262e5c5f7c8/azuredatastudio-windows-user-setup-1.47.0-insider.exe |
+| 1.47.0  | win32-x64      | Insider | d67a4890ed52667fea4b05cb468d3278a5b04da446d0f4e1da42f1838d5b3e37 | https://sqlopsbuilds.azureedge.net/insider/7e401bfa1ae5c20587246555d3dbad631bb7e531/azuredatastudio-windows-setup-1.47.0-insider.exe      |
+| 1.47.0  | win32-x64-user | Insider | 2c5c062dbf14569f33eb828a080c87daed4889a533bc7c4259b8dc2d3d64e088 | https://sqlopsbuilds.azureedge.net/insider/7e401bfa1ae5c20587246555d3dbad631bb7e531/azuredatastudio-windows-user-setup-1.47.0-insider.exe |
 | 1.45.1  | win32-x64      | Stable  | 816a392b499004cb6e199a14523ffe84e81562ce17ebe65c5ae48f5f6a954c56 | https://sqlopsbuilds.azureedge.net/stable/88c21b1725a3e79440027bdb7b5a55fb036be0e2/azuredatastudio-windows-setup-1.45.1.exe               |
 | 1.45.1  | win32-x64-user | Stable  | 750103758fa8fb2319b8abef0ad71d6b13c49e020d379c9c2def2f8ff3628572 | https://sqlopsbuilds.azureedge.net/stable/88c21b1725a3e79440027bdb7b5a55fb036be0e2/azuredatastudio-windows-user-setup-1.45.1.exe          |
 
@@ -2160,12 +2160,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.83.0  | win32            | Insider | x86          | 046e94fff1be9d54f6b847885c37659d21f3e9cc881daef5c307b7078760bcfc | https://az764295.vo.msecnd.net/insider/03671d332bf6a34782d5adc64086bc8e083a1590/VSCodeSetup-ia32-1.83.0-insider.exe      |
-| 1.83.0  | win32-arm64      | Insider | ARM64        | d31bf39e5b07294e3e4dd8afa7293efcb5e3b3bd78400a6729db2374335095ac | https://az764295.vo.msecnd.net/insider/03671d332bf6a34782d5adc64086bc8e083a1590/VSCodeSetup-arm64-1.83.0-insider.exe     |
-| 1.83.0  | win32-arm64-user | Insider | ARM64        | 9f1b46e9dfba5b23784a36274fcf1de846a8818b93782bd7e7f356b48aa81477 | https://az764295.vo.msecnd.net/insider/03671d332bf6a34782d5adc64086bc8e083a1590/VSCodeUserSetup-arm64-1.83.0-insider.exe |
-| 1.83.0  | win32-user       | Insider | x86          | e18d408a6d2ecf88dc52b0ae4f62ba3fd0cb9c316fc4c9b4c586f95907d9c380 | https://az764295.vo.msecnd.net/insider/03671d332bf6a34782d5adc64086bc8e083a1590/VSCodeUserSetup-ia32-1.83.0-insider.exe  |
-| 1.83.0  | win32-x64        | Insider | x64          | 604a2713368ea27abc29f27ed964c802e40de9f145a9cb6690f24fdb43df4464 | https://az764295.vo.msecnd.net/insider/03671d332bf6a34782d5adc64086bc8e083a1590/VSCodeSetup-x64-1.83.0-insider.exe       |
-| 1.83.0  | win32-x64-user   | Insider | x64          | 22829f6b49fb2f5924853e88e582a0b4d364a8a01835ff5148b6d8c7b2b15309 | https://az764295.vo.msecnd.net/insider/03671d332bf6a34782d5adc64086bc8e083a1590/VSCodeUserSetup-x64-1.83.0-insider.exe   |
+| 1.83.0  | win32            | Insider | x86          | cf9afc61bc93266d0ab33f49661f2425f776354329faccd50111d2be7270dbd5 | https://az764295.vo.msecnd.net/insider/f36df69328ed10f76d4be03e8a82b61794b49711/VSCodeSetup-ia32-1.83.0-insider.exe      |
+| 1.83.0  | win32-arm64      | Insider | ARM64        | 1d5f118434c1fa9f1131b062e3e4d4429bc86af6c4aad732532c0453faa4f150 | https://az764295.vo.msecnd.net/insider/f36df69328ed10f76d4be03e8a82b61794b49711/VSCodeSetup-arm64-1.83.0-insider.exe     |
+| 1.83.0  | win32-arm64-user | Insider | ARM64        | 2aadef6f04a7fd338e1e82ec1eac95dc525c7ce223b561046eb464a529343e48 | https://az764295.vo.msecnd.net/insider/f36df69328ed10f76d4be03e8a82b61794b49711/VSCodeUserSetup-arm64-1.83.0-insider.exe |
+| 1.83.0  | win32-user       | Insider | x86          | 0915d2db82b998f03a4f48932890038bc1438b58ec961e66f3a0a768f0a0b7c7 | https://az764295.vo.msecnd.net/insider/f36df69328ed10f76d4be03e8a82b61794b49711/VSCodeUserSetup-ia32-1.83.0-insider.exe  |
+| 1.83.0  | win32-x64        | Insider | x64          | 6d7106646f9a7d43efefbd4ffada1f74778bc4f7bf4171539dd0c8d89912b572 | https://az764295.vo.msecnd.net/insider/f36df69328ed10f76d4be03e8a82b61794b49711/VSCodeSetup-x64-1.83.0-insider.exe       |
+| 1.83.0  | win32-x64-user   | Insider | x64          | f0600c92dc88f9be9b5d2c75362f210a54d1db70a07fa61b225e89b207864b44 | https://az764295.vo.msecnd.net/insider/f36df69328ed10f76d4be03e8a82b61794b49711/VSCodeUserSetup-x64-1.83.0-insider.exe   |
 | 1.82.1  | win32            | Stable  | x86          | ebbc683f14c1b51b0021307e6598f8cf89a6b11537ce7d9757aa3a3f41add0fa | https://az764295.vo.msecnd.net/stable/6509174151d557a81c9d0b5f8a5a1e9274db5585/VSCodeSetup-ia32-1.82.1.exe               |
 | 1.82.1  | win32-arm64      | Stable  | ARM64        | 10bc8e312068b4b001ffc5c906b623ca27f554f8cfbc20a8bdb53774188036b1 | https://az764295.vo.msecnd.net/stable/6509174151d557a81c9d0b5f8a5a1e9274db5585/VSCodeSetup-arm64-1.82.1.exe              |
 | 1.82.1  | win32-arm64-user | Stable  | ARM64        | 1b9939867b16cac59626d382eeb4c6077e2474be4ce1345e849ac348606a1e67 | https://az764295.vo.msecnd.net/stable/6509174151d557a81c9d0b5f8a5a1e9274db5585/VSCodeUserSetup-arm64-1.82.1.exe          |
@@ -2195,7 +2195,7 @@
 
 | Version       | Architecture | Date                          | Filename                                                  | URI                                                              |
 | ------------- | ------------ | ----------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| 1.0.7033.1401 | x64          | Thu, 17 Aug 2023 19:19:23 GMT | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.7033.1401.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
+| 1.0.7255.1400 | x64          | Tue, 12 Sep 2023 17:17:51 GMT | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.7255.1400.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
 
 ## MicrosoftWvdMultimediaRedirection
 
@@ -4909,7 +4909,7 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://phoenixnap.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://netactuate.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5068,9 +5068,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 9.1.2   | x64          | exe  | 60974147 | f26cc5c9d8dddf66a649a3476d68fb12 | https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                             |
+| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 9.1.2   | x64          | exe  | 60974147 | f26cc5c9d8dddf66a649a3476d68fb12 | https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5125,7 +5125,7 @@
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |
-| 6.30.1  | https://updates.signal.org/desktop/signal-desktop-win-6.30.1.exe |
+| 6.30.2  | https://updates.signal.org/desktop/signal-desktop-win-6.30.2.exe |
 
 ## Slack
 
@@ -5305,10 +5305,10 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 5.1.443 | beta    | A9363BF008D3A76515072A0F214A72DD5B934956 | exe  | https://www.git-tower.com/apps/tower3-win/443-7c08c745/Tower-5.1.443.exe |
-| 5.1.443 | stable  | A9363BF008D3A76515072A0F214A72DD5B934956 | exe  | https://www.git-tower.com/apps/tower3-win/443-7c08c745/Tower-5.1.443.exe |
-| 5.1.443 | beta    | 2A5B30A15167CA403368FEAA7D939B445B89EEC0 | msi  | https://www.git-tower.com/apps/tower3-win/443-7c08c745/Tower-5.1.443.msi |
-| 5.1.443 | stable  | 2A5B30A15167CA403368FEAA7D939B445B89EEC0 | msi  | https://www.git-tower.com/apps/tower3-win/443-7c08c745/Tower-5.1.443.msi |
+| 5.1.444 | beta    | 32CA116D151FB8835072BDF0232F02E14AC3024D | exe  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.exe |
+| 5.1.444 | stable  | 32CA116D151FB8835072BDF0232F02E14AC3024D | exe  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.exe |
+| 5.1.444 | beta    | CB52C0436DD205AB1CD8F4166D2A7042F8496CD4 | msi  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.msi |
+| 5.1.444 | stable  | CB52C0436DD205AB1CD8F4166D2A7042F8496CD4 | msi  | https://www.git-tower.com/apps/tower3-win/444-d0d5ca6a/Tower-5.1.444.msi |
 
 ## TPGiColourContrastAnalyser
 
@@ -5349,11 +5349,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5367,14 +5367,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe       |
-| 3.0.18  | Windows  | x64          | MSI  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi       |
-| 3.0.18  | Windows  | x64          | ZIP  | https://uvermont.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip       |
+| Version | Platform | Architecture | Type | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe          |
+| 3.0.18  | Windows  | x86          | EXE  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi          |
+| 3.0.18  | Windows  | x86          | MSI  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip          |
+| 3.0.18  | Windows  | x86          | ZIP  | https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5484,8 +5484,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
 
 ## Wireshark
 
@@ -5549,8 +5549,8 @@
 | 5.15.7.3094   | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.15.7.3094/x64/zoomrooms-5.15.7.3094-x64.msi |
 | 5.15.7.3094   | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.15.7.3094/zoomrooms-5.15.7.3094-x86.msi     |
 | 5.15.5.926    | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi         |
-| 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
+| 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
