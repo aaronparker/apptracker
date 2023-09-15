@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                 |
-| ------- | ------------------------------------------------------------------- |
-| 8.10.15 | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.15.exe |
+| Version | URI                                                             |
+| ------- | --------------------------------------------------------------- |
+| 8.10.15 | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.15.exe |
 
 ## 1Password7
 
@@ -1233,9 +1233,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                     |
-| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| Version | Date       | Sha256                                                           | URI                                                                           |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
 
 ## GitExtensions
 
@@ -1384,8 +1384,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://versaweb.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1647,7 +1647,7 @@
 
 | Version  | Build       | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                           |
 | -------- | ----------- | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------- |
-| 2023.2.1 | 232.9559.58 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2023.2.1.exe.sha256 | 08/24/2023 | 434699744 | exe  | https://download.jetbrains.com/webstorm/WebStorm-2023.2.1.exe |
+| 2023.2.2 | 232.9921.42 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.exe.sha256 | 09/15/2023 | 436430560 | exe  | https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.exe |
 
 ## JetBrainsYouTrack
 
@@ -1692,8 +1692,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
@@ -1701,8 +1701,8 @@
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://zenlayer.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://zenlayer.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1749,9 +1749,9 @@
 
 | Version | Type | Architecture | URI                                                                                  |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------ |
-| 5.4.0   | exe  | x86          | https://releases.mattermost.com/desktop/5.4.0/mattermost-desktop-setup-5.4.0-win.exe |
-| 5.4.0   | msi  | x64          | https://releases.mattermost.com/desktop/5.4.0/mattermost-desktop-5.4.0-x64.msi       |
-| 5.4.0   | msi  | x86          | https://releases.mattermost.com/desktop/5.4.0/mattermost-desktop-5.4.0-x86.msi       |
+| 5.5.0   | exe  | x86          | https://releases.mattermost.com/desktop/5.5.0/mattermost-desktop-setup-5.5.0-win.exe |
+| 5.5.0   | msi  | x64          | https://releases.mattermost.com/desktop/5.5.0/mattermost-desktop-5.5.0-x64.msi       |
+| 5.5.0   | msi  | x86          | https://releases.mattermost.com/desktop/5.5.0/mattermost-desktop-5.5.0-x86.msi       |
 
 ## Maximus5ConEmu
 
@@ -1975,27 +1975,21 @@
 
 | Version          | Architecture | Ring         | Sha256                                       | Type | URI                                                                              |
 | ---------------- | ------------ | ------------ | -------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 23.192.0913.0001 | AMD64        | InternalFast | GhJ+0s5aXZMpqzKVSwUAIyLaeH9I61XlLuZM4p3HpNg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.192.0913.0001/amd64/OneDriveSetup.exe |
-| 23.192.0913.0001 | ARM64        | InternalFast | oi5A00c3qbURnbVLZ0iUnE8oi9OwLmoFvP5sQ6i9nXA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.192.0913.0001/arm64/OneDriveSetup.exe |
-| 23.192.0913.0001 | x86          | InternalFast | 5OPCjOWLEhlOP7bSjsaGjJd0HYbDg9wVtg42WrBy7tY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.192.0913.0001/OneDriveSetup.exe       |
+| 23.193.0914.0001 | AMD64        | InternalFast | Ry9LwdO6dtTNh018NNDOBplroHfBjVgs0mmBuidfvBs= | exe  | https://oneclient.sfx.ms/Win/Installers/23.193.0914.0001/amd64/OneDriveSetup.exe |
+| 23.193.0914.0001 | ARM64        | InternalFast | K48apt9dOSjliJPl4Hk0JKs6Oo35aHWjbHpJCebG68k= | exe  | https://oneclient.sfx.ms/Win/Installers/23.193.0914.0001/arm64/OneDriveSetup.exe |
+| 23.193.0914.0001 | x86          | InternalFast | wBv7sDpN/ssjijq3DwKHl5abfIoqU7mMnG3dJxs4bM8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.193.0914.0001/OneDriveSetup.exe       |
 | 23.191.0912.0001 | AMD64        | InternalSlow | VT76aURVwZtDDyrbcAwOjKh4ZyfJmHeOBWHkwiGlw+0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.191.0912.0001/amd64/OneDriveSetup.exe |
 | 23.191.0912.0001 | ARM64        | InternalSlow | i00IC3eclUgabiIQ3Ai1vAf4Crx4lx+9esRbVliOCk0= | exe  | https://oneclient.sfx.ms/Win/Installers/23.191.0912.0001/arm64/OneDriveSetup.exe |
 | 23.191.0912.0001 | x86          | InternalSlow | ojQF1uF15YUOWXJXUH58I+ABY7ynD/eINfNyGx54j8o= | exe  | https://oneclient.sfx.ms/Win/Installers/23.191.0912.0001/OneDriveSetup.exe       |
 | 23.189.0910.0001 | AMD64        | Insider      | 2rnQSzreWgHgRkOr5kzRw/5xHAPUvI+UMHfsdS6kkRY= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/amd64/OneDriveSetup.exe |
 | 23.189.0910.0001 | ARM64        | Insider      | W4cJm4swb/mZb5Vg2oW8OEFds/yHeNe+QcHoGE5jNt4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/arm64/OneDriveSetup.exe |
 | 23.189.0910.0001 | x86          | Insider      | WoI1aKkLad0W2uFKOcPkHdHaQr+9LNUcTXHZG2HOtPo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.189.0910.0001/OneDriveSetup.exe       |
-| 23.186.0905.0002 | AMD64        | Insider      | 8DBqz18cLJnGEbYXPRNeb3Ossf6kDd1aAMU0D5582bg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/amd64/OneDriveSetup.exe |
 | 23.186.0905.0002 | AMD64        | Production   | 8DBqz18cLJnGEbYXPRNeb3Ossf6kDd1aAMU0D5582bg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/amd64/OneDriveSetup.exe |
-| 23.186.0905.0002 | ARM64        | Insider      | wqS3/++Y+MLlm622gxiL550KLBi71rtnJDCtEreLLcg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/arm64/OneDriveSetup.exe |
 | 23.186.0905.0002 | ARM64        | Production   | wqS3/++Y+MLlm622gxiL550KLBi71rtnJDCtEreLLcg= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/arm64/OneDriveSetup.exe |
-| 23.186.0905.0002 | x86          | Insider      | 21q1r2GNgFGeitmUcnVEu26jG90hMlxZpeaRwf/Wmm4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/OneDriveSetup.exe       |
 | 23.186.0905.0002 | x86          | Production   | 21q1r2GNgFGeitmUcnVEu26jG90hMlxZpeaRwf/Wmm4= | exe  | https://oneclient.sfx.ms/Win/Installers/23.186.0905.0002/OneDriveSetup.exe       |
 | 23.180.0828.0001 | AMD64        | Production   | 46NuCqdMpfM5y/k53KKvlWNFXtcPQPVVrCvfBt7lK8c= | exe  | https://oneclient.sfx.ms/Win/Installers/23.180.0828.0001/amd64/OneDriveSetup.exe |
 | 23.180.0828.0001 | ARM64        | Production   | qXWtnp0nEY9yNo1pZQoScK7KszMsv/t0IedJ1p92GgA= | exe  | https://oneclient.sfx.ms/Win/Installers/23.180.0828.0001/arm64/OneDriveSetup.exe |
 | 23.180.0828.0001 | x86          | Production   | qM58m8+2ZirpdKo6CwQ39FOLCkow5tdmga0erDVEwpE= | exe  | https://oneclient.sfx.ms/Win/Installers/23.180.0828.0001/OneDriveSetup.exe       |
-| 23.174.0820.0003 | AMD64        | Production   | LxF5hLKJExPqRQPQqpVPmiV2oRosPv8m05yjfMeeVOw= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0003/amd64/OneDriveSetup.exe |
-| 23.174.0820.0003 | ARM64        | Production   | fkMhSMfGxcUA3Fd8znIGquKTiiTEKIXlq5ZEma3FBN8= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0003/arm64/OneDriveSetup.exe |
-| 23.174.0820.0003 | x86          | Production   | LCRZFo4r3HoXnGS9MZqsV8cuXHJ6nCbdqs6kyX5Sxac= | exe  | https://oneclient.sfx.ms/Win/Installers/23.174.0820.0003/OneDriveSetup.exe       |
 | 23.101.0514.0004 | AMD64        | Enterprise   | HrhJabTymIJdywrrBL5AvjBFGWU5deyfZiDsy3IqI0E= | exe  | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0004/amd64/OneDriveSetup.exe |
 | 23.101.0514.0004 | ARM64        | Enterprise   | lXK4guPfM7zrLzOI/mp4YMXenBwDEN+DSpnEIzVOUek= | exe  | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0004/arm64/OneDriveSetup.exe |
 | 23.101.0514.0004 | x86          | Enterprise   | vzsamqjSu1bRasSmtmljUakYQdnBBTTeDBQnIsQTxHo= | exe  | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0004/OneDriveSetup.exe       |
@@ -2266,7 +2260,7 @@
 
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2023.9.81513-alpha   | x64          | Alpha   | 09/08/2023 15:23:23 | 205773424 | XpG2DVX8JZzhtrcMroMtW7MFqKhtv+jWxDT8bny+0ST2+BY61ddbvVf0BAN4Ws8waUTYgxZ3l83UbHqGuELzzw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.9.81513-alpha.exe   |
+| 2023.9.151403-alpha  | x64          | Alpha   | 09/15/2023 14:18:20 | 205806000 | pdlmUdnl923BT47OI5GXYYKtE+X0FbAnhln08Hhd9rG8pJEbWRPImUkEVXIUc6oTUwHT4cn8RPZ0fb+NvkGUUQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.9.151403-alpha.exe  |
 | 2023.8.291046-latest | x64          | Stable  | 08/29/2023 10:55:08 | 205794040 | +rIjhNpmPP4MEDpUizoTRSp9WUdMnLbGLfDSeJHL55FK5NT0xsee+wwQwmR/Gf/Eq8O1mxBD8+GXqGYTPGkJTw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.8.291046-latest.exe |
 
 ## MozillaFirefox
@@ -4606,10 +4600,10 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |
-| 1.4.12  | Windows  | ARM64        | exe  | Default       | 09/12/2023 | 79137272 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.12/Obsidian.1.4.12-arm64.exe    |
-| 1.4.12  | Windows  | x86          | exe  | Default       | 09/12/2023 | 71795904 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.12/Obsidian.1.4.12-32.exe       |
-| 1.4.12  | Windows  | x86          | exe  | User          | 09/12/2023 | 76524616 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.12/Obsidian.1.4.12-allusers.exe |
-| 1.4.12  | Windows  | x86          | exe  | Default       | 09/12/2023 | 76454040 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.12/Obsidian.1.4.12.exe          |
+| 1.4.13  | Windows  | ARM64        | exe  | Default       | 09/15/2023 | 79132320 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13-arm64.exe    |
+| 1.4.13  | Windows  | x86          | exe  | Default       | 09/15/2023 | 71787840 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13-32.exe       |
+| 1.4.13  | Windows  | x86          | exe  | User          | 09/15/2023 | 76523760 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13-allusers.exe |
+| 1.4.13  | Windows  | x86          | exe  | Default       | 09/15/2023 | 76454120 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13.exe          |
 
 ## OBSStudio
 
@@ -4672,20 +4666,21 @@
 | 11.0.14.9-2         | Windows  | x64          | msi  | Default       | 02/14/2022 | 254092515 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-11.0.14.9-2.windows.ojdkbuild.x86_64.msi                |
 | 11.0.14.9-2         | Windows  | x64          | msi  | Default       | 02/14/2022 | 50831422  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-jre-11.0.14.9-2.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.322-1.b06     | Windows  | x64          | msi  | Default       | 01/29/2022 | 220295644 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86_64.msi  |
-| 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
 | 17.0.2.0.8-1        | Windows  | x64          | msi  | Default       | 01/28/2022 | 51790059  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.jre.win.x86_64.msi                        |
-| 11.0.14.9-1         | Windows  | x64          | msi  | Default       | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
+| 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 50815166  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-jre-11.0.12.7-1.windows.ojdkbuild.x86_64.msi            |
+| 17.0.2.0.8-1        | Windows  | x64          | msi  | Default       | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
 | 11.0.14.9-1         | Windows  | x64          | msi  | Default       | 01/28/2022 | 50806846  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-jre-11.0.14.9-1.windows.ojdkbuild.x86_64.msi            |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | Default       | 11/07/2021 | 51765483  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi                      |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | Default       | 11/07/2021 | 257778624 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.win.x86_64.msi                          |
 | 11.0.13.8-1         | Windows  | x64          | msi  | Default       | 11/07/2021 | 253990292 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-11.0.13.8-1.windows.ojdkbuild.x86_64.msi                |
 | 11.0.13.8-1         | Windows  | x64          | msi  | Default       | 11/07/2021 | 50806850  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-jre-11.0.13.8-1.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.312-1.b07     | Windows  | x64          | msi  | Default       | 11/07/2021 | 220279260 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86_64.msi  |
-| 17.0.2.0.8-1        | Windows  | x64          | msi  | Default       | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
-| 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 50815166  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-jre-11.0.12.7-1.windows.ojdkbuild.x86_64.msi            |
+| 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
+| 11.0.14.9-1         | Windows  | x64          | msi  | Default       | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
 | 1.8.0.322-1.b06-x86 | Windows  | x86          | msi  | Default       | 01/29/2022 | 146566880 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06-x86/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86.msi |
 | 1.8.0.332-1.b09-x86 | Windows  | x86          | msi  | Default       | 04/30/2022 | 146435808 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09-x86/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86.msi |
 | 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | Default       | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
+| 1.8.0.302-1.b08-x86 | Windows  | x86          | msi  | Default       | 07/24/2021 | 146079456 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08-x86/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86.msi |
 
 ## OpenLens
 
@@ -4723,8 +4718,8 @@
 | ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
 | 103.0.4920.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/103.0.4920.0/win/Opera_Developer_103.0.4920.0_Setup_x64.exe |
 | 103.0.4920.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/103.0.4920.0/win/Opera_Developer_103.0.4920.0_Setup.exe     |
-| 102.0.4880.51 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.51/win/Opera_102.0.4880.51_Setup_x64.exe                   |
-| 102.0.4880.51 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.51/win/Opera_102.0.4880.51_Setup.exe                       |
+| 102.0.4880.56 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.56/win/Opera_102.0.4880.56_Setup_x64.exe                   |
+| 102.0.4880.56 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/102.0.4880.56/win/Opera_102.0.4880.56_Setup.exe                       |
 | 102.0.4880.38 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/102.0.4880.38/win/Opera_beta_102.0.4880.38_Setup_x64.exe         |
 | 102.0.4880.38 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/102.0.4880.38/win/Opera_beta_102.0.4880.38_Setup.exe             |
 
@@ -5311,10 +5306,10 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 5.1.445 | beta    | 7AF3635FAD62895ED027DCD8287A42ADC5DDBE33 | exe  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.exe |
-| 5.1.445 | stable  | 7AF3635FAD62895ED027DCD8287A42ADC5DDBE33 | exe  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.exe |
-| 5.1.445 | beta    | 17EA2ECABA8F2321F00E6A64E46A0B51EF360890 | msi  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.msi |
-| 5.1.445 | stable  | 17EA2ECABA8F2321F00E6A64E46A0B51EF360890 | msi  | https://www.git-tower.com/apps/tower3-win/445-094cd88e/Tower-5.1.445.msi |
+| 5.1.446 | beta    | 6E3ED7B7F3FEEB153F675193D4B65DC216C66DDD | exe  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.exe |
+| 5.1.446 | stable  | 6E3ED7B7F3FEEB153F675193D4B65DC216C66DDD | exe  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.exe |
+| 5.1.446 | beta    | 334D9E5710B78BC7BA817EA85A64C0E58A73EEE7 | msi  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.msi |
+| 5.1.446 | stable  | 334D9E5710B78BC7BA817EA85A64C0E58A73EEE7 | msi  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.msi |
 
 ## TPGiColourContrastAnalyser
 
@@ -5357,9 +5352,9 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
-| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
-| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
+| 1.25.9  | x86          | exe  | 22165328 | a7869a41d85f83d661fa3bea431e78f7 | https://cfhcable.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Setup%201.25.9.exe    |
+| 1.25.9  | x86          | exe  | 21972816 | 15b679bd960d04b0eff66c04bfb77241 | https://cfhcable.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt%20Portable%201.25.9.exe |
+| 1.25.9  | x64          | msi  | 30486528 | 25f8a853a23f4b64bd5c723d0c41443d | https://cfhcable.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.25.9/Windows/VeraCrypt_Setup_x64_1.25.9.msi    |
 
 ## VercelHyper
 
@@ -5373,14 +5368,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.exe |
-| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe     |
-| 3.0.18  | Windows  | x64          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.msi |
-| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi     |
-| 3.0.18  | Windows  | x64          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.18/win64/vlc-3.0.18-win64.zip |
-| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip     |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe         |
+| 3.0.18  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi         |
+| 3.0.18  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.lstn.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip         |
+| 3.0.18  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5488,10 +5483,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
-| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| 6.1.1   | x86          | exe  | 11120192 | 1e31dfc72caed84e44fa9e7eda34f2c6 | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe |
+| 6.1.1   | x86          | msi  | 27852800 | 4594cfebd742ecb051906fff777a82cf | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi       |
 
 ## Wireshark
 
@@ -5555,8 +5550,8 @@
 | 5.15.7.3094   | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.15.7.3094/x64/zoomrooms-5.15.7.3094-x64.msi |
 | 5.15.7.3094   | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.15.7.3094/zoomrooms-5.15.7.3094-x86.msi     |
 | 5.15.5.926    | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi         |
-| 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
+| 5.15.5.925    | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.13.10.812   | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
 | Latest        | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest        | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
