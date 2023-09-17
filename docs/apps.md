@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 290 applications and 3566 unique application installers:
+App Version Tracker is using Evergreen to track 289 applications and 3576 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -166,9 +166,7 @@ App Version Tracker is using Evergreen to track 290 applications and 3566 unique
 | Microsoft FSLogix Apps                                            | https://docs.microsoft.com/fslogix/                                                              |
 | Microsoft OneDrive                                                | https://onedrive.live.com/                                                                       |
 | Microsoft OpenJDK 11                                              | https://www.microsoft.com/openjdk                                                                |
-| Microsoft OpenJDK 16                                              | https://www.microsoft.com/openjdk                                                                |
 | Microsoft OpenJDK 17                                              | https://www.microsoft.com/openjdk                                                                |
-| Microsoft OpenJDK 8                                               | https://www.microsoft.com/openjdk                                                                |
 | Microsoft Outlook                                                 | https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook |
 | Microsoft PowerShell                                              | https://docs.microsoft.com/powershell/                                                           |
 | Microsoft PowerToys                                               | https://github.com/microsoft/PowerToys/                                                          |
@@ -275,6 +273,7 @@ App Version Tracker is using Evergreen to track 290 applications and 3566 unique
 | Tower                                                             | https://www.git-tower.com/windows/                                                               |
 | TGPi Colour Contrast Analyser                                     | https://www.tpgi.com/color-contrast-checker/                                                     |
 | Tracker Software PDF X-Change Editor                              | https://pdf-xchange.eu/pdf-xchange-editor/index.htm                                              |
+| Unity Editor                                                      | https://unity.com/download                                                                       |
 | USBPcap                                                           | https://github.com/desowin/usbpcap/                                                              |
 | vast limits uberAgent                                             | https://uberagent.com/                                                                           |
 | VeraCrypt                                                         | https://www.veracrypt.fr/en/Home.html                                                            |
