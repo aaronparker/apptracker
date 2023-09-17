@@ -65,20 +65,20 @@
   {
     "Version": "7.0.11",
     "Architecture": "x64",
+    "Installer": "aspnetcore-runtime",
+    "Channel": "Current",
+    "Hash": "1f1efa26e39da2331f27f8376cde3441ef4f602ca72e72e1c4398a0e2ca7b67c9587caf80611502ef0e21c48479716bb84d3f09b517d093d04933985b9bd79ee",
+    "Type": "exe",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/91644a20-1e21-43c9-8ae0-90e402c1a368/469c198fab110c6c3d822e03509e9aec/dotnet-hosting-7.0.11-win.exe"
+  },
+  {
+    "Version": "7.0.11",
+    "Architecture": "x64",
     "Installer": "runtime",
     "Channel": "Current",
     "Hash": "f6252ec8426a306e5a266a9e585420a34b1ac7037a14c4259068157bca99e2e66da66dc393d25f67b339805bc2bb658cdc2564e3787e9f5c8d98da16137dde03",
     "Type": "exe",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/e05aedd4-c6e1-4cf8-91d6-4df84e51adb9/cadaaa83f7403cff53d5d8a491ac8049/dotnet-runtime-7.0.11-win-x64.exe"
-  },
-  {
-    "Version": "7.0.11",
-    "Architecture": "x86",
-    "Installer": "windowsdesktop",
-    "Channel": "Current",
-    "Hash": "b7583409ea718d60ac81e8d28ab7511850d0b43e9bb9ea8488dd473b1ca904afe99d1ab298b1c5ab5271d8584baed65653196d3caf0ad9737e70f2eccbb9be4c",
-    "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/8390b217-55b7-497e-ba1b-b70f0a93cf29/39ab1928787ffc939d95e97c1f5a33e4/windowsdesktop-runtime-7.0.11-win-x86.exe"
   },
   {
     "Version": "7.0.11",
@@ -101,11 +101,11 @@
   {
     "Version": "7.0.11",
     "Architecture": "x86",
-    "Installer": "aspnetcore-runtime",
+    "Installer": "windowsdesktop",
     "Channel": "Current",
-    "Hash": "1f1efa26e39da2331f27f8376cde3441ef4f602ca72e72e1c4398a0e2ca7b67c9587caf80611502ef0e21c48479716bb84d3f09b517d093d04933985b9bd79ee",
+    "Hash": "b7583409ea718d60ac81e8d28ab7511850d0b43e9bb9ea8488dd473b1ca904afe99d1ab298b1c5ab5271d8584baed65653196d3caf0ad9737e70f2eccbb9be4c",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/91644a20-1e21-43c9-8ae0-90e402c1a368/469c198fab110c6c3d822e03509e9aec/dotnet-hosting-7.0.11-win.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/8390b217-55b7-497e-ba1b-b70f0a93cf29/39ab1928787ffc939d95e97c1f5a33e4/windowsdesktop-runtime-7.0.11-win-x86.exe"
   },
   {
     "Version": "6.0.414",

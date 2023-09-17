@@ -3,7 +3,7 @@
     "Version": "1.83.0",
     "Platform": "win32",
     "Channel": "Insider",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Sha256": "d42abd72f8997619a09fe29cc04397c5d951cb0659b41f7d78ad741f87236b77",
     "URI": "https://az764295.vo.msecnd.net/insider/bccfade64adb249f57c8fcf03cba41609f76ce5c/VSCodeSetup-ia32-1.83.0-insider.exe"
   },
@@ -27,7 +27,7 @@
     "Version": "1.83.0",
     "Platform": "win32-user",
     "Channel": "Insider",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Sha256": "0e5898833e029095603af9796f2fc9752a4c30e503416d917c75d8ee5e1915e7",
     "URI": "https://az764295.vo.msecnd.net/insider/bccfade64adb249f57c8fcf03cba41609f76ce5c/VSCodeUserSetup-ia32-1.83.0-insider.exe"
   },
@@ -51,7 +51,7 @@
     "Version": "1.82.2",
     "Platform": "win32",
     "Channel": "Stable",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Sha256": "76cf4fbe3d371402d94e79840d16e65c7e0ada7e5c12ac002a7fc8b285d2770c",
     "URI": "https://az764295.vo.msecnd.net/stable/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/VSCodeSetup-ia32-1.82.2.exe"
   },
@@ -75,7 +75,7 @@
     "Version": "1.82.2",
     "Platform": "win32-user",
     "Channel": "Stable",
-    "Architecture": "x86",
+    "Architecture": "x64",
     "Sha256": "97c4a033cc0d0c48a66798d9d2e9d2350a85b6b8440658063b9223ad72112fdc",
     "URI": "https://az764295.vo.msecnd.net/stable/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/VSCodeUserSetup-ia32-1.82.2.exe"
   },
