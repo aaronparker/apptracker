@@ -4,7 +4,7 @@
 [CmdletBinding(SupportsShouldProcess = $false)]
 [Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
-    [System.String] $Path,
+    #[System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
     [System.String] $UpdateFile = "./json/_update-pwsh.txt",
@@ -56,11 +56,11 @@ if (Test-Path -Path $UpdateFile) {
         $LastUpdates = Get-Content -Path $LastUpdateFile | ConvertFrom-Csv
 
         # Walk through each application and update the last update date
-        foreach ($update in $Updates) {   
-    
+        foreach ($update in $Updates) {
+
             # Get the index of the application in the array
             $Index = $LastUpdates.Name.IndexOf($($update -replace "json/", ""))
-    
+
             # If $Index = -1, then the application is new
             if ($Index -eq -1) {
                 Write-Host "Add item and date for: $update."
