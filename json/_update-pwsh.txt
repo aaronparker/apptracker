@@ -1,0 +1,14 @@
+json/GeoGebraClassic.json
+json/Gimp.json
+json/GoogleChrome.json
+json/JetBrainsTeamCity.json
+json/JetBrainsToolbox.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdRemoteDesktop.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
