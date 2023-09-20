@@ -1,18 +1,18 @@
 [
   {
-    "Version": "6.1.1",
+    "Version": "6.1.2",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "11120192",
-    "Md5": "1e31dfc72caed84e44fa9e7eda34f2c6",
-    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1-Setup.exe"
+    "Size": "11132448",
+    "Md5": "a655323232f2defb99c4e975ab1edcec",
+    "URI": "https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe"
   },
   {
-    "Version": "6.1.1",
+    "Version": "6.1.2",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "27852800",
-    "Md5": "4594cfebd742ecb051906fff777a82cf",
-    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.1/WinSCP-6.1.1.msi"
+    "Size": "27820032",
+    "Md5": "2942ddaf55188418b84459720acd4af7",
+    "URI": "https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi"
   }
 ]
