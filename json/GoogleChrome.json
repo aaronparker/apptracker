@@ -1,13 +1,13 @@
 [
   {
-    "Version": "119.0.6019.3",
+    "Version": "119.0.6020.2",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
-    "Version": "118.0.5993.11",
+    "Version": "118.0.5993.18",
     "Architecture": "x64",
     "Channel": "beta",
     "Type": "msi",
