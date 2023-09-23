@@ -1,10 +1,17 @@
 [
   {
-    "Version": "119.0.6023.0",
+    "Version": "119.0.6024.0",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
+  },
+  {
+    "Version": "119.0.6020.3",
+    "Architecture": "x64",
+    "Channel": "dev",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
     "Version": "118.0.5993.18",
@@ -12,13 +19,6 @@
     "Channel": "beta",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
-  },
-  {
-    "Version": "118.0.5993.11",
-    "Architecture": "x64",
-    "Channel": "dev",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
     "Version": "117.0.5938.92",
