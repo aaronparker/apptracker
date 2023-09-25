@@ -1,58 +1,58 @@
 [
   {
-    "Version": "23231.406.2360.4907",
-    "Release": "Consumer",
-    "Architecture": "macOS",
-    "Type": "pkg",
-    "URI": "https://statics.teams.cdn.office.net/production-osx/23231.406.2360.4907/MicrosoftTeams.pkg"
-  },
-  {
-    "Version": "23231.406.2360.4907",
-    "Release": "Enterprise",
-    "Architecture": "macOS",
-    "Type": "pkg",
-    "URI": "https://statics.teams.microsoft.com/production-osx/23231.406.2360.4907/MicrosoftTeams.pkg"
-  },
-  {
-    "Version": "23217.806.2340.1703",
+    "Version": "23247.1112.2396.409",
     "Release": "Consumer",
     "Architecture": "arm64",
     "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/23217.806.2340.1703/MicrosoftTeams-arm64.msix"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/23247.1112.2396.409/MicrosoftTeams-arm64.msix"
   },
   {
-    "Version": "23217.806.2340.1703",
+    "Version": "23247.1112.2396.409",
     "Release": "Enterprise",
     "Architecture": "arm64",
     "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23217.806.2340.1703/MSTeams-arm64.msix"
+    "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23247.1112.2396.409/MSTeams-arm64.msix"
   },
   {
-    "Version": "23217.806.2340.1703",
+    "Version": "23247.1112.2396.409",
     "Release": "Consumer",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/23217.806.2340.1703/MicrosoftTeams-x64.msix"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/23247.1112.2396.409/MicrosoftTeams-x64.msix"
   },
   {
-    "Version": "23217.806.2340.1703",
+    "Version": "23247.1112.2396.409",
     "Release": "Enterprise",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-x64/23217.806.2340.1703/MSTeams-x64.msix"
+    "URI": "https://statics.teams.microsoft.com/production-windows-x64/23247.1112.2396.409/MSTeams-x64.msix"
   },
   {
-    "Version": "23217.806.2340.1703",
+    "Version": "23247.1112.2396.409",
     "Release": "Consumer",
     "Architecture": "x86",
     "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x86/23217.806.2340.1703/MicrosoftTeams-x86.msix"
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x86/23247.1112.2396.409/MicrosoftTeams-x86.msix"
   },
   {
-    "Version": "23217.806.2340.1703",
+    "Version": "23247.1112.2396.409",
     "Release": "Enterprise",
     "Architecture": "x86",
     "Type": "msix",
-    "URI": "https://statics.teams.microsoft.com/production-windows-x86/23217.806.2340.1703/MSTeams-x86.msix"
+    "URI": "https://statics.teams.microsoft.com/production-windows-x86/23247.1112.2396.409/MSTeams-x86.msix"
+  },
+  {
+    "Version": "23247.708.2378.3114",
+    "Release": "Consumer",
+    "Architecture": "macOS",
+    "Type": "pkg",
+    "URI": "https://statics.teams.cdn.office.net/production-osx/23247.708.2378.3114/MicrosoftTeams.pkg"
+  },
+  {
+    "Version": "23247.708.2378.3114",
+    "Release": "Enterprise",
+    "Architecture": "macOS",
+    "Type": "pkg",
+    "URI": "https://statics.teams.microsoft.com/production-osx/23247.708.2378.3114/MicrosoftTeams.pkg"
   }
 ]
