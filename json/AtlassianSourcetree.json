@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.4.14",
+    "Version": "3.4.15",
     "Type": "Exe",
-    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.14.exe"
+    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.15.exe"
   },
   {
-    "Version": "3.4.14",
+    "Version": "3.4.15",
     "Type": "Msi",
-    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.14.msi"
+    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.15.msi"
   }
 ]

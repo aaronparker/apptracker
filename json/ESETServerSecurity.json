@@ -1,5 +1,176 @@
 [
   {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "cs_CZ",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_csy.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "de_DE",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_deu.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "en_US",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_enu.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "es_CL",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_esl.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "es_ES",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_esn.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "fr_CA",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_frc.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "fr_FR",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_fra.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "id_ID",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ind.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "it_IT",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ita.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "ko_KR",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_kor.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "nl_NL",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_nld.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "pl_PL",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_plk.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "pt_BR",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ptb.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "ru_RU",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_rus.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "sk_SK",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_sky.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "tr_TR",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_trk.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "uk_UA",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ukr.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "zh_CN",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_chs.msi"
+  },
+  {
+    "Version": "10.0.12014.0",
+    "Size": 47505408,
+    "Hash": "ae48a1faca1471bb6e90b1c7a812a7d6d5718c81",
+    "Language": "zh_TW",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_cht.msi"
+  },
+  {
     "Version": "10.0.12012.1",
     "Size": 47525888,
     "Hash": "cb61839525ca16f81a0b75f3db7183223f9e2dda",
@@ -7,176 +178,5 @@
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.1/efsw_nt64_jpn.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "cs_CZ",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_csy.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "de_DE",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_deu.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "en_US",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_enu.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "es_CL",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_esl.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "es_ES",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_esn.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "fr_CA",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_frc.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "fr_FR",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_fra.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "id_ID",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ind.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "it_IT",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ita.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "ko_KR",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_kor.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "nl_NL",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_nld.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "pl_PL",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_plk.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "pt_BR",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ptb.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "ru_RU",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_rus.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "sk_SK",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_sky.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "tr_TR",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_trk.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "uk_UA",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ukr.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "zh_CN",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_chs.msi"
-  },
-  {
-    "Version": "10.0.12012.0",
-    "Size": 47452160,
-    "Hash": "3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e",
-    "Language": "zh_TW",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_cht.msi"
   }
 ]
