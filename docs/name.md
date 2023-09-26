@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                 |
-| ------- | ------------------------------------------------------------------- |
-| 8.10.16 | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.16.exe |
+| Version | URI                                                             |
+| ------- | --------------------------------------------------------------- |
+| 8.10.16 | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.16.exe |
 
 ## 1Password7
 
@@ -22,13 +22,13 @@
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://zenlayer.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -292,8 +292,8 @@
 
 | Version | Type | URI                                                                                                         |
 | ------- | ---- | ----------------------------------------------------------------------------------------------------------- |
-| 3.4.14  | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.14.exe           |
-| 3.4.14  | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.14.msi |
+| 3.4.15  | Exe  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.15.exe           |
+| 3.4.15  | Msi  | https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.15.msi |
 
 ## Audacity
 
@@ -632,7 +632,7 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
-| 23.2.1  | Windows  | x64          | exe  | Default       | 09/21/2023 | 119977568 | https://github.com/dbeaver/dbeaver/releases/download/23.2.1/dbeaver-ce-23.2.1-x86_64-setup.exe |
+| 23.2.1  | Windows  | x64          | exe  | Default       | 09/21/2023 | 119978128 | https://github.com/dbeaver/dbeaver/releases/download/23.2.1/dbeaver-ce-23.2.1-x86_64-setup.exe |
 
 ## DebaucheeBarrier
 
@@ -1080,26 +1080,26 @@
 
 | Version      | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                  |
 | ------------ | -------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | cs_CZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_csy.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | de_DE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_deu.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_enu.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | es_CL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_esl.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | es_ES    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_esn.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | fr_CA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_frc.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | fr_FR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_fra.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | id_ID    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ind.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | it_IT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ita.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | ko_KR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_kor.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | nl_NL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_nld.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | pl_PL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_plk.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | pt_BR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ptb.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | ru_RU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_rus.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | sk_SK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_sky.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | tr_TR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_trk.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | uk_UA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_ukr.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_chs.msi |
+| 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_cht.msi |
 | 10.0.12012.1 | 47525888 | cb61839525ca16f81a0b75f3db7183223f9e2dda | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.1/efsw_nt64_jpn.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | cs_CZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_csy.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | de_DE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_deu.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_enu.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | es_CL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_esl.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | es_ES    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_esn.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | fr_CA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_frc.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | fr_FR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_fra.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | id_ID    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ind.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | it_IT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ita.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | ko_KR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_kor.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | nl_NL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_nld.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | pl_PL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_plk.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | pt_BR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ptb.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | ru_RU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_rus.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | sk_SK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_sky.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | tr_TR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_trk.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | uk_UA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_ukr.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_chs.msi |
-| 10.0.12012.0 | 47452160 | 3a84d9b45ee9f3e9ac378ff98fa1f1f6c587ce5e | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12012.0/efsw_nt64_cht.msi |
 
 ## FileZilla
 
@@ -1233,9 +1233,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                              |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| Version | Date       | Sha256                                                           | URI                                                                       |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://mirrors.iu13.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
 
 ## GitExtensions
 
@@ -1382,10 +1382,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1690,19 +1690,19 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://newcontinuum.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://newcontinuum.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
-| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.54    | x86          | exe  | 4375600 | f883d719a05fa120c702d3fd395e7f18 | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe |
+| 2.54    | x86          | msi  | 3757568 | 45144779d7e7fe97b693853bdb4bac0b | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1841,7 +1841,7 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |
-| 2.52.0  | Windows  | x86          | msi  | Default       | 08/31/2023 | 52236288 | https://github.com/Azure/azure-cli/releases/download/azure-cli-2.52.0/azure-cli-2.52.0.msi |
+| 2.53.0  | Windows  | x86          | msi  | Default       | 09/20/2023 | 52559872 | https://github.com/Azure/azure-cli/releases/download/azure-cli-2.53.0/azure-cli-2.53.0.msi |
 
 ## MicrosoftAzureDataStudio
 
@@ -2163,12 +2163,12 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.83.0  | win32            | Insider | x64          | 4a21717f67725df52fc259000cb22461fbd93436242ead0b15c3bfea4a029b84 | https://az764295.vo.msecnd.net/insider/109e1f8d8afb754ed31317f79937a44e98d5063b/VSCodeSetup-ia32-1.83.0-insider.exe      |
-| 1.83.0  | win32-arm64      | Insider | ARM64        | 79c451920909d29ad26bc2662757865a0a81f75ef97ddc52e41b96c83117ffd0 | https://az764295.vo.msecnd.net/insider/109e1f8d8afb754ed31317f79937a44e98d5063b/VSCodeSetup-arm64-1.83.0-insider.exe     |
-| 1.83.0  | win32-arm64-user | Insider | ARM64        | 4f716d598a7fe270d9df332ca0095bfc859dce6c3b3f552c95aff5bc0922f070 | https://az764295.vo.msecnd.net/insider/109e1f8d8afb754ed31317f79937a44e98d5063b/VSCodeUserSetup-arm64-1.83.0-insider.exe |
-| 1.83.0  | win32-user       | Insider | x64          | 275379fc71371875a1700d8f267147c2e97e3a838f3a6f776bab25aba74a2682 | https://az764295.vo.msecnd.net/insider/109e1f8d8afb754ed31317f79937a44e98d5063b/VSCodeUserSetup-ia32-1.83.0-insider.exe  |
-| 1.83.0  | win32-x64        | Insider | x64          | 62f738a16809edd914ccf83073396637b1bfb80646af5ecbf932363fa2f81959 | https://az764295.vo.msecnd.net/insider/109e1f8d8afb754ed31317f79937a44e98d5063b/VSCodeSetup-x64-1.83.0-insider.exe       |
-| 1.83.0  | win32-x64-user   | Insider | x64          | eaab43fbf03476603d8324cc80c35655d25d6f6d7c8f89fc55838bafe821bbbe | https://az764295.vo.msecnd.net/insider/109e1f8d8afb754ed31317f79937a44e98d5063b/VSCodeUserSetup-x64-1.83.0-insider.exe   |
+| 1.83.0  | win32            | Insider | x64          | 85a680cdd13473bc66b410feab80300958c41a7e6716b90f8c071cb4e83766c2 | https://az764295.vo.msecnd.net/insider/8ecf5453e8e8f98cca0f9a661d3a6457d8a0e703/VSCodeSetup-ia32-1.83.0-insider.exe      |
+| 1.83.0  | win32-arm64      | Insider | ARM64        | 7a605a3e284644050cd933b6729f4e11c5bf960e41eaa8b16d5825bc5a699f1b | https://az764295.vo.msecnd.net/insider/8ecf5453e8e8f98cca0f9a661d3a6457d8a0e703/VSCodeSetup-arm64-1.83.0-insider.exe     |
+| 1.83.0  | win32-arm64-user | Insider | ARM64        | 82841976208bff235ac31adb8c6d49dbe7a392f46240796722d3e219bdbed077 | https://az764295.vo.msecnd.net/insider/8ecf5453e8e8f98cca0f9a661d3a6457d8a0e703/VSCodeUserSetup-arm64-1.83.0-insider.exe |
+| 1.83.0  | win32-user       | Insider | x64          | 473ba1e195406526c52e3f55d71cc779797e81a340c699d2d7b1ade81be650ee | https://az764295.vo.msecnd.net/insider/8ecf5453e8e8f98cca0f9a661d3a6457d8a0e703/VSCodeUserSetup-ia32-1.83.0-insider.exe  |
+| 1.83.0  | win32-x64        | Insider | x64          | 039c31ccb1b62465ec75cefddfc65724453c5419b7b7f00dfafe6d7860d4341b | https://az764295.vo.msecnd.net/insider/8ecf5453e8e8f98cca0f9a661d3a6457d8a0e703/VSCodeSetup-x64-1.83.0-insider.exe       |
+| 1.83.0  | win32-x64-user   | Insider | x64          | 03d8673aa6441ad5f63982e27276cc9124e609ce2d183f0d7f8ae6eec9cb19c1 | https://az764295.vo.msecnd.net/insider/8ecf5453e8e8f98cca0f9a661d3a6457d8a0e703/VSCodeUserSetup-x64-1.83.0-insider.exe   |
 | 1.82.2  | win32            | Stable  | x64          | 76cf4fbe3d371402d94e79840d16e65c7e0ada7e5c12ac002a7fc8b285d2770c | https://az764295.vo.msecnd.net/stable/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/VSCodeSetup-ia32-1.82.2.exe               |
 | 1.82.2  | win32-arm64      | Stable  | ARM64        | f136b5e4b27768c0c7af1e94776c1212580ee32890bfc4942c424274035f7c81 | https://az764295.vo.msecnd.net/stable/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/VSCodeSetup-arm64-1.82.2.exe              |
 | 1.82.2  | win32-arm64-user | Stable  | ARM64        | 32b53864b92ddfa0312b8274e241fa3031187de3520119746fdea21b5b0b0203 | https://az764295.vo.msecnd.net/stable/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/VSCodeUserSetup-arm64-1.82.2.exe          |
@@ -4910,9 +4910,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://netactuate.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://newcontinuum.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5071,9 +5071,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 9.1.2   | x64          | exe  | 60974147 | f26cc5c9d8dddf66a649a3476d68fb12 | https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                             |
+| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 9.1.2   | x64          | exe  | 60974147 | f26cc5c9d8dddf66a649a3476d68fb12 | https://newcontinuum.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5387,14 +5387,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.18  | Windows  | x64          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.exe   |
-| 3.0.18  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
-| 3.0.18  | Windows  | x64          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi   |
-| 3.0.18  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
-| 3.0.18  | Windows  | x64          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.zip   |
-| 3.0.18  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.18  | Windows  | x64          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe          |
+| 3.0.18  | Windows  | x86          | EXE  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe |
+| 3.0.18  | Windows  | x64          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.msi          |
+| 3.0.18  | Windows  | x86          | MSI  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.msi |
+| 3.0.18  | Windows  | x64          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.zip          |
+| 3.0.18  | Windows  | x86          | ZIP  | https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5502,10 +5502,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                   |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------- |
-| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
-| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
+| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
+| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
 
 ## Wireshark
 
@@ -5569,8 +5569,8 @@
 | 5.16.0.3241  | Rooms    | msi  | x64          | https://cdn.zoom.us/prod/5.16.0.3241/x64/zoomrooms-5.16.0.3241-x64.msi |
 | 5.16.0.3241  | Rooms    | msi  | x86          | https://cdn.zoom.us/prod/5.16.0.3241/zoomrooms-5.16.0.3241-x86.msi     |
 | 5.15.5.926   | Outlook  | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi         |
-| 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
+| 5.15.5.925   | Notes    | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.13.10.812  | Lync     | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
 | Latest       | AVD      | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi                    |
 | Latest       | Citrix   | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi              |
