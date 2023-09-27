@@ -6,7 +6,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "09/26/2023",
-    "Size": 79135704,
+    "Size": 79131768,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/Obsidian.1.4.14-arm64.exe"
   },
   {
@@ -16,7 +16,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "09/26/2023",
-    "Size": 71794896,
+    "Size": 71786056,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/Obsidian.1.4.14-32.exe"
   },
   {
@@ -26,7 +26,7 @@
     "Type": "exe",
     "InstallerType": "User",
     "Date": "09/26/2023",
-    "Size": 76523792,
+    "Size": 76522424,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/Obsidian.1.4.14-allusers.exe"
   },
   {
@@ -36,7 +36,7 @@
     "Type": "exe",
     "InstallerType": "Default",
     "Date": "09/26/2023",
-    "Size": 76453616,
+    "Size": 76451680,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/Obsidian.1.4.14.exe"
   }
 ]
