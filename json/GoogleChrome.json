@@ -14,7 +14,7 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "118.0.5993.18",
+    "Version": "118.0.5993.32",
     "Architecture": "x64",
     "Channel": "beta",
     "Type": "msi",
@@ -35,7 +35,7 @@
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
-    "Version": "116.0.5845.188",
+    "Version": "116.0.5845.228",
     "Architecture": "x64",
     "Channel": "extended",
     "Type": "msi",

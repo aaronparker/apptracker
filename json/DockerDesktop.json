@@ -1,16 +1,7 @@
-[
-  {
-    "Version": "4.23.0",
-    "Build": "120376",
-    "Size": "600410456",
-    "Type": "exe",
-    "URI": "https://desktop.docker.com/win/main/amd64/120376/Docker%20Desktop%20Installer.exe"
-  },
-  {
-    "Version": "4.22.1",
-    "Build": "118664",
-    "Size": "607393624",
-    "Type": "exe",
-    "URI": "https://desktop.docker.com/win/main/amd64/118664/Docker%20Desktop%20Installer.exe"
-  }
-]
+{
+  "Version": "4.23.0",
+  "Build": "120376",
+  "Size": "600410456",
+  "Type": "exe",
+  "URI": "https://desktop.docker.com/win/main/amd64/120376/Docker%20Desktop%20Installer.exe"
+}
