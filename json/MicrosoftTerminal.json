@@ -3,7 +3,7 @@
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "msixbundle",
-  "InstallerType": "Default",
+  "InstallerType": "Minimal",
   "Date": "09/26/2023",
   "Size": 21204692,
   "URI": "https://github.com/microsoft/terminal/releases/download/v1.18.2681.0/Microsoft.WindowsTerminal_1.18.2681.0_8wekyb3d8bbwe.msixbundle"

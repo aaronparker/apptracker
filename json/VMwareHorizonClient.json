@@ -1,4 +1,9 @@
 {
-  "Version": "8.10.0.21964678",
-  "URI": "https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.10.0/21964678/VMware-Horizon-Client-2306-8.10.0-21964678.exe.tar"
+  "Version": "2306",
+  "ReleaseDate": "2023-07-06T00:00:00",
+  "Md5": "71929b8037174383cc04ec1d48aa48f7",
+  "Sha256": "6194f18dfc03d34ab50833dad471bd124b108aa74a4078c80d8091edec47cfbd",
+  "Size": "426.66 MB",
+  "Type": "exe",
+  "URI": "https://download3.vmware.com/software/CART24FQ2_WIN_2306/VMware-Horizon-Client-2306-8.10.0-21964678.exe"
 }

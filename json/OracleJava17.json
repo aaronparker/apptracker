@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "17.0.17",
+    "Sha256": "7adb58c306d41df54d2ca74e4489d4ade75b4dfb87dc5d5b0d3f21c53ca088fd",
+    "Type": "exe",
+    "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe"
+  },
+  {
+    "Version": "17.0.17",
+    "Sha256": "f167123b123be215ba658ad7b7917a764ce9c4605909b48bc70651d949478a9e",
+    "Type": "msi",
+    "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi"
+  },
+  {
+    "Version": "17.0.17",
+    "Sha256": "98385c1fd4db7ad3fd7ca2f33a1fadae0b15486cfde699138d47002d7068084a",
+    "Type": "zip",
+    "URI": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip"
+  }
+]

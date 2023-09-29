@@ -1,6 +1,6 @@
 [
   {
-    "Version": "2.42.0",
+    "Version": "2.42.0.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
@@ -10,7 +10,7 @@
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe"
   },
   {
-    "Version": "2.42.0",
+    "Version": "2.42.0.2",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
@@ -20,7 +20,7 @@
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe"
   },
   {
-    "Version": "2.42.0",
+    "Version": "2.42.0.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
@@ -30,7 +30,7 @@
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-32-bit.exe"
   },
   {
-    "Version": "2.42.0",
+    "Version": "2.42.0.2",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
@@ -38,65 +38,5 @@
     "Date": "08/30/2023",
     "Size": 58749224,
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-32-bit.7z.exe"
-  },
-  {
-    "Version": "2.42.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 39487291,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-64-bit.zip"
-  },
-  {
-    "Version": "2.42.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 35113369,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-busybox-64-bit.zip"
-  },
-  {
-    "Version": "2.42.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 16405417,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/pdbs-for-git-64-bit-2.42.0.2.2f819d1670-1.zip"
-  },
-  {
-    "Version": "2.42.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 41244580,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-32-bit.zip"
-  },
-  {
-    "Version": "2.42.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 35085766,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-busybox-32-bit.zip"
-  },
-  {
-    "Version": "2.42.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 17064505,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/pdbs-for-git-32-bit-2.42.0.2.2f819d1670-1.zip"
   }
 ]

@@ -2,11 +2,13 @@
   {
     "Version": "1.8.0_381-b09",
     "Architecture": "x64",
+    "Type": "exe",
     "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_381-b09/8c876547113c4e4aab3c868e9e0ec572/windows-i586/jre-8u381-windows-x64.exe"
   },
   {
     "Version": "1.8.0_381-b09",
     "Architecture": "x86",
+    "Type": "exe",
     "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_381-b09/8c876547113c4e4aab3c868e9e0ec572/windows-i586/jre-8u381-windows-i586.exe"
   }
 ]

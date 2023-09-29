@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "20.0.2",
+    "Sha256": "ef40941f1b54b52747d98330ca845374bccb8e3635fc7f647f60405cf51eb17f",
+    "Type": "exe",
+    "URI": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe"
+  },
+  {
+    "Version": "20.0.2",
+    "Sha256": "d6b4db0821789bffe1b6c88937d061e878e9773e2e7d6469d99c970c97e0d3f5",
+    "Type": "msi",
+    "URI": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.msi"
+  },
+  {
+    "Version": "20.0.2",
+    "Sha256": "79a227ca670e5594560f6caeec26bf466143612d048e7f5b0ad2c3770d465ea6",
+    "Type": "zip",
+    "URI": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip"
+  }
+]
