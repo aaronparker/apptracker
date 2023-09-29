@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 289 applications and 3576 unique application installers:
+App Version Tracker is using Evergreen to track 294 applications and 3587 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -96,7 +96,7 @@ App Version Tracker is using Evergreen to track 289 applications and 3576 unique
 | GitHub Atom                                                       | https://atom.io/                                                                                 |
 | GitHub Desktop                                                    | https://desktop.github.com/                                                                      |
 | GitHub release                                                    | https://github.com/                                                                              |
-| Google Chrome                                                     | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
+| Google Chrome Enterprise                                          | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
 | Google Chrome Driver                                              | https://cloud.google.com/chrome-enterprise/browser/download/                                     |
 | Google Drive                                                      | https://support.google.com/drive/answer/7329379                                                  |
 | GoTo Connect                                                      | https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments       |
@@ -164,6 +164,8 @@ App Version Tracker is using Evergreen to track 289 applications and 3576 unique
 | Microsoft Edge WebDriver                                          | https://www.microsoft.com/edge                                                                   |
 | Microsoft Edge WebView2 Runtime                                   | https://developer.microsoft.com/en-us/microsoft-edge/webview2/                                   |
 | Microsoft FSLogix Apps                                            | https://docs.microsoft.com/fslogix/                                                              |
+| Microsoft ODBC Driver for SQL Server                              | https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server           |
+| Microsoft OLE DB Driver for SQL Server                            | https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server         |
 | Microsoft OneDrive                                                | https://onedrive.live.com/                                                                       |
 | Microsoft OpenJDK 11                                              | https://www.microsoft.com/openjdk                                                                |
 | Microsoft OpenJDK 17                                              | https://www.microsoft.com/openjdk                                                                |
@@ -214,6 +216,8 @@ App Version Tracker is using Evergreen to track 289 applications and 3576 unique
 | Opera Browser                                                     | https://www.opera.com/browsers/opera                                                             |
 | Opera Crypto Browser                                              | https://www.opera.com/crypto/next                                                                |
 | Opera GX Browser                                                  | https://www.opera.com/gx                                                                         |
+| Oracle Java 17                                                    | https://www.java.com                                                                             |
+| Oracle Java 20                                                    | https://www.java.com                                                                             |
 | Oracle Java 8                                                     | https://www.java.com                                                                             |
 | Oracle VirtualBox                                                 | https://www.virtualbox.org/                                                                      |
 | dotPDN LLC Paint.NET                                              | https://getpaint.net                                                                             |
@@ -284,6 +288,7 @@ App Version Tracker is using Evergreen to track 289 applications and 3576 unique
 | VMware Horizon Client                                             | https://docs.vmware.com/en/VMware-Horizon-Client/index.html                                      |
 | VMware Horizon Client (alternate method)                          | https://docs.vmware.com/en/VMware-Horizon-Client/index.html                                      |
 | VMware OS Optimization Tool                                       | https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide           |
+| VMware SD-WAN Client                                              | https://docs.vmware.com/en/VMware-SD-WAN-Client/index.html                                       |
 | VMware Tools                                                      | https://docs.vmware.com/en/VMware-Tools/index.html                                               |
 | VMware Workstation Player                                         | https://www.vmware.com/products/workstation-player.html                                          |
 | VMware Workstation Pro                                            | https://www.vmware.com/products/workstation-pro.html                                             |
