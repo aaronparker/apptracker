@@ -1,7 +1,7 @@
 {
   "Version": "1.0.13.0",
   "Platform": "Windows",
-  "Architecture": "x64",
+  "Architecture": "x86",
   "Type": "msixbundle",
   "InstallerType": "Default",
   "Date": "07/23/2023",

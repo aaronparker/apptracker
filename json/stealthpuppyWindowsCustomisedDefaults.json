@@ -2,7 +2,7 @@
   {
     "Version": "2309.04.164",
     "Platform": "Windows",
-    "Architecture": "x64",
+    "Architecture": "x86",
     "Type": "intunewin",
     "InstallerType": "Default",
     "Date": "09/04/2023",
@@ -12,7 +12,7 @@
   {
     "Version": "2309.04.164",
     "Platform": "Windows",
-    "Architecture": "x64",
+    "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "09/04/2023",

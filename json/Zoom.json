@@ -1,42 +1,54 @@
 [
   {
     "Version": "5.16.2.22807",
-    "Platform": "Meetings",
+    "Platform": "Desktop",
+    "Installer": "User",
+    "Size": 66509688,
     "Type": "exe",
     "Architecture": "ARM64",
     "URI": "https://cdn.zoom.us/prod/5.16.2.22807/arm64/ZoomInstallerFull.exe"
   },
   {
     "Version": "5.16.2.22807",
-    "Platform": "Meetings",
+    "Platform": "Desktop",
+    "Installer": "User",
+    "Size": 80651912,
     "Type": "exe",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/5.16.2.22807/x64/ZoomInstallerFull.exe"
   },
   {
     "Version": "5.16.2.22807",
-    "Platform": "Meetings",
+    "Platform": "Desktop",
+    "Installer": "User",
+    "Size": 73730952,
     "Type": "exe",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.16.2.22807/ZoomInstallerFull.exe"
   },
   {
     "Version": "5.16.2.22807",
-    "Platform": "Meetings",
+    "Platform": "Desktop",
+    "Installer": "Admin",
+    "Size": 90441728,
     "Type": "msi",
     "Architecture": "ARM64",
     "URI": "https://cdn.zoom.us/prod/5.16.2.22807/arm64/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.16.2.22807",
-    "Platform": "Meetings",
+    "Platform": "Desktop",
+    "Installer": "Admin",
+    "Size": 108339200,
     "Type": "msi",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/5.16.2.22807/x64/ZoomInstallerFull.msi"
   },
   {
     "Version": "5.16.2.22807",
-    "Platform": "Meetings",
+    "Platform": "Desktop",
+    "Installer": "Admin",
+    "Size": 100535296,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.16.2.22807/ZoomInstallerFull.msi"
@@ -44,6 +56,8 @@
   {
     "Version": "5.16.1.3257",
     "Platform": "Rooms",
+    "Installer": "User",
+    "Size": 366321776,
     "Type": "exe",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/5.16.1.3257/x64/zoomrooms-5.16.1.3257-x64.exe"
@@ -51,6 +65,8 @@
   {
     "Version": "5.16.1.3257",
     "Platform": "Rooms",
+    "Installer": "User",
+    "Size": 339268384,
     "Type": "exe",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.16.1.3257/zoomrooms-5.16.1.3257-x86.exe"
@@ -58,6 +74,8 @@
   {
     "Version": "5.16.1.3257",
     "Platform": "Rooms",
+    "Installer": "Admin",
+    "Size": 369593856,
     "Type": "msi",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/5.16.1.3257/x64/zoomrooms-5.16.1.3257-x64.msi"
@@ -65,6 +83,8 @@
   {
     "Version": "5.16.1.3257",
     "Platform": "Rooms",
+    "Installer": "Admin",
+    "Size": 342178304,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.16.1.3257/zoomrooms-5.16.1.3257-x86.msi"
@@ -72,6 +92,8 @@
   {
     "Version": "5.15.5.926",
     "Platform": "Outlook",
+    "Installer": "User",
+    "Size": 9776128,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.15.5.926/ZoomOutlookPluginSetup.msi"
@@ -79,57 +101,28 @@
   {
     "Version": "5.15.5.925",
     "Platform": "Notes",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi"
-  },
-  {
-    "Version": "5.15.5.925",
-    "Platform": "Notes",
+    "Installer": "User",
+    "Size": 7625728,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi"
   },
   {
+    "Version": "5.15.5.925",
+    "Platform": "Notes",
+    "Installer": "Admin",
+    "Size": 8222720,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi"
+  },
+  {
     "Version": "5.13.10.812",
     "Platform": "Lync",
+    "Installer": "User",
+    "Size": 4914176,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi"
-  },
-  {
-    "Version": "Latest",
-    "Platform": "AVD",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/vdi/ZoomWVDMediaPlugin.msi"
-  },
-  {
-    "Version": "Latest",
-    "Platform": "Citrix",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
-  },
-  {
-    "Version": "Latest",
-    "Platform": "Plugin",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi"
-  },
-  {
-    "Version": "Latest",
-    "Platform": "VDI",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi"
-  },
-  {
-    "Version": "Latest",
-    "Platform": "VMware",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/vdi/ZoomVmwareMediaPlugin.msi"
   }
 ]

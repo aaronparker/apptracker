@@ -1,0 +1,47 @@
+[
+  {
+    "Version": "Latest",
+    "Platform": "Citrix",
+    "Installer": "Admin",
+    "Size": 84751872,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
+  },
+  {
+    "Version": "Latest",
+    "Platform": "Universal",
+    "Installer": "Admin",
+    "Size": 80033280,
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi"
+  },
+  {
+    "Version": "Latest",
+    "Platform": "Universal",
+    "Installer": "Admin",
+    "Size": 77031936,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi"
+  },
+  {
+    "Version": "Latest",
+    "Platform": "VDIClient",
+    "Installer": "Admin",
+    "Size": 113062400,
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi"
+  },
+  {
+    "Version": "Latest",
+    "Platform": "VDIClient",
+    "Installer": "Admin",
+    "Size": 103649792,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi"
+  }
+]
