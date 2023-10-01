@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 294 applications and 3587 unique application installers:
+App Version Tracker is using Evergreen to track 296 applications and 3576 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -24,8 +24,8 @@ App Version Tracker is using Evergreen to track 294 applications and 3587 unique
 | Adoptium Temurin 16                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 17                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 18                                               | https://adoptium.net/                                                                            |
-| Adoptium Temurin 18                                               | https://adoptium.net/                                                                            |
-| Adoptium Temurin 18                                               | https://adoptium.net/                                                                            |
+| Adoptium Temurin 19                                               | https://adoptium.net/                                                                            |
+| Adoptium Temurin 20                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 8                                                | https://adoptium.net/                                                                            |
 | Airtame App                                                       | https://airtame.com/                                                                             |
 | Akeo Rufus                                                        | https://rufus.ie/                                                                                |
@@ -216,8 +216,9 @@ App Version Tracker is using Evergreen to track 294 applications and 3587 unique
 | Opera Browser                                                     | https://www.opera.com/browsers/opera                                                             |
 | Opera Crypto Browser                                              | https://www.opera.com/crypto/next                                                                |
 | Opera GX Browser                                                  | https://www.opera.com/gx                                                                         |
-| Oracle Java 17                                                    | https://www.java.com                                                                             |
-| Oracle Java 20                                                    | https://www.java.com                                                                             |
+| Oracle Java 17                                                    | https://www.oracle.com/java/technologies/downloads/#java17                                       |
+| Oracle Java 20                                                    | https://www.oracle.com/java/technologies/downloads/#java20                                       |
+| Oracle Java 21                                                    | https://www.oracle.com/java/technologies/downloads/#java21                                       |
 | Oracle Java 8                                                     | https://www.java.com                                                                             |
 | Oracle VirtualBox                                                 | https://www.virtualbox.org/                                                                      |
 | dotPDN LLC Paint.NET                                              | https://getpaint.net                                                                             |
@@ -245,7 +246,7 @@ App Version Tracker is using Evergreen to track 294 applications and 3587 unique
 | Responsively App                                                  | https://responsively.app/                                                                        |
 | RingCentral                                                       | https://www.ringcentral.com                                                                      |
 | Rizonesoft Notepad3                                               | https://www.rizonesoft.com/downloads/notepad3                                                    |
-| RStudio Desktop                                                   | https://www.rstudio.com/                                                                         |
+| RStudio Desktop                                                   | https://posit.co/products/open-source/rstudio/                                                   |
 | Safe Exam Browser                                                 | https://safeexambrowser.org/                                                                     |
 | Safing Portmaster                                                 | https://safing.io/                                                                               |
 | SAGA-GIS                                                          | http://www.saga-gis.org/                                                                         |
@@ -301,6 +302,7 @@ App Version Tracker is using Evergreen to track 294 applications and 3587 unique
 | XnSoft Convert                                                    | https://www.xnview.com/en/xnconvert/                                                             |
 | XnSoft XnView MP                                                  | https://www.xnview.com/en/xnviewmp/                                                              |
 | Yubico Authenticator                                              | https://github.com/Yubico/yubioath-flutter/                                                      |
-| Zoom                                                              | https://zoom.us/                                                                                 |
+| Zoom                                                              | https://zoom.us/download                                                                         |
+| Zoom Plugins for VDI                                              | https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads               |
 | ZorgMail Veilig verzenden plug-in                                 | https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/          |
 | Zotero                                                            | https://www.zotero.org/                                                                          |
