@@ -1,52 +1,52 @@
 [
   {
-    "Version": "22.0.0",
+    "Version": "22.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "09/28/2023",
-    "Size": 103871992,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.0/draw.io-22.0.0-windows-installer.exe"
+    "Date": "10/02/2023",
+    "Size": 104103512,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.1/draw.io-22.0.1-windows-installer.exe"
   },
   {
-    "Version": "22.0.0",
+    "Version": "22.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "09/28/2023",
-    "Size": 103656488,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.0/draw.io-22.0.0-windows-no-installer.exe"
+    "Date": "10/02/2023",
+    "Size": 103888040,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.1/draw.io-22.0.1-windows-no-installer.exe"
   },
   {
-    "Version": "22.0.0",
+    "Version": "22.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "09/28/2023",
-    "Size": 99574152,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.0/draw.io-ia32-22.0.0-windows-32bit-installer.exe"
+    "Date": "10/02/2023",
+    "Size": 99790216,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.1/draw.io-ia32-22.0.1-windows-32bit-installer.exe"
   },
   {
-    "Version": "22.0.0",
+    "Version": "22.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "09/28/2023",
-    "Size": 99359152,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.0/draw.io-ia32-22.0.0-windows-32bit-no-installer.exe"
+    "Date": "10/02/2023",
+    "Size": 99575192,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.1/draw.io-ia32-22.0.1-windows-32bit-no-installer.exe"
   },
   {
-    "Version": "22.0.0",
+    "Version": "22.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "09/28/2023",
-    "Size": 137105408,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.0/draw.io-22.0.0.msi"
+    "Date": "10/02/2023",
+    "Size": 137400320,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v22.0.1/draw.io-22.0.1.msi"
   }
 ]
