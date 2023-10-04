@@ -1,8 +1,8 @@
 {
-  "Version": "9.1.2",
+  "Version": "9.1.3",
   "Architecture": "x64",
   "Type": "exe",
-  "Size": "60974147",
-  "Md5": "f26cc5c9d8dddf66a649a3476d68fb12",
-  "URI": "https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.2/saga-9.1.2_x64_setup.exe"
+  "Size": "60966914",
+  "Md5": "17cb8b66e1a88b90ef54a92ec27223f4",
+  "URI": "https://zenlayer.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.1.3/saga-9.1.3_x64_setup.exe"
 }

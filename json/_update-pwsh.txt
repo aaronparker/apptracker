@@ -1,0 +1,17 @@
+json/7zip.json
+json/AirtameApp.json
+json/DockerDesktop.json
+json/GeoGebraClassic.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzurePipelinesAgent.json
+json/MicrosoftOneDrive.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VastLimitsUberAgent.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
