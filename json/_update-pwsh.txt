@@ -1,0 +1,15 @@
+json/7zip.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/ImageMagickStudioImageMagick.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftTeamsPreview.json
+json/MicrosoftVisualStudioCode.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/ZoomVDI.json
+json/gretl.json
