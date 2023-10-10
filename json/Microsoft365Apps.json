@@ -14,45 +14,45 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16827.20130",
+    "Version": "16.0.16827.20166",
     "Channel": "Current",
     "Name": "Current Channel",
-    "Date": "2023-09-28T17:04:06.087Z",
+    "Date": "2023-10-10T08:54:20.62Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16731.20234",
-    "Channel": "SemiAnnualPreview",
-    "Name": "Semi-Annual Channel Preview",
-    "Date": "2023-09-12T07:49:47.237Z",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.16626.20208",
+    "Version": "16.0.16731.20316",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise",
-    "Date": "2023-09-12T07:49:06.86Z",
+    "Date": "2023-10-10T08:01:59.79Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.16130.20766",
+    "Version": "16.0.16731.20316",
+    "Channel": "SemiAnnualPreview",
+    "Name": "Semi-Annual Channel Preview",
+    "Date": "2023-10-10T12:41:18.827Z",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
+    "Version": "16.0.16130.20810",
     "Channel": "SemiAnnual",
     "Name": "Semi-Annual Channel",
-    "Date": "2023-09-12T07:49:49.53Z",
+    "Date": "2023-10-10T08:02:15.667Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14332.20565",
+    "Version": "16.0.14332.20582",
     "Channel": "PerpetualVL2021",
     "Name": "Office LTSC 2021 Perpetual Enterprise",
-    "Date": "2023-09-12T13:17:09.28Z",
+    "Date": "2023-10-10T13:16:46.4Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10402.20023",
+    "Version": "16.0.10403.20013",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "2023-09-12T13:21:51.203Z",
+    "Date": "2023-10-10T13:20:39.303Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }
 ]
