@@ -1,0 +1,10 @@
+json/AirtameApp.json
+json/AutodeskFusion360.json
+json/Gimp.json
+json/GoogleChromeDriver.json
+json/KDiff3.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
