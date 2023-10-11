@@ -48,19 +48,19 @@
     "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.9/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "117.0.5938.149",
-    "Revision": "1181205",
+    "Version": "118.0.5993.70",
+    "Revision": "1192594",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/win64/chromedriver-win64.zip"
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "117.0.5938.149",
-    "Revision": "1181205",
+    "Version": "118.0.5993.70",
+    "Revision": "1192594",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/win32/chromedriver-win32.zip"
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win32/chromedriver-win32.zip"
   }
 ]
