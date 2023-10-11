@@ -1,32 +1,32 @@
 [
   {
-    "Version": "7.1.0",
+    "Version": "7.1.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "09/05/2023",
-    "Size": 12042900,
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.1.0/naps2-7.1.0-win.exe"
+    "Date": "10/11/2023",
+    "Size": 12063064,
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.1.1/naps2-7.1.1-win.exe"
   },
   {
-    "Version": "7.1.0",
+    "Version": "7.1.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "09/05/2023",
-    "Size": 12070342,
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.1.0/naps2-7.1.0-win-x64.msi"
+    "Date": "10/11/2023",
+    "Size": 12087037,
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.1.1/naps2-7.1.1-win-x64.msi"
   },
   {
-    "Version": "7.1.0",
+    "Version": "7.1.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "09/05/2023",
-    "Size": 11857348,
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.1.0/naps2-7.1.0-win-x86.msi"
+    "Date": "10/11/2023",
+    "Size": 11869947,
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.1.1/naps2-7.1.1-win-x86.msi"
   }
 ]
