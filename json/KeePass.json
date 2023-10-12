@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2.54",
+    "Version": "2.55",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "4375600",
-    "Md5": "f883d719a05fa120c702d3fd395e7f18",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54-Setup.exe"
+    "Size": "4384104",
+    "Md5": "85a374b5f3fa0402081c39b002619353",
+    "URI": "https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe"
   },
   {
-    "Version": "2.54",
+    "Version": "2.55",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "3757568",
-    "Md5": "45144779d7e7fe97b693853bdb4bac0b",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.54/KeePass-2.54.msi"
+    "Size": "3753472",
+    "Md5": "e850001d63073eacfc60975c2618a4e7",
+    "URI": "https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi"
   }
 ]
