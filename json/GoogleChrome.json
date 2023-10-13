@@ -21,14 +21,14 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "119.0.6045.9",
+    "Version": "119.0.6045.21",
     "Architecture": "x64",
     "Channel": "beta",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "119.0.6045.9",
+    "Version": "119.0.6045.21",
     "Architecture": "x86",
     "Channel": "beta",
     "Type": "msi",
