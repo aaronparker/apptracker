@@ -1,14 +1,14 @@
 [
   {
-    "Version": "23.2.0",
-    "Date": "08/22/2023 00:00:00",
+    "Version": "23.3.1",
+    "Date": "10/17/2023 00:00:00",
     "Type": "exe",
-    "URI": "http://download.techsmith.com/camtasiastudio/releases/2320/camtasia.exe"
+    "URI": "http://download.techsmith.com/camtasiastudio/releases/2331/camtasia.exe"
   },
   {
-    "Version": "23.2.0",
-    "Date": "08/22/2023 00:00:00",
+    "Version": "23.3.1",
+    "Date": "10/17/2023 00:00:00",
     "Type": "msi",
-    "URI": "http://download.techsmith.com/camtasiastudio/releases/2320/camtasia.msi"
+    "URI": "http://download.techsmith.com/camtasiastudio/releases/2331/camtasia.msi"
   }
 ]
