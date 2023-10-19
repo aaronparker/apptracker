@@ -1,5 +1,23 @@
 [
   {
+    "Version": "120.0.2165.1",
+    "Channel": "Dev",
+    "Architecture": "ARM64",
+    "URI": "https://msedgedriver.azureedge.net/120.0.2165.1/edgedriver_arm64.zip"
+  },
+  {
+    "Version": "120.0.2165.1",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "URI": "https://msedgedriver.azureedge.net/120.0.2165.1/edgedriver_win64.zip"
+  },
+  {
+    "Version": "120.0.2165.1",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "URI": "https://msedgedriver.azureedge.net/120.0.2165.1/edgedriver_win32.zip"
+  },
+  {
     "Version": "119.0.2151.12",
     "Channel": "Beta",
     "Architecture": "ARM64",
@@ -18,39 +36,21 @@
     "URI": "https://msedgedriver.azureedge.net/119.0.2151.12/edgedriver_win32.zip"
   },
   {
-    "Version": "119.0.2151.2",
-    "Channel": "Dev",
-    "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/119.0.2151.2/edgedriver_arm64.zip"
-  },
-  {
-    "Version": "119.0.2151.2",
-    "Channel": "Dev",
-    "Architecture": "x64",
-    "URI": "https://msedgedriver.azureedge.net/119.0.2151.2/edgedriver_win64.zip"
-  },
-  {
-    "Version": "119.0.2151.2",
-    "Channel": "Dev",
-    "Architecture": "x86",
-    "URI": "https://msedgedriver.azureedge.net/119.0.2151.2/edgedriver_win32.zip"
-  },
-  {
-    "Version": "118.0.2088.46",
+    "Version": "118.0.2088.57",
     "Channel": "Stable",
     "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/118.0.2088.46/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.azureedge.net/118.0.2088.57/edgedriver_arm64.zip"
   },
   {
-    "Version": "118.0.2088.46",
+    "Version": "118.0.2088.57",
     "Channel": "Stable",
     "Architecture": "x64",
-    "URI": "https://msedgedriver.azureedge.net/118.0.2088.46/edgedriver_win64.zip"
+    "URI": "https://msedgedriver.azureedge.net/118.0.2088.57/edgedriver_win64.zip"
   },
   {
-    "Version": "118.0.2088.46",
+    "Version": "118.0.2088.57",
     "Channel": "Stable",
     "Architecture": "x86",
-    "URI": "https://msedgedriver.azureedge.net/118.0.2088.46/edgedriver_win32.zip"
+    "URI": "https://msedgedriver.azureedge.net/118.0.2088.57/edgedriver_win32.zip"
   }
 ]

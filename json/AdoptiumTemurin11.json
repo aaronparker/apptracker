@@ -1,23 +1,23 @@
 [
   {
-    "Version": "11.0.20.1+1",
+    "Version": "11.0.21+9",
     "ImageType": "jdk",
-    "Date": "2023-08-29T14:11:54Z",
-    "Checksum": "51785957427c5f34581930fbb224a44550f70d1c5ecb6f05ab27432e6a1f9a75",
-    "Size": 174469120,
+    "Date": "2023-10-18T20:52:28Z",
+    "Checksum": "ccaa09811f488cf95340e2702e8d9176058a52e89808ae6e1a1d20de39e5ce34",
+    "Size": 175300608,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.msi"
+    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.21_9.msi"
   },
   {
-    "Version": "11.0.20.1+1",
+    "Version": "11.0.21+9",
     "ImageType": "jre",
-    "Date": "2023-08-29T14:12:15Z",
-    "Checksum": "f25a6adf1eeb005945e3255e11ea1adbd63f00872a4c6db849b4467be5c1db4d",
-    "Size": 31395840,
+    "Date": "2023-10-18T20:52:07Z",
+    "Checksum": "9b0ea6ebe77e70c7ac229074028d64399d72a7fda499aad114ef0ba4c375b1a8",
+    "Size": 31477760,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jre_x64_windows_hotspot_11.0.20.1_1.msi"
+    "URI": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.21_9.msi"
   },
   {
     "Version": "11.0.20.1+1",
