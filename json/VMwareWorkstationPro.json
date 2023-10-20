@@ -1,9 +1,9 @@
 {
-  "Version": "17.0.2",
-  "ReleaseDate": "2023-04-25T00:00:00",
-  "Md5": "190113ff4da78a2ff9cb3272d5509b05",
-  "Sha256": "ab925cf5b7424b8f28bf65a5c388ce6f680dfeb157612ee6d6c3dd0a63100a40",
-  "Size": "607.7 MB",
+  "Version": "17.5",
+  "ReleaseDate": "2023-10-19T00:00:00",
+  "Md5": "b091d9183034eba8415d9ae3ca9bd0e3",
+  "Sha256": "f5b29860e563b979052f89ab73af5b3b47f1048f3e13a9412e3b7e453b4d0e8b",
+  "Size": "571.76 MB",
   "Type": "exe",
-  "URI": "https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe"
+  "URI": "https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe"
 }
