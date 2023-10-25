@@ -136,7 +136,7 @@
   },
   {
     "Version": "23.209.1008.0002",
-    "Throttle": "50",
+    "Throttle": "100",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -145,7 +145,7 @@
   },
   {
     "Version": "23.209.1008.0002",
-    "Throttle": "50",
+    "Throttle": "100",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -154,39 +154,12 @@
   },
   {
     "Version": "23.209.1008.0002",
-    "Throttle": "50",
+    "Throttle": "100",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "Q2kh5Whzx+lPgpy+W58+M2NKd2JSOdZU80g3+a9oUJo=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/23.209.1008.0002/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.199.0924.0001",
-    "Throttle": "100",
-    "Architecture": "AMD64",
-    "Ring": "Production",
-    "Type": "exe",
-    "Sha256": "Q/TC7WJ0w+UV9SaDJG9sw8UOvAG8VgvaWdkgBqXdtZc=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.199.0924.0001/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.199.0924.0001",
-    "Throttle": "100",
-    "Architecture": "ARM64",
-    "Ring": "Production",
-    "Type": "exe",
-    "Sha256": "vCUIk1lrqjkShNuOhsX4MPaNE/JpeKlLyFDVen+JITQ=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.199.0924.0001/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "23.199.0924.0001",
-    "Throttle": "100",
-    "Architecture": "x86",
-    "Ring": "Production",
-    "Sha256": "8u2ezqsk1Mg69sFWDR71NbNbiEEXU2CesE3vwMoQDnM=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.199.0924.0001/OneDriveSetup.exe"
   },
   {
     "Version": "23.101.0514.0004",

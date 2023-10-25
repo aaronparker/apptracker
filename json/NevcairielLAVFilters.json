@@ -1,10 +1,10 @@
 {
-  "Version": "0.77.2",
+  "Version": "0.78",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "exe",
   "InstallerType": "Default",
-  "Date": "03/08/2023",
-  "Size": 14572552,
-  "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe"
+  "Date": "10/25/2023",
+  "Size": 15247896,
+  "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.78/LAVFilters-0.78-Installer.exe"
 }
