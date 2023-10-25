@@ -1,22 +1,22 @@
 [
   {
-    "Version": "6.3.18",
+    "Version": "6.3.20",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "10/08/2023",
-    "Size": 19485256,
-    "URI": "https://github.com/praat/praat/releases/download/v6.3.18/praat6318_win64.zip"
+    "Date": "10/24/2023",
+    "Size": 19488242,
+    "URI": "https://github.com/praat/praat/releases/download/v6.3.20/praat6320_win64.zip"
   },
   {
-    "Version": "6.3.18",
+    "Version": "6.3.20",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "10/08/2023",
-    "Size": 19302459,
-    "URI": "https://github.com/praat/praat/releases/download/v6.3.18/praat6318_win32.zip"
+    "Date": "10/24/2023",
+    "Size": 19304900,
+    "URI": "https://github.com/praat/praat/releases/download/v6.3.20/praat6320_win32.zip"
   }
 ]

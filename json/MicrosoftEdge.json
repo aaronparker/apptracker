@@ -129,15 +129,6 @@
     "Version": "118.0.2088.61",
     "Platform": "Windows",
     "Channel": "Stable",
-    "Release": "Enterprise",
-    "Architecture": "arm64",
-    "Hash": "C869581E48E267AD70D6B29F6A675F72F6EF264909FC56F0A9E9EADB4BD1F6F7",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de9a4cf6-ce54-4934-859e-a38c1ca1ab1b/MicrosoftEdgeEnterpriseARM64.msi"
-  },
-  {
-    "Version": "118.0.2088.61",
-    "Platform": "Windows",
-    "Channel": "Stable",
     "Release": "Consumer",
     "Architecture": "x64",
     "Hash": "D2CBEEEC222F1D093976C891F93ABC32F038561E98BE73D37BEA76A6E6A466EB",
