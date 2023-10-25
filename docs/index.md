@@ -4,126 +4,306 @@
 
 [Link](https://www.7-zip.org/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
-## RedHatOpenJDK11
+## MicrosoftEdge
 
-[Link](https://developers.redhat.com/products/openjdk/overview)
+[Link](https://www.microsoft.com/edge)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version   | ImageType | Date                | Architecture | Type | URI                                                                                                                                            |
-| --------- | --------- | ------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.21+9 | jdk       | 10/18/2023 17:01:31 | x64          | msi  | https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/October_2023/java-11-openjdk-11.0.21.9-1.windows.redhat.x86_64.msi     |
-| 11.0.21+9 | jre       | 10/18/2023 17:01:31 | x64          | msi  | https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/October_2023/java-11-openjdk-jre-11.0.21.9-1.windows.redhat.x86_64.msi |
+| Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
+| ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 120.0.2165.1  | Any      | Policy     | Enterprise | any          | FB704A889BE8E85CFE37259AF3FCF9142275202C540A52333B6B0C72A539616B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b07cca15-74a4-484b-880c-320fdfcf21f1/MicrosoftEdgePolicyTemplates.cab            |
+| 120.0.2165.1  | Windows  | Dev        | Consumer   | arm64        | A824F867C6BB76BC6C57E37714C59332CFF3DDDA6FE1EDEA4D83BE7B74956949 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5a75d25-4c5a-4e29-bc8b-c7845fe49a78/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 120.0.2165.1  | Windows  | Dev        | Enterprise | arm64        | A824F867C6BB76BC6C57E37714C59332CFF3DDDA6FE1EDEA4D83BE7B74956949 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5a75d25-4c5a-4e29-bc8b-c7845fe49a78/MicrosoftEdgeDevEnterpriseARM64.msi         |
+| 120.0.2165.1  | Windows  | Dev        | Consumer   | x64          | DDE49AC46A4C96313B3C117D854AA45CCF0E6F8A48985966EF1B11F020D8B20A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a74bf50-fc6b-425c-937b-9e8e7be0f92a/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 120.0.2165.1  | Windows  | Dev        | Enterprise | x64          | DDE49AC46A4C96313B3C117D854AA45CCF0E6F8A48985966EF1B11F020D8B20A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a74bf50-fc6b-425c-937b-9e8e7be0f92a/MicrosoftEdgeDevEnterpriseX64.msi           |
+| 120.0.2165.1  | Windows  | Dev        | Consumer   | x86          | BC88705CF1377B6E8D18F8E051C9E99851D392DF50AC915474178A087286E2F4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/177e5c7f-7475-4cff-8374-e805ee56f78d/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 120.0.2165.1  | Windows  | Dev        | Enterprise | x86          | BC88705CF1377B6E8D18F8E051C9E99851D392DF50AC915474178A087286E2F4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/177e5c7f-7475-4cff-8374-e805ee56f78d/MicrosoftEdgeDevEnterpriseX86.msi           |
+| 119.0.2151.24 | Windows  | Beta       | Consumer   | arm64        | E480FF0E07B3B31D688F15B7867A5F271680A2709E50764D252E237B7047D584 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43a4884a-c747-44bf-a31e-4278955bb0e4/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 119.0.2151.24 | Windows  | Beta       | Enterprise | arm64        | E480FF0E07B3B31D688F15B7867A5F271680A2709E50764D252E237B7047D584 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43a4884a-c747-44bf-a31e-4278955bb0e4/MicrosoftEdgeBetaEnterpriseARM64.msi        |
+| 119.0.2151.24 | Windows  | Beta       | Consumer   | x64          | 0B94F66F182CDAB54E3F5D17FDE631C8D7C4A69F3433F7DC7BC558EEDCC51A09 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/54271b88-a6b5-4b79-ad1c-260d75d8fe9d/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 119.0.2151.24 | Windows  | Beta       | Enterprise | x64          | 0B94F66F182CDAB54E3F5D17FDE631C8D7C4A69F3433F7DC7BC558EEDCC51A09 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/54271b88-a6b5-4b79-ad1c-260d75d8fe9d/MicrosoftEdgeBetaEnterpriseX64.msi          |
+| 119.0.2151.24 | Windows  | Beta       | Consumer   | x86          | EE74D4D9BF60CAD69309214508BF8811E8C27236F598955B7B273FF03D51E5E9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5bf439cd-3520-4840-a74f-616ebb65d38d/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 119.0.2151.24 | Windows  | Beta       | Enterprise | x86          | EE74D4D9BF60CAD69309214508BF8811E8C27236F598955B7B273FF03D51E5E9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5bf439cd-3520-4840-a74f-616ebb65d38d/MicrosoftEdgeBetaEnterpriseX86.msi          |
+| 118.0.2088.61 | Windows  | Stable     | Consumer   | arm64        | C869581E48E267AD70D6B29F6A675F72F6EF264909FC56F0A9E9EADB4BD1F6F7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de9a4cf6-ce54-4934-859e-a38c1ca1ab1b/MicrosoftEdgeEnterpriseARM64.msi            |
+| 118.0.2088.61 | Windows  | Stable     | Consumer   | x64          | D2CBEEEC222F1D093976C891F93ABC32F038561E98BE73D37BEA76A6E6A466EB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4023aa94-d449-48fb-bce1-12ffafe056c5/MicrosoftEdgeEnterpriseX64.msi              |
+| 118.0.2088.61 | Windows  | Stable     | Enterprise | x64          | D2CBEEEC222F1D093976C891F93ABC32F038561E98BE73D37BEA76A6E6A466EB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4023aa94-d449-48fb-bce1-12ffafe056c5/MicrosoftEdgeEnterpriseX64.msi              |
+| 118.0.2088.61 | Windows  | Stable     | Consumer   | x86          | 34822614DE51CD5BB9B85DE2FB681E728E20ACAB1698740BCF68E0176C50E7BC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8254e852-6af7-499d-80ed-a263b3468f17/MicrosoftEdgeEnterpriseX86.msi              |
+| 118.0.2088.61 | Windows  | Stable     | Enterprise | x86          | 34822614DE51CD5BB9B85DE2FB681E728E20ACAB1698740BCF68E0176C50E7BC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8254e852-6af7-499d-80ed-a263b3468f17/MicrosoftEdgeEnterpriseX86.msi              |
+| 1.3.177.11    | Windows  | EdgeUpdate | Consumer   | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
+| 1.3.177.11    | Windows  | EdgeUpdate | Enterprise | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
 
-## AdoptiumTemurin17
+## AirtameApp
 
-[Link](https://adoptium.net/)
+[Link](https://airtame.com/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version    | ImageType | Date                | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                 |
-| ---------- | --------- | ------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 17.0.8.1+1 | jdk       | 08/29/2023 13:14:53 | 430bc8e8f25d4d41b21ab9a8a0008db36b97f9f70863b300628a95e9692efcaa | 167620608 | x64          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.8.1_1.msi |
-| 17.0.8.1+1 | jre       | 08/29/2023 13:13:46 | 80a1c1c8896ef36f1e3476340a187bb6bdcaf72c66c4b6c844722a5ba8d6a61d | 31531008  | x64          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jre_x64_windows_hotspot_17.0.8.1_1.msi |
-| 17.0.9+9   | jdk       | 10/24/2023 13:48:35 | baf418c5aca6294424835da734f01c81d1df95083385985a90ec395af8015b2f | 164810752 | x86          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.9_9.msi  |
-| 17.0.9+9   | jre       | 10/24/2023 13:48:44 | dca0610b1987fa83ed68469d281e5c925a86d473628de6d885365221d8d9cdeb | 29224960  | x86          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi  |
+| Version | Installer | Type | URI                                                                     |
+| ------- | --------- | ---- | ----------------------------------------------------------------------- |
+| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
+| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
+| 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
 
-## MicrosoftAzureCLI
+## MicrosoftEdgeWebView2Runtime
 
-[Link](https://learn.microsoft.com/en-au/cli/azure/)
+[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |
-| 2.53.1  | Windows  | x86          | msi  | Default       | 10/24/2023 | 52387840 | https://github.com/Azure/azure-cli/releases/download/azure-cli-2.53.1/azure-cli-2.53.1.msi |
+| Version       | Channel | Architecture | URI                                                                                                                                                           |
+| ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 118.0.2088.61 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77b3fcd5-42fe-4fb6-ba70-87e28c763a70/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
+| 118.0.2088.61 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cacf1e2a-7697-4ab4-b402-cb2e33531055/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
+| 118.0.2088.61 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/709d61dc-130a-4d37-bfc1-a3bd49cc00d9/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
 
-## NodeJs
+## MicrosoftVisualStudio
 
-[Link](https://nodejs.org/)
+[Link](https://visualstudio.microsoft.com/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version | Architecture | Type | Channel | URI                                                        |
-| ------- | ------------ | ---- | ------- | ---------------------------------------------------------- |
-| 21.1.0  | ARM64        | msi  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-arm64.msi     |
-| 21.1.0  | x64          | msi  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-x64.msi       |
-| 21.1.0  | x86          | msi  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-x86.msi       |
-| 21.1.0  | ARM64        | zip  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-win-arm64.zip |
-| 21.1.0  | x64          | zip  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-win-x64.zip   |
-| 21.1.0  | x86          | zip  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-win-x86.zip   |
-| 20.9.0  | x64          | msi  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi       |
-| 20.9.0  | x86          | msi  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-x86.msi       |
-| 20.9.0  | x64          | zip  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-win-x64.zip   |
-| 20.9.0  | x86          | zip  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-win-x86.zip   |
+| Version       | Sha256                                                           | Size    | URI                                                                                                                                                                        |
+| ------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17.7.34221.43 | 6c6662a8cad005d16dad1d0c027301aee0a5b8db5b30bff0b8f620202d755940 | 3944440 | https://download.visualstudio.microsoft.com/download/pr/ebbb3a8f-0b8f-4c9d-ac08-5e244e84b4fe/6c6662a8cad005d16dad1d0c027301aee0a5b8db5b30bff0b8f620202d755940/vs_Setup.exe |
 
-## OperaBrowser
+## ProgressChefInSpec
 
-[Link](https://www.opera.com/browsers/opera)
+[Link](https://www.chef.io/products/chef-inspec)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version       | Channel   | Architecture | Type | URI                                                                                                       |
-| ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| 105.0.4963.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/105.0.4963.0/win/Opera_Developer_105.0.4963.0_Setup_x64.exe |
-| 105.0.4963.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/105.0.4963.0/win/Opera_Developer_105.0.4963.0_Setup.exe     |
-| 104.0.4944.23 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/104.0.4944.23/win/Opera_104.0.4944.23_Setup_x64.exe           |
-| 104.0.4944.23 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/104.0.4944.23/win/Opera_104.0.4944.23_Setup.exe               |
-| 104.0.4944.18 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/104.0.4944.18/win/Opera_beta_104.0.4944.18_Setup_x64.exe         |
-| 104.0.4944.18 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/104.0.4944.18/win/Opera_beta_104.0.4944.18_Setup.exe             |
+| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                         |
+| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 6.4.76  | x64          | current | 10       | 05b76ef841a6bc92c4649358ad718359af0f36d3815bfbf0aa75dadf4851cbe6 | https://packages.chef.io/files/current/inspec/6.4.76/windows/10/inspec-6.4.76-1-x64.msi     |
+| 6.4.76  | x64          | current | 11       | 05b76ef841a6bc92c4649358ad718359af0f36d3815bfbf0aa75dadf4851cbe6 | https://packages.chef.io/files/current/inspec/6.4.76/windows/11/inspec-6.4.76-1-x64.msi     |
+| 6.4.76  | x64          | current | 2012r2   | 05b76ef841a6bc92c4649358ad718359af0f36d3815bfbf0aa75dadf4851cbe6 | https://packages.chef.io/files/current/inspec/6.4.76/windows/2012r2/inspec-6.4.76-1-x64.msi |
+| 6.4.76  | x64          | current | 2016     | 05b76ef841a6bc92c4649358ad718359af0f36d3815bfbf0aa75dadf4851cbe6 | https://packages.chef.io/files/current/inspec/6.4.76/windows/2016/inspec-6.4.76-1-x64.msi   |
+| 6.4.76  | x64          | current | 2019     | 05b76ef841a6bc92c4649358ad718359af0f36d3815bfbf0aa75dadf4851cbe6 | https://packages.chef.io/files/current/inspec/6.4.76/windows/2019/inspec-6.4.76-1-x64.msi   |
+| 6.4.76  | x64          | current | 2022     | 05b76ef841a6bc92c4649358ad718359af0f36d3815bfbf0aa75dadf4851cbe6 | https://packages.chef.io/files/current/inspec/6.4.76/windows/2022/inspec-6.4.76-1-x64.msi   |
+| 5.22.3  | x64          | stable  | 10       | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/10/inspec-5.22.3-1-x64.msi      |
+| 5.22.3  | x64          | stable  | 11       | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/11/inspec-5.22.3-1-x64.msi      |
+| 5.22.3  | x64          | stable  | 2012r2   | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2012r2/inspec-5.22.3-1-x64.msi  |
+| 5.22.3  | x64          | stable  | 2016     | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2016/inspec-5.22.3-1-x64.msi    |
+| 5.22.3  | x64          | stable  | 2019     | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2019/inspec-5.22.3-1-x64.msi    |
+| 5.22.3  | x64          | stable  | 2022     | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2022/inspec-5.22.3-1-x64.msi    |
 
-## GoogleChromeDriver
+## Slack
+
+[Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version  | Platform   | Architecture | URI                                                                                                  |
+| -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
+| 4.35.121 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.35.121/prod/x64/slack-standalone-4.35.121.0.msi  |
+| 4.35.121 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.35.121/prod/ia32/slack-standalone-4.35.121.0.msi |
+| 4.35.121 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.35.121/prod/x64/SlackSetup.msi                   |
+
+## GoogleChrome
 
 [Link](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version       | Revision | Channel | Architecture | Type | URI                                                                                                    |
-| ------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
-| 120.0.6086.0  | 1213882  | Canary  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6086.0/win64/chromedriver-win64.zip  |
-| 120.0.6086.0  | 1213882  | Canary  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6086.0/win32/chromedriver-win32.zip  |
-| 120.0.6073.0  | 1210793  | Dev     | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6073.0/win64/chromedriver-win64.zip  |
-| 120.0.6073.0  | 1210793  | Dev     | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6073.0/win32/chromedriver-win32.zip  |
-| 119.0.6045.21 | 1204232  | Beta    | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.21/win64/chromedriver-win64.zip |
-| 119.0.6045.21 | 1204232  | Beta    | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.21/win32/chromedriver-win32.zip |
-| 118.0.5993.70 | 1192594  | Stable  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip |
-| 118.0.5993.70 | 1192594  | Stable  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win32/chromedriver-win32.zip |
+| Version        | Architecture | Channel  | Type | URI                                                                                     |
+| -------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |
+| 120.0.6087.0   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
+| 120.0.6073.0   | x64          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
+| 120.0.6073.0   | x86          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
+| 119.0.6045.33  | x64          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
+| 119.0.6045.33  | x86          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
+| 118.0.5993.118 | x64          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 118.0.5993.118 | x86          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 118.0.5993.117 | x64          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 118.0.5993.117 | x86          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 118.0.5993.117 | x64          | stable   | zip  | https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip              |
 
-## 1Password
+## HashicorpVault
 
-[Link](https://1password.com/)
+[Link](https://www.vaultproject.io/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
-| Version | URI                                                                 |
-| ------- | ------------------------------------------------------------------- |
-| 8.10.18 | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.18.exe |
+| Version | Type | Architecture | URI                                                                        |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------- |
+| 1.14.5  | zip  | x64          | https://releases.hashicorp.com/vault/1.14.5/vault_1.14.5_windows_amd64.zip |
+| 1.14.5  | zip  | x86          | https://releases.hashicorp.com/vault/1.14.5/vault_1.14.5_windows_386.zip   |
+
+## TableauReader
+
+[Link](https://www.tableau.com/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version  | URI                                                                       |
+| -------- | ------------------------------------------------------------------------- |
+| 2023.3.0 | https://downloads.tableau.com/tssoftware/TableauReader-64bit-2023-3-0.exe |
+
+## MicrosoftWvdRemoteDesktop
+
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version    | Architecture | Channel | Date       | MD5                              | Sha2                                                                                                                             | Filename                           | URI                                                               |
+| ---------- | ------------ | ------- | ---------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
+| 1.2.4763.0 | ARM64        | Dogfood | 10/17/2023 | E8B9C636E95150C2A0D6DDEE5679B2F1 | 1C5B335557B7B1302F74E8143A51CF94787F33222B97C3BBF45DD6DF8EDFC579CE5A30E2E456AAA20F477742AB478CEA131A9BD34890E8FED00A549055EA4504 | RemoteDesktop_1.2.4763.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dlc7 |
+| 1.2.4763.0 | ARM64        | Insider | 10/17/2023 | E8B9C636E95150C2A0D6DDEE5679B2F1 | 1C5B335557B7B1302F74E8143A51CF94787F33222B97C3BBF45DD6DF8EDFC579CE5A30E2E456AAA20F477742AB478CEA131A9BD34890E8FED00A549055EA4504 | RemoteDesktop_1.2.4763.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dlc7 |
+| 1.2.4763.0 | x64          | Dogfood | 10/17/2023 | 2D97D8F9380AD2B01732F4045E0012DF | 7EBC44005DC95AC55AD705C302FE873B8AF132692A19EB1D1BD1C9BDF96DE294E6E37A5050E0032CBF562A327EE92B8DA894D527FE8B4E164A879AD4B62F16E9 | RemoteDesktop_1.2.4763.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dqzi |
+| 1.2.4763.0 | x64          | Insider | 10/17/2023 | 2D97D8F9380AD2B01732F4045E0012DF | 7EBC44005DC95AC55AD705C302FE873B8AF132692A19EB1D1BD1C9BDF96DE294E6E37A5050E0032CBF562A327EE92B8DA894D527FE8B4E164A879AD4B62F16E9 | RemoteDesktop_1.2.4763.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dqzi |
+| 1.2.4763.0 | x86          | Dogfood | 10/17/2023 | 07677BEC3D879E2009A9BE8B6CAC9B8D | E3E4AE991530375F1B5BCB231DCC4E37CF5EACD40DF5459FBA03D29CD95981298E846009013B8240DA58583331E179B46D8E7F97DB11BF0231F8BFFE8FD8F40C | RemoteDesktop_1.2.4763.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dlc8 |
+| 1.2.4763.0 | x86          | Insider | 10/17/2023 | 07677BEC3D879E2009A9BE8B6CAC9B8D | E3E4AE991530375F1B5BCB231DCC4E37CF5EACD40DF5459FBA03D29CD95981298E846009013B8240DA58583331E179B46D8E7F97DB11BF0231F8BFFE8FD8F40C | RemoteDesktop_1.2.4763.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dlc8 |
+| 1.2.4677.0 | ARM64        | Public  | 10/06/2023 | 0C375F6BC18990536DAEC77A97DB025A | 451DEC3C4DFD68D7EE76373EB7605B619D28FB82BA34537EF1DFF8B0429B8B4B84CBECC61FDC3BF825DD28DA0713614407BCAD45C48A5AF581CA365C95F4D37B | RemoteDesktop_1.2.4677.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1cRm0 |
+| 1.2.4677.0 | x64          | Public  | 10/06/2023 | 31571F03B62BC5C4913BB9C6C15D02E1 | A580BE6315D5F9AA4C8B51FA49A6253084A769890AA8266355B3FD3992D695F51292FEF5D4F5DAEB8BEC490CB346A4AEB6FEFDE69B9A84AF15D7376F3478E0A5 | RemoteDesktop_1.2.4677.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1d1KN |
+| 1.2.4677.0 | x86          | Public  | 10/06/2023 | BF1592BCBB3BEEFCB6CA4BCE7BCF0EEC | 79C9A97006D26FD5E602F5A1B863EFC1236DAEC1B67B6A222241AA60B3DFE5475B894BDBF6728450B507714C88EB5006D5DE57EA727ACB6CD24BE3B0B6B14732 | RemoteDesktop_1.2.4677.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1d1KO |
+
+## TableauPrep
+
+[Link](https://www.tableau.com/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version  | URI                                                               |
+| -------- | ----------------------------------------------------------------- |
+| 2023.3.0 | https://downloads.tableau.com/tssoftware/TableauPrep-2023-3-0.exe |
+
+## AzulZulu11
+
+[Link](https://www.azul.com/downloads/#zulu)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version       | ImageType | Date                | Architecture | Type | URI                                                                   |
+| ------------- | --------- | ------------------- | ------------ | ---- | --------------------------------------------------------------------- |
+| jdk-11.0.21+9 | jdk       | 10/17/2023 11:00:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu11.68.17-ca-jdk11.0.21-win_x64.msi  |
+| jdk-11.0.21+9 | jre       | 10/18/2023 14:25:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu11.68.17-ca-jre11.0.21-win_x64.msi  |
+| jdk-11.0.21+9 | jdk       | 10/18/2023 14:25:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu11.68.17-ca-jdk11.0.21-win_i686.msi |
+| jdk-11.0.21+9 | jre       | 10/18/2023 14:25:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu11.68.17-ca-jre11.0.21-win_i686.msi |
+
+## AzulZulu8
+
+[Link](https://www.azul.com/downloads/#zulu)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version       | ImageType | Date                | Architecture | Type | URI                                                                    |
+| ------------- | --------- | ------------------- | ------------ | ---- | ---------------------------------------------------------------------- |
+| 1.8.0_392-b08 | jdk       | 10/17/2023 11:01:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jdk8.0.392-win_x64.msi  |
+| 1.8.0_392-b08 | jre       | 10/18/2023 14:26:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jre8.0.392-win_x64.msi  |
+| 1.8.0_392-b08 | jdk       | 10/18/2023 14:26:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jdk8.0.392-win_i686.msi |
+| 1.8.0_392-b08 | jre       | 10/18/2023 14:26:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jre8.0.392-win_i686.msi |
+
+## Praat
+
+[Link](https://www.fon.hum.uva.nl/praat/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                          |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------- |
+| 6.3.20  | Windows  | x64          | zip  | Default       | 10/24/2023 | 19488242 | https://github.com/praat/praat/releases/download/v6.3.20/praat6320_win64.zip |
+| 6.3.20  | Windows  | x86          | zip  | Default       | 10/24/2023 | 19304900 | https://github.com/praat/praat/releases/download/v6.3.20/praat6320_win32.zip |
+
+## TableauDesktop
+
+[Link](https://www.tableau.com/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version  | URI                                                                        |
+| -------- | -------------------------------------------------------------------------- |
+| 2023.3.0 | https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2023-3-0.exe |
+
+## WinSCP
+
+[Link](https://winscp.net/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                        |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------ |
+| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
+| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://newcontinuum.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
+
+## Microsoft.NET
+
+[Link](https://dotnet.microsoft.com/download/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Architecture | Installer          | Channel | Hash                                                                                                                             | Type | URI                                                                                                                                                                       |
+| ------- | ------------ | ------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7.0.403 | ARM64        | sdk                | Current | e58ba00c08d5fde710c130d6021a9602466c2377040ee422066da5650679171e6433bf30cff3fe95ee9649ed7904a4cca0a1b77ec6375a624a23781a2588a25a | exe  | https://download.visualstudio.microsoft.com/download/pr/cb993c3c-24db-4490-bbe4-f30486f57733/0f6900e38ad719d774d5b44bd12b0e93/dotnet-sdk-7.0.403-win-arm64.exe            |
+| 7.0.403 | x64          | sdk                | Current | c0fd35e39b79f6597c02fdb06bc7c0d4c0afd31dd5c6aaa2208c22dc3dd5eee4fc4e57d94a2059b26c881257178223181ec5d7d406b7c22c3726e568fabd8f67 | exe  | https://download.visualstudio.microsoft.com/download/pr/a099e4b6-a6a8-4d34-bf95-b00739d35bb7/cdad50779717ba0e56caf89a3ba29ab1/dotnet-sdk-7.0.403-win-x64.exe              |
+| 7.0.403 | x86          | sdk                | Current | b4c254fc09ecaef25befcb0c45c85b7311fc48aeb20628d4283986633dfbcf61710e8bd0a6d668e51faa3f72c54b56c0879a0c1e5d45cc836a35ddeb2610da01 | exe  | https://download.visualstudio.microsoft.com/download/pr/50295f71-b734-438f-b3ea-7d6b5661cf72/e1be49ed8d1e737b6e962568c485acfc/dotnet-sdk-7.0.403-win-x86.exe              |
+| 7.0.13  | ARM64        | windowsdesktop     | Current | 87fac539d227e95cc04dd9f91722da3cc996c063e35a11b1f7086157529da2a856817c49c62994f268e947d540e316becc4848a2507d27ad49d0c214ca9d257b | exe  | https://download.visualstudio.microsoft.com/download/pr/157ab26c-50f7-424d-86f7-ed25509be644/2d8c75f4fc0ca85211e5b2aa47a54632/windowsdesktop-runtime-7.0.13-win-arm64.exe |
+| 7.0.13  | ARM64        | runtime            | Current | 167c7f897cffb701da271e247f25109d5ccc1b8602c14c01234e576608158fa65582ebd39daaa123f30cb5dcd878883320e216b339bd958fe2db0c2a27651e53 | exe  | https://download.visualstudio.microsoft.com/download/pr/2d69667b-6594-4896-b3f7-806ea1ca147a/71968c1b172120c37107cc1f31305f81/dotnet-runtime-7.0.13-win-arm64.exe         |
+| 7.0.13  | x64          | windowsdesktop     | Current | 66b252ea80571d29be668511c131f03c2d4d0d99c018ad21471048c96c5d41b175443910099e8579c4356562d7ba92793e971b510e4372d709b1ef549c0cc523 | exe  | https://download.visualstudio.microsoft.com/download/pr/515cc796-e9f2-4b5c-be7f-b42f115a65a7/b0b146fcbf1d1c135807ff24b3d88093/windowsdesktop-runtime-7.0.13-win-x64.exe   |
+| 7.0.13  | x64          | aspnetcore-runtime | Current | fb5784cb7aff75a26640272c1d1ba8111f915af8554d67f4ab40c5bda38265c6e119f7fb8e303994a32e6154777083c57bba0626a4fe9d703623107a4dd08f4c | exe  | https://download.visualstudio.microsoft.com/download/pr/2047544d-b948-480e-a4ce-2d5276d906dc/010c6e5c6b822dc2121c1d23f0820cf6/aspnetcore-runtime-7.0.13-win-x64.exe       |
+| 7.0.13  | x64          | runtime            | Current | 32fd009b7c6e7d431d9d8ed865cc0e18ef153afca0662c7b4426c395fa9fd4cb3b816255ad5cf5674346fbf907e8a8f7fe37882bc8adb4a5414b39013e77806e | exe  | https://download.visualstudio.microsoft.com/download/pr/7f25ba8c-e2f3-4432-83c2-8ab41e361a3e/5201929d4c9b5752a47a9cf4d2b494e0/dotnet-runtime-7.0.13-win-x64.exe           |
+| 7.0.13  | x86          | windowsdesktop     | Current | 8dc11bb954eaeb67c67f118754872c58d30dce82f39f83fa4b4fd808c4aa4e249eb3fbe18f1ffbd4af39d8bdbb44a0a1a08232d02d4cbbba456f7e531bfbe3c7 | exe  | https://download.visualstudio.microsoft.com/download/pr/84986c79-dd13-4bbc-abef-294638d5864a/75d29754580986fef26b5d64ec880075/windowsdesktop-runtime-7.0.13-win-x86.exe   |
+| 7.0.13  | x86          | runtime            | Current | 2b3b89d4f3302af4866abe616d2b901ba887f93dfc011831c11ebdceb1e104b8737f052e17d4ebdd4fee27985603f86f319cfe1b04c6861f67a3fd031b4f6720 | exe  | https://download.visualstudio.microsoft.com/download/pr/91a03ec1-d418-4d81-b664-545e2057b67f/b8b8066ac5d54b8c6c31960d678b5b30/dotnet-runtime-7.0.13-win-x86.exe           |
+| 7.0.13  | x86          | aspnetcore-runtime | Current | 8779954cd7ee7f9561f8d0f8f434279b2b91646fecb678ca5e5fac3029372f1b5a7c5aca7c18df887654fa84ce0ee75b971a4892f291c67086ab14e30dc49c21 | exe  | https://download.visualstudio.microsoft.com/download/pr/6db4150d-11f3-4c21-b2c6-c81d5e6243db/3707dcce96dae59516a7679953df1ace/aspnetcore-runtime-7.0.13-win-x86.exe       |
+| 7.0.13  | x86          | aspnetcore-runtime | Current | a2d7817edf624e89d17b90efd04da2da613a8eb7404fc58beb40036a417fafa36ff1efbc4ea26047d50d6570e7da954749cd4bd5473dd2663c5efd2d0425ecc7 | exe  | https://download.visualstudio.microsoft.com/download/pr/215095b0-dc0a-4e79-8815-3f72af83d054/3e7b7f99dffe2393a2210472c8c126a8/dotnet-hosting-7.0.13-win.exe               |
+| 6.0.416 | ARM64        | sdk                | LTS     | 5abd7a9b8343cf16eb29b4638f5e521f1ec8662dc900edd4301581866fcc57d3c77936394a1b33fc3592fd88c64aa35118e457b0f5004ce686db3ae66799e0bd | exe  | https://download.visualstudio.microsoft.com/download/pr/afaa9ecd-7997-42c1-a40b-91b72552dc57/93eaa9439ba54cbb05e632593c8a092c/dotnet-sdk-6.0.416-win-arm64.exe            |
+| 6.0.416 | x64          | sdk                | LTS     | b140bb7acec7c906655f15c9282154282457f829baedd14e907ad01d2d7614f17ed2a1a8aa61c3bb76c2322e35896ba93350e4c4980f72dc15dec4d61168d17b | exe  | https://download.visualstudio.microsoft.com/download/pr/bf047319-5b65-4630-b0f1-e7a8a7d40724/6c98f5732611a6ded7a9e62dc7bb2be1/dotnet-sdk-6.0.416-win-x64.exe              |
+| 6.0.416 | x86          | sdk                | LTS     | e2eea8b29743d8b7a12bf07a072801c0239f75f3809c387ad03fa695816c421364b913e8c589f8c2301e12adfa805471aa50c978f4b2d81153018847c59ca5e8 | exe  | https://download.visualstudio.microsoft.com/download/pr/f3f85cd7-bee2-43ce-b0c7-edf5dcffa375/2ae120e6e5cfc484b3668509fba50270/dotnet-sdk-6.0.416-win-x86.exe              |
+| 6.0.24  | ARM64        | runtime            | LTS     | 107181c95647094a87a32e605003313e2fb0d713f6a706884a72cc2a9bc175fb15ba399ebc3107b62f00596288a6b15f605635f43afd26cb59b9daef2cb09cbc | exe  | https://download.visualstudio.microsoft.com/download/pr/435e9aec-1096-4424-941f-0f077855139d/9d653b2b0a90150f843e77114a04ba47/dotnet-runtime-6.0.24-win-arm64.exe         |
+| 6.0.24  | ARM64        | windowsdesktop     | LTS     | 8bef31e14549285acedee79e7163f4884f66e8bd8dde53193cb1e2e7cef020832447a0e8ff7549adc16f283f58d53c18376cb9cc6a2cccd17053ec3c67120e39 | exe  | https://download.visualstudio.microsoft.com/download/pr/e06f3708-2216-451a-a99a-48ce5eb8e556/daa5aca45f8fd818e9584331ca0cab82/windowsdesktop-runtime-6.0.24-win-arm64.exe |
+| 6.0.24  | x64          | runtime            | LTS     | 1759d5f7ccdfe046e0dbae1328e39547974e884ac8e98e33f96ca67b8f4dbc3d9ba04d9832a82c457665a7f1aa8b43ba71b547a4919b680d8c7031140953f58b | exe  | https://download.visualstudio.microsoft.com/download/pr/62bf9f50-dcd9-4e4c-ac02-4d355efb914d/a56b37b98cb07899cd8c44fa7d50dff3/dotnet-runtime-6.0.24-win-x64.exe           |
+| 6.0.24  | x64          | aspnetcore-runtime | LTS     | da6289aed11536dfcfb4e114a5daa34ea215779eefedd3511d37ed344ef40ddb502e1540a57ec1a443f799c429e7b322c1399f1d5076d95d75984750949195b2 | exe  | https://download.visualstudio.microsoft.com/download/pr/d38606f9-0adb-4df8-a0da-d49297c76846/a8796f1fb5e54735a4c8061359e3b9ed/aspnetcore-runtime-6.0.24-win-x64.exe       |
+| 6.0.24  | x64          | windowsdesktop     | LTS     | 033e522bf27761173b76f65a77b4723574bdce81a8e3e5021ff4f156c7e221d44bd7ebb332ef56d3e8d9ac3fa2d250dbc98cfcdbfd5e27ce1516510fa816dcb9 | exe  | https://download.visualstudio.microsoft.com/download/pr/dde9eb7e-8ea8-494a-9b04-5db26c7740e2/43d5050cfa63b7323749c7e56fedd3ac/windowsdesktop-runtime-6.0.24-win-x64.exe   |
+| 6.0.24  | x86          | runtime            | LTS     | dbf54c6d97845ae18f58a45c2fc505138f1b1d48e765672a1477a96402846905bb945a248a53be781ae671f2bb3e11dc204be5e9abfc30ce027c150fb9c2aed1 | exe  | https://download.visualstudio.microsoft.com/download/pr/c002ad47-2da2-4d0f-b32b-07c60935dbad/b505f2e042b6598b483fa314b010e889/dotnet-runtime-6.0.24-win-x86.exe           |
+| 6.0.24  | x86          | windowsdesktop     | LTS     | a2679007256c82625dd7acd06f00a8d4250395dc04da4963a9beb1817868464141fb817b15e23319aa25a6ed8b1dd7f55770f5c76a74d6a74fc24bd28e70c0d5 | exe  | https://download.visualstudio.microsoft.com/download/pr/e55fa3d8-9a76-498a-aaaa-7dca44c7be3a/5ec98543746ddf2df96264ab015caa0b/windowsdesktop-runtime-6.0.24-win-x86.exe   |
+| 6.0.24  | x86          | aspnetcore-runtime | LTS     | 9364aae7e1426e0b354cf5bb46d30830b804e28e3524ebf7a9a14007e34f3e126ef5efa3e7708258c9f11cfc88f60ad9d60bdb462e1e03417de4cdb4bf4d0022 | exe  | https://download.visualstudio.microsoft.com/download/pr/f59f7502-4360-41bb-9f25-5af0491d3a8c/43781f10e4a25862684b56b5f3ebde46/aspnetcore-runtime-6.0.24-win-x86.exe       |
+| 6.0.24  | x86          | aspnetcore-runtime | LTS     | 55f380969e6afc4dda074c5a652d7199c7f26c69455b5137eeef0cf2e222304a824af6d11ec8fe0bb5ad33b668d1fa08f7a00fb71b559aa683f52e54b8223a81 | exe  | https://download.visualstudio.microsoft.com/download/pr/2d151460-8311-4452-9a2e-dfb1447f2e9b/15c599ea357a0e4dc333d28b351f1c6c/dotnet-hosting-6.0.24-win.exe               |
+
+## Gimp
+
+[Link](https://www.gimp.org/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+
+## SAGAGIS
+
+[Link](http://www.saga-gis.org/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 9.2.0   | x64          | exe  | 61162514 | 545a8c9682fb2f9b769698217242b58a | https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.2.0/saga-9.2.0_x64_setup.exe |
 
 ## MicrosoftOneDrive
 
 [Link](https://onedrive.live.com/)
 
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
 
 | Version          | Throttle | Architecture | Ring         | Type | Sha256                                       | URI                                                                              |
 | ---------------- | -------- | ------------ | ------------ | ---- | -------------------------------------------- | -------------------------------------------------------------------------------- |
-| 23.219.1022.0001 | 100      | AMD64        | InternalFast | exe  | X9Tr5UjnLcu5KUnnOutIFk4WudDoJQRfBe1OHlCS7x8= | https://oneclient.sfx.ms/Win/Installers/23.219.1022.0001/amd64/OneDriveSetup.exe |
+| 23.220.1023.0001 | 100      | AMD64        | InternalFast | exe  | ltj1eCUvPxuJOM8sFrtJ7ZcBwGayrh4yYw86D32G+vg= | https://oneclient.sfx.ms/Win/Installers/23.220.1023.0001/amd64/OneDriveSetup.exe |
+| 23.220.1023.0001 | 100      | ARM64        | InternalFast | exe  | nP+9mcmyOookjwqKyy0ULJ4r6CBDNcXj65db4MdcOYs= | https://oneclient.sfx.ms/Win/Installers/23.220.1023.0001/arm64/OneDriveSetup.exe |
+| 23.220.1023.0001 | 100      | x86          | InternalFast | exe  | 2u263BJI7wdNXBlZu79tU+owa97M+huHlwIs4HBAncI= | https://oneclient.sfx.ms/Win/Installers/23.220.1023.0001/OneDriveSetup.exe       |
 | 23.219.1022.0001 | 100      | AMD64        | InternalSlow | exe  | X9Tr5UjnLcu5KUnnOutIFk4WudDoJQRfBe1OHlCS7x8= | https://oneclient.sfx.ms/Win/Installers/23.219.1022.0001/amd64/OneDriveSetup.exe |
-| 23.219.1022.0001 | 100      | ARM64        | InternalFast | exe  | 6109+mohYy0/tQw0XGKy9Sxqo5TrqEmaov0vc5OdHyc= | https://oneclient.sfx.ms/Win/Installers/23.219.1022.0001/arm64/OneDriveSetup.exe |
 | 23.219.1022.0001 | 100      | ARM64        | InternalSlow | exe  | 6109+mohYy0/tQw0XGKy9Sxqo5TrqEmaov0vc5OdHyc= | https://oneclient.sfx.ms/Win/Installers/23.219.1022.0001/arm64/OneDriveSetup.exe |
-| 23.219.1022.0001 | 100      | x86          | InternalFast | exe  | 2FkGgbpxk0ZaEmhyq9cgpcmX7d6N2MPTZipU3SB3yus= | https://oneclient.sfx.ms/Win/Installers/23.219.1022.0001/OneDriveSetup.exe       |
 | 23.219.1022.0001 | 100      | x86          | InternalSlow | exe  | 2FkGgbpxk0ZaEmhyq9cgpcmX7d6N2MPTZipU3SB3yus= | https://oneclient.sfx.ms/Win/Installers/23.219.1022.0001/OneDriveSetup.exe       |
 | 23.216.1017.0001 | 10       | AMD64        | Insider      | exe  | lOJML7vRPnPjjGOHsdNcJG7EZKO5/3rA/qjNDoHkWZM= | https://oneclient.sfx.ms/Win/Installers/23.216.1017.0001/amd64/OneDriveSetup.exe |
 | 23.216.1017.0001 | 10       | ARM64        | Insider      | exe  | FW43JeUf5E0MQfF9tNSL2orgFneb9Q2UqVeNC1fsJ3g= | https://oneclient.sfx.ms/Win/Installers/23.216.1017.0001/arm64/OneDriveSetup.exe |
@@ -144,25 +324,148 @@
 | 23.101.0514.0004 | 100      | ARM64        | Enterprise   | exe  | lXK4guPfM7zrLzOI/mp4YMXenBwDEN+DSpnEIzVOUek= | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0004/arm64/OneDriveSetup.exe |
 | 23.101.0514.0004 | 100      | x86          | Enterprise   | exe  | vzsamqjSu1bRasSmtmljUakYQdnBBTTeDBQnIsQTxHo= | https://oneclient.sfx.ms/Win/Installers/23.101.0514.0004/OneDriveSetup.exe       |
 
+## GoogleChromeDriver
+
+[Link](https://cloud.google.com/chrome-enterprise/browser/download/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version       | Revision | Channel | Architecture | Type | URI                                                                                                    |
+| ------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
+| 120.0.6087.0  | 1214118  | Canary  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6087.0/win64/chromedriver-win64.zip  |
+| 120.0.6087.0  | 1214118  | Canary  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6087.0/win32/chromedriver-win32.zip  |
+| 120.0.6073.0  | 1210793  | Dev     | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6073.0/win64/chromedriver-win64.zip  |
+| 120.0.6073.0  | 1210793  | Dev     | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6073.0/win32/chromedriver-win32.zip  |
+| 119.0.6045.21 | 1204232  | Beta    | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.21/win64/chromedriver-win64.zip |
+| 119.0.6045.21 | 1204232  | Beta    | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.21/win32/chromedriver-win32.zip |
+| 118.0.5993.70 | 1192594  | Stable  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip |
+| 118.0.5993.70 | 1192594  | Stable  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win32/chromedriver-win32.zip |
+
+## KDiff3
+
+[Link](https://kdiff3.sourceforge.net/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+
+## OperaBrowser
+
+[Link](https://www.opera.com/browsers/opera)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version       | Channel   | Architecture | Type | URI                                                                                                       |
+| ------------- | --------- | ------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+| 105.0.4963.0  | Developer | x64          | exe  | https://get.geo.opera.com/pub/opera-developer/105.0.4963.0/win/Opera_Developer_105.0.4963.0_Setup_x64.exe |
+| 105.0.4963.0  | Developer | x86          | exe  | https://get.geo.opera.com/pub/opera-developer/105.0.4963.0/win/Opera_Developer_105.0.4963.0_Setup.exe     |
+| 104.0.4944.28 | Stable    | x64          | exe  | https://get.geo.opera.com/pub/opera/desktop/104.0.4944.28/win/Opera_104.0.4944.28_Setup_x64.exe           |
+| 104.0.4944.28 | Stable    | x86          | exe  | https://get.geo.opera.com/pub/opera/desktop/104.0.4944.28/win/Opera_104.0.4944.28_Setup.exe               |
+| 104.0.4944.18 | Beta      | x64          | exe  | https://get.geo.opera.com/pub/opera-beta/104.0.4944.18/win/Opera_beta_104.0.4944.18_Setup_x64.exe         |
+| 104.0.4944.18 | Beta      | x86          | exe  | https://get.geo.opera.com/pub/opera-beta/104.0.4944.18/win/Opera_beta_104.0.4944.18_Setup.exe             |
+
+## VideoLanVlcPlayer
+
+[Link](https://www.videolan.org/vlc/)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.19  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.19/win64/vlc-3.0.19-win64.exe |
+| 3.0.19  | Windows  | x86          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.19/win32/vlc-3.0.19-win32.exe |
+| 3.0.19  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.19/win64/vlc-3.0.19-win64.msi |
+| 3.0.19  | Windows  | x86          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.19/win32/vlc-3.0.19-win32.msi |
+| 3.0.19  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.19/win64/vlc-3.0.19-win64.zip |
+| 3.0.19  | Windows  | x86          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.19/win32/vlc-3.0.19-win32.zip |
+
+## VeraCrypt
+
+[Link](https://www.veracrypt.fr/en/Home.html)
+
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
+| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
+| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://phoenixnap.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
+
 ## ProjectLibre
 
 [Link](https://www.projectlibre.com/)
 
+**Last update**: Wednesday, 25 October 2023 00:19:15 Etc/UTC
+
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://versaweb.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+
+## 1Password
+
+[Link](https://1password.com/)
+
 **Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://phoenixnap.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | URI                                                                 |
+| ------- | ------------------------------------------------------------------- |
+| 8.10.18 | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.18.exe |
 
-## Gimp
+## NodeJs
 
-[Link](https://www.gimp.org/)
+[Link](https://nodejs.org/)
 
 **Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
 
-| Version | Date       | Sha256                                                           | URI                                                                             |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2.10.34 | 08/13/2023 | 20d04d161561ea2967793f47e5403a77471ea1551ca3664cd23af8104c126251 | https://southfront.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.34-setup-2.exe |
+| Version | Architecture | Type | Channel | URI                                                        |
+| ------- | ------------ | ---- | ------- | ---------------------------------------------------------- |
+| 21.1.0  | ARM64        | msi  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-arm64.msi     |
+| 21.1.0  | x64          | msi  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-x64.msi       |
+| 21.1.0  | x86          | msi  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-x86.msi       |
+| 21.1.0  | ARM64        | zip  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-win-arm64.zip |
+| 21.1.0  | x64          | zip  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-win-x64.zip   |
+| 21.1.0  | x86          | zip  | Current | https://nodejs.org/dist/v21.1.0/node-v21.1.0-win-x86.zip   |
+| 20.9.0  | x64          | msi  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi       |
+| 20.9.0  | x86          | msi  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-x86.msi       |
+| 20.9.0  | x64          | zip  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-win-x64.zip   |
+| 20.9.0  | x86          | zip  | LTS     | https://nodejs.org/dist/v20.9.0/node-v20.9.0-win-x86.zip   |
+
+## MicrosoftAzureCLI
+
+[Link](https://learn.microsoft.com/en-au/cli/azure/)
+
+**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |
+| 2.53.1  | Windows  | x86          | msi  | Default       | 10/24/2023 | 52387840 | https://github.com/Azure/azure-cli/releases/download/azure-cli-2.53.1/azure-cli-2.53.1.msi |
+
+## AdoptiumTemurin17
+
+[Link](https://adoptium.net/)
+
+**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+
+| Version    | ImageType | Date                | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                 |
+| ---------- | --------- | ------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 17.0.8.1+1 | jdk       | 08/29/2023 13:14:53 | 430bc8e8f25d4d41b21ab9a8a0008db36b97f9f70863b300628a95e9692efcaa | 167620608 | x64          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.8.1_1.msi |
+| 17.0.8.1+1 | jre       | 08/29/2023 13:13:46 | 80a1c1c8896ef36f1e3476340a187bb6bdcaf72c66c4b6c844722a5ba8d6a61d | 31531008  | x64          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jre_x64_windows_hotspot_17.0.8.1_1.msi |
+| 17.0.9+9   | jdk       | 10/24/2023 13:48:35 | baf418c5aca6294424835da734f01c81d1df95083385985a90ec395af8015b2f | 164810752 | x86          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.9_9.msi  |
+| 17.0.9+9   | jre       | 10/24/2023 13:48:44 | dca0610b1987fa83ed68469d281e5c925a86d473628de6d885365221d8d9cdeb | 29224960  | x86          | msi  | https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.9_9.msi  |
+
+## RedHatOpenJDK11
+
+[Link](https://developers.redhat.com/products/openjdk/overview)
+
+**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
+
+| Version   | ImageType | Date                | Architecture | Type | URI                                                                                                                                            |
+| --------- | --------- | ------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.0.21+9 | jdk       | 10/18/2023 17:01:31 | x64          | msi  | https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/October_2023/java-11-openjdk-11.0.21.9-1.windows.redhat.x86_64.msi     |
+| 11.0.21+9 | jre       | 10/18/2023 17:01:31 | x64          | msi  | https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/October_2023/java-11-openjdk-jre-11.0.21.9-1.windows.redhat.x86_64.msi |
 
 ## MicrosoftAzureDataStudio
 
@@ -177,32 +480,16 @@
 | 1.46.1  | win32-x64      | Stable  | b674b87ae5fba54fb039da9d4c8bd508397e6b0f18afcba75b536e3d17aaa1ba | https://sqlopsbuilds.azureedge.net/stable/ba29842b81dec01177415e53948ca2168e69c3f8/azuredatastudio-windows-setup-1.46.1.exe               |
 | 1.46.1  | win32-x64-user | Stable  | f88482bca4950ab61e5812d681e6903c7b05dcbfe73b7c7aea2e5e085550a631 | https://sqlopsbuilds.azureedge.net/stable/ba29842b81dec01177415e53948ca2168e69c3f8/azuredatastudio-windows-user-setup-1.46.1.exe          |
 
-## VeraCrypt
+## gretl
 
-[Link](https://www.veracrypt.fr/en/Home.html)
-
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
-
-## VideoLanVlcPlayer
-
-[Link](https://www.videolan.org/vlc/)
+[Link](http://gretl.sourceforge.net/)
 
 **Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
 
-| Version | Platform | Architecture | Type | URI                                                                             |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------- |
-| 3.0.19  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.19/win64/vlc-3.0.19-win64.exe |
-| 3.0.19  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.19/win32/vlc-3.0.19-win32.exe |
-| 3.0.19  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.19/win64/vlc-3.0.19-win64.msi |
-| 3.0.19  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.19/win32/vlc-3.0.19-win32.msi |
-| 3.0.19  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.19/win64/vlc-3.0.19-win64.zip |
-| 3.0.19  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.19/win32/vlc-3.0.19-win32.zip |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## KeePass
 
@@ -214,49 +501,6 @@
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
 | 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://versaweb.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
 | 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://versaweb.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
-
-## KDiff3
-
-[Link](https://kdiff3.sourceforge.net/)
-
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://versaweb.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://versaweb.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
-
-## SAGAGIS
-
-[Link](http://www.saga-gis.org/)
-
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 9.2.0   | x64          | exe  | 61162514 | 545a8c9682fb2f9b769698217242b58a | https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.2.0/saga-9.2.0_x64_setup.exe |
-
-## WinSCP
-
-[Link](https://winscp.net/)
-
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
-| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
-| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
-
-## gretl
-
-[Link](http://gretl.sourceforge.net/)
-
-**Last update**: Tuesday, 24 October 2023 16:09:34 Etc/UTC
-
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## MicrosoftVisualStudioCode
 
@@ -310,25 +554,6 @@
 | ------- | ------------------------------------------------------- |
 | 15.47.3 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
-## GoogleChrome
-
-[Link](https://cloud.google.com/chrome-enterprise/browser/download/)
-
-**Last update**: Tuesday, 24 October 2023 08:10:45 Etc/UTC
-
-| Version       | Architecture | Channel  | Type | URI                                                                                     |
-| ------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |
-| 120.0.6086.0  | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
-| 120.0.6073.0  | x64          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
-| 120.0.6073.0  | x86          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
-| 119.0.6045.33 | x64          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
-| 119.0.6045.33 | x86          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 118.0.5993.89 | x64          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 118.0.5993.89 | x64          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 118.0.5993.89 | x86          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
-| 118.0.5993.89 | x86          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
-| 118.0.5993.89 | x64          | stable   | zip  | https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip              |
-
 ## MicrosoftEdgeDriver
 
 [Link](https://www.microsoft.com/edge)
@@ -359,35 +584,44 @@
 | 10.1.2.382 | E72405715745757C8D1126DDB260C8E3A38A17159C7978B987AF150A2A65BA0B | x64          | msi  | https://downloads.pdf-xchange.com/EditorV10.x64.msi   |
 | 10.1.2.382 | 225AAF52F004370A5F614B97C512C9389A2449983F4E15DEC04596E36B37C294 | x86          | msi  | https://downloads.pdf-xchange.com/EditorV10.x86.msi   |
 
-## MicrosoftEdge
+## FileZilla
 
-[Link](https://www.microsoft.com/edge)
+[Link](https://filezilla-project.org/)
 
-**Last update**: Tuesday, 24 October 2023 00:19:36 Etc/UTC
+**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
 
-| Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
-| ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 120.0.2165.1  | Any      | Policy     | Enterprise | any          | FB704A889BE8E85CFE37259AF3FCF9142275202C540A52333B6B0C72A539616B | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b07cca15-74a4-484b-880c-320fdfcf21f1/MicrosoftEdgePolicyTemplates.cab            |
-| 120.0.2165.1  | Windows  | Dev        | Consumer   | arm64        | A824F867C6BB76BC6C57E37714C59332CFF3DDDA6FE1EDEA4D83BE7B74956949 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5a75d25-4c5a-4e29-bc8b-c7845fe49a78/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 120.0.2165.1  | Windows  | Dev        | Enterprise | arm64        | A824F867C6BB76BC6C57E37714C59332CFF3DDDA6FE1EDEA4D83BE7B74956949 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5a75d25-4c5a-4e29-bc8b-c7845fe49a78/MicrosoftEdgeDevEnterpriseARM64.msi         |
-| 120.0.2165.1  | Windows  | Dev        | Consumer   | x64          | DDE49AC46A4C96313B3C117D854AA45CCF0E6F8A48985966EF1B11F020D8B20A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a74bf50-fc6b-425c-937b-9e8e7be0f92a/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 120.0.2165.1  | Windows  | Dev        | Enterprise | x64          | DDE49AC46A4C96313B3C117D854AA45CCF0E6F8A48985966EF1B11F020D8B20A | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a74bf50-fc6b-425c-937b-9e8e7be0f92a/MicrosoftEdgeDevEnterpriseX64.msi           |
-| 120.0.2165.1  | Windows  | Dev        | Consumer   | x86          | BC88705CF1377B6E8D18F8E051C9E99851D392DF50AC915474178A087286E2F4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/177e5c7f-7475-4cff-8374-e805ee56f78d/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 120.0.2165.1  | Windows  | Dev        | Enterprise | x86          | BC88705CF1377B6E8D18F8E051C9E99851D392DF50AC915474178A087286E2F4 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/177e5c7f-7475-4cff-8374-e805ee56f78d/MicrosoftEdgeDevEnterpriseX86.msi           |
-| 119.0.2151.24 | Windows  | Beta       | Consumer   | arm64        | E480FF0E07B3B31D688F15B7867A5F271680A2709E50764D252E237B7047D584 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43a4884a-c747-44bf-a31e-4278955bb0e4/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 119.0.2151.24 | Windows  | Beta       | Enterprise | arm64        | E480FF0E07B3B31D688F15B7867A5F271680A2709E50764D252E237B7047D584 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43a4884a-c747-44bf-a31e-4278955bb0e4/MicrosoftEdgeBetaEnterpriseARM64.msi        |
-| 119.0.2151.24 | Windows  | Beta       | Consumer   | x64          | 0B94F66F182CDAB54E3F5D17FDE631C8D7C4A69F3433F7DC7BC558EEDCC51A09 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/54271b88-a6b5-4b79-ad1c-260d75d8fe9d/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 119.0.2151.24 | Windows  | Beta       | Enterprise | x64          | 0B94F66F182CDAB54E3F5D17FDE631C8D7C4A69F3433F7DC7BC558EEDCC51A09 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/54271b88-a6b5-4b79-ad1c-260d75d8fe9d/MicrosoftEdgeBetaEnterpriseX64.msi          |
-| 119.0.2151.24 | Windows  | Beta       | Consumer   | x86          | EE74D4D9BF60CAD69309214508BF8811E8C27236F598955B7B273FF03D51E5E9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5bf439cd-3520-4840-a74f-616ebb65d38d/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 119.0.2151.24 | Windows  | Beta       | Enterprise | x86          | EE74D4D9BF60CAD69309214508BF8811E8C27236F598955B7B273FF03D51E5E9 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5bf439cd-3520-4840-a74f-616ebb65d38d/MicrosoftEdgeBetaEnterpriseX86.msi          |
-| 118.0.2088.61 | Windows  | Stable     | Consumer   | arm64        | C869581E48E267AD70D6B29F6A675F72F6EF264909FC56F0A9E9EADB4BD1F6F7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de9a4cf6-ce54-4934-859e-a38c1ca1ab1b/MicrosoftEdgeEnterpriseARM64.msi            |
-| 118.0.2088.61 | Windows  | Stable     | Enterprise | arm64        | C869581E48E267AD70D6B29F6A675F72F6EF264909FC56F0A9E9EADB4BD1F6F7 | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de9a4cf6-ce54-4934-859e-a38c1ca1ab1b/MicrosoftEdgeEnterpriseARM64.msi            |
-| 118.0.2088.61 | Windows  | Stable     | Consumer   | x64          | D2CBEEEC222F1D093976C891F93ABC32F038561E98BE73D37BEA76A6E6A466EB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4023aa94-d449-48fb-bce1-12ffafe056c5/MicrosoftEdgeEnterpriseX64.msi              |
-| 118.0.2088.61 | Windows  | Stable     | Enterprise | x64          | D2CBEEEC222F1D093976C891F93ABC32F038561E98BE73D37BEA76A6E6A466EB | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4023aa94-d449-48fb-bce1-12ffafe056c5/MicrosoftEdgeEnterpriseX64.msi              |
-| 118.0.2088.61 | Windows  | Stable     | Consumer   | x86          | 34822614DE51CD5BB9B85DE2FB681E728E20ACAB1698740BCF68E0176C50E7BC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8254e852-6af7-499d-80ed-a263b3468f17/MicrosoftEdgeEnterpriseX86.msi              |
-| 118.0.2088.61 | Windows  | Stable     | Enterprise | x86          | 34822614DE51CD5BB9B85DE2FB681E728E20ACAB1698740BCF68E0176C50E7BC | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8254e852-6af7-499d-80ed-a263b3468f17/MicrosoftEdgeEnterpriseX86.msi              |
-| 1.3.177.11    | Windows  | EdgeUpdate | Consumer   | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
-| 1.3.177.11    | Windows  | EdgeUpdate | Enterprise | x86          | A86D9F7C545953074B8B9C18474E953DB73A9BA8E9CA50CBB3E5D97A7347FE4D | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f38f1da-9603-4b00-8d5a-561cd137b188/MicrosoftEdgeUpdateSetup_X86_1.3.177.11.exe |
+| Version | Size     | Hash                                                                                                                             | URI                                                                            |
+| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 3.66.0  | 12315560 | e23b12460e31b55c4babecaa669a1b169c539cfa41223735a975330ddf8b7342e73c1bcc7fee6ae518e65bcc913dbcda462ef255571b25a80ef09889333e68bc | https://download.filezilla-project.org/client/FileZilla_3.66.0_win64-setup.exe |
+
+## UnityEditor
+
+[Link](https://unity.com/download)
+
+**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
+
+| Version     | Release | Channel  | LTS   | Size       | Checksum                         | Type | URI                                                                                                            |
+| ----------- | ------- | -------- | ----- | ---------- | -------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------- |
+| 2022.2.0b16 | 2022    | beta     | False | 2618261504 | 3b1b23d9ba1e50d02d00e7e0b05e8e77 | exe  | https://beta.unity3d.com/download/3c3b3e6cd1d7/Windows64EditorInstaller/UnitySetup64-2022.2.0b16.exe           |
+| 2023.1.17f1 | 2023    | beta     | False | 2614820864 | c40df3ebb4ec646d1ff959dab8ffc71d | exe  | https://beta.unity3d.com/download/b84c4024cd38/Windows64EditorInstaller/UnitySetup64-2023.1.17f1.exe           |
+| 2023.2.0b14 | 2023    | beta     | False | 2739280896 | 248cf0f55fb93100d67a3a6e1b001263 | exe  | https://beta.unity3d.com/download/fd51e285237d/Windows64EditorInstaller/UnitySetup64-2023.2.0b14.exe           |
+| 2023.3.0a10 | 2023    | beta     | False | 2799088640 | 2219fbcdb60baf7595dc09edc95cbc78 | exe  | https://beta.unity3d.com/download/c9b099e3345e/Windows64EditorInstaller/UnitySetup64-2023.3.0a10.exe           |
+| 2019.4.40f1 | 2019    | official | True  | 1889119232 | abbcc367795fd013af4e33c2ed00e5e2 | exe  | https://download.unity3d.com/download_unity/ffc62b691db5/Windows64EditorInstaller/UnitySetup64-2019.4.40f1.exe |
+| 2020.3.48f1 | 2020    | official | True  | 2812612608 | c7c7b0dcd1ac0223226b382413034297 | exe  | https://download.unity3d.com/download_unity/b805b124c6b7/Windows64EditorInstaller/UnitySetup64-2020.3.48f1.exe |
+| 2021.3.31f1 | 2021    | official | True  | 2461178880 | 77e533ca5633bb5cbb50e108b3a4f77d | exe  | https://download.unity3d.com/download_unity/3409e2af086f/Windows64EditorInstaller/UnitySetup64-2021.3.31f1.exe |
+| 2022.1.23f1 | 2022    | official | False | 2502926336 | 3d38af19c6d4c91a95dafd863ba8f4ef | exe  | https://download.unity3d.com/download_unity/9636b062134a/Windows64EditorInstaller/UnitySetup64-2022.1.23f1.exe |
+| 2022.3.11f1 | 2022    | official | False | 2599926784 | f437f2758b6a21c6492bcfc7ed8535fc | exe  | https://download.unity3d.com/download_unity/d00248457e15/Windows64EditorInstaller/UnitySetup64-2022.3.11f1.exe |
+| 2023.1.17f1 | 2023    | official | False | 2614820864 | c40df3ebb4ec646d1ff959dab8ffc71d | exe  | https://download.unity3d.com/download_unity/b84c4024cd38/Windows64EditorInstaller/UnitySetup64-2023.1.17f1.exe |
+
+## SafingPortmaster
+
+[Link](https://safing.io/)
+
+**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
+
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 1.5.1   | exe  | x64          | https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe |
 
 ## Zoom
 
@@ -411,57 +645,6 @@
 | 5.15.5.925   | Notes    | User      | 7625728   | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginSetup.msi           |
 | 5.15.5.925   | Notes    | Admin     | 8222720   | msi  | x86          | https://cdn.zoom.us/prod/5.15.5.925/ZoomNotesPluginAdminTool.msi       |
 | 5.13.10.812  | Lync     | User      | 4914176   | msi  | x86          | https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi           |
-
-## FileZilla
-
-[Link](https://filezilla-project.org/)
-
-**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
-
-| Version | Size     | Hash                                                                                                                             | URI                                                                            |
-| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3.66.0  | 12315560 | e23b12460e31b55c4babecaa669a1b169c539cfa41223735a975330ddf8b7342e73c1bcc7fee6ae518e65bcc913dbcda462ef255571b25a80ef09889333e68bc | https://download.filezilla-project.org/client/FileZilla_3.66.0_win64-setup.exe |
-
-## SafingPortmaster
-
-[Link](https://safing.io/)
-
-**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
-
-| Version | Type | Architecture | URI                                                                              |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.5.1   | exe  | x64          | https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe |
-
-## AirtameApp
-
-[Link](https://airtame.com/)
-
-**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
-
-| Version | Installer | Type | URI                                                                     |
-| ------- | --------- | ---- | ----------------------------------------------------------------------- |
-| 4.6.3   | Portable  | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-portable.exe |
-| 4.6.3   | Windows   | exe  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.exe    |
-| 4.6.3   | MSI       | msi  | https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.6.3-setup.msi    |
-
-## UnityEditor
-
-[Link](https://unity.com/download)
-
-**Last update**: Monday, 23 October 2023 16:10:19 Etc/UTC
-
-| Version     | Release | Channel  | LTS   | Size       | Checksum                         | Type | URI                                                                                                            |
-| ----------- | ------- | -------- | ----- | ---------- | -------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2022.2.0b16 | 2022    | beta     | False | 2618261504 | 3b1b23d9ba1e50d02d00e7e0b05e8e77 | exe  | https://beta.unity3d.com/download/3c3b3e6cd1d7/Windows64EditorInstaller/UnitySetup64-2022.2.0b16.exe           |
-| 2023.1.17f1 | 2023    | beta     | False | 2614820864 | c40df3ebb4ec646d1ff959dab8ffc71d | exe  | https://beta.unity3d.com/download/b84c4024cd38/Windows64EditorInstaller/UnitySetup64-2023.1.17f1.exe           |
-| 2023.2.0b14 | 2023    | beta     | False | 2739280896 | 248cf0f55fb93100d67a3a6e1b001263 | exe  | https://beta.unity3d.com/download/fd51e285237d/Windows64EditorInstaller/UnitySetup64-2023.2.0b14.exe           |
-| 2023.3.0a10 | 2023    | beta     | False | 2799088640 | 2219fbcdb60baf7595dc09edc95cbc78 | exe  | https://beta.unity3d.com/download/c9b099e3345e/Windows64EditorInstaller/UnitySetup64-2023.3.0a10.exe           |
-| 2019.4.40f1 | 2019    | official | True  | 1889119232 | abbcc367795fd013af4e33c2ed00e5e2 | exe  | https://download.unity3d.com/download_unity/ffc62b691db5/Windows64EditorInstaller/UnitySetup64-2019.4.40f1.exe |
-| 2020.3.48f1 | 2020    | official | True  | 2812612608 | c7c7b0dcd1ac0223226b382413034297 | exe  | https://download.unity3d.com/download_unity/b805b124c6b7/Windows64EditorInstaller/UnitySetup64-2020.3.48f1.exe |
-| 2021.3.31f1 | 2021    | official | True  | 2461178880 | 77e533ca5633bb5cbb50e108b3a4f77d | exe  | https://download.unity3d.com/download_unity/3409e2af086f/Windows64EditorInstaller/UnitySetup64-2021.3.31f1.exe |
-| 2022.1.23f1 | 2022    | official | False | 2502926336 | 3d38af19c6d4c91a95dafd863ba8f4ef | exe  | https://download.unity3d.com/download_unity/9636b062134a/Windows64EditorInstaller/UnitySetup64-2022.1.23f1.exe |
-| 2022.3.11f1 | 2022    | official | False | 2599926784 | f437f2758b6a21c6492bcfc7ed8535fc | exe  | https://download.unity3d.com/download_unity/d00248457e15/Windows64EditorInstaller/UnitySetup64-2022.3.11f1.exe |
-| 2023.1.17f1 | 2023    | official | False | 2614820864 | c40df3ebb4ec646d1ff959dab8ffc71d | exe  | https://download.unity3d.com/download_unity/b84c4024cd38/Windows64EditorInstaller/UnitySetup64-2023.1.17f1.exe |
 
 ## dbeaver
 
@@ -504,17 +687,39 @@
 | ------- | --------------------------------------------- |
 | 1.90.1  | https://fork.dev/update/win/ForkInstaller.exe |
 
-## MicrosoftEdgeWebView2Runtime
+## AdoptiumTemurin8
 
-[Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+[Link](https://adoptium.net/)
 
 **Last update**: Saturday, 21 October 2023 00:20:26 Etc/UTC
 
-| Version       | Channel | Architecture | URI                                                                                                                                                           |
-| ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 118.0.2088.61 | Stable  | ARM64        | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb21415a-bdc0-458f-b5b1-d5f46c9dc19c/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe |
-| 118.0.2088.61 | Stable  | x64          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cacf1e2a-7697-4ab4-b402-cb2e33531055/MicrosoftEdgeWebView2RuntimeInstallerX64.exe   |
-| 118.0.2088.61 | Stable  | x86          | https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/709d61dc-130a-4d37-bfc1-a3bd49cc00d9/MicrosoftEdgeWebView2RuntimeInstallerX86.exe   |
+| Version       | ImageType | Date                | Checksum                                                         | Size     | Architecture | Type | URI                                                                                                                            |
+| ------------- | --------- | ------------------- | ---------------------------------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1.8.0_392-b08 | jdk       | 10/20/2023 11:59:48 | 223d252802b9087e85886f08faebf9fa676285565895e74ec2f9bde4b1f39f03 | 90001408 | x64          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u392b08.msi    |
+| 1.8.0_392-b08 | jre       | 10/20/2023 11:59:42 | 7dd4dcc7feac3d7632c1d2336bf65e914b3aa62a0bd9d87a682ce294e964de65 | 32366592 | x64          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x64_windows_hotspot_8u392b08.msi    |
+| 1.8.0_392-b08 | jdk       | 10/20/2023 16:35:17 | a6cfd8f97b5aabf0f0fb7fc33d1c6f417e41bb5e575b168afb269b1ba0ae9df3 | 90038272 | x86          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u392b08.msi |
+| 1.8.0_392-b08 | jre       | 10/20/2023 16:35:23 | e8049d25c1eaa1c01fbb26d36410c32d83dd456cce3c7ad4c6523e0c61c79138 | 30502912 | x86          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u392b08.msi |
+
+## AWSCLI
+
+[Link](https://github.com/aws/aws-cli/)
+
+**Last update**: Saturday, 21 October 2023 00:20:26 Etc/UTC
+
+| Version | Type | URI                                               |
+| ------- | ---- | ------------------------------------------------- |
+| 2.13.28 | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.13.28.msi |
+
+## Postman
+
+[Link](https://www.getpostman.com/)
+
+**Last update**: Saturday, 21 October 2023 00:20:26 Etc/UTC
+
+| Version | Size      | Hash                                     | Date                | Architecture | Filename                        | URI                                                    |
+| ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------- | ------------------------------------------------------ |
+| 10.19.7 | 131404848 | 7636DF6DE725E0D34DE137318FDCB0686FF18ED0 | 10/20/2023 18:43:40 | x64          | Postman-win64-10.19.7-Setup.exe | https://dl.pstmn.io/download/version/10.19.7/windows64 |
+| 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe   | https://dl.pstmn.io/download/version/9.4.1/windows32   |
 
 ## Microsoft365Apps
 
@@ -532,40 +737,6 @@
 | 16.0.16130.20810 | SemiAnnual        | Semi-Annual Channel                   | 10/10/2023 08:02:15 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.14332.20582 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 10/10/2023 13:16:46 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.10403.20013 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 10/10/2023 13:20:39 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-
-## Postman
-
-[Link](https://www.getpostman.com/)
-
-**Last update**: Saturday, 21 October 2023 00:20:26 Etc/UTC
-
-| Version | Size      | Hash                                     | Date                | Architecture | Filename                        | URI                                                    |
-| ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------- | ------------------------------------------------------ |
-| 10.19.7 | 131404848 | 7636DF6DE725E0D34DE137318FDCB0686FF18ED0 | 10/20/2023 18:43:40 | x64          | Postman-win64-10.19.7-Setup.exe | https://dl.pstmn.io/download/version/10.19.7/windows64 |
-| 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe   | https://dl.pstmn.io/download/version/9.4.1/windows32   |
-
-## AWSCLI
-
-[Link](https://github.com/aws/aws-cli/)
-
-**Last update**: Saturday, 21 October 2023 00:20:26 Etc/UTC
-
-| Version | Type | URI                                               |
-| ------- | ---- | ------------------------------------------------- |
-| 2.13.28 | msi  | https://awscli.amazonaws.com/AWSCLIV2-2.13.28.msi |
-
-## AdoptiumTemurin8
-
-[Link](https://adoptium.net/)
-
-**Last update**: Saturday, 21 October 2023 00:20:26 Etc/UTC
-
-| Version       | ImageType | Date                | Checksum                                                         | Size     | Architecture | Type | URI                                                                                                                            |
-| ------------- | --------- | ------------------- | ---------------------------------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1.8.0_392-b08 | jdk       | 10/20/2023 11:59:48 | 223d252802b9087e85886f08faebf9fa676285565895e74ec2f9bde4b1f39f03 | 90001408 | x64          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u392b08.msi    |
-| 1.8.0_392-b08 | jre       | 10/20/2023 11:59:42 | 7dd4dcc7feac3d7632c1d2336bf65e914b3aa62a0bd9d87a682ce294e964de65 | 32366592 | x64          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x64_windows_hotspot_8u392b08.msi    |
-| 1.8.0_392-b08 | jdk       | 10/20/2023 16:35:17 | a6cfd8f97b5aabf0f0fb7fc33d1c6f417e41bb5e575b168afb269b1ba0ae9df3 | 90038272 | x86          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u392b08.msi |
-| 1.8.0_392-b08 | jre       | 10/20/2023 16:35:23 | e8049d25c1eaa1c01fbb26d36410c32d83dd456cce3c7ad4c6523e0c61c79138 | 30502912 | x86          | msi  | https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u392b08.msi |
 
 ## Naps2
 
@@ -702,27 +873,6 @@
 | 4.3     | Windows  | x86          | exe  | Default       | 10/19/2023 | 1431624 | https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3p.exe      |
 | 4.3     | Windows  | x86          | exe  | Default       | 10/19/2023 | 1445960 | https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3_x86.exe   |
 
-## ProgressChefInSpec
-
-[Link](https://www.chef.io/products/chef-inspec)
-
-**Last update**: Thursday, 19 October 2023 16:10:14 Etc/UTC
-
-| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                         |
-| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 6.4.75  | x64          | current | 10       | 6bbd4cbbe4f63a92edb8248ad53d4b287f6719a2bad281c84ae12b252c35ea01 | https://packages.chef.io/files/current/inspec/6.4.75/windows/10/inspec-6.4.75-1-x64.msi     |
-| 6.4.75  | x64          | current | 11       | 6bbd4cbbe4f63a92edb8248ad53d4b287f6719a2bad281c84ae12b252c35ea01 | https://packages.chef.io/files/current/inspec/6.4.75/windows/11/inspec-6.4.75-1-x64.msi     |
-| 6.4.75  | x64          | current | 2012r2   | 6bbd4cbbe4f63a92edb8248ad53d4b287f6719a2bad281c84ae12b252c35ea01 | https://packages.chef.io/files/current/inspec/6.4.75/windows/2012r2/inspec-6.4.75-1-x64.msi |
-| 6.4.75  | x64          | current | 2016     | 6bbd4cbbe4f63a92edb8248ad53d4b287f6719a2bad281c84ae12b252c35ea01 | https://packages.chef.io/files/current/inspec/6.4.75/windows/2016/inspec-6.4.75-1-x64.msi   |
-| 6.4.75  | x64          | current | 2019     | 6bbd4cbbe4f63a92edb8248ad53d4b287f6719a2bad281c84ae12b252c35ea01 | https://packages.chef.io/files/current/inspec/6.4.75/windows/2019/inspec-6.4.75-1-x64.msi   |
-| 6.4.75  | x64          | current | 2022     | 6bbd4cbbe4f63a92edb8248ad53d4b287f6719a2bad281c84ae12b252c35ea01 | https://packages.chef.io/files/current/inspec/6.4.75/windows/2022/inspec-6.4.75-1-x64.msi   |
-| 5.22.3  | x64          | stable  | 10       | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/10/inspec-5.22.3-1-x64.msi      |
-| 5.22.3  | x64          | stable  | 11       | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/11/inspec-5.22.3-1-x64.msi      |
-| 5.22.3  | x64          | stable  | 2012r2   | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2012r2/inspec-5.22.3-1-x64.msi  |
-| 5.22.3  | x64          | stable  | 2016     | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2016/inspec-5.22.3-1-x64.msi    |
-| 5.22.3  | x64          | stable  | 2019     | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2019/inspec-5.22.3-1-x64.msi    |
-| 5.22.3  | x64          | stable  | 2022     | 8f607794f2ce7cb6f476af2b3bee620f5c63db96d39387d746e14ec1fcb8b310 | https://packages.chef.io/files/stable/inspec/5.22.3/windows/2022/inspec-5.22.3-1-x64.msi    |
-
 ## LehrerOffice
 
 [Link](https://lehreroffice.net/)
@@ -801,6 +951,58 @@
 | 102.0.4880.104 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/102.0.4880.104/win/Opera_GX_102.0.4880.104_Setup_x64.exe |
 | 102.0.4880.104 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/102.0.4880.104/win/Opera_GX_102.0.4880.104_Setup.exe     |
 
+## BellSoftLibericaJDK11
+
+[Link](https://bell-sw.com/libericajdk/)
+
+**Last update**: Thursday, 19 October 2023 00:19:48 Etc/UTC
+
+| Version    | LTS  | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                              |
+| ---------- | ---- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------- |
+| 11.0.21+10 | True | jdk-full   | msi  | AMD64        | 259387906c96c19367e897db8696a998ae8d2c81 | 280281088 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-full.msi   |
+| 11.0.21+10 | True | jdk-lite   | msi  | AMD64        | d7b0236bec26435f9b4e0d45b490e3b3d908e0d4 | 74911744  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-lite.msi   |
+| 11.0.21+10 | True | jdk        | msi  | AMD64        | ee23c85da3e90f226e5e52d77445719da1af965d | 194416640 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64.msi        |
+| 11.0.21+10 | True | jre-full   | msi  | AMD64        | e9e44355b0225b18f4e240ee021fa50716e96827 | 78995456  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64-full.msi   |
+| 11.0.21+10 | True | jre        | msi  | AMD64        | c2a7e5ffabecad1f6d4083592a263d78977c759f | 44122112  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64.msi        |
+| 11.0.21+10 | True | jre-full   | msi  | ARM64        | 918695de32ec8451a50c32a5fad5935385a21a96 | 46743552  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64-full.msi |
+| 11.0.21+10 | True | jdk        | msi  | ARM64        | c2851b00c6685d323c012ae9c8cd09bf616e8b1d | 188792832 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64.msi      |
+| 11.0.21+10 | True | jdk-lite   | msi  | ARM64        | c7bef53cd985210c59466613905c63d038adc41c | 72691712  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-lite.msi |
+| 11.0.21+10 | True | jdk-full   | msi  | ARM64        | f59d00bbea2df25fe7b9d7a372b07968010123e8 | 215896064 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-full.msi |
+| 11.0.21+10 | True | jre        | msi  | ARM64        | f59495af35ae48db74bf250bee96ebec0646d100 | 41476096  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64.msi      |
+| 11.0.21+10 | True | jdk-full   | msi  | x86          | dbc419c7c8b1f696237316b64c112443039ff8b3 | 250925056 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-full.msi    |
+| 11.0.21+10 | True | jdk-lite   | msi  | x86          | a81ad73abcc7aff05ac119a41feee62f4ee521ef | 67317760  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-lite.msi    |
+| 11.0.21+10 | True | jdk        | msi  | x86          | 43bc4f068239378ffb86695fbad5bb8a565d3a59 | 174436352 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586.msi         |
+| 11.0.21+10 | True | jre        | msi  | x86          | d2a1ed858c14a7b8e5162156e44d77a0d69dddac | 38666240  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586.msi         |
+| 11.0.21+10 | True | jre-full   | msi  | x86          | 5e31db1d1951535428dfb07ec451ac2d501eaf07 | 68935680  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586-full.msi    |
+| 11.0.21+10 | True | jre-full   | zip  | AMD64        | d711e6b319464e62305dd2cf458c84423dbe3422 | 78317604  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64-full.zip   |
+| 11.0.21+10 | True | jdk-full   | zip  | AMD64        | 0fd072e7cbf3dd35c1b1dfbb0f297db89685bcf1 | 284517117 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-full.zip   |
+| 11.0.21+10 | True | jdk-lite   | zip  | AMD64        | c33f07d4496eac6abf96070c9a788258661535dc | 73834910  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-lite.zip   |
+| 11.0.21+10 | True | jre        | zip  | AMD64        | e20a3e32db087175260484cf6d0ab977f6873fec | 43268687  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64.zip        |
+| 11.0.21+10 | True | jdk        | zip  | AMD64        | f593dfdecb755644bd503b5bb2365f1472719a14 | 198009576 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64.zip        |
+| 11.0.21+10 | True | jre-full   | zip  | ARM64        | e006d8a9cbb873d8bcd3ad535610031a53eacdb4 | 45929221  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64-full.zip |
+| 11.0.21+10 | True | jdk        | zip  | ARM64        | bb70569e4f8e432c3e99f4acb98cb5719f3a53ed | 192407151 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64.zip      |
+| 11.0.21+10 | True | jre        | zip  | ARM64        | 9f987aed7777cd81760351540993ae8a7f91099e | 40651136  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64.zip      |
+| 11.0.21+10 | True | jdk-full   | zip  | ARM64        | 517a44d47ba9462626ef6c7928eb989745cbff7a | 220014992 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-full.zip |
+| 11.0.21+10 | True | jdk-lite   | zip  | ARM64        | a7108fecd6ac517a32f9f307fbbb3cfbe5c47c47 | 71651177  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-lite.zip |
+| 11.0.21+10 | True | jre        | zip  | x86          | d2be2f350cadeaf7434587b07f4bda76f39db3b8 | 37903612  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586.zip         |
+| 11.0.21+10 | True | jdk-full   | zip  | x86          | 0f904b35e8d195650c964f237503d5d0bf74727e | 254326125 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-full.zip    |
+| 11.0.21+10 | True | jdk-lite   | zip  | x86          | 66c2699be46429ac433e6a93b59069ce381716ef | 66350387  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-lite.zip    |
+| 11.0.21+10 | True | jre-full   | zip  | x86          | d2dcd8e928b415683b07ef1512ccccde8685acee | 68333331  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586-full.zip    |
+| 11.0.21+10 | True | jdk        | zip  | x86          | 1a06bf1b26de758df3669848876e2d84af116b29 | 177219096 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586.zip         |
+
+## AdoptiumTemurin11
+
+[Link](https://adoptium.net/)
+
+**Last update**: Thursday, 19 October 2023 00:19:48 Etc/UTC
+
+| Version     | ImageType | Date                | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                      |
+| ----------- | --------- | ------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.0.21+9   | jdk       | 10/18/2023 20:52:28 | ccaa09811f488cf95340e2702e8d9176058a52e89808ae6e1a1d20de39e5ce34 | 175300608 | x64          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.21_9.msi        |
+| 11.0.21+9   | jre       | 10/18/2023 20:52:07 | 9b0ea6ebe77e70c7ac229074028d64399d72a7fda499aad114ef0ba4c375b1a8 | 31477760  | x64          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.21_9.msi        |
+| 11.0.20.1+1 | jdk       | 08/29/2023 14:11:08 | 5f507a9bd3a2a79bda88a984c2c1d748e89e0485c915620ebb34d866e72d3538 | 156438528 | x86          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.20.1_1.msi |
+| 11.0.20.1+1 | jre       | 08/29/2023 14:12:00 | c6d52b69e402cc67817334af85c9a2ee8866334e9fee694651f96ba1ea711133 | 27426816  | x86          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.20.1_1.msi |
+
 ## BellSoftLibericaJDK8
 
 [Link](https://bell-sw.com/libericajdk/)
@@ -872,6 +1074,17 @@
 | 23.3.2  | 10/18/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2332/camtasia.exe |
 | 23.3.2  | 10/18/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2332/camtasia.msi |
 
+## HashicorpTerraform
+
+[Link](https://www.terraform.io/)
+
+**Last update**: Thursday, 19 October 2023 00:19:48 Etc/UTC
+
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 1.6.2   | zip  | x64          | https://releases.hashicorp.com/terraform/1.6.2/terraform_1.6.2_windows_amd64.zip |
+| 1.6.2   | zip  | x86          | https://releases.hashicorp.com/terraform/1.6.2/terraform_1.6.2_windows_386.zip   |
+
 ## AWSSAMCLI
 
 [Link](https://github.com/aws/aws-sam-cli/)
@@ -921,80 +1134,6 @@
 | 17.0.9+11 | True | jre-full   | zip  | x86          | a95fc86b157a873062cb2cf43f0508366c13a45f | 70714192  | https://github.com/bell-sw/Liberica/releases/download/17.0.9+11/bellsoft-jre17.0.9+11-windows-i586-full.zip    |
 | 17.0.9+11 | True | jdk        | zip  | x86          | 5ec352a69476ef0bc29e6de25c6082cf3c8752d2 | 184795526 | https://github.com/bell-sw/Liberica/releases/download/17.0.9+11/bellsoft-jdk17.0.9+11-windows-i586.zip         |
 
-## BellSoftLibericaJDK11
-
-[Link](https://bell-sw.com/libericajdk/)
-
-**Last update**: Thursday, 19 October 2023 00:19:48 Etc/UTC
-
-| Version    | LTS  | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                              |
-| ---------- | ---- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------- |
-| 11.0.21+10 | True | jdk-full   | msi  | AMD64        | 259387906c96c19367e897db8696a998ae8d2c81 | 280281088 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-full.msi   |
-| 11.0.21+10 | True | jdk-lite   | msi  | AMD64        | d7b0236bec26435f9b4e0d45b490e3b3d908e0d4 | 74911744  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-lite.msi   |
-| 11.0.21+10 | True | jdk        | msi  | AMD64        | ee23c85da3e90f226e5e52d77445719da1af965d | 194416640 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64.msi        |
-| 11.0.21+10 | True | jre-full   | msi  | AMD64        | e9e44355b0225b18f4e240ee021fa50716e96827 | 78995456  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64-full.msi   |
-| 11.0.21+10 | True | jre        | msi  | AMD64        | c2a7e5ffabecad1f6d4083592a263d78977c759f | 44122112  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64.msi        |
-| 11.0.21+10 | True | jre-full   | msi  | ARM64        | 918695de32ec8451a50c32a5fad5935385a21a96 | 46743552  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64-full.msi |
-| 11.0.21+10 | True | jdk        | msi  | ARM64        | c2851b00c6685d323c012ae9c8cd09bf616e8b1d | 188792832 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64.msi      |
-| 11.0.21+10 | True | jdk-lite   | msi  | ARM64        | c7bef53cd985210c59466613905c63d038adc41c | 72691712  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-lite.msi |
-| 11.0.21+10 | True | jdk-full   | msi  | ARM64        | f59d00bbea2df25fe7b9d7a372b07968010123e8 | 215896064 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-full.msi |
-| 11.0.21+10 | True | jre        | msi  | ARM64        | f59495af35ae48db74bf250bee96ebec0646d100 | 41476096  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64.msi      |
-| 11.0.21+10 | True | jdk-full   | msi  | x86          | dbc419c7c8b1f696237316b64c112443039ff8b3 | 250925056 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-full.msi    |
-| 11.0.21+10 | True | jdk-lite   | msi  | x86          | a81ad73abcc7aff05ac119a41feee62f4ee521ef | 67317760  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-lite.msi    |
-| 11.0.21+10 | True | jdk        | msi  | x86          | 43bc4f068239378ffb86695fbad5bb8a565d3a59 | 174436352 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586.msi         |
-| 11.0.21+10 | True | jre        | msi  | x86          | d2a1ed858c14a7b8e5162156e44d77a0d69dddac | 38666240  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586.msi         |
-| 11.0.21+10 | True | jre-full   | msi  | x86          | 5e31db1d1951535428dfb07ec451ac2d501eaf07 | 68935680  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586-full.msi    |
-| 11.0.21+10 | True | jre-full   | zip  | AMD64        | d711e6b319464e62305dd2cf458c84423dbe3422 | 78317604  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64-full.zip   |
-| 11.0.21+10 | True | jdk-full   | zip  | AMD64        | 0fd072e7cbf3dd35c1b1dfbb0f297db89685bcf1 | 284517117 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-full.zip   |
-| 11.0.21+10 | True | jdk-lite   | zip  | AMD64        | c33f07d4496eac6abf96070c9a788258661535dc | 73834910  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64-lite.zip   |
-| 11.0.21+10 | True | jre        | zip  | AMD64        | e20a3e32db087175260484cf6d0ab977f6873fec | 43268687  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-amd64.zip        |
-| 11.0.21+10 | True | jdk        | zip  | AMD64        | f593dfdecb755644bd503b5bb2365f1472719a14 | 198009576 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-amd64.zip        |
-| 11.0.21+10 | True | jre-full   | zip  | ARM64        | e006d8a9cbb873d8bcd3ad535610031a53eacdb4 | 45929221  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64-full.zip |
-| 11.0.21+10 | True | jdk        | zip  | ARM64        | bb70569e4f8e432c3e99f4acb98cb5719f3a53ed | 192407151 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64.zip      |
-| 11.0.21+10 | True | jre        | zip  | ARM64        | 9f987aed7777cd81760351540993ae8a7f91099e | 40651136  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-aarch64.zip      |
-| 11.0.21+10 | True | jdk-full   | zip  | ARM64        | 517a44d47ba9462626ef6c7928eb989745cbff7a | 220014992 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-full.zip |
-| 11.0.21+10 | True | jdk-lite   | zip  | ARM64        | a7108fecd6ac517a32f9f307fbbb3cfbe5c47c47 | 71651177  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-aarch64-lite.zip |
-| 11.0.21+10 | True | jre        | zip  | x86          | d2be2f350cadeaf7434587b07f4bda76f39db3b8 | 37903612  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586.zip         |
-| 11.0.21+10 | True | jdk-full   | zip  | x86          | 0f904b35e8d195650c964f237503d5d0bf74727e | 254326125 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-full.zip    |
-| 11.0.21+10 | True | jdk-lite   | zip  | x86          | 66c2699be46429ac433e6a93b59069ce381716ef | 66350387  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586-lite.zip    |
-| 11.0.21+10 | True | jre-full   | zip  | x86          | d2dcd8e928b415683b07ef1512ccccde8685acee | 68333331  | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jre11.0.21+10-windows-i586-full.zip    |
-| 11.0.21+10 | True | jdk        | zip  | x86          | 1a06bf1b26de758df3669848876e2d84af116b29 | 177219096 | https://github.com/bell-sw/Liberica/releases/download/11.0.21+10/bellsoft-jdk11.0.21+10-windows-i586.zip         |
-
-## HashicorpTerraform
-
-[Link](https://www.terraform.io/)
-
-**Last update**: Thursday, 19 October 2023 00:19:48 Etc/UTC
-
-| Version | Type | Architecture | URI                                                                              |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 1.6.2   | zip  | x64          | https://releases.hashicorp.com/terraform/1.6.2/terraform_1.6.2_windows_amd64.zip |
-| 1.6.2   | zip  | x86          | https://releases.hashicorp.com/terraform/1.6.2/terraform_1.6.2_windows_386.zip   |
-
-## AdoptiumTemurin11
-
-[Link](https://adoptium.net/)
-
-**Last update**: Thursday, 19 October 2023 00:19:48 Etc/UTC
-
-| Version     | ImageType | Date                | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                      |
-| ----------- | --------- | ------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.21+9   | jdk       | 10/18/2023 20:52:28 | ccaa09811f488cf95340e2702e8d9176058a52e89808ae6e1a1d20de39e5ce34 | 175300608 | x64          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.21_9.msi        |
-| 11.0.21+9   | jre       | 10/18/2023 20:52:07 | 9b0ea6ebe77e70c7ac229074028d64399d72a7fda499aad114ef0ba4c375b1a8 | 31477760  | x64          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.21_9.msi        |
-| 11.0.20.1+1 | jdk       | 08/29/2023 14:11:08 | 5f507a9bd3a2a79bda88a984c2c1d748e89e0485c915620ebb34d866e72d3538 | 156438528 | x86          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.20.1_1.msi |
-| 11.0.20.1+1 | jre       | 08/29/2023 14:12:00 | c6d52b69e402cc67817334af85c9a2ee8866334e9fee694651f96ba1ea711133 | 27426816  | x86          | msi  | https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.20.1_1.msi |
-
-## MirantisLens
-
-[Link](https://k8slens.dev/)
-
-**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
-
-| Version               | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                        |
-| --------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 2023.9.151403-alpha   | x64          | Alpha   | 09/15/2023 14:18:20 | 205806000 | pdlmUdnl923BT47OI5GXYYKtE+X0FbAnhln08Hhd9rG8pJEbWRPImUkEVXIUc6oTUwHT4cn8RPZ0fb+NvkGUUQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.9.151403-alpha.exe   |
-| 2023.10.181418-latest | x64          | Stable  | 10/18/2023 14:28:29 | 206966384 | Bw2SrYvSHEnbdtYlnS7QQFNp5apTFPcKkSGluV2x0khjUNBYQ1WcWiETvrtAQ2A4EbzkQM6IdmjgGYUZevykyg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.10.181418-latest.exe |
-
 ## OctopusDeployServer
 
 [Link](https://octopus.com/)
@@ -1004,6 +1143,54 @@
 | Version      | Date       | URI                                                                     |
 | ------------ | ---------- | ----------------------------------------------------------------------- |
 | 2023.3.13118 | 10/18/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.3.13118-x64.msi |
+
+## Cyberduck
+
+[Link](https://cyberduck.io/)
+
+**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
+
+| Version     | Date       | Channel | URI                                                             |
+| ----------- | ---------- | ------- | --------------------------------------------------------------- |
+| 8.7.0.40629 | 10/18/2023 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.7.0.40629.exe |
+
+## AdobeAcrobatDC
+
+[Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
+
+**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
+
+| Version      | Type      | Architecture | URI                                                                                                        |
+| ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
+| 23.006.20360 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCx64Upd2300620360.msp     |
+| 23.006.20360 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCUpd2300620360.msp        |
+| 23.006.20360 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360.msp     |
+| 23.006.20360 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360.msp         |
+| 23.006.20360 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360_MUI.msp |
+| 23.006.20360 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360_MUI.msp     |
+
+## PiriformCCleanerFree
+
+[Link](https://www.ccleaner.com/ccleaner)
+
+**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
+
+| Version    | Filename       | URI                                                                                                              |
+| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 6.17.10746 | ccsetup617.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
+
+## AdobeAcrobatProStdDC
+
+[Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
+
+**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
+
+| Version      | Architecture | Sku      | URI                                                                                          |
+| ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
+| 23.006.20360 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.006.20360 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.006.20360 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 23.006.20360 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
 
 ## AdobeAcrobatReaderDC
 
@@ -1044,6 +1231,17 @@
 | 23.006.20320 | Turkish               | x86          | Reader 2023.006.20320 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620320/AcroRdrDC2300620320_tr_TR.exe   |
 | 23.006.20320 | Ukrainian             | x86          | Reader 2023.006.20320 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620320/AcroRdrDC2300620320_uk_UA.exe   |
 
+## MirantisLens
+
+[Link](https://k8slens.dev/)
+
+**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
+
+| Version               | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                        |
+| --------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2023.9.151403-alpha   | x64          | Alpha   | 09/15/2023 14:18:20 | 205806000 | pdlmUdnl923BT47OI5GXYYKtE+X0FbAnhln08Hhd9rG8pJEbWRPImUkEVXIUc6oTUwHT4cn8RPZ0fb+NvkGUUQ== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.9.151403-alpha.exe   |
+| 2023.10.181418-latest | x64          | Stable  | 10/18/2023 14:28:29 | 206966384 | Bw2SrYvSHEnbdtYlnS7QQFNp5apTFPcKkSGluV2x0khjUNBYQ1WcWiETvrtAQ2A4EbzkQM6IdmjgGYUZevykyg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.10.181418-latest.exe |
+
 ## RStudio
 
 [Link](https://posit.co/products/open-source/rstudio/)
@@ -1055,54 +1253,6 @@
 | 2023.09.1+494      | RStudio 2023.09.1+494 - Windows 10/11 (64-bit)          | False | 2023-10-17 | 214341200 | fe62b78446fb91d905ec28d1f017aff8aaaf0bbb40a79b0b5043adf60ae910e1 | exe  | https://download1.rstudio.org/electron/windows/RStudio-2023.09.1-494.exe          |
 | 2023.09.1+494.pro2 | RStudio Pro 2023.09.1+494.pro2 - Windows 10/11 (64-bit) | True  | 2023-10-17 | 218296432 | e31071866ed2d2d082641b7660fcce3685d439b1be7914b7794555cad56dd022 | exe  | https://download1.rstudio.org/electron/windows/RStudio-pro-2023.09.1-494.pro2.exe |
 
-## AdobeAcrobatProStdDC
-
-[Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
-
-**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
-
-| Version      | Architecture | Sku      | URI                                                                                          |
-| ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
-| 23.006.20360 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.006.20360 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.006.20360 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-| 23.006.20360 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-
-## PiriformCCleanerFree
-
-[Link](https://www.ccleaner.com/ccleaner)
-
-**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
-
-| Version    | Filename       | URI                                                                                                              |
-| ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 6.17.10746 | ccsetup617.exe | https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/ |
-
-## AdobeAcrobatDC
-
-[Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
-
-**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
-
-| Version      | Type      | Architecture | URI                                                                                                        |
-| ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.006.20360 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCx64Upd2300620360.msp     |
-| 23.006.20360 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCUpd2300620360.msp        |
-| 23.006.20360 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360.msp     |
-| 23.006.20360 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360.msp         |
-| 23.006.20360 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360_MUI.msp |
-| 23.006.20360 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360_MUI.msp     |
-
-## Cyberduck
-
-[Link](https://cyberduck.io/)
-
-**Last update**: Wednesday, 18 October 2023 16:08:05 Etc/UTC
-
-| Version     | Date       | Channel | URI                                                             |
-| ----------- | ---------- | ------- | --------------------------------------------------------------- |
-| 8.7.0.40629 | 10/18/2023 | Release | https://update.cyberduck.io/Cyberduck-Installer-8.7.0.40629.exe |
-
 ## DockerDesktop
 
 [Link](https://www.docker.com/products/docker-desktop/)
@@ -1113,16 +1263,29 @@
 | ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |
 | 4.24.2  | 124339 | 583074408 | exe  | https://desktop.docker.com/win/main/amd64/124339/Docker%20Desktop%20Installer.exe |
 
-## HashicorpBoundary
+## OracleJava17
 
-[Link](https://www.boundaryproject.io/)
+[Link](https://www.oracle.com/java/technologies/downloads/#java17)
 
 **Last update**: Wednesday, 18 October 2023 00:21:00 Etc/UTC
 
-| Version | Type | Architecture | URI                                                                              |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
-| 0.14.1  | zip  | x64          | https://releases.hashicorp.com/boundary/0.14.1/boundary_0.14.1_windows_amd64.zip |
-| 0.14.1  | zip  | x86          | https://releases.hashicorp.com/boundary/0.14.1/boundary_0.14.1_windows_386.zip   |
+| Version | Sha256                                                           | Type | URI                                                                   |
+| ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+| 17.0.9  | 4d1d6ec3976fd20bcc34db8fd7cfbe1a8cdd93a0c33182af13b31cd1feef423d | exe  | https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe |
+| 17.0.9  | 978a123619766c354ce2aacd7eb53d2f7d1b7575af7a5491a3fcaea058634243 | msi  | https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi |
+| 17.0.9  | 68852a21156dc51471e5692c0c4d0b6177a3e7fefa2da4950a14e8a13e326d5c | zip  | https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip |
+
+## OracleJava21
+
+[Link](https://www.oracle.com/java/technologies/downloads/#java21)
+
+**Last update**: Wednesday, 18 October 2023 00:21:00 Etc/UTC
+
+| Version | Sha256                                                           | Type | URI                                                                   |
+| ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+| 21.0.1  | 690bf651c3cd59a17975c804c5f31a9f177d4b70a9de5c6aeed0598f5dc91bff | exe  | https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe |
+| 21.0.1  | 9aa8b0e42e133b853fbb12fef5533ed353c87e6c37453b96c8c045a9d2d6bdbc | msi  | https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi |
+| 21.0.1  | c951b2f36d0f43ff347ac93d42ff6f64ce9b6231767d6b81d727bd2178d08290 | zip  | https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip |
 
 ## AmazonCorretto
 
@@ -1143,47 +1306,26 @@
 | 20.0.2.10.1 | 20  | x64          | msi  | https://corretto.aws/downloads/resources/20.0.2.10.1/amazon-corretto-20.0.2.10.1-windows-x64.msi   |
 | 11.0.21.9.1 | 11  | x86          | msi  | https://corretto.aws/downloads/resources/11.0.21.9.1/amazon-corretto-11.0.21.9.1-windows-x86.msi   |
 
-## OracleJava21
+## HashicorpBoundary
 
-[Link](https://www.oracle.com/java/technologies/downloads/#java21)
-
-**Last update**: Wednesday, 18 October 2023 00:21:00 Etc/UTC
-
-| Version | Sha256                                                           | Type | URI                                                                   |
-| ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
-| 21.0.1  | 690bf651c3cd59a17975c804c5f31a9f177d4b70a9de5c6aeed0598f5dc91bff | exe  | https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe |
-| 21.0.1  | 9aa8b0e42e133b853fbb12fef5533ed353c87e6c37453b96c8c045a9d2d6bdbc | msi  | https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi |
-| 21.0.1  | c951b2f36d0f43ff347ac93d42ff6f64ce9b6231767d6b81d727bd2178d08290 | zip  | https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip |
-
-## MicrosoftWvdRemoteDesktop
-
-[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
+[Link](https://www.boundaryproject.io/)
 
 **Last update**: Wednesday, 18 October 2023 00:21:00 Etc/UTC
 
-| Version    | Architecture | Channel | Date       | MD5                              | Sha2                                                                                                                             | Filename                           | URI                                                               |
-| ---------- | ------------ | ------- | ---------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
-| 1.2.4763.0 | ARM64        | Dogfood | 10/17/2023 | E8B9C636E95150C2A0D6DDEE5679B2F1 | 1C5B335557B7B1302F74E8143A51CF94787F33222B97C3BBF45DD6DF8EDFC579CE5A30E2E456AAA20F477742AB478CEA131A9BD34890E8FED00A549055EA4504 | RemoteDesktop_1.2.4763.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dlc7 |
-| 1.2.4763.0 | x64          | Dogfood | 10/17/2023 | 2D97D8F9380AD2B01732F4045E0012DF | 7EBC44005DC95AC55AD705C302FE873B8AF132692A19EB1D1BD1C9BDF96DE294E6E37A5050E0032CBF562A327EE92B8DA894D527FE8B4E164A879AD4B62F16E9 | RemoteDesktop_1.2.4763.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dqzi |
-| 1.2.4763.0 | x86          | Dogfood | 10/17/2023 | 07677BEC3D879E2009A9BE8B6CAC9B8D | E3E4AE991530375F1B5BCB231DCC4E37CF5EACD40DF5459FBA03D29CD95981298E846009013B8240DA58583331E179B46D8E7F97DB11BF0231F8BFFE8FD8F40C | RemoteDesktop_1.2.4763.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1dlc8 |
-| 1.2.4677.0 | ARM64        | Insider | 10/06/2023 | 0C375F6BC18990536DAEC77A97DB025A | 451DEC3C4DFD68D7EE76373EB7605B619D28FB82BA34537EF1DFF8B0429B8B4B84CBECC61FDC3BF825DD28DA0713614407BCAD45C48A5AF581CA365C95F4D37B | RemoteDesktop_1.2.4677.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1cRm0 |
-| 1.2.4677.0 | ARM64        | Public  | 10/06/2023 | 0C375F6BC18990536DAEC77A97DB025A | 451DEC3C4DFD68D7EE76373EB7605B619D28FB82BA34537EF1DFF8B0429B8B4B84CBECC61FDC3BF825DD28DA0713614407BCAD45C48A5AF581CA365C95F4D37B | RemoteDesktop_1.2.4677.0_ARM64.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1cRm0 |
-| 1.2.4677.0 | x64          | Insider | 10/06/2023 | 31571F03B62BC5C4913BB9C6C15D02E1 | A580BE6315D5F9AA4C8B51FA49A6253084A769890AA8266355B3FD3992D695F51292FEF5D4F5DAEB8BEC490CB346A4AEB6FEFDE69B9A84AF15D7376F3478E0A5 | RemoteDesktop_1.2.4677.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1d1KN |
-| 1.2.4677.0 | x64          | Public  | 10/06/2023 | 31571F03B62BC5C4913BB9C6C15D02E1 | A580BE6315D5F9AA4C8B51FA49A6253084A769890AA8266355B3FD3992D695F51292FEF5D4F5DAEB8BEC490CB346A4AEB6FEFDE69B9A84AF15D7376F3478E0A5 | RemoteDesktop_1.2.4677.0_x64.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1d1KN |
-| 1.2.4677.0 | x86          | Insider | 10/06/2023 | BF1592BCBB3BEEFCB6CA4BCE7BCF0EEC | 79C9A97006D26FD5E602F5A1B863EFC1236DAEC1B67B6A222241AA60B3DFE5475B894BDBF6728450B507714C88EB5006D5DE57EA727ACB6CD24BE3B0B6B14732 | RemoteDesktop_1.2.4677.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1d1KO |
-| 1.2.4677.0 | x86          | Public  | 10/06/2023 | BF1592BCBB3BEEFCB6CA4BCE7BCF0EEC | 79C9A97006D26FD5E602F5A1B863EFC1236DAEC1B67B6A222241AA60B3DFE5475B894BDBF6728450B507714C88EB5006D5DE57EA727ACB6CD24BE3B0B6B14732 | RemoteDesktop_1.2.4677.0_x86.msi   | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1d1KO |
+| Version | Type | Architecture | URI                                                                              |
+| ------- | ---- | ------------ | -------------------------------------------------------------------------------- |
+| 0.14.1  | zip  | x64          | https://releases.hashicorp.com/boundary/0.14.1/boundary_0.14.1_windows_amd64.zip |
+| 0.14.1  | zip  | x86          | https://releases.hashicorp.com/boundary/0.14.1/boundary_0.14.1_windows_386.zip   |
 
-## OracleJava17
+## BitwardenDesktop
 
-[Link](https://www.oracle.com/java/technologies/downloads/#java17)
+[Link](https://bitwarden.com/)
 
-**Last update**: Wednesday, 18 October 2023 00:21:00 Etc/UTC
+**Last update**: Tuesday, 17 October 2023 16:07:58 Etc/UTC
 
-| Version | Sha256                                                           | Type | URI                                                                   |
-| ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
-| 17.0.9  | 4d1d6ec3976fd20bcc34db8fd7cfbe1a8cdd93a0c33182af13b31cd1feef423d | exe  | https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe |
-| 17.0.9  | 978a123619766c354ce2aacd7eb53d2f7d1b7575af7a5491a3fcaea058634243 | msi  | https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi |
-| 17.0.9  | 68852a21156dc51471e5692c0c4d0b6177a3e7fefa2da4950a14e8a13e326d5c | zip  | https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip |
+| Version  | Type | URI                                                                      |
+| -------- | ---- | ------------------------------------------------------------------------ |
+| 2023.9.3 | exe  | https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2023.9.3.exe |
 
 ## NotepadPlusPlus
 
@@ -1205,28 +1347,6 @@
 | 8.5.8   | Windows  | ARM64        | zip  | Portable      | 10/17/2023 | 5685179 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.arm64.zip           |
 | 8.5.8   | Windows  | x64          | zip  | Portable      | 10/17/2023 | 5866013 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.x64.zip             |
 | 8.5.8   | Windows  | x86          | zip  | Portable      | 10/17/2023 | 5367408 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.zip                 |
-
-## BitwardenDesktop
-
-[Link](https://bitwarden.com/)
-
-**Last update**: Tuesday, 17 October 2023 16:07:58 Etc/UTC
-
-| Version  | Type | URI                                                                      |
-| -------- | ---- | ------------------------------------------------------------------------ |
-| 2023.9.3 | exe  | https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2023.9.3.exe |
-
-## TechSmithSnagit
-
-[Link](https://www.techsmith.com/)
-
-**Last update**: Tuesday, 17 October 2023 16:07:58 Etc/UTC
-
-| Version | Date                | Type | Architecture | URI                                                                 |
-| ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |
-| 24.0.1  | 10/17/2023 00:00:00 | exe  | x64          | http://download.techsmith.com/snagit/releases/2401/snagit.exe       |
-| 24.0.1  | 10/17/2023 00:00:00 | msi  | x64          | http://download.techsmith.com/snagit/releases/2401/snagit.msi       |
-| 24.0.1  | 10/17/2023 00:00:00 | msi  | x86          | http://download.techsmith.com/snagit/releases/2401/32bit/snagit.msi |
 
 ## OracleJava8
 
@@ -1253,6 +1373,18 @@
 | 7.0.12      | STABLE  | iso  | https://download.virtualbox.org/virtualbox/7.0.12/VBoxGuestAdditions_7.0.12.iso              |
 | 7.0.0_BETA3 | BETA    | exe  | https://download.virtualbox.org/virtualbox/7.0.0_BETA3/VirtualBox-7.0.0_BETA3-153829-Win.exe |
 | 7.0.0_BETA3 | BETA    | iso  | https://download.virtualbox.org/virtualbox/7.0.0_BETA3/VBoxGuestAdditions_7.0.0_BETA3.iso    |
+
+## TechSmithSnagit
+
+[Link](https://www.techsmith.com/)
+
+**Last update**: Tuesday, 17 October 2023 16:07:58 Etc/UTC
+
+| Version | Date                | Type | Architecture | URI                                                                 |
+| ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |
+| 24.0.1  | 10/17/2023 00:00:00 | exe  | x64          | http://download.techsmith.com/snagit/releases/2401/snagit.exe       |
+| 24.0.1  | 10/17/2023 00:00:00 | msi  | x64          | http://download.techsmith.com/snagit/releases/2401/snagit.msi       |
+| 24.0.1  | 10/17/2023 00:00:00 | msi  | x86          | http://download.techsmith.com/snagit/releases/2401/32bit/snagit.msi |
 
 ## AdobeAcrobat
 
@@ -1367,17 +1499,6 @@
 | 2023.2.3 | 232.10072.31 | PyCharm Professional | https://download.jetbrains.com/python/pycharm-professional-2023.2.3.exe.sha256 | 10/12/2023 | 546456248 | exe  | https://download.jetbrains.com/python/pycharm-professional-2023.2.3.exe |
 | 2022.2.2 | 222.4345.35  | PyCharm Edu          | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe.sha256          | 10/27/2022 | 394799056 | exe  | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe          |
 
-## MicrosoftAzureFunctionsCoreTools
-
-[Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
-
-**Last update**: Saturday, 14 October 2023 00:19:40 Etc/UTC
-
-| Version  | Architecture | URI                                                                            |
-| -------- | ------------ | ------------------------------------------------------------------------------ |
-| 4.0.5413 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
-| 4.0.5413 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
-
 ## Obsidian
 
 [Link](https://obsidian.md/)
@@ -1390,6 +1511,17 @@
 | 1.4.16  | Windows  | x86          | exe  | Default       | 10/13/2023 | 71786376 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.16/Obsidian.1.4.16-32.exe       |
 | 1.4.16  | Windows  | x86          | exe  | User          | 10/13/2023 | 76522648 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.16/Obsidian.1.4.16-allusers.exe |
 | 1.4.16  | Windows  | x86          | exe  | Default       | 10/13/2023 | 76452496 | https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.16/Obsidian.1.4.16.exe          |
+
+## MicrosoftAzureFunctionsCoreTools
+
+[Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+
+**Last update**: Saturday, 14 October 2023 00:19:40 Etc/UTC
+
+| Version  | Architecture | URI                                                                            |
+| -------- | ------------ | ------------------------------------------------------------------------------ |
+| 4.0.5413 | x64          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi |
+| 4.0.5413 | x86          | https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi |
 
 ## DruvainSyncClient
 
@@ -1422,15 +1554,15 @@
 | 13.0    | x64          | exe  | ALL      | https://dist.torproject.org/torbrowser/13.0/tor-browser-windows-x86_64-portable-13.0.exe |
 | 13.0    | x86          | exe  | ALL      | https://dist.torproject.org/torbrowser/13.0/tor-browser-windows-i686-portable-13.0.exe   |
 
-## JetBrainsGoLand
+## JetBrainsGateway
 
-[Link](https://www.jetbrains.com/dataspell)
+[Link](https://www.jetbrains.com/)
 
 **Last update**: Thursday, 12 October 2023 16:11:07 Etc/UTC
 
-| Version  | Build        | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                   |
-| -------- | ------------ | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |
-| 2023.2.3 | 232.10072.27 | GoLand  | https://download.jetbrains.com/go/goland-2023.2.3.exe.sha256 | 10/12/2023 | 499632704 | exe  | https://download.jetbrains.com/go/goland-2023.2.3.exe |
+| Version  | Build        | Edition | Sha256                                                                           | Date       | Size      | Type | URI                                                                       |
+| -------- | ------------ | ------- | -------------------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------- |
+| 2023.2.3 | 232.10072.27 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.2.3.exe.sha256 | 10/12/2023 | 182837880 | exe  | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.2.3.exe |
 
 ## JetBrainsWebStorm
 
@@ -1442,46 +1574,15 @@
 | -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------- |
 | 2023.2.3 | 232.10072.28 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2023.2.3.exe.sha256 | 10/12/2023 | 436638984 | exe  | https://download.jetbrains.com/webstorm/WebStorm-2023.2.3.exe |
 
-## JetBrainsGateway
+## JetBrainsGoLand
 
-[Link](https://www.jetbrains.com/)
+[Link](https://www.jetbrains.com/dataspell)
 
 **Last update**: Thursday, 12 October 2023 16:11:07 Etc/UTC
 
-| Version  | Build        | Edition | Sha256                                                                           | Date       | Size      | Type | URI                                                                       |
-| -------- | ------------ | ------- | -------------------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------- |
-| 2023.2.3 | 232.10072.27 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.2.3.exe.sha256 | 10/12/2023 | 182837880 | exe  | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.2.3.exe |
-
-## OctopusTentacle
-
-[Link](https://octopus.com/)
-
-**Last update**: Thursday, 12 October 2023 08:09:04 Etc/UTC
-
-| Version | Architecture | URI                                                                        |
-| ------- | ------------ | -------------------------------------------------------------------------- |
-| 7.1.31  | x64          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.7.1.31-x64.msi |
-| 7.1.31  | x86          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.7.1.31.msi     |
-
-## MicrosoftWvdInfraAgent
-
-[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
-
-**Last update**: Thursday, 12 October 2023 08:09:04 Etc/UTC
-
-| Version       | Architecture | Date                          | Filename                                                  | URI                                                              |
-| ------------- | ------------ | ----------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| 1.0.7539.8300 | x64          | Wed, 11 Oct 2023 22:35:35 GMT | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.7539.8300.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
-
-## PaintDotNet
-
-[Link](https://getpaint.net)
-
-**Last update**: Thursday, 12 October 2023 08:09:04 Etc/UTC
-
-| Version        | URI                                                                                                      |
-| -------------- | -------------------------------------------------------------------------------------------------------- |
-| 5.11.8685.3093 | https://github.com/paintdotnet/release/releases/download/v5.0.11/paint.net.5.0.11.install.anycpu.web.zip |
+| Version  | Build        | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                   |
+| -------- | ------------ | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |
+| 2023.2.3 | 232.10072.27 | GoLand  | https://download.jetbrains.com/go/goland-2023.2.3.exe.sha256 | 10/12/2023 | 499632704 | exe  | https://download.jetbrains.com/go/goland-2023.2.3.exe |
 
 ## PaintDotNetOfflineInstaller
 
@@ -1497,6 +1598,37 @@
 | 5.0.11  | Windows  | x64          | zip  | Default       | 04/07/2023 | 73977139 | https://github.com/paintdotnet/release/releases/download/v5.0.11/paint.net.5.0.11.winmsi.x64.zip         |
 | 5.0.11  | Windows  | x86          | zip  | Default       | 04/07/2023 | 765141   | https://github.com/paintdotnet/release/releases/download/v5.0.11/paint.net.5.0.11.install.anycpu.web.zip |
 
+## MicrosoftWvdInfraAgent
+
+[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
+
+**Last update**: Thursday, 12 October 2023 08:09:04 Etc/UTC
+
+| Version       | Architecture | Date                          | Filename                                                  | URI                                                              |
+| ------------- | ------------ | ----------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| 1.0.7539.8300 | x64          | Wed, 11 Oct 2023 22:35:35 GMT | Microsoft.RDInfra.RDAgent.Installer-x64-1.0.7539.8300.msi | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv |
+
+## OctopusTentacle
+
+[Link](https://octopus.com/)
+
+**Last update**: Thursday, 12 October 2023 08:09:04 Etc/UTC
+
+| Version | Architecture | URI                                                                        |
+| ------- | ------------ | -------------------------------------------------------------------------- |
+| 7.1.31  | x64          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.7.1.31-x64.msi |
+| 7.1.31  | x86          | https://download.octopusdeploy.com/octopus/Octopus.Tentacle.7.1.31.msi     |
+
+## PaintDotNet
+
+[Link](https://getpaint.net)
+
+**Last update**: Thursday, 12 October 2023 08:09:04 Etc/UTC
+
+| Version        | URI                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| 5.11.8685.3093 | https://github.com/paintdotnet/release/releases/download/v5.0.11/paint.net.5.0.11.install.anycpu.web.zip |
+
 ## JetBrainsIntelliJIDEA
 
 [Link](https://www.jetbrains.com/)
@@ -1508,39 +1640,6 @@
 | 2023.2.3 | 232.10072.27 | IntelliJ IDEA Community | https://download.jetbrains.com/idea/ideaIC-2023.2.3.exe.sha256 | 10/11/2023 | 696907160 | exe  | https://download.jetbrains.com/idea/ideaIC-2023.2.3.exe |
 | 2023.2.3 | 232.10072.27 | IntelliJ IDEA Ultimate  | https://download.jetbrains.com/idea/ideaIU-2023.2.3.exe.sha256 | 10/11/2023 | 811271968 | exe  | https://download.jetbrains.com/idea/ideaIU-2023.2.3.exe |
 | 2022.2.2 | 222.4345.35  | IntelliJ IDEA Edu       | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe.sha256 | 10/27/2022 | 693805272 | exe  | https://download.jetbrains.com/idea/ideaIE-2022.2.2.exe |
-
-## Microsoft.NET
-
-[Link](https://dotnet.microsoft.com/download/)
-
-**Last update**: Wednesday, 11 October 2023 00:20:23 Etc/UTC
-
-| Version | Architecture | Installer          | Channel | Hash                                                                                                                             | Type | URI                                                                                                                                                                       |
-| ------- | ------------ | ------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7.0.402 | ARM64        | sdk                | Current | 03ee548affb1fd7ccd62da1025ad07b73386a1e2764a31f95e258ca20b48591314d7203c608409eb1938f47d3df30cec974065419860e90d68c35854cb6644b0 | exe  | https://download.visualstudio.microsoft.com/download/pr/f78d7552-1dc8-4650-819c-60abcb0f789f/88ab499cc2747336fc084d534d41c5b4/dotnet-sdk-7.0.402-win-arm64.exe            |
-| 7.0.402 | x64          | sdk                | Current | 65c2bb8ead6a7b5aee38c1001e832b55dbdf1934a19a8b93544eaebccc32784b49bb360e6fd61bcbbcabe4197f7748cc595c7dbb393e5e0feebacf13d2e241d3 | exe  | https://download.visualstudio.microsoft.com/download/pr/d0348cb9-c348-4c68-93aa-70122dd44a33/5f982a6ffdb29ed70af11ffc08d3189e/dotnet-sdk-7.0.402-win-x64.exe              |
-| 7.0.402 | x86          | sdk                | Current | f03f161964105128c0e454fb2cf3c53dca9505a8c7840fbdbadf85ddfd3e6c08f5d9b066e9167126828189b595e3c2292a25536b00223f07080d91108acd84af | exe  | https://download.visualstudio.microsoft.com/download/pr/696ba452-a2bd-466a-b45a-285df60a53de/467af64d697047ada865c8faf87cedc0/dotnet-sdk-7.0.402-win-x86.exe              |
-| 7.0.12  | ARM64        | windowsdesktop     | Current | 1623a026b9f247dd503c05fafcd8ce05d7a1fd6109eaae0d0aed00b579729fc7084df23f5a60dd300d5ba23aef9c50b4ebb0871b3e26f682da406f2f72afc65f | exe  | https://download.visualstudio.microsoft.com/download/pr/87be2c02-a0ca-4154-9c29-a33c30ff3ed3/0a6910c08704c50dc4fc059fe35eab0c/windowsdesktop-runtime-7.0.12-win-arm64.exe |
-| 7.0.12  | ARM64        | runtime            | Current | f1e258c048588fdddc4141545bf44d2288ba99d798f8d24d31eb03691e73a223fda111835dafb84af7234532546792320deed5a95dafe9ec2254035a05c2c4a3 | exe  | https://download.visualstudio.microsoft.com/download/pr/d48e097c-baa4-4679-ad6b-5666770def6c/5613f0d6ea2f1bedd356c3b4365a7894/dotnet-runtime-7.0.12-win-arm64.exe         |
-| 7.0.12  | x64          | windowsdesktop     | Current | a366e858eaca7330358ef5d7a7efada45cc64284e36ba9f7722fa1a1644b1b34b343e700ce718ef67d08c7abf718eff7aefb4d5909ca7b5f63b4056b132c83de | exe  | https://download.visualstudio.microsoft.com/download/pr/f9ea536d-8e1f-4247-88b8-e79e33fa0873/c06e39f73a3bb1ec8833bb1cde98fce3/windowsdesktop-runtime-7.0.12-win-x64.exe   |
-| 7.0.12  | x64          | aspnetcore-runtime | Current | 8b77e3d3084e5b5904a8e18b6294bec1a8ee9a3ca52713a9237ee411737bca7bd890d2616a92fc4d55fdd4be2097ab05b0e7e88f48cb36699826ede5e16f7899 | exe  | https://download.visualstudio.microsoft.com/download/pr/9478b711-8d41-4d1c-a95f-b9141c9c5785/6ef110b4d71b4b8d6a16b4503c14ee82/aspnetcore-runtime-7.0.12-win-x64.exe       |
-| 7.0.12  | x64          | runtime            | Current | 87b6ac2b1356a48be409c89c11a44093e124a18d8dcca8afa49e7da9dbea416b0024dc0c12fdd44b9047c3dde38979595a301d3102a4f6110132e610f468a4bd | exe  | https://download.visualstudio.microsoft.com/download/pr/1d1b78d3-b079-4b47-9b17-f3def75babad/6a66a2c9ad5ee028ae35dd8d6a3add1a/dotnet-runtime-7.0.12-win-x64.exe           |
-| 7.0.12  | x86          | windowsdesktop     | Current | ce33129b2c6efe948b1eed73d127e3a5b0bd0af727474c2b8971b9075e37137cd985e58d2e47b9b1f0152a527eac98545e6cdb40054a34a6e3286601069ce259 | exe  | https://download.visualstudio.microsoft.com/download/pr/7e606599-560e-47c9-9ff1-60af4beaffb5/377fdff249559470cf483880f16acaf0/windowsdesktop-runtime-7.0.12-win-x86.exe   |
-| 7.0.12  | x86          | runtime            | Current | 36f49b417d30a5901ae18fdc7ed540ea88851ef449f34460f580fedcdf0644365989ff0d421584e3a52da6eca394a1327b7c118f4b2b053b875d2064fbd8a1ad | exe  | https://download.visualstudio.microsoft.com/download/pr/fc5aab43-a18e-4cdc-bdaf-a26a09bfdac2/d7ccd0e3180d0bcf5700ea77cadb409d/dotnet-runtime-7.0.12-win-x86.exe           |
-| 7.0.12  | x86          | aspnetcore-runtime | Current | 7ee68298dfa31c65968a9d89d407d73581b1262bbc568c02eadcc85b40e4cadf2a1526152a1f35e91fa978feaa269895b3f50445f20ef680feec5fd9cdbebaf8 | exe  | https://download.visualstudio.microsoft.com/download/pr/801dd0ec-8140-4c68-b2d9-676ea0777b50/2257a164f7ad451a8f00fb3d53999673/aspnetcore-runtime-7.0.12-win-x86.exe       |
-| 7.0.12  | x86          | aspnetcore-runtime | Current | 0f5a13d51118f5b2dcca4750f1658bc8c3c704c76d78b29144ae71f37176a0670d31cac32e385fe2e30f2f4255aff88e152d1d223ea9e7d76f45bb327fd7fa63 | exe  | https://download.visualstudio.microsoft.com/download/pr/723dac98-2f86-4efa-a67d-90b7f88d1a78/325c7069d70a1b23dd1a1545930ac251/dotnet-hosting-7.0.12-win.exe               |
-| 6.0.415 | ARM64        | sdk                | LTS     | c245191bc91c5d0d4dae88f7f2d0e5883e6579f900a7fafd82e5b9b0834696ee4c4785f2328aa546e644d605a607cfd26abc6640d17a6c4f0f316c4c9f4fcace | exe  | https://download.visualstudio.microsoft.com/download/pr/ad43ff75-1e52-4ac8-ba16-f243e63c3077/5b832eb2bd8d98e422257d8ddb9364b7/dotnet-sdk-6.0.415-win-arm64.exe            |
-| 6.0.415 | x64          | sdk                | LTS     | 350f1f2208e6ea6fd4b64bf2b5a97f49a0616b9d6462f243eeffcd0728116553be4d8aab1cb474546b36422f12cf140941138484c1f869e51aca82178b6a9d57 | exe  | https://download.visualstudio.microsoft.com/download/pr/9b3cbb1c-3368-4a5a-a899-b1c6ec5c0c3e/cb4de75dd805113129a7f903d125e4b0/dotnet-sdk-6.0.415-win-x64.exe              |
-| 6.0.415 | x86          | sdk                | LTS     | 9e5fdff19e986e799f748f2b0308acae87c3649346d8adf48b393aeba48f09fc76a9e179a6dec8e7556b7d51668325831cf70321bef0755b96d493f4e31f130e | exe  | https://download.visualstudio.microsoft.com/download/pr/9c0f0376-7a5a-4f9d-917b-1aefd18f6144/4af6a2f485d800c1121a27b6c7f2a0df/dotnet-sdk-6.0.415-win-x86.exe              |
-| 6.0.23  | ARM64        | runtime            | LTS     | 67cdc939112545ad6aa264ccb347cc21225664d63929ecbb7f000027dc881b655d4b647c7d6c623e9602ba6ddc583e302c7c2178afa17caf036359b1cda4f7c3 | exe  | https://download.visualstudio.microsoft.com/download/pr/c9a9f47c-b231-4155-a8cb-7432dce65476/97a20f1eee423ce07b544d127d6739d3/dotnet-runtime-6.0.23-win-arm64.exe         |
-| 6.0.23  | ARM64        | windowsdesktop     | LTS     | 1a5e7999bbfd3619792523478172e549bb5385c87dea934fd78fe6cecd488426a3bf0a91d1b1f07ebf5884dbfac0fd3eaf74613113cff39acf630f1ce1cf230f | exe  | https://download.visualstudio.microsoft.com/download/pr/c1bf9010-5b41-4457-bcad-bc2503767a57/2fea652e66c03acf51dcc62b98e5e9df/windowsdesktop-runtime-6.0.23-win-arm64.exe |
-| 6.0.23  | x64          | runtime            | LTS     | 59ae7105b565a6e71ad5e0dd000e33fe7db4ca8abe0b702ec87cd9fe79d1a41e91140e0d6e99732a8009b656cd287eaa8ccf3b31dcf2920eff609da73cf52413 | exe  | https://download.visualstudio.microsoft.com/download/pr/0e41930c-8e2d-4fb0-9b50-3a011bbc5338/a5f8b21867caacf4e97bf560eb304f7f/dotnet-runtime-6.0.23-win-x64.exe           |
-| 6.0.23  | x64          | aspnetcore-runtime | LTS     | 6183a8aaad0af1a026fe2d6f66cf9e0676ae3f417659dccab3f8dde1e0f8bc1d7c6dc33fade29ae3b0cecbdb09e53cfc469473a20e000a85c6c98b2423c8a2b6 | exe  | https://download.visualstudio.microsoft.com/download/pr/5dda0222-f938-4c6f-abb8-31dbf6e73540/71d708e5c3579ab96f998c0e7323c0cc/aspnetcore-runtime-6.0.23-win-x64.exe       |
-| 6.0.23  | x64          | windowsdesktop     | LTS     | 73d07cdcd8a876ba8608490d34e6513c05eac9a70ce0057ff53008f733d3615d57ddf33ea9afc736d4c8d4b19fe38d5cc132c2c472c5f1e38bc7650777b4041a | exe  | https://download.visualstudio.microsoft.com/download/pr/83d32568-c5a2-4117-9591-437051785f41/e75171da01b1fa5c796660dc4b96beed/windowsdesktop-runtime-6.0.23-win-x64.exe   |
-| 6.0.23  | x86          | runtime            | LTS     | cdc9127ede2edcaa4fd13e9d6f7681346096a3c21cc59126cf81805b620a3d4986fc9a4e6b7fc430c8568efbe4ce1d3c2fc9cd41abded04ab30a2964f40106f1 | exe  | https://download.visualstudio.microsoft.com/download/pr/e1f87d42-e036-4a5e-a61d-1df3a5f12c5d/f2f9d74bccf880943dabbccd98fd610f/dotnet-runtime-6.0.23-win-x86.exe           |
-| 6.0.23  | x86          | windowsdesktop     | LTS     | 4cc01bb5d2d52bffda533f447aa8bafa73ad5c127d6f440803f0350abacd6119e408e68aea8f155ae715c3427c9ca1ec8acd262f563e2592e86eccb09fd29de3 | exe  | https://download.visualstudio.microsoft.com/download/pr/c40fd151-a0f3-42a4-a081-cade6ad66bf8/3e6c8d60725eaa25ef1302a82fb1235b/windowsdesktop-runtime-6.0.23-win-x86.exe   |
-| 6.0.23  | x86          | aspnetcore-runtime | LTS     | ac8ebd88cb5b947c06b1e5b44d53a7cdec823d0de8e3f1959556a90ca43b2fb5b19c265b6e011ad8b7a27b13115cd818be6a95b01121de1c5a480b718c4d1970 | exe  | https://download.visualstudio.microsoft.com/download/pr/6970ad95-e962-4ec9-b2e1-c8bd9f530346/e82487275052013684dfdd3780460a17/aspnetcore-runtime-6.0.23-win-x86.exe       |
-| 6.0.23  | x86          | aspnetcore-runtime | LTS     | b0fab7d01aac899623fa5dc79940749ee58b29980d82d16e6aca794e323de46234b2263d70ba7e83cf989cb6c48d07e293f25a39b748e5a88874791566d38616 | exe  | https://download.visualstudio.microsoft.com/download/pr/34343c71-eb52-4537-b2b9-f25bc8b6c894/c6a39b3b387ad3f9662cd77c220902f5/dotnet-hosting-6.0.23-win.exe               |
 
 ## McNeelRhino
 
@@ -1565,16 +1664,6 @@
 | 4.0.10  | x64          | msi  | https://1.na.dl.wireshark.org/win64/Wireshark-win64-4.0.10.msi |
 | 3.6.18  | x86          | exe  | https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.6.18.exe |
 | 3.6.18  | x86          | msi  | https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.6.18.msi |
-
-## MicrosoftVisualStudio
-
-[Link](https://visualstudio.microsoft.com/)
-
-**Last update**: Wednesday, 11 October 2023 00:20:23 Etc/UTC
-
-| Version        | Sha256                                                           | Size    | URI                                                                                                                                                                        |
-| -------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.7.34202.233 | ebe7922780e7071c7a959907f0bea4b7123673f27549bf0cdb2dfbc7a35962ea | 3945336 | https://download.visualstudio.microsoft.com/download/pr/8bee1b10-0767-416b-a3c0-d658a719947b/ebe7922780e7071c7a959907f0bea4b7123673f27549bf0cdb2dfbc7a35962ea/vs_Setup.exe |
 
 ## dnGrep
 
@@ -1657,16 +1746,6 @@
 | 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_chs.msi |
 | 10.0.12014.0 | 47505408 | ae48a1faca1471bb6e90b1c7a812a7d6d5718c81 | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efs/windows/v10/10.0.12014.0/efsw_nt64_cht.msi |
 
-## BlueJ
-
-[Link](https://www.bluej.org/)
-
-**Last update**: Tuesday, 10 October 2023 16:09:36 Etc/UTC
-
-| Version | URI                                                        |
-| ------- | ---------------------------------------------------------- |
-| 5.2.1   | https://www.bluej.org/download/files/BlueJ-windows-521.msi |
-
 ## MicrosoftAzureStorageExplorer
 
 [Link](https://azure.microsoft.com/en-au/features/storage-explorer/)
@@ -1686,6 +1765,16 @@
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |
 | 4.8.0   | https://downloads.getfiddler.com/win/Fiddler%20Everywhere%204.8.0.exe |
+
+## BlueJ
+
+[Link](https://www.bluej.org/)
+
+**Last update**: Tuesday, 10 October 2023 16:09:36 Etc/UTC
+
+| Version | URI                                                        |
+| ------- | ---------------------------------------------------------- |
+| 5.2.1   | https://www.bluej.org/download/files/BlueJ-windows-521.msi |
 
 ## AutodeskFusion360
 
@@ -1720,17 +1809,6 @@
 | Latest  | Universal | Admin     | 78659584  | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi        |
 | Latest  | VDIClient | Admin     | 113917952 | msi  | x64          | https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi          |
 | Latest  | VDIClient | Admin     | 103712768 | msi  | x86          | https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi              |
-
-## Praat
-
-[Link](https://www.fon.hum.uva.nl/praat/)
-
-**Last update**: Monday, 09 October 2023 00:20:46 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------- |
-| 6.3.18  | Windows  | x64          | zip  | Default       | 10/08/2023 | 19485256 | https://github.com/praat/praat/releases/download/v6.3.18/praat6318_win64.zip |
-| 6.3.18  | Windows  | x86          | zip  | Default       | 10/08/2023 | 19302459 | https://github.com/praat/praat/releases/download/v6.3.18/praat6318_win32.zip |
 
 ## MicrosoftWindowsPackageManagerClient
 
@@ -1799,16 +1877,15 @@
 | 0.74.1  | Windows  | x64          | exe  | Default       | 10/02/2023 | 242052832 | https://github.com/microsoft/PowerToys/releases/download/v0.74.1/PowerToysSetup-0.74.1-x64.exe       |
 | 0.74.1  | Windows  | x64          | exe  | User          | 10/02/2023 | 242052704 | https://github.com/microsoft/PowerToys/releases/download/v0.74.1/PowerToysUserSetup-0.74.1-x64.exe   |
 
-## ControlUpAgent
+## ControlUpConsole
 
-[Link](https://www.controlup.com/products/controlup/agent/)
+[Link](https://www.controlup.com/products/controlup/management/)
 
 **Last update**: Tuesday, 03 October 2023 16:09:43 Etc/UTC
 
-| Version    | Framework    | Architecture | URI                                                                                             |
-| ---------- | ------------ | ------------ | ----------------------------------------------------------------------------------------------- |
-| 8.8.0.1021 | 64bit-.net45 | x64          | https://downloads.controlup.com/agent/8.8.0.1021/ControlUpAgent-net45-x64-8.8.0.1021-signed.msi |
-| 8.8.0.1021 | 32bit-.net45 | x86          | https://downloads.controlup.com/agent/8.8.0.1021/ControlUpAgent-net45-x86-8.8.0.1021-signed.msi |
+| Version    | URI                                                              |
+| ---------- | ---------------------------------------------------------------- |
+| 8.8.0.1021 | https://downloads.controlup.com/console/8.8.0.1021/ControlUp.zip |
 
 ## ControlUpRemoteDX
 
@@ -1821,15 +1898,16 @@
 | 8.8.0.1021 | Citrix Workspace App - Windows  | x86          | https://downloads.controlup.com/RemoteDX/citrix/windows/curdx_windows_citrix.exe |
 | 8.8.0.1021 | VMware Horizon Client - Windows | x86          | https://downloads.controlup.com/RemoteDX/vmware/windows/curdx_windows_vmware.exe |
 
-## ControlUpConsole
+## ControlUpAgent
 
-[Link](https://www.controlup.com/products/controlup/management/)
+[Link](https://www.controlup.com/products/controlup/agent/)
 
 **Last update**: Tuesday, 03 October 2023 16:09:43 Etc/UTC
 
-| Version    | URI                                                              |
-| ---------- | ---------------------------------------------------------------- |
-| 8.8.0.1021 | https://downloads.controlup.com/console/8.8.0.1021/ControlUp.zip |
+| Version    | Framework    | Architecture | URI                                                                                             |
+| ---------- | ------------ | ------------ | ----------------------------------------------------------------------------------------------- |
+| 8.8.0.1021 | 64bit-.net45 | x64          | https://downloads.controlup.com/agent/8.8.0.1021/ControlUpAgent-net45-x64-8.8.0.1021-signed.msi |
+| 8.8.0.1021 | 32bit-.net45 | x86          | https://downloads.controlup.com/agent/8.8.0.1021/ControlUpAgent-net45-x86-8.8.0.1021-signed.msi |
 
 ## MattermostDesktop
 
@@ -1842,16 +1920,6 @@
 | 5.5.1   | exe  | x86          | https://releases.mattermost.com/desktop/5.5.1/mattermost-desktop-setup-5.5.1-win.exe |
 | 5.5.1   | msi  | x64          | https://releases.mattermost.com/desktop/5.5.1/mattermost-desktop-5.5.1-x64.msi       |
 | 5.5.1   | msi  | x86          | https://releases.mattermost.com/desktop/5.5.1/mattermost-desktop-5.5.1-x86.msi       |
-
-## TelegramDesktop
-
-[Link](https://desktop.telegram.org/)
-
-**Last update**: Monday, 02 October 2023 16:09:13 Etc/UTC
-
-| Version | URI                                                   |
-| ------- | ----------------------------------------------------- |
-| 4.10.3  | https://updates.tdesktop.com/tsetup/tsetup.4.10.3.exe |
 
 ## PSFPython
 
@@ -1866,6 +1934,16 @@
 | 3.12.0  | 3      | de59862985bf7afa639f2e4f9e2a722c | 25173976 | 10/02/2023 | exe  | x86          | https://www.python.org/ftp/python/3.12.0/python-3.12.0.exe       |
 | 2.7.18  | 2      | a425c758d38f8e28b56f4724b499239a | 20598784 | 04/20/2020 | msi  | x64          | https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi |
 | 2.7.18  | 2      | db6ad9195b3086c6b4cefb9493d738d2 | 19632128 | 04/20/2020 | msi  | x86          | https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi       |
+
+## TelegramDesktop
+
+[Link](https://desktop.telegram.org/)
+
+**Last update**: Monday, 02 October 2023 16:09:13 Etc/UTC
+
+| Version | URI                                                   |
+| ------- | ----------------------------------------------------- |
+| 4.10.3  | https://updates.tdesktop.com/tsetup/tsetup.4.10.3.exe |
 
 ## ScreenToGif
 
@@ -1923,15 +2001,61 @@
 | 4.0.3   | Windows  | x86          | exe  | Portable      | 09/29/2023 | 71552656 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-4.0.3-portable.exe |
 | 4.0.3   | Windows  | x86          | exe  | Default       | 09/29/2023 | 71717432 | https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-Setup-4.0.3.exe    |
 
-## VMwareHorizonClient
+## GhislerTotalCommander
+
+[Link](https://www.ghisler.com/)
+
+**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
+
+| Version | Architecture | URI                                           |
+| ------- | ------------ | --------------------------------------------- |
+| 11.01   | x64          | https://totalcommander.ch/win/tcmd1101x64.exe |
+| 11.01   | x86          | https://totalcommander.ch/win/tcmd1101x32.exe |
+
+## MicrosoftOLEDBDriverForSQLServer
+
+[Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)
+
+**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
+
+| Version  | Date                | Size    | Architecture | Type | URI                                                                                                                    |
+| -------- | ------------------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------- |
+| 19.3.1.0 | 06/14/2023 17:26:36 | 3026944 | ARM64        | msi  | https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.1.0/arm64/msoledbsql.msi |
+| 19.3.1.0 | 06/14/2023 17:26:40 | 4993024 | x64          | msi  | https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.1.0/x64/msoledbsql.msi   |
+| 19.3.1.0 | 06/14/2023 17:26:41 | 2850816 | x86          | msi  | https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.1.0/x86/msoledbsql.msi   |
+
+## GitForWindows
+
+[Link](https://gitforwindows.org/)
+
+**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                           |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------- |
+| 2.42.0.2 | Windows  | x64          | exe  | Default       | 08/30/2023 | 61263968 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe            |
+| 2.42.0.2 | Windows  | x64          | exe  | Portable      | 08/30/2023 | 57890920 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe |
+| 2.42.0.2 | Windows  | x86          | exe  | Default       | 08/30/2023 | 61989056 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-32-bit.exe            |
+| 2.42.0.2 | Windows  | x86          | exe  | Portable      | 08/30/2023 | 58749224 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-32-bit.7z.exe |
+
+## VMwareHorizonClientAlt
 
 [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
 **Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
 
-| Version | ReleaseDate         | Md5                              | Sha256                                                           | Size      | Type | URI                                                                                                     |
-| ------- | ------------------- | -------------------------------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------------------------------------- |
-| 2306    | 07/06/2023 00:00:00 | 71929b8037174383cc04ec1d48aa48f7 | 6194f18dfc03d34ab50833dad471bd124b108aa74a4078c80d8091edec47cfbd | 426.66 MB | exe  | https://download3.vmware.com/software/CART24FQ2_WIN_2306/VMware-Horizon-Client-2306-8.10.0-21964678.exe |
+| Version         | URI                                                                                                                                  |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 8.10.0.21964678 | https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.10.0/21964678/VMware-Horizon-Client-2306-8.10.0-21964678.exe.tar |
+
+## MiniZincIDE
+
+[Link](https://www.minizinc.org/)
+
+**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                       |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |
+| 2.7.6   | Windows  | x64          | exe  | Minimal       | 06/20/2023 | 30521760 | https://github.com/MiniZinc/MiniZincIDE/releases/download/2.7.6/MiniZincIDE-2.7.6-bundled-setup-win64.exe |
 
 ## MicrosoftODBCDriverForSQLServer
 
@@ -1975,15 +2099,25 @@
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |
 | 4.0.1   | Windows  | x86          | msi  | Minimal       | 06/21/2017 | 4960256 | https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi |
 
-## JASP
+## VMwareHorizonClient
 
-[Link](https://jasp-stats.org/)
+[Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
 **Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
 
-| Version | URI                                                 |
-| ------- | --------------------------------------------------- |
-| 0.18.1  | https://static.jasp-stats.org/JASP-0.18.1-64bit.msi |
+| Version | ReleaseDate         | Md5                              | Sha256                                                           | Size      | Type | URI                                                                                                     |
+| ------- | ------------------- | -------------------------------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------------------------------------- |
+| 2306    | 07/06/2023 00:00:00 | 71929b8037174383cc04ec1d48aa48f7 | 6194f18dfc03d34ab50833dad471bd124b108aa74a4078c80d8091edec47cfbd | 426.66 MB | exe  | https://download3.vmware.com/software/CART24FQ2_WIN_2306/VMware-Horizon-Client-2306-8.10.0-21964678.exe |
+
+## Anaconda
+
+[Link](https://www.anaconda.com/)
+
+**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
+
+| Version | Architecture | Date                | Size       | MD5                              | Sha256                                                           | URI                                                                      |
+| ------- | ------------ | ------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2023.09 | x64          | 09/29/2023 15:43:35 | 1095571496 | e1040bfdedd8e5bc126a6cee3c29f8b3 | 810da8bff79c10a708b7af9e8f21e6bb47467261a31741240f27bd807f155cb9 | https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe |
 
 ## OracleJava20
 
@@ -1997,83 +2131,15 @@
 | 20.0.2  | d6b4db0821789bffe1b6c88937d061e878e9773e2e7d6469d99c970c97e0d3f5 | msi  | https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.msi |
 | 20.0.2  | 79a227ca670e5594560f6caeec26bf466143612d048e7f5b0ad2c3770d465ea6 | zip  | https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip |
 
-## Anaconda
+## JASP
 
-[Link](https://www.anaconda.com/)
-
-**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
-
-| Version | Architecture | Date                | Size       | MD5                              | Sha256                                                           | URI                                                                      |
-| ------- | ------------ | ------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 2023.09 | x64          | 09/29/2023 15:43:35 | 1095571496 | e1040bfdedd8e5bc126a6cee3c29f8b3 | 810da8bff79c10a708b7af9e8f21e6bb47467261a31741240f27bd807f155cb9 | https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe |
-
-## VMwareHorizonClientAlt
-
-[Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
+[Link](https://jasp-stats.org/)
 
 **Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
 
-| Version         | URI                                                                                                                                  |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 8.10.0.21964678 | https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.10.0/21964678/VMware-Horizon-Client-2306-8.10.0-21964678.exe.tar |
-
-## MiniZincIDE
-
-[Link](https://www.minizinc.org/)
-
-**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                       |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |
-| 2.7.6   | Windows  | x64          | exe  | Minimal       | 06/20/2023 | 30521760 | https://github.com/MiniZinc/MiniZincIDE/releases/download/2.7.6/MiniZincIDE-2.7.6-bundled-setup-win64.exe |
-
-## GitForWindows
-
-[Link](https://gitforwindows.org/)
-
-**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                           |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------- |
-| 2.42.0.2 | Windows  | x64          | exe  | Default       | 08/30/2023 | 61263968 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe            |
-| 2.42.0.2 | Windows  | x64          | exe  | Portable      | 08/30/2023 | 57890920 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe |
-| 2.42.0.2 | Windows  | x86          | exe  | Default       | 08/30/2023 | 61989056 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-32-bit.exe            |
-| 2.42.0.2 | Windows  | x86          | exe  | Portable      | 08/30/2023 | 58749224 | https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-32-bit.7z.exe |
-
-## GhislerTotalCommander
-
-[Link](https://www.ghisler.com/)
-
-**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
-
-| Version | Architecture | URI                                           |
-| ------- | ------------ | --------------------------------------------- |
-| 11.01   | x64          | https://totalcommander.ch/win/tcmd1101x64.exe |
-| 11.01   | x86          | https://totalcommander.ch/win/tcmd1101x32.exe |
-
-## MicrosoftOLEDBDriverForSQLServer
-
-[Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)
-
-**Last update**: Friday, 29 September 2023 16:08:47 Etc/UTC
-
-| Version  | Date                | Size    | Architecture | Type | URI                                                                                                                    |
-| -------- | ------------------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------- |
-| 19.3.1.0 | 06/14/2023 17:26:36 | 3026944 | ARM64        | msi  | https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.1.0/arm64/msoledbsql.msi |
-| 19.3.1.0 | 06/14/2023 17:26:40 | 4993024 | x64          | msi  | https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.1.0/x64/msoledbsql.msi   |
-| 19.3.1.0 | 06/14/2023 17:26:41 | 2850816 | x86          | msi  | https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.1.0/x86/msoledbsql.msi   |
-
-## Slack
-
-[Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
-
-**Last update**: Friday, 29 September 2023 00:19:40 Etc/UTC
-
-| Version  | Platform   | Architecture | URI                                                                                                  |
-| -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
-| 4.34.121 | PerMachine | x64          | https://downloads.slack-edge.com/releases/windows/4.34.121/prod/x64/slack-standalone-4.34.121.0.msi  |
-| 4.34.121 | PerMachine | x86          | https://downloads.slack-edge.com/releases/windows/4.34.121/prod/ia32/slack-standalone-4.34.121.0.msi |
-| 4.34.121 | PerUser    | x64          | https://downloads.slack-edge.com/releases/windows/4.34.121/prod/x64/SlackSetup.msi                   |
+| Version | URI                                                 |
+| ------- | --------------------------------------------------- |
+| 0.18.1  | https://static.jasp-stats.org/JASP-0.18.1-64bit.msi |
 
 ## MicrosoftFSLogixApps
 
@@ -2084,17 +2150,6 @@
 | Version        | Date       | Channel    | URI                                                                                                                |
 | -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
 | 2.9.8612.60056 | 09/26/2023 | Production | https://download.microsoft.com/download/9/7/b/97b4c64b-ffc9-447c-b39e-3afba4672ee8/FSLogix_Apps_2.9.8612.60056.zip |
-
-## HashicorpVault
-
-[Link](https://www.vaultproject.io/)
-
-**Last update**: Wednesday, 27 September 2023 00:20:50 Etc/UTC
-
-| Version | Type | Architecture | URI                                                                        |
-| ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.15.0  | zip  | x64          | https://releases.hashicorp.com/vault/1.15.0/vault_1.15.0_windows_amd64.zip |
-| 1.15.0  | zip  | x86          | https://releases.hashicorp.com/vault/1.15.0/vault_1.15.0_windows_386.zip   |
 
 ## JetBrainsRider
 
@@ -2159,36 +2214,6 @@
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1.8.0   | Windows  | x86          | exe  | Default       | 01/25/2023 | 82046424 | https://github.com/responsively-org/responsively-app-releases/releases/download/v1.8.0/ResponsivelyApp-Setup-1.8.0.exe |
-
-## TableauDesktop
-
-[Link](https://www.tableau.com/)
-
-**Last update**: Friday, 22 September 2023 00:19:57 Etc/UTC
-
-| Version  | URI                                                                        |
-| -------- | -------------------------------------------------------------------------- |
-| 2023.2.2 | https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2023-2-2.exe |
-
-## TableauReader
-
-[Link](https://www.tableau.com/)
-
-**Last update**: Friday, 22 September 2023 00:19:57 Etc/UTC
-
-| Version  | URI                                                                       |
-| -------- | ------------------------------------------------------------------------- |
-| 2023.2.2 | https://downloads.tableau.com/tssoftware/TableauReader-64bit-2023-2-2.exe |
-
-## TableauPrep
-
-[Link](https://www.tableau.com/)
-
-**Last update**: Friday, 22 September 2023 00:19:57 Etc/UTC
-
-| Version  | URI                                                               |
-| -------- | ----------------------------------------------------------------- |
-| 2023.2.2 | https://downloads.tableau.com/tssoftware/TableauPrep-2023-2-2.exe |
 
 ## HashicorpConsul
 
@@ -2288,19 +2313,6 @@
 | 5.1.446 | beta    | 334D9E5710B78BC7BA817EA85A64C0E58A73EEE7 | msi  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.msi |
 | 5.1.446 | stable  | 334D9E5710B78BC7BA817EA85A64C0E58A73EEE7 | msi  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.msi |
 
-## AzulZulu11
-
-[Link](https://www.azul.com/downloads/#zulu)
-
-**Last update**: Thursday, 14 September 2023 16:08:21 Etc/UTC
-
-| Version         | ImageType | Date                | Architecture | Type | URI                                                                     |
-| --------------- | --------- | ------------------- | ------------ | ---- | ----------------------------------------------------------------------- |
-| jdk-11.0.20.1+1 | jdk       | 09/09/2023 14:46:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu11.66.19-ca-jdk11.0.20.1-win_x64.msi  |
-| jdk-11.0.20.1+1 | jre       | 09/09/2023 14:46:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu11.66.19-ca-jre11.0.20.1-win_x64.msi  |
-| jdk-11.0.20.1+1 | jdk       | 09/09/2023 14:46:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu11.66.19-ca-jdk11.0.20.1-win_i686.msi |
-| jdk-11.0.20.1+1 | jre       | 09/09/2023 14:46:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu11.66.19-ca-jre11.0.20.1-win_i686.msi |
-
 ## AzulZulu17
 
 [Link](https://www.azul.com/downloads/#zulu)
@@ -2324,6 +2336,16 @@
 | -------- | ----------- | -------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |
 | 2023.2.2 | 232.9921.42 | DataGrip | https://download.jetbrains.com/cpp/CLion-2023.2.2.exe.sha256 | 09/13/2023 | 749293904 | exe  | https://download.jetbrains.com/cpp/CLion-2023.2.2.exe |
 
+## JetBrainsCLion
+
+[Link](https://www.jetbrains.com/clion)
+
+**Last update**: Thursday, 14 September 2023 00:18:51 Etc/UTC
+
+| Version  | Build       | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                   |
+| -------- | ----------- | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |
+| 2023.2.2 | 232.9921.42 | CLion   | https://download.jetbrains.com/cpp/CLion-2023.2.2.exe.sha256 | 09/13/2023 | 749293904 | exe  | https://download.jetbrains.com/cpp/CLion-2023.2.2.exe |
+
 ## HashicorpNomad
 
 [Link](https://www.nomadproject.io/)
@@ -2334,16 +2356,6 @@
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |
 | 1.6.2   | zip  | x64          | https://releases.hashicorp.com/nomad/1.6.2/nomad_1.6.2_windows_amd64.zip |
 | 1.6.2   | zip  | x86          | https://releases.hashicorp.com/nomad/1.6.2/nomad_1.6.2_windows_386.zip   |
-
-## JetBrainsCLion
-
-[Link](https://www.jetbrains.com/clion)
-
-**Last update**: Thursday, 14 September 2023 00:18:51 Etc/UTC
-
-| Version  | Build       | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                   |
-| -------- | ----------- | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |
-| 2023.2.2 | 232.9921.42 | CLion   | https://download.jetbrains.com/cpp/CLion-2023.2.2.exe.sha256 | 09/13/2023 | 749293904 | exe  | https://download.jetbrains.com/cpp/CLion-2023.2.2.exe |
 
 ## FoxitPDFEditor
 
@@ -2484,17 +2496,6 @@
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
 | 6.3.0   | Windows  | x64          | msi  | Default       | 09/04/2023 | 48713728 | https://github.com/Yubico/yubioath-flutter/releases/download/6.3.0/yubico-authenticator-6.3.0-win64.msi |
 
-## MicrosoftOpenJDK11
-
-[Link](https://www.microsoft.com/openjdk)
-
-**Last update**: Monday, 04 September 2023 00:22:38 Etc/UTC
-
-| Version     | ImageType | Date                | Architecture | Type | URI                                                                                                                                                                       |
-| ----------- | --------- | ------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.20.1+1 | jdk       | 08/22/2023 09:00:00 | ARM64        | msi  | https://download.visualstudio.microsoft.com/download/pr/7192942c-cedc-4515-930b-e68d7ffd98e1/7160ff95fc413bd011757dba5dd7273c/microsoft-jdk-11.0.20.1-windows-aarch64.msi |
-| 11.0.20.1+1 | jdk       | 08/22/2023 09:00:00 | x64          | msi  | https://download.visualstudio.microsoft.com/download/pr/7192942c-cedc-4515-930b-e68d7ffd98e1/b3080823ea983b2284041642bd5b40d4/microsoft-jdk-11.0.20.1-windows-x64.msi     |
-
 ## MicrosoftOpenJDK17
 
 [Link](https://www.microsoft.com/openjdk)
@@ -2558,18 +2559,16 @@
 | 19.0.2+7 | jdk       | 01/25/2023 13:04:32 | 3663195c70afa2b05c8f0297bbf131b02f109159cf9e537afa8f5c7acc1294e7 | 170475520 | x86          | msi  | https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.msi |
 | 19.0.2+7 | jre       | 01/25/2023 13:04:47 | 70e625af4198d74aebd2c6ac652176fab6ac32fc70c57ff7bf751cabdea78507 | 30842880  | x86          | msi  | https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.msi |
 
-## AzulZulu8
+## MicrosoftOpenJDK11
 
-[Link](https://www.azul.com/downloads/#zulu)
+[Link](https://www.microsoft.com/openjdk)
 
 **Last update**: Monday, 04 September 2023 00:22:38 Etc/UTC
 
-| Version       | ImageType | Date                | Architecture | Type | URI                                                                    |
-| ------------- | --------- | ------------------- | ------------ | ---- | ---------------------------------------------------------------------- |
-| 1.8.0_382-b05 | jdk       | 07/19/2023 12:54:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu8.72.0.17-ca-jdk8.0.382-win_x64.msi  |
-| 1.8.0_382-b05 | jre       | 07/19/2023 12:54:00 | x64          | msi  | https://cdn.azul.com/zulu/bin/zulu8.72.0.17-ca-jre8.0.382-win_x64.msi  |
-| 1.8.0_382-b05 | jdk       | 07/19/2023 12:54:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu8.72.0.17-ca-jdk8.0.382-win_i686.msi |
-| 1.8.0_382-b05 | jre       | 07/19/2023 12:54:00 | x86          | msi  | https://cdn.azul.com/zulu/bin/zulu8.72.0.17-ca-jre8.0.382-win_i686.msi |
+| Version     | ImageType | Date                | Architecture | Type | URI                                                                                                                                                                       |
+| ----------- | --------- | ------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.0.20.1+1 | jdk       | 08/22/2023 09:00:00 | ARM64        | msi  | https://download.visualstudio.microsoft.com/download/pr/7192942c-cedc-4515-930b-e68d7ffd98e1/7160ff95fc413bd011757dba5dd7273c/microsoft-jdk-11.0.20.1-windows-aarch64.msi |
+| 11.0.20.1+1 | jdk       | 08/22/2023 09:00:00 | x64          | msi  | https://download.visualstudio.microsoft.com/download/pr/7192942c-cedc-4515-930b-e68d7ffd98e1/b3080823ea983b2284041642bd5b40d4/microsoft-jdk-11.0.20.1-windows-x64.msi     |
 
 ## AdoptiumTemurin18
 
@@ -3178,6 +3177,17 @@
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |
 | 4.1.1   | Windows  | x64          | msi  | Default       | 07/25/2023 | 107331584 | https://github.com/musescore/MuseScore/releases/download/v4.1.1/MuseScore-4.1.1.232071203-x86_64.msi |
 
+## ThymioSuite
+
+[Link](https://www.thymio.org/)
+
+**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
+| 2.4.0   | Windows  | x64          | exe  | Default       | 10/17/2022 | 173608128 | https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe |
+| 2.4.0   | Windows  | x86          | exe  | Default       | 10/17/2022 | 163720032 | https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe |
+
 ## Maximus5ConEmu
 
 [Link](https://github.com/Maximus5/ConEmu)
@@ -3189,17 +3199,6 @@
 | 23.07.24 | Windows  | x86          | 7z   | Default       | 07/24/2023 | 4857689 | https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuPack.230724.7z          |
 | 23.07.24 | Windows  | x86          | exe  | Default       | 07/24/2023 | 7965008 | https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuSetup.230724.exe        |
 | 23.07.24 | Windows  | x86          | exe  | Default       | 07/24/2023 | 4828488 | https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmu_230724_English.paf.exe |
-
-## ThymioSuite
-
-[Link](https://www.thymio.org/)
-
-**Last update**: Monday, 24 July 2023 00:22:44 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
-| 2.4.0   | Windows  | x64          | exe  | Default       | 10/17/2022 | 173608128 | https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe |
-| 2.4.0   | Windows  | x86          | exe  | Default       | 10/17/2022 | 163720032 | https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe |
 
 ## MicrosoftAzureWindowsVMAgent
 
@@ -3306,16 +3305,6 @@
 | 23.7.1042 | x64          | current | 2022     | cd4e5fb1aa6badd3545898728a59141181412854eb8f5c6da9bec0e0860712fb | https://packages.chef.io/files/current/chef-workstation/23.7.1042/windows/2022/chef-workstation-23.7.1042-1-x64.msi   |
 | 23.7.1042 | x64          | stable  | 2022     | cd4e5fb1aa6badd3545898728a59141181412854eb8f5c6da9bec0e0860712fb | https://packages.chef.io/files/stable/chef-workstation/23.7.1042/windows/2022/chef-workstation-23.7.1042-1-x64.msi    |
 
-## FreeFem
-
-[Link](https://freefem.org/)
-
-**Last update**: Saturday, 08 July 2023 16:08:41 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |
-| 4.13    | Windows  | x64          | exe  | Default       | 06/30/2023 | 247657798 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.13/FreeFem%2B%2B-4.13-win64.exe |
-
 ## PDFArranger
 
 [Link](https://github.com/pdfarranger/pdfarranger/)
@@ -3325,6 +3314,16 @@
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |
 | 1.10.0  | Windows  | x86          | msi  | Default       | 06/30/2023 | 38374912 | https://github.com/pdfarranger/pdfarranger/releases/download/1.10.0/pdfarranger-1.10.0-windows-installer.msi |
+
+## FreeFem
+
+[Link](https://freefem.org/)
+
+**Last update**: Saturday, 08 July 2023 16:08:41 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |
+| 4.13    | Windows  | x64          | exe  | Default       | 06/30/2023 | 247657798 | https://github.com/FreeFem/FreeFem-sources/releases/download/v4.13/FreeFem%2B%2B-4.13-win64.exe |
 
 ## NETworkManager
 
@@ -3413,9 +3412,9 @@
 | 114.0.5735.90 | beta    | zip  | https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip |
 | 114.0.5735.90 | stable  | zip  | https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip |
 
-## KarakunOpenWebStart
+## OpenWebStart
 
-[Link](https://openwebstart.com/ows/)
+[Link](https://openwebstart.com/)
 
 **Last update**: Wednesday, 31 May 2023 08:07:45 Etc/UTC
 
@@ -3424,9 +3423,9 @@
 | 1.8.0   | Windows  | x64          | exe  | Default       | 05/17/2023 | 55793232 | https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x64_1_8_0.exe |
 | 1.8.0   | Windows  | x86          | exe  | Default       | 05/17/2023 | 55817808 | https://github.com/karakun/OpenWebStart/releases/download/v1.8.0/OpenWebStart_windows-x32_1_8_0.exe |
 
-## OpenWebStart
+## KarakunOpenWebStart
 
-[Link](https://openwebstart.com/)
+[Link](https://openwebstart.com/ows/)
 
 **Last update**: Wednesday, 31 May 2023 08:07:45 Etc/UTC
 
@@ -3488,187 +3487,6 @@
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
 | 2305.136.2 | Windows  | x86          | exe  | Default       | 05/14/2021 | 2866656 | https://github.com/RDAnalyzer/release/releases/download/2305.136.2/RemoteDisplayAnalyzer.exe |
-
-## Nomacs
-
-[Link](https://nomacs.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |
-| 3.16.224 | Windows  | x64          | exe  | Default       | 07/17/2020 | 24207408 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe |
-| 3.16.224 | Windows  | x64          | msi  | Default       | 07/17/2020 | 39862272 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi |
-
-## Greenshot
-
-[Link](https://getgreenshot.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
-| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.10.6 | Windows  | x86          | exe  | Default       | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
-| 1.2.10.6 | Windows  | x86          | exe  | Portable      | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
-| 1.2.10.6 | Windows  | x86          | zip  | Portable      | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
-
-## GitExtensions
-
-[Link](https://github.com/gitextensions/gitextensions)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 4.1     | Windows  | x86          | msi  | Default       | 05/11/2023 | 23056384 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-4.1.0.16698-1fe52a137.msi          |
-| 4.1     | Windows  | x86          | zip  | Portable      | 05/11/2023 | 22400892 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-Portable-4.1.0.16698-1fe52a137.zip |
-
-## SafeExamBrowser
-
-[Link](https://safeexambrowser.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                           |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------- |
-| 3.5.0   | Windows  | x86          | exe  | Default       | 04/03/2023 | 260867728 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe |
-| 3.5.0   | Windows  | x64          | msi  | Default       | 04/03/2023 | 134868992 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x64_Setup.msi   |
-| 3.5.0   | Windows  | x86          | msi  | Default       | 04/03/2023 | 125992960 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x86_Setup.msi   |
-
-## MicrosoftBotFrameworkEmulator
-
-[Link](https://github.com/microsoft/BotFramework-Emulator/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                         |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 | 164630672 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe |
-
-## ShareX
-
-[Link](https://getsharex.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
-| 15.0.0  | Windows  | x86          | exe  | Default       | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
-| 15.0.0  | Windows  | x86          | zip  | Portable      | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
-
-## mRemoteNG
-
-[Link](https://mremoteng.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
-| 1.76.20 | Windows  | x86          | msi  | Default       | 04/12/2019 | 43593728 | https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi |
-
-## WixToolset
-
-[Link](https://wixtoolset.org/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |
-| 3.11.2  | Windows  | x86          | exe  | Default       | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
-
-## AdobeBrackets
-
-[Link](http://brackets.io/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
-| 1.14.2  | Windows  | x86          | msi  | Default       | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
-
-## MozillaGeckoDriver
-
-[Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
-| 0.33.0  | Windows  | ARM64        | zip  | Default       | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
-| 0.33.0  | Windows  | x64          | zip  | Default       | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
-| 0.33.0  | Windows  | x86          | zip  | Default       | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
-
-## USBPcap
-
-[Link](https://github.com/desowin/usbpcap/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | ------------------------------------------------------------------------------------- |
-| 1.5.4.0 | Windows  | x86          | exe  | Default       | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
-
-## TogglDesktop
-
-[Link](https://www.toggl.com/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 7.5.363 | Windows  | x64          | exe  | Default       | 10/30/2020 | 5850944 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe |
-| 7.5.363 | Windows  | x86          | exe  | Default       | 10/30/2020 | 5449608 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe     |
-
-## NanaZip
-
-[Link](https://github.com/M2Team/NanaZip)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                     |
-| ------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 2.0.450 | Windows  | x86          | msixbundle | Default       | 11/24/2022 | 15999629 | https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle |
-
-## NevcairielLAVFilters
-
-[Link](https://github.com/Nevcairiel/LAVFilters)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 0.77.2  | Windows  | x86          | exe  | Default       | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
-
-## ConnectionExperienceIndicator
-
-[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
-| 1.3.0   | Windows  | x86          | exe  | Default       | 07/06/2022 | 429816 | https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe |
-
-## BlenderLauncher
-
-[Link](https://dotbow.github.io/Blender-Launcher/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1.15.1  | Windows  | x64          | zip  | Default       | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
-| 1.15.1  | Windows  | x64          | zip  | Debug         | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
-
-## DebaucheeBarrier
-
-[Link](https://github.com/debauchee/barrier)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
-| 2.4.0   | Windows  | x86          | exe  | Default       | 11/01/2021 | 9279404 | https://github.com/debauchee/barrier/releases/download/v2.4.0/BarrierSetup-2.4.0-release.exe |
 
 ## VercelHyper
 
@@ -3737,23 +3555,6 @@
 | 1.0.0.12 | Windows  | x86          | exe  | Default       | 05/04/2023 | 73266440 | https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/VMPlex.exe             |
 | 1.0.0.12 | Windows  | x86          | zip  | Default       | 05/04/2023 | 67646693 | https://github.com/0xf005ba11/vmplex-ws/releases/download/v1.0.0.12/vmplex-ws-1.0.0.12.zip |
 
-## Handbrake
-
-[Link](https://handbrake.fr/)
-
-**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
-
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
-| 1.6.1   | Windows  | ARM64        | exe  | Default       | 01/22/2023 | 17185064 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.exe  |
-| 1.6.1   | Windows  | x64          | exe  | Default       | 01/22/2023 | 23066024 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.exe |
-| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 25568465 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.zip  |
-| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17125492 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-aarch64.zip |
-| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17560300 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-aarch64.zip        |
-| 1.6.1   | Windows  | x64          | zip  | Default       | 01/22/2023 | 32107821 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.zip |
-| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 21841487 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip  |
-| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 22434962 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-x86_64.zip         |
-
 ## Gephi
 
 [Link](https://gephi.org/)
@@ -3764,6 +3565,16 @@
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------- |
 | 0.10.1  | Windows  | x64          | exe  | Default       | 01/17/2023 | 125986656 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x64.exe |
 | 0.10.1  | Windows  | x86          | exe  | Default       | 01/17/2023 | 121932728 | https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x32.exe |
+
+## DebaucheeBarrier
+
+[Link](https://github.com/debauchee/barrier)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
+| 2.4.0   | Windows  | x86          | exe  | Default       | 11/01/2021 | 9279404 | https://github.com/debauchee/barrier/releases/download/v2.4.0/BarrierSetup-2.4.0-release.exe |
 
 ## GitHubAtom
 
@@ -3829,6 +3640,194 @@
 | 6.23.203.2 | Windows  | x86          | exe  | Default       | 02/03/2023 | 3935624 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Setup.exe    |
 | 6.23.203.2 | Windows  | x64          | zip  | Portable      | 02/03/2023 | 6421908 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x64_Portable.zip |
 | 6.23.203.2 | Windows  | x86          | zip  | Portable      | 02/03/2023 | 6105337 | https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_6.23.203.2/Notepad3_6.23.203.2_x86_Portable.zip |
+
+## Handbrake
+
+[Link](https://handbrake.fr/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 1.6.1   | Windows  | ARM64        | exe  | Default       | 01/22/2023 | 17185064 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.exe  |
+| 1.6.1   | Windows  | x64          | exe  | Default       | 01/22/2023 | 23066024 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.exe |
+| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 25568465 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-arm64-Win_GUI.zip  |
+| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17125492 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-aarch64.zip |
+| 1.6.1   | Windows  | ARM64        | zip  | Default       | 01/22/2023 | 17560300 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-aarch64.zip        |
+| 1.6.1   | Windows  | x64          | zip  | Default       | 01/22/2023 | 32107821 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrake-1.6.1-x86_64-Win_GUI.zip |
+| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 21841487 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/HandBrakeCLI-1.6.1-win-x86_64.zip  |
+| 1.6.1   | Windows  | x86          | zip  | Default       | 01/22/2023 | 22434962 | https://github.com/HandBrake/HandBrake/releases/download/1.6.1/LibHB-1.6.1-win-x86_64.zip         |
+
+## BlenderLauncher
+
+[Link](https://dotbow.github.io/Blender-Launcher/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1.15.1  | Windows  | x64          | zip  | Default       | 08/09/2022 | 46908603 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip       |
+| 1.15.1  | Windows  | x64          | zip  | Debug         | 08/09/2022 | 46895843 | https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip |
+
+## MozillaGeckoDriver
+
+[Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |
+| 0.33.0  | Windows  | ARM64        | zip  | Default       | 04/03/2023 | 1544700 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win-aarch64.zip |
+| 0.33.0  | Windows  | x64          | zip  | Default       | 04/03/2023 | 1670449 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip       |
+| 0.33.0  | Windows  | x86          | zip  | Default       | 04/03/2023 | 1617039 | https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win32.zip       |
+
+## NevcairielLAVFilters
+
+[Link](https://github.com/Nevcairiel/LAVFilters)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 0.77.2  | Windows  | x86          | exe  | Default       | 03/08/2023 | 14572552 | https://github.com/Nevcairiel/LAVFilters/releases/download/0.77.2/LAVFilters-0.77.2-Installer.exe |
+
+## ConnectionExperienceIndicator
+
+[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |
+| 1.3.0   | Windows  | x86          | exe  | Default       | 07/06/2022 | 429816 | https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe |
+
+## Greenshot
+
+[Link](https://getgreenshot.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.2.10.6 | Windows  | x86          | exe  | Default       | 08/09/2017 | 1783200 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe            |
+| 1.2.10.6 | Windows  | x86          | exe  | Portable      | 08/09/2017 | 1392480 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe |
+| 1.2.10.6 | Windows  | x86          | zip  | Portable      | 08/09/2017 | 1502832 | https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip         |
+
+## GitExtensions
+
+[Link](https://github.com/gitextensions/gitextensions)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                    |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 4.1     | Windows  | x86          | msi  | Default       | 05/11/2023 | 23056384 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-4.1.0.16698-1fe52a137.msi          |
+| 4.1     | Windows  | x86          | zip  | Portable      | 05/11/2023 | 22400892 | https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-Portable-4.1.0.16698-1fe52a137.zip |
+
+## SafeExamBrowser
+
+[Link](https://safeexambrowser.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                           |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------- |
+| 3.5.0   | Windows  | x86          | exe  | Default       | 04/03/2023 | 260867728 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe |
+| 3.5.0   | Windows  | x64          | msi  | Default       | 04/03/2023 | 134868992 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x64_Setup.msi   |
+| 3.5.0   | Windows  | x86          | msi  | Default       | 04/03/2023 | 125992960 | https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_x86_Setup.msi   |
+
+## MicrosoftBotFrameworkEmulator
+
+[Link](https://github.com/microsoft/BotFramework-Emulator/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                         |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 | 164630672 | https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe |
+
+## ShareX
+
+[Link](https://getsharex.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |
+| 15.0.0  | Windows  | x86          | exe  | Default       | 01/18/2023 | 35744551 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe    |
+| 15.0.0  | Windows  | x86          | zip  | Portable      | 01/18/2023 | 47026050 | https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-portable.zip |
+
+## Nomacs
+
+[Link](https://nomacs.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |
+| 3.16.224 | Windows  | x64          | exe  | Default       | 07/17/2020 | 24207408 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe |
+| 3.16.224 | Windows  | x64          | msi  | Default       | 07/17/2020 | 39862272 | https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi |
+
+## WixToolset
+
+[Link](https://wixtoolset.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |
+| 3.11.2  | Windows  | x86          | exe  | Default       | 09/17/2019 | 27977104 | https://github.com/wixtoolset/wix3/releases/download/wix3112rtm/wix311.exe |
+
+## AdobeBrackets
+
+[Link](http://brackets.io/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |
+| 1.14.2  | Windows  | x86          | msi  | Default       | 03/27/2020 | 80896000 | https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi |
+
+## mRemoteNG
+
+[Link](https://mremoteng.org/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| 1.76.20 | Windows  | x86          | msi  | Default       | 04/12/2019 | 43593728 | https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi |
+
+## USBPcap
+
+[Link](https://github.com/desowin/usbpcap/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                   |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | ------------------------------------------------------------------------------------- |
+| 1.5.4.0 | Windows  | x86          | exe  | Default       | 05/22/2020 | 195040 | https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe |
+
+## TogglDesktop
+
+[Link](https://www.toggl.com/)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 7.5.363 | Windows  | x64          | exe  | Default       | 10/30/2020 | 5850944 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-x64-7.5.363.exe |
+| 7.5.363 | Windows  | x86          | exe  | Default       | 10/30/2020 | 5449608 | https://github.com/toggl-open-source/toggldesktop/releases/download/v7.5.363/TogglDesktopInstaller-7.5.363.exe     |
+
+## NanaZip
+
+[Link](https://github.com/M2Team/NanaZip)
+
+**Last update**: Saturday, 13 May 2023 08:09:31 Etc/UTC
+
+| Version | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                     |
+| ------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 2.0.450 | Windows  | x86          | msixbundle | Default       | 11/24/2022 | 15999629 | https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle |
 
 ## MicrosoftOutlook
 
@@ -3995,1294 +3994,1294 @@
 
 | Version | Architecture | Channel                | Language | Type | Filename                      | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ach/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/af/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/an/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ar/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ast/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/az/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/be/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/bg/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/br/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/bs/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ca/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/cak/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/cs/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/cy/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/da/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/de/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/dsb/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/el/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/en-CA/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/en-GB/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/en-US/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/eo/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/es-AR/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/es-CL/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/es-ES/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/es-MX/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/et/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/eu/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/fa/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ff/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/fi/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/fr/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/fy-NL/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ga-IE/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/gd/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/gl/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/gn/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/gu-IN/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/he/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/hi-IN/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/hr/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/hsb/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/hu/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/hy-AM/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ia/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/id/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/is/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/it/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ja/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ka/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/kab/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/kk/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/km/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/kn/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ko/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/lij/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/lt/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/lv/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/mk/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/mr/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ms/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/my/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/nb-NO/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ne-NP/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/nl/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/nn-NO/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/oc/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/pa-IN/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/pl/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/pt-BR/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/pt-PT/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/rm/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ro/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ru/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/si/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/sk/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/sl/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/son/Firefox%20Setup%20118.0.2.exe         |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/sq/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/sr/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/sv-SE/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ta/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/te/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/th/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/tr/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/uk/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/ur/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/uz/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/vi/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/xh/Firefox%20Setup%20118.0.2.exe          |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/zh-CN/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | ARM64        | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64-aarch64/zh-TW/Firefox%20Setup%20118.0.2.exe       |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ach/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/af/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/an/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ar/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ast/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/az/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/be/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/bg/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/br/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/bs/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ca/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/cak/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/cs/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/cy/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/da/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/de/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/dsb/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/el/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/en-CA/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/en-GB/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/en-US/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/eo/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-AR/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-CL/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-ES/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-MX/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/et/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/eu/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fa/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ff/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fi/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fy-NL/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ga-IE/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gd/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gn/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gu-IN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/he/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hi-IN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hsb/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hu/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hy-AM/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ia/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/id/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/is/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/it/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ja/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ka/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/kab/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/kk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/km/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/kn/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ko/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/lij/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/lt/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/lv/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/mk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/mr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ms/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/my/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/nb-NO/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ne-NP/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/nl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/nn-NO/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/oc/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pa-IN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pt-BR/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pt-PT/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/rm/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ro/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ru/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/si/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/son/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sq/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sv-SE/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ta/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/te/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/th/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/tr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/uk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ur/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/uz/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/vi/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/xh/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/zh-CN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/zh-TW/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ach/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/af/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/an/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ar/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ast/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/az/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/be/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/bg/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/br/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/bs/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ca/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/cak/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/cs/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/cy/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/da/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/de/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/dsb/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/el/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/en-CA/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/en-GB/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/en-US/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/eo/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-AR/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-CL/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-ES/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-MX/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/et/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/eu/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fa/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ff/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fi/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fy-NL/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ga-IE/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gd/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gn/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gu-IN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/he/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hi-IN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hsb/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hu/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hy-AM/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ia/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/id/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/is/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/it/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ja/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ka/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/kab/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/kk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/km/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/kn/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ko/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/lij/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/lt/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/lv/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/mk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/mr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ms/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/my/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/nb-NO/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ne-NP/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/nl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/nn-NO/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/oc/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pa-IN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pt-BR/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pt-PT/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/rm/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ro/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ru/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/si/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sl/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/son/Firefox%20Setup%20118.0.2.exe                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sq/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sv-SE/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ta/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/te/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/th/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/tr/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/uk/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ur/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/uz/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/vi/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/xh/Firefox%20Setup%20118.0.2.exe                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/zh-CN/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 118.0.2.exe     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/zh-TW/Firefox%20Setup%20118.0.2.exe               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ach/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/af/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/an/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ar/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ast/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/az/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/be/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/bg/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/br/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/bs/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ca/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/cak/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/cs/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/cy/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/da/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/de/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/dsb/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/el/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/en-CA/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/en-GB/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/en-US/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/eo/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-AR/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-CL/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-ES/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/es-MX/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/et/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/eu/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fa/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ff/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fi/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/fy-NL/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ga-IE/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gd/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gn/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/gu-IN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/he/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hi-IN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hsb/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hu/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/hy-AM/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ia/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/id/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/is/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/it/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ja/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ka/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/kab/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/kk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/km/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/kn/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ko/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/lij/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/lt/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/lv/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/mk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/mr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ms/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/my/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/nb-NO/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ne-NP/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/nl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/nn-NO/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/oc/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pa-IN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pt-BR/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/pt-PT/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/rm/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ro/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ru/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/si/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/son/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sq/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/sv-SE/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ta/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/te/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/th/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/tr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/uk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/ur/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/uz/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/vi/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/xh/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/zh-CN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/zh-TW/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ach/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/af/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/an/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ar/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ast/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/az/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/be/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/bg/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/br/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/bs/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ca/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/cak/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/cs/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/cy/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/da/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/de/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/dsb/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/el/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/en-CA/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/en-GB/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/en-US/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/eo/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-AR/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-CL/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-ES/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/es-MX/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/et/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/eu/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fa/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ff/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fi/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/fy-NL/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ga-IE/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gd/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gn/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/gu-IN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/he/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hi-IN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hsb/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hu/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/hy-AM/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ia/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/id/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/is/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/it/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ja/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ka/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/kab/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/kk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/km/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/kn/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ko/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/lij/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/lt/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/lv/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/mk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/mr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ms/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/my/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/nb-NO/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ne-NP/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/nl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/nn-NO/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/oc/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pa-IN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pt-BR/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/pt-PT/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/rm/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ro/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ru/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/si/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sl/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/son/Firefox%20Setup%20118.0.2.msi                 |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sq/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/sv-SE/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ta/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/te/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/th/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/tr/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/uk/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/ur/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/uz/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/vi/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/xh/Firefox%20Setup%20118.0.2.msi                  |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/zh-CN/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 118.0.2.msi     | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/zh-TW/Firefox%20Setup%20118.0.2.msi               |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win64/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 118.0.2 | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 118.0.2.msix    | https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.2/win32/multi/Firefox%20Setup%20118.0.2.msix              |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ach      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ach/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | af       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/af/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | an       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/an/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ar       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ar/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ast      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ast/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | az       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/az/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | be       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/be/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | bg       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/bg/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | br       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/br/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | bs       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/bs/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ca       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ca/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | cak      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/cak/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | cs       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/cs/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | cy       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/cy/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | da       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/da/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | de       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/de/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | dsb      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/dsb/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | el       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/el/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | en-CA    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/en-CA/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | en-GB    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/en-GB/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/en-US/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | eo       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/eo/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | es-AR    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/es-AR/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | es-CL    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/es-CL/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | es-ES    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/es-ES/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | es-MX    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/es-MX/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | et       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/et/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | eu       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/eu/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | fa       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/fa/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ff       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ff/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | fi       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/fi/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | fr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/fr/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | fy-NL    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/fy-NL/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ga-IE    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ga-IE/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | gd       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/gd/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | gl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/gl/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | gn       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/gn/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | gu-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/gu-IN/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | he       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/he/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | hi-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/hi-IN/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | hr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/hr/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | hsb      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/hsb/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | hu       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/hu/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | hy-AM    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/hy-AM/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ia       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ia/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | id       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/id/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | is       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/is/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | it       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/it/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ja       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ja/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ka       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ka/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | kab      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/kab/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | kk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/kk/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | km       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/km/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | kn       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/kn/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ko       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ko/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | lij      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/lij/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | lt       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/lt/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | lv       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/lv/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | mk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/mk/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | mr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/mr/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ms       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ms/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | my       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/my/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | nb-NO    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/nb-NO/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ne-NP    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ne-NP/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | nl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/nl/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | nn-NO    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/nn-NO/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | oc       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/oc/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | pa-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/pa-IN/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | pl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/pl/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | pt-BR    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/pt-BR/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | pt-PT    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/pt-PT/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | rm       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/rm/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ro       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ro/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ru       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ru/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | si       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/si/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | sk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/sk/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | sl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/sl/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | son      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/son/Firefox%20Setup%20115.3.1esr.exe   |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | sq       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/sq/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | sr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/sr/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | sv-SE    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/sv-SE/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ta       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ta/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | te       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/te/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | th       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/th/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | tr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/tr/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | uk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/uk/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | ur       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ur/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | uz       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/uz/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | vi       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/vi/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | xh       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/xh/Firefox%20Setup%20115.3.1esr.exe    |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | zh-CN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/zh-CN/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | ARM64        | FIREFOX_ESR            | zh-TW    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/zh-TW/Firefox%20Setup%20115.3.1esr.exe |
-| 115.3.1 | x64          | FIREFOX_ESR            | ach      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ach/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | af       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/af/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | an       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/an/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ar       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ar/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ast      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ast/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | az       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/az/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | be       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/be/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | bg       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/bg/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | br       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/br/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | bs       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/bs/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ca       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ca/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | cak      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/cak/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | cs       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/cs/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | cy       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/cy/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | da       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/da/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | de       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/de/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | dsb      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/dsb/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | el       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/el/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-CA    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/en-CA/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-GB    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/en-GB/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/en-US/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | eo       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/eo/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-AR    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-AR/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-CL    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-CL/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-ES    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-ES/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-MX    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-MX/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | et       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/et/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | eu       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/eu/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fa       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fa/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ff       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ff/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fi       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fi/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fy-NL    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fy-NL/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ga-IE    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ga-IE/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | gd       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gd/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | gl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | gn       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gn/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | gu-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gu-IN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | he       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/he/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | hi-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hi-IN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | hr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | hsb      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hsb/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | hu       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hu/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | hy-AM    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hy-AM/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ia       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ia/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | id       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/id/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | is       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/is/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | it       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/it/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ja       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ja/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ka       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ka/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | kab      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/kab/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | kk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/kk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | km       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/km/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | kn       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/kn/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ko       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ko/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | lij      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/lij/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | lt       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/lt/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | lv       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/lv/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | mk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/mk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | mr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/mr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ms       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ms/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | my       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/my/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | nb-NO    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/nb-NO/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ne-NP    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ne-NP/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | nl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/nl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | nn-NO    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/nn-NO/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | oc       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/oc/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | pa-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pa-IN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | pl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | pt-BR    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pt-BR/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | pt-PT    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pt-PT/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | rm       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/rm/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ro       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ro/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ru       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ru/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | si       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/si/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | son      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/son/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x64          | FIREFOX_ESR            | sq       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sq/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sv-SE    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sv-SE/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ta       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ta/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | te       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/te/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | th       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/th/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | tr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/tr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | uk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/uk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ur       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ur/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | uz       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/uz/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | vi       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/vi/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | xh       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/xh/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x64          | FIREFOX_ESR            | zh-CN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/zh-CN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | zh-TW    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/zh-TW/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ach      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ach/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | af       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/af/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | an       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/an/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ar       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ar/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ast      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ast/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | az       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/az/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | be       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/be/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | bg       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/bg/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | br       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/br/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | bs       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/bs/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ca       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ca/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | cak      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/cak/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | cs       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/cs/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | cy       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/cy/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | da       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/da/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | de       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/de/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | dsb      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/dsb/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | el       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/el/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-CA    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/en-CA/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-GB    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/en-GB/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/en-US/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | eo       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/eo/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-AR    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-AR/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-CL    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-CL/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-ES    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-ES/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-MX    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-MX/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | et       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/et/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | eu       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/eu/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fa       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fa/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ff       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ff/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fi       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fi/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fy-NL    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fy-NL/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ga-IE    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ga-IE/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | gd       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gd/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | gl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | gn       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gn/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | gu-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gu-IN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | he       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/he/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | hi-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hi-IN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | hr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | hsb      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hsb/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | hu       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hu/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | hy-AM    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hy-AM/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ia       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ia/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | id       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/id/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | is       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/is/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | it       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/it/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ja       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ja/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ka       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ka/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | kab      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/kab/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | kk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/kk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | km       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/km/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | kn       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/kn/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ko       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ko/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | lij      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/lij/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | lt       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/lt/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | lv       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/lv/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | mk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/mk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | mr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/mr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ms       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ms/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | my       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/my/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | nb-NO    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/nb-NO/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ne-NP    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ne-NP/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | nl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/nl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | nn-NO    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/nn-NO/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | oc       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/oc/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | pa-IN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pa-IN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | pl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | pt-BR    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pt-BR/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | pt-PT    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pt-PT/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | rm       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/rm/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ro       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ro/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ru       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ru/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | si       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/si/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sl       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sl/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | son      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/son/Firefox%20Setup%20115.3.1esr.exe           |
-| 115.3.1 | x86          | FIREFOX_ESR            | sq       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sq/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sv-SE    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sv-SE/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ta       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ta/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | te       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/te/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | th       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/th/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | tr       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/tr/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | uk       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/uk/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ur       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ur/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | uz       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/uz/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | vi       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/vi/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | xh       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/xh/Firefox%20Setup%20115.3.1esr.exe            |
-| 115.3.1 | x86          | FIREFOX_ESR            | zh-CN    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/zh-CN/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x86          | FIREFOX_ESR            | zh-TW    | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/zh-TW/Firefox%20Setup%20115.3.1esr.exe         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ach      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ach/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | af       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/af/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | an       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/an/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ar       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ar/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ast      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ast/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | az       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/az/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | be       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/be/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | bg       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/bg/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | br       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/br/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | bs       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/bs/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ca       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ca/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | cak      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/cak/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | cs       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/cs/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | cy       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/cy/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | da       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/da/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | de       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/de/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | dsb      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/dsb/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | el       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/el/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-CA    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/en-CA/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-GB    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/en-GB/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/en-US/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | eo       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/eo/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-AR    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-AR/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-CL    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-CL/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-ES    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-ES/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-MX    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/es-MX/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | et       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/et/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | eu       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/eu/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fa       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fa/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ff       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ff/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fi       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fi/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | fy-NL    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/fy-NL/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ga-IE    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ga-IE/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | gd       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gd/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | gl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | gn       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gn/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | gu-IN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/gu-IN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | he       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/he/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | hi-IN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hi-IN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | hr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | hsb      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hsb/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | hu       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hu/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | hy-AM    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/hy-AM/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ia       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ia/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | id       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/id/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | is       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/is/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | it       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/it/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ja       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ja/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ka       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ka/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | kab      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/kab/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | kk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/kk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | km       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/km/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | kn       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/kn/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ko       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ko/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | lij      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/lij/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | lt       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/lt/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | lv       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/lv/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | mk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/mk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | mr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/mr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ms       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ms/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | my       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/my/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | nb-NO    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/nb-NO/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ne-NP    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ne-NP/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | nl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/nl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | nn-NO    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/nn-NO/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | oc       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/oc/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | pa-IN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pa-IN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | pl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | pt-BR    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pt-BR/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | pt-PT    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/pt-PT/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | rm       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/rm/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ro       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ro/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ru       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ru/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | si       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/si/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | son      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/son/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x64          | FIREFOX_ESR            | sq       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sq/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | sv-SE    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/sv-SE/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ta       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ta/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | te       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/te/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | th       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/th/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | tr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/tr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | uk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/uk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | ur       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/ur/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | uz       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/uz/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | vi       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/vi/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | xh       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/xh/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x64          | FIREFOX_ESR            | zh-CN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/zh-CN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | zh-TW    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/zh-TW/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ach      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ach/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | af       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/af/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | an       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/an/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ar       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ar/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ast      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ast/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | az       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/az/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | be       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/be/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | bg       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/bg/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | br       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/br/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | bs       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/bs/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ca       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ca/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | cak      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/cak/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | cs       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/cs/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | cy       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/cy/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | da       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/da/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | de       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/de/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | dsb      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/dsb/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | el       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/el/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-CA    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/en-CA/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-GB    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/en-GB/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/en-US/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | eo       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/eo/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-AR    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-AR/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-CL    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-CL/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-ES    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-ES/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-MX    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/es-MX/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | et       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/et/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | eu       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/eu/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fa       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fa/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ff       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ff/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fi       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fi/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | fy-NL    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/fy-NL/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ga-IE    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ga-IE/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | gd       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gd/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | gl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | gn       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gn/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | gu-IN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/gu-IN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | he       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/he/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | hi-IN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hi-IN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | hr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | hsb      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hsb/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | hu       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hu/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | hy-AM    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/hy-AM/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ia       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ia/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | id       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/id/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | is       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/is/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | it       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/it/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ja       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ja/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ka       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ka/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | kab      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/kab/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | kk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/kk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | km       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/km/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | kn       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/kn/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ko       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ko/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | lij      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/lij/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | lt       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/lt/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | lv       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/lv/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | mk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/mk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | mr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/mr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ms       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ms/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | my       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/my/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | nb-NO    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/nb-NO/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ne-NP    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ne-NP/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | nl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/nl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | nn-NO    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/nn-NO/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | oc       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/oc/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | pa-IN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pa-IN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | pl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | pt-BR    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pt-BR/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | pt-PT    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/pt-PT/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | rm       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/rm/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ro       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ro/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ru       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ru/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | si       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/si/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sl       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sl/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | son      | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/son/Firefox%20Setup%20115.3.1esr.msi           |
-| 115.3.1 | x86          | FIREFOX_ESR            | sq       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sq/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | sv-SE    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/sv-SE/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | ta       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ta/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | te       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/te/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | th       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/th/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | tr       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/tr/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | uk       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/uk/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | ur       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/ur/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | uz       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/uz/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | vi       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/vi/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | xh       | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/xh/Firefox%20Setup%20115.3.1esr.msi            |
-| 115.3.1 | x86          | FIREFOX_ESR            | zh-CN    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/zh-CN/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x86          | FIREFOX_ESR            | zh-TW    | msi  | Firefox Setup 115.3.1esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/zh-TW/Firefox%20Setup%20115.3.1esr.msi         |
-| 115.3.1 | x64          | FIREFOX_ESR            | ach      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | af       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | an       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ar       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ast      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | az       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | be       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | bg       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | br       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | bs       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ca       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | cak      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | cs       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | cy       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | da       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | de       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | dsb      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | el       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-CA    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-GB    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | en-US    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | eo       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-AR    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-CL    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-ES    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | es-MX    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | et       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | eu       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | fa       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ff       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | fi       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | fr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | fy-NL    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ga-IE    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | gd       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | gl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | gn       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | gu-IN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | he       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | hi-IN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | hr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | hsb      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | hu       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | hy-AM    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ia       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | id       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | is       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | it       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ja       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ka       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | kab      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | kk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | km       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | kn       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ko       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | lij      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | lt       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | lv       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | mk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | mr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ms       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | my       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | nb-NO    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ne-NP    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | nl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | nn-NO    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | oc       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | pa-IN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | pl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | pt-BR    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | pt-PT    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | rm       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ro       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ru       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | si       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | sk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | sl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | son      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | sq       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | sr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | sv-SE    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ta       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | te       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | th       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | tr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | uk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | ur       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | uz       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | vi       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | xh       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | zh-CN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x64          | FIREFOX_ESR            | zh-TW    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ach      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | af       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | an       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ar       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ast      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | az       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | be       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | bg       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | br       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | bs       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ca       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | cak      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | cs       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | cy       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | da       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | de       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | dsb      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | el       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-CA    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-GB    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | en-US    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | eo       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-AR    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-CL    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-ES    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | es-MX    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | et       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | eu       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | fa       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ff       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | fi       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | fr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | fy-NL    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ga-IE    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | gd       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | gl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | gn       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | gu-IN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | he       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | hi-IN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | hr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | hsb      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | hu       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | hy-AM    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ia       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | id       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | is       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | it       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ja       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ka       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | kab      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | kk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | km       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | kn       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ko       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | lij      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | lt       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | lv       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | mk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | mr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ms       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | my       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | nb-NO    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ne-NP    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | nl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | nn-NO    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | oc       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | pa-IN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | pl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | pt-BR    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | pt-PT    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | rm       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ro       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ru       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | si       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | sk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | sl       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | son      | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | sq       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | sr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | sv-SE    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ta       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | te       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | th       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | tr       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | uk       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | ur       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | uz       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | vi       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | xh       | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | zh-CN    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
-| 115.3.1 | x86          | FIREFOX_ESR            | zh-TW    | msix | Firefox Setup 115.3.1esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win32/multi/Firefox%20Setup%20115.3.1esr.msix        |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ach/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/af/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/an/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ar/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ast/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/az/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/be/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/bg/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/br/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/bs/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ca/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/cak/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/cs/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/cy/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/da/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/de/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/dsb/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/el/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/en-CA/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/en-GB/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/en-US/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/eo/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/es-AR/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/es-CL/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/es-ES/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/es-MX/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/et/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/eu/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/fa/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ff/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/fi/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/fr/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/fy-NL/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ga-IE/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/gd/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/gl/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/gn/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/gu-IN/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/he/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/hi-IN/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/hr/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/hsb/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/hu/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/hy-AM/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ia/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/id/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/is/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/it/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ja/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ka/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/kab/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/kk/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/km/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/kn/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ko/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/lij/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/lt/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/lv/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/mk/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/mr/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ms/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/my/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/nb-NO/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ne-NP/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/nl/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/nn-NO/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/oc/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/pa-IN/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/pl/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/pt-BR/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/pt-PT/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/rm/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ro/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ru/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/si/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/sk/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/sl/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/son/Firefox%20Setup%20119.0.exe             |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/sq/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/sr/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/sv-SE/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ta/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/te/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/th/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/tr/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/uk/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/ur/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/uz/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/vi/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/xh/Firefox%20Setup%20119.0.exe              |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/zh-CN/Firefox%20Setup%20119.0.exe           |
+| 119.0   | ARM64        | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64-aarch64/zh-TW/Firefox%20Setup%20119.0.exe           |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ach/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/af/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/an/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ar/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ast/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/az/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/be/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/bg/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/br/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/bs/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ca/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/cak/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/cs/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/cy/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/da/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/de/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/dsb/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/el/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/en-CA/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/en-GB/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/en-US/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/eo/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-AR/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-CL/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-ES/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-MX/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/et/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/eu/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fa/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ff/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fi/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fy-NL/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ga-IE/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gd/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gn/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gu-IN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/he/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hi-IN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hsb/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hu/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hy-AM/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ia/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/id/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/is/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/it/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ja/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ka/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/kab/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/kk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/km/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/kn/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ko/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/lij/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/lt/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/lv/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/mk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/mr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ms/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/my/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/nb-NO/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ne-NP/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/nl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/nn-NO/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/oc/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pa-IN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pt-BR/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pt-PT/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/rm/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ro/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ru/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/si/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/son/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sq/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sv-SE/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ta/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/te/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/th/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/tr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/uk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ur/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/uz/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/vi/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/xh/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/zh-CN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/zh-TW/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ach      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ach/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | af       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/af/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | an       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/an/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ar       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ar/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ast      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ast/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | az       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/az/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | be       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/be/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | bg       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/bg/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | br       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/br/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | bs       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/bs/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ca       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ca/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cak      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/cak/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cs       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/cs/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cy       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/cy/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | da       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/da/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | de       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/de/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | dsb      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/dsb/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | el       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/el/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-CA    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/en-CA/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-GB    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/en-GB/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/en-US/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | eo       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/eo/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-AR    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-AR/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-CL    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-CL/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-ES    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-ES/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-MX    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-MX/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | et       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/et/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | eu       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/eu/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fa       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fa/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ff       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ff/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fi       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fi/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fy-NL    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fy-NL/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ga-IE    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ga-IE/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gd       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gd/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gn       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gn/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gu-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gu-IN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | he       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/he/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hi-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hi-IN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hsb      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hsb/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hu       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hu/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hy-AM    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hy-AM/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ia       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ia/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | id       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/id/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | is       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/is/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | it       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/it/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ja       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ja/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ka       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ka/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kab      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/kab/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/kk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | km       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/km/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kn       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/kn/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ko       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ko/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lij      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/lij/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lt       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/lt/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lv       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/lv/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | mk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/mk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | mr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/mr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ms       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ms/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | my       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/my/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nb-NO    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/nb-NO/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ne-NP    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ne-NP/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/nl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nn-NO    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/nn-NO/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | oc       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/oc/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pa-IN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pa-IN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pt-BR    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pt-BR/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pt-PT    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pt-PT/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | rm       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/rm/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ro       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ro/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ru       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ru/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | si       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/si/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sl       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sl/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | son      | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/son/Firefox%20Setup%20119.0.exe                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sq       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sq/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sv-SE    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sv-SE/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ta       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ta/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | te       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/te/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | th       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/th/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | tr       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/tr/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | uk       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/uk/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ur       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ur/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | uz       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/uz/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | vi       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/vi/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | xh       | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/xh/Firefox%20Setup%20119.0.exe                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | zh-CN    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/zh-CN/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | zh-TW    | exe  | Firefox Setup 119.0.exe       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/zh-TW/Firefox%20Setup%20119.0.exe                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ach/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/af/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/an/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ar/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ast/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/az/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/be/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/bg/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/br/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/bs/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ca/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/cak/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/cs/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/cy/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/da/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/de/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/dsb/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/el/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/en-CA/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/en-GB/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/en-US/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/eo/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-AR/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-CL/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-ES/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/es-MX/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/et/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/eu/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fa/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ff/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fi/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/fy-NL/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ga-IE/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gd/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gn/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/gu-IN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/he/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hi-IN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hsb/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hu/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/hy-AM/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ia/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/id/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/is/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/it/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ja/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ka/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/kab/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/kk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/km/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/kn/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ko/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/lij/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/lt/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/lv/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/mk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/mr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ms/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/my/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/nb-NO/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ne-NP/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/nl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/nn-NO/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/oc/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pa-IN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pt-BR/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/pt-PT/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/rm/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ro/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ru/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/si/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/son/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sq/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/sv-SE/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ta/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/te/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/th/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/tr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/uk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/ur/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/uz/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/vi/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/xh/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/zh-CN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/zh-TW/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ach      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ach/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | af       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/af/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | an       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/an/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ar       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ar/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ast      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ast/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | az       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/az/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | be       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/be/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | bg       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/bg/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | br       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/br/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | bs       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/bs/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ca       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ca/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cak      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/cak/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cs       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/cs/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cy       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/cy/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | da       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/da/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | de       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/de/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | dsb      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/dsb/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | el       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/el/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-CA    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/en-CA/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-GB    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/en-GB/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/en-US/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | eo       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/eo/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-AR    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-AR/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-CL    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-CL/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-ES    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-ES/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-MX    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/es-MX/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | et       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/et/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | eu       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/eu/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fa       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fa/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ff       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ff/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fi       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fi/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/fy-NL/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ga-IE/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gd       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gd/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gn       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gn/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/gu-IN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | he       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/he/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hi-IN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hsb      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hsb/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hu       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hu/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/hy-AM/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ia       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ia/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | id       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/id/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | is       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/is/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | it       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/it/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ja       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ja/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ka       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ka/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kab      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/kab/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/kk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | km       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/km/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kn       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/kn/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ko       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ko/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lij      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/lij/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lt       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/lt/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lv       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/lv/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | mk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/mk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | mr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/mr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ms       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ms/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | my       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/my/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/nb-NO/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ne-NP/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/nl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/nn-NO/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | oc       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/oc/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pa-IN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pt-BR/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/pt-PT/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | rm       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/rm/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ro       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ro/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ru       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ru/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | si       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/si/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sl       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sl/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | son      | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/son/Firefox%20Setup%20119.0.msi                     |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sq       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sq/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/sv-SE/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ta       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ta/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | te       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/te/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | th       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/th/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | tr       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/tr/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | uk       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/uk/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ur       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/ur/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | uz       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/uz/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | vi       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/vi/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | xh       | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/xh/Firefox%20Setup%20119.0.msi                      |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/zh-CN/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msi  | Firefox Setup 119.0.msi       | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/zh-TW/Firefox%20Setup%20119.0.msi                   |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x64          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win64/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ach      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | af       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | an       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ar       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ast      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | az       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | be       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | bg       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | br       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | bs       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ca       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cak      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cs       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | cy       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | da       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | de       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | dsb      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | el       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-CA    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-GB    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | en-US    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | eo       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-AR    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-CL    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-ES    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | es-MX    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | et       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | eu       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fa       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ff       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fi       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | fy-NL    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ga-IE    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gd       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gn       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | gu-IN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | he       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hi-IN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hsb      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hu       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | hy-AM    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ia       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | id       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | is       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | it       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ja       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ka       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kab      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | km       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | kn       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ko       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lij      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lt       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | lv       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | mk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | mr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ms       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | my       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nb-NO    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ne-NP    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | nn-NO    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | oc       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pa-IN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pt-BR    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | pt-PT    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | rm       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ro       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ru       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | si       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sl       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | son      | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sq       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | sv-SE    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ta       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | te       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | th       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | tr       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | uk       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | ur       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | uz       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | vi       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | xh       | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | zh-CN    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 119.0   | x86          | LATEST_FIREFOX_VERSION | zh-TW    | msix | Firefox Setup 119.0.msix      | https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/win32/multi/Firefox%20Setup%20119.0.msix                  |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ach      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ach/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | af       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/af/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | an       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/an/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ar       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ar/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ast      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ast/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | az       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/az/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | be       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/be/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | bg       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/bg/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | br       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/br/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | bs       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/bs/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ca       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ca/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | cak      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/cak/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | cs       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/cs/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | cy       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/cy/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | da       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/da/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | de       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/de/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | dsb      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/dsb/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | el       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/el/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | en-CA    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/en-CA/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | en-GB    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/en-GB/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/en-US/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | eo       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/eo/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | es-AR    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/es-AR/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | es-CL    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/es-CL/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | es-ES    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/es-ES/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | es-MX    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/es-MX/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | et       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/et/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | eu       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/eu/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | fa       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/fa/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ff       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ff/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | fi       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/fi/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | fr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/fr/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | fy-NL    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/fy-NL/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ga-IE    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ga-IE/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | gd       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/gd/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | gl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/gl/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | gn       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/gn/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | gu-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/gu-IN/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | he       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/he/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | hi-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/hi-IN/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | hr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/hr/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | hsb      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/hsb/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | hu       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/hu/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | hy-AM    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/hy-AM/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ia       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ia/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | id       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/id/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | is       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/is/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | it       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/it/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ja       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ja/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ka       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ka/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | kab      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/kab/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | kk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/kk/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | km       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/km/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | kn       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/kn/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ko       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ko/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | lij      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/lij/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | lt       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/lt/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | lv       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/lv/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | mk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/mk/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | mr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/mr/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ms       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ms/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | my       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/my/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | nb-NO    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/nb-NO/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ne-NP    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ne-NP/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | nl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/nl/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | nn-NO    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/nn-NO/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | oc       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/oc/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | pa-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/pa-IN/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | pl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/pl/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | pt-BR    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/pt-BR/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | pt-PT    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/pt-PT/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | rm       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/rm/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ro       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ro/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ru       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ru/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | si       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/si/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | sk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/sk/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | sl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/sl/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | son      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/son/Firefox%20Setup%20115.4.0esr.exe   |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | sq       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/sq/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | sr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/sr/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | sv-SE    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/sv-SE/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ta       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ta/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | te       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/te/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | th       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/th/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | tr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/tr/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | uk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/uk/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | ur       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/ur/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | uz       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/uz/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | vi       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/vi/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | xh       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/xh/Firefox%20Setup%20115.4.0esr.exe    |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | zh-CN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/zh-CN/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | ARM64        | FIREFOX_ESR            | zh-TW    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64-aarch64/zh-TW/Firefox%20Setup%20115.4.0esr.exe |
+| 115.4.0 | x64          | FIREFOX_ESR            | ach      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ach/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | af       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/af/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | an       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/an/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ar       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ar/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ast      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ast/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | az       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/az/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | be       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/be/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | bg       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/bg/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | br       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/br/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | bs       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/bs/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ca       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ca/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | cak      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/cak/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | cs       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/cs/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | cy       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/cy/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | da       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/da/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | de       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/de/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | dsb      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/dsb/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | el       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/el/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-CA    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/en-CA/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-GB    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/en-GB/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/en-US/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | eo       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/eo/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-AR    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-AR/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-CL    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-CL/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-ES    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-ES/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-MX    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-MX/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | et       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/et/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | eu       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/eu/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fa       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fa/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ff       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ff/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fi       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fi/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fy-NL    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fy-NL/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ga-IE    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ga-IE/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | gd       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gd/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | gl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | gn       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gn/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | gu-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gu-IN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | he       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/he/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | hi-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hi-IN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | hr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | hsb      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hsb/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | hu       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hu/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | hy-AM    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hy-AM/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ia       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ia/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | id       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/id/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | is       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/is/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | it       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/it/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ja       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ja/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ka       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ka/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | kab      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/kab/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | kk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/kk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | km       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/km/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | kn       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/kn/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ko       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ko/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | lij      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/lij/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | lt       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/lt/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | lv       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/lv/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | mk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/mk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | mr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/mr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ms       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ms/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | my       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/my/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | nb-NO    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/nb-NO/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ne-NP    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ne-NP/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | nl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/nl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | nn-NO    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/nn-NO/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | oc       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/oc/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | pa-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pa-IN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | pl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | pt-BR    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pt-BR/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | pt-PT    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pt-PT/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | rm       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/rm/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ro       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ro/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ru       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ru/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | si       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/si/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | son      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/son/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x64          | FIREFOX_ESR            | sq       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sq/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sv-SE    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sv-SE/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ta       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ta/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | te       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/te/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | th       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/th/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | tr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/tr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | uk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/uk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ur       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ur/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | uz       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/uz/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | vi       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/vi/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | xh       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/xh/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x64          | FIREFOX_ESR            | zh-CN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/zh-CN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | zh-TW    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/zh-TW/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ach      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ach/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | af       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/af/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | an       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/an/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ar       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ar/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ast      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ast/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | az       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/az/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | be       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/be/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | bg       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/bg/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | br       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/br/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | bs       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/bs/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ca       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ca/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | cak      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/cak/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | cs       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/cs/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | cy       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/cy/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | da       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/da/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | de       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/de/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | dsb      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/dsb/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | el       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/el/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-CA    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/en-CA/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-GB    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/en-GB/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-US    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/en-US/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | eo       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/eo/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-AR    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-AR/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-CL    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-CL/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-ES    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-ES/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-MX    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-MX/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | et       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/et/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | eu       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/eu/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fa       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fa/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ff       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ff/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fi       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fi/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fy-NL    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fy-NL/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ga-IE    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ga-IE/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | gd       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gd/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | gl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | gn       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gn/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | gu-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gu-IN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | he       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/he/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | hi-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hi-IN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | hr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | hsb      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hsb/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | hu       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hu/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | hy-AM    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hy-AM/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ia       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ia/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | id       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/id/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | is       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/is/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | it       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/it/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ja       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ja/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ka       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ka/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | kab      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/kab/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | kk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/kk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | km       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/km/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | kn       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/kn/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ko       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ko/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | lij      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/lij/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | lt       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/lt/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | lv       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/lv/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | mk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/mk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | mr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/mr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ms       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ms/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | my       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/my/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | nb-NO    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/nb-NO/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ne-NP    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ne-NP/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | nl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/nl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | nn-NO    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/nn-NO/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | oc       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/oc/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | pa-IN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pa-IN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | pl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | pt-BR    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pt-BR/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | pt-PT    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pt-PT/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | rm       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/rm/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ro       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ro/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ru       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ru/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | si       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/si/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sl       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sl/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | son      | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/son/Firefox%20Setup%20115.4.0esr.exe           |
+| 115.4.0 | x86          | FIREFOX_ESR            | sq       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sq/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sv-SE    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sv-SE/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ta       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ta/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | te       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/te/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | th       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/th/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | tr       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/tr/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | uk       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/uk/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ur       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ur/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | uz       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/uz/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | vi       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/vi/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | xh       | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/xh/Firefox%20Setup%20115.4.0esr.exe            |
+| 115.4.0 | x86          | FIREFOX_ESR            | zh-CN    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/zh-CN/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x86          | FIREFOX_ESR            | zh-TW    | exe  | Firefox Setup 115.4.0esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/zh-TW/Firefox%20Setup%20115.4.0esr.exe         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ach      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ach/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | af       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/af/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | an       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/an/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ar       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ar/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ast      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ast/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | az       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/az/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | be       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/be/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | bg       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/bg/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | br       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/br/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | bs       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/bs/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ca       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ca/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | cak      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/cak/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | cs       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/cs/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | cy       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/cy/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | da       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/da/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | de       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/de/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | dsb      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/dsb/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | el       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/el/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-CA    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/en-CA/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-GB    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/en-GB/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/en-US/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | eo       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/eo/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-AR    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-AR/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-CL    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-CL/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-ES    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-ES/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-MX    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/es-MX/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | et       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/et/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | eu       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/eu/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fa       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fa/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ff       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ff/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fi       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fi/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | fy-NL    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/fy-NL/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ga-IE    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ga-IE/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | gd       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gd/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | gl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | gn       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gn/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | gu-IN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/gu-IN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | he       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/he/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | hi-IN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hi-IN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | hr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | hsb      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hsb/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | hu       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hu/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | hy-AM    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/hy-AM/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ia       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ia/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | id       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/id/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | is       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/is/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | it       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/it/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ja       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ja/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ka       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ka/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | kab      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/kab/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | kk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/kk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | km       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/km/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | kn       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/kn/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ko       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ko/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | lij      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/lij/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | lt       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/lt/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | lv       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/lv/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | mk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/mk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | mr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/mr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ms       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ms/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | my       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/my/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | nb-NO    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/nb-NO/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ne-NP    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ne-NP/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | nl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/nl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | nn-NO    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/nn-NO/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | oc       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/oc/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | pa-IN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pa-IN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | pl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | pt-BR    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pt-BR/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | pt-PT    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/pt-PT/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | rm       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/rm/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ro       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ro/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ru       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ru/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | si       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/si/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | son      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/son/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x64          | FIREFOX_ESR            | sq       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sq/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | sv-SE    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/sv-SE/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ta       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ta/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | te       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/te/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | th       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/th/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | tr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/tr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | uk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/uk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | ur       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/ur/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | uz       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/uz/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | vi       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/vi/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | xh       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/xh/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x64          | FIREFOX_ESR            | zh-CN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/zh-CN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | zh-TW    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/zh-TW/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ach      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ach/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | af       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/af/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | an       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/an/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ar       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ar/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ast      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ast/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | az       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/az/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | be       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/be/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | bg       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/bg/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | br       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/br/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | bs       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/bs/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ca       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ca/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | cak      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/cak/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | cs       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/cs/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | cy       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/cy/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | da       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/da/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | de       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/de/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | dsb      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/dsb/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | el       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/el/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-CA    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/en-CA/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-GB    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/en-GB/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-US    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/en-US/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | eo       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/eo/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-AR    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-AR/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-CL    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-CL/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-ES    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-ES/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-MX    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/es-MX/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | et       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/et/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | eu       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/eu/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fa       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fa/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ff       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ff/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fi       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fi/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | fy-NL    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/fy-NL/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ga-IE    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ga-IE/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | gd       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gd/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | gl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | gn       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gn/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | gu-IN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/gu-IN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | he       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/he/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | hi-IN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hi-IN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | hr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | hsb      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hsb/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | hu       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hu/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | hy-AM    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/hy-AM/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ia       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ia/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | id       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/id/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | is       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/is/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | it       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/it/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ja       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ja/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ka       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ka/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | kab      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/kab/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | kk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/kk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | km       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/km/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | kn       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/kn/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ko       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ko/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | lij      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/lij/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | lt       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/lt/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | lv       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/lv/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | mk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/mk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | mr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/mr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ms       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ms/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | my       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/my/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | nb-NO    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/nb-NO/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ne-NP    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ne-NP/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | nl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/nl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | nn-NO    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/nn-NO/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | oc       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/oc/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | pa-IN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pa-IN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | pl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | pt-BR    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pt-BR/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | pt-PT    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/pt-PT/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | rm       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/rm/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ro       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ro/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ru       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ru/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | si       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/si/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sl       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sl/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | son      | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/son/Firefox%20Setup%20115.4.0esr.msi           |
+| 115.4.0 | x86          | FIREFOX_ESR            | sq       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sq/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | sv-SE    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/sv-SE/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | ta       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ta/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | te       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/te/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | th       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/th/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | tr       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/tr/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | uk       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/uk/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | ur       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/ur/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | uz       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/uz/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | vi       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/vi/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | xh       | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/xh/Firefox%20Setup%20115.4.0esr.msi            |
+| 115.4.0 | x86          | FIREFOX_ESR            | zh-CN    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/zh-CN/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x86          | FIREFOX_ESR            | zh-TW    | msi  | Firefox Setup 115.4.0esr.msi  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/zh-TW/Firefox%20Setup%20115.4.0esr.msi         |
+| 115.4.0 | x64          | FIREFOX_ESR            | ach      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | af       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | an       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ar       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ast      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | az       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | be       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | bg       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | br       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | bs       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ca       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | cak      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | cs       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | cy       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | da       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | de       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | dsb      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | el       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-CA    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-GB    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | en-US    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | eo       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-AR    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-CL    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-ES    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | es-MX    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | et       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | eu       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | fa       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ff       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | fi       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | fr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | fy-NL    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ga-IE    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | gd       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | gl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | gn       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | gu-IN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | he       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | hi-IN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | hr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | hsb      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | hu       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | hy-AM    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ia       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | id       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | is       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | it       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ja       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ka       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | kab      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | kk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | km       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | kn       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ko       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | lij      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | lt       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | lv       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | mk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | mr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ms       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | my       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | nb-NO    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ne-NP    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | nl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | nn-NO    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | oc       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | pa-IN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | pl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | pt-BR    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | pt-PT    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | rm       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ro       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ru       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | si       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | sk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | sl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | son      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | sq       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | sr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | sv-SE    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ta       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | te       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | th       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | tr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | uk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | ur       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | uz       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | vi       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | xh       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | zh-CN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x64          | FIREFOX_ESR            | zh-TW    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win64/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ach      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | af       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | an       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ar       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ast      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | az       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | be       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | bg       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | br       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | bs       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ca       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | cak      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | cs       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | cy       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | da       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | de       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | dsb      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | el       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-CA    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-GB    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | en-US    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | eo       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-AR    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-CL    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-ES    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | es-MX    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | et       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | eu       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | fa       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ff       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | fi       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | fr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | fy-NL    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ga-IE    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | gd       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | gl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | gn       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | gu-IN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | he       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | hi-IN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | hr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | hsb      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | hu       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | hy-AM    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ia       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | id       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | is       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | it       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ja       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ka       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | kab      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | kk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | km       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | kn       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ko       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | lij      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | lt       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | lv       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | mk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | mr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ms       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | my       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | nb-NO    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ne-NP    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | nl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | nn-NO    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | oc       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | pa-IN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | pl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | pt-BR    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | pt-PT    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | rm       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ro       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ru       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | si       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | sk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | sl       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | son      | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | sq       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | sr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | sv-SE    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ta       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | te       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | th       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | tr       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | uk       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | ur       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | uz       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | vi       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | xh       | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | zh-CN    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
+| 115.4.0 | x86          | FIREFOX_ESR            | zh-TW    | msix | Firefox Setup 115.4.0esr.msix | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.4.0esr/win32/multi/Firefox%20Setup%20115.4.0esr.msix        |
 |         | ARM64        | FIREFOX_ESR_NEXT       | ach      | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/ach/Firefox%20Setup%20115.3.1esr.exe   |
 |         | ARM64        | FIREFOX_ESR_NEXT       | af       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/af/Firefox%20Setup%20115.3.1esr.exe    |
 |         | ARM64        | FIREFOX_ESR_NEXT       | an       | exe  | Firefox Setup 115.3.1esr.exe  | https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.3.1esr/win64-aarch64/an/Firefox%20Setup%20115.3.1esr.exe    |
@@ -5938,6 +5937,26 @@
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 3.10.2.45 | 63d9767e795547109ca7d0bcf0ae4577414f8b4e | https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.10.2/EgnyteDesktopApp_3.10.2_45.msi |
 
+## MendeleyDesktop
+
+[Link](https://www.mendeley.com/)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version | URI                                                                              |
+| ------- | -------------------------------------------------------------------------------- |
+| 1.19.8  | https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe |
+
+## TelerikFiddlerClassic
+
+[Link](https://www.telerik.com/fiddler/fiddler-classic)
+
+**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
+
+| Version     | URI                                                               |
+| ----------- | ----------------------------------------------------------------- |
+| 2.6.3.49793 | https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe |
+
 ## MozillaThunderbird
 
 [Link](https://www.thunderbird.net/)
@@ -6210,26 +6229,6 @@
 | 115.3.3 | x86          | LATEST_THUNDERBIRD_VERSION | vi       | msi  | Thunderbird Setup 115.3.3.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.3.3/win32/vi/Thunderbird%20Setup%20115.3.3.msi    |
 | 115.3.3 | x86          | LATEST_THUNDERBIRD_VERSION | zh-CN    | msi  | Thunderbird Setup 115.3.3.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.3.3/win32/zh-CN/Thunderbird%20Setup%20115.3.3.msi |
 | 115.3.3 | x86          | LATEST_THUNDERBIRD_VERSION | zh-TW    | msi  | Thunderbird Setup 115.3.3.msi | https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.3.3/win32/zh-TW/Thunderbird%20Setup%20115.3.3.msi |
-
-## MendeleyDesktop
-
-[Link](https://www.mendeley.com/)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version | URI                                                                              |
-| ------- | -------------------------------------------------------------------------------- |
-| 1.19.8  | https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.8-win32.exe |
-
-## TelerikFiddlerClassic
-
-[Link](https://www.telerik.com/fiddler/fiddler-classic)
-
-**Last update**: Thursday, 09 June 2022 22:14:11 Etc/UTC
-
-| Version     | URI                                                               |
-| ----------- | ----------------------------------------------------------------- |
-| 2.6.3.49793 | https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe |
 
 ## Scratch
 
