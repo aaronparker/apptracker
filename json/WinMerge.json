@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.16.32",
+    "Version": "2.16.34",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "07/27/2023",
-    "Size": 10630744,
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.32/WinMerge-2.16.32-ARM64-Setup.exe"
+    "Date": "10/27/2023",
+    "Size": 10324656,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.34/WinMerge-2.16.34-ARM64-Setup.exe"
   },
   {
-    "Version": "2.16.32",
+    "Version": "2.16.34",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "07/27/2023",
-    "Size": 9815360,
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.32/WinMerge-2.16.32-x64-PerUser-Setup.exe"
+    "Date": "10/27/2023",
+    "Size": 9491408,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.34/WinMerge-2.16.34-x64-PerUser-Setup.exe"
   },
   {
-    "Version": "2.16.32",
+    "Version": "2.16.34",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "07/27/2023",
-    "Size": 9815600,
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.32/WinMerge-2.16.32-x64-Setup.exe"
+    "Date": "10/27/2023",
+    "Size": 9491424,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.34/WinMerge-2.16.34-x64-Setup.exe"
   },
   {
-    "Version": "2.16.32",
+    "Version": "2.16.34",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "07/27/2023",
-    "Size": 9230616,
-    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.32/WinMerge-2.16.32-Setup.exe"
+    "Date": "10/27/2023",
+    "Size": 8903984,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.34/WinMerge-2.16.34-Setup.exe"
   }
 ]

@@ -1,0 +1,16 @@
+json/7zip.json
+json/AdoptiumTemurin11.json
+json/AdoptiumTemurin17.json
+json/Gimp.json
+json/JetBrainsGoLand.json
+json/JetBrainsRubyMine.json
+json/KDiff3.json
+json/MicrosoftAzureFunctionsCoreTools.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinMerge.json
+json/gretl.json
