@@ -1,20 +1,20 @@
 [
   {
-    "Version": "120.0.6091.0",
+    "Version": "120.0.6092.0",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
-    "Version": "120.0.6073.0",
+    "Version": "120.0.6090.0",
     "Architecture": "x64",
     "Channel": "dev",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "120.0.6073.0",
+    "Version": "120.0.6090.0",
     "Architecture": "x86",
     "Channel": "dev",
     "Type": "msi",

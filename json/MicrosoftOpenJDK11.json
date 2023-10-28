@@ -5,7 +5,7 @@
     "Date": "2023-08-22T09:00:00Z",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9abd8681-5aac-4552-9864-b0601f3e7c4b/1a0c4d1896ad7b8db63ff49f60ae9194/microsoft-jdk-11.0.20.1-windows-aarch64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/7192942c-cedc-4515-930b-e68d7ffd98e1/7160ff95fc413bd011757dba5dd7273c/microsoft-jdk-11.0.20.1-windows-aarch64.msi"
   },
   {
     "Version": "11.0.20.1+1",
@@ -13,6 +13,6 @@
     "Date": "2023-08-22T09:00:00Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9abd8681-5aac-4552-9864-b0601f3e7c4b/6ccfbb667751ae8c2b04c3d547b748d9/microsoft-jdk-11.0.20.1-windows-x64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/7192942c-cedc-4515-930b-e68d7ffd98e1/b3080823ea983b2284041642bd5b40d4/microsoft-jdk-11.0.20.1-windows-x64.msi"
   }
 ]

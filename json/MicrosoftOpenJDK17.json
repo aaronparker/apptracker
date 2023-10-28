@@ -5,7 +5,7 @@
     "Date": "2023-08-22T09:00:00Z",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9bcbce5b-63dc-4ab9-b7a2-c8b0eb15231d/316f0a781cc42af748e0ed79071c6263/microsoft-jdk-17.0.8.1-windows-aarch64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b44230f7-7f35-4a8f-a7a0-554b2f5f20d4/851db929248a3326dd9062b71cab2814/microsoft-jdk-17.0.8.1-windows-aarch64.msi"
   },
   {
     "Version": "17.0.8.1+1",
@@ -13,6 +13,6 @@
     "Date": "2023-08-22T09:00:00Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9bcbce5b-63dc-4ab9-b7a2-c8b0eb15231d/b0e017dd9e2f15b6d84e7d3bbf2d6628/microsoft-jdk-17.0.8.1-windows-x64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b44230f7-7f35-4a8f-a7a0-554b2f5f20d4/e5fc27a323a5d6de5ed618b093b72f73/microsoft-jdk-17.0.8.1-windows-x64.msi"
   }
 ]
