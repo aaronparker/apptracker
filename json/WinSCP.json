@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "11132448",
     "Md5": "a655323232f2defb99c4e975ab1edcec",
-    "URI": "https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe"
+    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe"
   },
   {
     "Version": "6.1.2",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "27820032",
     "Md5": "2942ddaf55188418b84459720acd4af7",
-    "URI": "https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi"
+    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi"
   }
 ]
