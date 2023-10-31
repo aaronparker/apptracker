@@ -1,9 +1,9 @@
 [
   {
-    "Version": "16.0.17022.20000",
+    "Version": "16.0.17023.20000",
     "Channel": "BetaChannel",
     "Name": "Beta",
-    "Date": "2023-10-25T15:54:50.373Z",
+    "Date": "2023-10-31T14:17:05.503Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {

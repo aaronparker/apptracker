@@ -1,12 +1,12 @@
 [
   {
-    "Version": "22.3.4000.4080",
+    "Version": "22.3.5000.5107",
     "Title": "Citrix Workspace - LTSR",
-    "Size": "96388432",
-    "Hash": "efcc0838ba47e7ceca77daaad0a32e31695b3f7728cee3ad0b77d611265e95a8",
-    "Date": "07/11/2023",
+    "Size": "96970320",
+    "Hash": "ead26bc19c5b99efd1cc3c7a15dc29ee02da96c93a4c42159d086d3e37d302c6",
+    "Date": "10/31/2023",
     "Stream": "LTSR",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.4000.4080.exe"
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp22.3.5000.5107.exe"
   },
   {
     "Version": "0.0.0.0",
