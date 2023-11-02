@@ -1,0 +1,17 @@
+json/7zip.json
+json/AdobeAcrobatReaderDC.json
+json/CitrixWorkspaceApp.json
+json/ESETEndpointAntivirus.json
+json/ESETEndpointSecurity.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/KeePass.json
+json/MicrosoftBicep.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/SAGAGIS.json
+json/SignalDesktop.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json

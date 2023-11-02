@@ -1,5 +1,32 @@
 [
   {
+    "Version": "10.1.2058.1",
+    "Size": 220540928,
+    "Hash": "9a51a7ec4adf178e72fa4745bfa8e3e1712b03de",
+    "Language": "ja_JP",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.1/ees_arm64_full.msi"
+  },
+  {
+    "Version": "10.1.2058.1",
+    "Size": 252465152,
+    "Hash": "b9dae7cf5e3a267c2d86209f6b50defe15f33b46",
+    "Language": "ja_JP",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.1/ees_nt64_full.msi"
+  },
+  {
+    "Version": "10.1.2058.1",
+    "Size": 243060736,
+    "Hash": "a965d4e5ecbe6323eded326c0de9c0faf3ad3e63",
+    "Language": "ja_JP",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.1/ees_nt32_full.msi"
+  },
+  {
     "Version": "10.1.2058.0",
     "Size": 220610560,
     "Hash": "25539a285875a74c21425e72494fb4034ee55203",
@@ -1024,32 +1051,5 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_cht.msi"
-  },
-  {
-    "Version": "10.1.2050.1",
-    "Size": 215351296,
-    "Hash": "e3ef82c7d336125b4508a90b6c5b686b9625a4e2",
-    "Language": "ja_JP",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2050.1/ees_arm64_full.msi"
-  },
-  {
-    "Version": "10.1.2050.1",
-    "Size": 246165504,
-    "Hash": "af1edc6dd266c969fadace9fa86e2c8b3d55ed71",
-    "Language": "ja_JP",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2050.1/ees_nt64_full.msi"
-  },
-  {
-    "Version": "10.1.2050.1",
-    "Size": 237641728,
-    "Hash": "43388ba73486e0ca98f7f57b7b1e3edc811298ff",
-    "Language": "ja_JP",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2050.1/ees_nt32_full.msi"
   }
 ]
