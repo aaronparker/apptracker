@@ -91,7 +91,7 @@
   },
   {
     "Version": "23.221.1024.0002",
-    "Throttle": "1",
+    "Throttle": "10",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -109,7 +109,7 @@
   },
   {
     "Version": "23.221.1024.0002",
-    "Throttle": "1",
+    "Throttle": "10",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -127,7 +127,7 @@
   },
   {
     "Version": "23.221.1024.0002",
-    "Throttle": "1",
+    "Throttle": "10",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "Kiag4L+VoDAeBulkWhfDTiaidwclflVWjgL4OpL6IQg=",
@@ -136,7 +136,7 @@
   },
   {
     "Version": "23.214.1015.0001",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -145,7 +145,7 @@
   },
   {
     "Version": "23.214.1015.0001",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -154,7 +154,7 @@
   },
   {
     "Version": "23.214.1015.0001",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "e9PAD/L10kvjg3YqVHS3/IFazxsYPn7nvsIHyoPiPfQ=",
