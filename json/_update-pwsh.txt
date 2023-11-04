@@ -1,0 +1,17 @@
+json/7zip.json
+json/AWSCLI.json
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/HashicorpConsul.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/Minitab.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
