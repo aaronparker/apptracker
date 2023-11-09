@@ -1,0 +1,17 @@
+json/7zip.json
+json/GhislerTotalCommander.json
+json/Gimp.json
+json/JetBrainsIntelliJIDEA.json
+json/JetBrainsRubyMine.json
+json/JetBrainsToolbox.json
+json/KDiff3.json
+json/KeePass.json
+json/MirantisLens.json
+json/OperaBrowser.json
+json/ProgressChefInSpec.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/TelerikFiddlerEverywhere.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
