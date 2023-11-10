@@ -4,32 +4,32 @@
     "Platform": "win32-arm64",
     "Channel": "Insider",
     "Architecture": "ARM64",
-    "Sha256": "0ab53824372409edf789c46ba869b5c5c46b4a4728cf2648e8e92e5b1a0ab4e8",
-    "URI": "https://az764295.vo.msecnd.net/insider/64783a4eb9e896feadb2cbbd767b7ba8013980ee/VSCodeSetup-arm64-1.85.0-insider.exe"
+    "Sha256": "407603cd84214cfe22cacf84d0d69e9350638ed7cb189ac5658b6228d0bbe4ac",
+    "URI": "https://az764295.vo.msecnd.net/insider/2095b6f5a316c998fbfa17586d24f7974e3c8f13/VSCodeSetup-arm64-1.85.0-insider.exe"
   },
   {
     "Version": "1.85.0",
     "Platform": "win32-arm64-user",
     "Channel": "Insider",
     "Architecture": "ARM64",
-    "Sha256": "c54b1a493c49ba882613d762a4f2141762170a6dc9323ef754a53514c7b21d8b",
-    "URI": "https://az764295.vo.msecnd.net/insider/64783a4eb9e896feadb2cbbd767b7ba8013980ee/VSCodeUserSetup-arm64-1.85.0-insider.exe"
+    "Sha256": "371500ee59b91b7360cd05d02f263891526dbfbdf10fcf2194461a8f80ee0652",
+    "URI": "https://az764295.vo.msecnd.net/insider/2095b6f5a316c998fbfa17586d24f7974e3c8f13/VSCodeUserSetup-arm64-1.85.0-insider.exe"
   },
   {
     "Version": "1.85.0",
     "Platform": "win32-x64",
     "Channel": "Insider",
     "Architecture": "x64",
-    "Sha256": "fe7351a31263260248860c009df22023ff857fce58e0ca967730567355f8f2a3",
-    "URI": "https://az764295.vo.msecnd.net/insider/64783a4eb9e896feadb2cbbd767b7ba8013980ee/VSCodeSetup-x64-1.85.0-insider.exe"
+    "Sha256": "b3b14c1acc1575c2508a600a1bb7042a882d37d28b38f5b5aa4115726b855df4",
+    "URI": "https://az764295.vo.msecnd.net/insider/2095b6f5a316c998fbfa17586d24f7974e3c8f13/VSCodeSetup-x64-1.85.0-insider.exe"
   },
   {
     "Version": "1.85.0",
     "Platform": "win32-x64-user",
     "Channel": "Insider",
     "Architecture": "x64",
-    "Sha256": "5105f363ec01065a30ceff4002777e8c58f5aff5e721aa9e3d54ccd084dbf10d",
-    "URI": "https://az764295.vo.msecnd.net/insider/64783a4eb9e896feadb2cbbd767b7ba8013980ee/VSCodeUserSetup-x64-1.85.0-insider.exe"
+    "Sha256": "4cf090bbb803623fc435a35940aabb8738eb0447a0af49351ed5485a988565c5",
+    "URI": "https://az764295.vo.msecnd.net/insider/2095b6f5a316c998fbfa17586d24f7974e3c8f13/VSCodeUserSetup-x64-1.85.0-insider.exe"
   },
   {
     "Version": "1.84.2",
