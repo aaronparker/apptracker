@@ -1,0 +1,15 @@
+json/AirtameApp.json
+json/Gimp.json
+json/GitExtensions.json
+json/JetBrainsWebStorm.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/OperaGXBrowser.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/TelegramDesktop.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json

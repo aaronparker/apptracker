@@ -91,7 +91,7 @@
   },
   {
     "Version": "23.226.1031.0001",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -109,7 +109,7 @@
   },
   {
     "Version": "23.226.1031.0001",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -127,7 +127,7 @@
   },
   {
     "Version": "23.226.1031.0001",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "6CqXNPT1O2RfJpl/1Agc8QjG8+aL2yE9+BRkr34lb0U=",

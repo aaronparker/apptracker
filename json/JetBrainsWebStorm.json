@@ -1,10 +1,10 @@
 {
-  "Version": "2023.2.4",
-  "Build": "232.10203.14",
+  "Version": "2023.2.5",
+  "Build": "232.10227.9",
   "Edition": "WebStorm",
-  "Sha256": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.4.exe.sha256",
-  "Date": "10/26/2023",
-  "Size": 436510216,
+  "Sha256": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.5.exe.sha256",
+  "Date": "11/13/2023",
+  "Size": 436386264,
   "Type": "exe",
-  "URI": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.4.exe"
+  "URI": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.5.exe"
 }
