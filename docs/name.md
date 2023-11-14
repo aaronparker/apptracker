@@ -4,9 +4,9 @@
 
 [Link](https://1password.com/)
 
-| Version | URI                                                                 |
-| ------- | ------------------------------------------------------------------- |
-| 8.10.18 | https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.18.exe |
+| Version | URI                                                             |
+| ------- | --------------------------------------------------------------- |
+| 8.10.18 | https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.18.exe |
 
 ## 1Password7
 
@@ -47,14 +47,14 @@
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.006.20360 | Update | Reader  | DC    | Multi    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360_MUI.msp |
-| 23.006.20360 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCx64Upd2300620360.msp     |
-| 23.006.20360 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360.msp     |
-| 23.006.20360 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360_MUI.msp     |
-| 23.006.20360 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCUpd2300620360.msp        |
-| 23.006.20360 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360.msp         |
-| 20.005.30524 | Update | Reader  | 2020  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530524/AcroRdr2020Upd2000530524_MUI.msp |
-| 20.005.30524 | Update | Acrobat | 2020  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530524/Acrobat2020Upd2000530524.msp    |
+| 23.006.20380 | Update | Reader  | DC    | Multi    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcroRdrDCx64Upd2300620380_MUI.msp |
+| 23.006.20380 | Update | Acrobat | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcrobatDCx64Upd2300620380.msp     |
+| 23.006.20380 | Update | Reader  | DC    | Neutral  | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcroRdrDCx64Upd2300620380.msp     |
+| 23.006.20380 | Update | Reader  | DC    | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDCUpd2300620380_MUI.msp     |
+| 23.006.20380 | Update | Acrobat | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcrobatDCUpd2300620380.msp        |
+| 23.006.20380 | Update | Reader  | DC    | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDCUpd2300620380.msp         |
+| 20.005.30539 | Update | Reader  | 2020  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530539/AcroRdr2020Upd2000530539_MUI.msp |
+| 20.005.30539 | Update | Acrobat | 2020  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530539/Acrobat2020Upd2000530539.msp    |
 | 17.012.30262 | Update | Reader  | 2017  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230262/AcroRdr2017Upd1701230262_MUI.msp |
 | 17.012.30262 | Update | Acrobat | 2017  | Neutral  | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2017/1701230262/Acrobat2017Upd1701230262.msp    |
 | 15.006.30527 | Update | Reader  | 2015  | Multi    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2015/1500630527/AcroRdr2015Upd1500630527_MUI.msp |
@@ -66,12 +66,12 @@
 
 | Version      | Type      | Architecture | URI                                                                                                        |
 | ------------ | --------- | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| 23.006.20360 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCx64Upd2300620360.msp     |
-| 23.006.20360 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcrobatDCUpd2300620360.msp        |
-| 23.006.20360 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360.msp     |
-| 23.006.20360 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360.msp         |
-| 23.006.20360 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx64Upd2300620360_MUI.msp |
-| 23.006.20360 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDCUpd2300620360_MUI.msp     |
+| 23.006.20380 | Acrobat   | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcrobatDCx64Upd2300620380.msp     |
+| 23.006.20380 | Acrobat   | x86          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcrobatDCUpd2300620380.msp        |
+| 23.006.20380 | Reader    | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcroRdrDCx64Upd2300620380.msp     |
+| 23.006.20380 | Reader    | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDCUpd2300620380.msp         |
+| 23.006.20380 | ReaderMUI | x64          | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcroRdrDCx64Upd2300620380_MUI.msp |
+| 23.006.20380 | ReaderMUI | x86          | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDCUpd2300620380_MUI.msp     |
 
 ## AdobeAcrobatProStdDC
 
@@ -79,10 +79,10 @@
 
 | Version      | Architecture | Sku      | URI                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |
-| 23.006.20360 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.006.20360 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
-| 23.006.20360 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
-| 23.006.20360 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 23.006.20380 | x64          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.006.20380 | x64          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip |
+| 23.006.20380 | x86          | Pro      | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
+| 23.006.20380 | x86          | Standard | https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip     |
 
 ## AdobeAcrobatReaderDC
 
@@ -90,36 +90,36 @@
 
 | Version      | Language              | Architecture | Name                                            | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 23.006.20360 | MUI                   | x64          | Reader 2023.006.20360 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620360/AcroRdrDCx642300620360_MUI.exe |
-| 23.006.20360 | Basque                | x86          | Reader 2023.006.20360 Basque for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_eu_ES.exe   |
-| 23.006.20360 | Catalan               | x86          | Reader 2023.006.20360 Catalan for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_ca_ES.exe   |
-| 23.006.20360 | Chinese (Simplified)  | x86          | Reader 2023.006.20360 Chinese Simp for  Windows | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_zh_CN.exe   |
-| 23.006.20360 | Chinese (Traditional) | x86          | Reader 2023.006.20360 Chinese Trad for Windows  | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_zh_TW.exe   |
-| 23.006.20360 | Croatian              | x86          | Reader 2023.006.20360 Croatian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_hr_HR.exe   |
-| 23.006.20360 | Czech                 | x86          | Reader 2023.006.20360 Czech for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_cs_CZ.exe   |
-| 23.006.20360 | Danish                | x86          | Reader 2023.006.20360 Danish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_da_DK.exe   |
-| 23.006.20360 | Dutch                 | x86          | Reader 2023.006.20360 Dutch for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_nl_NL.exe   |
-| 23.006.20360 | English               | x86          | Reader 2023.006.20360 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_en_US.exe   |
-| 23.006.20360 | English (UK)          | x86          | Reader 2023.006.20360 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_en_US.exe   |
-| 23.006.20360 | Finnish               | x86          | Reader 2023.006.20360 Finnish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_fi_FI.exe   |
-| 23.006.20360 | French                | x86          | Reader 2023.006.20360 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_fr_FR.exe   |
-| 23.006.20360 | German                | x86          | Reader 2023.006.20360 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_de_DE.exe   |
-| 23.006.20360 | Hungarian             | x86          | Reader 2023.006.20360 Hungarian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_hu_HU.exe   |
-| 23.006.20360 | Italian               | x86          | Reader 2023.006.20360 Italian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_it_IT.exe   |
-| 23.006.20360 | Japanese              | x86          | Reader 2023.006.20360 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_ja_JP.exe   |
-| 23.006.20360 | Korean                | x86          | Reader 2023.006.20360 Korean for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_ko_KR.exe   |
-| 23.006.20360 | MUI                   | x86          | Reader 2023.006.20360 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_MUI.exe     |
-| 23.006.20360 | Norwegian             | x86          | Reader 2023.006.20360 Norwegian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_nb_NO.exe   |
-| 23.006.20360 | Polish                | x86          | Reader 2023.006.20360 Polish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_pl_PL.exe   |
-| 23.006.20360 | Portuguese            | x86          | Reader 2023.006.20360 Portuguese for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_pt_BR.exe   |
-| 23.006.20360 | Romanian              | x86          | Reader 2023.006.20360 Romanian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_ro_RO.exe   |
-| 23.006.20360 | Russian               | x86          | Reader 2023.006.20360 Russian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_ru_RU.exe   |
-| 23.006.20360 | Slovakian             | x86          | Reader 2023.006.20360 Slovakian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_sk_SK.exe   |
-| 23.006.20360 | Slovenian             | x86          | Reader 2023.006.20360 Slovenian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_sl_SI.exe   |
-| 23.006.20360 | Spanish               | x86          | Reader 2023.006.20360 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_es_ES.exe   |
-| 23.006.20360 | Swedish               | x86          | Reader 2023.006.20360 Swedish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_sv_SE.exe   |
-| 23.006.20360 | Turkish               | x86          | Reader 2023.006.20360 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_tr_TR.exe   |
-| 23.006.20360 | Ukrainian             | x86          | Reader 2023.006.20360 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_uk_UA.exe   |
+| 23.006.20380 | MUI                   | x64          | Reader 2023.006.20380 MUI for Windows-64bit     | https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2300620380/AcroRdrDCx642300620380_MUI.exe |
+| 23.006.20380 | Basque                | x86          | Reader 2023.006.20380 Basque for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_eu_ES.exe   |
+| 23.006.20380 | Catalan               | x86          | Reader 2023.006.20380 Catalan for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_ca_ES.exe   |
+| 23.006.20380 | Chinese (Simplified)  | x86          | Reader 2023.006.20380 Chinese Simp for  Windows | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_zh_CN.exe   |
+| 23.006.20380 | Chinese (Traditional) | x86          | Reader 2023.006.20380 Chinese Trad for Windows  | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_zh_TW.exe   |
+| 23.006.20380 | Croatian              | x86          | Reader 2023.006.20380 Croatian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_hr_HR.exe   |
+| 23.006.20380 | Czech                 | x86          | Reader 2023.006.20380 Czech for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_cs_CZ.exe   |
+| 23.006.20380 | Danish                | x86          | Reader 2023.006.20380 Danish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_da_DK.exe   |
+| 23.006.20380 | Dutch                 | x86          | Reader 2023.006.20380 Dutch for Windows         | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_nl_NL.exe   |
+| 23.006.20380 | English               | x86          | Reader 2023.006.20380 English for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_en_US.exe   |
+| 23.006.20380 | English (UK)          | x86          | Reader 2023.006.20380 English UK for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_en_US.exe   |
+| 23.006.20380 | Finnish               | x86          | Reader 2023.006.20380 Finnish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_fi_FI.exe   |
+| 23.006.20380 | French                | x86          | Reader 2023.006.20380 French for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_fr_FR.exe   |
+| 23.006.20380 | German                | x86          | Reader 2023.006.20380 German for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_de_DE.exe   |
+| 23.006.20380 | Hungarian             | x86          | Reader 2023.006.20380 Hungarian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_hu_HU.exe   |
+| 23.006.20380 | Italian               | x86          | Reader 2023.006.20380 Italian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_it_IT.exe   |
+| 23.006.20380 | Japanese              | x86          | Reader 2023.006.20380 Japanese for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_ja_JP.exe   |
+| 23.006.20380 | Korean                | x86          | Reader 2023.006.20380 Korean for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_ko_KR.exe   |
+| 23.006.20380 | MUI                   | x86          | Reader 2023.006.20380 MUI for Windows-32bit     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_MUI.exe     |
+| 23.006.20380 | Norwegian             | x86          | Reader 2023.006.20380 Norwegian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_nb_NO.exe   |
+| 23.006.20380 | Polish                | x86          | Reader 2023.006.20380 Polish for Windows        | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_pl_PL.exe   |
+| 23.006.20380 | Portuguese            | x86          | Reader 2023.006.20380 Portuguese for Windows    | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_pt_BR.exe   |
+| 23.006.20380 | Romanian              | x86          | Reader 2023.006.20380 Romanian for Windows      | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_ro_RO.exe   |
+| 23.006.20380 | Russian               | x86          | Reader 2023.006.20380 Russian for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_ru_RU.exe   |
+| 23.006.20380 | Slovakian             | x86          | Reader 2023.006.20380 Slovakian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_sk_SK.exe   |
+| 23.006.20380 | Slovenian             | x86          | Reader 2023.006.20380 Slovenian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_sl_SI.exe   |
+| 23.006.20380 | Spanish               | x86          | Reader 2023.006.20380 Spanish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_es_ES.exe   |
+| 23.006.20380 | Swedish               | x86          | Reader 2023.006.20380 Swedish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_sv_SE.exe   |
+| 23.006.20380 | Turkish               | x86          | Reader 2023.006.20380 Turkish for Windows       | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_tr_TR.exe   |
+| 23.006.20380 | Ukrainian             | x86          | Reader 2023.006.20380 Ukrainian for Windows     | https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620380/AcroRdrDC2300620380_uk_UA.exe   |
 
 ## AdobeBrackets
 
@@ -1121,22 +1121,22 @@
 
 [Link](https://www.foxit.com/pdf-editor/)
 
-| Version      | Date       | Language           | URI                                                                                                                      |
-| ------------ | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 13.0.0.21632 | 09/11/2023 | Danish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Dutch              | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | English            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/en_us/FoxitPDFEditor130_enu_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Finnish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | French             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | German             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Italian            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Multi-Language     | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Norwegian          | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Polish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Russian            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Spanish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
-| 13.0.0.21632 | 09/11/2023 | Swedish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0/L10N/FoxitPDFEditor130_L10N_Setup_Website.msi |
+| Version      | Date       | Language           | URI                                                                                                                         |
+| ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| 13.0.1.21693 | 11/13/2023 | Danish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Dutch              | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | English            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/en_us/FoxitPDFEditor1301_enu_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Finnish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | French             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | German             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Italian            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Multi-Language     | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Norwegian          | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Polish             | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Portuguese(Brazil) | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Russian            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Spanish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
+| 13.0.1.21693 | 11/13/2023 | Swedish            | https://cdn01.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/13.x/13.0.1/L10N/FoxitPDFEditor1301_L10N_Setup_Website.msi |
 
 ## FoxitReader
 
@@ -1233,9 +1233,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                         |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://uvermont.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                    |
+| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://mirror.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
 
 ## GitExtensions
 
@@ -1380,10 +1380,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                             |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------- |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1688,19 +1688,19 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cytranet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
-| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
-| 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
+| 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1739,7 +1739,7 @@
 
 | Version   | Type | URI                                                                                     |
 | --------- | ---- | --------------------------------------------------------------------------------------- |
-| 23.5.8650 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_23.5.8650.0.msi |
+| 23.6.8717 | Free | https://www.masterpackager.com/installer/public/standard/masterpackager_23.6.8717.0.msi |
 
 ## MattermostDesktop
 
@@ -1826,12 +1826,12 @@
 | ---------------- | ----------------- | ------------------------------------- | ------------------- | ------------------------------------------------- |
 | 16.0.17031.20000 | BetaChannel       | Beta                                  | 11/07/2023 17:16:17 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 | 16.0.17029.20028 | CurrentPreview    | Current Channel (Preview)             | 11/13/2023 16:27:54 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16924.20124 | Current           | Current Channel                       | 10/31/2023 17:49:48 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16731.20316 | MonthlyEnterprise | Monthly Enterprise                    | 10/10/2023 08:01:59 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16731.20316 | SemiAnnualPreview | Semi-Annual Channel Preview           | 10/10/2023 12:41:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.16130.20810 | SemiAnnual        | Semi-Annual Channel                   | 10/10/2023 08:02:15 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.14332.20582 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 10/10/2023 13:16:46 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
-| 16.0.10403.20013 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 10/10/2023 13:20:39 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16924.20150 | Current           | Current Channel                       | 11/14/2023 08:48:00 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16827.20278 | MonthlyEnterprise | Monthly Enterprise                    | 11/14/2023 08:36:46 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16731.20398 | SemiAnnualPreview | Semi-Annual Channel Preview           | 11/14/2023 09:38:24 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.16130.20846 | SemiAnnual        | Semi-Annual Channel                   | 11/14/2023 09:15:18 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.14332.20604 | PerpetualVL2021   | Office LTSC 2021 Perpetual Enterprise | 11/14/2023 14:19:24 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
+| 16.0.10404.20013 | PerpetualVL2019   | Office 2019 Perpetual Enterprise      | 11/14/2023 14:21:37 | https://officecdn.microsoft.com/pr/wsus/setup.exe |
 
 ## MicrosoftAzureCLI
 
@@ -2181,10 +2181,10 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                      |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1.85.0  | win32-arm64      | Insider | ARM64        | d231dd4875b7ae122d37bb440b9009b48478af559b9f4d1b5b221882208bc99d | https://az764295.vo.msecnd.net/insider/94959e85502687ec77e23eb0d4d4b1a827b919af/VSCodeSetup-arm64-1.85.0-insider.exe     |
-| 1.85.0  | win32-arm64-user | Insider | ARM64        | efd246cfd696b00bc2ebf98c0bc114b99fec8ea953cdb825f8d836e6e20e22b1 | https://az764295.vo.msecnd.net/insider/94959e85502687ec77e23eb0d4d4b1a827b919af/VSCodeUserSetup-arm64-1.85.0-insider.exe |
-| 1.85.0  | win32-x64        | Insider | x64          | f0fd3cd27e7d767abdafb6d9051b337f8e3e4ff060dbd646c3401d7b21c6b993 | https://az764295.vo.msecnd.net/insider/94959e85502687ec77e23eb0d4d4b1a827b919af/VSCodeSetup-x64-1.85.0-insider.exe       |
-| 1.85.0  | win32-x64-user   | Insider | x64          | 6daa21a204472205f1683fe935bfeb4fc778d89314dcb37d8da91c848304121e | https://az764295.vo.msecnd.net/insider/94959e85502687ec77e23eb0d4d4b1a827b919af/VSCodeUserSetup-x64-1.85.0-insider.exe   |
+| 1.85.0  | win32-arm64      | Insider | ARM64        | 02086d9affa73973943c35685addc9e5ed2dcdf39eb385bb897a63dede7cc8bd | https://az764295.vo.msecnd.net/insider/54821ee1f14beca4866abd7de86175b4794b030d/VSCodeSetup-arm64-1.85.0-insider.exe     |
+| 1.85.0  | win32-arm64-user | Insider | ARM64        | a1f74d8a6cac9d343e3a321eb7ddf6e26a96068b9dd355c48612ee8f45a63b09 | https://az764295.vo.msecnd.net/insider/54821ee1f14beca4866abd7de86175b4794b030d/VSCodeUserSetup-arm64-1.85.0-insider.exe |
+| 1.85.0  | win32-x64        | Insider | x64          | e95aa127ced22d19b4838ca8ca8f070aa43d382ea04fe8e66eb39b99ab8caf18 | https://az764295.vo.msecnd.net/insider/54821ee1f14beca4866abd7de86175b4794b030d/VSCodeSetup-x64-1.85.0-insider.exe       |
+| 1.85.0  | win32-x64-user   | Insider | x64          | c76af13aabfcc3e7af7b63b75ae9c518d740937334034c2c8ea9ffd05403dad9 | https://az764295.vo.msecnd.net/insider/54821ee1f14beca4866abd7de86175b4794b030d/VSCodeUserSetup-x64-1.85.0-insider.exe   |
 | 1.84.2  | win32-arm64      | Stable  | ARM64        | d72e1624015c17e1a7192c05580ea84324b23f7d52925e9f1f51ddd88b9df87f | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeSetup-arm64-1.84.2.exe              |
 | 1.84.2  | win32-arm64-user | Stable  | ARM64        | a36dc8733238417ca4beb93f7add6e4d2bfe2d6e9c492535aa716eaec72a35f4 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeUserSetup-arm64-1.84.2.exe          |
 | 1.84.2  | win32-x64        | Stable  | x64          | 34153c260c079f7bd57c6df4ff7fecb1832e69a857dc6f8a0adc814329314bb1 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeSetup-x64-1.84.2.exe                |
@@ -2279,10 +2279,10 @@
 
 [Link](https://k8slens.dev/)
 
-| Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                       |
-| -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2023.11.81656-alpha  | x64          | Alpha   | 11/08/2023 21:36:57 | 206973584 | L7I3w67F2CBdIjYDZLm4zFr/qwqU0NUnjmRAnlPImnXxtgMQhfRe6+5r5/fksxRKZFkfOdKQWPuRyNWk5kmRNw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.11.81656-alpha.exe  |
-| 2023.11.81519-latest | x64          | Stable  | 11/08/2023 15:30:06 | 206974112 | wDGceLHsQdbgn7R0ewx/fCuHaoIsrMeyt00829YNcb+laDFELkoWAnls8S0tCRllfi+vyPXBJmM0molqIpNJgA== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.11.81519-latest.exe |
+| Version               | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                        |
+| --------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 2023.11.81656-alpha   | x64          | Alpha   | 11/08/2023 21:36:57 | 206973584 | L7I3w67F2CBdIjYDZLm4zFr/qwqU0NUnjmRAnlPImnXxtgMQhfRe6+5r5/fksxRKZFkfOdKQWPuRyNWk5kmRNw== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.11.81656-alpha.exe   |
+| 2023.11.131420-latest | x64          | Stable  | 11/13/2023 14:39:31 | 206974400 | ZxjRmYMxQqFHMDQ0qRtn/+1id+eHIpS5G6Cj1R/FdfTkZeZqx1HXqumtUxtrz80D9RtlapqDmaxKtDr15KR0Sg== | https://downloads.k8slens.dev/ide/Lens%20Setup%202023.11.131420-latest.exe |
 
 ## MozillaFirefox
 
@@ -4651,7 +4651,7 @@
 
 | Version      | Date       | URI                                                                     |
 | ------------ | ---------- | ----------------------------------------------------------------------- |
-| 2023.3.13159 | 11/05/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.3.13159-x64.msi |
+| 2023.3.13181 | 11/14/2023 | https://download.octopusdeploy.com/octopus/Octopus.2023.3.13181-x64.msi |
 
 ## OctopusTentacle
 
@@ -4668,12 +4668,12 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |
-| 7.5.0   | Windows  | x64          | exe  | Default       | 10/19/2023 | 255175832 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.0/DesktopEditors_x64.exe    |
-| 7.5.0   | Windows  | x64          | exe  | Default       | 10/19/2023 | 435703792 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.0/DesktopEditors_x64_xp.exe |
-| 7.5.0   | Windows  | x86          | exe  | Default       | 10/19/2023 | 233448392 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.0/DesktopEditors_x86.exe    |
-| 7.5.0   | Windows  | x86          | exe  | Default       | 10/19/2023 | 413778424 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.0/DesktopEditors_x86_xp.exe |
-| 7.5.0   | Windows  | x64          | msi  | Default       | 10/19/2023 | 405529600 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.0/DesktopEditors_x64.msi    |
-| 7.5.0   | Windows  | x86          | msi  | Default       | 10/19/2023 | 376616448 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.0/DesktopEditors_x86.msi    |
+| 7.5.1   | Windows  | x64          | exe  | Default       | 11/14/2023 | 254933176 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x64.exe    |
+| 7.5.1   | Windows  | x64          | exe  | Default       | 11/14/2023 | 439278472 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x64_xp.exe |
+| 7.5.1   | Windows  | x86          | exe  | Default       | 11/14/2023 | 233170480 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x86.exe    |
+| 7.5.1   | Windows  | x86          | exe  | Default       | 11/14/2023 | 417273896 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x86_xp.exe |
+| 7.5.1   | Windows  | x64          | msi  | Default       | 11/14/2023 | 404998656 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x64.msi    |
+| 7.5.1   | Windows  | x86          | msi  | Default       | 11/14/2023 | 376073216 | https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x86.msi    |
 
 ## OpenJDK
 
@@ -4922,20 +4922,20 @@
 
 [Link](https://www.chef.io/products/chef-inspec)
 
-| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                          |
-| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 6.6.0   | x64          | current | 10       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/10/inspec-6.6.0-1-x64.msi        |
-| 6.6.0   | x64          | current | 11       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/11/inspec-6.6.0-1-x64.msi        |
-| 6.6.0   | x64          | current | 2012r2   | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2012r2/inspec-6.6.0-1-x64.msi    |
-| 6.6.0   | x64          | current | 2016     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2016/inspec-6.6.0-1-x64.msi      |
-| 6.6.0   | x64          | current | 2019     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2019/inspec-6.6.0-1-x64.msi      |
-| 6.6.0   | x64          | current | 2022     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2022/inspec-6.6.0-1-x64.msi      |
-| 5.22.29 | x64          | stable  | 10       | 812852d59cee6a0d46a72d1630eeccf060ad0252b459f7a28fab3f98f26f64d7 | https://packages.chef.io/files/stable/inspec/5.22.29/windows/10/inspec-5.22.29-1-x64.msi     |
-| 5.22.29 | x64          | stable  | 11       | 812852d59cee6a0d46a72d1630eeccf060ad0252b459f7a28fab3f98f26f64d7 | https://packages.chef.io/files/stable/inspec/5.22.29/windows/11/inspec-5.22.29-1-x64.msi     |
-| 5.22.29 | x64          | stable  | 2012r2   | 812852d59cee6a0d46a72d1630eeccf060ad0252b459f7a28fab3f98f26f64d7 | https://packages.chef.io/files/stable/inspec/5.22.29/windows/2012r2/inspec-5.22.29-1-x64.msi |
-| 5.22.29 | x64          | stable  | 2016     | 812852d59cee6a0d46a72d1630eeccf060ad0252b459f7a28fab3f98f26f64d7 | https://packages.chef.io/files/stable/inspec/5.22.29/windows/2016/inspec-5.22.29-1-x64.msi   |
-| 5.22.29 | x64          | stable  | 2019     | 812852d59cee6a0d46a72d1630eeccf060ad0252b459f7a28fab3f98f26f64d7 | https://packages.chef.io/files/stable/inspec/5.22.29/windows/2019/inspec-5.22.29-1-x64.msi   |
-| 5.22.29 | x64          | stable  | 2022     | 812852d59cee6a0d46a72d1630eeccf060ad0252b459f7a28fab3f98f26f64d7 | https://packages.chef.io/files/stable/inspec/5.22.29/windows/2022/inspec-5.22.29-1-x64.msi   |
+| Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                       |
+| ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 6.6.0   | x64          | current | 10       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/10/inspec-6.6.0-1-x64.msi     |
+| 6.6.0   | x64          | stable  | 10       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/stable/inspec/6.6.0/windows/10/inspec-6.6.0-1-x64.msi      |
+| 6.6.0   | x64          | current | 11       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/11/inspec-6.6.0-1-x64.msi     |
+| 6.6.0   | x64          | stable  | 11       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/stable/inspec/6.6.0/windows/11/inspec-6.6.0-1-x64.msi      |
+| 6.6.0   | x64          | current | 2012r2   | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2012r2/inspec-6.6.0-1-x64.msi |
+| 6.6.0   | x64          | stable  | 2012r2   | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/stable/inspec/6.6.0/windows/2012r2/inspec-6.6.0-1-x64.msi  |
+| 6.6.0   | x64          | current | 2016     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2016/inspec-6.6.0-1-x64.msi   |
+| 6.6.0   | x64          | stable  | 2016     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/stable/inspec/6.6.0/windows/2016/inspec-6.6.0-1-x64.msi    |
+| 6.6.0   | x64          | current | 2019     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2019/inspec-6.6.0-1-x64.msi   |
+| 6.6.0   | x64          | stable  | 2019     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/stable/inspec/6.6.0/windows/2019/inspec-6.6.0-1-x64.msi    |
+| 6.6.0   | x64          | current | 2022     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/current/inspec/6.6.0/windows/2022/inspec-6.6.0-1-x64.msi   |
+| 6.6.0   | x64          | stable  | 2022     | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | https://packages.chef.io/files/stable/inspec/6.6.0/windows/2022/inspec-6.6.0-1-x64.msi    |
 
 ## ProgressChefWorkstation
 
@@ -5258,8 +5258,8 @@
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |
-| 23.3.2  | 10/18/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2332/camtasia.exe |
-| 23.3.2  | 10/18/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2332/camtasia.msi |
+| 23.3.3  | 11/14/2023 00:00:00 | exe  | http://download.techsmith.com/camtasiastudio/releases/2333/camtasia.exe |
+| 23.3.3  | 11/14/2023 00:00:00 | msi  | http://download.techsmith.com/camtasiastudio/releases/2333/camtasia.msi |
 
 ## TechSmithSnagit
 
@@ -5344,8 +5344,8 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 5.2.450 | beta    | 69C184E5EAD9AE8F8455F23799137BEE1E78CDCA | exe  | https://www.git-tower.com/apps/tower3-win/450-e4b82ee5/Tower-5.2.450.exe |
-| 5.2.450 | beta    | D6AD328FB2A07232FA34689C66E27E94C734482D | msi  | https://www.git-tower.com/apps/tower3-win/450-e4b82ee5/Tower-5.2.450.msi |
+| 5.2.451 | beta    | 8B168A76A9546A62DAA92788C9046D2FC91D1AB2 | exe  | https://www.git-tower.com/apps/tower3-win/451-3aacd18b/Tower-5.2.451.exe |
+| 5.2.451 | beta    | EF3F6A99AF79453A5AD8564BAE1692E7812219CE | msi  | https://www.git-tower.com/apps/tower3-win/451-3aacd18b/Tower-5.2.451.msi |
 | 5.1.446 | stable  | 6E3ED7B7F3FEEB153F675193D4B65DC216C66DDD | exe  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.exe |
 | 5.1.446 | stable  | 334D9E5710B78BC7BA817EA85A64C0E58A73EEE7 | msi  | https://www.git-tower.com/apps/tower3-win/446-9989388e/Tower-5.1.446.msi |
 
@@ -5407,9 +5407,9 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
+| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
+| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
+| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://cytranet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
 
 ## VercelHyper
 
@@ -5423,14 +5423,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
-| 3.0.20  | Windows  | x64          | EXE  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.exe |
-| 3.0.20  | Windows  | x86          | EXE  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe                  |
-| 3.0.20  | Windows  | x64          | MSI  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi |
-| 3.0.20  | Windows  | x86          | MSI  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.msi                  |
-| 3.0.20  | Windows  | x64          | ZIP  | https://mirror2.sandyriver.net/pub/software/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.zip |
-| 3.0.20  | Windows  | x86          | ZIP  | https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.zip                  |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.20  | Windows  | x64          | EXE  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe        |
+| 3.0.20  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe |
+| 3.0.20  | Windows  | x64          | MSI  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi        |
+| 3.0.20  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi |
+| 3.0.20  | Windows  | x64          | ZIP  | https://ziply.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip        |
+| 3.0.20  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5547,8 +5547,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
-| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
+| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
+| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
 
 ## Wireshark
 
