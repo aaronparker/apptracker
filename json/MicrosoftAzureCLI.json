@@ -1,10 +1,10 @@
 {
-  "Version": "2.53.1",
+  "Version": "2.54.0",
   "Platform": "Windows",
   "Architecture": "x86",
   "Type": "msi",
   "InstallerType": "Default",
-  "Date": "10/24/2023",
-  "Size": 52387840,
-  "URI": "https://github.com/Azure/azure-cli/releases/download/azure-cli-2.53.1/azure-cli-2.53.1.msi"
+  "Date": "11/08/2023",
+  "Size": 67432448,
+  "URI": "https://github.com/Azure/azure-cli/releases/download/azure-cli-2.54.0/azure-cli-2.54.0.msi"
 }
