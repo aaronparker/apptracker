@@ -1,12 +1,12 @@
 [
   {
-    "Version": "120.0.2210.7",
+    "Version": "120.0.2210.8",
     "Platform": "Any",
     "Channel": "Policy",
     "Release": "Enterprise",
     "Architecture": "any",
-    "Hash": "EA0688B97ADC93602CC83EB9D7D6F62428B70FAB6828D9C5329D78A1BB022B6D",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d131636-1986-4f9f-a668-8c193464e2fa/MicrosoftEdgePolicyTemplates.cab"
+    "Hash": "9C7E3C5717565A0A08E61E3BDBFAE53FE2837C4BD21983A9DEEFDD34848FAA1B",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7925402-6631-486d-b79a-2824a078e6ef/MicrosoftEdgePolicyTemplates.cab"
   },
   {
     "Version": "120.0.2210.7",
