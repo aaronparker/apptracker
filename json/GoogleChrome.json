@@ -1,6 +1,6 @@
 [
   {
-    "Version": "121.0.6128.2",
+    "Version": "121.0.6130.0",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
@@ -21,14 +21,14 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "120.0.6099.18",
+    "Version": "120.0.6099.28",
     "Architecture": "x64",
     "Channel": "beta",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "120.0.6099.18",
+    "Version": "120.0.6099.28",
     "Architecture": "x86",
     "Channel": "beta",
     "Type": "msi",

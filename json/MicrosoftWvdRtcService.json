@@ -1,8 +1,8 @@
 {
-  "Version": "1.43.2306.30001",
+  "Version": "1.45.2310.13001",
   "Architecture": "x64",
-  "Date": "Thu, 07 Sep 2023 16:58:45 GMT",
+  "Date": "Tue, 14 Nov 2023 21:25:08 GMT",
   "Size": null,
-  "Filename": "MsRdcWebRTCSvc_HostSetup_1.43.2306.30001_x64.msi",
+  "Filename": "MsRdcWebRTCSvc_HostSetup_1.45.2310.13001_x64.msi",
   "URI": "https://aka.ms/msrdcwebrtcsvc/msi"
 }
