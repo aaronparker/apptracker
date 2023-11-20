@@ -1,6 +1,18 @@
 {
-  "Version": "7.2.5",
-  "InstallerVersion": "inSync7.2.5r110485",
-  "Md5sum": "abdf861bfb6ce86b5cbc6874837d12abbf8e7eef",
-  "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.2.5/inSync7.2.5r110485.msi"
+  "Version": [
+    "7.2.5",
+    "7.2.5"
+  ],
+  "InstallerVersion": [
+    "inSync7.2.5r110485",
+    "inSync7.2.5r110490"
+  ],
+  "Md5sum": [
+    "abdf861bfb6ce86b5cbc6874837d12abbf8e7eef",
+    "c6ee94f9cafc4d60627603fa03a7de0ba13da86f"
+  ],
+  "URI": [
+    "https://downloads.druva.com/downloads/inSync/Windows/7.2.5/inSync7.2.5r110485.msi",
+    "https://downloads.druva.com/downloads/inSync/Windows/7.2.5/inSync7.2.5r110490.msi"
+  ]
 }
