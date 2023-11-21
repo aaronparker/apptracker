@@ -1,9 +1,9 @@
 {
-  "Version": "1.28.4-210",
-  "ReleaseDate": "2023-09-13T00:00:00",
-  "Md5": "0194b99fd3c997e10649cbe36e5089d0",
-  "Sha256": "f513ca8aa825c89b295f91aedfc07cf5adc90df7987a3349843548d114a93d90",
-  "Size": "88.69 MB",
+  "Version": "1.29.0-215",
+  "ReleaseDate": "2023-11-15T00:00:00",
+  "Md5": "bef0a6fd692aab0e9da08d262321e5cd",
+  "Sha256": "2e3171b25747bb3a0b39bfa5533d34f97ca1f1f84c947f9da2a21b013a747982",
+  "Size": "88.71 MB",
   "Type": "exe",
-  "URI": "https://download3.vmware.com/software/SD-WAN-CLIENT/SDWANClientInstaller-1-28-4_210.exe"
+  "URI": "https://download3.vmware.com/software/SD-WAN-CLIENT/SDWANClientInstaller-1-29-0_215.exe"
 }

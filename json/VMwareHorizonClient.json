@@ -1,9 +1,9 @@
 {
-  "Version": "2309",
-  "ReleaseDate": "2023-10-26T00:00:00",
-  "Md5": "38760122c7a11e7b11047d47ac84d9f1",
-  "Sha256": "8b7dc15997a31cee2c1caccb08c41ef6d288515512b984a231883b8c8ed54c86",
-  "Size": "252.52 MB",
+  "Version": "2309.1",
+  "ReleaseDate": "2023-11-21T00:00:00",
+  "Md5": "238f2843471cf51fcf1c42bd2a3edcf7",
+  "Sha256": "59427a21383dc87ee5a1fe8faabcb1b472b4e44087951b4def81a6c84b8a7c74",
+  "Size": "252.5 MB",
   "Type": "exe",
-  "URI": "https://download3.vmware.com/software/CART24FQ3_WIN_2309/VMware-Horizon-Client-2309-8.11.0-22660907.exe"
+  "URI": "https://download3.vmware.com/software/CART24FQ4_WIN_2309.1/VMware-Horizon-Client-2309.1-8.11.1-22783278.exe"
 }
