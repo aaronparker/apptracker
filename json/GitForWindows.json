@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.42.0.2",
+    "Version": "2.43.0.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 61263968,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe"
+    "Date": "11/20/2023",
+    "Size": 60868040,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe"
   },
   {
-    "Version": "2.42.0.2",
+    "Version": "2.43.0.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "08/30/2023",
-    "Size": 57890920,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe"
+    "Date": "11/20/2023",
+    "Size": 56424944,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-64-bit.7z.exe"
   },
   {
-    "Version": "2.42.0.2",
+    "Version": "2.43.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "08/30/2023",
-    "Size": 61989056,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-32-bit.exe"
+    "Date": "11/20/2023",
+    "Size": 61296000,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.exe"
   },
   {
-    "Version": "2.42.0.2",
+    "Version": "2.43.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "08/30/2023",
-    "Size": 58749224,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-32-bit.7z.exe"
+    "Date": "11/20/2023",
+    "Size": 57474808,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-32-bit.7z.exe"
   }
 ]
