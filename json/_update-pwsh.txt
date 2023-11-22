@@ -1,0 +1,16 @@
+json/1Password.json
+json/AWSCLI.json
+json/AirtameApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KeePass.json
+json/MicrosoftVisualStudioCode.json
+json/OctopusDeployServer.json
+json/SAGAGIS.json
+json/Tower.json
+json/VMPlexWorkstation.json
+json/VMwareHorizonClientAlt.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
