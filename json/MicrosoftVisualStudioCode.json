@@ -21,7 +21,7 @@
     "Channel": "Insider",
     "Architecture": "x64",
     "Sha256": "87c7b220c3f872de4956c8b9fdb39ed4eaf0c4c5441aff7728b30d155991df19",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/9524207999ef1159f5e973539d68c69ed1b519f2/VSCodeSetup-x64-1.85.0-insider.exe"
+    "URI": "https://az764295.vo.msecnd.net/insider/9524207999ef1159f5e973539d68c69ed1b519f2/VSCodeSetup-x64-1.85.0-insider.exe"
   },
   {
     "Version": "1.85.0",
@@ -29,7 +29,7 @@
     "Channel": "Insider",
     "Architecture": "x64",
     "Sha256": "a9212bc2c3237424df85f1991e095c2ad3d96e9433331e3c6ba11e28049a92f3",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/9524207999ef1159f5e973539d68c69ed1b519f2/VSCodeUserSetup-x64-1.85.0-insider.exe"
+    "URI": "https://az764295.vo.msecnd.net/insider/9524207999ef1159f5e973539d68c69ed1b519f2/VSCodeUserSetup-x64-1.85.0-insider.exe"
   },
   {
     "Version": "1.84.2",
