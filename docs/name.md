@@ -20,15 +20,15 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                   |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -1205,8 +1205,8 @@
 
 | Version   | Type | URI                                                                                   |
 | --------- | ---- | ------------------------------------------------------------------------------------- |
-| 6.0.813.0 | Exe  | https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-813-0.exe |
-| 6.0.813.0 | Msi  | https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-813-0.msi |
+| 6.0.814.0 | Exe  | https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-814-0.exe |
+| 6.0.814.0 | Msi  | https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-814-0.msi |
 | 5.2.813.0 | Exe  | https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-813-0.exe |
 | 5.2.813.0 | Msi  | https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-813-0.msi |
 
@@ -1232,9 +1232,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
 
 ## GitExtensions
 
@@ -1295,7 +1295,7 @@
 
 | Version        | Architecture | Channel  | Type | URI                                                                                     |
 | -------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |
-| 121.0.6143.0   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
+| 121.0.6144.0   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
 | 121.0.6129.0   | x64          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 121.0.6129.0   | x86          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 120.0.6099.35  | x64          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
@@ -1312,8 +1312,8 @@
 
 | Version        | Revision | Channel | Architecture | Type | URI                                                                                                     |
 | -------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 121.0.6142.0   | 1227959  | Canary  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6142.0/win64/chromedriver-win64.zip   |
-| 121.0.6142.0   | 1227959  | Canary  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6142.0/win32/chromedriver-win32.zip   |
+| 121.0.6144.0   | 1228441  | Canary  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6144.0/win64/chromedriver-win64.zip   |
+| 121.0.6144.0   | 1228441  | Canary  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6144.0/win32/chromedriver-win32.zip   |
 | 121.0.6129.0   | 1224701  | Dev     | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6129.0/win64/chromedriver-win64.zip   |
 | 121.0.6129.0   | 1224701  | Dev     | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6129.0/win32/chromedriver-win32.zip   |
 | 120.0.6099.35  | 1217362  | Beta    | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.35/win64/chromedriver-win64.zip  |
@@ -1379,10 +1379,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
-| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://netactuate.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |
+| 2023b   | x64          | exe  | 38349952 | fa81350c368bb041f3dc13722cc354db | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe |
+| 2023b   | x86          | exe  | 34376112 | 69b4726e04845858cb590442a0758251 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe |
 
 ## gsudo
 
@@ -1685,10 +1685,10 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://cfhcable.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
@@ -1696,8 +1696,8 @@
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
 | ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
-| 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
+| 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://zenlayer.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
+| 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://zenlayer.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1844,8 +1844,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.48.0  | win32-x64      | Insider | 216b7c41c0fbc71d28a4879497bf1965abbe016ca449e5a427cd947194bbed7a | https://sqlopsbuilds.azureedge.net/insider/24cbabc2220e8c0b2c0465640a6020df42c4b288/azuredatastudio-windows-setup-1.48.0-insider.exe      |
-| 1.48.0  | win32-x64-user | Insider | f638bbd75095e2eaf73c6e1e9ede20d153b214d04f9701c81f80db254b329a98 | https://sqlopsbuilds.azureedge.net/insider/24cbabc2220e8c0b2c0465640a6020df42c4b288/azuredatastudio-windows-user-setup-1.48.0-insider.exe |
+| 1.48.0  | win32-x64      | Insider | b301a6735891e9b280869cd6605f78c0393f0b04c5ec63f482702e22a62b6d63 | https://sqlopsbuilds.azureedge.net/insider/d3de6ea5a6211de4ddc0cad2bcb91098d637eb6f/azuredatastudio-windows-setup-1.48.0-insider.exe      |
+| 1.48.0  | win32-x64-user | Insider | 91b3af4d80a2ed5867a45fbc2dfe34d08182538eb1221ccfdfabf2e2be45ab92 | https://sqlopsbuilds.azureedge.net/insider/d3de6ea5a6211de4ddc0cad2bcb91098d637eb6f/azuredatastudio-windows-user-setup-1.48.0-insider.exe |
 | 1.47.0  | win32-x64      | Stable  | 57880d3aa603c0fe4a9b54d34cc478f97cc52afa6c8a26f55a3786e2d1370bbd | https://sqlopsbuilds.azureedge.net/stable/c7c2b2f21505562d21972d4c135119d00806db4f/azuredatastudio-windows-setup-1.47.0.exe               |
 | 1.47.0  | win32-x64-user | Stable  | f60a6652d462562e343168b48ce3ac44d18d29169a290797e5574ef774e9008c | https://sqlopsbuilds.azureedge.net/stable/c7c2b2f21505562d21972d4c135119d00806db4f/azuredatastudio-windows-user-setup-1.47.0.exe          |
 
@@ -2172,20 +2172,20 @@
 
 [Link](https://code.visualstudio.com)
 
-| Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                                                 |
-| ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.85.0  | win32-arm64      | Insider | ARM64        | 8c99fffa0903e10b7f7eb2ea51a5b81989759aac16918aa829eb5a7efbac31c2 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeSetup-arm64-1.85.0-insider.exe   |
-| 1.85.0  | win32-arm64-user | Insider | ARM64        | 3d2fe8aa1f5a73c612cbcd4d5f5883063faa878ca29d284b09c8143965a263dd | https://az764295.vo.msecnd.net/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeUserSetup-arm64-1.85.0-insider.exe                            |
-| 1.85.0  | win32-x64        | Insider | x64          | 32da7618862eb01f8994da898f9f0473ecfb9a25dde53d5fe3c2a8d49ff20131 | https://az764295.vo.msecnd.net/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeSetup-x64-1.85.0-insider.exe                                  |
-| 1.85.0  | win32-x64-user   | Insider | x64          | 80dd50640e16f42ef3895da487faa75b1a29ea12c170779a7b996ec8a1a25a0e | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeUserSetup-x64-1.85.0-insider.exe |
-| 1.84.2  | win32-arm64      | Stable  | ARM64        | d72e1624015c17e1a7192c05580ea84324b23f7d52925e9f1f51ddd88b9df87f | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeSetup-arm64-1.84.2.exe                                         |
-| 1.84.2  | win32-arm64-user | Stable  | ARM64        | a36dc8733238417ca4beb93f7add6e4d2bfe2d6e9c492535aa716eaec72a35f4 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeUserSetup-arm64-1.84.2.exe                                     |
-| 1.84.2  | win32-x64        | Stable  | x64          | 34153c260c079f7bd57c6df4ff7fecb1832e69a857dc6f8a0adc814329314bb1 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeSetup-x64-1.84.2.exe                                           |
-| 1.84.2  | win32-x64-user   | Stable  | x64          | fb519e5844dafd0b2d82229512e2b31f22a0df3b0413fecef637b172f50f0b30 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeUserSetup-x64-1.84.2.exe                                       |
-| 1.84.0  | win32            | Insider | x86          | c83600b37f65749ea9e16496847bbfd967dece2472cee7d8011ae719e2633c18 | https://az764295.vo.msecnd.net/insider/0c36b92c82064882a228487040187cfc13669c0f/VSCodeSetup-ia32-1.84.0-insider.exe                                 |
-| 1.84.0  | win32-user       | Insider | x86          | 2cbab81fe6dda6dfb07751707107db95ba7afa0a6ada65a1df78a04eef0aadf5 | https://az764295.vo.msecnd.net/insider/0c36b92c82064882a228487040187cfc13669c0f/VSCodeUserSetup-ia32-1.84.0-insider.exe                             |
-| 1.83.1  | win32            | Stable  | x86          | 0b9e0cce092492a88cdaf12048e3630290944b051f3194c5ca3d6b7012f05e7f | https://az764295.vo.msecnd.net/stable/a6606b6ca720bca780c2d3c9d4cc3966ff2eca12/VSCodeSetup-ia32-1.83.1.exe                                          |
-| 1.83.1  | win32-user       | Stable  | x86          | 359ca4ef0e8437f7e5183a97a9d79834463a3df88bb10c82c48cc2bd53b8a7e5 | https://az764295.vo.msecnd.net/stable/a6606b6ca720bca780c2d3c9d4cc3966ff2eca12/VSCodeUserSetup-ia32-1.83.1.exe                                      |
+| Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                                                   |
+| ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.85.0  | win32-arm64      | Insider | ARM64        | 8c99fffa0903e10b7f7eb2ea51a5b81989759aac16918aa829eb5a7efbac31c2 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeSetup-arm64-1.85.0-insider.exe     |
+| 1.85.0  | win32-arm64-user | Insider | ARM64        | 3d2fe8aa1f5a73c612cbcd4d5f5883063faa878ca29d284b09c8143965a263dd | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeUserSetup-arm64-1.85.0-insider.exe |
+| 1.85.0  | win32-x64        | Insider | x64          | 32da7618862eb01f8994da898f9f0473ecfb9a25dde53d5fe3c2a8d49ff20131 | https://az764295.vo.msecnd.net/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeSetup-x64-1.85.0-insider.exe                                    |
+| 1.85.0  | win32-x64-user   | Insider | x64          | 80dd50640e16f42ef3895da487faa75b1a29ea12c170779a7b996ec8a1a25a0e | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeUserSetup-x64-1.85.0-insider.exe   |
+| 1.84.2  | win32-arm64      | Stable  | ARM64        | d72e1624015c17e1a7192c05580ea84324b23f7d52925e9f1f51ddd88b9df87f | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeSetup-arm64-1.84.2.exe                                           |
+| 1.84.2  | win32-arm64-user | Stable  | ARM64        | a36dc8733238417ca4beb93f7add6e4d2bfe2d6e9c492535aa716eaec72a35f4 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeUserSetup-arm64-1.84.2.exe                                       |
+| 1.84.2  | win32-x64        | Stable  | x64          | 34153c260c079f7bd57c6df4ff7fecb1832e69a857dc6f8a0adc814329314bb1 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeSetup-x64-1.84.2.exe                                             |
+| 1.84.2  | win32-x64-user   | Stable  | x64          | fb519e5844dafd0b2d82229512e2b31f22a0df3b0413fecef637b172f50f0b30 | https://az764295.vo.msecnd.net/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/VSCodeUserSetup-x64-1.84.2.exe                                         |
+| 1.84.0  | win32            | Insider | x86          | c83600b37f65749ea9e16496847bbfd967dece2472cee7d8011ae719e2633c18 | https://az764295.vo.msecnd.net/insider/0c36b92c82064882a228487040187cfc13669c0f/VSCodeSetup-ia32-1.84.0-insider.exe                                   |
+| 1.84.0  | win32-user       | Insider | x86          | 2cbab81fe6dda6dfb07751707107db95ba7afa0a6ada65a1df78a04eef0aadf5 | https://az764295.vo.msecnd.net/insider/0c36b92c82064882a228487040187cfc13669c0f/VSCodeUserSetup-ia32-1.84.0-insider.exe                               |
+| 1.83.1  | win32            | Stable  | x86          | 0b9e0cce092492a88cdaf12048e3630290944b051f3194c5ca3d6b7012f05e7f | https://az764295.vo.msecnd.net/stable/a6606b6ca720bca780c2d3c9d4cc3966ff2eca12/VSCodeSetup-ia32-1.83.1.exe                                            |
+| 1.83.1  | win32-user       | Stable  | x86          | 359ca4ef0e8437f7e5183a97a9d79834463a3df88bb10c82c48cc2bd53b8a7e5 | https://az764295.vo.msecnd.net/stable/a6606b6ca720bca780c2d3c9d4cc3966ff2eca12/VSCodeUserSetup-ia32-1.83.1.exe                                        |
 
 ## MicrosoftWindowsPackageManagerClient
 
@@ -4593,20 +4593,20 @@
 
 [Link](https://notepad-plus-plus.org/)
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                    |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 8.5.8   | Windows  | ARM64        | 7z   | Portable      | 10/17/2023 | 3804695 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.arm64.7z            |
-| 8.5.8   | Windows  | ARM64        | 7z   | Minimal       | 10/17/2023 | 2088440 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.minimalist.arm64.7z |
-| 8.5.8   | Windows  | x64          | 7z   | Minimal       | 10/17/2023 | 2117206 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.minimalist.x64.7z   |
-| 8.5.8   | Windows  | x64          | 7z   | Portable      | 10/17/2023 | 3904894 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.x64.7z              |
-| 8.5.8   | Windows  | x86          | 7z   | Portable      | 10/17/2023 | 3621823 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.7z                  |
-| 8.5.8   | Windows  | x86          | 7z   | Minimal       | 10/17/2023 | 1876277 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.minimalist.7z       |
-| 8.5.8   | Windows  | ARM64        | exe  | Default       | 10/17/2023 | 4471968 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.Installer.arm64.exe          |
-| 8.5.8   | Windows  | x64          | exe  | Default       | 10/17/2023 | 4796432 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.Installer.x64.exe            |
-| 8.5.8   | Windows  | x86          | exe  | Default       | 10/17/2023 | 4642656 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.Installer.exe                |
-| 8.5.8   | Windows  | ARM64        | zip  | Portable      | 10/17/2023 | 5685179 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.arm64.zip           |
-| 8.5.8   | Windows  | x64          | zip  | Portable      | 10/17/2023 | 5866013 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.x64.zip             |
-| 8.5.8   | Windows  | x86          | zip  | Portable      | 10/17/2023 | 5367408 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.zip                 |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 8.6     | Windows  | ARM64        | 7z   | Portable      | 11/23/2023 | 3828809 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.arm64.7z            |
+| 8.6     | Windows  | ARM64        | 7z   | Minimal       | 11/23/2023 | 2094017 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.minimalist.arm64.7z |
+| 8.6     | Windows  | x64          | 7z   | Minimal       | 11/23/2023 | 2122366 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.minimalist.x64.7z   |
+| 8.6     | Windows  | x64          | 7z   | Portable      | 11/23/2023 | 3922178 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.x64.7z              |
+| 8.6     | Windows  | x86          | 7z   | Portable      | 11/23/2023 | 3649453 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.7z                  |
+| 8.6     | Windows  | x86          | 7z   | Minimal       | 11/23/2023 | 1881894 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.minimalist.7z       |
+| 8.6     | Windows  | ARM64        | exe  | Default       | 11/23/2023 | 4497336 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.Installer.arm64.exe          |
+| 8.6     | Windows  | x64          | exe  | Default       | 11/23/2023 | 4816456 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.Installer.x64.exe            |
+| 8.6     | Windows  | x86          | exe  | Default       | 11/23/2023 | 4670120 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.Installer.exe                |
+| 8.6     | Windows  | ARM64        | zip  | Portable      | 11/23/2023 | 5739097 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.arm64.zip           |
+| 8.6     | Windows  | x64          | zip  | Portable      | 11/23/2023 | 5927584 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.x64.zip             |
+| 8.6     | Windows  | x86          | zip  | Portable      | 11/23/2023 | 5413090 | https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.portable.zip                 |
 
 ## Obsidian
 
@@ -4682,22 +4682,20 @@
 | 11.0.14.9-2         | Windows  | x64          | msi  | Default       | 02/14/2022 | 254092515 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-11.0.14.9-2.windows.ojdkbuild.x86_64.msi                |
 | 11.0.14.9-2         | Windows  | x64          | msi  | Default       | 02/14/2022 | 50831422  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-2/java-11-openjdk-jre-11.0.14.9-2.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.322-1.b06     | Windows  | x64          | msi  | Default       | 01/29/2022 | 220295644 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86_64.msi  |
+| 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
 | 17.0.2.0.8-1        | Windows  | x64          | msi  | Default       | 01/28/2022 | 51790059  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.jre.win.x86_64.msi                        |
 | 11.0.14.9-1         | Windows  | x64          | msi  | Default       | 01/28/2022 | 254096784 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-11.0.14.9-1.windows.ojdkbuild.x86_64.msi                |
-| 17.0.2.0.8-1        | Windows  | x64          | msi  | Default       | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
+| 11.0.14.9-1         | Windows  | x64          | msi  | Default       | 01/28/2022 | 50806846  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-jre-11.0.14.9-1.windows.ojdkbuild.x86_64.msi            |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | Default       | 11/07/2021 | 51765483  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi                      |
 | 17.0.1.0.12-1       | Windows  | x64          | msi  | Default       | 11/07/2021 | 257778624 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.win.x86_64.msi                          |
 | 11.0.13.8-1         | Windows  | x64          | msi  | Default       | 11/07/2021 | 253990292 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-11.0.13.8-1.windows.ojdkbuild.x86_64.msi                |
 | 11.0.13.8-1         | Windows  | x64          | msi  | Default       | 11/07/2021 | 50806850  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.13.8-1/java-11-openjdk-jre-11.0.13.8-1.windows.ojdkbuild.x86_64.msi            |
 | 1.8.0.312-1.b07     | Windows  | x64          | msi  | Default       | 11/07/2021 | 220279260 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86_64.msi  |
-| 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 254006801 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-11.0.12.7-1.windows.ojdkbuild.x86_64.msi                |
+| 17.0.2.0.8-1        | Windows  | x64          | msi  | Default       | 01/28/2022 | 257815504 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.2.0.8-1/java-17-openjdk-17.0.2.0.8-1.win.x86_64.msi                            |
 | 11.0.12.7-1         | Windows  | x64          | msi  | Default       | 07/24/2021 | 50815166  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.12.7-1/java-11-openjdk-jre-11.0.12.7-1.windows.ojdkbuild.x86_64.msi            |
-| 11.0.14.9-1         | Windows  | x64          | msi  | Default       | 01/28/2022 | 50806846  | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-11-openjdk-11.0.14.9-1/java-11-openjdk-jre-11.0.14.9-1.windows.ojdkbuild.x86_64.msi            |
-| 1.8.0.302-1.b08     | Windows  | x64          | msi  | Default       | 07/24/2021 | 219668956 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86_64.msi  |
-| 1.8.0.302-1.b08-x86 | Windows  | x86          | msi  | Default       | 07/24/2021 | 146079456 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.302-1.b08-x86/java-1.8.0-openjdk-1.8.0.302-1.b08.ojdkbuild.windows.x86.msi |
 | 1.8.0.322-1.b06-x86 | Windows  | x86          | msi  | Default       | 01/29/2022 | 146566880 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.322-1.b06-x86/java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86.msi |
-| 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | Default       | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
 | 1.8.0.332-1.b09-x86 | Windows  | x86          | msi  | Default       | 04/30/2022 | 146435808 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.332-1.b09-x86/java-1.8.0-openjdk-1.8.0.332-1.b09.ojdkbuild.windows.x86.msi |
+| 1.8.0.312-1.b07-x86 | Windows  | x86          | msi  | Default       | 11/07/2021 | 146550496 | https://github.com/ojdkbuild/ojdkbuild/releases/download/java-1.8.0-openjdk-1.8.0.312-1.b07-x86/java-1.8.0-openjdk-1.8.0.312-1.b07.ojdkbuild.windows.x86.msi |
 
 ## OpenLens
 
@@ -4957,7 +4955,7 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cytranet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://versaweb.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5102,9 +5100,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                        |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 9.2.0   | x64          | exe  | 61162514 | 545a8c9682fb2f9b769698217242b58a | https://gigenet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.2.0/saga-9.2.0_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 9.2.0   | x64          | exe  | 61162514 | 545a8c9682fb2f9b769698217242b58a | https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.2.0/saga-9.2.0_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5400,11 +5398,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
+| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
+| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
 
 ## VercelHyper
 
@@ -5418,14 +5416,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                       |
-| ------- | -------- | ------------ | ---- | ------------------------------------------------------------------------- |
-| 3.0.20  | Windows  | x64          | EXE  | https://mirror.as20647.net/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.exe |
-| 3.0.20  | Windows  | x86          | EXE  | http://mirror.alwyzon.net/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe  |
-| 3.0.20  | Windows  | x64          | MSI  | https://mirror.as20647.net/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi |
-| 3.0.20  | Windows  | x86          | MSI  | http://mirror.alwyzon.net/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.msi  |
-| 3.0.20  | Windows  | x64          | ZIP  | https://mirror.as20647.net/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.zip |
-| 3.0.20  | Windows  | x86          | ZIP  | http://mirror.alwyzon.net/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.zip  |
+| Version | Platform | Architecture | Type | URI                                                                           |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------- |
+| 3.0.20  | Windows  | x64          | EXE  | https://mirror.lstn.net/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.exe        |
+| 3.0.20  | Windows  | x86          | EXE  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.20/win32/vlc-3.0.20-win32.exe |
+| 3.0.20  | Windows  | x64          | MSI  | https://mirror.lstn.net/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi        |
+| 3.0.20  | Windows  | x86          | MSI  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.20/win32/vlc-3.0.20-win32.msi |
+| 3.0.20  | Windows  | x64          | ZIP  | https://mirror.lstn.net/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.zip        |
+| 3.0.20  | Windows  | x86          | ZIP  | https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.20/win32/vlc-3.0.20-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5542,8 +5540,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
-| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
+| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://zenlayer.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
+| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://zenlayer.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
 
 ## Wireshark
 
