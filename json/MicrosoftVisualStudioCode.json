@@ -13,7 +13,7 @@
     "Channel": "Insider",
     "Architecture": "ARM64",
     "Sha256": "3d2fe8aa1f5a73c612cbcd4d5f5883063faa878ca29d284b09c8143965a263dd",
-    "URI": "https://az764295.vo.msecnd.net/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeUserSetup-arm64-1.85.0-insider.exe"
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/ef71b038ad2518e32514b6cc3a4df9f94c096e65/VSCodeUserSetup-arm64-1.85.0-insider.exe"
   },
   {
     "Version": "1.85.0",
