@@ -1,22 +1,10 @@
-[
-  {
-    "Version": "8.10.9.27",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "09/26/2023",
-    "Size": 29117952,
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x64.msi"
-  },
-  {
-    "Version": "8.10.9.27",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "09/26/2023",
-    "Size": 20136448,
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/8.10.9.27/ImageGlass_Kobe_8.10.9.27_x86.msi"
-  }
-]
+{
+  "Version": "9.0.7.1125",
+  "Platform": "Windows",
+  "Architecture": "x64",
+  "Type": "msi",
+  "InstallerType": "Default",
+  "Date": "11/24/2023",
+  "Size": 41957888,
+  "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.0.7.1125/ImageGlass_9.0.7.1125_x64.msi"
+}
