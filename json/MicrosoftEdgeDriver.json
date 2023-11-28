@@ -26,6 +26,12 @@
   {
     "Version": "120.0.2210.39",
     "Channel": "Beta",
+    "Architecture": "x64",
+    "URI": "https://msedgedriver.azureedge.net/120.0.2210.39/edgedriver_win64.zip"
+  },
+  {
+    "Version": "120.0.2210.39",
+    "Channel": "Beta",
     "Architecture": "x86",
     "URI": "https://msedgedriver.azureedge.net/120.0.2210.39/edgedriver_win32.zip"
   },
