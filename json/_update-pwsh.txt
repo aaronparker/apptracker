@@ -1,0 +1,16 @@
+json/7zip.json
+json/AirtameApp.json
+json/GeoGebraClassic.json
+json/Gimp.json
+json/GoogleChrome.json
+json/HashicorpTerraform.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/OperaBrowser.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/TechSmithCamtasia.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
