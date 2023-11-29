@@ -10,34 +10,34 @@
     "URI": "https://beta.unity3d.com/download/3c3b3e6cd1d7/Windows64EditorInstaller/UnitySetup64-2022.2.0b16.exe"
   },
   {
-    "Version": "2023.1.19f1",
+    "Version": "2023.1.20f1",
     "Release": "2023",
     "Channel": "beta",
     "LTS": false,
-    "Size": 2615891968,
-    "Checksum": "c1b32c0f568eca3dcd051b257cceaf50",
+    "Size": 2620782592,
+    "Checksum": "3aa09d4ab66f18da20dfa6b894b8ade0",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/629111e352bc/Windows64EditorInstaller/UnitySetup64-2023.1.19f1.exe"
+    "URI": "https://beta.unity3d.com/download/35a524b12060/Windows64EditorInstaller/UnitySetup64-2023.1.20f1.exe"
   },
   {
-    "Version": "2023.2.0b16",
+    "Version": "2023.2.1f1",
     "Release": "2023",
     "Channel": "beta",
     "LTS": false,
-    "Size": 2713981952,
-    "Checksum": "e5554bb9a71f86b10e3f4b73a6800c36",
+    "Size": 2736896000,
+    "Checksum": "3d33cb422de6b04dab98aae0beec753a",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/d39c1e9d3b7c/Windows64EditorInstaller/UnitySetup64-2023.2.0b16.exe"
+    "URI": "https://beta.unity3d.com/download/a6dd9a634651/Windows64EditorInstaller/UnitySetup64-2023.2.1f1.exe"
   },
   {
-    "Version": "2023.3.0a12",
+    "Version": "2023.3.0a15",
     "Release": "2023",
     "Channel": "beta",
     "LTS": false,
-    "Size": 2800097280,
-    "Checksum": "a622a543151618ba335eaf31edbc8db9",
+    "Size": 2832381952,
+    "Checksum": "830368b6ec6cde2cd58c54656516c3e1",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/3268c45751a1/Windows64EditorInstaller/UnitySetup64-2023.3.0a12.exe"
+    "URI": "https://beta.unity3d.com/download/88af49042196/Windows64EditorInstaller/UnitySetup64-2023.3.0a15.exe"
   },
   {
     "Version": "2019.4.40f1",
@@ -80,23 +80,33 @@
     "URI": "https://download.unity3d.com/download_unity/9636b062134a/Windows64EditorInstaller/UnitySetup64-2022.1.23f1.exe"
   },
   {
-    "Version": "2022.3.12f1",
+    "Version": "2022.3.14f1",
     "Release": "2022",
     "Channel": "official",
     "LTS": false,
-    "Size": 2599725056,
-    "Checksum": "451c012af1f6abc7c33ad0b42b2622c8",
+    "Size": 2614566912,
+    "Checksum": "55007d899d69d6fc2050a0f90b0c8c7f",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/4fe6e059c7ef/Windows64EditorInstaller/UnitySetup64-2022.3.12f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/eff2de9070d8/Windows64EditorInstaller/UnitySetup64-2022.3.14f1.exe"
   },
   {
-    "Version": "2023.1.19f1",
+    "Version": "2023.1.20f1",
     "Release": "2023",
     "Channel": "official",
     "LTS": false,
-    "Size": 2615891968,
-    "Checksum": "c1b32c0f568eca3dcd051b257cceaf50",
+    "Size": 2620782592,
+    "Checksum": "3aa09d4ab66f18da20dfa6b894b8ade0",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/629111e352bc/Windows64EditorInstaller/UnitySetup64-2023.1.19f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/35a524b12060/Windows64EditorInstaller/UnitySetup64-2023.1.20f1.exe"
+  },
+  {
+    "Version": "2023.2.1f1",
+    "Release": "2023",
+    "Channel": "official",
+    "LTS": false,
+    "Size": 2736896000,
+    "Checksum": "3d33cb422de6b04dab98aae0beec753a",
+    "Type": "exe",
+    "URI": "https://download.unity3d.com/download_unity/a6dd9a634651/Windows64EditorInstaller/UnitySetup64-2023.2.1f1.exe"
   }
 ]
