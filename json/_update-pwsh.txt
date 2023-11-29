@@ -1,0 +1,15 @@
+json/7zip.json
+json/AWSCLI.json
+json/GeoGebraClassic.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KeePass.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudio.json
+json/NETworkManager.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
