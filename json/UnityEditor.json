@@ -60,14 +60,14 @@
     "URI": "https://download.unity3d.com/download_unity/b805b124c6b7/Windows64EditorInstaller/UnitySetup64-2020.3.48f1.exe"
   },
   {
-    "Version": "2021.3.32f1",
+    "Version": "2021.3.33f1",
     "Release": "2021",
     "Channel": "official",
     "LTS": true,
-    "Size": 2469376000,
-    "Checksum": "13a0272f178a2c7ea7d168b0a6086b83",
+    "Size": 2445746176,
+    "Checksum": "de2a9a68f0118e937dde4c5243895ef5",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/3b9dae9532f5/Windows64EditorInstaller/UnitySetup64-2021.3.32f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/ee5a2aa03ab2/Windows64EditorInstaller/UnitySetup64-2021.3.33f1.exe"
   },
   {
     "Version": "2022.1.23f1",
