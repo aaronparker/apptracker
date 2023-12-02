@@ -1,0 +1,38 @@
+[
+  {
+    "Version": "19.2.23974",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://download.parallels.com/ras/v19/19.2.2.23974/RASClient_Basic-ARM64-19.2.23974.exe"
+  },
+  {
+    "Version": "19.2.23974",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.parallels.com/ras/v19/19.2.2.23974/RASClient_Basic-x64-19.2.23974.exe"
+  },
+  {
+    "Version": "19.2.23974",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.parallels.com/ras/v19/19.2.2.23974/RASClient_Basic-19.2.23974.exe"
+  },
+  {
+    "Version": "19.2.23974",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://download.parallels.com/ras/v19/19.2.2.23974/RASClient-ARM64-19.2.23974.msi"
+  },
+  {
+    "Version": "19.2.23974",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.parallels.com/ras/v19/19.2.2.23974/RASClient-x64-19.2.23974.msi"
+  },
+  {
+    "Version": "19.2.23974",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.parallels.com/ras/v19/19.2.2.23974/RASClient-19.2.23974.msi"
+  }
+]

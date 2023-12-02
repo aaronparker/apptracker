@@ -2,5 +2,5 @@
   "Version": "8.0.34",
   "Type": "msi",
   "Architecture": "x64",
-  "URI": "https://cdn.mysql.com/Downloads/MySQLInstaller/mysql-installer-community-8.0.34.msi"
+  "URI": "https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.34-winx64.msi"
 }
