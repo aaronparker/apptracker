@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 296 applications and 3570 unique application installers:
+App Version Tracker is using Evergreen to track 298 applications and 3590 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -54,6 +54,7 @@ App Version Tracker is using Evergreen to track 296 applications and 3570 unique
 | BlueJ                                                             | https://www.bluej.org/                                                                           |
 | Cendio ThinLinc                                                   | https://www.cendio.com/                                                                          |
 | Chromium ChromeDriver                                             | https://chromedriver.chromium.org/home                                                           |
+| Citrix ShareFile for Windows                                      | https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html    |
 | Citrix Workspace app                                              | https://www.citrix.com/downloads/workspace-app/                                                  |
 | Codelerity Apache NetBeans                                        | https://www.codelerity.com/netbeans/                                                             |
 | Connection Experience Indicator                                   | https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/                    |
@@ -133,7 +134,7 @@ App Version Tracker is using Evergreen to track 296 applications and 3570 unique
 | JetBrains RubyMine                                                | https://www.jetbrains.com/rubymine                                                               |
 | JetBrains Space                                                   | https://www.jetbrains.com/space                                                                  |
 | JetBrains TeamCity                                                | https://www.jetbrains.com/teamcity                                                               |
-| JetBrains Toolbox App                                             | https://www.jetbrains.com/youtrack                                                               |
+| JetBrains Toolbox App                                             | https://www.jetbrains.com/toolbox-app/                                                           |
 | JetBrains WebStorm                                                | https://www.jetbrains.com/webstorm                                                               |
 | JetBrains YouTrack                                                | https://www.jetbrains.com/youtrack                                                               |
 | jq                                                                | https://jqlang.github.io/jq/                                                                     |
@@ -184,7 +185,7 @@ App Version Tracker is using Evergreen to track 296 applications and 3570 unique
 | Microsoft Azure Virtual Desktop Agent                             | https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell              |
 | Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection                    |
 | Microsoft Remote Desktop                                          | https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10                      |
-| Microsoft Remote Desktop WebRTC Redirector Service                | https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd                              |
+| Microsoft Remote Desktop WebRTC Redirector Service                | https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd                              |
 | Miniconda                                                         | https://docs.conda.io/en/latest/miniconda.html                                                   |
 | Minitab                                                           | https://www.minitab.com/                                                                         |
 | MiniZinc IDE                                                      | https://www.minizinc.org/                                                                        |
@@ -224,6 +225,7 @@ App Version Tracker is using Evergreen to track 296 applications and 3570 unique
 | dotPDN LLC Paint.NET                                              | https://getpaint.net                                                                             |
 | dotPDN LLC Paint.NET                                              | https://getpaint.net/                                                                            |
 | Pandoc                                                            | https://pandoc.org/                                                                              |
+| Parallels Client                                                  | https://www.parallels.com/products/ras/download/links/                                           |
 | PDF Arranger                                                      | https://github.com/pdfarranger/pdfarranger/                                                      |
 | pdfforge PDFCreator                                               | https://www.pdfforge.org/pdfcreator                                                              |
 | PeaZip PeaZip                                                     | https://peazip.github.io/                                                                        |
