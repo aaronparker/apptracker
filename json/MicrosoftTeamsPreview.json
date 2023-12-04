@@ -1,17 +1,17 @@
 [
   {
-    "Version": "23285.3809.2525.961",
+    "Version": "23306.3406.2547.5131",
     "Release": "Consumer",
     "Architecture": "macOS",
     "Type": "pkg",
-    "URI": "https://statics.teams.cdn.office.net/production-osx/23285.3809.2525.961/MicrosoftTeams.pkg"
+    "URI": "https://statics.teams.cdn.office.net/production-osx/23306.3406.2547.5131/MicrosoftTeams.pkg"
   },
   {
-    "Version": "23285.3809.2525.961",
+    "Version": "23306.3406.2547.5131",
     "Release": "Enterprise",
     "Architecture": "macOS",
     "Type": "pkg",
-    "URI": "https://statics.teams.microsoft.com/production-osx/23285.3809.2525.961/MicrosoftTeams.pkg"
+    "URI": "https://statics.teams.microsoft.com/production-osx/23306.3406.2547.5131/MicrosoftTeams.pkg"
   },
   {
     "Version": "23285.3607.2525.937",
