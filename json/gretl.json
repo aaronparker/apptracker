@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2023b",
+    "Version": "2023c",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "38349952",
-    "Md5": "fa81350c368bb041f3dc13722cc354db",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-64.exe"
+    "Size": "38515520",
+    "Md5": "4983735b68352bae0bc8b8de47155fc6",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe"
   },
   {
-    "Version": "2023b",
+    "Version": "2023c",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "34376112",
-    "Md5": "69b4726e04845858cb590442a0758251",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2023b/gretl-2023b-32.exe"
+    "Size": "34545216",
+    "Md5": "da3fec1657f61e4c3b9336cbb00657ec",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe"
   }
 ]
