@@ -1,1055 +1,1055 @@
 [
   {
-    "Version": "10.1.2058.1",
-    "Size": 220540928,
-    "Hash": "9a51a7ec4adf178e72fa4745bfa8e3e1712b03de",
+    "Version": "11.0.2032.1",
+    "Size": 218812416,
+    "Hash": "e9e9e2d996374eb4d566d74f157ceb436b7006f6",
     "Language": "ja_JP",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.1/ees_arm64_full.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.1/ees_arm64_full.msi"
   },
   {
-    "Version": "10.1.2058.1",
-    "Size": 252465152,
-    "Hash": "b9dae7cf5e3a267c2d86209f6b50defe15f33b46",
+    "Version": "11.0.2032.1",
+    "Size": 249303040,
+    "Hash": "ca150befb7881fd035b233335e76ab32f536d3fc",
     "Language": "ja_JP",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.1/ees_nt64_full.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.1/ees_nt64_full.msi"
   },
   {
-    "Version": "10.1.2058.1",
-    "Size": 243060736,
-    "Hash": "a965d4e5ecbe6323eded326c0de9c0faf3ad3e63",
+    "Version": "11.0.2032.1",
+    "Size": 244436992,
+    "Hash": "6fb277318f49e8c71e86953ea1f2d0e63b1de804",
     "Language": "ja_JP",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.1/ees_nt32_full.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.1/ees_nt32_full.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "ar_EG",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_are.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_are.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "bg_BG",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_bgr.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_bgr.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "cs_CZ",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_csy.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_csy.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "da_DK",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_dan.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_dan.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "de_DE",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_deu.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_deu.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "el_GR",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_ell.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_ell.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "en_US",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_enu.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_enu.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "es_CL",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_esl.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_esl.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "es_ES",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_esn.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_esn.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "et_EE",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_eti.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_eti.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "fi_FI",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_fin.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_fin.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "fr_CA",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_frc.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_frc.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "fr_FR",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_fra.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_fra.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "he_IL",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_heb.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_heb.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "hr_HR",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_hrv.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_hrv.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "hu_HU",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_hun.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_hun.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "id_ID",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_ind.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_ind.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "it_IT",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_ita.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_ita.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "kk_KZ",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_kkz.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_kkz.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "ko_KR",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_kor.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_kor.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "lt_LT",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_lth.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_lth.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "lv_LV",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_lvi.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_lvi.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "nb_NO",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_nor.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_nor.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "nl_NL",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_nld.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_nld.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "pl_PL",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_plk.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_plk.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "pt_BR",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_ptb.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_ptb.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "ro_RO",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_rom.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_rom.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "ru_RU",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_rus.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_rus.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "sk_SK",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_sky.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_sky.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "sl_SI",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_slv.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_slv.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "sr_RS",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_srl.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_srl.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "sv_SE",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_sve.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_sve.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "th_TH",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_tha.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_tha.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "tr_TR",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_trk.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_trk.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "uk_UA",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_ukr.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_ukr.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "vi_VN",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_vit.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_vit.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "zh_CN",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_chs.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_chs.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 220610560,
-    "Hash": "25539a285875a74c21425e72494fb4034ee55203",
+    "Version": "11.0.2032.0",
+    "Size": 218673152,
+    "Hash": "6c0efe2c1b93f5945fc5b990a37f4059738f3cff",
     "Language": "zh_TW",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_arm64_full_cht.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_arm64_full_cht.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "ar_EG",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_are.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_are.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "bg_BG",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_bgr.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_bgr.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "cs_CZ",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_csy.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_csy.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "da_DK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_dan.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_dan.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "de_DE",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_deu.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_deu.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "el_GR",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_ell.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_ell.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "en_US",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_enu.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_enu.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "es_CL",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_esl.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_esl.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "es_ES",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_esn.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_esn.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "et_EE",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_eti.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_eti.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "fi_FI",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_fin.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_fin.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "fr_CA",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_frc.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_frc.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "fr_FR",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_fra.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_fra.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "he_IL",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_heb.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_heb.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "hr_HR",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_hrv.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_hrv.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "hu_HU",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_hun.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_hun.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "id_ID",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_ind.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_ind.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "it_IT",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_ita.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_ita.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "kk_KZ",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_kkz.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_kkz.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "ko_KR",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_kor.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_kor.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "lt_LT",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_lth.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_lth.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "lv_LV",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_lvi.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_lvi.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "nb_NO",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_nor.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_nor.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "nl_NL",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_nld.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_nld.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "pl_PL",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_plk.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_plk.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "pt_BR",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_ptb.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_ptb.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "ro_RO",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_rom.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_rom.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "ru_RU",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_rus.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_rus.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "sk_SK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_sky.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_sky.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "sl_SI",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_slv.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_slv.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "sr_RS",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_srl.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_srl.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "sv_SE",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_sve.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_sve.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "th_TH",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_tha.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_tha.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "tr_TR",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_trk.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_trk.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "uk_UA",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_ukr.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_ukr.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "vi_VN",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_vit.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_vit.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "zh_CN",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_chs.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_chs.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 252563456,
-    "Hash": "0d5184ed19d5bbf6c0d9b774e87cd49d0d225668",
+    "Version": "11.0.2032.0",
+    "Size": 248893440,
+    "Hash": "cb310484c9d9100c23e8b6776a50b68b215b1230",
     "Language": "zh_TW",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt64_full_cht.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt64_full_cht.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "ar_EG",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_are.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_are.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "bg_BG",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_bgr.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_bgr.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "cs_CZ",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_csy.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_csy.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "da_DK",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_dan.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_dan.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "de_DE",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_deu.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_deu.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "el_GR",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_ell.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_ell.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "en_US",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_enu.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_enu.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "es_CL",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_esl.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_esl.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "es_ES",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_esn.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_esn.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "et_EE",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_eti.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_eti.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "fi_FI",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_fin.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_fin.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "fr_CA",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_frc.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_frc.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "fr_FR",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_fra.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_fra.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "he_IL",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_heb.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_heb.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "hr_HR",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_hrv.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_hrv.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "hu_HU",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_hun.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_hun.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "id_ID",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_ind.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_ind.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "it_IT",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_ita.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_ita.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "kk_KZ",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_kkz.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_kkz.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "ko_KR",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_kor.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_kor.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "lt_LT",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_lth.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_lth.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "lv_LV",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_lvi.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_lvi.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "nb_NO",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_nor.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_nor.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "nl_NL",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_nld.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_nld.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "pl_PL",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_plk.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_plk.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "pt_BR",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_ptb.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_ptb.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "ro_RO",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_rom.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_rom.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "ru_RU",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_rus.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_rus.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "sk_SK",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_sky.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_sky.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "sl_SI",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_slv.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_slv.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "sr_RS",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_srl.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_srl.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "sv_SE",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_sve.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_sve.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "th_TH",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_tha.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_tha.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "tr_TR",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_trk.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_trk.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "uk_UA",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_ukr.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_ukr.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "vi_VN",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_vit.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_vit.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "zh_CN",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_chs.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_chs.msi"
   },
   {
-    "Version": "10.1.2058.0",
-    "Size": 243204096,
-    "Hash": "d80ac19c646252c9cdbaca7deb44d646346af9be",
+    "Version": "11.0.2032.0",
+    "Size": 244105216,
+    "Hash": "1b8d30c263e3d79ef8a074dd7fa75bd0ee1e3742",
     "Language": "zh_TW",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v10/10.1.2058.0/ees_nt32_full_cht.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/ees/windows/v11/11.0.2032.0/ees_nt32_full_cht.msi"
   }
 ]
