@@ -1,0 +1,15 @@
+json/1Password.json
+json/7zip.json
+json/FileZilla.json
+json/GeoGebraClassic.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/ProgressChefInfraClient.json
+json/ProjectLibre.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/gretl.json
