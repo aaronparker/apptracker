@@ -1,30 +1,30 @@
 [
   {
-    "Version": "23.253.1206.0001",
+    "Version": "23.254.1207.0001",
     "Throttle": "100",
     "Architecture": "AMD64",
     "Ring": "InternalFast",
     "Type": "exe",
-    "Sha256": "oTiMlJxriP8HMucaTQqbCwisXUIshubEr0qe8mAVyO8=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.253.1206.0001/amd64/OneDriveSetup.exe"
+    "Sha256": "jHgQnjcvd1v7ZWCgt08p48cjqvVEYRcO9tzUGHXacds=",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.254.1207.0001/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "23.253.1206.0001",
+    "Version": "23.254.1207.0001",
     "Throttle": "100",
     "Architecture": "ARM64",
     "Ring": "InternalFast",
     "Type": "exe",
-    "Sha256": "JNvOM+mm5Ej4Usmsn9i0DDY+tB6ge34evQuFh186u8A=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.253.1206.0001/arm64/OneDriveSetup.exe"
+    "Sha256": "Dm3dd+TILeFO/zPBEe022S8LDTmEDbEhPmUoY/yGzZk=",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.254.1207.0001/arm64/OneDriveSetup.exe"
   },
   {
-    "Version": "23.253.1206.0001",
+    "Version": "23.254.1207.0001",
     "Throttle": "100",
     "Architecture": "x86",
     "Ring": "InternalFast",
-    "Sha256": "D7FyaO1doHXtYqKyijYNT7HB5QVgxNBYhby+2H9eO2M=",
+    "Sha256": "ftzZ4FDRcn04pIyYJcVRYbVG+0zTt0tJkQalLwwfCVI=",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/23.253.1206.0001/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/23.254.1207.0001/OneDriveSetup.exe"
   },
   {
     "Version": "23.246.1127.0002",
@@ -46,7 +46,7 @@
   },
   {
     "Version": "23.246.1127.0002",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -73,7 +73,7 @@
   },
   {
     "Version": "23.246.1127.0002",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -100,7 +100,7 @@
   },
   {
     "Version": "23.246.1127.0002",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "Zvy74EbIGiXiYDUS9T/FKFq9hk4LEY296dpNPNlEaOs=",
