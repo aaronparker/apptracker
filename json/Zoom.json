@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.17.0.978",
+    "Version": "5.17.0.981",
     "Platform": "Outlook",
     "Installer": "User",
-    "Size": 10887168,
+    "Size": 10894848,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.17.0.978/ZoomOutlookPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/5.17.0.981/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "5.16.10.26186",
