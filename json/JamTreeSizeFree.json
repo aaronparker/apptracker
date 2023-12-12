@@ -1,4 +1,6 @@
-{
-  "Version": "4.71",
-  "URI": "https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe"
-}
+[
+  {
+    "Version": "4.71",
+    "URI": "https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe"
+  }
+]

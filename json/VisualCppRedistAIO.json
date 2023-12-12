@@ -1,10 +1,12 @@
-{
-  "Version": "0.77.0",
-  "Platform": "Windows",
-  "Architecture": "x64",
-  "Type": "zip",
-  "InstallerType": "Default",
-  "Date": "11/12/2023",
-  "Size": 28918853,
-  "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.77.0/VisualCppRedist_AIO_x86_x64_77.zip"
-}
+[
+  {
+    "Version": "0.77.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "InstallerType": "Default",
+    "Date": "11/12/2023",
+    "Size": 28918853,
+    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.77.0/VisualCppRedist_AIO_x86_x64_77.zip"
+  }
+]

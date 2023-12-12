@@ -1,10 +1,12 @@
-{
-  "Version": "5.6.3",
-  "Platform": "Windows",
-  "Architecture": "x86",
-  "Type": "zip",
-  "InstallerType": "Default",
-  "Date": "09/20/2023",
-  "Size": 112982176,
-  "URI": "https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.3/Protege-5.6.3-win.zip"
-}
+[
+  {
+    "Version": "5.6.3",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "InstallerType": "Default",
+    "Date": "09/20/2023",
+    "Size": 112982176,
+    "URI": "https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.3/Protege-5.6.3-win.zip"
+  }
+]

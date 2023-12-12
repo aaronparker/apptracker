@@ -1,10 +1,12 @@
-{
-  "Version": "0.78",
-  "Platform": "Windows",
-  "Architecture": "x86",
-  "Type": "exe",
-  "InstallerType": "Default",
-  "Date": "10/25/2023",
-  "Size": 15247896,
-  "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.78/LAVFilters-0.78-Installer.exe"
-}
+[
+  {
+    "Version": "0.78",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "10/25/2023",
+    "Size": 15247896,
+    "URI": "https://github.com/Nevcairiel/LAVFilters/releases/download/0.78/LAVFilters-0.78-Installer.exe"
+  }
+]

@@ -1,6 +1,8 @@
-{
-  "Version": "8.7.1.40770",
-  "Date": "11/04/2023",
-  "Channel": "Release",
-  "URI": "https://update.cyberduck.io/Cyberduck-Installer-8.7.1.40770.exe"
-}
+[
+  {
+    "Version": "8.7.1.40770",
+    "Date": "11/04/2023",
+    "Channel": "Release",
+    "URI": "https://update.cyberduck.io/Cyberduck-Installer-8.7.1.40770.exe"
+  }
+]

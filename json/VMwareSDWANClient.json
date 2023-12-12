@@ -1,9 +1,11 @@
-{
-  "Version": "1.29.0-215",
-  "ReleaseDate": "2023-11-15T00:00:00",
-  "Md5": "bef0a6fd692aab0e9da08d262321e5cd",
-  "Sha256": "2e3171b25747bb3a0b39bfa5533d34f97ca1f1f84c947f9da2a21b013a747982",
-  "Size": "88.71 MB",
-  "Type": "exe",
-  "URI": "https://download3.vmware.com/software/SD-WAN-CLIENT/SDWANClientInstaller-1-29-0_215.exe"
-}
+[
+  {
+    "Version": "1.29.0-215",
+    "ReleaseDate": "2023-11-15T00:00:00",
+    "Md5": "bef0a6fd692aab0e9da08d262321e5cd",
+    "Sha256": "2e3171b25747bb3a0b39bfa5533d34f97ca1f1f84c947f9da2a21b013a747982",
+    "Size": "88.71 MB",
+    "Type": "exe",
+    "URI": "https://download3.vmware.com/software/SD-WAN-CLIENT/SDWANClientInstaller-1-29-0_215.exe"
+  }
+]

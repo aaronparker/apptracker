@@ -1,5 +1,7 @@
-{
-  "Version": "30.0.2",
-  "Architecture": "x64",
-  "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.0.2-Full-Installer-x64.exe"
-}
+[
+  {
+    "Version": "30.0.2",
+    "Architecture": "x64",
+    "URI": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.0.2-Full-Installer-x64.exe"
+  }
+]

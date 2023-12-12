@@ -1,10 +1,12 @@
-{
-  "Version": "2.8.1",
-  "Platform": "Windows",
-  "Architecture": "x64",
-  "Type": "exe",
-  "InstallerType": "Minimal",
-  "Date": "11/27/2023",
-  "Size": 33017601,
-  "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.1/MiniZincIDE-2.8.1-bundled-setup-win64.exe"
-}
+[
+  {
+    "Version": "2.8.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Minimal",
+    "Date": "11/27/2023",
+    "Size": 33017601,
+    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.1/MiniZincIDE-2.8.1-bundled-setup-win64.exe"
+  }
+]

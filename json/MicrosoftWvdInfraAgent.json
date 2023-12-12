@@ -1,7 +1,9 @@
-{
-  "Version": "1.0.7755.1800",
-  "Date": "Wed, 08 Nov 2023 23:30:33 GMT",
-  "Architecture": "x64",
-  "Filename": "Microsoft.RDInfra.RDAgent.Installer-x64-1.0.7755.1800.msi",
-  "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv"
-}
+[
+  {
+    "Version": "1.0.7755.1800",
+    "Date": "Wed, 08 Nov 2023 23:30:33 GMT",
+    "Architecture": "x64",
+    "Filename": "Microsoft.RDInfra.RDAgent.Installer-x64-1.0.7755.1800.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv"
+  }
+]

@@ -1,9 +1,11 @@
-{
-  "Version": "1.0.2309.7002",
-  "Date": [
-    "Mon, 11 Sep 2023 20:10:50 GMT"
-  ],
-  "Architecture": "x64",
-  "Filename": "MsMMRHostInstaller_1.0.2309.7002_x64.msi",
-  "URI": "https://aka.ms/avdmmr/msi"
-}
+[
+  {
+    "Version": "1.0.2309.7002",
+    "Date": [
+      "Mon, 11 Sep 2023 20:10:50 GMT"
+    ],
+    "Architecture": "x64",
+    "Filename": "MsMMRHostInstaller_1.0.2309.7002_x64.msi",
+    "URI": "https://aka.ms/avdmmr/msi"
+  }
+]

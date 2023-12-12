@@ -1,10 +1,12 @@
-{
-  "Version": "v20-build1",
-  "Platform": "Windows",
-  "Architecture": "x86",
-  "Type": "exe",
-  "InstallerType": "Default",
-  "Date": "12/04/2023",
-  "Size": 587792208,
-  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v20-build1/Apache-NetBeans-20.exe"
-}
+[
+  {
+    "Version": "v20-build1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "12/04/2023",
+    "Size": 587792208,
+    "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v20-build1/Apache-NetBeans-20.exe"
+  }
+]

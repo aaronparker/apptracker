@@ -1,6 +1,8 @@
-{
-  "Version": "2.9.8612.60056",
-  "Date": "12/08/2023",
-  "Channel": "Production",
-  "URI": "https://download.microsoft.com/download/9/7/b/97b4c64b-ffc9-447c-b39e-3afba4672ee8/FSLogix_Apps_2.9.8612.60056.zip"
-}
+[
+  {
+    "Version": "2.9.8612.60056",
+    "Date": "12/08/2023",
+    "Channel": "Production",
+    "URI": "https://download.microsoft.com/download/9/7/b/97b4c64b-ffc9-447c-b39e-3afba4672ee8/FSLogix_Apps_2.9.8612.60056.zip"
+  }
+]

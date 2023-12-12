@@ -1,5 +1,7 @@
-{
-  "Version": "23.6.8717",
-  "Type": "Free",
-  "URI": "https://www.masterpackager.com/installer/public/standard/masterpackager_23.6.8717.0.msi"
-}
+[
+  {
+    "Version": "23.6.8717",
+    "Type": "Free",
+    "URI": "https://www.masterpackager.com/installer/public/standard/masterpackager_23.6.8717.0.msi"
+  }
+]

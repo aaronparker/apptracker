@@ -1,7 +1,9 @@
-{
-  "Version": "23.10.16.0",
-  "Date": "10/25/2023",
-  "Size": "52973808",
-  "Hash": "DtY4LmeoH5bbePZxoAYstZBFX1yo7iztqY1CQs8GdSrWLCCzeD+QHg==",
-  "URI": "https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v23.10.16.0.exe"
-}
+[
+  {
+    "Version": "23.10.16.0",
+    "Date": "10/25/2023",
+    "Size": "52973808",
+    "Hash": "DtY4LmeoH5bbePZxoAYstZBFX1yo7iztqY1CQs8GdSrWLCCzeD+QHg==",
+    "URI": "https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v23.10.16.0.exe"
+  }
+]
