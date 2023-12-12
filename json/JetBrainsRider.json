@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2023.3",
-    "Build": "233.11799.261",
+    "Version": "2023.3.1",
+    "Build": "233.11799.303",
     "Edition": "Rider",
-    "Sha256": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.exe.sha256",
-    "Date": "12/06/2023",
-    "Size": 898594592,
+    "Sha256": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.1.exe.sha256",
+    "Date": "12/12/2023",
+    "Size": 898646776,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.exe"
+    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.1.exe"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2023.3",
-    "Build": "233.11799.232",
+    "Version": "2023.3.1",
+    "Build": "233.11799.297",
     "Edition": "PhpStorm",
-    "Sha256": "https://download.jetbrains.com/webide/PhpStorm-2023.3.exe.sha256",
-    "Date": "12/06/2023",
-    "Size": 480145312,
+    "Sha256": "https://download.jetbrains.com/webide/PhpStorm-2023.3.1.exe.sha256",
+    "Date": "12/12/2023",
+    "Size": 480389008,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/webide/PhpStorm-2023.3.exe"
+    "URI": "https://download.jetbrains.com/webide/PhpStorm-2023.3.1.exe"
   }
 ]

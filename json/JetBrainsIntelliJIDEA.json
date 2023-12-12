@@ -1,23 +1,23 @@
 [
   {
-    "Version": "2023.3",
-    "Build": "233.11799.241",
+    "Version": "2023.3.1",
+    "Build": "233.11799.300",
     "Edition": "IntelliJ IDEA Community",
-    "Sha256": "https://download.jetbrains.com/idea/ideaIC-2023.3.exe.sha256",
-    "Date": "12/06/2023",
-    "Size": 572137416,
+    "Sha256": "https://download.jetbrains.com/idea/ideaIC-2023.3.1.exe.sha256",
+    "Date": "12/12/2023",
+    "Size": 572173912,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/ideaIC-2023.3.exe"
+    "URI": "https://download.jetbrains.com/idea/ideaIC-2023.3.1.exe"
   },
   {
-    "Version": "2023.3",
-    "Build": "233.11799.241",
+    "Version": "2023.3.1",
+    "Build": "233.11799.300",
     "Edition": "IntelliJ IDEA Ultimate",
-    "Sha256": "https://download.jetbrains.com/idea/ideaIU-2023.3.exe.sha256",
-    "Date": "12/06/2023",
-    "Size": 699927952,
+    "Sha256": "https://download.jetbrains.com/idea/ideaIU-2023.3.1.exe.sha256",
+    "Date": "12/12/2023",
+    "Size": 699861560,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/ideaIU-2023.3.exe"
+    "URI": "https://download.jetbrains.com/idea/ideaIU-2023.3.1.exe"
   },
   {
     "Version": "2022.2.2",

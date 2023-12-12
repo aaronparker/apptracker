@@ -1,33 +1,33 @@
 [
   {
-    "Version": "1.2.5101.0",
-    "Date": "12/06/2023",
+    "Version": "1.2.5102.0",
+    "Date": "12/12/2023",
     "Channel": "Dogfood",
-    "MD5": "7391C5D13D16D2E9D97C2FA824592C2E",
-    "Sha2": "5F8712C6362F80F78E834AFCF4F7ECD7D60EB279A114D3543C1BFFF7749677FF844F6576128667E64C0FC4A93DC9136652813EB847F0030A1EA843A175D57596",
+    "MD5": "D876BF85A60855CA641506A5B559633B",
+    "Sha2": "9998F90FD44FADAD1DE4A27989776B442F989563B6EFCB1018C5EFD63C325B0812E147DDC8DCF915601B683F0F79EB90ACCC3DC10F24586827A9CFF8E0AE88F6",
     "Architecture": "ARM64",
-    "Filename": "RemoteDesktop_1.2.5101.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1fAZB"
+    "Filename": "RemoteDesktop_1.2.5102.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1fCsL"
   },
   {
-    "Version": "1.2.5101.0",
-    "Date": "12/06/2023",
+    "Version": "1.2.5102.0",
+    "Date": "12/12/2023",
     "Channel": "Dogfood",
-    "MD5": "DD12B51FE5F25CEA615BC58D5305BE3E",
-    "Sha2": "5A17E3D6076521F916FA9CDE1E2514FDECA4494248813443D1B6100FA895E26B322B4FF0A475DE738FF7763C0B89214B1DE9EF8CF5851D37A8CB7089691DFAA5",
+    "MD5": "E12EC94FF96116425B6CAF3641BEACFC",
+    "Sha2": "008CED64DCCBA555C8932F4D9D3A24C6201788B6F993827FB4BD385EE5C885DB9598DA324673F5EEA968F7FB11F240C2FF1B704C85EB0F86B1B95B17A3957C4B",
     "Architecture": "x64",
-    "Filename": "RemoteDesktop_1.2.5101.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1fAZA"
+    "Filename": "RemoteDesktop_1.2.5102.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1fETx"
   },
   {
-    "Version": "1.2.5101.0",
-    "Date": "12/06/2023",
+    "Version": "1.2.5102.0",
+    "Date": "12/12/2023",
     "Channel": "Dogfood",
-    "MD5": "57AD02581A81AA4BE7C8B334D75FD4C5",
-    "Sha2": "7BDA055A2DBAC09BDD07B0E9FDFDD22DBCDD11D14FC637062394F3EA3E5CF52B0589A7028FFD437C06C548BBB8932E2A0933481FFB7BC1FC8FF905DD0BF48370",
+    "MD5": "B122BFF63029EE81A2A1A5548C565B0F",
+    "Sha2": "D8986D8DE9A829CE39D04BF1148EF93223558F881DDEDC220FA5C29A536A62C461C6DF5F37B4F74C00B68431E6FE917467A0F486DEAEB097D057B9C165119BAC",
     "Architecture": "x86",
-    "Filename": "RemoteDesktop_1.2.5101.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1fILR"
+    "Filename": "RemoteDesktop_1.2.5102.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1fETw"
   },
   {
     "Version": "1.2.5018.0",
