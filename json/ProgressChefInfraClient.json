@@ -1,5 +1,53 @@
 [
   {
+    "Version": "18.3.64",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "10",
+    "Sha256": "1812df88fa929241d133ac4aaeaf436bd256ad56b337a00fc9b20f29e9cbd50d",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.3.64/windows/10/chef-client-18.3.64-1-x64.msi"
+  },
+  {
+    "Version": "18.3.64",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "11",
+    "Sha256": "1812df88fa929241d133ac4aaeaf436bd256ad56b337a00fc9b20f29e9cbd50d",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.3.64/windows/11/chef-client-18.3.64-1-x64.msi"
+  },
+  {
+    "Version": "18.3.64",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2012r2",
+    "Sha256": "1812df88fa929241d133ac4aaeaf436bd256ad56b337a00fc9b20f29e9cbd50d",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.3.64/windows/2012r2/chef-client-18.3.64-1-x64.msi"
+  },
+  {
+    "Version": "18.3.64",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2016",
+    "Sha256": "1812df88fa929241d133ac4aaeaf436bd256ad56b337a00fc9b20f29e9cbd50d",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.3.64/windows/2016/chef-client-18.3.64-1-x64.msi"
+  },
+  {
+    "Version": "18.3.64",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2019",
+    "Sha256": "1812df88fa929241d133ac4aaeaf436bd256ad56b337a00fc9b20f29e9cbd50d",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.3.64/windows/2019/chef-client-18.3.64-1-x64.msi"
+  },
+  {
+    "Version": "18.3.64",
+    "Architecture": "x64",
+    "Channel": "unstable",
+    "Platform": "2022",
+    "Sha256": "1812df88fa929241d133ac4aaeaf436bd256ad56b337a00fc9b20f29e9cbd50d",
+    "URI": "https://packages.chef.io/files/unstable/chef/18.3.64/windows/2022/chef-client-18.3.64-1-x64.msi"
+  },
+  {
     "Version": "18.3.62",
     "Architecture": "x64",
     "Channel": "current",
@@ -46,54 +94,6 @@
     "Platform": "2022",
     "Sha256": "793b67fdef2e7c1b5d4a773de6a559cb041c37a848d670deadc050e910a51417",
     "URI": "https://packages.chef.io/files/current/chef/18.3.62/windows/2022/chef-client-18.3.62-1-x64.msi"
-  },
-  {
-    "Version": "18.3.60",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "10",
-    "Sha256": "333c848ce0b9c6ae56d78c6eacc9af43ea9260e52eebe74d807b438ae0c7a3a7",
-    "URI": "https://packages.chef.io/files/unstable/chef/18.3.60/windows/10/chef-client-18.3.60-1-x64.msi"
-  },
-  {
-    "Version": "18.3.60",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "11",
-    "Sha256": "333c848ce0b9c6ae56d78c6eacc9af43ea9260e52eebe74d807b438ae0c7a3a7",
-    "URI": "https://packages.chef.io/files/unstable/chef/18.3.60/windows/11/chef-client-18.3.60-1-x64.msi"
-  },
-  {
-    "Version": "18.3.60",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2012r2",
-    "Sha256": "333c848ce0b9c6ae56d78c6eacc9af43ea9260e52eebe74d807b438ae0c7a3a7",
-    "URI": "https://packages.chef.io/files/unstable/chef/18.3.60/windows/2012r2/chef-client-18.3.60-1-x64.msi"
-  },
-  {
-    "Version": "18.3.60",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2016",
-    "Sha256": "333c848ce0b9c6ae56d78c6eacc9af43ea9260e52eebe74d807b438ae0c7a3a7",
-    "URI": "https://packages.chef.io/files/unstable/chef/18.3.60/windows/2016/chef-client-18.3.60-1-x64.msi"
-  },
-  {
-    "Version": "18.3.60",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2019",
-    "Sha256": "333c848ce0b9c6ae56d78c6eacc9af43ea9260e52eebe74d807b438ae0c7a3a7",
-    "URI": "https://packages.chef.io/files/unstable/chef/18.3.60/windows/2019/chef-client-18.3.60-1-x64.msi"
-  },
-  {
-    "Version": "18.3.60",
-    "Architecture": "x64",
-    "Channel": "unstable",
-    "Platform": "2022",
-    "Sha256": "333c848ce0b9c6ae56d78c6eacc9af43ea9260e52eebe74d807b438ae0c7a3a7",
-    "URI": "https://packages.chef.io/files/unstable/chef/18.3.60/windows/2022/chef-client-18.3.60-1-x64.msi"
   },
   {
     "Version": "18.3.0",
