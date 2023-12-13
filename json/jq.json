@@ -1,42 +1,32 @@
 [
   {
-    "Version": "1.7",
+    "Version": "1.7.1",
     "Platform": "Windows",
     "Architecture": "AMD64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "09/06/2023",
-    "Size": 999936,
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7/jq-windows-amd64.exe"
+    "Date": "12/13/2023",
+    "Size": 985088,
+    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-windows-amd64.exe"
   },
   {
-    "Version": "1.7",
+    "Version": "1.7.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "09/06/2023",
-    "Size": 999936,
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7/jq-win64.exe"
+    "Date": "12/13/2023",
+    "Size": 985088,
+    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-win64.exe"
   },
   {
-    "Version": "1.7",
+    "Version": "1.7.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "09/06/2023",
+    "Date": "12/13/2023",
     "Size": 1027584,
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7/jq-win32.exe"
-  },
-  {
-    "Version": "1.7",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
-    "Date": "09/06/2023",
-    "Size": 1027584,
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7/jq-windows-i386.exe"
+    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-windows-i386.exe"
   }
 ]
