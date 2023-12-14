@@ -8,23 +8,23 @@
   },
   {
     "Version": "5.3.458",
+    "Channel": "stable",
+    "sha1": "9E32D09BF814CBEC458EA15913D4A27A99879CF0",
+    "Type": "exe",
+    "URI": "https://www.git-tower.com/apps/tower3-win/458-da411d6a/Tower-5.3.458.exe"
+  },
+  {
+    "Version": "5.3.458",
     "Channel": "beta",
     "sha1": "C2529794330CAB56D6E80EBA42597BEC9898BA45",
     "Type": "msi",
     "URI": "https://www.git-tower.com/apps/tower3-win/458-da411d6a/Tower-5.3.458.msi"
   },
   {
-    "Version": "5.2.453",
+    "Version": "5.3.458",
     "Channel": "stable",
-    "sha1": "2371446971FE91C3647420AB69CE44420CE24769",
-    "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/453-537d1220/Tower-5.2.453.exe"
-  },
-  {
-    "Version": "5.2.453",
-    "Channel": "stable",
-    "sha1": "465014E0F7109D391F9836AAC9D1D9560408DCF2",
+    "sha1": "C2529794330CAB56D6E80EBA42597BEC9898BA45",
     "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/453-537d1220/Tower-5.2.453.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/458-da411d6a/Tower-5.3.458.msi"
   }
 ]
