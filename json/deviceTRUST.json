@@ -1,10 +1,45 @@
 [
   {
+    "Version": "23.1.200.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 23.1.200",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-23.1.200.zip"
+  },
+  {
+    "Version": "23.1.200.0",
+    "Platform": "Windows",
+    "Type": "Client",
+    "Name": "deviceTRUST Windows Client Extension 23.1.200.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-23.1.200.0.exe"
+  },
+  {
+    "Version": "23.1.120.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 23.1.120",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-23.1.120.zip"
+  },
+  {
+    "Version": "23.1.120.0",
+    "Platform": "Windows",
+    "Type": "Client",
+    "Name": "deviceTRUST Windows Client Extension 23.1.120.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-23.1.120.0.exe"
+  },
+  {
     "Version": "23.1.112.0",
     "Platform": "Windows",
     "Type": "Bundle",
     "Name": "deviceTRUST 23.1.112",
     "URI": "https://storage.devicetrust.com/download/deviceTRUST-23.1.112.zip"
+  },
+  {
+    "Version": "23.1.110.0",
+    "Platform": "macOS",
+    "Type": "Client",
+    "Name": "deviceTRUST macOS Client Extension 23.1.110",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-macos-universal-release-23.1.110.0.dmg"
   },
   {
     "Version": "23.1.110.0",
@@ -115,15 +150,15 @@
     "Version": "21.1.200.0",
     "Platform": "Windows",
     "Type": "Client",
-    "Name": "deviceTRUST Windows Client Extension 21.1.200.0",
-    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe"
+    "Name": "deviceTRUST Windows Client Extension 21.1.210.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.210.0.exe"
   },
   {
     "Version": "21.1.200.0",
     "Platform": "Windows",
     "Type": "Client",
-    "Name": "deviceTRUST Windows Client Extension 21.1.210.0",
-    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.210.0.exe"
+    "Name": "deviceTRUST Windows Client Extension 21.1.200.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-21.1.200.0.exe"
   },
   {
     "Version": "21.1.110.0",

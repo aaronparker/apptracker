@@ -1,10 +1,10 @@
 [
   {
-    "Version": "9.2.1",
+    "Version": "9.3.0",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "61168474",
-    "Md5": "0d628e2c34eb348330d1a6b79750f485",
-    "URI": "https://gigenet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.2.1/saga-9.2.1_x64_setup.exe"
+    "Size": "61660171",
+    "Md5": "e873a0dfd97936d0117f3ddb598cf9a2",
+    "URI": "https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.0/saga-9.3.0_x64_setup.exe"
   }
 ]
