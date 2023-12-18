@@ -1,6 +1,6 @@
 [
   {
-    "Version": "122.0.6192.0",
+    "Version": "122.0.6193.0",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
@@ -43,27 +43,27 @@
   },
   {
     "Version": "120.0.6099.110",
-    "Architecture": "x86",
-    "Channel": "extended",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "120.0.6099.109",
     "Architecture": "x64",
     "Channel": "stable",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "120.0.6099.109",
+    "Version": "120.0.6099.110",
+    "Architecture": "x86",
+    "Channel": "extended",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "120.0.6099.110",
     "Architecture": "x86",
     "Channel": "stable",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "120.0.6099.109",
+    "Version": "120.0.6099.110",
     "Architecture": "x64",
     "Channel": "stable",
     "Type": "zip",
