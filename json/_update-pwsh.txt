@@ -1,0 +1,16 @@
+json/7zip.json
+json/ESETInspectConnector.json
+json/FileZilla.json
+json/Gimp.json
+json/GoogleChromeDriver.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftWindowsPackageManagerClient.json
+json/OperaGXBrowser.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/diagrams.net.json
+json/gretl.json
