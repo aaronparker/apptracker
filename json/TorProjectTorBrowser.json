@@ -1,16 +1,16 @@
 [
   {
-    "Version": "13.0.6",
+    "Version": "13.0.7",
     "Architecture": "x64",
     "Type": "exe",
     "Language": "ALL",
-    "URI": "https://dist.torproject.org/torbrowser/13.0.6/tor-browser-windows-x86_64-portable-13.0.6.exe"
+    "URI": "https://dist.torproject.org/torbrowser/13.0.7/tor-browser-windows-x86_64-portable-13.0.7.exe"
   },
   {
-    "Version": "13.0.6",
+    "Version": "13.0.7",
     "Architecture": "x86",
     "Type": "exe",
     "Language": "ALL",
-    "URI": "https://dist.torproject.org/torbrowser/13.0.6/tor-browser-windows-i686-portable-13.0.6.exe"
+    "URI": "https://dist.torproject.org/torbrowser/13.0.7/tor-browser-windows-i686-portable-13.0.7.exe"
   }
 ]
