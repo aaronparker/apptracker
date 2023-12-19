@@ -20,15 +20,15 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                              |
-| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -708,13 +708,13 @@
 
 [Link](https://www.diagrams.net/)
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                   |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
-| 22.1.2  | Windows  | x86          | exe  | Default       | 11/15/2023 | 104193512 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.2/draw.io-22.1.2-windows-installer.exe               |
-| 22.1.2  | Windows  | x86          | exe  | Portable      | 11/15/2023 | 103978040 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.2/draw.io-22.1.2-windows-no-installer.exe            |
-| 22.1.2  | Windows  | x86          | exe  | Default       | 11/15/2023 | 99866392  | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.2/draw.io-ia32-22.1.2-windows-32bit-installer.exe    |
-| 22.1.2  | Windows  | x86          | exe  | Portable      | 11/15/2023 | 99651368  | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.2/draw.io-ia32-22.1.2-windows-32bit-no-installer.exe |
-| 22.1.2  | Windows  | x86          | msi  | Default       | 11/15/2023 | 137633792 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.2/draw.io-22.1.2.msi                                 |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                     |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 22.1.11 | Windows  | x86          | exe  | Default       | 12/18/2023 | 127718520 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.11/draw.io-22.1.11-windows-installer.exe               |
+| 22.1.11 | Windows  | x86          | exe  | Portable      | 12/18/2023 | 127503088 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.11/draw.io-22.1.11-windows-no-installer.exe            |
+| 22.1.11 | Windows  | x86          | exe  | Default       | 12/18/2023 | 123065032 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.11/draw.io-ia32-22.1.11-windows-32bit-installer.exe    |
+| 22.1.11 | Windows  | x86          | exe  | Portable      | 12/18/2023 | 122850048 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.11/draw.io-ia32-22.1.11-windows-32bit-no-installer.exe |
+| 22.1.11 | Windows  | x86          | msi  | Default       | 12/18/2023 | 137654272 | https://github.com/jgraph/drawio-desktop/releases/download/v22.1.11/draw.io-22.1.11.msi                                 |
 
 ## dnGrep
 
@@ -1066,10 +1066,10 @@
 
 [Link](https://www.eset.com/int/business/download/inspect/)
 
-| Version     | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                  |
-| ----------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
-| 1.12.3296.0 | 18190336 | 5ae32ad9bd6d18704a0920fdb38e12fac4d88047 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.12.3296.0/ei_connector_nt64.msi |
-| 1.12.3296.0 | 16003072 | 27ca48b54e01df48784ca5f2e80af28d73b9d6ff | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v1/1.12.3296.0/ei_connector_nt32.msi |
+| Version    | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                 |
+| ---------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |
+| 2.0.3539.0 | 19337216 | 62fb5b50a3feffc40cdad934b238a81f36a521c8 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.0.3539.0/ei_connector_nt64.msi |
+| 2.0.3539.0 | 17215488 | 4700c5ecbd131e3e6f25f0cf9b4e9cfa4480d879 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.0.3539.0/ei_connector_nt32.msi |
 
 ## ESETPROTECTServer
 
@@ -1120,7 +1120,7 @@
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3.64.0  | 12140960 | 30762221e8b41c63383c06e639cab6730603c5d76bbe14cfd0c499bd3ad690bc82d220b4cff215f2c5b74b81087cdcbd6255c5aa598c350bb111a880f6d9a8dd | https://download.filezilla-project.org/client/FileZilla_3.64.0_win64-setup.exe |
+| 3.66.1  | 12383864 | 36c1a15f525800a2b0c03325802b603088d0cd6c137408ed584b8091caaced41b140d16e2de92d0b0782c363ca487379ffa44b80c20e2a947cdf8f5f2c5981f3 | https://download.filezilla-project.org/client/FileZilla_3.66.1_win64-setup.exe |
 
 ## Fork
 
@@ -1246,9 +1246,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                          |
-| ------- | ---------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                            |
+| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
 
 ## GitExtensions
 
@@ -1326,8 +1326,8 @@
 
 | Version        | Revision | Channel | Architecture | Type | URI                                                                                                     |
 | -------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------- |
-| 122.0.6192.0   | 1238491  | Canary  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6192.0/win64/chromedriver-win64.zip   |
-| 122.0.6192.0   | 1238491  | Canary  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6192.0/win32/chromedriver-win32.zip   |
+| 122.0.6193.0   | 1238583  | Canary  | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6193.0/win64/chromedriver-win64.zip   |
+| 122.0.6193.0   | 1238583  | Canary  | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6193.0/win32/chromedriver-win32.zip   |
 | 122.0.6182.0   | 1236748  | Dev     | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6182.0/win64/chromedriver-win64.zip   |
 | 122.0.6182.0   | 1236748  | Dev     | x86          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6182.0/win32/chromedriver-win32.zip   |
 | 121.0.6167.16  | 1233107  | Beta    | x64          | zip  | https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.16/win64/chromedriver-win64.zip  |
@@ -1393,10 +1393,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 2023c   | x64          | exe  | 38515520 | 4983735b68352bae0bc8b8de47155fc6 | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe |
-| 2023c   | x86          | exe  | 34545216 | da3fec1657f61e4c3b9336cbb00657ec | https://cytranet.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |
+| 2023c   | x64          | exe  | 38515520 | 4983735b68352bae0bc8b8de47155fc6 | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe |
+| 2023c   | x86          | exe  | 34545216 | da3fec1657f61e4c3b9336cbb00657ec | https://newcontinuum.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe |
 
 ## gsudo
 
@@ -1697,19 +1697,19 @@
 
 [Link](https://kdiff3.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://gigenet.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                          |
-| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------- |
-| 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://gigenet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
-| 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://gigenet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 2.55    | x86          | exe  | 4384104 | 85a374b5f3fa0402081c39b002619353 | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe |
+| 2.55    | x86          | msi  | 3753472 | e850001d63073eacfc60975c2618a4e7 | https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -2220,7 +2220,7 @@
 
 | Version  | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                        |
 | -------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1.6.3421 | Windows  | x86          | msixbundle | Default       | 11/09/2023 | 245072205 | https://github.com/microsoft/winget-cli/releases/download/v1.6.3421/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle |
+| 1.6.3842 | Windows  | x86          | msixbundle | Default       | 12/15/2023 | 245051888 | https://github.com/microsoft/winget-cli/releases/download/v1.6.3842/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle |
 
 ## MicrosoftWvdBootloader
 
@@ -4779,8 +4779,8 @@
 
 | Version       | Channel | Architecture | Type | URI                                                                                           |
 | ------------- | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------- |
-| 105.0.4970.46 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/105.0.4970.46/win/Opera_GX_105.0.4970.46_Setup_x64.exe |
-| 105.0.4970.46 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/105.0.4970.46/win/Opera_GX_105.0.4970.46_Setup.exe     |
+| 105.0.4970.56 | Stable  | x64          | exe  | https://get.geo.opera.com/pub/opera_gx/105.0.4970.56/win/Opera_GX_105.0.4970.56_Setup_x64.exe |
+| 105.0.4970.56 | Stable  | x86          | exe  | https://get.geo.opera.com/pub/opera_gx/105.0.4970.56/win/Opera_GX_105.0.4970.56_Setup.exe     |
 
 ## OracleJava17
 
@@ -4993,9 +4993,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://phoenixnap.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://gigenet.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5142,7 +5142,7 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 9.3.0   | x64          | exe  | 61660171 | e873a0dfd97936d0117f3ddb598cf9a2 | https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.0/saga-9.3.0_x64_setup.exe |
+| 9.3.0   | x64          | exe  | 61660171 | e873a0dfd97936d0117f3ddb598cf9a2 | https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.0/saga-9.3.0_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5439,11 +5439,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                    |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://newcontinuum.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
+| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://newcontinuum.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
+| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://newcontinuum.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
 
 ## VercelHyper
 
@@ -5457,14 +5457,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.20  | Windows  | x64          | EXE  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe |
-| 3.0.20  | Windows  | x86          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe   |
-| 3.0.20  | Windows  | x64          | MSI  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi |
-| 3.0.20  | Windows  | x86          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi   |
-| 3.0.20  | Windows  | x64          | ZIP  | https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip |
-| 3.0.20  | Windows  | x86          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip   |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.20  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe |
+| 3.0.20  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe |
+| 3.0.20  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi |
+| 3.0.20  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi |
+| 3.0.20  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip |
+| 3.0.20  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5579,10 +5579,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
-| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| 6.1.2   | x86          | exe  | 11132448 | a655323232f2defb99c4e975ab1edcec | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe |
+| 6.1.2   | x86          | msi  | 27820032 | 2942ddaf55188418b84459720acd4af7 | https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi       |
 
 ## Wireshark
 
