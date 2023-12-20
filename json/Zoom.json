@@ -54,6 +54,42 @@
     "URI": "https://cdn.zoom.us/prod/5.17.0.28375/ZoomInstallerFull.msi"
   },
   {
+    "Version": "5.17.0.3530",
+    "Platform": "Rooms",
+    "Installer": "User",
+    "Size": 319250656,
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.17.0.3530/x64/zoomrooms-5.17.0.3530-x64.exe"
+  },
+  {
+    "Version": "5.17.0.3530",
+    "Platform": "Rooms",
+    "Installer": "User",
+    "Size": 295806632,
+    "Type": "exe",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.17.0.3530/zoomrooms-5.17.0.3530-x86.exe"
+  },
+  {
+    "Version": "5.17.0.3530",
+    "Platform": "Rooms",
+    "Installer": "Admin",
+    "Size": 321854976,
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/5.17.0.3530/x64/zoomrooms-5.17.0.3530-x64.msi"
+  },
+  {
+    "Version": "5.17.0.3530",
+    "Platform": "Rooms",
+    "Installer": "Admin",
+    "Size": 298274816,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/5.17.0.3530/zoomrooms-5.17.0.3530-x86.msi"
+  },
+  {
     "Version": "5.17.0.981",
     "Platform": "Outlook",
     "Installer": "User",
@@ -61,42 +97,6 @@
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/5.17.0.981/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "5.16.10.3425",
-    "Platform": "Rooms",
-    "Installer": "User",
-    "Size": 386254416,
-    "Type": "exe",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.16.10.3425/x64/zoomrooms-5.16.10.3425-x64.exe"
-  },
-  {
-    "Version": "5.16.10.3425",
-    "Platform": "Rooms",
-    "Installer": "User",
-    "Size": 358313240,
-    "Type": "exe",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.16.10.3425/zoomrooms-5.16.10.3425-x86.exe"
-  },
-  {
-    "Version": "5.16.10.3425",
-    "Platform": "Rooms",
-    "Installer": "Admin",
-    "Size": 389452288,
-    "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.16.10.3425/x64/zoomrooms-5.16.10.3425-x64.msi"
-  },
-  {
-    "Version": "5.16.10.3425",
-    "Platform": "Rooms",
-    "Installer": "Admin",
-    "Size": 361312256,
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.16.10.3425/zoomrooms-5.16.10.3425-x86.msi"
   },
   {
     "Version": "5.15.5.925",
