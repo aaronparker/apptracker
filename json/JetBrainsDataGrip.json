@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2023.3.1",
-    "Build": "233.11799.287",
+    "Version": "2023.3.2",
+    "Build": "233.13135.93",
     "Edition": "DataGrip",
-    "Sha256": "https://download.jetbrains.com/cpp/CLion-2023.3.1.exe.sha256",
-    "Date": "12/12/2023",
-    "Size": 783045144,
+    "Sha256": "https://download.jetbrains.com/cpp/CLion-2023.3.2.exe.sha256",
+    "Date": "12/20/2023",
+    "Size": 785899472,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/cpp/CLion-2023.3.1.exe"
+    "URI": "https://download.jetbrains.com/cpp/CLion-2023.3.2.exe"
   }
 ]

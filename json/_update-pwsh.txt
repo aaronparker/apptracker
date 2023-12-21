@@ -1,0 +1,17 @@
+json/7zip.json
+json/AirtameApp.json
+json/GoogleChromeDriver.json
+json/JetBrainsCLion.json
+json/JetBrainsDataGrip.json
+json/JetBrainsGoLand.json
+json/KDiff3.json
+json/Microsoft365Apps.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/ProgressChefInfraClient.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
