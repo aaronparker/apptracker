@@ -1,22 +1,22 @@
 [
   {
-    "Version": "23.12",
+    "Version": "23.12.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/25/2023",
-    "Size": 125385240,
-    "URI": "https://github.com/ankitects/anki/releases/download/23.12/anki-23.12-windows-qt5.exe"
+    "Date": "12/28/2023",
+    "Size": 125016744,
+    "URI": "https://github.com/ankitects/anki/releases/download/23.12.1/anki-23.12.1-windows-qt5.exe"
   },
   {
-    "Version": "23.12",
+    "Version": "23.12.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/25/2023",
-    "Size": 152560288,
-    "URI": "https://github.com/ankitects/anki/releases/download/23.12/anki-23.12-windows-qt6.exe"
+    "Date": "12/28/2023",
+    "Size": 152151336,
+    "URI": "https://github.com/ankitects/anki/releases/download/23.12.1/anki-23.12.1-windows-qt6.exe"
   }
 ]
