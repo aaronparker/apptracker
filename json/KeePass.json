@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "4384104",
     "Md5": "85a374b5f3fa0402081c39b002619353",
-    "URI": "https://zenlayer.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55-Setup.exe"
   },
   {
     "Version": "2.55",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "3753472",
     "Md5": "e850001d63073eacfc60975c2618a4e7",
-    "URI": "https://zenlayer.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi"
+    "URI": "https://netactuate.dl.sourceforge.net/project/keepass/KeePass%202.x/2.55/KeePass-2.55.msi"
   }
 ]
