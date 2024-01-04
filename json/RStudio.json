@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2023.09.1+494",
-    "ProductName": "RStudio 2023.09.1+494 - Windows 10/11 (64-bit)",
+    "Version": "2023.12.0+369",
+    "ProductName": "RStudio 2023.12.0+369 - Windows 10/11 (64-bit)",
     "Pro": false,
-    "Date": "2023-10-17",
-    "Size": 214341200,
-    "Sha256": "fe62b78446fb91d905ec28d1f017aff8aaaf0bbb40a79b0b5043adf60ae910e1",
+    "Date": "2023-12-20",
+    "Size": 215656344,
+    "Sha256": "93c7f307c26e7cbb688b4205821e7835c54cc93adabb6315b1ef8e83f4d24881",
     "Type": "exe",
-    "URI": "https://download1.rstudio.org/electron/windows/RStudio-2023.09.1-494.exe"
+    "URI": "https://download1.rstudio.org/electron/windows/RStudio-2023.12.0-369.exe"
   },
   {
-    "Version": "2023.09.1+494.pro2",
-    "ProductName": "RStudio Pro 2023.09.1+494.pro2 - Windows 10/11 (64-bit)",
+    "Version": "2023.12.0+369.pro3",
+    "ProductName": "RStudio Pro 2023.12.0+369.pro3 - Windows 10/11 (64-bit)",
     "Pro": true,
-    "Date": "2023-10-17",
-    "Size": 218296432,
-    "Sha256": "e31071866ed2d2d082641b7660fcce3685d439b1be7914b7794555cad56dd022",
+    "Date": "2023-12-20",
+    "Size": 219640640,
+    "Sha256": "787921de3fa31b47654914b0af01f6b058d1b509c1a288e22365805a60276ce3",
     "Type": "exe",
-    "URI": "https://download1.rstudio.org/electron/windows/RStudio-pro-2023.09.1-494.pro2.exe"
+    "URI": "https://download1.rstudio.org/electron/windows/RStudio-pro-2023.12.0-369.pro3.exe"
   }
 ]
