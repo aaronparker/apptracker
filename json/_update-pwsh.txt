@@ -1,0 +1,13 @@
+json/7zip.json
+json/AWSSAMCLI.json
+json/Gimp.json
+json/GoogleChrome.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftVisualStudioCode.json
+json/OperaGXBrowser.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
