@@ -38,12 +38,6 @@
   {
     "Version": "120.0.2210.91",
     "Channel": "Stable",
-    "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/120.0.2210.91/edgedriver_arm64.zip"
-  },
-  {
-    "Version": "120.0.2210.91",
-    "Channel": "Stable",
     "Architecture": "x64",
     "URI": "https://msedgedriver.azureedge.net/120.0.2210.91/edgedriver_win64.zip"
   },
