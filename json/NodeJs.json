@@ -42,31 +42,31 @@
     "URI": "https://nodejs.org/dist/v21.5.0/node-v21.5.0-win-x86.zip"
   },
   {
-    "Version": "20.10.0",
+    "Version": "20.11.0",
     "Architecture": "x64",
     "Type": "msi",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-x64.msi"
+    "URI": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi"
   },
   {
-    "Version": "20.10.0",
+    "Version": "20.11.0",
     "Architecture": "x86",
     "Type": "msi",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-x86.msi"
+    "URI": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-x86.msi"
   },
   {
-    "Version": "20.10.0",
+    "Version": "20.11.0",
     "Architecture": "x64",
     "Type": "zip",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-win-x64.zip"
+    "URI": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-win-x64.zip"
   },
   {
-    "Version": "20.10.0",
+    "Version": "20.11.0",
     "Architecture": "x86",
     "Type": "zip",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-win-x86.zip"
+    "URI": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-win-x86.zip"
   }
 ]
