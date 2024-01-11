@@ -3,7 +3,7 @@
     "Version": "Latest",
     "Platform": "Citrix",
     "Installer": "Admin",
-    "Size": 94448128,
+    "Size": 94504448,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
@@ -21,7 +21,7 @@
     "Version": "Latest",
     "Platform": "Universal",
     "Installer": "Admin",
-    "Size": 82337280,
+    "Size": 82347520,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi"
@@ -39,7 +39,7 @@
     "Version": "Latest",
     "Platform": "VDIClient",
     "Installer": "Admin",
-    "Size": 109862400,
+    "Size": 109841920,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi"
