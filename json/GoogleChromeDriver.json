@@ -1,19 +1,19 @@
 [
   {
-    "Version": "122.0.6241.0",
+    "Version": "122.0.6241.4",
     "Revision": "1245833",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6241.0/win64/chromedriver-win64.zip"
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6241.4/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "122.0.6241.0",
+    "Version": "122.0.6241.4",
     "Revision": "1245833",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6241.0/win32/chromedriver-win32.zip"
+    "URI": "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/122.0.6241.4/win32/chromedriver-win32.zip"
   },
   {
     "Version": "122.0.6238.2",
