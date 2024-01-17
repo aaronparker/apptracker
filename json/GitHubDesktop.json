@@ -1,24 +1,24 @@
 [
   {
-    "Version": "3.3.6",
+    "Version": "3.3.7",
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.6-4616f73d/GitHubDesktopSetup-arm64.exe"
   },
   {
-    "Version": "3.3.6",
+    "Version": "3.3.7",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.6-4616f73d/GitHubDesktopSetup-x64.exe"
   },
   {
-    "Version": "3.3.6",
+    "Version": "3.3.7",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.6-4616f73d/GitHubDesktopSetup-arm64.msi"
   },
   {
-    "Version": "3.3.6",
+    "Version": "3.3.7",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.6-4616f73d/GitHubDesktopSetup-x64.msi"
