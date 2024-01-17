@@ -1,52 +1,52 @@
 [
   {
-    "Version": "4.3",
+    "Version": "4.4",
     "Platform": "Windows",
     "Architecture": "ARM32",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "10/19/2023",
+    "Date": "01/17/2024",
     "Size": 4253256,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3_arm.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm.exe"
   },
   {
-    "Version": "4.3",
+    "Version": "4.4",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "10/19/2023",
-    "Size": 4800072,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3_arm64.exe"
+    "Date": "01/17/2024",
+    "Size": 4831304,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm64.exe"
   },
   {
-    "Version": "4.3",
+    "Version": "4.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "10/19/2023",
-    "Size": 1431624,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3.exe"
+    "Date": "01/17/2024",
+    "Size": 1432648,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4.exe"
   },
   {
-    "Version": "4.3",
+    "Version": "4.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "10/19/2023",
-    "Size": 1431624,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3p.exe"
+    "Date": "01/17/2024",
+    "Size": 1432648,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4p.exe"
   },
   {
-    "Version": "4.3",
+    "Version": "4.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "10/19/2023",
-    "Size": 1445960,
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.3/rufus-4.3_x86.exe"
+    "Date": "01/17/2024",
+    "Size": 1446472,
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_x86.exe"
   }
 ]
