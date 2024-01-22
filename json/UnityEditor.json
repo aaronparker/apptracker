@@ -80,14 +80,14 @@
     "URI": "https://download.unity3d.com/download_unity/9636b062134a/Windows64EditorInstaller/UnitySetup64-2022.1.23f1.exe"
   },
   {
-    "Version": "2022.3.17f1",
+    "Version": "2022.3.18f1",
     "Release": "2022",
     "Channel": "official",
     "LTS": false,
-    "Size": 2622298112,
-    "Checksum": "5f04c5b0c72a35a52f994d3b2be44f33",
+    "Size": 2625567744,
+    "Checksum": "df544b9263c4c9f61052d75dbca0f337",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/4fc78088f837/Windows64EditorInstaller/UnitySetup64-2022.3.17f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/d29bea25151d/Windows64EditorInstaller/UnitySetup64-2022.3.18f1.exe"
   },
   {
     "Version": "2023.1.13f1",
