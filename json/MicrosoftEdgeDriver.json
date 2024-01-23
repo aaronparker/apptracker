@@ -1,21 +1,21 @@
 [
   {
-    "Version": "122.0.2348.0",
+    "Version": "122.0.2353.0",
     "Channel": "Dev",
     "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/122.0.2348.0/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.azureedge.net/122.0.2353.0/edgedriver_arm64.zip"
   },
   {
-    "Version": "122.0.2348.0",
+    "Version": "122.0.2353.0",
     "Channel": "Dev",
     "Architecture": "x64",
-    "URI": "https://msedgedriver.azureedge.net/122.0.2348.0/edgedriver_win64.zip"
+    "URI": "https://msedgedriver.azureedge.net/122.0.2353.0/edgedriver_win64.zip"
   },
   {
-    "Version": "122.0.2348.0",
+    "Version": "122.0.2353.0",
     "Channel": "Dev",
     "Architecture": "x86",
-    "URI": "https://msedgedriver.azureedge.net/122.0.2348.0/edgedriver_win32.zip"
+    "URI": "https://msedgedriver.azureedge.net/122.0.2353.0/edgedriver_win32.zip"
   },
   {
     "Version": "121.0.2277.71",

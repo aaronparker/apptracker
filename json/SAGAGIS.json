@@ -1,10 +1,10 @@
 [
   {
-    "Version": "9.3.0",
+    "Version": "9.3.1",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "61660171",
-    "Md5": "e873a0dfd97936d0117f3ddb598cf9a2",
-    "URI": "https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.0/saga-9.3.0_x64_setup.exe"
+    "Size": "61659825",
+    "Md5": "0bba98c2632179cd3f9f7120c33511e8",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.1/saga-9.3.1_x64_setup.exe"
   }
 ]

@@ -56,14 +56,14 @@
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
-    "Version": "120.0.6099.225",
+    "Version": "120.0.6099.268",
     "Architecture": "x64",
     "Channel": "extended",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "120.0.6099.225",
+    "Version": "120.0.6099.268",
     "Architecture": "x86",
     "Channel": "extended",
     "Type": "msi",

@@ -1,23 +1,23 @@
 [
   {
-    "Version": "10.1.3.383",
-    "Hash": "F32F126F4376F8A476C1266E5434FAE61F704870AD6D32C46F48861B0A27672C",
+    "Version": "10.2.1.385",
+    "Hash": "61350E6F63CCD7082DF24ACD8EC6CD2838A784C1A1E923E3829CD48DC579DAF0",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/builds-archive/10.1.3.383/EditorV10.ARM64.msi"
+    "URI": "https://downloads.pdf-xchange.com/EditorV10.ARM64.msi"
   },
   {
-    "Version": "10.1.3.383",
-    "Hash": "CA22DE418AB58DC2AE727FE376DE9EADEFC675A1E76E4D6D8C5E6BC3A6328AB9",
+    "Version": "10.2.1.385",
+    "Hash": "ACF1306E841B4890C7522D978C2D9CDB381256D42417711E3463732C53ADC1F8",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/builds-archive/10.1.3.383/EditorV10.x64.msi"
+    "URI": "https://downloads.pdf-xchange.com/EditorV10.x64.msi"
   },
   {
-    "Version": "10.1.3.383",
-    "Hash": "40C691037F77368DD5E27F19E6A38EAC55C3954AE9B6E4AD7132D7501EDDAB3A",
+    "Version": "10.2.1.385",
+    "Hash": "99575D900892C905EB3E98C40A94D28B81537795400BD916A6F86D7234A1D60B",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://downloads.pdf-xchange.com/builds-archive/10.1.3.383/EditorV10.x86.msi"
+    "URI": "https://downloads.pdf-xchange.com/EditorV10.x86.msi"
   }
 ]
