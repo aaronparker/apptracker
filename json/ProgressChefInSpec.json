@@ -1,51 +1,51 @@
 [
   {
-    "Version": "6.6.8",
+    "Version": "6.6.10",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "10",
-    "Sha256": "60b23b441803f5df6bc34d4a5b685d57e5f9b9d680a7ca50ba8c21c27052fed4",
-    "URI": "https://packages.chef.io/files/current/inspec/6.6.8/windows/10/inspec-6.6.8-1-x64.msi"
+    "Sha256": "fb07f96f785e739c642d8c5ffe253d877537b1af21396b5484796a95dc73662f",
+    "URI": "https://packages.chef.io/files/current/inspec/6.6.10/windows/10/inspec-6.6.10-1-x64.msi"
   },
   {
-    "Version": "6.6.8",
+    "Version": "6.6.10",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "11",
-    "Sha256": "60b23b441803f5df6bc34d4a5b685d57e5f9b9d680a7ca50ba8c21c27052fed4",
-    "URI": "https://packages.chef.io/files/current/inspec/6.6.8/windows/11/inspec-6.6.8-1-x64.msi"
+    "Sha256": "fb07f96f785e739c642d8c5ffe253d877537b1af21396b5484796a95dc73662f",
+    "URI": "https://packages.chef.io/files/current/inspec/6.6.10/windows/11/inspec-6.6.10-1-x64.msi"
   },
   {
-    "Version": "6.6.8",
+    "Version": "6.6.10",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2012r2",
-    "Sha256": "60b23b441803f5df6bc34d4a5b685d57e5f9b9d680a7ca50ba8c21c27052fed4",
-    "URI": "https://packages.chef.io/files/current/inspec/6.6.8/windows/2012r2/inspec-6.6.8-1-x64.msi"
+    "Sha256": "fb07f96f785e739c642d8c5ffe253d877537b1af21396b5484796a95dc73662f",
+    "URI": "https://packages.chef.io/files/current/inspec/6.6.10/windows/2012r2/inspec-6.6.10-1-x64.msi"
   },
   {
-    "Version": "6.6.8",
+    "Version": "6.6.10",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2016",
-    "Sha256": "60b23b441803f5df6bc34d4a5b685d57e5f9b9d680a7ca50ba8c21c27052fed4",
-    "URI": "https://packages.chef.io/files/current/inspec/6.6.8/windows/2016/inspec-6.6.8-1-x64.msi"
+    "Sha256": "fb07f96f785e739c642d8c5ffe253d877537b1af21396b5484796a95dc73662f",
+    "URI": "https://packages.chef.io/files/current/inspec/6.6.10/windows/2016/inspec-6.6.10-1-x64.msi"
   },
   {
-    "Version": "6.6.8",
+    "Version": "6.6.10",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2019",
-    "Sha256": "60b23b441803f5df6bc34d4a5b685d57e5f9b9d680a7ca50ba8c21c27052fed4",
-    "URI": "https://packages.chef.io/files/current/inspec/6.6.8/windows/2019/inspec-6.6.8-1-x64.msi"
+    "Sha256": "fb07f96f785e739c642d8c5ffe253d877537b1af21396b5484796a95dc73662f",
+    "URI": "https://packages.chef.io/files/current/inspec/6.6.10/windows/2019/inspec-6.6.10-1-x64.msi"
   },
   {
-    "Version": "6.6.8",
+    "Version": "6.6.10",
     "Architecture": "x64",
     "Channel": "current",
     "Platform": "2022",
-    "Sha256": "60b23b441803f5df6bc34d4a5b685d57e5f9b9d680a7ca50ba8c21c27052fed4",
-    "URI": "https://packages.chef.io/files/current/inspec/6.6.8/windows/2022/inspec-6.6.8-1-x64.msi"
+    "Sha256": "fb07f96f785e739c642d8c5ffe253d877537b1af21396b5484796a95dc73662f",
+    "URI": "https://packages.chef.io/files/current/inspec/6.6.10/windows/2022/inspec-6.6.10-1-x64.msi"
   },
   {
     "Version": "6.6.0",
