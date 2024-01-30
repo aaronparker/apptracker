@@ -35,21 +35,21 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "121.0.6167.85",
+    "Version": "121.0.6167.86",
     "Architecture": "x64",
     "Channel": "stable",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "121.0.6167.85",
+    "Version": "121.0.6167.86",
     "Architecture": "x86",
     "Channel": "stable",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "121.0.6167.85",
+    "Version": "121.0.6167.86",
     "Architecture": "x64",
     "Channel": "stable",
     "Type": "zip",
