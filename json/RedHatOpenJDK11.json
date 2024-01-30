@@ -1,18 +1,18 @@
 [
   {
-    "Version": "11.0.21+9",
+    "Version": "11.0.22+7",
     "ImageType": "jdk",
-    "Date": "2023-10-18T17:01:31Z",
+    "Date": "2024-01-25T17:32:00Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/October_2023/java-11-openjdk-11.0.21.9-1.windows.redhat.x86_64.msi"
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-11-openjdk-11.0.22.7-1.windows.redhat.x86_64.msi"
   },
   {
-    "Version": "11.0.21+9",
+    "Version": "11.0.22+7",
     "ImageType": "jre",
-    "Date": "2023-10-18T17:01:31Z",
+    "Date": "2024-01-25T17:32:00Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/October_2023/java-11-openjdk-jre-11.0.21.9-1.windows.redhat.x86_64.msi"
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-11-openjdk-jre-11.0.22.7-1.windows.redhat.x86_64.msi"
   }
 ]
