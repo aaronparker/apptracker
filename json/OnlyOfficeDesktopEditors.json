@@ -1,62 +1,62 @@
 [
   {
-    "Version": "7.5.1",
+    "Version": "8.0.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/14/2023",
-    "Size": 254933176,
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x64.exe"
+    "Date": "01/31/2024",
+    "Size": 218645776,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors_x64.exe"
   },
   {
-    "Version": "7.5.1",
+    "Version": "8.0.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/14/2023",
-    "Size": 439278472,
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x64_xp.exe"
+    "Date": "01/31/2024",
+    "Size": 421929464,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors_x64_xp.exe"
   },
   {
-    "Version": "7.5.1",
+    "Version": "8.0.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/14/2023",
-    "Size": 233170480,
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x86.exe"
+    "Date": "01/31/2024",
+    "Size": 197454776,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors_x86.exe"
   },
   {
-    "Version": "7.5.1",
+    "Version": "8.0.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/14/2023",
-    "Size": 417273896,
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x86_xp.exe"
+    "Date": "01/31/2024",
+    "Size": 411470424,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors_x86_xp.exe"
   },
   {
-    "Version": "7.5.1",
+    "Version": "8.0.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "11/14/2023",
-    "Size": 404998656,
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x64.msi"
+    "Date": "01/31/2024",
+    "Size": 343338496,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors_x64.msi"
   },
   {
-    "Version": "7.5.1",
+    "Version": "8.0.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "11/14/2023",
-    "Size": 376073216,
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors_x86.msi"
+    "Date": "01/31/2024",
+    "Size": 315018752,
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors_x86.msi"
   }
 ]

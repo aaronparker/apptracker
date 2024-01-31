@@ -1,12 +1,12 @@
 [
   {
-    "Version": "9.0.9.1230",
+    "Version": "9.0.10.201",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "12/28/2023",
-    "Size": 41573376,
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.0.9.1230/ImageGlass_9.0.9.1230_x64.msi"
+    "Date": "01/30/2024",
+    "Size": 29947904,
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.0.10.201/ImageGlass_9.0.10.201_x64.msi"
   }
 ]
