@@ -1,0 +1,17 @@
+json/1Password.json
+json/7zip.json
+json/FileZilla.json
+json/Gimp.json
+json/GoogleChrome.json
+json/JetBrainsGateway.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/ProjectLibre.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/gretl.json
