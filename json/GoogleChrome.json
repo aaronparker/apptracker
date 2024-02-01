@@ -7,14 +7,14 @@
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
-    "Version": "123.0.6262.5",
+    "Version": "123.0.6272.2",
     "Architecture": "x64",
     "Channel": "dev",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "123.0.6262.5",
+    "Version": "123.0.6272.2",
     "Architecture": "x86",
     "Channel": "dev",
     "Type": "msi",
