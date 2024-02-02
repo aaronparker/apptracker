@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "35282192",
     "Md5": "4ece9a74a0db8508bb1d5dd60a977150",
-    "URI": "https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe"
   },
   {
     "Version": "1.26.7",
@@ -13,7 +13,7 @@
     "Type": "exe",
     "Size": "35094288",
     "Md5": "7fc999bab1fcce67d33e6f3e34e5ebce",
-    "URI": "https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe"
   },
   {
     "Version": "1.26.7",
@@ -21,6 +21,6 @@
     "Type": "msi",
     "Size": "42389504",
     "Md5": "d7824445f363880a0a452a8dc08b6f15",
-    "URI": "https://zenlayer.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi"
+    "URI": "https://netactuate.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi"
   }
 ]
