@@ -3,7 +3,7 @@
     "Version": "Latest",
     "Platform": "Citrix",
     "Installer": "Admin",
-    "Size": 94504448,
+    "Size": 94507008,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi"
