@@ -1,12 +1,12 @@
 [
   {
-    "Version": "23.3.3",
+    "Version": "23.3.4",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "01/18/2024",
-    "Size": 125060624,
-    "URI": "https://github.com/dbeaver/dbeaver/releases/download/23.3.3/dbeaver-ce-23.3.3-x86_64-setup.exe"
+    "Date": "02/02/2024",
+    "Size": 125076304,
+    "URI": "https://github.com/dbeaver/dbeaver/releases/download/23.3.4/dbeaver-ce-23.3.4-x86_64-setup.exe"
   }
 ]
