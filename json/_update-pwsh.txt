@@ -1,0 +1,8 @@
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
