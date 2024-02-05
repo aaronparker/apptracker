@@ -54,40 +54,40 @@
     "URI": "https://cdn.zoom.us/prod/5.17.7.31859/ZoomInstallerFull.msi"
   },
   {
-    "Version": "5.17.5.3632",
+    "Version": "5.17.6.3670",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 332523592,
+    "Size": 332520440,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.17.5.3632/x64/zoomrooms-5.17.5.3632-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/5.17.6.3670/x64/zoomrooms-5.17.6.3670-x64.exe"
   },
   {
-    "Version": "5.17.5.3632",
+    "Version": "5.17.6.3670",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 301536616,
+    "Size": 301539448,
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.17.5.3632/zoomrooms-5.17.5.3632-x86.exe"
+    "URI": "https://cdn.zoom.us/prod/5.17.6.3670/zoomrooms-5.17.6.3670-x86.exe"
   },
   {
-    "Version": "5.17.5.3632",
+    "Version": "5.17.6.3670",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 335235584,
+    "Size": 335232000,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/5.17.5.3632/x64/zoomrooms-5.17.5.3632-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/5.17.6.3670/x64/zoomrooms-5.17.6.3670-x64.msi"
   },
   {
-    "Version": "5.17.5.3632",
+    "Version": "5.17.6.3670",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 304048640,
+    "Size": 304051712,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/5.17.5.3632/zoomrooms-5.17.5.3632-x86.msi"
+    "URI": "https://cdn.zoom.us/prod/5.17.6.3670/zoomrooms-5.17.6.3670-x86.msi"
   },
   {
     "Version": "5.17.0.981",
