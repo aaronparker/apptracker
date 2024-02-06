@@ -39,7 +39,7 @@
     "Version": "Latest",
     "Platform": "VDIClient",
     "Installer": "Admin",
-    "Size": 109941760,
+    "Size": 107708416,
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi"
