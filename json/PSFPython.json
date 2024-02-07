@@ -1,33 +1,33 @@
 [
   {
-    "Version": "3.12.1",
+    "Version": "3.12.2",
     "Python": 3,
-    "md5": "25fb741f175dc98d5630520f2df931ec",
-    "Size": 25806784,
-    "Date": "12/08/2023",
+    "md5": "f769b05cd9d336d2d6e3f6399cb573be",
+    "Size": 25882872,
+    "Date": "02/06/2024",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://www.python.org/ftp/python/3.12.1/python-3.12.1-arm64.exe"
+    "URI": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-arm64.exe"
   },
   {
-    "Version": "3.12.1",
+    "Version": "3.12.2",
     "Python": 3,
-    "md5": "3e3b6550e58772d324f7519bfa8066dc",
-    "Size": 26589696,
-    "Date": "12/08/2023",
+    "md5": "44abfae489d87cc005d50a9267b5d58d",
+    "Size": 26667456,
+    "Date": "02/06/2024",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe"
+    "URI": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
   },
   {
-    "Version": "3.12.1",
+    "Version": "3.12.2",
     "Python": 3,
-    "md5": "37a89a09138888e6331ec279d68fea8e",
-    "Size": 25253448,
-    "Date": "12/08/2023",
+    "md5": "bc4d721cf44a52fa9e19c1209d45e8c3",
+    "Size": 25320328,
+    "Date": "02/06/2024",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://www.python.org/ftp/python/3.12.1/python-3.12.1.exe"
+    "URI": "https://www.python.org/ftp/python/3.12.2/python-3.12.2.exe"
   },
   {
     "Version": "2.7.18",
