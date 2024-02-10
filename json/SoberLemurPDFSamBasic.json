@@ -6,7 +6,7 @@
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "02/07/2024",
-    "Size": 84721664,
+    "Size": 84774912,
     "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.2.2/pdfsam-5.2.2.msi"
   },
   {
@@ -16,7 +16,7 @@
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "02/07/2024",
-    "Size": 83206753,
+    "Size": 83258581,
     "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.2.2/pdfsam-5.2.2-windows.zip"
   }
 ]
