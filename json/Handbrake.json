@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.7.2",
+    "Version": "1.7.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 17259088,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-arm64-Win_GUI.exe"
+    "Date": "02/10/2024",
+    "Size": 17517960,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-arm64-Win_GUI.exe"
   },
   {
-    "Version": "1.7.2",
+    "Version": "1.7.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 23627928,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-x86_64-Win_GUI.exe"
+    "Date": "02/10/2024",
+    "Size": 23646760,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-x86_64-Win_GUI.exe"
   },
   {
-    "Version": "1.7.2",
+    "Version": "1.7.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 25776761,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-arm64-Win_GUI.zip"
+    "Date": "02/10/2024",
+    "Size": 25999227,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-arm64-Win_GUI.zip"
   },
   {
-    "Version": "1.7.2",
+    "Version": "1.7.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 16619400,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrakeCLI-1.7.2-win-aarch64.zip"
+    "Date": "02/10/2024",
+    "Size": 16951694,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrakeCLI-1.7.3-win-aarch64.zip"
   },
   {
-    "Version": "1.7.2",
+    "Version": "1.7.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 32984151,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrake-1.7.2-x86_64-Win_GUI.zip"
+    "Date": "02/10/2024",
+    "Size": 32995201,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-x86_64-Win_GUI.zip"
   },
   {
-    "Version": "1.7.2",
+    "Version": "1.7.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 21949172,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.2/HandBrakeCLI-1.7.2-win-x86_64.zip"
+    "Date": "02/10/2024",
+    "Size": 21952792,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrakeCLI-1.7.3-win-x86_64.zip"
   }
 ]
