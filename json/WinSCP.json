@@ -1,18 +1,18 @@
 [
   {
-    "Version": "6.1.2",
+    "Version": "6.3",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "11132448",
-    "Md5": "a655323232f2defb99c4e975ab1edcec",
-    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2-Setup.exe"
+    "Size": "11577224",
+    "Md5": "feb4532b45421105558ff7ea32668f78",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3/WinSCP-6.3-Setup.exe"
   },
   {
-    "Version": "6.1.2",
+    "Version": "6.3",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "27820032",
-    "Md5": "2942ddaf55188418b84459720acd4af7",
-    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.1.2/WinSCP-6.1.2.msi"
+    "Size": "27951104",
+    "Md5": "2b4fd09829fd6e07402e601b2ba56054",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3/WinSCP-6.3.msi"
   }
 ]
