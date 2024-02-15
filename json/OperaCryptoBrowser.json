@@ -1,9 +1,9 @@
 [
   {
-    "Version": "106.0.4998.52",
+    "Version": "107.0.5045.21",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_crypto/106.0.4998.52/win/Opera_Crypto_106.0.4998.52_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_crypto/107.0.5045.21/win/Opera_Crypto_107.0.5045.21_Setup_x64.exe"
   }
 ]
