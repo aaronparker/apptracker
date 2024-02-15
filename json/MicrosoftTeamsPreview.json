@@ -1,5 +1,19 @@
 [
   {
+    "Version": "24004.1304.2655.7488",
+    "Release": "Consumer",
+    "Architecture": "macOS",
+    "Type": "pkg",
+    "URI": "https://statics.teams.cdn.office.net/production-osx/24004.1304.2655.7488/MicrosoftTeams.pkg"
+  },
+  {
+    "Version": "24004.1304.2655.7488",
+    "Release": "Enterprise",
+    "Architecture": "macOS",
+    "Type": "pkg",
+    "URI": "https://statics.teams.microsoft.com/production-osx/24004.1304.2655.7488/MicrosoftTeams.pkg"
+  },
+  {
     "Version": "23335.232.2637.4844",
     "Release": "Consumer",
     "Architecture": "arm64",
@@ -40,19 +54,5 @@
     "Architecture": "x86",
     "Type": "msix",
     "URI": "https://statics.teams.microsoft.com/production-windows-x86/23335.232.2637.4844/MSTeams-x86.msix"
-  },
-  {
-    "Version": "23335.208.2601.834",
-    "Release": "Consumer",
-    "Architecture": "macOS",
-    "Type": "pkg",
-    "URI": "https://statics.teams.cdn.office.net/production-osx/23335.208.2601.834/MicrosoftTeams.pkg"
-  },
-  {
-    "Version": "23335.208.2601.834",
-    "Release": "Enterprise",
-    "Architecture": "macOS",
-    "Type": "pkg",
-    "URI": "https://statics.teams.microsoft.com/production-osx/23335.208.2601.834/MicrosoftTeams.pkg"
   }
 ]
