@@ -1,5 +1,12 @@
 [
   {
+    "Version": "24004.1307.2669.7070",
+    "Release": "Consumer",
+    "Architecture": "x64",
+    "Type": "msix",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/24004.1307.2669.7070/MicrosoftTeams-x64.msix"
+  },
+  {
     "Version": "24004.1304.2655.7488",
     "Release": "Consumer",
     "Architecture": "macOS",
@@ -26,13 +33,6 @@
     "Architecture": "arm64",
     "Type": "msix",
     "URI": "https://statics.teams.microsoft.com/production-windows-arm64/23335.232.2637.4844/MSTeams-arm64.msix"
-  },
-  {
-    "Version": "23335.232.2637.4844",
-    "Release": "Consumer",
-    "Architecture": "x64",
-    "Type": "msix",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/23335.232.2637.4844/MicrosoftTeams-x64.msix"
   },
   {
     "Version": "23335.232.2637.4844",
