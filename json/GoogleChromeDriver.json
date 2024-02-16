@@ -1,7 +1,7 @@
 [
   {
     "Version": "123.0.6301.2",
-    "Revision": "1260866",
+    "Revision": "1260414",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
@@ -9,27 +9,27 @@
   },
   {
     "Version": "123.0.6301.2",
-    "Revision": "1260866",
+    "Revision": "1260414",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6301.2/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "123.0.6286.0",
-    "Revision": "1257143",
+    "Version": "123.0.6300.3",
+    "Revision": "1260023",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6286.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6300.3/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "123.0.6286.0",
-    "Revision": "1257143",
+    "Version": "123.0.6300.3",
+    "Revision": "1260023",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6286.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6300.3/win32/chromedriver-win32.zip"
   },
   {
     "Version": "122.0.6261.39",
@@ -48,19 +48,19 @@
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.39/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "121.0.6167.85",
+    "Version": "121.0.6167.184",
     "Revision": "1233107",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.85/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.184/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "121.0.6167.85",
+    "Version": "121.0.6167.184",
     "Revision": "1233107",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.85/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.184/win32/chromedriver-win32.zip"
   }
 ]
