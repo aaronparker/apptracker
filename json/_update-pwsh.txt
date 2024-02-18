@@ -1,0 +1,9 @@
+json/7zip.json
+json/Gimp.json
+json/GoogleChromeDriver.json
+json/KDiff3.json
+json/KeePass.json
+json/ProgressChefInfraClient.json
+json/ProjectLibre.json
+json/VideoLanVlcPlayer.json
+json/gretl.json
