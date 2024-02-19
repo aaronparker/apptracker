@@ -20,15 +20,15 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                              |
-| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://gigenet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -1246,9 +1246,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                   |
-| ------- | ---------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
+| Version | Date       | Sha256                                                           | URI                                                                     |
+| ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2.10.36 | 11/06/2023 | 947efa2397f7a17b8e4f4c9689e4ab67f00ca220ac1aa0ae0c1e179ccfc4fc10 | https://mirrors.iu13.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup.exe |
 
 ## GitExtensions
 
@@ -1326,8 +1326,8 @@
 
 | Version        | Revision | Channel | Architecture | Type | URI                                                                                                  |
 | -------------- | -------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
-| 123.0.6308.0   | 1262126  | Canary  | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6308.0/win64/chromedriver-win64.zip   |
-| 123.0.6308.0   | 1262126  | Canary  | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6308.0/win32/chromedriver-win32.zip   |
+| 123.0.6309.0   | 1262161  | Canary  | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6309.0/win64/chromedriver-win64.zip   |
+| 123.0.6309.0   | 1262161  | Canary  | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6309.0/win32/chromedriver-win32.zip   |
 | 123.0.6300.3   | 1260023  | Dev     | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6300.3/win64/chromedriver-win64.zip   |
 | 123.0.6300.3   | 1260023  | Dev     | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6300.3/win32/chromedriver-win32.zip   |
 | 122.0.6261.39  | 1250580  | Beta    | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.39/win64/chromedriver-win64.zip  |
@@ -1393,10 +1393,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                            |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------ |
-| 2023c   | x64          | exe  | 38515520 | 4983735b68352bae0bc8b8de47155fc6 | https://psychz.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe |
-| 2023c   | x86          | exe  | 34545216 | da3fec1657f61e4c3b9336cbb00657ec | https://psychz.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023c   | x64          | exe  | 38515520 | 4983735b68352bae0bc8b8de47155fc6 | https://zenlayer.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe |
+| 2023c   | x86          | exe  | 34545216 | da3fec1657f61e4c3b9336cbb00657ec | https://zenlayer.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe |
 
 ## gsudo
 
@@ -1699,17 +1699,17 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://phoenixnap.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2.56    | x86          | exe  | 4398304 | 86a0d58d2ae89c639d940dbda48308df | https://pilotfiber.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56-Setup.exe |
-| 2.56    | x86          | msi  | 3767808 | 7a2d09586468eff86d9e54e2bce00be2 | https://pilotfiber.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                           |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------------------- |
+| 2.56    | x86          | exe  | 4398304 | 86a0d58d2ae89c639d940dbda48308df | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56-Setup.exe |
+| 2.56    | x86          | msi  | 3767808 | 7a2d09586468eff86d9e54e2bce00be2 | https://cytranet.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -4673,7 +4673,7 @@
 
 | Version     | Date       | URI                                                                    |
 | ----------- | ---------- | ---------------------------------------------------------------------- |
-| 2023.4.8334 | 02/16/2024 | https://download.octopusdeploy.com/octopus/Octopus.2023.4.8334-x64.msi |
+| 2023.4.8338 | 02/16/2024 | https://download.octopusdeploy.com/octopus/Octopus.2023.4.8338-x64.msi |
 
 ## OctopusTentacle
 
@@ -4933,26 +4933,26 @@
 
 [Link](https://www.chef.io/products/chef-infra)
 
-| Version | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                               |
-| ------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 18.4.12 | x64          | current  | 10       | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/10/chef-client-18.4.12-1-x64.msi      |
-| 18.4.12 | x64          | unstable | 10       | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/unstable/chef/18.4.12/windows/10/chef-client-18.4.12-1-x64.msi     |
-| 18.4.12 | x64          | current  | 11       | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/11/chef-client-18.4.12-1-x64.msi      |
-| 18.4.12 | x64          | unstable | 11       | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/unstable/chef/18.4.12/windows/11/chef-client-18.4.12-1-x64.msi     |
-| 18.4.12 | x64          | current  | 2012r2   | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2012r2/chef-client-18.4.12-1-x64.msi  |
-| 18.4.12 | x64          | unstable | 2012r2   | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/unstable/chef/18.4.12/windows/2012r2/chef-client-18.4.12-1-x64.msi |
-| 18.4.12 | x64          | current  | 2016     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2016/chef-client-18.4.12-1-x64.msi    |
-| 18.4.12 | x64          | unstable | 2016     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/unstable/chef/18.4.12/windows/2016/chef-client-18.4.12-1-x64.msi   |
-| 18.4.12 | x64          | current  | 2019     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2019/chef-client-18.4.12-1-x64.msi    |
-| 18.4.12 | x64          | unstable | 2019     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/unstable/chef/18.4.12/windows/2019/chef-client-18.4.12-1-x64.msi   |
-| 18.4.12 | x64          | current  | 2022     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2022/chef-client-18.4.12-1-x64.msi    |
-| 18.4.12 | x64          | unstable | 2022     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/unstable/chef/18.4.12/windows/2022/chef-client-18.4.12-1-x64.msi   |
-| 18.4.2  | x64          | stable   | 10       | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/10/chef-client-18.4.2-1-x64.msi         |
-| 18.4.2  | x64          | stable   | 11       | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/11/chef-client-18.4.2-1-x64.msi         |
-| 18.4.2  | x64          | stable   | 2012r2   | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2012r2/chef-client-18.4.2-1-x64.msi     |
-| 18.4.2  | x64          | stable   | 2016     | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2016/chef-client-18.4.2-1-x64.msi       |
-| 18.4.2  | x64          | stable   | 2019     | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2019/chef-client-18.4.2-1-x64.msi       |
-| 18.4.2  | x64          | stable   | 2022     | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2022/chef-client-18.4.2-1-x64.msi       |
+| Version   | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                   |
+| --------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 18.4.12   | x64          | current  | 10       | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/10/chef-client-18.4.12-1-x64.msi          |
+| 18.4.12   | x64          | current  | 11       | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/11/chef-client-18.4.12-1-x64.msi          |
+| 18.4.12   | x64          | current  | 2012r2   | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2012r2/chef-client-18.4.12-1-x64.msi      |
+| 18.4.12   | x64          | current  | 2016     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2016/chef-client-18.4.12-1-x64.msi        |
+| 18.4.12   | x64          | current  | 2019     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2019/chef-client-18.4.12-1-x64.msi        |
+| 18.4.12   | x64          | current  | 2022     | 939a12b17733741799778485463aaae690a4d2512cc2c9f78b812e010640675b | https://packages.chef.io/files/current/chef/18.4.12/windows/2022/chef-client-18.4.12-1-x64.msi        |
+| 18.4.2    | x64          | stable   | 10       | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/10/chef-client-18.4.2-1-x64.msi             |
+| 18.4.2    | x64          | stable   | 11       | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/11/chef-client-18.4.2-1-x64.msi             |
+| 18.4.2    | x64          | stable   | 2012r2   | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2012r2/chef-client-18.4.2-1-x64.msi         |
+| 18.4.2    | x64          | stable   | 2016     | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2016/chef-client-18.4.2-1-x64.msi           |
+| 18.4.2    | x64          | stable   | 2019     | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2019/chef-client-18.4.2-1-x64.msi           |
+| 18.4.2    | x64          | stable   | 2022     | f676683a4dc9ca17d142710964d773fe62e59307e6f19d2d65cb92dd51c86542 | https://packages.chef.io/files/stable/chef/18.4.2/windows/2022/chef-client-18.4.2-1-x64.msi           |
+| 17.10.120 | x64          | unstable | 10       | 0af02aa51ca4602b65b34761a72834e04000cacb5106fe3cd000c7bafc77b321 | https://packages.chef.io/files/unstable/chef/17.10.120/windows/10/chef-client-17.10.120-1-x64.msi     |
+| 17.10.120 | x64          | unstable | 11       | 0af02aa51ca4602b65b34761a72834e04000cacb5106fe3cd000c7bafc77b321 | https://packages.chef.io/files/unstable/chef/17.10.120/windows/11/chef-client-17.10.120-1-x64.msi     |
+| 17.10.120 | x64          | unstable | 2012r2   | 0af02aa51ca4602b65b34761a72834e04000cacb5106fe3cd000c7bafc77b321 | https://packages.chef.io/files/unstable/chef/17.10.120/windows/2012r2/chef-client-17.10.120-1-x64.msi |
+| 17.10.120 | x64          | unstable | 2016     | 0af02aa51ca4602b65b34761a72834e04000cacb5106fe3cd000c7bafc77b321 | https://packages.chef.io/files/unstable/chef/17.10.120/windows/2016/chef-client-17.10.120-1-x64.msi   |
+| 17.10.120 | x64          | unstable | 2019     | 0af02aa51ca4602b65b34761a72834e04000cacb5106fe3cd000c7bafc77b321 | https://packages.chef.io/files/unstable/chef/17.10.120/windows/2019/chef-client-17.10.120-1-x64.msi   |
+| 17.10.120 | x64          | unstable | 2022     | 0af02aa51ca4602b65b34761a72834e04000cacb5106fe3cd000c7bafc77b321 | https://packages.chef.io/files/unstable/chef/17.10.120/windows/2022/chef-client-17.10.120-1-x64.msi   |
 
 ## ProgressChefInSpec
 
@@ -4996,9 +4996,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cfhcable.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://pilotfiber.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5143,9 +5143,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 9.3.1   | x64          | exe  | 61659825 | 0bba98c2632179cd3f9f7120c33511e8 | https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.1/saga-9.3.1_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                           |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 9.3.1   | x64          | exe  | 61659825 | 0bba98c2632179cd3f9f7120c33511e8 | https://pilotfiber.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.1/saga-9.3.1_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5442,11 +5442,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://pilotfiber.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://pilotfiber.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://pilotfiber.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                               |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
+| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
+| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
 
 ## VercelHyper
 
@@ -5460,14 +5460,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                               |
-| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
-| 3.0.20  | Windows  | x64          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe |
-| 3.0.20  | Windows  | x86          | EXE  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe        |
-| 3.0.20  | Windows  | x64          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi |
-| 3.0.20  | Windows  | x86          | MSI  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi        |
-| 3.0.20  | Windows  | x64          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip |
-| 3.0.20  | Windows  | x86          | ZIP  | https://mirror.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip        |
+| Version | Platform | Architecture | Type | URI                                                                                 |
+| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
+| 3.0.20  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe     |
+| 3.0.20  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe |
+| 3.0.20  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi     |
+| 3.0.20  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi |
+| 3.0.20  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip     |
+| 3.0.20  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5584,8 +5584,8 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| 6.3     | x86          | exe  | 11577224 | feb4532b45421105558ff7ea32668f78 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3/WinSCP-6.3-Setup.exe |
-| 6.3     | x86          | msi  | 27951104 | 2b4fd09829fd6e07402e601b2ba56054 | https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3/WinSCP-6.3.msi       |
+| 6.3     | x86          | exe  | 11577224 | feb4532b45421105558ff7ea32668f78 | https://zenlayer.dl.sourceforge.net/project/winscp/WinSCP/6.3/WinSCP-6.3-Setup.exe |
+| 6.3     | x86          | msi  | 27951104 | 2b4fd09829fd6e07402e601b2ba56054 | https://zenlayer.dl.sourceforge.net/project/winscp/WinSCP/6.3/WinSCP-6.3.msi       |
 
 ## Wireshark
 
