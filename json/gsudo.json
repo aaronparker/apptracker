@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.4.3",
+    "Version": "2.4.4",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "02/19/2024",
+    "Date": "02/20/2024",
     "Size": 2342912,
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.3/gsudo.setup.arm64.msi"
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.4/gsudo.setup.arm64.msi"
   },
   {
-    "Version": "2.4.3",
+    "Version": "2.4.4",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "02/19/2024",
-    "Size": 2347008,
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.3/gsudo.setup.x64.msi"
+    "Date": "02/20/2024",
+    "Size": 2351104,
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.4/gsudo.setup.x64.msi"
   },
   {
-    "Version": "2.4.3",
+    "Version": "2.4.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "02/19/2024",
-    "Size": 6639616,
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.3/gsudo.setup.x86.msi"
+    "Date": "02/20/2024",
+    "Size": 6643712,
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.4/gsudo.setup.x86.msi"
   },
   {
-    "Version": "2.4.3",
+    "Version": "2.4.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Portable",
-    "Date": "02/19/2024",
-    "Size": 12572346,
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.3/gsudo.portable.zip"
+    "Date": "02/20/2024",
+    "Size": 12571287,
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.4.4/gsudo.portable.zip"
   }
 ]

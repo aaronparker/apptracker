@@ -1,12 +1,12 @@
 [
   {
-    "Version": "6.3.1",
+    "Version": "6.4.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "12/12/2023",
-    "Size": 36134912,
-    "URI": "https://github.com/Yubico/yubioath-flutter/releases/download/6.3.1/yubico-authenticator-6.3.1-win64.msi"
+    "Date": "02/20/2024",
+    "Size": 36618240,
+    "URI": "https://github.com/Yubico/yubioath-flutter/releases/download/6.4.0/yubico-authenticator-6.4.0-win64.msi"
   }
 ]
