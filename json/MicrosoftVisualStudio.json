@@ -1,8 +1,8 @@
 [
   {
-    "Version": "17.9.34607.119",
-    "Sha256": "49a79c19d4080566dde5c85d6cd981a1d37a84fa59c59f684763e12c1a00de89",
-    "Size": 3993032,
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9a62f360-5491-46e0-b370-3b90f2545317/49a79c19d4080566dde5c85d6cd981a1d37a84fa59c59f684763e12c1a00de89/vs_Setup.exe"
+    "Version": "17.9.34616.47",
+    "Sha256": "55bad433ef4bff4e40dc3ad3c3998c9f6a37ec3554590c07bb311142fb4ab527",
+    "Size": 3992896,
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/63fee7e3-bede-41ad-97a2-97b8b9f535d1/55bad433ef4bff4e40dc3ad3c3998c9f6a37ec3554590c07bb311142fb4ab527/vs_Setup.exe"
   }
 ]
