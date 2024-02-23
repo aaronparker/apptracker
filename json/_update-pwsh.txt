@@ -1,0 +1,14 @@
+json/7zip.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KeePass.json
+json/MicrosoftAzureDataStudio.json
+json/MicrosoftOneDrive.json
+json/OctopusTentacle.json
+json/ProjectLibre.json
+json/RingCentral.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/XnSoftXnViewMP.json
+json/gretl.json
