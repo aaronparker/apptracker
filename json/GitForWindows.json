@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.43.0.1",
+    "Version": "2.44.0.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/20/2023",
-    "Size": 60868040,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe"
+    "Date": "02/23/2024",
+    "Size": 65350776,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe"
   },
   {
-    "Version": "2.43.0.1",
+    "Version": "2.44.0.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "11/20/2023",
-    "Size": 56424944,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-64-bit.7z.exe"
+    "Date": "02/23/2024",
+    "Size": 61765416,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe"
   },
   {
-    "Version": "2.43.0.1",
+    "Version": "2.44.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/20/2023",
-    "Size": 61296000,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.exe"
+    "Date": "02/23/2024",
+    "Size": 62435528,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe"
   },
   {
-    "Version": "2.43.0.1",
+    "Version": "2.44.0.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "11/20/2023",
-    "Size": 57474808,
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-32-bit.7z.exe"
+    "Date": "02/23/2024",
+    "Size": 58639848,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe"
   }
 ]
