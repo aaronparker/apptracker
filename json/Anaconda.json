@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2023.09",
+    "Version": "2024.02",
     "Architecture": "x64",
-    "Date": "2023-09-29T15:43:35.3113174Z",
-    "Size": 1095571496,
-    "MD5": "e1040bfdedd8e5bc126a6cee3c29f8b3",
-    "Sha256": "810da8bff79c10a708b7af9e8f21e6bb47467261a31741240f27bd807f155cb9",
-    "URI": "https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe"
+    "Date": "2024-02-26T20:50:21.7240598Z",
+    "Size": 948300296,
+    "MD5": "ab26bf3c0656e03a41680d0b22eaebd5",
+    "Sha256": "087c633e355bc709222ad9e0dbad77abeed84f7e06dbdbecae84ba8b3660429e",
+    "URI": "https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe"
   }
 ]
