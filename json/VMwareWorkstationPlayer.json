@@ -1,11 +1,11 @@
 [
   {
-    "Version": "17.5",
-    "ReleaseDate": "2023-10-19T00:00:00",
-    "Md5": "0642c5fdd888eb8140aa7a4f48e3a063",
-    "Sha256": "cb45b416d0b85e0d34aa2cabcfdecc8dfd82437dba91c221fbb4bce388b54717",
-    "Size": "540.19 MB",
+    "Version": "17.5.1",
+    "ReleaseDate": "2024-02-27T00:00:00",
+    "Md5": "4658408192fc875aa932292f686c3b32",
+    "Sha256": "50f5596fbd3fd60336f368e35f9ca991a4be1aa40d94cf5017c3abd104b24f8b",
+    "Size": "562.71 MB",
     "Type": "exe",
-    "URI": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe"
+    "URI": "https://download3.vmware.com/software/WKST-PLAYER-1751/VMware-player-full-17.5.1-23298084.exe"
   }
 ]
