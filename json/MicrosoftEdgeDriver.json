@@ -6,10 +6,16 @@
     "URI": "https://msedgedriver.azureedge.net/123.0.2420.6/edgedriver_arm64.zip"
   },
   {
-    "Version": "123.0.2400.1",
+    "Version": "123.0.2420.6",
     "Channel": "Dev",
     "Architecture": "x64",
-    "URI": "https://msedgedriver.azureedge.net/123.0.2400.1/edgedriver_win64.zip"
+    "URI": "https://msedgedriver.azureedge.net/123.0.2420.6/edgedriver_win64.zip"
+  },
+  {
+    "Version": "123.0.2420.6",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "URI": "https://msedgedriver.azureedge.net/123.0.2420.6/edgedriver_win32.zip"
   },
   {
     "Version": "122.0.2365.59",
