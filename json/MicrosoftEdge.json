@@ -12,15 +12,6 @@
     "Version": "123.0.2420.6",
     "Platform": "Windows",
     "Channel": "Dev",
-    "Release": "Consumer",
-    "Architecture": "arm64",
-    "Hash": "DFE9090487D36DDCDA1D3FBE5D9104612AEC37F287F39A0F8C074E0327F6B43B",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e02ee5d-37e3-4cc8-9b56-775237bf8704/MicrosoftEdgeDevEnterpriseARM64.msi"
-  },
-  {
-    "Version": "123.0.2420.6",
-    "Platform": "Windows",
-    "Channel": "Dev",
     "Release": "Enterprise",
     "Architecture": "arm64",
     "Hash": "DFE9090487D36DDCDA1D3FBE5D9104612AEC37F287F39A0F8C074E0327F6B43B",
