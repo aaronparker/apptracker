@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.7.2",
+    "Version": "4.7.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "12/24/2023",
-    "Size": 142435972,
-    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.7.2/texstudio-4.7.2-win-qt6.exe"
+    "Date": "03/01/2024",
+    "Size": 144228785,
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.7.3/texstudio-4.7.3-win-qt6.exe"
   }
 ]
