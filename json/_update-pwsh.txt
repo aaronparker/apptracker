@@ -1,0 +1,14 @@
+json/1Password.json
+json/AWSCLI.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/KDiff3.json
+json/KeePass.json
+json/ProgressChefInfraClient.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/UnityEditor.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
