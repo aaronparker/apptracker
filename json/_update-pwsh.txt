@@ -1,0 +1,15 @@
+json/1Password.json
+json/7zip.json
+json/GeoGebraClassic.json
+json/Gimp.json
+json/GoogleChrome.json
+json/JetBrainsTeamCity.json
+json/KDiff3.json
+json/KeePass.json
+json/Microsoft365Apps.json
+json/MicrosoftPowerToys.json
+json/ProjectLibre.json
+json/Tower.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json

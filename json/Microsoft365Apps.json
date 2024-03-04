@@ -1,5 +1,12 @@
 [
   {
+    "Version": "16.0.17425.20008",
+    "Channel": "CurrentPreview",
+    "Name": "Current Channel (Preview)",
+    "Date": "2024-03-04T15:43:17.38Z",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
     "Version": "16.0.17425.20000",
     "Channel": "BetaChannel",
     "Name": "Beta",
@@ -11,13 +18,6 @@
     "Channel": "Current",
     "Name": "Current Channel",
     "Date": "2024-02-28T19:12:26.25Z",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.17328.20142",
-    "Channel": "CurrentPreview",
-    "Name": "Current Channel (Preview)",
-    "Date": "2024-02-28T18:30:33.293Z",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {

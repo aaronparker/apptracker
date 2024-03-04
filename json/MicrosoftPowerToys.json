@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.78.0",
+    "Version": "0.79.0",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "01/27/2024",
-    "Size": 256292656,
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.78.0/PowerToysSetup-0.78.0-arm64.exe"
+    "Date": "03/01/2024",
+    "Size": 256615920,
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.79.0/PowerToysSetup-0.79.0-arm64.exe"
   },
   {
-    "Version": "0.78.0",
+    "Version": "0.79.0",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "01/27/2024",
-    "Size": 256293392,
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.78.0/PowerToysUserSetup-0.78.0-arm64.exe"
+    "Date": "03/01/2024",
+    "Size": 256615856,
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.79.0/PowerToysUserSetup-0.79.0-arm64.exe"
   },
   {
-    "Version": "0.78.0",
+    "Version": "0.79.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "01/27/2024",
-    "Size": 261971120,
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.78.0/PowerToysSetup-0.78.0-x64.exe"
+    "Date": "03/01/2024",
+    "Size": 262643392,
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.79.0/PowerToysSetup-0.79.0-x64.exe"
   },
   {
-    "Version": "0.78.0",
+    "Version": "0.79.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "01/27/2024",
-    "Size": 261970760,
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.78.0/PowerToysUserSetup-0.78.0-x64.exe"
+    "Date": "03/01/2024",
+    "Size": 262643584,
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.79.0/PowerToysUserSetup-0.79.0-x64.exe"
   }
 ]
