@@ -1,19 +1,35 @@
 [
   {
-    "Version": "124.0.6337.0",
-    "Revision": "1267642",
+    "Version": "124.0.6338.0",
+    "Revision": "1267798",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/124.0.6337.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/124.0.6338.0/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "124.0.6337.0",
-    "Revision": "1267642",
+    "Version": "124.0.6338.0",
+    "Revision": "1267798",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/124.0.6337.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/124.0.6338.0/win32/chromedriver-win32.zip"
+  },
+  {
+    "Version": "124.0.6329.0",
+    "Revision": "1266759",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/124.0.6329.0/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "124.0.6329.0",
+    "Revision": "1266759",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/124.0.6329.0/win32/chromedriver-win32.zip"
   },
   {
     "Version": "123.0.6312.22",
@@ -30,22 +46,6 @@
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.22/win32/chromedriver-win32.zip"
-  },
-  {
-    "Version": "123.0.6300.3",
-    "Revision": "1260023",
-    "Channel": "Dev",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6300.3/win64/chromedriver-win64.zip"
-  },
-  {
-    "Version": "123.0.6300.3",
-    "Revision": "1260023",
-    "Channel": "Dev",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/123.0.6300.3/win32/chromedriver-win32.zip"
   },
   {
     "Version": "122.0.6261.94",
