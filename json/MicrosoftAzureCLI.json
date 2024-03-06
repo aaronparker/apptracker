@@ -6,7 +6,7 @@
     "Type": "msi",
     "InstallerType": "Default",
     "Date": "02/29/2024",
-    "Size": 215,
+    "Size": 69435392,
     "URI": "https://github.com/Azure/azure-cli/releases/download/azure-cli-2.58.0/azure-cli-2.58.0.msi"
   }
 ]
