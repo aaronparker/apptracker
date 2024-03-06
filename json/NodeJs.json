@@ -1,45 +1,45 @@
 [
   {
-    "Version": "21.6.2",
+    "Version": "21.7.0",
     "Architecture": "ARM64",
     "Type": "msi",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v21.6.2/node-v21.6.2-arm64.msi"
+    "URI": "https://nodejs.org/dist/v21.7.0/node-v21.7.0-arm64.msi"
   },
   {
-    "Version": "21.6.2",
+    "Version": "21.7.0",
     "Architecture": "x64",
     "Type": "msi",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v21.6.2/node-v21.6.2-x64.msi"
+    "URI": "https://nodejs.org/dist/v21.7.0/node-v21.7.0-x64.msi"
   },
   {
-    "Version": "21.6.2",
+    "Version": "21.7.0",
     "Architecture": "x86",
     "Type": "msi",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v21.6.2/node-v21.6.2-x86.msi"
+    "URI": "https://nodejs.org/dist/v21.7.0/node-v21.7.0-x86.msi"
   },
   {
-    "Version": "21.6.2",
+    "Version": "21.7.0",
     "Architecture": "ARM64",
     "Type": "zip",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v21.6.2/node-v21.6.2-win-arm64.zip"
+    "URI": "https://nodejs.org/dist/v21.7.0/node-v21.7.0-win-arm64.zip"
   },
   {
-    "Version": "21.6.2",
+    "Version": "21.7.0",
     "Architecture": "x64",
     "Type": "zip",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v21.6.2/node-v21.6.2-win-x64.zip"
+    "URI": "https://nodejs.org/dist/v21.7.0/node-v21.7.0-win-x64.zip"
   },
   {
-    "Version": "21.6.2",
+    "Version": "21.7.0",
     "Architecture": "x86",
     "Type": "zip",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v21.6.2/node-v21.6.2-win-x86.zip"
+    "URI": "https://nodejs.org/dist/v21.7.0/node-v21.7.0-win-x86.zip"
   },
   {
     "Version": "20.11.1",
