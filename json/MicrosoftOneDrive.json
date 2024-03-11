@@ -28,7 +28,7 @@
   },
   {
     "Version": "24.047.0305.0003",
-    "Throttle": "10",
+    "Throttle": "100",
     "Architecture": "AMD64",
     "Ring": "Insider",
     "Type": "exe",
@@ -37,7 +37,7 @@
   },
   {
     "Version": "24.047.0305.0003",
-    "Throttle": "10",
+    "Throttle": "100",
     "Architecture": "ARM64",
     "Ring": "Insider",
     "Type": "exe",
@@ -46,7 +46,7 @@
   },
   {
     "Version": "24.047.0305.0003",
-    "Throttle": "10",
+    "Throttle": "100",
     "Architecture": "x86",
     "Ring": "Insider",
     "Sha256": "Dze2keEQTp6yQK9XNOvnfOyj0nI5jX2rLE/ISn+Kk3Q=",
@@ -81,35 +81,8 @@
     "URI": "https://oneclient.sfx.ms/Win/Installers/24.047.0305.0002/OneDriveSetup.exe"
   },
   {
-    "Version": "24.045.0303.0003",
-    "Throttle": "100",
-    "Architecture": "AMD64",
-    "Ring": "Insider",
-    "Type": "exe",
-    "Sha256": "aOpHzLSfaz2Gfdds85RLL6oJaeDR6xoeTl4ZmjBWhJc=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.045.0303.0003/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.045.0303.0003",
-    "Throttle": "100",
-    "Architecture": "ARM64",
-    "Ring": "Insider",
-    "Type": "exe",
-    "Sha256": "vAf2oUGuWNLEN2osJt2p1+1TrZ2OP5XQjMhNGroRMJ4=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.045.0303.0003/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.045.0303.0003",
-    "Throttle": "100",
-    "Architecture": "x86",
-    "Ring": "Insider",
-    "Sha256": "pRKHZV8STlxY5EoDL3RwlBWL1TrBZBCcghw1K0DVUU4=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.045.0303.0003/OneDriveSetup.exe"
-  },
-  {
     "Version": "24.040.0225.0003",
-    "Throttle": "25",
+    "Throttle": "50",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -118,7 +91,7 @@
   },
   {
     "Version": "24.040.0225.0003",
-    "Throttle": "25",
+    "Throttle": "50",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -127,7 +100,7 @@
   },
   {
     "Version": "24.040.0225.0003",
-    "Throttle": "25",
+    "Throttle": "50",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "0zPUfG0s4wahZ+SjrL5l+zkrSj7jFUoB6GHyMJx4H6k=",
