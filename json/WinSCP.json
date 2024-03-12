@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "11580272",
     "Md5": "41bfd446cedc68728a042cfa702125fe",
-    "URI": "https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.3.1/WinSCP-6.3.1-Setup.exe"
+    "URI": "https://psychz.dl.sourceforge.net/project/winscp/WinSCP/6.3.1/WinSCP-6.3.1-Setup.exe"
   },
   {
     "Version": "6.3.1",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "27951104",
     "Md5": "d9e39110ce463c5f8993435e7ca769e7",
-    "URI": "https://cytranet.dl.sourceforge.net/project/winscp/WinSCP/6.3.1/WinSCP-6.3.1.msi"
+    "URI": "https://psychz.dl.sourceforge.net/project/winscp/WinSCP/6.3.1/WinSCP-6.3.1.msi"
   }
 ]
