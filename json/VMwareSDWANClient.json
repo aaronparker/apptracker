@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.32.1",
-    "ReleaseDate": "2024-01-16T00:00:00",
-    "Md5": "6b7f69063cf26d441b40c51485af351a",
-    "Sha256": "af3beb93a49b8e6ddf51ca0cb135a7dd0bd54e5c34e9db6c0d097750d3a1f4d0",
-    "Size": "88.8 MB",
+    "Version": "1.34.7",
+    "ReleaseDate": "2024-03-13T00:00:00",
+    "Md5": "a63d1f8d2c9568e3cf3ea3f68538a128",
+    "Sha256": "429dc7f147c05887034c7fd2f41acca81bf4418166983085ab2fbc7e517c5353",
+    "Size": "88.85 MB",
     "Type": "exe",
-    "URI": "https://download3.vmware.com/software/SD-WAN-CLIENT/SDWANClientInstaller-1-32-1.exe"
+    "URI": "https://download3.vmware.com/software/SD-WAN-CLIENT/SDWANClientInstaller-1-34-7.exe"
   }
 ]
