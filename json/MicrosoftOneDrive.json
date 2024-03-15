@@ -27,8 +27,35 @@
     "URI": "https://oneclient.sfx.ms/Win/Installers/24.053.0313.0001/OneDriveSetup.exe"
   },
   {
+    "Version": "24.052.0312.0001",
+    "Throttle": "100",
+    "Architecture": "AMD64",
+    "Ring": "InternalSlow",
+    "Type": "exe",
+    "Sha256": "6LNF/1admIqwsikrN1BPcMIgFJz2WFhkVjUI0kN1Qhs=",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.052.0312.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "24.052.0312.0001",
+    "Throttle": "100",
+    "Architecture": "ARM64",
+    "Ring": "InternalSlow",
+    "Type": "exe",
+    "Sha256": "DsswYQl4De9AIxsWdVShJxBvqYcbvh5sCPYRcLdIFhE=",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.052.0312.0001/arm64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "24.052.0312.0001",
+    "Throttle": "100",
+    "Architecture": "x86",
+    "Ring": "InternalSlow",
+    "Sha256": "ckt1nzvJV2sjRjwxNsHQYaOrAQpmoS2MB1liP+cnu8I=",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.052.0312.0001/OneDriveSetup.exe"
+  },
+  {
     "Version": "24.050.0310.0001",
-    "Throttle": "10",
+    "Throttle": "100",
     "Architecture": "AMD64",
     "Ring": "Insider",
     "Type": "exe",
@@ -38,15 +65,6 @@
   {
     "Version": "24.050.0310.0001",
     "Throttle": "100",
-    "Architecture": "AMD64",
-    "Ring": "InternalSlow",
-    "Type": "exe",
-    "Sha256": "q0NaeJw3Odm+VZWCYPKI2O6XOcI9gHe9N7HAAbSdKeo=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.050.0310.0001/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.050.0310.0001",
-    "Throttle": "10",
     "Architecture": "ARM64",
     "Ring": "Insider",
     "Type": "exe",
@@ -56,38 +74,11 @@
   {
     "Version": "24.050.0310.0001",
     "Throttle": "100",
-    "Architecture": "ARM64",
-    "Ring": "InternalSlow",
-    "Type": "exe",
-    "Sha256": "JE7Vr907ijNqL2FnCnns7iqPbvOiM5zcM096WiPsZjM=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.050.0310.0001/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.050.0310.0001",
-    "Throttle": "10",
     "Architecture": "x86",
     "Ring": "Insider",
     "Sha256": "qX8knfohe6qK+mG2fkdG1mM7VBDfRWvqOYsxvlWnRjc=",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/24.050.0310.0001/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.050.0310.0001",
-    "Throttle": "100",
-    "Architecture": "x86",
-    "Ring": "InternalSlow",
-    "Sha256": "qX8knfohe6qK+mG2fkdG1mM7VBDfRWvqOYsxvlWnRjc=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.050.0310.0001/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.047.0305.0003",
-    "Throttle": "100",
-    "Architecture": "AMD64",
-    "Ring": "Insider",
-    "Type": "exe",
-    "Sha256": "JkFEhiYyUCq9Ddk/paQaPb6yeES1er11enNmOq8QDVo=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.047.0305.0003/amd64/OneDriveSetup.exe"
   },
   {
     "Version": "24.047.0305.0003",
@@ -100,30 +91,12 @@
   },
   {
     "Version": "24.047.0305.0003",
-    "Throttle": "100",
-    "Architecture": "ARM64",
-    "Ring": "Insider",
-    "Type": "exe",
-    "Sha256": "LUm3jXFjEOwCeFLxRuQLkGbA6iRc3wzDegPP66pEtqg=",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.047.0305.0003/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.047.0305.0003",
     "Throttle": "1",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
     "Sha256": "LUm3jXFjEOwCeFLxRuQLkGbA6iRc3wzDegPP66pEtqg=",
     "URI": "https://oneclient.sfx.ms/Win/Installers/24.047.0305.0003/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.047.0305.0003",
-    "Throttle": "100",
-    "Architecture": "x86",
-    "Ring": "Insider",
-    "Sha256": "Dze2keEQTp6yQK9XNOvnfOyj0nI5jX2rLE/ISn+Kk3Q=",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.047.0305.0003/OneDriveSetup.exe"
   },
   {
     "Version": "24.047.0305.0003",
@@ -136,7 +109,7 @@
   },
   {
     "Version": "24.045.0303.0003",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "AMD64",
     "Ring": "Production",
     "Type": "exe",
@@ -145,7 +118,7 @@
   },
   {
     "Version": "24.045.0303.0003",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -154,7 +127,7 @@
   },
   {
     "Version": "24.045.0303.0003",
-    "Throttle": "10",
+    "Throttle": "25",
     "Architecture": "x86",
     "Ring": "Production",
     "Sha256": "pRKHZV8STlxY5EoDL3RwlBWL1TrBZBCcghw1K0DVUU4=",
