@@ -40,6 +40,16 @@
     "URI": "https://beta.unity3d.com/download/52ddac442a2c/Windows64EditorInstaller/UnitySetup64-2023.3.0b10.exe"
   },
   {
+    "Version": "6000.0.0b11",
+    "Release": "6000",
+    "Channel": "beta",
+    "LTS": false,
+    "Size": 3484979200,
+    "Checksum": "ab4d610f39a9f648b80c2ae3adbfcf53",
+    "Type": "exe",
+    "URI": "https://beta.unity3d.com/download/a707ca4efec4/Windows64EditorInstaller/UnitySetup64-6000.0.0b11.exe"
+  },
+  {
     "Version": "2019.4.40f1",
     "Release": "2019",
     "Channel": "official",
