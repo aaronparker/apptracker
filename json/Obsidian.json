@@ -1,42 +1,42 @@
 [
   {
-    "Version": "1.5.8",
+    "Version": "1.5.11",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "02/22/2024",
-    "Size": 85424464,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-arm64.exe"
+    "Date": "03/19/2024",
+    "Size": 85472384,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/Obsidian.1.5.11-arm64.exe"
   },
   {
-    "Version": "1.5.8",
+    "Version": "1.5.11",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "02/22/2024",
-    "Size": 72855368,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-32.exe"
+    "Date": "03/19/2024",
+    "Size": 72896216,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/Obsidian.1.5.11-32.exe"
   },
   {
-    "Version": "1.5.8",
+    "Version": "1.5.11",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "02/22/2024",
-    "Size": 82484936,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-allusers.exe"
+    "Date": "03/19/2024",
+    "Size": 82517920,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/Obsidian.1.5.11-allusers.exe"
   },
   {
-    "Version": "1.5.8",
+    "Version": "1.5.11",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "02/22/2024",
-    "Size": 82457856,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8.exe"
+    "Date": "03/19/2024",
+    "Size": 82489928,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/Obsidian.1.5.11.exe"
   }
 ]
