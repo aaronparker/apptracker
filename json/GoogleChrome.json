@@ -7,6 +7,20 @@
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
+    "Version": "124.0.6367.8",
+    "Architecture": "x64",
+    "Channel": "beta",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
+  },
+  {
+    "Version": "124.0.6367.8",
+    "Architecture": "x86",
+    "Channel": "beta",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
+  },
+  {
     "Version": "124.0.6356.6",
     "Architecture": "x64",
     "Channel": "dev",
@@ -40,20 +54,6 @@
     "Channel": "stable",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
-  },
-  {
-    "Version": "123.0.6312.46",
-    "Architecture": "x64",
-    "Channel": "beta",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
-  },
-  {
-    "Version": "123.0.6312.46",
-    "Architecture": "x86",
-    "Channel": "beta",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
     "Version": "122.0.6261.139",

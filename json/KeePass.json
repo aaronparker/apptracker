@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "4398304",
     "Md5": "86a0d58d2ae89c639d940dbda48308df",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56-Setup.exe"
+    "URI": "https://psychz.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56-Setup.exe"
   },
   {
     "Version": "2.56",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "3767808",
     "Md5": "7a2d09586468eff86d9e54e2bce00be2",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56.msi"
+    "URI": "https://psychz.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56.msi"
   }
 ]
