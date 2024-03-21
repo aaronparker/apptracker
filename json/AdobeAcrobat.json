@@ -11,6 +11,15 @@
   {
     "Version": "24.001.20615",
     "Type": "Update",
+    "Product": "Acrobat",
+    "Track": "DC",
+    "Language": "Neutral",
+    "Architecture": "x64",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120615/AcrobatDCx64Upd2400120615.msp"
+  },
+  {
+    "Version": "24.001.20615",
+    "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
@@ -29,29 +38,20 @@
   {
     "Version": "24.001.20615",
     "Type": "Update",
+    "Product": "Acrobat",
+    "Track": "DC",
+    "Language": "Neutral",
+    "Architecture": "x86",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120615/AcrobatDCUpd2400120615.msp"
+  },
+  {
+    "Version": "24.001.20615",
+    "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400120615/AcroRdrDCUpd2400120615.msp"
-  },
-  {
-    "Version": "24.001.20604",
-    "Type": "Update",
-    "Product": "Acrobat",
-    "Track": "DC",
-    "Language": "Neutral",
-    "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120604/AcrobatDCx64Upd2400120604.msp"
-  },
-  {
-    "Version": "24.001.20604",
-    "Type": "Update",
-    "Product": "Acrobat",
-    "Track": "DC",
-    "Language": "Neutral",
-    "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120604/AcrobatDCUpd2400120604.msp"
   },
   {
     "Version": "20.005.30574",
