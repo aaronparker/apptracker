@@ -6,7 +6,7 @@ hide:
 
 # Supported Applications
 
-App Version Tracker is using Evergreen to track 298 applications and 3601 unique application installers:
+App Version Tracker is using Evergreen to track 309 applications and 3644 unique application installers:
 
 | Application                                                       | Link                                                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -20,6 +20,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | Adobe Acrobat Reader DC                                           | https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html                                          |
 | Adobe Brackets                                                    | http://brackets.io/                                                                              |
 | Adobe Connect meeting application                                 | https://www.adobe.com/products/adobeconnect.html                                                 |
+| Adobe Digital Editions                                            | https://www.adobe.com/solutions/ebook/digital-editions.html                                      |
 | Adoptium Temurin 11                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 16                                               | https://adoptium.net/                                                                            |
 | Adoptium Temurin 17                                               | https://adoptium.net/                                                                            |
@@ -56,12 +57,14 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | Chromium ChromeDriver                                             | https://chromedriver.chromium.org/home                                                           |
 | Citrix ShareFile for Windows                                      | https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html    |
 | Citrix Workspace app                                              | https://www.citrix.com/downloads/workspace-app/                                                  |
+| Clarivate EndNote                                                 | https://www.endnote.com/                                                                         |
 | Codelerity Apache NetBeans                                        | https://www.codelerity.com/netbeans/                                                             |
 | Connection Experience Indicator                                   | https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/                    |
 | ControlUp Agent                                                   | https://www.controlup.com/products/controlup/agent/                                              |
 | ControlUp Console                                                 | https://www.controlup.com/products/controlup/management/                                         |
 | ControlUp Remote DX Plugins                                       | https://www.controlup.com/products/controlup/agent/                                              |
 | iterate GmbH Cyberduck                                            | https://cyberduck.io/                                                                            |
+| DB Browser for SQLite                                             | https://sqlitebrowser.org/                                                                       |
 | dbeaver                                                           | https://github.com/dbeaver/dbeaver                                                               |
 | Debauchee Barrier                                                 | https://github.com/debauchee/barrier                                                             |
 | deviceTRUST                                                       | https://devicetrust.com/                                                                         |
@@ -71,6 +74,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | Docker Desktop                                                    | https://www.docker.com/products/docker-desktop/                                                  |
 | Double Commander                                                  | https://github.com/doublecmd/doublecmd/                                                          |
 | Druva inSync Client                                               | https://docs.druva.com/005_inSync_Client                                                         |
+| eduVPN                                                            | https://app.eduvpn.org/                                                                          |
 | Egnyte Desktop App                                                | https://www.egnyte.com/solutions/sharing-collaboration                                           |
 | ESET Endpoint Antivirus                                           | https://www.eset.com/au/business/solutions/endpoint-protection/                                  |
 | ESET Endpoint Security                                            | https://www.eset.com/au/business/solutions/endpoint-protection/                                  |
@@ -117,6 +121,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | Hashicorp Waypoint                                                | https://www.waypointproject.io/                                                                  |
 | ImageGlass                                                        | https://imageglass.org/                                                                          |
 | ImageMagick Studio ImageMagick                                    | https://imagemagick.org/                                                                         |
+| JabraDirect                                                       | https://www.jabra.com/software-and-services/jabra-direct                                         |
 | JAM Software TreeSize Free                                        | https://www.jam-software.com/treesize_free/                                                      |
 | JAM Software TreeSize Professional                                | https://www.jam-software.com/treesize/                                                           |
 | JASP                                                              | https://jasp-stats.org/                                                                          |
@@ -144,6 +149,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | KeePass Password Safe                                             | https://keepass.info/                                                                            |
 | KeePassXC Team KeePassXC                                          | https://keepassxc.org/                                                                           |
 | KeeWeb                                                            | https://github.com/keeweb/keeweb                                                                 |
+| Kubernetes Kubectl                                                | https://kubernetes.io/                                                                           |
 | LehrerOffice                                                      | https://lehreroffice.net/                                                                        |
 | Master Packager                                                   | https://www.masterpackager.com/                                                                  |
 | Mattermost Desktop                                                | https://github.com/mattermost/desktop                                                            |
@@ -181,6 +187,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | Microsoft Visual Studio                                           | https://visualstudio.microsoft.com/                                                              |
 | Microsoft Visual Studio Code                                      | https://code.visualstudio.com                                                                    |
 | Microsoft Windows Package Manager Client                          | https://docs.microsoft.com/en-us/windows/package-manager/                                        |
+| Microsoft WSL                                                     | https://github.com/microsoft/wsl/                                                                |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell              |
 | Microsoft Azure Virtual Desktop Agent                             | https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell              |
 | Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection                    |
@@ -204,6 +211,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | nomacs Image Lounge                                               | https://nomacs.org/                                                                              |
 | Notable                                                           | https://notable.app/                                                                             |
 | Notepad++                                                         | https://notepad-plus-plus.org/                                                                   |
+| Npcap                                                             | https://npcap.com/                                                                               |
 | Obsidian                                                          | https://obsidian.md/                                                                             |
 | OBS Studio                                                        | https://obsproject.com/                                                                          |
 | OCS Inventory Windows Agent                                       | http://https://ocsinventory-ng.org/                                                              |
@@ -230,6 +238,8 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | pdfforge PDFCreator                                               | https://www.pdfforge.org/pdfcreator                                                              |
 | PeaZip PeaZip                                                     | https://peazip.github.io/                                                                        |
 | Piriform CCleaner Free                                            | https://www.ccleaner.com/ccleaner                                                                |
+| Podman                                                            | https://github.com/containers/podman                                                             |
+| Podman Desktop                                                    | https://github.com/containers/podman-desktop                                                     |
 | Postman                                                           | https://www.getpostman.com/                                                                      |
 | Praat                                                             | https://www.fon.hum.uva.nl/praat/                                                                |
 | Progress Chef Infra Client                                        | https://www.chef.io/products/chef-infra                                                          |
@@ -237,6 +247,7 @@ App Version Tracker is using Evergreen to track 298 applications and 3601 unique
 | Progress Chef Workstation                                         | https://www.chef.io/products/chef-workstation                                                    |
 | ProjectLibre                                                      | https://www.projectlibre.com/                                                                    |
 | Protege                                                           | https://protege.stanford.edu/                                                                    |
+| ProtonVPN                                                         | https://protonvpn.com/                                                                           |
 | PSAppDeployToolkit                                                | https://psappdeploytoolkit.com/                                                                  |
 | PSF Python                                                        | https://www.python.org/                                                                          |
 | PuTTY                                                             | https://www.chiark.greenend.org.uk/~sgtatham/putty/                                              |
