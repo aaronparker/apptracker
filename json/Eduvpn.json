@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "3.4.3",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "03/21/2024",
+    "Size": 15327000,
+    "URI": "https://github.com/Amebis/eduVPN/releases/download/3.4.3/eduVPNClient_3.4.3.exe"
+  },
+  {
+    "Version": "3.4.3",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "03/21/2024",
+    "Size": 5967872,
+    "URI": "https://github.com/Amebis/eduVPN/releases/download/3.4.3/eduVPNClient_3.4.3_ARM64.msi"
+  },
+  {
+    "Version": "3.4.3",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "03/21/2024",
+    "Size": 5844992,
+    "URI": "https://github.com/Amebis/eduVPN/releases/download/3.4.3/eduVPNClient_3.4.3_x64.msi"
+  },
+  {
+    "Version": "3.4.3",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "03/21/2024",
+    "Size": 5287936,
+    "URI": "https://github.com/Amebis/eduVPN/releases/download/3.4.3/eduVPNClient_3.4.3_x86.msi"
+  }
+]

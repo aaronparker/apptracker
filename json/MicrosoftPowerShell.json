@@ -44,6 +44,28 @@
     "Release": "Stable"
   },
   {
+    "Version": "7.4.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msixbundle",
+    "InstallerType": "Default",
+    "Date": "01/11/2024",
+    "Size": 324267442,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.1/PowerShell-7.4.1-win.msixbundle",
+    "Release": "LTS"
+  },
+  {
+    "Version": "7.4.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "msixbundle",
+    "InstallerType": "Default",
+    "Date": "01/11/2024",
+    "Size": 324267442,
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.1/PowerShell-7.4.1-win.msixbundle",
+    "Release": "Stable"
+  },
+  {
     "Version": "7.2.18",
     "Platform": "Windows",
     "Architecture": "x64",

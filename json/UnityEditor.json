@@ -20,14 +20,14 @@
     "URI": "https://beta.unity3d.com/download/ffeab063bb93/Windows64EditorInstaller/UnitySetup64-2023.1.13f1.exe"
   },
   {
-    "Version": "2023.2.14f1",
+    "Version": "2023.2.15f1",
     "Release": "2023",
     "Channel": "beta",
     "LTS": false,
-    "Size": 2836220928,
-    "Checksum": "1aa16cf70395274d5d662de888083ff8",
+    "Size": 2835407872,
+    "Checksum": "7d2c281f673df102828aedc68b610a33",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/eeca29774eb5/Windows64EditorInstaller/UnitySetup64-2023.2.14f1.exe"
+    "URI": "https://beta.unity3d.com/download/c5cbb0b314fa/Windows64EditorInstaller/UnitySetup64-2023.2.15f1.exe"
   },
   {
     "Version": "2023.3.0b10",
@@ -40,14 +40,14 @@
     "URI": "https://beta.unity3d.com/download/52ddac442a2c/Windows64EditorInstaller/UnitySetup64-2023.3.0b10.exe"
   },
   {
-    "Version": "6000.0.0b11",
+    "Version": "6000.0.0b12",
     "Release": "6000",
     "Channel": "beta",
     "LTS": false,
-    "Size": 3484979200,
-    "Checksum": "ab4d610f39a9f648b80c2ae3adbfcf53",
+    "Size": 3484907520,
+    "Checksum": "3c98aba0f0fd70387efecd0719244a3c",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/a707ca4efec4/Windows64EditorInstaller/UnitySetup64-6000.0.0b11.exe"
+    "URI": "https://beta.unity3d.com/download/0ac662189661/Windows64EditorInstaller/UnitySetup64-6000.0.0b12.exe"
   },
   {
     "Version": "2019.4.40f1",
@@ -110,13 +110,13 @@
     "URI": "https://download.unity3d.com/download_unity/ffeab063bb93/Windows64EditorInstaller/UnitySetup64-2023.1.13f1.exe"
   },
   {
-    "Version": "2023.2.14f1",
+    "Version": "2023.2.15f1",
     "Release": "2023",
     "Channel": "official",
     "LTS": false,
-    "Size": 2836220928,
-    "Checksum": "1aa16cf70395274d5d662de888083ff8",
+    "Size": 2835407872,
+    "Checksum": "7d2c281f673df102828aedc68b610a33",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/eeca29774eb5/Windows64EditorInstaller/UnitySetup64-2023.2.14f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/c5cbb0b314fa/Windows64EditorInstaller/UnitySetup64-2023.2.15f1.exe"
   }
 ]
