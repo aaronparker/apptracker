@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.14",
+    "Version": "3.14.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "02/06/2024",
-    "Size": 32434240,
-    "URI": "https://github.com/wixtoolset/wix3/releases/download/wix314rtm/wix314.exe"
+    "Date": "03/22/2024",
+    "Size": 32438176,
+    "URI": "https://github.com/wixtoolset/wix3/releases/download/wix3141rtm/wix314.exe"
   }
 ]
