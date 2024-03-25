@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.19.10573.0",
+    "Version": "1.19.10821.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Minimal",
-    "Date": "02/26/2024",
-    "Size": 20857466,
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.19.10573.0/Microsoft.WindowsTerminal_1.19.10573.0_8wekyb3d8bbwe.msixbundle"
+    "Date": "03/25/2024",
+    "Size": 21371711,
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.19.10821.0/Microsoft.WindowsTerminal_1.19.10821.0_8wekyb3d8bbwe.msixbundle"
   }
 ]
