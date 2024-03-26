@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "11587336",
     "Md5": "c597d8da9d435b865a60c030aa9589ac",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe"
+    "URI": "https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe"
   },
   {
     "Version": "6.3.2",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "27951104",
     "Md5": "2c1b71fc86324bf5af53ec2c63030191",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi"
+    "URI": "https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi"
   }
 ]

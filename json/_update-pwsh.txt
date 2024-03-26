@@ -14,3 +14,9 @@ json/VeraCrypt.json
 json/VideoLanVlcPlayer.json
 json/WinSCP.json
 json/gretl.json
+json/DruvainSyncClient.json
+json/HashicorpVault.json
+json/KDiff3.json
+json/MicrosoftVisualStudio.json
+json/NodeJs.json
+json/Tower.json
