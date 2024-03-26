@@ -20,15 +20,15 @@
 
 [Link](https://www.7-zip.org/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                   |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------- |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
-| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
-| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
-| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://newcontinuum.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe   |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe   |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe          |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe       |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi   |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi       |
 
 ## 7ZipZS
 
@@ -790,8 +790,7 @@
 
 | Version | InstallerVersion   | CloudPlatform | Md5sum                                   | Type | URI                                                                               |
 | ------- | ------------------ | ------------- | ---------------------------------------- | ---- | --------------------------------------------------------------------------------- |
-| 7.5.1   | inSync7.5.1r110755 | Cloud         | dac5ffc0a4074c95ca5942dabd668dbd22f9e23e | msi  | https://downloads.druva.com/downloads/inSync/Windows/7.5.1/inSync7.5.1r110755.msi |
-| 7.5.1   | inSync7.5.1r110755 | GOVCloud      | dac5ffc0a4074c95ca5942dabd668dbd22f9e23e | msi  | https://downloads.druva.com/downloads/inSync/Windows/7.5.1/inSync7.5.1r110755.msi |
+| 7.5.2   | inSync7.5.2r110780 | Cloud         | fea007060efed2dce7e76cfe782c7adcca3b1bc1 | msi  | https://downloads.druva.com/downloads/inSync/Windows/7.5.2/inSync7.5.2r110780.msi |
 
 ## Eduvpn
 
@@ -799,10 +798,10 @@
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------- |
-| 3.4     | Windows  | x86          | exe  | Default       | 04/25/2023 | 14210088 | https://github.com/Amebis/eduVPN/releases/download/3.4/eduVPNClient_3.4.exe       |
-| 3.4     | Windows  | ARM64        | msi  | Default       | 04/25/2023 | 5160960  | https://github.com/Amebis/eduVPN/releases/download/3.4/eduVPNClient_3.4_ARM64.msi |
-| 3.4     | Windows  | x64          | msi  | Default       | 04/25/2023 | 5672960  | https://github.com/Amebis/eduVPN/releases/download/3.4/eduVPNClient_3.4_x64.msi   |
-| 3.4     | Windows  | x86          | msi  | Default       | 04/25/2023 | 5165056  | https://github.com/Amebis/eduVPN/releases/download/3.4/eduVPNClient_3.4_x86.msi   |
+| 3.5     | Windows  | x86          | exe  | Default       | 03/26/2024 | 15347952 | https://github.com/Amebis/eduVPN/releases/download/3.5/eduVPNClient_3.5.exe       |
+| 3.5     | Windows  | ARM64        | msi  | Default       | 03/26/2024 | 5980160  | https://github.com/Amebis/eduVPN/releases/download/3.5/eduVPNClient_3.5_ARM64.msi |
+| 3.5     | Windows  | x64          | msi  | Default       | 03/26/2024 | 5849088  | https://github.com/Amebis/eduVPN/releases/download/3.5/eduVPNClient_3.5_x64.msi   |
+| 3.5     | Windows  | x86          | msi  | Default       | 03/26/2024 | 5287936  | https://github.com/Amebis/eduVPN/releases/download/3.5/eduVPNClient_3.5_x86.msi   |
 
 ## EgnyteDesktopApp
 
@@ -1294,9 +1293,9 @@
 
 [Link](https://www.gimp.org/)
 
-| Version | Date       | Sha256                                                           | URI                                                                            |
-| ------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2.10.36 | 02/29/2024 | 5dc0efd3c877c6e8fd8af44944d31997875e38b610f95b30445aea3758dbbe90 | https://paducahix.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup-1.exe |
+| Version | Date       | Sha256                                                           | URI                                                                              |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 2.10.36 | 02/29/2024 | 5dc0efd3c877c6e8fd8af44944d31997875e38b610f95b30445aea3758dbbe90 | https://forksystems.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.36-setup-1.exe |
 
 ## GitExtensions
 
@@ -1357,16 +1356,16 @@
 
 | Version        | Architecture | Channel  | Type | URI                                                                                     |
 | -------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |
-| 125.0.6379.0   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
+| 125.0.6379.3   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
 | 125.0.6368.2   | x64          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 125.0.6368.2   | x86          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 124.0.6367.8   | x64          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
 | 124.0.6367.8   | x86          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi   |
-| 123.0.6312.59  | x64          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 123.0.6312.59  | x86          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
-| 123.0.6312.59  | x64          | stable   | zip  | https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip              |
-| 122.0.6261.139 | x64          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
-| 122.0.6261.139 | x86          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 123.0.6312.86  | x64          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 123.0.6312.86  | x86          | stable   | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
+| 123.0.6312.86  | x64          | stable   | zip  | https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip              |
+| 122.0.6261.148 | x64          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi          |
+| 122.0.6261.148 | x86          | extended | msi  | https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi            |
 
 ## GoogleChromeDriver
 
@@ -1374,14 +1373,14 @@
 
 | Version       | Revision | Channel | Architecture | Type | URI                                                                                                 |
 | ------------- | -------- | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |
-| 125.0.6379.0  | 1277564  | Canary  | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/125.0.6379.0/win64/chromedriver-win64.zip  |
-| 125.0.6379.0  | 1277564  | Canary  | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/125.0.6379.0/win32/chromedriver-win32.zip  |
+| 125.0.6379.3  | 1277564  | Canary  | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/125.0.6379.3/win64/chromedriver-win64.zip  |
+| 125.0.6379.3  | 1277564  | Canary  | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/125.0.6379.3/win32/chromedriver-win32.zip  |
 | 125.0.6368.2  | 1275351  | Dev     | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/125.0.6368.2/win64/chromedriver-win64.zip  |
 | 125.0.6368.2  | 1275351  | Dev     | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/125.0.6368.2/win32/chromedriver-win32.zip  |
 | 124.0.6367.8  | 1274542  | Beta    | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.8/win64/chromedriver-win64.zip  |
 | 124.0.6367.8  | 1274542  | Beta    | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.8/win32/chromedriver-win32.zip  |
-| 123.0.6312.58 | 1262506  | Stable  | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.58/win64/chromedriver-win64.zip |
-| 123.0.6312.58 | 1262506  | Stable  | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.58/win32/chromedriver-win32.zip |
+| 123.0.6312.86 | 1262506  | Stable  | x64          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.86/win64/chromedriver-win64.zip |
+| 123.0.6312.86 | 1262506  | Stable  | x86          | zip  | https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.86/win32/chromedriver-win32.zip |
 
 ## GoogleDrive
 
@@ -1441,10 +1440,10 @@
 
 [Link](http://gretl.sourceforge.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                            |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------ |
-| 2023c   | x64          | exe  | 38515520 | 4983735b68352bae0bc8b8de47155fc6 | https://psychz.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe |
-| 2023c   | x86          | exe  | 34545216 | da3fec1657f61e4c3b9336cbb00657ec | https://psychz.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| 2023c   | x64          | exe  | 38515520 | 4983735b68352bae0bc8b8de47155fc6 | https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe |
+| 2023c   | x86          | exe  | 34545216 | da3fec1657f61e4c3b9336cbb00657ec | https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe |
 
 ## gsudo
 
@@ -1521,8 +1520,8 @@
 
 | Version | Type | Architecture | URI                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------- |
-| 1.15.6  | zip  | x64          | https://releases.hashicorp.com/vault/1.15.6/vault_1.15.6_windows_amd64.zip |
-| 1.15.6  | zip  | x86          | https://releases.hashicorp.com/vault/1.15.6/vault_1.15.6_windows_386.zip   |
+| 1.16.0  | zip  | x64          | https://releases.hashicorp.com/vault/1.16.0/vault_1.16.0_windows_amd64.zip |
+| 1.16.0  | zip  | x86          | https://releases.hashicorp.com/vault/1.16.0/vault_1.16.0_windows_386.zip   |
 
 ## HashicorpWaypoint
 
@@ -1755,17 +1754,17 @@
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://pilotfiber.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
-| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://pilotfiber.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
+| 0.9.98  | x64          | exe  | 11517943 | a26d48bfd976226a026398e006b22d2c | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-64bit-Setup_0.9.98-2.exe |
+| 0.9.98  | x86          | exe  | 11413841 | 65c0778891521325b334f9cb98c3b041 | https://netactuate.dl.sourceforge.net/project/kdiff3/kdiff3/0.9.98/KDiff3-32bit-Setup_0.9.98-3.exe |
 
 ## KeePass
 
 [Link](https://keepass.info/)
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                             |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2.56    | x86          | exe  | 4398304 | 86a0d58d2ae89c639d940dbda48308df | https://pilotfiber.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56-Setup.exe |
-| 2.56    | x86          | msi  | 3767808 | 7a2d09586468eff86d9e54e2bce00be2 | https://pilotfiber.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56.msi       |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                               |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 2.56    | x86          | exe  | 4398304 | 86a0d58d2ae89c639d940dbda48308df | https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56-Setup.exe |
+| 2.56    | x86          | msi  | 3767808 | 7a2d09586468eff86d9e54e2bce00be2 | https://newcontinuum.dl.sourceforge.net/project/keepass/KeePass%202.x/2.56/KeePass-2.56.msi       |
 
 ## KeePassXCTeamKeePassXC
 
@@ -1934,8 +1933,8 @@
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.49.0  | win32-x64      | Insider | 111e05a43aa7788a8c6064074f59278cc44d98800ccf79cec69d75c4e0a6c7e0 | https://sqlopsbuilds.azureedge.net/insider/97d1a9f3e90cec5dd756056c533b6a448058f9cd/azuredatastudio-windows-setup-1.49.0-insider.exe      |
-| 1.49.0  | win32-x64-user | Insider | b7ec88872b737fa852f6141b8c1ee4251e112fcd66d43c0c056da8edd2c3e371 | https://sqlopsbuilds.azureedge.net/insider/97d1a9f3e90cec5dd756056c533b6a448058f9cd/azuredatastudio-windows-user-setup-1.49.0-insider.exe |
+| 1.49.0  | win32-x64      | Insider | 865400dbbcb02dd203a6992c616d8cd1335f77e050c3ea1f1e41bebff8d74694 | https://sqlopsbuilds.azureedge.net/insider/47eddaad31856507d99de7f9e2633c538553d441/azuredatastudio-windows-setup-1.49.0-insider.exe      |
+| 1.49.0  | win32-x64-user | Insider | a5bc7d9fe12eb4176661e94a4d68724348b21880131cddaa5133bcc80c1ccdfd | https://sqlopsbuilds.azureedge.net/insider/47eddaad31856507d99de7f9e2633c538553d441/azuredatastudio-windows-user-setup-1.49.0-insider.exe |
 | 1.48.0  | win32-x64      | Stable  | f17014e0bdc529e3b9f2f323f7e4ac827c2d68e18724dad7b7fb972562262161 | https://sqlopsbuilds.azureedge.net/stable/4970733324ef8254b7c22a5dc55af7f8a1dea93f/azuredatastudio-windows-setup-1.48.0.exe               |
 | 1.48.0  | win32-x64-user | Stable  | f174885b2986ba4f7b3f5f7d0d8e9baaaec5745e1ce9e5e05dd88980c9d68b93 | https://sqlopsbuilds.azureedge.net/stable/4970733324ef8254b7c22a5dc55af7f8a1dea93f/azuredatastudio-windows-user-setup-1.48.0.exe          |
 
@@ -2261,9 +2260,9 @@
 
 [Link](https://visualstudio.microsoft.com/)
 
-| Version        | Sha256                                                           | Size    | URI                                                                                                                                                                        |
-| -------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.9.34714.143 | b9f3b3895c3db4f77ab352ed160273515193d55b3ec2dcd46bfc70713a4fbcc3 | 3995608 | https://download.visualstudio.microsoft.com/download/pr/9b646c0b-a685-43ee-afa9-d8a12417dffd/b9f3b3895c3db4f77ab352ed160273515193d55b3ec2dcd46bfc70713a4fbcc3/vs_Setup.exe |
+| Version       | Sha256                                                           | Size    | URI                                                                                                                                                                        |
+| ------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17.9.34723.18 | 67e9579ad74c0fb6e76261ab8e631864535463739ec2af7e4db87428d49d1f17 | 3991432 | https://download.visualstudio.microsoft.com/download/pr/1afa33fc-e800-4714-9e19-31b928ea2572/67e9579ad74c0fb6e76261ab8e631864535463739ec2af7e4db87428d49d1f17/vs_Setup.exe |
 
 ## MicrosoftVisualStudioCode
 
@@ -2271,10 +2270,10 @@
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                                                   |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.88.0  | win32-arm64      | Insider | ARM64        | 35d87f7d5627336dfd81ae21287687b4f982486e0e75023c841b6f003ead9101 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b0d975fc6370f15570c380f41015b1ca2cdcb791/VSCodeSetup-arm64-1.88.0-insider.exe     |
-| 1.88.0  | win32-arm64-user | Insider | ARM64        | c3ce0b8c741a672c0c78bb16e04d68a08c344cb7e376813311148e2fbc841d35 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b0d975fc6370f15570c380f41015b1ca2cdcb791/VSCodeUserSetup-arm64-1.88.0-insider.exe |
-| 1.88.0  | win32-x64        | Insider | x64          | a9ced1502944976a87d51e30b83d83d8f1ffaee4f5657389c5590f8da4379bbe | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b0d975fc6370f15570c380f41015b1ca2cdcb791/VSCodeSetup-x64-1.88.0-insider.exe       |
-| 1.88.0  | win32-x64-user   | Insider | x64          | 62c25d1f30482e9fef0eb0b4dcf1377291050f132c91d3044497e42dbf57d5a2 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b0d975fc6370f15570c380f41015b1ca2cdcb791/VSCodeUserSetup-x64-1.88.0-insider.exe   |
+| 1.88.0  | win32-arm64      | Insider | ARM64        | 7be742b5a0d03bcb66b06fb56caf07f4de97275e239bcd5734aa93538913b702 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/5d8491d7130d25aae121eeaa1633603ef8faa39e/VSCodeSetup-arm64-1.88.0-insider.exe     |
+| 1.88.0  | win32-arm64-user | Insider | ARM64        | 296a1cf1e1ec3fc2f5c76d1f3046b7bef5fdc490a66c8dd20ddc33bf020644e3 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/5d8491d7130d25aae121eeaa1633603ef8faa39e/VSCodeUserSetup-arm64-1.88.0-insider.exe |
+| 1.88.0  | win32-x64        | Insider | x64          | 9160093c9e61b5d7c7c4bd04404eac865df09c315231f102c5f2973c8912f71f | https://vscode.download.prss.microsoft.com/dbazure/download/insider/5d8491d7130d25aae121eeaa1633603ef8faa39e/VSCodeSetup-x64-1.88.0-insider.exe       |
+| 1.88.0  | win32-x64-user   | Insider | x64          | d77431870f49bfcff5e49455fd0ab1261ff16a4bf96c21ffa679e78d663c3087 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/5d8491d7130d25aae121eeaa1633603ef8faa39e/VSCodeUserSetup-x64-1.88.0-insider.exe   |
 | 1.87.2  | win32-arm64      | Stable  | ARM64        | 63178497481ddf816396566904e99b4b3a817637f1c9170255fa294babed9f79 | https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeSetup-arm64-1.87.2.exe              |
 | 1.87.2  | win32-arm64-user | Stable  | ARM64        | c91bd092b71c3d948bb8f32fc5f83e454f4ec90eee7b0e9cf58decf880fea54e | https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeUserSetup-arm64-1.87.2.exe          |
 | 1.87.2  | win32-x64        | Stable  | x64          | c49f51562a99e19412d968a81ad653960c4861e95f7cd04e49e15c42e139a9ee | https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeSetup-x64-1.87.2.exe                |
@@ -4674,10 +4673,10 @@
 | 21.7.1  | ARM64        | zip  | Current | https://nodejs.org/dist/v21.7.1/node-v21.7.1-win-arm64.zip |
 | 21.7.1  | x64          | zip  | Current | https://nodejs.org/dist/v21.7.1/node-v21.7.1-win-x64.zip   |
 | 21.7.1  | x86          | zip  | Current | https://nodejs.org/dist/v21.7.1/node-v21.7.1-win-x86.zip   |
-| 20.11.1 | x64          | msi  | LTS     | https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi     |
-| 20.11.1 | x86          | msi  | LTS     | https://nodejs.org/dist/v20.11.1/node-v20.11.1-x86.msi     |
-| 20.11.1 | x64          | zip  | LTS     | https://nodejs.org/dist/v20.11.1/node-v20.11.1-win-x64.zip |
-| 20.11.1 | x86          | zip  | LTS     | https://nodejs.org/dist/v20.11.1/node-v20.11.1-win-x86.zip |
+| 20.12.0 | x64          | msi  | LTS     | https://nodejs.org/dist/v20.12.0/node-v20.12.0-x64.msi     |
+| 20.12.0 | x86          | msi  | LTS     | https://nodejs.org/dist/v20.12.0/node-v20.12.0-x86.msi     |
+| 20.12.0 | x64          | zip  | LTS     | https://nodejs.org/dist/v20.12.0/node-v20.12.0-win-x64.zip |
+| 20.12.0 | x86          | zip  | LTS     | https://nodejs.org/dist/v20.12.0/node-v20.12.0-win-x86.zip |
 
 ## Nomacs
 
@@ -5109,9 +5108,9 @@
 
 [Link](https://www.projectlibre.com/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cfhcable.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://pilotfiber.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
 
 ## Protege
 
@@ -5264,9 +5263,9 @@
 
 [Link](http://www.saga-gis.org/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                       |
-| ------- | ------------ | ---- | -------- | -------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 9.3.2   | x64          | exe  | 57893344 | 110d01ce633ac81432b1d47a7d0ffdff | https://psychz.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.2/saga-9.3.2_x64_setup.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                         |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 9.3.2   | x64          | exe  | 57893344 | 110d01ce633ac81432b1d47a7d0ffdff | https://cytranet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.2/saga-9.3.2_x64_setup.exe |
 
 ## ScooterBeyondCompare
 
@@ -5407,7 +5406,7 @@
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |
-| 15.51.6 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
+| 15.52.3 | https://dl.teamviewer.com/download/TeamViewer_Setup.exe |
 
 ## TechSmithCamtasia
 
@@ -5501,8 +5500,8 @@
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |
-| 6.1.477 | beta    | E39D8F4207442EB88DF0FA2325A4560343511525 | exe  | https://www.git-tower.com/apps/tower3-win/477-4235de2d/Tower-6.1.477.exe |
-| 6.1.477 | beta    | 671DCBB1DCF39A2707EB0B0BE7359A9B5E6446A8 | msi  | https://www.git-tower.com/apps/tower3-win/477-4235de2d/Tower-6.1.477.msi |
+| 6.1.478 | beta    | 85D0ABECB1B38E32E97DBE90ED02441BEA7EBD2D | exe  | https://www.git-tower.com/apps/tower3-win/478-d48e5ee2/Tower-6.1.478.exe |
+| 6.1.478 | beta    | B9473A61B4918ACD4961CBF48C9AA649B50A68B5 | msi  | https://www.git-tower.com/apps/tower3-win/478-d48e5ee2/Tower-6.1.478.msi |
 | 6.0.474 | stable  | B64E4466A12C8FD543DBA7F6D5A3DD19AB7F9276 | exe  | https://www.git-tower.com/apps/tower3-win/474-510807f7/Tower-6.0.474.exe |
 | 6.0.474 | stable  | B15571724655141819EBFBF5FE1F1B3ACD121B69 | msi  | https://www.git-tower.com/apps/tower3-win/474-510807f7/Tower-6.0.474.msi |
 
@@ -5564,11 +5563,11 @@
 
 [Link](https://www.veracrypt.fr/en/Home.html)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                               |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://gigenet.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | https://pilotfiber.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe    |
+| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | https://pilotfiber.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe |
+| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | https://pilotfiber.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi    |
 
 ## VercelHyper
 
@@ -5582,14 +5581,14 @@
 
 [Link](https://www.videolan.org/vlc/)
 
-| Version | Platform | Architecture | Type | URI                                                                                 |
-| ------- | -------- | ------------ | ---- | ----------------------------------------------------------------------------------- |
-| 3.0.20  | Windows  | x64          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe |
-| 3.0.20  | Windows  | x86          | EXE  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe |
-| 3.0.20  | Windows  | x64          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi |
-| 3.0.20  | Windows  | x86          | MSI  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi |
-| 3.0.20  | Windows  | x64          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip |
-| 3.0.20  | Windows  | x86          | ZIP  | https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip |
+| Version | Platform | Architecture | Type | URI                                                                               |
+| ------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------- |
+| 3.0.20  | Windows  | x64          | EXE  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe   |
+| 3.0.20  | Windows  | x86          | EXE  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe |
+| 3.0.20  | Windows  | x64          | MSI  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi   |
+| 3.0.20  | Windows  | x86          | MSI  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi |
+| 3.0.20  | Windows  | x64          | ZIP  | https://opencolo.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip   |
+| 3.0.20  | Windows  | x86          | ZIP  | https://southfront.mm.fcix.net/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip |
 
 ## VisualCppRedistAIO
 
@@ -5704,10 +5703,10 @@
 
 [Link](https://winscp.net/)
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                    |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------- |
-| 6.3.2   | x86          | exe  | 11587336 | c597d8da9d435b865a60c030aa9589ac | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe |
-| 6.3.2   | x86          | msi  | 27951104 | 2c1b71fc86324bf5af53ec2c63030191 | https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi       |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                      |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| 6.3.2   | x86          | exe  | 11587336 | c597d8da9d435b865a60c030aa9589ac | https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe |
+| 6.3.2   | x86          | msi  | 27951104 | 2c1b71fc86324bf5af53ec2c63030191 | https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi       |
 
 ## Wireshark
 
