@@ -1,6 +1,6 @@
 [
   {
-    "Version": "125.0.6379.0",
+    "Version": "125.0.6379.3",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
