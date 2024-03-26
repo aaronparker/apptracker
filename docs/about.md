@@ -7,6 +7,6 @@ hide:
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Updates are posted every 8 hours. Last update: Monday 25/03/2024 20:19 +00:00 Etc/UTC.
+Updates are posted every 8 hours. Last update: Tuesday 26/03/2024 00:31 +00:00 Etc/UTC.
 
 A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
