@@ -1,0 +1,13 @@
+---
+title: Debauchee Barrier
+layout: default
+nav_order: 2
+---
+
+## DebaucheeBarrier
+
+[Link](https://github.com/debauchee/barrier)
+
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |
+| 2.4.0   | Windows  | x86          | exe  | Default       | 11/01/2021 | 9279404 | https://github.com/debauchee/barrier/releases/download/v2.4.0/BarrierSetup-2.4.0-release.exe |

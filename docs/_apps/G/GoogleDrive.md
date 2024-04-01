@@ -1,0 +1,13 @@
+---
+title: Google Drive
+layout: default
+nav_order: 2
+---
+
+## GoogleDrive
+
+[Link](https://support.google.com/drive/answer/7329379)
+
+| Version  | Sha256                                                           | Size      | URI                                                          |
+| -------- | ---------------------------------------------------------------- | --------- | ------------------------------------------------------------ |
+| 79.0.2.0 | 75cfd9d5873e8beee31d2ebe8097542dd12c2b1863f253b01ac49e6d8dc87a73 | 333594392 | https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe |

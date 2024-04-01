@@ -1,0 +1,16 @@
+---
+title: dnGrep
+layout: default
+nav_order: 2
+---
+
+## dnGrep
+
+[Link](https://dngrep.github.io/)
+
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |
+| 4.1.47.0 | Windows  | x64          | msi  | Default       | 03/12/2024 | 73809920 | https://github.com/dnGrep/dnGrep/releases/download/v4.1.47.0/dnGREP.4.1.47.x64.msi   |
+| 4.1.47.0 | Windows  | x86          | msi  | Default       | 03/12/2024 | 68034560 | https://github.com/dnGrep/dnGrep/releases/download/v4.1.47.0/dnGREP.4.1.47.x86.msi   |
+| 4.1.47.0 | Windows  | x64          | zip  | Default       | 03/12/2024 | 72153369 | https://github.com/dnGrep/dnGrep/releases/download/v4.1.47.0/dnGrep.4.1.47.0.x64.zip |
+| 4.1.47.0 | Windows  | x86          | zip  | Default       | 03/12/2024 | 66336158 | https://github.com/dnGrep/dnGrep/releases/download/v4.1.47.0/dnGrep.4.1.47.0.x86.zip |

@@ -1,0 +1,54 @@
+---
+title: ESET Full Disk Encryption
+layout: default
+nav_order: 2
+---
+
+## ESETFullDiskEncryption
+
+[Link](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/)
+
+| Version  | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                              |
+| -------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------ |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | cs_CZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_csy.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | de_DE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_deu.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | el_GR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ell.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_enu.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | es_CL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_esl.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | es_ES    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_esn.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | fr_CA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_frc.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | fr_FR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_fra.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | hr_HR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_hrv.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | hu_HU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_hun.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | id_ID    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ind.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | it_IT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ita.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_jpn.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | ko_KR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_kor.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | pl_PL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_plk.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | pt_BR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_ptb.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | ru_RU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_rus.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | sk_SK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_sky.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | tr_TR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_trk.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_chs.msi |
+| 1.0.46.0 | 22520832 | 5fbc3bbd4a153523997b99ec5763c3c1775cee5c | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt64_cht.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | cs_CZ    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_csy.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | de_DE    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_deu.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | el_GR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ell.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_enu.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | es_CL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_esl.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | es_ES    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_esn.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | fr_CA    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_frc.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | fr_FR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_fra.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | hr_HR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_hrv.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | hu_HU    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_hun.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | id_ID    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ind.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | it_IT    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ita.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_jpn.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | ko_KR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_kor.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | pl_PL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_plk.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | pt_BR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_ptb.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | ru_RU    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_rus.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | sk_SK    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_sky.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | tr_TR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_trk.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | zh_CN    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_chs.msi |
+| 1.0.46.0 | 20250624 | 3db7bf6732eebbd9193503653d9066cc457fd441 | zh_TW    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/efde/windows/v1/1.0.46.0/efde_nt32_cht.msi |

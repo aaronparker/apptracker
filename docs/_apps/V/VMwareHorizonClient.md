@@ -1,0 +1,13 @@
+---
+title: VMware Horizon Client
+layout: default
+nav_order: 2
+---
+
+## VMwareHorizonClient
+
+[Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
+
+| Version | ReleaseDate           | Md5                              | Sha256                                                           | Size      | Type | URI                                                                                                     |
+| ------- | --------------------- | -------------------------------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------------------------------------- |
+| 2312    | 23/1/2024 12:00:00 am | 21cfdeee228a8d98dadc084119aedf97 | 33212a0fcb5aaa54b39c03c4ee94af028ec1e1605f1ea781800b0afebad6b1fc | 257.94 MB | exe  | https://download3.vmware.com/software/CART24FQ4_WIN_2312/VMware-Horizon-Client-2312-8.12.0-23149293.exe |
