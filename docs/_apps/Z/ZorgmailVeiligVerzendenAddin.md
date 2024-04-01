@@ -2,11 +2,12 @@
 title: ZorgMail Veilig verzenden plug-in
 layout: default
 nav_order: 2
+last_modified_date: Nov 16 2023 at 08:12 am
 ---
 
 ## ZorgmailVeiligVerzendenAddin
 
-[Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)
+[Source](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)
 
 | Version | Edition   | URI                                                                                                                       |
 | ------- | --------- | ------------------------------------------------------------------------------------------------------------------------- |

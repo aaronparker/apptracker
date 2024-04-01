@@ -2,11 +2,12 @@
 title: VMware OS Optimization Tool
 layout: default
 nav_order: 2
+last_modified_date: Mar 31 2023 at 08:09 am
 ---
 
 ## VMwareOSOptimizationTool
 
-[Link](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
+[Source](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                                                                     | URI                                                                                                                   |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |

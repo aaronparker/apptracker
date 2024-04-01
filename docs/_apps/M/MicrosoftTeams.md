@@ -2,11 +2,12 @@
 title: Microsoft Teams
 layout: default
 nav_order: 2
+last_modified_date: Mar 21 2024 at 12:27 am
 ---
 
 ## MicrosoftTeams
 
-[Link](https://www.microsoft.com/teams)
+[Source](https://www.microsoft.com/teams)
 
 | Version     | Ring              | Architecture | Type | URI                                                                                               |
 | ----------- | ----------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------- |

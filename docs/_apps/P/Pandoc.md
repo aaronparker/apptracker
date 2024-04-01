@@ -2,11 +2,12 @@
 title: Pandoc
 layout: default
 nav_order: 2
+last_modified_date: Mar 18 2024 at 10:16 am
 ---
 
 ## Pandoc
 
-[Link](https://pandoc.org/)
+[Source](https://pandoc.org/)
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                         |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------- |

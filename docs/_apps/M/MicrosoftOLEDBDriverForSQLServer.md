@@ -2,11 +2,12 @@
 title: Microsoft OLE DB Driver for SQL Server
 layout: default
 nav_order: 2
+last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
 ## MicrosoftOLEDBDriverForSQLServer
 
-[Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)
+[Source](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)
 
 | Version  | Date                 | Size    | Architecture | Type | URI                                                                                                                    |
 | -------- | -------------------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------- |

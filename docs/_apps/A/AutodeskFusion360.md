@@ -2,11 +2,12 @@
 title: Autodesk Fusion 360
 layout: default
 nav_order: 2
+last_modified_date: Mar 26 2024 at 12:26 am
 ---
 
 ## AutodeskFusion360
 
-[Link](https://www.autodesk.com/products/fusion-360/overview)
+[Source](https://www.autodesk.com/products/fusion-360/overview)
 
 | Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                           |
 | --------- | ------------ | ----------------- | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |

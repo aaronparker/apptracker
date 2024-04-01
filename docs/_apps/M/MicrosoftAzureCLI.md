@@ -2,11 +2,12 @@
 title: Microsoft Azure CLI
 layout: default
 nav_order: 2
+last_modified_date: Mar 6 2024 at 10:13 am
 ---
 
 ## MicrosoftAzureCLI
 
-[Link](https://learn.microsoft.com/en-au/cli/azure/)
+[Source](https://learn.microsoft.com/en-au/cli/azure/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |

@@ -2,11 +2,12 @@
 title: OCS Inventory Windows Agent
 layout: default
 nav_order: 2
+last_modified_date: May 30 2023 at 08:07 am
 ---
 
 ## OCSInventoryWindowsAgent
 
-[Link](http://https://ocsinventory-ng.org/)
+[Source](http://https://ocsinventory-ng.org/)
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                    |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: GoTo Opener
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## GoToOpener
 
-[Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)
+[Source](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)
 
 | Version | Date                | URI                                                                  |
 | ------- | ------------------- | -------------------------------------------------------------------- |

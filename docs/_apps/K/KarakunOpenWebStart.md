@@ -2,11 +2,12 @@
 title: Karakun OpenWebStart
 layout: default
 nav_order: 2
+last_modified_date: Dec 21 2023 at 08:15 pm
 ---
 
 ## KarakunOpenWebStart
 
-[Link](https://openwebstart.com/ows/)
+[Source](https://openwebstart.com/ows/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |

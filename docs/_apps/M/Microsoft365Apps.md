@@ -2,11 +2,12 @@
 title: Microsoft 365 Apps
 layout: default
 nav_order: 2
+last_modified_date: Mar 14 2024 at 08:14 pm
 ---
 
 ## Microsoft365Apps
 
-[Link](https://www.microsoft.com/office)
+[Source](https://www.microsoft.com/office)
 
 | Version          | Channel           | Name                                  | Date                  | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | --------------------- | ------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: Thymio Suite
 layout: default
 nav_order: 2
+last_modified_date: Jul 24 2023 at 12:22 am
 ---
 
 ## ThymioSuite
 
-[Link](https://www.thymio.org/)
+[Source](https://www.thymio.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: TechSmith Snagit
 layout: default
 nav_order: 2
+last_modified_date: Mar 12 2024 at 08:14 pm
 ---
 
 ## TechSmithSnagit
 
-[Link](https://www.techsmith.com/)
+[Source](https://www.techsmith.com/)
 
 | Version | Date                | Type | Architecture | URI                                                                 |
 | ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |

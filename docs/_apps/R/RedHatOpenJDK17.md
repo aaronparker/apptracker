@@ -2,11 +2,12 @@
 title: Red Hat OpenJDK 17
 layout: default
 nav_order: 2
+last_modified_date: Jan 30 2024 at 10:14 am
 ---
 
 ## RedHatOpenJDK17
 
-[Link](https://developers.redhat.com/products/openjdk/overview)
+[Source](https://developers.redhat.com/products/openjdk/overview)
 
 | Version   | ImageType | Date                 | Architecture | Type | URI                                                                                                                                   |
 | --------- | --------- | -------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------- |

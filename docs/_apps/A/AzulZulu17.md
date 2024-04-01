@@ -2,11 +2,12 @@
 title: Azul Zulu 17
 layout: default
 nav_order: 2
+last_modified_date: Feb 8 2024 at 08:14 pm
 ---
 
 ## AzulZulu17
 
-[Link](https://www.azul.com/downloads/#zulu)
+[Source](https://www.azul.com/downloads/#zulu)
 
 | Version   | ImageType | Date                 | Architecture | Type | URI                                                                   |
 | --------- | --------- | -------------------- | ------------ | ---- | --------------------------------------------------------------------- |

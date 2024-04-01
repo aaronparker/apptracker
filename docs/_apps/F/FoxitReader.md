@@ -2,11 +2,12 @@
 title: Foxit Reader
 layout: default
 nav_order: 2
+last_modified_date: Mar 5 2024 at 08:15 pm
 ---
 
 ## FoxitReader
 
-[Link](https://www.foxitsoftware.com/pdf-reader/)
+[Source](https://www.foxitsoftware.com/pdf-reader/)
 
 | Version        | Date       | Language           | URI                                                                                                    |
 | -------------- | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------ |

@@ -2,11 +2,12 @@
 title: Adobe Acrobat DC Pro and Standard
 layout: default
 nav_order: 2
+last_modified_date: Mar 21 2024 at 08:16 pm
 ---
 
 ## AdobeAcrobatProStdDC
 
-[Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
+[Source](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
 
 | Version      | Architecture | Sku      | URI                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |

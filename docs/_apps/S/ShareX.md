@@ -2,11 +2,12 @@
 title: ShareX
 layout: default
 nav_order: 2
+last_modified_date: Mar 17 2024 at 10:13 am
 ---
 
 ## ShareX
 
-[Link](https://getsharex.com/)
+[Source](https://getsharex.com/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |

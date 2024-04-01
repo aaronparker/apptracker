@@ -2,11 +2,12 @@
 title: Gephi
 layout: default
 nav_order: 2
+last_modified_date: May 13 2023 at 08:09 am
 ---
 
 ## Gephi
 
-[Link](https://gephi.org/)
+[Source](https://gephi.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------- |

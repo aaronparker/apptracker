@@ -2,11 +2,12 @@
 title: OpenLens
 layout: default
 nav_order: 2
+last_modified_date: Aug 27 2023 at 12:19 am
 ---
 
 ## OpenLens
 
-[Link](https://github.com/MuhammedKalkan/OpenLens/)
+[Source](https://github.com/MuhammedKalkan/OpenLens/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: JetBrains RubyMine
 layout: default
 nav_order: 2
+last_modified_date: Mar 25 2024 at 08:14 pm
 ---
 
 ## JetBrainsRubyMine
 
-[Link](https://www.jetbrains.com/rubymine)
+[Source](https://www.jetbrains.com/rubymine)
 
 | Version  | Build        | Edition  | Sha256                                                           | Date       | Size      | Type | URI                                                       |
 | -------- | ------------ | -------- | ---------------------------------------------------------------- | ---------- | --------- | ---- | --------------------------------------------------------- |

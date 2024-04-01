@@ -2,11 +2,12 @@
 title: Adoptium Temurin 17
 layout: default
 nav_order: 2
+last_modified_date: Jan 22 2024 at 08:17 pm
 ---
 
 ## AdoptiumTemurin17
 
-[Link](https://adoptium.net/)
+[Source](https://adoptium.net/)
 
 | Version   | ImageType | Date                 | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                  |
 | --------- | --------- | -------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------ |

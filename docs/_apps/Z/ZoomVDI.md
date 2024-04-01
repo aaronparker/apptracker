@@ -2,11 +2,12 @@
 title: Zoom Plugins for VDI
 layout: default
 nav_order: 2
+last_modified_date: Mar 18 2024 at 08:15 pm
 ---
 
 ## ZoomVDI
 
-[Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)
+[Source](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)
 
 | Version | Platform  | Installer | Size      | Type | Architecture | URI                                                            |
 | ------- | --------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------- |

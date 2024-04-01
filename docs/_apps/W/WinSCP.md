@@ -2,11 +2,12 @@
 title: WinSCP
 layout: default
 nav_order: 2
+last_modified_date: Mar 31 2024 at 12:29 am
 ---
 
 ## WinSCP
 
-[Link](https://winscp.net/)
+[Source](https://winscp.net/)
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |

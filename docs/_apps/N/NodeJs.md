@@ -2,11 +2,12 @@
 title: Node.js
 layout: default
 nav_order: 2
+last_modified_date: Mar 26 2024 at 08:14 pm
 ---
 
 ## NodeJs
 
-[Link](https://nodejs.org/)
+[Source](https://nodejs.org/)
 
 | Version | Architecture | Type | Channel | URI                                                        |
 | ------- | ------------ | ---- | ------- | ---------------------------------------------------------- |

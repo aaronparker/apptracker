@@ -2,11 +2,12 @@
 title: Bitwarden Desktop
 layout: default
 nav_order: 2
+last_modified_date: Mar 12 2024 at 08:14 pm
 ---
 
 ## BitwardenDesktop
 
-[Link](https://bitwarden.com/)
+[Source](https://bitwarden.com/)
 
 | Version  | Type | URI                                                                      |
 | -------- | ---- | ------------------------------------------------------------------------ |

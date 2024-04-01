@@ -2,11 +2,12 @@
 title: mRemoteNG
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## mRemoteNG
 
-[Link](https://mremoteng.org/)
+[Source](https://mremoteng.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |

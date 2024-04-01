@@ -2,11 +2,12 @@
 title: Signal for Windows
 layout: default
 nav_order: 2
+last_modified_date: Mar 29 2024 at 12:27 am
 ---
 
 ## SignalDesktop
 
-[Link](https://www.signal.org/)
+[Source](https://www.signal.org/)
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |

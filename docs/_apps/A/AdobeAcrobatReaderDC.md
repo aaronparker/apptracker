@@ -2,11 +2,12 @@
 title: Adobe Acrobat Reader DC
 layout: default
 nav_order: 2
+last_modified_date: Mar 21 2024 at 08:16 pm
 ---
 
 ## AdobeAcrobatReaderDC
 
-[Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
+[Source](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
 | Version      | Language              | Architecture | Name                                            | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |

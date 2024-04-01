@@ -2,11 +2,12 @@
 title: Microsoft FSLogix Apps
 layout: default
 nav_order: 2
+last_modified_date: Feb 13 2024 at 08:19 pm
 ---
 
 ## MicrosoftFSLogixApps
 
-[Link](https://docs.microsoft.com/fslogix/)
+[Source](https://docs.microsoft.com/fslogix/)
 
 | Version        | Date       | Channel    | URI                                                                                                                |
 | -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |

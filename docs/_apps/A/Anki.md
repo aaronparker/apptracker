@@ -2,11 +2,12 @@
 title: Anki
 layout: default
 nav_order: 2
+last_modified_date: Dec 28 2023 at 10:15 am
 ---
 
 ## Anki
 
-[Link](https://github.com/ankitects/anki/)
+[Source](https://github.com/ankitects/anki/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------- |

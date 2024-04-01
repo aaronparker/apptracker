@@ -2,11 +2,12 @@
 title: Hashicorp Packer
 layout: default
 nav_order: 2
+last_modified_date: Mar 6 2024 at 08:18 pm
 ---
 
 ## HashicorpPacker
 
-[Link](https://packer.io/)
+[Source](https://packer.io/)
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |

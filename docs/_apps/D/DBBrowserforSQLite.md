@@ -2,11 +2,12 @@
 title: DB Browser for SQLite
 layout: default
 nav_order: 2
+last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
 ## DBBrowserforSQLite
 
-[Link](https://sqlitebrowser.org/)
+[Source](https://sqlitebrowser.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                           |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------------- |

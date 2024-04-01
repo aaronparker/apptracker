@@ -2,11 +2,12 @@
 title: GIMP
 layout: default
 nav_order: 2
+last_modified_date: Mar 31 2024 at 12:29 am
 ---
 
 ## Gimp
 
-[Link](https://www.gimp.org/)
+[Source](https://www.gimp.org/)
 
 | Version | Date       | Sha256                                                           | URI                                                                           |
 | ------- | ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |

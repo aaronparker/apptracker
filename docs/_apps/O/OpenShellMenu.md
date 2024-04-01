@@ -2,11 +2,12 @@
 title: Open-Shell-Menu
 layout: default
 nav_order: 2
+last_modified_date: Aug 23 2023 at 08:09 am
 ---
 
 ## OpenShellMenu
 
-[Link](https://open-shell.github.io/Open-Shell-Menu/)
+[Source](https://open-shell.github.io/Open-Shell-Menu/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: MuseScore
 layout: default
 nav_order: 2
+last_modified_date: Jan 24 2024 at 10:16 am
 ---
 
 ## MuseScore
 
-[Link](https://musescore.org/)
+[Source](https://musescore.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |

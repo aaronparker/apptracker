@@ -2,11 +2,12 @@
 title: GitHub Desktop
 layout: default
 nav_order: 2
+last_modified_date: Mar 20 2024 at 08:14 pm
 ---
 
 ## GitHubDesktop
 
-[Link](https://desktop.github.com/)
+[Source](https://desktop.github.com/)
 
 | Version | Architecture | Type | URI                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------- |

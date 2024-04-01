@@ -2,11 +2,12 @@
 title: Rizonesoft Notepad3
 layout: default
 nav_order: 2
+last_modified_date: May 13 2023 at 08:09 am
 ---
 
 ## RizonesoftNotepad3
 
-[Link](https://www.rizonesoft.com/downloads/notepad3)
+[Source](https://www.rizonesoft.com/downloads/notepad3)
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                              |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------- |

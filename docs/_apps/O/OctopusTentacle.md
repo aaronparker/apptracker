@@ -2,11 +2,12 @@
 title: Octopus Tentacle
 layout: default
 nav_order: 2
+last_modified_date: Mar 13 2024 at 10:14 am
 ---
 
 ## OctopusTentacle
 
-[Link](https://octopus.com/)
+[Source](https://octopus.com/)
 
 | Version | Architecture | URI                                                                         |
 | ------- | ------------ | --------------------------------------------------------------------------- |

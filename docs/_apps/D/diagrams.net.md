@@ -2,11 +2,12 @@
 title: diagrams.net
 layout: default
 nav_order: 2
+last_modified_date: Mar 24 2024 at 12:29 am
 ---
 
 ## diagrams.net
 
-[Link](https://www.diagrams.net/)
+[Source](https://www.diagrams.net/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |

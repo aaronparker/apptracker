@@ -2,11 +2,12 @@
 title: Druva inSync Client
 layout: default
 nav_order: 2
+last_modified_date: Mar 26 2024 at 08:14 pm
 ---
 
 ## DruvainSyncClient
 
-[Link](https://docs.druva.com/005_inSync_Client)
+[Source](https://docs.druva.com/005_inSync_Client)
 
 | Version | InstallerVersion   | CloudPlatform | Md5sum                                   | Type | URI                                                                               |
 | ------- | ------------------ | ------------- | ---------------------------------------- | ---- | --------------------------------------------------------------------------------- |

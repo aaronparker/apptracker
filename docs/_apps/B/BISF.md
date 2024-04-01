@@ -2,11 +2,12 @@
 title: Base Image Script Framework
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## BISF
 
-[Link](https://eucweb.com/)
+[Source](https://eucweb.com/)
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                       |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: Foxit PDF Editor
 layout: default
 nav_order: 2
+last_modified_date: Nov 14 2023 at 04:09 pm
 ---
 
 ## FoxitPDFEditor
 
-[Link](https://www.foxit.com/pdf-editor/)
+[Source](https://www.foxit.com/pdf-editor/)
 
 | Version      | Date       | Language           | URI                                                                                                                         |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |

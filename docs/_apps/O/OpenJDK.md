@@ -2,11 +2,12 @@
 title: OpenJDK
 layout: default
 nav_order: 2
+last_modified_date: Feb 24 2024 at 08:13 pm
 ---
 
 ## OpenJDK
 
-[Link](https://openjdk.java.net/)
+[Source](https://openjdk.java.net/)
 
 | Version             | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                          |
 | ------------------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

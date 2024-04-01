@@ -2,11 +2,12 @@
 title: Ghisler TotalCommander
 layout: default
 nav_order: 2
+last_modified_date: Feb 22 2024 at 12:26 am
 ---
 
 ## GhislerTotalCommander
 
-[Link](https://www.ghisler.com/)
+[Source](https://www.ghisler.com/)
 
 | Version | Architecture | URI                                           |
 | ------- | ------------ | --------------------------------------------- |

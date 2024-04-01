@@ -2,11 +2,12 @@
 title: Citrix ShareFile for Windows
 layout: default
 nav_order: 2
+last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
 ## CitrixShareFile
 
-[Link](https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html)
+[Source](https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html)
 
 | Version  | Date       | Size     | Hash                                                     | URI                                                                      |
 | -------- | ---------- | -------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |

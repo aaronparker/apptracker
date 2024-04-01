@@ -2,11 +2,12 @@
 title: Miniconda
 layout: default
 nav_order: 2
+last_modified_date: Jan 31 2024 at 08:14 pm
 ---
 
 ## Miniconda
 
-[Link](https://docs.conda.io/en/latest/miniconda.html)
+[Source](https://docs.conda.io/en/latest/miniconda.html)
 
 | Version | Architecture | Date                 | Size   | MD5                              | Sha256                                                           | URI                                                                                   |
 | ------- | ------------ | -------------------- | ------ | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |

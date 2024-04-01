@@ -2,11 +2,12 @@
 title: Mozilla Firefox
 layout: default
 nav_order: 2
+last_modified_date: Jun 12 2022 at 02:23 pm
 ---
 
 ## MozillaFirefox
 
-[Link](https://www.mozilla.org/en-US/firefox/new/)
+[Source](https://www.mozilla.org/en-US/firefox/new/)
 
 | Version | Architecture | Channel                | Language | Type | Filename                      | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |

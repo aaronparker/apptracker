@@ -2,11 +2,12 @@
 title: GitHub Atom
 layout: default
 nav_order: 2
+last_modified_date: May 13 2023 at 08:09 am
 ---
 
 ## GitHubAtom
 
-[Link](https://atom.io/)
+[Source](https://atom.io/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------ |

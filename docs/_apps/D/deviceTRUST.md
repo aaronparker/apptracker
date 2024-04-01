@@ -2,11 +2,12 @@
 title: deviceTRUST
 layout: default
 nav_order: 2
+last_modified_date: Dec 18 2023 at 10:15 am
 ---
 
 ## deviceTRUST
 
-[Link](https://devicetrust.com/)
+[Source](https://devicetrust.com/)
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                              |
 | ---------- | -------- | ------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |

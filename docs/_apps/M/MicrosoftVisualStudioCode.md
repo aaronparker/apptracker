@@ -2,11 +2,12 @@
 title: Microsoft Visual Studio Code
 layout: default
 nav_order: 2
+last_modified_date: Mar 30 2024 at 12:29 am
 ---
 
 ## MicrosoftVisualStudioCode
 
-[Link](https://code.visualstudio.com)
+[Source](https://code.visualstudio.com)
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                                                   |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |

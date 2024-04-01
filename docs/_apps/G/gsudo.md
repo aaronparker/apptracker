@@ -2,11 +2,12 @@
 title: gsudo
 layout: default
 nav_order: 2
+last_modified_date: Feb 20 2024 at 10:15 am
 ---
 
 ## gsudo
 
-[Link](https://gerardog.github.io/gsudo)
+[Source](https://gerardog.github.io/gsudo)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: TGPi Colour Contrast Analyser
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 08:14 pm
 ---
 
 ## TPGiColourContrastAnalyser
 
-[Link](https://www.tpgi.com/color-contrast-checker/)
+[Source](https://www.tpgi.com/color-contrast-checker/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------- |

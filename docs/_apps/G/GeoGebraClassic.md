@@ -2,11 +2,12 @@
 title: GeoGebra Classic
 layout: default
 nav_order: 2
+last_modified_date: Mar 18 2024 at 08:15 pm
 ---
 
 ## GeoGebraClassic
 
-[Link](https://www.geogebra.org)
+[Source](https://www.geogebra.org)
 
 | Version   | Type | URI                                                                                   |
 | --------- | ---- | ------------------------------------------------------------------------------------- |

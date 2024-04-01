@@ -2,11 +2,12 @@
 title: Praat
 layout: default
 nav_order: 2
+last_modified_date: Mar 17 2024 at 08:15 pm
 ---
 
 ## Praat
 
-[Link](https://www.fon.hum.uva.nl/praat/)
+[Source](https://www.fon.hum.uva.nl/praat/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------- |

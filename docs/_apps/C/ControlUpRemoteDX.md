@@ -2,11 +2,12 @@
 title: ControlUp Remote DX Plugins
 layout: default
 nav_order: 2
+last_modified_date: Mar 10 2024 at 08:14 pm
 ---
 
 ## ControlUpRemoteDX
 
-[Link](https://www.controlup.com/products/controlup/agent/)
+[Source](https://www.controlup.com/products/controlup/agent/)
 
 | Version    | Plugin                          | Architecture | URI                                                                              |
 | ---------- | ------------------------------- | ------------ | -------------------------------------------------------------------------------- |

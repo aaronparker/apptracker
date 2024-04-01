@@ -2,11 +2,12 @@
 title: Remote Desktop Analyzer
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## RDAnalyzer
 
-[Link](https://rdanalyzer.com/)
+[Source](https://rdanalyzer.com/)
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |

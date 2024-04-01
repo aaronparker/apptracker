@@ -2,11 +2,12 @@
 title: Progress Chef Infra Client
 layout: default
 nav_order: 2
+last_modified_date: Mar 6 2024 at 08:18 pm
 ---
 
 ## ProgressChefInfraClient
 
-[Link](https://www.chef.io/products/chef-infra)
+[Source](https://www.chef.io/products/chef-infra)
 
 | Version   | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                   |
 | --------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |

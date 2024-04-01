@@ -2,11 +2,12 @@
 title: ONLYOFFICE Desktop Editors
 layout: default
 nav_order: 2
+last_modified_date: Feb 26 2024 at 08:14 pm
 ---
 
 ## OnlyOfficeDesktopEditors
 
-[Link](https://www.onlyoffice.com/desktop.aspx)
+[Source](https://www.onlyoffice.com/desktop.aspx)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |

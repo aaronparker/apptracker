@@ -2,11 +2,12 @@
 title: Zoom
 layout: default
 nav_order: 2
+last_modified_date: Mar 28 2024 at 10:15 am
 ---
 
 ## Zoom
 
-[Link](https://zoom.us/download)
+[Source](https://zoom.us/download)
 
 | Version       | Platform | Installer | Size      | Type | Architecture | URI                                                                    |
 | ------------- | -------- | --------- | --------- | ---- | ------------ | ---------------------------------------------------------------------- |

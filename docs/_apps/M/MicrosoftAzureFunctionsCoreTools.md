@@ -2,11 +2,12 @@
 title: Microsoft Azure Functions Core Tools
 layout: default
 nav_order: 2
+last_modified_date: Mar 23 2024 at 12:25 am
 ---
 
 ## MicrosoftAzureFunctionsCoreTools
 
-[Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+[Source](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |

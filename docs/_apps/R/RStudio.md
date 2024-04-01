@@ -2,11 +2,12 @@
 title: RStudio Desktop
 layout: default
 nav_order: 2
+last_modified_date: Jan 30 2024 at 08:13 pm
 ---
 
 ## RStudio
 
-[Link](https://posit.co/products/open-source/rstudio/)
+[Source](https://posit.co/products/open-source/rstudio/)
 
 | Version            | ProductName                                             | Pro   | Date       | Size      | Sha256                                                           | Type | URI                                                                               |
 | ------------------ | ------------------------------------------------------- | ----- | ---------- | --------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------- |

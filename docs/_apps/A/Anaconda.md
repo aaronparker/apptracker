@@ -2,11 +2,12 @@
 title: Anaconda
 layout: default
 nav_order: 2
+last_modified_date: Feb 27 2024 at 12:26 am
 ---
 
 ## Anaconda
 
-[Link](https://www.anaconda.com/)
+[Source](https://www.anaconda.com/)
 
 | Version | Architecture | Date                 | Size      | MD5                              | Sha256                                                           | URI                                                                      |
 | ------- | ------------ | -------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |

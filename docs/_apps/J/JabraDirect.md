@@ -2,11 +2,12 @@
 title: JabraDirect
 layout: default
 nav_order: 2
+last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
 ## JabraDirect
 
-[Link](https://www.jabra.com/software-and-services/jabra-direct)
+[Source](https://www.jabra.com/software-and-services/jabra-direct)
 
 | Version    | Architecture | ReleaseNotes                                                          | Type | Sha256                                                           | URI                                                                             |
 | ---------- | ------------ | --------------------------------------------------------------------- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |

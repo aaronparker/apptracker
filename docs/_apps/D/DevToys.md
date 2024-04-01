@@ -2,11 +2,12 @@
 title: DevToys
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## DevToys
 
-[Link](https://devtoys.app/)
+[Source](https://devtoys.app/)
 
 | Version  | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                                 |
 | -------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- |

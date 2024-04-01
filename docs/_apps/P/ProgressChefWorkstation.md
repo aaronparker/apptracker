@@ -2,11 +2,12 @@
 title: Progress Chef Workstation
 layout: default
 nav_order: 2
+last_modified_date: Feb 20 2024 at 08:14 pm
 ---
 
 ## ProgressChefWorkstation
 
-[Link](https://www.chef.io/products/chef-workstation)
+[Source](https://www.chef.io/products/chef-workstation)
 
 | Version   | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                   |
 | --------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |

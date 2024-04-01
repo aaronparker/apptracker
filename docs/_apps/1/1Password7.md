@@ -2,11 +2,12 @@
 title: 1Password 7
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## 1Password7
 
-[Link](https://1password.com/)
+[Source](https://1password.com/)
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |

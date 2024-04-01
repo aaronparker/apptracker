@@ -2,11 +2,12 @@
 title: Windows Auto Dark Mode
 layout: default
 nav_order: 2
+last_modified_date: Sep 26 2023 at 12:19 am
 ---
 
 ## AutoDarkMode
 
-[Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+[Source](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                           |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------- |

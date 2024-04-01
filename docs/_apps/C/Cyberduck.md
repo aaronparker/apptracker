@@ -2,11 +2,12 @@
 title: iterate GmbH Cyberduck
 layout: default
 nav_order: 2
+last_modified_date: Mar 14 2024 at 08:14 pm
 ---
 
 ## Cyberduck
 
-[Link](https://cyberduck.io/)
+[Source](https://cyberduck.io/)
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |

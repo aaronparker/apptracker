@@ -2,11 +2,12 @@
 title: GoTo Meeting
 layout: default
 nav_order: 2
+last_modified_date: Mar 19 2023 at 08:09 am
 ---
 
 ## GoToMeeting
 
-[Link](https://support.goto.com/meeting/help/install-via-msi-windows)
+[Source](https://support.goto.com/meeting/help/install-via-msi-windows)
 
 | Version     | Type         | URI                                                                                       |
 | ----------- | ------------ | ----------------------------------------------------------------------------------------- |

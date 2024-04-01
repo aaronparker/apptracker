@@ -2,11 +2,12 @@
 title: AWS SAM CLI
 layout: default
 nav_order: 2
+last_modified_date: Mar 20 2024 at 12:26 am
 ---
 
 ## AWSSAMCLI
 
-[Link](https://github.com/aws/aws-sam-cli/)
+[Source](https://github.com/aws/aws-sam-cli/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |

@@ -2,11 +2,12 @@
 title: Google Chrome Driver
 layout: default
 nav_order: 2
+last_modified_date: Mar 30 2024 at 08:13 pm
 ---
 
 ## GoogleChromeDriver
 
-[Link](https://cloud.google.com/chrome-enterprise/browser/download/)
+[Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
 | Version       | Revision | Channel | Architecture | Type | URI                                                                                                 |
 | ------------- | -------- | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |

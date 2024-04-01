@@ -2,11 +2,12 @@
 title: Microsoft Remote Desktop WebRTC Redirector Service
 layout: default
 nav_order: 2
+last_modified_date: Mar 26 2024 at 12:26 am
 ---
 
 ## MicrosoftWvdRtcService
 
-[Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
+[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
 
 | Version         | Date                          | Size | Architecture | Filename                                         | URI                               |
 | --------------- | ----------------------------- | ---- | ------------ | ------------------------------------------------ | --------------------------------- |

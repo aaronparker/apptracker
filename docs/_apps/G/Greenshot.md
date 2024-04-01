@@ -2,11 +2,12 @@
 title: Greenshot
 layout: default
 nav_order: 2
+last_modified_date: May 13 2023 at 08:09 am
 ---
 
 ## Greenshot
 
-[Link](https://getgreenshot.org/)
+[Source](https://getgreenshot.org/)
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |

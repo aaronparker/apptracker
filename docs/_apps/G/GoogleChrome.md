@@ -2,11 +2,12 @@
 title: Google Chrome Enterprise
 layout: default
 nav_order: 2
+last_modified_date: Mar 30 2024 at 08:13 pm
 ---
 
 ## GoogleChrome
 
-[Link](https://cloud.google.com/chrome-enterprise/browser/download/)
+[Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
 | Version        | Architecture | Channel  | Type | URI                                                                                     |
 | -------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |

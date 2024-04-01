@@ -2,11 +2,12 @@
 title: PDF Arranger
 layout: default
 nav_order: 2
+last_modified_date: Jul 8 2023 at 04:08 pm
 ---
 
 ## PDFArranger
 
-[Link](https://github.com/pdfarranger/pdfarranger/)
+[Source](https://github.com/pdfarranger/pdfarranger/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |

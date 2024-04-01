@@ -2,11 +2,12 @@
 title: Telerik Fiddler Classic
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## TelerikFiddlerClassic
 
-[Link](https://www.telerik.com/fiddler/fiddler-classic)
+[Source](https://www.telerik.com/fiddler/fiddler-classic)
 
 | Version     | URI                                                               |
 | ----------- | ----------------------------------------------------------------- |

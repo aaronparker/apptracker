@@ -2,11 +2,12 @@
 title: Hashicorp Consul
 layout: default
 nav_order: 2
+last_modified_date: Mar 27 2024 at 12:29 am
 ---
 
 ## HashicorpConsul
 
-[Link](https://www.consul.io/)
+[Source](https://www.consul.io/)
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |

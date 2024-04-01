@@ -2,11 +2,12 @@
 title: VMware Tools
 layout: default
 nav_order: 2
+last_modified_date: Mar 21 2024 at 08:16 pm
 ---
 
 ## VMwareTools
 
-[Link](https://docs.vmware.com/en/VMware-Tools/index.html)
+[Source](https://docs.vmware.com/en/VMware-Tools/index.html)
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |

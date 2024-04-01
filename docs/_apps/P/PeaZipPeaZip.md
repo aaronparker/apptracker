@@ -2,11 +2,12 @@
 title: PeaZip PeaZip
 layout: default
 nav_order: 2
+last_modified_date: Feb 15 2024 at 12:27 am
 ---
 
 ## PeaZipPeaZip
 
-[Link](https://peazip.github.io/)
+[Source](https://peazip.github.io/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------- |

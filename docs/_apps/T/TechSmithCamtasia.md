@@ -2,11 +2,12 @@
 title: TechSmith Camtasia
 layout: default
 nav_order: 2
+last_modified_date: Mar 19 2024 at 08:14 pm
 ---
 
 ## TechSmithCamtasia
 
-[Link](https://www.techsmith.com/)
+[Source](https://www.techsmith.com/)
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: JetBrains WebStorm
 layout: default
 nav_order: 2
+last_modified_date: Mar 25 2024 at 08:14 pm
 ---
 
 ## JetBrainsWebStorm
 
-[Link](https://www.jetbrains.com/webstorm)
+[Source](https://www.jetbrains.com/webstorm)
 
 | Version  | Build        | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                           |
 | -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------- |

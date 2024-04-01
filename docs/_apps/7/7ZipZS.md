@@ -2,11 +2,12 @@
 title: 7-Zip ZS
 layout: default
 nav_order: 2
+last_modified_date: Jun 18 2023 at 04:07 pm
 ---
 
 ## 7ZipZS
 
-[Link](https://mcmilk.de/projects/7-Zip-zstd/)
+[Source](https://mcmilk.de/projects/7-Zip-zstd/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |

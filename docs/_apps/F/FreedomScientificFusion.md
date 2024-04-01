@@ -2,11 +2,12 @@
 title: Freedom Scientific Fusion
 layout: default
 nav_order: 2
+last_modified_date: Mar 6 2024 at 08:18 pm
 ---
 
 ## FreedomScientificFusion
 
-[Link](https://www.freedomscientific.com/products/software/fusion/)
+[Source](https://www.freedomscientific.com/products/software/fusion/)
 
 | Version     | Date       | URI                                                                                                                            |
 | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |

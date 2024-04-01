@@ -2,11 +2,12 @@
 title: Master Packager
 layout: default
 nav_order: 2
+last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
 ## MasterPackager
 
-[Link](https://www.masterpackager.com/)
+[Source](https://www.masterpackager.com/)
 
 | Version   | Type | URI                                                                   |
 | --------- | ---- | --------------------------------------------------------------------- |

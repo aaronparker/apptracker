@@ -2,11 +2,12 @@
 title: Sumatra PDF Reader
 layout: default
 nav_order: 2
+last_modified_date: Feb 13 2024 at 12:27 am
 ---
 
 ## SumatraPDFReader
 
-[Link](https://www.sumatrapdfreader.org/)
+[Source](https://www.sumatrapdfreader.org/)
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |

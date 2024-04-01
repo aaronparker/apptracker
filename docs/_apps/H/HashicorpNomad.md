@@ -2,11 +2,12 @@
 title: Hashicorp Nomad
 layout: default
 nav_order: 2
+last_modified_date: Mar 12 2024 at 08:14 pm
 ---
 
 ## HashicorpNomad
 
-[Link](https://www.nomadproject.io/)
+[Source](https://www.nomadproject.io/)
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |

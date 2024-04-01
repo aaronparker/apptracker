@@ -2,11 +2,12 @@
 title: PSF Python
 layout: default
 nav_order: 2
+last_modified_date: Feb 7 2024 at 12:25 am
 ---
 
 ## PSFPython
 
-[Link](https://www.python.org/)
+[Source](https://www.python.org/)
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                              |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ---------------------------------------------------------------- |

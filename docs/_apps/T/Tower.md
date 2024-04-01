@@ -2,11 +2,12 @@
 title: Tower
 layout: default
 nav_order: 2
+last_modified_date: Mar 26 2024 at 08:14 pm
 ---
 
 ## Tower
 
-[Link](https://www.git-tower.com/windows/)
+[Source](https://www.git-tower.com/windows/)
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |

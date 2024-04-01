@@ -2,11 +2,12 @@
 title: Adobe Connect meeting application
 layout: default
 nav_order: 2
+last_modified_date: Sep 18 2023 at 08:08 am
 ---
 
 ## AdobeConnect
 
-[Link](https://www.adobe.com/products/adobeconnect.html)
+[Source](https://www.adobe.com/products/adobeconnect.html)
 
 | Version    | Type | Architecture | URI                                                                                              |
 | ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------ |

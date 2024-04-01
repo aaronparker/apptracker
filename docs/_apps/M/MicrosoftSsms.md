@@ -2,11 +2,12 @@
 title: Microsoft SQL Server Management Studio
 layout: default
 nav_order: 2
+last_modified_date: Mar 19 2024 at 08:14 pm
 ---
 
 ## MicrosoftSsms
 
-[Link](https://go.microsoft.com/fwlink/?LinkId=531355)
+[Source](https://go.microsoft.com/fwlink/?LinkId=531355)
 
 | Version   | Date       | Language              | URI                                                                                                   |
 | --------- | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |

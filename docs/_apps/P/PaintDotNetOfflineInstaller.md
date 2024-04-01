@@ -2,11 +2,12 @@
 title: dotPDN LLC Paint.NET
 layout: default
 nav_order: 2
+last_modified_date: Mar 6 2024 at 12:26 am
 ---
 
 ## PaintDotNetOfflineInstaller
 
-[Link](https://getpaint.net/)
+[Source](https://getpaint.net/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------- |

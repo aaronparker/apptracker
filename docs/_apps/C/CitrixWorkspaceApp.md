@@ -2,11 +2,12 @@
 title: Citrix Workspace app
 layout: default
 nav_order: 2
+last_modified_date: Mar 6 2024 at 08:18 pm
 ---
 
 ## CitrixWorkspaceApp
 
-[Link](https://www.citrix.com/downloads/workspace-app/)
+[Source](https://www.citrix.com/downloads/workspace-app/)
 
 | Version        | Title                              | Size      | Hash                                                             | Date       | Stream  | URI                                                                                                       |
 | -------------- | ---------------------------------- | --------- | ---------------------------------------------------------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------- |

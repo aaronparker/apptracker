@@ -2,11 +2,12 @@
 title: Opera Crypto Browser
 layout: default
 nav_order: 2
+last_modified_date: Mar 14 2024 at 10:16 am
 ---
 
 ## OperaCryptoBrowser
 
-[Link](https://www.opera.com/crypto/next)
+[Source](https://www.opera.com/crypto/next)
 
 | Version       | Channel | Architecture | Type | URI                                                                                                   |
 | ------------- | ------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |

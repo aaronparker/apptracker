@@ -2,11 +2,12 @@
 title: ESET Inspect Connector
 layout: default
 nav_order: 2
+last_modified_date: Feb 8 2024 at 08:14 pm
 ---
 
 ## ESETInspectConnector
 
-[Link](https://www.eset.com/int/business/download/inspect/)
+[Source](https://www.eset.com/int/business/download/inspect/)
 
 | Version    | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                 |
 | ---------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |

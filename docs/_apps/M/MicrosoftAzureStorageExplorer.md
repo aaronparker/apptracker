@@ -2,11 +2,12 @@
 title: Microsoft Azure Storage Explorer
 layout: default
 nav_order: 2
+last_modified_date: Mar 2 2024 at 12:26 am
 ---
 
 ## MicrosoftAzureStorageExplorer
 
-[Link](https://azure.microsoft.com/en-au/features/storage-explorer/)
+[Source](https://azure.microsoft.com/en-au/features/storage-explorer/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |

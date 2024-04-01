@@ -2,11 +2,12 @@
 title: BlueJ
 layout: default
 nav_order: 2
+last_modified_date: Mar 20 2024 at 08:14 pm
 ---
 
 ## BlueJ
 
-[Link](https://www.bluej.org/)
+[Source](https://www.bluej.org/)
 
 | Version | URI                                                        |
 | ------- | ---------------------------------------------------------- |

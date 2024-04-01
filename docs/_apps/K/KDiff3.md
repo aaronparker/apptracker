@@ -2,11 +2,12 @@
 title: KDiff3
 layout: default
 nav_order: 2
+last_modified_date: Mar 31 2024 at 12:29 am
 ---
 
 ## KDiff3
 
-[Link](https://kdiff3.sourceforge.net/)
+[Source](https://kdiff3.sourceforge.net/)
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |

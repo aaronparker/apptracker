@@ -2,11 +2,12 @@
 title: Protege
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## Protege
 
-[Link](https://protege.stanford.edu/)
+[Source](https://protege.stanford.edu/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------ |

@@ -2,11 +2,12 @@
 title: Opera Browser
 layout: default
 nav_order: 2
+last_modified_date: Mar 29 2024 at 08:14 pm
 ---
 
 ## OperaBrowser
 
-[Link](https://www.opera.com/browsers/opera)
+[Source](https://www.opera.com/browsers/opera)
 
 | Version          | Channel   | Architecture | Type | URI                                                                                                               |
 | ---------------- | --------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------- |

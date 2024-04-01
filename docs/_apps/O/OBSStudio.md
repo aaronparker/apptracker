@@ -2,11 +2,12 @@
 title: OBS Studio
 layout: default
 nav_order: 2
+last_modified_date: Mar 24 2024 at 12:29 am
 ---
 
 ## OBSStudio
 
-[Link](https://obsproject.com/)
+[Source](https://obsproject.com/)
 
 | Version | Architecture | URI                                                                                  |
 | ------- | ------------ | ------------------------------------------------------------------------------------ |

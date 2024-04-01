@@ -2,11 +2,12 @@
 title: JetBrains Space
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## JetBrainsSpace
 
-[Link](https://www.jetbrains.com/space)
+[Source](https://www.jetbrains.com/space)
 
 | Version  | Build | Edition       | Sha256                                                                   | Date       | Size     | Type | URI                                                               |
 | -------- | ----- | ------------- | ------------------------------------------------------------------------ | ---------- | -------- | ---- | ----------------------------------------------------------------- |

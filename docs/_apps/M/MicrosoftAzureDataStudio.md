@@ -2,11 +2,12 @@
 title: Microsoft Azure Data Studio
 layout: default
 nav_order: 2
+last_modified_date: Mar 28 2024 at 10:15 am
 ---
 
 ## MicrosoftAzureDataStudio
 
-[Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
+[Source](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                       |
 | ------- | -------------- | ------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |

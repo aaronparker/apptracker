@@ -2,11 +2,12 @@
 title: Mestrelab Mnova
 layout: default
 nav_order: 2
+last_modified_date: Mar 7 2024 at 10:15 am
 ---
 
 ## MestrelabMnova
 
-[Link](https://mestrelab.com/software/mnova/)
+[Source](https://mestrelab.com/software/mnova/)
 
 | Version | Revision | Architecture | URI                                                                          |
 | ------- | -------- | ------------ | ---------------------------------------------------------------------------- |

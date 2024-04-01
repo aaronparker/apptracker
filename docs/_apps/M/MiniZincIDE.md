@@ -2,11 +2,12 @@
 title: MiniZinc IDE
 layout: default
 nav_order: 2
+last_modified_date: Feb 1 2024 at 10:13 am
 ---
 
 ## MiniZincIDE
 
-[Link](https://www.minizinc.org/)
+[Source](https://www.minizinc.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |

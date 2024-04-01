@@ -2,11 +2,12 @@
 title: pdfforge PDFCreator
 layout: default
 nav_order: 2
+last_modified_date: Mar 13 2024 at 08:15 pm
 ---
 
 ## PDFForgePDFCreator
 
-[Link](https://www.pdfforge.org/pdfcreator)
+[Source](https://www.pdfforge.org/pdfcreator)
 
 | Version | Date       | Size     | MD5                              | Filename                   | URI                                                                                                                         |
 | ------- | ---------- | -------- | -------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |

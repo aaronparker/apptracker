@@ -2,11 +2,12 @@
 title: Microsoft OpenJDK 11
 layout: default
 nav_order: 2
+last_modified_date: Feb 2 2024 at 12:26 am
 ---
 
 ## MicrosoftOpenJDK11
 
-[Link](https://www.microsoft.com/openjdk)
+[Source](https://www.microsoft.com/openjdk)
 
 | Version   | ImageType | Date                 | Architecture | Type | URI                                                                                                                                                                     |
 | --------- | --------- | -------------------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

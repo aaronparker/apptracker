@@ -2,11 +2,12 @@
 title: gretl
 layout: default
 nav_order: 2
+last_modified_date: Mar 31 2024 at 12:29 am
 ---
 
 ## gretl
 
-[Link](http://gretl.sourceforge.net/)
+[Source](http://gretl.sourceforge.net/)
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |

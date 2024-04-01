@@ -2,11 +2,12 @@
 title: Zotero
 layout: default
 nav_order: 2
+last_modified_date: Mar 14 2024 at 12:27 am
 ---
 
 ## Zotero
 
-[Link](https://www.zotero.org/)
+[Source](https://www.zotero.org/)
 
 | Version | URI                                                                       |
 | ------- | ------------------------------------------------------------------------- |

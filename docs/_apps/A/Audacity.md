@@ -2,11 +2,12 @@
 title: Audacity
 layout: default
 nav_order: 2
+last_modified_date: Nov 16 2023 at 04:11 pm
 ---
 
 ## Audacity
 
-[Link](https://www.audacityteam.org/)
+[Source](https://www.audacityteam.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |

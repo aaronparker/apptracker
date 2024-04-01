@@ -16,7 +16,7 @@
 title: Evergreen App Tracker
 description: Tracking application versions with Evergreen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stealthpuppy.ccom/apptracker/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stealthpuppy.com/apptracker/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: aaronparker/apptracker # for github-metadata
 
 permalink: pretty
@@ -103,6 +103,12 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "Evergreen docs":
+    - "https://stealthpuppy.com/evergreen"
+  "Project":
+    - "https://github.com/aaronparker/evergreen"
+  "Module":
+    - "https://powershellgallery.com/packages/Evergreen"
   "stealthpuppy":
     - "https://stealthpuppy.com/"
 
@@ -111,12 +117,13 @@ aux_links_new_tab: false
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
-nav_sort: case_sensitive # Capital letters sorted before lowercase
+# nav_sort: case_sensitive # Capital letters sorted before lowercase
+nav_sort: default # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Evergreen AppTracker
-    url: https://github.com/aaronparker/apptracker
+  # - title: Evergreen AppTracker
+  #   url: https://github.com/aaronparker/apptracker
 
 liquid:
    error_mode: strict
@@ -135,9 +142,8 @@ footer_content: "Copyright &copy; 2024 Aaron Parker."
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/aaronparker/apptracker" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
@@ -145,7 +151,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: light
 
 callouts_level: quiet # or loud
 callouts:

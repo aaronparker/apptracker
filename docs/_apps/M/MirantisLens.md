@@ -2,11 +2,12 @@
 title: MirantisLens
 layout: default
 nav_order: 2
+last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
 ## MirantisLens
 
-[Link](https://k8slens.dev/)
+[Source](https://k8slens.dev/)
 
 | Version              | Architecture | Release | Date                  | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | --------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |

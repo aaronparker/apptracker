@@ -2,11 +2,12 @@
 title: Git for Windows
 layout: default
 nav_order: 2
+last_modified_date: Feb 24 2024 at 12:27 am
 ---
 
 ## GitForWindows
 
-[Link](https://gitforwindows.org/)
+[Source](https://gitforwindows.org/)
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                         |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |

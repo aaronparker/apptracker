@@ -2,11 +2,12 @@
 title: Mozilla Thunderbird
 layout: default
 nav_order: 2
+last_modified_date: Jun 9 2022 at 10:14 pm
 ---
 
 ## MozillaThunderbird
 
-[Link](https://www.thunderbird.net/)
+[Source](https://www.thunderbird.net/)
 
 | Version | Architecture | Channel                    | Language | Type | Filename                      | URI                                                                                                                       |
 | ------- | ------------ | -------------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

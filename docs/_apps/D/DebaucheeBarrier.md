@@ -2,11 +2,12 @@
 title: Debauchee Barrier
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## DebaucheeBarrier
 
-[Link](https://github.com/debauchee/barrier)
+[Source](https://github.com/debauchee/barrier)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: Gpg4win
 layout: default
 nav_order: 2
+last_modified_date: Mar 11 2024 at 08:14 pm
 ---
 
 ## Gpg4win
 
-[Link](https://www.gpg4win.org/)
+[Source](https://www.gpg4win.org/)
 
 | Version | Architecture | Type | URI                                         |
 | ------- | ------------ | ---- | ------------------------------------------- |

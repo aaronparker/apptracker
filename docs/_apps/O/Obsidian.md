@@ -2,11 +2,12 @@
 title: Obsidian
 layout: default
 nav_order: 2
+last_modified_date: Mar 19 2024 at 08:14 pm
 ---
 
 ## Obsidian
 
-[Link](https://obsidian.md/)
+[Source](https://obsidian.md/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |

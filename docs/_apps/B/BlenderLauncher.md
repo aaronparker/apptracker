@@ -2,11 +2,12 @@
 title: Blender Launcher
 layout: default
 nav_order: 2
+last_modified_date: May 13 2023 at 08:09 am
 ---
 
 ## BlenderLauncher
 
-[Link](https://dotbow.github.io/Blender-Launcher/)
+[Source](https://dotbow.github.io/Blender-Launcher/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: Oracle Java 17
 layout: default
 nav_order: 2
+last_modified_date: Jan 17 2024 at 10:14 am
 ---
 
 ## OracleJava17
 
-[Link](https://www.oracle.com/java/technologies/downloads/#java17)
+[Source](https://www.oracle.com/java/technologies/downloads/#java17)
 
 | Version | Sha256                                                           | Type | URI                                                                   |
 | ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |

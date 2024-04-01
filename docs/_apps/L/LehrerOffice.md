@@ -2,11 +2,12 @@
 title: LehrerOffice
 layout: default
 nav_order: 2
+last_modified_date: Mar 1 2024 at 08:14 pm
 ---
 
 ## LehrerOffice
 
-[Link](https://lehreroffice.net/)
+[Source](https://lehreroffice.net/)
 
 | Version  | Type | URI                                                           |
 | -------- | ---- | ------------------------------------------------------------- |

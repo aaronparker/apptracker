@@ -2,11 +2,12 @@
 title: Connection Experience Indicator
 layout: default
 nav_order: 2
+last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
 ## ConnectionExperienceIndicator
 
-[Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
+[Source](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |

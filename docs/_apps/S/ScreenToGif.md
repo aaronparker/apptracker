@@ -2,11 +2,12 @@
 title: ScreenToGif
 layout: default
 nav_order: 2
+last_modified_date: Mar 25 2024 at 12:30 am
 ---
 
 ## ScreenToGif
 
-[Link](https://github.com/NickeManarin/ScreenToGif)
+[Source](https://github.com/NickeManarin/ScreenToGif)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |

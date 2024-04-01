@@ -2,11 +2,12 @@
 title: WiX Toolset
 layout: default
 nav_order: 2
+last_modified_date: Mar 23 2024 at 12:25 am
 ---
 
 ## WixToolset
 
-[Link](https://wixtoolset.org/)
+[Source](https://wixtoolset.org/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: Artifex Ghostscript
 layout: default
 nav_order: 2
+last_modified_date: Mar 7 2024 at 08:14 pm
 ---
 
 ## ArtifexGhostscript
 
-[Link](https://www.ghostscript.com/)
+[Source](https://www.ghostscript.com/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |

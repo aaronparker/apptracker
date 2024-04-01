@@ -2,11 +2,12 @@
 title: Oracle Java 21
 layout: default
 nav_order: 2
+last_modified_date: Jan 17 2024 at 10:14 am
 ---
 
 ## OracleJava21
 
-[Link](https://www.oracle.com/java/technologies/downloads/#java21)
+[Source](https://www.oracle.com/java/technologies/downloads/#java21)
 
 | Version | Sha256                                                           | Type | URI                                                                   |
 | ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |

@@ -2,11 +2,12 @@
 title: Microsoft Virtual Desktop Optimization Tool
 layout: default
 nav_order: 2
+last_modified_date: Feb 8 2024 at 12:26 am
 ---
 
 ## MicrosoftVdot
 
-[Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
+[Source](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
 
 | Version    | Type | Filename                                         | URI                                                                                                             |
 | ---------- | ---- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |

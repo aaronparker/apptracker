@@ -2,11 +2,12 @@
 title: VMware Workstation Pro
 layout: default
 nav_order: 2
+last_modified_date: Feb 27 2024 at 08:13 pm
 ---
 
 ## VMwareWorkstationPro
 
-[Link](https://www.vmware.com/products/workstation-pro.html)
+[Source](https://www.vmware.com/products/workstation-pro.html)
 
 | Version | ReleaseDate           | Md5                              | Sha256                                                           | Size      | Type | URI                                                                                             |
 | ------- | --------------------- | -------------------------------- | ---------------------------------------------------------------- | --------- | ---- | ----------------------------------------------------------------------------------------------- |

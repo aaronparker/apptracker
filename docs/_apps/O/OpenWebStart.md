@@ -2,11 +2,12 @@
 title: OpenWebStart
 layout: default
 nav_order: 2
+last_modified_date: Dec 21 2023 at 08:15 pm
 ---
 
 ## OpenWebStart
 
-[Link](https://openwebstart.com/)
+[Source](https://openwebstart.com/)
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
