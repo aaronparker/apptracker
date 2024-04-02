@@ -5,23 +5,26 @@
 [Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
     [ValidateNotNullOrEmpty()]
-    [System.String] $Path,
+    [System.String] $JsonPath = "./json",
 
     [ValidateNotNullOrEmpty()]
-    [System.String] $UpdatesAlpha,
+    [System.String] $OutputPath = "./docs/_apps",
 
     [ValidateNotNullOrEmpty()]
-    [System.String] $UpdatesDate,
-
-    [ValidateNotNullOrEmpty()]
-    [System.String] $AppsFile,
-
-    [ValidateNotNullOrEmpty()]
-    [System.String] $AboutFile,
+    [System.String] $IndexFile = "./docs/index.md",
 
     [ValidateNotNullOrEmpty()]
     [System.String] $LastUpdateFile = "./json/_lastupdate.txt"
 )
+
+$DefaultLayout = @"
+---
+title: #Title
+layout: default
+nav_order: 2
+last_modified_date: #Date
+---
+"@
 
 # Install modules
 Import-Module -Name "Evergreen" -Force
@@ -29,93 +32,63 @@ Import-Module -Name "MarkdownPS" -Force
 
 #region Update the list of supported apps in index.md, sorted alphabetically
 $UniqueAppsCount = 0
-$Markdown = New-MDHeader -Text "Updates by name" -Level 1
-$Markdown += "`n"
-foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $Path -ChildPath "*.json"))) {
-    $Markdown += New-MDHeader -Text "$($File.BaseName)" -Level 2
-    $Markdown += "`n"
 
-    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName } | `
-        Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    if ($null -ne $Link) {
-        $Markdown += New-MDLink -Text "Link" -Link $Link
-        $Markdown += "`n`n"
-    }
-
-    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
-    $Markdown += $Table
-    $Markdown += "`n"
-
-    $UniqueAppsCount += (Get-Content -Path $File.FullName | ConvertFrom-Json).Count
-}
-$Markdown | Out-File -FilePath $UpdatesAlpha -Force -Encoding "Utf8" -NoNewline
-#endregion
-
-
-#region Update the list of supported apps in date.md, sorted alphabetically
 # Read the file that lists last date applications were updates
 if (Test-Path -Path $LastUpdateFile) {
     $LastUpdates = Get-Content -Path $LastUpdateFile | ConvertFrom-Csv
 }
 
-$Markdown = New-MDHeader -Text "Updates by date" -Level 1
-$Markdown += "`n"
-foreach ($File in $LastUpdates) {
-    $Markdown += New-MDHeader -Text $($File.Name -replace ".json", "") -Level 2
+foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
+
+    $ChildPath = Join-Path -Path $OutputPath -ChildPath $File.Name.Substring(0, 1)
+    New-Item -Path $ChildPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
+
+    $App = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName }
+
+    # Convert the date to a long date for readability for all regions
+    # "MMM d yyyy 'at' hh:mm tt"
+    $LastWriteTime = $LastUpdates | Where-Object { $_.Name -eq $File.Name } | Select-Object -ExpandProperty "LastWriteTime"
+    $ConvertedDateTime = [System.DateTime]::ParseExact($LastWriteTime, "d/M/yyyy h:mm:s tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
+
+    # Update front matter
+    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt"))
+    $Markdown += "`n`n"
+    $Markdown += New-MDHeader -Text "$($App.Application)" -Level 2
     $Markdown += "`n"
+    $Markdown += "[Source]($($App.Link))`n`nEvergreen app: ``$($File.BaseName)``"
+    $Markdown += "`n`n"
 
-    $Link = Find-EvergreenApp | Where-Object { $_.Name -eq $($File.Name -replace ".json", "") } | `
-        Select-Object -ExpandProperty "Link" -ErrorAction "SilentlyContinue"
-    if ($null -ne $Link) {
-        $Markdown += "$(New-MDLink -Text "Link" -Link $Link)"
-        $Markdown += "`n`n"
-
-        # Convert the date to a long date for readability for all regions
-        $ConvertedDateTime = [System.DateTime]::ParseExact($File.LastWriteTime, "d/M/yyyy h:mm:s tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
-        $LastUpdate = "$($ConvertedDateTime.ToLongDateString()) $($ConvertedDateTime.ToLongTimeString())"
-
-        $Markdown += "**Last update**: $LastUpdate $((Get-TimeZone).Id)"
-        $Markdown += "`n`n"
-    }
-
-    $Table = Get-Content -Path $(Join-Path -Path $Path -ChildPath $File.Name) | ConvertFrom-Json | New-MDTable
+    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
     $Markdown += $Table
-    $Markdown += "`n"
+    $Markdown | Out-File -FilePath $(Join-Path -Path $ChildPath -ChildPath "$($File.BaseName).md") -Force -Encoding "Utf8" -NoNewline
+
+    $UniqueAppsCount += (Get-Content -Path $File.FullName | ConvertFrom-Json).Count
 }
-$Markdown | Out-File -FilePath $UpdatesDate -Force -Encoding "Utf8" -NoNewline
 #endregion
 
-
-#region Update the generated date in about.md
+#region Update the about page
 $About = @"
 ---
-hide:
-  - navigation
-  - toc
+title: About
+layout: default
+nav_order: 1
 ---
-# About
+# Evergreen App Tracker
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
 
-Updates are posted every 8 hours. Last update: $(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id).
+Updates are posted every 12 hours. Last generated date: ``$(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id)``.
 
 A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
+
+## Supported Applications
+
+App Tracker is using [Evergreen](https://stealthpuppy.com/evergreen/) to track $((Find-EvergreenApp).Count) applications and $UniqueAppsCount unique application installers:
+
 "@
-$About | Out-File -FilePath $AboutFile -Force -Encoding "Utf8" -NoNewline
-#endregion
 
-
-#region Update the list of supported apps in APPS.md
-$markdown = "---`n"
-$markdown += "hide:`n"
-$markdown += "  - navigation`n"
-$markdown += "  - toc`n"
-$markdown += "---`n`n"
-$markdown += New-MDHeader -Text "Supported Applications" -Level 1
-$markdown += "`n"
-$line = "App Version Tracker is using Evergreen to track $((Find-EvergreenApp).Count) applications and $UniqueAppsCount unique application installers:"
-$markdown += $line
-$markdown += "`n`n"
-$markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
-$markdown | Out-File -FilePath $AppsFile -Force -Encoding "Utf8" -NoNewline
+$Markdown = $About
+$Markdown += "`n`n"
+$Markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
+$Markdown | Out-File -FilePath $IndexFile -Force -Encoding "Utf8" -NoNewline
 #endregion
