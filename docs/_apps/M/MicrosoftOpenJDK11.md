@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 2 2024 at 12:26 am
 ---
 
-## MicrosoftOpenJDK11
+## Microsoft OpenJDK 11
 
-[Source](https://www.microsoft.com/openjdk)
+[Source](https://www.microsoft.com/openjdk).
+
+Evergreen app: `MicrosoftOpenJDK11`.
 
 | Version   | ImageType | Date                 | Architecture | Type | URI                                                                                                                                                                     |
 | --------- | --------- | -------------------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

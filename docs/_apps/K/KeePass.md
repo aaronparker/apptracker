@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 31 2024 at 12:29 am
 ---
 
-## KeePass
+## KeePass Password Safe
 
-[Source](https://keepass.info/)
+[Source](https://keepass.info/).
+
+Evergreen app: `KeePass`.
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                                               |
 | ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |

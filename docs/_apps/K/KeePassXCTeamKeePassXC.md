@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 11 2024 at 12:28 am
 ---
 
-## KeePassXCTeamKeePassXC
+## KeePassXC Team KeePassXC
 
-[Source](https://keepassxc.org/)
+[Source](https://keepassxc.org/).
+
+Evergreen app: `KeePassXCTeamKeePassXC`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |

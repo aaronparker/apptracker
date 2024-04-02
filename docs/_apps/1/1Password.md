@@ -7,7 +7,9 @@ last_modified_date: Mar 30 2024 at 08:13 pm
 
 ## 1Password
 
-[Source](https://1password.com/)
+[Source](https://1password.com/).
+
+Evergreen app: `1Password`.
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |

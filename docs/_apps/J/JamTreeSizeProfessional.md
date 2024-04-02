@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 15 2024 at 08:15 pm
 ---
 
-## JamTreeSizeProfessional
+## JAM Software TreeSize Professional
 
-[Source](https://www.jam-software.com/treesize/)
+[Source](https://www.jam-software.com/treesize/).
+
+Evergreen app: `JamTreeSizeProfessional`.
 
 | Version | URI                                                              |
 | ------- | ---------------------------------------------------------------- |

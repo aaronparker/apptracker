@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 18 2023 at 08:14 pm
 ---
 
-## Win32OpenSSH
+## Win32-OpenSSH
 
-[Source](https://github.com/PowerShell/Win32-OpenSSH/)
+[Source](https://github.com/PowerShell/Win32-OpenSSH/).
+
+Evergreen app: `Win32OpenSSH`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------- |

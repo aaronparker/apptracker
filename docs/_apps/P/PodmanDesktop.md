@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
-## PodmanDesktop
+## Podman Desktop
 
-[Source](https://github.com/containers/podman-desktop)
+[Source](https://github.com/containers/podman-desktop).
+
+Evergreen app: `PodmanDesktop`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------- |

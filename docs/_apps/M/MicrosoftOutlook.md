@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## MicrosoftOutlook
+## Microsoft Outlook
 
-[Source](https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+[Source](https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook).
+
+Evergreen app: `MicrosoftOutlook`.
 
 | Version        | Sha1Hash                                 | Size    | URI                                                                                                    |
 | -------------- | ---------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |

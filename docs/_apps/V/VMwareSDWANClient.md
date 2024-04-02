@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 13 2024 at 08:15 pm
 ---
 
-## VMwareSDWANClient
+## VMware SD-WAN Client
 
-[Source](https://docs.vmware.com/en/VMware-SD-WAN-Client/index.html)
+[Source](https://docs.vmware.com/en/VMware-SD-WAN-Client/index.html).
+
+Evergreen app: `VMwareSDWANClient`.
 
 | Version | ReleaseDate           | Md5                              | Sha256                                                           | Size     | Type | URI                                                                                 |
 | ------- | --------------------- | -------------------------------- | ---------------------------------------------------------------- | -------- | ---- | ----------------------------------------------------------------------------------- |

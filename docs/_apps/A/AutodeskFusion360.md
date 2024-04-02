@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 26 2024 at 12:26 am
 ---
 
-## AutodeskFusion360
+## Autodesk Fusion 360
 
-[Source](https://www.autodesk.com/products/fusion-360/overview)
+[Source](https://www.autodesk.com/products/fusion-360/overview).
+
+Evergreen app: `AutodeskFusion360`.
 
 | Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                           |
 | --------- | ------------ | ----------------- | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |

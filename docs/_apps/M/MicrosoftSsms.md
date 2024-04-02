@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 19 2024 at 08:14 pm
 ---
 
-## MicrosoftSsms
+## Microsoft SQL Server Management Studio
 
-[Source](https://go.microsoft.com/fwlink/?LinkId=531355)
+[Source](https://go.microsoft.com/fwlink/?LinkId=531355).
+
+Evergreen app: `MicrosoftSsms`.
 
 | Version   | Date       | Language              | URI                                                                                                   |
 | --------- | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 21 2024 at 08:16 pm
 ---
 
-## JetBrainsIntelliJIDEA
+## JetBrains IntelliJ IDEA
 
-[Source](https://www.jetbrains.com/)
+[Source](https://www.jetbrains.com/).
+
+Evergreen app: `JetBrainsIntelliJIDEA`.
 
 | Version  | Build       | Edition                 | Sha256                                                         | Date       | Size      | Type | URI                                                     |
 | -------- | ----------- | ----------------------- | -------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------- |

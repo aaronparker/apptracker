@@ -7,7 +7,9 @@ last_modified_date: Jan 31 2024 at 10:14 am
 
 ## FileZilla
 
-[Source](https://filezilla-project.org/)
+[Source](https://filezilla-project.org/).
+
+Evergreen app: `FileZilla`.
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |

@@ -7,7 +7,9 @@ last_modified_date: Feb 24 2024 at 08:13 pm
 
 ## OpenJDK
 
-[Source](https://openjdk.java.net/)
+[Source](https://openjdk.java.net/).
+
+Evergreen app: `OpenJDK`.
 
 | Version             | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                          |
 | ------------------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

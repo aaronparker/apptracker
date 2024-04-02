@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 6 2024 at 12:26 am
 ---
 
-## PaintDotNet
+## dotPDN LLC Paint.NET
 
-[Source](https://getpaint.net)
+[Source](https://getpaint.net).
+
+Evergreen app: `PaintDotNet`.
 
 | Version         | URI                                                                                                      |
 | --------------- | -------------------------------------------------------------------------------------------------------- |

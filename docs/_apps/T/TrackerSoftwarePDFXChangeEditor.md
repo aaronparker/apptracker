@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jan 23 2024 at 08:14 pm
 ---
 
-## TrackerSoftwarePDFXChangeEditor
+## Tracker Software PDF X-Change Editor
 
-[Source](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
+[Source](https://pdf-xchange.eu/pdf-xchange-editor/index.htm).
+
+Evergreen app: `TrackerSoftwarePDFXChangeEditor`.
 
 | Version    | Hash                                                             | Architecture | Type | URI                                                   |
 | ---------- | ---------------------------------------------------------------- | ------------ | ---- | ----------------------------------------------------- |

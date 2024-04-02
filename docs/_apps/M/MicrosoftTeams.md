@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 21 2024 at 12:27 am
 ---
 
-## MicrosoftTeams
+## Microsoft Teams
 
-[Source](https://www.microsoft.com/teams)
+[Source](https://www.microsoft.com/teams).
+
+Evergreen app: `MicrosoftTeams`.
 
 | Version     | Ring              | Architecture | Type | URI                                                                                               |
 | ----------- | ----------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------- |

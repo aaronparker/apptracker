@@ -7,7 +7,9 @@ last_modified_date: Dec 12 2023 at 12:28 am
 
 ## Notable
 
-[Source](https://notable.app/)
+[Source](https://notable.app/).
+
+Evergreen app: `Notable`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------- |

@@ -7,7 +7,9 @@ last_modified_date: Dec 13 2023 at 08:15 pm
 
 ## jq
 
-[Source](https://jqlang.github.io/jq/)
+[Source](https://jqlang.github.io/jq/).
+
+Evergreen app: `jq`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------- |

@@ -7,7 +7,9 @@ last_modified_date: Mar 11 2024 at 08:14 pm
 
 ## Gpg4win
 
-[Source](https://www.gpg4win.org/)
+[Source](https://www.gpg4win.org/).
+
+Evergreen app: `Gpg4win`.
 
 | Version | Architecture | Type | URI                                         |
 | ------- | ------------ | ---- | ------------------------------------------- |

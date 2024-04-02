@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
-## DBBrowserforSQLite
+## DB Browser for SQLite
 
-[Source](https://sqlitebrowser.org/)
+[Source](https://sqlitebrowser.org/).
+
+Evergreen app: `DBBrowserforSQLite`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                           |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------------- |

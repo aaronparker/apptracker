@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 18 2024 at 08:15 pm
 ---
 
-## GeoGebraClassic
+## GeoGebra Classic
 
-[Source](https://www.geogebra.org)
+[Source](https://www.geogebra.org).
+
+Evergreen app: `GeoGebraClassic`.
 
 | Version   | Type | URI                                                                                   |
 | --------- | ---- | ------------------------------------------------------------------------------------- |

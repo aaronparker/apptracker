@@ -7,7 +7,9 @@ last_modified_date: Mar 27 2024 at 08:14 pm
 
 ## PSAppDeployToolkit
 
-[Source](https://psappdeploytoolkit.com/)
+[Source](https://psappdeploytoolkit.com/).
+
+Evergreen app: `PSAppDeployToolkit`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | --------------------------------------------------------------------------------------------------------------- |

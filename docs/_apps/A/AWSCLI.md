@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 30 2024 at 12:29 am
 ---
 
-## AWSCLI
+## AWS CLI
 
-[Source](https://github.com/aws/aws-cli/)
+[Source](https://github.com/aws/aws-cli/).
+
+Evergreen app: `AWSCLI`.
 
 | Version | Type | URI                                               |
 | ------- | ---- | ------------------------------------------------- |

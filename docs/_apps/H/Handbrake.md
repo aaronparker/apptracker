@@ -7,7 +7,9 @@ last_modified_date: Feb 11 2024 at 08:14 pm
 
 ## Handbrake
 
-[Source](https://handbrake.fr/)
+[Source](https://handbrake.fr/).
+
+Evergreen app: `Handbrake`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |

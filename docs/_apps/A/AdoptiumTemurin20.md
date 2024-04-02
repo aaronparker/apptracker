@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Sep 4 2023 at 12:22 am
 ---
 
-## AdoptiumTemurin20
+## Adoptium Temurin 20
 
-[Source](https://adoptium.net/)
+[Source](https://adoptium.net/).
+
+Evergreen app: `AdoptiumTemurin20`.
 
 | Version  | ImageType | Date                 | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                             |
 | -------- | --------- | -------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------- |

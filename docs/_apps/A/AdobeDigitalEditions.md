@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:15 am
 ---
 
-## AdobeDigitalEditions
+## Adobe Digital Editions
 
-[Source](https://www.adobe.com/solutions/ebook/digital-editions.html)
+[Source](https://www.adobe.com/solutions/ebook/digital-editions.html).
+
+Evergreen app: `AdobeDigitalEditions`.
 
 | Version      | URI                                                                           |
 | ------------ | ----------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## EgnyteDesktopApp
+## Egnyte Desktop App
 
-[Source](https://www.egnyte.com/solutions/sharing-collaboration)
+[Source](https://www.egnyte.com/solutions/sharing-collaboration).
+
+Evergreen app: `EgnyteDesktopApp`.
 
 | Version   | SHA1                                     | URI                                                                                       |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |

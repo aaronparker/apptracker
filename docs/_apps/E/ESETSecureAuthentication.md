@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## ESETSecureAuthentication
+## ESET Secure Authentication
 
-[Source](https://www.eset.com/au/business/download/secure-authentication/)
+[Source](https://www.eset.com/au/business/download/secure-authentication/).
+
+Evergreen app: `ESETSecureAuthentication`.
 
 | Version  | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                            |
 | -------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |

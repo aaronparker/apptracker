@@ -7,7 +7,9 @@ last_modified_date: Dec 28 2023 at 10:15 am
 
 ## Anki
 
-[Source](https://github.com/ankitects/anki/)
+[Source](https://github.com/ankitects/anki/).
+
+Evergreen app: `Anki`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 30 2024 at 08:13 pm
 ---
 
-## GoogleChrome
+## Google Chrome Enterprise
 
-[Source](https://cloud.google.com/chrome-enterprise/browser/download/)
+[Source](https://cloud.google.com/chrome-enterprise/browser/download/).
+
+Evergreen app: `GoogleChrome`.
 
 | Version        | Architecture | Channel  | Type | URI                                                                                     |
 | -------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |

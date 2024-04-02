@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: May 13 2023 at 08:09 am
 ---
 
-## BlenderLauncher
+## Blender Launcher
 
-[Source](https://dotbow.github.io/Blender-Launcher/)
+[Source](https://dotbow.github.io/Blender-Launcher/).
+
+Evergreen app: `BlenderLauncher`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------- |

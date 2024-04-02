@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 10 2024 at 08:14 pm
 ---
 
-## ControlUpConsole
+## ControlUp Console
 
-[Source](https://www.controlup.com/products/controlup/management/)
+[Source](https://www.controlup.com/products/controlup/management/).
+
+Evergreen app: `ControlUpConsole`.
 
 | Version    | URI                                                              |
 | ---------- | ---------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 26 2024 at 08:14 pm
 ---
 
-## DruvainSyncClient
+## Druva inSync Client
 
-[Source](https://docs.druva.com/005_inSync_Client)
+[Source](https://docs.druva.com/005_inSync_Client).
+
+Evergreen app: `DruvainSyncClient`.
 
 | Version | InstallerVersion   | CloudPlatform | Md5sum                                   | Type | URI                                                                               |
 | ------- | ------------------ | ------------- | ---------------------------------------- | ---- | --------------------------------------------------------------------------------- |

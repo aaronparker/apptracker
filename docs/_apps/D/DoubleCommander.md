@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: May 13 2023 at 08:09 am
 ---
 
-## DoubleCommander
+## Double Commander
 
-[Source](https://github.com/doublecmd/doublecmd/)
+[Source](https://github.com/doublecmd/doublecmd/).
+
+Evergreen app: `DoubleCommander`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |

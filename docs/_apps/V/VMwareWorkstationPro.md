@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 27 2024 at 08:13 pm
 ---
 
-## VMwareWorkstationPro
+## VMware Workstation Pro
 
-[Source](https://www.vmware.com/products/workstation-pro.html)
+[Source](https://www.vmware.com/products/workstation-pro.html).
+
+Evergreen app: `VMwareWorkstationPro`.
 
 | Version | ReleaseDate           | Md5                              | Sha256                                                           | Size      | Type | URI                                                                                             |
 | ------- | --------------------- | -------------------------------- | ---------------------------------------------------------------- | --------- | ---- | ----------------------------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 23 2024 at 12:25 am
 ---
 
-## MicrosoftAzureFunctionsCoreTools
+## Microsoft Azure Functions Core Tools
 
-[Source](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+[Source](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local).
+
+Evergreen app: `MicrosoftAzureFunctionsCoreTools`.
 
 | Version  | Architecture | URI                                                                            |
 | -------- | ------------ | ------------------------------------------------------------------------------ |

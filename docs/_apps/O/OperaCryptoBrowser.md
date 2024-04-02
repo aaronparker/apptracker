@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 14 2024 at 10:16 am
 ---
 
-## OperaCryptoBrowser
+## Opera Crypto Browser
 
-[Source](https://www.opera.com/crypto/next)
+[Source](https://www.opera.com/crypto/next).
+
+Evergreen app: `OperaCryptoBrowser`.
 
 | Version       | Channel | Architecture | Type | URI                                                                                                   |
 | ------------- | ------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 26 2024 at 12:26 am
 ---
 
-## MicrosoftWvdRtcService
+## Microsoft Remote Desktop WebRTC Redirector Service
 
-[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
+[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd).
+
+Evergreen app: `MicrosoftWvdRtcService`.
 
 | Version         | Date                          | Size | Architecture | Filename                                         | URI                               |
 | --------------- | ----------------------------- | ---- | ------------ | ------------------------------------------------ | --------------------------------- |

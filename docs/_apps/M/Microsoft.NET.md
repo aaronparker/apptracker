@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 15 2024 at 12:26 am
 ---
 
-## Microsoft.NET
+## Microsoft .NET
 
-[Source](https://dotnet.microsoft.com/download/)
+[Source](https://dotnet.microsoft.com/download/).
+
+Evergreen app: `Microsoft.NET`.
 
 | Version | Architecture | Installer          | Channel | Hash                                                                                                                             | Type | URI                                                                                                                                                                       |
 | ------- | ------------ | ------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

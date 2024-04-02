@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 20 2024 at 08:14 pm
 ---
 
-## ProgressChefInSpec
+## Progress Chef InSpec
 
-[Source](https://www.chef.io/products/chef-inspec)
+[Source](https://www.chef.io/products/chef-inspec).
+
+Evergreen app: `ProgressChefInSpec`.
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                         |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |

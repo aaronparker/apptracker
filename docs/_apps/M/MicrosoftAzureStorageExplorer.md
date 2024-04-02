@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 2 2024 at 12:26 am
 ---
 
-## MicrosoftAzureStorageExplorer
+## Microsoft Azure Storage Explorer
 
-[Source](https://azure.microsoft.com/en-au/features/storage-explorer/)
+[Source](https://azure.microsoft.com/en-au/features/storage-explorer/).
+
+Evergreen app: `MicrosoftAzureStorageExplorer`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------- |

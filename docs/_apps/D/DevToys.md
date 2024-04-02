@@ -7,7 +7,9 @@ last_modified_date: Dec 12 2023 at 12:28 am
 
 ## DevToys
 
-[Source](https://devtoys.app/)
+[Source](https://devtoys.app/).
+
+Evergreen app: `DevToys`.
 
 | Version  | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                                 |
 | -------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- |

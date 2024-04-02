@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 13 2024 at 08:15 pm
 ---
 
-## JetBrainsToolbox
+## JetBrains Toolbox App
 
-[Source](https://www.jetbrains.com/toolbox-app/)
+[Source](https://www.jetbrains.com/toolbox-app/).
+
+Evergreen app: `JetBrainsToolbox`.
 
 | Version | Build       | Edition     | Sha256                                                                          | Date       | Size     | Type | URI                                                                      |
 | ------- | ----------- | ----------- | ------------------------------------------------------------------------------- | ---------- | -------- | ---- | ------------------------------------------------------------------------ |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 29 2024 at 08:14 pm
 ---
 
-## OperaBrowser
+## Opera Browser
 
-[Source](https://www.opera.com/browsers/opera)
+[Source](https://www.opera.com/browsers/opera).
+
+Evergreen app: `OperaBrowser`.
 
 | Version          | Channel   | Architecture | Type | URI                                                                                                               |
 | ---------------- | --------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------- |

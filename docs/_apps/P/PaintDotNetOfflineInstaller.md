@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 6 2024 at 12:26 am
 ---
 
-## PaintDotNetOfflineInstaller
+## dotPDN LLC Paint.NET
 
-[Source](https://getpaint.net/)
+[Source](https://getpaint.net/).
+
+Evergreen app: `PaintDotNetOfflineInstaller`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------- |

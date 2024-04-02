@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Nov 22 2023 at 08:09 am
 ---
 
-## VMPlexWorkstation
+## VMPlex Workstation
 
-[Source](https://github.com/0xf005ba11/vmplex-ws)
+[Source](https://github.com/0xf005ba11/vmplex-ws).
+
+Evergreen app: `VMPlexWorkstation`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |

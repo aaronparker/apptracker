@@ -7,7 +7,9 @@ last_modified_date: Dec 12 2023 at 12:28 am
 
 ## USBPcap
 
-[Source](https://github.com/desowin/usbpcap/)
+[Source](https://github.com/desowin/usbpcap/).
+
+Evergreen app: `USBPcap`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | ------------------------------------------------------------------------------------- |

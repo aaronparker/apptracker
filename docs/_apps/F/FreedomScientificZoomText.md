@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 6 2024 at 08:18 pm
 ---
 
-## FreedomScientificZoomText
+## Freedom Scientific ZoomText
 
-[Source](https://www.freedomscientific.com/products/software/zoomtext/)
+[Source](https://www.freedomscientific.com/products/software/zoomtext/).
+
+Evergreen app: `FreedomScientificZoomText`.
 
 | Version      | Date       | URI                                                                                                                                 |
 | ------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |

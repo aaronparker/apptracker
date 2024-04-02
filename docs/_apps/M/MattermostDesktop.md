@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 15 2024 at 08:15 pm
 ---
 
-## MattermostDesktop
+## Mattermost Desktop
 
-[Source](https://github.com/mattermost/desktop)
+[Source](https://github.com/mattermost/desktop).
+
+Evergreen app: `MattermostDesktop`.
 
 | Version | Type | Architecture | URI                                                                                  |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------ |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 28 2024 at 08:15 pm
 ---
 
-## MicrosoftEdge
+## Microsoft Edge
 
-[Source](https://www.microsoft.com/edge)
+[Source](https://www.microsoft.com/edge).
+
+Evergreen app: `MicrosoftEdge`.
 
 | Version       | Platform | Channel    | Release    | Architecture | Hash                                                             | URI                                                                                                                                                        |
 | ------------- | -------- | ---------- | ---------- | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

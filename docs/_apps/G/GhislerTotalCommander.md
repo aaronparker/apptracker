@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 22 2024 at 12:26 am
 ---
 
-## GhislerTotalCommander
+## Ghisler TotalCommander
 
-[Source](https://www.ghisler.com/)
+[Source](https://www.ghisler.com/).
+
+Evergreen app: `GhislerTotalCommander`.
 
 | Version | Architecture | URI                                           |
 | ------- | ------------ | --------------------------------------------- |

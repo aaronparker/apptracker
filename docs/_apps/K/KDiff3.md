@@ -7,7 +7,9 @@ last_modified_date: Mar 31 2024 at 12:29 am
 
 ## KDiff3
 
-[Source](https://kdiff3.sourceforge.net/)
+[Source](https://kdiff3.sourceforge.net/).
+
+Evergreen app: `KDiff3`.
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |

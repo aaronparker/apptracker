@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 12 2024 at 08:14 pm
 ---
 
-## JetBrainsRider
+## JetBrains Rider
 
-[Source](https://www.jetbrains.com/)
+[Source](https://www.jetbrains.com/).
+
+Evergreen app: `JetBrainsRider`.
 
 | Version  | Build        | Edition | Sha256                                                                   | Date       | Size      | Type | URI                                                               |
 | -------- | ------------ | ------- | ------------------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------------------- |

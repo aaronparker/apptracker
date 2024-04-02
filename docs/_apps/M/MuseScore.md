@@ -7,7 +7,9 @@ last_modified_date: Jan 24 2024 at 10:16 am
 
 ## MuseScore
 
-[Source](https://musescore.org/)
+[Source](https://musescore.org/).
+
+Evergreen app: `MuseScore`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |

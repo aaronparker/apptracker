@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jan 30 2024 at 10:14 am
 ---
 
-## RedHatOpenJDK11
+## Red Hat OpenJDK 11
 
-[Source](https://developers.redhat.com/products/openjdk/overview)
+[Source](https://developers.redhat.com/products/openjdk/overview).
+
+Evergreen app: `RedHatOpenJDK11`.
 
 | Version   | ImageType | Date                 | Architecture | Type | URI                                                                                                                                            |
 | --------- | --------- | -------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

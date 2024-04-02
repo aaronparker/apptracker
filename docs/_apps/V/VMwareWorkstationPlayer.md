@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 27 2024 at 08:13 pm
 ---
 
-## VMwareWorkstationPlayer
+## VMware Workstation Player
 
-[Source](https://www.vmware.com/products/workstation-player.html)
+[Source](https://www.vmware.com/products/workstation-player.html).
+
+Evergreen app: `VMwareWorkstationPlayer`.
 
 | Version | ReleaseDate           | Md5                              | Sha256                                                           | Size      | Type | URI                                                                                           |
 | ------- | --------------------- | -------------------------------- | ---------------------------------------------------------------- | --------- | ---- | --------------------------------------------------------------------------------------------- |

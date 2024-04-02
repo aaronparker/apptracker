@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Aug 10 2023 at 12:22 am
 ---
 
-## HashicorpWaypoint
+## Hashicorp Waypoint
 
-[Source](https://www.waypointproject.io/)
+[Source](https://www.waypointproject.io/).
+
+Evergreen app: `HashicorpWaypoint`.
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |

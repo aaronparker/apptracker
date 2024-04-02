@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 14 2024 at 12:27 am
 ---
 
-## HashicorpTerraform
+## Hashicorp Terraform
 
-[Source](https://www.terraform.io/)
+[Source](https://www.terraform.io/).
+
+Evergreen app: `HashicorpTerraform`.
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |

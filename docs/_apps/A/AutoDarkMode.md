@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Sep 26 2023 at 12:19 am
 ---
 
-## AutoDarkMode
+## Windows Auto Dark Mode
 
-[Source](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+[Source](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode).
+
+Evergreen app: `AutoDarkMode`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                           |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------- |

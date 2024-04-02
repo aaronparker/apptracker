@@ -7,7 +7,9 @@ last_modified_date: Mar 1 2024 at 08:14 pm
 
 ## LehrerOffice
 
-[Source](https://lehreroffice.net/)
+[Source](https://lehreroffice.net/).
+
+Evergreen app: `LehrerOffice`.
 
 | Version  | Type | URI                                                           |
 | -------- | ---- | ------------------------------------------------------------- |

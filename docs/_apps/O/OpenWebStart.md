@@ -7,7 +7,9 @@ last_modified_date: Dec 21 2023 at 08:15 pm
 
 ## OpenWebStart
 
-[Source](https://openwebstart.com/)
+[Source](https://openwebstart.com/).
+
+Evergreen app: `OpenWebStart`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |

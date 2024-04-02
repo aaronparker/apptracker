@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Sep 18 2023 at 08:08 am
 ---
 
-## AdobeConnect
+## Adobe Connect meeting application
 
-[Source](https://www.adobe.com/products/adobeconnect.html)
+[Source](https://www.adobe.com/products/adobeconnect.html).
+
+Evergreen app: `AdobeConnect`.
 
 | Version    | Type | Architecture | URI                                                                                              |
 | ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------ |

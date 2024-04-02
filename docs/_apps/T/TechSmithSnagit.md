@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 12 2024 at 08:14 pm
 ---
 
-## TechSmithSnagit
+## TechSmith Snagit
 
-[Source](https://www.techsmith.com/)
+[Source](https://www.techsmith.com/).
+
+Evergreen app: `TechSmithSnagit`.
 
 | Version | Date                | Type | Architecture | URI                                                                 |
 | ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------- |

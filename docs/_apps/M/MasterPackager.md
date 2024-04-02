@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
-## MasterPackager
+## Master Packager
 
-[Source](https://www.masterpackager.com/)
+[Source](https://www.masterpackager.com/).
+
+Evergreen app: `MasterPackager`.
 
 | Version   | Type | URI                                                                   |
 | --------- | ---- | --------------------------------------------------------------------- |

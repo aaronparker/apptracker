@@ -7,7 +7,9 @@ last_modified_date: Dec 12 2023 at 12:28 am
 
 ## Scratch
 
-[Source](https://scratch.mit.edu/)
+[Source](https://scratch.mit.edu/).
+
+Evergreen app: `Scratch`.
 
 | Version | URI                                                                    |
 | ------- | ---------------------------------------------------------------------- |

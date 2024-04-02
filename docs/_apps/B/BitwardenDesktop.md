@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 12 2024 at 08:14 pm
 ---
 
-## BitwardenDesktop
+## Bitwarden Desktop
 
-[Source](https://bitwarden.com/)
+[Source](https://bitwarden.com/).
+
+Evergreen app: `BitwardenDesktop`.
 
 | Version  | Type | URI                                                                      |
 | -------- | ---- | ------------------------------------------------------------------------ |

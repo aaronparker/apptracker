@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
-## OperaGXBrowser
+## Opera GX Browser
 
-[Source](https://www.opera.com/gx)
+[Source](https://www.opera.com/gx).
+
+Evergreen app: `OperaGXBrowser`.
 
 | Version       | Channel | Architecture | Type | URI                                                                                           |
 | ------------- | ------- | ------------ | ---- | --------------------------------------------------------------------------------------------- |

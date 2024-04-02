@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 11 2024 at 10:14 am
 ---
 
-## MicrosoftAzurePipelinesAgent
+## Microsoft Azure Pipelines Agent
 
-[Source](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents)
+[Source](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents).
+
+Evergreen app: `MicrosoftAzurePipelinesAgent`.
 
 | Version | Type | Architecture | URI                                                                                 |
 | ------- | ---- | ------------ | ----------------------------------------------------------------------------------- |

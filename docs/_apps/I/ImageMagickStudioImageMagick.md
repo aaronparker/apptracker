@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 25 2024 at 08:15 pm
 ---
 
-## ImageMagickStudioImageMagick
+## ImageMagick Studio ImageMagick
 
-[Source](https://imagemagick.org/)
+[Source](https://imagemagick.org/).
+
+Evergreen app: `ImageMagickStudioImageMagick`.
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |

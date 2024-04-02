@@ -7,7 +7,9 @@ last_modified_date: Mar 31 2024 at 12:29 am
 
 ## WinSCP
 
-[Source](https://winscp.net/)
+[Source](https://winscp.net/).
+
+Evergreen app: `WinSCP`.
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |

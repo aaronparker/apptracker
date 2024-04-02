@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 7 2024 at 08:14 pm
 ---
 
-## ArtifexGhostscript
+## Artifex Ghostscript
 
-[Source](https://www.ghostscript.com/)
+[Source](https://www.ghostscript.com/).
+
+Evergreen app: `ArtifexGhostscript`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |

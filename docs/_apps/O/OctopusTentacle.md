@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 13 2024 at 10:14 am
 ---
 
-## OctopusTentacle
+## Octopus Tentacle
 
-[Source](https://octopus.com/)
+[Source](https://octopus.com/).
+
+Evergreen app: `OctopusTentacle`.
 
 | Version | Architecture | URI                                                                         |
 | ------- | ------------ | --------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 30 2024 at 12:29 am
 ---
 
-## MicrosoftVisualStudioCode
+## Microsoft Visual Studio Code
 
-[Source](https://code.visualstudio.com)
+[Source](https://code.visualstudio.com).
+
+Evergreen app: `MicrosoftVisualStudioCode`.
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                                                   |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |

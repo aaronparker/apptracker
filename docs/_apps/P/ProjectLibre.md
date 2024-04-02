@@ -7,7 +7,9 @@ last_modified_date: Mar 31 2024 at 12:29 am
 
 ## ProjectLibre
 
-[Source](https://www.projectlibre.com/)
+[Source](https://www.projectlibre.com/).
+
+Evergreen app: `ProjectLibre`.
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |

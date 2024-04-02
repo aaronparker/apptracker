@@ -7,7 +7,9 @@ last_modified_date: Mar 26 2024 at 08:14 pm
 
 ## Tower
 
-[Source](https://www.git-tower.com/windows/)
+[Source](https://www.git-tower.com/windows/).
+
+Evergreen app: `Tower`.
 
 | Version | Channel | sha1                                     | Type | URI                                                                      |
 | ------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------ |

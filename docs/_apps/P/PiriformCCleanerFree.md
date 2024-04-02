@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 13 2024 at 08:15 pm
 ---
 
-## PiriformCCleanerFree
+## Piriform CCleaner Free
 
-[Source](https://www.ccleaner.com/ccleaner)
+[Source](https://www.ccleaner.com/ccleaner).
+
+Evergreen app: `PiriformCCleanerFree`.
 
 | Version    | Filename       | URI                                                                                                              |
 | ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |

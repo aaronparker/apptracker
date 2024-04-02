@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jan 3 2024 at 10:14 am
 ---
 
-## MozillaGeckoDriver
+## Mozilla Gecko Driver
 
-[Source](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+[Source](https://developer.mozilla.org/en-US/docs/Web/WebDriver).
+
+Evergreen app: `MozillaGeckoDriver`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------- |

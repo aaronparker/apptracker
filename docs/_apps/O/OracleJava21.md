@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jan 17 2024 at 10:14 am
 ---
 
-## OracleJava21
+## Oracle Java 21
 
-[Source](https://www.oracle.com/java/technologies/downloads/#java21)
+[Source](https://www.oracle.com/java/technologies/downloads/#java21).
+
+Evergreen app: `OracleJava21`.
 
 | Version | Sha256                                                           | Type | URI                                                                   |
 | ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |

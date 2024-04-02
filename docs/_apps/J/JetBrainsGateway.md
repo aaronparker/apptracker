@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 15 2024 at 08:14 pm
 ---
 
-## JetBrainsGateway
+## JetBrains Gateway
 
-[Source](https://www.jetbrains.com/)
+[Source](https://www.jetbrains.com/).
+
+Evergreen app: `JetBrainsGateway`.
 
 | Version  | Build        | Edition | Sha256                                                                           | Date       | Size      | Type | URI                                                                       |
 | -------- | ------------ | ------- | -------------------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------- |

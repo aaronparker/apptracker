@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 7 2023 at 12:21 am
 ---
 
-## SafeExamBrowser
+## Safe Exam Browser
 
-[Source](https://safeexambrowser.org/)
+[Source](https://safeexambrowser.org/).
+
+Evergreen app: `SafeExamBrowser`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                           |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 14 2024 at 08:14 pm
 ---
 
-## TelerikFiddlerEverywhere
+## Telerik Fiddler Everywhere
 
-[Source](https://www.telerik.com/fiddler)
+[Source](https://www.telerik.com/fiddler).
+
+Evergreen app: `TelerikFiddlerEverywhere`.
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## AdobeBrackets
+## Adobe Brackets
 
-[Source](http://brackets.io/)
+[Source](http://brackets.io/).
+
+Evergreen app: `AdobeBrackets`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |

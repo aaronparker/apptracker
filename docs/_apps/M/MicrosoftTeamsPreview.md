@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
-## MicrosoftTeamsPreview
+## Microsoft Teams 2 Preview
 
-[Source](https://www.microsoft.com/teams)
+[Source](https://www.microsoft.com/teams).
+
+Evergreen app: `MicrosoftTeamsPreview`.
 
 | Version              | Release    | Architecture | Type | URI                                                                                                        |
 | -------------------- | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------- |

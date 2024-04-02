@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: May 30 2023 at 08:07 am
 ---
 
-## OCSInventoryWindowsAgent
+## OCS Inventory Windows Agent
 
-[Source](http://https://ocsinventory-ng.org/)
+[Source](http://https://ocsinventory-ng.org/).
+
+Evergreen app: `OCSInventoryWindowsAgent`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                    |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |

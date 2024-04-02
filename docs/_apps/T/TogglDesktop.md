@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: May 13 2023 at 08:09 am
 ---
 
-## TogglDesktop
+## Toggl Desktop
 
-[Source](https://www.toggl.com/)
+[Source](https://www.toggl.com/).
+
+Evergreen app: `TogglDesktop`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |

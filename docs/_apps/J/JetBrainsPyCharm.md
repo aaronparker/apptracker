@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
-## JetBrainsPyCharm
+## JetBrains PyCharm
 
-[Source](https://www.jetbrains.com/)
+[Source](https://www.jetbrains.com/).
+
+Evergreen app: `JetBrainsPyCharm`.
 
 | Version  | Build        | Edition              | Sha256                                                                         | Date       | Size      | Type | URI                                                                     |
 | -------- | ------------ | -------------------- | ------------------------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------------------------- |

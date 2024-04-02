@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## MendeleyDesktop
+## Mendeley Desktop
 
-[Source](https://www.mendeley.com/)
+[Source](https://www.mendeley.com/).
+
+Evergreen app: `MendeleyDesktop`.
 
 | Version | URI                                                                              |
 | ------- | -------------------------------------------------------------------------------- |

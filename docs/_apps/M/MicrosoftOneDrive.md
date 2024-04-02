@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 30 2024 at 12:29 am
 ---
 
-## MicrosoftOneDrive
+## Microsoft OneDrive
 
-[Source](https://onedrive.live.com/)
+[Source](https://onedrive.live.com/).
+
+Evergreen app: `MicrosoftOneDrive`.
 
 | Version          | Throttle | Architecture | Ring         | Type | Sha256                                       | URI                                                                              |
 | ---------------- | -------- | ------------ | ------------ | ---- | -------------------------------------------- | -------------------------------------------------------------------------------- |

@@ -5,11 +5,11 @@ nav_order: 1
 ---
 # Evergreen App Tracker
 
-This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. Updates are posted every 12 hours.
+This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
+
+Updates are posted every 12 hours. Last generated date: `Tuesday 02/04/2024 10:41 +11:00 Australia/Melbourne`.
 
 A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
-
-Last generated: `Tuesday 02/04/2024 10:06 +11:00 Australia/Melbourne`.
 
 ## Supported Applications
 

@@ -7,7 +7,9 @@ last_modified_date: Mar 24 2024 at 08:14 pm
 
 ## dbeaver
 
-[Source](https://github.com/dbeaver/dbeaver)
+[Source](https://github.com/dbeaver/dbeaver).
+
+Evergreen app: `dbeaver`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |

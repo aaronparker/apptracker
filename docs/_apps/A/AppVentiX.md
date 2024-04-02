@@ -7,7 +7,9 @@ last_modified_date: Jan 31 2024 at 08:14 pm
 
 ## AppVentiX
 
-[Source](https://appventix.com/)
+[Source](https://appventix.com/).
+
+Evergreen app: `AppVentiX`.
 
 | Version | Filename             | URI                                    |
 | ------- | -------------------- | -------------------------------------- |

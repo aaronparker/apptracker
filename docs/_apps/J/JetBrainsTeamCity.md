@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
-## JetBrainsTeamCity
+## JetBrains TeamCity
 
-[Source](https://www.jetbrains.com/teamcity)
+[Source](https://www.jetbrains.com/teamcity).
+
+Evergreen app: `JetBrainsTeamCity`.
 
 | Version | Build  | Edition  | Sha256                                                              | Date       | Size       | Type | URI                                                          |
 | ------- | ------ | -------- | ------------------------------------------------------------------- | ---------- | ---------- | ---- | ------------------------------------------------------------ |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 29 2024 at 12:27 am
 ---
 
-## SignalDesktop
+## Signal for Windows
 
-[Source](https://www.signal.org/)
+[Source](https://www.signal.org/).
+
+Evergreen app: `SignalDesktop`.
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |

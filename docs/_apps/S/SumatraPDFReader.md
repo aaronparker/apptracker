@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 13 2024 at 12:27 am
 ---
 
-## SumatraPDFReader
+## Sumatra PDF Reader
 
-[Source](https://www.sumatrapdfreader.org/)
+[Source](https://www.sumatrapdfreader.org/).
+
+Evergreen app: `SumatraPDFReader`.
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |

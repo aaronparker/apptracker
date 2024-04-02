@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 1 2024 at 08:13 pm
 ---
 
-## CendioThinLinc
+## Cendio ThinLinc
 
-[Source](https://www.cendio.com/)
+[Source](https://www.cendio.com/).
+
+Evergreen app: `CendioThinLinc`.
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |

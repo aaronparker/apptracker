@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 8 2024 at 12:26 am
 ---
 
-## MicrosoftVdot
+## Microsoft Virtual Desktop Optimization Tool
 
-[Source](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
+[Source](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool).
+
+Evergreen app: `MicrosoftVdot`.
 
 | Version    | Type | Filename                                         | URI                                                                                                             |
 | ---------- | ---- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |

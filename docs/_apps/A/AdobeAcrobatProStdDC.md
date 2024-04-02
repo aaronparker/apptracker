@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 21 2024 at 08:16 pm
 ---
 
-## AdobeAcrobatProStdDC
+## Adobe Acrobat DC Pro and Standard
 
-[Source](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
+[Source](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html).
+
+Evergreen app: `AdobeAcrobatProStdDC`.
 
 | Version      | Architecture | Sku      | URI                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------- |

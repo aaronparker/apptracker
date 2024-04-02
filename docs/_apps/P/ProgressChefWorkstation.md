@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 20 2024 at 08:14 pm
 ---
 
-## ProgressChefWorkstation
+## Progress Chef Workstation
 
-[Source](https://www.chef.io/products/chef-workstation)
+[Source](https://www.chef.io/products/chef-workstation).
+
+Evergreen app: `ProgressChefWorkstation`.
 
 | Version   | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                   |
 | --------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |

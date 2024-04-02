@@ -7,7 +7,9 @@ last_modified_date: Mar 28 2024 at 10:15 am
 
 ## Zoom
 
-[Source](https://zoom.us/download)
+[Source](https://zoom.us/download).
+
+Evergreen app: `Zoom`.
 
 | Version       | Platform | Installer | Size      | Type | Architecture | URI                                                                    |
 | ------------- | -------- | --------- | --------- | ---- | ------------ | ---------------------------------------------------------------------- |

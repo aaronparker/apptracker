@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 2 2024 at 12:26 am
 ---
 
-## MicrosoftOpenJDK17
+## Microsoft OpenJDK 17
 
-[Source](https://www.microsoft.com/openjdk)
+[Source](https://www.microsoft.com/openjdk).
+
+Evergreen app: `MicrosoftOpenJDK17`.
 
 | Version   | ImageType | Date                 | Architecture | Type | URI                                                                                                                                                                     |
 | --------- | --------- | -------------------- | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

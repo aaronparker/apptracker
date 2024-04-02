@@ -7,7 +7,9 @@ last_modified_date: Mar 25 2024 at 12:30 am
 
 ## ScreenToGif
 
-[Source](https://github.com/NickeManarin/ScreenToGif)
+[Source](https://github.com/NickeManarin/ScreenToGif).
+
+Evergreen app: `ScreenToGif`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------ |

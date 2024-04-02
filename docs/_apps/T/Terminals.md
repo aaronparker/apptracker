@@ -7,7 +7,9 @@ last_modified_date: Dec 12 2023 at 12:28 am
 
 ## Terminals
 
-[Source](https://github.com/terminals-Origin/Terminals/)
+[Source](https://github.com/terminals-Origin/Terminals/).
+
+Evergreen app: `Terminals`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |

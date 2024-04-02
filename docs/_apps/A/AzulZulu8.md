@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 7 2024 at 08:14 pm
 ---
 
-## AzulZulu8
+## Azul Zulu 8
 
-[Source](https://www.azul.com/downloads/#zulu)
+[Source](https://www.azul.com/downloads/#zulu).
+
+Evergreen app: `AzulZulu8`.
 
 | Version       | ImageType | Date                 | Architecture | Type | URI                                                                    |
 | ------------- | --------- | -------------------- | ------------ | ---- | ---------------------------------------------------------------------- |

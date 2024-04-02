@@ -7,7 +7,9 @@ last_modified_date: Mar 17 2024 at 10:13 am
 
 ## ShareX
 
-[Source](https://getsharex.com/)
+[Source](https://getsharex.com/).
+
+Evergreen app: `ShareX`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------- |

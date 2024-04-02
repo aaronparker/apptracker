@@ -7,7 +7,9 @@ last_modified_date: Mar 26 2024 at 08:14 pm
 
 ## TeamViewer
 
-[Source](https://www.teamviewer.com/)
+[Source](https://www.teamviewer.com/).
+
+Evergreen app: `TeamViewer`.
 
 | Version | URI                                                     |
 | ------- | ------------------------------------------------------- |

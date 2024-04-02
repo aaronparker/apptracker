@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 24 2024 at 12:27 am
 ---
 
-## GitForWindows
+## Git for Windows
 
-[Source](https://gitforwindows.org/)
+[Source](https://gitforwindows.org/).
+
+Evergreen app: `GitForWindows`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                         |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |

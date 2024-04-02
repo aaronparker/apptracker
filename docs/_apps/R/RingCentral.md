@@ -7,7 +7,9 @@ last_modified_date: Feb 23 2024 at 10:16 am
 
 ## RingCentral
 
-[Source](https://www.ringcentral.com)
+[Source](https://www.ringcentral.com).
+
+Evergreen app: `RingCentral`.
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |

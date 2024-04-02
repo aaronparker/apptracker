@@ -7,7 +7,9 @@ last_modified_date: Dec 18 2023 at 08:14 pm
 
 ## PuTTY
 
-[Source](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+[Source](https://www.chiark.greenend.org.uk/~sgtatham/putty/).
+
+Evergreen app: `PuTTY`.
 
 | Version | Architecture | Type | URI                                                                             |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------- |

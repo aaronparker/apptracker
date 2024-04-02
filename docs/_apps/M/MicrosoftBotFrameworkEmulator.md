@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## MicrosoftBotFrameworkEmulator
+## Microsoft Bot Framework Emulator
 
-[Source](https://github.com/microsoft/BotFramework-Emulator/)
+[Source](https://github.com/microsoft/BotFramework-Emulator/).
+
+Evergreen app: `MicrosoftBotFrameworkEmulator`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |

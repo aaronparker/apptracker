@@ -7,7 +7,9 @@ last_modified_date: Mar 31 2024 at 12:29 am
 
 ## gretl
 
-[Source](http://gretl.sourceforge.net/)
+[Source](http://gretl.sourceforge.net/).
+
+Evergreen app: `gretl`.
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------- |

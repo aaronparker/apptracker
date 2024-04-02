@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 8 2024 at 08:14 pm
 ---
 
-## ESETInspectConnector
+## ESET Inspect Connector
 
-[Source](https://www.eset.com/int/business/download/inspect/)
+[Source](https://www.eset.com/int/business/download/inspect/).
+
+Evergreen app: `ESETInspectConnector`.
 
 | Version    | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                 |
 | ---------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | --------------------------------------------------------------------------------------------------- |

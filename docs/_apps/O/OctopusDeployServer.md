@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 29 2024 at 10:14 am
 ---
 
-## OctopusDeployServer
+## Octopus Deploy Server
 
-[Source](https://octopus.com/)
+[Source](https://octopus.com/).
+
+Evergreen app: `OctopusDeployServer`.
 
 | Version      | Date       | URI                                                                     |
 | ------------ | ---------- | ----------------------------------------------------------------------- |

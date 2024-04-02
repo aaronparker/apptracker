@@ -7,7 +7,9 @@ last_modified_date: Jan 31 2024 at 08:14 pm
 
 ## Miniconda
 
-[Source](https://docs.conda.io/en/latest/miniconda.html)
+[Source](https://docs.conda.io/en/latest/miniconda.html).
+
+Evergreen app: `Miniconda`.
 
 | Version | Architecture | Date                 | Size   | MD5                              | Sha256                                                           | URI                                                                                   |
 | ------- | ------------ | -------------------- | ------ | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |

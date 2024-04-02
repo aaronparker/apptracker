@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 13 2024 at 08:19 pm
 ---
 
-## MicrosoftFSLogixApps
+## Microsoft FSLogix Apps
 
-[Source](https://docs.microsoft.com/fslogix/)
+[Source](https://docs.microsoft.com/fslogix/).
+
+Evergreen app: `MicrosoftFSLogixApps`.
 
 | Version        | Date       | Channel    | URI                                                                                                                |
 | -------------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |

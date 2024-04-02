@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
-## KubernetesKubectl
+## Kubernetes Kubectl
 
-[Source](https://kubernetes.io/)
+[Source](https://kubernetes.io/).
+
+Evergreen app: `KubernetesKubectl`.
 
 | Version | Architecture | Platform | URI                                                             |
 | ------- | ------------ | -------- | --------------------------------------------------------------- |

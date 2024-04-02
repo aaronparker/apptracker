@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 08:14 pm
 ---
 
-## TPGiColourContrastAnalyser
+## TGPi Colour Contrast Analyser
 
-[Source](https://www.tpgi.com/color-contrast-checker/)
+[Source](https://www.tpgi.com/color-contrast-checker/).
+
+Evergreen app: `TPGiColourContrastAnalyser`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------- |

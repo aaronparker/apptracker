@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 29 2024 at 08:14 pm
 ---
 
-## GoToConnect
+## GoTo Connect
 
-[Source](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)
+[Source](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments).
+
+Evergreen app: `GoToConnect`.
 
 | Version | Architecture | Type | URI                                                           |
 | ------- | ------------ | ---- | ------------------------------------------------------------- |

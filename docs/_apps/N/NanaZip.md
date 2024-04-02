@@ -7,7 +7,9 @@ last_modified_date: Dec 12 2023 at 12:28 am
 
 ## NanaZip
 
-[Source](https://github.com/M2Team/NanaZip)
+[Source](https://github.com/M2Team/NanaZip).
+
+Evergreen app: `NanaZip`.
 
 | Version | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                     |
 | ------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |

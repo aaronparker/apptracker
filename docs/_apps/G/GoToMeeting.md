@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 19 2023 at 08:09 am
 ---
 
-## GoToMeeting
+## GoTo Meeting
 
-[Source](https://support.goto.com/meeting/help/install-via-msi-windows)
+[Source](https://support.goto.com/meeting/help/install-via-msi-windows).
+
+Evergreen app: `GoToMeeting`.
 
 | Version     | Type         | URI                                                                                       |
 | ----------- | ------------ | ----------------------------------------------------------------------------------------- |

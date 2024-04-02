@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
-## MicrosoftEdgeWebView2Runtime
+## Microsoft Edge WebView2 Runtime
 
-[Source](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+[Source](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
+
+Evergreen app: `MicrosoftEdgeWebView2Runtime`.
 
 | Version       | Channel | Architecture | URI                                                                                                                                                           |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 19 2024 at 08:14 pm
 ---
 
-## TechSmithCamtasia
+## TechSmith Camtasia
 
-[Source](https://www.techsmith.com/)
+[Source](https://www.techsmith.com/).
+
+Evergreen app: `TechSmithCamtasia`.
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |

@@ -7,7 +7,9 @@ last_modified_date: Feb 27 2024 at 12:26 am
 
 ## Anaconda
 
-[Source](https://www.anaconda.com/)
+[Source](https://www.anaconda.com/).
+
+Evergreen app: `Anaconda`.
 
 | Version | Architecture | Date                 | Size      | MD5                              | Sha256                                                           | URI                                                                      |
 | ------- | ------------ | -------------------- | --------- | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |

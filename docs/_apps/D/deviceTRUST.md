@@ -7,7 +7,9 @@ last_modified_date: Dec 18 2023 at 10:15 am
 
 ## deviceTRUST
 
-[Source](https://devicetrust.com/)
+[Source](https://devicetrust.com/).
+
+Evergreen app: `deviceTRUST`.
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                              |
 | ---------- | -------- | ------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |

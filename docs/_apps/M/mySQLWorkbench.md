@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jan 16 2024 at 08:14 pm
 ---
 
-## mySQLWorkbench
+## mySQL Workbench
 
-[Source](https://dev.mysql.com/doc/workbench/en/)
+[Source](https://dev.mysql.com/doc/workbench/en/).
+
+Evergreen app: `mySQLWorkbench`.
 
 | Version | Type | Architecture | URI                                                                                           |
 | ------- | ---- | ------------ | --------------------------------------------------------------------------------------------- |

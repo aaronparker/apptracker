@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 7 2024 at 12:25 am
 ---
 
-## PSFPython
+## PSF Python
 
-[Source](https://www.python.org/)
+[Source](https://www.python.org/).
+
+Evergreen app: `PSFPython`.
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                              |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ---------------------------------------------------------------- |

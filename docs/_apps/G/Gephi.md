@@ -7,7 +7,9 @@ last_modified_date: May 13 2023 at 08:09 am
 
 ## Gephi
 
-[Source](https://gephi.org/)
+[Source](https://gephi.org/).
+
+Evergreen app: `Gephi`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------- |

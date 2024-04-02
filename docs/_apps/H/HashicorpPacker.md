@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 6 2024 at 08:18 pm
 ---
 
-## HashicorpPacker
+## Hashicorp Packer
 
-[Source](https://packer.io/)
+[Source](https://packer.io/).
+
+Evergreen app: `HashicorpPacker`.
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |

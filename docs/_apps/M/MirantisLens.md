@@ -7,7 +7,9 @@ last_modified_date: Mar 27 2024 at 08:14 pm
 
 ## MirantisLens
 
-[Source](https://k8slens.dev/)
+[Source](https://k8slens.dev/).
+
+Evergreen app: `MirantisLens`.
 
 | Version              | Architecture | Release | Date                  | Size      | Sha512                                                                                   | URI                                                                       |
 | -------------------- | ------------ | ------- | --------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |

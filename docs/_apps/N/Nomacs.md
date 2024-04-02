@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: May 13 2023 at 08:09 am
 ---
 
-## Nomacs
+## nomacs Image Lounge
 
-[Source](https://nomacs.org/)
+[Source](https://nomacs.org/).
+
+Evergreen app: `Nomacs`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |

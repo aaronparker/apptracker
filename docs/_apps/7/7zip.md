@@ -7,7 +7,9 @@ last_modified_date: Mar 31 2024 at 12:29 am
 
 ## 7zip
 
-[Source](https://www.7-zip.org/)
+[Source](https://www.7-zip.org/).
+
+Evergreen app: `7zip`.
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                              |
 | ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------- |

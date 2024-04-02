@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Oct 29 2022 at 08:08 am
 ---
 
-## ESETFullDiskEncryption
+## ESET Full Disk Encryption
 
-[Source](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/)
+[Source](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/).
+
+Evergreen app: `ESETFullDiskEncryption`.
 
 | Version  | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                              |
 | -------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------ |

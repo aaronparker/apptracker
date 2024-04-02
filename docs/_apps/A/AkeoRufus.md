@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jan 17 2024 at 08:15 pm
 ---
 
-## AkeoRufus
+## Akeo Rufus
 
-[Source](https://rufus.ie/)
+[Source](https://rufus.ie/).
+
+Evergreen app: `AkeoRufus`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------- |

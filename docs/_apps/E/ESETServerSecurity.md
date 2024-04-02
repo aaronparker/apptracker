@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Oct 11 2023 at 12:20 am
 ---
 
-## ESETServerSecurity
+## ESET Server Security
 
-[Source](https://www.eset.com/int/business/solutions/file-server-security/)
+[Source](https://www.eset.com/int/business/solutions/file-server-security/).
+
+Evergreen app: `ESETServerSecurity`.
 
 | Version      | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                  |
 | ------------ | -------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |

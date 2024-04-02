@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 20 2024 at 10:15 am
 ---
 
-## YubicoAuthenticator
+## Yubico Authenticator
 
-[Source](https://github.com/Yubico/yubioath-flutter/)
+[Source](https://github.com/Yubico/yubioath-flutter/).
+
+Evergreen app: `YubicoAuthenticator`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |

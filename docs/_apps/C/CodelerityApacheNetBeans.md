@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 20 2024 at 08:14 pm
 ---
 
-## CodelerityApacheNetBeans
+## Codelerity Apache NetBeans
 
-[Source](https://www.codelerity.com/netbeans/)
+[Source](https://www.codelerity.com/netbeans/).
+
+Evergreen app: `CodelerityApacheNetBeans`.
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                   |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------- |

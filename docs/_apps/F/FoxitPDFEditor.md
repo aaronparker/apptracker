@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Nov 14 2023 at 04:09 pm
 ---
 
-## FoxitPDFEditor
+## Foxit PDF Editor
 
-[Source](https://www.foxit.com/pdf-editor/)
+[Source](https://www.foxit.com/pdf-editor/).
+
+Evergreen app: `FoxitPDFEditor`.
 
 | Version      | Date       | Language           | URI                                                                                                                         |
 | ------------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |

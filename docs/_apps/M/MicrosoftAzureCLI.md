@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 6 2024 at 10:13 am
 ---
 
-## MicrosoftAzureCLI
+## Microsoft Azure CLI
 
-[Source](https://learn.microsoft.com/en-au/cli/azure/)
+[Source](https://learn.microsoft.com/en-au/cli/azure/).
+
+Evergreen app: `MicrosoftAzureCLI`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------ |

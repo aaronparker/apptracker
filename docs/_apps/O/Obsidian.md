@@ -7,7 +7,9 @@ last_modified_date: Mar 19 2024 at 08:14 pm
 
 ## Obsidian
 
-[Source](https://obsidian.md/)
+[Source](https://obsidian.md/).
+
+Evergreen app: `Obsidian`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |

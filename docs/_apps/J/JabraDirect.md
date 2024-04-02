@@ -7,7 +7,9 @@ last_modified_date: Mar 22 2024 at 10:14 am
 
 ## JabraDirect
 
-[Source](https://www.jabra.com/software-and-services/jabra-direct)
+[Source](https://www.jabra.com/software-and-services/jabra-direct).
+
+Evergreen app: `JabraDirect`.
 
 | Version    | Architecture | ReleaseNotes                                                          | Type | Sha256                                                           | URI                                                                             |
 | ---------- | ------------ | --------------------------------------------------------------------- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |

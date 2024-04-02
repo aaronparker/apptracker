@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Jul 24 2023 at 12:22 am
 ---
 
-## ThymioSuite
+## Thymio Suite
 
-[Source](https://www.thymio.org/)
+[Source](https://www.thymio.org/).
+
+Evergreen app: `ThymioSuite`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------- |

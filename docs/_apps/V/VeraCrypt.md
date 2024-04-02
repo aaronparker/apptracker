@@ -7,7 +7,9 @@ last_modified_date: Mar 31 2024 at 12:29 am
 
 ## VeraCrypt
 
-[Source](https://www.veracrypt.fr/en/Home.html)
+[Source](https://www.veracrypt.fr/en/Home.html).
+
+Evergreen app: `VeraCrypt`.
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |

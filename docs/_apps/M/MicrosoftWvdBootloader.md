@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## MicrosoftWvdBootloader
+## Microsoft Azure Virtual Desktop Agent Bootloader
 
-[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
+[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell).
+
+Evergreen app: `MicrosoftWvdBootloader`.
 
 | Version | Architecture | Date                          | Size | Filename                                                  | URI                                                              |
 | ------- | ------------ | ----------------------------- | ---- | --------------------------------------------------------- | ---------------------------------------------------------------- |

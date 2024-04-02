@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 25 2024 at 08:14 pm
 ---
 
-## JetBrainsWebStorm
+## JetBrains WebStorm
 
-[Source](https://www.jetbrains.com/webstorm)
+[Source](https://www.jetbrains.com/webstorm).
+
+Evergreen app: `JetBrainsWebStorm`.
 
 | Version  | Build        | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                           |
 | -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------- |

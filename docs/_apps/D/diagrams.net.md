@@ -7,7 +7,9 @@ last_modified_date: Mar 24 2024 at 12:29 am
 
 ## diagrams.net
 
-[Source](https://www.diagrams.net/)
+[Source](https://www.diagrams.net/).
+
+Evergreen app: `diagrams.net`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                   |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |

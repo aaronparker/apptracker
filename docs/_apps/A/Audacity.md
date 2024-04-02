@@ -7,7 +7,9 @@ last_modified_date: Nov 16 2023 at 04:11 pm
 
 ## Audacity
 
-[Source](https://www.audacityteam.org/)
+[Source](https://www.audacityteam.org/).
+
+Evergreen app: `Audacity`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |

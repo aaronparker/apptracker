@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 20 2024 at 08:14 pm
 ---
 
-## GitHubDesktop
+## GitHub Desktop
 
-[Source](https://desktop.github.com/)
+[Source](https://desktop.github.com/).
+
+Evergreen app: `GitHubDesktop`.
 
 | Version | Architecture | Type | URI                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------- |

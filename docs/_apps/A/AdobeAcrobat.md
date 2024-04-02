@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 28 2024 at 08:15 pm
 ---
 
-## AdobeAcrobat
+## Adobe Acrobat updates
 
-[Source](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)
+[Source](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html).
+
+Evergreen app: `AdobeAcrobat`.
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |

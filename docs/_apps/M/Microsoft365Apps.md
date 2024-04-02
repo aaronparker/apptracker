@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 14 2024 at 08:14 pm
 ---
 
-## Microsoft365Apps
+## Microsoft 365 Apps
 
-[Source](https://www.microsoft.com/office)
+[Source](https://www.microsoft.com/office).
+
+Evergreen app: `Microsoft365Apps`.
 
 | Version          | Channel           | Name                                  | Date                  | URI                                               |
 | ---------------- | ----------------- | ------------------------------------- | --------------------- | ------------------------------------------------- |

@@ -7,7 +7,9 @@ last_modified_date: Mar 1 2024 at 08:14 pm
 
 ## TeXstudio
 
-[Source](https://www.texstudio.org/)
+[Source](https://www.texstudio.org/).
+
+Evergreen app: `TeXstudio`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |

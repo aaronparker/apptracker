@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 20 2024 at 10:15 am
 ---
 
-## NotepadPlusPlus
+## Notepad++
 
-[Source](https://notepad-plus-plus.org/)
+[Source](https://notepad-plus-plus.org/).
+
+Evergreen app: `NotepadPlusPlus`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |

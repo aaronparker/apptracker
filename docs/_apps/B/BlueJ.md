@@ -7,7 +7,9 @@ last_modified_date: Mar 20 2024 at 08:14 pm
 
 ## BlueJ
 
-[Source](https://www.bluej.org/)
+[Source](https://www.bluej.org/).
+
+Evergreen app: `BlueJ`.
 
 | Version | URI                                                        |
 | ------- | ---------------------------------------------------------- |

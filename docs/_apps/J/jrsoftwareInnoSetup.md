@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## jrsoftwareInnoSetup
+## jrsoftware InnoSetup
 
-[Source](https://www.innosetup.com)
+[Source](https://www.innosetup.com).
+
+Evergreen app: `jrsoftwareInnoSetup`.
 
 | Version | URI                                                   |
 | ------- | ----------------------------------------------------- |

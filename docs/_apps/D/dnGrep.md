@@ -7,7 +7,9 @@ last_modified_date: Mar 13 2024 at 12:30 am
 
 ## dnGrep
 
-[Source](https://dngrep.github.io/)
+[Source](https://dngrep.github.io/).
+
+Evergreen app: `dnGrep`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |

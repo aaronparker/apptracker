@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 22 2024 at 10:14 am
 ---
 
-## JetBrainsDataSpell
+## JetBrains DataSpell
 
-[Source](https://www.jetbrains.com/dataspell)
+[Source](https://www.jetbrains.com/dataspell).
+
+Evergreen app: `JetBrainsDataSpell`.
 
 | Version  | Build        | Edition   | Sha256                                                              | Date       | Size      | Type | URI                                                          |
 | -------- | ------------ | --------- | ------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------ |

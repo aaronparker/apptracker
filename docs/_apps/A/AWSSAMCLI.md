@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 20 2024 at 12:26 am
 ---
 
-## AWSSAMCLI
+## AWS SAM CLI
 
-[Source](https://github.com/aws/aws-sam-cli/)
+[Source](https://github.com/aws/aws-sam-cli/).
+
+Evergreen app: `AWSSAMCLI`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |

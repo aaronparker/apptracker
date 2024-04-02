@@ -7,7 +7,9 @@ last_modified_date: Feb 20 2024 at 10:15 am
 
 ## gsudo
 
-[Source](https://gerardog.github.io/gsudo)
+[Source](https://gerardog.github.io/gsudo).
+
+Evergreen app: `gsudo`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------- |

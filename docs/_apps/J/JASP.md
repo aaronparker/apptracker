@@ -7,7 +7,9 @@ last_modified_date: Jan 12 2024 at 08:15 pm
 
 ## JASP
 
-[Source](https://jasp-stats.org/)
+[Source](https://jasp-stats.org/).
+
+Evergreen app: `JASP`.
 
 | Version | URI                                                 |
 | ------- | --------------------------------------------------- |

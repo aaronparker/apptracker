@@ -7,7 +7,9 @@ last_modified_date: Jan 7 2024 at 08:15 pm
 
 ## NETworkManager
 
-[Source](https://github.com/BornToBeRoot/NETworkManager)
+[Source](https://github.com/BornToBeRoot/NETworkManager).
+
+Evergreen app: `NETworkManager`.
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                             |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |

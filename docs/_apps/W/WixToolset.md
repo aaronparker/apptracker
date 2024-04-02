@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 23 2024 at 12:25 am
 ---
 
-## WixToolset
+## WiX Toolset
 
-[Source](https://wixtoolset.org/)
+[Source](https://wixtoolset.org/).
+
+Evergreen app: `WixToolset`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |

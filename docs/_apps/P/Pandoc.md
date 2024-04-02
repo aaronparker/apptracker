@@ -7,7 +7,9 @@ last_modified_date: Mar 18 2024 at 10:16 am
 
 ## Pandoc
 
-[Source](https://pandoc.org/)
+[Source](https://pandoc.org/).
+
+Evergreen app: `Pandoc`.
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                         |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------- |

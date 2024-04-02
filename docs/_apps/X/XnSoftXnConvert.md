@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 29 2024 at 08:14 pm
 ---
 
-## XnSoftXnConvert
+## XnSoft Convert
 
-[Source](https://www.xnview.com/en/xnconvert/)
+[Source](https://www.xnview.com/en/xnconvert/).
+
+Evergreen app: `XnSoftXnConvert`.
 
 | Version | Architecture | Type | URI                                               |
 | ------- | ------------ | ---- | ------------------------------------------------- |

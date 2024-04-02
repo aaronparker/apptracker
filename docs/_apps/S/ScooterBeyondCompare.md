@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Dec 12 2023 at 12:28 am
 ---
 
-## ScooterBeyondCompare
+## Scooter Beyond Compare
 
-[Source](https://scootersoftware.com/)
+[Source](https://scootersoftware.com/).
+
+Evergreen app: `ScooterBeyondCompare`.
 
 | Version     | Language | URI                                                      |
 | ----------- | -------- | -------------------------------------------------------- |

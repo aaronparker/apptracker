@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 26 2024 at 08:14 pm
 ---
 
-## OnlyOfficeDesktopEditors
+## ONLYOFFICE Desktop Editors
 
-[Source](https://www.onlyoffice.com/desktop.aspx)
+[Source](https://www.onlyoffice.com/desktop.aspx).
+
+Evergreen app: `OnlyOfficeDesktopEditors`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |

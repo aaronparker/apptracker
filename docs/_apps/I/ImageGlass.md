@@ -7,7 +7,9 @@ last_modified_date: Jan 31 2024 at 08:14 pm
 
 ## ImageGlass
 
-[Source](https://imageglass.org/)
+[Source](https://imageglass.org/).
+
+Evergreen app: `ImageGlass`.
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                             |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------- |

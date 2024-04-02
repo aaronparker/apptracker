@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Feb 10 2024 at 08:13 pm
 ---
 
-## SoberLemurPDFSamBasic
+## Sober Lemur PDFSam Basic
 
-[Source](https://pdfsam.org/pdfsam-basic/)
+[Source](https://pdfsam.org/pdfsam-basic/).
+
+Evergreen app: `SoberLemurPDFSamBasic`.
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |

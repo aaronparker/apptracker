@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 14 2024 at 08:14 pm
 ---
 
-## Cyberduck
+## iterate GmbH Cyberduck
 
-[Source](https://cyberduck.io/)
+[Source](https://cyberduck.io/).
+
+Evergreen app: `Cyberduck`.
 
 | Version     | Date       | Channel | URI                                                             |
 | ----------- | ---------- | ------- | --------------------------------------------------------------- |

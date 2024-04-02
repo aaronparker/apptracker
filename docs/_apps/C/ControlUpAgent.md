@@ -5,9 +5,11 @@ nav_order: 2
 last_modified_date: Mar 27 2024 at 08:14 pm
 ---
 
-## ControlUpAgent
+## ControlUp Agent
 
-[Source](https://www.controlup.com/products/controlup/agent/)
+[Source](https://www.controlup.com/products/controlup/agent/).
+
+Evergreen app: `ControlUpAgent`.
 
 | Version    | Framework    | Architecture | URI                                                                                             |
 | ---------- | ------------ | ------------ | ----------------------------------------------------------------------------------------------- |
