@@ -2,14 +2,14 @@
 title: SmartBear SoapUI
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## SmartBear SoapUI
 
-[Source](https://www.soapui.org/).
+[Source](https://www.soapui.org/)
 
-Evergreen app: `SmartBearSoapUI`.
+Evergreen app: `SmartBearSoapUI`
 
 | Version | URI                                                       |
 | ------- | --------------------------------------------------------- |

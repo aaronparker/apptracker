@@ -2,14 +2,14 @@
 title: Remote Desktop Analyzer
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Remote Desktop Analyzer
 
-[Source](https://rdanalyzer.com/).
+[Source](https://rdanalyzer.com/)
 
-Evergreen app: `RDAnalyzer`.
+Evergreen app: `RDAnalyzer`
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |

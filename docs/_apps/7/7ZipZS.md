@@ -2,14 +2,14 @@
 title: 7-Zip ZS
 layout: default
 nav_order: 2
-last_modified_date: Jun 18 2023 at 04:07 pm
+last_modified_date: Jun 18 2023 at 04:07 PM
 ---
 
 ## 7-Zip ZS
 
-[Source](https://mcmilk.de/projects/7-Zip-zstd/).
+[Source](https://mcmilk.de/projects/7-Zip-zstd/)
 
-Evergreen app: `7ZipZS`.
+Evergreen app: `7ZipZS`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |

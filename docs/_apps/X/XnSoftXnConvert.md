@@ -2,14 +2,14 @@
 title: XnSoft Convert
 layout: default
 nav_order: 2
-last_modified_date: Feb 29 2024 at 08:14 pm
+last_modified_date: Feb 29 2024 at 08:14 PM
 ---
 
 ## XnSoft Convert
 
-[Source](https://www.xnview.com/en/xnconvert/).
+[Source](https://www.xnview.com/en/xnconvert/)
 
-Evergreen app: `XnSoftXnConvert`.
+Evergreen app: `XnSoftXnConvert`
 
 | Version | Architecture | Type | URI                                               |
 | ------- | ------------ | ---- | ------------------------------------------------- |

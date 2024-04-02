@@ -2,14 +2,14 @@
 title: 1Password 7
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## 1Password 7
 
-[Source](https://1password.com/).
+[Source](https://1password.com/)
 
-Evergreen app: `1Password7`.
+Evergreen app: `1Password7`
 
 | Version | URI                                                             |
 | ------- | --------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: RingCentral
 layout: default
 nav_order: 2
-last_modified_date: Feb 23 2024 at 10:16 am
+last_modified_date: Feb 23 2024 at 10:16 AM
 ---
 
 ## RingCentral
 
-[Source](https://www.ringcentral.com).
+[Source](https://www.ringcentral.com)
 
-Evergreen app: `RingCentral`.
+Evergreen app: `RingCentral`
 
 | Version | Platform | Type     | URI                                                                                              |
 | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |

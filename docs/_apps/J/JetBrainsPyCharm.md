@@ -2,14 +2,14 @@
 title: JetBrains PyCharm
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 10:14 am
+last_modified_date: Mar 22 2024 at 10:14 AM
 ---
 
 ## JetBrains PyCharm
 
-[Source](https://www.jetbrains.com/).
+[Source](https://www.jetbrains.com/)
 
-Evergreen app: `JetBrainsPyCharm`.
+Evergreen app: `JetBrainsPyCharm`
 
 | Version  | Build        | Edition              | Sha256                                                                         | Date       | Size      | Type | URI                                                                     |
 | -------- | ------------ | -------------------- | ------------------------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------------------------- |

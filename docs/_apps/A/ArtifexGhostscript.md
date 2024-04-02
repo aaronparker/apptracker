@@ -2,14 +2,14 @@
 title: Artifex Ghostscript
 layout: default
 nav_order: 2
-last_modified_date: Mar 7 2024 at 08:14 pm
+last_modified_date: Mar 7 2024 at 08:14 PM
 ---
 
 ## Artifex Ghostscript
 
-[Source](https://www.ghostscript.com/).
+[Source](https://www.ghostscript.com/)
 
-Evergreen app: `ArtifexGhostscript`.
+Evergreen app: `ArtifexGhostscript`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------- |

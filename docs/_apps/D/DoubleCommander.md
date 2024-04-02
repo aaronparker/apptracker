@@ -2,14 +2,14 @@
 title: Double Commander
 layout: default
 nav_order: 2
-last_modified_date: May 13 2023 at 08:09 am
+last_modified_date: May 13 2023 at 08:09 AM
 ---
 
 ## Double Commander
 
-[Source](https://github.com/doublecmd/doublecmd/).
+[Source](https://github.com/doublecmd/doublecmd/)
 
-Evergreen app: `DoubleCommander`.
+Evergreen app: `DoubleCommander`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |

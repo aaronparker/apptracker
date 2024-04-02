@@ -2,14 +2,14 @@
 title: Tableau Reader
 layout: default
 nav_order: 2
-last_modified_date: Mar 27 2024 at 12:29 am
+last_modified_date: Mar 27 2024 at 12:29 AM
 ---
 
 ## Tableau Reader
 
-[Source](https://www.tableau.com/).
+[Source](https://www.tableau.com/)
 
-Evergreen app: `TableauReader`.
+Evergreen app: `TableauReader`
 
 | Version  | URI                                                                       |
 | -------- | ------------------------------------------------------------------------- |

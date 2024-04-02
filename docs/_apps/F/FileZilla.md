@@ -2,14 +2,14 @@
 title: FileZilla
 layout: default
 nav_order: 2
-last_modified_date: Jan 31 2024 at 10:14 am
+last_modified_date: Jan 31 2024 at 10:14 AM
 ---
 
 ## FileZilla
 
-[Source](https://filezilla-project.org/).
+[Source](https://filezilla-project.org/)
 
-Evergreen app: `FileZilla`.
+Evergreen app: `FileZilla`
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                            |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |

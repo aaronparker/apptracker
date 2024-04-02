@@ -2,14 +2,14 @@
 title: Audacity
 layout: default
 nav_order: 2
-last_modified_date: Nov 16 2023 at 04:11 pm
+last_modified_date: Nov 16 2023 at 04:11 PM
 ---
 
 ## Audacity
 
-[Source](https://www.audacityteam.org/).
+[Source](https://www.audacityteam.org/)
 
-Evergreen app: `Audacity`.
+Evergreen app: `Audacity`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------- |

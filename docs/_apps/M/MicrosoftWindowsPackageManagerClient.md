@@ -2,14 +2,14 @@
 title: Microsoft Windows Package Manager Client
 layout: default
 nav_order: 2
-last_modified_date: Mar 28 2024 at 08:15 pm
+last_modified_date: Mar 28 2024 at 08:15 PM
 ---
 
 ## Microsoft Windows Package Manager Client
 
-[Source](https://docs.microsoft.com/en-us/windows/package-manager/).
+[Source](https://docs.microsoft.com/en-us/windows/package-manager/)
 
-Evergreen app: `MicrosoftWindowsPackageManagerClient`.
+Evergreen app: `MicrosoftWindowsPackageManagerClient`
 
 | Version   | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                         |
 | --------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |

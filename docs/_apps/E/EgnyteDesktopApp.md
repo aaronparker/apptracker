@@ -2,14 +2,14 @@
 title: Egnyte Desktop App
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Egnyte Desktop App
 
-[Source](https://www.egnyte.com/solutions/sharing-collaboration).
+[Source](https://www.egnyte.com/solutions/sharing-collaboration)
 
-Evergreen app: `EgnyteDesktopApp`.
+Evergreen app: `EgnyteDesktopApp`
 
 | Version   | SHA1                                     | URI                                                                                       |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |

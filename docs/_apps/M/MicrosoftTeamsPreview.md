@@ -2,14 +2,14 @@
 title: Microsoft Teams 2 Preview
 layout: default
 nav_order: 2
-last_modified_date: Mar 27 2024 at 08:14 pm
+last_modified_date: Mar 27 2024 at 08:14 PM
 ---
 
 ## Microsoft Teams 2 Preview
 
-[Source](https://www.microsoft.com/teams).
+[Source](https://www.microsoft.com/teams)
 
-Evergreen app: `MicrosoftTeamsPreview`.
+Evergreen app: `MicrosoftTeamsPreview`
 
 | Version              | Release    | Architecture | Type | URI                                                                                                        |
 | -------------------- | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------- |

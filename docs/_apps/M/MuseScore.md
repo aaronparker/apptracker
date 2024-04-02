@@ -2,14 +2,14 @@
 title: MuseScore
 layout: default
 nav_order: 2
-last_modified_date: Jan 24 2024 at 10:16 am
+last_modified_date: Jan 24 2024 at 10:16 AM
 ---
 
 ## MuseScore
 
-[Source](https://musescore.org/).
+[Source](https://musescore.org/)
 
-Evergreen app: `MuseScore`.
+Evergreen app: `MuseScore`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |

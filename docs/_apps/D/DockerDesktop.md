@@ -2,14 +2,14 @@
 title: Docker Desktop
 layout: default
 nav_order: 2
-last_modified_date: Mar 11 2024 at 08:14 pm
+last_modified_date: Mar 11 2024 at 08:14 PM
 ---
 
 ## Docker Desktop
 
-[Source](https://www.docker.com/products/docker-desktop/).
+[Source](https://www.docker.com/products/docker-desktop/)
 
-Evergreen app: `DockerDesktop`.
+Evergreen app: `DockerDesktop`
 
 | Version | Build  | Size      | Type | URI                                                                               |
 | ------- | ------ | --------- | ---- | --------------------------------------------------------------------------------- |

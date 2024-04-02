@@ -2,14 +2,14 @@
 title: Toggl Desktop
 layout: default
 nav_order: 2
-last_modified_date: May 13 2023 at 08:09 am
+last_modified_date: May 13 2023 at 08:09 AM
 ---
 
 ## Toggl Desktop
 
-[Source](https://www.toggl.com/).
+[Source](https://www.toggl.com/)
 
-Evergreen app: `TogglDesktop`.
+Evergreen app: `TogglDesktop`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |

@@ -2,14 +2,14 @@
 title: PuTTY
 layout: default
 nav_order: 2
-last_modified_date: Dec 18 2023 at 08:14 pm
+last_modified_date: Dec 18 2023 at 08:14 PM
 ---
 
 ## PuTTY
 
-[Source](https://www.chiark.greenend.org.uk/~sgtatham/putty/).
+[Source](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
-Evergreen app: `PuTTY`.
+Evergreen app: `PuTTY`
 
 | Version | Architecture | Type | URI                                                                             |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------- |

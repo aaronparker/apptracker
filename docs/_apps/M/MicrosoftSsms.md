@@ -2,14 +2,14 @@
 title: Microsoft SQL Server Management Studio
 layout: default
 nav_order: 2
-last_modified_date: Mar 19 2024 at 08:14 pm
+last_modified_date: Mar 19 2024 at 08:14 PM
 ---
 
 ## Microsoft SQL Server Management Studio
 
-[Source](https://go.microsoft.com/fwlink/?LinkId=531355).
+[Source](https://go.microsoft.com/fwlink/?LinkId=531355)
 
-Evergreen app: `MicrosoftSsms`.
+Evergreen app: `MicrosoftSsms`
 
 | Version   | Date       | Language              | URI                                                                                                   |
 | --------- | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Microsoft Azure Virtual Desktop Agent
 layout: default
 nav_order: 2
-last_modified_date: Feb 22 2024 at 08:13 pm
+last_modified_date: Feb 22 2024 at 08:13 PM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent
 
-[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell).
+[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-Evergreen app: `MicrosoftWvdInfraAgent`.
+Evergreen app: `MicrosoftWvdInfraAgent`
 
 | Version      | Date                          | Architecture | Filename                                                 | URI                                                              |
 | ------------ | ----------------------------- | ------------ | -------------------------------------------------------- | ---------------------------------------------------------------- |

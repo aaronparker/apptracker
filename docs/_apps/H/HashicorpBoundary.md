@@ -2,14 +2,14 @@
 title: Hashicorp Boundary
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 12:27 am
+last_modified_date: Mar 22 2024 at 12:27 AM
 ---
 
 ## Hashicorp Boundary
 
-[Source](https://www.boundaryproject.io/).
+[Source](https://www.boundaryproject.io/)
 
-Evergreen app: `HashicorpBoundary`.
+Evergreen app: `HashicorpBoundary`
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |

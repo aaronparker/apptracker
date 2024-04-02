@@ -2,14 +2,14 @@
 title: Unity Editor
 layout: default
 nav_order: 2
-last_modified_date: Mar 29 2024 at 08:14 pm
+last_modified_date: Mar 29 2024 at 08:14 PM
 ---
 
 ## Unity Editor
 
-[Source](https://unity.com/download).
+[Source](https://unity.com/download)
 
-Evergreen app: `UnityEditor`.
+Evergreen app: `UnityEditor`
 
 | Version     | Release | Channel  | LTS   | Size       | Checksum                         | Type | URI                                                                                                            |
 | ----------- | ------- | -------- | ----- | ---------- | -------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------- |

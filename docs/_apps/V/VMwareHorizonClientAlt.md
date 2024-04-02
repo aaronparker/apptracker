@@ -2,14 +2,14 @@
 title: VMware Horizon Client (alternate method)
 layout: default
 nav_order: 2
-last_modified_date: Jan 23 2024 at 08:14 pm
+last_modified_date: Jan 23 2024 at 08:14 PM
 ---
 
 ## VMware Horizon Client (alternate method)
 
-[Source](https://docs.vmware.com/en/VMware-Horizon-Client/index.html).
+[Source](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-Evergreen app: `VMwareHorizonClientAlt`.
+Evergreen app: `VMwareHorizonClientAlt`
 
 | Version         | URI                                                                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

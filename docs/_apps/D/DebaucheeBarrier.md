@@ -2,14 +2,14 @@
 title: Debauchee Barrier
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Debauchee Barrier
 
-[Source](https://github.com/debauchee/barrier).
+[Source](https://github.com/debauchee/barrier)
 
-Evergreen app: `DebaucheeBarrier`.
+Evergreen app: `DebaucheeBarrier`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |

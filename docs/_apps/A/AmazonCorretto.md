@@ -2,14 +2,14 @@
 title: Amazon Corretto
 layout: default
 nav_order: 2
-last_modified_date: Jan 19 2024 at 08:14 pm
+last_modified_date: Jan 19 2024 at 08:14 PM
 ---
 
 ## Amazon Corretto
 
-[Source](https://aws.amazon.com/corretto/).
+[Source](https://aws.amazon.com/corretto/)
 
-Evergreen app: `AmazonCorretto`.
+Evergreen app: `AmazonCorretto`
 
 | Version     | JDK | Architecture | Type | URI                                                                                                |
 | ----------- | --- | ------------ | ---- | -------------------------------------------------------------------------------------------------- |

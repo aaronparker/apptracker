@@ -2,14 +2,14 @@
 title: JeremyMain GPUProfiler
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## JeremyMain GPUProfiler
 
-[Source](https://github.com/JeremyMain/GPUProfiler).
+[Source](https://github.com/JeremyMain/GPUProfiler)
 
-Evergreen app: `JeremyMainGPUProfiler`.
+Evergreen app: `JeremyMainGPUProfiler`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- |

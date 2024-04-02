@@ -2,14 +2,14 @@
 title: MiniZinc IDE
 layout: default
 nav_order: 2
-last_modified_date: Feb 1 2024 at 10:13 am
+last_modified_date: Feb 1 2024 at 10:13 AM
 ---
 
 ## MiniZinc IDE
 
-[Source](https://www.minizinc.org/).
+[Source](https://www.minizinc.org/)
 
-Evergreen app: `MiniZincIDE`.
+Evergreen app: `MiniZincIDE`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------- |

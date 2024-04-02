@@ -2,14 +2,14 @@
 title: KeePassXC Team KeePassXC
 layout: default
 nav_order: 2
-last_modified_date: Mar 11 2024 at 12:28 am
+last_modified_date: Mar 11 2024 at 12:28 AM
 ---
 
 ## KeePassXC Team KeePassXC
 
-[Source](https://keepassxc.org/).
+[Source](https://keepassxc.org/)
 
-Evergreen app: `KeePassXCTeamKeePassXC`.
+Evergreen app: `KeePassXCTeamKeePassXC`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |

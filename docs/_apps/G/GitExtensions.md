@@ -2,14 +2,14 @@
 title: Git Extensions
 layout: default
 nav_order: 2
-last_modified_date: Nov 27 2023 at 08:09 am
+last_modified_date: Nov 27 2023 at 08:09 AM
 ---
 
 ## Git Extensions
 
-[Source](https://github.com/gitextensions/gitextensions).
+[Source](https://github.com/gitextensions/gitextensions)
 
-Evergreen app: `GitExtensions`.
+Evergreen app: `GitExtensions`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |

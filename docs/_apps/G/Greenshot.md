@@ -2,14 +2,14 @@
 title: Greenshot
 layout: default
 nav_order: 2
-last_modified_date: May 13 2023 at 08:09 am
+last_modified_date: May 13 2023 at 08:09 AM
 ---
 
 ## Greenshot
 
-[Source](https://getgreenshot.org/).
+[Source](https://getgreenshot.org/)
 
-Evergreen app: `Greenshot`.
+Evergreen app: `Greenshot`
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                     |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |

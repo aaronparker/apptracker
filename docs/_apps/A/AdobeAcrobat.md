@@ -2,14 +2,14 @@
 title: Adobe Acrobat updates
 layout: default
 nav_order: 2
-last_modified_date: Mar 28 2024 at 08:15 pm
+last_modified_date: Mar 28 2024 at 08:15 PM
 ---
 
 ## Adobe Acrobat updates
 
-[Source](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html).
+[Source](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)
 
-Evergreen app: `AdobeAcrobat`.
+Evergreen app: `AdobeAcrobat`
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                        |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ---------------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: AppVentiX
 layout: default
 nav_order: 2
-last_modified_date: Jan 31 2024 at 08:14 pm
+last_modified_date: Jan 31 2024 at 08:14 PM
 ---
 
 ## AppVentiX
 
-[Source](https://appventix.com/).
+[Source](https://appventix.com/)
 
-Evergreen app: `AppVentiX`.
+Evergreen app: `AppVentiX`
 
 | Version | Filename             | URI                                    |
 | ------- | -------------------- | -------------------------------------- |

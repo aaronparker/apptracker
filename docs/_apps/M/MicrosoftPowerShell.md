@@ -2,14 +2,14 @@
 title: Microsoft PowerShell
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 10:14 am
+last_modified_date: Mar 22 2024 at 10:14 AM
 ---
 
 ## Microsoft PowerShell
 
-[Source](https://docs.microsoft.com/powershell/).
+[Source](https://docs.microsoft.com/powershell/)
 
-Evergreen app: `MicrosoftPowerShell`.
+Evergreen app: `MicrosoftPowerShell`
 
 | Version | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                               | Release |
 | ------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------- | ------- |

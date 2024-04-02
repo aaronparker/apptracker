@@ -2,14 +2,14 @@
 title: Atlassian Sourcetree
 layout: default
 nav_order: 2
-last_modified_date: Feb 15 2024 at 10:14 am
+last_modified_date: Feb 15 2024 at 10:14 AM
 ---
 
 ## Atlassian Sourcetree
 
-[Source](https://www.sourcetreeapp.com/).
+[Source](https://www.sourcetreeapp.com/)
 
-Evergreen app: `AtlassianSourcetree`.
+Evergreen app: `AtlassianSourcetree`
 
 | Version | Type | URI                                                                                                         |
 | ------- | ---- | ----------------------------------------------------------------------------------------------------------- |

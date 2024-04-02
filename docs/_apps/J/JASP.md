@@ -2,14 +2,14 @@
 title: JASP
 layout: default
 nav_order: 2
-last_modified_date: Jan 12 2024 at 08:15 pm
+last_modified_date: Jan 12 2024 at 08:15 PM
 ---
 
 ## JASP
 
-[Source](https://jasp-stats.org/).
+[Source](https://jasp-stats.org/)
 
-Evergreen app: `JASP`.
+Evergreen app: `JASP`
 
 | Version | URI                                                 |
 | ------- | --------------------------------------------------- |

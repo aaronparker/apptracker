@@ -2,14 +2,14 @@
 title: ESET Endpoint Security
 layout: default
 nav_order: 2
-last_modified_date: Dec 7 2023 at 04:11 pm
+last_modified_date: Dec 7 2023 at 04:11 PM
 ---
 
 ## ESET Endpoint Security
 
-[Source](https://www.eset.com/au/business/solutions/endpoint-protection/).
+[Source](https://www.eset.com/au/business/solutions/endpoint-protection/)
 
-Evergreen app: `ESETEndpointSecurity`.
+Evergreen app: `ESETEndpointSecurity`
 
 | Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                      |
 | ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------- |

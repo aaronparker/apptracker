@@ -2,14 +2,14 @@
 title: JetBrains CLion
 layout: default
 nav_order: 2
-last_modified_date: Feb 15 2024 at 12:27 am
+last_modified_date: Feb 15 2024 at 12:27 AM
 ---
 
 ## JetBrains CLion
 
-[Source](https://www.jetbrains.com/clion).
+[Source](https://www.jetbrains.com/clion)
 
-Evergreen app: `JetBrainsCLion`.
+Evergreen app: `JetBrainsCLion`
 
 | Version  | Build        | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                   |
 | -------- | ------------ | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |

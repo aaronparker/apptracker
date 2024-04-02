@@ -2,14 +2,14 @@
 title: XnSoft XnView MP
 layout: default
 nav_order: 2
-last_modified_date: Mar 30 2024 at 08:13 pm
+last_modified_date: Mar 30 2024 at 08:13 PM
 ---
 
 ## XnSoft XnView MP
 
-[Source](https://www.xnview.com/en/xnviewmp/).
+[Source](https://www.xnview.com/en/xnviewmp/)
 
-Evergreen app: `XnSoftXnViewMP`.
+Evergreen app: `XnSoftXnViewMP`
 
 | Version | Architecture | Type | URI                                              |
 | ------- | ------------ | ---- | ------------------------------------------------ |

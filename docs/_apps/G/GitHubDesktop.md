@@ -2,14 +2,14 @@
 title: GitHub Desktop
 layout: default
 nav_order: 2
-last_modified_date: Mar 20 2024 at 08:14 pm
+last_modified_date: Mar 20 2024 at 08:14 PM
 ---
 
 ## GitHub Desktop
 
-[Source](https://desktop.github.com/).
+[Source](https://desktop.github.com/)
 
-Evergreen app: `GitHubDesktop`.
+Evergreen app: `GitHubDesktop`
 
 | Version | Architecture | Type | URI                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------- |

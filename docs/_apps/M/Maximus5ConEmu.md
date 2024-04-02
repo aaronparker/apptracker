@@ -2,14 +2,14 @@
 title: Maximus5 ConEmu
 layout: default
 nav_order: 2
-last_modified_date: Jul 24 2023 at 12:22 am
+last_modified_date: Jul 24 2023 at 12:22 AM
 ---
 
 ## Maximus5 ConEmu
 
-[Source](https://github.com/Maximus5/ConEmu).
+[Source](https://github.com/Maximus5/ConEmu)
 
-Evergreen app: `Maximus5ConEmu`.
+Evergreen app: `Maximus5ConEmu`
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                          |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------- |

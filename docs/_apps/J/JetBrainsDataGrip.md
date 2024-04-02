@@ -2,14 +2,14 @@
 title: JetBrains DataGrip
 layout: default
 nav_order: 2
-last_modified_date: Feb 15 2024 at 12:27 am
+last_modified_date: Feb 15 2024 at 12:27 AM
 ---
 
 ## JetBrains DataGrip
 
-[Source](https://www.jetbrains.com/datagrip).
+[Source](https://www.jetbrains.com/datagrip)
 
-Evergreen app: `JetBrainsDataGrip`.
+Evergreen app: `JetBrainsDataGrip`
 
 | Version  | Build        | Edition  | Sha256                                                       | Date       | Size      | Type | URI                                                   |
 | -------- | ------------ | -------- | ------------------------------------------------------------ | ---------- | --------- | ---- | ----------------------------------------------------- |

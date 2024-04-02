@@ -2,14 +2,14 @@
 title: Hashicorp Terraform
 layout: default
 nav_order: 2
-last_modified_date: Mar 14 2024 at 12:27 am
+last_modified_date: Mar 14 2024 at 12:27 AM
 ---
 
 ## Hashicorp Terraform
 
-[Source](https://www.terraform.io/).
+[Source](https://www.terraform.io/)
 
-Evergreen app: `HashicorpTerraform`.
+Evergreen app: `HashicorpTerraform`
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |

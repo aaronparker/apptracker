@@ -2,14 +2,14 @@
 title: VMware Tools
 layout: default
 nav_order: 2
-last_modified_date: Mar 21 2024 at 08:16 pm
+last_modified_date: Mar 21 2024 at 08:16 PM
 ---
 
 ## VMware Tools
 
-[Source](https://docs.vmware.com/en/VMware-Tools/index.html).
+[Source](https://docs.vmware.com/en/VMware-Tools/index.html)
 
-Evergreen app: `VMwareTools`.
+Evergreen app: `VMwareTools`
 
 | Version | Architecture | URI                                                                                                   |
 | ------- | ------------ | ----------------------------------------------------------------------------------------------------- |

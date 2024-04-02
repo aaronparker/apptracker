@@ -2,14 +2,14 @@
 title: JetBrains Space
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## JetBrains Space
 
-[Source](https://www.jetbrains.com/space).
+[Source](https://www.jetbrains.com/space)
 
-Evergreen app: `JetBrainsSpace`.
+Evergreen app: `JetBrainsSpace`
 
 | Version  | Build | Edition       | Sha256                                                                   | Date       | Size     | Type | URI                                                               |
 | -------- | ----- | ------------- | ------------------------------------------------------------------------ | ---------- | -------- | ---- | ----------------------------------------------------------------- |

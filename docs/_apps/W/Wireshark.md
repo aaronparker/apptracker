@@ -2,14 +2,14 @@
 title: Wireshark
 layout: default
 nav_order: 2
-last_modified_date: Mar 28 2024 at 12:27 am
+last_modified_date: Mar 28 2024 at 12:27 AM
 ---
 
 ## Wireshark
 
-[Source](https://www.wireshark.org/#download).
+[Source](https://www.wireshark.org/#download)
 
-Evergreen app: `Wireshark`.
+Evergreen app: `Wireshark`
 
 | Version | Architecture | Type | URI                                                            |
 | ------- | ------------ | ---- | -------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Oracle Java 21
 layout: default
 nav_order: 2
-last_modified_date: Jan 17 2024 at 10:14 am
+last_modified_date: Jan 17 2024 at 10:14 AM
 ---
 
 ## Oracle Java 21
 
-[Source](https://www.oracle.com/java/technologies/downloads/#java21).
+[Source](https://www.oracle.com/java/technologies/downloads/#java21)
 
-Evergreen app: `OracleJava21`.
+Evergreen app: `OracleJava21`
 
 | Version | Sha256                                                           | Type | URI                                                                   |
 | ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |

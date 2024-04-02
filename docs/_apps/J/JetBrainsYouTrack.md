@@ -2,14 +2,14 @@
 title: JetBrains YouTrack
 layout: default
 nav_order: 2
-last_modified_date: Aug 30 2023 at 08:11 am
+last_modified_date: Aug 30 2023 at 08:11 AM
 ---
 
 ## JetBrains YouTrack
 
-[Source](https://www.jetbrains.com/youtrack).
+[Source](https://www.jetbrains.com/youtrack)
 
-Evergreen app: `JetBrainsYouTrack`.
+Evergreen app: `JetBrainsYouTrack`
 
 | Version | Build | Edition                  | Sha256                                                                           | Date     | Size      | Type | URI                                                                       |
 | ------- | ----- | ------------------------ | -------------------------------------------------------------------------------- | -------- | --------- | ---- | ------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Safing Portmaster
 layout: default
 nav_order: 2
-last_modified_date: Jan 18 2024 at 08:17 pm
+last_modified_date: Jan 18 2024 at 08:17 PM
 ---
 
 ## Safing Portmaster
 
-[Source](https://safing.io/).
+[Source](https://safing.io/)
 
-Evergreen app: `SafingPortmaster`.
+Evergreen app: `SafingPortmaster`
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |

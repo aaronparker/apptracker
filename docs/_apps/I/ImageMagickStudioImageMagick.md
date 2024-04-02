@@ -2,14 +2,14 @@
 title: ImageMagick Studio ImageMagick
 layout: default
 nav_order: 2
-last_modified_date: Feb 25 2024 at 08:15 pm
+last_modified_date: Feb 25 2024 at 08:15 PM
 ---
 
 ## ImageMagick Studio ImageMagick
 
-[Source](https://imagemagick.org/).
+[Source](https://imagemagick.org/)
 
-Evergreen app: `ImageMagickStudioImageMagick`.
+Evergreen app: `ImageMagickStudioImageMagick`
 
 | Version  | URI                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------- |

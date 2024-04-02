@@ -2,14 +2,14 @@
 title: Microsoft Terminal
 layout: default
 nav_order: 2
-last_modified_date: Mar 25 2024 at 08:14 pm
+last_modified_date: Mar 25 2024 at 08:14 PM
 ---
 
 ## Microsoft Terminal
 
-[Source](https://github.com/microsoft/terminal/).
+[Source](https://github.com/microsoft/terminal/)
 
-Evergreen app: `MicrosoftTerminal`.
+Evergreen app: `MicrosoftTerminal`
 
 | Version      | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                                   |
 | ------------ | -------- | ------------ | ---------- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Freedom Scientific ZoomText
 layout: default
 nav_order: 2
-last_modified_date: Mar 6 2024 at 08:18 pm
+last_modified_date: Mar 6 2024 at 08:18 PM
 ---
 
 ## Freedom Scientific ZoomText
 
-[Source](https://www.freedomscientific.com/products/software/zoomtext/).
+[Source](https://www.freedomscientific.com/products/software/zoomtext/)
 
-Evergreen app: `FreedomScientificZoomText`.
+Evergreen app: `FreedomScientificZoomText`
 
 | Version      | Date       | URI                                                                                                                                 |
 | ------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |

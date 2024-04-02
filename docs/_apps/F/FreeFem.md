@@ -2,14 +2,14 @@
 title: FreeFem
 layout: default
 nav_order: 2
-last_modified_date: Mar 20 2024 at 08:14 pm
+last_modified_date: Mar 20 2024 at 08:14 PM
 ---
 
 ## FreeFem
 
-[Source](https://freefem.org/).
+[Source](https://freefem.org/)
 
-Evergreen app: `FreeFem`.
+Evergreen app: `FreeFem`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                       |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------- |

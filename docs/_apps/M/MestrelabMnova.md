@@ -2,14 +2,14 @@
 title: Mestrelab Mnova
 layout: default
 nav_order: 2
-last_modified_date: Mar 7 2024 at 10:15 am
+last_modified_date: Mar 7 2024 at 10:15 AM
 ---
 
 ## Mestrelab Mnova
 
-[Source](https://mestrelab.com/software/mnova/).
+[Source](https://mestrelab.com/software/mnova/)
 
-Evergreen app: `MestrelabMnova`.
+Evergreen app: `MestrelabMnova`
 
 | Version | Revision | Architecture | URI                                                                          |
 | ------- | -------- | ------------ | ---------------------------------------------------------------------------- |

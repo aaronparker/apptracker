@@ -2,14 +2,14 @@
 title: Microsoft PowerToys
 layout: default
 nav_order: 2
-last_modified_date: Mar 4 2024 at 08:14 pm
+last_modified_date: Mar 4 2024 at 08:14 PM
 ---
 
 ## Microsoft PowerToys
 
-[Source](https://github.com/microsoft/PowerToys/).
+[Source](https://github.com/microsoft/PowerToys/)
 
-Evergreen app: `MicrosoftPowerToys`.
+Evergreen app: `MicrosoftPowerToys`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |

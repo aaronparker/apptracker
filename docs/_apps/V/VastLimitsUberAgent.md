@@ -2,14 +2,14 @@
 title: vast limits uberAgent
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## vast limits uberAgent
 
-[Source](https://uberagent.com/).
+[Source](https://uberagent.com/)
 
-Evergreen app: `VastLimitsUberAgent`.
+Evergreen app: `VastLimitsUberAgent`
 
 | Version | URI                                                                   |
 | ------- | --------------------------------------------------------------------- |

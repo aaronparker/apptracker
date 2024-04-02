@@ -2,14 +2,14 @@
 title: OBS Studio
 layout: default
 nav_order: 2
-last_modified_date: Mar 24 2024 at 12:29 am
+last_modified_date: Mar 24 2024 at 12:29 AM
 ---
 
 ## OBS Studio
 
-[Source](https://obsproject.com/).
+[Source](https://obsproject.com/)
 
-Evergreen app: `OBSStudio`.
+Evergreen app: `OBSStudio`
 
 | Version | Architecture | URI                                                                                  |
 | ------- | ------------ | ------------------------------------------------------------------------------------ |

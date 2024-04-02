@@ -2,14 +2,14 @@
 title: Hashicorp Nomad
 layout: default
 nav_order: 2
-last_modified_date: Mar 12 2024 at 08:14 pm
+last_modified_date: Mar 12 2024 at 08:14 PM
 ---
 
 ## Hashicorp Nomad
 
-[Source](https://www.nomadproject.io/).
+[Source](https://www.nomadproject.io/)
 
-Evergreen app: `HashicorpNomad`.
+Evergreen app: `HashicorpNomad`
 
 | Version | Type | Architecture | URI                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------ |

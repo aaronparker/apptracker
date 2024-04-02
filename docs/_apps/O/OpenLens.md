@@ -2,14 +2,14 @@
 title: OpenLens
 layout: default
 nav_order: 2
-last_modified_date: Aug 27 2023 at 12:19 am
+last_modified_date: Aug 27 2023 at 12:19 AM
 ---
 
 ## OpenLens
 
-[Source](https://github.com/MuhammedKalkan/OpenLens/).
+[Source](https://github.com/MuhammedKalkan/OpenLens/)
 
-Evergreen app: `OpenLens`.
+Evergreen app: `OpenLens`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------- |

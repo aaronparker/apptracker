@@ -2,14 +2,14 @@
 title: Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
 layout: default
 nav_order: 2
-last_modified_date: Jan 23 2024 at 08:14 pm
+last_modified_date: Jan 23 2024 at 08:14 PM
 ---
 
 ## Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
 
-[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection).
+[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
 
-Evergreen app: `MicrosoftWvdMultimediaRedirection`.
+Evergreen app: `MicrosoftWvdMultimediaRedirection`
 
 | Version       | Date            | Architecture | Filename                                 | URI                       |
 | ------------- | --------------- | ------------ | ---------------------------------------- | ------------------------- |

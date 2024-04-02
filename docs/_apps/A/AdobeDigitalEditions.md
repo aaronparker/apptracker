@@ -2,14 +2,14 @@
 title: Adobe Digital Editions
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 10:15 am
+last_modified_date: Mar 22 2024 at 10:15 AM
 ---
 
 ## Adobe Digital Editions
 
-[Source](https://www.adobe.com/solutions/ebook/digital-editions.html).
+[Source](https://www.adobe.com/solutions/ebook/digital-editions.html)
 
-Evergreen app: `AdobeDigitalEditions`.
+Evergreen app: `AdobeDigitalEditions`
 
 | Version      | URI                                                                           |
 | ------------ | ----------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Microsoft Remote Desktop
 layout: default
 nav_order: 2
-last_modified_date: Mar 19 2024 at 08:14 pm
+last_modified_date: Mar 19 2024 at 08:14 PM
 ---
 
 ## Microsoft Remote Desktop
 
-[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10).
+[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-Evergreen app: `MicrosoftWvdRemoteDesktop`.
+Evergreen app: `MicrosoftWvdRemoteDesktop`
 
 | Version    | Date       | Channel | MD5                              | Sha2                                                                                                                             | Architecture | Filename                           | URI                                                               |
 | ---------- | ---------- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------- | ----------------------------------------------------------------- |

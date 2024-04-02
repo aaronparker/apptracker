@@ -2,14 +2,14 @@
 title: Nevcairiel LAV Filters
 layout: default
 nav_order: 2
-last_modified_date: Mar 28 2024 at 08:15 pm
+last_modified_date: Mar 28 2024 at 08:15 PM
 ---
 
 ## Nevcairiel LAV Filters
 
-[Source](https://github.com/Nevcairiel/LAVFilters).
+[Source](https://github.com/Nevcairiel/LAVFilters)
 
-Evergreen app: `NevcairielLAVFilters`.
+Evergreen app: `NevcairielLAVFilters`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |

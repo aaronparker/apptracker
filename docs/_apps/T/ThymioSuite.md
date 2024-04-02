@@ -2,14 +2,14 @@
 title: Thymio Suite
 layout: default
 nav_order: 2
-last_modified_date: Jul 24 2023 at 12:22 am
+last_modified_date: Jul 24 2023 at 12:22 AM
 ---
 
 ## Thymio Suite
 
-[Source](https://www.thymio.org/).
+[Source](https://www.thymio.org/)
 
-Evergreen app: `ThymioSuite`.
+Evergreen app: `ThymioSuite`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------- |

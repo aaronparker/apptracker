@@ -2,14 +2,14 @@
 title: WinMerge
 layout: default
 nav_order: 2
-last_modified_date: Jan 27 2024 at 08:13 pm
+last_modified_date: Jan 27 2024 at 08:13 PM
 ---
 
 ## WinMerge
 
-[Source](https://winmerge.org/).
+[Source](https://winmerge.org/)
 
-Evergreen app: `WinMerge`.
+Evergreen app: `WinMerge`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------ |

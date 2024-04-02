@@ -2,14 +2,14 @@
 title: Airtame App
 layout: default
 nav_order: 2
-last_modified_date: Mar 18 2024 at 10:16 am
+last_modified_date: Mar 18 2024 at 10:16 AM
 ---
 
 ## Airtame App
 
-[Source](https://airtame.com/).
+[Source](https://airtame.com/)
 
-Evergreen app: `AirtameApp`.
+Evergreen app: `AirtameApp`
 
 | Version | Installer | Type | URI                                                                     |
 | ------- | --------- | ---- | ----------------------------------------------------------------------- |

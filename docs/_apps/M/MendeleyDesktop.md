@@ -2,14 +2,14 @@
 title: Mendeley Desktop
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Mendeley Desktop
 
-[Source](https://www.mendeley.com/).
+[Source](https://www.mendeley.com/)
 
-Evergreen app: `MendeleyDesktop`.
+Evergreen app: `MendeleyDesktop`
 
 | Version | URI                                                                              |
 | ------- | -------------------------------------------------------------------------------- |

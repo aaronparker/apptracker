@@ -2,14 +2,14 @@
 title: GitHub Atom
 layout: default
 nav_order: 2
-last_modified_date: May 13 2023 at 08:09 am
+last_modified_date: May 13 2023 at 08:09 AM
 ---
 
 ## GitHub Atom
 
-[Source](https://atom.io/).
+[Source](https://atom.io/)
 
-Evergreen app: `GitHubAtom`.
+Evergreen app: `GitHubAtom`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------ |

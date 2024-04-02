@@ -2,14 +2,14 @@
 title: BellSoft Liberica JDK 17 LTS
 layout: default
 nav_order: 2
-last_modified_date: Jan 17 2024 at 08:15 pm
+last_modified_date: Jan 17 2024 at 08:15 PM
 ---
 
 ## BellSoft Liberica JDK 17 LTS
 
-[Source](https://bell-sw.com/libericajdk/).
+[Source](https://bell-sw.com/libericajdk/)
 
-Evergreen app: `BellSoftLibericaJDK17`.
+Evergreen app: `BellSoftLibericaJDK17`
 
 | Version    | LTS  | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                              |
 | ---------- | ---- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------- |

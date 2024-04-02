@@ -2,14 +2,14 @@
 title: VisualCppRedistAIO
 layout: default
 nav_order: 2
-last_modified_date: Mar 29 2024 at 08:14 pm
+last_modified_date: Mar 29 2024 at 08:14 PM
 ---
 
 ## VisualCppRedistAIO
 
-[Source](https://github.com/abbodi1406/vcredist).
+[Source](https://github.com/abbodi1406/vcredist)
 
-Evergreen app: `VisualCppRedistAIO`.
+Evergreen app: `VisualCppRedistAIO`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |

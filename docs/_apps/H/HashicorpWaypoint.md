@@ -2,14 +2,14 @@
 title: Hashicorp Waypoint
 layout: default
 nav_order: 2
-last_modified_date: Aug 10 2023 at 12:22 am
+last_modified_date: Aug 10 2023 at 12:22 AM
 ---
 
 ## Hashicorp Waypoint
 
-[Source](https://www.waypointproject.io/).
+[Source](https://www.waypointproject.io/)
 
-Evergreen app: `HashicorpWaypoint`.
+Evergreen app: `HashicorpWaypoint`
 
 | Version | Type | Architecture | URI                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------- |

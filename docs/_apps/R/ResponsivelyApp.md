@@ -2,14 +2,14 @@
 title: Responsively App
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Responsively App
 
-[Source](https://responsively.app/).
+[Source](https://responsively.app/)
 
-Evergreen app: `ResponsivelyApp`.
+Evergreen app: `ResponsivelyApp`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |

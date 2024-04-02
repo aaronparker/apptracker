@@ -2,14 +2,14 @@
 title: KeeWeb
 layout: default
 nav_order: 2
-last_modified_date: May 13 2023 at 08:09 am
+last_modified_date: May 13 2023 at 08:09 AM
 ---
 
 ## KeeWeb
 
-[Source](https://github.com/keeweb/keeweb).
+[Source](https://github.com/keeweb/keeweb)
 
-Evergreen app: `KeeWeb`.
+Evergreen app: `KeeWeb`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------- |

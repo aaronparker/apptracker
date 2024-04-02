@@ -2,14 +2,14 @@
 title: Octopus Deploy Server
 layout: default
 nav_order: 2
-last_modified_date: Mar 29 2024 at 10:14 am
+last_modified_date: Mar 29 2024 at 10:14 AM
 ---
 
 ## Octopus Deploy Server
 
-[Source](https://octopus.com/).
+[Source](https://octopus.com/)
 
-Evergreen app: `OctopusDeployServer`.
+Evergreen app: `OctopusDeployServer`
 
 | Version      | Date       | URI                                                                     |
 | ------------ | ---------- | ----------------------------------------------------------------------- |

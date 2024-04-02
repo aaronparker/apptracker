@@ -2,14 +2,14 @@
 title: Sumatra PDF Reader
 layout: default
 nav_order: 2
-last_modified_date: Feb 13 2024 at 12:27 am
+last_modified_date: Feb 13 2024 at 12:27 AM
 ---
 
 ## Sumatra PDF Reader
 
-[Source](https://www.sumatrapdfreader.org/).
+[Source](https://www.sumatrapdfreader.org/)
 
-Evergreen app: `SumatraPDFReader`.
+Evergreen app: `SumatraPDFReader`
 
 | Version | Architecture | Type | URI                                                                           |
 | ------- | ------------ | ---- | ----------------------------------------------------------------------------- |

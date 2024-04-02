@@ -2,14 +2,14 @@
 title: Akeo Rufus
 layout: default
 nav_order: 2
-last_modified_date: Jan 17 2024 at 08:15 pm
+last_modified_date: Jan 17 2024 at 08:15 PM
 ---
 
 ## Akeo Rufus
 
-[Source](https://rufus.ie/).
+[Source](https://rufus.ie/)
 
-Evergreen app: `AkeoRufus`.
+Evergreen app: `AkeoRufus`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                         |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | --------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Stefans Tools gregpWin
 layout: default
 nav_order: 2
-last_modified_date: Jun 10 2023 at 04:08 pm
+last_modified_date: Jun 10 2023 at 04:08 PM
 ---
 
 ## Stefans Tools gregpWin
 
-[Source](https://tools.stefankueng.com/grepWin.html).
+[Source](https://tools.stefankueng.com/grepWin.html)
 
-Evergreen app: `StefansToolsgregpWin`.
+Evergreen app: `StefansToolsgregpWin`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------- |

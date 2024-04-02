@@ -2,14 +2,14 @@
 title: Base Image Script Framework
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Base Image Script Framework
 
-[Source](https://eucweb.com/).
+[Source](https://eucweb.com/)
 
-Evergreen app: `BISF`.
+Evergreen app: `BISF`
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                       |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------------------- |

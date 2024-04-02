@@ -2,14 +2,14 @@
 title: Terminals
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Terminals
 
-[Source](https://github.com/terminals-Origin/Terminals/).
+[Source](https://github.com/terminals-Origin/Terminals/)
 
-Evergreen app: `Terminals`.
+Evergreen app: `Terminals`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------- |

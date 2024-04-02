@@ -2,14 +2,14 @@
 title: OpenWebStart
 layout: default
 nav_order: 2
-last_modified_date: Dec 21 2023 at 08:15 pm
+last_modified_date: Dec 21 2023 at 08:15 PM
 ---
 
 ## OpenWebStart
 
-[Source](https://openwebstart.com/).
+[Source](https://openwebstart.com/)
 
-Evergreen app: `OpenWebStart`.
+Evergreen app: `OpenWebStart`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |

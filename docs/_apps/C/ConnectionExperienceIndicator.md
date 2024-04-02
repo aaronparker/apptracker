@@ -2,14 +2,14 @@
 title: Connection Experience Indicator
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Connection Experience Indicator
 
-[Source](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/).
+[Source](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
 
-Evergreen app: `ConnectionExperienceIndicator`.
+Evergreen app: `ConnectionExperienceIndicator`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------- |

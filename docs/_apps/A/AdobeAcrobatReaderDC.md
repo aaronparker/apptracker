@@ -2,14 +2,14 @@
 title: Adobe Acrobat Reader DC
 layout: default
 nav_order: 2
-last_modified_date: Mar 21 2024 at 08:16 pm
+last_modified_date: Mar 21 2024 at 08:16 PM
 ---
 
 ## Adobe Acrobat Reader DC
 
-[Source](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html).
+[Source](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-Evergreen app: `AdobeAcrobatReaderDC`.
+Evergreen app: `AdobeAcrobatReaderDC`
 
 | Version      | Language              | Architecture | Name                                            | URI                                                                                                     |
 | ------------ | --------------------- | ------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |

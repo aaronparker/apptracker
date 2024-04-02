@@ -2,14 +2,14 @@
 title: Microsoft Azure Windows VMAgent
 layout: default
 nav_order: 2
-last_modified_date: Mar 29 2024 at 12:27 am
+last_modified_date: Mar 29 2024 at 12:27 AM
 ---
 
 ## Microsoft Azure Windows VMAgent
 
-[Source](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows).
+[Source](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)
 
-Evergreen app: `MicrosoftAzureWindowsVMAgent`.
+Evergreen app: `MicrosoftAzureWindowsVMAgent`
 
 | Version        | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                |
 | -------------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

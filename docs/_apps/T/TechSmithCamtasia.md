@@ -2,14 +2,14 @@
 title: TechSmith Camtasia
 layout: default
 nav_order: 2
-last_modified_date: Mar 19 2024 at 08:14 pm
+last_modified_date: Mar 19 2024 at 08:14 PM
 ---
 
 ## TechSmith Camtasia
 
-[Source](https://www.techsmith.com/).
+[Source](https://www.techsmith.com/)
 
-Evergreen app: `TechSmithCamtasia`.
+Evergreen app: `TechSmithCamtasia`
 
 | Version | Date                | Type | URI                                                                     |
 | ------- | ------------------- | ---- | ----------------------------------------------------------------------- |

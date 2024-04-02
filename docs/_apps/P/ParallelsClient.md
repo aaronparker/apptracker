@@ -2,14 +2,14 @@
 title: Parallels Client
 layout: default
 nav_order: 2
-last_modified_date: Mar 18 2024 at 08:15 pm
+last_modified_date: Mar 18 2024 at 08:15 PM
 ---
 
 ## Parallels Client
 
-[Source](https://www.parallels.com/products/ras/download/links/).
+[Source](https://www.parallels.com/products/ras/download/links/)
 
-Evergreen app: `ParallelsClient`.
+Evergreen app: `ParallelsClient`
 
 | Version    | Architecture | Type | URI                                                                                      |
 | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------- |

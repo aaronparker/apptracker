@@ -2,14 +2,14 @@
 title: McNeel Rhino
 layout: default
 nav_order: 2
-last_modified_date: Jan 10 2024 at 10:14 am
+last_modified_date: Jan 10 2024 at 10:14 AM
 ---
 
 ## McNeel Rhino
 
-[Source](https://www.rhino3d.com/).
+[Source](https://www.rhino3d.com/)
 
-Evergreen app: `McNeelRhino`.
+Evergreen app: `McNeelRhino`
 
 | Version          | Release | URI                                                                           |
 | ---------------- | ------- | ----------------------------------------------------------------------------- |

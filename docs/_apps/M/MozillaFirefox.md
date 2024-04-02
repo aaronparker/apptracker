@@ -2,14 +2,14 @@
 title: Mozilla Firefox
 layout: default
 nav_order: 2
-last_modified_date: Jun 12 2022 at 02:23 pm
+last_modified_date: Jun 12 2022 at 02:23 PM
 ---
 
 ## Mozilla Firefox
 
-[Source](https://www.mozilla.org/en-US/firefox/new/).
+[Source](https://www.mozilla.org/en-US/firefox/new/)
 
-Evergreen app: `MozillaFirefox`.
+Evergreen app: `MozillaFirefox`
 
 | Version | Architecture | Channel                | Language | Type | Filename                      | URI                                                                                                                             |
 | ------- | ------------ | ---------------------- | -------- | ---- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |

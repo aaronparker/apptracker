@@ -2,14 +2,14 @@
 title: eduVPN
 layout: default
 nav_order: 2
-last_modified_date: Mar 29 2024 at 12:27 am
+last_modified_date: Mar 29 2024 at 12:27 AM
 ---
 
 ## eduVPN
 
-[Source](https://app.eduvpn.org/).
+[Source](https://app.eduvpn.org/)
 
-Evergreen app: `Eduvpn`.
+Evergreen app: `Eduvpn`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------- |

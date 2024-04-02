@@ -2,14 +2,14 @@
 title: WinSCP
 layout: default
 nav_order: 2
-last_modified_date: Mar 31 2024 at 12:29 am
+last_modified_date: Apr 2 2024 at 12:27 AM
 ---
 
 ## WinSCP
 
-[Source](https://winscp.net/).
+[Source](https://winscp.net/)
 
-Evergreen app: `WinSCP`.
+Evergreen app: `WinSCP`
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------ |

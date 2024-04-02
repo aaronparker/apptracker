@@ -2,14 +2,14 @@
 title: Oracle Java 20
 layout: default
 nav_order: 2
-last_modified_date: Sep 29 2023 at 04:08 pm
+last_modified_date: Sep 29 2023 at 04:08 PM
 ---
 
 ## Oracle Java 20
 
-[Source](https://www.oracle.com/java/technologies/downloads/#java20).
+[Source](https://www.oracle.com/java/technologies/downloads/#java20)
 
-Evergreen app: `OracleJava20`.
+Evergreen app: `OracleJava20`
 
 | Version | Sha256                                                           | Type | URI                                                                   |
 | ------- | ---------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |

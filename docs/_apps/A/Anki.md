@@ -2,16 +2,16 @@
 title: Anki
 layout: default
 nav_order: 2
-last_modified_date: Dec 28 2023 at 10:15 am
+last_modified_date: Mar 31 2024 at 10:13 AM
 ---
 
 ## Anki
 
-[Source](https://github.com/ankitects/anki/).
+[Source](https://github.com/ankitects/anki/)
 
-Evergreen app: `Anki`.
+Evergreen app: `Anki`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                      |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------- |
-| 23.12.1 | Windows  | x86          | exe  | Default       | 12/28/2023 | 125016744 | https://github.com/ankitects/anki/releases/download/23.12.1/anki-23.12.1-windows-qt5.exe |
-| 23.12.1 | Windows  | x86          | exe  | Default       | 12/28/2023 | 152151336 | https://github.com/ankitects/anki/releases/download/23.12.1/anki-23.12.1-windows-qt6.exe |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------ |
+| 24.04   | Windows  | x86          | exe  | Default       | 03/31/2024 | 125570696 | https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt5.exe |
+| 24.04   | Windows  | x86          | exe  | Default       | 03/31/2024 | 152775856 | https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt6.exe |

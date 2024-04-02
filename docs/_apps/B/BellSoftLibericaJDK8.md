@@ -2,14 +2,14 @@
 title: BellSoft Liberica JDK 8 LTS
 layout: default
 nav_order: 2
-last_modified_date: Jan 17 2024 at 08:15 pm
+last_modified_date: Jan 17 2024 at 08:15 PM
 ---
 
 ## BellSoft Liberica JDK 8 LTS
 
-[Source](https://bell-sw.com/libericajdk/).
+[Source](https://bell-sw.com/libericajdk/)
 
-Evergreen app: `BellSoftLibericaJDK8`.
+Evergreen app: `BellSoftLibericaJDK8`
 
 | Version | LTS  | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                      |
 | ------- | ---- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------- |

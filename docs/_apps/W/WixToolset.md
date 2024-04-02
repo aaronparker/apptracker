@@ -2,14 +2,14 @@
 title: WiX Toolset
 layout: default
 nav_order: 2
-last_modified_date: Mar 23 2024 at 12:25 am
+last_modified_date: Mar 23 2024 at 12:25 AM
 ---
 
 ## WiX Toolset
 
-[Source](https://wixtoolset.org/).
+[Source](https://wixtoolset.org/)
 
-Evergreen app: `WixToolset`.
+Evergreen app: `WixToolset`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------- |

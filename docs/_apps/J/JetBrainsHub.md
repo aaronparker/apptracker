@@ -2,14 +2,14 @@
 title: JetBrains Hub
 layout: default
 nav_order: 2
-last_modified_date: Sep 19 2023 at 04:11 pm
+last_modified_date: Sep 19 2023 at 04:11 PM
 ---
 
 ## JetBrains Hub
 
-[Source](https://www.jetbrains.com/hub).
+[Source](https://www.jetbrains.com/hub)
 
-Evergreen app: `JetBrainsHub`.
+Evergreen app: `JetBrainsHub`
 
 | Version | Build | Edition | Sha256                                                         | Date       | Size      | Type | URI                                                     |
 | ------- | ----- | ------- | -------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------- |

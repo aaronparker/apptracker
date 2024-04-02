@@ -2,14 +2,14 @@
 title: BellSoft Liberica JDK 20
 layout: default
 nav_order: 2
-last_modified_date: Sep 4 2023 at 12:22 am
+last_modified_date: Sep 4 2023 at 12:22 AM
 ---
 
 ## BellSoft Liberica JDK 20
 
-[Source](https://bell-sw.com/libericajdk/).
+[Source](https://bell-sw.com/libericajdk/)
 
-Evergreen app: `BellSoftLibericaJDK20`.
+Evergreen app: `BellSoftLibericaJDK20`
 
 | Version   | LTS   | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                            |
 | --------- | ----- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |

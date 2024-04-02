@@ -2,14 +2,14 @@
 title: Hashicorp Consul
 layout: default
 nav_order: 2
-last_modified_date: Mar 27 2024 at 12:29 am
+last_modified_date: Mar 27 2024 at 12:29 AM
 ---
 
 ## Hashicorp Consul
 
-[Source](https://www.consul.io/).
+[Source](https://www.consul.io/)
 
-Evergreen app: `HashicorpConsul`.
+Evergreen app: `HashicorpConsul`
 
 | Version | Type | Architecture | URI                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------- |

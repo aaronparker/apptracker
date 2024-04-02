@@ -2,14 +2,14 @@
 title: Podman Desktop
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 10:14 am
+last_modified_date: Mar 22 2024 at 10:14 AM
 ---
 
 ## Podman Desktop
 
-[Source](https://github.com/containers/podman-desktop).
+[Source](https://github.com/containers/podman-desktop)
 
-Evergreen app: `PodmanDesktop`.
+Evergreen app: `PodmanDesktop`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------------------------- |

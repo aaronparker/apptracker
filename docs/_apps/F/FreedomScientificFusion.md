@@ -2,14 +2,14 @@
 title: Freedom Scientific Fusion
 layout: default
 nav_order: 2
-last_modified_date: Mar 6 2024 at 08:18 pm
+last_modified_date: Mar 6 2024 at 08:18 PM
 ---
 
 ## Freedom Scientific Fusion
 
-[Source](https://www.freedomscientific.com/products/software/fusion/).
+[Source](https://www.freedomscientific.com/products/software/fusion/)
 
-Evergreen app: `FreedomScientificFusion`.
+Evergreen app: `FreedomScientificFusion`
 
 | Version     | Date       | URI                                                                                                                            |
 | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |

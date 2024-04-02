@@ -2,14 +2,14 @@
 title: Tor Project Tor Browser
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 08:13 pm
+last_modified_date: Mar 22 2024 at 08:13 PM
 ---
 
 ## Tor Project Tor Browser
 
-[Source](https://www.torproject.org/).
+[Source](https://www.torproject.org/)
 
-Evergreen app: `TorProjectTorBrowser`.
+Evergreen app: `TorProjectTorBrowser`
 
 | Version | Architecture | Type | Language | URI                                                                                            |
 | ------- | ------------ | ---- | -------- | ---------------------------------------------------------------------------------------------- |

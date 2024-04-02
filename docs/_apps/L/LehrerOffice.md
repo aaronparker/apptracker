@@ -2,14 +2,14 @@
 title: LehrerOffice
 layout: default
 nav_order: 2
-last_modified_date: Mar 1 2024 at 08:14 pm
+last_modified_date: Mar 1 2024 at 08:14 PM
 ---
 
 ## LehrerOffice
 
-[Source](https://lehreroffice.net/).
+[Source](https://lehreroffice.net/)
 
-Evergreen app: `LehrerOffice`.
+Evergreen app: `LehrerOffice`
 
 | Version  | Type | URI                                                           |
 | -------- | ---- | ------------------------------------------------------------- |

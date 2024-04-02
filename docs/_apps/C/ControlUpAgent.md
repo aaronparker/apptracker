@@ -2,14 +2,14 @@
 title: ControlUp Agent
 layout: default
 nav_order: 2
-last_modified_date: Mar 27 2024 at 08:14 pm
+last_modified_date: Mar 27 2024 at 08:14 PM
 ---
 
 ## ControlUp Agent
 
-[Source](https://www.controlup.com/products/controlup/agent/).
+[Source](https://www.controlup.com/products/controlup/agent/)
 
-Evergreen app: `ControlUpAgent`.
+Evergreen app: `ControlUpAgent`
 
 | Version    | Framework    | Architecture | URI                                                                                             |
 | ---------- | ------------ | ------------ | ----------------------------------------------------------------------------------------------- |

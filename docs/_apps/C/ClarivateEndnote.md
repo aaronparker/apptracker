@@ -2,14 +2,14 @@
 title: Clarivate EndNote
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 10:14 am
+last_modified_date: Mar 22 2024 at 10:14 AM
 ---
 
 ## Clarivate EndNote
 
-[Source](https://www.endnote.com/).
+[Source](https://www.endnote.com/)
 
-Evergreen app: `ClarivateEndnote`.
+Evergreen app: `ClarivateEndnote`
 
 | Version      | Release | Type | URI                                                       |
 | ------------ | ------- | ---- | --------------------------------------------------------- |

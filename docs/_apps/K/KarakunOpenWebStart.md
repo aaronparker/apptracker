@@ -2,14 +2,14 @@
 title: Karakun OpenWebStart
 layout: default
 nav_order: 2
-last_modified_date: Dec 21 2023 at 08:15 pm
+last_modified_date: Dec 21 2023 at 08:15 PM
 ---
 
 ## Karakun OpenWebStart
 
-[Source](https://openwebstart.com/ows/).
+[Source](https://openwebstart.com/ows/)
 
-Evergreen app: `KarakunOpenWebStart`.
+Evergreen app: `KarakunOpenWebStart`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                 |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |

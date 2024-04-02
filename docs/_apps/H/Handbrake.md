@@ -2,14 +2,14 @@
 title: Handbrake
 layout: default
 nav_order: 2
-last_modified_date: Feb 11 2024 at 08:14 pm
+last_modified_date: Feb 11 2024 at 08:14 PM
 ---
 
 ## Handbrake
 
-[Source](https://handbrake.fr/).
+[Source](https://handbrake.fr/)
 
-Evergreen app: `Handbrake`.
+Evergreen app: `Handbrake`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                               |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: Slack
 layout: default
 nav_order: 2
-last_modified_date: Mar 23 2024 at 12:25 am
+last_modified_date: Mar 23 2024 at 12:25 AM
 ---
 
 ## Slack
 
-[Source](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer).
+[Source](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
 
-Evergreen app: `Slack`.
+Evergreen app: `Slack`
 
 | Version | Platform   | Architecture | URI                                                                                                   |
 | ------- | ---------- | ------------ | ----------------------------------------------------------------------------------------------------- |

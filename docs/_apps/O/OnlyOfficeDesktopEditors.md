@@ -2,14 +2,14 @@
 title: ONLYOFFICE Desktop Editors
 layout: default
 nav_order: 2
-last_modified_date: Feb 26 2024 at 08:14 pm
+last_modified_date: Feb 26 2024 at 08:14 PM
 ---
 
 ## ONLYOFFICE Desktop Editors
 
-[Source](https://www.onlyoffice.com/desktop.aspx).
+[Source](https://www.onlyoffice.com/desktop.aspx)
 
-Evergreen app: `OnlyOfficeDesktopEditors`.
+Evergreen app: `OnlyOfficeDesktopEditors`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                             |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ----------------------------------------------------------------------------------------------- |

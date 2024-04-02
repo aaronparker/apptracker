@@ -2,14 +2,14 @@
 title: Zoom Plugins for VDI
 layout: default
 nav_order: 2
-last_modified_date: Mar 18 2024 at 08:15 pm
+last_modified_date: Mar 18 2024 at 08:15 PM
 ---
 
 ## Zoom Plugins for VDI
 
-[Source](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads).
+[Source](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)
 
-Evergreen app: `ZoomVDI`.
+Evergreen app: `ZoomVDI`
 
 | Version | Platform  | Installer | Size      | Type | Architecture | URI                                                            |
 | ------- | --------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------- |

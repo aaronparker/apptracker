@@ -2,14 +2,14 @@
 title: Foxit Reader
 layout: default
 nav_order: 2
-last_modified_date: Mar 5 2024 at 08:15 pm
+last_modified_date: Mar 5 2024 at 08:15 PM
 ---
 
 ## Foxit Reader
 
-[Source](https://www.foxitsoftware.com/pdf-reader/).
+[Source](https://www.foxitsoftware.com/pdf-reader/)
 
-Evergreen app: `FoxitReader`.
+Evergreen app: `FoxitReader`
 
 | Version        | Date       | Language           | URI                                                                                                    |
 | -------------- | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------ |

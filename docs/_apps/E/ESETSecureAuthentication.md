@@ -2,14 +2,14 @@
 title: ESET Secure Authentication
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## ESET Secure Authentication
 
-[Source](https://www.eset.com/au/business/download/secure-authentication/).
+[Source](https://www.eset.com/au/business/download/secure-authentication/)
 
-Evergreen app: `ESETSecureAuthentication`.
+Evergreen app: `ESETSecureAuthentication`
 
 | Version  | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                            |
 | -------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------- |

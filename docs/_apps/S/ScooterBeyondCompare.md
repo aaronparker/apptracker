@@ -2,14 +2,14 @@
 title: Scooter Beyond Compare
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## Scooter Beyond Compare
 
-[Source](https://scootersoftware.com/).
+[Source](https://scootersoftware.com/)
 
-Evergreen app: `ScooterBeyondCompare`.
+Evergreen app: `ScooterBeyondCompare`
 
 | Version     | Language | URI                                                      |
 | ----------- | -------- | -------------------------------------------------------- |
