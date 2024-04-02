@@ -2,7 +2,7 @@
 title: Master Packager
 layout: default
 nav_order: 2
-last_modified_date: Mar 22 2024 at 10:14 AM
+last_modified_date: Apr 2 2024 at 12:16 PM
 ---
 
 ## Master Packager
@@ -13,4 +13,4 @@ Evergreen app: `MasterPackager`
 
 | Version   | Type | URI                                                                   |
 | --------- | ---- | --------------------------------------------------------------------- |
-| 24.2.8812 | Free | https://www.masterpackager.com/installer/masterpackager_24.2.8812.msi |
+| 24.3.8858 | Free | https://www.masterpackager.com/installer/masterpackager_24.3.8858.msi |

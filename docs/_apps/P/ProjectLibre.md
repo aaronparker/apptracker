@@ -2,7 +2,7 @@
 title: ProjectLibre
 layout: default
 nav_order: 2
-last_modified_date: Apr 2 2024 at 12:27 AM
+last_modified_date: Apr 2 2024 at 12:16 PM
 ---
 
 ## ProjectLibre
@@ -11,6 +11,6 @@ last_modified_date: Apr 2 2024 at 12:27 AM
 
 Evergreen app: `ProjectLibre`
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://psychz.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | https://cfhcable.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe |

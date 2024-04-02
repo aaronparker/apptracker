@@ -2,7 +2,7 @@
 title: Google Chrome Enterprise
 layout: default
 nav_order: 2
-last_modified_date: Apr 2 2024 at 12:27 AM
+last_modified_date: Apr 2 2024 at 12:16 PM
 ---
 
 ## Google Chrome Enterprise
@@ -13,7 +13,7 @@ Evergreen app: `GoogleChrome`
 
 | Version        | Architecture | Channel  | Type | URI                                                                                     |
 | -------------- | ------------ | -------- | ---- | --------------------------------------------------------------------------------------- |
-| 125.0.6393.0   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
+| 125.0.6394.0   | x86          | canary   | exe  | https://dl.google.com/update2/installers/ChromeSetup.exe                                |
 | 125.0.6382.3   | x64          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi   |
 | 125.0.6382.3   | x86          | dev      | msi  | https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi     |
 | 124.0.6367.18  | x64          | beta     | msi  | https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi |
