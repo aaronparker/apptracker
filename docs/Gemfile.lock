@@ -144,6 +144,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (>= 2.3.5)
   html-proofer (~> 5.0)
+  jekyll (~> 4.3.3)
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
   just-the-docs!
