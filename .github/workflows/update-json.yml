@@ -386,17 +386,15 @@ jobs:
       - name: Install modules
         shell: pwsh
         run: |
-          Install-Module -Name "Evergreen" -Force
+          Install-Module -Name "Evergreen", "MarkdownPS" -Force
 
       - name: Generate report
         shell: pwsh
         run: |
           $params = @{
-            Path           = "${{ github.workspace }}/json"
-            UpdatesAlpha   = "${{ github.workspace }}/docs/name.md"
-            UpdatesDate    = "${{ github.workspace }}/docs/index.md"
-            AppsFile       = "${{ github.workspace }}/docs/apps.md"
-            AboutFile      = "${{ github.workspace }}/docs/about.md"
+            JsonPath       = "${{ github.workspace }}/json"
+            OutputPath     = "${{ github.workspace }}/docs/_apps"
+            IndexFile      = "${{ github.workspace }}/docs/index.md"
             LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
           }
           . "${{ github.workspace }}/scripts/New-Report.ps1" @params

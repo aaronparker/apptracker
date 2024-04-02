@@ -32,9 +32,9 @@ jobs:
             git pull origin main
 
         - name: Install modules
-          shell: powershell
+          shell: pwsh
           run: |
-            Install-Module -Name "Evergreen" -Force
+            Install-Module -Name "Evergreen", "MarkdownPS" -Force
 
         - name: Generate report
           shell: pwsh
