@@ -1,0 +1,132 @@
+---
+title: ESET Endpoint Antivirus
+layout: default
+nav_order: 2
+last_modified_date: Dec 7 2023 at 04:11 pm
+---
+
+## ESET Endpoint Antivirus
+
+[Source](https://www.eset.com/au/business/solutions/endpoint-protection/).
+
+Evergreen app: `ESETEndpointAntivirus`.
+
+| Version     | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                      |
+| ----------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------- |
+| 11.0.2032.1 | 216469504 | 38a2698af809b3eea9524ef6ec85cc6b1709e02d | ja_JP    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.1/eea_arm64_full.msi     |
+| 11.0.2032.1 | 246898688 | 4b5746b8d3adf30881711fb3d4922dde9e04f3eb | ja_JP    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.1/eea_nt64_full.msi      |
+| 11.0.2032.1 | 241614848 | e70510931a9588918dc67669a54660db14bd5914 | ja_JP    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.1/eea_nt32_full.msi      |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | ar_EG    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_are.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | bg_BG    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_bgr.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | cs_CZ    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_csy.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | da_DK    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_dan.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | de_DE    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_deu.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | el_GR    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_ell.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | en_US    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_enu.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | es_CL    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_esl.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | es_ES    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_esn.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | et_EE    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_eti.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | fi_FI    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_fin.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | fr_CA    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_frc.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | fr_FR    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_fra.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | he_IL    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_heb.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | hr_HR    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_hrv.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | hu_HU    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_hun.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | id_ID    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_ind.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | it_IT    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_ita.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | kk_KZ    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_kkz.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | ko_KR    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_kor.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | lt_LT    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_lth.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | lv_LV    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_lvi.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | nb_NO    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_nor.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | nl_NL    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_nld.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | pl_PL    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_plk.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | pt_BR    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_ptb.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | ro_RO    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_rom.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | ru_RU    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_rus.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | sk_SK    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_sky.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | sl_SI    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_slv.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | sr_RS    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_srl.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | sv_SE    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_sve.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | th_TH    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_tha.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | tr_TR    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_trk.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | uk_UA    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_ukr.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | vi_VN    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_vit.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | zh_CN    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_chs.msi |
+| 11.0.2032.0 | 216334336 | fd7b7274afb61283639f3ea321293007c2c449eb | zh_TW    | ARM64        | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_arm64_full_cht.msi |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | ar_EG    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_are.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | bg_BG    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_bgr.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | cs_CZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_csy.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | da_DK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_dan.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | de_DE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_deu.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | el_GR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_ell.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | en_US    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_enu.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | es_CL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_esl.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | es_ES    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_esn.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | et_EE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_eti.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | fi_FI    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_fin.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | fr_CA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_frc.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | fr_FR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_fra.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | he_IL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_heb.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | hr_HR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_hrv.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | hu_HU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_hun.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | id_ID    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_ind.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | it_IT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_ita.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | kk_KZ    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_kkz.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | ko_KR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_kor.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | lt_LT    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_lth.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | lv_LV    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_lvi.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | nb_NO    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_nor.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | nl_NL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_nld.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | pl_PL    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_plk.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | pt_BR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_ptb.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | ro_RO    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_rom.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | ru_RU    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_rus.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | sk_SK    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_sky.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | sl_SI    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_slv.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | sr_RS    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_srl.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | sv_SE    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_sve.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | th_TH    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_tha.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | tr_TR    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_trk.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | uk_UA    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_ukr.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | vi_VN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_vit.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | zh_CN    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_chs.msi  |
+| 11.0.2032.0 | 246505472 | 71af4b01f6231aa3150325e7b06c2d5273a78e44 | zh_TW    | x64          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt64_full_cht.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | ar_EG    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_are.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | bg_BG    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_bgr.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | cs_CZ    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_csy.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | da_DK    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_dan.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | de_DE    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_deu.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | el_GR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_ell.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | en_US    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_enu.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | es_CL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_esl.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | es_ES    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_esn.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | et_EE    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_eti.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | fi_FI    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_fin.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | fr_CA    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_frc.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | fr_FR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_fra.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | he_IL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_heb.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | hr_HR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_hrv.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | hu_HU    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_hun.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | id_ID    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_ind.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | it_IT    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_ita.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | kk_KZ    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_kkz.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | ko_KR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_kor.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | lt_LT    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_lth.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | lv_LV    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_lvi.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | nb_NO    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_nor.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | nl_NL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_nld.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | pl_PL    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_plk.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | pt_BR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_ptb.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | ro_RO    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_rom.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | ru_RU    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_rus.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | sk_SK    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_sky.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | sl_SI    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_slv.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | sr_RS    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_srl.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | sv_SE    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_sve.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | th_TH    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_tha.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | tr_TR    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_trk.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | uk_UA    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_ukr.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | vi_VN    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_vit.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | zh_CN    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_chs.msi  |
+| 11.0.2032.0 | 241291264 | 65413bdf7f142792bbb9d3410e933bb821780d95 | zh_TW    | x86          | msi  | https://repository.eset.com/v1/com/eset/apps/business/eea/windows/v11/11.0.2032.0/eea_nt32_full_cht.msi  |

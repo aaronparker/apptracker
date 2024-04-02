@@ -40,4 +40,6 @@ Thumbs.db
 ######################
 .vs/**
 
+# Jekyll files
 package-lock.json
+/docs/_site/**

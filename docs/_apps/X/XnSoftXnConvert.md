@@ -1,0 +1,17 @@
+---
+title: XnSoft Convert
+layout: default
+nav_order: 2
+last_modified_date: Feb 29 2024 at 08:14 pm
+---
+
+## XnSoft Convert
+
+[Source](https://www.xnview.com/en/xnconvert/).
+
+Evergreen app: `XnSoftXnConvert`.
+
+| Version | Architecture | Type | URI                                               |
+| ------- | ------------ | ---- | ------------------------------------------------- |
+| 1.100   | x64          | exe  | https://download.xnview.com/XnConvert-win-x64.exe |
+| 1.100   | x86          | exe  | https://download.xnview.com/XnConvert-win.exe     |

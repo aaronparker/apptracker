@@ -8,7 +8,7 @@ env:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 */10 * * *"
+    - cron: "5 */12 * * *"
 
 jobs:
   update-pwsh:
