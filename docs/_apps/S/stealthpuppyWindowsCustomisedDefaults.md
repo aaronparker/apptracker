@@ -2,14 +2,14 @@
 title: stealthpuppy Windows Customised Defaults
 layout: default
 nav_order: 2
-last_modified_date: Oct 1 2023 at 08:09 am
+last_modified_date: Oct 1 2023 at 08:09 AM
 ---
 
 ## stealthpuppy Windows Customised Defaults
 
-[Source](https://stealthpuppy.com/image-customise/).
+[Source](https://stealthpuppy.com/image-customise/)
 
-Evergreen app: `stealthpuppyWindowsCustomisedDefaults`.
+Evergreen app: `stealthpuppyWindowsCustomisedDefaults`
 
 | Version     | Platform | Architecture | Type      | InstallerType | Date       | Size  | URI                                                                                                      |
 | ----------- | -------- | ------------ | --------- | ------------- | ---------- | ----- | -------------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: dnGrep
 layout: default
 nav_order: 2
-last_modified_date: Mar 13 2024 at 12:30 am
+last_modified_date: Mar 13 2024 at 12:30 AM
 ---
 
 ## dnGrep
 
-[Source](https://dngrep.github.io/).
+[Source](https://dngrep.github.io/)
 
-Evergreen app: `dnGrep`.
+Evergreen app: `dnGrep`
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                  |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------ |

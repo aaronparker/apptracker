@@ -2,14 +2,14 @@
 title: jq
 layout: default
 nav_order: 2
-last_modified_date: Dec 13 2023 at 08:15 pm
+last_modified_date: Dec 13 2023 at 08:15 PM
 ---
 
 ## jq
 
-[Source](https://jqlang.github.io/jq/).
+[Source](https://jqlang.github.io/jq/)
 
-Evergreen app: `jq`.
+Evergreen app: `jq`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------- |

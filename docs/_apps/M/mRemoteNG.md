@@ -2,14 +2,14 @@
 title: mRemoteNG
 layout: default
 nav_order: 2
-last_modified_date: Dec 12 2023 at 12:28 am
+last_modified_date: Dec 12 2023 at 12:28 AM
 ---
 
 ## mRemoteNG
 
-[Source](https://mremoteng.org/).
+[Source](https://mremoteng.org/)
 
-Evergreen app: `mRemoteNG`.
+Evergreen app: `mRemoteNG`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                     |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,14 @@
 title: deviceTRUST
 layout: default
 nav_order: 2
-last_modified_date: Dec 18 2023 at 10:15 am
+last_modified_date: Dec 18 2023 at 10:15 AM
 ---
 
 ## deviceTRUST
 
-[Source](https://devicetrust.com/).
+[Source](https://devicetrust.com/)
 
-Evergreen app: `deviceTRUST`.
+Evergreen app: `deviceTRUST`
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                              |
 | ---------- | -------- | ------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |

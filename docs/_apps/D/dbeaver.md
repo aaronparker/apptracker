@@ -2,14 +2,14 @@
 title: dbeaver
 layout: default
 nav_order: 2
-last_modified_date: Mar 24 2024 at 08:14 pm
+last_modified_date: Mar 24 2024 at 08:14 PM
 ---
 
 ## dbeaver
 
-[Source](https://github.com/dbeaver/dbeaver).
+[Source](https://github.com/dbeaver/dbeaver)
 
-Evergreen app: `dbeaver`.
+Evergreen app: `dbeaver`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
