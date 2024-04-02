@@ -136,7 +136,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2024 Aaron Parker."
+footer_content: "Copyright &copy; 2024 Aaron Parker. Evergreen App Tracker v2.0"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
