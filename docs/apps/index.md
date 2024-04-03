@@ -1,7 +1,7 @@
 ---
 title: Apps
 layout: default
-hide_toc: true
+nav_exclude: true
 ---
 # Apps
 
