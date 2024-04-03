@@ -1,57 +1,57 @@
 [
   {
-    "Version": "24.001.20631",
+    "Version": "24.001.20643",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120631/AcroRdrDCx64Upd2400120631_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120643/AcroRdrDCx64Upd2400120643_MUI.msp"
   },
   {
-    "Version": "24.001.20631",
+    "Version": "24.001.20643",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120631/AcrobatDCx64Upd2400120631.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120643/AcrobatDCx64Upd2400120643.msp"
   },
   {
-    "Version": "24.001.20631",
+    "Version": "24.001.20643",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120631/AcroRdrDCx64Upd2400120631.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120643/AcroRdrDCx64Upd2400120643.msp"
   },
   {
-    "Version": "24.001.20631",
+    "Version": "24.001.20643",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400120631/AcroRdrDCUpd2400120631_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400120643/AcroRdrDCUpd2400120643_MUI.msp"
   },
   {
-    "Version": "24.001.20631",
+    "Version": "24.001.20643",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120631/AcrobatDCUpd2400120631.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400120643/AcrobatDCUpd2400120643.msp"
   },
   {
-    "Version": "24.001.20631",
+    "Version": "24.001.20643",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400120631/AcroRdrDCUpd2400120631.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400120643/AcroRdrDCUpd2400120643.msp"
   },
   {
     "Version": "20.005.30574",
