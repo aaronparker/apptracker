@@ -40,7 +40,7 @@ if (Test-Path -Path $LastUpdateFile) {
 
 foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
 
-    $ChildPath = Join-Path -Path $OutputPath -ChildPath $File.Name.Substring(0, 1)
+    $ChildPath = Join-Path -Path $OutputPath -ChildPath $($File.Name.Substring(0, 1).ToLower())
     New-Item -Path $ChildPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
 
     $App = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName }
@@ -58,9 +58,10 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $Markdown += "[Source]($($App.Link))`n`nEvergreen app: ``$($File.BaseName)``"
     $Markdown += "`n`n"
 
-    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | New-MDTable
+    # Add a table to the markdown for the data from the JSON
+    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | ForEach-Object { $_.URI = "[$($_.URI)]($($_.URI))"; $_ } | New-MDTable
     $Markdown += $Table
-    $Markdown | Out-File -FilePath $(Join-Path -Path $ChildPath -ChildPath "$($File.BaseName).md") -Force -Encoding "Utf8" -NoNewline
+    $Markdown | Out-File -FilePath $(Join-Path -Path $ChildPath -ChildPath "$($File.BaseName.ToLower()).md") -Force -Encoding "Utf8" -NoNewline
 
     $UniqueAppsCount += (Get-Content -Path $File.FullName | ConvertFrom-Json).Count
 }
@@ -89,6 +90,6 @@ App Tracker is using [Evergreen](https://stealthpuppy.com/evergreen/) to track $
 
 $Markdown = $About
 $Markdown += "`n`n"
-$Markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | New-MDTable
+$Markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | ForEach-Object { $_.Link = "[$($_.Link)]($($_.Link))"; $_ } | New-MDTable
 $Markdown | Out-File -FilePath $IndexFile -Force -Encoding "Utf8" -NoNewline
 #endregion

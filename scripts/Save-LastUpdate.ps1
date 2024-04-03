@@ -63,7 +63,7 @@ if (Test-Path -Path $UpdateFile) {
 
             # If $Index = -1, then the application is new
             if ($Index -eq -1) {
-                Write-Host "Add item and date for: $update."
+                # Write-Host "Add item and date for: $update."
                 $NewItem = [PSCustomObject]@{
                     Name          = $($update -replace "json/", "")
                     LastWriteTime = $(Get-Date -Format $Format)
