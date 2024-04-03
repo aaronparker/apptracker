@@ -38,6 +38,10 @@ if (Test-Path -Path $LastUpdateFile) {
     $LastUpdates = Get-Content -Path $LastUpdateFile | ConvertFrom-Csv
 }
 
+# Remove the _apps folder, so that we get clean content
+Remove-Item -Path $OutputPath -Recurse -Force -ErrorAction "Stop"
+New-Item -Path $OutputPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
+
 foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
 
     $ChildPath = Join-Path -Path $OutputPath -ChildPath $($File.Name.Substring(0, 1).ToLower())
