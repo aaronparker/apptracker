@@ -2,7 +2,7 @@
 title: Microsoft Visual Studio Code
 layout: default
 nav_order: 2
-last_modified_date: Apr 2 2024 at 12:16 PM
+last_modified_date: Apr 3 2024 at 12:28 AM
 ---
 
 ## Microsoft Visual Studio Code
@@ -13,10 +13,10 @@ Evergreen app: `MicrosoftVisualStudioCode`
 
 | Version | Platform         | Channel | Architecture | Sha256                                                           | URI                                                                                                                                                   |
 | ------- | ---------------- | ------- | ------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.88.0  | win32-arm64      | Insider | ARM64        | e814bfe95c5c9b81135fff42cfdfb7dc18a91da9e8ebf46d2c27bcaf0a51bf26 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b831801945400c785b138698d9df9896ced796b7/VSCodeSetup-arm64-1.88.0-insider.exe     |
-| 1.88.0  | win32-arm64-user | Insider | ARM64        | c88be151fe1b15a705a9d22ded6cd0e73c88807fd2ad561da0d0359850fdddfe | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b831801945400c785b138698d9df9896ced796b7/VSCodeUserSetup-arm64-1.88.0-insider.exe |
-| 1.88.0  | win32-x64        | Insider | x64          | 31bb6270cd7070efa67340fbb8a2f2750007d22f186d0ee579f15128b0aba181 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b831801945400c785b138698d9df9896ced796b7/VSCodeSetup-x64-1.88.0-insider.exe       |
-| 1.88.0  | win32-x64-user   | Insider | x64          | eb4c86d01329fcf03d31d095751c1e1a36babad4081a449a3d60578987a312a0 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/b831801945400c785b138698d9df9896ced796b7/VSCodeUserSetup-x64-1.88.0-insider.exe   |
+| 1.88.0  | win32-arm64      | Insider | ARM64        | 855e333a8efe1dce78eb2095e753c399c4cb59a7a67c3a8e5657f1c542035668 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ae59067554575afaba07640320a26435c8e05175/VSCodeSetup-arm64-1.88.0-insider.exe     |
+| 1.88.0  | win32-arm64-user | Insider | ARM64        | 13a5c4ea3cbed50ffa4bcb2709520ce82003044950fd262edfd259dcbcc4533a | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ae59067554575afaba07640320a26435c8e05175/VSCodeUserSetup-arm64-1.88.0-insider.exe |
+| 1.88.0  | win32-x64        | Insider | x64          | 80572570d3021ca19f9db375d016063058f0f2ec72d02d83f29a9e3e02e5d42c | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ae59067554575afaba07640320a26435c8e05175/VSCodeSetup-x64-1.88.0-insider.exe       |
+| 1.88.0  | win32-x64-user   | Insider | x64          | 3d7096430a72ef8418969d1a9ff59e38bbb09de2884933d72ac1ae3b650fd584 | https://vscode.download.prss.microsoft.com/dbazure/download/insider/ae59067554575afaba07640320a26435c8e05175/VSCodeUserSetup-x64-1.88.0-insider.exe   |
 | 1.87.2  | win32-arm64      | Stable  | ARM64        | 63178497481ddf816396566904e99b4b3a817637f1c9170255fa294babed9f79 | https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeSetup-arm64-1.87.2.exe              |
 | 1.87.2  | win32-arm64-user | Stable  | ARM64        | c91bd092b71c3d948bb8f32fc5f83e454f4ec90eee7b0e9cf58decf880fea54e | https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeUserSetup-arm64-1.87.2.exe          |
 | 1.87.2  | win32-x64        | Stable  | x64          | c49f51562a99e19412d968a81ad653960c4861e95f7cd04e49e15c42e139a9ee | https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeSetup-x64-1.87.2.exe                |
