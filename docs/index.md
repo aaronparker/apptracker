@@ -1,20 +1,18 @@
 ---
-title: About
+title: Home
 layout: default
 nav_order: 1
 ---
 # Evergreen App Tracker
 
-This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
+This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
-Updates are posted every 12 hours. Last generated date: `Wednesday 03/04/2024 02:14 +00:00 Etc/UTC`.
-
-A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
+{: .highlight }
+> Updates are posted every 12 hours. Last generated: `Wednesday 03/04/2024 12:17 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://stealthpuppy.com/evergreen/) to track 309 applications and 3641 unique application installers:
-
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **309** applications and **3641** unique application installers.
 
 | Application                                                       | Link                                                                                                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
