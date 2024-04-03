@@ -43,4 +43,4 @@ Thumbs.db
 # Jekyll files
 package-lock.json
 /docs/_site/**
-/docs/_apps/**
+# /docs/_apps/**
