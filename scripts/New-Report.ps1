@@ -22,8 +22,19 @@ $DefaultLayout = @"
 title: #Title
 layout: default
 nav_order: 2
+parent: #ParentTitle
 last_modified_date: #Date
 ---
+"@
+
+$AppIndex = @"
+---
+title: #ParentTitle
+layout: default
+nav_exclude: false
+has_children: true
+---
+# #ParentTitle
 "@
 
 # Install modules
@@ -44,9 +55,13 @@ New-Item -Path $OutputPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
 
 foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
 
+    # Creates a new directory for a report and generates an index file inside the directory
+    # The index file is named "index.md" and its content is based on the first letter of the file name.
     $ChildPath = Join-Path -Path $OutputPath -ChildPath $($File.Name.Substring(0, 1).ToLower())
-    New-Item -Path $ChildPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
+    New-Item -Path $ChildPath -ItemType "Directory" -ErrorAction "SilentlyContinue" | Out-Null
+    Set-Content -Path (Join-Path -Path $ChildPath -ChildPath "index.md") -Value ($AppIndex -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()) -Force -Encoding "Utf8" -NoNewline
 
+    # Get the Evergreen app object
     $App = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName }
 
     # Convert the date to a long date for readability for all regions
@@ -55,7 +70,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $ConvertedDateTime = [System.DateTime]::ParseExact($LastWriteTime, "d/M/yyyy h:mm:s tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
 
     # Update front matter
-    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt"))
+    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt")) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
     $Markdown += "`n`n"
     $Markdown += New-MDHeader -Text "$($App.Application)" -Level 2
     $Markdown += "`n"
@@ -67,6 +82,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $Markdown += $Table
     $Markdown | Out-File -FilePath $(Join-Path -Path $ChildPath -ChildPath "$($File.BaseName.ToLower()).md") -Force -Encoding "Utf8" -NoNewline
 
+    # Update the count of unique apps
     $UniqueAppsCount += (Get-Content -Path $File.FullName | ConvertFrom-Json).Count
 }
 #endregion
@@ -74,22 +90,20 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
 #region Update the about page
 $About = @"
 ---
-title: About
+title: Home
 layout: default
 nav_order: 1
 ---
 # Evergreen App Tracker
 
-This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module.
+This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
-Updates are posted every 12 hours. Last generated date: ``$(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id)``.
-
-A project by [@stealthpuppy](https://twitter.com/stealthpuppy).
+{: .highlight }
+> Updates are posted every 12 hours. Last generated: ``$(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id)``.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://stealthpuppy.com/evergreen/) to track $((Find-EvergreenApp).Count) applications and $UniqueAppsCount unique application installers:
-
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **$((Find-EvergreenApp).Count)** applications and **$UniqueAppsCount** unique application installers.
 "@
 
 $Markdown = $About
