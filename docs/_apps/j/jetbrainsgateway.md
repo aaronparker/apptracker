@@ -3,7 +3,7 @@ title: JetBrains Gateway
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Feb 15 2024 at 08:14 PM
+last_modified_date: Apr 4 2024 at 12:17 PM
 ---
 
 ## JetBrains Gateway
@@ -12,6 +12,6 @@ last_modified_date: Feb 15 2024 at 08:14 PM
 
 Evergreen app: `JetBrainsGateway`
 
-| Version  | Build        | Edition | Sha256                                                                           | Date       | Size      | Type | URI                                                                                                                                                    |
-| -------- | ------------ | ------- | -------------------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2023.3.4 | 233.14475.30 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.4.exe.sha256 | 02/15/2024 | 192062272 | exe  | [https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.4.exe](https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.4.exe) |
+| Version | Build         | Edition | Sha256                                                                         | Date       | Size      | Type | URI                                                                                                                                                |
+| ------- | ------------- | ------- | ------------------------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.1  | 241.14494.255 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe.sha256 | 04/04/2024 | 205421560 | exe  | [https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe](https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe) |

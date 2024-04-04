@@ -3,7 +3,7 @@ title: JetBrains GoLand
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Mar 22 2024 at 12:27 AM
+last_modified_date: Apr 4 2024 at 12:17 PM
 ---
 
 ## JetBrains GoLand
@@ -12,6 +12,6 @@ last_modified_date: Mar 22 2024 at 12:27 AM
 
 Evergreen app: `JetBrainsGoLand`
 
-| Version  | Build        | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                                                                            |
-| -------- | ------------ | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2023.3.6 | 233.15026.17 | GoLand  | https://download.jetbrains.com/go/goland-2023.3.6.exe.sha256 | 03/21/2024 | 499586632 | exe  | [https://download.jetbrains.com/go/goland-2023.3.6.exe](https://download.jetbrains.com/go/goland-2023.3.6.exe) |
+| Version | Build         | Edition | Sha256                                                     | Date       | Size      | Type | URI                                                                                                        |
+| ------- | ------------- | ------- | ---------------------------------------------------------- | ---------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------- |
+| 2024.1  | 241.14494.238 | GoLand  | https://download.jetbrains.com/go/goland-2024.1.exe.sha256 | 04/04/2024 | 676105704 | exe  | [https://download.jetbrains.com/go/goland-2024.1.exe](https://download.jetbrains.com/go/goland-2024.1.exe) |
