@@ -16,3 +16,12 @@ json/VeraCrypt.json
 json/VideoLanVlcPlayer.json
 json/WinSCP.json
 json/gretl.json
+json/1Password.json
+json/7zip.json
+json/AWSCLI.json
+json/GitHubDesktop.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdRemoteDesktop.json
+json/NodeJs.json
+json/SAGAGIS.json
+json/TeamViewer.json
