@@ -3,7 +3,7 @@ title: Beekeeper Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Mar 29 2024 at 08:14 PM
+last_modified_date: Apr 5 2024 at 12:27 AM
 ---
 
 ## Beekeeper Studio
@@ -12,7 +12,7 @@ last_modified_date: Mar 29 2024 at 08:14 PM
 
 Evergreen app: `BeekeeperStudio`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4.1.13  | Windows  | x86          | exe  | Portable      | 01/17/2024 | 71904176 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.1.13/Beekeeper-Studio-4.1.13-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.1.13/Beekeeper-Studio-4.1.13-portable.exe) |
-| 4.1.13  | Windows  | x86          | exe  | Default       | 01/17/2024 | 72067168 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.1.13/Beekeeper-Studio-Setup-4.1.13.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.1.13/Beekeeper-Studio-Setup-4.1.13.exe)       |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                    |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.2.8   | Windows  | x86          | exe  | Portable      | 04/04/2024 | 72391976 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-4.2.8-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-4.2.8-portable.exe) |
+| 4.2.8   | Windows  | x86          | exe  | Default       | 04/04/2024 | 72554952 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-Setup-4.2.8.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-Setup-4.2.8.exe)       |
