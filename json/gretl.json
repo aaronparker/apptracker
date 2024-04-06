@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2023c",
+    "Version": "2024a",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "38515520",
-    "Md5": "4983735b68352bae0bc8b8de47155fc6",
-    "URI": "https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-64.exe"
+    "Size": "38622048",
+    "Md5": "1110e558b04334bac7cc36d570436d22",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe"
   },
   {
-    "Version": "2023c",
+    "Version": "2024a",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "34545216",
-    "Md5": "da3fec1657f61e4c3b9336cbb00657ec",
-    "URI": "https://gigenet.dl.sourceforge.net/project/gretl/gretl/2023c/gretl-2023c-32.exe"
+    "Size": "34653680",
+    "Md5": "9edb3cc3b744838aea90e6a121b0f400",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe"
   }
 ]
