@@ -3,7 +3,7 @@ title: Dan Pristupov Fork
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: Mar 1 2024 at 08:14 PM
+last_modified_date: Apr 6 2024 at 12:29 AM
 ---
 
 ## Dan Pristupov Fork
@@ -14,4 +14,4 @@ Evergreen app: `Fork`
 
 | Version | URI                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------- |
-| 1.95.0  | [https://fork.dev/update/win/ForkInstaller.exe](https://fork.dev/update/win/ForkInstaller.exe) |
+| 1.96.0  | [https://fork.dev/update/win/ForkInstaller.exe](https://fork.dev/update/win/ForkInstaller.exe) |

@@ -3,7 +3,7 @@ title: Beekeeper Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Apr 5 2024 at 12:27 AM
+last_modified_date: Apr 6 2024 at 12:29 AM
 ---
 
 ## Beekeeper Studio
@@ -14,5 +14,5 @@ Evergreen app: `BeekeeperStudio`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.2.8   | Windows  | x86          | exe  | Portable      | 04/04/2024 | 72391976 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-4.2.8-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-4.2.8-portable.exe) |
-| 4.2.8   | Windows  | x86          | exe  | Default       | 04/04/2024 | 72554952 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-Setup-4.2.8.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.8/Beekeeper-Studio-Setup-4.2.8.exe)       |
+| 4.2.9   | Windows  | x86          | exe  | Portable      | 04/05/2024 | 72392456 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-4.2.9-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-4.2.9-portable.exe) |
+| 4.2.9   | Windows  | x86          | exe  | Default       | 04/05/2024 | 72555440 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-Setup-4.2.9.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-Setup-4.2.9.exe)       |

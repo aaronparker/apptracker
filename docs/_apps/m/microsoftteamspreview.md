@@ -3,7 +3,7 @@ title: Microsoft Teams 2 Preview
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Mar 27 2024 at 08:14 PM
+last_modified_date: Apr 6 2024 at 12:29 AM
 ---
 
 ## Microsoft Teams 2 Preview
@@ -14,8 +14,8 @@ Evergreen app: `MicrosoftTeamsPreview`
 
 | Version              | Release    | Architecture | Type | URI                                                                                                                                                                                                                      |
 | -------------------- | ---------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 24046.2813.2770.1094 | Consumer   | macOS        | pkg  | [https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg](https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg)                               |
-| 24046.2813.2770.1094 | Enterprise | macOS        | pkg  | [https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg](https://statics.teams.cdn.office.net/production-osx/24046.2813.2770.1094/MicrosoftTeams.pkg)                               |
+| 24060.2809.2788.1256 | Consumer   | macOS        | pkg  | [https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg](https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg)                               |
+| 24060.2809.2788.1256 | Enterprise | macOS        | pkg  | [https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg](https://statics.teams.cdn.office.net/production-osx/24060.2809.2788.1256/MicrosoftTeams.pkg)                               |
 | 24033.813.2773.520   | Consumer   | arm64        | msix | [https://statics.teams.cdn.office.net/production-windows-arm64/24033.813.2773.520/MicrosoftTeams-arm64.msix](https://statics.teams.cdn.office.net/production-windows-arm64/24033.813.2773.520/MicrosoftTeams-arm64.msix) |
 | 24033.813.2773.520   | Enterprise | arm64        | msix | [https://statics.teams.cdn.office.net/production-windows-arm64/24033.813.2773.520/MSTeams-arm64.msix](https://statics.teams.cdn.office.net/production-windows-arm64/24033.813.2773.520/MSTeams-arm64.msix)               |
 | 24033.813.2773.520   | Consumer   | x64          | msix | [https://statics.teams.cdn.office.net/production-windows-x64/24033.813.2773.520/MicrosoftTeams-x64.msix](https://statics.teams.cdn.office.net/production-windows-x64/24033.813.2773.520/MicrosoftTeams-x64.msix)         |
