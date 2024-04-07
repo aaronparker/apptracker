@@ -3,7 +3,7 @@ title: gretl
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Apr 7 2024 at 12:30 AM
+last_modified_date: Apr 7 2024 at 12:12 PM
 ---
 
 ## gretl
@@ -12,7 +12,7 @@ last_modified_date: Apr 7 2024 at 12:30 AM
 
 Evergreen app: `gretl`
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                      |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2024a   | x64          | exe  | 38622048 | 1110e558b04334bac7cc36d570436d22 | [https://netactuate.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe](https://netactuate.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe) |
-| 2024a   | x86          | exe  | 34653680 | 9edb3cc3b744838aea90e6a121b0f400 | [https://netactuate.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe](https://netactuate.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe) |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024a   | x64          | exe  | 38622048 | 1110e558b04334bac7cc36d570436d22 | [https://versaweb.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe](https://versaweb.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe) |
+| 2024a   | x86          | exe  | 34653680 | 9edb3cc3b744838aea90e6a121b0f400 | [https://versaweb.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe](https://versaweb.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe) |

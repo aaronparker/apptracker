@@ -3,7 +3,7 @@ title: Double Commander
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: May 13 2023 at 08:09 AM
+last_modified_date: Apr 7 2024 at 12:12 PM
 ---
 
 ## Double Commander
@@ -14,9 +14,9 @@ Evergreen app: `DoubleCommander`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0.11  | Windows  | x64          | exe  | Default       | 04/02/2023 | 9098146  | [https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.x86_64-win64.exe](https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.x86_64-win64.exe) |
-| 1.0.11  | Windows  | x86          | exe  | Default       | 04/02/2023 | 8742817  | [https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.i386-win32.exe](https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.i386-win32.exe)     |
-| 1.0.11  | Windows  | x64          | msi  | Default       | 04/02/2023 | 14627611 | [https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.x86_64-win64.msi](https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.x86_64-win64.msi) |
-| 1.0.11  | Windows  | x86          | msi  | Default       | 04/02/2023 | 13902610 | [https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.i386-win32.msi](https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.i386-win32.msi)     |
-| 1.0.11  | Windows  | x64          | zip  | Default       | 04/02/2023 | 14033518 | [https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.x86_64-win64.zip](https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.x86_64-win64.zip) |
-| 1.0.11  | Windows  | x86          | zip  | Default       | 04/02/2023 | 13315361 | [https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.i386-win32.zip](https://github.com/doublecmd/doublecmd/releases/download/v1.0.11/doublecmd-1.0.11.i386-win32.zip)     |
+| 1.1.12  | Windows  | x64          | exe  | Default       | 04/07/2024 | 10060603 | [https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.exe](https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.exe) |
+| 1.1.12  | Windows  | x86          | exe  | Default       | 04/07/2024 | 9469830  | [https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.exe](https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.exe)     |
+| 1.1.12  | Windows  | x64          | msi  | Default       | 04/07/2024 | 16284146 | [https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.msi](https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.msi) |
+| 1.1.12  | Windows  | x86          | msi  | Default       | 04/07/2024 | 15288769 | [https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.msi](https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.msi)     |
+| 1.1.12  | Windows  | x64          | zip  | Default       | 04/07/2024 | 15656739 | [https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.zip](https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.zip) |
+| 1.1.12  | Windows  | x86          | zip  | Default       | 04/07/2024 | 14658680 | [https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.zip](https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.zip)     |
