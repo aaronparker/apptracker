@@ -3,7 +3,7 @@ title: deviceTRUST
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Dec 18 2023 at 10:15 AM
+last_modified_date: Apr 8 2024 at 12:12 PM
 ---
 
 ## deviceTRUST
@@ -14,6 +14,9 @@ Evergreen app: `deviceTRUST`
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                                                                                                                                  |
 | ---------- | -------- | ------ | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.1.210.0 | Windows  | Bundle | deviceTRUST 23.1.210                            | [https://storage.devicetrust.com/download/deviceTRUST-23.1.210.zip](https://storage.devicetrust.com/download/deviceTRUST-23.1.210.zip)                                                               |
+| 23.1.210.0 | Windows  | Client | deviceTRUST Windows Client Extension 23.1.210.0 | [https://storage.devicetrust.com/client/dtclient-extension-release-23.1.210.0.exe](https://storage.devicetrust.com/client/dtclient-extension-release-23.1.210.0.exe)                                 |
+| 23.1.200.0 | macOS    | Client | deviceTRUST macOS Client Extension 23.1.200     | [https://storage.devicetrust.com/client/dtclient-extension-macos-universal-release-23.1.200.0.dmg](https://storage.devicetrust.com/client/dtclient-extension-macos-universal-release-23.1.200.0.dmg) |
 | 23.1.200.0 | Windows  | Bundle | deviceTRUST 23.1.200                            | [https://storage.devicetrust.com/download/deviceTRUST-23.1.200.zip](https://storage.devicetrust.com/download/deviceTRUST-23.1.200.zip)                                                               |
 | 23.1.200.0 | Windows  | Client | deviceTRUST Windows Client Extension 23.1.200.0 | [https://storage.devicetrust.com/client/dtclient-extension-release-23.1.200.0.exe](https://storage.devicetrust.com/client/dtclient-extension-release-23.1.200.0.exe)                                 |
 | 23.1.120.0 | Windows  | Bundle | deviceTRUST 23.1.120                            | [https://storage.devicetrust.com/download/deviceTRUST-23.1.120.zip](https://storage.devicetrust.com/download/deviceTRUST-23.1.120.zip)                                                               |
