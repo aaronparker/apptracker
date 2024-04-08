@@ -29,9 +29,11 @@ function Use-Culture {
     function Set-Culture {
         [CmdletBinding(SupportsShouldProcess = $true)]
         param ([System.Globalization.CultureInfo] $Culture)
-        if ($PSCmdlet.ShouldProcess($Culture, "Setting culture")) {
-            [System.Threading.Thread]::CurrentThread.CurrentUICulture = $Culture
-            [System.Threading.Thread]::CurrentThread.CurrentCulture = $Culture
+        process {
+            if ($PSCmdlet.ShouldProcess($Culture, "Setting culture")) {
+                [System.Threading.Thread]::CurrentThread.CurrentUICulture = $Culture
+                [System.Threading.Thread]::CurrentThread.CurrentCulture = $Culture
+            }
         }
     }
 
