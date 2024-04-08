@@ -1,122 +1,122 @@
 [
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/11/2024",
-    "Size": 119439152,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-1.8.0-arm64.exe"
+    "Date": "04/04/2024",
+    "Size": 150330176,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-1.9.1-arm64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/11/2024",
-    "Size": 119620272,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-1.8.0-setup-arm64.exe"
+    "Date": "04/04/2024",
+    "Size": 150511280,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-1.9.1-setup-arm64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/11/2024",
-    "Size": 229289264,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-airgap-1.8.0-arm64.exe"
+    "Date": "04/04/2024",
+    "Size": 259810600,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-airgap-1.9.1-arm64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Airgap",
-    "Date": "03/11/2024",
-    "Size": 229470392,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-airgap-1.8.0-setup-arm64.exe"
+    "Date": "04/04/2024",
+    "Size": 259991712,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-airgap-1.9.1-setup-arm64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/11/2024",
-    "Size": 115851096,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-1.8.0-setup-x64.exe"
+    "Date": "04/04/2024",
+    "Size": 146639536,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-1.9.1-setup-x64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/11/2024",
-    "Size": 115669696,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-1.8.0-x64.exe"
+    "Date": "04/04/2024",
+    "Size": 146458128,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-1.9.1-x64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Airgap",
-    "Date": "03/11/2024",
-    "Size": 233691656,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-airgap-1.8.0-setup-x64.exe"
+    "Date": "04/04/2024",
+    "Size": 264071432,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-airgap-1.9.1-setup-x64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/11/2024",
-    "Size": 233510248,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-airgap-1.8.0-x64.exe"
+    "Date": "04/04/2024",
+    "Size": 263890024,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-airgap-1.9.1-x64.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/11/2024",
-    "Size": 234909760,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-1.8.0-setup.exe"
+    "Date": "04/04/2024",
+    "Size": 296589208,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-1.9.1-setup.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/11/2024",
-    "Size": 234728616,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-1.8.0.exe"
+    "Date": "04/04/2024",
+    "Size": 296408072,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-1.9.1.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Airgap",
-    "Date": "03/11/2024",
-    "Size": 462600432,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-airgap-1.8.0-setup.exe"
+    "Date": "04/04/2024",
+    "Size": 523501528,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-airgap-1.9.1-setup.exe"
   },
   {
-    "Version": "1.8.0",
+    "Version": "1.9.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/11/2024",
-    "Size": 462419296,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.8.0/podman-desktop-airgap-1.8.0.exe"
+    "Date": "04/04/2024",
+    "Size": 523320400,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.9.1/podman-desktop-airgap-1.9.1.exe"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "Version": "23.1.210.0",
+    "Platform": "Windows",
+    "Type": "Bundle",
+    "Name": "deviceTRUST 23.1.210",
+    "URI": "https://storage.devicetrust.com/download/deviceTRUST-23.1.210.zip"
+  },
+  {
+    "Version": "23.1.210.0",
+    "Platform": "Windows",
+    "Type": "Client",
+    "Name": "deviceTRUST Windows Client Extension 23.1.210.0",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-release-23.1.210.0.exe"
+  },
+  {
+    "Version": "23.1.200.0",
+    "Platform": "macOS",
+    "Type": "Client",
+    "Name": "deviceTRUST macOS Client Extension 23.1.200",
+    "URI": "https://storage.devicetrust.com/client/dtclient-extension-macos-universal-release-23.1.200.0.dmg"
+  },
+  {
     "Version": "23.1.200.0",
     "Platform": "Windows",
     "Type": "Bundle",
