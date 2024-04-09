@@ -3,7 +3,7 @@ title: Thymio Suite
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Jul 24 2023 at 12:22 AM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## Thymio Suite
@@ -12,7 +12,7 @@ last_modified_date: Jul 24 2023 at 12:22 AM
 
 Evergreen app: `ThymioSuite`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.4.0   | Windows  | x64          | exe  | Default       | 10/17/2022 | 173608128 | [https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe](https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe) |
-| 2.4.0   | Windows  | x86          | exe  | Default       | 10/17/2022 | 163720032 | [https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe](https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe) |
+| Version | Platform | Architecture | Type | InstallerType | Date                | Size      | URI                                                                                                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.4.0   | Windows  | x64          | exe  | Default       | 10/17/2022 16:01:32 | 173608128 | [https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe](https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win64.exe) |
+| 2.4.0   | Windows  | x86          | exe  | Default       | 10/17/2022 16:01:32 | 163720032 | [https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe](https://github.com/Mobsya/aseba/releases/download/2.4.0/ThymioSuite-2.4.0-win32.exe) |

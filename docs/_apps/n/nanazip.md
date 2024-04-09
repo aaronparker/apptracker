@@ -3,7 +3,7 @@ title: NanaZip
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Dec 12 2023 at 12:28 AM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## NanaZip
@@ -12,6 +12,6 @@ last_modified_date: Dec 12 2023 at 12:28 AM
 
 Evergreen app: `NanaZip`
 
-| Version | Platform | Architecture | Type       | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                                |
-| ------- | -------- | ------------ | ---------- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.0.450 | Windows  | x86          | msixbundle | Default       | 11/24/2022 | 15999629 | [https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle](https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle) |
+| Version | Platform | Architecture | Type       | InstallerType | Date                | Size     | URI                                                                                                                                                                                                                                                |
+| ------- | -------- | ------------ | ---------- | ------------- | ------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.0.450 | Windows  | x86          | msixbundle | Default       | 11/24/2022 15:11:12 | 15999629 | [https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle](https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle) |

@@ -3,7 +3,7 @@ title: Microsoft Bot Framework Emulator
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Dec 12 2023 at 12:28 AM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## Microsoft Bot Framework Emulator
@@ -12,6 +12,6 @@ last_modified_date: Dec 12 2023 at 12:28 AM
 
 Evergreen app: `MicrosoftBotFrameworkEmulator`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 | 164630672 | [https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe](https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe) |
+| Version | Platform | Architecture | Type | InstallerType | Date                | Size      | URI                                                                                                                                                                                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.14.1  | Windows  | x86          | exe  | Default       | 11/11/2021 21:37:13 | 164630672 | [https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe](https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.14.1/BotFramework-Emulator-4.14.1-windows-setup.exe) |

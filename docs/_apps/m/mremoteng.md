@@ -3,7 +3,7 @@ title: mRemoteNG
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Dec 12 2023 at 12:28 AM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## mRemoteNG
@@ -12,6 +12,6 @@ last_modified_date: Dec 12 2023 at 12:28 AM
 
 Evergreen app: `mRemoteNG`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.76.20 | Windows  | x86          | msi  | Default       | 04/12/2019 | 43593728 | [https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi](https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi) |
+| Version | Platform | Architecture | Type | InstallerType | Date                | Size     | URI                                                                                                                                                                                                                |
+| ------- | -------- | ------------ | ---- | ------------- | ------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.76.20 | Windows  | x86          | msi  | Default       | 04/12/2019 13:38:06 | 43593728 | [https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi](https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi) |

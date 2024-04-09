@@ -3,7 +3,7 @@ title: VeraCrypt
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Apr 9 2024 at 10:34 PM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## VeraCrypt

@@ -3,7 +3,7 @@ title: Microsoft Azure Storage Explorer
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Mar 2 2024 at 12:26 AM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## Microsoft Azure Storage Explorer
@@ -12,6 +12,6 @@ last_modified_date: Mar 2 2024 at 12:26 AM
 
 Evergreen app: `MicrosoftAzureStorageExplorer`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.33.0  | Windows  | x64          | exe  | Default       | 03/28/2023 | 132197712 | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.33.0/StorageExplorer-windows-x64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.33.0/StorageExplorer-windows-x64.exe) |
+| Version | Platform | Architecture | Type | InstallerType | Date                | Size      | URI                                                                                                                                                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.33.0  | Windows  | x64          | exe  | Default       | 03/28/2023 00:15:47 | 132197712 | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.33.0/StorageExplorer-windows-x64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.33.0/StorageExplorer-windows-x64.exe) |

@@ -3,7 +3,7 @@ title: Microsoft Azure Functions Core Tools
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Mar 23 2024 at 12:25 AM
+last_modified_date: Apr 9 2024 at 10:54 PM
 ---
 
 ## Microsoft Azure Functions Core Tools
