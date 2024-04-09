@@ -1,67 +1,67 @@
 [
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Chinese (Simplified)",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-CHS.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Chinese (Traditional)",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-CHT.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "English",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-ENU.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "French",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-FRA.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "German",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-DEU.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Italian",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-ITA.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Japanese",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-JPN.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Korean",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-KOR.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Portuguese (Brazil)",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-PTB.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Russian",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-RUS.exe"
   },
   {
-    "Version": "19.2.56.2",
-    "Date": "11/09/2023",
+    "Version": "20.0.70.0",
+    "Date": "03/15/2024",
     "Language": "Spanish",
     "URI": "https://download.microsoft.com/download/1/b/c/1bc1f462-ac3a-402d-b872-c4cae745c539/SSMS-Setup-ESN.exe"
   }

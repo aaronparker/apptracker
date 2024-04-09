@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "1.40.1.8227-c0dd5a73e",
+    "Architecture": "x64",
+    "Checksum": "d6701bd590e36706e9f6dff22e161d5617883a87",
+    "URI": "https://downloads.plex.tv/plex-media-server-new/1.40.1.8227-c0dd5a73e/windows/PlexMediaServer-1.40.1.8227-c0dd5a73e-x86_64.exe"
+  },
+  {
+    "Version": "1.40.1.8227-c0dd5a73e",
+    "Architecture": "x86",
+    "Checksum": "1b7ab8571bf3622044f722b9f3ac5a391af56a2c",
+    "URI": "https://downloads.plex.tv/plex-media-server-new/1.40.1.8227-c0dd5a73e/windows/PlexMediaServer-1.40.1.8227-c0dd5a73e-x86.exe"
+  }
+]
