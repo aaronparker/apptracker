@@ -1,22 +1,22 @@
-[
-  {
-    "Version": "4.2.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "11/27/2023",
-    "Size": 23248896,
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v4.2.1/GitExtensions-4.2.1.17611-b0c0b2848.msi"
-  },
-  {
-    "Version": "4.2.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Portable",
-    "Date": "11/27/2023",
-    "Size": 22614104,
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v4.2.1/GitExtensions-Portable-4.2.1.17611-b0c0b2848.zip"
-  }
+﻿[
+    {
+        "Version":  "4.2.1",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "msi",
+        "InstallerType":  "Default",
+        "Date":  "2023-11-27T04:52:00Z",
+        "Size":  23248896,
+        "URI":  "https://github.com/gitextensions/gitextensions/releases/download/v4.2.1/GitExtensions-4.2.1.17611-b0c0b2848.msi"
+    },
+    {
+        "Version":  "4.2.1",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "zip",
+        "InstallerType":  "Portable",
+        "Date":  "2023-11-27T04:52:00Z",
+        "Size":  22614104,
+        "URI":  "https://github.com/gitextensions/gitextensions/releases/download/v4.2.1/GitExtensions-Portable-4.2.1.17611-b0c0b2848.zip"
+    }
 ]

@@ -1,52 +1,52 @@
-[
-  {
-    "Version": "3.12.2",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Portable",
-    "Date": "05/18/2021",
-    "Size": 25348656,
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/SQLiteDatabaseBrowserPortable_3.12.2_English.paf.exe"
-  },
-  {
-    "Version": "3.12.2",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "05/18/2021",
-    "Size": 18038784,
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win64.msi"
-  },
-  {
-    "Version": "3.12.2",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "05/18/2021",
-    "Size": 15761408,
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win32.msi"
-  },
-  {
-    "Version": "3.12.2",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "05/18/2021",
-    "Size": 20446868,
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win64.zip"
-  },
-  {
-    "Version": "3.12.2",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "05/18/2021",
-    "Size": 17811551,
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win32.zip"
-  }
+﻿[
+    {
+        "Version":  "3.12.2",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "exe",
+        "InstallerType":  "Portable",
+        "Date":  "2021-05-18T00:14:40Z",
+        "Size":  25348656,
+        "URI":  "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/SQLiteDatabaseBrowserPortable_3.12.2_English.paf.exe"
+    },
+    {
+        "Version":  "3.12.2",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "InstallerType":  "Default",
+        "Date":  "2021-05-18T00:14:40Z",
+        "Size":  18038784,
+        "URI":  "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win64.msi"
+    },
+    {
+        "Version":  "3.12.2",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "msi",
+        "InstallerType":  "Default",
+        "Date":  "2021-05-18T00:14:40Z",
+        "Size":  15761408,
+        "URI":  "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win32.msi"
+    },
+    {
+        "Version":  "3.12.2",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "zip",
+        "InstallerType":  "Default",
+        "Date":  "2021-05-18T00:14:40Z",
+        "Size":  20446868,
+        "URI":  "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win64.zip"
+    },
+    {
+        "Version":  "3.12.2",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "zip",
+        "InstallerType":  "Default",
+        "Date":  "2021-05-18T00:14:40Z",
+        "Size":  17811551,
+        "URI":  "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win32.zip"
+    }
 ]

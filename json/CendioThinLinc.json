@@ -1,6 +1,6 @@
-[
-  {
-    "Version": "4.16.0",
-    "URI": "https://www.cendio.com/downloads/clients/tl-4.16.0-client-windows.exe"
-  }
+﻿[
+    {
+        "Version":  "4.16.0",
+        "URI":  "https://www.cendio.com/downloads/clients/tl-4.16.0-client-windows.exe"
+    }
 ]

@@ -1,34 +1,34 @@
-[
-  {
-    "Version": "1.8.0_402-b06",
-    "ImageType": "jdk",
-    "Date": "2024-01-17T13:17:00Z",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_x64.msi"
-  },
-  {
-    "Version": "1.8.0_402-b06",
-    "ImageType": "jre",
-    "Date": "2024-01-17T13:17:00Z",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-win_x64.msi"
-  },
-  {
-    "Version": "1.8.0_402-b06",
-    "ImageType": "jdk",
-    "Date": "2024-01-17T13:17:00Z",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_i686.msi"
-  },
-  {
-    "Version": "1.8.0_402-b06",
-    "ImageType": "jre",
-    "Date": "2024-01-17T13:17:00Z",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-win_i686.msi"
-  }
+﻿[
+    {
+        "Version":  "1.8.0_402-b06",
+        "ImageType":  "jdk",
+        "Date":  "2024-01-17T13:17:00Z",
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "URI":  "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_x64.msi"
+    },
+    {
+        "Version":  "1.8.0_402-b06",
+        "ImageType":  "jre",
+        "Date":  "2024-01-17T13:17:00Z",
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "URI":  "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-win_x64.msi"
+    },
+    {
+        "Version":  "1.8.0_402-b06",
+        "ImageType":  "jdk",
+        "Date":  "2024-01-17T13:17:00Z",
+        "Architecture":  "x86",
+        "Type":  "msi",
+        "URI":  "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_i686.msi"
+    },
+    {
+        "Version":  "1.8.0_402-b06",
+        "ImageType":  "jre",
+        "Date":  "2024-01-17T13:17:00Z",
+        "Architecture":  "x86",
+        "Type":  "msi",
+        "URI":  "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jre8.0.402-win_i686.msi"
+    }
 ]

@@ -1,6 +1,6 @@
-[
-  {
-    "Version": "15.52.4",
-    "URI": "https://dl.teamviewer.com/download/TeamViewer_Setup.exe"
-  }
+﻿[
+    {
+        "Version":  "15.52.4",
+        "URI":  "https://dl.teamviewer.com/download/TeamViewer_Setup.exe"
+    }
 ]

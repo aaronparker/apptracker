@@ -1,14 +1,14 @@
-[
-  {
-    "Version": "9.0.0.1546",
-    "Framework": "64bit-.net48",
-    "Architecture": "x64",
-    "URI": "https://downloads.controlup.com/agent/9.0.0.1546/ControlUpAgent-net48-x64-9.0.0.1546-signed.msi"
-  },
-  {
-    "Version": "9.0.0.1546",
-    "Framework": "32bit-.net48",
-    "Architecture": "x86",
-    "URI": "https://downloads.controlup.com/agent/9.0.0.1546/ControlUpAgent-net48-x86-9.0.0.1546-signed.msi"
-  }
+﻿[
+    {
+        "Version":  "9.0.0.1546",
+        "Framework":  "64bit-.net48",
+        "Architecture":  "x64",
+        "URI":  "https://downloads.controlup.com/agent/9.0.0.1546/ControlUpAgent-net48-x64-9.0.0.1546-signed.msi"
+    },
+    {
+        "Version":  "9.0.0.1546",
+        "Framework":  "32bit-.net48",
+        "Architecture":  "x86",
+        "URI":  "https://downloads.controlup.com/agent/9.0.0.1546/ControlUpAgent-net48-x86-9.0.0.1546-signed.msi"
+    }
 ]

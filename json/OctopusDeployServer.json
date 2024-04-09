@@ -1,7 +1,7 @@
-[
-  {
-    "Version": "2024.1.12210",
-    "Date": "03/29/2024",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.2024.1.12210-x64.msi"
-  }
+﻿[
+    {
+        "Version":  "2024.1.12210",
+        "Date":  "3/29/2024",
+        "URI":  "https://download.octopusdeploy.com/octopus/Octopus.2024.1.12210-x64.msi"
+    }
 ]

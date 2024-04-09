@@ -1,22 +1,22 @@
-[
-  {
-    "Version": "2.7.7",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "03/09/2024",
-    "Size": 55402496,
-    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.7/KeePassXC-2.7.7-Win64-LegacyWindows.msi"
-  },
-  {
-    "Version": "2.7.7",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
-    "Date": "03/09/2024",
-    "Size": 34353152,
-    "URI": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.7/KeePassXC-2.7.7-Win64.msi"
-  }
+﻿[
+    {
+        "Version":  "2.7.7",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "InstallerType":  "Default",
+        "Date":  "2024-03-09T23:14:35Z",
+        "Size":  55402496,
+        "URI":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.7/KeePassXC-2.7.7-Win64-LegacyWindows.msi"
+    },
+    {
+        "Version":  "2.7.7",
+        "Platform":  "Windows",
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "InstallerType":  "Default",
+        "Date":  "2024-03-09T23:14:35Z",
+        "Size":  34353152,
+        "URI":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.7/KeePassXC-2.7.7-Win64.msi"
+    }
 ]

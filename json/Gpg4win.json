@@ -1,8 +1,8 @@
-[
-  {
-    "Version": "4.3.1",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://files.gpg4win.org/gpg4win-4.3.1.exe"
-  }
+﻿[
+    {
+        "Version":  "4.3.1",
+        "Architecture":  "x86",
+        "Type":  "exe",
+        "URI":  "https://files.gpg4win.org/gpg4win-4.3.1.exe"
+    }
 ]
