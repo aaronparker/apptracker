@@ -3,7 +3,7 @@ title: VMware Horizon Client (alternate method)
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Jan 23 2024 at 08:14 PM
+last_modified_date: Apr 9 2024 at 10:34 PM
 ---
 
 ## VMware Horizon Client (alternate method)
@@ -12,6 +12,6 @@ last_modified_date: Jan 23 2024 at 08:14 PM
 
 Evergreen app: `VMwareHorizonClientAlt`
 
-| Version         | URI                                                                                                                                                                                                                                                                          |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.12.0.23149293 | [https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.12.0/23149293/VMware-Horizon-Client-2312-8.12.0-23149293.exe.tar](https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.12.0/23149293/VMware-Horizon-Client-2312-8.12.0-23149293.exe.tar) |
+| Version         | URI                                                                                                                                                                                                                                                                              |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8.12.1.23531249 | [https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.12.1/23531249/VMware-Horizon-Client-2312.1-8.12.1-23531249.exe.tar](https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.12.1/23531249/VMware-Horizon-Client-2312.1-8.12.1-23531249.exe.tar) |

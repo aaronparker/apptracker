@@ -3,7 +3,7 @@ title: Telegram Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Apr 9 2024 at 12:12 PM
+last_modified_date: Apr 9 2024 at 10:34 PM
 ---
 
 ## Telegram Desktop
@@ -14,4 +14,4 @@ Evergreen app: `TelegramDesktop`
 
 | Version | URI                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 4.16.5  | [https://updates.tdesktop.com/tsetup/tsetup.4.16.5.exe](https://updates.tdesktop.com/tsetup/tsetup.4.16.5.exe) |
+| 4.16.6  | [https://updates.tdesktop.com/tsetup/tsetup.4.16.6.exe](https://updates.tdesktop.com/tsetup/tsetup.4.16.6.exe) |

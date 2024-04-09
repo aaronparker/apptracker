@@ -3,7 +3,7 @@ title: Postman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 6 2024 at 12:29 AM
+last_modified_date: Apr 9 2024 at 10:34 PM
 ---
 
 ## Postman
@@ -12,7 +12,7 @@ last_modified_date: Apr 6 2024 at 12:29 AM
 
 Evergreen app: `Postman`
 
-| Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                                                                            |
-| ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| 11.0.0  | 140237872 | D856B4A65688A80C410A67CDD398637F9DCBB37E | 04/05/2024 17:00:32 | x64          | Postman-win64-11.0.0-Setup.exe | [https://dl.pstmn.io/download/version/11.0.0/windows64](https://dl.pstmn.io/download/version/11.0.0/windows64) |
-| 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe  | [https://dl.pstmn.io/download/version/9.4.1/windows32](https://dl.pstmn.io/download/version/9.4.1/windows32)   |
+| Version  | Size      | Hash                                     | Date                | Architecture | Filename                         | URI                                                                                                                |
+| -------- | --------- | ---------------------------------------- | ------------------- | ------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 10.24.16 | 137204272 | 9BFEE854791F480498C745F5C1D2C791A2118C93 | 04/04/2024 04:50:25 | x64          | Postman-win64-10.24.16-Setup.exe | [https://dl.pstmn.io/download/version/10.24.16/windows64](https://dl.pstmn.io/download/version/10.24.16/windows64) |
+| 9.4.1    | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe    | [https://dl.pstmn.io/download/version/9.4.1/windows32](https://dl.pstmn.io/download/version/9.4.1/windows32)       |
