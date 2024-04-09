@@ -1,12 +1,12 @@
 ---
-title: ProtonVPN
+title: Proton VPN
 layout: default
 nav_order: 2
 parent: P
 last_modified_date: Mar 22 2024 at 10:14 AM
 ---
 
-## ProtonVPN
+## Proton VPN
 
 [Source](https://protonvpn.com/)
 

@@ -3,7 +3,7 @@ title: Scooter Beyond Compare
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Dec 12 2023 at 12:28 AM
+last_modified_date: Apr 9 2024 at 12:12 PM
 ---
 
 ## Scooter Beyond Compare
@@ -12,6 +12,6 @@ last_modified_date: Dec 12 2023 at 12:28 AM
 
 Evergreen app: `ScooterBeyondCompare`
 
-| Version     | Language | URI                                                                                                                  |
-| ----------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
-| 4.4.7.28397 | English  | [https://www.scootersoftware.com/BCompare-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-4.4.7.28397.exe) |
+| Version     | Language | Type | URI                                                                                                                  |
+| ----------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
+| 4.4.7.28397 | English  | exe  | [https://www.scootersoftware.com/BCompare-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-4.4.7.28397.exe) |
