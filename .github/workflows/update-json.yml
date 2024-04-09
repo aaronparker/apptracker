@@ -44,7 +44,7 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          . "${{ github.workspace }}/scripts/Update-JsonPwsh.ps1" -Path "${{ github.workspace }}/json"
+          . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
 
       - name: Save updated files list
         shell: pwsh
@@ -134,7 +134,7 @@ jobs:
         shell: powershell
         working-directory: ${{ github.workspace }}
         run: |
-          . "${{ github.workspace }}\scripts\Update-JsonPowerShell.ps1" -Path "${{ github.workspace }}\json"
+          . "${{ github.workspace }}\scripts\Update-Json.ps1" -Path "${{ github.workspace }}\json"
 
       - name: Save updated files list
         shell: powershell
