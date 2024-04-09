@@ -3,7 +3,7 @@ title: Slack
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Mar 23 2024 at 12:25 AM
+last_modified_date: Apr 9 2024 at 12:27 AM
 ---
 
 ## Slack
@@ -12,8 +12,8 @@ last_modified_date: Mar 23 2024 at 12:25 AM
 
 Evergreen app: `Slack`
 
-| Version | Platform   | Architecture | URI                                                                                                                                                                                                            |
-| ------- | ---------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.37.98 | PerMachine | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.98/slack-standalone-4.37.98.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.98/slack-standalone-4.37.98.0.msi)   |
-| 4.37.98 | PerMachine | x86          | [https://downloads.slack-edge.com/desktop-releases/windows/ia32/4.37.98/slack-standalone-4.37.98.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/ia32/4.37.98/slack-standalone-4.37.98.0.msi) |
-| 4.37.98 | PerUser    | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.98/SlackSetup.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.98/SlackSetup.msi)                                   |
+| Version  | Platform   | Architecture | URI                                                                                                                                                                                                                |
+| -------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4.37.101 | PerMachine | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/slack-standalone-4.37.101.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/slack-standalone-4.37.101.0.msi)   |
+| 4.37.101 | PerMachine | x86          | [https://downloads.slack-edge.com/desktop-releases/windows/ia32/4.37.101/slack-standalone-4.37.101.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/ia32/4.37.101/slack-standalone-4.37.101.0.msi) |
+| 4.37.101 | PerUser    | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/SlackSetup.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/SlackSetup.msi)                                     |

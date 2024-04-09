@@ -3,7 +3,7 @@ title: Ben Olden-Cooligan NAPS2
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Mar 11 2024 at 10:14 AM
+last_modified_date: Apr 9 2024 at 12:27 AM
 ---
 
 ## Ben Olden-Cooligan NAPS2
@@ -14,6 +14,6 @@ Evergreen app: `Naps2`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.4.0   | Windows  | x86          | exe  | Default       | 03/11/2024 | 12502723 | [https://github.com/cyanfish/naps2/releases/download/v7.4.0/naps2-7.4.0-win.exe](https://github.com/cyanfish/naps2/releases/download/v7.4.0/naps2-7.4.0-win.exe)         |
-| 7.4.0   | Windows  | x64          | msi  | Default       | 03/11/2024 | 12578671 | [https://github.com/cyanfish/naps2/releases/download/v7.4.0/naps2-7.4.0-win-x64.msi](https://github.com/cyanfish/naps2/releases/download/v7.4.0/naps2-7.4.0-win-x64.msi) |
-| 7.4.0   | Windows  | x86          | msi  | Default       | 03/11/2024 | 12349293 | [https://github.com/cyanfish/naps2/releases/download/v7.4.0/naps2-7.4.0-win-x86.msi](https://github.com/cyanfish/naps2/releases/download/v7.4.0/naps2-7.4.0-win-x86.msi) |
+| 7.4.1   | Windows  | x86          | exe  | Default       | 04/08/2024 | 12257482 | [https://github.com/cyanfish/naps2/releases/download/v7.4.1/naps2-7.4.1-win.exe](https://github.com/cyanfish/naps2/releases/download/v7.4.1/naps2-7.4.1-win.exe)         |
+| 7.4.1   | Windows  | x64          | msi  | Default       | 04/08/2024 | 12285996 | [https://github.com/cyanfish/naps2/releases/download/v7.4.1/naps2-7.4.1-win-x64.msi](https://github.com/cyanfish/naps2/releases/download/v7.4.1/naps2-7.4.1-win-x64.msi) |
+| 7.4.1   | Windows  | x86          | msi  | Default       | 04/08/2024 | 12056616 | [https://github.com/cyanfish/naps2/releases/download/v7.4.1/naps2-7.4.1-win-x86.msi](https://github.com/cyanfish/naps2/releases/download/v7.4.1/naps2-7.4.1-win-x86.msi) |

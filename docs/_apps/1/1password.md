@@ -3,7 +3,7 @@ title: 1Password
 layout: default
 nav_order: 2
 parent: 1
-last_modified_date: Apr 8 2024 at 12:12 PM
+last_modified_date: Apr 9 2024 at 12:27 AM
 ---
 
 ## 1Password
@@ -12,6 +12,6 @@ last_modified_date: Apr 8 2024 at 12:12 PM
 
 Evergreen app: `1Password`
 
-| Version | URI                                                                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 8.10.28 | [https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.28.exe](https://cache.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.28.exe) |
+| Version | URI                                                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 8.10.28 | [https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.28.exe](https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.28.exe) |
