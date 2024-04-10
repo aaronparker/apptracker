@@ -1,12 +1,10 @@
-[
-  {
-    "Version": "3.10.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
-    "Date": "03/27/2024",
-    "Size": 924473,
-    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.10.0/PSAppDeployToolkit_3.10.0.zip"
-  }
-]
+{
+  "Version": "3.10.0",
+  "Platform": "Windows",
+  "Architecture": "x86",
+  "Type": "zip",
+  "InstallerType": "Default",
+  "Date": "2024-03-27T15:40:53Z",
+  "Size": 924473,
+  "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.10.0/PSAppDeployToolkit_3.10.0.zip"
+}
