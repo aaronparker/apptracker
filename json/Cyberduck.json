@@ -1,6 +1,8 @@
-{
-  "Version": "8.8.2.41344",
-  "Date": "4/8/2024",
-  "Channel": "Release",
-  "URI": "https://update.cyberduck.io/Cyberduck-Installer-8.8.2.41344.exe"
-}
+[
+  {
+    "Version": "8.8.2.41344",
+    "Date": "04/08/2024",
+    "Channel": "Release",
+    "URI": "https://update.cyberduck.io/Cyberduck-Installer-8.8.2.41344.exe"
+  }
+]

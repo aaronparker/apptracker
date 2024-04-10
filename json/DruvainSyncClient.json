@@ -1,8 +1,10 @@
-{
-  "Version": "7.5.2",
-  "InstallerVersion": "inSync7.5.2r110780",
-  "CloudPlatform": "Cloud",
-  "Md5sum": "fea007060efed2dce7e76cfe782c7adcca3b1bc1",
-  "Type": "msi",
-  "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.2/inSync7.5.2r110780.msi"
-}
+[
+  {
+    "Version": "7.5.2",
+    "InstallerVersion": "inSync7.5.2r110780",
+    "CloudPlatform": "Cloud",
+    "Md5sum": "fea007060efed2dce7e76cfe782c7adcca3b1bc1",
+    "Type": "msi",
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.2/inSync7.5.2r110780.msi"
+  }
+]

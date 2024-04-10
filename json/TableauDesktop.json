@@ -1,4 +1,6 @@
-{
-  "Version": "2024.1.1",
-  "URI": "https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-1-1.exe"
-}
+[
+  {
+    "Version": "2024.1.1",
+    "URI": "https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-1-1.exe"
+  }
+]

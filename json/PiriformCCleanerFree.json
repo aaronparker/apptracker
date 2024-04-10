@@ -1,5 +1,7 @@
-{
-  "Version": "6.22.10977",
-  "Filename": "ccsetup622.exe",
-  "URI": "https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/"
-}
+[
+  {
+    "Version": "6.22.10977",
+    "Filename": "ccsetup622.exe",
+    "URI": "https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/"
+  }
+]

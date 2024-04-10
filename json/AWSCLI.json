@@ -1,5 +1,7 @@
-{
-  "Version": "2.15.36",
-  "Type": "msi",
-  "URI": "https://awscli.amazonaws.com/AWSCLIV2-2.15.36.msi"
-}
+[
+  {
+    "Version": "2.15.36",
+    "Type": "msi",
+    "URI": "https://awscli.amazonaws.com/AWSCLIV2-2.15.36.msi"
+  }
+]

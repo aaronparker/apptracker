@@ -1,8 +1,10 @@
-{
-  "Version": "Unknown",
-  "Architecture": "x64",
-  "Date": "Mon, 25 Jul 2022 16:29:59 GMT",
-  "Size": {},
-  "Filename": "Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi",
-  "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH"
-}
+[
+  {
+    "Version": "Unknown",
+    "Architecture": "x64",
+    "Date": "Mon, 25 Jul 2022 16:29:59 GMT",
+    "Size": null,
+    "Filename": "Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH"
+  }
+]
