@@ -1,6 +1,4 @@
-[
-  {
-    "Version": "9.13",
-    "URI": "https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe"
-  }
-]
+{
+  "Version": "9.13",
+  "URI": "https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe"
+}

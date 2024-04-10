@@ -1,10 +1,8 @@
-[
-  {
-    "Version": "9.3.2",
-    "Architecture": "x64",
-    "Type": "exe",
-    "Size": "57893344",
-    "Md5": "110d01ce633ac81432b1d47a7d0ffdff",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.2/saga-9.3.2_x64_setup.exe"
-  }
-]
+{
+  "Version": "9.3.2",
+  "Architecture": "x64",
+  "Type": "exe",
+  "Size": "57893344",
+  "Md5": "110d01ce633ac81432b1d47a7d0ffdff",
+  "URI": "https://psychz.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.2/saga-9.3.2_x64_setup.exe"
+}

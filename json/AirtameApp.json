@@ -1,15 +1,15 @@
 [
   {
     "Version": "4.9.1",
-    "Installer": "Windows",
-    "Type": "exe",
-    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.9.1-setup.exe"
-  },
-  {
-    "Version": "4.9.1",
     "Installer": "Portable",
     "Type": "exe",
     "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.9.1-portable.exe"
+  },
+  {
+    "Version": "4.9.1",
+    "Installer": "Windows",
+    "Type": "exe",
+    "URI": "https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.9.1-setup.exe"
   },
   {
     "Version": "4.9.1",

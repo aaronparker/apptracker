@@ -1,6 +1,4 @@
-[
-  {
-    "Version": "5.13.8830.42291",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.install.anycpu.web.zip"
-  }
-]
+{
+  "Version": "5.13.8830.42291",
+  "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.install.anycpu.web.zip"
+}

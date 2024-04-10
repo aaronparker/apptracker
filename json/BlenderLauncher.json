@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "08/09/2022",
+    "Date": "2022-08-09T16:32:42Z",
     "Size": 46908603,
     "URI": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64.zip"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Debug",
-    "Date": "08/09/2022",
+    "Date": "2022-08-09T16:32:42Z",
     "Size": 46895843,
     "URI": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.15.1/Blender_Launcher_v1.15.1_Windows_x64_DEBUG.zip"
   }
