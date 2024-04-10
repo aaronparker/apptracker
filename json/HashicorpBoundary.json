@@ -1,14 +1,14 @@
-﻿[
-    {
-        "Version":  "0.15.4",
-        "Type":  "zip",
-        "Architecture":  "x64",
-        "URI":  "https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_amd64.zip"
-    },
-    {
-        "Version":  "0.15.4",
-        "Type":  "zip",
-        "Architecture":  "x86",
-        "URI":  "https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_386.zip"
-    }
+[
+  {
+    "Version": "0.15.4",
+    "Type": "zip",
+    "Architecture": "x64",
+    "URI": "https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_amd64.zip"
+  },
+  {
+    "Version": "0.15.4",
+    "Type": "zip",
+    "Architecture": "x86",
+    "URI": "https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_386.zip"
+  }
 ]

@@ -1,22 +1,22 @@
-﻿[
-    {
-        "Version":  "24.04",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-03-31T07:30:18Z",
-        "Size":  125570696,
-        "URI":  "https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt5.exe"
-    },
-    {
-        "Version":  "24.04",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-03-31T07:30:18Z",
-        "Size":  152775856,
-        "URI":  "https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt6.exe"
-    }
+[
+  {
+    "Version": "24.04",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "03/31/2024",
+    "Size": 125570696,
+    "URI": "https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt5.exe"
+  },
+  {
+    "Version": "24.04",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "03/31/2024",
+    "Size": 152775856,
+    "URI": "https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt6.exe"
+  }
 ]

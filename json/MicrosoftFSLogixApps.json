@@ -1,8 +1,8 @@
-﻿[
-    {
-        "Version":  "2.9.8784.63912",
-        "Date":  "2/8/2024",
-        "Channel":  "Production",
-        "URI":  "https://download.microsoft.com/download/1/7/1/17134492-1ef3-420b-a78a-cf13c42d1078/FSLogix_Apps_2.9.8784.63912.zip"
-    }
+[
+  {
+    "Version": "2.9.8784.63912",
+    "Date": "02/08/2024",
+    "Channel": "Production",
+    "URI": "https://download.microsoft.com/download/1/7/1/17134492-1ef3-420b-a78a-cf13c42d1078/FSLogix_Apps_2.9.8784.63912.zip"
+  }
 ]

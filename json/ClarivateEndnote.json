@@ -1,56 +1,56 @@
-﻿[
-    {
-        "Version":  "21.2.0.17387",
-        "Release":  "21",
-        "Type":  "exe",
-        "URI":  "https://download.endnote.com/downloads/21/EN21Inst.exe"
-    },
-    {
-        "Version":  "21.2.0.17387",
-        "Release":  "21",
-        "Type":  "msi",
-        "URI":  "https://download.endnote.com/downloads/21/EN21Inst.msi"
-    },
-    {
-        "Version":  "21.2.0.17387",
-        "Release":  "21",
-        "Type":  "msp",
-        "URI":  "http://download.endnote.com/updates/21.0/EN212Update.msp"
-    },
-    {
-        "Version":  "20.6.0.17174",
-        "Release":  "20",
-        "Type":  "exe",
-        "URI":  "https://download.endnote.com/downloads/20/EN20Inst.exe"
-    },
-    {
-        "Version":  "20.6.0.17174",
-        "Release":  "20",
-        "Type":  "msi",
-        "URI":  "https://download.endnote.com/downloads/20/EN20Inst.msi"
-    },
-    {
-        "Version":  "20.6.0.17174",
-        "Release":  "20",
-        "Type":  "msp",
-        "URI":  "http://download.endnote.com/updates/20.0/EN206Update.msp"
-    },
-    {
-        "Version":  "19.3.3.13966",
-        "Release":  "X9",
-        "Type":  "exe",
-        "URI":  "https://download.endnote.com/downloads/X9/ENX9Inst.exe"
-    },
-    {
-        "Version":  "19.3.3.13966",
-        "Release":  "X9",
-        "Type":  "msi",
-        "URI":  "https://download.endnote.com/downloads/X9/ENX9Inst.msi"
-    },
-    {
-        "Version":  "19.3.3.13966",
-        "Release":  "X9",
-        "Type":  "msp",
-        "URI":  "http://download.endnote.com/updates/19.0/ENX933Update.msp"
-    }
+[
+  {
+    "Version": "21.2.0.17387",
+    "Release": "21",
+    "Type": "exe",
+    "URI": "https://download.endnote.com/downloads/21/EN21Inst.exe"
+  },
+  {
+    "Version": "21.2.0.17387",
+    "Release": "21",
+    "Type": "msi",
+    "URI": "https://download.endnote.com/downloads/21/EN21Inst.msi"
+  },
+  {
+    "Version": "21.2.0.17387",
+    "Release": "21",
+    "Type": "msp",
+    "URI": "http://download.endnote.com/updates/21.0/EN212Update.msp"
+  },
+  {
+    "Version": "20.6.0.17174",
+    "Release": "20",
+    "Type": "exe",
+    "URI": "https://download.endnote.com/downloads/20/EN20Inst.exe"
+  },
+  {
+    "Version": "20.6.0.17174",
+    "Release": "20",
+    "Type": "msi",
+    "URI": "https://download.endnote.com/downloads/20/EN20Inst.msi"
+  },
+  {
+    "Version": "20.6.0.17174",
+    "Release": "20",
+    "Type": "msp",
+    "URI": "http://download.endnote.com/updates/20.0/EN206Update.msp"
+  },
+  {
+    "Version": "19.3.3.13966",
+    "Release": "X9",
+    "Type": "exe",
+    "URI": "https://download.endnote.com/downloads/X9/ENX9Inst.exe"
+  },
+  {
+    "Version": "19.3.3.13966",
+    "Release": "X9",
+    "Type": "msi",
+    "URI": "https://download.endnote.com/downloads/X9/ENX9Inst.msi"
+  },
+  {
+    "Version": "19.3.3.13966",
+    "Release": "X9",
+    "Type": "msp",
+    "URI": "http://download.endnote.com/updates/19.0/ENX933Update.msp"
+  }
 ]

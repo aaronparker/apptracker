@@ -1,42 +1,42 @@
-﻿[
-    {
-        "Version":  "2.44.0.1",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-02-23T20:21:57Z",
-        "Size":  65350776,
-        "URI":  "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe"
-    },
-    {
-        "Version":  "2.44.0.1",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "InstallerType":  "Portable",
-        "Date":  "2024-02-23T20:21:57Z",
-        "Size":  61765416,
-        "URI":  "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe"
-    },
-    {
-        "Version":  "2.44.0.1",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Portable",
-        "Date":  "2024-02-23T20:21:57Z",
-        "Size":  58639848,
-        "URI":  "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe"
-    },
-    {
-        "Version":  "2.44.0.1",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-02-23T20:21:57Z",
-        "Size":  62435528,
-        "URI":  "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe"
-    }
+[
+  {
+    "Version": "2.44.0.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "02/23/2024",
+    "Size": 65350776,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe"
+  },
+  {
+    "Version": "2.44.0.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Portable",
+    "Date": "02/23/2024",
+    "Size": 61765416,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe"
+  },
+  {
+    "Version": "2.44.0.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "02/23/2024",
+    "Size": 62435528,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe"
+  },
+  {
+    "Version": "2.44.0.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Portable",
+    "Date": "02/23/2024",
+    "Size": 58639848,
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe"
+  }
 ]

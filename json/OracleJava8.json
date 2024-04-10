@@ -1,14 +1,14 @@
-﻿[
-    {
-        "Version":  "1.8.0_401-b10",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "URI":  "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_401-b10/4d245f941845490c91360409ecffb3b4/windows-i586/jre-8u401-windows-x64.exe"
-    },
-    {
-        "Version":  "1.8.0_401-b10",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "URI":  "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_401-b10/4d245f941845490c91360409ecffb3b4/windows-i586/jre-8u401-windows-i586.exe"
-    }
+[
+  {
+    "Version": "1.8.0_401-b10",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_401-b10/4d245f941845490c91360409ecffb3b4/windows-i586/jre-8u401-windows-x64.exe"
+  },
+  {
+    "Version": "1.8.0_401-b10",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_401-b10/4d245f941845490c91360409ecffb3b4/windows-i586/jre-8u401-windows-i586.exe"
+  }
 ]

@@ -1,12 +1,12 @@
-﻿[
-    {
-        "Version":  "3.4.17",
-        "Type":  "Exe",
-        "URI":  "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.17.exe"
-    },
-    {
-        "Version":  "3.4.17",
-        "Type":  "Msi",
-        "URI":  "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.17.msi"
-    }
+[
+  {
+    "Version": "3.4.17",
+    "Type": "Exe",
+    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.17.exe"
+  },
+  {
+    "Version": "3.4.17",
+    "Type": "Msi",
+    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.17.msi"
+  }
 ]

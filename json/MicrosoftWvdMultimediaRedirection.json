@@ -1,9 +1,11 @@
-﻿[
-    {
-        "Version":  "1.0.2311.2004",
-        "Date":  "Wed, 17 Jan 2024 00:56:38 GMT",
-        "Architecture":  "x64",
-        "Filename":  "MsMMRHostInstaller_1.0.2311.2004_x64.msi",
-        "URI":  "https://aka.ms/avdmmr/msi"
-    }
+[
+  {
+    "Version": "1.0.2311.2004",
+    "Date": [
+      "Wed, 17 Jan 2024 00:56:38 GMT"
+    ],
+    "Architecture": "x64",
+    "Filename": "MsMMRHostInstaller_1.0.2311.2004_x64.msi",
+    "URI": "https://aka.ms/avdmmr/msi"
+  }
 ]

@@ -1,22 +1,22 @@
-﻿[
-    {
-        "Version":  "12.1.0",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "msi",
-        "InstallerType":  "Default",
-        "Date":  "2022-07-03T13:42:21Z",
-        "Size":  43585536,
-        "URI":  "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/Flameshot-12.1.0-win64.msi"
-    },
-    {
-        "Version":  "12.1.0",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "zip",
-        "InstallerType":  "Default",
-        "Date":  "2022-07-03T13:42:21Z",
-        "Size":  46043249,
-        "URI":  "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-win64.zip"
-    }
+[
+  {
+    "Version": "12.1.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "07/03/2022",
+    "Size": 43585536,
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/Flameshot-12.1.0-win64.msi"
+  },
+  {
+    "Version": "12.1.0",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "zip",
+    "InstallerType": "Default",
+    "Date": "07/03/2022",
+    "Size": 46043249,
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-win64.zip"
+  }
 ]
