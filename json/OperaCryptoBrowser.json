@@ -1,9 +1,9 @@
-﻿[
-    {
-        "Version":  "108.0.5067.28",
-        "Channel":  "Stable",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "URI":  "https://get.geo.opera.com/pub/opera_crypto/108.0.5067.28/win/Opera_Crypto_108.0.5067.28_Setup_x64.exe"
-    }
+[
+  {
+    "Version": "108.0.5067.28",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://get.geo.opera.com/pub/opera_crypto/108.0.5067.28/win/Opera_Crypto_108.0.5067.28_Setup_x64.exe"
+  }
 ]

@@ -1,38 +1,38 @@
-﻿[
-    {
-        "Version":  "19.3.24685",
-        "Architecture":  "ARM64",
-        "Type":  "exe",
-        "URI":  "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient_Basic-ARM64-19.3.24685.exe"
-    },
-    {
-        "Version":  "19.3.24685",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "URI":  "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient_Basic-x64-19.3.24685.exe"
-    },
-    {
-        "Version":  "19.3.24685",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "URI":  "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient_Basic-19.3.24685.exe"
-    },
-    {
-        "Version":  "19.3.24685",
-        "Architecture":  "ARM64",
-        "Type":  "msi",
-        "URI":  "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient-ARM64-19.3.24685.msi"
-    },
-    {
-        "Version":  "19.3.24685",
-        "Architecture":  "x64",
-        "Type":  "msi",
-        "URI":  "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient-x64-19.3.24685.msi"
-    },
-    {
-        "Version":  "19.3.24685",
-        "Architecture":  "x86",
-        "Type":  "msi",
-        "URI":  "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient-19.3.24685.msi"
-    }
+[
+  {
+    "Version": "19.3.24685",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient_Basic-ARM64-19.3.24685.exe"
+  },
+  {
+    "Version": "19.3.24685",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient_Basic-x64-19.3.24685.exe"
+  },
+  {
+    "Version": "19.3.24685",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient_Basic-19.3.24685.exe"
+  },
+  {
+    "Version": "19.3.24685",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient-ARM64-19.3.24685.msi"
+  },
+  {
+    "Version": "19.3.24685",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient-x64-19.3.24685.msi"
+  },
+  {
+    "Version": "19.3.24685",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.parallels.com/ras/v19/19.3.2.24685/RASClient-19.3.24685.msi"
+  }
 ]

@@ -1,12 +1,12 @@
-﻿[
-    {
-        "Version":  "2024.1.7.0",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-01-07T16:36:18Z",
-        "Size":  18661520,
-        "URI":  "https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.7.0/NETworkManager_2024.1.7.0_Setup.exe"
-    }
+[
+  {
+    "Version": "2024.1.7.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "01/07/2024",
+    "Size": 18661520,
+    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.7.0/NETworkManager_2024.1.7.0_Setup.exe"
+  }
 ]

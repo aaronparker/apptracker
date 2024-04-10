@@ -1,22 +1,22 @@
-﻿[
-    {
-        "Version":  "5.2",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-02-28T17:07:59Z",
-        "Size":  9311677,
-        "URI":  "https://github.com/TeraTermProject/teraterm/releases/download/v5.2/teraterm-5.2.exe"
-    },
-    {
-        "Version":  "5.2",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "zip",
-        "InstallerType":  "Default",
-        "Date":  "2024-02-28T17:07:59Z",
-        "Size":  11712053,
-        "URI":  "https://github.com/TeraTermProject/teraterm/releases/download/v5.2/teraterm-5.2.zip"
-    }
+[
+  {
+    "Version": "5.2",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "02/28/2024",
+    "Size": 9311677,
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.2/teraterm-5.2.exe"
+  },
+  {
+    "Version": "5.2",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "zip",
+    "InstallerType": "Default",
+    "Date": "02/28/2024",
+    "Size": 11712053,
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.2/teraterm-5.2.zip"
+  }
 ]

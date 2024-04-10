@@ -1,34 +1,34 @@
-﻿[
-    {
-        "Version":  "jdk-11.0.22+7",
-        "ImageType":  "jdk",
-        "Date":  "2024-01-17T13:17:00Z",
-        "Architecture":  "x64",
-        "Type":  "msi",
-        "URI":  "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_x64.msi"
-    },
-    {
-        "Version":  "jdk-11.0.22+7",
-        "ImageType":  "jre",
-        "Date":  "2024-01-17T13:17:00Z",
-        "Architecture":  "x64",
-        "Type":  "msi",
-        "URI":  "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_x64.msi"
-    },
-    {
-        "Version":  "jdk-11.0.22+7",
-        "ImageType":  "jdk",
-        "Date":  "2024-01-17T13:17:00Z",
-        "Architecture":  "x86",
-        "Type":  "msi",
-        "URI":  "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_i686.msi"
-    },
-    {
-        "Version":  "jdk-11.0.22+7",
-        "ImageType":  "jre",
-        "Date":  "2024-01-17T13:17:00Z",
-        "Architecture":  "x86",
-        "Type":  "msi",
-        "URI":  "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_i686.msi"
-    }
+[
+  {
+    "Version": "jdk-11.0.22+7",
+    "ImageType": "jdk",
+    "Date": "2024-01-17T13:17:00Z",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_x64.msi"
+  },
+  {
+    "Version": "jdk-11.0.22+7",
+    "ImageType": "jre",
+    "Date": "2024-01-17T13:17:00Z",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_x64.msi"
+  },
+  {
+    "Version": "jdk-11.0.22+7",
+    "ImageType": "jdk",
+    "Date": "2024-01-17T13:17:00Z",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.22-win_i686.msi"
+  },
+  {
+    "Version": "jdk-11.0.22+7",
+    "ImageType": "jre",
+    "Date": "2024-01-17T13:17:00Z",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jre11.0.22-win_i686.msi"
+  }
 ]

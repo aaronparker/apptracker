@@ -1,12 +1,12 @@
-﻿[
-    {
-        "Version":  "1.3.0",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2022-07-06T12:12:05Z",
-        "Size":  429816,
-        "URI":  "https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe"
-    }
+[
+  {
+    "Version": "1.3.0",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "07/06/2022",
+    "Size": 429816,
+    "URI": "https://github.com/RDAnalyzer/connection-experience-indicator/releases/download/v1.3.0/ExperienceIndicator.exe"
+  }
 ]

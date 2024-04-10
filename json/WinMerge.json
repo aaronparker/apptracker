@@ -1,42 +1,42 @@
-﻿[
-    {
-        "Version":  "2.16.38",
-        "Platform":  "Windows",
-        "Architecture":  "ARM64",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-01-27T12:02:44Z",
-        "Size":  10696000,
-        "URI":  "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-ARM64-Setup.exe"
-    },
-    {
-        "Version":  "2.16.38",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-01-27T12:02:44Z",
-        "Size":  9879016,
-        "URI":  "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-x64-Setup.exe"
-    },
-    {
-        "Version":  "2.16.38",
-        "Platform":  "Windows",
-        "Architecture":  "x64",
-        "Type":  "exe",
-        "InstallerType":  "User",
-        "Date":  "2024-01-27T12:02:44Z",
-        "Size":  9879112,
-        "URI":  "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-x64-PerUser-Setup.exe"
-    },
-    {
-        "Version":  "2.16.38",
-        "Platform":  "Windows",
-        "Architecture":  "x86",
-        "Type":  "exe",
-        "InstallerType":  "Default",
-        "Date":  "2024-01-27T12:02:44Z",
-        "Size":  9306096,
-        "URI":  "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-Setup.exe"
-    }
+[
+  {
+    "Version": "2.16.38",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "01/27/2024",
+    "Size": 10696000,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-ARM64-Setup.exe"
+  },
+  {
+    "Version": "2.16.38",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "User",
+    "Date": "01/27/2024",
+    "Size": 9879112,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-x64-PerUser-Setup.exe"
+  },
+  {
+    "Version": "2.16.38",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "01/27/2024",
+    "Size": 9879016,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-x64-Setup.exe"
+  },
+  {
+    "Version": "2.16.38",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "01/27/2024",
+    "Size": 9306096,
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.38/WinMerge-2.16.38-Setup.exe"
+  }
 ]
