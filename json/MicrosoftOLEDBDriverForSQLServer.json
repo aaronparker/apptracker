@@ -1,26 +1,26 @@
-[
-  {
-    "Version": "19.3.2.0",
-    "Date": "2023-10-06T15:53:15+00:00",
-    "Size": 2981888,
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.2.0/arm64/msoledbsql.msi"
-  },
-  {
-    "Version": "19.3.2.0",
-    "Date": "2023-10-06T15:53:18+00:00",
-    "Size": 4894720,
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "19.3.2.0",
-    "Date": "2023-10-06T15:53:18+00:00",
-    "Size": 2805760,
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.2.0/x86/msoledbsql.msi"
-  }
+﻿[
+    {
+        "Version":  "19.3.2.0",
+        "Date":  "\/Date(1696607595000)\/",
+        "Size":  2981888,
+        "Architecture":  "ARM64",
+        "Type":  "msi",
+        "URI":  "https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.2.0/arm64/msoledbsql.msi"
+    },
+    {
+        "Version":  "19.3.2.0",
+        "Date":  "\/Date(1696607598000)\/",
+        "Size":  4894720,
+        "Architecture":  "x64",
+        "Type":  "msi",
+        "URI":  "https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.2.0/x64/msoledbsql.msi"
+    },
+    {
+        "Version":  "19.3.2.0",
+        "Date":  "\/Date(1696607598000)\/",
+        "Size":  2805760,
+        "Architecture":  "x86",
+        "Type":  "msi",
+        "URI":  "https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.2.0/x86/msoledbsql.msi"
+    }
 ]

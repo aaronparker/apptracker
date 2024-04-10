@@ -1,202 +1,202 @@
-[
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "msi",
-    "Architecture": "AMD64",
-    "Sha1": "d5f5589115ceccf4ab92178d8d3349e0eefa6d5b",
-    "Size": 144244736,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-full.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "msi",
-    "Architecture": "AMD64",
-    "Sha1": "e9e96b78131e379625a9735367faaae361e0d863",
-    "Size": 53182464,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-lite.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "msi",
-    "Architecture": "AMD64",
-    "Sha1": "461df49997221cd133e56db1169f78ef0d517fd8",
-    "Size": 104120320,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre",
-    "Type": "msi",
-    "Architecture": "AMD64",
-    "Sha1": "eccf99e973c685aad353b1a1de64dca7954b019c",
-    "Size": 40767488,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre-full",
-    "Type": "msi",
-    "Architecture": "AMD64",
-    "Sha1": "077dcf7410516c0088493a2920285dbc3d3a95fe",
-    "Size": 79245312,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64-full.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre-full",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "b566efa7a229c28a9c7e92a99c6e04e3c86075a2",
-    "Size": 72544256,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586-full.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "55818f68b6e3c9b6d9d8fe5b1d996f9cba6565b9",
-    "Size": 104960000,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "c9fcb3cf4b2a23bddbe6f106f2b4bb7d9d90f793",
-    "Size": 52269056,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-lite.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "9731926d6e382fd8cd19a22425c233faf52d57c4",
-    "Size": 139919360,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-full.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "05c51939d057331db7b084c61cbd9c2a3b8ebd91",
-    "Size": 39092224,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586.msi"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "zip",
-    "Architecture": "AMD64",
-    "Sha1": "296b3ba0434c06aaadbdd1ebda751fd5c9169a3e",
-    "Size": 148686754,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-full.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "zip",
-    "Architecture": "AMD64",
-    "Sha1": "e01941925e60a844345c5dd8daebfe4e1ece0cc8",
-    "Size": 53635050,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-lite.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "zip",
-    "Architecture": "AMD64",
-    "Sha1": "ac4f1ab7522768949f8ff5b324a4c920e8ca026f",
-    "Size": 108403654,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre",
-    "Type": "zip",
-    "Architecture": "AMD64",
-    "Sha1": "a77adb93e66a1ef4162724561234edcfa95f7c07",
-    "Size": 39887949,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre-full",
-    "Type": "zip",
-    "Architecture": "AMD64",
-    "Sha1": "98ba56c6c9a7b5676991122748648950e0b1571a",
-    "Size": 78541030,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64-full.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "6ca75646f842572a8b54f34564bf5b924532a396",
-    "Size": 144306016,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-full.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "9800eb09e9b62939e24871a42a15756d6849989d",
-    "Size": 52661604,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-lite.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "1ccdade224c66ad9992d92b111373004b893f6cb",
-    "Size": 109174397,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre-full",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "2058b34c33c7a5a8b0be9436b1c6236f3dfacd5e",
-    "Size": 71822532,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586-full.zip"
-  },
-  {
-    "Version": "8u402+7",
-    "LTS": true,
-    "BundleType": "jre",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "f962d30780d9169945545441d049c03d624b6783",
-    "Size": 38224851,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586.zip"
-  }
+﻿[
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-lite",
+        "Type":  "msi",
+        "Architecture":  "AMD64",
+        "Sha1":  "e9e96b78131e379625a9735367faaae361e0d863",
+        "Size":  53182464,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-lite.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk",
+        "Type":  "msi",
+        "Architecture":  "AMD64",
+        "Sha1":  "461df49997221cd133e56db1169f78ef0d517fd8",
+        "Size":  104120320,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-full",
+        "Type":  "msi",
+        "Architecture":  "AMD64",
+        "Sha1":  "d5f5589115ceccf4ab92178d8d3349e0eefa6d5b",
+        "Size":  144244736,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-full.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre-full",
+        "Type":  "msi",
+        "Architecture":  "AMD64",
+        "Sha1":  "077dcf7410516c0088493a2920285dbc3d3a95fe",
+        "Size":  79245312,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64-full.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre",
+        "Type":  "msi",
+        "Architecture":  "AMD64",
+        "Sha1":  "eccf99e973c685aad353b1a1de64dca7954b019c",
+        "Size":  40767488,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre-full",
+        "Type":  "msi",
+        "Architecture":  "x86",
+        "Sha1":  "b566efa7a229c28a9c7e92a99c6e04e3c86075a2",
+        "Size":  72544256,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586-full.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre",
+        "Type":  "msi",
+        "Architecture":  "x86",
+        "Sha1":  "05c51939d057331db7b084c61cbd9c2a3b8ebd91",
+        "Size":  39092224,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk",
+        "Type":  "msi",
+        "Architecture":  "x86",
+        "Sha1":  "55818f68b6e3c9b6d9d8fe5b1d996f9cba6565b9",
+        "Size":  104960000,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-lite",
+        "Type":  "msi",
+        "Architecture":  "x86",
+        "Sha1":  "c9fcb3cf4b2a23bddbe6f106f2b4bb7d9d90f793",
+        "Size":  52269056,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-lite.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-full",
+        "Type":  "msi",
+        "Architecture":  "x86",
+        "Sha1":  "9731926d6e382fd8cd19a22425c233faf52d57c4",
+        "Size":  139919360,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-full.msi"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-lite",
+        "Type":  "zip",
+        "Architecture":  "AMD64",
+        "Sha1":  "e01941925e60a844345c5dd8daebfe4e1ece0cc8",
+        "Size":  53635050,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-lite.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-full",
+        "Type":  "zip",
+        "Architecture":  "AMD64",
+        "Sha1":  "296b3ba0434c06aaadbdd1ebda751fd5c9169a3e",
+        "Size":  148686754,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64-full.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre",
+        "Type":  "zip",
+        "Architecture":  "AMD64",
+        "Sha1":  "a77adb93e66a1ef4162724561234edcfa95f7c07",
+        "Size":  39887949,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk",
+        "Type":  "zip",
+        "Architecture":  "AMD64",
+        "Sha1":  "ac4f1ab7522768949f8ff5b324a4c920e8ca026f",
+        "Size":  108403654,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-amd64.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre-full",
+        "Type":  "zip",
+        "Architecture":  "AMD64",
+        "Sha1":  "98ba56c6c9a7b5676991122748648950e0b1571a",
+        "Size":  78541030,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-amd64-full.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-lite",
+        "Type":  "zip",
+        "Architecture":  "x86",
+        "Sha1":  "9800eb09e9b62939e24871a42a15756d6849989d",
+        "Size":  52661604,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-lite.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk",
+        "Type":  "zip",
+        "Architecture":  "x86",
+        "Sha1":  "1ccdade224c66ad9992d92b111373004b893f6cb",
+        "Size":  109174397,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre-full",
+        "Type":  "zip",
+        "Architecture":  "x86",
+        "Sha1":  "2058b34c33c7a5a8b0be9436b1c6236f3dfacd5e",
+        "Size":  71822532,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586-full.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jre",
+        "Type":  "zip",
+        "Architecture":  "x86",
+        "Sha1":  "f962d30780d9169945545441d049c03d624b6783",
+        "Size":  38224851,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jre8u402+7-windows-i586.zip"
+    },
+    {
+        "Version":  "8u402+7",
+        "LTS":  true,
+        "BundleType":  "jdk-full",
+        "Type":  "zip",
+        "Architecture":  "x86",
+        "Sha1":  "6ca75646f842572a8b54f34564bf5b924532a396",
+        "Size":  144306016,
+        "URI":  "https://github.com/bell-sw/Liberica/releases/download/8u402+7/bellsoft-jdk8u402+7-windows-i586-full.zip"
+    }
 ]

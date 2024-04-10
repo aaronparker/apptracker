@@ -1,6 +1,6 @@
-[
-  {
-    "Version": "5.7.1",
-    "URI": "https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.7.1.exe"
-  }
+﻿[
+    {
+        "Version":  "5.7.1",
+        "URI":  "https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.7.1.exe"
+    }
 ]

@@ -1,12 +1,12 @@
-[
-  {
-    "Version": "3.2.10",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
-    "Date": "02/22/2024",
-    "Size": 79346664,
-    "URI": "https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe"
-  }
+﻿[
+    {
+        "Version":  "3.2.10",
+        "Platform":  "Windows",
+        "Architecture":  "x86",
+        "Type":  "exe",
+        "InstallerType":  "Default",
+        "Date":  "2024-02-22T05:27:43Z",
+        "Size":  79346664,
+        "URI":  "https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe"
+    }
 ]

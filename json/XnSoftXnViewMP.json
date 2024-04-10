@@ -1,14 +1,14 @@
-[
-  {
-    "Version": "1.7.1",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://download.xnview.com/XnViewMP-win-x64.exe"
-  },
-  {
-    "Version": "1.7.1",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://download.xnview.com/XnViewMP-win.exe"
-  }
+﻿[
+    {
+        "Version":  "1.7.1",
+        "Architecture":  "x64",
+        "Type":  "exe",
+        "URI":  "https://download.xnview.com/XnViewMP-win-x64.exe"
+    },
+    {
+        "Version":  "1.7.1",
+        "Architecture":  "x86",
+        "Type":  "exe",
+        "URI":  "https://download.xnview.com/XnViewMP-win.exe"
+    }
 ]
