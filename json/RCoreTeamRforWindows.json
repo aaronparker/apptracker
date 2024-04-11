@@ -1,4 +1,6 @@
-{
-  "Version": "4.3.3",
-  "URI": "https://cran.r-project.org/bin/windows/base/R-4.3.3-win.exe"
-}
+[
+  {
+    "Version": "4.3.3",
+    "URI": "https://cran.r-project.org/bin/windows/base/R-4.3.3-win.exe"
+  }
+]

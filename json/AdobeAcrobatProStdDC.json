@@ -2,25 +2,25 @@
   {
     "Version": "24.001.20643",
     "Architecture": "x64",
-    "Sku": "Standard",
+    "Sku": "Pro",
     "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip"
   },
   {
     "Version": "24.001.20643",
     "Architecture": "x64",
-    "Sku": "Pro",
+    "Sku": "Standard",
     "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_x64_WWMUI.zip"
   },
   {
     "Version": "24.001.20643",
     "Architecture": "x86",
-    "Sku": "Standard",
+    "Sku": "Pro",
     "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip"
   },
   {
     "Version": "24.001.20643",
     "Architecture": "x86",
-    "Sku": "Pro",
+    "Sku": "Standard",
     "URI": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/win32/Acrobat_DC_Web_WWMUI.zip"
   }
 ]

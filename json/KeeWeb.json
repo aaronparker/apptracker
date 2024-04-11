@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
+    "Date": "07/18/2021",
     "Size": 59490304,
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
+    "Date": "07/18/2021",
     "Size": 63026752,
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.exe"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
+    "Date": "07/18/2021",
     "Size": 60156888,
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.exe"
   },
@@ -35,7 +35,7 @@
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
+    "Date": "07/18/2021",
     "Size": 85382735,
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.arm64.zip"
   },
@@ -45,7 +45,7 @@
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
+    "Date": "07/18/2021",
     "Size": 83753334,
     "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.x64.zip"
   },
@@ -55,9 +55,9 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
-    "Size": 79082537,
-    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.zip"
+    "Date": "07/18/2021",
+    "Size": 7160996,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.html.zip"
   },
   {
     "Version": "1.18.7",
@@ -65,8 +65,8 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2021-07-18T14:21:55Z",
-    "Size": 7160996,
-    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.html.zip"
+    "Date": "07/18/2021",
+    "Size": 79082537,
+    "URI": "https://github.com/keeweb/keeweb/releases/download/v1.18.7/KeeWeb-1.18.7.win.ia32.zip"
   }
 ]

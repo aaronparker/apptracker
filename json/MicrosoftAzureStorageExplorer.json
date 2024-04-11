@@ -1,10 +1,12 @@
-{
-  "Version": "1.33.1",
-  "Platform": "Windows",
-  "Architecture": "x64",
-  "Type": "exe",
-  "InstallerType": "Default",
-  "Date": "2023-03-28T00:15:47Z",
-  "Size": 132311512,
-  "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.33.1/StorageExplorer-windows-x64.exe"
-}
+[
+  {
+    "Version": "1.33.1",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "03/28/2023",
+    "Size": 132311512,
+    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.33.1/StorageExplorer-windows-x64.exe"
+  }
+]

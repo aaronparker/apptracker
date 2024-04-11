@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 5365760,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-ARM64-v9.5.0.0.msi"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 5742592,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win64-v9.5.0.0.msi"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 5091328,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win32-v9.5.0.0.msi"
   },
@@ -35,7 +35,7 @@
     "Architecture": "ARM32",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 4074966,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-ARM.zip"
   },
@@ -45,7 +45,7 @@
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 4090699,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-ARM64.zip"
   },
@@ -55,7 +55,7 @@
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 4856219,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win64.zip"
   },
@@ -65,7 +65,7 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2023-10-23T17:36:48Z",
+    "Date": "10/23/2023",
     "Size": 4184892,
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win32.zip"
   }
