@@ -1,10 +1,12 @@
-{
-  "Version": "v21-build1",
-  "Platform": "Windows",
-  "Architecture": "x86",
-  "Type": "exe",
-  "InstallerType": "Default",
-  "Date": "2024-02-20T16:32:46Z",
-  "Size": 589699352,
-  "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe"
-}
+[
+  {
+    "Version": "v21-build1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "02/20/2024",
+    "Size": 589699352,
+    "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe"
+  }
+]

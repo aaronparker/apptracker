@@ -1,9 +1,11 @@
-{
-  "Version": "17.5.1",
-  "ReleaseDate": "2024-02-27T00:00:00Z",
-  "Md5": "5151f645be318233e20e2b52c329b529",
-  "Sha256": "0ed4da2275cb379628717726226a5f60f0c563ad043ae555dedffc503f9795a0",
-  "Size": "594.29 MB",
-  "Type": "exe",
-  "URI": "https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe"
-}
+[
+  {
+    "Version": "17.5.1",
+    "ReleaseDate": "2024-02-27T00:00:00",
+    "Md5": "5151f645be318233e20e2b52c329b529",
+    "Sha256": "0ed4da2275cb379628717726226a5f60f0c563ad043ae555dedffc503f9795a0",
+    "Size": "594.29 MB",
+    "Type": "exe",
+    "URI": "https://download3.vmware.com/software/WKST-1751-WIN/VMware-workstation-full-17.5.1-23298084.exe"
+  }
+]

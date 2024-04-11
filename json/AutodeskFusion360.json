@@ -1,8 +1,10 @@
-{
-  "Version": "2.0.18719",
-  "BuildVersion": "2.0.18719",
-  "MajorBuildVersion": "2.0.1986",
-  "Type": "exe",
-  "Filename": "Fusion 360 Admin Install.exe",
-  "URI": "https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe"
-}
+[
+  {
+    "Version": "2.0.18950",
+    "BuildVersion": "2.0.18950",
+    "MajorBuildVersion": "2.0.1986",
+    "Type": "exe",
+    "Filename": "Fusion 360 Admin Install.exe",
+    "URI": "https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe"
+  }
+]

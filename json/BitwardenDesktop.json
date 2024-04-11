@@ -1,5 +1,7 @@
-{
-  "Version": "2024.3.2",
-  "Type": "exe",
-  "URI": "https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2024.3.2.exe"
-}
+[
+  {
+    "Version": "2024.4.0",
+    "Type": "exe",
+    "URI": "https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2024.4.0.exe"
+  }
+]

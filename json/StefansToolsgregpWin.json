@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2023-06-10T12:41:37Z",
+    "Date": "06/10/2023",
     "Size": 1687552,
     "URI": "https://github.com/stefankueng/grepWin/releases/download/2.0.15/grepWin-2.0.15-x64.msi"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2023-06-10T12:41:37Z",
+    "Date": "06/10/2023",
     "Size": 868352,
     "URI": "https://github.com/stefankueng/grepWin/releases/download/2.0.15/grepWin-2.0.15.msi"
   }

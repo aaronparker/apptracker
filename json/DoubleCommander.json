@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2024-04-07T11:03:31Z",
+    "Date": "04/07/2024",
     "Size": 10060603,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2024-04-07T11:03:31Z",
+    "Date": "04/07/2024",
     "Size": 9469830,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.exe"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2024-04-07T11:03:31Z",
+    "Date": "04/07/2024",
     "Size": 16284146,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.msi"
   },
@@ -35,7 +35,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "2024-04-07T11:03:31Z",
+    "Date": "04/07/2024",
     "Size": 15288769,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.msi"
   },
@@ -45,7 +45,7 @@
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2024-04-07T11:03:31Z",
+    "Date": "04/07/2024",
     "Size": 15656739,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.x86_64-win64.zip"
   },
@@ -55,7 +55,7 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "2024-04-07T11:03:31Z",
+    "Date": "04/07/2024",
     "Size": 14658680,
     "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.12/doublecmd-1.1.12.i386-win32.zip"
   }
