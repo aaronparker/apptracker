@@ -3,7 +3,7 @@ title: Autodesk Fusion 360
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 10 2024 at 12:33 AM
+last_modified_date: Apr 11 2024 at 12:33 AM
 ---
 
 ## Autodesk Fusion 360
@@ -14,4 +14,4 @@ Evergreen app: `AutodeskFusion360`
 
 | Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                                                                                                                            |
 | --------- | ------------ | ----------------- | ---- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.0.18719 | 2.0.18719    | 2.0.1986          | exe  | Fusion 360 Admin Install.exe | [https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe](https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe) |
+| 2.0.18950 | 2.0.18950    | 2.0.1986          | exe  | Fusion 360 Admin Install.exe | [https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe](https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe) |
