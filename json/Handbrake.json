@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "02/10/2024",
+    "Date": "2024-02-10T22:46:29Z",
     "Size": 17517960,
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-arm64-Win_GUI.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "02/10/2024",
+    "Date": "2024-02-10T22:46:29Z",
     "Size": 23646760,
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-x86_64-Win_GUI.exe"
   },
@@ -25,9 +25,9 @@
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "02/10/2024",
-    "Size": 25999227,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-arm64-Win_GUI.zip"
+    "Date": "2024-02-10T22:46:29Z",
+    "Size": 16951694,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrakeCLI-1.7.3-win-aarch64.zip"
   },
   {
     "Version": "1.7.3",
@@ -35,9 +35,9 @@
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "02/10/2024",
-    "Size": 16951694,
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrakeCLI-1.7.3-win-aarch64.zip"
+    "Date": "2024-02-10T22:46:29Z",
+    "Size": 25999227,
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-arm64-Win_GUI.zip"
   },
   {
     "Version": "1.7.3",
@@ -45,7 +45,7 @@
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "02/10/2024",
+    "Date": "2024-02-10T22:46:29Z",
     "Size": 32995201,
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrake-1.7.3-x86_64-Win_GUI.zip"
   },
@@ -55,7 +55,7 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "02/10/2024",
+    "Date": "2024-02-10T22:46:29Z",
     "Size": 21952792,
     "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.7.3/HandBrakeCLI-1.7.3-win-x86_64.zip"
   }

@@ -1,9 +1,7 @@
-[
-  {
-    "Version": "24.3.3.0",
-    "Date": "03/27/2024",
-    "Size": "53084224",
-    "Hash": "vr3zzWURmdFaqUjm3zgE+AoqRoDIxWltnb3LhTGWf0vbd/E9OqI7oQ==",
-    "URI": "https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v24.3.3.0.exe"
-  }
-]
+{
+  "Version": "19.12.27.0",
+  "Date": "1/17/2020",
+  "Size": "30198960",
+  "Hash": "rTZne6A2d/8TnagOLSshkqOxO0ZQUBM5x5vUm1qxjxO0TOV43bm6Rw==",
+  "URI": "https://www.sf-cdn.net/downloads/cfwin/CitrixFilesForWindows-v19.12.27.0.exe"
+}

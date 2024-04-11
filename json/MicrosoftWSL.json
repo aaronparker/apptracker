@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "03/07/2024",
+    "Date": "2024-03-07T19:53:04Z",
     "Size": 123244544,
     "URI": "https://github.com/microsoft/WSL/releases/download/2.1.5/wsl.2.1.5.0.ARM64.msi"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "03/07/2024",
+    "Date": "2024-03-07T19:53:04Z",
     "Size": 133984256,
     "URI": "https://github.com/microsoft/WSL/releases/download/2.1.5/wsl.2.1.5.0.x64.msi"
   },
@@ -25,7 +25,7 @@
     "Architecture": "ARM64",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "03/07/2024",
+    "Date": "2024-03-07T19:53:04Z",
     "Size": 257123076,
     "URI": "https://github.com/microsoft/WSL/releases/download/2.1.5/Microsoft.WSL_2.1.5.0_x64_ARM64.msixbundle"
   }

@@ -1,7 +1,5 @@
-[
-  {
-    "Version": "24.3.8860",
-    "Type": "Free",
-    "URI": "https://www.masterpackager.com/installer/masterpackager_24.3.8860.msi"
-  }
-]
+{
+  "Version": "24.3.8860",
+  "Type": "Free",
+  "URI": "https://www.masterpackager.com/installer/masterpackager_24.3.8860.msi"
+}
