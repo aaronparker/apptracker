@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "04/05/2024",
+    "Date": "2024-04-05T19:18:00Z",
     "Size": 72392456,
     "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-4.2.9-portable.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/05/2024",
+    "Date": "2024-04-05T19:18:00Z",
     "Size": 72555440,
     "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-Setup-4.2.9.exe"
   }

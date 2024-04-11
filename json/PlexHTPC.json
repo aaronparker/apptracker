@@ -1,8 +1,6 @@
-[
-  {
-    "Version": "1.59.0.121-1c051efb",
-    "Architecture": "x64",
-    "Checksum": "43a6b2bec56911a125ad847532892e37d1a81e9a",
-    "URI": "https://downloads.plex.tv/htpc/1.59.0.121-1c051efb/windows/PlexHTPC-1.59.0.121-1c051efb-x86_64.exe"
-  }
-]
+{
+  "Version": "1.59.0.121-1c051efb",
+  "Architecture": "x64",
+  "Checksum": "43a6b2bec56911a125ad847532892e37d1a81e9a",
+  "URI": "https://downloads.plex.tv/htpc/1.59.0.121-1c051efb/windows/PlexHTPC-1.59.0.121-1c051efb-x86_64.exe"
+}

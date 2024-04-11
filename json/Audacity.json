@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/16/2023",
+    "Date": "2023-11-16T11:58:21Z",
     "Size": 15819112,
     "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-64bit.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/16/2023",
+    "Date": "2023-11-16T11:58:21Z",
     "Size": 14438904,
     "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-32bit.exe"
   }

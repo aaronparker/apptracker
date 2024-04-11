@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/07/2022",
+    "Date": "2022-03-07T23:18:58Z",
     "Size": 198986592,
     "URI": "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/07/2022",
+    "Date": "2022-03-07T23:18:58Z",
     "Size": 193334112,
     "URI": "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe"
   }

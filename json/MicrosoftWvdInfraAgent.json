@@ -1,9 +1,7 @@
-[
-  {
-    "Version": "1.0.8297.800",
-    "Date": "Tue, 20 Feb 2024 20:36:36 GMT",
-    "Architecture": "x64",
-    "Filename": "Microsoft.RDInfra.RDAgent.Installer-x64-1.0.8297.800.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv"
-  }
-]
+{
+  "Version": "1.0.8297.800",
+  "Date": "T",
+  "Architecture": "x64",
+  "Filename": "Microsoft.RDInfra.RDAgent.Installer-x64-1.0.8297.800.msi",
+  "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrmXv"
+}
