@@ -303,3 +303,4 @@ json/mRemoteNG.json
 json/mySQLWorkbench.json
 json/stealthpuppyWindowsCustomisedDefaults.json
 json/voidtoolsEverything.json
+json/MicrosoftWvdBootloader.json

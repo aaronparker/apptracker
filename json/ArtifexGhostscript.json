@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2024-03-07T09:53:09Z",
+    "Date": "03/07/2024",
     "Size": 64553528,
     "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w64.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2024-03-07T09:53:09Z",
+    "Date": "03/07/2024",
     "Size": 52675624,
     "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w32.exe"
   }

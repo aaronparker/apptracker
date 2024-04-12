@@ -1,8 +1,10 @@
-{
-  "Version": "5.2.1",
-  "Date": "3/13/2024",
-  "Size": 44262456,
-  "MD5": "6317d7ad4b64f7964f41ee6cb8f848be",
-  "Filename": "PDFCreator-5_2_1-Setup.exe",
-  "URI": "https://download.pdfforge.org/download/pdfcreator/5.2.1/PDFCreator-5_2_1-Setup.exe?file=PDFCreator-5_2_1-Setup.exe&download"
-}
+[
+  {
+    "Version": "5.2.1",
+    "Date": "03/13/2024",
+    "Size": 44262456,
+    "MD5": "6317d7ad4b64f7964f41ee6cb8f848be",
+    "Filename": "PDFCreator-5_2_1-Setup.exe",
+    "URI": "https://download.pdfforge.org/download/pdfcreator/5.2.1/PDFCreator-5_2_1-Setup.exe?file=PDFCreator-5_2_1-Setup.exe&download"
+  }
+]

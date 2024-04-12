@@ -1,10 +1,12 @@
-{
-  "Version": "5.0.1",
-  "Platform": "Windows",
-  "Architecture": "x86",
-  "Type": "exe",
-  "InstallerType": "Default",
-  "Date": "2024-04-01T12:29:06Z",
-  "Size": 33628880,
-  "URI": "https://github.com/containers/podman/releases/download/v5.0.1/podman-5.0.1-setup.exe"
-}
+[
+  {
+    "Version": "5.0.1",
+    "Platform": "Windows",
+    "Architecture": "x86",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "04/01/2024",
+    "Size": 33628880,
+    "URI": "https://github.com/containers/podman/releases/download/v5.0.1/podman-5.0.1-setup.exe"
+  }
+]
