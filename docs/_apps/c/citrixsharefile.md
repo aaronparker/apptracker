@@ -3,7 +3,7 @@ title: Citrix ShareFile for Windows
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## Citrix ShareFile for Windows
@@ -12,6 +12,6 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `CitrixShareFile`
 
-| Version    | Date      | Size     | Hash                                                     | URI                                                                                                                                                          |
-| ---------- | --------- | -------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 19.12.27.0 | 1/17/2020 | 30198960 | rTZne6A2d/8TnagOLSshkqOxO0ZQUBM5x5vUm1qxjxO0TOV43bm6Rw== | [https://www.sf-cdn.net/downloads/cfwin/CitrixFilesForWindows-v19.12.27.0.exe](https://www.sf-cdn.net/downloads/cfwin/CitrixFilesForWindows-v19.12.27.0.exe) |
+| Version  | Date       | Size     | Hash                                                     | URI                                                                                                                                                  |
+| -------- | ---------- | -------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 24.3.3.0 | 03/27/2024 | 53084224 | vr3zzWURmdFaqUjm3zgE+AoqRoDIxWltnb3LhTGWf0vbd/E9OqI7oQ== | [https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v24.3.3.0.exe](https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v24.3.3.0.exe) |

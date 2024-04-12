@@ -3,7 +3,7 @@ title: JetBrains Gateway
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## JetBrains Gateway
@@ -12,6 +12,6 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `JetBrainsGateway`
 
-| Version | Build         | Edition | Sha256                                                                         | Date     | Size      | Type | URI                                                                                                                                                |
-| ------- | ------------- | ------- | ------------------------------------------------------------------------------ | -------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.1  | 241.14494.255 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe.sha256 | 4/4/2024 | 205421560 | exe  | [https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe](https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe) |
+| Version | Build         | Edition | Sha256                                                                         | Date       | Size      | Type | URI                                                                                                                                                |
+| ------- | ------------- | ------- | ------------------------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.1  | 241.14494.255 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe.sha256 | 04/04/2024 | 205421560 | exe  | [https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe](https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.1.exe) |

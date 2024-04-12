@@ -3,7 +3,7 @@ title: Proton VPN
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## Proton VPN
@@ -12,6 +12,6 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `ProtonVPN`
 
-| Version | Platform | Architecture | Type | InstallerType | Date                | Size     | URI                                                                                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.2.10  | Windows  | x86          | exe  | Default       | 02/22/2024 05:27:43 | 79346664 | [https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe](https://github.com/ProtonVPN/win-app/releases/download/3.2.10/ProtonVPN_v3.2.10.exe) |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.2.11  | Windows  | x86          | exe  | Default       | 04/11/2024 | 79387320 | [https://github.com/ProtonVPN/win-app/releases/download/3.2.11/ProtonVPN_v3.2.11.exe](https://github.com/ProtonVPN/win-app/releases/download/3.2.11/ProtonVPN_v3.2.11.exe) |

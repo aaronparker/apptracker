@@ -3,7 +3,7 @@ title: Terminals
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## Terminals
@@ -12,6 +12,6 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `Terminals`
 
-| Version | Platform | Architecture | Type | InstallerType | Date                | Size    | URI                                                                                                                                                                                              |
-| ------- | -------- | ------------ | ---- | ------------- | ------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4.0.1   | Windows  | x86          | msi  | Minimal       | 06/21/2017 23:07:43 | 4960256 | [https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi](https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi) |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                                                                              |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4.0.1   | Windows  | x86          | msi  | Minimal       | 06/21/2017 | 4960256 | [https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi](https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi) |

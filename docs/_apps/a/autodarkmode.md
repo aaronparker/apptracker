@@ -3,7 +3,7 @@ title: Windows Auto Dark Mode
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## Windows Auto Dark Mode
@@ -12,7 +12,7 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `AutoDarkMode`
 
-| Version  | Platform | Architecture | Type | InstallerType | Date                | Size     | URI                                                                                                                                                                                                                            |
-| -------- | -------- | ------------ | ---- | ------------- | ------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 10.4.1.1 | Windows  | x86          | exe  | Default       | 09/23/2023 08:22:03 | 56453224 | [https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.exe](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.exe) |
-| 10.4.1.1 | Windows  | x86          | zip  | Default       | 09/23/2023 08:22:03 | 76653096 | [https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.zip](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.zip) |
+| Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                            |
+| -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 10.4.1.1 | Windows  | x86          | exe  | Default       | 09/23/2023 | 56453224 | [https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.exe](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.exe) |
+| 10.4.1.1 | Windows  | x86          | zip  | Default       | 09/23/2023 | 76653096 | [https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.zip](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.zip) |

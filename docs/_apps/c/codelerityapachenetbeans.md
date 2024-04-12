@@ -3,7 +3,7 @@ title: Codelerity Apache NetBeans
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## Codelerity Apache NetBeans
@@ -12,6 +12,6 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `CodelerityApacheNetBeans`
 
-| Version    | Platform | Architecture | Type | InstallerType | Date                | Size      | URI                                                                                                                                                                                                            |
-| ---------- | -------- | ------------ | ---- | ------------- | ------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| v21-build1 | Windows  | x86          | exe  | Default       | 02/20/2024 16:32:46 | 589699352 | [https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe](https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe) |
+| Version    | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                                            |
+| ---------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| v21-build1 | Windows  | x86          | exe  | Default       | 02/20/2024 | 589699352 | [https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe](https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe) |

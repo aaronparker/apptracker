@@ -3,7 +3,7 @@ title: VisualCppRedistAIO
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Apr 11 2024 at 12:33 AM
+last_modified_date: Apr 12 2024 at 12:30 AM
 ---
 
 ## VisualCppRedistAIO
@@ -12,6 +12,6 @@ last_modified_date: Apr 11 2024 at 12:33 AM
 
 Evergreen app: `VisualCppRedistAIO`
 
-| Version | Platform | Architecture | Type | InstallerType | Date                | Size     | URI                                                                                                                                                                                                        |
-| ------- | -------- | ------------ | ---- | ------------- | ------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.80.0  | Windows  | x64          | zip  | Default       | 03/29/2024 12:51:26 | 28925195 | [https://github.com/abbodi1406/vcredist/releases/download/v0.80.0/VisualCppRedist_AIO_x86_x64_80.zip](https://github.com/abbodi1406/vcredist/releases/download/v0.80.0/VisualCppRedist_AIO_x86_x64_80.zip) |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                        |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.81.0  | Windows  | x64          | zip  | Default       | 04/11/2024 | 28927394 | [https://github.com/abbodi1406/vcredist/releases/download/v0.81.0/VisualCppRedist_AIO_x86_x64_81.zip](https://github.com/abbodi1406/vcredist/releases/download/v0.81.0/VisualCppRedist_AIO_x86_x64_81.zip) |
