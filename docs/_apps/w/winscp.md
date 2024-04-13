@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: Apr 13 2024 at 12:24 AM
+last_modified_date: Apr 13 2024 at 12:12 PM
 ---
 
 ## WinSCP
@@ -12,7 +12,7 @@ last_modified_date: Apr 13 2024 at 12:24 AM
 
 Evergreen app: `WinSCP`
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                              |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.3.2   | x86          | exe  | 11587336 | c597d8da9d435b865a60c030aa9589ac | [https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe](https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe) |
-| 6.3.2   | x86          | msi  | 27951104 | 2c1b71fc86324bf5af53ec2c63030191 | [https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi](https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi)             |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                            |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 6.3.2   | x86          | exe  | 11587336 | c597d8da9d435b865a60c030aa9589ac | [https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe](https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe) |
+| 6.3.2   | x86          | msi  | 27951104 | 2c1b71fc86324bf5af53ec2c63030191 | [https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi](https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi)             |

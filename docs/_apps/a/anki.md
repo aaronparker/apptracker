@@ -3,7 +3,7 @@ title: Anki
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 13 2024 at 12:12 PM
 ---
 
 ## Anki
@@ -12,7 +12,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `Anki`
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 24.04   | Windows  | x86          | exe  | Default       | 03/31/2024 | 125570696 | [https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt5.exe](https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt5.exe) |
-| 24.04   | Windows  | x86          | exe  | Default       | 03/31/2024 | 152775856 | [https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt6.exe](https://github.com/ankitects/anki/releases/download/24.04/anki-24.04-windows-qt6.exe) |
+| Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                  |
+| ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 24.04.1 | Windows  | x86          | exe  | Default       | 04/13/2024 | 125105944 | [https://github.com/ankitects/anki/releases/download/24.04.1/anki-24.04.1-windows-qt5.exe](https://github.com/ankitects/anki/releases/download/24.04.1/anki-24.04.1-windows-qt5.exe) |
+| 24.04.1 | Windows  | x86          | exe  | Default       | 04/13/2024 | 152341992 | [https://github.com/ankitects/anki/releases/download/24.04.1/anki-24.04.1-windows-qt6.exe](https://github.com/ankitects/anki/releases/download/24.04.1/anki-24.04.1-windows-qt6.exe) |
