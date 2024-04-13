@@ -40,14 +40,14 @@
     "URI": "https://beta.unity3d.com/download/52ddac442a2c/Windows64EditorInstaller/UnitySetup64-2023.3.0b10.exe"
   },
   {
-    "Version": "6000.0.0b13",
+    "Version": "6000.0.0b15",
     "Release": "6000",
     "Channel": "beta",
     "LTS": false,
-    "Size": 3528786944,
-    "Checksum": "08b815081f9b6366eb11a18e8178349b",
+    "Size": 3589838848,
+    "Checksum": "d1864da4fd928189418b41afe0659a8d",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/21aeb48b6ed2/Windows64EditorInstaller/UnitySetup64-6000.0.0b13.exe"
+    "URI": "https://beta.unity3d.com/download/8008bc0c1b74/Windows64EditorInstaller/UnitySetup64-6000.0.0b15.exe"
   },
   {
     "Version": "2019.4.40f1",
