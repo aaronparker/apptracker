@@ -1,3 +1,7 @@
+<#
+    Gathers URLs from Evergreen and the App Tracker and posts them to the KV store
+#>
+
 # Read the application manifests and output URLs as a PSObject
 # $UrlMatch = "(http|https):\/\/(.*[a-zA-Z0-9_\-]+\.[a-zA-Z0-9_\-]+)/"
 # $UrlMatch = "(?:(?:http|https):\/\/)(.*[a-zA-Z0-9_\-]+\.[a-zA-Z0-9_\-]+)"
@@ -14,7 +18,7 @@ $Endpoints = Get-ChildItem -Path $EvergreenManifests -Recurse -Include "*.json" 
         Application = $_.BaseName
         Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
                             Select-Object -Unique | `
-                            Sort-Object) -replace "http://|https://", "").TrimEnd("/|#")))
+                            Sort-Object) -replace "http://|https://", "").TrimEnd("/|#|`",|`"")))
         Ports       = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | Select-Object -Unique))) | ForEach-Object {
                 if ($_ -match "http://") { "80" }
                 if ($_ -match "https://") { "443" }
@@ -31,7 +35,7 @@ $Endpoints = Get-ChildItem -Path $AppTrackerJson -Recurse -Include "*.json" | Fo
         Application = $_.BaseName
         Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
                             Select-Object -Unique | `
-                            Sort-Object) -replace "http://|https://", "").TrimEnd("/|#")))
+                            Sort-Object) -replace "http://|https://", "").TrimEnd("/|#|`",|`"")))
         Ports       = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | Select-Object -Unique))) | ForEach-Object {
                 if ($_ -match "http://") { "80" }
                 if ($_ -match "https://") { "443" }

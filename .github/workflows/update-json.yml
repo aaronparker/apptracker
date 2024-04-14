@@ -331,7 +331,7 @@ jobs:
                   Application = $_.BaseName
                   Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
                                       Select-Object -Unique | `
-                                      Sort-Object) -replace "http://|https://", "").TrimEnd("/|#")))
+                                      Sort-Object) -replace "http://|https://", "").TrimEnd("/|#|`",|`"")))
                   Ports       = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | Select-Object -Unique))) | ForEach-Object {
                           if ($_ -match "http://") { "80" }
                           if ($_ -match "https://") { "443" }
@@ -373,7 +373,7 @@ jobs:
                   Application = $_.BaseName
                   Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
                                       Select-Object -Unique | `
-                                      Sort-Object) -replace "http://|https://", "").TrimEnd("/|#")))
+                                      Sort-Object) -replace "http://|https://", "").TrimEnd("/|#|`",|`"")))
                   Ports       = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | Select-Object -Unique))) | ForEach-Object {
                           if ($_ -match "http://") { "80" }
                           if ($_ -match "https://") { "443" }
