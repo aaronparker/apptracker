@@ -1,52 +1,52 @@
 [
   {
-    "Version": "24.1.0",
+    "Version": "24.2.5",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/23/2024",
-    "Size": 113268992,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.1.0/draw.io-24.1.0-windows-installer.exe"
+    "Date": "04/12/2024",
+    "Size": 113269320,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.2.5/draw.io-24.2.5-windows-installer.exe"
   },
   {
-    "Version": "24.1.0",
+    "Version": "24.2.5",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/23/2024",
-    "Size": 113053480,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.1.0/draw.io-24.1.0-windows-no-installer.exe"
+    "Date": "04/12/2024",
+    "Size": 113053848,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.2.5/draw.io-24.2.5-windows-no-installer.exe"
   },
   {
-    "Version": "24.1.0",
+    "Version": "24.2.5",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/23/2024",
-    "Size": 97535672,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.1.0/draw.io-ia32-24.1.0-windows-32bit-installer.exe"
+    "Date": "04/12/2024",
+    "Size": 97535776,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.2.5/draw.io-ia32-24.2.5-windows-32bit-installer.exe"
   },
   {
-    "Version": "24.1.0",
+    "Version": "24.2.5",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "03/23/2024",
-    "Size": 97320624,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.1.0/draw.io-ia32-24.1.0-windows-32bit-no-installer.exe"
+    "Date": "04/12/2024",
+    "Size": 97320752,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.2.5/draw.io-ia32-24.2.5-windows-32bit-no-installer.exe"
   },
   {
-    "Version": "24.1.0",
+    "Version": "24.2.5",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "03/23/2024",
-    "Size": 123895808,
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.1.0/draw.io-24.1.0.msi"
+    "Date": "04/12/2024",
+    "Size": 123834368,
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.2.5/draw.io-24.2.5.msi"
   }
 ]
