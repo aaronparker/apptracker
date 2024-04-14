@@ -327,12 +327,16 @@ jobs:
             # Get endpoint URLs from Evergreen manifests and post to the version endpoint
             $UrlMatch = "http[s]?\:\/\/([^\/?#]+)(?:[\/?#]|$)"
             $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/Evergreen/Manifests" -Recurse -Include "*.json" | ForEach-Object {
-                [PSCustomObject]@{
-                    Application = $_.BaseName
-                    Endpoints   = ((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
-                        Select-Object -Unique | `
-                        Sort-Object) -replace "http://|https://", "").TrimEnd("/|#"))
-                }
+              [PSCustomObject]@{
+                  Application = $_.BaseName
+                  Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
+                                      Select-Object -Unique | `
+                                      Sort-Object) -replace "http://|https://", "").TrimEnd("/|#")))
+                  Ports       = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | Select-Object -Unique))) | ForEach-Object {
+                          if ($_ -match "http://") { "80" }
+                          if ($_ -match "https://") { "443" }
+                      } | Select-Object -Unique | Sort-Object -Descending)
+              }
             }
             $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
             wrangler kv:key put "endpoints-versions" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
@@ -365,12 +369,16 @@ jobs:
             # Get endpoint URLs from Evergreen manifests and post to the downloads endpoint
             $UrlMatch = "http[s]?\:\/\/([^\/?#]+)(?:[\/?#]|$)"
             $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/json" -Recurse -Include "*.json" | ForEach-Object {
-                [PSCustomObject]@{
-                    Application = $_.BaseName
-                    Endpoints   = ((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
-                        Select-Object -Unique | `
-                        Sort-Object) -replace "http://|https://", "").TrimEnd("/|#"))
-                }
+              [PSCustomObject]@{
+                  Application = $_.BaseName
+                  Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
+                                      Select-Object -Unique | `
+                                      Sort-Object) -replace "http://|https://", "").TrimEnd("/|#")))
+                  Ports       = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | Select-Object -Unique))) | ForEach-Object {
+                          if ($_ -match "http://") { "80" }
+                          if ($_ -match "https://") { "443" }
+                      } | Select-Object -Unique | Sort-Object -Descending)
+              }
             }
             $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
             wrangler kv:key put "endpoints-downloads" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
