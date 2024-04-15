@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 14/04/2024 14:21 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 15/04/2024 02:48 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **318** applications and **3661** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **320** applications and **3826** unique application installers.
 
 | Application                                                       | Link                                                                                                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,6 +80,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | dnGrep                                                            | [https://dngrep.github.io/](https://dngrep.github.io/)                                                                                                                                               |
 | Docker Desktop                                                    | [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/)                                                                                                   |
 | Double Commander                                                  | [https://github.com/doublecmd/doublecmd/](https://github.com/doublecmd/doublecmd/)                                                                                                                   |
+| Drata Agent                                                       | [https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os](https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os)                         |
 | Druva inSync Client                                               | [https://docs.druva.com/005_inSync_Client](https://docs.druva.com/005_inSync_Client)                                                                                                                 |
 | eduVPN                                                            | [https://app.eduvpn.org/](https://app.eduvpn.org/)                                                                                                                                                   |
 | Egnyte Desktop App                                                | [https://www.egnyte.com/solutions/sharing-collaboration](https://www.egnyte.com/solutions/sharing-collaboration)                                                                                     |
@@ -160,6 +161,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeeWeb                                                            | [https://github.com/keeweb/keeweb](https://github.com/keeweb/keeweb)                                                                                                                                 |
 | Kubernetes Kubectl                                                | [https://kubernetes.io/](https://kubernetes.io/)                                                                                                                                                     |
 | LehrerOffice                                                      | [https://lehreroffice.net/](https://lehreroffice.net/)                                                                                                                                               |
+| LibreOffice                                                       | [https://www.libreoffice.org/](https://www.libreoffice.org/)                                                                                                                                         |
 | Master Packager                                                   | [https://www.masterpackager.com/](https://www.masterpackager.com/)                                                                                                                                   |
 | Mattermost Desktop                                                | [https://github.com/mattermost/desktop](https://github.com/mattermost/desktop)                                                                                                                       |
 | Maximus5 ConEmu                                                   | [https://github.com/Maximus5/ConEmu](https://github.com/Maximus5/ConEmu)                                                                                                                             |
