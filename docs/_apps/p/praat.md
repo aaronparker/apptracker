@@ -3,7 +3,7 @@ title: Praat
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 15 2024 at 12:16 PM
 ---
 
 ## Praat
@@ -14,6 +14,6 @@ Evergreen app: `Praat`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.4.07  | Windows  | ARM64        | zip  | Default       | 03/17/2024 | 17900563 | [https://github.com/praat/praat/releases/download/v6.4.07/praat6407_win-arm64.zip](https://github.com/praat/praat/releases/download/v6.4.07/praat6407_win-arm64.zip)     |
-| 6.4.07  | Windows  | x86          | zip  | Default       | 03/17/2024 | 19387459 | [https://github.com/praat/praat/releases/download/v6.4.07/praat6407_win-intel32.zip](https://github.com/praat/praat/releases/download/v6.4.07/praat6407_win-intel32.zip) |
-| 6.4.07  | Windows  | x86          | zip  | Default       | 03/17/2024 | 18885981 | [https://github.com/praat/praat/releases/download/v6.4.07/praat6407_win-intel64.zip](https://github.com/praat/praat/releases/download/v6.4.07/praat6407_win-intel64.zip) |
+| 6.4.08  | Windows  | ARM64        | zip  | Default       | 04/13/2024 | 17912146 | [https://github.com/praat/praat/releases/download/v6.4.08/praat6408_win-arm64.zip](https://github.com/praat/praat/releases/download/v6.4.08/praat6408_win-arm64.zip)     |
+| 6.4.08  | Windows  | x86          | zip  | Default       | 04/13/2024 | 19473016 | [https://github.com/praat/praat/releases/download/v6.4.08/praat6408_win-intel32.zip](https://github.com/praat/praat/releases/download/v6.4.08/praat6408_win-intel32.zip) |
+| 6.4.08  | Windows  | x86          | zip  | Default       | 04/13/2024 | 19121652 | [https://github.com/praat/praat/releases/download/v6.4.08/praat6408_win-intel64.zip](https://github.com/praat/praat/releases/download/v6.4.08/praat6408_win-intel64.zip) |
