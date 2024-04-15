@@ -1,16 +1,16 @@
 [
   {
-    "Version": "107.0.5045.86",
+    "Version": "107.0.5045.89",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_gx/107.0.5045.86/win/Opera_GX_107.0.5045.86_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_gx/107.0.5045.89/win/Opera_GX_107.0.5045.89_Setup_x64.exe"
   },
   {
-    "Version": "107.0.5045.86",
+    "Version": "107.0.5045.89",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_gx/107.0.5045.86/win/Opera_GX_107.0.5045.86_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_gx/107.0.5045.89/win/Opera_GX_107.0.5045.89_Setup.exe"
   }
 ]
