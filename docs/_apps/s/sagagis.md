@@ -3,7 +3,7 @@ title: SAGA-GIS
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Apr 15 2024 at 12:16 PM
+last_modified_date: Apr 16 2024 at 12:29 AM
 ---
 
 ## SAGA-GIS
@@ -12,6 +12,6 @@ last_modified_date: Apr 15 2024 at 12:16 PM
 
 Evergreen app: `SAGAGIS`
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                            |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.3.2   | x64          | exe  | 57893344 | 110d01ce633ac81432b1d47a7d0ffdff | [https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.2/saga-9.3.2_x64_setup.exe](https://netactuate.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.3.2/saga-9.3.2_x64_setup.exe) |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                      |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 9.4.0   | x64          | exe  | 61755864 | ec66d2021d5e46201900dec795a5a1f1 | [https://gigenet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.0/saga-9.4.0_x64_setup.exe](https://gigenet.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.0/saga-9.4.0_x64_setup.exe) |

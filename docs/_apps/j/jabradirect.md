@@ -3,7 +3,7 @@ title: JabraDirect
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 16 2024 at 12:29 AM
 ---
 
 ## JabraDirect
@@ -14,4 +14,4 @@ Evergreen app: `JabraDirect`
 
 | Version    | Architecture | ReleaseNotes                                                          | Type | Sha256                                                           | URI                                                                                                                                                                |
 | ---------- | ------------ | --------------------------------------------------------------------- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.13.01801 | x64          | https://www.jabra.com/support/release-notes/release-note-jabra-direct | exe  | 897ADD4BAD79F35D3428BAD7870474F21D2E1F170FC8E888186DE86A9B6D16E8 | [https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe) |
+| 6.14.08801 | x64          | https://www.jabra.com/support/release-notes/release-note-jabra-direct | exe  | 613EC647755FF2B1406A6C448D7F44F6BE95C394904A178183B28D06A61C3C1A | [https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe) |

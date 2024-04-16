@@ -3,7 +3,7 @@ title: PuTTY
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 16 2024 at 12:29 AM
 ---
 
 ## PuTTY
@@ -14,6 +14,6 @@ Evergreen app: `PuTTY`
 
 | Version | Architecture | Type | URI                                                                                                                                                                |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.80    | ARM64        | msi  | [https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.80-installer.msi](https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.80-installer.msi) |
-| 0.80    | x64          | msi  | [https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.80-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.80-installer.msi)   |
-| 0.80    | x86          | msi  | [https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.80-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.80-installer.msi)               |
+| 0.81    | ARM64        | msi  | [https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.81-installer.msi](https://the.earth.li/~sgtatham/putty/latest/wa64/putty-arm64-0.81-installer.msi) |
+| 0.81    | x64          | msi  | [https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.81-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.81-installer.msi)   |
+| 0.81    | x86          | msi  | [https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.81-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.81-installer.msi)               |
