@@ -1,18 +1,18 @@
 [
   {
-    "Version": "6.3.2",
+    "Version": "6.3.3",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "11587336",
-    "Md5": "c597d8da9d435b865a60c030aa9589ac",
-    "URI": "https://psychz.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe"
+    "Size": "11588560",
+    "Md5": "91dbb70daebfd07c13cc7bf5bb8898a0",
+    "URI": "https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe"
   },
   {
-    "Version": "6.3.2",
+    "Version": "6.3.3",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "27951104",
-    "Md5": "2c1b71fc86324bf5af53ec2c63030191",
-    "URI": "https://psychz.dl.sourceforge.net/project/winscp/WinSCP/6.3.2/WinSCP-6.3.2.msi"
+    "Size": "27959296",
+    "Md5": "1289dddf9fceb42565a4d3bf70862427",
+    "URI": "https://gigenet.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi"
   }
 ]

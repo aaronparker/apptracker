@@ -1,20 +1,20 @@
 [
   {
-    "Version": "125.0.6421.0",
+    "Version": "125.0.6422.3",
     "Architecture": "x86",
     "Channel": "canary",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
-    "Version": "125.0.6396.3",
+    "Version": "125.0.6420.3",
     "Architecture": "x64",
     "Channel": "dev",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "125.0.6396.3",
+    "Version": "125.0.6420.3",
     "Architecture": "x86",
     "Channel": "dev",
     "Type": "msi",
@@ -26,6 +26,13 @@
     "Channel": "beta",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
+  },
+  {
+    "Version": "124.0.6367.60",
+    "Architecture": "x64",
+    "Channel": "extended",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
     "Version": "124.0.6367.60",
@@ -44,6 +51,13 @@
   {
     "Version": "124.0.6367.60",
     "Architecture": "x86",
+    "Channel": "extended",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "124.0.6367.60",
+    "Architecture": "x86",
     "Channel": "stable",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
@@ -54,19 +68,5 @@
     "Channel": "stable",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
-  },
-  {
-    "Version": "122.0.6261.156",
-    "Architecture": "x64",
-    "Channel": "extended",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "122.0.6261.156",
-    "Architecture": "x86",
-    "Channel": "extended",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   }
 ]
