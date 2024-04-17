@@ -3,7 +3,7 @@ title: Oracle Java 21
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 17 2024 at 12:28 AM
 ---
 
 ## Oracle Java 21
@@ -14,6 +14,6 @@ Evergreen app: `OracleJava21`
 
 | Version | Sha256                                                           | Type | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 21.0.2  | ad25f10a29df2949c6c2f65341599f775d8a8c23b505783b4662c72fe4e7345b | exe  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) |
-| 21.0.2  | ab88230377e5b9511dd8592bdfc6ac06abcc23154d74d5c5de2082cb2ac92e2d | msi  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) |
-| 21.0.2  | 776afe55020560f175d8099710d8ac07c4d40772c694385c3dd765117cbd0ac3 | zip  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip) |
+| 21.0.3  | 8f9a27af893bd4746292391ad5635809b25a83e98b283c1119341150e23530ec | exe  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) |
+| 21.0.3  | 9a9d485dafa626b2372ee1b3486947b7ecb4170fe222a4e194b842b4171cd97d | msi  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) |
+| 21.0.3  | 3f78795f92a1b40997226d1d611b28137334415dd4885047034f55e08b0c6c4f | zip  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip) |
