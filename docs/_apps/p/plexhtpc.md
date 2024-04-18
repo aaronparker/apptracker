@@ -3,7 +3,7 @@ title: Plex HTPC
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 18 2024 at 12:26 AM
 ---
 
 ## Plex HTPC
@@ -14,4 +14,4 @@ Evergreen app: `PlexHTPC`
 
 | Version             | Architecture | Checksum                                 | URI                                                                                                                                                                                                      |
 | ------------------- | ------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.59.0.121-1c051efb | x64          | 43a6b2bec56911a125ad847532892e37d1a81e9a | [https://downloads.plex.tv/htpc/1.59.0.121-1c051efb/windows/PlexHTPC-1.59.0.121-1c051efb-x86_64.exe](https://downloads.plex.tv/htpc/1.59.0.121-1c051efb/windows/PlexHTPC-1.59.0.121-1c051efb-x86_64.exe) |
+| 1.60.1.134-49fed73d | x64          | 24b75e467efcd4b1518819898f52e54b6637fe7d | [https://downloads.plex.tv/htpc/1.60.1.134-49fed73d/windows/PlexHTPC-1.60.1.134-49fed73d-x86_64.exe](https://downloads.plex.tv/htpc/1.60.1.134-49fed73d/windows/PlexHTPC-1.60.1.134-49fed73d-x86_64.exe) |
