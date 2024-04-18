@@ -1,0 +1,14 @@
+json/7zip.json
+json/AutodeskFusion360.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftVisualStudioCode.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/TelerikFiddlerEverywhere.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
