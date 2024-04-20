@@ -1,18 +1,18 @@
 [
   {
-    "Version": "17.0.10+7",
+    "Version": "17.0.11+9",
     "ImageType": "jdk",
-    "Date": "2024-01-25T17:32:47Z",
+    "Date": "2024-04-18T17:31:39Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-17-openjdk-17.0.10.0.7-2.win.x86_64.msi"
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-17-openjdk-17.0.11.0.9-1.win.x86_64.msi"
   },
   {
-    "Version": "17.0.10+7",
+    "Version": "17.0.11+9",
     "ImageType": "jre",
-    "Date": "2024-01-25T17:32:47Z",
+    "Date": "2024-04-18T17:32:02Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-17-openjdk-17.0.10.0.7-2.jre.win.x86_64.msi"
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-17-openjdk-17.0.11.0.9-1.jre.win.x86_64.msi"
   }
 ]
