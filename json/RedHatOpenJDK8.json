@@ -1,10 +1,10 @@
 [
   {
-    "Version": "jdk8u402-b06",
+    "Version": "jdk8u412-b08",
     "ImageType": "jdk",
-    "Date": "2024-01-25T17:31:22Z",
+    "Date": "2024-04-18T17:30:38Z",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-1.8.0-openjdk-1.8.0.402-1.b06.redhat.windows.x86_64.msi"
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-1.8.0-openjdk-1.8.0.412-1.b08.redhat.windows.x86_64.msi"
   }
 ]
