@@ -3,7 +3,7 @@ title: Red Hat OpenJDK 8
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 20 2024 at 12:26 AM
 ---
 
 ## Red Hat OpenJDK 8
@@ -12,6 +12,6 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `RedHatOpenJDK8`
 
-| Version      | ImageType | Date                | Architecture | Type | URI                                                                                                                                                                                                                                                                                                    |
-| ------------ | --------- | ------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| jdk8u402-b06 | jdk       | 01/25/2024 17:31:22 | x64          | msi  | [https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-1.8.0-openjdk-1.8.0.402-1.b06.redhat.windows.x86_64.msi](https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/January_2024/java-1.8.0-openjdk-1.8.0.402-1.b06.redhat.windows.x86_64.msi) |
+| Version      | ImageType | Date                | Architecture | Type | URI                                                                                                                                                                                                                                                                                                |
+| ------------ | --------- | ------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| jdk8u412-b08 | jdk       | 04/18/2024 17:30:38 | x64          | msi  | [https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-1.8.0-openjdk-1.8.0.412-1.b08.redhat.windows.x86_64.msi](https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-1.8.0-openjdk-1.8.0.412-1.b08.redhat.windows.x86_64.msi) |
