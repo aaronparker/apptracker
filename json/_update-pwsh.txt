@@ -1,0 +1,16 @@
+json/7zip.json
+json/AdoptiumTemurin17.json
+json/Gimp.json
+json/GoogleChrome.json
+json/ImageMagickStudioImageMagick.json
+json/KDiff3.json
+json/KeePass.json
+json/NETworkManager.json
+json/Praat.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/dbeaver.json
+json/gretl.json
