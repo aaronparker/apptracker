@@ -3,7 +3,7 @@ title: NETworkManager
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 22 2024 at 12:32 AM
 ---
 
 ## NETworkManager
@@ -12,6 +12,6 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `NETworkManager`
 
-| Version    | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                |
-| ---------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.1.7.0 | Windows  | x86          | exe  | Default       | 01/07/2024 | 18661520 | [https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.7.0/NETworkManager_2024.1.7.0_Setup.exe](https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.7.0/NETworkManager_2024.1.7.0_Setup.exe) |
+| Version     | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                    |
+| ----------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.4.21.0 | Windows  | x86          | exe  | Default       | 04/21/2024 | 18950390 | [https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.4.21.0/NETworkManager_2024.4.21.0_Setup.exe](https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.4.21.0/NETworkManager_2024.4.21.0_Setup.exe) |
