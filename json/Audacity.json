@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.4.2",
+    "Version": "3.5.0",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/16/2023",
-    "Size": 15819112,
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-64bit.exe"
+    "Date": "04/22/2024",
+    "Size": 16083912,
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.5.0/audacity-win-3.5.0-64bit.exe"
   },
   {
-    "Version": "3.4.2",
+    "Version": "3.5.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/16/2023",
-    "Size": 14438904,
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-32bit.exe"
+    "Date": "04/22/2024",
+    "Size": 14627520,
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.5.0/audacity-win-3.5.0-32bit.exe"
   }
 ]
