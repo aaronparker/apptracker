@@ -3,7 +3,7 @@ title: ProjectLibre
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 24 2024 at 12:29 AM
+last_modified_date: Apr 24 2024 at 12:14 PM
 ---
 
 ## ProjectLibre
@@ -14,4 +14,4 @@ Evergreen app: `ProjectLibre`
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                      |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | [https://cfhcable.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe](https://cfhcable.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe) |
+| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | [https://versaweb.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe](https://versaweb.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe) |
