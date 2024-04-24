@@ -1,0 +1,17 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/HashicorpVault.json
+json/JetBrainsPhpStorm.json
+json/KDiff3.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWindowsPackageManagerClient.json
+json/ProgressChefWorkstation.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/Slack.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/gretl.json

@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.37.101",
+    "Version": "4.38.115",
     "Platform": "PerMachine",
     "Architecture": "x64",
-    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/slack-standalone-4.37.101.0.msi"
+    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.115/slack-standalone-4.38.115.0.msi"
   },
   {
-    "Version": "4.37.101",
+    "Version": "4.38.115",
     "Platform": "PerMachine",
     "Architecture": "x86",
-    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/ia32/4.37.101/slack-standalone-4.37.101.0.msi"
+    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/ia32/4.38.115/slack-standalone-4.38.115.0.msi"
   },
   {
-    "Version": "4.37.101",
+    "Version": "4.38.115",
     "Platform": "PerUser",
     "Architecture": "x64",
-    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/SlackSetup.msi"
+    "URI": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.115/SlackSetup.msi"
   }
 ]
