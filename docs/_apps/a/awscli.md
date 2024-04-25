@@ -3,7 +3,7 @@ title: AWS CLI
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 20 2024 at 12:26 AM
+last_modified_date: Apr 25 2024 at 12:30 AM
 ---
 
 ## AWS CLI
@@ -14,4 +14,4 @@ Evergreen app: `AWSCLI`
 
 | Version | Type | URI                                                                                                    |
 | ------- | ---- | ------------------------------------------------------------------------------------------------------ |
-| 2.15.40 | msi  | [https://awscli.amazonaws.com/AWSCLIV2-2.15.40.msi](https://awscli.amazonaws.com/AWSCLIV2-2.15.40.msi) |
+| 2.15.41 | msi  | [https://awscli.amazonaws.com/AWSCLIV2-2.15.41.msi](https://awscli.amazonaws.com/AWSCLIV2-2.15.41.msi) |
