@@ -3,7 +3,7 @@ title: ControlUp Console
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 25 2024 at 12:13 PM
 ---
 
 ## ControlUp Console
@@ -14,4 +14,4 @@ Evergreen app: `ControlUpConsole`
 
 | Version    | URI                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.0.0.1546 | [https://downloads.controlup.com/console/9.0.0.1546/ControlUp.zip](https://downloads.controlup.com/console/9.0.0.1546/ControlUp.zip) |
+| 9.0.0.1616 | [https://downloads.controlup.com/console/9.0.0.1616/ControlUp.zip](https://downloads.controlup.com/console/9.0.0.1616/ControlUp.zip) |
