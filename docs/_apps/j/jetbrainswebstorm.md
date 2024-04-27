@@ -3,7 +3,7 @@ title: JetBrains WebStorm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Apr 18 2024 at 12:26 AM
+last_modified_date: Apr 27 2024 at 12:28 AM
 ---
 
 ## JetBrains WebStorm
@@ -12,6 +12,6 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 Evergreen app: `JetBrainsWebStorm`
 
-| Version  | Build        | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                                                                                            |
-| -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.1.1 | 241.15989.47 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.exe.sha256 | 04/17/2024 | 605181704 | exe  | [https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.exe](https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.exe) |
+| Version  | Build         | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                                                                                            |
+| -------- | ------------- | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.1.2 | 241.15989.105 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.exe.sha256 | 04/26/2024 | 605676528 | exe  | [https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.exe](https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.exe) |
