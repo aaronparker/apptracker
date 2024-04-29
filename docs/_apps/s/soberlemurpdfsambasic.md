@@ -3,7 +3,7 @@ title: Sober Lemur PDFSam Basic
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 29 2024 at 12:13 PM
 ---
 
 ## Sober Lemur PDFSam Basic
@@ -14,5 +14,5 @@ Evergreen app: `SoberLemurPDFSamBasic`
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.2.2   | Windows  | x86          | msi  | Default       | 02/07/2024 | 84774912 | [https://github.com/torakiki/pdfsam/releases/download/v5.2.2/pdfsam-5.2.2.msi](https://github.com/torakiki/pdfsam/releases/download/v5.2.2/pdfsam-5.2.2.msi)                 |
-| 5.2.2   | Windows  | x86          | zip  | Default       | 02/07/2024 | 83258581 | [https://github.com/torakiki/pdfsam/releases/download/v5.2.2/pdfsam-5.2.2-windows.zip](https://github.com/torakiki/pdfsam/releases/download/v5.2.2/pdfsam-5.2.2-windows.zip) |
+| 5.2.3   | Windows  | x86          | msi  | Default       | 04/24/2024 | 82403328 | [https://github.com/torakiki/pdfsam/releases/download/v5.2.3/pdfsam-5.2.3.msi](https://github.com/torakiki/pdfsam/releases/download/v5.2.3/pdfsam-5.2.3.msi)                 |
+| 5.2.3   | Windows  | x86          | zip  | Default       | 04/24/2024 | 80887121 | [https://github.com/torakiki/pdfsam/releases/download/v5.2.3/pdfsam-5.2.3-windows.zip](https://github.com/torakiki/pdfsam/releases/download/v5.2.3/pdfsam-5.2.3-windows.zip) |
