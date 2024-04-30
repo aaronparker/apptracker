@@ -71,11 +71,28 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
 
     # Update front matter
     $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt")) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
+    
+    # Update page details
     $Markdown += "`n`n"
     $Markdown += New-MDHeader -Text "$($App.Application)" -Level 2
     $Markdown += "`n"
-    $Markdown += "[Source]($($App.Link))`n`nEvergreen app: ``$($File.BaseName)``"
+    $Markdown += "[Source]($($App.Link))"
     $Markdown += "`n`n"
+    $Markdown += "Evergreen app: ``$($File.BaseName)``. "
+    # $Markdown += "`n`n"
+
+    # Add details of previous check
+    $ErrFile = $([System.IO.Path]::Combine($Path, "$App.err"))
+    if (Test-Path -Path $ErrFile) {
+        $Err = Get-Content -Path $ErrFile
+        $Markdown += "Last check: 🔴 ``$Err``"
+        $Markdown += "`n`n"
+        Remove-Item -Path $ErrFile -Force -ErrorAction "SilentlyContinue"
+    }
+    else {
+        $Markdown += "Last check: 🟢"
+        $Markdown += "`n`n"
+    }
 
     # Add a table to the markdown for the data from the JSON
     $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | ForEach-Object { $_.URI = "[$($_.URI)]($($_.URI))"; $_ } | New-MDTable

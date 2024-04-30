@@ -33,7 +33,8 @@ Function Test-PSCore {
 #endregion
 
 # Apps that should be skipped in this run
-$SkipApps = @("MozillaFirefox", "MozillaThunderbird")
+# $SkipApps = @("MozillaFirefox", "MozillaThunderbird")
+$SkipApps = ""
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
@@ -55,6 +56,7 @@ if (Test-PSCore) {
         catch {
             Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
             Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
+            $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
             $Output = $null
         }
 
@@ -65,7 +67,9 @@ if (Test-PSCore) {
             Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
         }
         else {
-            ConvertTo-Json @($Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+            ConvertTo-Json @($Output | `
+                    Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
+                Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
             Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
     }
