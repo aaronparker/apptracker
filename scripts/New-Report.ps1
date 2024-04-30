@@ -82,7 +82,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     # $Markdown += "`n`n"
 
     # Add details of previous check
-    $ErrFile = $([System.IO.Path]::Combine($Path, "$App.err"))
+    $ErrFile = $([System.IO.Path]::Combine($JsonPath, "$App.err"))
     if (Test-Path -Path $ErrFile) {
         $Err = Get-Content -Path $ErrFile
         $Markdown += "Last check: 🔴 ``$Err``"
