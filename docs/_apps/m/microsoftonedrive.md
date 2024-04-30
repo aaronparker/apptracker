@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://onedrive.live.com/)
 
-Evergreen app: `MicrosoftOneDrive`
+Evergreen app: `MicrosoftOneDrive`. Last check: 🟢
 
 | Version          | Throttle | Architecture | Ring         | Type | Sha256                                       | URI                                                                                                                                                                  |
 | ---------------- | -------- | ------------ | ------------ | ---- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

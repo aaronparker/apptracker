@@ -10,7 +10,7 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 [Source](https://kubernetes.io/)
 
-Evergreen app: `KubernetesKubectl`
+Evergreen app: `KubernetesKubectl`. Last check: 🟢
 
 | Version | Architecture | Platform | URI                                                                                                                                |
 | ------- | ------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |

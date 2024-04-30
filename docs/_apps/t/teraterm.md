@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://teratermproject.github.io/index-en.html)
 
-Evergreen app: `TeraTerm`
+Evergreen app: `TeraTerm`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

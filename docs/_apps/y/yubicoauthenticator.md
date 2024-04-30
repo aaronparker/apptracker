@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://github.com/Yubico/yubioath-flutter/)
 
-Evergreen app: `YubicoAuthenticator`
+Evergreen app: `YubicoAuthenticator`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

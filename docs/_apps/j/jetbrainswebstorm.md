@@ -10,7 +10,7 @@ last_modified_date: Apr 27 2024 at 12:28 AM
 
 [Source](https://www.jetbrains.com/webstorm)
 
-Evergreen app: `JetBrainsWebStorm`
+Evergreen app: `JetBrainsWebStorm`. Last check: 🟢
 
 | Version  | Build         | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                                                                                            |
 | -------- | ------------- | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,7 @@ last_modified_date: Apr 27 2024 at 12:28 AM
 
 [Source](https://www.fon.hum.uva.nl/praat/)
 
-Evergreen app: `Praat`
+Evergreen app: `Praat`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

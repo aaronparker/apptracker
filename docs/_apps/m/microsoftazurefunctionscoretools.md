@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
-Evergreen app: `MicrosoftAzureFunctionsCoreTools`
+Evergreen app: `MicrosoftAzureFunctionsCoreTools`. Last check: 🟢
 
 | Version  | Architecture | URI                                                                                                                                                              |
 | -------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

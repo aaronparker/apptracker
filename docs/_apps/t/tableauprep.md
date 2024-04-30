@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.tableau.com/)
 
-Evergreen app: `TableauPrep`
+Evergreen app: `TableauPrep`. Last check: 🟢
 
 | Version  | URI                                                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |

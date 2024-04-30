@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.tableau.com/)
 
-Evergreen app: `TableauReader`
+Evergreen app: `TableauReader`. Last check: 🟢
 
 | Version  | URI                                                                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

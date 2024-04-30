@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://gitforwindows.org/)
 
-Evergreen app: `GitForWindows`
+Evergreen app: `GitForWindows`. Last check: 🟢
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                        |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

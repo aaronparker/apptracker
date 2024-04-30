@@ -10,7 +10,7 @@ last_modified_date: Apr 26 2024 at 12:27 AM
 
 [Source](https://www.jetbrains.com/rubymine)
 
-Evergreen app: `JetBrainsRubyMine`
+Evergreen app: `JetBrainsRubyMine`. Last check: 🟢
 
 | Version  | Build         | Edition  | Sha256                                                           | Date       | Size      | Type | URI                                                                                                                    |
 | -------- | ------------- | -------- | ---------------------------------------------------------------- | ---------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |

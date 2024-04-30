@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://www.ccleaner.com/ccleaner)
 
-Evergreen app: `PiriformCCleanerFree`
+Evergreen app: `PiriformCCleanerFree`. Last check: 🟢
 
 | Version    | Filename       | URI                                                                                                                                                                                                                                  |
 | ---------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

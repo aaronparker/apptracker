@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://www.microsoft.com/teams)
 
-Evergreen app: `MicrosoftTeamsClassic`
+Evergreen app: `MicrosoftTeamsClassic`. Last check: 🟢
 
 | Version      | Ring              | Architecture | Type | URI                                                                                                                                                                                                      |
 | ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

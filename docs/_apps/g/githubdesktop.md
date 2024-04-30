@@ -10,7 +10,7 @@ last_modified_date: Apr 16 2024 at 12:14 PM
 
 [Source](https://desktop.github.com/)
 
-Evergreen app: `GitHubDesktop`
+Evergreen app: `GitHubDesktop`. Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                                                      |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

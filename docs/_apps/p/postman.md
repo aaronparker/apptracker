@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.getpostman.com/)
 
-Evergreen app: `Postman`
+Evergreen app: `Postman`. Last check: 🟢
 
 | Version  | Size      | Hash                                     | Date                | Architecture | Filename                         | URI                                                                                                                |
 | -------- | --------- | ---------------------------------------- | ------------------- | ------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |

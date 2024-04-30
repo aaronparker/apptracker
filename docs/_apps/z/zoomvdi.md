@@ -10,7 +10,7 @@ last_modified_date: Apr 23 2024 at 12:16 PM
 
 [Source](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)
 
-Evergreen app: `ZoomVDI`
+Evergreen app: `ZoomVDI`. Last check: 🟢
 
 | Version | Platform  | Installer | Size      | Type | Architecture | URI                                                                                                                              |
 | ------- | --------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |

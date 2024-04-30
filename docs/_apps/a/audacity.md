@@ -10,7 +10,7 @@ last_modified_date: Apr 25 2024 at 12:30 AM
 
 [Source](https://www.audacityteam.org/)
 
-Evergreen app: `Audacity`
+Evergreen app: `Audacity`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

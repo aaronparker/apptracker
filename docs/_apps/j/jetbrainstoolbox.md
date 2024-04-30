@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://www.jetbrains.com/toolbox-app/)
 
-Evergreen app: `JetBrainsToolbox`
+Evergreen app: `JetBrainsToolbox`. Last check: 🟢
 
 | Version | Build       | Edition     | Sha256                                                                          | Date       | Size     | Type | URI                                                                                                                                                  |
 | ------- | ----------- | ----------- | ------------------------------------------------------------------------------- | ---------- | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

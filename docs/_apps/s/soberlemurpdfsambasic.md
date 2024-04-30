@@ -10,7 +10,7 @@ last_modified_date: Apr 29 2024 at 12:13 PM
 
 [Source](https://pdfsam.org/pdfsam-basic/)
 
-Evergreen app: `SoberLemurPDFSamBasic`
+Evergreen app: `SoberLemurPDFSamBasic`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

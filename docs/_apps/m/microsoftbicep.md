@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:12 PM
 
 [Source](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 
-Evergreen app: `MicrosoftBicep`
+Evergreen app: `MicrosoftBicep`. Last check: 🟢
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                      |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

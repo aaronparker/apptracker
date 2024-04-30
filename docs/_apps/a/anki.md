@@ -10,7 +10,7 @@ last_modified_date: Apr 13 2024 at 12:12 PM
 
 [Source](https://github.com/ankitects/anki/)
 
-Evergreen app: `Anki`
+Evergreen app: `Anki`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                  |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

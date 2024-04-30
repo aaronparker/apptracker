@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.rhino3d.com/)
 
-Evergreen app: `McNeelRhino`
+Evergreen app: `McNeelRhino`. Last check: 🟢
 
 | Version          | Release | URI                                                                                                                                                            |
 | ---------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

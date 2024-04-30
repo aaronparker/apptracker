@@ -10,7 +10,7 @@ last_modified_date: May 31 2023 at 04:07 PM
 
 [Source](https://chromedriver.chromium.org/home)
 
-Evergreen app: `ChromiumChromeDriver`
+Evergreen app: `ChromiumChromeDriver`. Last check: 🟢
 
 | Version       | Channel | Type | URI                                                                                                                                                                  |
 | ------------- | ------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:12 PM
 
 [Source](https://docs.druva.com/005_inSync_Client)
 
-Evergreen app: `DruvainSyncClient`
+Evergreen app: `DruvainSyncClient`. Last check: 🟢
 
 | Version | InstallerVersion   | CloudPlatform | Md5sum                                   | Type | URI                                                                                                                                                                            |
 | ------- | ------------------ | ------------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.azul.com/downloads/#zulu)
 
-Evergreen app: `AzulZulu8`
+Evergreen app: `AzulZulu8`. Last check: 🟢
 
 | Version       | ImageType | Date                | Architecture | Type | URI                                                                                                                                              |
 | ------------- | --------- | ------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)
 
-Evergreen app: `GoToOpener`
+Evergreen app: `GoToOpener`. Last check: 🟢
 
 | Version | Date                | URI                                                                                                                                          |
 | ------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |

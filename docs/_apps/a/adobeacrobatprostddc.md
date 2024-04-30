@@ -10,7 +10,7 @@ last_modified_date: Apr 15 2024 at 12:16 PM
 
 [Source](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)
 
-Evergreen app: `AdobeAcrobatProStdDC`
+Evergreen app: `AdobeAcrobatProStdDC`. Last check: 🟢
 
 | Version      | Architecture | Sku      | URI                                                                                                                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

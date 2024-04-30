@@ -10,7 +10,7 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 [Source](https://uberagent.com/)
 
-Evergreen app: `VastLimitsUberAgent`
+Evergreen app: `VastLimitsUberAgent`. Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

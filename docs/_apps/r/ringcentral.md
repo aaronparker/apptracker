@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:12 PM
 
 [Source](https://www.ringcentral.com)
 
-Evergreen app: `RingCentral`
+Evergreen app: `RingCentral`. Last check: 🟢
 
 | Version | Platform | Type     | URI                                                                                                                                                                                                  |
 | ------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

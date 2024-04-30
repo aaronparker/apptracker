@@ -10,7 +10,7 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 [Source](https://bell-sw.com/libericajdk/)
 
-Evergreen app: `BellSoftLibericaJDK17`
+Evergreen app: `BellSoftLibericaJDK17`. Last check: 🟢
 
 | Version    | LTS  | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                                                                                                                                                  |
 | ---------- | ---- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

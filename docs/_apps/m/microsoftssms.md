@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://go.microsoft.com/fwlink/?LinkId=531355)
 
-Evergreen app: `MicrosoftSsms`
+Evergreen app: `MicrosoftSsms`. Last check: 🟢
 
 | Version   | Date       | Language              | URI                                                                                                                                                                                                            |
 | --------- | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

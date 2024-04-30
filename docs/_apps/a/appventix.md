@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://appventix.com/)
 
-Evergreen app: `AppVentiX`
+Evergreen app: `AppVentiX`. Last check: 🟢
 
 | Version | Filename             | URI                                                                              |
 | ------- | -------------------- | -------------------------------------------------------------------------------- |

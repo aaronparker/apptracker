@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://nomacs.org/)
 
-Evergreen app: `Nomacs`
+Evergreen app: `Nomacs`. Last check: 🟢
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                  |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

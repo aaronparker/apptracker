@@ -10,7 +10,7 @@ last_modified_date: Apr 20 2024 at 12:14 PM
 
 [Source](https://developers.redhat.com/products/openjdk/overview)
 
-Evergreen app: `RedHatOpenJDK17`
+Evergreen app: `RedHatOpenJDK17`. Last check: 🟢
 
 | Version   | ImageType | Date                | Architecture | Type | URI                                                                                                                                                                                                                                                                        |
 | --------- | --------- | ------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

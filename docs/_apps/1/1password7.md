@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://1password.com/)
 
-Evergreen app: `1Password7`
+Evergreen app: `1Password7`. Last check: 🟢
 
 | Version | URI                                                                                                                                |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |

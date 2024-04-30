@@ -10,7 +10,7 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 [Source](https://github.com/containers/podman)
 
-Evergreen app: `Podman`
+Evergreen app: `Podman`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

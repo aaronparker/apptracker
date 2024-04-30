@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.python.org/)
 
-Evergreen app: `PSFPython`
+Evergreen app: `PSFPython`. Last check: 🟢
 
 | Version | Python | md5                              | Size     | Date       | Type | Architecture | URI                                                                                                                                  |
 | ------- | ------ | -------------------------------- | -------- | ---------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |

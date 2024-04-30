@@ -10,7 +10,7 @@ last_modified_date: Apr 13 2024 at 12:24 AM
 
 [Source](https://grafana.com/docs/agent/)
 
-Evergreen app: `GrafanaAgent`
+Evergreen app: `GrafanaAgent`. Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

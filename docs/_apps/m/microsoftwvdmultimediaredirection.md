@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)
 
-Evergreen app: `MicrosoftWvdMultimediaRedirection`
+Evergreen app: `MicrosoftWvdMultimediaRedirection`. Last check: 🟢
 
 | Version       | Date            | Architecture | Filename                                 | URI                                                    |
 | ------------- | --------------- | ------------ | ---------------------------------------- | ------------------------------------------------------ |

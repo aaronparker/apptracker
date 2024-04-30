@@ -10,7 +10,7 @@ last_modified_date: Apr 24 2024 at 12:29 AM
 
 [Source](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)
 
-Evergreen app: `Slack`
+Evergreen app: `Slack`. Last check: 🟢
 
 | Version  | Platform   | Architecture | URI                                                                                                                                                                                                                |
 | -------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

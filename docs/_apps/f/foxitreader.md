@@ -10,7 +10,7 @@ last_modified_date: Apr 29 2024 at 12:28 AM
 
 [Source](https://www.foxitsoftware.com/pdf-reader/)
 
-Evergreen app: `FoxitReader`
+Evergreen app: `FoxitReader`. Last check: 🟢
 
 | Version        | Date       | Language           | URI                                                                                                                                                                                                              |
 | -------------- | ---------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

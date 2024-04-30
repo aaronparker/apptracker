@@ -10,7 +10,7 @@ last_modified_date: Apr 24 2024 at 12:29 AM
 
 [Source](https://www.chef.io/products/chef-workstation)
 
-Evergreen app: `ProgressChefWorkstation`
+Evergreen app: `ProgressChefWorkstation`. Last check: 🟢
 
 | Version   | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                                                                                                                                            |
 | --------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://safing.io/)
 
-Evergreen app: `SafingPortmaster`
+Evergreen app: `SafingPortmaster`. Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                  |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

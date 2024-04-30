@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
 
-Evergreen app: `MicrosoftWvdRtcService`
+Evergreen app: `MicrosoftWvdRtcService`. Last check: 🟢
 
 | Version         | Date                          | Size | Architecture | Filename                                         | URI                                                                    |
 | --------------- | ----------------------------- | ---- | ------------ | ------------------------------------------------ | ---------------------------------------------------------------------- |

@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-Evergreen app: `GoogleChrome`
+Evergreen app: `GoogleChrome`. Last check: 🟢
 
 | Version       | Architecture | Channel  | Type | URI                                                                                                                                                                                |
 | ------------- | ------------ | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

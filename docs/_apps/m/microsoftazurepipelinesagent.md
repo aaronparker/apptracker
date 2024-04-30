@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents)
 
-Evergreen app: `MicrosoftAzurePipelinesAgent`
+Evergreen app: `MicrosoftAzurePipelinesAgent`. Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

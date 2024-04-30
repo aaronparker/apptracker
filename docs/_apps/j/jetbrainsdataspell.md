@@ -10,7 +10,7 @@ last_modified_date: Apr 19 2024 at 12:27 AM
 
 [Source](https://www.jetbrains.com/dataspell)
 
-Evergreen app: `JetBrainsDataSpell`
+Evergreen app: `JetBrainsDataSpell`. Last check: 🟢
 
 | Version  | Build        | Edition   | Sha256                                                              | Date       | Size      | Type | URI                                                                                                                          |
 | -------- | ------------ | --------- | ------------------------------------------------------------------- | ---------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
