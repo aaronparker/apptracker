@@ -3,7 +3,7 @@ title: Git for Windows
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Apr 30 2024 at 12:26 AM
 ---
 
 ## Git for Windows
@@ -14,7 +14,7 @@ Evergreen app: `GitForWindows`
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                        |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.44.0.1 | Windows  | x64          | exe  | Default       | 02/23/2024 | 65350776 | [https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe)                       |
-| 2.44.0.1 | Windows  | x64          | exe  | Portable      | 02/23/2024 | 61765416 | [https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe) |
-| 2.44.0.1 | Windows  | x86          | exe  | Default       | 02/23/2024 | 62435528 | [https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe)                       |
-| 2.44.0.1 | Windows  | x86          | exe  | Portable      | 02/23/2024 | 58639848 | [https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe) |
+| 2.45.0.1 | Windows  | x64          | exe  | Default       | 04/29/2024 | 67797640 | [https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/Git-2.45.0-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/Git-2.45.0-64-bit.exe)                       |
+| 2.45.0.1 | Windows  | x64          | exe  | Portable      | 04/29/2024 | 62741680 | [https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-64-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-64-bit.7z.exe) |
+| 2.45.0.1 | Windows  | x86          | exe  | Default       | 04/29/2024 | 63120904 | [https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/Git-2.45.0-32-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/Git-2.45.0-32-bit.exe)                       |
+| 2.45.0.1 | Windows  | x86          | exe  | Portable      | 04/29/2024 | 59698872 | [https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-32-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-32-bit.7z.exe) |
