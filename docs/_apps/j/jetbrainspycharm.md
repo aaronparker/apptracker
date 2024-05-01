@@ -10,7 +10,9 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://www.jetbrains.com/)
 
-Evergreen app: `JetBrainsPyCharm`. Last check: 🟢
+Evergreen app: `JetBrainsPyCharm`. 
+
+Last check: 🟢
 
 | Version  | Build         | Edition              | Sha256                                                                         | Date       | Size      | Type | URI                                                                                                                                                |
 | -------- | ------------- | -------------------- | ------------------------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

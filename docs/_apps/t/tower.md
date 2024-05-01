@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://www.git-tower.com/windows/)
 
-Evergreen app: `Tower`. Last check: 🟢
+Evergreen app: `Tower`. 
+
+Last check: 🟢
 
 | Version | Channel | sha1                                     | Type | URI                                                                                                                                                  |
 | ------- | ------- | ---------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

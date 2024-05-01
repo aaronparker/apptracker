@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://github.com/Maximus5/ConEmu)
 
-Evergreen app: `Maximus5ConEmu`. Last check: 🟢
+Evergreen app: `Maximus5ConEmu`. 
+
+Last check: 🟢
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                                                                          |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,12 @@ last_modified_date: Sep 29 2023 at 04:08 PM
 
 [Source](https://www.oracle.com/java/technologies/downloads/#java20)
 
-Evergreen app: `OracleJava20`. Last check: 🟢
+Evergreen app: `OracleJava20`. 
+
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version | Sha256                                                           | Type | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

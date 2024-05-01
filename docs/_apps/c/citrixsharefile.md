@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html)
 
-Evergreen app: `CitrixShareFile`. Last check: 🟢
+Evergreen app: `CitrixShareFile`. 
+
+Last check: 🟢
 
 | Version  | Date       | Size     | Hash                                                     | URI                                                                                                                                                  |
 | -------- | ---------- | -------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

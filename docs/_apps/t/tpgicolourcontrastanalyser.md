@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://www.tpgi.com/color-contrast-checker/)
 
-Evergreen app: `TPGiColourContrastAnalyser`. Last check: 🟢
+Evergreen app: `TPGiColourContrastAnalyser`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

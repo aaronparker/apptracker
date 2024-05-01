@@ -10,7 +10,9 @@ last_modified_date: Apr 24 2024 at 12:29 AM
 
 [Source](https://docs.microsoft.com/en-us/windows/package-manager/)
 
-Evergreen app: `MicrosoftWindowsPackageManagerClient`. Last check: 🟢
+Evergreen app: `MicrosoftWindowsPackageManagerClient`. 
+
+Last check: 🟢
 
 | Version   | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                                                                                                                                                        |
 | --------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

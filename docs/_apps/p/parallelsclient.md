@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.parallels.com/products/ras/download/links/)
 
-Evergreen app: `ParallelsClient`. Last check: 🟢
+Evergreen app: `ParallelsClient`. 
+
+Last check: 🟢
 
 | Version    | Architecture | Type | URI                                                                                                                                                                                  |
 | ---------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

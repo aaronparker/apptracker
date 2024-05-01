@@ -10,7 +10,9 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://imageglass.org/)
 
-Evergreen app: `ImageGlass`. Last check: 🟢
+Evergreen app: `ImageGlass`. 
+
+Last check: 🟢
 
 | Version    | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                |
 | ---------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

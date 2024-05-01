@@ -10,7 +10,9 @@ last_modified_date: Apr 14 2024 at 12:32 AM
 
 [Source](https://docs.microsoft.com/powershell/)
 
-Evergreen app: `MicrosoftPowerShell`. Last check: 🟢
+Evergreen app: `MicrosoftPowerShell`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type       | InstallerType | Date       | Size      | URI                                                                                                                                                                                                    | Release |
 | ------- | -------- | ------------ | ---------- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |

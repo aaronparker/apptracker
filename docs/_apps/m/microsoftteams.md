@@ -10,7 +10,9 @@ last_modified_date: Apr 26 2024 at 12:27 AM
 
 [Source](https://www.microsoft.com/teams)
 
-Evergreen app: `MicrosoftTeams`. Last check: 🟢
+Evergreen app: `MicrosoftTeams`. 
+
+Last check: 🟢
 
 | Version              | Release    | Architecture | Type | URI                                                                                                                                                                                                                          |
 | -------------------- | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

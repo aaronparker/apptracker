@@ -10,7 +10,9 @@ last_modified_date: Apr 27 2024 at 12:12 PM
 
 [Source](https://winmerge.org/)
 
-Evergreen app: `WinMerge`. Last check: 🟢
+Evergreen app: `WinMerge`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

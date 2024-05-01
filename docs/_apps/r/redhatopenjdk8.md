@@ -10,7 +10,9 @@ last_modified_date: Apr 20 2024 at 12:26 AM
 
 [Source](https://developers.redhat.com/products/openjdk/overview)
 
-Evergreen app: `RedHatOpenJDK8`. Last check: 🟢
+Evergreen app: `RedHatOpenJDK8`. 
+
+Last check: 🟢
 
 | Version      | ImageType | Date                | Architecture | Type | URI                                                                                                                                                                                                                                                                                                |
 | ------------ | --------- | ------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

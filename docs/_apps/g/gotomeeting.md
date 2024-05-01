@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://support.goto.com/meeting/help/install-via-msi-windows)
 
-Evergreen app: `GoToMeeting`. Last check: 🟢
+Evergreen app: `GoToMeeting`. 
+
+Last check: 🟢
 
 | Version     | Type         | URI                                                                                                                                                                                    |
 | ----------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

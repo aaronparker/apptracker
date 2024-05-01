@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://cyberduck.io/)
 
-Evergreen app: `Cyberduck`. Last check: 🟢
+Evergreen app: `Cyberduck`. 
+
+Last check: 🟢
 
 | Version     | Date       | Channel | URI                                                                                                                                |
 | ----------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |

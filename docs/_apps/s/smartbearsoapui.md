@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.soapui.org/)
 
-Evergreen app: `SmartBearSoapUI`. Last check: 🟢
+Evergreen app: `SmartBearSoapUI`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                                    |
 | ------- | ---------------------------------------------------------------------------------------------------------------------- |

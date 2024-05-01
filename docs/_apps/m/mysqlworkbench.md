@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://dev.mysql.com/doc/workbench/en/)
 
-Evergreen app: `mySQLWorkbench`. Last check: 🟢
+Evergreen app: `mySQLWorkbench`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                                            |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

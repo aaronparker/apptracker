@@ -10,7 +10,9 @@ last_modified_date: Apr 22 2024 at 12:32 AM
 
 [Source](https://github.com/BornToBeRoot/NETworkManager)
 
-Evergreen app: `NETworkManager`. Last check: 🟢
+Evergreen app: `NETworkManager`. 
+
+Last check: 🟢
 
 | Version     | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                    |
 | ----------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

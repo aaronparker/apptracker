@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.innosetup.com)
 
-Evergreen app: `jrsoftwareInnoSetup`. Last check: 🟢
+Evergreen app: `jrsoftwareInnoSetup`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------- |

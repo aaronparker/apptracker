@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.toggl.com/)
 
-Evergreen app: `TogglDesktop`. Last check: 🟢
+Evergreen app: `TogglDesktop`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

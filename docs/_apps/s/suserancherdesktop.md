@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://rancherdesktop.io/)
 
-Evergreen app: `SUSERancherDesktop`. Last check: 🟢
+Evergreen app: `SUSERancherDesktop`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                                                            |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

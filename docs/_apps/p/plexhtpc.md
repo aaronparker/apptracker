@@ -10,7 +10,9 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 [Source](https://www.plex.tv/media-server-downloads/)
 
-Evergreen app: `PlexHTPC`. Last check: 🟢
+Evergreen app: `PlexHTPC`. 
+
+Last check: 🟢
 
 | Version             | Architecture | Checksum                                 | URI                                                                                                                                                                                                      |
 | ------------------- | ------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-Evergreen app: `MicrosoftWvdBootloader`. Last check: 🟢
+Evergreen app: `MicrosoftWvdBootloader`. 
+
+Last check: 🟢
 
 | Version | Architecture | Date                          | Size | Filename                                                  | URI                                                                                                                                  |
 | ------- | ------------ | ----------------------------- | ---- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

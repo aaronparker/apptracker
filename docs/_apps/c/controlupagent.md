@@ -10,7 +10,9 @@ last_modified_date: Apr 25 2024 at 12:13 PM
 
 [Source](https://www.controlup.com/products/controlup/agent/)
 
-Evergreen app: `ControlUpAgent`. Last check: 🟢
+Evergreen app: `ControlUpAgent`. 
+
+Last check: 🟢
 
 | Version    | Framework    | Architecture | URI                                                                                                                                                                                                |
 | ---------- | ------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

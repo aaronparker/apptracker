@@ -10,7 +10,9 @@ last_modified_date: Apr 24 2024 at 12:14 PM
 
 [Source](https://www.terraform.io/)
 
-Evergreen app: `HashicorpTerraform`. Last check: 🟢
+Evergreen app: `HashicorpTerraform`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                  |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

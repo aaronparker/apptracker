@@ -10,7 +10,9 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://www.plex.tv/media-server-downloads/)
 
-Evergreen app: `PlexDesktop`. Last check: 🟢
+Evergreen app: `PlexDesktop`. 
+
+Last check: 🟢
 
 | Version             | Architecture | Checksum                                 | URI                                                                                                                                                                                                              |
 | ------------------- | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

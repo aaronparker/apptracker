@@ -10,7 +10,9 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://www.torproject.org/)
 
-Evergreen app: `TorProjectTorBrowser`. Last check: 🟢
+Evergreen app: `TorProjectTorBrowser`. 
+
+Last check: 🟢
 
 | Version | Architecture | Type | Language | URI                                                                                                                                                                                              |
 | ------- | ------------ | ---- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

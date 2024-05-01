@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://www.geogebra.org)
 
-Evergreen app: `GeoGebraClassic`. Last check: 🟢
+Evergreen app: `GeoGebraClassic`. 
+
+Last check: 🟢
 
 | Version   | Type | URI                                                                                                                                                                            |
 | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

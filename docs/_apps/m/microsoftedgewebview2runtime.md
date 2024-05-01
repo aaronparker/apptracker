@@ -10,7 +10,9 @@ last_modified_date: Apr 27 2024 at 12:28 AM
 
 [Source](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
-Evergreen app: `MicrosoftEdgeWebView2Runtime`. Last check: 🟢
+Evergreen app: `MicrosoftEdgeWebView2Runtime`. 
+
+Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                                                                                                                                                                                                            |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)
 
-Evergreen app: `MicrosoftOLEDBDriverForSQLServer`. Last check: 🟢
+Evergreen app: `MicrosoftOLEDBDriverForSQLServer`. 
+
+Last check: 🟢
 
 | Version  | Date                | Size    | Architecture | Type | URI                                                                                                                                                                                                                                              |
 | -------- | ------------------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

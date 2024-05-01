@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://octopus.com/)
 
-Evergreen app: `OctopusTentacle`. Last check: 🟢
+Evergreen app: `OctopusTentacle`. 
+
+Last check: 🟢
 
 | Version  | Architecture | URI                                                                                                                                                          |
 | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

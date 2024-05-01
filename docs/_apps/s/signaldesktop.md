@@ -10,7 +10,9 @@ last_modified_date: Apr 26 2024 at 12:27 AM
 
 [Source](https://www.signal.org/)
 
-Evergreen app: `SignalDesktop`. Last check: 🟢
+Evergreen app: `SignalDesktop`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                                                |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |

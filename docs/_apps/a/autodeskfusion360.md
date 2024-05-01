@@ -10,7 +10,9 @@ last_modified_date: Apr 18 2024 at 12:14 PM
 
 [Source](https://www.autodesk.com/products/fusion-360/overview)
 
-Evergreen app: `AutodeskFusion360`. Last check: 🟢
+Evergreen app: `AutodeskFusion360`. 
+
+Last check: 🟢
 
 | Version   | BuildVersion | MajorBuildVersion | Type | Filename                     | URI                                                                                                                                                                                            |
 | --------- | ------------ | ----------------- | ---- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

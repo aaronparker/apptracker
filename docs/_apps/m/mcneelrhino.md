@@ -10,7 +10,12 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.rhino3d.com/)
 
-Evergreen app: `McNeelRhino`. Last check: 🟢
+Evergreen app: `McNeelRhino`. 
+
+Last check: 🔴
+```
+Cannot validate argument on parameter 'Uri'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+```
 
 | Version          | Release | URI                                                                                                                                                            |
 | ---------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

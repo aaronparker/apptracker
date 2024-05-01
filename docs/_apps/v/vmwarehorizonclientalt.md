@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-Evergreen app: `VMwareHorizonClientAlt`. Last check: 🟢
+Evergreen app: `VMwareHorizonClientAlt`. 
+
+Last check: 🟢
 
 | Version         | URI                                                                                                                                                                                                                                                                              |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

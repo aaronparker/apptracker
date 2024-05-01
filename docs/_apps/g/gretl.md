@@ -10,7 +10,9 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](http://gretl.sourceforge.net/)
 
-Evergreen app: `gretl`. Last check: 🟢
+Evergreen app: `gretl`. 
+
+Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

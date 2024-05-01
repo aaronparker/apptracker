@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.waypointproject.io/)
 
-Evergreen app: `HashicorpWaypoint`. Last check: 🟢
+Evergreen app: `HashicorpWaypoint`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                  |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

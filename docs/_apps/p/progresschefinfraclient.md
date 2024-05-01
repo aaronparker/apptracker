@@ -10,7 +10,12 @@ last_modified_date: Mar 6 2024 at 08:18 PM
 
 [Source](https://www.chef.io/products/chef-infra)
 
-Evergreen app: `ProgressChefInfraClient`. Last check: 🟢
+Evergreen app: `ProgressChefInfraClient`. 
+
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version   | Architecture | Channel  | Platform | Sha256                                                           | URI                                                                                                                                                                                                            |
 | --------- | ------------ | -------- | -------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

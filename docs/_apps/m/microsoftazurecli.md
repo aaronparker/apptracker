@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://learn.microsoft.com/en-au/cli/azure/)
 
-Evergreen app: `MicrosoftAzureCLI`. Last check: 🟢
+Evergreen app: `MicrosoftAzureCLI`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

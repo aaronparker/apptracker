@@ -10,7 +10,9 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://www.virtualbox.org/)
 
-Evergreen app: `OracleVirtualBox`. Last check: 🟢
+Evergreen app: `OracleVirtualBox`. 
+
+Last check: 🟢
 
 | Version     | Channel | Type | URI                                                                                                                                                                                          |
 | ----------- | ------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

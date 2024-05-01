@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)
 
-Evergreen app: `MicrosoftAzureWindowsVMAgent`. Last check: 🟢
+Evergreen app: `MicrosoftAzureWindowsVMAgent`. 
+
+Last check: 🟢
 
 | Version        | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                                                                                      |
 | -------------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

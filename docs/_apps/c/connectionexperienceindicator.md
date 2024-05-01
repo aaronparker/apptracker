@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)
 
-Evergreen app: `ConnectionExperienceIndicator`. Last check: 🟢
+Evergreen app: `ConnectionExperienceIndicator`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size   | URI                                                                                                                                                                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

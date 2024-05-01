@@ -10,7 +10,12 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.tableau.com/)
 
-Evergreen app: `TableauPrep`. Last check: 🟢
+Evergreen app: `TableauPrep`. 
+
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version  | URI                                                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |

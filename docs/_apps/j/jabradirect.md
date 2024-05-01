@@ -10,7 +10,9 @@ last_modified_date: Apr 23 2024 at 12:16 PM
 
 [Source](https://www.jabra.com/software-and-services/jabra-direct)
 
-Evergreen app: `JabraDirect`. Last check: 🟢
+Evergreen app: `JabraDirect`. 
+
+Last check: 🟢
 
 | Version    | Architecture | ReleaseNotes                                                          | Type | Sha256                                                           | URI                                                                                                                                                                |
 | ---------- | ------------ | --------------------------------------------------------------------- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,9 @@ last_modified_date: Apr 22 2024 at 12:32 AM
 
 [Source](https://github.com/dbeaver/dbeaver)
 
-Evergreen app: `dbeaver`. Last check: 🟢
+Evergreen app: `dbeaver`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                              |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

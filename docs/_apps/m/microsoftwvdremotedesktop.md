@@ -10,7 +10,9 @@ last_modified_date: Apr 19 2024 at 12:27 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-Evergreen app: `MicrosoftWvdRemoteDesktop`. Last check: 🟢
+Evergreen app: `MicrosoftWvdRemoteDesktop`. 
+
+Last check: 🟢
 
 | Version    | Date       | Channel | MD5                              | Sha2                                                                                                                             | Architecture | Filename                           | URI                                                                                                                                    |
 | ---------- | ---------- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

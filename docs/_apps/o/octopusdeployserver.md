@@ -10,7 +10,9 @@ last_modified_date: Apr 24 2024 at 12:14 PM
 
 [Source](https://octopus.com/)
 
-Evergreen app: `OctopusDeployServer`. Last check: 🟢
+Evergreen app: `OctopusDeployServer`. 
+
+Last check: 🟢
 
 | Version      | Date       | URI                                                                                                                                                |
 | ------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

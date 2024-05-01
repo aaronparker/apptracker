@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.consul.io/)
 
-Evergreen app: `HashicorpConsul`. Last check: 🟢
+Evergreen app: `HashicorpConsul`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                          |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

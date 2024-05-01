@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://peazip.github.io/)
 
-Evergreen app: `PeaZipPeaZip`. Last check: 🟢
+Evergreen app: `PeaZipPeaZip`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size    | URI                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

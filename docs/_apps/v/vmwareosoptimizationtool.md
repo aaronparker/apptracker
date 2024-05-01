@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
 
-Evergreen app: `VMwareOSOptimizationTool`. Last check: 🟢
+Evergreen app: `VMwareOSOptimizationTool`. 
+
+Last check: 🟢
 
 | Version | Date       | Sha256                                                           | Size      | Type | Title                                                                     | URI                                                                                                                                                                                                                                            |
 | ------- | ---------- | ---------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

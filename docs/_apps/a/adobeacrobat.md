@@ -10,7 +10,9 @@ last_modified_date: Apr 13 2024 at 12:24 AM
 
 [Source](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)
 
-Evergreen app: `AdobeAcrobat`. Last check: 🟢
+Evergreen app: `AdobeAcrobat`. 
+
+Last check: 🟢
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                                                                                                                                      |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

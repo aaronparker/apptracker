@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-Evergreen app: `GoogleChromeDriver`. Last check: 🟢
+Evergreen app: `GoogleChromeDriver`. 
+
+Last check: 🟢
 
 | Version       | Revision | Channel | Architecture | Type | URI                                                                                                                                                                                                        |
 | ------------- | -------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

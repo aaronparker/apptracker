@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.vmware.com/en/VMware-Tools/index.html)
 
-Evergreen app: `VMwareTools`. Last check: 🟢
+Evergreen app: `VMwareTools`. 
+
+Last check: 🟢
 
 | Version | Architecture | URI                                                                                                                                                                                                            |
 | ------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

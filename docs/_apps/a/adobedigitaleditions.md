@@ -10,7 +10,12 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.adobe.com/solutions/ebook/digital-editions.html)
 
-Evergreen app: `AdobeDigitalEditions`. Last check: 🟢
+Evergreen app: `AdobeDigitalEditions`. 
+
+Last check: 🔴
+```
+Cannot convert argument "bytes", with value: "System.Object[]", for "GetString" to type "System.Byte[]": "Cannot convert value "セ" to type "System.Byte". Error: "Value was either too large or too small for an unsigned byte.""
+```
 
 | Version      | URI                                                                                                                                                            |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

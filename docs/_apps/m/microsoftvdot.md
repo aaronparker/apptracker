@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
 
-Evergreen app: `MicrosoftVdot`. Last check: 🟢
+Evergreen app: `MicrosoftVdot`. 
+
+Last check: 🟢
 
 | Version    | Type | Filename                                         | URI                                                                                                                                                                                                                                |
 | ---------- | ---- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

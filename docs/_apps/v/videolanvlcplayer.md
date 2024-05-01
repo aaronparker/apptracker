@@ -10,7 +10,9 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://www.videolan.org/vlc/)
 
-Evergreen app: `VideoLanVlcPlayer`. Last check: 🟢
+Evergreen app: `VideoLanVlcPlayer`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | URI                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

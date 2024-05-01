@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://www.thunderbird.net/)
 
-Evergreen app: `MozillaThunderbird`. Last check: 🟢
+Evergreen app: `MozillaThunderbird`. 
+
+Last check: 🟢
 
 | Version  | Architecture | Channel                    | Language | Type | Filename                       | URI                                                                                                                                                                                                                                                        |
 | -------- | ------------ | -------------------------- | -------- | ---- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

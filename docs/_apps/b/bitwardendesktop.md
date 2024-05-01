@@ -10,7 +10,9 @@ last_modified_date: Apr 13 2024 at 12:24 AM
 
 [Source](https://bitwarden.com/)
 
-Evergreen app: `BitwardenDesktop`. Last check: 🟢
+Evergreen app: `BitwardenDesktop`. 
+
+Last check: 🟢
 
 | Version  | Type | URI                                                                                                                                                  |
 | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

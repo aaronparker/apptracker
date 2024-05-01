@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.vmware.com/en/VMware-SD-WAN-Client/index.html)
 
-Evergreen app: `VMwareSDWANClient`. Last check: 🟢
+Evergreen app: `VMwareSDWANClient`. 
+
+Last check: 🟢
 
 | Version | ReleaseDate         | Md5                              | Sha256                                                           | Size     | Type | URI                                                                                                                                                                        |
 | ------- | ------------------- | -------------------------------- | ---------------------------------------------------------------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

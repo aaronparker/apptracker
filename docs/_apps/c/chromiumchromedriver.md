@@ -10,7 +10,12 @@ last_modified_date: May 31 2023 at 04:07 PM
 
 [Source](https://chromedriver.chromium.org/home)
 
-Evergreen app: `ChromiumChromeDriver`. Last check: 🟢
+Evergreen app: `ChromiumChromeDriver`. 
+
+Last check: 🔴
+```
+Response status code does not indicate success: 410 (Gone).
+```
 
 | Version       | Channel | Type | URI                                                                                                                                                                  |
 | ------------- | ------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.jam-software.com/treesize_free/)
 
-Evergreen app: `JamTreeSizeFree`. Last check: 🟢
+Evergreen app: `JamTreeSizeFree`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

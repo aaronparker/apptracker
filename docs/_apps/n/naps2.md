@@ -10,7 +10,9 @@ last_modified_date: Apr 14 2024 at 02:14 PM
 
 [Source](https://www.naps2.com/)
 
-Evergreen app: `Naps2`. Last check: 🟢
+Evergreen app: `Naps2`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                      |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

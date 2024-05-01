@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.bluej.org/)
 
-Evergreen app: `BlueJ`. Last check: 🟢
+Evergreen app: `BlueJ`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                                      |
 | ------- | ------------------------------------------------------------------------------------------------------------------------ |

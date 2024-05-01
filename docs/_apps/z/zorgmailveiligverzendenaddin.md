@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)
 
-Evergreen app: `ZorgmailVeiligVerzendenAddin`. Last check: 🟢
+Evergreen app: `ZorgmailVeiligVerzendenAddin`. 
+
+Last check: 🟢
 
 | Version | Edition   | URI                                                                                                                                                                                                                                                    |
 | ------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

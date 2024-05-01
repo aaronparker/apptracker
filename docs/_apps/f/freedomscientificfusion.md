@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.freedomscientific.com/products/software/fusion/)
 
-Evergreen app: `FreedomScientificFusion`. Last check: 🟢
+Evergreen app: `FreedomScientificFusion`. 
+
+Last check: 🟢
 
 | Version     | Date       | URI                                                                                                                                                                                                                                                              |
 | ----------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

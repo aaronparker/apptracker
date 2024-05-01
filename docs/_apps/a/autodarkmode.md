@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
-Evergreen app: `AutoDarkMode`. Last check: 🟢
+Evergreen app: `AutoDarkMode`. 
+
+Last check: 🟢
 
 | Version  | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                            |
 | -------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

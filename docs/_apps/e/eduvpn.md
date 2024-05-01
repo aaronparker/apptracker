@@ -10,7 +10,9 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://app.eduvpn.org/)
 
-Evergreen app: `Eduvpn`. Last check: 🟢
+Evergreen app: `Eduvpn`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

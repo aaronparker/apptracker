@@ -10,7 +10,9 @@ last_modified_date: Apr 18 2024 at 12:14 PM
 
 [Source](https://www.telerik.com/fiddler)
 
-Evergreen app: `TelerikFiddlerEverywhere`. Last check: 🟢
+Evergreen app: `TelerikFiddlerEverywhere`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

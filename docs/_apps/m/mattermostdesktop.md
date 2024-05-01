@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://github.com/mattermost/desktop)
 
-Evergreen app: `MattermostDesktop`. Last check: 🟢
+Evergreen app: `MattermostDesktop`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,1 +1,0 @@
-Cannot convert argument "bytes", with value: "System.Object[]", for "GetString" to type "System.Byte[]": "Cannot convert value "セ" to type "System.Byte". Error: "Value was either too large or too small for an unsigned byte.""

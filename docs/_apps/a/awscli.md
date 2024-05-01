@@ -10,7 +10,9 @@ last_modified_date: Apr 27 2024 at 12:28 AM
 
 [Source](https://github.com/aws/aws-cli/)
 
-Evergreen app: `AWSCLI`. Last check: 🟢
+Evergreen app: `AWSCLI`. 
+
+Last check: 🟢
 
 | Version | Type | URI                                                                                                    |
 | ------- | ---- | ------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,12 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://mestrelab.com/software/mnova/)
 
-Evergreen app: `MestrelabMnova`. Last check: 🟢
+Evergreen app: `MestrelabMnova`. 
+
+Last check: 🔴
+```
+Response status code does not indicate success: 503 (Service Unavailable).
+```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
 | ------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

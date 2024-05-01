@@ -10,7 +10,9 @@ last_modified_date: Apr 26 2024 at 12:27 AM
 
 [Source](https://www.jetbrains.com/datagrip)
 
-Evergreen app: `JetBrainsDataGrip`. Last check: 🟢
+Evergreen app: `JetBrainsDataGrip`. 
+
+Last check: 🟢
 
 | Version  | Build         | Edition  | Sha256                                                       | Date       | Size       | Type | URI                                                                                                            |
 | -------- | ------------- | -------- | ------------------------------------------------------------ | ---------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------- |

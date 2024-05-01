@@ -10,7 +10,9 @@ last_modified_date: Apr 24 2024 at 12:29 AM
 
 [Source](https://www.vaultproject.io/)
 
-Evergreen app: `HashicorpVault`. Last check: 🟢
+Evergreen app: `HashicorpVault`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                      |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |

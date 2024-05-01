@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.eset.com/au/business/download/secure-authentication/)
 
-Evergreen app: `ESETSecureAuthentication`. Last check: 🟢
+Evergreen app: `ESETSecureAuthentication`. 
+
+Last check: 🟢
 
 | Version  | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                                                                                                              |
 | -------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

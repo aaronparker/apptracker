@@ -10,7 +10,9 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://desktop.telegram.org/)
 
-Evergreen app: `TelegramDesktop`. Last check: 🟢
+Evergreen app: `TelegramDesktop`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------- |

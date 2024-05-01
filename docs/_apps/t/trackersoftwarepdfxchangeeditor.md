@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
 
-Evergreen app: `TrackerSoftwarePDFXChangeEditor`. Last check: 🟢
+Evergreen app: `TrackerSoftwarePDFXChangeEditor`. 
+
+Last check: 🟢
 
 | Version    | Hash                                                             | Architecture | Type | URI                                                                                                            |
 | ---------- | ---------------------------------------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------- |

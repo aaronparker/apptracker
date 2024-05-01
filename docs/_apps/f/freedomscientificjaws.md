@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.freedomscientific.com/products/software/jaws/)
 
-Evergreen app: `FreedomScientificJAWS`. Last check: 🟢
+Evergreen app: `FreedomScientificJAWS`. 
+
+Last check: 🟢
 
 | Version     | Architecture | Date       | URI                                                                                                                                                                                                                                                              |
 | ----------- | ------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

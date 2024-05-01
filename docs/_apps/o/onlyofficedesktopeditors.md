@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.onlyoffice.com/desktop.aspx)
 
-Evergreen app: `OnlyOfficeDesktopEditors`. Last check: 🟢
+Evergreen app: `OnlyOfficeDesktopEditors`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size      | URI                                                                                                                                                                                                |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

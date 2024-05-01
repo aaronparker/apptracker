@@ -10,7 +10,9 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://aws.amazon.com/corretto/)
 
-Evergreen app: `AmazonCorretto`. Last check: 🟢
+Evergreen app: `AmazonCorretto`. 
+
+Last check: 🟢
 
 | Version     | JDK | Architecture | Type | URI                                                                                                                                                                                                      |
 | ----------- | --- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

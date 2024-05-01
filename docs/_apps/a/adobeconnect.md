@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.adobe.com/products/adobeconnect.html)
 
-Evergreen app: `AdobeConnect`. Last check: 🟢
+Evergreen app: `AdobeConnect`. 
+
+Last check: 🟢
 
 | Version    | Type | Architecture | URI                                                                                                                                                                                                  |
 | ---------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,9 @@ last_modified_date: Apr 25 2024 at 12:30 AM
 
 [Source](https://www.chef.io/products/chef-inspec)
 
-Evergreen app: `ProgressChefInSpec`. Last check: 🟢
+Evergreen app: `ProgressChefInSpec`. 
+
+Last check: 🟢
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                                                                                        |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)
 
-Evergreen app: `GoToConnect`. Last check: 🟢
+Evergreen app: `GoToConnect`. 
+
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                            |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------ |

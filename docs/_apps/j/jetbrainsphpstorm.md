@@ -10,7 +10,9 @@ last_modified_date: Apr 24 2024 at 12:29 AM
 
 [Source](https://www.jetbrains.com/phpstorm)
 
-Evergreen app: `JetBrainsPhpStorm`. Last check: 🟢
+Evergreen app: `JetBrainsPhpStorm`. 
+
+Last check: 🟢
 
 | Version  | Build         | Edition  | Sha256                                                             | Date       | Size      | Type | URI                                                                                                                        |
 | -------- | ------------- | -------- | ------------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------- |

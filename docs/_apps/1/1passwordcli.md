@@ -10,7 +10,9 @@ last_modified_date: Apr 18 2024 at 12:26 AM
 
 [Source](https://developer.1password.com/docs/cli/)
 
-Evergreen app: `1PasswordCLI`. Last check: 🟢
+Evergreen app: `1PasswordCLI`. 
+
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                  |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

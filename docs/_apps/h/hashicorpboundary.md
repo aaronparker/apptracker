@@ -10,7 +10,9 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://www.boundaryproject.io/)
 
-Evergreen app: `HashicorpBoundary`. Last check: 🟢
+Evergreen app: `HashicorpBoundary`. 
+
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                  |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

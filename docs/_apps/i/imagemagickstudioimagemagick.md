@@ -10,7 +10,9 @@ last_modified_date: Apr 22 2024 at 12:32 AM
 
 [Source](https://imagemagick.org/)
 
-Evergreen app: `ImageMagickStudioImageMagick`. Last check: 🟢
+Evergreen app: `ImageMagickStudioImageMagick`. 
+
+Last check: 🟢
 
 | Version  | URI                                                                                                                                                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

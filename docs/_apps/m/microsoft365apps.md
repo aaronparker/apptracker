@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://www.microsoft.com/office)
 
-Evergreen app: `Microsoft365Apps`. Last check: 🟢
+Evergreen app: `Microsoft365Apps`. 
+
+Last check: 🟢
 
 | Version          | ReleaseVersion | Channel           | Name                                     | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | ---------------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |

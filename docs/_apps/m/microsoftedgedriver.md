@@ -10,7 +10,9 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://www.microsoft.com/edge)
 
-Evergreen app: `MicrosoftEdgeDriver`. Last check: 🟢
+Evergreen app: `MicrosoftEdgeDriver`. 
+
+Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                            |
 | ------------- | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,9 @@ last_modified_date: Apr 25 2024 at 12:30 AM
 
 [Source](https://nodejs.org/)
 
-Evergreen app: `NodeJs`. Last check: 🟢
+Evergreen app: `NodeJs`. 
+
+Last check: 🟢
 
 | Version | Architecture | Type | Channel | URI                                                                                                                      |
 | ------- | ------------ | ---- | ------- | ------------------------------------------------------------------------------------------------------------------------ |

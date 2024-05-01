@@ -10,7 +10,9 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.jam-software.com/treesize/)
 
-Evergreen app: `JamTreeSizeProfessional`. Last check: 🟢
+Evergreen app: `JamTreeSizeProfessional`. 
+
+Last check: 🟢
 
 | Version | URI                                                                                                                                  |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |

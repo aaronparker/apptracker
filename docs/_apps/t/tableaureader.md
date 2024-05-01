@@ -10,7 +10,12 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.tableau.com/)
 
-Evergreen app: `TableauReader`. Last check: 🟢
+Evergreen app: `TableauReader`. 
+
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version  | URI                                                                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

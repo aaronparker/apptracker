@@ -10,7 +10,9 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://www.beekeeperstudio.io/)
 
-Evergreen app: `BeekeeperStudio`. Last check: 🟢
+Evergreen app: `BeekeeperStudio`. 
+
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
