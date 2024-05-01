@@ -85,7 +85,11 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $ErrFile = $([System.IO.Path]::Combine($JsonPath, "$($App.Name).err"))
     if (Test-Path -Path $ErrFile) {
         $Err = Get-Content -Path $ErrFile
-        $Markdown += "Last check: 🔴 ``$Err``"
+        $Markdown += "Last check: 🔴`n"
+        #$Markdown += "`n`n"
+        $Markdown += '```'
+        $Markdown += "`n$Err`n"
+        $Markdown += '```'
         $Markdown += "`n`n"
         Remove-Item -Path $ErrFile -Force -ErrorAction "SilentlyContinue"
     }
