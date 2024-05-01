@@ -3,7 +3,7 @@ title: Hashicorp Boundary
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: May 1 2024 at 12:29 AM
 ---
 
 ## Hashicorp Boundary
@@ -14,5 +14,5 @@ Evergreen app: `HashicorpBoundary`. Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                  |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.15.4  | zip  | x64          | [https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_amd64.zip](https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_amd64.zip) |
-| 0.15.4  | zip  | x86          | [https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_386.zip](https://releases.hashicorp.com/boundary/0.15.4/boundary_0.15.4_windows_386.zip)     |
+| 0.16.0  | zip  | x64          | [https://releases.hashicorp.com/boundary/0.16.0/boundary_0.16.0_windows_amd64.zip](https://releases.hashicorp.com/boundary/0.16.0/boundary_0.16.0_windows_amd64.zip) |
+| 0.16.0  | zip  | x86          | [https://releases.hashicorp.com/boundary/0.16.0/boundary_0.16.0_windows_386.zip](https://releases.hashicorp.com/boundary/0.16.0/boundary_0.16.0_windows_386.zip)     |
