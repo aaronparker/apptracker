@@ -79,10 +79,10 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $Markdown += "[Source]($($App.Link))"
     $Markdown += "`n`n"
     $Markdown += "Evergreen app: ``$($File.BaseName)``. "
-    # $Markdown += "`n`n"
+    $Markdown += "`n`n"
 
     # Add details of previous check
-    $ErrFile = $([System.IO.Path]::Combine($JsonPath, "$App.err"))
+    $ErrFile = $([System.IO.Path]::Combine($JsonPath, "$($App.Name).err"))
     if (Test-Path -Path $ErrFile) {
         $Err = Get-Content -Path $ErrFile
         $Markdown += "Last check: 🔴 ``$Err``"
