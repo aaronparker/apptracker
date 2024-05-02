@@ -33,8 +33,7 @@ function Test-PSCore {
 #endregion
 
 # Apps that should be skipped in this run
-# $SkipApps = @("MozillaFirefox", "MozillaThunderbird")
-$SkipApps = ""
+$SkipApps = @("MozillaFirefox", "MozillaThunderbird")
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
@@ -74,6 +73,28 @@ if (Test-PSCore) {
         else {
             ConvertTo-Json @($Output | `
                     Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
+                Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+            Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
+        }
+    }
+
+    foreach ($App in @("MozillaFirefox", "MozillaThunderbird")) {
+        Write-Host -Object "Gather: $App"
+        $Manifest = Export-EvergreenManifest -Name "$App"
+        $params = @{
+            Name          = "$App"
+            AppParams     = @{ Language = $Manifest.Get.Download.FullLanguageList }
+            ErrorAction   = "SilentlyContinue"
+            WarningAction = "SilentlyContinue"
+        }
+        $Output = Get-EvergreenApp @params
+        if ($null -eq $Output) {
+            Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+        }
+        else {
+            $Output | `
+                Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Type", "Architecture", "Channel", "Language" -ErrorAction "SilentlyContinue" | `
+                ConvertTo-Json | `
                 Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
             Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
