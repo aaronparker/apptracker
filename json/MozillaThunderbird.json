@@ -1,38 +1,38 @@
 [
   {
-    "Version": "115.10.1",
+    "Version": "115.10.2",
     "Architecture": "x64",
     "Channel": "LATEST_THUNDERBIRD_VERSION",
     "Language": "en-US",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 115.10.1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.1/win64/en-US/Thunderbird%20Setup%20115.10.1.exe"
+    "Filename": "Thunderbird Setup 115.10.2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.2/win64/en-US/Thunderbird%20Setup%20115.10.2.exe"
   },
   {
-    "Version": "115.10.1",
+    "Version": "115.10.2",
     "Architecture": "x86",
     "Channel": "LATEST_THUNDERBIRD_VERSION",
     "Language": "en-US",
     "Type": "exe",
-    "Filename": "Thunderbird Setup 115.10.1.exe",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.1/win32/en-US/Thunderbird%20Setup%20115.10.1.exe"
+    "Filename": "Thunderbird Setup 115.10.2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.2/win32/en-US/Thunderbird%20Setup%20115.10.2.exe"
   },
   {
-    "Version": "115.10.1",
+    "Version": "115.10.2",
     "Architecture": "x64",
     "Channel": "LATEST_THUNDERBIRD_VERSION",
     "Language": "en-US",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 115.10.1.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.1/win64/en-US/Thunderbird%20Setup%20115.10.1.msi"
+    "Filename": "Thunderbird Setup 115.10.2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.2/win64/en-US/Thunderbird%20Setup%20115.10.2.msi"
   },
   {
-    "Version": "115.10.1",
+    "Version": "115.10.2",
     "Architecture": "x86",
     "Channel": "LATEST_THUNDERBIRD_VERSION",
     "Language": "en-US",
     "Type": "msi",
-    "Filename": "Thunderbird Setup 115.10.1.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.1/win32/en-US/Thunderbird%20Setup%20115.10.1.msi"
+    "Filename": "Thunderbird Setup 115.10.2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.2/win32/en-US/Thunderbird%20Setup%20115.10.2.msi"
   }
 ]
