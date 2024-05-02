@@ -3,7 +3,7 @@ title: Adobe Digital Editions
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: May 2 2024 at 12:16 PM
 ---
 
 ## Adobe Digital Editions
@@ -12,11 +12,8 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `AdobeDigitalEditions`. 
 
-Last check: 🔴
-```
-Cannot convert argument "bytes", with value: "System.Object[]", for "GetString" to type "System.Byte[]": "Cannot convert value "セ" to type "System.Byte". Error: "Value was either too large or too small for an unsigned byte.""
-```
+Last check: 🟢
 
-| Version      | URI                                                                                                                                                            |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.5.7.179634 | [https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.exe](https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.exe) |
+| Version      | Type | URI                                                                                                                                                            |
+| ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.5.7.179634 | exe  | [https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.exe](https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.exe) |

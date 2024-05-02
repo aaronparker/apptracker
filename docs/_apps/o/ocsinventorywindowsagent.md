@@ -8,7 +8,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 ## OCS Inventory Windows Agent
 
-[Source](http://https://ocsinventory-ng.org/)
+[Source](https://ocsinventory-ng.org/)
 
 Evergreen app: `OCSInventoryWindowsAgent`. 
 

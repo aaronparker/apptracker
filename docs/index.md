@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 02/05/2024 00:30 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 02/05/2024 12:21 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **320** applications and **1861** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **321** applications and **4027** unique application installers.
 
 | Application                                                       | Link                                                                                                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -225,7 +225,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Npcap                                                             | [https://npcap.com/](https://npcap.com/)                                                                                                                                                             |
 | Obsidian                                                          | [https://obsidian.md/](https://obsidian.md/)                                                                                                                                                         |
 | OBS Studio                                                        | [https://obsproject.com/](https://obsproject.com/)                                                                                                                                                   |
-| OCS Inventory Windows Agent                                       | [http://https://ocsinventory-ng.org/](http://https://ocsinventory-ng.org/)                                                                                                                           |
+| OCS Inventory Windows Agent                                       | [https://ocsinventory-ng.org/](https://ocsinventory-ng.org/)                                                                                                                                         |
 | Octopus Deploy Server                                             | [https://octopus.com/](https://octopus.com/)                                                                                                                                                         |
 | Octopus Tentacle                                                  | [https://octopus.com/](https://octopus.com/)                                                                                                                                                         |
 | ONLYOFFICE Desktop Editors                                        | [https://www.onlyoffice.com/desktop.aspx](https://www.onlyoffice.com/desktop.aspx)                                                                                                                   |
@@ -239,6 +239,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Oracle Java 17                                                    | [https://www.oracle.com/java/technologies/downloads/#java17](https://www.oracle.com/java/technologies/downloads/#java17)                                                                             |
 | Oracle Java 20                                                    | [https://www.oracle.com/java/technologies/downloads/#java20](https://www.oracle.com/java/technologies/downloads/#java20)                                                                             |
 | Oracle Java 21                                                    | [https://www.oracle.com/java/technologies/downloads/#java21](https://www.oracle.com/java/technologies/downloads/#java21)                                                                             |
+| Oracle Java 22                                                    | [https://www.oracle.com/java/technologies/downloads/#java22](https://www.oracle.com/java/technologies/downloads/#java22)                                                                             |
 | Oracle Java 8                                                     | [https://www.java.com](https://www.java.com)                                                                                                                                                         |
 | Oracle VirtualBox                                                 | [https://www.virtualbox.org/](https://www.virtualbox.org/)                                                                                                                                           |
 | dotPDN LLC Paint.NET                                              | [https://getpaint.net](https://getpaint.net)                                                                                                                                                         |
