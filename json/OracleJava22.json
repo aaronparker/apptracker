@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "22.0.1",
+    "Sha256": "bf541fb66de4f4eb044e6f5c7d14f7ba78ad1f3b46f59c1348c9b69ee445c5e3",
+    "Type": "exe",
+    "URI": "https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe"
+  },
+  {
+    "Version": "22.0.1",
+    "Sha256": "4033a1ad30f06feb9be96ae8845f7ac5fc6211032a6b386ecec01074b1d22610",
+    "Type": "msi",
+    "URI": "https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi"
+  },
+  {
+    "Version": "22.0.1",
+    "Sha256": "3c78749d56000a2ed130d80db3abb7067cf792b84bc79c09b0ce35e9a33bdcd0",
+    "Type": "zip",
+    "URI": "https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.zip"
+  }
+]

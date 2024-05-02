@@ -1,10 +1,12 @@
-{
-  "Version": "6.0",
-  "Build": "3385",
-  "Edition": "Youtrack Workflow Editor",
-  "Sha256": "https://download.jetbrains.com/charisma/youtrack-workflow-editor-3385.exe.sha256",
-  "Date": "3/9/2017",
-  "Size": 126796160,
-  "Type": "exe",
-  "URI": "https://download.jetbrains.com/charisma/youtrack-workflow-editor-3385.exe"
-}
+[
+  {
+    "Version": "6.0",
+    "Build": "3385",
+    "Edition": "Youtrack Workflow Editor",
+    "Sha256": "https://download.jetbrains.com/charisma/youtrack-workflow-editor-3385.exe.sha256",
+    "Date": "03/09/2017",
+    "Size": 126796160,
+    "Type": "exe",
+    "URI": "https://download.jetbrains.com/charisma/youtrack-workflow-editor-3385.exe"
+  }
+]

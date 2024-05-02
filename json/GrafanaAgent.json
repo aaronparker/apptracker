@@ -2,7 +2,7 @@
   {
     "Version": "0.40.4",
     "Platform": "Windows",
-    "Architecture": "AMD64",
+    "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/12/2024",
@@ -12,7 +12,7 @@
   {
     "Version": "0.40.4",
     "Platform": "Windows",
-    "Architecture": "AMD64",
+    "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/12/2024",
@@ -22,7 +22,7 @@
   {
     "Version": "0.40.4",
     "Platform": "Windows",
-    "Architecture": "AMD64",
+    "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/12/2024",
@@ -32,7 +32,7 @@
   {
     "Version": "0.40.4",
     "Platform": "Windows",
-    "Architecture": "AMD64",
+    "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
     "Date": "04/12/2024",
