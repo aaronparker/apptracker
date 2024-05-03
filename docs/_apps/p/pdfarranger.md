@@ -12,7 +12,10 @@ last_modified_date: Jul 8 2023 at 04:08 PM
 
 Evergreen app: `PDFArranger`. 
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

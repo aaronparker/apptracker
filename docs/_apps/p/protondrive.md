@@ -12,7 +12,10 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `ProtonDrive`. 
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot validate argument on parameter 'DateTime'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+```
 
 | Version | Date       | Release | Sha512                                                                                                                           | Type | URI                                                                                                                                                        |
 | ------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

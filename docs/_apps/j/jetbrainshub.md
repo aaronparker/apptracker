@@ -12,7 +12,10 @@ last_modified_date: Sep 19 2023 at 04:11 PM
 
 Evergreen app: `JetBrainsHub`. 
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Build | Edition | Sha256                                                         | Date       | Size      | Type | URI                                                                                                                |
 | ------- | ----- | ------- | -------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------ |
