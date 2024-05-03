@@ -1,13 +1,6 @@
 [
   {
     "Version": "1.49.0",
-    "Platform": "win32-x64",
-    "Channel": "Insider",
-    "Sha256": "b906223395c08e4945b475efbaec4dd33cd3a3baa990b8def52241177066d5ce",
-    "URI": "https://sqlopsbuilds.azureedge.net/insider/04d443cfc80e6cab20c0f5e8c16543b9f99931bc/azuredatastudio-windows-setup-1.49.0-insider.exe"
-  },
-  {
-    "Version": "1.49.0",
     "Platform": "win32-x64-user",
     "Channel": "Insider",
     "Sha256": "b37a71ef2c5bf95a4108e51e9a302b8aacd1346b9978682c27798d2f1d638815",
