@@ -65,7 +65,11 @@ if (Test-PSCore) {
         }
 
         if ($null -eq $Output) {
-            Write-Host -Object "Output from apps is null: $App." -ForegroundColor "Cyan"
+            Write-Host -Object "Output from app is null: $App." -ForegroundColor "Cyan"
+
+            if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
+                "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+            }
         }
         elseif ("RateLimited" -in $Output.Version) {
             Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
@@ -125,6 +129,10 @@ else {
 
             if ($null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
+
+                if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$($file.BaseName).err")))) {
+                    "Output from last run on Windows PowerShell was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$($file.BaseName).err")) -NoNewline -Encoding "utf8"
+                }
             }
             elseif ($Output[0].Version -eq "RateLimited") {
                 Write-Host -Object "Skipping. GitHub API rate limited: $($file.BaseName)." -ForegroundColor "Cyan"
