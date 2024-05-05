@@ -80,7 +80,6 @@ if (Test-PSCore) {
 
         if ($null -eq $Output) {
             Write-Host -Object "Output from app is null: $App." -ForegroundColor "Cyan"
-
             if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
                 "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
             }

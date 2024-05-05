@@ -72,10 +72,8 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     # Update front matter
     $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt")) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
 
-    # Get details of the app from the saved JSON
+    # Get details of the app from the saved JSON; Update the count of unique apps
     $AppObject = Get-Content -Path $File.FullName | ConvertFrom-Json
-
-    # Update the count of unique apps
     $UniqueAppsCount += $AppObject.Count
     
     # Update page details

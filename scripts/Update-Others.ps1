@@ -12,18 +12,32 @@ param(
 Import-Module -Name "Evergreen" -Force
 
 # MozillaFirefox is a special case, so we need to run it separately
-foreach ($App in @("MozillaFirefox", "MozillaThunderbird")) {
-    Write-Host -Object "Gather: $App"
-    $Manifest = Export-EvergreenManifest -Name "$App"
-    $params = @{
-        Name          = "$App"
-        AppParams     = @{ Language = $Manifest.Get.Download.FullLanguageList }
-        ErrorAction   = "SilentlyContinue"
-        WarningAction = "SilentlyContinue"
+foreach ($App in @("MozillaFirefox", "MozillaThunderbird", "FileZilla")) {
+    try {
+        Write-Host -Object "Gather: $App"
+        $Manifest = Export-EvergreenManifest -Name "$App"
+        $params = @{
+            Name          = $App
+            ErrorAction   = "SilentlyContinue"
+            WarningAction = "SilentlyContinue"
+        }
+        if ($App -in @("MozillaFirefox", "MozillaThunderbird")) {
+            $params.AppParams = @{ Language = $Manifest.Get.Download.FullLanguageList }
+        }
+        $Output = Get-EvergreenApp @params
     }
-    $Output = Get-EvergreenApp @params
+    catch {
+        Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+        Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
+        $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+        $Output = $null
+    }
+
     if ($null -eq $Output) {
         Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+        if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
+            "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+        }
     }
     else {
         $Output | `
