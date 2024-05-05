@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)
 
-Evergreen app: `MicrosoftODBCDriverForSQLServer`. Found `3` installers.
+Evergreen app: `MicrosoftODBCDriverForSQLServer`. Found **3** installers.
 
 Last check: 🟢
 

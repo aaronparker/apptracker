@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.xnview.com/en/xnconvert/)
 
-Evergreen app: `XnSoftXnConvert`. Found `2` installers.
+Evergreen app: `XnSoftXnConvert`. Found **2** installers.
 
 Last check: 🟢
 

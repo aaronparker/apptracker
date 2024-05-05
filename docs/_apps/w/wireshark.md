@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.wireshark.org/#download)
 
-Evergreen app: `Wireshark`. Found `6` installers.
+Evergreen app: `Wireshark`. Found **6** installers.
 
 Last check: 🟢
 

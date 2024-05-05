@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.tableau.com/)
 
-Evergreen app: `TableauPrep`. Found `1` installer.
+Evergreen app: `TableauPrep`. Found **1** installer.
 
 Last check: 🟢
 

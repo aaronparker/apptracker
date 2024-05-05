@@ -10,7 +10,7 @@ last_modified_date: Apr 23 2024 at 12:16 PM
 
 [Source](https://www.jabra.com/software-and-services/jabra-direct)
 
-Evergreen app: `JabraDirect`. Found `1` installer.
+Evergreen app: `JabraDirect`. Found **1** installer.
 
 Last check: 🟢
 

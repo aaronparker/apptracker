@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://mestrelab.com/software/mnova/)
 
-Evergreen app: `MestrelabMnova`. Found `2` installers.
+Evergreen app: `MestrelabMnova`. Found **2** installers.
 
 Last check: 🟢
 

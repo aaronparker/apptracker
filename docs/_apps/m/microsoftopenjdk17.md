@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.microsoft.com/openjdk)
 
-Evergreen app: `MicrosoftOpenJDK17`. Found `2` installers.
+Evergreen app: `MicrosoftOpenJDK17`. Found **2** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://support.goto.com/meeting/help/install-via-msi-windows)
 
-Evergreen app: `GoToMeeting`. Found `4` installers.
+Evergreen app: `GoToMeeting`. Found **4** installers.
 
 Last check: 🟢
 

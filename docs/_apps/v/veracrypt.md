@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.veracrypt.fr/en/Home.html)
 
-Evergreen app: `VeraCrypt`. Found `3` installers.
+Evergreen app: `VeraCrypt`. Found **3** installers.
 
 Last check: 🟢
 

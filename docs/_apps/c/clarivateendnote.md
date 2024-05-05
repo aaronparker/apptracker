@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.endnote.com/)
 
-Evergreen app: `ClarivateEndnote`. Found `9` installers.
+Evergreen app: `ClarivateEndnote`. Found **9** installers.
 
 Last check: 🟢
 

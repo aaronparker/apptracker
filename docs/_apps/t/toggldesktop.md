@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.toggl.com/)
 
-Evergreen app: `TogglDesktop`. Found `2` installers.
+Evergreen app: `TogglDesktop`. Found **2** installers.
 
 Last check: 🟢
 

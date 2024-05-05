@@ -10,7 +10,7 @@ last_modified_date: Apr 25 2024 at 12:13 PM
 
 [Source](https://www.controlup.com/products/controlup/agent/)
 
-Evergreen app: `ControlUpRemoteDX`. Found `2` installers.
+Evergreen app: `ControlUpRemoteDX`. Found **2** installers.
 
 Last check: 🟢
 

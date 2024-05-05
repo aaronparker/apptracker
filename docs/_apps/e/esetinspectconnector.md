@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://www.eset.com/int/business/download/inspect/)
 
-Evergreen app: `ESETInspectConnector`. Found `2` installers.
+Evergreen app: `ESETInspectConnector`. Found **2** installers.
 
 Last check: 🟢
 

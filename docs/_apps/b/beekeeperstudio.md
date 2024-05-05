@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.beekeeperstudio.io/)
 
-Evergreen app: `BeekeeperStudio`. Found `2` installers.
+Evergreen app: `BeekeeperStudio`. Found **2** installers.
 
 Last check: 🟢
 

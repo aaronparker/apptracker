@@ -10,7 +10,7 @@ last_modified_date: Apr 26 2024 at 12:27 AM
 
 [Source](https://www.microsoft.com/teams)
 
-Evergreen app: `MicrosoftTeams`. Found `6` installers.
+Evergreen app: `MicrosoftTeams`. Found **6** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 19 2024 at 12:27 AM
 
 [Source](https://www.techsmith.com/)
 
-Evergreen app: `TechSmithCamtasia`. Found `2` installers.
+Evergreen app: `TechSmithCamtasia`. Found **2** installers.
 
 Last check: 🟢
 

@@ -3,20 +3,20 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: May 5 2024 at 12:25 PM
 ---
 
 ## Google Chrome Enterprise
 
 [Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-Evergreen app: `GoogleChrome`. Found `10` installers.
+Evergreen app: `GoogleChrome`. Found **10** installers.
 
 Last check: 🟢
 
 | Version        | StartDate | Architecture | Channel  | Type | URI                                                                                                                                                                                |
 | -------------- | --------- | ------------ | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 126.0.6459.0   | 4/5/2024  | x86          | Canary   | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
+| 126.0.6460.0   | 5/5/2024  | x86          | Canary   | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
 | 126.0.6452.3   | 3/5/2024  | x64          | Dev      | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)     |
 | 126.0.6452.3   | 3/5/2024  | x86          | Dev      | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)         |
 | 125.0.6422.26  | 2/5/2024  | x64          | Beta     | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi) |

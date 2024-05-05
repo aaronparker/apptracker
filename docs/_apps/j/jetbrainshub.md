@@ -10,9 +10,12 @@ last_modified_date: Sep 19 2023 at 04:11 PM
 
 [Source](https://www.jetbrains.com/hub)
 
-Evergreen app: `JetBrainsHub`. Found `1` installer.
+Evergreen app: `JetBrainsHub`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Build | Edition | Sha256                                                         | Date       | Size      | Type | URI                                                                                                                |
 | ------- | ----- | ------- | -------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------ |

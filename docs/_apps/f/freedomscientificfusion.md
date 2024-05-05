@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.freedomscientific.com/products/software/fusion/)
 
-Evergreen app: `FreedomScientificFusion`. Found `1` installer.
+Evergreen app: `FreedomScientificFusion`. Found **1** installer.
 
 Last check: 🟢
 

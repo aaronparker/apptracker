@@ -10,7 +10,7 @@ last_modified_date: May 3 2024 at 12:30 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
-Evergreen app: `MicrosoftAzureFunctionsCoreTools`. Found `2` installers.
+Evergreen app: `MicrosoftAzureFunctionsCoreTools`. Found **2** installers.
 
 Last check: 🟢
 

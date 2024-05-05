@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.mendeley.com/)
 
-Evergreen app: `MendeleyDesktop`. Found `1` installer.
+Evergreen app: `MendeleyDesktop`. Found **1** installer.
 
 Last check: 🟢
 

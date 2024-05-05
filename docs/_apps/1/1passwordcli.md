@@ -10,7 +10,7 @@ last_modified_date: May 1 2024 at 12:13 PM
 
 [Source](https://developer.1password.com/docs/cli/)
 
-Evergreen app: `1PasswordCLI`. Found `2` installers.
+Evergreen app: `1PasswordCLI`. Found **2** installers.
 
 Last check: 🟢
 

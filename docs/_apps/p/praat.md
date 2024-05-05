@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.fon.hum.uva.nl/praat/)
 
-Evergreen app: `Praat`. Found `3` installers.
+Evergreen app: `Praat`. Found **3** installers.
 
 Last check: 🟢
 

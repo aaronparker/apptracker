@@ -10,7 +10,7 @@ last_modified_date: Apr 20 2024 at 12:14 PM
 
 [Source](https://developers.redhat.com/products/openjdk/overview)
 
-Evergreen app: `RedHatOpenJDK11`. Found `2` installers.
+Evergreen app: `RedHatOpenJDK11`. Found **2** installers.
 
 Last check: 🟢
 

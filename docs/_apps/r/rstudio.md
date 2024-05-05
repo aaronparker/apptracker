@@ -10,7 +10,7 @@ last_modified_date: May 3 2024 at 12:30 AM
 
 [Source](https://posit.co/products/open-source/rstudio/)
 
-Evergreen app: `RStudio`. Found `2` installers.
+Evergreen app: `RStudio`. Found **2** installers.
 
 Last check: 🟢
 

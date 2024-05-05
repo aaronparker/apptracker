@@ -10,7 +10,7 @@ last_modified_date: May 3 2024 at 12:30 AM
 
 [Source](https://nodejs.org/)
 
-Evergreen app: `NodeJs`. Found `10` installers.
+Evergreen app: `NodeJs`. Found **10** installers.
 
 Last check: 🟢
 

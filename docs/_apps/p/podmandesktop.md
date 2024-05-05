@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/containers/podman-desktop)
 
-Evergreen app: `PodmanDesktop`. Found `12` installers.
+Evergreen app: `PodmanDesktop`. Found **12** installers.
 
 Last check: 🟢
 

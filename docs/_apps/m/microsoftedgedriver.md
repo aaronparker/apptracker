@@ -10,7 +10,7 @@ last_modified_date: May 3 2024 at 12:30 AM
 
 [Source](https://www.microsoft.com/edge)
 
-Evergreen app: `MicrosoftEdgeDriver`. Found `9` installers.
+Evergreen app: `MicrosoftEdgeDriver`. Found **9** installers.
 
 Last check: 🟢
 

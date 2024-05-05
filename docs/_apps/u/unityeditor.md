@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:20 PM
 
 [Source](https://unity.com/download)
 
-Evergreen app: `UnityEditor`. Found `13` installers.
+Evergreen app: `UnityEditor`. Found **13** installers.
 
 Last check: 🟢
 

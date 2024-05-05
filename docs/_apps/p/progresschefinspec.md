@@ -10,7 +10,7 @@ last_modified_date: Apr 25 2024 at 12:30 AM
 
 [Source](https://www.chef.io/products/chef-inspec)
 
-Evergreen app: `ProgressChefInSpec`. Found `12` installers.
+Evergreen app: `ProgressChefInSpec`. Found **12** installers.
 
 Last check: 🟢
 

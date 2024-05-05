@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.mozilla.org/en-US/firefox/new/)
 
-Evergreen app: `MozillaFirefox`. Found `2852` installers.
+Evergreen app: `MozillaFirefox`. Found **2852** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 18 2024 at 12:14 PM
 
 [Source](https://www.telerik.com/fiddler)
 
-Evergreen app: `TelerikFiddlerEverywhere`. Found `1` installer.
+Evergreen app: `TelerikFiddlerEverywhere`. Found **1** installer.
 
 Last check: 🟢
 

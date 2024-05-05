@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:20 PM
 
 [Source](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 
-Evergreen app: `MicrosoftAzureDataStudio`. Found `4` installers.
+Evergreen app: `MicrosoftAzureDataStudio`. Found **4** installers.
 
 Last check: 🟢
 

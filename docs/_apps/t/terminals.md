@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/terminals-Origin/Terminals/)
 
-Evergreen app: `Terminals`. Found `1` installer.
+Evergreen app: `Terminals`. Found **1** installer.
 
 Last check: 🟢
 

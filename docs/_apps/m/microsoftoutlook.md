@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
 
-Evergreen app: `MicrosoftOutlook`. Found `1` installer.
+Evergreen app: `MicrosoftOutlook`. Found **1** installer.
 
 Last check: 🟢
 

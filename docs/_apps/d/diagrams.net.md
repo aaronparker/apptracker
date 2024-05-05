@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.diagrams.net/)
 
-Evergreen app: `diagrams.net`. Found `5` installers.
+Evergreen app: `diagrams.net`. Found **5** installers.
 
 Last check: 🟢
 

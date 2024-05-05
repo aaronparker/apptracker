@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://techzone.vmware.com/resource/windows-os-optimization-tool-vmware-horizon-guide)
 
-Evergreen app: `VMwareOSOptimizationTool`. Found `2` installers.
+Evergreen app: `VMwareOSOptimizationTool`. Found **2** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.foxitsoftware.com/pdf-reader/)
 
-Evergreen app: `FoxitReader`. Found `13` installers.
+Evergreen app: `FoxitReader`. Found **13** installers.
 
 Last check: 🟢
 

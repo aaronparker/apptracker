@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:26 AM
 
 [Source](https://www.microsoft.com/office)
 
-Evergreen app: `Microsoft365Apps`. Found `7` installers.
+Evergreen app: `Microsoft365Apps`. Found **7** installers.
 
 Last check: 🟢
 

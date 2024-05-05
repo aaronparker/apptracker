@@ -10,7 +10,7 @@ last_modified_date: Apr 15 2024 at 02:43 AM
 
 [Source](https://devicetrust.com/)
 
-Evergreen app: `deviceTRUST`. Found `2` installers.
+Evergreen app: `deviceTRUST`. Found **2** installers.
 
 Last check: 🟢
 

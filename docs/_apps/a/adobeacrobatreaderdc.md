@@ -10,7 +10,7 @@ last_modified_date: Apr 15 2024 at 12:16 PM
 
 [Source](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-Evergreen app: `AdobeAcrobatReaderDC`. Found `30` installers.
+Evergreen app: `AdobeAcrobatReaderDC`. Found **30** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 25 2024 at 12:13 PM
 
 [Source](https://www.controlup.com/products/controlup/management/)
 
-Evergreen app: `ControlUpConsole`. Found `1` installer.
+Evergreen app: `ControlUpConsole`. Found **1** installer.
 
 Last check: 🟢
 

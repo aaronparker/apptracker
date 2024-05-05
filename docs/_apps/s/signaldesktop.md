@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:26 AM
 
 [Source](https://www.signal.org/)
 
-Evergreen app: `SignalDesktop`. Found `1` installer.
+Evergreen app: `SignalDesktop`. Found **1** installer.
 
 Last check: 🟢
 

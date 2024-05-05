@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.naps2.com/)
 
-Evergreen app: `Naps2`. Found `3` installers.
+Evergreen app: `Naps2`. Found **3** installers.
 
 Last check: 🟢
 

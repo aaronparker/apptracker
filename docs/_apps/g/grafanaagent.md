@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://grafana.com/docs/agent/)
 
-Evergreen app: `GrafanaAgent`. Found `6` installers.
+Evergreen app: `GrafanaAgent`. Found **6** installers.
 
 Last check: 🟢
 

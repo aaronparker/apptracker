@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://www.geogebra.org)
 
-Evergreen app: `GeoGebraClassic`. Found `4` installers.
+Evergreen app: `GeoGebraClassic`. Found **4** installers.
 
 Last check: 🟢
 

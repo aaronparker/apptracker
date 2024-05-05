@@ -1,16 +1,16 @@
 ---
-title: dotPDN LLC Paint.NET
+title: dotPDN LLC Paint.NET Offline Installer
 layout: default
 nav_order: 2
 parent: P
 last_modified_date: May 5 2024 at 12:41 AM
 ---
 
-## dotPDN LLC Paint.NET
+## dotPDN LLC Paint.NET Offline Installer
 
 [Source](https://getpaint.net/)
 
-Evergreen app: `PaintDotNetOfflineInstaller`. Found `5` installers.
+Evergreen app: `PaintDotNetOfflineInstaller`. Found **5** installers.
 
 Last check: 🟢
 

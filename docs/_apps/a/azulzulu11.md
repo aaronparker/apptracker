@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:34 AM
 
 [Source](https://www.azul.com/downloads/#zulu)
 
-Evergreen app: `AzulZulu11`. Found `4` installers.
+Evergreen app: `AzulZulu11`. Found **4** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://docs.microsoft.com/powershell/)
 
-Evergreen app: `MicrosoftPowerShell`. Found `8` installers.
+Evergreen app: `MicrosoftPowerShell`. Found **8** installers.
 
 Last check: 🟢
 

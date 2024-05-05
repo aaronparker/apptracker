@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://gitforwindows.org/)
 
-Evergreen app: `GitForWindows`. Found `4` installers.
+Evergreen app: `GitForWindows`. Found **4** installers.
 
 Last check: 🟢
 

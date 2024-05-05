@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://www.opera.com/browsers/opera)
 
-Evergreen app: `OperaBrowser`. Found `6` installers.
+Evergreen app: `OperaBrowser`. Found **6** installers.
 
 Last check: 🟢
 

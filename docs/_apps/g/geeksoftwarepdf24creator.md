@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://tools.pdf24.org/en/creator/)
 
-Evergreen app: `GeekSoftwarePDF24Creator`. Found `2` installers.
+Evergreen app: `GeekSoftwarePDF24Creator`. Found **2** installers.
 
 Last check: 🟢
 

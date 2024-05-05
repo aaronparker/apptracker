@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.anaconda.com/)
 
-Evergreen app: `Anaconda`. Found `1` installer.
+Evergreen app: `Anaconda`. Found **1** installer.
 
 Last check: 🟢
 

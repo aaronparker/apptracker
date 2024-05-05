@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/abbodi1406/vcredist)
 
-Evergreen app: `VisualCppRedistAIO`. Found `1` installer.
+Evergreen app: `VisualCppRedistAIO`. Found **1** installer.
 
 Last check: 🟢
 

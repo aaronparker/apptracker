@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/microsoft/wsl/)
 
-Evergreen app: `MicrosoftWSL`. Found `3` installers.
+Evergreen app: `MicrosoftWSL`. Found **3** installers.
 
 Last check: 🟢
 

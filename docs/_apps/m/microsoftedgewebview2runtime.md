@@ -10,7 +10,7 @@ last_modified_date: May 3 2024 at 12:30 AM
 
 [Source](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
-Evergreen app: `MicrosoftEdgeWebView2Runtime`. Found `3` installers.
+Evergreen app: `MicrosoftEdgeWebView2Runtime`. Found **3** installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.jetbrains.com/)
 
-Evergreen app: `JetBrainsIntelliJIDEA`. Found `3` installers.
+Evergreen app: `JetBrainsIntelliJIDEA`. Found **3** installers.
 
 Last check: 🟢
 

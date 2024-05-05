@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://azure.microsoft.com/en-au/features/storage-explorer/)
 
-Evergreen app: `MicrosoftAzureStorageExplorer`. Found `1` installer.
+Evergreen app: `MicrosoftAzureStorageExplorer`. Found **1** installer.
 
 Last check: 🟢
 

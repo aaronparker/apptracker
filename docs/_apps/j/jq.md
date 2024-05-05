@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://jqlang.github.io/jq/)
 
-Evergreen app: `jq`. Found `3` installers.
+Evergreen app: `jq`. Found **3** installers.
 
 Last check: 🟢
 

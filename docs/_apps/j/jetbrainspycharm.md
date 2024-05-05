@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.jetbrains.com/)
 
-Evergreen app: `JetBrainsPyCharm`. Found `3` installers.
+Evergreen app: `JetBrainsPyCharm`. Found **3** installers.
 
 Last check: 🟢
 

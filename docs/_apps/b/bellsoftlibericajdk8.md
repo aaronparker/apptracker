@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:16 PM
 
 [Source](https://bell-sw.com/libericajdk/)
 
-Evergreen app: `BellSoftLibericaJDK8`. Found `20` installers.
+Evergreen app: `BellSoftLibericaJDK8`. Found **20** installers.
 
 Last check: 🟢
 

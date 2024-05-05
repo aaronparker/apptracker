@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents)
 
-Evergreen app: `MicrosoftAzurePipelinesAgent`. Found `2` installers.
+Evergreen app: `MicrosoftAzurePipelinesAgent`. Found **2** installers.
 
 Last check: 🟢
 

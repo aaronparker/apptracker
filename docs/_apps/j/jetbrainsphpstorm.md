@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.jetbrains.com/phpstorm)
 
-Evergreen app: `JetBrainsPhpStorm`. Found `1` installer.
+Evergreen app: `JetBrainsPhpStorm`. Found **1** installer.
 
 Last check: 🟢
 
