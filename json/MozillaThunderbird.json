@@ -2,7 +2,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "af",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -11,7 +11,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ar",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -20,7 +20,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ast",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -29,7 +29,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "be",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -38,7 +38,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "bg",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -47,7 +47,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "br",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -56,7 +56,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ca",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -65,7 +65,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cak",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -74,7 +74,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cs",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -83,7 +83,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cy",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -92,7 +92,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "da",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -101,7 +101,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "de",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -110,7 +110,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "dsb",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -119,7 +119,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "el",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -128,7 +128,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-CA",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -137,7 +137,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-GB",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -146,7 +146,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-US",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -155,7 +155,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-AR",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -164,7 +164,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-ES",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -173,7 +173,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-MX",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -182,7 +182,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "et",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -191,7 +191,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "eu",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -200,7 +200,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fi",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -209,7 +209,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -218,7 +218,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fy-NL",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -227,7 +227,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ga-IE",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -236,7 +236,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gd",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -245,7 +245,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -254,7 +254,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "he",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -263,7 +263,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -272,7 +272,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hsb",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -281,7 +281,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hu",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -290,7 +290,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hy-AM",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -299,7 +299,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "id",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -308,7 +308,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "is",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -317,7 +317,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "it",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -326,7 +326,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ja",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -335,7 +335,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ka",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -344,7 +344,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kab",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -353,7 +353,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kk",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -362,7 +362,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ko",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -371,7 +371,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lt",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -380,7 +380,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lv",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -389,7 +389,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ms",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -398,7 +398,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nb-NO",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -407,7 +407,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -416,7 +416,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nn-NO",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -425,7 +425,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pa-IN",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -434,7 +434,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -443,7 +443,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-BR",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -452,7 +452,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-PT",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -461,7 +461,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "rm",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -470,7 +470,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ro",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -479,7 +479,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ru",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -488,7 +488,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sk",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -497,7 +497,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -506,7 +506,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sq",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -515,7 +515,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -524,7 +524,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sv-SE",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -533,7 +533,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "th",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -542,7 +542,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "tr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -551,7 +551,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uk",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -560,7 +560,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uz",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -569,7 +569,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "vi",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -578,7 +578,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-CN",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -587,7 +587,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-TW",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -596,7 +596,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "af",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -605,7 +605,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ar",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -614,7 +614,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ast",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -623,7 +623,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "be",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -632,7 +632,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "bg",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -641,7 +641,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "br",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -650,7 +650,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ca",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -659,7 +659,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cak",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -668,7 +668,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cs",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -677,7 +677,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cy",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -686,7 +686,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "da",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -695,7 +695,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "de",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -704,7 +704,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "dsb",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -713,7 +713,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "el",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -722,7 +722,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-CA",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -731,7 +731,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-GB",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -740,7 +740,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-US",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -749,7 +749,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-AR",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -758,7 +758,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-ES",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -767,7 +767,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-MX",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -776,7 +776,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "et",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -785,7 +785,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "eu",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -794,7 +794,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fi",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -803,7 +803,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -812,7 +812,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fy-NL",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -821,7 +821,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ga-IE",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -830,7 +830,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gd",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -839,7 +839,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -848,7 +848,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "he",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -857,7 +857,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -866,7 +866,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hsb",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -875,7 +875,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hu",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -884,7 +884,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hy-AM",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -893,7 +893,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "id",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -902,7 +902,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "is",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -911,7 +911,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "it",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -920,7 +920,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ja",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -929,7 +929,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ka",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -938,7 +938,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kab",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -947,7 +947,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kk",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -956,7 +956,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ko",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -965,7 +965,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lt",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -974,7 +974,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lv",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -983,7 +983,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ms",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -992,7 +992,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nb-NO",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1001,7 +1001,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1010,7 +1010,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nn-NO",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1019,7 +1019,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pa-IN",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1028,7 +1028,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1037,7 +1037,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-BR",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1046,7 +1046,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-PT",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1055,7 +1055,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "rm",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1064,7 +1064,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ro",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1073,7 +1073,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ru",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1082,7 +1082,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sk",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1091,7 +1091,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sl",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1100,7 +1100,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sq",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1109,7 +1109,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1118,7 +1118,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sv-SE",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1127,7 +1127,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "th",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1136,7 +1136,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "tr",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1145,7 +1145,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uk",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1154,7 +1154,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uz",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1163,7 +1163,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "vi",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1172,7 +1172,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-CN",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1181,7 +1181,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-TW",
     "Type": "exe",
     "Filename": "Thunderbird Setup 115.10.2.exe",
@@ -1190,7 +1190,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "af",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1199,7 +1199,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ar",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1208,7 +1208,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ast",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1217,7 +1217,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "be",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1226,7 +1226,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "bg",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1235,7 +1235,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "br",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1244,7 +1244,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ca",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1253,7 +1253,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cak",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1262,7 +1262,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cs",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1271,7 +1271,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cy",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1280,7 +1280,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "da",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1289,7 +1289,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "de",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1298,7 +1298,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "dsb",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1307,7 +1307,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "el",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1316,7 +1316,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-CA",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1325,7 +1325,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-GB",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1334,7 +1334,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-US",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1343,7 +1343,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-AR",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1352,7 +1352,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-ES",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1361,7 +1361,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-MX",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1370,7 +1370,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "et",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1379,7 +1379,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "eu",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1388,7 +1388,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fi",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1397,7 +1397,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1406,7 +1406,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fy-NL",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1415,7 +1415,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ga-IE",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1424,7 +1424,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gd",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1433,7 +1433,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1442,7 +1442,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "he",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1451,7 +1451,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1460,7 +1460,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hsb",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1469,7 +1469,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hu",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1478,7 +1478,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hy-AM",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1487,7 +1487,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "id",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1496,7 +1496,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "is",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1505,7 +1505,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "it",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1514,7 +1514,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ja",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1523,7 +1523,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ka",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1532,7 +1532,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kab",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1541,7 +1541,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kk",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1550,7 +1550,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ko",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1559,7 +1559,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lt",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1568,7 +1568,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lv",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1577,7 +1577,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ms",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1586,7 +1586,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nb-NO",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1595,7 +1595,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1604,7 +1604,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nn-NO",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1613,7 +1613,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pa-IN",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1622,7 +1622,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1631,7 +1631,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-BR",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1640,7 +1640,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-PT",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1649,7 +1649,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "rm",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1658,7 +1658,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ro",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1667,7 +1667,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ru",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1676,7 +1676,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sk",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1685,7 +1685,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1694,7 +1694,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sq",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1703,7 +1703,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1712,7 +1712,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sv-SE",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1721,7 +1721,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "th",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1730,7 +1730,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "tr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1739,7 +1739,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uk",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1748,7 +1748,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uz",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1757,7 +1757,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "vi",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1766,7 +1766,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-CN",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1775,7 +1775,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x64",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-TW",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1784,7 +1784,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "af",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1793,7 +1793,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ar",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1802,7 +1802,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ast",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1811,7 +1811,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "be",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1820,7 +1820,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "bg",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1829,7 +1829,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "br",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1838,7 +1838,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ca",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1847,7 +1847,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cak",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1856,7 +1856,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cs",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1865,7 +1865,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "cy",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1874,7 +1874,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "da",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1883,7 +1883,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "de",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1892,7 +1892,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "dsb",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1901,7 +1901,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "el",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1910,7 +1910,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-CA",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1919,7 +1919,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-GB",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1928,7 +1928,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "en-US",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1937,7 +1937,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-AR",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1946,7 +1946,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-ES",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1955,7 +1955,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "es-MX",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1964,7 +1964,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "et",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1973,7 +1973,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "eu",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1982,7 +1982,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fi",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -1991,7 +1991,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2000,7 +2000,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "fy-NL",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2009,7 +2009,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ga-IE",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2018,7 +2018,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gd",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2027,7 +2027,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "gl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2036,7 +2036,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "he",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2045,7 +2045,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2054,7 +2054,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hsb",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2063,7 +2063,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hu",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2072,7 +2072,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "hy-AM",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2081,7 +2081,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "id",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2090,7 +2090,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "is",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2099,7 +2099,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "it",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2108,7 +2108,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ja",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2117,7 +2117,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ka",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2126,7 +2126,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kab",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2135,7 +2135,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "kk",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2144,7 +2144,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ko",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2153,7 +2153,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lt",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2162,7 +2162,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "lv",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2171,7 +2171,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ms",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2180,7 +2180,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nb-NO",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2189,7 +2189,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2198,7 +2198,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "nn-NO",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2207,7 +2207,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pa-IN",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2216,7 +2216,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2225,7 +2225,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-BR",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2234,7 +2234,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "pt-PT",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2243,7 +2243,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "rm",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2252,7 +2252,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ro",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2261,7 +2261,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "ru",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2270,7 +2270,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sk",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2279,7 +2279,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sl",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2288,7 +2288,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sq",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2297,7 +2297,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2306,7 +2306,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "sv-SE",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2315,7 +2315,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "th",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2324,7 +2324,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "tr",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2333,7 +2333,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uk",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2342,7 +2342,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "uz",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2351,7 +2351,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "vi",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2360,7 +2360,7 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-CN",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
@@ -2369,10 +2369,2404 @@
   {
     "Version": "115.10.2",
     "Architecture": "x86",
-    "Channel": "LATEST_THUNDERBIRD_VERSION",
+    "Channel": "Current",
     "Language": "zh-TW",
     "Type": "msi",
     "Filename": "Thunderbird Setup 115.10.2.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.10.2/win32/zh-TW/Thunderbird%20Setup%20115.10.2.msi"
+  },
+  {
+    "Version": "115.10.2",
+    "Architecture": "x64",
+    "Channel": "Current",
+    "Language": "Multi",
+    "Type": "msix",
+    "Filename": "Thunderbird Setup 115.10.2.msix",
+    "URI": "http://archive.mozilla.org/pub/thunderbird/releases/115.10.2/win64/multi/Thunderbird%20Setup%20115.10.2.msix"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "af",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/af/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ar",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ar/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ast",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ast/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "be",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/be/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "bg",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/bg/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "br",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/br/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ca",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ca/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "cak",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/cak/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "cs",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/cs/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "cy",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/cy/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "da",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/da/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "de",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/de/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "dsb",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/dsb/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "el",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/el/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "en-CA",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/en-CA/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "en-GB",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/en-GB/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "en-US",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/en-US/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "es-AR",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/es-AR/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "es-ES",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/es-ES/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "es-MX",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/es-MX/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "et",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/et/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "eu",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/eu/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "fi",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/fi/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "fr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/fr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "fy-NL",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/fy-NL/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ga-IE",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ga-IE/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "gd",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/gd/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "gl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/gl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "he",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/he/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hsb",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hsb/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hu",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hu/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hy-AM",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hy-AM/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "id",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/id/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "is",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/is/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "it",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/it/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ja",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ja/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ka",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ka/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "kab",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/kab/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "kk",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/kk/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ko",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ko/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "lt",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/lt/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "lv",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/lv/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ms",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ms/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "nb-NO",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/nb-NO/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "nl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/nl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "nn-NO",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/nn-NO/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pa-IN",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pa-IN/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pt-BR",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pt-BR/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pt-PT",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pt-PT/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "rm",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/rm/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ro",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ro/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ru",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ru/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sk",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sk/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sq",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sq/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sv-SE",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sv-SE/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "th",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/th/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "tr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/tr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "uk",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/uk/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "uz",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/uz/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "vi",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/vi/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "zh-CN",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/zh-CN/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "zh-TW",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/zh-TW/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "af",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/af/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ar",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ar/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ast",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ast/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "be",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/be/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "bg",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/bg/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "br",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/br/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ca",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ca/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "cak",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/cak/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "cs",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/cs/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "cy",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/cy/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "da",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/da/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "de",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/de/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "dsb",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/dsb/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "el",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/el/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "en-CA",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/en-CA/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "en-GB",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/en-GB/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "en-US",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/en-US/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "es-AR",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/es-AR/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "es-ES",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/es-ES/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "es-MX",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/es-MX/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "et",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/et/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "eu",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/eu/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "fi",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/fi/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "fr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/fr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "fy-NL",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/fy-NL/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ga-IE",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ga-IE/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "gd",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/gd/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "gl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/gl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "he",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/he/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hsb",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hsb/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hu",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hu/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hy-AM",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hy-AM/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "id",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/id/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "is",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/is/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "it",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/it/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ja",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ja/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ka",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ka/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "kab",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/kab/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "kk",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/kk/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ko",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ko/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "lt",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/lt/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "lv",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/lv/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ms",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ms/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "nb-NO",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/nb-NO/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "nl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/nl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "nn-NO",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/nn-NO/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pa-IN",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pa-IN/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pt-BR",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pt-BR/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pt-PT",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pt-PT/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "rm",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/rm/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ro",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ro/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ru",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ru/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sk",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sk/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sl",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sl/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sq",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sq/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sv-SE",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sv-SE/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "th",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/th/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "tr",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/tr/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "uk",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/uk/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "uz",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/uz/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "vi",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/vi/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "zh-CN",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/zh-CN/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "zh-TW",
+    "Type": "exe",
+    "Filename": "Thunderbird Setup 126.0b2.exe",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/zh-TW/Thunderbird%20Setup%20126.0b2.exe"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "af",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/af/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ar",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ar/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ast",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ast/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "be",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/be/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "bg",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/bg/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "br",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/br/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ca",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ca/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "cak",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/cak/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "cs",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/cs/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "cy",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/cy/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "da",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/da/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "de",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/de/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "dsb",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/dsb/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "el",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/el/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "en-CA",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/en-CA/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "en-GB",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/en-GB/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "en-US",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/en-US/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "es-AR",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/es-AR/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "es-ES",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/es-ES/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "es-MX",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/es-MX/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "et",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/et/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "eu",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/eu/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "fi",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/fi/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "fr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/fr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "fy-NL",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/fy-NL/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ga-IE",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ga-IE/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "gd",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/gd/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "gl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/gl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "he",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/he/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hsb",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hsb/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hu",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hu/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "hy-AM",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/hy-AM/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "id",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/id/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "is",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/is/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "it",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/it/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ja",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ja/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ka",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ka/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "kab",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/kab/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "kk",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/kk/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ko",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ko/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "lt",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/lt/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "lv",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/lv/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ms",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ms/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "nb-NO",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/nb-NO/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "nl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/nl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "nn-NO",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/nn-NO/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pa-IN",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pa-IN/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pt-BR",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pt-BR/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "pt-PT",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/pt-PT/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "rm",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/rm/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ro",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ro/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "ru",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/ru/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sk",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sk/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sq",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sq/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "sv-SE",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/sv-SE/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "th",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/th/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "tr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/tr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "uk",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/uk/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "uz",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/uz/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "vi",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/vi/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "zh-CN",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/zh-CN/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "zh-TW",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win64/zh-TW/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "af",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/af/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ar",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ar/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ast",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ast/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "be",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/be/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "bg",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/bg/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "br",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/br/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ca",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ca/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "cak",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/cak/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "cs",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/cs/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "cy",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/cy/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "da",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/da/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "de",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/de/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "dsb",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/dsb/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "el",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/el/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "en-CA",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/en-CA/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "en-GB",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/en-GB/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "en-US",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/en-US/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "es-AR",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/es-AR/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "es-ES",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/es-ES/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "es-MX",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/es-MX/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "et",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/et/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "eu",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/eu/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "fi",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/fi/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "fr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/fr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "fy-NL",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/fy-NL/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ga-IE",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ga-IE/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "gd",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/gd/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "gl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/gl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "he",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/he/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hsb",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hsb/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hu",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hu/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "hy-AM",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/hy-AM/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "id",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/id/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "is",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/is/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "it",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/it/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ja",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ja/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ka",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ka/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "kab",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/kab/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "kk",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/kk/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ko",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ko/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "lt",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/lt/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "lv",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/lv/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ms",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ms/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "nb-NO",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/nb-NO/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "nl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/nl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "nn-NO",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/nn-NO/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pa-IN",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pa-IN/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pt-BR",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pt-BR/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "pt-PT",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/pt-PT/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "rm",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/rm/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ro",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ro/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "ru",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/ru/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sk",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sk/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sl",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sl/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sq",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sq/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "sv-SE",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/sv-SE/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "th",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/th/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "tr",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/tr/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "uk",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/uk/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "uz",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/uz/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "vi",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/vi/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "zh-CN",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/zh-CN/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Language": "zh-TW",
+    "Type": "msi",
+    "Filename": "Thunderbird Setup 126.0b2.msi",
+    "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/126.0b2/win32/zh-TW/Thunderbird%20Setup%20126.0b2.msi"
+  },
+  {
+    "Version": "126.0b2",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Language": "Multi",
+    "Type": "msix",
+    "Filename": "Thunderbird Setup 126.0b2.msix",
+    "URI": "http://archive.mozilla.org/pub/thunderbird/releases/126.0b2/win64/multi/Thunderbird%20Setup%20126.0b2.msix"
   }
 ]
