@@ -84,7 +84,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $Markdown += "`n"
     $Markdown += "[Source]($($App.Link))"
     $Markdown += "`n`n"
-    $Markdown += "Evergreen app: ``$($File.BaseName)``. Found ``$($AppObject.Count)`` installer$(if ($AppObject.Count -gt 1) { "s" })."
+    $Markdown += "Evergreen app: ``$($File.BaseName)``. Found **$($AppObject.Count)** installer$(if ($AppObject.Count -gt 1) { "s" })."
     $Markdown += "`n`n"
 
     # Add details of previous check
