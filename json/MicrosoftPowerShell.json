@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 108503040,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi",
     "Release": "LTS"
@@ -16,7 +16,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 108503040,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi",
     "Release": "Stable"
@@ -27,7 +27,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 100601856,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x86.msi",
     "Release": "LTS"
@@ -38,7 +38,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 100601856,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x86.msi",
     "Release": "Stable"
@@ -49,7 +49,7 @@
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 324543291,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win.msixbundle",
     "Release": "LTS"
@@ -60,7 +60,7 @@
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 324543291,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win.msixbundle",
     "Release": "Stable"
@@ -71,7 +71,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 105930752,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.19/PowerShell-7.2.19-win-x64.msi",
     "Release": "LTS"
@@ -82,7 +82,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/11/2024",
+    "Date": "11/4/2024",
     "Size": 97480704,
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.19/PowerShell-7.2.19-win-x86.msi",
     "Release": "LTS"

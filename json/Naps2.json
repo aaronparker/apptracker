@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/14/2024",
+    "Date": "14/4/2024",
     "Size": 12258039,
     "URI": "https://github.com/cyanfish/naps2/releases/download/v7.4.2/naps2-7.4.2-win.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/14/2024",
+    "Date": "14/4/2024",
     "Size": 12281900,
     "URI": "https://github.com/cyanfish/naps2/releases/download/v7.4.2/naps2-7.4.2-win-x64.msi"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/14/2024",
+    "Date": "14/4/2024",
     "Size": 12052520,
     "URI": "https://github.com/cyanfish/naps2/releases/download/v7.4.2/naps2-7.4.2-win-x86.msi"
   }

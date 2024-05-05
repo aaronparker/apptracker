@@ -1,0 +1,62 @@
+[
+  {
+    "Version": "1.88.1.24104",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "13/4/2024",
+    "Size": 93039742,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumSetup-arm64-1.88.1.24104.exe"
+  },
+  {
+    "Version": "1.88.1.24104",
+    "Platform": "Windows",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "InstallerType": "User",
+    "Date": "13/4/2024",
+    "Size": 93040201,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumUserSetup-arm64-1.88.1.24104.exe"
+  },
+  {
+    "Version": "1.88.1.24104",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "Default",
+    "Date": "13/4/2024",
+    "Size": 96389188,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumSetup-x64-1.88.1.24104.exe"
+  },
+  {
+    "Version": "1.88.1.24104",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "exe",
+    "InstallerType": "User",
+    "Date": "13/4/2024",
+    "Size": 96389630,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumUserSetup-x64-1.88.1.24104.exe"
+  },
+  {
+    "Version": "1.88.1.24104",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "13/4/2024",
+    "Size": 111042560,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodium-x64-1.88.1.24104.msi"
+  },
+  {
+    "Version": "1.88.1.24104",
+    "Platform": "Windows",
+    "Architecture": "x64",
+    "Type": "msi",
+    "InstallerType": "Default",
+    "Date": "13/4/2024",
+    "Size": 111042560,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodium-x64-updates-disabled-1.88.1.24104.msi"
+  }
+]

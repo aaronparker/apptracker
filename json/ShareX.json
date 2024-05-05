@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "03/17/2024",
+    "Date": "17/3/2024",
     "Size": 40484505,
     "URI": "https://github.com/ShareX/ShareX/releases/download/v16.0.1/ShareX-16.0.1-setup.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Portable",
-    "Date": "03/17/2024",
+    "Date": "17/3/2024",
     "Size": 53508059,
     "URI": "https://github.com/ShareX/ShareX/releases/download/v16.0.1/ShareX-16.0.1-portable.zip"
   }

@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/03/2024",
+    "Date": "3/4/2024",
     "Size": 296483464,
     "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_SetupBundle.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/03/2024",
+    "Date": "3/4/2024",
     "Size": 157450240,
     "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_x64_Setup.msi"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "04/03/2024",
+    "Date": "3/4/2024",
     "Size": 137703424,
     "URI": "https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_x86_Setup.msi"
   }

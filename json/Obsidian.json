@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/01/2024",
+    "Date": "1/4/2024",
     "Size": 85472608,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12-arm64.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/01/2024",
+    "Date": "1/4/2024",
     "Size": 72896704,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12-32.exe"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "04/01/2024",
+    "Date": "1/4/2024",
     "Size": 82517416,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12-allusers.exe"
   },
@@ -35,7 +35,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/01/2024",
+    "Date": "1/4/2024",
     "Size": 82489664,
     "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12.exe"
   }

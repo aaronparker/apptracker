@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "04/23/2024",
+    "Date": "23/4/2024",
     "Size": 259315296,
     "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.7.11132/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
   }

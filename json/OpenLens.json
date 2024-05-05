@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "06/30/2023",
+    "Date": "30/6/2023",
     "Size": 109231104,
     "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "06/30/2023",
+    "Date": "30/6/2023",
     "Size": 109472872,
     "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.Setup.6.5.2-366.exe"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "06/30/2023",
+    "Date": "30/6/2023",
     "Size": 148393984,
     "URI": "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-366/OpenLens.6.5.2-366.msi"
   }

@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/27/2024",
+    "Date": "27/4/2024",
     "Size": 10733640,
     "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.40/WinMerge-2.16.40-ARM64-Setup.exe"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "04/27/2024",
+    "Date": "27/4/2024",
     "Size": 9909288,
     "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.40/WinMerge-2.16.40-x64-PerUser-Setup.exe"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/27/2024",
+    "Date": "27/4/2024",
     "Size": 9909272,
     "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.40/WinMerge-2.16.40-x64-Setup.exe"
   },
@@ -35,7 +35,7 @@
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "04/27/2024",
+    "Date": "27/4/2024",
     "Size": 9328920,
     "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.40/WinMerge-2.16.40-Setup.exe"
   }

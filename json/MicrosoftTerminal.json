@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Minimal",
-    "Date": "05/01/2024",
+    "Date": "1/5/2024",
     "Size": 21550188,
     "URI": "https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_8wekyb3d8bbwe.msixbundle"
   }

@@ -5,7 +5,7 @@
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "05/02/2024",
+    "Date": "2/5/2024",
     "Size": 17884764,
     "URI": "https://github.com/praat/praat/releases/download/v6.4.12/praat6412_win-arm64.zip"
   },
@@ -15,7 +15,7 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "05/02/2024",
+    "Date": "2/5/2024",
     "Size": 19390736,
     "URI": "https://github.com/praat/praat/releases/download/v6.4.12/praat6412_win-intel32.zip"
   },
@@ -25,7 +25,7 @@
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "05/02/2024",
+    "Date": "2/5/2024",
     "Size": 19139193,
     "URI": "https://github.com/praat/praat/releases/download/v6.4.12/praat6412_win-intel64.zip"
   }

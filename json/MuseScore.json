@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "01/23/2024",
+    "Date": "23/1/2024",
     "Size": 108605440,
     "URI": "https://github.com/musescore/MuseScore/releases/download/v4.2.1/MuseScore-4.2.1.240230937-x86_64.msi"
   }

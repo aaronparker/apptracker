@@ -5,7 +5,7 @@
     "Architecture": "x86",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "03/18/2024",
+    "Date": "18/3/2024",
     "Size": 617627648,
     "URI": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.13.1/Rancher.Desktop.Setup.1.13.1.msi"
   }

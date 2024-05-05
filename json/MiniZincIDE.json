@@ -5,7 +5,7 @@
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Minimal",
-    "Date": "02/01/2024",
+    "Date": "1/2/2024",
     "Size": 33027427,
     "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.3/MiniZincIDE-2.8.3-bundled-setup-win64.exe"
   }
