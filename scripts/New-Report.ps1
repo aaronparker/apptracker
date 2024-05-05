@@ -71,6 +71,12 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
 
     # Update front matter
     $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt")) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
+
+    # Get details of the app from the saved JSON
+    $AppObject = Get-Content -Path $File.FullName | ConvertFrom-Json
+
+    # Update the count of unique apps
+    $UniqueAppsCount += $AppObject.Count
     
     # Update page details
     $Markdown += "`n`n"
@@ -78,7 +84,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     $Markdown += "`n"
     $Markdown += "[Source]($($App.Link))"
     $Markdown += "`n`n"
-    $Markdown += "Evergreen app: ``$($File.BaseName)``. "
+    $Markdown += "Evergreen app: ``$($File.BaseName)``. Found ``$($AppObject.Count)`` installer$(if ($AppObject.Count -gt 1) { "s" })."
     $Markdown += "`n`n"
 
     # Add details of previous check
@@ -99,12 +105,9 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     }
 
     # Add a table to the markdown for the data from the JSON
-    $Table = Get-Content -Path $File.FullName | ConvertFrom-Json | ForEach-Object { $_.URI = "[$($_.URI)]($($_.URI))"; $_ } | New-MDTable
+    $Table = $AppObject | ForEach-Object { $_.URI = "[$($_.URI)]($($_.URI))"; $_ } | New-MDTable
     $Markdown += $Table
     $Markdown | Out-File -FilePath $(Join-Path -Path $ChildPath -ChildPath "$($File.BaseName.ToLower()).md") -Force -Encoding "Utf8" -NoNewline
-
-    # Update the count of unique apps
-    $UniqueAppsCount += (Get-Content -Path $File.FullName | ConvertFrom-Json).Count
 }
 #endregion
 
