@@ -30,7 +30,21 @@ function Test-PSCore {
         Write-Output -InputObject $false
     }
 }
+
+function Set-Culture {
+    [CmdletBinding(SupportsShouldProcess = $true)]
+    param ([System.Globalization.CultureInfo] $Culture)
+    process {
+        if ($PSCmdlet.ShouldProcess($Culture, "Setting culture")) {
+            [System.Threading.Thread]::CurrentThread.CurrentUICulture = $Culture
+            [System.Threading.Thread]::CurrentThread.CurrentCulture = $Culture
+        }
+    }
+}
 #endregion
+
+# Set culture so that we get correct date formats
+Set-Culture -Culture "en-AU"
 
 # Apps that should be skipped in this run
 $SkipApps = @("MozillaFirefox", "MozillaThunderbird")
