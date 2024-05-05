@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:34 AM
 
 [Source](https://code.visualstudio.com)
 
-Evergreen app: `MicrosoftVisualStudioCode`. 
+Evergreen app: `MicrosoftVisualStudioCode`. Found `12` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://www.boundaryproject.io/)
 
-Evergreen app: `HashicorpBoundary`. 
+Evergreen app: `HashicorpBoundary`. Found `2` installers.
 
 Last check: 🟢
 

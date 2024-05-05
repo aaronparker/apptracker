@@ -10,7 +10,7 @@ last_modified_date: Apr 18 2024 at 12:14 PM
 
 [Source](https://www.autodesk.com/products/fusion-360/overview)
 
-Evergreen app: `AutodeskFusion360`. 
+Evergreen app: `AutodeskFusion360`. Found `1` installer.
 
 Last check: 🟢
 

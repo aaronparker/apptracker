@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os)
 
-Evergreen app: `DrataAgent`. 
+Evergreen app: `DrataAgent`. Found `1` installer.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:34 AM
 
 [Source](https://www.fork.dev)
 
-Evergreen app: `Fork`. 
+Evergreen app: `Fork`. Found `1` installer.
 
 Last check: 🟢
 

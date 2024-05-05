@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/Maximus5/ConEmu)
 
-Evergreen app: `Maximus5ConEmu`. 
+Evergreen app: `Maximus5ConEmu`. Found `3` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 15 2024 at 02:43 AM
 
 [Source](https://www.docker.com/products/docker-desktop/)
 
-Evergreen app: `DockerDesktop`. 
+Evergreen app: `DockerDesktop`. Found `2` installers.
 
 Last check: 🟢
 

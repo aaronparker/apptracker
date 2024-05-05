@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://dotnet.microsoft.com/download/)
 
-Evergreen app: `Microsoft.NET`. 
+Evergreen app: `Microsoft.NET`. Found `36` installers.
 
 Last check: 🟢
 

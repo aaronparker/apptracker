@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.parallels.com/products/ras/download/links/)
 
-Evergreen app: `ParallelsClient`. 
+Evergreen app: `ParallelsClient`. Found `6` installers.
 
 Last check: 🟢
 

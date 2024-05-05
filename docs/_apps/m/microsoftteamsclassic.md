@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:16 PM
 
 [Source](https://www.microsoft.com/teams)
 
-Evergreen app: `MicrosoftTeamsClassic`. 
+Evergreen app: `MicrosoftTeamsClassic`. Found `48` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 1 2024 at 12:29 AM
 
 [Source](https://www.chef.io/products/chef-workstation)
 
-Evergreen app: `ProgressChefWorkstation`. 
+Evergreen app: `ProgressChefWorkstation`. Found `12` installers.
 
 Last check: 🟢
 

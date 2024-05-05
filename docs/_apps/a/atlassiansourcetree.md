@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:15 PM
 
 [Source](https://www.sourcetreeapp.com/)
 
-Evergreen app: `AtlassianSourcetree`. 
+Evergreen app: `AtlassianSourcetree`. Found `2` installers.
 
 Last check: 🟢
 

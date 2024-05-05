@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.cendio.com/)
 
-Evergreen app: `CendioThinLinc`. 
+Evergreen app: `CendioThinLinc`. Found `1` installer.
 
 Last check: 🟢
 

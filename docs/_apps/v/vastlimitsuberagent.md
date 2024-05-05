@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:13 PM
 
 [Source](https://uberagent.com/)
 
-Evergreen app: `VastLimitsUberAgent`. 
+Evergreen app: `VastLimitsUberAgent`. Found `1` installer.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:16 PM
 
 [Source](https://www.oracle.com/java/technologies/downloads/#java22)
 
-Evergreen app: `OracleJava22`. 
+Evergreen app: `OracleJava22`. Found `3` installers.
 
 Last check: 🟢
 

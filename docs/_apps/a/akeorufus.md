@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://rufus.ie/)
 
-Evergreen app: `AkeoRufus`. 
+Evergreen app: `AkeoRufus`. Found `5` installers.
 
 Last check: 🟢
 

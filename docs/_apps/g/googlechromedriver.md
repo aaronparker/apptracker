@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:20 PM
 
 [Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-Evergreen app: `GoogleChromeDriver`. 
+Evergreen app: `GoogleChromeDriver`. Found `8` installers.
 
 Last check: 🟢
 

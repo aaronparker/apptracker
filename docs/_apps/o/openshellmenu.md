@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://open-shell.github.io/Open-Shell-Menu/)
 
-Evergreen app: `OpenShellMenu`. 
+Evergreen app: `OpenShellMenu`. Found `2` installers.
 
 Last check: 🟢
 

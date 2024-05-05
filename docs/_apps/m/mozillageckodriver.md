@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
 
-Evergreen app: `MozillaGeckoDriver`. 
+Evergreen app: `MozillaGeckoDriver`. Found `3` installers.
 
 Last check: 🟢
 

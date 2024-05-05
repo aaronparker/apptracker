@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/microsoft/PowerToys/)
 
-Evergreen app: `MicrosoftPowerToys`. 
+Evergreen app: `MicrosoftPowerToys`. Found `4` installers.
 
 Last check: 🟢
 

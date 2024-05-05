@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/NickeManarin/ScreenToGif)
 
-Evergreen app: `ScreenToGif`. 
+Evergreen app: `ScreenToGif`. Found `15` installers.
 
 Last check: 🟢
 

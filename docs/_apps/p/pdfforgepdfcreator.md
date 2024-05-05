@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.pdfforge.org/pdfcreator)
 
-Evergreen app: `PDFForgePDFCreator`. 
+Evergreen app: `PDFForgePDFCreator`. Found `1` installer.
 
 Last check: 🟢
 

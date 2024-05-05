@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:16 PM
 
 [Source](https://www.thunderbird.net/)
 
-Evergreen app: `MozillaThunderbird`. 
+Evergreen app: `MozillaThunderbird`. Found `264` installers.
 
 Last check: 🟢
 

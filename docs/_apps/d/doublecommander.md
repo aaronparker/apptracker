@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/doublecmd/doublecmd/)
 
-Evergreen app: `DoubleCommander`. 
+Evergreen app: `DoubleCommander`. Found `6` installers.
 
 Last check: 🟢
 

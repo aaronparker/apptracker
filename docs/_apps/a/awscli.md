@@ -10,7 +10,7 @@ last_modified_date: May 4 2024 at 12:34 AM
 
 [Source](https://github.com/aws/aws-cli/)
 
-Evergreen app: `AWSCLI`. 
+Evergreen app: `AWSCLI`. Found `1` installer.
 
 Last check: 🟢
 

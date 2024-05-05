@@ -10,7 +10,7 @@ last_modified_date: Apr 29 2024 at 12:13 PM
 
 [Source](https://www.opera.com/gx)
 
-Evergreen app: `OperaGXBrowser`. 
+Evergreen app: `OperaGXBrowser`. Found `2` installers.
 
 Last check: 🟢
 

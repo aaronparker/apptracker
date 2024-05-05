@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://imageglass.org/)
 
-Evergreen app: `ImageGlass`. 
+Evergreen app: `ImageGlass`. Found `1` installer.
 
 Last check: 🟢
 

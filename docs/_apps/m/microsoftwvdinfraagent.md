@@ -10,7 +10,7 @@ last_modified_date: Apr 25 2024 at 12:30 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
 
-Evergreen app: `MicrosoftWvdInfraAgent`. 
+Evergreen app: `MicrosoftWvdInfraAgent`. Found `1` installer.
 
 Last check: 🟢
 

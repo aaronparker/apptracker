@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)
 
-Evergreen app: `VMwareHorizonClient`. 
+Evergreen app: `VMwareHorizonClient`. Found `1` installer.
 
 Last check: 🟢
 

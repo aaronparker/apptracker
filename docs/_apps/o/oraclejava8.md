@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://www.java.com)
 
-Evergreen app: `OracleJava8`. 
+Evergreen app: `OracleJava8`. Found `2` installers.
 
 Last check: 🟢
 

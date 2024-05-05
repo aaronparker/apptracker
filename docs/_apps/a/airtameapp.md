@@ -10,7 +10,7 @@ last_modified_date: Apr 23 2024 at 12:16 PM
 
 [Source](https://airtame.com/)
 
-Evergreen app: `AirtameApp`. 
+Evergreen app: `AirtameApp`. Found `3` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://go.microsoft.com/fwlink/?LinkId=531355)
 
-Evergreen app: `MicrosoftSsms`. 
+Evergreen app: `MicrosoftSsms`. Found `11` installers.
 
 Last check: 🟢
 

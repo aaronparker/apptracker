@@ -10,12 +10,9 @@ last_modified_date: Jul 8 2023 at 04:08 PM
 
 [Source](https://github.com/pdfarranger/pdfarranger/)
 
-Evergreen app: `PDFArranger`. 
+Evergreen app: `PDFArranger`. Found `1` installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                                                                          |
 | ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.egnyte.com/solutions/sharing-collaboration)
 
-Evergreen app: `EgnyteDesktopApp`. 
+Evergreen app: `EgnyteDesktopApp`. Found `1` installer.
 
 Last check: 🟢
 

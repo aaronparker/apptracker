@@ -10,7 +10,7 @@ last_modified_date: Apr 30 2024 at 12:26 AM
 
 [Source](https://www.techsmith.com/)
 
-Evergreen app: `TechSmithSnagit`. 
+Evergreen app: `TechSmithSnagit`. Found `3` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.gimp.org/)
 
-Evergreen app: `Gimp`. 
+Evergreen app: `Gimp`. Found `1` installer.
 
 Last check: 🟢
 

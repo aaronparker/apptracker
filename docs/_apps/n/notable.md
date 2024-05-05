@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://notable.app/)
 
-Evergreen app: `Notable`. 
+Evergreen app: `Notable`. Found `1` installer.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 13 2024 at 12:24 AM
 
 [Source](https://bitwarden.com/)
 
-Evergreen app: `BitwardenDesktop`. 
+Evergreen app: `BitwardenDesktop`. Found `1` installer.
 
 Last check: 🟢
 

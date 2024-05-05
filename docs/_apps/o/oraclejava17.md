@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://www.oracle.com/java/technologies/downloads/#java17)
 
-Evergreen app: `OracleJava17`. 
+Evergreen app: `OracleJava17`. Found `3` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 19 2024 at 12:27 AM
 
 [Source](https://www.libreoffice.org/)
 
-Evergreen app: `LibreOffice`. 
+Evergreen app: `LibreOffice`. Found `408` installers.
 
 Last check: 🟢
 

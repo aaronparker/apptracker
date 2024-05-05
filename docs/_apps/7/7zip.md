@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.7-zip.org/)
 
-Evergreen app: `7zip`. 
+Evergreen app: `7zip`. Found `7` installers.
 
 Last check: 🟢
 

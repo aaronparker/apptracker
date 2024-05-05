@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://mcmilk.de/projects/7-Zip-zstd/)
 
-Evergreen app: `7ZipZS`. 
+Evergreen app: `7ZipZS`. Found `4` installers.
 
 Last check: 🟢
 

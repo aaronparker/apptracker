@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://rdanalyzer.com/)
 
-Evergreen app: `RDAnalyzer`. 
+Evergreen app: `RDAnalyzer`. Found `1` installer.
 
 Last check: 🟢
 

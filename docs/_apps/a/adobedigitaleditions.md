@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:16 PM
 
 [Source](https://www.adobe.com/solutions/ebook/digital-editions.html)
 
-Evergreen app: `AdobeDigitalEditions`. 
+Evergreen app: `AdobeDigitalEditions`. Found `1` installer.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.eset.com/int/business/solutions/file-server-security/)
 
-Evergreen app: `ESETServerSecurity`. 
+Evergreen app: `ESETServerSecurity`. Found `20` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://ocsinventory-ng.org/)
 
-Evergreen app: `OCSInventoryWindowsAgent`. 
+Evergreen app: `OCSInventoryWindowsAgent`. Found `4` installers.
 
 Last check: 🟢
 

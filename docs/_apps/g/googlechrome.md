@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-Evergreen app: `GoogleChrome`. 
+Evergreen app: `GoogleChrome`. Found `10` installers.
 
 Last check: 🟢
 

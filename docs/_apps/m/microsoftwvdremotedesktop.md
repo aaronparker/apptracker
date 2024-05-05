@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)
 
-Evergreen app: `MicrosoftWvdRemoteDesktop`. 
+Evergreen app: `MicrosoftWvdRemoteDesktop`. Found `9` installers.
 
 Last check: 🟢
 

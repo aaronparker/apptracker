@@ -10,7 +10,7 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 [Source](https://aws.amazon.com/corretto/)
 
-Evergreen app: `AmazonCorretto`. 
+Evergreen app: `AmazonCorretto`. Found `10` installers.
 
 Last check: 🟢
 

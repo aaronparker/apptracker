@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://kdiff3.sourceforge.net/)
 
-Evergreen app: `KDiff3`. 
+Evergreen app: `KDiff3`. Found `2` installers.
 
 Last check: 🟢
 

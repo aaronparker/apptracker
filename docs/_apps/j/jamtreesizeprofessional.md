@@ -10,7 +10,7 @@ last_modified_date: May 2 2024 at 12:16 PM
 
 [Source](https://www.jam-software.com/treesize/)
 
-Evergreen app: `JamTreeSizeProfessional`. 
+Evergreen app: `JamTreeSizeProfessional`. Found `1` installer.
 
 Last check: 🟢
 

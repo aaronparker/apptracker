@@ -10,7 +10,7 @@ last_modified_date: Apr 25 2024 at 12:30 AM
 
 [Source](https://cran.r-project.org/bin/windows/base/)
 
-Evergreen app: `RCoreTeamRforWindows`. 
+Evergreen app: `RCoreTeamRforWindows`. Found `1` installer.
 
 Last check: 🟢
 

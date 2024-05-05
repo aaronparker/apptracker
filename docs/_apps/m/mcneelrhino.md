@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.rhino3d.com/)
 
-Evergreen app: `McNeelRhino`. 
+Evergreen app: `McNeelRhino`. Found `27` installers.
 
 Last check: 🟢
 

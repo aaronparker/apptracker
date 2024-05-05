@@ -10,7 +10,7 @@ last_modified_date: Apr 15 2024 at 12:16 PM
 
 [Source](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)
 
-Evergreen app: `AdobeAcrobatDC`. 
+Evergreen app: `AdobeAcrobatDC`. Found `6` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.videolan.org/vlc/)
 
-Evergreen app: `VideoLanVlcPlayer`. 
+Evergreen app: `VideoLanVlcPlayer`. Found `6` installers.
 
 Last check: 🟢
 

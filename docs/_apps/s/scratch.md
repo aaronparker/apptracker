@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://scratch.mit.edu/)
 
-Evergreen app: `Scratch`. 
+Evergreen app: `Scratch`. Found `1` installer.
 
 Last check: 🟢
 

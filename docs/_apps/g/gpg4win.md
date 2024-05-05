@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.gpg4win.org/)
 
-Evergreen app: `Gpg4win`. 
+Evergreen app: `Gpg4win`. Found `1` installer.
 
 Last check: 🟢
 

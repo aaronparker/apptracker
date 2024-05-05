@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.python.org/)
 
-Evergreen app: `PSFPython`. 
+Evergreen app: `PSFPython`. Found `5` installers.
 
 Last check: 🟢
 

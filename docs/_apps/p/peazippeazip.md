@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://peazip.github.io/)
 
-Evergreen app: `PeaZipPeaZip`. 
+Evergreen app: `PeaZipPeaZip`. Found `2` installers.
 
 Last check: 🟢
 

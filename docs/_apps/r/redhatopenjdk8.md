@@ -10,7 +10,7 @@ last_modified_date: Apr 20 2024 at 12:26 AM
 
 [Source](https://developers.redhat.com/products/openjdk/overview)
 
-Evergreen app: `RedHatOpenJDK8`. 
+Evergreen app: `RedHatOpenJDK8`. Found `1` installer.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 3 2024 at 12:16 PM
 
 [Source](https://www.virtualbox.org/)
 
-Evergreen app: `OracleVirtualBox`. 
+Evergreen app: `OracleVirtualBox`. Found `6` installers.
 
 Last check: 🟢
 

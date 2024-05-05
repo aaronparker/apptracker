@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/MuhammedKalkan/OpenLens/)
 
-Evergreen app: `OpenLens`. 
+Evergreen app: `OpenLens`. Found `3` installers.
 
 Last check: 🟢
 

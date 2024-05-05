@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://safeexambrowser.org/)
 
-Evergreen app: `SafeExamBrowser`. 
+Evergreen app: `SafeExamBrowser`. Found `3` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://notepad-plus-plus.org/)
 
-Evergreen app: `NotepadPlusPlus`. 
+Evergreen app: `NotepadPlusPlus`. Found `12` installers.
 
 Last check: 🟢
 

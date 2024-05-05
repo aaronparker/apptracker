@@ -10,7 +10,7 @@ last_modified_date: Apr 24 2024 at 12:14 PM
 
 [Source](https://adoptium.net/)
 
-Evergreen app: `AdoptiumTemurin8`. 
+Evergreen app: `AdoptiumTemurin8`. Found `4` installers.
 
 Last check: 🟢
 

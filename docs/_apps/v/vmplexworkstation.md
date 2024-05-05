@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://github.com/0xf005ba11/vmplex-ws)
 
-Evergreen app: `VMPlexWorkstation`. 
+Evergreen app: `VMPlexWorkstation`. Found `2` installers.
 
 Last check: 🟢
 

@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html)
 
-Evergreen app: `CitrixShareFile`. 
+Evergreen app: `CitrixShareFile`. Found `1` installer.
 
 Last check: 🟢
 

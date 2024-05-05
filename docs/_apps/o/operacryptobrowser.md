@@ -10,7 +10,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 [Source](https://www.opera.com/crypto/next)
 
-Evergreen app: `OperaCryptoBrowser`. 
+Evergreen app: `OperaCryptoBrowser`. Found `1` installer.
 
 Last check: 🟢
 

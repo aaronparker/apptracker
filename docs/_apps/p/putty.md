@@ -10,7 +10,7 @@ last_modified_date: Apr 16 2024 at 12:29 AM
 
 [Source](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
-Evergreen app: `PuTTY`. 
+Evergreen app: `PuTTY`. Found `3` installers.
 
 Last check: 🟢
 

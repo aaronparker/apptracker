@@ -10,12 +10,9 @@ last_modified_date: Jan 31 2024 at 10:14 AM
 
 [Source](https://filezilla-project.org/)
 
-Evergreen app: `FileZilla`. 
+Evergreen app: `FileZilla`. Found `1` installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                                                                                                              |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

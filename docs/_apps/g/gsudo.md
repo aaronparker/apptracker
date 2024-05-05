@@ -10,7 +10,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 [Source](https://gerardog.github.io/gsudo)
 
-Evergreen app: `gsudo`. 
+Evergreen app: `gsudo`. Found `4` installers.
 
 Last check: 🟢
 
