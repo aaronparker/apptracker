@@ -3,7 +3,7 @@ title: Tableau Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: May 5 2024 at 12:41 AM
 ---
 
 ## Tableau Desktop
@@ -12,11 +12,8 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `TableauDesktop`. 
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
-| Version  | URI                                                                                                                                                      |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.1.1 | [https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-1-1.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-1-1.exe) |
+| Version  | Architecture | Type | URI                                                                                                                                                      |
+| -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.1.2 | x64          | exe  | [https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-1-2.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-1-2.exe) |

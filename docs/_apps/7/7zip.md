@@ -3,7 +3,7 @@ title: 7zip
 layout: default
 nav_order: 2
 parent: 7
-last_modified_date: May 2 2024 at 12:16 PM
+last_modified_date: May 5 2024 at 12:41 AM
 ---
 
 ## 7zip
@@ -14,12 +14,12 @@ Evergreen app: `7zip`.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                                                                                                                        |
-| ------- | ------------ | ---- | ------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-arm.exe](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-arm.exe)     |
-| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-arm64.exe](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-arm64.exe) |
-| 23.01   | x64          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7zr.exe](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7zr.exe)                   |
-| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-x64.exe](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-x64.exe)     |
-| 23.01   | x64          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301.exe](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301.exe)             |
-| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-x64.msi](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301-x64.msi)     |
-| 23.01   | x64          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | [https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301.msi](https://sourceforge.net/projects/sevenzip/files/7-Zip/23.01/7z2301-x64.exe/7z2301.msi)             |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                                                                                                        |
+| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.01   | ARM32        | exe  | 1596691 | d98f54ca52882376fd8b39b29628a90a | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe)     |
+| 23.01   | ARM64        | exe  | 1527518 | 3c5917f4da614ef892f055c697744b77 | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe) |
+| 23.01   | x64          | exe  | 1589510 | e5788b13546156281bf0a4b38bdd0901 | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe)     |
+| 23.01   | x86          | exe  | 584704  | 58fc6de6c4e5d2fda63565d54feb9e75 | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe)                   |
+| 23.01   | x86          | exe  | 1301195 | 1cfb215a6fb373ac33a38b1db320c178 | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe)             |
+| 23.01   | x64          | msi  | 1933312 | 7025502de20d7b39fb06870ab06d015b | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi)     |
+| 23.01   | x86          | msi  | 1501184 | 49780e0517aa248e7fd90f50674a2645 | [https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi](https://pilotfiber.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi)             |

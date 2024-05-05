@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 04/05/2024 12:26 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 05/05/2024 00:49 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **321** applications and **4027** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **322** applications and **4981** unique application installers.
 
 | Application                                                       | Link                                                                                                                                                                                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -325,6 +325,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VMware Workstation Player                                         | [https://www.vmware.com/products/workstation-player.html](https://www.vmware.com/products/workstation-player.html)                                                                                   |
 | VMware Workstation Pro                                            | [https://www.vmware.com/products/workstation-pro.html](https://www.vmware.com/products/workstation-pro.html)                                                                                         |
 | voidtools Everything                                              | [https://www.voidtools.com/](https://www.voidtools.com/)                                                                                                                                             |
+| VSCodium                                                          | [https://vscodium.com](https://vscodium.com)                                                                                                                                                         |
 | Win32-OpenSSH                                                     | [https://github.com/PowerShell/Win32-OpenSSH/](https://github.com/PowerShell/Win32-OpenSSH/)                                                                                                         |
 | WinMerge                                                          | [https://winmerge.org/](https://winmerge.org/)                                                                                                                                                       |
 | WinSCP                                                            | [https://winscp.net/](https://winscp.net/)                                                                                                                                                           |

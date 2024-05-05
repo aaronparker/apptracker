@@ -3,7 +3,7 @@ title: Drata Agent
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Apr 15 2024 at 02:43 AM
+last_modified_date: May 5 2024 at 12:41 AM
 ---
 
 ## Drata Agent
@@ -14,6 +14,6 @@ Evergreen app: `DrataAgent`.
 
 Last check: 🟢
 
-| Version | Platform | Architecture | Type | InstallerType | Date       | Size     | URI                                                                                                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.6.1   | Windows  | x86          | exe  | Default       | 03/01/2021 | 83877520 | [https://github.com/drata/agent-releases/releases/download/v3.6.1/Drata-Agent-win.exe](https://github.com/drata/agent-releases/releases/download/v3.6.1/Drata-Agent-win.exe) |
+| Version | Platform | Architecture | Type | InstallerType | Date     | Size     | URI                                                                                                                                                                          |
+| ------- | -------- | ------------ | ---- | ------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.6.1   | Windows  | x86          | exe  | Default       | 1/3/2021 | 83877520 | [https://github.com/drata/agent-releases/releases/download/v3.6.1/Drata-Agent-win.exe](https://github.com/drata/agent-releases/releases/download/v3.6.1/Drata-Agent-win.exe) |

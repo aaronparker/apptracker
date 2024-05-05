@@ -14,7 +14,7 @@ Evergreen app: `ProtonDrive`.
 
 Last check: 🔴
 ```
-Cannot validate argument on parameter 'DateTime'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+Cannot convert the JSON string because it contains keys with different casing. Please use the -AsHashTable switch instead. The key that was attempted to be added to the existing key 'Sha512CheckSum' was 'Sha512Checksum'.
 ```
 
 | Version | Date       | Release | Sha512                                                                                                                           | Type | URI                                                                                                                                                        |
