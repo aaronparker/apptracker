@@ -14,7 +14,7 @@ Evergreen app: `FileZilla`. Found **1** installer.
 
 Last check: 🔴
 ```
-Output from last run on PowerShell Core was null.
+Output from last run on Windows PowerShell was null.
 ```
 
 | Version | Size     | Hash                                                                                                                             | URI                                                                                                                                                              |
