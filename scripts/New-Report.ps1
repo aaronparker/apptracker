@@ -95,7 +95,6 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
         $Markdown += "`n$Err`n"
         $Markdown += '```'
         $Markdown += "`n`n"
-        Remove-Item -Path $ErrFile -Force -ErrorAction "SilentlyContinue"
     }
     else {
         $Markdown += "Last check: 🟢"
@@ -136,11 +135,14 @@ $SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($($_.Lin
         Application = $_.Application
         Source      = $_.Link
         LastUpdate  = "``$((($LastUpdates | Where-Object { $_.Name -eq "$Name.json" } | Select-Object -ExpandProperty "LastWriteTime") -split " ")[0])``"
-        Status      = $(if (Test-Path -Path $([System.IO.Path]::Combine($JsonPath, "$($_.Name).err"))) { "🔴" } else { "🟢" })
+        Status      = $(if (Test-Path -Path $([System.IO.Path]::Combine($JsonPath, "$Name.err"))) { "🔴" } else { "🟢" })
     }
 }
 $Markdown = $About
 $Markdown += "`n`n"
 $Markdown += $SupportedApps | New-MDTable -Columns ([Ordered]@{Application = "left"; Source = "left"; LastUpdate = "left"; Status = "left" })
 $Markdown | Out-File -FilePath $IndexFile -Force -Encoding "Utf8" -NoNewline
+
+# Remove .err files from the JSON path
+Remove-Item -Path $([System.IO.Path]::Combine($JsonPath, "*.err")) -Force -ErrorAction "SilentlyContinue"
 #endregion
