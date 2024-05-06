@@ -150,15 +150,6 @@ jobs:
             $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
           }
 
-      # - name: Normalize JSON files
-      #   shell: pwsh
-      #   working-directory: ${{ github.workspace }}
-      #   run: |
-      #     Get-ChildItem -Path "${{ github.workspace }}\json" -Filter "*.json" | ForEach-Object {
-      #         $json = Get-Content -Path $_.FullName
-      #         $json | ConvertFrom-Json | ConvertTo-Json -Depth 100 | Out-File -FilePath $_.FullName -Encoding "Utf8" -Force
-      #     }
-
       - name: Save last update list
         shell: powershell
         working-directory: ${{ github.workspace }}

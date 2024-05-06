@@ -23,10 +23,10 @@ function Test-PSCore {
     )
 
     # Check whether current PowerShell environment matches or is higher than $Version
-    If (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
+    if (($PSVersionTable.PSVersion -ge [Version]::Parse($Version)) -and ($PSVersionTable.PSEdition -eq "Core")) {
         Write-Output -InputObject $true
     }
-    Else {
+    else {
         Write-Output -InputObject $false
     }
 }
@@ -47,13 +47,14 @@ function Set-Culture {
 Set-Culture -Culture "en-AU"
 
 # Apps that should be skipped in this run
-$SkipApps = @("MozillaFirefox", "MozillaThunderbird")
+$MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
+$WindowsApps = @("FileZilla")
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
 if (Test-PSCore) {
 
-    # Remove extra files
+    # Remove extra files for apps that have been removed from Evergreen
     $Files = Get-ChildItem -Path $Path -Filter "*.json" | Select-Object -ExpandProperty "Basename"
     $Apps = Find-EvergreenApp | Select-Object -ExpandProperty "Name"
     Compare-Object -ReferenceObject $Files -DifferenceObject $Apps | `
@@ -62,12 +63,53 @@ if (Test-PSCore) {
 
     # Walk-through each Evergreen app and export data to JSON files
     foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
-
         try {
             $params = @{
                 Name          = $App
                 ErrorAction   = "SilentlyContinue"
                 WarningAction = "SilentlyContinue"
+            }
+            if ($App -in $MozillaApps) {
+                $params.AppParams = @{ Language = $Manifest.Get.Download.FullLanguageList }
+            }
+            $Output = Get-EvergreenApp @params
+        }
+        catch {
+            Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+            Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
+            $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+            $Output = $null
+        }
+
+        if ($null -eq $Output) {
+            Write-Host -Object "Output from app is null: $App." -ForegroundColor "Cyan"
+            if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
+                "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+            }
+        }
+        elseif ("RateLimited" -in $Output.Version) {
+            Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
+        }
+        else {
+            ConvertTo-Json @($Output | `
+                    Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
+                Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+            Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
+        }
+    }
+}
+else {
+
+    # Windows PowerShell; Walk-through each Evergreen app and export data to JSON files
+    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -in $WindowsApps } | Select-Object -ExpandProperty "Name")) {
+        try {
+            $params = @{
+                Name          = $App
+                ErrorAction   = "SilentlyContinue"
+                WarningAction = "SilentlyContinue"
+            }
+            if ($App -in $MozillaApps) {
+                $params.AppParams = @{ Language = $Manifest.Get.Download.FullLanguageList }
             }
             $Output = Get-EvergreenApp @params
         }
@@ -95,75 +137,11 @@ if (Test-PSCore) {
         }
     }
 
-    foreach ($App in @("MozillaFirefox", "MozillaThunderbird")) {
-        Write-Host -Object "Gather: $App"
-        $Manifest = Export-EvergreenManifest -Name "$App"
-        $params = @{
-            Name          = "$App"
-            AppParams     = @{ Language = $Manifest.Get.Download.FullLanguageList }
-            ErrorAction   = "SilentlyContinue"
-            WarningAction = "SilentlyContinue"
-        }
-        $Output = Get-EvergreenApp @params
-        if ($null -eq $Output) {
-            Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
-        }
-        else {
-            $Output | `
-                Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Type", "Architecture", "Channel", "Language" -ErrorAction "SilentlyContinue" | `
-                ConvertTo-Json | `
-                Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
-            Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
-        }
-    }
-}
-else {
-
-    # Walk-through each JSON file and validate it, update contents if required
-    foreach ($file in (Get-ChildItem -Path $Path -Filter "*.json")) {
-        if (($file.Length -eq 0) -or ((Get-Content -Path $file.FullName) -match "RateLimited")) {
-
-            try {
-                Write-Host -Object "Update: $($file.BaseName)." -ForegroundColor "Cyan"
-                $params = @{
-                    Name          = $file.BaseName
-                    ErrorAction   = "SilentlyContinue"
-                    WarningAction = "SilentlyContinue"
-                    Verbose       = $true
-                }
-                $Output = Get-EvergreenApp @params
-            }
-            catch {
-                Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
-                Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
-                $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$($file.BaseName).err")) -NoNewline -Encoding "utf8"
-                $Output = $null
-            }
-
-            if ($null -eq $Output) {
-                Write-Host -Object "Encountered an issue with: $($file.BaseName)." -ForegroundColor "Cyan"
-
-                if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$($file.BaseName).err")))) {
-                    "Output from last run on Windows PowerShell was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$($file.BaseName).err")) -NoNewline -Encoding "utf8"
-                }
-            }
-            elseif ($Output[0].Version -eq "RateLimited") {
-                Write-Host -Object "Skipping. GitHub API rate limited: $($file.BaseName)." -ForegroundColor "Cyan"
-            }
-            else {
-                ConvertTo-Json -InputObject @($Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
-                    Out-File -FilePath $file.FullName -NoNewline -Encoding "utf8" -Verbose
-                Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
-            }
-        }
-    }
-
     # Find output that doesn't exist for an application in Evergreen
-    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
+    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $MozillaApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
         if (-not (Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.json")) -ErrorAction "SilentlyContinue")) {
 
             try {
-                Write-Host -Object "Update: $App." -ForegroundColor "Cyan"
                 $params = @{
                     Name          = $App
                     ErrorAction   = "SilentlyContinue"
@@ -181,6 +159,9 @@ else {
 
             if ($null -eq $Output) {
                 Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+                if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
+                    "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+                }
             }
             elseif ("RateLimited" -in $Output.Version) {
                 Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
