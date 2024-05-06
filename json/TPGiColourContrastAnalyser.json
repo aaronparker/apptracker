@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.5.2",
+    "Version": "3.5.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "29/4/2024",
-    "Size": 79112680,
-    "URI": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.2/CCA-Portable-x64-3.5.2.exe"
+    "Date": "6/5/2024",
+    "Size": 79116912,
+    "URI": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.3/CCA-Portable-x64-3.5.3.exe"
   },
   {
-    "Version": "3.5.2",
+    "Version": "3.5.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "29/4/2024",
-    "Size": 79351352,
-    "URI": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.2/CCA-Setup-x64-3.5.2.exe"
+    "Date": "6/5/2024",
+    "Size": 79355576,
+    "URI": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.3/CCA-Setup-x64-3.5.3.exe"
   }
 ]
