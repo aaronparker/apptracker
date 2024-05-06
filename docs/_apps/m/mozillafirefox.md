@@ -12,10 +12,7 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 Evergreen app: `MozillaFirefox`. Found **2852** installers.
 
-Last check: 🔴
-```
-Cannot validate argument on parameter 'Language'. The argument is null. Provide a valid value for the argument, and then try running the command again.
-```
+Last check: 🟢
 
 | Version  | Architecture | Channel               | Language | Type | Filename                       | URI                                                                                                                                                                                                                                                                    |
 | -------- | ------------ | --------------------- | -------- | ---- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
