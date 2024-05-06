@@ -128,8 +128,18 @@ This site tracks latest application versions via the [Evergreen](https://stealth
 App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **$((Find-EvergreenApp).Count)** applications and **$UniqueAppsCount** unique application installers.
 "@
 
+# Create a table for supported applications with a last update status
+$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[$($_.Link)]($($_.Link))"; $_ } | `
+    ForEach-Object {
+    [PSCustomObject] @{
+        Status      = $(if (Test-Path -Path $([System.IO.Path]::Combine($JsonPath, "$($_.Name).err"))) { "🔴" } else { "🟢" })
+        Application = $_.Application
+        LastUpdate  = $LastUpdates | Where-Object { $_.Name -eq $_.Application } | Select-Object -ExpandProperty "LastWriteTime"
+        Source      = $_.Link
+    }
+}
 $Markdown = $About
 $Markdown += "`n`n"
-$Markdown += Find-EvergreenApp | Select-Object -Property "Application", "Link" | ForEach-Object { $_.Link = "[$($_.Link)]($($_.Link))"; $_ } | New-MDTable
+$Markdown += $SupportedApps | New-MDTable
 $Markdown | Out-File -FilePath $IndexFile -Force -Encoding "Utf8" -NoNewline
 #endregion
