@@ -125,7 +125,7 @@ else {
         if ($null -eq $Output) {
             Write-Host -Object "Output from app is null: $App." -ForegroundColor "Cyan"
             if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
-                "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
+                "Output from last run on Windows PowerShell was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
             }
         }
         elseif ("RateLimited" -in $Output.Version) {
