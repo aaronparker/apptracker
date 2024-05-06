@@ -3,7 +3,7 @@ title: Adobe Acrobat updates
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 13 2024 at 12:24 AM
+last_modified_date: May 6 2024 at 12:28 AM
 ---
 
 ## Adobe Acrobat updates
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version      | Type   | Product | Track | Language | Architecture | URI                                                                                                                                                                                                                      |
 | ------------ | ------ | ------- | ----- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 24.002.20687 | Update | Reader  | DC    | Multi    | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcroRdrDCx64Upd2400220687_MUI.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcroRdrDCx64Upd2400220687_MUI.msp) |
-| 24.002.20687 | Update | Acrobat | DC    | Neutral  | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcrobatDCx64Upd2400220687.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcrobatDCx64Upd2400220687.msp)         |
-| 24.002.20687 | Update | Reader  | DC    | Neutral  | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcroRdrDCx64Upd2400220687.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcroRdrDCx64Upd2400220687.msp)         |
-| 24.002.20687 | Update | Reader  | DC    | Multi    | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDCUpd2400220687_MUI.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDCUpd2400220687_MUI.msp)         |
-| 24.002.20687 | Update | Acrobat | DC    | Neutral  | x86          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcrobatDCUpd2400220687.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcrobatDCUpd2400220687.msp)               |
-| 24.002.20687 | Update | Reader  | DC    | Neutral  | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDCUpd2400220687.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDCUpd2400220687.msp)                 |
+| 24.002.20736 | Update | Reader  | DC    | Multi    | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcroRdrDCx64Upd2400220736_MUI.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcroRdrDCx64Upd2400220736_MUI.msp) |
+| 24.002.20736 | Update | Acrobat | DC    | Neutral  | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcrobatDCx64Upd2400220736.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcrobatDCx64Upd2400220736.msp)         |
+| 24.002.20736 | Update | Reader  | DC    | Neutral  | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcroRdrDCx64Upd2400220736.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcroRdrDCx64Upd2400220736.msp)         |
+| 24.002.20736 | Update | Reader  | DC    | Multi    | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220736/AcroRdrDCUpd2400220736_MUI.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220736/AcroRdrDCUpd2400220736_MUI.msp)         |
+| 24.002.20736 | Update | Acrobat | DC    | Neutral  | x86          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcrobatDCUpd2400220736.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220736/AcrobatDCUpd2400220736.msp)               |
+| 24.002.20736 | Update | Reader  | DC    | Neutral  | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220736/AcroRdrDCUpd2400220736.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220736/AcroRdrDCUpd2400220736.msp)                 |
 | 20.005.30574 | Update | Reader  | 2020  | Multi    | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530574/AcroRdr2020Upd2000530574_MUI.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530574/AcroRdr2020Upd2000530574_MUI.msp) |
 | 20.005.30574 | Update | Acrobat | 2020  | Neutral  | x86          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530574/Acrobat2020Upd2000530574.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530574/Acrobat2020Upd2000530574.msp)       |
 | 17.012.30262 | Update | Reader  | 2017  | Multi    | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230262/AcroRdr2017Upd1701230262_MUI.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230262/AcroRdr2017Upd1701230262_MUI.msp) |

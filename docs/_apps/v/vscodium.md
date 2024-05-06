@@ -3,7 +3,7 @@ title: VSCodium
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: May 6 2024 at 12:28 AM
 ---
 
 ## VSCodium
@@ -14,11 +14,11 @@ Evergreen app: `VSCodium`. Found **6** installers.
 
 Last check: 🟢
 
-| Version      | Platform | Architecture | Type | InstallerType | Date      | Size      | URI                                                                                                                                                                                                                                      |
-| ------------ | -------- | ------------ | ---- | ------------- | --------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.88.1.24104 | Windows  | ARM64        | exe  | Default       | 13/4/2024 | 93039742  | [https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumSetup-arm64-1.88.1.24104.exe](https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumSetup-arm64-1.88.1.24104.exe)                     |
-| 1.88.1.24104 | Windows  | ARM64        | exe  | User          | 13/4/2024 | 93040201  | [https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumUserSetup-arm64-1.88.1.24104.exe](https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumUserSetup-arm64-1.88.1.24104.exe)             |
-| 1.88.1.24104 | Windows  | x64          | exe  | Default       | 13/4/2024 | 96389188  | [https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumSetup-x64-1.88.1.24104.exe](https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumSetup-x64-1.88.1.24104.exe)                         |
-| 1.88.1.24104 | Windows  | x64          | exe  | User          | 13/4/2024 | 96389630  | [https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumUserSetup-x64-1.88.1.24104.exe](https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodiumUserSetup-x64-1.88.1.24104.exe)                 |
-| 1.88.1.24104 | Windows  | x64          | msi  | Default       | 13/4/2024 | 111042560 | [https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodium-x64-1.88.1.24104.msi](https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodium-x64-1.88.1.24104.msi)                                   |
-| 1.88.1.24104 | Windows  | x64          | msi  | Default       | 13/4/2024 | 111042560 | [https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodium-x64-updates-disabled-1.88.1.24104.msi](https://github.com/VSCodium/vscodium/releases/download/1.88.1.24104/VSCodium-x64-updates-disabled-1.88.1.24104.msi) |
+| Version      | Platform | Architecture | Type | InstallerType | Date     | Size      | URI                                                                                                                                                                                                                                      |
+| ------------ | -------- | ------------ | ---- | ------------- | -------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.89.0.24126 | Windows  | ARM64        | exe  | Default       | 5/5/2024 | 93273920  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-arm64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-arm64-1.89.0.24126.exe)                     |
+| 1.89.0.24126 | Windows  | ARM64        | exe  | User          | 5/5/2024 | 93274311  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-arm64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-arm64-1.89.0.24126.exe)             |
+| 1.89.0.24126 | Windows  | x64          | exe  | Default       | 5/5/2024 | 96649477  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-x64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-x64-1.89.0.24126.exe)                         |
+| 1.89.0.24126 | Windows  | x64          | exe  | User          | 5/5/2024 | 96649819  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-x64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-x64-1.89.0.24126.exe)                 |
+| 1.89.0.24126 | Windows  | x64          | msi  | Default       | 5/5/2024 | 111280128 | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-1.89.0.24126.msi](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-1.89.0.24126.msi)                                   |
+| 1.89.0.24126 | Windows  | x64          | msi  | Default       | 5/5/2024 | 111276032 | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-updates-disabled-1.89.0.24126.msi](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-updates-disabled-1.89.0.24126.msi) |
