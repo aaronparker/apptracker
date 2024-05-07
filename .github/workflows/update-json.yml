@@ -295,7 +295,7 @@ jobs:
         run: echo "No changes detected."
 
   update-endpoints-versions:
-    needs: [update-pwsh, update-powershell, update-kv-apps]
+    needs: [update-pwsh, update-powershell]
     runs-on: ubuntu-latest
 
     steps:
@@ -338,7 +338,7 @@ jobs:
             Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
 
   update-endpoints-downloads:
-    needs: [update-pwsh, update-powershell, update-kv-apps]
+    needs: [update-pwsh, update-powershell]
     runs-on: ubuntu-latest
 
     steps:
@@ -380,7 +380,7 @@ jobs:
             Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
 
   update-docs:
-    needs: [update-pwsh, update-powershell]
+    needs: [update-pwsh, update-powershell, update-kv-apps]
     runs-on: ubuntu-latest
 
     steps:
