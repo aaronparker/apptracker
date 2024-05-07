@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Tuesday 07/05/2024 01:16 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 07/05/2024 21:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -133,7 +133,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ImageGlass                                                        | [Link](https://imageglass.org/)                                                                          | `5/5/2024`  | 🟢     |
 | ImageMagick Studio ImageMagick                                    | [Link](https://imagemagick.org/)                                                                         | `6/5/2024`  | 🟢     |
 | JabraDirect                                                       | [Link](https://www.jabra.com/software-and-services/jabra-direct)                                         | `23/4/2024` | 🟢     |
-| JAM Software TreeSize Free                                        | [Link](https://www.jam-software.com/treesize_free/)                                                      | `12/4/2024` | 🟢     |
+| JAM Software TreeSize Free                                        | [Link](https://www.jam-software.com/treesize_free/)                                                      | `7/5/2024`  | 🟢     |
 | JAM Software TreeSize Professional                                | [Link](https://www.jam-software.com/treesize/)                                                           | `2/5/2024`  | 🟢     |
 | JASP                                                              | [Link](https://jasp-stats.org/)                                                                          | `12/4/2024` | 🟢     |
 | JeremyMain GPUProfiler                                            | [Link](https://github.com/JeremyMain/GPUProfiler)                                                        | `5/5/2024`  | 🟢     |
@@ -168,7 +168,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                               | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                         | `5/5/2024`  | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                        | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🔴     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                           | `12/4/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                 | `7/5/2024`  | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `5/5/2024`  | 🟢     |
@@ -197,7 +197,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                           | `5/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                    | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                              | `12/4/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `6/5/2024`  | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `7/5/2024`  | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                        | `5/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `12/4/2024` | 🟢     |
@@ -211,9 +211,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | MirantisLens                                                      | [Link](https://k8slens.dev/)                                                                             | `7/5/2024`  | 🟢     |
 | Mozilla Firefox                                                   | [Link](https://www.mozilla.org/en-US/firefox/new/)                                                       | `5/5/2024`  | 🟢     |
 | Mozilla Gecko Driver                                              | [Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)                                           | `5/5/2024`  | 🟢     |
-| Mozilla Thunderbird                                               | [Link](https://www.thunderbird.net/)                                                                     | `5/5/2024`  | 🟢     |
+| Mozilla Thunderbird                                               | [Link](https://www.thunderbird.net/)                                                                     | `7/5/2024`  | 🟢     |
 | mRemoteNG                                                         | [Link](https://mremoteng.org/)                                                                           | `5/5/2024`  | 🟢     |
-| MuseScore                                                         | [Link](https://musescore.org/)                                                                           | `5/5/2024`  | 🟢     |
+| MuseScore                                                         | [Link](https://musescore.org/)                                                                           | `7/5/2024`  | 🟢     |
 | mySQL Workbench                                                   | [Link](https://dev.mysql.com/doc/workbench/en/)                                                          | `12/4/2024` | 🟢     |
 | NanaZip                                                           | [Link](https://github.com/M2Team/NanaZip)                                                                | `5/5/2024`  | 🟢     |
 | Ben Olden-Cooligan NAPS2                                          | [Link](https://www.naps2.com/)                                                                           | `5/5/2024`  | 🟢     |
@@ -234,7 +234,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | [Link](https://github.com/MuhammedKalkan/OpenLens/)                                                      | `5/5/2024`  | 🟢     |
 | Open-Shell-Menu                                                   | [Link](https://open-shell.github.io/Open-Shell-Menu/)                                                    | `5/5/2024`  | 🟢     |
 | OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                        | `5/5/2024`  | 🟢     |
-| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                             | `30/4/2024` | 🟢     |
+| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                             | `7/5/2024`  | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                | `12/4/2024` | 🟢     |
 | Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                         | `29/4/2024` | 🟢     |
 | Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                       | `17/4/2024` | 🟢     |
