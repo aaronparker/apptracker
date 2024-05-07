@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.5.31714-beta",
+    "Version": "2024.5.61439-beta",
     "Architecture": "x64",
     "Release": "Alpha",
-    "Date": "2024-05-03T17:39:11.549Z",
-    "Size": 320743624,
-    "Sha512": "qEEmA8O3x+3WybwJxoP8cK6hHjadBdGBAlG6rRNZJMVXdYTJQ2QGl6E0RHGo6SNjgRWOfZVaHdgrJ4zzsMA8UA==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.5.31714-beta.exe"
+    "Date": "2024-05-06T15:29:59.034Z",
+    "Size": 320740624,
+    "Sha512": "B9kIaPRzCc3lipFiOjrCpaI8KkjT2mq3rHc4n4+f/cqanQ/c3st54235yoj2Z8eUgTiLfBQEd/7O8xkxiJw10w==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.5.61439-beta.exe"
   },
   {
     "Version": "2024.4.230844-latest",

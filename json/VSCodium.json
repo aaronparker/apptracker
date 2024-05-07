@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.89.0.24126",
+    "Version": "1.89.0.24127",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "5/5/2024",
-    "Size": 93273920,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-arm64-1.89.0.24126.exe"
+    "Date": "6/5/2024",
+    "Size": 93250864,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumSetup-arm64-1.89.0.24127.exe"
   },
   {
-    "Version": "1.89.0.24126",
+    "Version": "1.89.0.24127",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "5/5/2024",
-    "Size": 93274311,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-arm64-1.89.0.24126.exe"
+    "Date": "6/5/2024",
+    "Size": 93251255,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumUserSetup-arm64-1.89.0.24127.exe"
   },
   {
-    "Version": "1.89.0.24126",
+    "Version": "1.89.0.24127",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "5/5/2024",
-    "Size": 96649477,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-x64-1.89.0.24126.exe"
+    "Date": "6/5/2024",
+    "Size": 96602784,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumSetup-x64-1.89.0.24127.exe"
   },
   {
-    "Version": "1.89.0.24126",
+    "Version": "1.89.0.24127",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "5/5/2024",
-    "Size": 96649819,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-x64-1.89.0.24126.exe"
+    "Date": "6/5/2024",
+    "Size": 96603219,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumUserSetup-x64-1.89.0.24127.exe"
   },
   {
-    "Version": "1.89.0.24126",
+    "Version": "1.89.0.24127",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "5/5/2024",
-    "Size": 111280128,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-1.89.0.24126.msi"
+    "Date": "6/5/2024",
+    "Size": 111284224,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodium-x64-1.89.0.24127.msi"
   },
   {
-    "Version": "1.89.0.24126",
+    "Version": "1.89.0.24127",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "5/5/2024",
-    "Size": 111276032,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-updates-disabled-1.89.0.24126.msi"
+    "Date": "6/5/2024",
+    "Size": 111284224,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodium-x64-updates-disabled-1.89.0.24127.msi"
   }
 ]
