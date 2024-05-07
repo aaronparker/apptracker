@@ -3,7 +3,7 @@ title: VSCodium
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: May 6 2024 at 12:28 AM
+last_modified_date: May 7 2024 at 12:30 AM
 ---
 
 ## VSCodium
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version      | Platform | Architecture | Type | InstallerType | Date     | Size      | URI                                                                                                                                                                                                                                      |
 | ------------ | -------- | ------------ | ---- | ------------- | -------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.89.0.24126 | Windows  | ARM64        | exe  | Default       | 5/5/2024 | 93273920  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-arm64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-arm64-1.89.0.24126.exe)                     |
-| 1.89.0.24126 | Windows  | ARM64        | exe  | User          | 5/5/2024 | 93274311  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-arm64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-arm64-1.89.0.24126.exe)             |
-| 1.89.0.24126 | Windows  | x64          | exe  | Default       | 5/5/2024 | 96649477  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-x64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumSetup-x64-1.89.0.24126.exe)                         |
-| 1.89.0.24126 | Windows  | x64          | exe  | User          | 5/5/2024 | 96649819  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-x64-1.89.0.24126.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodiumUserSetup-x64-1.89.0.24126.exe)                 |
-| 1.89.0.24126 | Windows  | x64          | msi  | Default       | 5/5/2024 | 111280128 | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-1.89.0.24126.msi](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-1.89.0.24126.msi)                                   |
-| 1.89.0.24126 | Windows  | x64          | msi  | Default       | 5/5/2024 | 111276032 | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-updates-disabled-1.89.0.24126.msi](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24126/VSCodium-x64-updates-disabled-1.89.0.24126.msi) |
+| 1.89.0.24127 | Windows  | ARM64        | exe  | Default       | 6/5/2024 | 93250864  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumSetup-arm64-1.89.0.24127.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumSetup-arm64-1.89.0.24127.exe)                     |
+| 1.89.0.24127 | Windows  | ARM64        | exe  | User          | 6/5/2024 | 93251255  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumUserSetup-arm64-1.89.0.24127.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumUserSetup-arm64-1.89.0.24127.exe)             |
+| 1.89.0.24127 | Windows  | x64          | exe  | Default       | 6/5/2024 | 96602784  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumSetup-x64-1.89.0.24127.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumSetup-x64-1.89.0.24127.exe)                         |
+| 1.89.0.24127 | Windows  | x64          | exe  | User          | 6/5/2024 | 96603219  | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumUserSetup-x64-1.89.0.24127.exe](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodiumUserSetup-x64-1.89.0.24127.exe)                 |
+| 1.89.0.24127 | Windows  | x64          | msi  | Default       | 6/5/2024 | 111284224 | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodium-x64-1.89.0.24127.msi](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodium-x64-1.89.0.24127.msi)                                   |
+| 1.89.0.24127 | Windows  | x64          | msi  | Default       | 6/5/2024 | 111284224 | [https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodium-x64-updates-disabled-1.89.0.24127.msi](https://github.com/VSCodium/vscodium/releases/download/1.89.0.24127/VSCodium-x64-updates-disabled-1.89.0.24127.msi) |
