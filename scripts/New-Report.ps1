@@ -1,4 +1,4 @@
-<#
+﻿<#
     Queries each application in Evergreen and exports the result to JSON
 #>
 [CmdletBinding(SupportsShouldProcess = $true)]
