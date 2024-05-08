@@ -3,7 +3,7 @@ title: JetBrains Rider
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: May 8 2024 at 12:34 AM
 ---
 
 ## JetBrains Rider
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsRider`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build         | Edition | Sha256                                                                   | Date      | Size       | Type | URI                                                                                                                                    |
-| -------- | ------------- | ------- | ------------------------------------------------------------------------ | --------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.1.1 | 241.14494.325 | Rider   | https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.1.exe.sha256 | 17/4/2024 | 1226183648 | exe  | [https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.1.exe](https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.1.exe) |
+| Version  | Build         | Edition | Sha256                                                                   | Date     | Size       | Type | URI                                                                                                                                    |
+| -------- | ------------- | ------- | ------------------------------------------------------------------------ | -------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.1.2 | 241.15989.179 | Rider   | https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.exe.sha256 | 7/5/2024 | 1232243552 | exe  | [https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.exe](https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.exe) |

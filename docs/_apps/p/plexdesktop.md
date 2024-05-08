@@ -3,7 +3,7 @@ title: Plex Media Desktop
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Apr 17 2024 at 12:15 PM
+last_modified_date: May 8 2024 at 12:34 AM
 ---
 
 ## Plex Media Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version             | Architecture | Checksum                                 | URI                                                                                                                                                                                                              |
 | ------------------- | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.91.0.129-1cd63c1d | x64          | 9df24881db64b12d22660237314d623da8baeb68 | [https://downloads.plex.tv/plex-desktop/1.91.0.129-1cd63c1d/windows/Plex-1.91.0.129-1cd63c1d-x86_64.exe](https://downloads.plex.tv/plex-desktop/1.91.0.129-1cd63c1d/windows/Plex-1.91.0.129-1cd63c1d-x86_64.exe) |
+| 1.92.1.140-8e1f68f5 | x64          | 4cea18465fa4e74e30a3b8f3029026a1dce98e2b | [https://downloads.plex.tv/plex-desktop/1.92.1.140-8e1f68f5/windows/Plex-1.92.1.140-8e1f68f5-x86_64.exe](https://downloads.plex.tv/plex-desktop/1.92.1.140-8e1f68f5/windows/Plex-1.92.1.140-8e1f68f5-x86_64.exe) |
