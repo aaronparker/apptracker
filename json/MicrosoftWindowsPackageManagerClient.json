@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.7.11132",
+    "Version": "1.7.11261",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "23/4/2024",
-    "Size": 259315296,
-    "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.7.11132/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
+    "Date": "2/5/2024",
+    "Size": 260371434,
+    "URI": "https://github.com/microsoft/winget-cli/releases/download/v1.7.11261/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
   }
 ]
