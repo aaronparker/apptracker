@@ -1,21 +1,21 @@
 [
   {
-    "Version": "21.2.0.17387",
+    "Version": "21.3.0.17918",
     "Release": "21",
     "Type": "exe",
     "URI": "https://download.endnote.com/downloads/21/EN21Inst.exe"
   },
   {
-    "Version": "21.2.0.17387",
+    "Version": "21.3.0.17918",
     "Release": "21",
     "Type": "msi",
     "URI": "https://download.endnote.com/downloads/21/EN21Inst.msi"
   },
   {
-    "Version": "21.2.0.17387",
+    "Version": "21.3.0.17918",
     "Release": "21",
     "Type": "msp",
-    "URI": "http://download.endnote.com/updates/21.0/EN212Update.msp"
+    "URI": "http://download.endnote.com/updates/21.0/EN213Update.msp"
   },
   {
     "Version": "20.6.0.17174",

@@ -1,14 +1,5 @@
 [
   {
-    "Version": "24.3.0.93",
-    "Title": "Citrix Workspace - Current Release",
-    "Size": "382956344",
-    "Hash": "5c369d1c127b14a8530b7441a6d3ec49c681fe672e8447c63ecf453cf8b87237",
-    "Date": "25/4/2024",
-    "Stream": "Current",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.3.0.93.exe"
-  },
-  {
     "Version": "24.2.0.172",
     "Title": "Citrix Workspace - LTSR",
     "Size": "380803896",
@@ -16,5 +7,14 @@
     "Date": "10/4/2024",
     "Stream": "LTSR",
     "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.2.0.172.exe"
+  },
+  {
+    "Version": "0.0.0.0",
+    "Title": "Citrix Workspace - Current Release",
+    "Size": "382956344",
+    "Hash": "5c369d1c127b14a8530b7441a6d3ec49c681fe672e8447c63ecf453cf8b87237",
+    "Date": "25/4/2024",
+    "Stream": "Current",
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.3.0.93.exe"
   }
 ]
