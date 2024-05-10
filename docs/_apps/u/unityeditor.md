@@ -3,7 +3,7 @@ title: Unity Editor
 layout: default
 nav_order: 2
 parent: U
-last_modified_date: May 9 2024 at 12:22 PM
+last_modified_date: May 10 2024 at 12:37 AM
 ---
 
 ## Unity Editor
@@ -20,7 +20,7 @@ Last check: 🟢
 | 2023.1.13f1 | 2023    | beta     | False | 2604393472 | cbfd25e0f43d52e95639b5e8cc8fb7f3 | exe  | [https://beta.unity3d.com/download/ffeab063bb93/Windows64EditorInstaller/UnitySetup64-2023.1.13f1.exe](https://beta.unity3d.com/download/ffeab063bb93/Windows64EditorInstaller/UnitySetup64-2023.1.13f1.exe)                     |
 | 2023.2.20f1 | 2023    | beta     | False | 3341079552 | 7d74fd91acb564e4867b2b72c06ef90f | exe  | [https://beta.unity3d.com/download/0e25a174756c/Windows64EditorInstaller/UnitySetup64-2023.2.20f1.exe](https://beta.unity3d.com/download/0e25a174756c/Windows64EditorInstaller/UnitySetup64-2023.2.20f1.exe)                     |
 | 2023.3.0b10 | 2023    | beta     | False | 3481684992 | 56decd86b800b3e57f6e9cba8b0da04e | exe  | [https://beta.unity3d.com/download/52ddac442a2c/Windows64EditorInstaller/UnitySetup64-2023.3.0b10.exe](https://beta.unity3d.com/download/52ddac442a2c/Windows64EditorInstaller/UnitySetup64-2023.3.0b10.exe)                     |
-| 6000.0.0f1  | 6000    | beta     | False | 3748398080 | 2b95b47699cadf1a2f06a0a769c1a7d6 | exe  | [https://beta.unity3d.com/download/4ff56b3ea44c/Windows64EditorInstaller/UnitySetup64-6000.0.0f1.exe](https://beta.unity3d.com/download/4ff56b3ea44c/Windows64EditorInstaller/UnitySetup64-6000.0.0f1.exe)                       |
+| 6000.0.1f1  | 6000    | beta     | False | 3751030784 | b7c0cc03e57dd66a491c14744108501c | exe  | [https://beta.unity3d.com/download/d9cf669c6271/Windows64EditorInstaller/UnitySetup64-6000.0.1f1.exe](https://beta.unity3d.com/download/d9cf669c6271/Windows64EditorInstaller/UnitySetup64-6000.0.1f1.exe)                       |
 | 2019.4.40f1 | 2019    | official | True  | 1889119232 | abbcc367795fd013af4e33c2ed00e5e2 | exe  | [https://download.unity3d.com/download_unity/ffc62b691db5/Windows64EditorInstaller/UnitySetup64-2019.4.40f1.exe](https://download.unity3d.com/download_unity/ffc62b691db5/Windows64EditorInstaller/UnitySetup64-2019.4.40f1.exe) |
 | 2020.3.48f1 | 2020    | official | True  | 2812612608 | c7c7b0dcd1ac0223226b382413034297 | exe  | [https://download.unity3d.com/download_unity/b805b124c6b7/Windows64EditorInstaller/UnitySetup64-2020.3.48f1.exe](https://download.unity3d.com/download_unity/b805b124c6b7/Windows64EditorInstaller/UnitySetup64-2020.3.48f1.exe) |
 | 2021.3.38f1 | 2021    | official | True  | 3138833408 | 5dad1bdae5a1cccfc4c09b0903fe4228 | exe  | [https://download.unity3d.com/download_unity/7a2fa5d8d101/Windows64EditorInstaller/UnitySetup64-2021.3.38f1.exe](https://download.unity3d.com/download_unity/7a2fa5d8d101/Windows64EditorInstaller/UnitySetup64-2021.3.38f1.exe) |
@@ -28,4 +28,4 @@ Last check: 🟢
 | 2022.3.28f1 | 2022    | official | False | 3331482624 | e728546970a5d1366611c7a143e75cef | exe  | [https://download.unity3d.com/download_unity/6bae5ce6b222/Windows64EditorInstaller/UnitySetup64-2022.3.28f1.exe](https://download.unity3d.com/download_unity/6bae5ce6b222/Windows64EditorInstaller/UnitySetup64-2022.3.28f1.exe) |
 | 2023.1.13f1 | 2023    | official | False | 2604393472 | cbfd25e0f43d52e95639b5e8cc8fb7f3 | exe  | [https://download.unity3d.com/download_unity/ffeab063bb93/Windows64EditorInstaller/UnitySetup64-2023.1.13f1.exe](https://download.unity3d.com/download_unity/ffeab063bb93/Windows64EditorInstaller/UnitySetup64-2023.1.13f1.exe) |
 | 2023.2.20f1 | 2023    | official | False | 3341079552 | 7d74fd91acb564e4867b2b72c06ef90f | exe  | [https://download.unity3d.com/download_unity/0e25a174756c/Windows64EditorInstaller/UnitySetup64-2023.2.20f1.exe](https://download.unity3d.com/download_unity/0e25a174756c/Windows64EditorInstaller/UnitySetup64-2023.2.20f1.exe) |
-| 6000.0.0f1  | 6000    | official | False | 3748398080 | 2b95b47699cadf1a2f06a0a769c1a7d6 | exe  | [https://download.unity3d.com/download_unity/4ff56b3ea44c/Windows64EditorInstaller/UnitySetup64-6000.0.0f1.exe](https://download.unity3d.com/download_unity/4ff56b3ea44c/Windows64EditorInstaller/UnitySetup64-6000.0.0f1.exe)   |
+| 6000.0.1f1  | 6000    | official | False | 3751030784 | b7c0cc03e57dd66a491c14744108501c | exe  | [https://download.unity3d.com/download_unity/d9cf669c6271/Windows64EditorInstaller/UnitySetup64-6000.0.1f1.exe](https://download.unity3d.com/download_unity/d9cf669c6271/Windows64EditorInstaller/UnitySetup64-6000.0.1f1.exe)   |

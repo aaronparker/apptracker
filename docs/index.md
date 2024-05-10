@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 09/05/2024 12:27 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 10/05/2024 00:41 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -19,7 +19,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password                                                         | [Link](https://1password.com/)                                                                           | `17/4/2024` | 🟢     |
 | 1Password 7                                                       | [Link](https://1password.com/)                                                                           | `12/4/2024` | 🟢     |
 | 1Password CLI                                                     | [Link](https://developer.1password.com/docs/cli/)                                                        | `1/5/2024`  | 🟢     |
-| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                           | `9/5/2024`  | 🟢     |
+| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                           | `10/5/2024` | 🟢     |
 | 7-Zip ZS                                                          | [Link](https://mcmilk.de/projects/7-Zip-zstd/)                                                           | `5/5/2024`  | 🟢     |
 | Adobe Acrobat updates                                             | [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)                               | `6/5/2024`  | 🟢     |
 | Adobe Acrobat DC updates                                          | [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)                     | `15/4/2024` | 🟢     |
@@ -46,7 +46,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Audacity                                                          | [Link](https://www.audacityteam.org/)                                                                    | `5/5/2024`  | 🟢     |
 | Windows Auto Dark Mode                                            | [Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)                                          | `5/5/2024`  | 🟢     |
 | Autodesk Fusion 360                                               | [Link](https://www.autodesk.com/products/fusion-360/overview)                                            | `18/4/2024` | 🟢     |
-| AWS CLI                                                           | [Link](https://github.com/aws/aws-cli/)                                                                  | `9/5/2024`  | 🟢     |
+| AWS CLI                                                           | [Link](https://github.com/aws/aws-cli/)                                                                  | `10/5/2024` | 🟢     |
 | AWS SAM CLI                                                       | [Link](https://github.com/aws/aws-sam-cli/)                                                              | `5/5/2024`  | 🟢     |
 | Azul Zulu 11                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                             | `4/5/2024`  | 🟢     |
 | Azul Zulu 17                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                             | `8/5/2024`  | 🟢     |
@@ -103,16 +103,16 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GeoGebra Classic                                                  | [Link](https://www.geogebra.org)                                                                         | `30/4/2024` | 🟢     |
 | Gephi                                                             | [Link](https://gephi.org/)                                                                               | `5/5/2024`  | 🟢     |
 | Ghisler TotalCommander                                            | [Link](https://www.ghisler.com/)                                                                         | `12/4/2024` | 🟢     |
-| GIMP                                                              | [Link](https://www.gimp.org/)                                                                            | `9/5/2024`  | 🟢     |
+| GIMP                                                              | [Link](https://www.gimp.org/)                                                                            | `10/5/2024` | 🟢     |
 | Git Extensions                                                    | [Link](https://github.com/gitextensions/gitextensions)                                                   | `5/5/2024`  | 🟢     |
 | Git for Windows                                                   | [Link](https://gitforwindows.org/)                                                                       | `5/5/2024`  | 🟢     |
 | GitHub Atom                                                       | [Link](https://atom.io/)                                                                                 | `5/5/2024`  | 🟢     |
 | GitHub Desktop                                                    | [Link](https://desktop.github.com/)                                                                      | `9/5/2024`  | 🟢     |
 | GitHub release                                                    | [Link](https://github.com/)                                                                              | `5/5/2024`  | 🟢     |
-| Google Chrome Enterprise                                          | [Link](https://cloud.google.com/chrome-enterprise/browser/download/)                                     | `9/5/2024`  | 🟢     |
-| Google Chrome Driver                                              | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `9/5/2024`  | 🟢     |
-| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `9/5/2024`  | 🟢     |
-| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `9/5/2024`  | 🟢     |
+| Google Chrome Enterprise                                          | [Link](https://cloud.google.com/chrome-enterprise/browser/download/)                                     | `10/5/2024` | 🟢     |
+| Google Chrome Driver                                              | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `10/5/2024` | 🟢     |
+| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `10/5/2024` | 🟢     |
+| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `10/5/2024` | 🟢     |
 | Google Drive                                                      | [Link](https://support.google.com/drive/answer/7329379)                                                  | `12/4/2024` | 🟢     |
 | GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)       | `12/4/2024` | 🟢     |
 | GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                    | `12/4/2024` | 🟢     |
@@ -120,7 +120,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                         | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                  | `5/5/2024`  | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                        | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                    | `9/5/2024`  | 🟢     |
+| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                    | `10/5/2024` | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                 | `5/5/2024`  | 🟢     |
 | Handbrake                                                         | [Link](https://handbrake.fr/)                                                                            | `5/5/2024`  | 🟢     |
 | Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                  | `1/5/2024`  | 🟢     |
@@ -156,8 +156,8 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | jq                                                                | [Link](https://jqlang.github.io/jq/)                                                                     | `5/5/2024`  | 🟢     |
 | jrsoftware InnoSetup                                              | [Link](https://www.innosetup.com)                                                                        | `12/4/2024` | 🟢     |
 | Karakun OpenWebStart                                              | [Link](https://openwebstart.com/ows/)                                                                    | `5/5/2024`  | 🟢     |
-| KDiff3                                                            | [Link](https://kdiff3.sourceforge.net/)                                                                  | `9/5/2024`  | 🟢     |
-| KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                            | `9/5/2024`  | 🟢     |
+| KDiff3                                                            | [Link](https://kdiff3.sourceforge.net/)                                                                  | `10/5/2024` | 🟢     |
+| KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                            | `10/5/2024` | 🟢     |
 | KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                           | `6/5/2024`  | 🟢     |
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                 | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                           | `18/4/2024` | 🟢     |
@@ -197,7 +197,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                           | `8/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                    | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                              | `12/4/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `9/5/2024`  | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `10/5/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                        | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `12/4/2024` | 🟢     |
@@ -219,7 +219,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Ben Olden-Cooligan NAPS2                                          | [Link](https://www.naps2.com/)                                                                           | `5/5/2024`  | 🟢     |
 | NETworkManager                                                    | [Link](https://github.com/BornToBeRoot/NETworkManager)                                                   | `5/5/2024`  | 🟢     |
 | Nevcairiel LAV Filters                                            | [Link](https://github.com/Nevcairiel/LAVFilters)                                                         | `5/5/2024`  | 🟢     |
-| Node.js                                                           | [Link](https://nodejs.org/)                                                                              | `8/5/2024`  | 🟢     |
+| Node.js                                                           | [Link](https://nodejs.org/)                                                                              | `10/5/2024` | 🟢     |
 | nomacs Image Lounge                                               | [Link](https://nomacs.org/)                                                                              | `5/5/2024`  | 🟢     |
 | Notable                                                           | [Link](https://notable.app/)                                                                             | `5/5/2024`  | 🟢     |
 | Notepad++                                                         | [Link](https://notepad-plus-plus.org/)                                                                   | `5/5/2024`  | 🟢     |
@@ -261,7 +261,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Progress Chef Infra Client                                        | [Link](https://www.chef.io/products/chef-infra)                                                          | `2/5/2024`  | 🟢     |
 | Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                         | `25/4/2024` | 🟢     |
 | Progress Chef Workstation                                         | [Link](https://www.chef.io/products/chef-workstation)                                                    | `1/5/2024`  | 🟢     |
-| ProjectLibre                                                      | [Link](https://www.projectlibre.com/)                                                                    | `9/5/2024`  | 🟢     |
+| ProjectLibre                                                      | [Link](https://www.projectlibre.com/)                                                                    | `10/5/2024` | 🟢     |
 | Protege                                                           | [Link](https://protege.stanford.edu/)                                                                    | `5/5/2024`  | 🟢     |
 | Proton Drive                                                      | [Link](https://proton.me/drive/)                                                                         | `12/4/2024` | 🔴     |
 | Proton VPN                                                        | [Link](https://protonvpn.com/)                                                                           | `5/5/2024`  | 🟢     |
@@ -285,12 +285,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                      | `5/5/2024`  | 🟢     |
 | ShareX                                                            | [Link](https://getsharex.com/)                                                                           | `5/5/2024`  | 🟢     |
 | Signal for Windows                                                | [Link](https://www.signal.org/)                                                                          | `8/5/2024`  | 🟢     |
-| Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)        | `24/4/2024` | 🟢     |
+| Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)        | `10/5/2024` | 🟢     |
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                          | `12/4/2024` | 🟢     |
 | Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                 | `5/5/2024`  | 🟢     |
 | stealthpuppy Windows Customised Defaults                          | [Link](https://stealthpuppy.com/image-customise/)                                                        | `5/5/2024`  | 🟢     |
 | Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                       | `5/5/2024`  | 🟢     |
-| Sumatra PDF Reader                                                | [Link](https://www.sumatrapdfreader.org/)                                                                | `9/5/2024`  | 🟢     |
+| Sumatra PDF Reader                                                | [Link](https://www.sumatrapdfreader.org/)                                                                | `10/5/2024` | 🟢     |
 | SUSE Rancher Desktop                                              | [Link](https://rancherdesktop.io/)                                                                       | `5/5/2024`  | 🟢     |
 | Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                         | `5/5/2024`  | 🟢     |
 | Tableau Prep                                                      | [Link](https://www.tableau.com/)                                                                         | `5/5/2024`  | 🟢     |
@@ -310,12 +310,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Tower                                                             | [Link](https://www.git-tower.com/windows/)                                                               | `8/5/2024`  | 🟢     |
 | TGPi Colour Contrast Analyser                                     | [Link](https://www.tpgi.com/color-contrast-checker/)                                                     | `6/5/2024`  | 🟢     |
 | Tracker Software PDF X-Change Editor                              | [Link](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)                                              | `30/4/2024` | 🟢     |
-| Unity Editor                                                      | [Link](https://unity.com/download)                                                                       | `9/5/2024`  | 🟢     |
+| Unity Editor                                                      | [Link](https://unity.com/download)                                                                       | `10/5/2024` | 🟢     |
 | USBPcap                                                           | [Link](https://github.com/desowin/usbpcap/)                                                              | `5/5/2024`  | 🟢     |
 | vast limits uberAgent                                             | [Link](https://uberagent.com/)                                                                           | `30/4/2024` | 🟢     |
-| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                            | `9/5/2024`  | 🟢     |
+| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                            | `10/5/2024` | 🟢     |
 | Vercel Hyper                                                      | [Link](https://hyper.js/)                                                                                | `5/5/2024`  | 🟢     |
-| VideoLan VLC Player                                               | [Link](https://www.videolan.org/vlc/)                                                                    | `9/5/2024`  | 🟢     |
+| VideoLan VLC Player                                               | [Link](https://www.videolan.org/vlc/)                                                                    | `10/5/2024` | 🟢     |
 | VisualCppRedistAIO                                                | [Link](https://github.com/abbodi1406/vcredist)                                                           | `5/5/2024`  | 🟢     |
 | VMPlex Workstation                                                | [Link](https://github.com/0xf005ba11/vmplex-ws)                                                          | `5/5/2024`  | 🟢     |
 | VMware Horizon Client                                             | [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)                                      | `12/4/2024` | 🔴     |
@@ -326,10 +326,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VMware Workstation Player                                         | [Link](https://www.vmware.com/products/workstation-player.html)                                          | `12/4/2024` | 🔴     |
 | VMware Workstation Pro                                            | [Link](https://www.vmware.com/products/workstation-pro.html)                                             | `12/4/2024` | 🔴     |
 | voidtools Everything                                              | [Link](https://www.voidtools.com/)                                                                       | `12/4/2024` | 🟢     |
-| VSCodium                                                          | [Link](https://vscodium.com)                                                                             | `7/5/2024`  | 🟢     |
+| VSCodium                                                          | [Link](https://vscodium.com)                                                                             | `10/5/2024` | 🟢     |
 | Win32-OpenSSH                                                     | [Link](https://github.com/PowerShell/Win32-OpenSSH/)                                                     | `5/5/2024`  | 🟢     |
 | WinMerge                                                          | [Link](https://winmerge.org/)                                                                            | `5/5/2024`  | 🟢     |
-| WinSCP                                                            | [Link](https://winscp.net/)                                                                              | `9/5/2024`  | 🟢     |
+| WinSCP                                                            | [Link](https://winscp.net/)                                                                              | `10/5/2024` | 🟢     |
 | Wireshark                                                         | [Link](https://www.wireshark.org/#download)                                                              | `12/4/2024` | 🟢     |
 | WiX Toolset                                                       | [Link](https://wixtoolset.org/)                                                                          | `5/5/2024`  | 🟢     |
 | XnSoft Convert                                                    | [Link](https://www.xnview.com/en/xnconvert/)                                                             | `12/4/2024` | 🟢     |
