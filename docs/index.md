@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Friday 10/05/2024 00:41 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 10/05/2024 12:22 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -162,7 +162,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                 | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                           | `18/4/2024` | 🟢     |
 | LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                        | `12/4/2024` | 🟢     |
-| LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                     | `19/4/2024` | 🟢     |
+| LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                     | `19/4/2024` | 🔴     |
 | Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                  | `9/5/2024`  | 🟢     |
 | Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                            | `12/4/2024` | 🟢     |
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                               | `5/5/2024`  | 🟢     |
@@ -207,7 +207,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Remote Desktop WebRTC Redirector Service                | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)                              | `12/4/2024` | 🟢     |
 | Miniconda                                                         | [Link](https://docs.conda.io/en/latest/miniconda.html)                                                   | `12/4/2024` | 🟢     |
 | Minitab                                                           | [Link](https://www.minitab.com/)                                                                         | `12/4/2024` | 🟢     |
-| MiniZinc IDE                                                      | [Link](https://www.minizinc.org/)                                                                        | `5/5/2024`  | 🟢     |
+| MiniZinc IDE                                                      | [Link](https://www.minizinc.org/)                                                                        | `10/5/2024` | 🟢     |
 | MirantisLens                                                      | [Link](https://k8slens.dev/)                                                                             | `7/5/2024`  | 🟢     |
 | Mozilla Firefox                                                   | [Link](https://www.mozilla.org/en-US/firefox/new/)                                                       | `5/5/2024`  | 🟢     |
 | Mozilla Gecko Driver                                              | [Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)                                           | `5/5/2024`  | 🟢     |
@@ -227,7 +227,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Obsidian                                                          | [Link](https://obsidian.md/)                                                                             | `5/5/2024`  | 🟢     |
 | OBS Studio                                                        | [Link](https://obsproject.com/)                                                                          | `12/4/2024` | 🟢     |
 | OCS Inventory Windows Agent                                       | [Link](https://ocsinventory-ng.org/)                                                                     | `5/5/2024`  | 🟢     |
-| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                             | `6/5/2024`  | 🟢     |
+| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                             | `10/5/2024` | 🟢     |
 | Octopus Tentacle                                                  | [Link](https://octopus.com/)                                                                             | `12/4/2024` | 🟢     |
 | ONLYOFFICE Desktop Editors                                        | [Link](https://www.onlyoffice.com/desktop.aspx)                                                          | `5/5/2024`  | 🟢     |
 | OpenJDK                                                           | [Link](https://openjdk.java.net/)                                                                        | `5/5/2024`  | 🟢     |
@@ -279,7 +279,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                   | `3/5/2024`  | 🟢     |
 | Safe Exam Browser                                                 | [Link](https://safeexambrowser.org/)                                                                     | `5/5/2024`  | 🟢     |
 | Safing Portmaster                                                 | [Link](https://safing.io/)                                                                               | `12/4/2024` | 🟢     |
-| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                         | `9/5/2024`  | 🟢     |
+| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                         | `10/5/2024` | 🟢     |
 | Scooter Beyond Compare                                            | [Link](https://scootersoftware.com/)                                                                     | `12/4/2024` | 🟢     |
 | Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                         | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                      | `5/5/2024`  | 🟢     |
@@ -300,7 +300,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                       | `30/4/2024` | 🟢     |
 | Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                    | `5/5/2024`  | 🟢     |
 | Telerik Fiddler Classic                                           | [Link](https://www.telerik.com/fiddler/fiddler-classic)                                                  | `12/4/2024` | 🟢     |
-| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                  | `18/4/2024` | 🟢     |
+| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                  | `10/5/2024` | 🟢     |
 | TeraTerm                                                          | [Link](https://teratermproject.github.io/index-en.html)                                                  | `5/5/2024`  | 🟢     |
 | Terminals                                                         | [Link](https://github.com/terminals-Origin/Terminals/)                                                   | `5/5/2024`  | 🟢     |
 | TeXstudio                                                         | [Link](https://www.texstudio.org/)                                                                       | `5/5/2024`  | 🟢     |
