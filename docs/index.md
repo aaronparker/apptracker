@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 11/05/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 11/05/2024 12:19 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -116,11 +116,11 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Google Drive                                                      | [Link](https://support.google.com/drive/answer/7329379)                                                  | `12/4/2024` | 🟢     |
 | GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)       | `12/4/2024` | 🟢     |
 | GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                    | `12/4/2024` | 🟢     |
-| GoTo Opener                                                       | [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)                 | `12/4/2024` | 🟢     |
+| GoTo Opener                                                       | [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)                 | `11/5/2024` | 🟢     |
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                         | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                  | `5/5/2024`  | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                        | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                    | `10/5/2024` | 🟢     |
+| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                    | `11/5/2024` | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                 | `5/5/2024`  | 🟢     |
 | Handbrake                                                         | [Link](https://handbrake.fr/)                                                                            | `5/5/2024`  | 🟢     |
 | Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                  | `1/5/2024`  | 🟢     |
@@ -182,9 +182,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Edge                                                    | [Link](https://www.microsoft.com/edge)                                                                   | `11/5/2024` | 🟢     |
 | Microsoft Edge WebDriver                                          | [Link](https://www.microsoft.com/edge)                                                                   | `11/5/2024` | 🟢     |
 | Microsoft Edge WebView2 Runtime                                   | [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)                                   | `11/5/2024` | 🟢     |
-| Microsoft FSLogix Apps                                            | [Link](https://docs.microsoft.com/fslogix/)                                                              | `5/5/2024`  | 🟢     |
-| Microsoft ODBC Driver for SQL Server                              | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)           | `12/4/2024` | 🟢     |
-| Microsoft OLE DB Driver for SQL Server                            | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)         | `12/4/2024` | 🟢     |
+| Microsoft FSLogix Apps                                            | [Link](https://docs.microsoft.com/fslogix/)                                                              | `11/5/2024` | 🟢     |
+| Microsoft ODBC Driver for SQL Server                              | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)           | `11/5/2024` | 🟢     |
+| Microsoft OLE DB Driver for SQL Server                            | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)         | `11/5/2024` | 🟢     |
 | Microsoft OneDrive                                                | [Link](https://onedrive.live.com/)                                                                       | `11/5/2024` | 🟢     |
 | Microsoft OpenJDK 11                                              | [Link](https://www.microsoft.com/openjdk)                                                                | `12/4/2024` | 🟢     |
 | Microsoft OpenJDK 17                                              | [Link](https://www.microsoft.com/openjdk)                                                                | `12/4/2024` | 🟢     |
@@ -202,8 +202,8 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `12/4/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent                             | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `25/4/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                    | `12/4/2024` | 🟢     |
-| Microsoft Remote Desktop                                          | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)                      | `5/5/2024`  | 🟢     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                    | `12/4/2024` | 🔴     |
+| Microsoft Remote Desktop                                          | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)                      | `11/5/2024` | 🟢     |
 | Microsoft Remote Desktop WebRTC Redirector Service                | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)                              | `12/4/2024` | 🟢     |
 | Miniconda                                                         | [Link](https://docs.conda.io/en/latest/miniconda.html)                                                   | `12/4/2024` | 🟢     |
 | Minitab                                                           | [Link](https://www.minitab.com/)                                                                         | `12/4/2024` | 🟢     |
@@ -249,7 +249,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Parallels Client                                                  | [Link](https://www.parallels.com/products/ras/download/links/)                                           | `12/4/2024` | 🟢     |
 | PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                      | `8/7/2023`  | 🔴     |
 | pdfforge PDFCreator                                               | [Link](https://www.pdfforge.org/pdfcreator)                                                              | `5/5/2024`  | 🟢     |
-| PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                        | `5/5/2024`  | 🟢     |
+| PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                        | `11/5/2024` | 🟢     |
 | Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                | `17/4/2024` | 🟢     |
 | Plex Media Desktop                                                | [Link](https://www.plex.tv/media-server-downloads/)                                                      | `8/5/2024`  | 🟢     |
 | Plex HTPC                                                         | [Link](https://www.plex.tv/media-server-downloads/)                                                      | `18/4/2024` | 🟢     |
