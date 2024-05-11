@@ -23,3 +23,8 @@ json/VMwareOSOptimizationTool.err
 json/VMwareSDWANClient.err
 json/VMwareWorkstationPlayer.err
 json/VMwareWorkstationPro.err
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/PeaZipPeaZip.json
