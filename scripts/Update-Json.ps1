@@ -62,7 +62,7 @@ if (Test-PSCore) {
         ForEach-Object { Remove-Item -Path $([System.IO.Path]::Combine($Path, "$($_).json")) -ErrorAction "SilentlyContinue" }
 
     # Walk-through each Evergreen app and export data to JSON files
-    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $WindowsApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
+    foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $WindowsApps } | Select-Object -ExpandProperty "Name" | Sort-Object)) {
         try {
             $params = @{
                 Name          = $App
