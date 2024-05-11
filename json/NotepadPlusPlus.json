@@ -1,122 +1,122 @@
 [
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "7z",
     "InstallerType": "Portable",
-    "Date": "30/3/2024",
-    "Size": 3613380,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.arm64.7z"
+    "Date": "9/5/2024",
+    "Size": 3631382,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.arm64.7z"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "7z",
     "InstallerType": "Minimal",
-    "Date": "30/3/2024",
-    "Size": 1909365,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.minimalist.arm64.7z"
+    "Date": "9/5/2024",
+    "Size": 1919325,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.minimalist.arm64.7z"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "7z",
     "InstallerType": "Minimal",
-    "Date": "30/3/2024",
-    "Size": 2146293,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.minimalist.x64.7z"
+    "Date": "9/5/2024",
+    "Size": 2147763,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.minimalist.x64.7z"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "7z",
     "InstallerType": "Portable",
-    "Date": "30/3/2024",
-    "Size": 3957510,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.x64.7z"
+    "Date": "9/5/2024",
+    "Size": 3966658,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.x64.7z"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "7z",
     "InstallerType": "Portable",
-    "Date": "30/3/2024",
-    "Size": 3685947,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.7z"
+    "Date": "9/5/2024",
+    "Size": 3701986,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.7z"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "7z",
     "InstallerType": "Minimal",
-    "Date": "30/3/2024",
-    "Size": 1916643,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.minimalist.7z"
+    "Date": "9/5/2024",
+    "Size": 1924997,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.minimalist.7z"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "30/3/2024",
-    "Size": 4491072,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.Installer.arm64.exe"
+    "Date": "9/5/2024",
+    "Size": 4504688,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.Installer.arm64.exe"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "30/3/2024",
-    "Size": 4840624,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.Installer.x64.exe"
+    "Date": "9/5/2024",
+    "Size": 4850760,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.Installer.x64.exe"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "30/3/2024",
-    "Size": 4682400,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.Installer.exe"
+    "Date": "9/5/2024",
+    "Size": 4695112,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.Installer.exe"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "zip",
     "InstallerType": "Portable",
-    "Date": "30/3/2024",
-    "Size": 5749897,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.arm64.zip"
+    "Date": "9/5/2024",
+    "Size": 5780834,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.arm64.zip"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Portable",
-    "Date": "30/3/2024",
-    "Size": 5975368,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.x64.zip"
+    "Date": "9/5/2024",
+    "Size": 5997392,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.x64.zip"
   },
   {
-    "Version": "8.6.5",
+    "Version": "8.6.6",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Portable",
-    "Date": "30/3/2024",
-    "Size": 5480122,
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.portable.zip"
+    "Date": "9/5/2024",
+    "Size": 5508577,
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.6/npp.8.6.6.portable.zip"
   }
 ]

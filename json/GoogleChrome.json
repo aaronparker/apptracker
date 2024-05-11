@@ -1,6 +1,6 @@
 [
   {
-    "Version": "126.0.6470.0",
+    "Version": "126.0.6471.0",
     "StartDate": "10/5/2024",
     "Architecture": "x86",
     "Channel": "Canary",
@@ -65,7 +65,7 @@
   },
   {
     "Version": "124.0.6367.201",
-    "StartDate": "9/5/2024",
+    "StartDate": "10/5/2024",
     "Architecture": "x64",
     "Channel": "Extended",
     "Type": "msi",
@@ -73,7 +73,7 @@
   },
   {
     "Version": "124.0.6367.201",
-    "StartDate": "9/5/2024",
+    "StartDate": "10/5/2024",
     "Architecture": "x86",
     "Channel": "Extended",
     "Type": "msi",
