@@ -3,7 +3,7 @@ title: GIMP
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: May 11 2024 at 12:15 PM
+last_modified_date: May 12 2024 at 12:40 AM
 ---
 
 ## GIMP
@@ -14,6 +14,6 @@ Evergreen app: `Gimp`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Sha256                                                           | URI                                                                                                                                            |
-| ------- | -------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.10.38 | 3/5/2024 | e3515980c9012eed67cf78f1151d216725529e95676c16f5ff7478d46230ddab | [https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.38-setup.exe](https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.38-setup.exe) |
+| Version | Date     | Sha256                                                           | URI                                                                                                                                                        |
+| ------- | -------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.10.38 | 3/5/2024 | e3515980c9012eed67cf78f1151d216725529e95676c16f5ff7478d46230ddab | [https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.38-setup.exe](https://opencolo.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.38-setup.exe) |
