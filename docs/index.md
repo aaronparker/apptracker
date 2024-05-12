@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 12/05/2024 00:44 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 12/05/2024 12:22 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -95,9 +95,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Dan Pristupov Fork                                                | [Link](https://www.fork.dev)                                                                             | `4/5/2024`  | 🟢     |
 | Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                | `5/5/2024`  | 🟢     |
 | Foxit Reader                                                      | [Link](https://www.foxitsoftware.com/pdf-reader/)                                                        | `5/5/2024`  | 🟢     |
-| Freedom Scientific Fusion                                         | [Link](https://www.freedomscientific.com/products/software/fusion/)                                      | `5/5/2024`  | 🟢     |
-| Freedom Scientific JAWS                                           | [Link](https://www.freedomscientific.com/products/software/jaws/)                                        | `5/5/2024`  | 🟢     |
-| Freedom Scientific ZoomText                                       | [Link](https://www.freedomscientific.com/products/software/zoomtext/)                                    | `5/5/2024`  | 🟢     |
+| Freedom Scientific Fusion                                         | [Link](https://www.freedomscientific.com/products/software/fusion/)                                      | `5/5/2024`  | 🔴     |
+| Freedom Scientific JAWS                                           | [Link](https://www.freedomscientific.com/products/software/jaws/)                                        | `5/5/2024`  | 🔴     |
+| Freedom Scientific ZoomText                                       | [Link](https://www.freedomscientific.com/products/software/zoomtext/)                                    | `5/5/2024`  | 🔴     |
 | FreeFem                                                           | [Link](https://freefem.org/)                                                                             | `5/5/2024`  | 🟢     |
 | Geek Software PDF24 Creator                                       | [Link](https://tools.pdf24.org/en/creator/)                                                              | `12/4/2024` | 🟢     |
 | GeoGebra Classic                                                  | [Link](https://www.geogebra.org)                                                                         | `30/4/2024` | 🟢     |
@@ -283,7 +283,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Scooter Beyond Compare                                            | [Link](https://scootersoftware.com/)                                                                     | `12/4/2024` | 🟢     |
 | Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                         | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                      | `5/5/2024`  | 🟢     |
-| ShareX                                                            | [Link](https://getsharex.com/)                                                                           | `5/5/2024`  | 🟢     |
+| ShareX                                                            | [Link](https://getsharex.com/)                                                                           | `12/5/2024` | 🟢     |
 | Signal for Windows                                                | [Link](https://www.signal.org/)                                                                          | `8/5/2024`  | 🟢     |
 | Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)        | `10/5/2024` | 🟢     |
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                          | `12/4/2024` | 🟢     |
