@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Monday 13/05/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 13/05/2024 12:21 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -19,7 +19,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password                                                         | [Link](https://1password.com/)                                                                           | `17/4/2024` | 🟢     |
 | 1Password 7                                                       | [Link](https://1password.com/)                                                                           | `12/4/2024` | 🟢     |
 | 1Password CLI                                                     | [Link](https://developer.1password.com/docs/cli/)                                                        | `1/5/2024`  | 🟢     |
-| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                           | `12/5/2024` | 🟢     |
+| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                           | `13/5/2024` | 🟢     |
 | 7-Zip ZS                                                          | [Link](https://mcmilk.de/projects/7-Zip-zstd/)                                                           | `5/5/2024`  | 🟢     |
 | Adobe Acrobat updates                                             | [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)                               | `6/5/2024`  | 🟢     |
 | Adobe Acrobat DC updates                                          | [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)                     | `15/4/2024` | 🟢     |
@@ -222,7 +222,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Node.js                                                           | [Link](https://nodejs.org/)                                                                              | `10/5/2024` | 🟢     |
 | nomacs Image Lounge                                               | [Link](https://nomacs.org/)                                                                              | `5/5/2024`  | 🟢     |
 | Notable                                                           | [Link](https://notable.app/)                                                                             | `5/5/2024`  | 🟢     |
-| Notepad++                                                         | [Link](https://notepad-plus-plus.org/)                                                                   | `11/5/2024` | 🟢     |
+| Notepad++                                                         | [Link](https://notepad-plus-plus.org/)                                                                   | `13/5/2024` | 🟢     |
 | Npcap                                                             | [Link](https://npcap.com/)                                                                               | `12/4/2024` | 🟢     |
 | Obsidian                                                          | [Link](https://obsidian.md/)                                                                             | `5/5/2024`  | 🟢     |
 | OBS Studio                                                        | [Link](https://obsproject.com/)                                                                          | `12/4/2024` | 🟢     |
@@ -274,7 +274,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Red Hat OpenJDK 17                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                          | `20/4/2024` | 🟢     |
 | Red Hat OpenJDK 8                                                 | [Link](https://developers.redhat.com/products/openjdk/overview)                                          | `20/4/2024` | 🟢     |
 | Responsively App                                                  | [Link](https://responsively.app/)                                                                        | `5/5/2024`  | 🟢     |
-| RingCentral                                                       | [Link](https://www.ringcentral.com)                                                                      | `12/4/2024` | 🟢     |
+| RingCentral                                                       | [Link](https://www.ringcentral.com)                                                                      | `13/5/2024` | 🟢     |
 | Rizonesoft Notepad3                                               | [Link](https://www.rizonesoft.com/downloads/notepad3)                                                    | `5/5/2024`  | 🟢     |
 | RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                   | `3/5/2024`  | 🟢     |
 | Safe Exam Browser                                                 | [Link](https://safeexambrowser.org/)                                                                     | `5/5/2024`  | 🟢     |
@@ -299,7 +299,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | TechSmith Camtasia                                                | [Link](https://www.techsmith.com/)                                                                       | `19/4/2024` | 🟢     |
 | TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                       | `30/4/2024` | 🟢     |
 | Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                    | `5/5/2024`  | 🟢     |
-| Telerik Fiddler Classic                                           | [Link](https://www.telerik.com/fiddler/fiddler-classic)                                                  | `12/4/2024` | 🟢     |
+| Telerik Fiddler Classic                                           | [Link](https://www.telerik.com/fiddler/fiddler-classic)                                                  | `12/4/2024` | 🔴     |
 | Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                  | `10/5/2024` | 🟢     |
 | TeraTerm                                                          | [Link](https://teratermproject.github.io/index-en.html)                                                  | `5/5/2024`  | 🟢     |
 | Terminals                                                         | [Link](https://github.com/terminals-Origin/Terminals/)                                                   | `5/5/2024`  | 🟢     |
@@ -336,6 +336,6 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | XnSoft XnView MP                                                  | [Link](https://www.xnview.com/en/xnviewmp/)                                                              | `12/4/2024` | 🟢     |
 | Yubico Authenticator                                              | [Link](https://github.com/Yubico/yubioath-flutter/)                                                      | `7/5/2024`  | 🟢     |
 | Zoom                                                              | [Link](https://zoom.us/download)                                                                         | `6/5/2024`  | 🟢     |
-| Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)               | `23/4/2024` | 🟢     |
+| Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)               | `13/5/2024` | 🟢     |
 | ZorgMail Veilig verzenden plug-in                                 | [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)          | `12/4/2024` | 🟢     |
 | Zotero                                                            | [Link](https://www.zotero.org/)                                                                          | `12/4/2024` | 🟢     |
