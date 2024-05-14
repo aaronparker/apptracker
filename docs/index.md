@@ -8,20 +8,20 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Tuesday 14/05/2024 00:33 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 14/05/2024 12:21 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **323** applications and **5258** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **323** applications and **5264** unique application installers.
 
 | Application                                                       | Source                                                                                                   | LastUpdate  | Status |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- | ------ |
-| 1Password                                                         | [Link](https://1password.com/)                                                                           | `17/4/2024` | 🟢     |
+| 1Password                                                         | [Link](https://1password.com/)                                                                           | `14/5/2024` | 🟢     |
 | 1Password 7                                                       | [Link](https://1password.com/)                                                                           | `12/4/2024` | 🟢     |
 | 1Password CLI                                                     | [Link](https://developer.1password.com/docs/cli/)                                                        | `1/5/2024`  | 🟢     |
 | 7zip                                                              | [Link](https://www.7-zip.org/)                                                                           | `14/5/2024` | 🟢     |
 | 7-Zip ZS                                                          | [Link](https://mcmilk.de/projects/7-Zip-zstd/)                                                           | `5/5/2024`  | 🟢     |
-| Adobe Acrobat updates                                             | [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)                               | `6/5/2024`  | 🟢     |
+| Adobe Acrobat updates                                             | [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)                               | `14/5/2024` | 🟢     |
 | Adobe Acrobat DC updates                                          | [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)                     | `15/4/2024` | 🟢     |
 | Adobe Acrobat DC Pro and Standard                                 | [Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)                                     | `15/4/2024` | 🟢     |
 | Adobe Acrobat Reader DC                                           | [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)                                          | `15/4/2024` | 🟢     |
@@ -100,7 +100,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Freedom Scientific ZoomText                                       | [Link](https://www.freedomscientific.com/products/software/zoomtext/)                                    | `14/5/2024` | 🟢     |
 | FreeFem                                                           | [Link](https://freefem.org/)                                                                             | `5/5/2024`  | 🟢     |
 | Geek Software PDF24 Creator                                       | [Link](https://tools.pdf24.org/en/creator/)                                                              | `12/4/2024` | 🟢     |
-| GeoGebra Classic                                                  | [Link](https://www.geogebra.org)                                                                         | `30/4/2024` | 🟢     |
+| GeoGebra Classic                                                  | [Link](https://www.geogebra.org)                                                                         | `14/5/2024` | 🟢     |
 | Gephi                                                             | [Link](https://gephi.org/)                                                                               | `5/5/2024`  | 🟢     |
 | Ghisler TotalCommander                                            | [Link](https://www.ghisler.com/)                                                                         | `12/4/2024` | 🟢     |
 | GIMP                                                              | [Link](https://www.gimp.org/)                                                                            | `14/5/2024` | 🟢     |
@@ -168,7 +168,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                               | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                         | `5/5/2024`  | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                        | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🔴     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                           | `12/4/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                 | `14/5/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `5/5/2024`  | 🟢     |
@@ -185,7 +185,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft FSLogix Apps                                            | [Link](https://docs.microsoft.com/fslogix/)                                                              | `11/5/2024` | 🟢     |
 | Microsoft ODBC Driver for SQL Server                              | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)           | `11/5/2024` | 🟢     |
 | Microsoft OLE DB Driver for SQL Server                            | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)         | `11/5/2024` | 🟢     |
-| Microsoft OneDrive                                                | [Link](https://onedrive.live.com/)                                                                       | `11/5/2024` | 🟢     |
+| Microsoft OneDrive                                                | [Link](https://onedrive.live.com/)                                                                       | `14/5/2024` | 🟢     |
 | Microsoft OpenJDK 11                                              | [Link](https://www.microsoft.com/openjdk)                                                                | `12/4/2024` | 🟢     |
 | Microsoft OpenJDK 17                                              | [Link](https://www.microsoft.com/openjdk)                                                                | `12/4/2024` | 🟢     |
 | Microsoft Outlook                                                 | [Link](https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) | `12/4/2024` | 🟢     |
@@ -193,7 +193,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft PowerToys                                               | [Link](https://github.com/microsoft/PowerToys/)                                                          | `5/5/2024`  | 🟢     |
 | Microsoft SQL Server Management Studio                            | [Link](https://go.microsoft.com/fwlink/?LinkId=531355)                                                   | `5/5/2024`  | 🟢     |
 | Microsoft Teams (new)                                             | [Link](https://www.microsoft.com/teams)                                                                  | `8/5/2024`  | 🟢     |
-| Microsoft Teams (classic)                                         | [Link](https://www.microsoft.com/teams)                                                                  | `2/5/2024`  | 🟢     |
+| Microsoft Teams (classic)                                         | [Link](https://www.microsoft.com/teams)                                                                  | `14/5/2024` | 🟢     |
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                           | `8/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                    | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                              | `12/4/2024` | 🟢     |
@@ -236,7 +236,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                        | `5/5/2024`  | 🟢     |
 | Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                             | `8/5/2024`  | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                | `12/4/2024` | 🟢     |
-| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                         | `9/5/2024`  | 🟢     |
+| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                         | `14/5/2024` | 🟢     |
 | Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                       | `17/4/2024` | 🟢     |
 | Oracle Java 20                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java20)                                       | `2/5/2024`  | 🟢     |
 | Oracle Java 21                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java21)                                       | `17/4/2024` | 🟢     |
