@@ -3,7 +3,7 @@ title: RStudio Desktop
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: May 3 2024 at 12:30 AM
+last_modified_date: May 14 2024 at 12:29 AM
 ---
 
 ## RStudio Desktop
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version            | ProductName                                             | Pro   | Date       | Size      | Sha256                                                           | Type | URI                                                                                                                                                                    |
 | ------------------ | ------------------------------------------------------- | ----- | ---------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.04.0+735      | RStudio 2024.04.0+735 - Windows 10/11 (64-bit)          | False | 2024-04-29 | 263065416 | a487aac66036a4e701a53be4289d92668b5bd46040106773ef4b0f08439b81aa | exe  | [https://download1.rstudio.org/electron/windows/RStudio-2024.04.0-735.exe](https://download1.rstudio.org/electron/windows/RStudio-2024.04.0-735.exe)                   |
-| 2024.04.0+735.pro3 | RStudio Pro 2024.04.0+735.pro3 - Windows 10/11 (64-bit) | True  | 2024-04-29 | 267633224 | da2f88c9ac11d7a55de8d673d333f3fe10ca6a313be20c651727cd67f812db52 | exe  | [https://download1.rstudio.org/electron/windows/RStudio-pro-2024.04.0-735.pro3.exe](https://download1.rstudio.org/electron/windows/RStudio-pro-2024.04.0-735.pro3.exe) |
+| 2024.04.1+748      | RStudio 2024.04.1+748 - Windows 10/11 (64-bit)          | False | 2024-05-11 | 263066928 | 44c8797c11e21f1654be196bc9b89785849e3819db171cb6134dfbd3af87c74f | exe  | [https://download1.rstudio.org/electron/windows/RStudio-2024.04.1-748.exe](https://download1.rstudio.org/electron/windows/RStudio-2024.04.1-748.exe)                   |
+| 2024.04.1+748.pro2 | RStudio Pro 2024.04.1+748.pro2 - Windows 10/11 (64-bit) | True  | 2024-05-11 | 267632032 | bb747e4aed985c4139ed21f737ff3b674da35c9712ead2e523b46f2e21239b2d | exe  | [https://download1.rstudio.org/electron/windows/RStudio-pro-2024.04.1-748.pro2.exe](https://download1.rstudio.org/electron/windows/RStudio-pro-2024.04.1-748.pro2.exe) |

@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent Bootloader
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: May 14 2024 at 12:29 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent Bootloader
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWvdBootloader`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Architecture | Date                          | Size | Filename                                                  | URI                                                                                                                                  |
-| ------- | ------------ | ----------------------------- | ---- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Unknown | x64          | Mon, 25 Jul 2022 16:29:59 GMT |      | Microsoft.RDInfra.RDAgentBootLoader.Installer-x64 (5).msi | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH) |
+| Version    | Architecture | Date                          | Size | Filename                                                         | URI                                                                                                                                  |
+| ---------- | ------------ | ----------------------------- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.0.8925.0 | x64          | Fri, 03 May 2024 02:56:11 GMT |      | Microsoft.RDInfra.RDAgentBootLoader.Installer-x64-1.0.8925.0.msi | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrxrH) |

@@ -12,10 +12,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `TelerikFiddlerClassic`. Found **1** installer.
 
-Last check: 🔴
-```
-The SSL connection could not be established, see inner exception.
-```
+Last check: 🟢
 
 | Version     | URI                                                                                                                                    |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
