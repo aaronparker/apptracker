@@ -1,111 +1,111 @@
 [
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "cs-cz",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_cs-cz_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_cs-cz_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "de-de",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_de-de_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_de-de_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "en-us",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_en-us_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_en-us_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "es-es",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_es-es_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_es-es_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "fr-fr",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_fr-fr_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_fr-fr_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "it-it",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_it-it_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_it-it_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "ja-jp",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_ja-jp_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_ja-jp_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "ko-kr",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_ko-kr_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_ko-kr_8.7.24134.03001.exe"
   },
   {
-    "Version": "8.6.24101.05001",
+    "Version": "8.7.24134.03001",
     "Release": "8",
     "Language": "ru-ru",
-    "URI": "https://files.mcneel.com/dujour/exe/20240410/rhino_ru-ru_8.6.24101.05001.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240513/rhino_ru-ru_8.7.24134.03001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "cs-cz",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_cs-cz_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_cs-cz_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "de-de",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_de-de_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_de-de_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "en-us",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_en-us_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_en-us_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "es-es",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_es-es_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_es-es_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "fr-fr",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_fr-fr_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_fr-fr_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "it-it",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_it-it_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_it-it_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "ja-jp",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_ja-jp_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_ja-jp_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "ko-kr",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_ko-kr_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_ko-kr_7.37.24107.15001.exe"
   },
   {
-    "Version": "7.36.23346.16351",
+    "Version": "7.37.24107.15001",
     "Release": "7",
     "Language": "ru-ru",
-    "URI": "https://files.mcneel.com/dujour/exe/20231212/rhino_ru-ru_7.36.23346.16351.exe"
+    "URI": "https://files.mcneel.com/dujour/exe/20240416/rhino_ru-ru_7.37.24107.15001.exe"
   },
   {
     "Version": "6.35.21222.17001",

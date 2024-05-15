@@ -1,73 +1,73 @@
 [
   {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
+    "Version": "1.2.5450.0",
+    "Date": "14/5/2024",
     "Channel": "Dogfood",
-    "MD5": "EEC2C4A80154A3430F31811E238714DB",
-    "Sha2": "4B95F7E9AD6D70C1135A273E732DCA4D48CCED347CC5335D9DAF505D89CB35677D6DCC59D15EE3B13B6ED18C71C338EB93BF51C77F78B7ECC3C22FACAA743B3A",
+    "MD5": "B7C60A88C37530D7BD36B78D2790214A",
+    "Sha2": "0DA145C7B74CFA49245F5D7214952D0C29838039A9FBAE2C511CED7AACD095F5658487A2554085D5CDECD726C8D4DABADB2E734217F82C9E4E66AA91A2A2B4D0",
     "Architecture": "ARM64",
-    "Filename": "RemoteDesktop_1.2.5405.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB75"
+    "Filename": "RemoteDesktop_1.2.5450.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1lgVV"
   },
   {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
-    "Channel": "Insider",
-    "MD5": "EEC2C4A80154A3430F31811E238714DB",
-    "Sha2": "4B95F7E9AD6D70C1135A273E732DCA4D48CCED347CC5335D9DAF505D89CB35677D6DCC59D15EE3B13B6ED18C71C338EB93BF51C77F78B7ECC3C22FACAA743B3A",
-    "Architecture": "ARM64",
-    "Filename": "RemoteDesktop_1.2.5405.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB75"
-  },
-  {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
-    "Channel": "Public",
-    "MD5": "EEC2C4A80154A3430F31811E238714DB",
-    "Sha2": "4B95F7E9AD6D70C1135A273E732DCA4D48CCED347CC5335D9DAF505D89CB35677D6DCC59D15EE3B13B6ED18C71C338EB93BF51C77F78B7ECC3C22FACAA743B3A",
-    "Architecture": "ARM64",
-    "Filename": "RemoteDesktop_1.2.5405.0_ARM64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB75"
-  },
-  {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
+    "Version": "1.2.5450.0",
+    "Date": "14/5/2024",
     "Channel": "Dogfood",
-    "MD5": "7552E7DB7251FE9D77E81C27A9530911",
-    "Sha2": "F3A58FC75E284496502B26523080D599A365BF0EE0E9F8B1E183133F52BAFFBB54398E55AA75EC16BA791C36C6CEB6C99ADE1217EDABF151CEB88A1A38C31FDA",
+    "MD5": "3E1C51EDED2451AAA261770BB13E09AE",
+    "Sha2": "5E5571D2844A530916E3B58C6E5D80389A0F5A44FC51B32C9B2EDC3089197FA7ABF75499E1388E92271D8CE7E1CFB109DAC09996C73C53D6016ADA26FEC21BC1",
     "Architecture": "x64",
-    "Filename": "RemoteDesktop_1.2.5405.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB76"
+    "Filename": "RemoteDesktop_1.2.5450.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1lgVW"
   },
   {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
-    "Channel": "Insider",
-    "MD5": "7552E7DB7251FE9D77E81C27A9530911",
-    "Sha2": "F3A58FC75E284496502B26523080D599A365BF0EE0E9F8B1E183133F52BAFFBB54398E55AA75EC16BA791C36C6CEB6C99ADE1217EDABF151CEB88A1A38C31FDA",
-    "Architecture": "x64",
-    "Filename": "RemoteDesktop_1.2.5405.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB76"
-  },
-  {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
-    "Channel": "Public",
-    "MD5": "7552E7DB7251FE9D77E81C27A9530911",
-    "Sha2": "F3A58FC75E284496502B26523080D599A365BF0EE0E9F8B1E183133F52BAFFBB54398E55AA75EC16BA791C36C6CEB6C99ADE1217EDABF151CEB88A1A38C31FDA",
-    "Architecture": "x64",
-    "Filename": "RemoteDesktop_1.2.5405.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB76"
-  },
-  {
-    "Version": "1.2.5405.0",
-    "Date": "17/4/2024",
+    "Version": "1.2.5450.0",
+    "Date": "14/5/2024",
     "Channel": "Dogfood",
-    "MD5": "F44EF0DA1C85E651BDDDB78006E610EC",
-    "Sha2": "45FB6566D4FD6337F72E9E64AFC1A30EDA96C8B71C9FDBDA8B326CEB15DA6D5518FA7B992B36E0441066D5D8E03DEC412987D17F4F121233E6363B485CD86D2F",
+    "MD5": "E430641F0E83FB8353956EECEF27B1C5",
+    "Sha2": "B137F5F90F1D90074333BB13713EBA895BF7C0DFD8818875F1C939C75F094DC641C31891AA2B2E6A44A0C6CB90AA5E708861D4483C70B3A96440B04AD5D9E179",
     "Architecture": "x86",
-    "Filename": "RemoteDesktop_1.2.5405.0_x86.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kGol"
+    "Filename": "RemoteDesktop_1.2.5450.0_x86.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1lgVX"
+  },
+  {
+    "Version": "1.2.5405.0",
+    "Date": "17/4/2024",
+    "Channel": "Insider",
+    "MD5": "EEC2C4A80154A3430F31811E238714DB",
+    "Sha2": "4B95F7E9AD6D70C1135A273E732DCA4D48CCED347CC5335D9DAF505D89CB35677D6DCC59D15EE3B13B6ED18C71C338EB93BF51C77F78B7ECC3C22FACAA743B3A",
+    "Architecture": "ARM64",
+    "Filename": "RemoteDesktop_1.2.5405.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB75"
+  },
+  {
+    "Version": "1.2.5405.0",
+    "Date": "17/4/2024",
+    "Channel": "Public",
+    "MD5": "EEC2C4A80154A3430F31811E238714DB",
+    "Sha2": "4B95F7E9AD6D70C1135A273E732DCA4D48CCED347CC5335D9DAF505D89CB35677D6DCC59D15EE3B13B6ED18C71C338EB93BF51C77F78B7ECC3C22FACAA743B3A",
+    "Architecture": "ARM64",
+    "Filename": "RemoteDesktop_1.2.5405.0_ARM64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB75"
+  },
+  {
+    "Version": "1.2.5405.0",
+    "Date": "17/4/2024",
+    "Channel": "Insider",
+    "MD5": "7552E7DB7251FE9D77E81C27A9530911",
+    "Sha2": "F3A58FC75E284496502B26523080D599A365BF0EE0E9F8B1E183133F52BAFFBB54398E55AA75EC16BA791C36C6CEB6C99ADE1217EDABF151CEB88A1A38C31FDA",
+    "Architecture": "x64",
+    "Filename": "RemoteDesktop_1.2.5405.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB76"
+  },
+  {
+    "Version": "1.2.5405.0",
+    "Date": "17/4/2024",
+    "Channel": "Public",
+    "MD5": "7552E7DB7251FE9D77E81C27A9530911",
+    "Sha2": "F3A58FC75E284496502B26523080D599A365BF0EE0E9F8B1E183133F52BAFFBB54398E55AA75EC16BA791C36C6CEB6C99ADE1217EDABF151CEB88A1A38C31FDA",
+    "Architecture": "x64",
+    "Filename": "RemoteDesktop_1.2.5405.0_x64.msi",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1kB76"
   },
   {
     "Version": "1.2.5405.0",

@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "38622048",
     "Md5": "1110e558b04334bac7cc36d570436d22",
-    "URI": "https://cytranet.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe"
   },
   {
     "Version": "2024a",
@@ -13,6 +13,6 @@
     "Type": "exe",
     "Size": "34653680",
     "Md5": "9edb3cc3b744838aea90e6a121b0f400",
-    "URI": "https://cytranet.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe"
   }
 ]

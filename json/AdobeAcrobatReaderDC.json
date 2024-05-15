@@ -1,212 +1,212 @@
 [
   {
-    "Version": "24.002.20687",
+    "Version": "24.002.20759",
     "Language": "MUI",
     "Architecture": "x64",
-    "Name": "Reader 2024.002.20687 MUI for Windows-64bit",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220687/AcroRdrDCx642400220687_MUI.exe"
+    "Name": "Reader 2024.002.20759 MUI for Windows-64bit",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220759/AcroRdrDCx642400220759_MUI.exe"
   },
   {
-    "Version": "24.002.20687",
-    "Language": "English",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 English for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_en_US.exe"
-  },
-  {
-    "Version": "24.002.20687",
-    "Language": "English (UK)",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 English UK for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_en_US.exe"
-  },
-  {
-    "Version": "24.002.20687",
-    "Language": "French",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 French for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_fr_FR.exe"
-  },
-  {
-    "Version": "24.002.20687",
-    "Language": "German",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 German for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_de_DE.exe"
-  },
-  {
-    "Version": "24.002.20687",
-    "Language": "Japanese",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 Japanese for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_ja_JP.exe"
-  },
-  {
-    "Version": "24.002.20687",
-    "Language": "MUI",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 MUI for Windows-32bit",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_MUI.exe"
-  },
-  {
-    "Version": "24.002.20687",
-    "Language": "Spanish",
-    "Architecture": "x86",
-    "Name": "Reader 2024.002.20687 Spanish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220687/AcroRdrDC2400220687_es_ES.exe"
-  },
-  {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Basque",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Basque for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_eu_ES.exe"
+    "Name": "Reader 2024.002.20759 Basque for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_eu_ES.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Catalan",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Catalan for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_ca_ES.exe"
+    "Name": "Reader 2024.002.20759 Catalan for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ca_ES.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Chinese (Simplified)",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Chinese Simp for  Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_zh_CN.exe"
+    "Name": "Reader 2024.002.20759 Chinese Simp for  Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_zh_CN.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Chinese (Traditional)",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Chinese Trad for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_zh_TW.exe"
+    "Name": "Reader 2024.002.20759 Chinese Trad for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_zh_TW.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Croatian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Croatian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_hr_HR.exe"
+    "Name": "Reader 2024.002.20759 Croatian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_hr_HR.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Czech",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Czech for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_cs_CZ.exe"
+    "Name": "Reader 2024.002.20759 Czech for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_cs_CZ.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Danish",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Danish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_da_DK.exe"
+    "Name": "Reader 2024.002.20759 Danish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_da_DK.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Dutch",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Dutch for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_nl_NL.exe"
+    "Name": "Reader 2024.002.20759 Dutch for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_nl_NL.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
+    "Language": "English",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 English for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_en_US.exe"
+  },
+  {
+    "Version": "24.002.20759",
+    "Language": "English (UK)",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 English UK for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_en_US.exe"
+  },
+  {
+    "Version": "24.002.20759",
     "Language": "Finnish",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Finnish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_fi_FI.exe"
+    "Name": "Reader 2024.002.20759 Finnish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_fi_FI.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
+    "Language": "French",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 French for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_fr_FR.exe"
+  },
+  {
+    "Version": "24.002.20759",
+    "Language": "German",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 German for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_de_DE.exe"
+  },
+  {
+    "Version": "24.002.20759",
     "Language": "Hungarian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Hungarian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_hu_HU.exe"
+    "Name": "Reader 2024.002.20759 Hungarian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_hu_HU.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Italian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Italian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_it_IT.exe"
+    "Name": "Reader 2024.002.20759 Italian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_it_IT.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
+    "Language": "Japanese",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 Japanese for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ja_JP.exe"
+  },
+  {
+    "Version": "24.002.20759",
     "Language": "Korean",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Korean for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_ko_KR.exe"
+    "Name": "Reader 2024.002.20759 Korean for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ko_KR.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
+    "Language": "MUI",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 MUI for Windows-32bit",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_MUI.exe"
+  },
+  {
+    "Version": "24.002.20759",
     "Language": "Norwegian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Norwegian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_nb_NO.exe"
+    "Name": "Reader 2024.002.20759 Norwegian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_nb_NO.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Polish",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Polish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_pl_PL.exe"
+    "Name": "Reader 2024.002.20759 Polish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_pl_PL.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Portuguese",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Portuguese for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_pt_BR.exe"
+    "Name": "Reader 2024.002.20759 Portuguese for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_pt_BR.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Romanian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Romanian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_ro_RO.exe"
+    "Name": "Reader 2024.002.20759 Romanian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ro_RO.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Russian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Russian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_ru_RU.exe"
+    "Name": "Reader 2024.002.20759 Russian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ru_RU.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Slovakian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Slovakian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_sk_SK.exe"
+    "Name": "Reader 2024.002.20759 Slovakian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_sk_SK.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Slovenian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Slovenian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_sl_SI.exe"
+    "Name": "Reader 2024.002.20759 Slovenian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_sl_SI.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
+    "Language": "Spanish",
+    "Architecture": "x86",
+    "Name": "Reader 2024.002.20759 Spanish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_es_ES.exe"
+  },
+  {
+    "Version": "24.002.20759",
     "Language": "Swedish",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Swedish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_sv_SE.exe"
+    "Name": "Reader 2024.002.20759 Swedish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_sv_SE.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Turkish",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Turkish for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_tr_TR.exe"
+    "Name": "Reader 2024.002.20759 Turkish for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_tr_TR.exe"
   },
   {
-    "Version": "23.008.20533",
+    "Version": "24.002.20759",
     "Language": "Ukrainian",
     "Architecture": "x86",
-    "Name": "Reader 2023.008.20533 Ukrainian for Windows",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300820533/AcroRdrDC2300820533_uk_UA.exe"
+    "Name": "Reader 2024.002.20759 Ukrainian for Windows",
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_uk_UA.exe"
   }
 ]
