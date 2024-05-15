@@ -1,12 +1,12 @@
 ---
-title: Google Chrome for Testing
+title: Google Chrome Headless Shell
 layout: default
 nav_order: 2
 parent: G
 last_modified_date: May 15 2024 at 12:29 AM
 ---
 
-## Google Chrome for Testing
+## Google Chrome Headless Shell
 
 [Source](https://googlechromelabs.github.io/chrome-for-testing/)
 

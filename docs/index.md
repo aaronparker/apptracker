@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Wednesday 15/05/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 15/05/2024 12:31 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **323** applications and **5264** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **324** applications and **5269** unique application installers.
 
 | Application                                                       | Source                                                                                                   | LastUpdate  | Status |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- | ------ |
@@ -37,6 +37,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Adoptium Temurin 8                                                | [Link](https://adoptium.net/)                                                                            | `24/4/2024` | 🟢     |
 | Airtame App                                                       | [Link](https://airtame.com/)                                                                             | `23/4/2024` | 🟢     |
 | Akeo Rufus                                                        | [Link](https://rufus.ie/)                                                                                | `5/5/2024`  | 🟢     |
+| Akeo Rufus (alternate method)                                     | [Link](https://rufus.ie)                                                                                 | `15/5/2024` | 🟢     |
 | Amazon Corretto                                                   | [Link](https://aws.amazon.com/corretto/)                                                                 | `17/4/2024` | 🟢     |
 | Anaconda                                                          | [Link](https://www.anaconda.com/)                                                                        | `12/4/2024` | 🟢     |
 | Anki                                                              | [Link](https://github.com/ankitects/anki/)                                                               | `5/5/2024`  | 🟢     |
@@ -112,7 +113,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Google Chrome Enterprise                                          | [Link](https://cloud.google.com/chrome-enterprise/browser/download/)                                     | `15/5/2024` | 🟢     |
 | Google Chrome Driver                                              | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `15/5/2024` | 🟢     |
 | Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `15/5/2024` | 🟢     |
-| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `15/5/2024` | 🟢     |
+| Google Chrome Headless Shell                                      | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                           | `15/5/2024` | 🟢     |
 | Google Drive                                                      | [Link](https://support.google.com/drive/answer/7329379)                                                  | `12/4/2024` | 🟢     |
 | GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)       | `12/4/2024` | 🟢     |
 | GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                    | `12/4/2024` | 🟢     |
@@ -160,7 +161,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                            | `15/5/2024` | 🟢     |
 | KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                           | `6/5/2024`  | 🟢     |
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                 | `5/5/2024`  | 🟢     |
-| Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                           | `18/4/2024` | 🟢     |
+| Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                           | `15/5/2024` | 🟢     |
 | LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                        | `12/4/2024` | 🟢     |
 | LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                     | `19/4/2024` | 🟢     |
 | Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                  | `9/5/2024`  | 🟢     |
@@ -197,7 +198,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                           | `8/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                    | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                              | `15/5/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `14/5/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `15/5/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                        | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `14/5/2024` | 🟢     |
