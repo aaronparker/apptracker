@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 16/05/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 16/05/2024 12:31 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -119,7 +119,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                    | `12/4/2024` | 🟢     |
 | GoTo Opener                                                       | [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)                 | `11/5/2024` | 🟢     |
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                         | `12/4/2024` | 🟢     |
-| Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                  | `5/5/2024`  | 🟢     |
+| Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                  | `16/5/2024` | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                        | `5/5/2024`  | 🟢     |
 | gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                    | `16/5/2024` | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                 | `5/5/2024`  | 🟢     |
@@ -198,7 +198,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                           | `8/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                    | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                              | `15/5/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `15/5/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `16/5/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                        | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `14/5/2024` | 🟢     |
@@ -235,7 +235,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | [Link](https://github.com/MuhammedKalkan/OpenLens/)                                                      | `5/5/2024`  | 🟢     |
 | Open-Shell-Menu                                                   | [Link](https://open-shell.github.io/Open-Shell-Menu/)                                                    | `5/5/2024`  | 🟢     |
 | OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                        | `5/5/2024`  | 🟢     |
-| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                             | `15/5/2024` | 🟢     |
+| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                             | `16/5/2024` | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                | `12/4/2024` | 🟢     |
 | Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                         | `14/5/2024` | 🟢     |
 | Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                       | `17/4/2024` | 🟢     |
@@ -311,7 +311,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Tower                                                             | [Link](https://www.git-tower.com/windows/)                                                               | `8/5/2024`  | 🟢     |
 | TGPi Colour Contrast Analyser                                     | [Link](https://www.tpgi.com/color-contrast-checker/)                                                     | `6/5/2024`  | 🟢     |
 | Tracker Software PDF X-Change Editor                              | [Link](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)                                              | `30/4/2024` | 🟢     |
-| Unity Editor                                                      | [Link](https://unity.com/download)                                                                       | `10/5/2024` | 🟢     |
+| Unity Editor                                                      | [Link](https://unity.com/download)                                                                       | `16/5/2024` | 🟢     |
 | USBPcap                                                           | [Link](https://github.com/desowin/usbpcap/)                                                              | `5/5/2024`  | 🟢     |
 | vast limits uberAgent                                             | [Link](https://uberagent.com/)                                                                           | `30/4/2024` | 🟢     |
 | VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                            | `16/5/2024` | 🟢     |
