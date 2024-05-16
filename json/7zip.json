@@ -1,58 +1,58 @@
 [
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "ARM32",
     "Type": "exe",
-    "Size": "1596691",
-    "Md5": "d98f54ca52882376fd8b39b29628a90a",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm.exe"
+    "Size": "1633421",
+    "Md5": "942f92066b287b8090f1e72febaebcd2",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-arm.exe"
   },
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Size": "1527518",
-    "Md5": "3c5917f4da614ef892f055c697744b77",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-arm64.exe"
+    "Size": "1556281",
+    "Md5": "03fb368db41e4567ab099fb3885f1d1f",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-arm64.exe"
   },
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "1589510",
-    "Md5": "e5788b13546156281bf0a4b38bdd0901",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.exe"
+    "Size": "1619461",
+    "Md5": "c73433dd532d445d099385865f62148b",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-x64.exe"
   },
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "584704",
-    "Md5": "58fc6de6c4e5d2fda63565d54feb9e75",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7zr.exe"
+    "Size": "590848",
+    "Md5": "e877ed2d9463e6729db5768f23640aa4",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7zr.exe"
   },
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "1301195",
-    "Md5": "1cfb215a6fb373ac33a38b1db320c178",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.exe"
+    "Size": "1329513",
+    "Md5": "69dae4e2aecbff04270d79d404e21b49",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405.exe"
   },
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "x64",
     "Type": "msi",
-    "Size": "1933312",
-    "Md5": "7025502de20d7b39fb06870ab06d015b",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301-x64.msi"
+    "Size": "1969152",
+    "Md5": "6a37eee312b567b3e45e9974801d495e",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-x64.msi"
   },
   {
-    "Version": "23.01",
+    "Version": "24.05",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "1501184",
-    "Md5": "49780e0517aa248e7fd90f50674a2645",
-    "URI": "https://cytranet.dl.sourceforge.net/project/sevenzip/7-Zip/23.01/7z2301.msi"
+    "Size": "1537024",
+    "Md5": "4e0882bca1e9448bed2846925f459541",
+    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405.msi"
   }
 ]
