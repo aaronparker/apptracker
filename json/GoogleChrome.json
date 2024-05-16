@@ -1,6 +1,6 @@
 [
   {
-    "Version": "126.0.6478.3",
+    "Version": "126.0.6478.7",
     "StartDate": "15/5/2024",
     "Architecture": "x86",
     "Channel": "Canary",
@@ -24,6 +24,30 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
+    "Version": "125.0.6422.60",
+    "StartDate": "15/5/2024",
+    "Architecture": "x64",
+    "Channel": "Stable",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+  },
+  {
+    "Version": "125.0.6422.60",
+    "StartDate": "15/5/2024",
+    "Architecture": "x86",
+    "Channel": "Stable",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "125.0.6422.60",
+    "StartDate": "15/5/2024",
+    "Architecture": "x64",
+    "Channel": "Stable",
+    "Type": "zip",
+    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
+  },
+  {
     "Version": "125.0.6422.41",
     "StartDate": "8/5/2024",
     "Architecture": "x64",
@@ -40,43 +64,19 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "124.0.6367.207",
-    "StartDate": "14/5/2024",
+    "Version": "124.0.6367.221",
+    "StartDate": "15/5/2024",
     "Architecture": "x64",
     "Channel": "Extended",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "124.0.6367.207",
-    "StartDate": "14/5/2024",
-    "Architecture": "x64",
-    "Channel": "Stable",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "124.0.6367.207",
-    "StartDate": "14/5/2024",
+    "Version": "124.0.6367.221",
+    "StartDate": "15/5/2024",
     "Architecture": "x86",
     "Channel": "Extended",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "124.0.6367.207",
-    "StartDate": "14/5/2024",
-    "Architecture": "x86",
-    "Channel": "Stable",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "124.0.6367.207",
-    "StartDate": "14/5/2024",
-    "Architecture": "x64",
-    "Channel": "Stable",
-    "Type": "zip",
-    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   }
 ]
