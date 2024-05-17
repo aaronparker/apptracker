@@ -121,7 +121,7 @@
   },
   {
     "Version": "7.0.409",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "ARM64",
     "Installer": "sdk",
     "Channel": "STS",
@@ -131,7 +131,7 @@
   },
   {
     "Version": "7.0.409",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x64",
     "Installer": "sdk",
     "Channel": "STS",
@@ -141,7 +141,7 @@
   },
   {
     "Version": "7.0.409",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x86",
     "Installer": "sdk",
     "Channel": "STS",
@@ -151,7 +151,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "ARM64",
     "Installer": "runtime",
     "Channel": "STS",
@@ -161,7 +161,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "ARM64",
     "Installer": "windowsdesktop",
     "Channel": "STS",
@@ -171,7 +171,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x64",
     "Installer": "aspnetcore-runtime",
     "Channel": "STS",
@@ -181,7 +181,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x64",
     "Installer": "windowsdesktop",
     "Channel": "STS",
@@ -191,7 +191,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x64",
     "Installer": "runtime",
     "Channel": "STS",
@@ -201,7 +201,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x86",
     "Installer": "windowsdesktop",
     "Channel": "STS",
@@ -211,7 +211,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x86",
     "Installer": "runtime",
     "Channel": "STS",
@@ -221,7 +221,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x86",
     "Installer": "aspnetcore-runtime",
     "Channel": "STS",
@@ -231,7 +231,7 @@
   },
   {
     "Version": "7.0.19",
-    "Support": "maintenance",
+    "Support": "eol",
     "Architecture": "x86",
     "Installer": "aspnetcore-runtime",
     "Channel": "STS",

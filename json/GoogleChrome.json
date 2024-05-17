@@ -1,11 +1,27 @@
 [
   {
-    "Version": "126.0.6478.8",
+    "Version": "127.0.6483.0",
     "StartDate": "16/5/2024",
     "Architecture": "x86",
     "Channel": "Canary",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
+  },
+  {
+    "Version": "126.0.6478.8",
+    "StartDate": "16/5/2024",
+    "Architecture": "x64",
+    "Channel": "Beta",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
+  },
+  {
+    "Version": "126.0.6478.8",
+    "StartDate": "16/5/2024",
+    "Architecture": "x86",
+    "Channel": "Beta",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
     "Version": "126.0.6468.2",
@@ -25,7 +41,7 @@
   },
   {
     "Version": "125.0.6422.60",
-    "StartDate": "15/5/2024",
+    "StartDate": "16/5/2024",
     "Architecture": "x64",
     "Channel": "Stable",
     "Type": "msi",
@@ -33,7 +49,7 @@
   },
   {
     "Version": "125.0.6422.60",
-    "StartDate": "15/5/2024",
+    "StartDate": "16/5/2024",
     "Architecture": "x86",
     "Channel": "Stable",
     "Type": "msi",
@@ -41,31 +57,15 @@
   },
   {
     "Version": "125.0.6422.60",
-    "StartDate": "15/5/2024",
+    "StartDate": "16/5/2024",
     "Architecture": "x64",
     "Channel": "Stable",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
-    "Version": "125.0.6422.41",
-    "StartDate": "8/5/2024",
-    "Architecture": "x64",
-    "Channel": "Beta",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
-  },
-  {
-    "Version": "125.0.6422.41",
-    "StartDate": "8/5/2024",
-    "Architecture": "x86",
-    "Channel": "Beta",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
     "Version": "124.0.6367.221",
-    "StartDate": "15/5/2024",
+    "StartDate": "16/5/2024",
     "Architecture": "x64",
     "Channel": "Extended",
     "Type": "msi",
@@ -73,7 +73,7 @@
   },
   {
     "Version": "124.0.6367.221",
-    "StartDate": "15/5/2024",
+    "StartDate": "16/5/2024",
     "Architecture": "x86",
     "Channel": "Extended",
     "Type": "msi",
