@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: May 16 2024 at 12:26 PM
+last_modified_date: May 17 2024 at 12:38 AM
 ---
 
 ## WinSCP
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.3.3   | x86          | exe  | 11588560 | 91dbb70daebfd07c13cc7bf5bb8898a0 | [https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe](https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe) |
-| 6.3.3   | x86          | msi  | 27959296 | 1289dddf9fceb42565a4d3bf70862427 | [https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi](https://cfhcable.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi)             |
+| 6.3.3   | x86          | exe  | 11588560 | 91dbb70daebfd07c13cc7bf5bb8898a0 | [https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe](https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe) |
+| 6.3.3   | x86          | msi  | 27959296 | 1289dddf9fceb42565a4d3bf70862427 | [https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi](https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi)             |
