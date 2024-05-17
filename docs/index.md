@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Friday 17/05/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 17/05/2024 12:32 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -95,7 +95,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Flameshot                                                         | [Link](https://flameshot.org/)                                                                           | `5/5/2024`  | 🟢     |
 | Dan Pristupov Fork                                                | [Link](https://www.fork.dev)                                                                             | `4/5/2024`  | 🟢     |
 | Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                | `5/5/2024`  | 🟢     |
-| Foxit Reader                                                      | [Link](https://www.foxitsoftware.com/pdf-reader/)                                                        | `5/5/2024`  | 🟢     |
+| Foxit Reader                                                      | [Link](https://www.foxitsoftware.com/pdf-reader/)                                                        | `17/5/2024` | 🟢     |
 | Freedom Scientific Fusion                                         | [Link](https://www.freedomscientific.com/products/software/fusion/)                                      | `14/5/2024` | 🟢     |
 | Freedom Scientific JAWS                                           | [Link](https://www.freedomscientific.com/products/software/jaws/)                                        | `14/5/2024` | 🟢     |
 | Freedom Scientific ZoomText                                       | [Link](https://www.freedomscientific.com/products/software/zoomtext/)                                    | `14/5/2024` | 🟢     |
@@ -169,7 +169,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                               | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                         | `15/5/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                        | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🔴     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                           | `17/5/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                 | `15/5/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `5/5/2024`  | 🟢     |
@@ -182,7 +182,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Bot Framework Emulator                                  | [Link](https://github.com/microsoft/BotFramework-Emulator/)                                              | `12/4/2024` | 🟢     |
 | Microsoft Edge                                                    | [Link](https://www.microsoft.com/edge)                                                                   | `17/5/2024` | 🟢     |
 | Microsoft Edge WebDriver                                          | [Link](https://www.microsoft.com/edge)                                                                   | `17/5/2024` | 🟢     |
-| Microsoft Edge WebView2 Runtime                                   | [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)                                   | `15/5/2024` | 🟢     |
+| Microsoft Edge WebView2 Runtime                                   | [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)                                   | `17/5/2024` | 🟢     |
 | Microsoft FSLogix Apps                                            | [Link](https://docs.microsoft.com/fslogix/)                                                              | `15/5/2024` | 🟢     |
 | Microsoft ODBC Driver for SQL Server                              | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)           | `11/5/2024` | 🟢     |
 | Microsoft OLE DB Driver for SQL Server                            | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)         | `11/5/2024` | 🟢     |
@@ -198,7 +198,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                           | `8/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                    | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                              | `15/5/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `16/5/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                    | `17/5/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                        | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `14/5/2024` | 🟢     |
@@ -237,7 +237,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                        | `5/5/2024`  | 🟢     |
 | Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                             | `16/5/2024` | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                | `12/4/2024` | 🟢     |
-| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                         | `14/5/2024` | 🟢     |
+| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                         | `17/5/2024` | 🟢     |
 | Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                       | `17/4/2024` | 🟢     |
 | Oracle Java 20                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java20)                                       | `2/5/2024`  | 🟢     |
 | Oracle Java 21                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java21)                                       | `17/4/2024` | 🟢     |
@@ -257,7 +257,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Plex Media ServerDesktop                                          | [Link](https://www.plex.tv/media-server-downloads/)                                                      | `19/4/2024` | 🟢     |
 | Podman                                                            | [Link](https://github.com/containers/podman)                                                             | `11/5/2024` | 🟢     |
 | Podman Desktop                                                    | [Link](https://github.com/containers/podman-desktop)                                                     | `5/5/2024`  | 🟢     |
-| Postman                                                           | [Link](https://www.getpostman.com/)                                                                      | `12/4/2024` | 🟢     |
+| Postman                                                           | [Link](https://www.getpostman.com/)                                                                      | `17/5/2024` | 🟢     |
 | Praat                                                             | [Link](https://www.fon.hum.uva.nl/praat/)                                                                | `5/5/2024`  | 🟢     |
 | Progress Chef Infra Client                                        | [Link](https://www.chef.io/products/chef-infra)                                                          | `2/5/2024`  | 🟢     |
 | Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                         | `25/4/2024` | 🟢     |
