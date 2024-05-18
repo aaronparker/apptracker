@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 18/05/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 18/05/2024 12:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -169,7 +169,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                               | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                         | `18/5/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                        | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🔴     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                           | `17/5/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                 | `15/5/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `5/5/2024`  | 🟢     |
@@ -274,7 +274,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Red Hat OpenJDK 11                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                          | `20/4/2024` | 🟢     |
 | Red Hat OpenJDK 17                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                          | `20/4/2024` | 🟢     |
 | Red Hat OpenJDK 8                                                 | [Link](https://developers.redhat.com/products/openjdk/overview)                                          | `20/4/2024` | 🟢     |
-| Responsively App                                                  | [Link](https://responsively.app/)                                                                        | `5/5/2024`  | 🟢     |
+| Responsively App                                                  | [Link](https://responsively.app/)                                                                        | `18/5/2024` | 🟢     |
 | RingCentral                                                       | [Link](https://www.ringcentral.com)                                                                      | `13/5/2024` | 🟢     |
 | Rizonesoft Notepad3                                               | [Link](https://www.rizonesoft.com/downloads/notepad3)                                                    | `5/5/2024`  | 🟢     |
 | RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                   | `14/5/2024` | 🟢     |
