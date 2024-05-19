@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 19/05/2024 00:38 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 19/05/2024 12:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **324** applications and **5266** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **324** applications and **5269** unique application installers.
 
 | Application                                                       | Source                                                                                                   | LastUpdate  | Status |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- | ------ |
@@ -163,13 +163,13 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                 | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                           | `15/5/2024` | 🟢     |
 | LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                        | `12/4/2024` | 🟢     |
-| LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                     | `19/4/2024` | 🟢     |
+| LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                     | `19/5/2024` | 🟢     |
 | Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                  | `9/5/2024`  | 🟢     |
 | Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                            | `17/5/2024` | 🟢     |
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                               | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                         | `18/5/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                        | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🔴     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                           | `17/5/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                 | `15/5/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `5/5/2024`  | 🟢     |
@@ -203,7 +203,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `14/5/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent                             | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)              | `25/4/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                    | `12/4/2024` | 🔴     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                    | `12/4/2024` | 🟢     |
 | Microsoft Remote Desktop                                          | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)                      | `15/5/2024` | 🟢     |
 | Microsoft Remote Desktop WebRTC Redirector Service                | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)                              | `12/4/2024` | 🟢     |
 | Miniconda                                                         | [Link](https://docs.conda.io/en/latest/miniconda.html)                                                   | `12/4/2024` | 🟢     |
@@ -314,7 +314,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Unity Editor                                                      | [Link](https://unity.com/download)                                                                       | `16/5/2024` | 🟢     |
 | USBPcap                                                           | [Link](https://github.com/desowin/usbpcap/)                                                              | `5/5/2024`  | 🟢     |
 | vast limits uberAgent                                             | [Link](https://uberagent.com/)                                                                           | `30/4/2024` | 🟢     |
-| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                            | `18/5/2024` | 🟢     |
+| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                            | `19/5/2024` | 🟢     |
 | Vercel Hyper                                                      | [Link](https://hyper.js/)                                                                                | `5/5/2024`  | 🟢     |
 | VideoLan VLC Player                                               | [Link](https://www.videolan.org/vlc/)                                                                    | `19/5/2024` | 🟢     |
 | VisualCppRedistAIO                                                | [Link](https://github.com/abbodi1406/vcredist)                                                           | `5/5/2024`  | 🟢     |
