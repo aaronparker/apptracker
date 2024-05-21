@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Tuesday 21/05/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 21/05/2024 12:36 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -94,7 +94,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | FileZilla                                                         | [Link](https://filezilla-project.org/)                                                                   | `31/1/2024` | 🔴     |
 | Flameshot                                                         | [Link](https://flameshot.org/)                                                                           | `5/5/2024`  | 🟢     |
 | Dan Pristupov Fork                                                | [Link](https://www.fork.dev)                                                                             | `4/5/2024`  | 🟢     |
-| Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                | `5/5/2024`  | 🟢     |
+| Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                | `21/5/2024` | 🟢     |
 | Foxit Reader                                                      | [Link](https://www.foxitsoftware.com/pdf-reader/)                                                        | `17/5/2024` | 🟢     |
 | Freedom Scientific Fusion                                         | [Link](https://www.freedomscientific.com/products/software/fusion/)                                      | `14/5/2024` | 🟢     |
 | Freedom Scientific JAWS                                           | [Link](https://www.freedomscientific.com/products/software/jaws/)                                        | `14/5/2024` | 🟢     |
@@ -172,8 +172,8 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                            | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                           | `17/5/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                 | `15/5/2024` | 🟢     |
-| Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `5/5/2024`  | 🟢     |
-| Microsoft Azure Data Studio                                       | [Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)                                          | `4/5/2024`  | 🟢     |
+| Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                     | `21/5/2024` | 🟢     |
+| Microsoft Azure Data Studio                                       | [Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)                                          | `21/5/2024` | 🟢     |
 | Microsoft Azure Functions Core Tools                              | [Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)                       | `17/5/2024` | 🟢     |
 | Microsoft Azure Pipelines Agent                                   | [Link](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents)                           | `17/4/2024` | 🟢     |
 | Microsoft Azure Storage Explorer                                  | [Link](https://azure.microsoft.com/en-au/features/storage-explorer/)                                     | `5/5/2024`  | 🟢     |
@@ -260,7 +260,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Postman                                                           | [Link](https://www.getpostman.com/)                                                                      | `17/5/2024` | 🟢     |
 | Praat                                                             | [Link](https://www.fon.hum.uva.nl/praat/)                                                                | `5/5/2024`  | 🟢     |
 | Progress Chef Infra Client                                        | [Link](https://www.chef.io/products/chef-infra)                                                          | `2/5/2024`  | 🟢     |
-| Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                         | `25/4/2024` | 🟢     |
+| Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                         | `21/5/2024` | 🟢     |
 | Progress Chef Workstation                                         | [Link](https://www.chef.io/products/chef-workstation)                                                    | `17/5/2024` | 🟢     |
 | ProjectLibre                                                      | [Link](https://www.projectlibre.com/)                                                                    | `21/5/2024` | 🟢     |
 | Protege                                                           | [Link](https://protege.stanford.edu/)                                                                    | `5/5/2024`  | 🟢     |
@@ -330,7 +330,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VSCodium                                                          | [Link](https://vscodium.com)                                                                             | `10/5/2024` | 🟢     |
 | Win32-OpenSSH                                                     | [Link](https://github.com/PowerShell/Win32-OpenSSH/)                                                     | `5/5/2024`  | 🟢     |
 | WinMerge                                                          | [Link](https://winmerge.org/)                                                                            | `5/5/2024`  | 🟢     |
-| WinSCP                                                            | [Link](https://winscp.net/)                                                                              | `20/5/2024` | 🟢     |
+| WinSCP                                                            | [Link](https://winscp.net/)                                                                              | `21/5/2024` | 🟢     |
 | Wireshark                                                         | [Link](https://www.wireshark.org/#download)                                                              | `16/5/2024` | 🟢     |
 | WiX Toolset                                                       | [Link](https://wixtoolset.org/)                                                                          | `5/5/2024`  | 🟢     |
 | XnSoft Convert                                                    | [Link](https://www.xnview.com/en/xnconvert/)                                                             | `12/4/2024` | 🟢     |
