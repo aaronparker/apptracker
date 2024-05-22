@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Wednesday 22/05/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 22/05/2024 12:22 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -37,7 +37,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Adoptium Temurin 21                                               | [Link](https://adoptium.net/)                                                                                                                     | `22/5/2024` | 🟢     |
 | Adoptium Temurin 8                                                | [Link](https://adoptium.net/)                                                                                                                     | `24/4/2024` | 🟢     |
 | Airtame App                                                       | [Link](https://airtame.com/)                                                                                                                      | `23/4/2024` | 🟢     |
-| Akeo Rufus                                                        | [Link](https://rufus.ie/)                                                                                                                         | `5/5/2024`  | 🟢     |
+| Akeo Rufus                                                        | [Link](https://rufus.ie/)                                                                                                                         | `22/5/2024` | 🟢     |
 | Akeo Rufus (alternate method)                                     | [Link](https://rufus.ie)                                                                                                                          | `15/5/2024` | 🟢     |
 | Amazon Corretto                                                   | [Link](https://aws.amazon.com/corretto/)                                                                                                          | `17/4/2024` | 🟢     |
 | Anaconda                                                          | [Link](https://www.anaconda.com/)                                                                                                                 | `12/4/2024` | 🟢     |
@@ -166,7 +166,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                                                                    | `15/5/2024` | 🟢     |
 | LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `12/4/2024` | 🟢     |
 | LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                                                              | `19/5/2024` | 🟢     |
-| Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                                                           | `9/5/2024`  | 🟢     |
+| Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                                                           | `9/5/2024`  | 🔴     |
 | Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                                                                     | `17/5/2024` | 🟢     |
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `18/5/2024` | 🟢     |
@@ -197,13 +197,13 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Outlook                                                 | [Link](https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)                                          | `12/4/2024` | 🟢     |
 | Microsoft PowerShell                                              | [Link](https://docs.microsoft.com/powershell/)                                                                                                    | `5/5/2024`  | 🟢     |
 | Microsoft PowerToys                                               | [Link](https://github.com/microsoft/PowerToys/)                                                                                                   | `22/5/2024` | 🟢     |
-| Microsoft SQL Server Management Studio                            | [Link](https://go.microsoft.com/fwlink/?LinkId=531355)                                                                                            | `5/5/2024`  | 🔴     |
+| Microsoft SQL Server Management Studio                            | [Link](https://go.microsoft.com/fwlink/?LinkId=531355)                                                                                            | `22/5/2024` | 🟢     |
 | Microsoft Teams (new)                                             | [Link](https://www.microsoft.com/teams)                                                                                                           | `20/5/2024` | 🟢     |
 | Microsoft Teams (classic)                                         | [Link](https://www.microsoft.com/teams)                                                                                                           | `14/5/2024` | 🟢     |
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                                                                    | `8/5/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                                                             | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                                                                       | `22/5/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `21/5/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `22/5/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                                                                 | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                                                         | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `14/5/2024` | 🟢     |

@@ -3,7 +3,7 @@ title: Akeo Rufus
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: May 22 2024 at 12:18 PM
 ---
 
 ## Akeo Rufus
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date      | Size    | URI                                                                                                                                                        |
 | ------- | -------- | ------------ | ---- | ------------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.4     | Windows  | ARM32        | exe  | Default       | 17/1/2024 | 4253256 | [https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm.exe](https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm.exe)     |
-| 4.4     | Windows  | ARM64        | exe  | Default       | 17/1/2024 | 4831304 | [https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm64.exe) |
-| 4.4     | Windows  | x86          | exe  | Default       | 17/1/2024 | 1432648 | [https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4.exe](https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4.exe)             |
-| 4.4     | Windows  | x86          | exe  | Default       | 17/1/2024 | 1432648 | [https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4p.exe](https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4p.exe)           |
-| 4.4     | Windows  | x86          | exe  | Default       | 17/1/2024 | 1446472 | [https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_x86.exe](https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_x86.exe)     |
+| 4.5     | Windows  | ARM32        | exe  | Default       | 22/5/2024 | 4514888 | [https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe)     |
+| 4.5     | Windows  | ARM64        | exe  | Default       | 22/5/2024 | 5079624 | [https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe) |
+| 4.5     | Windows  | x86          | exe  | Default       | 22/5/2024 | 1513032 | [https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe)             |
+| 4.5     | Windows  | x86          | exe  | Default       | 22/5/2024 | 1513032 | [https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5p.exe](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5p.exe)           |
+| 4.5     | Windows  | x86          | exe  | Default       | 22/5/2024 | 1527368 | [https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe)     |
