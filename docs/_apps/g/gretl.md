@@ -3,7 +3,7 @@ title: gretl
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: May 21 2024 at 12:28 PM
+last_modified_date: May 22 2024 at 12:38 AM
 ---
 
 ## gretl
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                      |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2024a   | x64          | exe  | 38622048 | 1110e558b04334bac7cc36d570436d22 | [https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe](https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe) |
-| 2024a   | x86          | exe  | 34653680 | 9edb3cc3b744838aea90e6a121b0f400 | [https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe](https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe) |
+| 2024b   | x64          | exe  | 38795560 | f0769ca0b881369517b5d10046d08a45 | [https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe](https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe) |
+| 2024b   | x86          | exe  | 34823232 | 61aaeae4bb6fdfce7169e6bb708c654e | [https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe](https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe) |

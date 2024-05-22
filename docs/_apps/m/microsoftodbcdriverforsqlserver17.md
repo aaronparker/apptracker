@@ -1,0 +1,40 @@
+---
+title: Microsoft ODBC Driver for SQL Server 17.x
+layout: default
+nav_order: 2
+parent: M
+last_modified_date: May 22 2024 at 12:38 AM
+---
+
+## Microsoft ODBC Driver for SQL Server 17.x
+
+[Source](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)
+
+Evergreen app: `MicrosoftODBCDriverForSQLServer17`. Found **22** installers.
+
+Last check: 🟢
+
+| Version   | Date     | Size    | Language              | Architecture | Type | URI                                                                                                                                                                                                                                          |
+| --------- | -------- | ------- | --------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17.10.6.1 | 8/4/2024 | 4702208 | Chinese (Simplified)  | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-CN/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-CN/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4702208 | Chinese (Traditional) | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-TW/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-TW/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4677632 | English               | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4747264 | French                | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/fr-FR/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/fr-FR/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4739072 | German                | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4734976 | Italian               | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/it-IT/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/it-IT/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4759552 | Japanese              | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ja-JP/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ja-JP/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4734976 | Korean                | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ko-KR/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ko-KR/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4730880 | Portuguese (Brazil)   | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/pt-BR/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/pt-BR/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4763648 | Russian               | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ru-RU/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ru-RU/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 4739072 | Spanish               | x64          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/es-ES/17.10.6.1/x64/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/es-ES/17.10.6.1/x64/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2637824 | Chinese (Simplified)  | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-CN/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-CN/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2637824 | Chinese (Traditional) | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-TW/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-TW/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2592768 | English               | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2682880 | French                | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/fr-FR/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/fr-FR/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2678784 | German                | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2666496 | Italian               | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/it-IT/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/it-IT/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2691072 | Japanese              | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ja-JP/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ja-JP/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2670592 | Korean                | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ko-KR/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ko-KR/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2666496 | Portuguese (Brazil)   | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/pt-BR/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/pt-BR/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2695168 | Russian               | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ru-RU/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ru-RU/17.10.6.1/x86/msodbcsql.msi) |
+| 17.10.6.1 | 8/4/2024 | 2678784 | Spanish               | x86          | msi  | [https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/es-ES/17.10.6.1/x86/msodbcsql.msi](https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/es-ES/17.10.6.1/x86/msodbcsql.msi) |

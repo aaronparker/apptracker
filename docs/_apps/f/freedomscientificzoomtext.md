@@ -3,7 +3,7 @@ title: Freedom Scientific ZoomText
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: May 14 2024 at 12:29 AM
+last_modified_date: May 22 2024 at 12:38 AM
 ---
 
 ## Freedom Scientific ZoomText
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version      | Date     | URI                                                                                                                                                                                                                                                                        |
 | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.2405.12 | 1/5/2024 | [https://software.vfo.digital/ZoomText/2024/2024.2405.12.400/3C93FFBD-C1D3-4905-A37B-AD5CF8D11C92/ZT2024.2405.12.400-Offline-x64.exe](https://software.vfo.digital/ZoomText/2024/2024.2405.12.400/3C93FFBD-C1D3-4905-A37B-AD5CF8D11C92/ZT2024.2405.12.400-Offline-x64.exe) |
+| 2024.2405.29 | 1/5/2024 | [https://software.vfo.digital/ZoomText/2024/2024.2405.29.400/8AD19109-1D3B-4267-AD4C-B7C3D3F56774/ZT2024.2405.29.400-Offline-x64.exe](https://software.vfo.digital/ZoomText/2024/2024.2405.29.400/8AD19109-1D3B-4267-AD4C-B7C3D3F56774/ZT2024.2405.29.400-Offline-x64.exe) |
