@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2024a",
+    "Version": "2024b",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "38622048",
-    "Md5": "1110e558b04334bac7cc36d570436d22",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-64.exe"
+    "Size": "38795560",
+    "Md5": "f0769ca0b881369517b5d10046d08a45",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe"
   },
   {
-    "Version": "2024a",
+    "Version": "2024b",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "34653680",
-    "Md5": "9edb3cc3b744838aea90e6a121b0f400",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024a/gretl-2024a-32.exe"
+    "Size": "34823232",
+    "Md5": "61aaeae4bb6fdfce7169e6bb708c654e",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe"
   }
 ]

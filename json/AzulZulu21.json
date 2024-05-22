@@ -1,0 +1,10 @@
+[
+  {
+    "Version": "21.0.3+9",
+    "ImageType": "jdk",
+    "Date": "2024-04-16T10:41:00Z",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-win_x64.msi"
+  }
+]

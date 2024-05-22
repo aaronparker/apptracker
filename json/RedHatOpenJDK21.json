@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "21.0.3+9",
+    "ImageType": "jdk",
+    "Date": "2024-04-18T17:33:42Z",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-21-openjdk-21.0.3.0.9-1.win.jdk.x86_64.msi"
+  },
+  {
+    "Version": "21.0.3+9",
+    "ImageType": "jre",
+    "Date": "2024-04-18T17:32:29Z",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2024/java-21-openjdk-21.0.3.0.9-1.win.jre.x86_64.msi"
+  }
+]

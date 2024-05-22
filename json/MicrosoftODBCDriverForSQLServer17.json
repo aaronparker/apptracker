@@ -1,0 +1,200 @@
+[
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4702208,
+    "Language": "Chinese (Simplified)",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-CN/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4702208,
+    "Language": "Chinese (Traditional)",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-TW/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4677632,
+    "Language": "English",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4747264,
+    "Language": "French",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/fr-FR/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4739072,
+    "Language": "German",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4734976,
+    "Language": "Italian",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/it-IT/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4759552,
+    "Language": "Japanese",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ja-JP/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4734976,
+    "Language": "Korean",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ko-KR/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4730880,
+    "Language": "Portuguese (Brazil)",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/pt-BR/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4763648,
+    "Language": "Russian",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ru-RU/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 4739072,
+    "Language": "Spanish",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/es-ES/17.10.6.1/x64/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2637824,
+    "Language": "Chinese (Simplified)",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-CN/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2637824,
+    "Language": "Chinese (Traditional)",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/zh-TW/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2592768,
+    "Language": "English",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2682880,
+    "Language": "French",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/fr-FR/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2678784,
+    "Language": "German",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2666496,
+    "Language": "Italian",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/it-IT/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2691072,
+    "Language": "Japanese",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ja-JP/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2670592,
+    "Language": "Korean",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ko-KR/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2666496,
+    "Language": "Portuguese (Brazil)",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/pt-BR/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2695168,
+    "Language": "Russian",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/ru-RU/17.10.6.1/x86/msodbcsql.msi"
+  },
+  {
+    "Version": "17.10.6.1",
+    "Date": "8/4/2024",
+    "Size": 2678784,
+    "Language": "Spanish",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/es-ES/17.10.6.1/x86/msodbcsql.msi"
+  }
+]
