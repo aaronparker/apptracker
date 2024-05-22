@@ -40,14 +40,14 @@
     "URI": "https://beta.unity3d.com/download/52ddac442a2c/Windows64EditorInstaller/UnitySetup64-2023.3.0b10.exe"
   },
   {
-    "Version": "6000.0.1f1",
+    "Version": "6000.0.2f1",
     "Release": "6000",
     "Channel": "beta",
     "LTS": false,
-    "Size": 3751030784,
-    "Checksum": "b7c0cc03e57dd66a491c14744108501c",
+    "Size": 3812171776,
+    "Checksum": "8bdee4aeb797f5e3ac6ee9a8e06b822b",
     "Type": "exe",
-    "URI": "https://beta.unity3d.com/download/d9cf669c6271/Windows64EditorInstaller/UnitySetup64-6000.0.1f1.exe"
+    "URI": "https://beta.unity3d.com/download/c36be92430b9/Windows64EditorInstaller/UnitySetup64-6000.0.2f1.exe"
   },
   {
     "Version": "2019.4.40f1",
@@ -90,14 +90,14 @@
     "URI": "https://download.unity3d.com/download_unity/9636b062134a/Windows64EditorInstaller/UnitySetup64-2022.1.23f1.exe"
   },
   {
-    "Version": "2022.3.28f1",
+    "Version": "2022.3.29f1",
     "Release": "2022",
     "Channel": "official",
     "LTS": false,
-    "Size": 3331482624,
-    "Checksum": "e728546970a5d1366611c7a143e75cef",
+    "Size": 3332018176,
+    "Checksum": "150a7a9a212e7d06cf99bb4b9914a120",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/6bae5ce6b222/Windows64EditorInstaller/UnitySetup64-2022.3.28f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/8d510ca76d2b/Windows64EditorInstaller/UnitySetup64-2022.3.29f1.exe"
   },
   {
     "Version": "2023.1.13f1",
@@ -120,13 +120,13 @@
     "URI": "https://download.unity3d.com/download_unity/0e25a174756c/Windows64EditorInstaller/UnitySetup64-2023.2.20f1.exe"
   },
   {
-    "Version": "6000.0.1f1",
+    "Version": "6000.0.2f1",
     "Release": "6000",
     "Channel": "official",
     "LTS": false,
-    "Size": 3751030784,
-    "Checksum": "b7c0cc03e57dd66a491c14744108501c",
+    "Size": 3812171776,
+    "Checksum": "8bdee4aeb797f5e3ac6ee9a8e06b822b",
     "Type": "exe",
-    "URI": "https://download.unity3d.com/download_unity/d9cf669c6271/Windows64EditorInstaller/UnitySetup64-6000.0.1f1.exe"
+    "URI": "https://download.unity3d.com/download_unity/c36be92430b9/Windows64EditorInstaller/UnitySetup64-6000.0.2f1.exe"
   }
 ]

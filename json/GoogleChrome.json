@@ -1,7 +1,7 @@
 [
   {
-    "Version": "127.0.6493.2",
-    "StartDate": "21/5/2024",
+    "Version": "127.0.6494.0",
+    "StartDate": "22/5/2024",
     "Architecture": "x86",
     "Channel": "Canary",
     "Type": "exe",
@@ -64,16 +64,16 @@
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
-    "Version": "124.0.6367.221",
-    "StartDate": "16/5/2024",
+    "Version": "124.0.6367.230",
+    "StartDate": "22/5/2024",
     "Architecture": "x64",
     "Channel": "Extended",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "124.0.6367.221",
-    "StartDate": "16/5/2024",
+    "Version": "124.0.6367.230",
+    "StartDate": "22/5/2024",
     "Architecture": "x86",
     "Channel": "Extended",
     "Type": "msi",
