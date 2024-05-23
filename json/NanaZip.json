@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.0.450",
+    "Version": "3.0.996",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "24/11/2022",
-    "Size": 15999629,
-    "URI": "https://github.com/M2Team/NanaZip/releases/download/2.0.450/40174MouriNaruto.NanaZip_2.0.450.0_gnj4mf6z9tkrc.msixbundle"
+    "Date": "22/5/2024",
+    "Size": 11006556,
+    "URI": "https://github.com/M2Team/NanaZip/releases/download/3.0.996/NanaZip_3.0.996.0.msixbundle"
   }
 ]
