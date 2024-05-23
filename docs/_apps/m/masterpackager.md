@@ -12,10 +12,7 @@ last_modified_date: May 9 2024 at 12:30 AM
 
 Evergreen app: `MasterPackager`. Found **1** installer.
 
-Last check: 🔴
-```
-Resource temporarily unavailable (www.masterpackager.com:443)
-```
+Last check: 🟢
 
 | Version   | Type | URI                                                                                                                                            |
 | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

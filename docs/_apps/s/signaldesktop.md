@@ -3,7 +3,7 @@ title: Signal for Windows
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: May 16 2024 at 12:37 AM
+last_modified_date: May 23 2024 at 12:43 AM
 ---
 
 ## Signal for Windows
@@ -14,6 +14,6 @@ Evergreen app: `SignalDesktop`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | URI                                                                                                                                |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 7.9.0   | [https://updates.signal.org/desktop/signal-desktop-win-7.9.0.exe](https://updates.signal.org/desktop/signal-desktop-win-7.9.0.exe) |
+| Version | URI                                                                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 7.10.0  | [https://updates.signal.org/desktop/signal-desktop-win-7.10.0.exe](https://updates.signal.org/desktop/signal-desktop-win-7.10.0.exe) |
