@@ -1,26 +1,26 @@
 [
   {
-    "Version": "4.4.2103",
+    "Version": "{\\pntext\\f2\\'B7\\tab}Update internal GRUB to version 2.12\\par",
     "Type": "exe",
     "Architecture": "ARM32",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe"
   },
   {
-    "Version": "4.4.2103",
+    "Version": "{\\pntext\\f2\\'B7\\tab}Update internal GRUB to version 2.12\\par",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe"
   },
   {
-    "Version": "4.4.2103",
+    "Version": "{\\pntext\\f2\\'B7\\tab}Update internal GRUB to version 2.12\\par",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe"
   },
   {
-    "Version": "4.4.2103",
+    "Version": "{\\pntext\\f2\\'B7\\tab}Update internal GRUB to version 2.12\\par",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe"
   }
 ]

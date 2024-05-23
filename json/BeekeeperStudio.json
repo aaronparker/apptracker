@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.3.1",
+    "Version": "4.3.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "29/4/2024",
-    "Size": 72434488,
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.1/Beekeeper-Studio-4.3.1-portable.exe"
+    "Date": "23/5/2024",
+    "Size": 72438272,
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.4/Beekeeper-Studio-4.3.4-portable.exe"
   },
   {
-    "Version": "4.3.1",
+    "Version": "4.3.4",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "29/4/2024",
-    "Size": 72597472,
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.1/Beekeeper-Studio-Setup-4.3.1.exe"
+    "Date": "23/5/2024",
+    "Size": 72601248,
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.4/Beekeeper-Studio-Setup-4.3.4.exe"
   }
 ]
