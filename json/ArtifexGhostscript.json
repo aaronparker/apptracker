@@ -1,22 +1,22 @@
 [
   {
-    "Version": "10.03.0",
+    "Version": "10.03.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "7/3/2024",
-    "Size": 64553528,
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w64.exe"
+    "Date": "17/5/2024",
+    "Size": 64543904,
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10031/gs10031w64.exe"
   },
   {
-    "Version": "10.03.0",
+    "Version": "10.03.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "7/3/2024",
-    "Size": 52675624,
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w32.exe"
+    "Date": "17/5/2024",
+    "Size": 52672936,
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10031/gs10031w32.exe"
   }
 ]
