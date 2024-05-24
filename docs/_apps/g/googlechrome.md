@@ -3,7 +3,7 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: May 23 2024 at 12:27 PM
+last_modified_date: May 24 2024 at 12:37 AM
 ---
 
 ## Google Chrome Enterprise
@@ -16,13 +16,13 @@ Last check: 🟢
 
 | Version        | StartDate | Architecture | Channel  | Type | URI                                                                                                                                                                                |
 | -------------- | --------- | ------------ | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 127.0.6496.0   | 23/5/2024 | x86          | Canary   | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
+| 127.0.6497.0   | 23/5/2024 | x86          | Canary   | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
 | 127.0.6485.0   | 20/5/2024 | x64          | Dev      | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)     |
 | 127.0.6485.0   | 20/5/2024 | x86          | Dev      | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)         |
 | 126.0.6478.17  | 22/5/2024 | x64          | Beta     | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi) |
 | 126.0.6478.17  | 22/5/2024 | x86          | Beta     | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi)     |
-| 125.0.6422.76  | 22/5/2024 | x64          | Stable   | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
-| 125.0.6422.76  | 22/5/2024 | x86          | Stable   | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
-| 125.0.6422.76  | 22/5/2024 | x64          | Stable   | zip  | [https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip](https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip)                           |
-| 124.0.6367.230 | 22/5/2024 | x64          | Extended | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
-| 124.0.6367.230 | 22/5/2024 | x86          | Extended | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
+| 125.0.6422.112 | 23/5/2024 | x64          | Stable   | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
+| 125.0.6422.112 | 23/5/2024 | x86          | Stable   | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
+| 125.0.6422.112 | 23/5/2024 | x64          | Stable   | zip  | [https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip](https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip)                           |
+| 124.0.6367.233 | 23/5/2024 | x64          | Extended | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
+| 124.0.6367.233 | 23/5/2024 | x86          | Extended | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
