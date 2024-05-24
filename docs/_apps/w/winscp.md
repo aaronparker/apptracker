@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: May 23 2024 at 12:27 PM
+last_modified_date: May 24 2024 at 12:15 PM
 ---
 
 ## WinSCP
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                  |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.3.3   | x86          | exe  | 11588560 | 91dbb70daebfd07c13cc7bf5bb8898a0 | [https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe](https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe) |
-| 6.3.3   | x86          | msi  | 27959296 | 1289dddf9fceb42565a4d3bf70862427 | [https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi](https://pilotfiber.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi)             |
+| 6.3.3   | x86          | exe  | 11588560 | 91dbb70daebfd07c13cc7bf5bb8898a0 | [https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe](https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe) |
+| 6.3.3   | x86          | msi  | 27959296 | 1289dddf9fceb42565a4d3bf70862427 | [https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi](https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi)             |

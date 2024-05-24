@@ -12,7 +12,10 @@ last_modified_date: May 24 2024 at 12:37 AM
 
 Evergreen app: `KeePass`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 502 (Bad Gateway).
+```
 
 | Version | Architecture | Type | Size    | Md5                              | URI                                                                                                                                                                                          |
 | ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
