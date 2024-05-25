@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 25/05/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 25/05/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -96,7 +96,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | FileZilla                                                         | [Link](https://filezilla-project.org/)                                                                                                            | `31/1/2024` | 🔴     |
 | Flameshot                                                         | [Link](https://flameshot.org/)                                                                                                                    | `5/5/2024`  | 🟢     |
 | Dan Pristupov Fork                                                | [Link](https://www.fork.dev)                                                                                                                      | `24/5/2024` | 🟢     |
-| Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                                                         | `21/5/2024` | 🟢     |
+| Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                                                         | `25/5/2024` | 🟢     |
 | Foxit Reader                                                      | [Link](https://www.foxitsoftware.com/pdf-reader/)                                                                                                 | `24/5/2024` | 🟢     |
 | Freedom Scientific Fusion                                         | [Link](https://www.freedomscientific.com/products/software/fusion/)                                                                               | `22/5/2024` | 🟢     |
 | Freedom Scientific JAWS                                           | [Link](https://www.freedomscientific.com/products/software/jaws/)                                                                                 | `22/5/2024` | 🟢     |
@@ -171,7 +171,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `18/5/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🔴     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `17/5/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `25/5/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `21/5/2024` | 🟢     |
@@ -182,9 +182,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Azure Windows VMAgent                                   | [Link](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)                                                         | `7/5/2024`  | 🟢     |
 | Microsoft Bicep                                                   | [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)                                                              | `8/5/2024`  | 🟢     |
 | Microsoft Bot Framework Emulator                                  | [Link](https://github.com/microsoft/BotFramework-Emulator/)                                                                                       | `12/4/2024` | 🟢     |
-| Microsoft Edge                                                    | [Link](https://www.microsoft.com/edge)                                                                                                            | `24/5/2024` | 🟢     |
-| Microsoft Edge WebDriver                                          | [Link](https://www.microsoft.com/edge)                                                                                                            | `24/5/2024` | 🟢     |
-| Microsoft Edge WebView2 Runtime                                   | [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)                                                                            | `18/5/2024` | 🟢     |
+| Microsoft Edge                                                    | [Link](https://www.microsoft.com/edge)                                                                                                            | `25/5/2024` | 🟢     |
+| Microsoft Edge WebDriver                                          | [Link](https://www.microsoft.com/edge)                                                                                                            | `25/5/2024` | 🟢     |
+| Microsoft Edge WebView2 Runtime                                   | [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)                                                                            | `25/5/2024` | 🟢     |
 | Microsoft FSLogix Apps                                            | [Link](https://docs.microsoft.com/fslogix/)                                                                                                       | `15/5/2024` | 🟢     |
 | Microsoft ODBC Driver for SQL Server (latest)                     | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
 | Microsoft ODBC Driver for SQL Server 17.x                         | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
@@ -256,7 +256,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                                                               | `8/7/2023`  | 🔴     |
 | pdfforge PDFCreator                                               | [Link](https://www.pdfforge.org/pdfcreator)                                                                                                       | `17/5/2024` | 🟢     |
 | PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                                                                 | `11/5/2024` | 🟢     |
-| Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                                                         | `24/5/2024` | 🟢     |
+| Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                                                         | `25/5/2024` | 🟢     |
 | Plex Media Desktop                                                | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `22/5/2024` | 🟢     |
 | Plex HTPC                                                         | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `17/5/2024` | 🟢     |
 | Plex Media ServerDesktop                                          | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `19/4/2024` | 🟢     |
