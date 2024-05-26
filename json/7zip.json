@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "1633421",
     "Md5": "942f92066b287b8090f1e72febaebcd2",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-arm.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-arm.exe"
   },
   {
     "Version": "24.05",
@@ -13,7 +13,7 @@
     "Type": "exe",
     "Size": "1556281",
     "Md5": "03fb368db41e4567ab099fb3885f1d1f",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-arm64.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-arm64.exe"
   },
   {
     "Version": "24.05",
@@ -21,7 +21,7 @@
     "Type": "exe",
     "Size": "1619461",
     "Md5": "c73433dd532d445d099385865f62148b",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-x64.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-x64.exe"
   },
   {
     "Version": "24.05",
@@ -29,7 +29,7 @@
     "Type": "exe",
     "Size": "590848",
     "Md5": "e877ed2d9463e6729db5768f23640aa4",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7zr.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7zr.exe"
   },
   {
     "Version": "24.05",
@@ -37,7 +37,7 @@
     "Type": "exe",
     "Size": "1329513",
     "Md5": "69dae4e2aecbff04270d79d404e21b49",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405.exe"
   },
   {
     "Version": "24.05",
@@ -45,7 +45,7 @@
     "Type": "msi",
     "Size": "1969152",
     "Md5": "6a37eee312b567b3e45e9974801d495e",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-x64.msi"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405-x64.msi"
   },
   {
     "Version": "24.05",
@@ -53,6 +53,6 @@
     "Type": "msi",
     "Size": "1537024",
     "Md5": "4e0882bca1e9448bed2846925f459541",
-    "URI": "https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405.msi"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/sevenzip/7-Zip/24.05/7z2405.msi"
   }
 ]
