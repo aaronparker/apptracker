@@ -3,7 +3,7 @@ title: Sumatra PDF Reader
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: May 25 2024 at 12:21 PM
+last_modified_date: May 26 2024 at 12:32 AM
 ---
 
 ## Sumatra PDF Reader
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                            |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.4.6   | x64          | exe  | [https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe](https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe) |
-| 3.4.6   | x86          | exe  | [https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe](https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe)       |
+| 3.5.2   | x64          | exe  | [https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe](https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe) |
+| 3.5.2   | x86          | exe  | [https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-install.exe](https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-install.exe)       |
