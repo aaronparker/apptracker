@@ -12,7 +12,10 @@ last_modified_date: May 5 2024 at 12:41 AM
 
 Evergreen app: `NETworkManager`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version     | Platform | Architecture | Type | InstallerType | Date      | Size     | URI                                                                                                                                                                                                                                    |
 | ----------- | -------- | ------------ | ---- | ------------- | --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
