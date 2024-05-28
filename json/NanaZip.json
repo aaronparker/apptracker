@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.0.996",
+    "Version": "3.0.1000.0",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "msixbundle",
     "InstallerType": "Default",
-    "Date": "22/5/2024",
-    "Size": 11006556,
-    "URI": "https://github.com/M2Team/NanaZip/releases/download/3.0.996/NanaZip_3.0.996.0.msixbundle"
+    "Date": "27/5/2024",
+    "Size": 11021604,
+    "URI": "https://github.com/M2Team/NanaZip/releases/download/3.0.1000.0/NanaZip_3.0.1000.0.msixbundle"
   }
 ]
