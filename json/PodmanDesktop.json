@@ -1,122 +1,122 @@
 [
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "2/5/2024",
-    "Size": 121592968,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-1.10.2-arm64.exe"
+    "Date": "27/5/2024",
+    "Size": 121510616,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-1.10.3-arm64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2/5/2024",
-    "Size": 121774072,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-1.10.2-setup-arm64.exe"
+    "Date": "27/5/2024",
+    "Size": 121691728,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-1.10.3-setup-arm64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "2/5/2024",
-    "Size": 243988944,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-airgap-1.10.2-arm64.exe"
+    "Date": "27/5/2024",
+    "Size": 258834256,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-airgap-1.10.3-arm64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Airgap",
-    "Date": "2/5/2024",
-    "Size": 244170040,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-airgap-1.10.2-setup-arm64.exe"
+    "Date": "27/5/2024",
+    "Size": 259015368,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-airgap-1.10.3-setup-arm64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2/5/2024",
-    "Size": 117693184,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-1.10.2-setup-x64.exe"
+    "Date": "27/5/2024",
+    "Size": 117609136,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-1.10.3-setup-x64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "2/5/2024",
-    "Size": 117511768,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-1.10.2-x64.exe"
+    "Date": "27/5/2024",
+    "Size": 117427712,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-1.10.3-x64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Airgap",
-    "Date": "2/5/2024",
-    "Size": 243721872,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-airgap-1.10.2-setup-x64.exe"
+    "Date": "27/5/2024",
+    "Size": 255450976,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-airgap-1.10.3-setup-x64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "2/5/2024",
-    "Size": 243540448,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-airgap-1.10.2-x64.exe"
+    "Date": "27/5/2024",
+    "Size": 255269552,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-airgap-1.10.3-x64.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "2/5/2024",
-    "Size": 238905624,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-1.10.2-setup.exe"
+    "Date": "27/5/2024",
+    "Size": 238739216,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-1.10.3-setup.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "2/5/2024",
-    "Size": 238724496,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-1.10.2.exe"
+    "Date": "27/5/2024",
+    "Size": 238558096,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-1.10.3.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Airgap",
-    "Date": "2/5/2024",
-    "Size": 487330280,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-airgap-1.10.2-setup.exe"
+    "Date": "27/5/2024",
+    "Size": 513904704,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-airgap-1.10.3-setup.exe"
   },
   {
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Portable",
-    "Date": "2/5/2024",
-    "Size": 487149160,
-    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.2/podman-desktop-airgap-1.10.2.exe"
+    "Date": "27/5/2024",
+    "Size": 513723584,
+    "URI": "https://github.com/containers/podman-desktop/releases/download/v1.10.3/podman-desktop-airgap-1.10.3.exe"
   }
 ]
