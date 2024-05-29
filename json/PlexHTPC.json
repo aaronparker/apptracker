@@ -1,8 +1,8 @@
 [
   {
-    "Version": "1.61.1.147-ded1f5a1",
+    "Version": "1.62.1.152-ae0720b9",
     "Architecture": "x64",
-    "Checksum": "12063fe430639934eceb65c426cc7bb53407b52b",
-    "URI": "https://downloads.plex.tv/htpc/1.61.1.147-ded1f5a1/windows/PlexHTPC-1.61.1.147-ded1f5a1-x86_64.exe"
+    "Checksum": "201dca234c8dbd2f3b7d2c0ab35fb047f9308882",
+    "URI": "https://downloads.plex.tv/htpc/1.62.1.152-ae0720b9/windows/PlexHTPC-1.62.1.152-ae0720b9-x86_64.exe"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "Version": "127.0.6505.0",
-    "StartDate": "27/5/2024",
+    "Version": "127.0.6507.0",
+    "StartDate": "28/5/2024",
     "Architecture": "x86",
     "Channel": "Canary",
     "Type": "exe",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "125.0.6422.112",
-    "StartDate": "23/5/2024",
+    "StartDate": "28/5/2024",
     "Architecture": "x64",
     "Channel": "Stable",
     "Type": "msi",
@@ -49,7 +49,7 @@
   },
   {
     "Version": "125.0.6422.112",
-    "StartDate": "23/5/2024",
+    "StartDate": "28/5/2024",
     "Architecture": "x86",
     "Channel": "Stable",
     "Type": "msi",
@@ -57,7 +57,7 @@
   },
   {
     "Version": "125.0.6422.112",
-    "StartDate": "23/5/2024",
+    "StartDate": "28/5/2024",
     "Architecture": "x64",
     "Channel": "Stable",
     "Type": "zip",
@@ -65,7 +65,7 @@
   },
   {
     "Version": "124.0.6367.233",
-    "StartDate": "23/5/2024",
+    "StartDate": "28/5/2024",
     "Architecture": "x64",
     "Channel": "Extended",
     "Type": "msi",
@@ -73,7 +73,7 @@
   },
   {
     "Version": "124.0.6367.233",
-    "StartDate": "23/5/2024",
+    "StartDate": "28/5/2024",
     "Architecture": "x86",
     "Channel": "Extended",
     "Type": "msi",
