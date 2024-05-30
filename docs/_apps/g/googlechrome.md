@@ -12,7 +12,10 @@ last_modified_date: May 29 2024 at 12:15 PM
 
 Evergreen app: `GoogleChrome`. Found **10** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot convert the "System.Object[]" value of type "System.Object[]" to type "System.DateTime".
+```
 
 | Version        | StartDate | Architecture | Channel  | Type | URI                                                                                                                                                                                |
 | -------------- | --------- | ------------ | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

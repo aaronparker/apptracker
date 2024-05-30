@@ -3,7 +3,7 @@ title: gretl
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: May 29 2024 at 12:15 PM
+last_modified_date: May 30 2024 at 12:39 AM
 ---
 
 ## gretl
@@ -14,7 +14,7 @@ Evergreen app: `gretl`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2024b   | x64          | exe  | 38795560 | f0769ca0b881369517b5d10046d08a45 | [https://gigenet.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe](https://gigenet.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe) |
-| 2024b   | x86          | exe  | 34823232 | 61aaeae4bb6fdfce7169e6bb708c654e | [https://gigenet.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe](https://gigenet.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe) |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                          |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024b   | x64          | exe  | 38795560 | f0769ca0b881369517b5d10046d08a45 | [https://cytranet-dal.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe](https://cytranet-dal.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-64.exe) |
+| 2024b   | x86          | exe  | 34823232 | 61aaeae4bb6fdfce7169e6bb708c654e | [https://cytranet-dal.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe](https://cytranet-dal.dl.sourceforge.net/project/gretl/gretl/2024b/gretl-2024b-32.exe) |

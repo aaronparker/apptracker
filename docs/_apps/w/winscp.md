@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: May 29 2024 at 12:15 PM
+last_modified_date: May 30 2024 at 12:39 AM
 ---
 
 ## WinSCP
@@ -14,7 +14,7 @@ Evergreen app: `WinSCP`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                      |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.3.3   | x86          | exe  | 11588560 | 91dbb70daebfd07c13cc7bf5bb8898a0 | [https://cytranet-dal.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe](https://cytranet-dal.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe) |
-| 6.3.3   | x86          | msi  | 27959296 | 1289dddf9fceb42565a4d3bf70862427 | [https://cytranet-dal.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi](https://cytranet-dal.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi)             |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 6.3.3   | x86          | exe  | 11588560 | 91dbb70daebfd07c13cc7bf5bb8898a0 | [https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe](https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe) |
+| 6.3.3   | x86          | msi  | 27959296 | 1289dddf9fceb42565a4d3bf70862427 | [https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi](https://phoenixnap.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi)             |

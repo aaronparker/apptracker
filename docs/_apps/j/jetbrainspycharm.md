@@ -3,7 +3,7 @@ title: JetBrains PyCharm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: May 30 2024 at 12:39 AM
 ---
 
 ## JetBrains PyCharm
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version  | Build         | Edition              | Sha256                                                                         | Date       | Size      | Type | URI                                                                                                                                                |
 | -------- | ------------- | -------------------- | ------------------------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.1.1 | 241.15989.155 | PyCharm Community    | https://download.jetbrains.com/python/pycharm-community-2024.1.1.exe.sha256    | 30/4/2024  | 479602224 | exe  | [https://download.jetbrains.com/python/pycharm-community-2024.1.1.exe](https://download.jetbrains.com/python/pycharm-community-2024.1.1.exe)       |
-| 2024.1.1 | 241.15989.155 | PyCharm Professional | https://download.jetbrains.com/python/pycharm-professional-2024.1.1.exe.sha256 | 30/4/2024  | 749447232 | exe  | [https://download.jetbrains.com/python/pycharm-professional-2024.1.1.exe](https://download.jetbrains.com/python/pycharm-professional-2024.1.1.exe) |
+| 2024.1.2 | 241.17011.127 | PyCharm Community    | https://download.jetbrains.com/python/pycharm-community-2024.1.2.exe.sha256    | 29/5/2024  | 479263120 | exe  | [https://download.jetbrains.com/python/pycharm-community-2024.1.2.exe](https://download.jetbrains.com/python/pycharm-community-2024.1.2.exe)       |
+| 2024.1.2 | 241.17011.127 | PyCharm Professional | https://download.jetbrains.com/python/pycharm-professional-2024.1.2.exe.sha256 | 29/5/2024  | 748577528 | exe  | [https://download.jetbrains.com/python/pycharm-professional-2024.1.2.exe](https://download.jetbrains.com/python/pycharm-professional-2024.1.2.exe) |
 | 2022.2.2 | 222.4345.35   | PyCharm Edu          | https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe.sha256          | 27/10/2022 | 394799056 | exe  | [https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe](https://download.jetbrains.com/python/pycharm-edu-2022.2.2.exe)                   |
