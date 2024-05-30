@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 30/05/2024 00:43 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 30/05/2024 12:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -164,7 +164,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                                                                    | `6/5/2024`  | 🟢     |
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                                                          | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                                                                    | `15/5/2024` | 🟢     |
-| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `12/4/2024` | 🟢     |
+| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `30/5/2024` | 🟢     |
 | LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                                                              | `19/5/2024` | 🟢     |
 | Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                                                           | `9/5/2024`  | 🟢     |
 | Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                                                                     | `17/5/2024` | 🟢     |
@@ -217,7 +217,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | MirantisLens                                                      | [Link](https://k8slens.dev/)                                                                                                                      | `29/5/2024` | 🟢     |
 | Mozilla Firefox                                                   | [Link](https://www.mozilla.org/en-US/firefox/new/)                                                                                                | `30/5/2024` | 🟢     |
 | Mozilla Gecko Driver                                              | [Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)                                                                                    | `5/5/2024`  | 🟢     |
-| Mozilla Thunderbird                                               | [Link](https://www.thunderbird.net/)                                                                                                              | `29/5/2024` | 🟢     |
+| Mozilla Thunderbird                                               | [Link](https://www.thunderbird.net/)                                                                                                              | `30/5/2024` | 🟢     |
 | mRemoteNG                                                         | [Link](https://mremoteng.org/)                                                                                                                    | `5/5/2024`  | 🟢     |
 | MuseScore                                                         | [Link](https://musescore.org/)                                                                                                                    | `29/5/2024` | 🟢     |
 | mySQL Workbench                                                   | [Link](https://dev.mysql.com/doc/workbench/en/)                                                                                                   | `12/4/2024` | 🟢     |
@@ -233,7 +233,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Obsidian                                                          | [Link](https://obsidian.md/)                                                                                                                      | `5/5/2024`  | 🟢     |
 | OBS Studio                                                        | [Link](https://obsproject.com/)                                                                                                                   | `12/4/2024` | 🟢     |
 | OCS Inventory Windows Agent                                       | [Link](https://ocsinventory-ng.org/)                                                                                                              | `5/5/2024`  | 🟢     |
-| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `28/5/2024` | 🟢     |
+| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `30/5/2024` | 🟢     |
 | Octopus Tentacle                                                  | [Link](https://octopus.com/)                                                                                                                      | `23/5/2024` | 🟢     |
 | ONLYOFFICE Desktop Editors                                        | [Link](https://www.onlyoffice.com/desktop.aspx)                                                                                                   | `5/5/2024`  | 🟢     |
 | OpenJDK                                                           | [Link](https://openjdk.java.net/)                                                                                                                 | `5/5/2024`  | 🟢     |
@@ -292,7 +292,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                                                                  | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                                                               | `5/5/2024`  | 🟢     |
 | ShareX                                                            | [Link](https://getsharex.com/)                                                                                                                    | `12/5/2024` | 🟢     |
-| Signal for Windows                                                | [Link](https://www.signal.org/)                                                                                                                   | `23/5/2024` | 🟢     |
+| Signal for Windows                                                | [Link](https://www.signal.org/)                                                                                                                   | `30/5/2024` | 🟢     |
 | Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)                                                 | `23/5/2024` | 🟢     |
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                                                                   | `12/4/2024` | 🟢     |
 | Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                                                          | `5/5/2024`  | 🟢     |
