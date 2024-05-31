@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Friday 31/05/2024 00:41 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 31/05/2024 12:22 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -172,7 +172,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `18/5/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🔴     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `29/5/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `30/5/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `31/5/2024` | 🟢     |
@@ -300,7 +300,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | stealthpuppy Windows Customised Defaults                          | [Link](https://stealthpuppy.com/image-customise/)                                                                                                 | `5/5/2024`  | 🟢     |
 | Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                                                                | `5/5/2024`  | 🟢     |
 | Sumatra PDF Reader                                                | [Link](https://www.sumatrapdfreader.org/)                                                                                                         | `26/5/2024` | 🟢     |
-| SUSE Rancher Desktop                                              | [Link](https://rancherdesktop.io/)                                                                                                                | `5/5/2024`  | 🟢     |
+| SUSE Rancher Desktop                                              | [Link](https://rancherdesktop.io/)                                                                                                                | `31/5/2024` | 🟢     |
 | Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                                                                  | `5/5/2024`  | 🟢     |
 | Tableau Prep                                                      | [Link](https://www.tableau.com/)                                                                                                                  | `5/5/2024`  | 🟢     |
 | Tableau Reader                                                    | [Link](https://www.tableau.com/)                                                                                                                  | `5/5/2024`  | 🟢     |
