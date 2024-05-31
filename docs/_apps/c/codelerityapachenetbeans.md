@@ -3,7 +3,7 @@ title: Codelerity Apache NetBeans
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: May 31 2024 at 12:36 AM
 ---
 
 ## Codelerity Apache NetBeans
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version    | Platform | Architecture | Type | InstallerType | Date      | Size      | URI                                                                                                                                                                                                            |
 | ---------- | -------- | ------------ | ---- | ------------- | --------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| v21-build1 | Windows  | x86          | exe  | Default       | 20/2/2024 | 589699352 | [https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe](https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache-NetBeans-21.exe) |
+| v22-build1 | Windows  | x86          | exe  | Default       | 30/5/2024 | 583136384 | [https://github.com/codelerity/netbeans-installers/releases/download/v22-build1/Apache-NetBeans-22.exe](https://github.com/codelerity/netbeans-installers/releases/download/v22-build1/Apache-NetBeans-22.exe) |
