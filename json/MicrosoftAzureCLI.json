@@ -1,12 +1,18 @@
 [
   {
     "Version": "2.61.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
+    "Date": "16/5/2024",
+    "Size": 73117696,
+    "Architecture": "x64",
     "Type": "msi",
-    "InstallerType": "Default",
+    "URI": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.61.0-x64.msi"
+  },
+  {
+    "Version": "2.61.0",
     "Date": "16/5/2024",
     "Size": 70651904,
-    "URI": "https://github.com/Azure/azure-cli/releases/download/azure-cli-2.61.0/azure-cli-2.61.0.msi"
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://azcliprod.blob.core.windows.net/msi/azure-cli-2.61.0.msi"
   }
 ]
