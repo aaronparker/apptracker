@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 01/06/2024 00:44 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 01/06/2024 12:19 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -124,7 +124,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                                                                  | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                                                           | `1/6/2024`  | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                                                                 | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `31/5/2024` | 🟢     |
+| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `1/6/2024`  | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                                                          | `31/5/2024` | 🟢     |
 | Handbrake                                                         | [Link](https://handbrake.fr/)                                                                                                                     | `21/5/2024` | 🟢     |
 | Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                                                           | `31/5/2024` | 🟢     |
