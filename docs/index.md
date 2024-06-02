@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 02/06/2024 00:36 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 02/06/2024 12:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -288,7 +288,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                                                            | `14/5/2024` | 🟢     |
 | Safe Exam Browser                                                 | [Link](https://safeexambrowser.org/)                                                                                                              | `5/5/2024`  | 🟢     |
 | Safing Portmaster                                                 | [Link](https://safing.io/)                                                                                                                        | `12/4/2024` | 🟢     |
-| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                                                                  | `1/6/2024`  | 🟢     |
+| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                                                                  | `2/6/2024`  | 🟢     |
 | Scooter Beyond Compare                                            | [Link](https://scootersoftware.com/)                                                                                                              | `12/4/2024` | 🟢     |
 | Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                                                                  | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                                                               | `5/5/2024`  | 🟢     |
@@ -322,7 +322,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Unity Editor                                                      | [Link](https://unity.com/download)                                                                                                                | `24/5/2024` | 🟢     |
 | USBPcap                                                           | [Link](https://github.com/desowin/usbpcap/)                                                                                                       | `5/5/2024`  | 🟢     |
 | vast limits uberAgent                                             | [Link](https://uberagent.com/)                                                                                                                    | `30/4/2024` | 🟢     |
-| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                                                                     | `1/6/2024`  | 🟢     |
+| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                                                                     | `2/6/2024`  | 🟢     |
 | Vercel Hyper                                                      | [Link](https://hyper.js/)                                                                                                                         | `5/5/2024`  | 🟢     |
 | VideoLan VLC Player                                               | [Link](https://www.videolan.org/vlc/)                                                                                                             | `2/6/2024`  | 🟢     |
 | VisualCppRedistAIO                                                | [Link](https://github.com/abbodi1406/vcredist)                                                                                                    | `5/5/2024`  | 🟢     |
