@@ -1,0 +1,15 @@
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOLEDBDriverForSQLServer18.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/dbeaver.json
+json/gretl.json
+json/JetBrainsHub.err
+json/MestrelabMnova.err
+json/PDFArranger.err
+json/ProtonDrive.err
