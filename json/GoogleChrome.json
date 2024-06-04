@@ -1,7 +1,7 @@
 [
   {
-    "Version": "127.0.6518.2",
-    "StartDate": "3/6/2024",
+    "Version": "127.0.6519.0",
+    "StartDate": "4/6/2024",
     "Architecture": "x86",
     "Channel": "Canary",
     "Type": "exe",
