@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "1632071",
     "Md5": "98c2ca4f504a87047491a7e082933edc",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm.exe"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm.exe"
   },
   {
     "Version": "24.06",
@@ -13,7 +13,7 @@
     "Type": "exe",
     "Size": "1554939",
     "Md5": "78453556058a0421d6f4c77c353c3559",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm64.exe"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm64.exe"
   },
   {
     "Version": "24.06",
@@ -21,7 +21,7 @@
     "Type": "exe",
     "Size": "1619556",
     "Md5": "d8af785ca5752bae36e8af5a2f912d81",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.exe"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.exe"
   },
   {
     "Version": "24.06",
@@ -29,7 +29,7 @@
     "Type": "exe",
     "Size": "590848",
     "Md5": "0fe04f5747f21419bc96e130b2068238",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7zr.exe"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7zr.exe"
   },
   {
     "Version": "24.06",
@@ -37,7 +37,7 @@
     "Type": "exe",
     "Size": "1330263",
     "Md5": "8515170956d36ef9da3082a7c22e8213",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.exe"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.exe"
   },
   {
     "Version": "24.06",
@@ -45,7 +45,7 @@
     "Type": "msi",
     "Size": "1964032",
     "Md5": "683ffbb58985c76d410594918b17e198",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.msi"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.msi"
   },
   {
     "Version": "24.06",
@@ -53,6 +53,6 @@
     "Type": "msi",
     "Size": "1538560",
     "Md5": "ea08861a1e3bd11baafa29b18a58c946",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.msi"
+    "URI": "https://cytranet-dal.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.msi"
   }
 ]
