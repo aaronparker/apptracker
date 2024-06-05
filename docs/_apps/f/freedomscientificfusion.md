@@ -12,7 +12,10 @@ last_modified_date: May 22 2024 at 12:38 AM
 
 Evergreen app: `FreedomScientificFusion`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version      | Date     | URI                                                                                                                                                                                                                                                                  |
 | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
