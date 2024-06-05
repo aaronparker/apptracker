@@ -12,10 +12,7 @@ last_modified_date: May 22 2024 at 12:38 AM
 
 Evergreen app: `FreedomScientificJAWS`. Found **2** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 500 (Internal Server Error).
-```
+Last check: 🟢
 
 | Version      | Architecture | Date     | URI                                                                                                                                                                                                                                                                  |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
