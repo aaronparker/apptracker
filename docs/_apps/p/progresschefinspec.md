@@ -3,7 +3,7 @@ title: Progress Chef InSpec
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: May 29 2024 at 12:32 AM
+last_modified_date: Jun 6 2024 at 12:17 PM
 ---
 
 ## Progress Chef InSpec
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                                                                                        |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.6.23  | x64          | current | 10       | 896596007ce892bb7a0aa50d2b36f808dd54fa429d582ccc9078574dfdd1fba2 | [https://packages.chef.io/files/current/inspec/6.6.23/windows/10/inspec-6.6.23-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.23/windows/10/inspec-6.6.23-1-x64.msi)         |
-| 6.6.23  | x64          | current | 11       | 896596007ce892bb7a0aa50d2b36f808dd54fa429d582ccc9078574dfdd1fba2 | [https://packages.chef.io/files/current/inspec/6.6.23/windows/11/inspec-6.6.23-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.23/windows/11/inspec-6.6.23-1-x64.msi)         |
-| 6.6.23  | x64          | current | 2012r2   | 896596007ce892bb7a0aa50d2b36f808dd54fa429d582ccc9078574dfdd1fba2 | [https://packages.chef.io/files/current/inspec/6.6.23/windows/2012r2/inspec-6.6.23-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.23/windows/2012r2/inspec-6.6.23-1-x64.msi) |
-| 6.6.23  | x64          | current | 2016     | 896596007ce892bb7a0aa50d2b36f808dd54fa429d582ccc9078574dfdd1fba2 | [https://packages.chef.io/files/current/inspec/6.6.23/windows/2016/inspec-6.6.23-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.23/windows/2016/inspec-6.6.23-1-x64.msi)     |
-| 6.6.23  | x64          | current | 2019     | 896596007ce892bb7a0aa50d2b36f808dd54fa429d582ccc9078574dfdd1fba2 | [https://packages.chef.io/files/current/inspec/6.6.23/windows/2019/inspec-6.6.23-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.23/windows/2019/inspec-6.6.23-1-x64.msi)     |
-| 6.6.23  | x64          | current | 2022     | 896596007ce892bb7a0aa50d2b36f808dd54fa429d582ccc9078574dfdd1fba2 | [https://packages.chef.io/files/current/inspec/6.6.23/windows/2022/inspec-6.6.23-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.23/windows/2022/inspec-6.6.23-1-x64.msi)     |
+| 6.6.24  | x64          | current | 10       | 538a8ef7223721f11631cb6ef4451b1bfb15191eb22fe31854937640a3c3d8b4 | [https://packages.chef.io/files/current/inspec/6.6.24/windows/10/inspec-6.6.24-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.24/windows/10/inspec-6.6.24-1-x64.msi)         |
+| 6.6.24  | x64          | current | 11       | 538a8ef7223721f11631cb6ef4451b1bfb15191eb22fe31854937640a3c3d8b4 | [https://packages.chef.io/files/current/inspec/6.6.24/windows/11/inspec-6.6.24-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.24/windows/11/inspec-6.6.24-1-x64.msi)         |
+| 6.6.24  | x64          | current | 2012r2   | 538a8ef7223721f11631cb6ef4451b1bfb15191eb22fe31854937640a3c3d8b4 | [https://packages.chef.io/files/current/inspec/6.6.24/windows/2012r2/inspec-6.6.24-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.24/windows/2012r2/inspec-6.6.24-1-x64.msi) |
+| 6.6.24  | x64          | current | 2016     | 538a8ef7223721f11631cb6ef4451b1bfb15191eb22fe31854937640a3c3d8b4 | [https://packages.chef.io/files/current/inspec/6.6.24/windows/2016/inspec-6.6.24-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.24/windows/2016/inspec-6.6.24-1-x64.msi)     |
+| 6.6.24  | x64          | current | 2019     | 538a8ef7223721f11631cb6ef4451b1bfb15191eb22fe31854937640a3c3d8b4 | [https://packages.chef.io/files/current/inspec/6.6.24/windows/2019/inspec-6.6.24-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.24/windows/2019/inspec-6.6.24-1-x64.msi)     |
+| 6.6.24  | x64          | current | 2022     | 538a8ef7223721f11631cb6ef4451b1bfb15191eb22fe31854937640a3c3d8b4 | [https://packages.chef.io/files/current/inspec/6.6.24/windows/2022/inspec-6.6.24-1-x64.msi](https://packages.chef.io/files/current/inspec/6.6.24/windows/2022/inspec-6.6.24-1-x64.msi)     |
 | 6.6.0   | x64          | stable  | 10       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | [https://packages.chef.io/files/stable/inspec/6.6.0/windows/10/inspec-6.6.0-1-x64.msi](https://packages.chef.io/files/stable/inspec/6.6.0/windows/10/inspec-6.6.0-1-x64.msi)               |
 | 6.6.0   | x64          | stable  | 11       | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | [https://packages.chef.io/files/stable/inspec/6.6.0/windows/11/inspec-6.6.0-1-x64.msi](https://packages.chef.io/files/stable/inspec/6.6.0/windows/11/inspec-6.6.0-1-x64.msi)               |
 | 6.6.0   | x64          | stable  | 2012r2   | 1461eb52539783fe65c143ecb45e030df81a6f023edfc1059a23e4ef24111377 | [https://packages.chef.io/files/stable/inspec/6.6.0/windows/2012r2/inspec-6.6.0-1-x64.msi](https://packages.chef.io/files/stable/inspec/6.6.0/windows/2012r2/inspec-6.6.0-1-x64.msi)       |
