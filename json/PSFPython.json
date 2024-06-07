@@ -1,35 +1,5 @@
 [
   {
-    "Version": "3.12.3",
-    "Python": 3,
-    "md5": "ef016521b5a147f3ded730801d36a350",
-    "Size": 25940336,
-    "Date": "9/4/2024",
-    "Type": "exe",
-    "Architecture": "ARM64",
-    "URI": "https://www.python.org/ftp/python/3.12.3/python-3.12.3-arm64.exe"
-  },
-  {
-    "Version": "3.12.3",
-    "Python": 3,
-    "md5": "c86949710e0471a065db970290819489",
-    "Size": 26712328,
-    "Date": "9/4/2024",
-    "Type": "exe",
-    "Architecture": "x64",
-    "URI": "https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe"
-  },
-  {
-    "Version": "3.12.3",
-    "Python": 3,
-    "md5": "a95c4fbdce0b6a22ca7cfb450f57c616",
-    "Size": 25408176,
-    "Date": "9/4/2024",
-    "Type": "exe",
-    "Architecture": "x86",
-    "URI": "https://www.python.org/ftp/python/3.12.3/python-3.12.3.exe"
-  },
-  {
     "Version": "2.7.18",
     "Python": 2,
     "md5": "a425c758d38f8e28b56f4724b499239a",
