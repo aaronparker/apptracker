@@ -14,7 +14,7 @@ Evergreen app: `MicrosoftAzureDataStudio`. Found **4** installers.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 502 (Bad Gateway).
+Get-MicrosoftAzureDataStudio: No update feed found for win32-x64 and Insider.
 ```
 
 | Version | Platform       | Channel | Sha256                                                           | URI                                                                                                                                                                                                                                                                                    |
