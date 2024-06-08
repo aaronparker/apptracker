@@ -1,72 +1,72 @@
 [
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 60098981,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agent-freebsd-amd64.zip"
+    "Date": "7/6/2024",
+    "Size": 60100963,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agent-freebsd-amd64.zip"
   },
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 62134056,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agent-windows-amd64.exe.zip"
+    "Date": "7/6/2024",
+    "Size": 62134455,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agent-windows-amd64.exe.zip"
   },
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 62134081,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agent-windows-boringcrypto-amd64.exe.zip"
+    "Date": "7/6/2024",
+    "Size": 62134480,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agent-windows-boringcrypto-amd64.exe.zip"
   },
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 52580069,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agentctl-freebsd-amd64.zip"
+    "Date": "7/6/2024",
+    "Size": 52585709,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agentctl-freebsd-amd64.zip"
   },
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 54445364,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agentctl-windows-amd64.exe.zip"
+    "Date": "7/6/2024",
+    "Size": 54448861,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agentctl-windows-amd64.exe.zip"
   },
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 61509173,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agent-flow-installer.exe.zip"
+    "Date": "7/6/2024",
+    "Size": 61507231,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agent-flow-installer.exe.zip"
   },
   {
-    "Version": "0.41.0",
+    "Version": "0.41.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "zip",
     "InstallerType": "Default",
-    "Date": "31/5/2024",
-    "Size": 60782484,
-    "URI": "https://github.com/grafana/agent/releases/download/v0.41.0/grafana-agent-installer.exe.zip"
+    "Date": "7/6/2024",
+    "Size": 60781854,
+    "URI": "https://github.com/grafana/agent/releases/download/v0.41.1/grafana-agent-installer.exe.zip"
   }
 ]

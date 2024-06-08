@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.8.0",
+    "Version": "4.8.1",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "11/5/2024",
-    "Size": 145739941,
-    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.0/texstudio-4.8.0-win-qt6.exe"
+    "Date": "7/6/2024",
+    "Size": 146884466,
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.1/texstudio-4.8.1-win-qt6.exe"
   }
 ]
