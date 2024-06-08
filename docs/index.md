@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 08/06/2024 00:36 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 08/06/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -19,7 +19,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password                                                         | [Link](https://1password.com/)                                                                                                                    | `22/5/2024` | 🟢     |
 | 1Password 7                                                       | [Link](https://1password.com/)                                                                                                                    | `12/4/2024` | 🟢     |
 | 1Password CLI                                                     | [Link](https://developer.1password.com/docs/cli/)                                                                                                 | `22/5/2024` | 🟢     |
-| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                                                                    | `7/6/2024`  | 🟢     |
+| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                                                                    | `8/6/2024`  | 🟢     |
 | 7-Zip ZS                                                          | [Link](https://mcmilk.de/projects/7-Zip-zstd/)                                                                                                    | `5/5/2024`  | 🟢     |
 | Adobe Acrobat updates                                             | [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)                                                                        | `14/5/2024` | 🟢     |
 | Adobe Acrobat DC updates                                          | [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)                                                              | `15/5/2024` | 🟢     |
@@ -41,7 +41,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Akeo Rufus (alternate method)                                     | [Link](https://rufus.ie)                                                                                                                          | `23/5/2024` | 🟢     |
 | Amazon Corretto                                                   | [Link](https://aws.amazon.com/corretto/)                                                                                                          | `17/4/2024` | 🟢     |
 | Anaconda                                                          | [Link](https://www.anaconda.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Anki                                                              | [Link](https://github.com/ankitects/anki/)                                                                                                        | `7/6/2024`  | 🟢     |
+| Anki                                                              | [Link](https://github.com/ankitects/anki/)                                                                                                        | `8/6/2024`  | 🟢     |
 | AppVentiX                                                         | [Link](https://appventix.com/)                                                                                                                    | `8/5/2024`  | 🟢     |
 | Artifex Ghostscript                                               | [Link](https://www.ghostscript.com/)                                                                                                              | `24/5/2024` | 🟢     |
 | Atlassian Sourcetree                                              | [Link](https://www.sourcetreeapp.com/)                                                                                                            | `17/4/2024` | 🟢     |
