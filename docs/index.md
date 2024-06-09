@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 09/06/2024 00:50 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 09/06/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -74,7 +74,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ControlUp Remote DX Plugins                                       | [Link](https://www.controlup.com/products/controlup/agent/)                                                                                       | `25/4/2024` | 🟢     |
 | iterate GmbH Cyberduck                                            | [Link](https://cyberduck.io/)                                                                                                                     | `17/5/2024` | 🟢     |
 | DB Browser for SQLite                                             | [Link](https://sqlitebrowser.org/)                                                                                                                | `5/5/2024`  | 🟢     |
-| dbeaver                                                           | [Link](https://github.com/dbeaver/dbeaver)                                                                                                        | `3/6/2024`  | 🟢     |
+| dbeaver                                                           | [Link](https://github.com/dbeaver/dbeaver)                                                                                                        | `9/6/2024`  | 🟢     |
 | Debauchee Barrier                                                 | [Link](https://github.com/debauchee/barrier)                                                                                                      | `5/5/2024`  | 🟢     |
 | deviceTRUST                                                       | [Link](https://devicetrust.com/)                                                                                                                  | `15/4/2024` | 🟢     |
 | DevToys                                                           | [Link](https://devtoys.app/)                                                                                                                      | `5/5/2024`  | 🟢     |
@@ -158,7 +158,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains WebStorm                                                | [Link](https://www.jetbrains.com/webstorm)                                                                                                        | `24/5/2024` | 🟢     |
 | JetBrains YouTrack                                                | [Link](https://www.jetbrains.com/youtrack)                                                                                                        | `5/5/2024`  | 🟢     |
 | jq                                                                | [Link](https://jqlang.github.io/jq/)                                                                                                              | `5/5/2024`  | 🟢     |
-| jrsoftware InnoSetup                                              | [Link](https://www.innosetup.com)                                                                                                                 | `12/4/2024` | 🟢     |
+| jrsoftware InnoSetup                                              | [Link](https://www.innosetup.com)                                                                                                                 | `9/6/2024`  | 🟢     |
 | Karakun OpenWebStart                                              | [Link](https://openwebstart.com/ows/)                                                                                                             | `29/5/2024` | 🟢     |
 | KDiff3                                                            | [Link](https://kdiff3.sourceforge.net/)                                                                                                           | `9/6/2024`  | 🟢     |
 | KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                                                                     | `9/6/2024`  | 🟢     |
@@ -288,7 +288,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                                                            | `14/5/2024` | 🟢     |
 | Safe Exam Browser                                                 | [Link](https://safeexambrowser.org/)                                                                                                              | `5/5/2024`  | 🟢     |
 | Safing Portmaster                                                 | [Link](https://safing.io/)                                                                                                                        | `6/6/2024`  | 🟢     |
-| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                                                                  | `8/6/2024`  | 🟢     |
+| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                                                                  | `9/6/2024`  | 🟢     |
 | Scooter Beyond Compare                                            | [Link](https://scootersoftware.com/)                                                                                                              | `12/4/2024` | 🟢     |
 | Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                                                                  | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                                                               | `5/5/2024`  | 🟢     |
