@@ -1,42 +1,42 @@
 [
   {
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "7/6/2024",
-    "Size": 85502176,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.2/Obsidian.1.6.2-arm64.exe"
+    "Date": "8/6/2024",
+    "Size": 85502368,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian.1.6.3-arm64.exe"
   },
   {
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "7/6/2024",
-    "Size": 72910456,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.2/Obsidian.1.6.2-32.exe"
+    "Date": "8/6/2024",
+    "Size": 72909968,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian.1.6.3-32.exe"
   },
   {
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "7/6/2024",
-    "Size": 82585536,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.2/Obsidian.1.6.2-allusers.exe"
+    "Date": "8/6/2024",
+    "Size": 82585640,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian.1.6.3-allusers.exe"
   },
   {
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Platform": "Windows",
     "Architecture": "x86",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "7/6/2024",
-    "Size": 82514776,
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.2/Obsidian.1.6.2.exe"
+    "Date": "8/6/2024",
+    "Size": 82515320,
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian.1.6.3.exe"
   }
 ]
