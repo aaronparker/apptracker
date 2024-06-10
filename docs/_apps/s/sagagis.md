@@ -3,7 +3,7 @@ title: SAGA-GIS
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jun 10 2024 at 12:38 AM
+last_modified_date: Jun 10 2024 at 12:17 PM
 ---
 
 ## SAGA-GIS
@@ -14,6 +14,6 @@ Evergreen app: `SAGAGIS`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                            |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.4.0   | x64          | exe  | 61755864 | ec66d2021d5e46201900dec795a5a1f1 | [https://pilotfiber.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.0/saga-9.4.0_x64_setup.exe](https://pilotfiber.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.0/saga-9.4.0_x64_setup.exe) |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                  |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9.4.1   | x64          | exe  | 61755959 | 9dc11e670d20320c361d186f2950f56c | [https://netix.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.1/saga-9.4.1_x64_setup.exe](https://netix.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.1/saga-9.4.1_x64_setup.exe) |
