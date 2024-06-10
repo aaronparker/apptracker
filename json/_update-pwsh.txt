@@ -1,0 +1,16 @@
+json/7zip.json
+json/Eduvpn.json
+json/Gimp.json
+json/KeePass.json
+json/MicrosoftTeams.json
+json/MicrosoftVisualStudioCode.json
+json/OperaBrowser.json
+json/ProgressChefWorkstation.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/StefansToolsgregpWin.json
+json/VideoLanVlcPlayer.json
+json/JetBrainsHub.err
+json/MicrosoftAzureDataStudio.err
+json/PDFArranger.err
+json/ProtonDrive.err
