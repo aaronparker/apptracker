@@ -1,0 +1,16 @@
+json/7zip.json
+json/Anki.json
+json/Gimp.json
+json/KDiff3.json
+json/KeePass.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VeraCrypt.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
+json/JetBrainsHub.err
+json/MestrelabMnova.err
+json/MicrosoftAzureDataStudio.err
+json/PDFArranger.err
+json/ProtonDrive.err
