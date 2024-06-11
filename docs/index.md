@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Tuesday 11/06/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 11/06/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **327** applications and **5377** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **327** applications and **5378** unique application installers.
 
 | Application                                                       | Source                                                                                                                                            | LastUpdate  | Status |
 |:----------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |:------ |
@@ -204,12 +204,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                                                                    | `8/6/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                                                             | `12/4/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                                                                       | `30/5/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `10/6/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `11/6/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                                                                 | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                                                         | `5/5/2024`  | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `14/5/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent                             | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `25/4/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                                                             | `31/5/2024` | 🔴     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                                                             | `31/5/2024` | 🟢     |
 | Microsoft Remote Desktop                                          | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)                                                               | `5/6/2024`  | 🟢     |
 | Microsoft Remote Desktop WebRTC Redirector Service                | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)                                                                       | `31/5/2024` | 🟢     |
 | Miniconda                                                         | [Link](https://docs.conda.io/en/latest/miniconda.html)                                                                                            | `12/4/2024` | 🟢     |
@@ -234,7 +234,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Obsidian                                                          | [Link](https://obsidian.md/)                                                                                                                      | `9/6/2024`  | 🟢     |
 | OBS Studio                                                        | [Link](https://obsproject.com/)                                                                                                                   | `12/4/2024` | 🟢     |
 | OCS Inventory Windows Agent                                       | [Link](https://ocsinventory-ng.org/)                                                                                                              | `5/5/2024`  | 🟢     |
-| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `3/6/2024`  | 🟢     |
+| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `11/6/2024` | 🟢     |
 | Octopus Tentacle                                                  | [Link](https://octopus.com/)                                                                                                                      | `23/5/2024` | 🟢     |
 | ONLYOFFICE Desktop Editors                                        | [Link](https://www.onlyoffice.com/desktop.aspx)                                                                                                   | `5/5/2024`  | 🟢     |
 | OpenJDK                                                           | [Link](https://openjdk.java.net/)                                                                                                                 | `5/5/2024`  | 🟢     |
@@ -263,7 +263,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Plex Media ServerDesktop                                          | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `19/4/2024` | 🟢     |
 | Podman                                                            | [Link](https://github.com/containers/podman)                                                                                                      | `5/6/2024`  | 🟢     |
 | Podman Desktop                                                    | [Link](https://github.com/containers/podman-desktop)                                                                                              | `28/5/2024` | 🟢     |
-| Postman                                                           | [Link](https://www.getpostman.com/)                                                                                                               | `22/5/2024` | 🟢     |
+| Postman                                                           | [Link](https://www.getpostman.com/)                                                                                                               | `11/6/2024` | 🟢     |
 | Praat                                                             | [Link](https://www.fon.hum.uva.nl/praat/)                                                                                                         | `11/6/2024` | 🟢     |
 | Progress Chef Infra Client                                        | [Link](https://www.chef.io/products/chef-infra)                                                                                                   | `2/5/2024`  | 🟢     |
 | Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                                                                  | `6/6/2024`  | 🟢     |
@@ -304,7 +304,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
 | Tableau Prep                                                      | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
 | Tableau Reader                                                    | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
-| TeamViewer                                                        | [Link](https://www.teamviewer.com/)                                                                                                               | `4/6/2024`  | 🟢     |
+| TeamViewer                                                        | [Link](https://www.teamviewer.com/)                                                                                                               | `11/6/2024` | 🟢     |
 | TechSmith Camtasia                                                | [Link](https://www.techsmith.com/)                                                                                                                | `4/6/2024`  | 🟢     |
 | TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                                                                | `7/6/2024`  | 🟢     |
 | Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                                                             | `7/6/2024`  | 🟢     |
