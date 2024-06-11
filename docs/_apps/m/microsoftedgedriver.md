@@ -3,7 +3,7 @@ title: Microsoft Edge WebDriver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jun 7 2024 at 12:44 AM
+last_modified_date: Jun 11 2024 at 12:37 AM
 ---
 
 ## Microsoft Edge WebDriver
@@ -19,9 +19,9 @@ Last check: 🟢
 | 127.0.2620.3  | Dev     | ARM64        | [https://msedgedriver.azureedge.net/127.0.2620.3/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/127.0.2620.3/edgedriver_arm64.zip)   |
 | 127.0.2620.3  | Dev     | x64          | [https://msedgedriver.azureedge.net/127.0.2620.3/edgedriver_win64.zip](https://msedgedriver.azureedge.net/127.0.2620.3/edgedriver_win64.zip)   |
 | 127.0.2620.3  | Dev     | x86          | [https://msedgedriver.azureedge.net/127.0.2620.3/edgedriver_win32.zip](https://msedgedriver.azureedge.net/127.0.2620.3/edgedriver_win32.zip)   |
-| 126.0.2592.36 | Beta    | ARM64        | [https://msedgedriver.azureedge.net/126.0.2592.36/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/126.0.2592.36/edgedriver_arm64.zip) |
-| 126.0.2592.36 | Beta    | x64          | [https://msedgedriver.azureedge.net/126.0.2592.36/edgedriver_win64.zip](https://msedgedriver.azureedge.net/126.0.2592.36/edgedriver_win64.zip) |
-| 126.0.2592.36 | Beta    | x86          | [https://msedgedriver.azureedge.net/126.0.2592.36/edgedriver_win32.zip](https://msedgedriver.azureedge.net/126.0.2592.36/edgedriver_win32.zip) |
+| 126.0.2592.49 | Beta    | ARM64        | [https://msedgedriver.azureedge.net/126.0.2592.49/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/126.0.2592.49/edgedriver_arm64.zip) |
+| 126.0.2592.49 | Beta    | x64          | [https://msedgedriver.azureedge.net/126.0.2592.49/edgedriver_win64.zip](https://msedgedriver.azureedge.net/126.0.2592.49/edgedriver_win64.zip) |
+| 126.0.2592.49 | Beta    | x86          | [https://msedgedriver.azureedge.net/126.0.2592.49/edgedriver_win32.zip](https://msedgedriver.azureedge.net/126.0.2592.49/edgedriver_win32.zip) |
 | 125.0.2535.92 | Stable  | ARM64        | [https://msedgedriver.azureedge.net/125.0.2535.92/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/125.0.2535.92/edgedriver_arm64.zip) |
 | 125.0.2535.92 | Stable  | x64          | [https://msedgedriver.azureedge.net/125.0.2535.92/edgedriver_win64.zip](https://msedgedriver.azureedge.net/125.0.2535.92/edgedriver_win64.zip) |
 | 125.0.2535.92 | Stable  | x86          | [https://msedgedriver.azureedge.net/125.0.2535.92/edgedriver_win32.zip](https://msedgedriver.azureedge.net/125.0.2535.92/edgedriver_win32.zip) |

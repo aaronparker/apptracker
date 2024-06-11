@@ -3,7 +3,7 @@ title: JetBrains WebStorm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: May 24 2024 at 12:37 AM
+last_modified_date: Jun 11 2024 at 12:37 AM
 ---
 
 ## JetBrains WebStorm
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Build        | Edition  | Sha256                                                               | Date      | Size      | Type | URI                                                                                                                            |
 | -------- | ------------ | -------- | -------------------------------------------------------------------- | --------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.1.3 | 241.17011.90 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2024.1.3.exe.sha256 | 23/5/2024 | 605013296 | exe  | [https://download.jetbrains.com/webstorm/WebStorm-2024.1.3.exe](https://download.jetbrains.com/webstorm/WebStorm-2024.1.3.exe) |
+| 2024.1.4 | 241.17890.13 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2024.1.4.exe.sha256 | 10/6/2024 | 605963816 | exe  | [https://download.jetbrains.com/webstorm/WebStorm-2024.1.4.exe](https://download.jetbrains.com/webstorm/WebStorm-2024.1.4.exe) |
