@@ -3,7 +3,7 @@ title: Node.js
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: May 29 2024 at 12:32 AM
+last_modified_date: Jun 12 2024 at 12:39 AM
 ---
 
 ## Node.js
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version | Architecture | Type | Channel | URI                                                                                                                      |
 | ------- | ------------ | ---- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 22.2.0  | ARM64        | msi  | Current | [https://nodejs.org/dist/v22.2.0/node-v22.2.0-arm64.msi](https://nodejs.org/dist/v22.2.0/node-v22.2.0-arm64.msi)         |
-| 22.2.0  | x64          | msi  | Current | [https://nodejs.org/dist/v22.2.0/node-v22.2.0-x64.msi](https://nodejs.org/dist/v22.2.0/node-v22.2.0-x64.msi)             |
-| 22.2.0  | x86          | msi  | Current | [https://nodejs.org/dist/v22.2.0/node-v22.2.0-x86.msi](https://nodejs.org/dist/v22.2.0/node-v22.2.0-x86.msi)             |
-| 22.2.0  | ARM64        | zip  | Current | [https://nodejs.org/dist/v22.2.0/node-v22.2.0-win-arm64.zip](https://nodejs.org/dist/v22.2.0/node-v22.2.0-win-arm64.zip) |
-| 22.2.0  | x64          | zip  | Current | [https://nodejs.org/dist/v22.2.0/node-v22.2.0-win-x64.zip](https://nodejs.org/dist/v22.2.0/node-v22.2.0-win-x64.zip)     |
-| 22.2.0  | x86          | zip  | Current | [https://nodejs.org/dist/v22.2.0/node-v22.2.0-win-x86.zip](https://nodejs.org/dist/v22.2.0/node-v22.2.0-win-x86.zip)     |
+| 22.3.0  | ARM64        | msi  | Current | [https://nodejs.org/dist/v22.3.0/node-v22.3.0-arm64.msi](https://nodejs.org/dist/v22.3.0/node-v22.3.0-arm64.msi)         |
+| 22.3.0  | x64          | msi  | Current | [https://nodejs.org/dist/v22.3.0/node-v22.3.0-x64.msi](https://nodejs.org/dist/v22.3.0/node-v22.3.0-x64.msi)             |
+| 22.3.0  | x86          | msi  | Current | [https://nodejs.org/dist/v22.3.0/node-v22.3.0-x86.msi](https://nodejs.org/dist/v22.3.0/node-v22.3.0-x86.msi)             |
+| 22.3.0  | ARM64        | zip  | Current | [https://nodejs.org/dist/v22.3.0/node-v22.3.0-win-arm64.zip](https://nodejs.org/dist/v22.3.0/node-v22.3.0-win-arm64.zip) |
+| 22.3.0  | x64          | zip  | Current | [https://nodejs.org/dist/v22.3.0/node-v22.3.0-win-x64.zip](https://nodejs.org/dist/v22.3.0/node-v22.3.0-win-x64.zip)     |
+| 22.3.0  | x86          | zip  | Current | [https://nodejs.org/dist/v22.3.0/node-v22.3.0-win-x86.zip](https://nodejs.org/dist/v22.3.0/node-v22.3.0-win-x86.zip)     |
 | 20.14.0 | x64          | msi  | LTS     | [https://nodejs.org/dist/v20.14.0/node-v20.14.0-x64.msi](https://nodejs.org/dist/v20.14.0/node-v20.14.0-x64.msi)         |
 | 20.14.0 | x86          | msi  | LTS     | [https://nodejs.org/dist/v20.14.0/node-v20.14.0-x86.msi](https://nodejs.org/dist/v20.14.0/node-v20.14.0-x86.msi)         |
 | 20.14.0 | x64          | zip  | LTS     | [https://nodejs.org/dist/v20.14.0/node-v20.14.0-win-x64.zip](https://nodejs.org/dist/v20.14.0/node-v20.14.0-win-x64.zip) |
