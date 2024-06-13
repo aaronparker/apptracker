@@ -1,30 +1,39 @@
 [
   {
-    "Version": "24.117.0610.0001",
+    "Version": "24.118.0611.0001",
     "Throttle": "100",
     "Architecture": "ARM64",
     "Ring": "InternalFast",
     "Type": "exe",
-    "Sha256": "ef661f587f9565344ef0efe3491418916fe41342732a22e450cfce73527b4df0",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.117.0610.0001/arm64/OneDriveSetup.exe"
+    "Sha256": "966b7c078b6707525636d9e50544c9e5c1ef84a85360341fffc6c0a511642e5b",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.118.0611.0001/arm64/OneDriveSetup.exe"
   },
   {
-    "Version": "24.117.0610.0001",
+    "Version": "24.118.0611.0001",
     "Throttle": "100",
     "Architecture": "x64",
     "Ring": "InternalFast",
     "Type": "exe",
-    "Sha256": "b5a3a4c0fa069a8ed4d9bd04d25ffb8582ee664931f2e82eda082dd4a71dd7ae",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.117.0610.0001/amd64/OneDriveSetup.exe"
+    "Sha256": "f6983b56922c06c27254e54078e0c3a408a43d779588a93533a0f647ccc0b7c0",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.118.0611.0001/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "24.117.0610.0001",
+    "Version": "24.118.0611.0001",
     "Throttle": "100",
     "Architecture": "x86",
     "Ring": "InternalFast",
     "Type": "exe",
-    "Sha256": "2b9705fa4e73d70622bd6fd4cc5a301f4a52ba43925c0d2a63701bcac8c5fed1",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.117.0610.0001/OneDriveSetup.exe"
+    "Sha256": "78edffa7b87153505b9efc24928c66c819ade22e4adc6c447035960ccad4f029",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.118.0611.0001/OneDriveSetup.exe"
+  },
+  {
+    "Version": "24.116.0609.0002",
+    "Throttle": "10",
+    "Architecture": "ARM64",
+    "Ring": "Insider",
+    "Type": "exe",
+    "Sha256": "60041671988a631ed28a4a237d320666933d3800da1a1ba5351c7b07ef830f10",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.116.0609.0002/arm64/OneDriveSetup.exe"
   },
   {
     "Version": "24.116.0609.0002",
@@ -37,12 +46,30 @@
   },
   {
     "Version": "24.116.0609.0002",
+    "Throttle": "10",
+    "Architecture": "x64",
+    "Ring": "Insider",
+    "Type": "exe",
+    "Sha256": "02328d05d9fb750f4f43f2aa54bf88c9de30ddda307cd6911861c217f6672027",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.116.0609.0002/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "24.116.0609.0002",
     "Throttle": "100",
     "Architecture": "x64",
     "Ring": "InternalSlow",
     "Type": "exe",
     "Sha256": "02328d05d9fb750f4f43f2aa54bf88c9de30ddda307cd6911861c217f6672027",
     "URI": "https://oneclient.sfx.ms/Win/Installers/24.116.0609.0002/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "24.116.0609.0002",
+    "Throttle": "10",
+    "Architecture": "x86",
+    "Ring": "Insider",
+    "Type": "exe",
+    "Sha256": "9b446896afed6ed8a37ad53bef14cb303ac7d4a175bb6a8752bdb9040fbec20d",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/24.116.0609.0002/OneDriveSetup.exe"
   },
   {
     "Version": "24.116.0609.0002",
@@ -82,7 +109,7 @@
   },
   {
     "Version": "24.111.0602.0003",
-    "Throttle": "1",
+    "Throttle": "10",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -91,7 +118,7 @@
   },
   {
     "Version": "24.111.0602.0003",
-    "Throttle": "1",
+    "Throttle": "10",
     "Architecture": "x64",
     "Ring": "Production",
     "Type": "exe",
@@ -100,7 +127,7 @@
   },
   {
     "Version": "24.111.0602.0003",
-    "Throttle": "1",
+    "Throttle": "10",
     "Architecture": "x86",
     "Ring": "Production",
     "Type": "exe",
@@ -109,7 +136,7 @@
   },
   {
     "Version": "24.108.0528.0005",
-    "Throttle": "25",
+    "Throttle": "50",
     "Architecture": "ARM64",
     "Ring": "Production",
     "Type": "exe",
@@ -118,7 +145,7 @@
   },
   {
     "Version": "24.108.0528.0005",
-    "Throttle": "25",
+    "Throttle": "50",
     "Architecture": "x64",
     "Ring": "Production",
     "Type": "exe",
@@ -127,7 +154,7 @@
   },
   {
     "Version": "24.108.0528.0005",
-    "Throttle": "25",
+    "Throttle": "50",
     "Architecture": "x86",
     "Ring": "Production",
     "Type": "exe",
