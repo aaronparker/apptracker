@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.90.0.24158",
+    "Version": "1.90.1.24165",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "6/6/2024",
-    "Size": 94509760,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.0.24158/VSCodiumSetup-arm64-1.90.0.24158.exe"
+    "Date": "13/6/2024",
+    "Size": 94510555,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.1.24165/VSCodiumSetup-arm64-1.90.1.24165.exe"
   },
   {
-    "Version": "1.90.0.24158",
+    "Version": "1.90.1.24165",
     "Platform": "Windows",
     "Architecture": "ARM64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "6/6/2024",
-    "Size": 94510235,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.0.24158/VSCodiumUserSetup-arm64-1.90.0.24158.exe"
+    "Date": "13/6/2024",
+    "Size": 94510973,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.1.24165/VSCodiumUserSetup-arm64-1.90.1.24165.exe"
   },
   {
-    "Version": "1.90.0.24158",
+    "Version": "1.90.1.24165",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "Default",
-    "Date": "6/6/2024",
-    "Size": 97578413,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.0.24158/VSCodiumSetup-x64-1.90.0.24158.exe"
+    "Date": "13/6/2024",
+    "Size": 97497465,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.1.24165/VSCodiumSetup-x64-1.90.1.24165.exe"
   },
   {
-    "Version": "1.90.0.24158",
+    "Version": "1.90.1.24165",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "exe",
     "InstallerType": "User",
-    "Date": "6/6/2024",
-    "Size": 97578876,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.0.24158/VSCodiumUserSetup-x64-1.90.0.24158.exe"
+    "Date": "13/6/2024",
+    "Size": 97497899,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.1.24165/VSCodiumUserSetup-x64-1.90.1.24165.exe"
   },
   {
-    "Version": "1.90.0.24158",
+    "Version": "1.90.1.24165",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "6/6/2024",
-    "Size": 112214016,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.0.24158/VSCodium-x64-1.90.0.24158.msi"
+    "Date": "13/6/2024",
+    "Size": 112226304,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.1.24165/VSCodium-x64-1.90.1.24165.msi"
   },
   {
-    "Version": "1.90.0.24158",
+    "Version": "1.90.1.24165",
     "Platform": "Windows",
     "Architecture": "x64",
     "Type": "msi",
     "InstallerType": "Default",
-    "Date": "6/6/2024",
-    "Size": 112214016,
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.0.24158/VSCodium-x64-updates-disabled-1.90.0.24158.msi"
+    "Date": "13/6/2024",
+    "Size": 112226304,
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.1.24165/VSCodium-x64-updates-disabled-1.90.1.24165.msi"
   }
 ]
