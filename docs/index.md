@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Friday 14/06/2024 00:36 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 14/06/2024 12:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -26,7 +26,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Adobe Acrobat DC Pro and Standard                                 | [Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)                                                                              | `15/5/2024` | 🟢     |
 | Adobe Acrobat Reader DC                                           | [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)                                                                                   | `15/5/2024` | 🟢     |
 | Adobe Brackets                                                    | [Link](http://brackets.io/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Adobe Connect meeting application                                 | [Link](https://www.adobe.com/products/adobeconnect.html)                                                                                          | `5/5/2024`  | 🟢     |
+| Adobe Connect meeting application                                 | [Link](https://www.adobe.com/products/adobeconnect.html)                                                                                          | `14/6/2024` | 🟢     |
 | Adobe Digital Editions                                            | [Link](https://www.adobe.com/solutions/ebook/digital-editions.html)                                                                               | `2/5/2024`  | 🟢     |
 | Adoptium Temurin 11                                               | [Link](https://adoptium.net/)                                                                                                                     | `23/4/2024` | 🟢     |
 | Adoptium Temurin 16                                               | [Link](https://adoptium.net/)                                                                                                                     | `12/4/2024` | 🟢     |
@@ -143,7 +143,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JeremyMain GPUProfiler                                            | [Link](https://github.com/JeremyMain/GPUProfiler)                                                                                                 | `5/5/2024`  | 🟢     |
 | JetBrains CLion                                                   | [Link](https://www.jetbrains.com/clion)                                                                                                           | `11/6/2024` | 🟢     |
 | JetBrains DataGrip                                                | [Link](https://www.jetbrains.com/datagrip)                                                                                                        | `11/6/2024` | 🟢     |
-| JetBrains DataSpell                                               | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `11/6/2024` | 🟢     |
+| JetBrains DataSpell                                               | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `14/6/2024` | 🟢     |
 | JetBrains Gateway                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `24/5/2024` | 🟢     |
 | JetBrains GoLand                                                  | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `11/6/2024` | 🟢     |
 | JetBrains Hub                                                     | [Link](https://www.jetbrains.com/hub)                                                                                                             | `19/9/2023` | 🔴     |
@@ -172,7 +172,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `12/6/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🔴     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `12/6/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `12/6/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `31/5/2024` | 🟢     |
@@ -268,7 +268,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Progress Chef Infra Client                                        | [Link](https://www.chef.io/products/chef-infra)                                                                                                   | `2/5/2024`  | 🟢     |
 | Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                                                                  | `14/6/2024` | 🟢     |
 | Progress Chef Workstation                                         | [Link](https://www.chef.io/products/chef-workstation)                                                                                             | `10/6/2024` | 🟢     |
-| ProjectLibre                                                      | [Link](https://www.projectlibre.com/)                                                                                                             | `13/6/2024` | 🟢     |
+| ProjectLibre                                                      | [Link](https://www.projectlibre.com/)                                                                                                             | `14/6/2024` | 🟢     |
 | Protege                                                           | [Link](https://protege.stanford.edu/)                                                                                                             | `31/5/2024` | 🟢     |
 | Proton Drive                                                      | [Link](https://proton.me/drive/)                                                                                                                  | `12/4/2024` | 🔴     |
 | Proton VPN                                                        | [Link](https://protonvpn.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
@@ -276,7 +276,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | PSAppDeployToolkit                                                | [Link](https://psappdeploytoolkit.com/)                                                                                                           | `5/5/2024`  | 🟢     |
 | PSF Python                                                        | [Link](https://www.python.org/)                                                                                                                   | `7/6/2024`  | 🟢     |
 | PuTTY                                                             | [Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/)                                                                                       | `16/4/2024` | 🟢     |
-| R Core Team R for Windows                                         | [Link](https://cran.r-project.org/bin/windows/base/)                                                                                              | `25/4/2024` | 🟢     |
+| R Core Team R for Windows                                         | [Link](https://cran.r-project.org/bin/windows/base/)                                                                                              | `14/6/2024` | 🟢     |
 | Remote Desktop Analyzer                                           | [Link](https://rdanalyzer.com/)                                                                                                                   | `5/5/2024`  | 🟢     |
 | Red Hat OpenJDK 11                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
 | Red Hat OpenJDK 17                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |

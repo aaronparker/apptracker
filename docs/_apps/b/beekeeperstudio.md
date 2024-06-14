@@ -3,7 +3,7 @@ title: Beekeeper Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Jun 14 2024 at 12:32 AM
+last_modified_date: Jun 14 2024 at 12:23 PM
 ---
 
 ## Beekeeper Studio
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Platform | Architecture | Type | InstallerType | Date      | Size     | URI                                                                                                                                                                                                                                    |
 | ------- | -------- | ------------ | ---- | ------------- | --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.4.0   | Windows  | x86          | exe  | Portable      | 12/6/2024 | 74920696 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.4.0/Beekeeper-Studio-4.4.0-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.4.0/Beekeeper-Studio-4.4.0-portable.exe) |
-| 4.4.0   | Windows  | x86          | exe  | Default       | 12/6/2024 | 75083672 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.4.0/Beekeeper-Studio-Setup-4.4.0.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.4.0/Beekeeper-Studio-Setup-4.4.0.exe)       |
+| 4.3.4   | Windows  | x86          | exe  | Portable      | 23/5/2024 | 72438272 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.4/Beekeeper-Studio-4.3.4-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.4/Beekeeper-Studio-4.3.4-portable.exe) |
+| 4.3.4   | Windows  | x86          | exe  | Default       | 23/5/2024 | 72601248 | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.4/Beekeeper-Studio-Setup-4.3.4.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.3.4/Beekeeper-Studio-Setup-4.3.4.exe)       |
