@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "11588560",
     "Md5": "91dbb70daebfd07c13cc7bf5bb8898a0",
-    "URI": "https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe"
+    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe"
   },
   {
     "Version": "6.3.3",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "27959296",
     "Md5": "1289dddf9fceb42565a4d3bf70862427",
-    "URI": "https://netactuate.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi"
+    "URI": "https://versaweb.dl.sourceforge.net/project/winscp/WinSCP/6.3.3/WinSCP-6.3.3.msi"
   }
 ]

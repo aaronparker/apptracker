@@ -1,11 +1,27 @@
 [
   {
-    "Version": "128.0.6538.0",
+    "Version": "128.0.6539.0",
     "StartDate": "14/6/2024",
     "Architecture": "x86",
     "Channel": "Canary",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
+  },
+  {
+    "Version": "128.0.6535.2",
+    "StartDate": "14/6/2024",
+    "Architecture": "x64",
+    "Channel": "Dev",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "128.0.6535.2",
+    "StartDate": "14/6/2024",
+    "Architecture": "x86",
+    "Channel": "Dev",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "127.0.6533.5",
@@ -22,22 +38,6 @@
     "Channel": "Beta",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "127.0.6523.4",
-    "StartDate": "8/6/2024",
-    "Architecture": "x64",
-    "Channel": "Dev",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
-  },
-  {
-    "Version": "127.0.6523.4",
-    "StartDate": "8/6/2024",
-    "Architecture": "x86",
-    "Channel": "Dev",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "126.0.6478.62",
