@@ -3,7 +3,7 @@ title: Safe Exam Browser
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: Jun 15 2024 at 12:31 AM
 ---
 
 ## Safe Exam Browser
@@ -14,8 +14,8 @@ Evergreen app: `SafeExamBrowser`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | Platform | Architecture | Type | InstallerType | Date     | Size      | URI                                                                                                                                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | -------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.7.0   | Windows  | x86          | exe  | Default       | 3/4/2024 | 296483464 | [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_SetupBundle.exe](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_SetupBundle.exe) |
-| 3.7.0   | Windows  | x64          | msi  | Default       | 3/4/2024 | 157450240 | [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_x64_Setup.msi](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_x64_Setup.msi)     |
-| 3.7.0   | Windows  | x86          | msi  | Default       | 3/4/2024 | 137703424 | [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_x86_Setup.msi](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_x86_Setup.msi)     |
+| Version | Platform | Architecture | Type | InstallerType | Date      | Size      | URI                                                                                                                                                                                                                            |
+| ------- | -------- | ------------ | ---- | ------------- | --------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3.7.1   | Windows  | x86          | exe  | Default       | 14/6/2024 | 296730288 | [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.1/SEB_3.7.1.704_SetupBundle.exe](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.1/SEB_3.7.1.704_SetupBundle.exe) |
+| 3.7.1   | Windows  | x64          | msi  | Default       | 14/6/2024 | 157564928 | [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.1/SEB_3.7.1.704_x64_Setup.msi](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.1/SEB_3.7.1.704_x64_Setup.msi)     |
+| 3.7.1   | Windows  | x86          | msi  | Default       | 14/6/2024 | 137822208 | [https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.1/SEB_3.7.1.704_x86_Setup.msi](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.1/SEB_3.7.1.704_x86_Setup.msi)     |
