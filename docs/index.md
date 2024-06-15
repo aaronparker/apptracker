@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 15/06/2024 00:36 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 15/06/2024 12:18 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **327** applications and **5469** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **327** applications and **5470** unique application installers.
 
 | Application                                                       | Source                                                                                                                                            | LastUpdate  | Status |
 |:----------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |:------ |
@@ -60,7 +60,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | BellSoft Liberica JDK 20                                          | [Link](https://bell-sw.com/libericajdk/)                                                                                                          | `2/5/2024`  | 🟢     |
 | BellSoft Liberica JDK 8 LTS                                       | [Link](https://bell-sw.com/libericajdk/)                                                                                                          | `2/5/2024`  | 🟢     |
 | Base Image Script Framework                                       | [Link](https://eucweb.com/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Bitwarden Desktop                                                 | [Link](https://bitwarden.com/)                                                                                                                    | `13/6/2024` | 🟢     |
+| Bitwarden Desktop                                                 | [Link](https://bitwarden.com/)                                                                                                                    | `15/6/2024` | 🟢     |
 | Blender Launcher                                                  | [Link](https://dotbow.github.io/Blender-Launcher/)                                                                                                | `5/5/2024`  | 🟢     |
 | BlueJ                                                             | [Link](https://www.bluej.org/)                                                                                                                    | `12/4/2024` | 🟢     |
 | Cendio ThinLinc                                                   | [Link](https://www.cendio.com/)                                                                                                                   | `12/4/2024` | 🟢     |
@@ -124,7 +124,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                                                                  | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                                                           | `8/6/2024`  | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                                                                 | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `14/6/2024` | 🟢     |
+| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `15/6/2024` | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                                                          | `31/5/2024` | 🟢     |
 | Handbrake                                                         | [Link](https://handbrake.fr/)                                                                                                                     | `21/5/2024` | 🟢     |
 | Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                                                           | `31/5/2024` | 🟢     |
@@ -146,7 +146,6 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains DataSpell                                               | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `14/6/2024` | 🟢     |
 | JetBrains Gateway                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `24/5/2024` | 🟢     |
 | JetBrains GoLand                                                  | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `11/6/2024` | 🟢     |
-| JetBrains Hub                                                     | [Link](https://www.jetbrains.com/hub)                                                                                                             | `19/9/2023` | 🔴     |
 | JetBrains IntelliJ IDEA                                           | [Link](https://www.jetbrains.com/)                                                                                                                | `11/6/2024` | 🟢     |
 | JetBrains PhpStorm                                                | [Link](https://www.jetbrains.com/phpstorm)                                                                                                        | `11/6/2024` | 🟢     |
 | JetBrains PyCharm                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `11/6/2024` | 🟢     |
@@ -254,7 +253,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | dotPDN LLC Paint.NET Offline Installer                            | [Link](https://getpaint.net/)                                                                                                                     | `5/5/2024`  | 🟢     |
 | Pandoc                                                            | [Link](https://pandoc.org/)                                                                                                                       | `12/5/2024` | 🟢     |
 | Parallels Client                                                  | [Link](https://www.parallels.com/products/ras/download/links/)                                                                                    | `23/5/2024` | 🟢     |
-| PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                                                               | `8/7/2023`  | 🔴     |
+| PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                                                               | `15/6/2024` | 🟢     |
 | pdfforge PDFCreator                                               | [Link](https://www.pdfforge.org/pdfcreator)                                                                                                       | `17/5/2024` | 🟢     |
 | PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                                                                 | `11/5/2024` | 🟢     |
 | Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                                                         | `4/6/2024`  | 🟢     |
@@ -276,7 +275,8 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | PSAppDeployToolkit                                                | [Link](https://psappdeploytoolkit.com/)                                                                                                           | `5/5/2024`  | 🟢     |
 | PSF Python                                                        | [Link](https://www.python.org/)                                                                                                                   | `7/6/2024`  | 🟢     |
 | PuTTY                                                             | [Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/)                                                                                       | `16/4/2024` | 🟢     |
-| R Core Team R for Windows                                         | [Link](https://cran.r-project.org/bin/windows/base/)                                                                                              | `14/6/2024` | 🟢     |
+| QGIS                                                              | [Link](https://qgis.org/en/site/index.html)                                                                                                       | `15/6/2024` | 🟢     |
+| R Core Team R for Windows                                         | [Link](https://cran.r-project.org/bin/windows/base/)                                                                                              | `15/6/2024` | 🟢     |
 | Remote Desktop Analyzer                                           | [Link](https://rdanalyzer.com/)                                                                                                                   | `5/5/2024`  | 🟢     |
 | Red Hat OpenJDK 11                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
 | Red Hat OpenJDK 17                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
