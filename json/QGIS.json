@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "3.36.3-2",
+    "Channel": "latest",
+    "Date": "2024-05-17",
+    "URI": "https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.36.3-2.msi"
+  },
+  {
+    "Version": "3.34.7-2",
+    "Channel": "ltr",
+    "Date": "2024-05-17",
+    "URI": "https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.34.7-2.msi"
+  }
+]
