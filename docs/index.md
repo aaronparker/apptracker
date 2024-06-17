@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Monday 17/06/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 17/06/2024 12:19 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -113,10 +113,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GitHub Atom                                                       | [Link](https://atom.io/)                                                                                                                          | `5/5/2024`  | 🟢     |
 | GitHub Desktop                                                    | [Link](https://desktop.github.com/)                                                                                                               | `6/6/2024`  | 🟢     |
 | GitHub release                                                    | [Link](https://github.com/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Google Chrome Enterprise                                          | [Link](https://cloud.google.com/chrome-enterprise/browser/download/)                                                                              | `15/6/2024` | 🟢     |
-| Google Chrome Driver                                              | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `15/6/2024` | 🟢     |
-| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `15/6/2024` | 🟢     |
-| Google Chrome Headless Shell                                      | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `15/6/2024` | 🟢     |
+| Google Chrome Enterprise                                          | [Link](https://cloud.google.com/chrome-enterprise/browser/download/)                                                                              | `17/6/2024` | 🟢     |
+| Google Chrome Driver                                              | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `17/6/2024` | 🟢     |
+| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `17/6/2024` | 🟢     |
+| Google Chrome Headless Shell                                      | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `17/6/2024` | 🟢     |
 | Google Drive                                                      | [Link](https://support.google.com/drive/answer/7329379)                                                                                           | `12/4/2024` | 🟢     |
 | GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)                                                | `12/4/2024` | 🟢     |
 | GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                                                             | `12/4/2024` | 🟢     |
@@ -124,7 +124,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                                                                  | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                                                           | `8/6/2024`  | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                                                                 | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `16/6/2024` | 🟢     |
+| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `17/6/2024` | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                                                          | `31/5/2024` | 🟢     |
 | Handbrake                                                         | [Link](https://handbrake.fr/)                                                                                                                     | `21/5/2024` | 🟢     |
 | Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                                                           | `31/5/2024` | 🟢     |
@@ -283,7 +283,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Red Hat OpenJDK 21                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `22/5/2024` | 🟢     |
 | Red Hat OpenJDK 8                                                 | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
 | Responsively App                                                  | [Link](https://responsively.app/)                                                                                                                 | `7/6/2024`  | 🟢     |
-| RingCentral                                                       | [Link](https://www.ringcentral.com)                                                                                                               | `6/6/2024`  | 🟢     |
+| RingCentral                                                       | [Link](https://www.ringcentral.com)                                                                                                               | `17/6/2024` | 🟢     |
 | Rizonesoft Notepad3                                               | [Link](https://www.rizonesoft.com/downloads/notepad3)                                                                                             | `5/5/2024`  | 🟢     |
 | RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                                                            | `11/6/2024` | 🟢     |
 | Safe Exam Browser                                                 | [Link](https://safeexambrowser.org/)                                                                                                              | `15/6/2024` | 🟢     |
@@ -339,7 +339,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | XnSoft Convert                                                    | [Link](https://www.xnview.com/en/xnconvert/)                                                                                                      | `12/4/2024` | 🟢     |
 | XnSoft XnView MP                                                  | [Link](https://www.xnview.com/en/xnviewmp/)                                                                                                       | `5/6/2024`  | 🟢     |
 | Yubico Authenticator                                              | [Link](https://github.com/Yubico/yubioath-flutter/)                                                                                               | `7/5/2024`  | 🟢     |
-| Zoom                                                              | [Link](https://zoom.us/download)                                                                                                                  | `7/6/2024`  | 🟢     |
+| Zoom                                                              | [Link](https://zoom.us/download)                                                                                                                  | `17/6/2024` | 🟢     |
 | Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)                                                        | `13/5/2024` | 🟢     |
 | ZorgMail Veilig verzenden plug-in                                 | [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)                                                   | `12/4/2024` | 🟢     |
 | Zotero                                                            | [Link](https://www.zotero.org/)                                                                                                                   | `12/4/2024` | 🟢     |
