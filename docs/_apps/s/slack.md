@@ -12,7 +12,10 @@ last_modified_date: May 23 2024 at 12:27 PM
 
 Evergreen app: `Slack`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version  | Platform   | Architecture | URI                                                                                                                                                                                                                |
 | -------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
