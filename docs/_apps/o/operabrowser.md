@@ -3,7 +3,7 @@ title: Opera Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Jun 14 2024 at 12:32 AM
+last_modified_date: Jun 19 2024 at 12:37 AM
 ---
 
 ## Opera Browser
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version       | Channel   | Architecture | Type | URI                                                                                                                                                                                                                    |
 | ------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 112.0.5196.0  | Developer | x64          | exe  | [https://get.geo.opera.com/pub/opera-developer/112.0.5196.0/win/Opera_Developer_112.0.5196.0_Setup_x64.exe](https://get.geo.opera.com/pub/opera-developer/112.0.5196.0/win/Opera_Developer_112.0.5196.0_Setup_x64.exe) |
-| 112.0.5196.0  | Developer | x86          | exe  | [https://get.geo.opera.com/pub/opera-developer/112.0.5196.0/win/Opera_Developer_112.0.5196.0_Setup.exe](https://get.geo.opera.com/pub/opera-developer/112.0.5196.0/win/Opera_Developer_112.0.5196.0_Setup.exe)         |
+| 113.0.5201.0  | Developer | x64          | exe  | [https://get.geo.opera.com/pub/opera-developer/113.0.5201.0/win/Opera_Developer_113.0.5201.0_Setup_x64.exe](https://get.geo.opera.com/pub/opera-developer/113.0.5201.0/win/Opera_Developer_113.0.5201.0_Setup_x64.exe) |
+| 113.0.5201.0  | Developer | x86          | exe  | [https://get.geo.opera.com/pub/opera-developer/113.0.5201.0/win/Opera_Developer_113.0.5201.0_Setup.exe](https://get.geo.opera.com/pub/opera-developer/113.0.5201.0/win/Opera_Developer_113.0.5201.0_Setup.exe)         |
 | 111.0.5168.15 | Beta      | x64          | exe  | [https://get.geo.opera.com/pub/opera-beta/111.0.5168.15/win/Opera_beta_111.0.5168.15_Setup_x64.exe](https://get.geo.opera.com/pub/opera-beta/111.0.5168.15/win/Opera_beta_111.0.5168.15_Setup_x64.exe)                 |
 | 111.0.5168.15 | Beta      | x86          | exe  | [https://get.geo.opera.com/pub/opera-beta/111.0.5168.15/win/Opera_beta_111.0.5168.15_Setup.exe](https://get.geo.opera.com/pub/opera-beta/111.0.5168.15/win/Opera_beta_111.0.5168.15_Setup.exe)                         |
 | 110.0.5130.82 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/110.0.5130.82/win/Opera_110.0.5130.82_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/110.0.5130.82/win/Opera_110.0.5130.82_Setup_x64.exe)                     |

@@ -3,7 +3,7 @@ title: 1Password 7
 layout: default
 nav_order: 2
 parent: 1
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Jun 19 2024 at 12:37 AM
 ---
 
 ## 1Password 7
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 7.9.835 | [https://c.1password.com/dist/1P/win6/1PasswordSetup-7.9.835.exe](https://c.1password.com/dist/1P/win6/1PasswordSetup-7.9.835.exe) |
+| 7.9.836 | [https://c.1password.com/dist/1P/win6/1PasswordSetup-7.9.836.exe](https://c.1password.com/dist/1P/win6/1PasswordSetup-7.9.836.exe) |
