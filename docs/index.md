@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 20/06/2024 00:40 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 20/06/2024 12:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -80,7 +80,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | DevToys                                                           | [Link](https://devtoys.app/)                                                                                                                      | `5/5/2024`  | 🟢     |
 | diagrams.net                                                      | [Link](https://www.diagrams.net/)                                                                                                                 | `12/6/2024` | 🟢     |
 | dnGrep                                                            | [Link](https://dngrep.github.io/)                                                                                                                 | `12/6/2024` | 🟢     |
-| Docker Compose                                                    | [Link](https://github.com/docker/compose)                                                                                                         | `31/5/2024` | 🟢     |
+| Docker Compose                                                    | [Link](https://github.com/docker/compose)                                                                                                         | `20/6/2024` | 🟢     |
 | Docker Desktop                                                    | [Link](https://www.docker.com/products/docker-desktop/)                                                                                           | `11/6/2024` | 🟢     |
 | Double Commander                                                  | [Link](https://github.com/doublecmd/doublecmd/)                                                                                                   | `13/6/2024` | 🟢     |
 | Drata Agent                                                       | [Link](https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os)                                                      | `5/5/2024`  | 🟢     |
@@ -164,7 +164,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                                                                    | `20/6/2024` | 🟢     |
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                                                          | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                                                                    | `12/6/2024` | 🟢     |
-| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `30/5/2024` | 🟢     |
+| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `20/6/2024` | 🟢     |
 | LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                                                              | `19/6/2024` | 🟢     |
 | Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                                                           | `18/6/2024` | 🟢     |
 | Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                                                                     | `14/6/2024` | 🟢     |
@@ -249,7 +249,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Oracle Java 22                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java22)                                                                                | `2/5/2024`  | 🟢     |
 | Oracle Java 8                                                     | [Link](https://www.java.com)                                                                                                                      | `17/4/2024` | 🟢     |
 | Oracle VirtualBox                                                 | [Link](https://www.virtualbox.org/)                                                                                                               | `3/5/2024`  | 🟢     |
-| dotPDN LLC Paint.NET                                              | [Link](https://getpaint.net)                                                                                                                      | `12/4/2024` | 🟢     |
+| dotPDN LLC Paint.NET                                              | [Link](https://getpaint.net)                                                                                                                      | `12/4/2024` | 🔴     |
 | dotPDN LLC Paint.NET Offline Installer                            | [Link](https://getpaint.net/)                                                                                                                     | `5/5/2024`  | 🟢     |
 | Pandoc                                                            | [Link](https://pandoc.org/)                                                                                                                       | `12/5/2024` | 🟢     |
 | Parallels Client                                                  | [Link](https://www.parallels.com/products/ras/download/links/)                                                                                    | `23/5/2024` | 🟢     |
@@ -309,7 +309,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                                                                | `7/6/2024`  | 🟢     |
 | Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                                                             | `15/6/2024` | 🟢     |
 | Telerik Fiddler Classic                                           | [Link](https://www.telerik.com/fiddler/fiddler-classic)                                                                                           | `12/4/2024` | 🟢     |
-| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                                                           | `12/6/2024` | 🟢     |
+| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                                                           | `20/6/2024` | 🟢     |
 | TeraTerm                                                          | [Link](https://teratermproject.github.io/index-en.html)                                                                                           | `5/5/2024`  | 🟢     |
 | Terminals                                                         | [Link](https://github.com/terminals-Origin/Terminals/)                                                                                            | `5/5/2024`  | 🟢     |
 | TeXstudio                                                         | [Link](https://www.texstudio.org/)                                                                                                                | `8/6/2024`  | 🟢     |
