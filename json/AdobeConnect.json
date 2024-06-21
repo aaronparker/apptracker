@@ -1,5 +1,11 @@
 [
   {
+    "Version": "2024.6.35",
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_6_35.msi"
+  },
+  {
     "Version": "2024.6.22",
     "Type": "exe",
     "Architecture": "x86",
@@ -10,12 +16,6 @@
     "Type": "exe",
     "Architecture": "x86",
     "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_4_729_32.exe"
-  },
-  {
-    "Version": "2024.4.729",
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_4_729.msi"
   },
   {
     "Version": "2024.4.729",
