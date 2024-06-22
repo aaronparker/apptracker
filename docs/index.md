@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 22/06/2024 00:41 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 22/06/2024 12:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -82,7 +82,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | dnGrep                                                            | [Link](https://dngrep.github.io/)                                                                                                                 | `12/6/2024` | 🟢     |
 | Docker Compose                                                    | [Link](https://github.com/docker/compose)                                                                                                         | `22/6/2024` | 🟢     |
 | Docker Desktop                                                    | [Link](https://www.docker.com/products/docker-desktop/)                                                                                           | `11/6/2024` | 🟢     |
-| Double Commander                                                  | [Link](https://github.com/doublecmd/doublecmd/)                                                                                                   | `13/6/2024` | 🟢     |
+| Double Commander                                                  | [Link](https://github.com/doublecmd/doublecmd/)                                                                                                   | `22/6/2024` | 🟢     |
 | Drata Agent                                                       | [Link](https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os)                                                      | `5/5/2024`  | 🟢     |
 | Druva inSync Client                                               | [Link](https://docs.druva.com/005_inSync_Client)                                                                                                  | `1/6/2024`  | 🟢     |
 | eduVPN                                                            | [Link](https://app.eduvpn.org/)                                                                                                                   | `10/6/2024` | 🟢     |
@@ -124,7 +124,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                                                                  | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                                                           | `8/6/2024`  | 🟢     |
 | Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                                                                 | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `21/6/2024` | 🟢     |
+| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `22/6/2024` | 🟢     |
 | gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                                                          | `31/5/2024` | 🟢     |
 | Handbrake                                                         | [Link](https://handbrake.fr/)                                                                                                                     | `21/5/2024` | 🟢     |
 | Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                                                           | `19/6/2024` | 🟢     |
@@ -298,7 +298,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                                                                   | `12/4/2024` | 🟢     |
 | Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                                                          | `5/5/2024`  | 🟢     |
 | stealthpuppy Windows Customised Defaults                          | [Link](https://stealthpuppy.com/image-customise/)                                                                                                 | `1/6/2024`  | 🟢     |
-| Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                                                                | `10/6/2024` | 🟢     |
+| Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                                                                | `22/6/2024` | 🟢     |
 | Sumatra PDF Reader                                                | [Link](https://www.sumatrapdfreader.org/)                                                                                                         | `26/5/2024` | 🟢     |
 | SUSE Rancher Desktop                                              | [Link](https://rancherdesktop.io/)                                                                                                                | `18/6/2024` | 🟢     |
 | Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
