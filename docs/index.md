@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 23/06/2024 00:43 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 23/06/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -160,7 +160,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | jrsoftware InnoSetup                                              | [Link](https://www.innosetup.com)                                                                                                                 | `23/6/2024` | 🟢     |
 | Karakun OpenWebStart                                              | [Link](https://openwebstart.com/ows/)                                                                                                             | `14/6/2024` | 🟢     |
 | KDiff3                                                            | [Link](https://kdiff3.sourceforge.net/)                                                                                                           | `23/6/2024` | 🟢     |
-| KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                                                                     | `22/6/2024` | 🟢     |
+| KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                                                                     | `23/6/2024` | 🟢     |
 | KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                                                                    | `20/6/2024` | 🟢     |
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                                                          | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                                                                    | `12/6/2024` | 🟢     |
@@ -171,7 +171,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `20/6/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🔴     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `12/6/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `22/6/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `31/5/2024` | 🟢     |
