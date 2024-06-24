@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Monday 24/06/2024 00:38 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 24/06/2024 12:28 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **327** applications and **5465** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **327** applications and **5464** unique application installers.
 
 | Application                                                       | Source                                                                                                                                            | LastUpdate  | Status |
 |:----------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |:------ |
@@ -147,7 +147,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains Gateway                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `24/5/2024` | 🟢     |
 | JetBrains GoLand                                                  | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `21/6/2024` | 🟢     |
 | JetBrains IntelliJ IDEA                                           | [Link](https://www.jetbrains.com/)                                                                                                                | `21/6/2024` | 🟢     |
-| JetBrains PhpStorm                                                | [Link](https://www.jetbrains.com/phpstorm)                                                                                                        | `11/6/2024` | 🟢     |
+| JetBrains PhpStorm                                                | [Link](https://www.jetbrains.com/phpstorm)                                                                                                        | `24/6/2024` | 🟢     |
 | JetBrains PyCharm                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `11/6/2024` | 🟢     |
 | JetBrains Rider                                                   | [Link](https://www.jetbrains.com/)                                                                                                                | `11/6/2024` | 🟢     |
 | JetBrains RubyMine                                                | [Link](https://www.jetbrains.com/rubymine)                                                                                                        | `22/6/2024` | 🟢     |
@@ -171,7 +171,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `20/6/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🔴     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `12/6/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `22/6/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `31/5/2024` | 🟢     |
@@ -203,7 +203,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                                                                    | `8/6/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                                                             | `12/6/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                                                                       | `19/6/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `21/6/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `24/6/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                                                                 | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                                                         | `14/6/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `14/5/2024` | 🟢     |
@@ -233,7 +233,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Obsidian                                                          | [Link](https://obsidian.md/)                                                                                                                      | `9/6/2024`  | 🟢     |
 | OBS Studio                                                        | [Link](https://obsproject.com/)                                                                                                                   | `12/4/2024` | 🟢     |
 | OCS Inventory Windows Agent                                       | [Link](https://ocsinventory-ng.org/)                                                                                                              | `5/5/2024`  | 🟢     |
-| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `19/6/2024` | 🟢     |
+| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `24/6/2024` | 🟢     |
 | Octopus Tentacle                                                  | [Link](https://octopus.com/)                                                                                                                      | `23/5/2024` | 🟢     |
 | ONLYOFFICE Desktop Editors                                        | [Link](https://www.onlyoffice.com/desktop.aspx)                                                                                                   | `21/6/2024` | 🟢     |
 | OpenJDK                                                           | [Link](https://openjdk.java.net/)                                                                                                                 | `5/5/2024`  | 🟢     |
@@ -294,7 +294,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                                                               | `5/5/2024`  | 🟢     |
 | ShareX                                                            | [Link](https://getsharex.com/)                                                                                                                    | `12/5/2024` | 🟢     |
 | Signal for Windows                                                | [Link](https://www.signal.org/)                                                                                                                   | `21/6/2024` | 🟢     |
-| Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)                                                 | `23/5/2024` | 🔴     |
+| Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)                                                 | `24/6/2024` | 🟢     |
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                                                                   | `12/4/2024` | 🟢     |
 | Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                                                          | `5/5/2024`  | 🟢     |
 | stealthpuppy Windows Customised Defaults                          | [Link](https://stealthpuppy.com/image-customise/)                                                                                                 | `1/6/2024`  | 🟢     |
