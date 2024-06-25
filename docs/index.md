@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Tuesday 25/06/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 25/06/2024 12:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -48,7 +48,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Audacity                                                          | [Link](https://www.audacityteam.org/)                                                                                                             | `5/5/2024`  | 🟢     |
 | Windows Auto Dark Mode                                            | [Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)                                                                                   | `5/5/2024`  | 🟢     |
 | Autodesk Fusion 360                                               | [Link](https://www.autodesk.com/products/fusion-360/overview)                                                                                     | `11/6/2024` | 🟢     |
-| AWS CLI                                                           | [Link](https://github.com/aws/aws-cli/)                                                                                                           | `21/6/2024` | 🟢     |
+| AWS CLI                                                           | [Link](https://github.com/aws/aws-cli/)                                                                                                           | `25/6/2024` | 🟢     |
 | AWS SAM CLI                                                       | [Link](https://github.com/aws/aws-sam-cli/)                                                                                                       | `14/6/2024` | 🟢     |
 | Azul Zulu 11                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                                                                      | `4/5/2024`  | 🟢     |
 | Azul Zulu 17                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                                                                      | `8/5/2024`  | 🟢     |
@@ -164,7 +164,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                                                                    | `20/6/2024` | 🟢     |
 | KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                                                          | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                                                                    | `12/6/2024` | 🟢     |
-| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `20/6/2024` | 🟢     |
+| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `25/6/2024` | 🟢     |
 | LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                                                              | `19/6/2024` | 🟢     |
 | Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                                                           | `18/6/2024` | 🟢     |
 | Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                                                                     | `14/6/2024` | 🟢     |
@@ -203,7 +203,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                                                                    | `8/6/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                                                             | `12/6/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                                                                       | `19/6/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `24/6/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `25/6/2024` | 🟢     |
 | Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                                                                 | `8/5/2024`  | 🟢     |
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                                                         | `14/6/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `14/5/2024` | 🟢     |
@@ -252,7 +252,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | dotPDN LLC Paint.NET                                              | [Link](https://getpaint.net)                                                                                                                      | `12/4/2024` | 🟢     |
 | dotPDN LLC Paint.NET Offline Installer                            | [Link](https://getpaint.net/)                                                                                                                     | `5/5/2024`  | 🟢     |
 | Pandoc                                                            | [Link](https://pandoc.org/)                                                                                                                       | `25/6/2024` | 🟢     |
-| Parallels Client                                                  | [Link](https://www.parallels.com/products/ras/download/links/)                                                                                    | `23/5/2024` | 🟢     |
+| Parallels Client                                                  | [Link](https://www.parallels.com/products/ras/download/links/)                                                                                    | `25/6/2024` | 🟢     |
 | PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                                                               | `21/6/2024` | 🟢     |
 | pdfforge PDFCreator                                               | [Link](https://www.pdfforge.org/pdfcreator)                                                                                                       | `17/5/2024` | 🟢     |
 | PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                                                                 | `11/5/2024` | 🟢     |
@@ -304,7 +304,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
 | Tableau Prep                                                      | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
 | Tableau Reader                                                    | [Link](https://www.tableau.com/)                                                                                                                  | `4/6/2024`  | 🟢     |
-| TeamViewer                                                        | [Link](https://www.teamviewer.com/)                                                                                                               | `11/6/2024` | 🟢     |
+| TeamViewer                                                        | [Link](https://www.teamviewer.com/)                                                                                                               | `25/6/2024` | 🟢     |
 | TechSmith Camtasia                                                | [Link](https://www.techsmith.com/)                                                                                                                | `4/6/2024`  | 🟢     |
 | TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                                                                | `7/6/2024`  | 🟢     |
 | Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                                                             | `15/6/2024` | 🟢     |
