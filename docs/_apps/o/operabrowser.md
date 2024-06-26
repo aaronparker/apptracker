@@ -3,7 +3,7 @@ title: Opera Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Jun 20 2024 at 12:36 AM
+last_modified_date: Jun 26 2024 at 12:37 AM
 ---
 
 ## Opera Browser
@@ -20,5 +20,5 @@ Last check: 🟢
 | 113.0.5201.0  | Developer | x86          | exe  | [https://get.geo.opera.com/pub/opera-developer/113.0.5201.0/win/Opera_Developer_113.0.5201.0_Setup.exe](https://get.geo.opera.com/pub/opera-developer/113.0.5201.0/win/Opera_Developer_113.0.5201.0_Setup.exe)         |
 | 112.0.5197.5  | Beta      | x64          | exe  | [https://get.geo.opera.com/pub/opera-beta/112.0.5197.5/win/Opera_beta_112.0.5197.5_Setup_x64.exe](https://get.geo.opera.com/pub/opera-beta/112.0.5197.5/win/Opera_beta_112.0.5197.5_Setup_x64.exe)                     |
 | 112.0.5197.5  | Beta      | x86          | exe  | [https://get.geo.opera.com/pub/opera-beta/112.0.5197.5/win/Opera_beta_112.0.5197.5_Setup.exe](https://get.geo.opera.com/pub/opera-beta/112.0.5197.5/win/Opera_beta_112.0.5197.5_Setup.exe)                             |
-| 110.0.5130.82 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/110.0.5130.82/win/Opera_110.0.5130.82_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/110.0.5130.82/win/Opera_110.0.5130.82_Setup_x64.exe)                     |
-| 110.0.5130.82 | Stable    | x86          | exe  | [https://get.geo.opera.com/pub/opera/desktop/110.0.5130.82/win/Opera_110.0.5130.82_Setup.exe](https://get.geo.opera.com/pub/opera/desktop/110.0.5130.82/win/Opera_110.0.5130.82_Setup.exe)                             |
+| 111.0.5168.43 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/111.0.5168.43/win/Opera_111.0.5168.43_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/111.0.5168.43/win/Opera_111.0.5168.43_Setup_x64.exe)                     |
+| 111.0.5168.43 | Stable    | x86          | exe  | [https://get.geo.opera.com/pub/opera/desktop/111.0.5168.43/win/Opera_111.0.5168.43_Setup.exe](https://get.geo.opera.com/pub/opera/desktop/111.0.5168.43/win/Opera_111.0.5168.43_Setup.exe)                             |

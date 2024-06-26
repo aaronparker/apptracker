@@ -3,7 +3,7 @@ title: Microsoft Edge WebDriver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jun 22 2024 at 12:37 AM
+last_modified_date: Jun 26 2024 at 12:37 AM
 ---
 
 ## Microsoft Edge WebDriver
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                            |
 | ------------- | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 127.0.2651.8  | Beta    | ARM64        | [https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_arm64.zip)   |
-| 127.0.2651.8  | Dev     | ARM64        | [https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_arm64.zip)   |
-| 127.0.2651.8  | Beta    | x64          | [https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win64.zip](https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win64.zip)   |
-| 127.0.2651.8  | Dev     | x64          | [https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win64.zip](https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win64.zip)   |
-| 127.0.2651.8  | Beta    | x86          | [https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win32.zip](https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win32.zip)   |
-| 127.0.2651.8  | Dev     | x86          | [https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win32.zip](https://msedgedriver.azureedge.net/127.0.2651.8/edgedriver_win32.zip)   |
+| 128.0.2661.0  | Dev     | ARM64        | [https://msedgedriver.azureedge.net/128.0.2661.0/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/128.0.2661.0/edgedriver_arm64.zip)   |
+| 128.0.2661.0  | Dev     | x64          | [https://msedgedriver.azureedge.net/128.0.2661.0/edgedriver_win64.zip](https://msedgedriver.azureedge.net/128.0.2661.0/edgedriver_win64.zip)   |
+| 128.0.2661.0  | Dev     | x86          | [https://msedgedriver.azureedge.net/128.0.2661.0/edgedriver_win32.zip](https://msedgedriver.azureedge.net/128.0.2661.0/edgedriver_win32.zip)   |
+| 127.0.2651.15 | Beta    | ARM64        | [https://msedgedriver.azureedge.net/127.0.2651.15/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/127.0.2651.15/edgedriver_arm64.zip) |
+| 127.0.2651.15 | Beta    | x64          | [https://msedgedriver.azureedge.net/127.0.2651.15/edgedriver_win64.zip](https://msedgedriver.azureedge.net/127.0.2651.15/edgedriver_win64.zip) |
+| 127.0.2651.15 | Beta    | x86          | [https://msedgedriver.azureedge.net/127.0.2651.15/edgedriver_win32.zip](https://msedgedriver.azureedge.net/127.0.2651.15/edgedriver_win32.zip) |
 | 126.0.2592.68 | Stable  | ARM64        | [https://msedgedriver.azureedge.net/126.0.2592.68/edgedriver_arm64.zip](https://msedgedriver.azureedge.net/126.0.2592.68/edgedriver_arm64.zip) |
 | 126.0.2592.68 | Stable  | x64          | [https://msedgedriver.azureedge.net/126.0.2592.68/edgedriver_win64.zip](https://msedgedriver.azureedge.net/126.0.2592.68/edgedriver_win64.zip) |
 | 126.0.2592.68 | Stable  | x86          | [https://msedgedriver.azureedge.net/126.0.2592.68/edgedriver_win32.zip](https://msedgedriver.azureedge.net/126.0.2592.68/edgedriver_win32.zip) |
