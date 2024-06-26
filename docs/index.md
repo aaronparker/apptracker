@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Wednesday 26/06/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 26/06/2024 12:29 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -199,7 +199,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft PowerToys                                               | [Link](https://github.com/microsoft/PowerToys/)                                                                                                   | `29/5/2024` | 🟢     |
 | Microsoft SQL Server Management Studio                            | [Link](https://go.microsoft.com/fwlink/?LinkId=531355)                                                                                            | `22/5/2024` | 🟢     |
 | Microsoft Teams (new)                                             | [Link](https://www.microsoft.com/teams)                                                                                                           | `18/6/2024` | 🟢     |
-| Microsoft Teams (classic)                                         | [Link](https://www.microsoft.com/teams)                                                                                                           | `18/6/2024` | 🟢     |
+| Microsoft Teams (classic)                                         | [Link](https://www.microsoft.com/teams)                                                                                                           | `26/6/2024` | 🟢     |
 | Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                                                                    | `8/6/2024`  | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                                                             | `12/6/2024` | 🟢     |
 | Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                                                                       | `19/6/2024` | 🟢     |
@@ -316,7 +316,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Thymio Suite                                                      | [Link](https://www.thymio.org/)                                                                                                                   | `5/5/2024`  | 🟢     |
 | Toggl Desktop                                                     | [Link](https://www.toggl.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
 | Tor Project Tor Browser                                           | [Link](https://www.torproject.org/)                                                                                                               | `21/6/2024` | 🟢     |
-| Tower                                                             | [Link](https://www.git-tower.com/windows/)                                                                                                        | `23/5/2024` | 🟢     |
+| Tower                                                             | [Link](https://www.git-tower.com/windows/)                                                                                                        | `26/6/2024` | 🟢     |
 | TGPi Colour Contrast Analyser                                     | [Link](https://www.tpgi.com/color-contrast-checker/)                                                                                              | `6/5/2024`  | 🟢     |
 | Tracker Software PDF X-Change Editor                              | [Link](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)                                                                                       | `18/6/2024` | 🟢     |
 | Unity Editor                                                      | [Link](https://unity.com/download)                                                                                                                | `24/5/2024` | 🟢     |
