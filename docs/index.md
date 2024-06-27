@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 27/06/2024 00:47 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 27/06/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -189,7 +189,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft ODBC Driver for SQL Server (latest)                     | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
 | Microsoft ODBC Driver for SQL Server 17.x                         | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
 | Microsoft OLE DB Driver for SQL Server (latest)                   | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)                                                  | `22/5/2024` | 🟢     |
-| Microsoft OLE DB Driver for SQL Server 18                         | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#previous-releases) | `26/6/2024` | 🟢     |
+| Microsoft OLE DB Driver for SQL Server 18                         | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#previous-releases) | `27/6/2024` | 🟢     |
 | Microsoft OneDrive                                                | [Link](https://onedrive.live.com/)                                                                                                                | `27/6/2024` | 🟢     |
 | Microsoft OpenJDK 11                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `18/5/2024` | 🟢     |
 | Microsoft OpenJDK 17                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `18/5/2024` | 🟢     |
@@ -233,14 +233,14 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Obsidian                                                          | [Link](https://obsidian.md/)                                                                                                                      | `26/6/2024` | 🟢     |
 | OBS Studio                                                        | [Link](https://obsproject.com/)                                                                                                                   | `12/4/2024` | 🟢     |
 | OCS Inventory Windows Agent                                       | [Link](https://ocsinventory-ng.org/)                                                                                                              | `5/5/2024`  | 🟢     |
-| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `24/6/2024` | 🟢     |
+| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `27/6/2024` | 🟢     |
 | Octopus Tentacle                                                  | [Link](https://octopus.com/)                                                                                                                      | `23/5/2024` | 🟢     |
 | ONLYOFFICE Desktop Editors                                        | [Link](https://www.onlyoffice.com/desktop.aspx)                                                                                                   | `21/6/2024` | 🟢     |
 | OpenJDK                                                           | [Link](https://openjdk.java.net/)                                                                                                                 | `5/5/2024`  | 🟢     |
 | OpenLens                                                          | [Link](https://github.com/MuhammedKalkan/OpenLens/)                                                                                               | `5/5/2024`  | 🟢     |
 | Open-Shell-Menu                                                   | [Link](https://open-shell.github.io/Open-Shell-Menu/)                                                                                             | `5/5/2024`  | 🟢     |
 | OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                                                                 | `14/6/2024` | 🟢     |
-| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                                                                      | `26/6/2024` | 🟢     |
+| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                                                                      | `27/6/2024` | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                                                         | `12/4/2024` | 🟢     |
 | Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                                                                  | `19/6/2024` | 🟢     |
 | Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                                                                | `17/4/2024` | 🟢     |
