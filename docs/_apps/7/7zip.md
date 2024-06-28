@@ -3,7 +3,7 @@ title: 7zip
 layout: default
 nav_order: 2
 parent: 7
-last_modified_date: Jun 28 2024 at 12:37 AM
+last_modified_date: Jun 28 2024 at 12:28 PM
 ---
 
 ## 7zip
@@ -14,12 +14,12 @@ Evergreen app: `7zip`. Found **7** installers.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size    | Md5                              | URI                                                                                                                                                                        |
-| ------- | ------------ | ---- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 24.06   | ARM32        | exe  | 1632071 | 98c2ca4f504a87047491a7e082933edc | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm.exe](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm.exe)     |
-| 24.06   | ARM64        | exe  | 1554939 | 78453556058a0421d6f4c77c353c3559 | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm64.exe](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-arm64.exe) |
-| 24.06   | x64          | exe  | 1619556 | d8af785ca5752bae36e8af5a2f912d81 | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.exe](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.exe)     |
-| 24.06   | x86          | exe  | 590848  | 0fe04f5747f21419bc96e130b2068238 | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7zr.exe](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7zr.exe)                   |
-| 24.06   | x86          | exe  | 1330263 | 8515170956d36ef9da3082a7c22e8213 | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.exe](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.exe)             |
-| 24.06   | x64          | msi  | 1964032 | 683ffbb58985c76d410594918b17e198 | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.msi](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406-x64.msi)     |
-| 24.06   | x86          | msi  | 1538560 | ea08861a1e3bd11baafa29b18a58c946 | [https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.msi](https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.06/7z2406.msi)             |
+| Version | Architecture | Type | Size    | Md5                              | URI                                                                                                                                                                    |
+| ------- | ------------ | ---- | ------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 24.07   | ARM32        | exe  | 1633909 | fea9ba12eb5fa5703d65dcbc0873d7e9 | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm.exe](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm.exe)     |
+| 24.07   | ARM64        | exe  | 1555409 | 64e16722dfcb1452e6980c104df2847e | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm64.exe](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm64.exe) |
+| 24.07   | x64          | exe  | 1620576 | f1320bd826092e99fcec85cc96a29791 | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.exe](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.exe)     |
+| 24.07   | x86          | exe  | 590848  | c31c4b04558396c6fabab64dcf366534 | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7zr.exe](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7zr.exe)                   |
+| 24.07   | x86          | exe  | 1331365 | 3f6d2cef65fe49a38190781a0cb46707 | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.exe](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.exe)             |
+| 24.07   | x64          | msi  | 1966592 | 2274f746c9db0c334ee2ff789756aa18 | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.msi](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.msi)     |
+| 24.07   | x86          | msi  | 1538560 | c44c2b9e7ee38791ab5c15932dae933e | [https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.msi](https://versaweb.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.msi)             |

@@ -12,10 +12,7 @@ last_modified_date: Jun 7 2024 at 12:26 PM
 
 Evergreen app: `PSFPython`. Found **5** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version | Python | md5                              | Size     | Date      | Type | Architecture | URI                                                                                                                                  |
 | ------- | ------ | -------------------------------- | -------- | --------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |

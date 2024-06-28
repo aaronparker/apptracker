@@ -12,7 +12,10 @@ last_modified_date: Jun 14 2024 at 12:32 AM
 
 Evergreen app: `MattermostDesktop`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Name or service not known (releases.mattermost.com:443)
+```
 
 | Version | Type | Architecture | URI                                                                                                                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
