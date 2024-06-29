@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Saturday 29/06/2024 00:40 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 29/06/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -208,7 +208,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                                                         | `14/6/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `14/5/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent                             | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `25/4/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                                                             | `31/5/2024` | 🔴     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                                                             | `31/5/2024` | 🟢     |
 | Microsoft Remote Desktop                                          | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)                                                               | `26/6/2024` | 🟢     |
 | Microsoft Remote Desktop WebRTC Redirector Service                | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)                                                                       | `31/5/2024` | 🟢     |
 | Miniconda                                                         | [Link](https://docs.conda.io/en/latest/miniconda.html)                                                                                            | `12/4/2024` | 🟢     |
@@ -298,7 +298,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                                                                   | `12/4/2024` | 🟢     |
 | Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                                                          | `5/5/2024`  | 🟢     |
 | stealthpuppy Windows Customised Defaults                          | [Link](https://stealthpuppy.com/image-customise/)                                                                                                 | `1/6/2024`  | 🟢     |
-| Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                                                                | `22/6/2024` | 🟢     |
+| Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                                                                | `29/6/2024` | 🟢     |
 | Sumatra PDF Reader                                                | [Link](https://www.sumatrapdfreader.org/)                                                                                                         | `26/5/2024` | 🟢     |
 | SUSE Rancher Desktop                                              | [Link](https://rancherdesktop.io/)                                                                                                                | `18/6/2024` | 🟢     |
 | Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                                                                  | `28/6/2024` | 🟢     |
@@ -333,13 +333,13 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VSCodium                                                          | [Link](https://vscodium.com)                                                                                                                      | `20/6/2024` | 🟢     |
 | Win32-OpenSSH                                                     | [Link](https://github.com/PowerShell/Win32-OpenSSH/)                                                                                              | `5/5/2024`  | 🟢     |
 | WinMerge                                                          | [Link](https://winmerge.org/)                                                                                                                     | `5/5/2024`  | 🟢     |
-| WinSCP                                                            | [Link](https://winscp.net/)                                                                                                                       | `28/6/2024` | 🟢     |
+| WinSCP                                                            | [Link](https://winscp.net/)                                                                                                                       | `29/6/2024` | 🟢     |
 | Wireshark                                                         | [Link](https://www.wireshark.org/#download)                                                                                                       | `12/6/2024` | 🟢     |
 | WiX Toolset                                                       | [Link](https://wixtoolset.org/)                                                                                                                   | `5/5/2024`  | 🟢     |
 | XnSoft Convert                                                    | [Link](https://www.xnview.com/en/xnconvert/)                                                                                                      | `12/4/2024` | 🟢     |
 | XnSoft XnView MP                                                  | [Link](https://www.xnview.com/en/xnviewmp/)                                                                                                       | `5/6/2024`  | 🟢     |
 | Yubico Authenticator                                              | [Link](https://github.com/Yubico/yubioath-flutter/)                                                                                               | `7/5/2024`  | 🟢     |
 | Zoom                                                              | [Link](https://zoom.us/download)                                                                                                                  | `17/6/2024` | 🟢     |
-| Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)                                                        | `19/6/2024` | 🟢     |
+| Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)                                                        | `29/6/2024` | 🟢     |
 | ZorgMail Veilig verzenden plug-in                                 | [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)                                                   | `12/4/2024` | 🟢     |
 | Zotero                                                            | [Link](https://www.zotero.org/)                                                                                                                   | `12/4/2024` | 🟢     |
