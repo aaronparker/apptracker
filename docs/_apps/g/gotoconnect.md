@@ -12,7 +12,10 @@ last_modified_date: Jun 20 2024 at 12:36 AM
 
 Evergreen app: `GoToConnect`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+An error occurred while sending the request.
+```
 
 | Version | Architecture | Type | URI                                                                                                                            |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------ |

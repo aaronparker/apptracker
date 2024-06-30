@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 30/06/2024 00:44 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 30/06/2024 12:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -118,7 +118,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `29/6/2024` | 🟢     |
 | Google Chrome Headless Shell                                      | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `29/6/2024` | 🟢     |
 | Google Drive                                                      | [Link](https://support.google.com/drive/answer/7329379)                                                                                           | `12/4/2024` | 🟢     |
-| GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)                                                | `20/6/2024` | 🟢     |
+| GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)                                                | `20/6/2024` | 🔴     |
 | GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                                                             | `12/4/2024` | 🟢     |
 | GoTo Opener                                                       | [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)                                                          | `11/5/2024` | 🟢     |
 | Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                                                                  | `12/4/2024` | 🟢     |
@@ -189,7 +189,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft ODBC Driver for SQL Server (latest)                     | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
 | Microsoft ODBC Driver for SQL Server 17.x                         | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
 | Microsoft OLE DB Driver for SQL Server (latest)                   | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)                                                  | `22/5/2024` | 🟢     |
-| Microsoft OLE DB Driver for SQL Server 18                         | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#previous-releases) | `28/6/2024` | 🔴     |
+| Microsoft OLE DB Driver for SQL Server 18                         | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#previous-releases) | `28/6/2024` | 🟢     |
 | Microsoft OneDrive                                                | [Link](https://onedrive.live.com/)                                                                                                                | `29/6/2024` | 🟢     |
 | Microsoft OpenJDK 11                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `18/5/2024` | 🟢     |
 | Microsoft OpenJDK 17                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `18/5/2024` | 🟢     |
