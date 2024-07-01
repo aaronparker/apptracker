@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Monday 01/07/2024 00:40 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 01/07/2024 12:21 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -171,7 +171,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `20/6/2024` | 🟢     |
 | Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🔴     |
 | Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `12/6/2024` | 🟢     |
 | Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `27/6/2024` | 🟢     |
 | Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `31/5/2024` | 🟢     |
@@ -220,7 +220,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Mozilla Thunderbird                                               | [Link](https://www.thunderbird.net/)                                                                                                              | `28/6/2024` | 🟢     |
 | mRemoteNG                                                         | [Link](https://mremoteng.org/)                                                                                                                    | `5/5/2024`  | 🟢     |
 | MuseScore                                                         | [Link](https://musescore.org/)                                                                                                                    | `12/6/2024` | 🟢     |
-| mySQL Workbench                                                   | [Link](https://dev.mysql.com/doc/workbench/en/)                                                                                                   | `12/4/2024` | 🟢     |
+| mySQL Workbench                                                   | [Link](https://dev.mysql.com/doc/workbench/en/)                                                                                                   | `1/7/2024`  | 🟢     |
 | NanaZip                                                           | [Link](https://github.com/M2Team/NanaZip)                                                                                                         | `28/5/2024` | 🟢     |
 | Ben Olden-Cooligan NAPS2                                          | [Link](https://www.naps2.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
 | NETworkManager                                                    | [Link](https://github.com/BornToBeRoot/NETworkManager)                                                                                            | `18/6/2024` | 🟢     |
@@ -256,7 +256,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                                                               | `21/6/2024` | 🟢     |
 | pdfforge PDFCreator                                               | [Link](https://www.pdfforge.org/pdfcreator)                                                                                                       | `17/5/2024` | 🟢     |
 | PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                                                                 | `11/5/2024` | 🟢     |
-| Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                                                         | `19/6/2024` | 🟢     |
+| Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                                                         | `1/7/2024`  | 🟢     |
 | Plex Media Desktop                                                | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `22/6/2024` | 🟢     |
 | Plex HTPC                                                         | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `28/6/2024` | 🟢     |
 | Plex Media ServerDesktop                                          | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `14/6/2024` | 🟢     |
@@ -339,7 +339,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | XnSoft Convert                                                    | [Link](https://www.xnview.com/en/xnconvert/)                                                                                                      | `12/4/2024` | 🟢     |
 | XnSoft XnView MP                                                  | [Link](https://www.xnview.com/en/xnviewmp/)                                                                                                       | `5/6/2024`  | 🟢     |
 | Yubico Authenticator                                              | [Link](https://github.com/Yubico/yubioath-flutter/)                                                                                               | `7/5/2024`  | 🟢     |
-| Zoom                                                              | [Link](https://zoom.us/download)                                                                                                                  | `17/6/2024` | 🟢     |
+| Zoom                                                              | [Link](https://zoom.us/download)                                                                                                                  | `1/7/2024`  | 🟢     |
 | Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)                                                        | `30/6/2024` | 🟢     |
 | ZorgMail Veilig verzenden plug-in                                 | [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)                                                   | `12/4/2024` | 🟢     |
 | Zotero                                                            | [Link](https://www.zotero.org/)                                                                                                                   | `12/4/2024` | 🟢     |
