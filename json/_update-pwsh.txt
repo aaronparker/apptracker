@@ -1,0 +1,14 @@
+json/7zip.json
+json/Gimp.json
+json/GoogleChrome.json
+json/KDiff3.json
+json/PiriformCCleanerFree.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/Zoom.json
+json/mySQLWorkbench.json
+json/MestrelabMnova.err
+json/MicrosoftAzureDataStudio.err
+json/ProtonDrive.err
