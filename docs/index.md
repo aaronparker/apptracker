@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Tuesday 02/07/2024 00:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 02/07/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -91,7 +91,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ESET Endpoint Security                                            | [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)                                                                           | `12/4/2024` | 🟢     |
 | ESET Full Disk Encryption                                         | [Link](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/)                                                          | `12/4/2024` | 🟢     |
 | ESET Inspect Connector                                            | [Link](https://www.eset.com/int/business/download/inspect/)                                                                                       | `18/6/2024` | 🟢     |
-| ESET Endpoint Antivirus                                           | [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)                                                                           | `12/4/2024` | 🟢     |
+| ESET Endpoint Antivirus                                           | [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)                                                                           | `2/7/2024`  | 🟢     |
 | ESET Secure Authentication                                        | [Link](https://www.eset.com/au/business/download/secure-authentication/)                                                                          | `12/4/2024` | 🟢     |
 | ESET Server Security                                              | [Link](https://www.eset.com/int/business/solutions/file-server-security/)                                                                         | `12/4/2024` | 🟢     |
 | FileZilla                                                         | [Link](https://filezilla-project.org/)                                                                                                            | `31/1/2024` | 🔴     |
@@ -225,7 +225,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Ben Olden-Cooligan NAPS2                                          | [Link](https://www.naps2.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
 | NETworkManager                                                    | [Link](https://github.com/BornToBeRoot/NETworkManager)                                                                                            | `18/6/2024` | 🟢     |
 | Nevcairiel LAV Filters                                            | [Link](https://github.com/Nevcairiel/LAVFilters)                                                                                                  | `5/5/2024`  | 🟢     |
-| Node.js                                                           | [Link](https://nodejs.org/)                                                                                                                       | `21/6/2024` | 🟢     |
+| Node.js                                                           | [Link](https://nodejs.org/)                                                                                                                       | `2/7/2024`  | 🟢     |
 | nomacs Image Lounge                                               | [Link](https://nomacs.org/)                                                                                                                       | `5/5/2024`  | 🟢     |
 | Notable                                                           | [Link](https://notable.app/)                                                                                                                      | `5/5/2024`  | 🟢     |
 | Notepad++                                                         | [Link](https://notepad-plus-plus.org/)                                                                                                            | `4/6/2024`  | 🟢     |
@@ -242,10 +242,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                                                                 | `14/6/2024` | 🟢     |
 | Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                                                                      | `2/7/2024`  | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                                                         | `12/4/2024` | 🟢     |
-| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                                                                  | `19/6/2024` | 🟢     |
+| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                                                                  | `2/7/2024`  | 🟢     |
 | Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                                                                | `17/4/2024` | 🟢     |
 | Oracle Java 20                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java20)                                                                                | `2/5/2024`  | 🟢     |
-| Oracle Java 21                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java21)                                                                                | `17/4/2024` | 🟢     |
+| Oracle Java 21                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java21)                                                                                | `17/4/2024` | 🔴     |
 | Oracle Java 22                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java22)                                                                                | `2/5/2024`  | 🟢     |
 | Oracle Java 8                                                     | [Link](https://www.java.com)                                                                                                                      | `17/4/2024` | 🟢     |
 | Oracle VirtualBox                                                 | [Link](https://www.virtualbox.org/)                                                                                                               | `3/5/2024`  | 🟢     |
