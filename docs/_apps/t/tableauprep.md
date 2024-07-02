@@ -3,7 +3,7 @@ title: Tableau Prep
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Jun 28 2024 at 12:37 AM
+last_modified_date: Jul 2 2024 at 12:37 AM
 ---
 
 ## Tableau Prep
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Architecture | Type | URI                                                                                                                                    |
 | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.1.4 | x86          | exe  | [https://downloads.tableau.com/tssoftware/TableauPrep-2024-1-4.exe](https://downloads.tableau.com/tssoftware/TableauPrep-2024-1-4.exe) |
+| 2024.2.0 | x86          | exe  | [https://downloads.tableau.com/tssoftware/TableauPrep-2024-2-0.exe](https://downloads.tableau.com/tssoftware/TableauPrep-2024-2-0.exe) |
