@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Wednesday 03/07/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 03/07/2024 12:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -136,7 +136,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Hashicorp Waypoint                                                | [Link](https://www.waypointproject.io/)                                                                                                           | `12/4/2024` | 🟢     |
 | ImageGlass                                                        | [Link](https://imageglass.org/)                                                                                                                   | `27/6/2024` | 🟢     |
 | ImageMagick Studio ImageMagick                                    | [Link](https://imagemagick.org/)                                                                                                                  | `24/6/2024` | 🟢     |
-| JabraDirect                                                       | [Link](https://www.jabra.com/software-and-services/jabra-direct)                                                                                  | `23/4/2024` | 🟢     |
+| JabraDirect                                                       | [Link](https://www.jabra.com/software-and-services/jabra-direct)                                                                                  | `3/7/2024`  | 🟢     |
 | JAM Software TreeSize Free                                        | [Link](https://www.jam-software.com/treesize_free/)                                                                                               | `7/5/2024`  | 🟢     |
 | JAM Software TreeSize Professional                                | [Link](https://www.jam-software.com/treesize/)                                                                                                    | `4/6/2024`  | 🟢     |
 | JASP                                                              | [Link](https://jasp-stats.org/)                                                                                                                   | `12/4/2024` | 🟢     |
@@ -243,10 +243,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                                                                      | `3/7/2024`  | 🟢     |
 | Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                                                         | `12/4/2024` | 🟢     |
 | Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                                                                  | `2/7/2024`  | 🟢     |
-| Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                                                                | `17/4/2024` | 🟢     |
+| Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                                                                | `17/4/2024` | 🔴     |
 | Oracle Java 20                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java20)                                                                                | `2/5/2024`  | 🟢     |
 | Oracle Java 21                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java21)                                                                                | `17/4/2024` | 🟢     |
-| Oracle Java 22                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java22)                                                                                | `2/5/2024`  | 🟢     |
+| Oracle Java 22                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java22)                                                                                | `2/5/2024`  | 🔴     |
 | Oracle Java 8                                                     | [Link](https://www.java.com)                                                                                                                      | `17/4/2024` | 🟢     |
 | Oracle VirtualBox                                                 | [Link](https://www.virtualbox.org/)                                                                                                               | `3/5/2024`  | 🟢     |
 | dotPDN LLC Paint.NET                                              | [Link](https://getpaint.net)                                                                                                                      | `12/4/2024` | 🟢     |
@@ -293,7 +293,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                                                                  | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                                                               | `5/5/2024`  | 🟢     |
 | ShareX                                                            | [Link](https://getsharex.com/)                                                                                                                    | `12/5/2024` | 🟢     |
-| Signal for Windows                                                | [Link](https://www.signal.org/)                                                                                                                   | `28/6/2024` | 🟢     |
+| Signal for Windows                                                | [Link](https://www.signal.org/)                                                                                                                   | `3/7/2024`  | 🟢     |
 | Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)                                                 | `26/6/2024` | 🟢     |
 | SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                                                                   | `12/4/2024` | 🟢     |
 | Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                                                          | `5/5/2024`  | 🟢     |
@@ -309,7 +309,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                                                                | `7/6/2024`  | 🟢     |
 | Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                                                             | `3/7/2024`  | 🟢     |
 | Telerik Fiddler Classic                                           | [Link](https://www.telerik.com/fiddler/fiddler-classic)                                                                                           | `12/4/2024` | 🟢     |
-| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                                                           | `20/6/2024` | 🟢     |
+| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                                                           | `3/7/2024`  | 🟢     |
 | TeraTerm                                                          | [Link](https://teratermproject.github.io/index-en.html)                                                                                           | `5/5/2024`  | 🟢     |
 | Terminals                                                         | [Link](https://github.com/terminals-Origin/Terminals/)                                                                                            | `5/5/2024`  | 🟢     |
 | TeXstudio                                                         | [Link](https://www.texstudio.org/)                                                                                                                | `8/6/2024`  | 🟢     |
