@@ -1,10 +1,10 @@
 [
   {
-    "Version": "6.15.10901",
+    "Version": "6.16.15901",
     "Architecture": "x64",
     "ReleaseNotes": "https://www.jabra.com/support/release-notes/release-note-jabra-direct",
     "Type": "exe",
-    "Sha256": "F3CC6A0955D4909F2A35DB262F2630835F9E17FECFDBA3538AFF6281E27D8B71",
+    "Sha256": "587966AA7EA47E9E24A2EA814B63FBBF8215DB42C8126C158D4A20AC2B235331",
     "URI": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe"
   }
 ]
