@@ -3,7 +3,7 @@ title: Microsoft OLE DB Driver for SQL Server 18
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 2 2024 at 12:37 AM
+last_modified_date: Jul 3 2024 at 12:31 AM
 ---
 
 ## Microsoft OLE DB Driver for SQL Server 18
@@ -18,7 +18,7 @@ Last check: 🟢
 | -------- | -------- | ------- | --------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 18.7.2.0 | 8/4/2024 | 7233536 | Chinese (Simplified)  | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-CN/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-CN/18.7.2.0/x64/msoledbsql.msi) |
 | 18.7.2.0 | 8/4/2024 | 7237632 | Chinese (Traditional) | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-TW/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-TW/18.7.2.0/x64/msoledbsql.msi) |
-| 18.7.2.0 | 8/4/2024 | 7188480 | English               | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x64/msoledbsql.msi) |
+| 18.7.2.0 | 8/4/2024 | -1      | English               | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x64/msoledbsql.msi) |
 | 18.7.2.0 | 8/4/2024 | 7290880 | French                | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.2.0/x64/msoledbsql.msi) |
 | 18.7.2.0 | 8/4/2024 | 7286784 | German                | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/de-DE/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/de-DE/18.7.2.0/x64/msoledbsql.msi) |
 | 18.7.2.0 | 8/4/2024 | 7278592 | Italian               | x64          | msi  | [https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/it-IT/18.7.2.0/x64/msoledbsql.msi](https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/it-IT/18.7.2.0/x64/msoledbsql.msi) |
