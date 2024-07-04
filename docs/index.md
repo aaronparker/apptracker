@@ -8,347 +8,347 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 04/07/2024 00:35 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 04/07/2024 12:23 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
 App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **336** applications and **5473** unique application installers.
 
-| Application                                                       | Source                                                                                                                                            | LastUpdate  | Status |
-|:----------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |:------ |
-| 1Password                                                         | [Link](https://1password.com/)                                                                                                                    | `19/6/2024` | 🟢     |
-| 1Password 7                                                       | [Link](https://1password.com/)                                                                                                                    | `19/6/2024` | 🟢     |
-| 1Password CLI                                                     | [Link](https://developer.1password.com/docs/cli/)                                                                                                 | `22/5/2024` | 🟢     |
-| 7zip                                                              | [Link](https://www.7-zip.org/)                                                                                                                    | `4/7/2024`  | 🟢     |
-| 7-Zip ZS                                                          | [Link](https://mcmilk.de/projects/7-Zip-zstd/)                                                                                                    | `5/5/2024`  | 🟢     |
-| Adobe Acrobat updates                                             | [Link](https://helpx.adobe.com/au/enterprise/using/deploying-acrobat.html)                                                                        | `28/6/2024` | 🟢     |
-| Adobe Acrobat DC updates                                          | [Link](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html)                                                              | `19/6/2024` | 🟢     |
-| Adobe Acrobat DC Pro and Standard                                 | [Link](https://helpx.adobe.com/acrobat/kb/acrobat-dc-downloads.html)                                                                              | `19/6/2024` | 🟢     |
-| Adobe Acrobat Reader DC                                           | [Link](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)                                                                                   | `19/6/2024` | 🟢     |
-| Adobe Brackets                                                    | [Link](http://brackets.io/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Adobe Connect meeting application                                 | [Link](https://www.adobe.com/products/adobeconnect.html)                                                                                          | `21/6/2024` | 🟢     |
-| Adobe Digital Editions                                            | [Link](https://www.adobe.com/solutions/ebook/digital-editions.html)                                                                               | `2/5/2024`  | 🟢     |
-| Adoptium Temurin 11                                               | [Link](https://adoptium.net/)                                                                                                                     | `23/4/2024` | 🟢     |
-| Adoptium Temurin 16                                               | [Link](https://adoptium.net/)                                                                                                                     | `12/4/2024` | 🟢     |
-| Adoptium Temurin 17                                               | [Link](https://adoptium.net/)                                                                                                                     | `22/4/2024` | 🟢     |
-| Adoptium Temurin 18                                               | [Link](https://adoptium.net/)                                                                                                                     | `12/4/2024` | 🟢     |
-| Adoptium Temurin 19                                               | [Link](https://adoptium.net/)                                                                                                                     | `12/4/2024` | 🟢     |
-| Adoptium Temurin 20                                               | [Link](https://adoptium.net/)                                                                                                                     | `12/4/2024` | 🟢     |
-| Adoptium Temurin 21                                               | [Link](https://adoptium.net/)                                                                                                                     | `22/5/2024` | 🟢     |
-| Adoptium Temurin 8                                                | [Link](https://adoptium.net/)                                                                                                                     | `24/4/2024` | 🟢     |
-| Airtame App                                                       | [Link](https://airtame.com/)                                                                                                                      | `23/4/2024` | 🟢     |
-| Akeo Rufus                                                        | [Link](https://rufus.ie/)                                                                                                                         | `22/5/2024` | 🟢     |
-| Akeo Rufus (alternate method)                                     | [Link](https://rufus.ie)                                                                                                                          | `23/5/2024` | 🟢     |
-| Amazon Corretto                                                   | [Link](https://aws.amazon.com/corretto/)                                                                                                          | `17/4/2024` | 🟢     |
-| Anaconda                                                          | [Link](https://www.anaconda.com/)                                                                                                                 | `27/6/2024` | 🟢     |
-| Anki                                                              | [Link](https://github.com/ankitects/anki/)                                                                                                        | `1/7/2024`  | 🟢     |
-| AppVentiX                                                         | [Link](https://appventix.com/)                                                                                                                    | `8/5/2024`  | 🟢     |
-| Artifex Ghostscript                                               | [Link](https://www.ghostscript.com/)                                                                                                              | `24/5/2024` | 🟢     |
-| Atlassian Sourcetree                                              | [Link](https://www.sourcetreeapp.com/)                                                                                                            | `17/4/2024` | 🟢     |
-| Audacity                                                          | [Link](https://www.audacityteam.org/)                                                                                                             | `5/5/2024`  | 🟢     |
-| Windows Auto Dark Mode                                            | [Link](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)                                                                                   | `5/5/2024`  | 🟢     |
-| Autodesk Fusion 360                                               | [Link](https://www.autodesk.com/products/fusion-360/overview)                                                                                     | `11/6/2024` | 🟢     |
-| AWS CLI                                                           | [Link](https://github.com/aws/aws-cli/)                                                                                                           | `4/7/2024`  | 🟢     |
-| AWS SAM CLI                                                       | [Link](https://github.com/aws/aws-sam-cli/)                                                                                                       | `27/6/2024` | 🟢     |
-| Azul Zulu 11                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                                                                      | `4/5/2024`  | 🟢     |
-| Azul Zulu 17                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                                                                      | `8/5/2024`  | 🟢     |
-| Azul Zulu 21                                                      | [Link](https://www.azul.com/downloads/#zulu)                                                                                                      | `22/5/2024` | 🟢     |
-| Azul Zulu 8                                                       | [Link](https://www.azul.com/downloads/#zulu)                                                                                                      | `4/5/2024`  | 🟢     |
-| Beekeeper Studio                                                  | [Link](https://www.beekeeperstudio.io/)                                                                                                           | `28/6/2024` | 🟢     |
-| BellSoft Liberica JDK 11 LTS                                      | [Link](https://bell-sw.com/libericajdk/)                                                                                                          | `18/5/2024` | 🟢     |
-| BellSoft Liberica JDK 17 LTS                                      | [Link](https://bell-sw.com/libericajdk/)                                                                                                          | `17/5/2024` | 🟢     |
-| BellSoft Liberica JDK 20                                          | [Link](https://bell-sw.com/libericajdk/)                                                                                                          | `2/5/2024`  | 🟢     |
-| BellSoft Liberica JDK 8 LTS                                       | [Link](https://bell-sw.com/libericajdk/)                                                                                                          | `2/5/2024`  | 🟢     |
-| Base Image Script Framework                                       | [Link](https://eucweb.com/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Bitwarden Desktop                                                 | [Link](https://bitwarden.com/)                                                                                                                    | `3/7/2024`  | 🟢     |
-| Blender Launcher                                                  | [Link](https://dotbow.github.io/Blender-Launcher/)                                                                                                | `5/5/2024`  | 🟢     |
-| BlueJ                                                             | [Link](https://www.bluej.org/)                                                                                                                    | `12/4/2024` | 🟢     |
-| Cendio ThinLinc                                                   | [Link](https://www.cendio.com/)                                                                                                                   | `12/4/2024` | 🟢     |
-| Citrix ShareFile for Windows                                      | [Link](https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html)                                             | `21/5/2024` | 🟢     |
-| Citrix Workspace app                                              | [Link](https://www.citrix.com/downloads/workspace-app/)                                                                                           | `23/5/2024` | 🟢     |
-| Clarivate EndNote                                                 | [Link](https://www.endnote.com/)                                                                                                                  | `9/5/2024`  | 🟢     |
-| Codelerity Apache NetBeans                                        | [Link](https://www.codelerity.com/netbeans/)                                                                                                      | `31/5/2024` | 🟢     |
-| Connection Experience Indicator                                   | [Link](https://bramwolfs.com/2020/03/11/connection-experience-indicator-for-rds-wvd/)                                                             | `5/5/2024`  | 🟢     |
-| ControlUp Agent                                                   | [Link](https://www.controlup.com/products/controlup/agent/)                                                                                       | `18/6/2024` | 🟢     |
-| ControlUp Console                                                 | [Link](https://www.controlup.com/products/controlup/management/)                                                                                  | `18/6/2024` | 🟢     |
-| ControlUp Remote DX Plugins                                       | [Link](https://www.controlup.com/products/controlup/agent/)                                                                                       | `18/6/2024` | 🟢     |
-| iterate GmbH Cyberduck                                            | [Link](https://cyberduck.io/)                                                                                                                     | `28/6/2024` | 🟢     |
-| DB Browser for SQLite                                             | [Link](https://sqlitebrowser.org/)                                                                                                                | `5/5/2024`  | 🟢     |
-| dbeaver                                                           | [Link](https://github.com/dbeaver/dbeaver)                                                                                                        | `24/6/2024` | 🟢     |
-| Debauchee Barrier                                                 | [Link](https://github.com/debauchee/barrier)                                                                                                      | `5/5/2024`  | 🟢     |
-| deviceTRUST                                                       | [Link](https://devicetrust.com/)                                                                                                                  | `22/6/2024` | 🟢     |
-| DevToys                                                           | [Link](https://devtoys.app/)                                                                                                                      | `5/5/2024`  | 🟢     |
-| diagrams.net                                                      | [Link](https://www.diagrams.net/)                                                                                                                 | `29/6/2024` | 🟢     |
-| dnGrep                                                            | [Link](https://dngrep.github.io/)                                                                                                                 | `12/6/2024` | 🟢     |
-| Docker Compose                                                    | [Link](https://github.com/docker/compose)                                                                                                         | `25/6/2024` | 🟢     |
-| Docker Desktop                                                    | [Link](https://www.docker.com/products/docker-desktop/)                                                                                           | `11/6/2024` | 🟢     |
-| Double Commander                                                  | [Link](https://github.com/doublecmd/doublecmd/)                                                                                                   | `22/6/2024` | 🟢     |
-| Drata Agent                                                       | [Link](https://help.drata.com/en/articles/5002305-installing-the-drata-agent-via-windows-os)                                                      | `5/5/2024`  | 🟢     |
-| Druva inSync Client                                               | [Link](https://docs.druva.com/005_inSync_Client)                                                                                                  | `1/6/2024`  | 🟢     |
-| eduVPN                                                            | [Link](https://app.eduvpn.org/)                                                                                                                   | `28/6/2024` | 🟢     |
-| Egnyte Desktop App                                                | [Link](https://www.egnyte.com/solutions/sharing-collaboration)                                                                                    | `12/4/2024` | 🟢     |
-| Elgato 4K Capture Utility                                         | [Link](https://help.elgato.com/hc/en-us/articles/360027963752-Elgato-4K-Capture-Utility-Software-Interface)                                       | `4/7/2024`  | 🟢     |
-| Elgato Audio Effects                                              | [Link](https://www.elgato.com/)                                                                                                                   | `4/7/2024`  | 🟢     |
-| Elgato Camera Hub                                                 | [Link](https://help.elgato.com/hc/en-us/sections/360013950972-Elgato-Camera-Hub-Software)                                                         | `4/7/2024`  | 🟢     |
-| Elgato Control Center                                             | [Link](https://help.elgato.com/hc/en-us/sections/360004115951-Elgato-Control-Center-Software)                                                     | `4/7/2024`  | 🟢     |
-| Elgato EpocCam                                                    | [Link](https://www.elgato.com/us/en/s/epoccam)                                                                                                    | `4/7/2024`  | 🟢     |
-| Elgato Game Capture                                               | [Link](https://help.elgato.com/hc/en-us/sections/360004111092-Elgato-Game-Capture-HD-Software)                                                    | `4/7/2024`  | 🟢     |
-| Elgato Stream Deck                                                | [Link](https://www.elgato.com/us/en/s/welcome-to-stream-deck)                                                                                     | `4/7/2024`  | 🟢     |
-| Elgato Video Capture                                              | [Link](https://www.elgato.com/us/en/p/video-capture)                                                                                              | `4/7/2024`  | 🟢     |
-| Elgato Wave Link                                                  | [Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows)                                             | `4/7/2024`  | 🟢     |
-| ESET Endpoint Antivirus                                           | [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)                                                                           | `12/4/2024` | 🟢     |
-| ESET Endpoint Security                                            | [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)                                                                           | `12/4/2024` | 🟢     |
-| ESET Full Disk Encryption                                         | [Link](https://www.eset.com/int/business/extended-protection-with-full-disk-encryption/)                                                          | `12/4/2024` | 🟢     |
-| ESET Inspect Connector                                            | [Link](https://www.eset.com/int/business/download/inspect/)                                                                                       | `18/6/2024` | 🟢     |
-| ESET Endpoint Antivirus                                           | [Link](https://www.eset.com/au/business/solutions/endpoint-protection/)                                                                           | `2/7/2024`  | 🟢     |
-| ESET Secure Authentication                                        | [Link](https://www.eset.com/au/business/download/secure-authentication/)                                                                          | `12/4/2024` | 🟢     |
-| ESET Server Security                                              | [Link](https://www.eset.com/int/business/solutions/file-server-security/)                                                                         | `12/4/2024` | 🟢     |
-| FileZilla                                                         | [Link](https://filezilla-project.org/)                                                                                                            | `31/1/2024` | 🔴     |
-| Flameshot                                                         | [Link](https://flameshot.org/)                                                                                                                    | `5/5/2024`  | 🟢     |
-| Dan Pristupov Fork                                                | [Link](https://www.fork.dev)                                                                                                                      | `24/5/2024` | 🟢     |
-| Foxit PDF Editor                                                  | [Link](https://www.foxit.com/pdf-editor/)                                                                                                         | `27/5/2024` | 🟢     |
-| Foxit Reader                                                      | [Link](https://www.foxitsoftware.com/pdf-reader/)                                                                                                 | `24/5/2024` | 🟢     |
-| Freedom Scientific Fusion                                         | [Link](https://www.freedomscientific.com/products/software/fusion/)                                                                               | `4/7/2024`  | 🟢     |
-| Freedom Scientific JAWS                                           | [Link](https://www.freedomscientific.com/products/software/jaws/)                                                                                 | `4/7/2024`  | 🟢     |
-| Freedom Scientific ZoomText                                       | [Link](https://www.freedomscientific.com/products/software/zoomtext/)                                                                             | `4/7/2024`  | 🟢     |
-| FreeFem                                                           | [Link](https://freefem.org/)                                                                                                                      | `5/5/2024`  | 🟢     |
-| Geek Software PDF24 Creator                                       | [Link](https://tools.pdf24.org/en/creator/)                                                                                                       | `6/6/2024`  | 🟢     |
-| GeoGebra Classic                                                  | [Link](https://www.geogebra.org)                                                                                                                  | `18/6/2024` | 🟢     |
-| Gephi                                                             | [Link](https://gephi.org/)                                                                                                                        | `5/5/2024`  | 🟢     |
-| Ghisler TotalCommander                                            | [Link](https://www.ghisler.com/)                                                                                                                  | `12/4/2024` | 🟢     |
-| GIMP                                                              | [Link](https://www.gimp.org/)                                                                                                                     | `4/7/2024`  | 🟢     |
-| Git Extensions                                                    | [Link](https://github.com/gitextensions/gitextensions)                                                                                            | `5/5/2024`  | 🟢     |
-| Git for Windows                                                   | [Link](https://gitforwindows.org/)                                                                                                                | `3/6/2024`  | 🟢     |
-| GitHub Atom                                                       | [Link](https://atom.io/)                                                                                                                          | `5/5/2024`  | 🟢     |
-| GitHub Desktop                                                    | [Link](https://desktop.github.com/)                                                                                                               | `27/6/2024` | 🟢     |
-| GitHub release                                                    | [Link](https://github.com/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Google Chrome Enterprise                                          | [Link](https://cloud.google.com/chrome-enterprise/browser/download/)                                                                              | `4/7/2024`  | 🟢     |
-| Google Chrome Driver                                              | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `4/7/2024`  | 🟢     |
-| Google Chrome for Testing                                         | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `4/7/2024`  | 🟢     |
-| Google Chrome Headless Shell                                      | [Link](https://googlechromelabs.github.io/chrome-for-testing/)                                                                                    | `4/7/2024`  | 🟢     |
-| Google Drive                                                      | [Link](https://support.google.com/drive/answer/7329379)                                                                                           | `12/4/2024` | 🟢     |
-| GoTo Connect                                                      | [Link](https://support.goto.com/connect/help/what-are-the-download-links-for-it-admin-deployments)                                                | `20/6/2024` | 🟢     |
-| GoTo Meeting                                                      | [Link](https://support.goto.com/meeting/help/install-via-msi-windows)                                                                             | `12/4/2024` | 🟢     |
-| GoTo Opener                                                       | [Link](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi)                                                          | `11/5/2024` | 🟢     |
-| Gpg4win                                                           | [Link](https://www.gpg4win.org/)                                                                                                                  | `12/4/2024` | 🟢     |
-| Grafana Agent                                                     | [Link](https://grafana.com/docs/agent/)                                                                                                           | `8/6/2024`  | 🟢     |
-| Greenshot                                                         | [Link](https://getgreenshot.org/)                                                                                                                 | `5/5/2024`  | 🟢     |
-| gretl                                                             | [Link](http://gretl.sourceforge.net/)                                                                                                             | `4/7/2024`  | 🟢     |
-| gsudo                                                             | [Link](https://gerardog.github.io/gsudo)                                                                                                          | `31/5/2024` | 🟢     |
-| Handbrake                                                         | [Link](https://handbrake.fr/)                                                                                                                     | `23/6/2024` | 🟢     |
-| Hashicorp Boundary                                                | [Link](https://www.boundaryproject.io/)                                                                                                           | `19/6/2024` | 🟢     |
-| Hashicorp Consul                                                  | [Link](https://www.consul.io/)                                                                                                                    | `13/6/2024` | 🟢     |
-| Hashicorp Nomad                                                   | [Link](https://www.nomadproject.io/)                                                                                                              | `20/6/2024` | 🟢     |
-| Hashicorp Packer                                                  | [Link](https://packer.io/)                                                                                                                        | `2/7/2024`  | 🟢     |
-| Hashicorp Terraform                                               | [Link](https://www.terraform.io/)                                                                                                                 | `4/7/2024`  | 🟢     |
-| Hashicorp Vault                                                   | [Link](https://www.vaultproject.io/)                                                                                                              | `27/6/2024` | 🟢     |
-| Hashicorp Waypoint                                                | [Link](https://www.waypointproject.io/)                                                                                                           | `12/4/2024` | 🟢     |
-| ImageGlass                                                        | [Link](https://imageglass.org/)                                                                                                                   | `27/6/2024` | 🟢     |
-| ImageMagick Studio ImageMagick                                    | [Link](https://imagemagick.org/)                                                                                                                  | `24/6/2024` | 🟢     |
-| JabraDirect                                                       | [Link](https://www.jabra.com/software-and-services/jabra-direct)                                                                                  | `3/7/2024`  | 🟢     |
-| JAM Software TreeSize Free                                        | [Link](https://www.jam-software.com/treesize_free/)                                                                                               | `7/5/2024`  | 🟢     |
-| JAM Software TreeSize Professional                                | [Link](https://www.jam-software.com/treesize/)                                                                                                    | `4/6/2024`  | 🟢     |
-| JASP                                                              | [Link](https://jasp-stats.org/)                                                                                                                   | `12/4/2024` | 🟢     |
-| JeremyMain GPUProfiler                                            | [Link](https://github.com/JeremyMain/GPUProfiler)                                                                                                 | `5/5/2024`  | 🟢     |
-| JetBrains CLion                                                   | [Link](https://www.jetbrains.com/clion)                                                                                                           | `20/6/2024` | 🟢     |
-| JetBrains DataGrip                                                | [Link](https://www.jetbrains.com/datagrip)                                                                                                        | `20/6/2024` | 🟢     |
-| JetBrains DataSpell                                               | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `14/6/2024` | 🟢     |
-| JetBrains Gateway                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `24/5/2024` | 🟢     |
-| JetBrains GoLand                                                  | [Link](https://www.jetbrains.com/dataspell)                                                                                                       | `21/6/2024` | 🟢     |
-| JetBrains IntelliJ IDEA                                           | [Link](https://www.jetbrains.com/)                                                                                                                | `21/6/2024` | 🟢     |
-| JetBrains PhpStorm                                                | [Link](https://www.jetbrains.com/phpstorm)                                                                                                        | `24/6/2024` | 🟢     |
-| JetBrains PyCharm                                                 | [Link](https://www.jetbrains.com/)                                                                                                                | `26/6/2024` | 🟢     |
-| JetBrains Rider                                                   | [Link](https://www.jetbrains.com/)                                                                                                                | `25/6/2024` | 🟢     |
-| JetBrains RubyMine                                                | [Link](https://www.jetbrains.com/rubymine)                                                                                                        | `22/6/2024` | 🟢     |
-| JetBrains Space                                                   | [Link](https://www.jetbrains.com/space)                                                                                                           | `5/5/2024`  | 🟢     |
-| JetBrains TeamCity                                                | [Link](https://www.jetbrains.com/teamcity)                                                                                                        | `28/6/2024` | 🟢     |
-| JetBrains Toolbox App                                             | [Link](https://www.jetbrains.com/toolbox-app/)                                                                                                    | `3/7/2024`  | 🟢     |
-| JetBrains WebStorm                                                | [Link](https://www.jetbrains.com/webstorm)                                                                                                        | `21/6/2024` | 🟢     |
-| JetBrains YouTrack                                                | [Link](https://www.jetbrains.com/youtrack)                                                                                                        | `5/5/2024`  | 🟢     |
-| jq                                                                | [Link](https://jqlang.github.io/jq/)                                                                                                              | `5/5/2024`  | 🟢     |
-| jrsoftware InnoSetup                                              | [Link](https://www.innosetup.com)                                                                                                                 | `4/7/2024`  | 🟢     |
-| Karakun OpenWebStart                                              | [Link](https://openwebstart.com/ows/)                                                                                                             | `14/6/2024` | 🟢     |
-| KDiff3                                                            | [Link](https://kdiff3.sourceforge.net/)                                                                                                           | `4/7/2024`  | 🟢     |
-| KeePass Password Safe                                             | [Link](https://keepass.info/)                                                                                                                     | `4/7/2024`  | 🟢     |
-| KeePassXC Team KeePassXC                                          | [Link](https://keepassxc.org/)                                                                                                                    | `20/6/2024` | 🟢     |
-| KeeWeb                                                            | [Link](https://github.com/keeweb/keeweb)                                                                                                          | `5/5/2024`  | 🟢     |
-| Kubernetes Kubectl                                                | [Link](https://kubernetes.io/)                                                                                                                    | `12/6/2024` | 🟢     |
-| LehrerOffice                                                      | [Link](https://lehreroffice.net/)                                                                                                                 | `3/7/2024`  | 🟢     |
-| LibreOffice                                                       | [Link](https://www.libreoffice.org/)                                                                                                              | `19/6/2024` | 🟢     |
-| Master Packager                                                   | [Link](https://www.masterpackager.com/)                                                                                                           | `18/6/2024` | 🟢     |
-| Mattermost Desktop                                                | [Link](https://github.com/mattermost/desktop)                                                                                                     | `14/6/2024` | 🟢     |
-| Maximus5 ConEmu                                                   | [Link](https://github.com/Maximus5/ConEmu)                                                                                                        | `5/5/2024`  | 🟢     |
-| McNeel Rhino                                                      | [Link](https://www.rhino3d.com/)                                                                                                                  | `20/6/2024` | 🟢     |
-| Mendeley Desktop                                                  | [Link](https://www.mendeley.com/)                                                                                                                 | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   | [Link](https://mestrelab.com/software/mnova/)                                                                                                     | `12/4/2024` | 🟢     |
-| Microsoft .NET                                                    | [Link](https://dotnet.microsoft.com/download/)                                                                                                    | `12/6/2024` | 🟢     |
-| Microsoft 365 Apps                                                | [Link](https://www.microsoft.com/office)                                                                                                          | `2/7/2024`  | 🟢     |
-| Microsoft Azure CLI                                               | [Link](https://learn.microsoft.com/en-au/cli/azure/)                                                                                              | `31/5/2024` | 🟢     |
-| Microsoft Azure Data Studio                                       | [Link](https://docs.microsoft.com/en-us/sql/azure-data-studio/)                                                                                   | `4/7/2024`  | 🟢     |
-| Microsoft Azure Functions Core Tools                              | [Link](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)                                                                | `29/6/2024` | 🟢     |
-| Microsoft Azure Pipelines Agent                                   | [Link](https://learn.microsoft.com/en-au/azure/devops/pipelines/agents/agents)                                                                    | `3/6/2024`  | 🟢     |
-| Microsoft Azure Storage Explorer                                  | [Link](https://azure.microsoft.com/en-au/features/storage-explorer/)                                                                              | `25/5/2024` | 🟢     |
-| Microsoft Azure Windows VMAgent                                   | [Link](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)                                                         | `14/6/2024` | 🟢     |
-| Microsoft Bicep                                                   | [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)                                                              | `5/6/2024`  | 🟢     |
-| Microsoft Bot Framework Emulator                                  | [Link](https://github.com/microsoft/BotFramework-Emulator/)                                                                                       | `12/4/2024` | 🟢     |
-| Microsoft Edge                                                    | [Link](https://www.microsoft.com/edge)                                                                                                            | `4/7/2024`  | 🟢     |
-| Microsoft Edge WebDriver                                          | [Link](https://www.microsoft.com/edge)                                                                                                            | `4/7/2024`  | 🟢     |
-| Microsoft Edge WebView2 Runtime                                   | [Link](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)                                                                            | `3/7/2024`  | 🟢     |
-| Microsoft FSLogix Apps                                            | [Link](https://docs.microsoft.com/fslogix/)                                                                                                       | `15/5/2024` | 🟢     |
-| Microsoft ODBC Driver for SQL Server (latest)                     | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
-| Microsoft ODBC Driver for SQL Server 17.x                         | [Link](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server)                                                    | `22/5/2024` | 🟢     |
-| Microsoft OLE DB Driver for SQL Server (latest)                   | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server)                                                  | `22/5/2024` | 🟢     |
-| Microsoft OLE DB Driver for SQL Server 18                         | [Link](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#previous-releases) | `4/7/2024`  | 🟢     |
-| Microsoft OneDrive                                                | [Link](https://onedrive.live.com/)                                                                                                                | `4/7/2024`  | 🟢     |
-| Microsoft OpenJDK 11                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `18/5/2024` | 🟢     |
-| Microsoft OpenJDK 17                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `18/5/2024` | 🟢     |
-| Microsoft OpenJDK 21                                              | [Link](https://www.microsoft.com/openjdk)                                                                                                         | `22/5/2024` | 🟢     |
-| Microsoft PowerShell                                              | [Link](https://docs.microsoft.com/powershell/)                                                                                                    | `21/6/2024` | 🟢     |
-| Microsoft PowerToys                                               | [Link](https://github.com/microsoft/PowerToys/)                                                                                                   | `3/7/2024`  | 🟢     |
-| Microsoft SQL Server Management Studio                            | [Link](https://go.microsoft.com/fwlink/?LinkId=531355)                                                                                            | `22/5/2024` | 🟢     |
-| Microsoft Teams (new)                                             | [Link](https://www.microsoft.com/teams)                                                                                                           | `18/6/2024` | 🟢     |
-| Microsoft Teams (classic)                                         | [Link](https://www.microsoft.com/teams)                                                                                                           | `26/6/2024` | 🟢     |
-| Microsoft Terminal                                                | [Link](https://github.com/microsoft/terminal/)                                                                                                    | `28/6/2024` | 🟢     |
-| Microsoft Virtual Desktop Optimization Tool                       | [Link](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)                                                             | `12/6/2024` | 🟢     |
-| Microsoft Visual Studio                                           | [Link](https://visualstudio.microsoft.com/)                                                                                                       | `19/6/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      | [Link](https://code.visualstudio.com)                                                                                                             | `4/7/2024`  | 🟢     |
-| Microsoft Windows Package Manager Client                          | [Link](https://docs.microsoft.com/en-us/windows/package-manager/)                                                                                 | `29/6/2024` | 🟢     |
-| Microsoft WSL                                                     | [Link](https://github.com/microsoft/wsl/)                                                                                                         | `14/6/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Agent Bootloader                  | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `14/5/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Agent                             | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)                                                       | `25/4/2024` | 🟢     |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection)                                                             | `31/5/2024` | 🟢     |
-| Microsoft Remote Desktop                                          | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-windows-7-10)                                                               | `3/7/2024`  | 🟢     |
-| Microsoft Remote Desktop WebRTC Redirector Service                | [Link](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)                                                                       | `31/5/2024` | 🟢     |
-| Miniconda                                                         | [Link](https://docs.conda.io/en/latest/miniconda.html)                                                                                            | `12/4/2024` | 🟢     |
-| Minitab                                                           | [Link](https://www.minitab.com/)                                                                                                                  | `12/4/2024` | 🟢     |
-| MiniZinc IDE                                                      | [Link](https://www.minizinc.org/)                                                                                                                 | `3/6/2024`  | 🟢     |
-| MirantisLens                                                      | [Link](https://k8slens.dev/)                                                                                                                      | `29/5/2024` | 🟢     |
-| Mozilla Firefox                                                   | [Link](https://www.mozilla.org/en-US/firefox/new/)                                                                                                | `29/6/2024` | 🟢     |
-| Mozilla Gecko Driver                                              | [Link](https://developer.mozilla.org/en-US/docs/Web/WebDriver)                                                                                    | `5/5/2024`  | 🟢     |
-| Mozilla Thunderbird                                               | [Link](https://www.thunderbird.net/)                                                                                                              | `2/7/2024`  | 🟢     |
-| mRemoteNG                                                         | [Link](https://mremoteng.org/)                                                                                                                    | `5/5/2024`  | 🟢     |
-| MuseScore                                                         | [Link](https://musescore.org/)                                                                                                                    | `12/6/2024` | 🟢     |
-| mySQL Workbench                                                   | [Link](https://dev.mysql.com/doc/workbench/en/)                                                                                                   | `1/7/2024`  | 🟢     |
-| NanaZip                                                           | [Link](https://github.com/M2Team/NanaZip)                                                                                                         | `28/5/2024` | 🟢     |
-| Ben Olden-Cooligan NAPS2                                          | [Link](https://www.naps2.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
-| NETworkManager                                                    | [Link](https://github.com/BornToBeRoot/NETworkManager)                                                                                            | `18/6/2024` | 🟢     |
-| Nevcairiel LAV Filters                                            | [Link](https://github.com/Nevcairiel/LAVFilters)                                                                                                  | `5/5/2024`  | 🟢     |
-| Node.js                                                           | [Link](https://nodejs.org/)                                                                                                                       | `2/7/2024`  | 🟢     |
-| nomacs Image Lounge                                               | [Link](https://nomacs.org/)                                                                                                                       | `5/5/2024`  | 🟢     |
-| Notable                                                           | [Link](https://notable.app/)                                                                                                                      | `5/5/2024`  | 🟢     |
-| Notepad++                                                         | [Link](https://notepad-plus-plus.org/)                                                                                                            | `4/6/2024`  | 🟢     |
-| Npcap                                                             | [Link](https://npcap.com/)                                                                                                                        | `12/4/2024` | 🟢     |
-| Obsidian                                                          | [Link](https://obsidian.md/)                                                                                                                      | `26/6/2024` | 🟢     |
-| OBS Studio                                                        | [Link](https://obsproject.com/)                                                                                                                   | `12/4/2024` | 🟢     |
-| OCS Inventory Windows Agent                                       | [Link](https://ocsinventory-ng.org/)                                                                                                              | `5/5/2024`  | 🟢     |
-| Octopus Deploy Server                                             | [Link](https://octopus.com/)                                                                                                                      | `2/7/2024`  | 🟢     |
-| Octopus Tentacle                                                  | [Link](https://octopus.com/)                                                                                                                      | `23/5/2024` | 🟢     |
-| Omnissa Horizon Client                                            | [Link](https://customerconnect.omnissa.com/downloads/info/slug/desktop_end_user_computing/vmware_horizon_clients/horizon_8)                       | `4/7/2024`  | 🟢     |
-| ONLYOFFICE Desktop Editors                                        | [Link](https://www.onlyoffice.com/desktop.aspx)                                                                                                   | `21/6/2024` | 🟢     |
-| OpenJDK                                                           | [Link](https://openjdk.java.net/)                                                                                                                 | `5/5/2024`  | 🟢     |
-| OpenLens                                                          | [Link](https://github.com/MuhammedKalkan/OpenLens/)                                                                                               | `5/5/2024`  | 🟢     |
-| Open-Shell-Menu                                                   | [Link](https://open-shell.github.io/Open-Shell-Menu/)                                                                                             | `5/5/2024`  | 🟢     |
-| OpenWebStart                                                      | [Link](https://openwebstart.com/)                                                                                                                 | `14/6/2024` | 🟢     |
-| Opera Browser                                                     | [Link](https://www.opera.com/browsers/opera)                                                                                                      | `3/7/2024`  | 🟢     |
-| Opera Crypto Browser                                              | [Link](https://www.opera.com/crypto/next)                                                                                                         | `12/4/2024` | 🟢     |
-| Opera GX Browser                                                  | [Link](https://www.opera.com/gx)                                                                                                                  | `2/7/2024`  | 🟢     |
-| Oracle Java 17                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java17)                                                                                | `17/4/2024` | 🟢     |
-| Oracle Java 20                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java20)                                                                                | `2/5/2024`  | 🟢     |
-| Oracle Java 21                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java21)                                                                                | `17/4/2024` | 🟢     |
-| Oracle Java 22                                                    | [Link](https://www.oracle.com/java/technologies/downloads/#java22)                                                                                | `2/5/2024`  | 🟢     |
-| Oracle Java 8                                                     | [Link](https://www.java.com)                                                                                                                      | `17/4/2024` | 🟢     |
-| Oracle VirtualBox                                                 | [Link](https://www.virtualbox.org/)                                                                                                               | `3/5/2024`  | 🟢     |
-| dotPDN LLC Paint.NET                                              | [Link](https://getpaint.net)                                                                                                                      | `12/4/2024` | 🟢     |
-| dotPDN LLC Paint.NET Offline Installer                            | [Link](https://getpaint.net/)                                                                                                                     | `5/5/2024`  | 🟢     |
-| Pandoc                                                            | [Link](https://pandoc.org/)                                                                                                                       | `25/6/2024` | 🟢     |
-| Parallels Client                                                  | [Link](https://www.parallels.com/products/ras/download/links/)                                                                                    | `25/6/2024` | 🟢     |
-| PDF Arranger                                                      | [Link](https://github.com/pdfarranger/pdfarranger/)                                                                                               | `21/6/2024` | 🟢     |
-| pdfforge PDFCreator                                               | [Link](https://www.pdfforge.org/pdfcreator)                                                                                                       | `17/5/2024` | 🟢     |
-| PeaZip PeaZip                                                     | [Link](https://peazip.github.io/)                                                                                                                 | `11/5/2024` | 🟢     |
-| Piriform CCleaner Free                                            | [Link](https://www.ccleaner.com/ccleaner)                                                                                                         | `1/7/2024`  | 🟢     |
-| Plex Media Desktop                                                | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `3/7/2024`  | 🟢     |
-| Plex HTPC                                                         | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `28/6/2024` | 🟢     |
-| Plex Media ServerDesktop                                          | [Link](https://www.plex.tv/media-server-downloads/)                                                                                               | `14/6/2024` | 🟢     |
-| Podman                                                            | [Link](https://github.com/containers/podman)                                                                                                      | `5/6/2024`  | 🟢     |
-| Podman Desktop                                                    | [Link](https://github.com/containers/podman-desktop)                                                                                              | `26/6/2024` | 🟢     |
-| Postman                                                           | [Link](https://www.getpostman.com/)                                                                                                               | `11/6/2024` | 🟢     |
-| Praat                                                             | [Link](https://www.fon.hum.uva.nl/praat/)                                                                                                         | `11/6/2024` | 🟢     |
-| Progress Chef Infra Client                                        | [Link](https://www.chef.io/products/chef-infra)                                                                                                   | `4/7/2024`  | 🟢     |
-| Progress Chef InSpec                                              | [Link](https://www.chef.io/products/chef-inspec)                                                                                                  | `14/6/2024` | 🟢     |
-| Progress Chef Workstation                                         | [Link](https://www.chef.io/products/chef-workstation)                                                                                             | `10/6/2024` | 🟢     |
-| ProjectLibre                                                      | [Link](https://www.projectlibre.com/)                                                                                                             | `4/7/2024`  | 🟢     |
-| Protege                                                           | [Link](https://protege.stanford.edu/)                                                                                                             | `31/5/2024` | 🟢     |
-| Proton Drive                                                      | [Link](https://proton.me/drive/)                                                                                                                  | `12/4/2024` | 🔴     |
-| Proton VPN                                                        | [Link](https://protonvpn.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
-| Proxyman                                                          | [Link](https://proxyman.io/)                                                                                                                      | `4/6/2024`  | 🟢     |
-| PSAppDeployToolkit                                                | [Link](https://psappdeploytoolkit.com/)                                                                                                           | `5/5/2024`  | 🟢     |
-| PSF Python                                                        | [Link](https://www.python.org/)                                                                                                                   | `7/6/2024`  | 🟢     |
-| PuTTY                                                             | [Link](https://www.chiark.greenend.org.uk/~sgtatham/putty/)                                                                                       | `16/4/2024` | 🟢     |
-| QGIS                                                              | [Link](https://qgis.org/en/site/index.html)                                                                                                       | `28/6/2024` | 🟢     |
-| R Core Team R for Windows                                         | [Link](https://cran.r-project.org/bin/windows/base/)                                                                                              | `15/6/2024` | 🟢     |
-| Remote Desktop Analyzer                                           | [Link](https://rdanalyzer.com/)                                                                                                                   | `5/5/2024`  | 🟢     |
-| Red Hat OpenJDK 11                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
-| Red Hat OpenJDK 17                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
-| Red Hat OpenJDK 21                                                | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `22/5/2024` | 🟢     |
-| Red Hat OpenJDK 8                                                 | [Link](https://developers.redhat.com/products/openjdk/overview)                                                                                   | `20/4/2024` | 🟢     |
-| Responsively App                                                  | [Link](https://responsively.app/)                                                                                                                 | `7/6/2024`  | 🟢     |
-| RingCentral                                                       | [Link](https://www.ringcentral.com)                                                                                                               | `28/6/2024` | 🟢     |
-| Rizonesoft Notepad3                                               | [Link](https://www.rizonesoft.com/downloads/notepad3)                                                                                             | `5/5/2024`  | 🟢     |
-| RStudio Desktop                                                   | [Link](https://posit.co/products/open-source/rstudio/)                                                                                            | `11/6/2024` | 🟢     |
-| Safe Exam Browser                                                 | [Link](https://safeexambrowser.org/)                                                                                                              | `15/6/2024` | 🟢     |
-| Safing Portmaster                                                 | [Link](https://safing.io/)                                                                                                                        | `6/6/2024`  | 🟢     |
-| SAGA-GIS                                                          | [Link](http://www.saga-gis.org/)                                                                                                                  | `4/7/2024`  | 🟢     |
-| Scooter Beyond Compare                                            | [Link](https://scootersoftware.com/)                                                                                                              | `12/4/2024` | 🟢     |
-| Scratch                                                           | [Link](https://scratch.mit.edu/)                                                                                                                  | `12/4/2024` | 🟢     |
-| ScreenToGif                                                       | [Link](https://github.com/NickeManarin/ScreenToGif)                                                                                               | `5/5/2024`  | 🟢     |
-| ShareX                                                            | [Link](https://getsharex.com/)                                                                                                                    | `12/5/2024` | 🟢     |
-| Signal for Windows                                                | [Link](https://www.signal.org/)                                                                                                                   | `3/7/2024`  | 🟢     |
-| Slack                                                             | [Link](https://slack.com/intl/en-au/help/articles/212475728-Deploy-Slack-via-Microsoft-Installer)                                                 | `26/6/2024` | 🟢     |
-| SmartBear SoapUI                                                  | [Link](https://www.soapui.org/)                                                                                                                   | `12/4/2024` | 🟢     |
-| Sober Lemur PDFSam Basic                                          | [Link](https://pdfsam.org/pdfsam-basic/)                                                                                                          | `5/5/2024`  | 🟢     |
-| stealthpuppy Windows Customised Defaults                          | [Link](https://stealthpuppy.com/image-customise/)                                                                                                 | `1/6/2024`  | 🟢     |
-| Stefans Tools gregpWin                                            | [Link](https://tools.stefankueng.com/grepWin.html)                                                                                                | `29/6/2024` | 🟢     |
-| Sumatra PDF Reader                                                | [Link](https://www.sumatrapdfreader.org/)                                                                                                         | `26/5/2024` | 🟢     |
-| SUSE Rancher Desktop                                              | [Link](https://rancherdesktop.io/)                                                                                                                | `18/6/2024` | 🟢     |
-| Tableau Desktop                                                   | [Link](https://www.tableau.com/)                                                                                                                  | `2/7/2024`  | 🟢     |
-| Tableau Prep                                                      | [Link](https://www.tableau.com/)                                                                                                                  | `2/7/2024`  | 🟢     |
-| Tableau Reader                                                    | [Link](https://www.tableau.com/)                                                                                                                  | `2/7/2024`  | 🟢     |
-| TeamViewer                                                        | [Link](https://www.teamviewer.com/)                                                                                                               | `25/6/2024` | 🟢     |
-| TechSmith Camtasia                                                | [Link](https://www.techsmith.com/)                                                                                                                | `27/6/2024` | 🟢     |
-| TechSmith Snagit                                                  | [Link](https://www.techsmith.com/)                                                                                                                | `7/6/2024`  | 🟢     |
-| Telegram Desktop                                                  | [Link](https://desktop.telegram.org/)                                                                                                             | `3/7/2024`  | 🟢     |
-| Telerik Fiddler Classic                                           | [Link](https://www.telerik.com/fiddler/fiddler-classic)                                                                                           | `12/4/2024` | 🟢     |
-| Telerik Fiddler Everywhere                                        | [Link](https://www.telerik.com/fiddler)                                                                                                           | `3/7/2024`  | 🟢     |
-| TeraTerm                                                          | [Link](https://teratermproject.github.io/index-en.html)                                                                                           | `5/5/2024`  | 🟢     |
-| Terminals                                                         | [Link](https://github.com/terminals-Origin/Terminals/)                                                                                            | `5/5/2024`  | 🟢     |
-| TeXstudio                                                         | [Link](https://www.texstudio.org/)                                                                                                                | `8/6/2024`  | 🟢     |
-| Thymio Suite                                                      | [Link](https://www.thymio.org/)                                                                                                                   | `5/5/2024`  | 🟢     |
-| Toggl Desktop                                                     | [Link](https://www.toggl.com/)                                                                                                                    | `5/5/2024`  | 🟢     |
-| Tor Project Tor Browser                                           | [Link](https://www.torproject.org/)                                                                                                               | `21/6/2024` | 🟢     |
-| Tower                                                             | [Link](https://www.git-tower.com/windows/)                                                                                                        | `26/6/2024` | 🟢     |
-| TGPi Colour Contrast Analyser                                     | [Link](https://www.tpgi.com/color-contrast-checker/)                                                                                              | `6/5/2024`  | 🟢     |
-| Tracker Software PDF X-Change Editor                              | [Link](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)                                                                                       | `18/6/2024` | 🟢     |
-| Unity Editor                                                      | [Link](https://unity.com/download)                                                                                                                | `24/5/2024` | 🟢     |
-| USBPcap                                                           | [Link](https://github.com/desowin/usbpcap/)                                                                                                       | `5/5/2024`  | 🟢     |
-| vast limits uberAgent                                             | [Link](https://uberagent.com/)                                                                                                                    | `30/4/2024` | 🟢     |
-| VeraCrypt                                                         | [Link](https://www.veracrypt.fr/en/Home.html)                                                                                                     | `3/7/2024`  | 🟢     |
-| Vercel Hyper                                                      | [Link](https://hyper.js/)                                                                                                                         | `5/5/2024`  | 🟢     |
-| VideoLan VLC Player                                               | [Link](https://www.videolan.org/vlc/)                                                                                                             | `4/7/2024`  | 🟢     |
-| VisualCppRedistAIO                                                | [Link](https://github.com/abbodi1406/vcredist)                                                                                                    | `5/5/2024`  | 🟢     |
-| VMPlex Workstation                                                | [Link](https://github.com/0xf005ba11/vmplex-ws)                                                                                                   | `5/5/2024`  | 🟢     |
-| VMware Horizon Client (alternate method)                          | [Link](https://docs.vmware.com/en/VMware-Horizon-Client/index.html)                                                                               | `12/4/2024` | 🟢     |
-| VMware Tools                                                      | [Link](https://docs.vmware.com/en/VMware-Tools/index.html)                                                                                        | `12/4/2024` | 🟢     |
-| voidtools Everything                                              | [Link](https://www.voidtools.com/)                                                                                                                | `12/4/2024` | 🟢     |
-| VSCodium                                                          | [Link](https://vscodium.com)                                                                                                                      | `20/6/2024` | 🟢     |
-| Win32-OpenSSH                                                     | [Link](https://github.com/PowerShell/Win32-OpenSSH/)                                                                                              | `5/5/2024`  | 🟢     |
-| WinMerge                                                          | [Link](https://winmerge.org/)                                                                                                                     | `5/5/2024`  | 🟢     |
-| WinSCP                                                            | [Link](https://winscp.net/)                                                                                                                       | `4/7/2024`  | 🟢     |
-| Wireshark                                                         | [Link](https://www.wireshark.org/#download)                                                                                                       | `12/6/2024` | 🟢     |
-| WiX Toolset                                                       | [Link](https://wixtoolset.org/)                                                                                                                   | `5/5/2024`  | 🟢     |
-| XnSoft Convert                                                    | [Link](https://www.xnview.com/en/xnconvert/)                                                                                                      | `12/4/2024` | 🟢     |
-| XnSoft XnView MP                                                  | [Link](https://www.xnview.com/en/xnviewmp/)                                                                                                       | `5/6/2024`  | 🟢     |
-| Yubico Authenticator                                              | [Link](https://github.com/Yubico/yubioath-flutter/)                                                                                               | `7/5/2024`  | 🟢     |
-| Zoom                                                              | [Link](https://zoom.us/download)                                                                                                                  | `1/7/2024`  | 🟢     |
-| Zoom Plugins for VDI                                              | [Link](https://support.zoom.us/hc/en-us/articles/4415057249549-VDI-releases-and-downloads)                                                        | `30/6/2024` | 🟢     |
-| ZorgMail Veilig verzenden plug-in                                 | [Link](https://enovationgroup.com/nl/service-support/alle-downloads/veilig-verzenden-plug-ins/)                                                   | `12/4/2024` | 🟢     |
-| Zotero                                                            | [Link](https://www.zotero.org/)                                                                                                                   | `12/4/2024` | 🟢     |
+| Application                                                       | Source | LastUpdate  | Status |
+|:----------------------------------------------------------------- |:------ |:----------- |:------ |
+| 1Password                                                         |        | `19/6/2024` | 🟢     |
+| 1Password 7                                                       |        | `19/6/2024` | 🟢     |
+| 1Password CLI                                                     |        | `22/5/2024` | 🟢     |
+| 7zip                                                              |        | `4/7/2024`  | 🟢     |
+| 7-Zip ZS                                                          |        | `5/5/2024`  | 🟢     |
+| Adobe Acrobat updates                                             |        | `28/6/2024` | 🟢     |
+| Adobe Acrobat DC updates                                          |        | `19/6/2024` | 🟢     |
+| Adobe Acrobat DC Pro and Standard                                 |        | `19/6/2024` | 🟢     |
+| Adobe Acrobat Reader DC                                           |        | `19/6/2024` | 🟢     |
+| Adobe Brackets                                                    |        | `5/5/2024`  | 🟢     |
+| Adobe Connect meeting application                                 |        | `21/6/2024` | 🟢     |
+| Adobe Digital Editions                                            |        | `2/5/2024`  | 🟢     |
+| Adoptium Temurin 11                                               |        | `23/4/2024` | 🟢     |
+| Adoptium Temurin 16                                               |        | `12/4/2024` | 🟢     |
+| Adoptium Temurin 17                                               |        | `22/4/2024` | 🟢     |
+| Adoptium Temurin 18                                               |        | `12/4/2024` | 🟢     |
+| Adoptium Temurin 19                                               |        | `12/4/2024` | 🟢     |
+| Adoptium Temurin 20                                               |        | `12/4/2024` | 🟢     |
+| Adoptium Temurin 21                                               |        | `22/5/2024` | 🟢     |
+| Adoptium Temurin 8                                                |        | `24/4/2024` | 🟢     |
+| Airtame App                                                       |        | `23/4/2024` | 🟢     |
+| Akeo Rufus                                                        |        | `22/5/2024` | 🟢     |
+| Akeo Rufus (alternate method)                                     |        | `23/5/2024` | 🟢     |
+| Amazon Corretto                                                   |        | `17/4/2024` | 🟢     |
+| Anaconda                                                          |        | `27/6/2024` | 🟢     |
+| Anki                                                              |        | `1/7/2024`  | 🟢     |
+| AppVentiX                                                         |        | `8/5/2024`  | 🟢     |
+| Artifex Ghostscript                                               |        | `24/5/2024` | 🟢     |
+| Atlassian Sourcetree                                              |        | `17/4/2024` | 🟢     |
+| Audacity                                                          |        | `5/5/2024`  | 🟢     |
+| Windows Auto Dark Mode                                            |        | `5/5/2024`  | 🟢     |
+| Autodesk Fusion 360                                               |        | `11/6/2024` | 🟢     |
+| AWS CLI                                                           |        | `4/7/2024`  | 🟢     |
+| AWS SAM CLI                                                       |        | `27/6/2024` | 🟢     |
+| Azul Zulu 11                                                      |        | `4/5/2024`  | 🟢     |
+| Azul Zulu 17                                                      |        | `8/5/2024`  | 🟢     |
+| Azul Zulu 21                                                      |        | `22/5/2024` | 🟢     |
+| Azul Zulu 8                                                       |        | `4/5/2024`  | 🟢     |
+| Beekeeper Studio                                                  |        | `28/6/2024` | 🟢     |
+| BellSoft Liberica JDK 11 LTS                                      |        | `18/5/2024` | 🟢     |
+| BellSoft Liberica JDK 17 LTS                                      |        | `17/5/2024` | 🟢     |
+| BellSoft Liberica JDK 20                                          |        | `2/5/2024`  | 🟢     |
+| BellSoft Liberica JDK 8 LTS                                       |        | `2/5/2024`  | 🟢     |
+| Base Image Script Framework                                       |        | `5/5/2024`  | 🟢     |
+| Bitwarden Desktop                                                 |        | `3/7/2024`  | 🟢     |
+| Blender Launcher                                                  |        | `5/5/2024`  | 🟢     |
+| BlueJ                                                             |        | `12/4/2024` | 🟢     |
+| Cendio ThinLinc                                                   |        | `12/4/2024` | 🟢     |
+| Citrix ShareFile for Windows                                      |        | `21/5/2024` | 🟢     |
+| Citrix Workspace app                                              |        | `23/5/2024` | 🟢     |
+| Clarivate EndNote                                                 |        | `9/5/2024`  | 🟢     |
+| Codelerity Apache NetBeans                                        |        | `31/5/2024` | 🟢     |
+| Connection Experience Indicator                                   |        | `5/5/2024`  | 🟢     |
+| ControlUp Agent                                                   |        | `18/6/2024` | 🟢     |
+| ControlUp Console                                                 |        | `18/6/2024` | 🟢     |
+| ControlUp Remote DX Plugins                                       |        | `18/6/2024` | 🟢     |
+| iterate GmbH Cyberduck                                            |        | `28/6/2024` | 🟢     |
+| DB Browser for SQLite                                             |        | `5/5/2024`  | 🟢     |
+| dbeaver                                                           |        | `24/6/2024` | 🟢     |
+| Debauchee Barrier                                                 |        | `5/5/2024`  | 🟢     |
+| deviceTRUST                                                       |        | `22/6/2024` | 🟢     |
+| DevToys                                                           |        | `5/5/2024`  | 🟢     |
+| diagrams.net                                                      |        | `29/6/2024` | 🟢     |
+| dnGrep                                                            |        | `12/6/2024` | 🟢     |
+| Docker Compose                                                    |        | `25/6/2024` | 🟢     |
+| Docker Desktop                                                    |        | `11/6/2024` | 🟢     |
+| Double Commander                                                  |        | `22/6/2024` | 🟢     |
+| Drata Agent                                                       |        | `5/5/2024`  | 🟢     |
+| Druva inSync Client                                               |        | `1/6/2024`  | 🟢     |
+| eduVPN                                                            |        | `28/6/2024` | 🟢     |
+| Egnyte Desktop App                                                |        | `12/4/2024` | 🟢     |
+| Elgato 4K Capture Utility                                         |        | `4/7/2024`  | 🟢     |
+| Elgato Audio Effects                                              |        | `4/7/2024`  | 🟢     |
+| Elgato Camera Hub                                                 |        | `4/7/2024`  | 🟢     |
+| Elgato Control Center                                             |        | `4/7/2024`  | 🟢     |
+| Elgato EpocCam                                                    |        | `4/7/2024`  | 🟢     |
+| Elgato Game Capture                                               |        | `4/7/2024`  | 🟢     |
+| Elgato Stream Deck                                                |        | `4/7/2024`  | 🟢     |
+| Elgato Video Capture                                              |        | `4/7/2024`  | 🟢     |
+| Elgato Wave Link                                                  |        | `4/7/2024`  | 🟢     |
+| ESET Endpoint Antivirus                                           |        | `12/4/2024` | 🟢     |
+| ESET Endpoint Security                                            |        | `12/4/2024` | 🟢     |
+| ESET Full Disk Encryption                                         |        | `12/4/2024` | 🟢     |
+| ESET Inspect Connector                                            |        | `18/6/2024` | 🟢     |
+| ESET Endpoint Antivirus                                           |        | `4/7/2024`  | 🟢     |
+| ESET Secure Authentication                                        |        | `12/4/2024` | 🟢     |
+| ESET Server Security                                              |        | `12/4/2024` | 🟢     |
+| FileZilla                                                         |        | `31/1/2024` | 🔴     |
+| Flameshot                                                         |        | `5/5/2024`  | 🟢     |
+| Dan Pristupov Fork                                                |        | `24/5/2024` | 🟢     |
+| Foxit PDF Editor                                                  |        | `27/5/2024` | 🟢     |
+| Foxit Reader                                                      |        | `24/5/2024` | 🟢     |
+| Freedom Scientific Fusion                                         |        | `4/7/2024`  | 🟢     |
+| Freedom Scientific JAWS                                           |        | `4/7/2024`  | 🟢     |
+| Freedom Scientific ZoomText                                       |        | `4/7/2024`  | 🟢     |
+| FreeFem                                                           |        | `5/5/2024`  | 🟢     |
+| Geek Software PDF24 Creator                                       |        | `6/6/2024`  | 🟢     |
+| GeoGebra Classic                                                  |        | `18/6/2024` | 🟢     |
+| Gephi                                                             |        | `5/5/2024`  | 🟢     |
+| Ghisler TotalCommander                                            |        | `12/4/2024` | 🟢     |
+| GIMP                                                              |        | `4/7/2024`  | 🟢     |
+| Git Extensions                                                    |        | `5/5/2024`  | 🟢     |
+| Git for Windows                                                   |        | `3/6/2024`  | 🟢     |
+| GitHub Atom                                                       |        | `5/5/2024`  | 🟢     |
+| GitHub Desktop                                                    |        | `27/6/2024` | 🟢     |
+| GitHub release                                                    |        | `5/5/2024`  | 🟢     |
+| Google Chrome Enterprise                                          |        | `4/7/2024`  | 🟢     |
+| Google Chrome Driver                                              |        | `4/7/2024`  | 🟢     |
+| Google Chrome for Testing                                         |        | `4/7/2024`  | 🟢     |
+| Google Chrome Headless Shell                                      |        | `4/7/2024`  | 🟢     |
+| Google Drive                                                      |        | `12/4/2024` | 🟢     |
+| GoTo Connect                                                      |        | `20/6/2024` | 🟢     |
+| GoTo Meeting                                                      |        | `12/4/2024` | 🟢     |
+| GoTo Opener                                                       |        | `11/5/2024` | 🟢     |
+| Gpg4win                                                           |        | `12/4/2024` | 🟢     |
+| Grafana Agent                                                     |        | `8/6/2024`  | 🟢     |
+| Greenshot                                                         |        | `5/5/2024`  | 🟢     |
+| gretl                                                             |        | `4/7/2024`  | 🟢     |
+| gsudo                                                             |        | `31/5/2024` | 🟢     |
+| Handbrake                                                         |        | `23/6/2024` | 🟢     |
+| Hashicorp Boundary                                                |        | `19/6/2024` | 🟢     |
+| Hashicorp Consul                                                  |        | `13/6/2024` | 🟢     |
+| Hashicorp Nomad                                                   |        | `20/6/2024` | 🟢     |
+| Hashicorp Packer                                                  |        | `2/7/2024`  | 🟢     |
+| Hashicorp Terraform                                               |        | `4/7/2024`  | 🟢     |
+| Hashicorp Vault                                                   |        | `27/6/2024` | 🟢     |
+| Hashicorp Waypoint                                                |        | `12/4/2024` | 🟢     |
+| ImageGlass                                                        |        | `27/6/2024` | 🟢     |
+| ImageMagick Studio ImageMagick                                    |        | `24/6/2024` | 🟢     |
+| JabraDirect                                                       |        | `3/7/2024`  | 🟢     |
+| JAM Software TreeSize Free                                        |        | `7/5/2024`  | 🟢     |
+| JAM Software TreeSize Professional                                |        | `4/6/2024`  | 🟢     |
+| JASP                                                              |        | `12/4/2024` | 🟢     |
+| JeremyMain GPUProfiler                                            |        | `5/5/2024`  | 🟢     |
+| JetBrains CLion                                                   |        | `20/6/2024` | 🟢     |
+| JetBrains DataGrip                                                |        | `20/6/2024` | 🟢     |
+| JetBrains DataSpell                                               |        | `14/6/2024` | 🟢     |
+| JetBrains Gateway                                                 |        | `24/5/2024` | 🟢     |
+| JetBrains GoLand                                                  |        | `21/6/2024` | 🟢     |
+| JetBrains IntelliJ IDEA                                           |        | `21/6/2024` | 🟢     |
+| JetBrains PhpStorm                                                |        | `24/6/2024` | 🟢     |
+| JetBrains PyCharm                                                 |        | `26/6/2024` | 🟢     |
+| JetBrains Rider                                                   |        | `25/6/2024` | 🟢     |
+| JetBrains RubyMine                                                |        | `22/6/2024` | 🟢     |
+| JetBrains Space                                                   |        | `5/5/2024`  | 🟢     |
+| JetBrains TeamCity                                                |        | `28/6/2024` | 🟢     |
+| JetBrains Toolbox App                                             |        | `3/7/2024`  | 🟢     |
+| JetBrains WebStorm                                                |        | `21/6/2024` | 🟢     |
+| JetBrains YouTrack                                                |        | `5/5/2024`  | 🟢     |
+| jq                                                                |        | `5/5/2024`  | 🟢     |
+| jrsoftware InnoSetup                                              |        | `4/7/2024`  | 🟢     |
+| Karakun OpenWebStart                                              |        | `14/6/2024` | 🟢     |
+| KDiff3                                                            |        | `4/7/2024`  | 🟢     |
+| KeePass Password Safe                                             |        | `4/7/2024`  | 🟢     |
+| KeePassXC Team KeePassXC                                          |        | `20/6/2024` | 🟢     |
+| KeeWeb                                                            |        | `5/5/2024`  | 🟢     |
+| Kubernetes Kubectl                                                |        | `12/6/2024` | 🟢     |
+| LehrerOffice                                                      |        | `3/7/2024`  | 🟢     |
+| LibreOffice                                                       |        | `19/6/2024` | 🟢     |
+| Master Packager                                                   |        | `18/6/2024` | 🟢     |
+| Mattermost Desktop                                                |        | `14/6/2024` | 🟢     |
+| Maximus5 ConEmu                                                   |        | `5/5/2024`  | 🟢     |
+| McNeel Rhino                                                      |        | `20/6/2024` | 🟢     |
+| Mendeley Desktop                                                  |        | `12/4/2024` | 🟢     |
+| Mestrelab Mnova                                                   |        | `12/4/2024` | 🔴     |
+| Microsoft .NET                                                    |        | `12/6/2024` | 🟢     |
+| Microsoft 365 Apps                                                |        | `2/7/2024`  | 🟢     |
+| Microsoft Azure CLI                                               |        | `31/5/2024` | 🟢     |
+| Microsoft Azure Data Studio                                       |        | `4/7/2024`  | 🟢     |
+| Microsoft Azure Functions Core Tools                              |        | `29/6/2024` | 🟢     |
+| Microsoft Azure Pipelines Agent                                   |        | `3/6/2024`  | 🟢     |
+| Microsoft Azure Storage Explorer                                  |        | `25/5/2024` | 🟢     |
+| Microsoft Azure Windows VMAgent                                   |        | `14/6/2024` | 🟢     |
+| Microsoft Bicep                                                   |        | `5/6/2024`  | 🟢     |
+| Microsoft Bot Framework Emulator                                  |        | `12/4/2024` | 🟢     |
+| Microsoft Edge                                                    |        | `4/7/2024`  | 🟢     |
+| Microsoft Edge WebDriver                                          |        | `4/7/2024`  | 🟢     |
+| Microsoft Edge WebView2 Runtime                                   |        | `3/7/2024`  | 🟢     |
+| Microsoft FSLogix Apps                                            |        | `15/5/2024` | 🟢     |
+| Microsoft ODBC Driver for SQL Server (latest)                     |        | `22/5/2024` | 🟢     |
+| Microsoft ODBC Driver for SQL Server 17.x                         |        | `22/5/2024` | 🟢     |
+| Microsoft OLE DB Driver for SQL Server (latest)                   |        | `22/5/2024` | 🟢     |
+| Microsoft OLE DB Driver for SQL Server 18                         |        | `4/7/2024`  | 🟢     |
+| Microsoft OneDrive                                                |        | `4/7/2024`  | 🟢     |
+| Microsoft OpenJDK 11                                              |        | `18/5/2024` | 🟢     |
+| Microsoft OpenJDK 17                                              |        | `18/5/2024` | 🟢     |
+| Microsoft OpenJDK 21                                              |        | `22/5/2024` | 🟢     |
+| Microsoft PowerShell                                              |        | `21/6/2024` | 🟢     |
+| Microsoft PowerToys                                               |        | `3/7/2024`  | 🟢     |
+| Microsoft SQL Server Management Studio                            |        | `22/5/2024` | 🟢     |
+| Microsoft Teams (new)                                             |        | `18/6/2024` | 🟢     |
+| Microsoft Teams (classic)                                         |        | `26/6/2024` | 🟢     |
+| Microsoft Terminal                                                |        | `28/6/2024` | 🟢     |
+| Microsoft Virtual Desktop Optimization Tool                       |        | `12/6/2024` | 🟢     |
+| Microsoft Visual Studio                                           |        | `19/6/2024` | 🟢     |
+| Microsoft Visual Studio Code                                      |        | `4/7/2024`  | 🟢     |
+| Microsoft Windows Package Manager Client                          |        | `29/6/2024` | 🟢     |
+| Microsoft WSL                                                     |        | `14/6/2024` | 🟢     |
+| Microsoft Azure Virtual Desktop Agent Bootloader                  |        | `14/5/2024` | 🟢     |
+| Microsoft Azure Virtual Desktop Agent                             |        | `25/4/2024` | 🟢     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions |        | `31/5/2024` | 🟢     |
+| Microsoft Remote Desktop                                          |        | `3/7/2024`  | 🟢     |
+| Microsoft Remote Desktop WebRTC Redirector Service                |        | `31/5/2024` | 🟢     |
+| Miniconda                                                         |        | `12/4/2024` | 🟢     |
+| Minitab                                                           |        | `12/4/2024` | 🟢     |
+| MiniZinc IDE                                                      |        | `3/6/2024`  | 🟢     |
+| MirantisLens                                                      |        | `29/5/2024` | 🟢     |
+| Mozilla Firefox                                                   |        | `29/6/2024` | 🟢     |
+| Mozilla Gecko Driver                                              |        | `5/5/2024`  | 🟢     |
+| Mozilla Thunderbird                                               |        | `2/7/2024`  | 🟢     |
+| mRemoteNG                                                         |        | `5/5/2024`  | 🟢     |
+| MuseScore                                                         |        | `12/6/2024` | 🟢     |
+| mySQL Workbench                                                   |        | `1/7/2024`  | 🟢     |
+| NanaZip                                                           |        | `28/5/2024` | 🟢     |
+| Ben Olden-Cooligan NAPS2                                          |        | `5/5/2024`  | 🟢     |
+| NETworkManager                                                    |        | `18/6/2024` | 🟢     |
+| Nevcairiel LAV Filters                                            |        | `5/5/2024`  | 🟢     |
+| Node.js                                                           |        | `2/7/2024`  | 🟢     |
+| nomacs Image Lounge                                               |        | `5/5/2024`  | 🟢     |
+| Notable                                                           |        | `5/5/2024`  | 🟢     |
+| Notepad++                                                         |        | `4/6/2024`  | 🟢     |
+| Npcap                                                             |        | `12/4/2024` | 🟢     |
+| Obsidian                                                          |        | `26/6/2024` | 🟢     |
+| OBS Studio                                                        |        | `12/4/2024` | 🟢     |
+| OCS Inventory Windows Agent                                       |        | `5/5/2024`  | 🟢     |
+| Octopus Deploy Server                                             |        | `2/7/2024`  | 🟢     |
+| Octopus Tentacle                                                  |        | `23/5/2024` | 🟢     |
+| Omnissa Horizon Client                                            |        | `4/7/2024`  | 🟢     |
+| ONLYOFFICE Desktop Editors                                        |        | `21/6/2024` | 🟢     |
+| OpenJDK                                                           |        | `5/5/2024`  | 🟢     |
+| OpenLens                                                          |        | `5/5/2024`  | 🟢     |
+| Open-Shell-Menu                                                   |        | `5/5/2024`  | 🟢     |
+| OpenWebStart                                                      |        | `14/6/2024` | 🟢     |
+| Opera Browser                                                     |        | `3/7/2024`  | 🟢     |
+| Opera Crypto Browser                                              |        | `12/4/2024` | 🟢     |
+| Opera GX Browser                                                  |        | `2/7/2024`  | 🟢     |
+| Oracle Java 17                                                    |        | `17/4/2024` | 🟢     |
+| Oracle Java 20                                                    |        | `2/5/2024`  | 🔴     |
+| Oracle Java 21                                                    |        | `17/4/2024` | 🟢     |
+| Oracle Java 22                                                    |        | `2/5/2024`  | 🟢     |
+| Oracle Java 8                                                     |        | `17/4/2024` | 🟢     |
+| Oracle VirtualBox                                                 |        | `3/5/2024`  | 🟢     |
+| dotPDN LLC Paint.NET                                              |        | `12/4/2024` | 🟢     |
+| dotPDN LLC Paint.NET Offline Installer                            |        | `5/5/2024`  | 🟢     |
+| Pandoc                                                            |        | `25/6/2024` | 🟢     |
+| Parallels Client                                                  |        | `25/6/2024` | 🟢     |
+| PDF Arranger                                                      |        | `21/6/2024` | 🟢     |
+| pdfforge PDFCreator                                               |        | `17/5/2024` | 🟢     |
+| PeaZip PeaZip                                                     |        | `11/5/2024` | 🟢     |
+| Piriform CCleaner Free                                            |        | `1/7/2024`  | 🟢     |
+| Plex Media Desktop                                                |        | `3/7/2024`  | 🟢     |
+| Plex HTPC                                                         |        | `28/6/2024` | 🟢     |
+| Plex Media ServerDesktop                                          |        | `14/6/2024` | 🟢     |
+| Podman                                                            |        | `5/6/2024`  | 🟢     |
+| Podman Desktop                                                    |        | `26/6/2024` | 🟢     |
+| Postman                                                           |        | `11/6/2024` | 🟢     |
+| Praat                                                             |        | `11/6/2024` | 🟢     |
+| Progress Chef Infra Client                                        |        | `4/7/2024`  | 🟢     |
+| Progress Chef InSpec                                              |        | `14/6/2024` | 🟢     |
+| Progress Chef Workstation                                         |        | `10/6/2024` | 🟢     |
+| ProjectLibre                                                      |        | `4/7/2024`  | 🟢     |
+| Protege                                                           |        | `31/5/2024` | 🟢     |
+| Proton Drive                                                      |        | `12/4/2024` | 🔴     |
+| Proton VPN                                                        |        | `5/5/2024`  | 🟢     |
+| Proxyman                                                          |        | `4/6/2024`  | 🟢     |
+| PSAppDeployToolkit                                                |        | `5/5/2024`  | 🟢     |
+| PSF Python                                                        |        | `7/6/2024`  | 🟢     |
+| PuTTY                                                             |        | `16/4/2024` | 🟢     |
+| QGIS                                                              |        | `28/6/2024` | 🟢     |
+| R Core Team R for Windows                                         |        | `15/6/2024` | 🟢     |
+| Remote Desktop Analyzer                                           |        | `5/5/2024`  | 🟢     |
+| Red Hat OpenJDK 11                                                |        | `20/4/2024` | 🟢     |
+| Red Hat OpenJDK 17                                                |        | `20/4/2024` | 🟢     |
+| Red Hat OpenJDK 21                                                |        | `22/5/2024` | 🟢     |
+| Red Hat OpenJDK 8                                                 |        | `20/4/2024` | 🟢     |
+| Responsively App                                                  |        | `7/6/2024`  | 🟢     |
+| RingCentral                                                       |        | `28/6/2024` | 🟢     |
+| Rizonesoft Notepad3                                               |        | `5/5/2024`  | 🟢     |
+| RStudio Desktop                                                   |        | `11/6/2024` | 🟢     |
+| Safe Exam Browser                                                 |        | `15/6/2024` | 🟢     |
+| Safing Portmaster                                                 |        | `6/6/2024`  | 🟢     |
+| SAGA-GIS                                                          |        | `4/7/2024`  | 🟢     |
+| Scooter Beyond Compare                                            |        | `12/4/2024` | 🟢     |
+| Scratch                                                           |        | `12/4/2024` | 🟢     |
+| ScreenToGif                                                       |        | `5/5/2024`  | 🟢     |
+| ShareX                                                            |        | `12/5/2024` | 🟢     |
+| Signal for Windows                                                |        | `3/7/2024`  | 🟢     |
+| Slack                                                             |        | `26/6/2024` | 🟢     |
+| SmartBear SoapUI                                                  |        | `12/4/2024` | 🟢     |
+| Sober Lemur PDFSam Basic                                          |        | `5/5/2024`  | 🟢     |
+| stealthpuppy Windows Customised Defaults                          |        | `1/6/2024`  | 🟢     |
+| Stefans Tools gregpWin                                            |        | `29/6/2024` | 🟢     |
+| Sumatra PDF Reader                                                |        | `26/5/2024` | 🟢     |
+| SUSE Rancher Desktop                                              |        | `18/6/2024` | 🟢     |
+| Tableau Desktop                                                   |        | `2/7/2024`  | 🟢     |
+| Tableau Prep                                                      |        | `2/7/2024`  | 🟢     |
+| Tableau Reader                                                    |        | `2/7/2024`  | 🟢     |
+| TeamViewer                                                        |        | `25/6/2024` | 🟢     |
+| TechSmith Camtasia                                                |        | `27/6/2024` | 🟢     |
+| TechSmith Snagit                                                  |        | `7/6/2024`  | 🟢     |
+| Telegram Desktop                                                  |        | `3/7/2024`  | 🟢     |
+| Telerik Fiddler Classic                                           |        | `12/4/2024` | 🟢     |
+| Telerik Fiddler Everywhere                                        |        | `3/7/2024`  | 🟢     |
+| TeraTerm                                                          |        | `5/5/2024`  | 🟢     |
+| Terminals                                                         |        | `5/5/2024`  | 🟢     |
+| TeXstudio                                                         |        | `8/6/2024`  | 🟢     |
+| Thymio Suite                                                      |        | `5/5/2024`  | 🟢     |
+| Toggl Desktop                                                     |        | `5/5/2024`  | 🟢     |
+| Tor Project Tor Browser                                           |        | `21/6/2024` | 🟢     |
+| Tower                                                             |        | `26/6/2024` | 🟢     |
+| TGPi Colour Contrast Analyser                                     |        | `6/5/2024`  | 🟢     |
+| Tracker Software PDF X-Change Editor                              |        | `18/6/2024` | 🟢     |
+| Unity Editor                                                      |        | `24/5/2024` | 🟢     |
+| USBPcap                                                           |        | `5/5/2024`  | 🟢     |
+| vast limits uberAgent                                             |        | `30/4/2024` | 🟢     |
+| VeraCrypt                                                         |        | `4/7/2024`  | 🟢     |
+| Vercel Hyper                                                      |        | `5/5/2024`  | 🟢     |
+| VideoLan VLC Player                                               |        | `4/7/2024`  | 🟢     |
+| VisualCppRedistAIO                                                |        | `5/5/2024`  | 🟢     |
+| VMPlex Workstation                                                |        | `5/5/2024`  | 🟢     |
+| VMware Horizon Client (alternate method)                          |        | `12/4/2024` | 🟢     |
+| VMware Tools                                                      |        | `4/7/2024`  | 🟢     |
+| voidtools Everything                                              |        | `12/4/2024` | 🟢     |
+| VSCodium                                                          |        | `20/6/2024` | 🟢     |
+| Win32-OpenSSH                                                     |        | `5/5/2024`  | 🟢     |
+| WinMerge                                                          |        | `5/5/2024`  | 🟢     |
+| WinSCP                                                            |        | `4/7/2024`  | 🟢     |
+| Wireshark                                                         |        | `12/6/2024` | 🟢     |
+| WiX Toolset                                                       |        | `5/5/2024`  | 🟢     |
+| XnSoft Convert                                                    |        | `12/4/2024` | 🟢     |
+| XnSoft XnView MP                                                  |        | `5/6/2024`  | 🟢     |
+| Yubico Authenticator                                              |        | `7/5/2024`  | 🟢     |
+| Zoom                                                              |        | `1/7/2024`  | 🟢     |
+| Zoom Plugins for VDI                                              |        | `30/6/2024` | 🟢     |
+| ZorgMail Veilig verzenden plug-in                                 |        | `12/4/2024` | 🟢     |
+| Zotero                                                            |        | `12/4/2024` | 🟢     |
