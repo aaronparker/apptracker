@@ -128,14 +128,14 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 "@
 
 # Create a table for supported applications with a last update status
-$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($($_.Link))"; $_ } | `
+$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($("https://stealthpuppy.com/apptracker/apps/$($_.Name.Substring(0, 1).ToLower())/$($_.Name.ToLower)/"))"; $_ } | `
     ForEach-Object {
     $Name = $_.Name
     [PSCustomObject] @{
         Application = $_.Application
-        Source      = $_.Link
         LastUpdate  = "``$((($LastUpdates | Where-Object { $_.Name -eq "$Name.json" } | Select-Object -ExpandProperty "LastWriteTime") -split " ")[0])``"
         Status      = $(if (Test-Path -Path $([System.IO.Path]::Combine($JsonPath, "$Name.err"))) { "🔴" } else { "🟢" })
+        Details     = $_.Link
     }
 }
 $Markdown = $About
