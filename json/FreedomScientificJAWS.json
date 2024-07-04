@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2024.2406.119",
+    "Version": "2024.2406.121",
     "Architecture": "ARM64",
     "Date": "1/7/2024",
-    "URI": "https://software.vfo.digital/JAWS/2024/2024.2406.119.400/795B745E-4537-4C39-89E5-365E37D60E33/J2024.2406.119.400-Offline-arm64.exe"
+    "URI": "https://software.vfo.digital/JAWS/2024/2024.2406.121.400/E9C44637-253D-4D81-BA78-6456103184FF/J2024.2406.121.400-Offline-arm64.exe"
   },
   {
-    "Version": "2024.2406.119",
+    "Version": "2024.2406.121",
     "Architecture": "x64",
     "Date": "1/7/2024",
-    "URI": "https://software.vfo.digital/JAWS/2024/2024.2406.119.400/795B745E-4537-4C39-89E5-365E37D60E33/J2024.2406.119.400-Offline-x64.exe"
+    "URI": "https://software.vfo.digital/JAWS/2024/2024.2406.121.400/E9C44637-253D-4D81-BA78-6456103184FF/J2024.2406.121.400-Offline-x64.exe"
   }
 ]

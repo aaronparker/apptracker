@@ -1,19 +1,19 @@
 [
   {
-    "Version": "128.0.6573.0",
-    "Revision": "1322520",
+    "Version": "128.0.6574.0",
+    "Revision": "1322748",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/128.0.6573.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/128.0.6574.0/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "128.0.6573.0",
-    "Revision": "1322520",
+    "Version": "128.0.6574.0",
+    "Revision": "1322748",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/128.0.6573.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/128.0.6574.0/win32/chromedriver-win32.zip"
   },
   {
     "Version": "128.0.6559.0",
