@@ -3,7 +3,7 @@ title: Freedom Scientific Fusion
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: Jul 3 2024 at 12:31 AM
+last_modified_date: Jul 4 2024 at 12:30 AM
 ---
 
 ## Freedom Scientific Fusion
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version      | Date     | URI                                                                                                                                                                                                                                                                  |
 | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.2406.13 | 1/7/2024 | [https://software.vfo.digital/Fusion/2024/2024.2406.13.400/5DA98830-AF08-463F-8578-D3FE3BBBB6C6/F2024.2406.13.400-Offline-x64.exe](https://software.vfo.digital/Fusion/2024/2024.2406.13.400/5DA98830-AF08-463F-8578-D3FE3BBBB6C6/F2024.2406.13.400-Offline-x64.exe) |
+| 2024.2406.14 | 1/7/2024 | [https://software.vfo.digital/Fusion/2024/2024.2406.14.400/17FE244F-90C5-432B-87F4-D02A576233DF/F2024.2406.14.400-Offline-x64.exe](https://software.vfo.digital/Fusion/2024/2024.2406.14.400/17FE244F-90C5-432B-87F4-D02A576233DF/F2024.2406.14.400-Offline-x64.exe) |
