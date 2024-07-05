@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Thursday 04/07/2024 12:23 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 05/07/2024 00:36 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -19,7 +19,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password                                                         |        | `19/6/2024` | 🟢     |
 | 1Password 7                                                       |        | `19/6/2024` | 🟢     |
 | 1Password CLI                                                     |        | `22/5/2024` | 🟢     |
-| 7zip                                                              |        | `4/7/2024`  | 🟢     |
+| 7zip                                                              |        | `5/7/2024`  | 🟢     |
 | 7-Zip ZS                                                          |        | `5/5/2024`  | 🟢     |
 | Adobe Acrobat updates                                             |        | `28/6/2024` | 🟢     |
 | Adobe Acrobat DC updates                                          |        | `19/6/2024` | 🟢     |
@@ -81,7 +81,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | diagrams.net                                                      |        | `29/6/2024` | 🟢     |
 | dnGrep                                                            |        | `12/6/2024` | 🟢     |
 | Docker Compose                                                    |        | `25/6/2024` | 🟢     |
-| Docker Desktop                                                    |        | `11/6/2024` | 🟢     |
+| Docker Desktop                                                    |        | `5/7/2024`  | 🟢     |
 | Double Commander                                                  |        | `22/6/2024` | 🟢     |
 | Drata Agent                                                       |        | `5/5/2024`  | 🟢     |
 | Druva inSync Client                                               |        | `1/6/2024`  | 🟢     |
@@ -116,16 +116,16 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GeoGebra Classic                                                  |        | `18/6/2024` | 🟢     |
 | Gephi                                                             |        | `5/5/2024`  | 🟢     |
 | Ghisler TotalCommander                                            |        | `12/4/2024` | 🟢     |
-| GIMP                                                              |        | `4/7/2024`  | 🟢     |
+| GIMP                                                              |        | `5/7/2024`  | 🟢     |
 | Git Extensions                                                    |        | `5/5/2024`  | 🟢     |
 | Git for Windows                                                   |        | `3/6/2024`  | 🟢     |
 | GitHub Atom                                                       |        | `5/5/2024`  | 🟢     |
 | GitHub Desktop                                                    |        | `27/6/2024` | 🟢     |
 | GitHub release                                                    |        | `5/5/2024`  | 🟢     |
-| Google Chrome Enterprise                                          |        | `4/7/2024`  | 🟢     |
-| Google Chrome Driver                                              |        | `4/7/2024`  | 🟢     |
-| Google Chrome for Testing                                         |        | `4/7/2024`  | 🟢     |
-| Google Chrome Headless Shell                                      |        | `4/7/2024`  | 🟢     |
+| Google Chrome Enterprise                                          |        | `5/7/2024`  | 🟢     |
+| Google Chrome Driver                                              |        | `5/7/2024`  | 🟢     |
+| Google Chrome for Testing                                         |        | `5/7/2024`  | 🟢     |
+| Google Chrome Headless Shell                                      |        | `5/7/2024`  | 🟢     |
 | Google Drive                                                      |        | `12/4/2024` | 🟢     |
 | GoTo Connect                                                      |        | `20/6/2024` | 🟢     |
 | GoTo Meeting                                                      |        | `12/4/2024` | 🟢     |
@@ -133,7 +133,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           |        | `12/4/2024` | 🟢     |
 | Grafana Agent                                                     |        | `8/6/2024`  | 🟢     |
 | Greenshot                                                         |        | `5/5/2024`  | 🟢     |
-| gretl                                                             |        | `4/7/2024`  | 🟢     |
+| gretl                                                             |        | `5/7/2024`  | 🟢     |
 | gsudo                                                             |        | `31/5/2024` | 🟢     |
 | Handbrake                                                         |        | `23/6/2024` | 🟢     |
 | Hashicorp Boundary                                                |        | `19/6/2024` | 🟢     |
@@ -166,10 +166,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains WebStorm                                                |        | `21/6/2024` | 🟢     |
 | JetBrains YouTrack                                                |        | `5/5/2024`  | 🟢     |
 | jq                                                                |        | `5/5/2024`  | 🟢     |
-| jrsoftware InnoSetup                                              |        | `4/7/2024`  | 🟢     |
+| jrsoftware InnoSetup                                              |        | `5/7/2024`  | 🟢     |
 | Karakun OpenWebStart                                              |        | `14/6/2024` | 🟢     |
-| KDiff3                                                            |        | `4/7/2024`  | 🟢     |
-| KeePass Password Safe                                             |        | `4/7/2024`  | 🟢     |
+| KDiff3                                                            |        | `5/7/2024`  | 🟢     |
+| KeePass Password Safe                                             |        | `5/7/2024`  | 🟢     |
 | KeePassXC Team KeePassXC                                          |        | `20/6/2024` | 🟢     |
 | KeeWeb                                                            |        | `5/5/2024`  | 🟢     |
 | Kubernetes Kubectl                                                |        | `12/6/2024` | 🟢     |
@@ -180,7 +180,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Maximus5 ConEmu                                                   |        | `5/5/2024`  | 🟢     |
 | McNeel Rhino                                                      |        | `20/6/2024` | 🟢     |
 | Mendeley Desktop                                                  |        | `12/4/2024` | 🟢     |
-| Mestrelab Mnova                                                   |        | `12/4/2024` | 🔴     |
+| Mestrelab Mnova                                                   |        | `12/4/2024` | 🟢     |
 | Microsoft .NET                                                    |        | `12/6/2024` | 🟢     |
 | Microsoft 365 Apps                                                |        | `2/7/2024`  | 🟢     |
 | Microsoft Azure CLI                                               |        | `31/5/2024` | 🟢     |
@@ -249,11 +249,11 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          |        | `5/5/2024`  | 🟢     |
 | Open-Shell-Menu                                                   |        | `5/5/2024`  | 🟢     |
 | OpenWebStart                                                      |        | `14/6/2024` | 🟢     |
-| Opera Browser                                                     |        | `3/7/2024`  | 🟢     |
+| Opera Browser                                                     |        | `5/7/2024`  | 🟢     |
 | Opera Crypto Browser                                              |        | `12/4/2024` | 🟢     |
 | Opera GX Browser                                                  |        | `2/7/2024`  | 🟢     |
 | Oracle Java 17                                                    |        | `17/4/2024` | 🟢     |
-| Oracle Java 20                                                    |        | `2/5/2024`  | 🔴     |
+| Oracle Java 20                                                    |        | `2/5/2024`  | 🟢     |
 | Oracle Java 21                                                    |        | `17/4/2024` | 🟢     |
 | Oracle Java 22                                                    |        | `2/5/2024`  | 🟢     |
 | Oracle Java 8                                                     |        | `17/4/2024` | 🟢     |
@@ -276,7 +276,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Progress Chef Infra Client                                        |        | `4/7/2024`  | 🟢     |
 | Progress Chef InSpec                                              |        | `14/6/2024` | 🟢     |
 | Progress Chef Workstation                                         |        | `10/6/2024` | 🟢     |
-| ProjectLibre                                                      |        | `4/7/2024`  | 🟢     |
+| ProjectLibre                                                      |        | `5/7/2024`  | 🟢     |
 | Protege                                                           |        | `31/5/2024` | 🟢     |
 | Proton Drive                                                      |        | `12/4/2024` | 🔴     |
 | Proton VPN                                                        |        | `5/5/2024`  | 🟢     |
@@ -297,7 +297,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | RStudio Desktop                                                   |        | `11/6/2024` | 🟢     |
 | Safe Exam Browser                                                 |        | `15/6/2024` | 🟢     |
 | Safing Portmaster                                                 |        | `6/6/2024`  | 🟢     |
-| SAGA-GIS                                                          |        | `4/7/2024`  | 🟢     |
+| SAGA-GIS                                                          |        | `5/7/2024`  | 🟢     |
 | Scooter Beyond Compare                                            |        | `12/4/2024` | 🟢     |
 | Scratch                                                           |        | `12/4/2024` | 🟢     |
 | ScreenToGif                                                       |        | `5/5/2024`  | 🟢     |
@@ -331,9 +331,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Unity Editor                                                      |        | `24/5/2024` | 🟢     |
 | USBPcap                                                           |        | `5/5/2024`  | 🟢     |
 | vast limits uberAgent                                             |        | `30/4/2024` | 🟢     |
-| VeraCrypt                                                         |        | `4/7/2024`  | 🟢     |
+| VeraCrypt                                                         |        | `5/7/2024`  | 🟢     |
 | Vercel Hyper                                                      |        | `5/5/2024`  | 🟢     |
-| VideoLan VLC Player                                               |        | `4/7/2024`  | 🟢     |
+| VideoLan VLC Player                                               |        | `5/7/2024`  | 🟢     |
 | VisualCppRedistAIO                                                |        | `5/5/2024`  | 🟢     |
 | VMPlex Workstation                                                |        | `5/5/2024`  | 🟢     |
 | VMware Horizon Client (alternate method)                          |        | `12/4/2024` | 🟢     |
@@ -342,7 +342,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VSCodium                                                          |        | `20/6/2024` | 🟢     |
 | Win32-OpenSSH                                                     |        | `5/5/2024`  | 🟢     |
 | WinMerge                                                          |        | `5/5/2024`  | 🟢     |
-| WinSCP                                                            |        | `4/7/2024`  | 🟢     |
+| WinSCP                                                            |        | `5/7/2024`  | 🟢     |
 | Wireshark                                                         |        | `12/6/2024` | 🟢     |
 | WiX Toolset                                                       |        | `5/5/2024`  | 🟢     |
 | XnSoft Convert                                                    |        | `12/4/2024` | 🟢     |
