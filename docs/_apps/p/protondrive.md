@@ -12,10 +12,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `ProtonDrive`. Found **1** installer.
 
-Last check: 🔴
-```
-Cannot convert the JSON string because it contains keys with different casing. Please use the -AsHashTable switch instead. The key that was attempted to be added to the existing key 'Sha512CheckSum' was 'Sha512Checksum'.
-```
+Last check: 🟢
 
 | Version | Date       | Release | Sha512                                                                                                                           | Type | URI                                                                                                                                                        |
 | ------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
