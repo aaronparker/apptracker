@@ -128,7 +128,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 "@
 
 # Create a table for supported applications with a last update status
-$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($("https://stealthpuppy.com/apptracker/apps/$($_.Name.Substring(0, 1).ToLower())/$($_.Name.ToLower)/"))"; $_ } | `
+$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($("https://stealthpuppy.com/apptracker/apps/$($_.Name.Substring(0, 1))/$($_.Name)/"))".ToLower(); $_ } | `
     ForEach-Object {
     $Name = $_.Name
     [PSCustomObject] @{
@@ -140,7 +140,7 @@ $SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($("https
 }
 $Markdown = $About
 $Markdown += "`n`n"
-$Markdown += $SupportedApps | New-MDTable -Columns ([Ordered]@{Application = "left"; Source = "left"; LastUpdate = "left"; Status = "left" })
+$Markdown += $SupportedApps | New-MDTable -Columns ([Ordered]@{Application = "left"; LastUpdate = "left"; Status = "left"; Details = "left" })
 $Markdown | Out-File -FilePath $IndexFile -Force -Encoding "Utf8" -NoNewline
 
 # Remove .err files from the JSON path
