@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Friday 05/07/2024 00:36 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 05/07/2024 12:19 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -207,11 +207,11 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft PowerToys                                               |        | `3/7/2024`  | 🟢     |
 | Microsoft SQL Server Management Studio                            |        | `22/5/2024` | 🟢     |
 | Microsoft Teams (new)                                             |        | `18/6/2024` | 🟢     |
-| Microsoft Teams (classic)                                         |        | `26/6/2024` | 🟢     |
+| Microsoft Teams (classic)                                         |        | `5/7/2024`  | 🟢     |
 | Microsoft Terminal                                                |        | `28/6/2024` | 🟢     |
 | Microsoft Virtual Desktop Optimization Tool                       |        | `12/6/2024` | 🟢     |
 | Microsoft Visual Studio                                           |        | `19/6/2024` | 🟢     |
-| Microsoft Visual Studio Code                                      |        | `4/7/2024`  | 🟢     |
+| Microsoft Visual Studio Code                                      |        | `5/7/2024`  | 🟢     |
 | Microsoft Windows Package Manager Client                          |        | `29/6/2024` | 🟢     |
 | Microsoft WSL                                                     |        | `14/6/2024` | 🟢     |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  |        | `14/5/2024` | 🟢     |
@@ -292,7 +292,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Red Hat OpenJDK 21                                                |        | `22/5/2024` | 🟢     |
 | Red Hat OpenJDK 8                                                 |        | `20/4/2024` | 🟢     |
 | Responsively App                                                  |        | `7/6/2024`  | 🟢     |
-| RingCentral                                                       |        | `28/6/2024` | 🟢     |
+| RingCentral                                                       |        | `5/7/2024`  | 🟢     |
 | Rizonesoft Notepad3                                               |        | `5/5/2024`  | 🟢     |
 | RStudio Desktop                                                   |        | `11/6/2024` | 🟢     |
 | Safe Exam Browser                                                 |        | `15/6/2024` | 🟢     |

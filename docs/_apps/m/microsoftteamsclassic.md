@@ -3,7 +3,7 @@ title: Microsoft Teams (classic)
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jun 26 2024 at 12:25 PM
+last_modified_date: Jul 5 2024 at 12:14 PM
 ---
 
 ## Microsoft Teams (classic)
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version      | Ring              | Architecture | Type | URI                                                                                                                                                                                                      |
 | ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.7.00.17051 | Preview           | ARM64        | exe  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17051/Teams_windows_arm64.exe](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17051/Teams_windows_arm64.exe) |
-| 1.7.00.17051 | Preview           | x64          | exe  | [https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17051/Teams_windows_x64.exe](https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17051/Teams_windows_x64.exe)         |
-| 1.7.00.17051 | Preview           | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.7.00.17051/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.7.00.17051/Teams_windows.exe)                         |
-| 1.7.00.17051 | Preview           | ARM64        | msi  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17051/Teams_windows_arm64.msi](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17051/Teams_windows_arm64.msi) |
-| 1.7.00.17051 | Preview           | x64          | msi  | [https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17051/Teams_windows_x64.msi](https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17051/Teams_windows_x64.msi)         |
-| 1.7.00.17051 | Preview           | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.7.00.17051/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.7.00.17051/Teams_windows.msi)                         |
+| 1.7.00.17852 | Preview           | ARM64        | exe  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17852/Teams_windows_arm64.exe](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17852/Teams_windows_arm64.exe) |
+| 1.7.00.17852 | Preview           | x64          | exe  | [https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17852/Teams_windows_x64.exe](https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17852/Teams_windows_x64.exe)         |
+| 1.7.00.17852 | Preview           | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.7.00.17852/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.7.00.17852/Teams_windows.exe)                         |
+| 1.7.00.17852 | Preview           | ARM64        | msi  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17852/Teams_windows_arm64.msi](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.17852/Teams_windows_arm64.msi) |
+| 1.7.00.17852 | Preview           | x64          | msi  | [https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17852/Teams_windows_x64.msi](https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.17852/Teams_windows_x64.msi)         |
+| 1.7.00.17852 | Preview           | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.7.00.17852/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.7.00.17852/Teams_windows.msi)                         |
 | 1.7.00.15969 | DeveloperPartners | ARM64        | exe  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.15969/Teams_windows_arm64.exe](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.15969/Teams_windows_arm64.exe) |
 | 1.7.00.15969 | Dogfood           | ARM64        | exe  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.15969/Teams_windows_arm64.exe](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.15969/Teams_windows_arm64.exe) |
 | 1.7.00.15969 | General           | ARM64        | exe  | [https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.15969/Teams_windows_arm64.exe](https://statics.teams.cdn.office.net/production-windows-arm64/1.7.00.15969/Teams_windows_arm64.exe) |
