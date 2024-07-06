@@ -1,0 +1,17 @@
+json/7zip.json
+json/AWSCLI.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/KDiff3.json
+json/KeePass.json
+json/MicrosoftOLEDBDriverForSQLServer18.json
+json/MicrosoftOneDrive.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
+json/OracleJava17.err
+json/ProtonDrive.err
