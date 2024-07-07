@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "22.0.1+8",
+    "ImageType": "jre",
+    "Date": "2024-04-20T11:38:34Z",
+    "Checksum": "6d918aa3c1cbad4c70afe9563f057dcf39b3c2dff2ae01e44e1e89f237399d96",
+    "Size": 34902016,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jre_x64_windows_hotspot_22.0.1_8.msi"
+  },
+  {
+    "Version": "22.0.1+8",
+    "ImageType": "jdk",
+    "Date": "2024-04-20T11:39:02Z",
+    "Checksum": "89387f079e372b70a57c6a2f778a4020144cb19ae44f49b066c83d9410938e2f",
+    "Size": 180178944,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.msi"
+  }
+]

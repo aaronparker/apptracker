@@ -1,0 +1,202 @@
+[
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre-full",
+    "Type": "msi",
+    "Architecture": "ARM64",
+    "Sha1": "f2b5b8488aa2345f9b8f242f5b9cd11f53bbf462",
+    "Size": 48177152,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64-full.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk",
+    "Type": "msi",
+    "Architecture": "ARM64",
+    "Sha1": "c22e8e5f709248294accbb7c96cbac8d0456831f",
+    "Size": 193339392,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-lite",
+    "Type": "msi",
+    "Architecture": "ARM64",
+    "Sha1": "0ea3314994d2dbabf2bc0f68defd2bc6700ea4ae",
+    "Size": 75476992,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-lite.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "msi",
+    "Architecture": "ARM64",
+    "Sha1": "35ed2468b5694e39c085e64a22cd20c539f1edea",
+    "Size": 216764416,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-full.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre",
+    "Type": "msi",
+    "Architecture": "ARM64",
+    "Sha1": "c15d7147e94f4960a08030d228b55d0731f51387",
+    "Size": 42962944,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "3959fe27bd1f99cfa3aa9af7dbe1c832acba94b5",
+    "Size": 302145536,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-full.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-lite",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "720a4f4e8a102aff5837cde49b88aa6c6692388c",
+    "Size": 78057472,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-lite.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "1d72310f0e9f166caca9436192a08d6f9ff26474",
+    "Size": 214528000,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre-full",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "0709fef772039bcda49c47f358c2d042fd90615a",
+    "Size": 96391168,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "0fda6c91f88e5d0e4f9bc76c3d6100b044f3052c",
+    "Size": 59002880,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.msi"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "ARM64",
+    "Sha1": "1f227b6684cf0f255d881954d0f64bd24ec0c889",
+    "Size": 42185524,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "ARM64",
+    "Sha1": "a093f5f14e8e7990fdc4e4cc55916d7a2523b87c",
+    "Size": 74459019,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-lite.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk",
+    "Type": "zip",
+    "Architecture": "ARM64",
+    "Sha1": "a86a1667a958e7dd9fdd044cc70948973d1f10dd",
+    "Size": 195532639,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre-full",
+    "Type": "zip",
+    "Architecture": "ARM64",
+    "Sha1": "df390dfdfc4f6bef70da18e20ff795b87fe76ca7",
+    "Size": 47403369,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64-full.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "ARM64",
+    "Sha1": "80af6ba3f05413ed832a5bbb57ac18960bf8206c",
+    "Size": 219361553,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-full.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "390b7a272cbeee8a9988d580f655926f653593f1",
+    "Size": 95978406,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "e47eaa4efad8d0c11a1e6dd005b13a415fd373c1",
+    "Size": 216908536,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "8e131f11b6a7a17000522d512cbbb8a9d81f343b",
+    "Size": 77076934,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-lite.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "0e7f14abb6d4849c9851650d9d0be4b30127b40b",
+    "Size": 305048500,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-full.zip"
+  },
+  {
+    "Version": "22.0.1+12",
+    "LTS": false,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "f9a2401fbfb7625ed3ecc891ecf0836e97c181b7",
+    "Size": 58418689,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.zip"
+  }
+]
