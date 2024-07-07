@@ -1,0 +1,38 @@
+---
+title: BellSoft Liberica JDK 22
+layout: default
+nav_order: 2
+parent: B
+last_modified_date: Jul 7 2024 at 12:23 PM
+---
+
+## BellSoft Liberica JDK 22
+
+[Source](https://bell-sw.com/libericajdk/)
+
+Evergreen app: `BellSoftLibericaJDK22`. Found **20** installers.
+
+Last check: 🟢
+
+| Version   | LTS   | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                                                                                                                                              |
+| --------- | ----- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 22.0.1+12 | False | jre-full   | msi  | ARM64        | f2b5b8488aa2345f9b8f242f5b9cd11f53bbf462 | 48177152  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64-full.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64-full.msi) |
+| 22.0.1+12 | False | jdk        | msi  | ARM64        | c22e8e5f709248294accbb7c96cbac8d0456831f | 193339392 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64.msi)           |
+| 22.0.1+12 | False | jdk-lite   | msi  | ARM64        | 0ea3314994d2dbabf2bc0f68defd2bc6700ea4ae | 75476992  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-lite.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-lite.msi) |
+| 22.0.1+12 | False | jdk-full   | msi  | ARM64        | 35ed2468b5694e39c085e64a22cd20c539f1edea | 216764416 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-full.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-full.msi) |
+| 22.0.1+12 | False | jre        | msi  | ARM64        | c15d7147e94f4960a08030d228b55d0731f51387 | 42962944  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64.msi)           |
+| 22.0.1+12 | False | jdk-full   | msi  | x64          | 3959fe27bd1f99cfa3aa9af7dbe1c832acba94b5 | 302145536 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-full.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-full.msi)     |
+| 22.0.1+12 | False | jdk-lite   | msi  | x64          | 720a4f4e8a102aff5837cde49b88aa6c6692388c | 78057472  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-lite.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-lite.msi)     |
+| 22.0.1+12 | False | jdk        | msi  | x64          | 1d72310f0e9f166caca9436192a08d6f9ff26474 | 214528000 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64.msi)               |
+| 22.0.1+12 | False | jre-full   | msi  | x64          | 0709fef772039bcda49c47f358c2d042fd90615a | 96391168  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.msi)     |
+| 22.0.1+12 | False | jre        | msi  | x64          | 0fda6c91f88e5d0e4f9bc76c3d6100b044f3052c | 59002880  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.msi](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.msi)               |
+| 22.0.1+12 | False | jre        | zip  | ARM64        | 1f227b6684cf0f255d881954d0f64bd24ec0c889 | 42185524  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64.zip)           |
+| 22.0.1+12 | False | jdk-lite   | zip  | ARM64        | a093f5f14e8e7990fdc4e4cc55916d7a2523b87c | 74459019  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-lite.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-lite.zip) |
+| 22.0.1+12 | False | jdk        | zip  | ARM64        | a86a1667a958e7dd9fdd044cc70948973d1f10dd | 195532639 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64.zip)           |
+| 22.0.1+12 | False | jre-full   | zip  | ARM64        | df390dfdfc4f6bef70da18e20ff795b87fe76ca7 | 47403369  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64-full.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-aarch64-full.zip) |
+| 22.0.1+12 | False | jdk-full   | zip  | ARM64        | 80af6ba3f05413ed832a5bbb57ac18960bf8206c | 219361553 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-full.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-aarch64-full.zip) |
+| 22.0.1+12 | False | jre-full   | zip  | x64          | 390b7a272cbeee8a9988d580f655926f653593f1 | 95978406  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.zip)     |
+| 22.0.1+12 | False | jdk        | zip  | x64          | e47eaa4efad8d0c11a1e6dd005b13a415fd373c1 | 216908536 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64.zip)               |
+| 22.0.1+12 | False | jdk-lite   | zip  | x64          | 8e131f11b6a7a17000522d512cbbb8a9d81f343b | 77076934  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-lite.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-lite.zip)     |
+| 22.0.1+12 | False | jdk-full   | zip  | x64          | 0e7f14abb6d4849c9851650d9d0be4b30127b40b | 305048500 | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-full.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-windows-amd64-full.zip)     |
+| 22.0.1+12 | False | jre        | zip  | x64          | f9a2401fbfb7625ed3ecc891ecf0836e97c181b7 | 58418689  | [https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.zip](https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.zip)               |
