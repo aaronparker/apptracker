@@ -12,7 +12,10 @@ last_modified_date: Jul 5 2024 at 12:32 AM
 
 Evergreen app: `jrsoftwareInnoSetup`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version | URI                                                                                              |
 | ------- | ------------------------------------------------------------------------------------------------ |
