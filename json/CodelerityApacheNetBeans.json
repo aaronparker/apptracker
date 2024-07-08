@@ -1,12 +1,11 @@
 [
   {
     "Version": "v22-build1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "30/5/2024",
     "Size": 583136384,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v22-build1/Apache-NetBeans-22.exe"
   }
 ]

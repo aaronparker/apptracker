@@ -1,22 +1,20 @@
 [
   {
     "Version": "4.4.191",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "16/8/2023",
     "Size": 8262656,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.191/OpenShellSetup_4_4_191.exe"
   },
   {
     "Version": "4.4.191",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "16/8/2023",
     "Size": 668672,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.191/Utility.exe"
   }
 ]

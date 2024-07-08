@@ -1,62 +1,56 @@
 [
   {
     "Version": "8.1.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 219088056,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.1.0/DesktopEditors_x64.exe"
   },
   {
     "Version": "8.1.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 466206496,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.1.0/DesktopEditors_x64_xp.exe"
   },
   {
     "Version": "8.1.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 197919432,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.1.0/DesktopEditors_x86.exe"
   },
   {
     "Version": "8.1.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 455605192,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.1.0/DesktopEditors_x86_xp.exe"
   },
   {
     "Version": "8.1.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 306924544,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.1.0/DesktopEditors_x64.msi"
   },
   {
     "Version": "8.1.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 290070016,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.1.0/DesktopEditors_x86.msi"
   }
 ]

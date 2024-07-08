@@ -1,12 +1,11 @@
 [
   {
     "Version": "1.0.13.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msixbundle",
-    "InstallerType": "Default",
     "Date": "23/7/2023",
     "Size": 166568573,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
     "URI": "https://github.com/DevToys-app/DevToys/releases/download/v1.0.13.0/64360VelerSoftware.DevToys_1.0.13.0_neutral_._j80j2txgjg9dj.msixbundle"
   }
 ]

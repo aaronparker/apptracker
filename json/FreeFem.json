@@ -1,22 +1,20 @@
 [
   {
     "Version": "4.14",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "3/12/2023",
     "Size": 167023843,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.14/FreeFem%2B%2B-4.14-dev-win64.exe"
   },
   {
     "Version": "4.14",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "3/12/2023",
     "Size": 258622911,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/FreeFem/FreeFem-sources/releases/download/v4.14/FreeFem%2B%2B-4.14-win64-x86-26jan.exe"
   }
 ]

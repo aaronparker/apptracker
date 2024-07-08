@@ -1,12 +1,11 @@
 [
   {
     "Version": "4.0.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Minimal",
     "Date": "21/6/2017",
     "Size": 4960256,
+    "Architecture": "x86",
+    "InstallerType": "Minimal",
+    "Type": "msi",
     "URI": "https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi"
   }
 ]

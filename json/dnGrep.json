@@ -1,42 +1,38 @@
 [
   {
     "Version": "4.2.29.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "11/6/2024",
     "Size": 75608064,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.29.0/dnGREP.4.2.29.x64.msi"
   },
   {
     "Version": "4.2.29.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "11/6/2024",
     "Size": 69840896,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.29.0/dnGREP.4.2.29.x86.msi"
   },
   {
     "Version": "4.2.29.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "11/6/2024",
     "Size": 76405799,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.29.0/dnGrep.4.2.29.0.x64.zip"
   },
   {
     "Version": "4.2.29.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "11/6/2024",
     "Size": 70410890,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.29.0/dnGrep.4.2.29.0.x86.zip"
   }
 ]

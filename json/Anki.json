@@ -1,22 +1,20 @@
 [
   {
     "Version": "24.06.3",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "30/6/2024",
     "Size": 125606160,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/ankitects/anki/releases/download/24.06.3/anki-24.06.3-windows-qt5.exe"
   },
   {
     "Version": "24.06.3",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "30/6/2024",
     "Size": 152930760,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/ankitects/anki/releases/download/24.06.3/anki-24.06.3-windows-qt6.exe"
   }
 ]

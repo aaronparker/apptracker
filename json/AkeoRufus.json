@@ -1,52 +1,47 @@
 [
   {
     "Version": "4.5",
-    "Platform": "Windows",
-    "Architecture": "ARM32",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "22/5/2024",
     "Size": 4514888,
+    "Architecture": "ARM32",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe"
   },
   {
     "Version": "4.5",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "22/5/2024",
     "Size": 5079624,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe"
   },
   {
     "Version": "4.5",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "22/5/2024",
     "Size": 1513032,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe"
   },
   {
     "Version": "4.5",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "22/5/2024",
     "Size": 1513032,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5p.exe"
   },
   {
     "Version": "4.5",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "22/5/2024",
     "Size": 1527368,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe"
   }
 ]

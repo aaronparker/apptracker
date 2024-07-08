@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "22.0.1.8.1",
+    "Md5": "4a7376ebc9ab7dfda920e0e8364a9d1a",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://corretto.aws/downloads/resources/22.0.1.8.1/amazon-corretto-22.0.1.8.1-windows-x64.msi"
+  },
+  {
+    "Version": "22.0.1.8.1",
+    "Md5": "b9e6a0157fdaf9d2ed72c7a3f41244b7",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://corretto.aws/downloads/resources/22.0.1.8.1/amazon-corretto-22.0.1.8.1-windows-x64-jdk.zip"
+  }
+]

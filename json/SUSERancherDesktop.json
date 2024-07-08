@@ -1,12 +1,11 @@
 [
   {
     "Version": "1.14.2",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "14/6/2024",
     "Size": 661303296,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.14.2/Rancher.Desktop.Setup.1.14.2.msi"
   }
 ]

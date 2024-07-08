@@ -1,72 +1,65 @@
 [
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 5365760,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-ARM64-v9.5.0.0.msi"
   },
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 5742592,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win64-v9.5.0.0.msi"
   },
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 5091328,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win32-v9.5.0.0.msi"
   },
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "ARM32",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 4074966,
+    "Architecture": "ARM32",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-ARM.zip"
   },
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 4090699,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-ARM64.zip"
   },
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 4856219,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win64.zip"
   },
   {
     "Version": "9.5.0.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "23/10/2023",
     "Size": 4184892,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v9.5.0.0p1-Beta/OpenSSH-Win32.zip"
   }
 ]

@@ -1,42 +1,38 @@
 [
   {
     "Version": "2.45.2.1",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "3/6/2024",
     "Size": 68131584,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe"
   },
   {
     "Version": "2.45.2.1",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Portable",
     "Date": "3/6/2024",
     "Size": 63004032,
+    "Architecture": "x64",
+    "InstallerType": "Portable",
+    "Type": "exe",
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/PortableGit-2.45.2-64-bit.7z.exe"
   },
   {
     "Version": "2.45.2.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "3/6/2024",
     "Size": 63275224,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-32-bit.exe"
   },
   {
     "Version": "2.45.2.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Portable",
     "Date": "3/6/2024",
     "Size": 59837136,
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
     "URI": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/PortableGit-2.45.2-32-bit.7z.exe"
   }
 ]

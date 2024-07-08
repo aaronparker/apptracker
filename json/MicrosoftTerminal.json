@@ -1,12 +1,11 @@
 [
   {
     "Version": "1.20.11781.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msixbundle",
-    "InstallerType": "Minimal",
     "Date": "27/6/2024",
     "Size": 21569844,
+    "Architecture": "x86",
+    "InstallerType": "Minimal",
+    "Type": "msixbundle",
     "URI": "https://github.com/microsoft/terminal/releases/download/v1.20.11781.0/Microsoft.WindowsTerminal_1.20.11781.0_8wekyb3d8bbwe.msixbundle"
   }
 ]

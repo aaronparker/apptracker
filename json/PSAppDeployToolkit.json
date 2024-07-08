@@ -1,12 +1,11 @@
 [
   {
     "Version": "3.10.1",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "zip",
-    "InstallerType": "Default",
     "Date": "3/5/2024",
     "Size": 989519,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
     "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/3.10.1/PSAppDeployToolkit_3.10.1.zip"
   }
 ]

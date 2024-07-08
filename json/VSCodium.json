@@ -1,62 +1,56 @@
 [
   {
     "Version": "1.90.2.24171",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "19/6/2024",
     "Size": 94528180,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.2.24171/VSCodiumSetup-arm64-1.90.2.24171.exe"
   },
   {
     "Version": "1.90.2.24171",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "InstallerType": "User",
     "Date": "19/6/2024",
     "Size": 94528509,
+    "Architecture": "ARM64",
+    "InstallerType": "User",
+    "Type": "exe",
     "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.2.24171/VSCodiumUserSetup-arm64-1.90.2.24171.exe"
   },
   {
     "Version": "1.90.2.24171",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "19/6/2024",
     "Size": 97535932,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.2.24171/VSCodiumSetup-x64-1.90.2.24171.exe"
   },
   {
     "Version": "1.90.2.24171",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "User",
     "Date": "19/6/2024",
     "Size": 97536351,
+    "Architecture": "x64",
+    "InstallerType": "User",
+    "Type": "exe",
     "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.2.24171/VSCodiumUserSetup-x64-1.90.2.24171.exe"
   },
   {
     "Version": "1.90.2.24171",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "19/6/2024",
     "Size": 112222208,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.2.24171/VSCodium-x64-1.90.2.24171.msi"
   },
   {
     "Version": "1.90.2.24171",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "19/6/2024",
     "Size": 112222208,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/VSCodium/vscodium/releases/download/1.90.2.24171/VSCodium-x64-updates-disabled-1.90.2.24171.msi"
   }
 ]

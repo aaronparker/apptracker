@@ -1,12 +1,11 @@
 [
   {
     "Version": "1.11.0",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "msi",
-    "InstallerType": "Default",
     "Date": "20/6/2024",
     "Size": 42340864,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
     "URI": "https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi"
   }
 ]

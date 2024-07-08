@@ -1,42 +1,38 @@
 [
   {
     "Version": "22.01",
-    "Platform": "Windows",
-    "Architecture": "ARM32",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "18/6/2023",
     "Size": 2910111,
+    "Architecture": "ARM32",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm.exe"
   },
   {
     "Version": "22.01",
-    "Platform": "Windows",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "18/6/2023",
     "Size": 2820648,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm64.exe"
   },
   {
     "Version": "22.01",
-    "Platform": "Windows",
-    "Architecture": "x64",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "18/6/2023",
     "Size": 2980752,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-x64.exe"
   },
   {
     "Version": "22.01",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "18/6/2023",
     "Size": 2687458,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-x32.exe"
   }
 ]

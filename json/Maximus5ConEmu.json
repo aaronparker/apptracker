@@ -1,32 +1,29 @@
 [
   {
     "Version": "23.07.24",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "7z",
-    "InstallerType": "Default",
     "Date": "24/7/2023",
     "Size": 4857689,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "7z",
     "URI": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuPack.230724.7z"
   },
   {
     "Version": "23.07.24",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "24/7/2023",
     "Size": 7965008,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuSetup.230724.exe"
   },
   {
     "Version": "23.07.24",
-    "Platform": "Windows",
-    "Architecture": "x86",
-    "Type": "exe",
-    "InstallerType": "Default",
     "Date": "24/7/2023",
     "Size": 4828488,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
     "URI": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmu_230724_English.paf.exe"
   }
 ]
