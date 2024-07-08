@@ -3,7 +3,7 @@ title: Nevcairiel LAV Filters
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: Jul 8 2024 at 07:15 AM
 ---
 
 ## Nevcairiel LAV Filters
@@ -14,6 +14,6 @@ Evergreen app: `NevcairielLAVFilters`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Platform | Architecture | Type | InstallerType | Date     | Size     | URI                                                                                                                                                                                                    |
-| ------- | -------- | ------------ | ---- | ------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.79.2  | Windows  | x86          | exe  | Default       | 8/4/2024 | 15672616 | [https://github.com/Nevcairiel/LAVFilters/releases/download/0.79.2/LAVFilters-0.79.2-Installer.exe](https://github.com/Nevcairiel/LAVFilters/releases/download/0.79.2/LAVFilters-0.79.2-Installer.exe) |
+| Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
+| ------- | -------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0.79.2  | 8/4/2024 | 15672616 | x86          | Default       | exe  | [https://github.com/Nevcairiel/LAVFilters/releases/download/0.79.2/LAVFilters-0.79.2-Installer.exe](https://github.com/Nevcairiel/LAVFilters/releases/download/0.79.2/LAVFilters-0.79.2-Installer.exe) |

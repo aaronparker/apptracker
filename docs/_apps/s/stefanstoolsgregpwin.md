@@ -3,7 +3,7 @@ title: Stefans Tools gregpWin
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jun 29 2024 at 12:21 PM
+last_modified_date: Jul 8 2024 at 07:15 AM
 ---
 
 ## Stefans Tools gregpWin
@@ -14,7 +14,7 @@ Evergreen app: `StefansToolsgregpWin`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Platform | Architecture | Type | InstallerType | Date      | Size    | URI                                                                                                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.1.3   | Windows  | x64          | msi  | Default       | 29/6/2024 | 1654784 | [https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3-x64.msi](https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3-x64.msi) |
-| 2.1.3   | Windows  | x86          | msi  | Default       | 29/6/2024 | 847872  | [https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3.msi](https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3.msi)         |
+| Version | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
+| ------- | --------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.1.3   | 29/6/2024 | 1654784 | x64          | Default       | msi  | [https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3-x64.msi](https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3-x64.msi) |
+| 2.1.3   | 29/6/2024 | 847872  | x86          | Default       | msi  | [https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3.msi](https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3.msi)         |

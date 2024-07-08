@@ -3,7 +3,7 @@ title: PDF Arranger
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jun 21 2024 at 12:36 AM
+last_modified_date: Jul 8 2024 at 07:15 AM
 ---
 
 ## PDF Arranger
@@ -14,6 +14,6 @@ Evergreen app: `PDFArranger`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Platform | Architecture | Type | InstallerType | Date      | Size     | URI                                                                                                                                                                                                                          |
-| ------- | -------- | ------------ | ---- | ------------- | --------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.11.0  | Windows  | x86          | msi  | Default       | 20/6/2024 | 42340864 | [https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi](https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi) |
+| Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                          |
+| ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.11.0  | 20/6/2024 | 42340864 | x86          | Default       | msi  | [https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi](https://github.com/pdfarranger/pdfarranger/releases/download/1.11.0/pdfarranger-1.11.0-windows-installer.msi) |

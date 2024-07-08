@@ -3,7 +3,7 @@ title: USBPcap
 layout: default
 nav_order: 2
 parent: U
-last_modified_date: May 5 2024 at 12:41 AM
+last_modified_date: Jul 8 2024 at 07:15 AM
 ---
 
 ## USBPcap
@@ -14,6 +14,6 @@ Evergreen app: `USBPcap`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Platform | Architecture | Type | InstallerType | Date      | Size   | URI                                                                                                                                                                            |
-| ------- | -------- | ------------ | ---- | ------------- | --------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.5.4.0 | Windows  | x86          | exe  | Default       | 22/5/2020 | 195040 | [https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe](https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe) |
+| Version | Date      | Size   | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
+| ------- | --------- | ------ | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.5.4.0 | 22/5/2020 | 195040 | x86          | Default       | exe  | [https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe](https://github.com/desowin/usbpcap/releases/download/1.5.4.0/USBPcapSetup-1.5.4.0.exe) |
