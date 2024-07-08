@@ -1,10 +1,10 @@
 [
   {
-    "Version": "9.4.1",
+    "Version": "9.4.2",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "61755959",
-    "Md5": "9dc11e670d20320c361d186f2950f56c",
-    "URI": "https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.1/saga-9.4.1_x64_setup.exe"
+    "Size": "61802203",
+    "Md5": "35ab8a5376031f5890b5ce8dea6e5441",
+    "URI": "https://icolo.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.4.2/saga-9.4.2_x64_setup.exe"
   }
 ]
