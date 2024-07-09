@@ -12,7 +12,10 @@ last_modified_date: Jul 9 2024 at 12:41 AM
 
 Evergreen app: `AWSCLI`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (rate limit exceeded).
+```
 
 | Version | Type | URI                                                                                                    |
 | ------- | ---- | ------------------------------------------------------------------------------------------------------ |
