@@ -75,7 +75,7 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     # Get details of the app from the saved JSON; Update the count of unique apps
     $AppObject = Get-Content -Path $File.FullName | ConvertFrom-Json
     $UniqueAppsCount += $AppObject.Count
-    
+
     # Update page details
     $Markdown += "`n`n"
     $Markdown += New-MDHeader -Text "$($App.Application)" -Level 2
