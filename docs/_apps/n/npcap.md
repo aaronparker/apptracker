@@ -12,10 +12,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `Npcap`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (rate limit exceeded).
-```
+Last check: 🟢
 
 | Version | Type | URI                                                                            |
 | ------- | ---- | ------------------------------------------------------------------------------ |
