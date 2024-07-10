@@ -12,7 +12,10 @@ last_modified_date: Jun 11 2024 at 12:22 PM
 
 Evergreen app: `Postman`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                       | URI                                                                                                            |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ------------------------------ | -------------------------------------------------------------------------------------------------------------- |
