@@ -12,6 +12,12 @@
     "URI": "https://msedgedriver.azureedge.net/128.0.2690.1/edgedriver_win64.zip"
   },
   {
+    "Version": "128.0.2690.1",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "URI": "https://msedgedriver.azureedge.net/128.0.2690.1/edgedriver_win32.zip"
+  },
+  {
     "Version": "127.0.2651.31",
     "Channel": "Beta",
     "Architecture": "ARM64",
