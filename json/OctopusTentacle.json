@@ -1,11 +1,6 @@
 [
   {
     "Version": "8.1.1566",
-    "Architecture": "x64",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.1.1566-x64.msi"
-  },
-  {
-    "Version": "8.1.1566",
     "Architecture": "x86",
     "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.1.1566.msi"
   }
