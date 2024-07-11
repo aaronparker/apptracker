@@ -1,11 +1,11 @@
 [
   {
-    "Version": "3.2.11",
-    "Date": "11/4/2024",
-    "Size": 79387320,
+    "Version": "3.2.12",
+    "Date": "10/7/2024",
+    "Size": 82551024,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ProtonVPN/win-app/releases/download/3.2.11/ProtonVPN_v3.2.11.exe"
+    "URI": "https://github.com/ProtonVPN/win-app/releases/download/3.2.12/ProtonVPN_v3.2.12.exe"
   }
 ]
