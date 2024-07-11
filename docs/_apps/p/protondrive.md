@@ -3,7 +3,7 @@ title: Proton Drive
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jul 7 2024 at 12:23 PM
+last_modified_date: Jul 11 2024 at 12:33 AM
 ---
 
 ## Proton Drive
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Release | Sha512                                                                                                                           | Type | URI                                                                                                                                                        |
 | ------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.6.0   | 26/6/2024 | Stable  | da5c18240d9e09d07e93fc2c7f0c94905b8041324e978e1cd6f628d523e44281fdc7b03775bd75830b86cd91be175201d4c164e0a231baf65a2ba8dd670be6bb | exe  | [https://proton.me/download/drive/windows/Proton%20Drive%20Setup%201.6.0.exe](https://proton.me/download/drive/windows/Proton%20Drive%20Setup%201.6.0.exe) |
+| 1.6.1   | 10/7/2024 | Stable  | c7ddf3df50612670f58253eb6a3e7d8199de1fec61be5a600e0b5b3440b5a5feefb86765abb18d1339ff3168d35bb86b61b0f2e03585979f1e3f5b8f86bb2206 | exe  | [https://proton.me/download/drive/windows/Proton%20Drive%20Setup%201.6.1.exe](https://proton.me/download/drive/windows/Proton%20Drive%20Setup%201.6.1.exe) |

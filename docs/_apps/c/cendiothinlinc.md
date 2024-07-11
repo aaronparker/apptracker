@@ -3,7 +3,7 @@ title: Cendio ThinLinc
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Jul 11 2024 at 12:33 AM
 ---
 
 ## Cendio ThinLinc
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.16.0  | [https://www.cendio.com/downloads/clients/tl-4.16.0-client-windows.exe](https://www.cendio.com/downloads/clients/tl-4.16.0-client-windows.exe) |
+| 4.17.0  | [https://www.cendio.com/downloads/clients/tl-4.17.0-client-windows.exe](https://www.cendio.com/downloads/clients/tl-4.17.0-client-windows.exe) |
