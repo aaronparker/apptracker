@@ -171,21 +171,21 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4da3900-8549-46a7-848a-5f72e4cbace7/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
-    "Version": "1.3.187.41",
+    "Version": "1.3.193.5",
     "Platform": "Windows",
     "Channel": "EdgeUpdate",
     "Release": "Consumer",
     "Architecture": "x86",
-    "Hash": "200A59ABDEB32CC4D2CEC4079BE205F18B5F45BAE42ACB7940151F9780569889",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2106c895-651f-4ed2-89de-96e91206c60c/MicrosoftEdgeUpdateSetup_X86_1.3.187.41.exe"
+    "Hash": "C3F6687B55CA40130067D38AF5488695A1987F622CDB9647FF8FE9A2FD1A61F0",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5eea6acd-de06-44cb-8c27-89955912a28c/MicrosoftEdgeUpdateSetup_X86_1.3.193.5.exe"
   },
   {
-    "Version": "1.3.187.41",
+    "Version": "1.3.193.5",
     "Platform": "Windows",
     "Channel": "EdgeUpdate",
     "Release": "Enterprise",
     "Architecture": "x86",
-    "Hash": "200A59ABDEB32CC4D2CEC4079BE205F18B5F45BAE42ACB7940151F9780569889",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2106c895-651f-4ed2-89de-96e91206c60c/MicrosoftEdgeUpdateSetup_X86_1.3.187.41.exe"
+    "Hash": "C3F6687B55CA40130067D38AF5488695A1987F622CDB9647FF8FE9A2FD1A61F0",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5eea6acd-de06-44cb-8c27-89955912a28c/MicrosoftEdgeUpdateSetup_X86_1.3.193.5.exe"
   }
 ]
