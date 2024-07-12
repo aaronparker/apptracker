@@ -12,10 +12,7 @@ last_modified_date: Jul 11 2024 at 12:33 AM
 
 Evergreen app: `OctopusDeployServer`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Timeout).
-```
+Last check: 🟢
 
 | Version     | Date      | URI                                                                                                                                              |
 | ----------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
