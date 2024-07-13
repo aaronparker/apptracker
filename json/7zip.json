@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "1633909",
     "Md5": "fea9ba12eb5fa5703d65dcbc0873d7e9",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm.exe"
   },
   {
     "Version": "24.07",
@@ -13,7 +13,7 @@
     "Type": "exe",
     "Size": "1555409",
     "Md5": "64e16722dfcb1452e6980c104df2847e",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm64.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-arm64.exe"
   },
   {
     "Version": "24.07",
@@ -21,7 +21,7 @@
     "Type": "exe",
     "Size": "1620576",
     "Md5": "f1320bd826092e99fcec85cc96a29791",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.exe"
   },
   {
     "Version": "24.07",
@@ -29,7 +29,7 @@
     "Type": "exe",
     "Size": "590848",
     "Md5": "c31c4b04558396c6fabab64dcf366534",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7zr.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7zr.exe"
   },
   {
     "Version": "24.07",
@@ -37,7 +37,7 @@
     "Type": "exe",
     "Size": "1331365",
     "Md5": "3f6d2cef65fe49a38190781a0cb46707",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.exe"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.exe"
   },
   {
     "Version": "24.07",
@@ -45,7 +45,7 @@
     "Type": "msi",
     "Size": "1966592",
     "Md5": "2274f746c9db0c334ee2ff789756aa18",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.msi"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407-x64.msi"
   },
   {
     "Version": "24.07",
@@ -53,6 +53,6 @@
     "Type": "msi",
     "Size": "1538560",
     "Md5": "c44c2b9e7ee38791ab5c15932dae933e",
-    "URI": "https://psychz.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.msi"
+    "URI": "https://netactuate.dl.sourceforge.net/project/sevenzip/7-Zip/24.07/7z2407.msi"
   }
 ]
