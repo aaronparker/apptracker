@@ -1,110 +1,110 @@
 [
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 3779311,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 5348345,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "7z",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.arm64.7z"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.arm64.7z"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 2062798,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 3626233,
     "Architecture": "ARM64",
     "InstallerType": "Minimal",
     "Type": "7z",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.minimalist.arm64.7z"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.minimalist.arm64.7z"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 2278179,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 3827186,
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "7z",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.minimalist.x64.7z"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.minimalist.x64.7z"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 4098246,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 5654066,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "7z",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.x64.7z"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.x64.7z"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 3834508,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 5391245,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "7z",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.7z"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.7z"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 2056454,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 3607298,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "7z",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.minimalist.7z"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.minimalist.7z"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 4652656,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 6211440,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.Installer.arm64.exe"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.arm64.exe"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 4985152,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 6541144,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.Installer.x64.exe"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 4832328,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 6390144,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.Installer.exe"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.exe"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 5926457,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 7513080,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.arm64.zip"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.arm64.zip"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 6126337,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 7710577,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.x64.zip"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.x64.zip"
   },
   {
-    "Version": "8.6.8",
-    "Date": "4/6/2024",
-    "Size": 5644035,
+    "Version": "8.6.9",
+    "Date": "14/7/2024",
+    "Size": 7225652,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.portable.zip"
+    "URI": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.portable.zip"
   }
 ]
