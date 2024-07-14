@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Sunday 14/07/2024 00:51 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 14/07/2024 12:31 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -175,7 +175,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains WebStorm                                                | `21/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainswebstorm/)                     |
 | JetBrains YouTrack                                                | `5/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainsyoutrack/)                     |
 | jq                                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
-| jrsoftware InnoSetup                                              | `13/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
+| jrsoftware InnoSetup                                              | `14/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
 | KDiff3                                                            | `14/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
 | KeePass Password Safe                                             | `14/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
@@ -246,7 +246,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Node.js                                                           | `9/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/nodejs/)                                |
 | nomacs Image Lounge                                               | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/nomacs/)                                |
 | Notable                                                           | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/notable/)                               |
-| Notepad++                                                         | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/notepadplusplus/)                       |
+| Notepad++                                                         | `14/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/notepadplusplus/)                       |
 | Npcap                                                             | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/npcap/)                                 |
 | Obsidian                                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/obsidian/)                              |
 | OBS Studio                                                        | `13/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                             |
