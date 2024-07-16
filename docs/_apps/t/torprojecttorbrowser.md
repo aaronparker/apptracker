@@ -12,7 +12,10 @@ last_modified_date: Jul 11 2024 at 12:33 AM
 
 Evergreen app: `TorProjectTorBrowser`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Network is unreachable (aus1.torproject.org:443)
+```
 
 | Version | Architecture | Type | Language | URI                                                                                                                                                                                          |
 | ------- | ------------ | ---- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -3,7 +3,7 @@ title: Dan Pristupov Fork
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: Jul 15 2024 at 12:32 AM
+last_modified_date: Jul 16 2024 at 12:38 AM
 ---
 
 ## Dan Pristupov Fork
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------- |
-| 1.99.1  | [https://fork.dev/update/win/ForkInstaller.exe](https://fork.dev/update/win/ForkInstaller.exe) |
+| 1.98.0  | [https://fork.dev/update/win/ForkInstaller.exe](https://fork.dev/update/win/ForkInstaller.exe) |
