@@ -8,7 +8,7 @@ last_modified_date: Jul 8 2024 at 07:15 AM
 
 ## Vercel Hyper
 
-[Source](https://hyper.js/)
+[Source](https://hyper.is/)
 
 Evergreen app: `VercelHyper`. Found **1** installer.
 

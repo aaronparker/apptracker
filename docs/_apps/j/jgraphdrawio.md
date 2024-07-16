@@ -1,16 +1,16 @@
 ---
-title: diagrams.net
+title: JGraph draw.io (diagrams.net)
 layout: default
 nav_order: 2
-parent: D
-last_modified_date: Jul 8 2024 at 07:15 AM
+parent: J
+last_modified_date: Jul 16 2024 at 12:21 PM
 ---
 
-## diagrams.net
+## JGraph draw.io (diagrams.net)
 
-[Source](https://www.diagrams.net/)
+[Source](https://www.drawio.com)
 
-Evergreen app: `diagrams.net`. Found **5** installers.
+Evergreen app: `JGraphDrawIO`. Found **5** installers.
 
 Last check: 🟢
 

@@ -3,7 +3,7 @@ title: SAGA-GIS
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jul 15 2024 at 12:32 AM
+last_modified_date: Jul 16 2024 at 12:21 PM
 ---
 
 ## SAGA-GIS
@@ -14,6 +14,6 @@ Evergreen app: `SAGAGIS`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                        |
-| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.5.0   | x64          | exe  | 62521278 | 986c7cc2f9d59db4d79121f89c4becc4 | [https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.0/saga-9.5.0_x64_setup.exe](https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.0/saga-9.5.0_x64_setup.exe) |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                            |
+| ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 9.5.1   | x64          | exe  | 61803467 | e93dba8c6838b44c964765adaae90930 | [https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe](https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe) |
