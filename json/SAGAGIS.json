@@ -1,10 +1,10 @@
 [
   {
-    "Version": "9.5.0",
+    "Version": "9.5.1",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "62521278",
-    "Md5": "986c7cc2f9d59db4d79121f89c4becc4",
-    "URI": "https://versaweb.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.0/saga-9.5.0_x64_setup.exe"
+    "Size": "61803467",
+    "Md5": "e93dba8c6838b44c964765adaae90930",
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe"
   }
 ]
