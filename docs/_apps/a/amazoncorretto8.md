@@ -3,7 +3,7 @@ title: Amazon Corretto 8
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Jul 17 2024 at 12:34 AM
 ---
 
 ## Amazon Corretto 8
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version    | Md5                              | Architecture | Type | URI                                                                                                                                                                                                      |
 | ---------- | -------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.412.08.1 | 5858ad19a4c36b30ded79f2833e940c0 | x64          | msi  | [https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x64-jdk.msi](https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x64-jdk.msi) |
-| 8.412.08.1 | de51acb6c20aedc5edae0c7c7c726d0c | x86          | msi  | [https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x86-jdk.msi](https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x86-jdk.msi) |
-| 8.412.08.1 | 9a309b8248b8f76ab3e28dec9f82ed25 | x64          | zip  | [https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x64-jre.zip](https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x64-jre.zip) |
-| 8.412.08.1 | 5f91177c2ead7a587ef17514e75396da | x86          | zip  | [https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x86-jre.zip](https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x86-jre.zip) |
+| 8.422.05.1 | 0a1bf625d43026349d87eb715fc4a952 | x64          | msi  | [https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x64-jdk.msi](https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x64-jdk.msi) |
+| 8.422.05.1 | 4a23c34f6d8d77f97dee2f9a8ea86f88 | x86          | msi  | [https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x86-jdk.msi](https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x86-jdk.msi) |
+| 8.422.05.1 | 4e67515814b217b58897685f7939fa00 | x64          | zip  | [https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x64-jre.zip](https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x64-jre.zip) |
+| 8.422.05.1 | 5cf8a3eab0ff10af2215968805992a74 | x86          | zip  | [https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x86-jre.zip](https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x86-jre.zip) |

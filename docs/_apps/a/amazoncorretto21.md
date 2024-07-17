@@ -3,7 +3,7 @@ title: Amazon Corretto 21
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Jul 17 2024 at 12:34 AM
 ---
 
 ## Amazon Corretto 21
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Md5                              | Architecture | Type | URI                                                                                                                                                                                                      |
 | ---------- | -------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 21.0.3.9.1 | b6c850fb368107f4f662b46cb0f1fdea | x64          | msi  | [https://corretto.aws/downloads/resources/21.0.3.9.1/amazon-corretto-21.0.3.9.1-windows-x64.msi](https://corretto.aws/downloads/resources/21.0.3.9.1/amazon-corretto-21.0.3.9.1-windows-x64.msi)         |
-| 21.0.3.9.1 | f2d845baf0e0b3f569db36d0ce22b2ca | x64          | zip  | [https://corretto.aws/downloads/resources/21.0.3.9.1/amazon-corretto-21.0.3.9.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/21.0.3.9.1/amazon-corretto-21.0.3.9.1-windows-x64-jdk.zip) |
+| 21.0.4.7.1 | ff08993885a97d11ef5d16d0a151bf77 | x64          | msi  | [https://corretto.aws/downloads/resources/21.0.4.7.1/amazon-corretto-21.0.4.7.1-windows-x64.msi](https://corretto.aws/downloads/resources/21.0.4.7.1/amazon-corretto-21.0.4.7.1-windows-x64.msi)         |
+| 21.0.4.7.1 | 8198604fdaa744b05da52e65d6c7ae81 | x64          | zip  | [https://corretto.aws/downloads/resources/21.0.4.7.1/amazon-corretto-21.0.4.7.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/21.0.4.7.1/amazon-corretto-21.0.4.7.1-windows-x64-jdk.zip) |

@@ -3,7 +3,7 @@ title: Amazon Corretto 22
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Jul 17 2024 at 12:34 AM
 ---
 
 ## Amazon Corretto 22
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Md5                              | Architecture | Type | URI                                                                                                                                                                                                      |
 | ---------- | -------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 22.0.1.8.1 | 4a7376ebc9ab7dfda920e0e8364a9d1a | x64          | msi  | [https://corretto.aws/downloads/resources/22.0.1.8.1/amazon-corretto-22.0.1.8.1-windows-x64.msi](https://corretto.aws/downloads/resources/22.0.1.8.1/amazon-corretto-22.0.1.8.1-windows-x64.msi)         |
-| 22.0.1.8.1 | b9e6a0157fdaf9d2ed72c7a3f41244b7 | x64          | zip  | [https://corretto.aws/downloads/resources/22.0.1.8.1/amazon-corretto-22.0.1.8.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/22.0.1.8.1/amazon-corretto-22.0.1.8.1-windows-x64-jdk.zip) |
+| 22.0.2.9.1 | 5ad0104a4d75b87c1da218cdf572d604 | x64          | msi  | [https://corretto.aws/downloads/resources/22.0.2.9.1/amazon-corretto-22.0.2.9.1-windows-x64.msi](https://corretto.aws/downloads/resources/22.0.2.9.1/amazon-corretto-22.0.2.9.1-windows-x64.msi)         |
+| 22.0.2.9.1 | 5eea3c3ef128746bf8a842add1fb42b1 | x64          | zip  | [https://corretto.aws/downloads/resources/22.0.2.9.1/amazon-corretto-22.0.2.9.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/22.0.2.9.1/amazon-corretto-22.0.2.9.1-windows-x64-jdk.zip) |
