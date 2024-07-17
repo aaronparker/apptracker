@@ -3,7 +3,7 @@ title: Oracle Java 17
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Apr 17 2024 at 12:28 AM
+last_modified_date: Jul 17 2024 at 12:28 PM
 ---
 
 ## Oracle Java 17
@@ -12,13 +12,10 @@ last_modified_date: Apr 17 2024 at 12:28 AM
 
 Evergreen app: `OracleJava17`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version | Sha256                                                           | Type | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.0.11 | e6ed9c3c993a0fe9a80df3265305743358c125ca69f9bd82d892309282ea9f1c | exe  | [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) |
-| 17.0.11 | fe4b70188503139cef043a230310fa2a5da8e1ac161f29e2931640538c4c16e2 | msi  | [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi) |
-| 17.0.11 | c907bfc7618cfd6e71a2e5b0a0b79b61a41608620731bf9ec97ef3579aada0c5 | zip  | [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip) |
+| 17.0.12 | c13b5d17deba912b3f65f9c140d88248ae3d9b1627ad968e935077216cb24e44 | exe  | [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) |
+| 17.0.12 | 1bba48b74318f329899b92ed06773d97980722be8c213923f79bcf1cbaf67316 | msi  | [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi) |
+| 17.0.12 | af797d9d5003c0daa99380fb8b0a9af36094aabbc5db7a34627e81857571f1e8 | zip  | [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip) |
