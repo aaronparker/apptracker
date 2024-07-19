@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Friday 19/07/2024 00:38 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 19/07/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -170,7 +170,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains RubyMine                                                | `22/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainsrubymine/)                     |
 | JetBrains Space                                                   | `5/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainsspace/)                        |
 | JetBrains TeamCity                                                | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainsteamcity/)                     |
-| JetBrains Toolbox App                                             | `3/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainstoolbox/)                      |
+| JetBrains Toolbox App                                             | `19/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainstoolbox/)                      |
 | JetBrains WebStorm                                                | `21/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainswebstorm/)                     |
 | JetBrains YouTrack                                                | `5/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainsyoutrack/)                     |
 | JGraph draw.io (diagrams.net)                                     | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jgraphdrawio/)                          |
@@ -221,12 +221,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
 | Microsoft Visual Studio                                           | `10/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                 |
-| Microsoft Visual Studio Code                                      | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
+| Microsoft Visual Studio Code                                      | `19/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
 | Microsoft Windows Package Manager Client                          | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/)  |
 | Microsoft WSL                                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | `14/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdbootloader/)                |
 | Microsoft Azure Virtual Desktop Agent                             | `13/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdinfraagent/)                |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `31/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `31/5/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)     |
 | Microsoft Remote Desktop                                          | `19/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdremotedesktop/)             |
 | Microsoft Remote Desktop WebRTC Redirector Service                | `31/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdrtcservice/)                |
 | Miniconda                                                         | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/miniconda/)                             |
@@ -258,12 +258,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openlens/)                              |
 | Open-Shell-Menu                                                   | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
 | OpenWebStart                                                      | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
-| Opera Browser                                                     | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
+| Opera Browser                                                     | `19/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
 | Opera GX Browser                                                  | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `17/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
-| Oracle Java 20                                                    | `2/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava20/)                          |
-| Oracle Java 21                                                    | `17/7/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava21/)                          |
+| Oracle Java 20                                                    | `2/5/2024`  | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava20/)                          |
+| Oracle Java 21                                                    | `17/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava21/)                          |
 | Oracle Java 22                                                    | `18/7/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava22/)                          |
 | Oracle Java 8                                                     | `17/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava8/)                           |
 | Oracle VirtualBox                                                 | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclevirtualbox/)                      |
