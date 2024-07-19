@@ -3,7 +3,7 @@ title: Adoptium Temurin 11
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 23 2024 at 12:29 AM
+last_modified_date: Jul 19 2024 at 12:33 AM
 ---
 
 ## Adoptium Temurin 11
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version   | ImageType | Date                | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                                                                                                                                                          |
 | --------- | --------- | ------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.23+9 | jdk       | 04/18/2024 21:05:35 | cacbe31a3921e52f4ff6d031d6f37d8a7c58f20a136fccf1754565f8aa403ed8 | 175407104 | x64          | msi  | [https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.23_9.msi](https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.23_9.msi)       |
-| 11.0.23+9 | jre       | 04/18/2024 21:05:07 | 6699a78e61c0d8208a6d43a3b4590fbabf77bb1c1b8b30d8140e62804fa286cb | 31502336  | x64          | msi  | [https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.23_9.msi](https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.23_9.msi)       |
+| 11.0.24+8 | jdk       | 07/18/2024 14:27:05 | c6d15bff637a78d2033cd42c592e47c09fe87e7d028ae7d1fbf591c547848917 | 174284800 | x64          | msi  | [https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.24%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.24_8.msi](https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.24%2B8/OpenJDK11U-jdk_x64_windows_hotspot_11.0.24_8.msi)       |
+| 11.0.24+8 | jre       | 07/18/2024 14:26:34 | da8e0016ee777b9eb4536991ba5e1ca38be049db13239c2f3924f759730fe329 | 31367168  | x64          | msi  | [https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.24%2B8/OpenJDK11U-jre_x64_windows_hotspot_11.0.24_8.msi](https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.24%2B8/OpenJDK11U-jre_x64_windows_hotspot_11.0.24_8.msi)       |
 | 11.0.23+9 | jdk       | 04/22/2024 15:35:07 | caf3c6e102b8213784eb4e6fdcb50967fde3e3018e8aa171f97a8854ec4fc49e | 157294592 | x86          | msi  | [https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.23_9.msi](https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.23_9.msi) |
 | 11.0.23+9 | jre       | 04/22/2024 15:35:14 | aa256af4cf491950d126374182322b617156719a7627f5b46f411ab90bf01377 | 27480064  | x86          | msi  | [https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.23_9.msi](https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.23%2B9/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.23_9.msi) |

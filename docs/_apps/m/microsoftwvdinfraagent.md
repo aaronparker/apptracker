@@ -12,10 +12,7 @@ last_modified_date: Jul 13 2024 at 12:14 PM
 
 Evergreen app: `MicrosoftWvdInfraAgent`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version       | Date                          | Architecture | Filename                                                  | URI                                                                                                                                  |
 | ------------- | ----------------------------- | ------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
