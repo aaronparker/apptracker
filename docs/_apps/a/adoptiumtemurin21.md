@@ -3,7 +3,7 @@ title: Adoptium Temurin 21
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 22 2024 at 12:38 AM
+last_modified_date: Jul 20 2024 at 12:32 AM
 ---
 
 ## Adoptium Temurin 21
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version      | ImageType | Date                | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                                                                                                                                                |
 | ------------ | --------- | ------------------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 21.0.3+9-LTS | jdk       | 04/18/2024 17:24:08 | 264db89e74213f3ea2d7b7379d1c2ac346797d03b4d88cbf4ce72c3ff96477a1 | 179679232 | x64          | msi  | [https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_x64_windows_hotspot_21.0.3_9.msi](https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_x64_windows_hotspot_21.0.3_9.msi) |
-| 21.0.3+9-LTS | jre       | 04/18/2024 17:23:37 | 790bd6bd823618ce33e366294159282b92d3fcd41886e375fd4b876843e0d90f | 34918400  | x64          | msi  | [https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.msi](https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.msi) |
+| 21.0.4+7-LTS | jdk       | 07/19/2024 12:17:01 | 5eadbdeabdca1a7abf6416a6b35bf7afd86e7edade7b5d44059fbcecacaef372 | 178606080 | x64          | msi  | [https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jdk_x64_windows_hotspot_21.0.4_7.msi](https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jdk_x64_windows_hotspot_21.0.4_7.msi) |
+| 21.0.4+7-LTS | jre       | 07/19/2024 12:17:10 | cf5b9440680994f1571eb1b83fe017eafbec9e6e8a9cd033b3c099e967c1a553 | 34836480  | x64          | msi  | [https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.msi](https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.msi) |
