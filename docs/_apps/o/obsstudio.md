@@ -12,7 +12,10 @@ last_modified_date: Jul 23 2024 at 12:33 AM
 
 Evergreen app: `OBSStudio`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version | Architecture | URI                                                                                                                                                                          |
 | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

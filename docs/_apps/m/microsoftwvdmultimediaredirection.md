@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: May 31 2024 at 12:36 AM
+last_modified_date: Jul 23 2024 at 12:16 PM
 ---
 
 ## Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
@@ -12,11 +12,8 @@ last_modified_date: May 31 2024 at 12:36 AM
 
 Evergreen app: `MicrosoftWvdMultimediaRedirection`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version       | Date                          | Architecture | Filename                                 | URI                                                    |
 | ------------- | ----------------------------- | ------------ | ---------------------------------------- | ------------------------------------------------------ |
-| 1.0.2311.2004 | Wed, 17 Jan 2024 00:56:38 GMT | x64          | MsMMRHostInstaller_1.0.2311.2004_x64.msi | [https://aka.ms/avdmmr/msi](https://aka.ms/avdmmr/msi) |
+| 1.0.2404.4003 | Thu, 18 Jul 2024 21:58:21 GMT | x64          | MsMMRHostInstaller_1.0.2404.4003_x64.msi | [https://aka.ms/avdmmr/msi](https://aka.ms/avdmmr/msi) |
