@@ -1,6 +1,6 @@
 [
   {
-    "Version": "128.0.6613.0",
+    "Version": "128.0.6613.5",
     "Channel": "Canary",
     "StartDate": "23/7/2024",
     "Architecture": "x86",
@@ -24,6 +24,30 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
+    "Version": "127.0.6533.73",
+    "Channel": "Stable",
+    "StartDate": "23/7/2024",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+  },
+  {
+    "Version": "127.0.6533.73",
+    "Channel": "Stable",
+    "StartDate": "23/7/2024",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "127.0.6533.73",
+    "Channel": "Stable",
+    "StartDate": "23/7/2024",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
+  },
+  {
     "Version": "127.0.6533.57",
     "Channel": "Beta",
     "StartDate": "17/7/2024",
@@ -33,35 +57,11 @@
   },
   {
     "Version": "127.0.6533.57",
-    "Channel": "Stable",
-    "StartDate": "17/7/2024",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "127.0.6533.57",
     "Channel": "Beta",
     "StartDate": "17/7/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "127.0.6533.57",
-    "Channel": "Stable",
-    "StartDate": "17/7/2024",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "127.0.6533.57",
-    "Channel": "Stable",
-    "StartDate": "17/7/2024",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
     "Version": "126.0.6478.183",
