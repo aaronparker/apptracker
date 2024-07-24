@@ -12,7 +12,10 @@ last_modified_date: Jul 10 2024 at 12:32 AM
 
 Evergreen app: `1Password`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version | Type | URI                                                                                                                                    |
 | ------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
