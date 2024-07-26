@@ -24,15 +24,15 @@
     "URI": "https://download.virtualbox.org/virtualbox/7.0.20/VBoxGuestAdditions_7.0.20.iso"
   },
   {
-    "Version": "7.0.0_BETA3",
+    "Version": "7.1.0_BETA1",
     "Channel": "BETA",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/7.0.0_BETA3/VirtualBox-7.0.0_BETA3-153829-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/7.1.0_BETA1/VirtualBox-7.1.0_BETA1-164171-Win.exe"
   },
   {
-    "Version": "7.0.0_BETA3",
+    "Version": "7.1.0_BETA1",
     "Channel": "BETA",
     "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/7.0.0_BETA3/VBoxGuestAdditions_7.0.0_BETA3.iso"
+    "URI": "https://download.virtualbox.org/virtualbox/7.1.0_BETA1/VBoxGuestAdditions_7.1.0_BETA1.iso"
   }
 ]
