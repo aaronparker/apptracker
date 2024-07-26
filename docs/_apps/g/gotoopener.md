@@ -3,7 +3,7 @@ title: GoTo Opener
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: May 11 2024 at 12:15 PM
+last_modified_date: Jul 26 2024 at 12:16 PM
 ---
 
 ## GoTo Opener
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date                | URI                                                                                                                                          |
 | ------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 562     | 04/06/2022 15:55:42 | [https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi](https://launch.getgo.com/builds/launcher/562/GoToOpenerMultiUser.msi) |
+| 568     | 07/23/2024 13:48:32 | [https://launch.getgo.com/builds/launcher/568/GoToOpenerMultiUser.msi](https://launch.getgo.com/builds/launcher/568/GoToOpenerMultiUser.msi) |
