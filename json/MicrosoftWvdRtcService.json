@@ -1,9 +1,9 @@
 [
   {
-    "Version": "1.50.2402.29001",
-    "Date": "Fri, 22 Mar 2024 18:27:29 GMT",
+    "Version": "1.54.2407.26001",
+    "Date": "Fri, 26 Jul 2024 20:06:32 GMT",
     "Architecture": "x64",
-    "Filename": "MsRdcWebRTCSvc_HostSetup_1.50.2402.29001_x64.msi",
+    "Filename": "MsRdcWebRTCSvc_HostSetup_1.54.2407.26001_x64.msi",
     "URI": "https://aka.ms/msrdcwebrtcsvc/msi"
   }
 ]
