@@ -3,7 +3,7 @@ title: Microsoft Remote Desktop WebRTC Redirector Service
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: May 31 2024 at 12:36 AM
+last_modified_date: Jul 27 2024 at 12:31 AM
 ---
 
 ## Microsoft Remote Desktop WebRTC Redirector Service
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version         | Date                          | Architecture | Filename                                         | URI                                                                    |
 | --------------- | ----------------------------- | ------------ | ------------------------------------------------ | ---------------------------------------------------------------------- |
-| 1.50.2402.29001 | Fri, 22 Mar 2024 18:27:29 GMT | x64          | MsRdcWebRTCSvc_HostSetup_1.50.2402.29001_x64.msi | [https://aka.ms/msrdcwebrtcsvc/msi](https://aka.ms/msrdcwebrtcsvc/msi) |
+| 1.54.2407.26001 | Fri, 26 Jul 2024 20:06:32 GMT | x64          | MsRdcWebRTCSvc_HostSetup_1.54.2407.26001_x64.msi | [https://aka.ms/msrdcwebrtcsvc/msi](https://aka.ms/msrdcwebrtcsvc/msi) |

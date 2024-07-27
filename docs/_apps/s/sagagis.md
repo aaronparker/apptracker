@@ -3,7 +3,7 @@ title: SAGA-GIS
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jul 26 2024 at 12:16 PM
+last_modified_date: Jul 27 2024 at 12:31 AM
 ---
 
 ## SAGA-GIS
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                            |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.5.1   | x64          | exe  | 61803467 | e93dba8c6838b44c964765adaae90930 | [https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe](https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe) |
+| 9.5.1   | x64          | exe  | 61803467 | e93dba8c6838b44c964765adaae90930 | [https://pilotfiber.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe](https://pilotfiber.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe) |

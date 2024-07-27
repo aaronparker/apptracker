@@ -3,7 +3,7 @@ title: Omnissa Horizon Client
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Jul 4 2024 at 12:30 AM
+last_modified_date: Jul 27 2024 at 12:31 AM
 ---
 
 ## Omnissa Horizon Client
@@ -12,11 +12,8 @@ last_modified_date: Jul 4 2024 at 12:30 AM
 
 Evergreen app: `OmnissaHorizonClient`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 400 (Bad Request).
-```
+Last check: 🟢
 
-| Version | Date       | Sha256                                                           | Type | URI                                                                                                                                                                                                                          |
-| ------- | ---------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2312.1  | 2024-04-04 | 8d57d194843265d3a31ee9b8505cdc283fa06571209ef753d268304e7bb4c7e5 | exe  | [https://download3.omnissa.com/software/CART25FQ1_WIN_2312.1/VMware-Horizon-Client-2312.1-8.12.1-23531249.exe](https://download3.omnissa.com/software/CART25FQ1_WIN_2312.1/VMware-Horizon-Client-2312.1-8.12.1-23531249.exe) |
+| Version | Date       | Sha256                                                           | Type | URI                                                                                                                                                                                                                      |
+| ------- | ---------- | ---------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2406    | 2024-07-25 | 44d82d046c321c5921dd7013b3a9a6d4eb55fdb84b477bdc80bd7b3a03824807 | exe  | [https://download3.omnissa.com/software/CART25FQ2_WIN_2406/VMware-Horizon-Client-2406-8.13.0-9986028157.exe](https://download3.omnissa.com/software/CART25FQ2_WIN_2406/VMware-Horizon-Client-2406-8.13.0-9986028157.exe) |
