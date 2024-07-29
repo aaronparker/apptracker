@@ -12,7 +12,10 @@ last_modified_date: Jun 19 2024 at 12:15 PM
 
 Evergreen app: `AdobeAcrobatReaderDC`. Found **30** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 400 (Bad Request).
+```
 
 | Version      | Language              | Architecture | Name                                            | URI                                                                                                                                                                                                                |
 | ------------ | --------------------- | ------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
