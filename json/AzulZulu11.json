@@ -1,32 +1,32 @@
 [
   {
-    "Version": "jdk-11.0.23+9",
-    "ImageType": "jdk",
+    "Version": "11.0.23+9",
     "Date": "2024-04-16T10:35:00Z",
+    "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-win_x64.msi"
   },
   {
-    "Version": "jdk-11.0.23+9",
-    "ImageType": "jre",
+    "Version": "11.0.23+9",
     "Date": "2024-04-16T10:35:00Z",
+    "ImageType": "jre",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-win_x64.msi"
   },
   {
-    "Version": "jdk-11.0.23+9",
-    "ImageType": "jdk",
+    "Version": "11.0.23+9",
     "Date": "2024-04-16T10:35:00Z",
+    "ImageType": "jdk",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-win_i686.msi"
   },
   {
-    "Version": "jdk-11.0.23+9",
-    "ImageType": "jre",
+    "Version": "11.0.23+9",
     "Date": "2024-04-16T10:35:00Z",
+    "ImageType": "jre",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-win_i686.msi"

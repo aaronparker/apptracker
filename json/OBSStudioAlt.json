@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "30.2.2",
+    "Date": "23/7/2024",
+    "Size": 139815840,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/30.2.2/OBS-Studio-30.2.2-Windows-Installer.exe"
+  },
+  {
+    "Version": "30.2.2",
+    "Date": "23/7/2024",
+    "Size": 51686890,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/30.2.2/OBS-Studio-30.2.2-Windows-PDBs.zip"
+  },
+  {
+    "Version": "30.2.2",
+    "Date": "23/7/2024",
+    "Size": 158512570,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/30.2.2/OBS-Studio-30.2.2-Windows.zip"
+  }
+]

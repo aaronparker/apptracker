@@ -1,16 +1,16 @@
 [
   {
     "Version": "11.0.24+8",
-    "ImageType": "jdk",
     "Date": "2024-07-18T13:12:01Z",
+    "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/July_2024/java-11-openjdk-11.0.24.0.8-1.windows.redhat.x86_64.msi"
   },
   {
     "Version": "11.0.24+8",
-    "ImageType": "jre",
     "Date": "2024-07-18T13:12:01Z",
+    "ImageType": "jre",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/July_2024/java-11-openjdk-jre-11.0.24.0.8-1.windows.redhat.x86_64.msi"

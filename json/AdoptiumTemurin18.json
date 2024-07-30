@@ -1,8 +1,8 @@
 [
   {
     "Version": "18.0.2.1+1",
-    "ImageType": "jdk",
     "Date": "2022-08-26T15:51:46Z",
+    "ImageType": "jdk",
     "Checksum": "e766c2d6100e70786ff0bb154054dd64bb45ea14ffc995544bbced98eb1c8703",
     "Size": 169668608,
     "Architecture": "x64",
@@ -11,8 +11,8 @@
   },
   {
     "Version": "18.0.2.1+1",
-    "ImageType": "jre",
     "Date": "2022-08-26T15:52:28Z",
+    "ImageType": "jre",
     "Checksum": "1e726c0ea2a8b25c2c75a8174df173dd54c98caa0235ef49d84a03292f152bfc",
     "Size": 32096256,
     "Architecture": "x64",
@@ -21,8 +21,8 @@
   },
   {
     "Version": "18.0.2.1+1",
-    "ImageType": "jdk",
     "Date": "2022-08-26T15:52:12Z",
+    "ImageType": "jdk",
     "Checksum": "42c8472b2806210ac021212ec6c2115476a0a0444d5910b35d077e854f1aed13",
     "Size": 166297600,
     "Architecture": "x86",
@@ -31,8 +31,8 @@
   },
   {
     "Version": "18.0.2.1+1",
-    "ImageType": "jre",
     "Date": "2022-08-26T15:52:36Z",
+    "ImageType": "jre",
     "Checksum": "dfdd3b64d2d5ea56a9ba93c044b84e11e8a4a6d4b42f5dceb6ac904557e9df0e",
     "Size": 29788672,
     "Architecture": "x86",

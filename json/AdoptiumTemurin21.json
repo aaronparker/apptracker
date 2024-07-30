@@ -1,8 +1,8 @@
 [
   {
     "Version": "21.0.4+7-LTS",
-    "ImageType": "jdk",
     "Date": "2024-07-19T12:17:01Z",
+    "ImageType": "jdk",
     "Checksum": "5eadbdeabdca1a7abf6416a6b35bf7afd86e7edade7b5d44059fbcecacaef372",
     "Size": 178606080,
     "Architecture": "x64",
@@ -11,8 +11,8 @@
   },
   {
     "Version": "21.0.4+7-LTS",
-    "ImageType": "jre",
     "Date": "2024-07-19T12:17:10Z",
+    "ImageType": "jre",
     "Checksum": "cf5b9440680994f1571eb1b83fe017eafbec9e6e8a9cd033b3c099e967c1a553",
     "Size": 34836480,
     "Architecture": "x64",

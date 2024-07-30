@@ -1,16 +1,16 @@
 [
   {
     "Version": "11.0.23+9",
-    "ImageType": "jdk",
     "Date": "2024-05-14T09:00:00Z",
+    "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/64401a75-a7fa-4d2b-8a59-4323c6ed97f5/0df31a058e338a1b365befb98fbefb73/microsoft-jdk-11.0.23-windows-aarch64.msi"
   },
   {
     "Version": "11.0.23+9",
-    "ImageType": "jdk",
     "Date": "2024-05-14T09:00:00Z",
+    "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/36e84f7f-e4ab-4788-b32b-64dc0a04b7c8/6b0cfb1a41c627f722f38549a1a47262/microsoft-jdk-11.0.23-windows-x64.msi"
