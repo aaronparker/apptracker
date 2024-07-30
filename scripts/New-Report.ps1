@@ -127,7 +127,7 @@ This site tracks latest application versions via the [Evergreen](https://stealth
 App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **$((Find-EvergreenApp).Count)** applications and **$UniqueAppsCount** unique application installers.
 
 {: .highlight }
-> **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
+> **Note:** The status of the application is based on the last update run. Validate the status of an application by running ``Get-EvergreenApp`` locally.
 "@
 
 # Create a table for supported applications with a last update status
