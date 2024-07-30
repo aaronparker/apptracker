@@ -3,7 +3,7 @@ title: Adobe Acrobat Reader DC
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jun 19 2024 at 12:15 PM
+last_modified_date: Jul 30 2024 at 12:41 AM
 ---
 
 ## Adobe Acrobat Reader DC
@@ -12,21 +12,18 @@ last_modified_date: Jun 19 2024 at 12:15 PM
 
 Evergreen app: `AdobeAcrobatReaderDC`. Found **30** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 400 (Bad Request).
-```
+Last check: 🟢
 
 | Version      | Language              | Architecture | Name                                            | URI                                                                                                                                                                                                                |
 | ------------ | --------------------- | ------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 24.002.20857 | MUI                   | x64          | Reader 2024.002.20857 MUI for Windows-64bit     | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220857/AcroRdrDCx642400220857_MUI.exe](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220857/AcroRdrDCx642400220857_MUI.exe) |
-| 24.002.20857 | English               | x86          | Reader 2024.002.20857 English for Windows       | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_en_US.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_en_US.exe)     |
-| 24.002.20857 | English (UK)          | x86          | Reader 2024.002.20857 English UK for Windows    | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_en_US.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_en_US.exe)     |
-| 24.002.20857 | French                | x86          | Reader 2024.002.20857 French for Windows        | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_fr_FR.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_fr_FR.exe)     |
-| 24.002.20857 | German                | x86          | Reader 2024.002.20857 German for Windows        | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_de_DE.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_de_DE.exe)     |
-| 24.002.20857 | Japanese              | x86          | Reader 2024.002.20857 Japanese for Windows      | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_ja_JP.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_ja_JP.exe)     |
-| 24.002.20857 | MUI                   | x86          | Reader 2024.002.20857 MUI for Windows-32bit     | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_MUI.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_MUI.exe)         |
-| 24.002.20857 | Spanish               | x86          | Reader 2024.002.20857 Spanish for Windows       | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_es_ES.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220857/AcroRdrDC2400220857_es_ES.exe)     |
+| 24.002.20965 | MUI                   | x64          | Reader 2024.002.20965 MUI for Windows-64bit     | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220965/AcroRdrDCx642400220965_MUI.exe](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400220965/AcroRdrDCx642400220965_MUI.exe) |
+| 24.002.20965 | English               | x86          | Reader 2024.002.20965 English for Windows       | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_en_US.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_en_US.exe)     |
+| 24.002.20965 | English (UK)          | x86          | Reader 2024.002.20965 English UK for Windows    | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_en_US.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_en_US.exe)     |
+| 24.002.20965 | French                | x86          | Reader 2024.002.20965 French for Windows        | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_fr_FR.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_fr_FR.exe)     |
+| 24.002.20965 | German                | x86          | Reader 2024.002.20965 German for Windows        | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_de_DE.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_de_DE.exe)     |
+| 24.002.20965 | Japanese              | x86          | Reader 2024.002.20965 Japanese for Windows      | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_ja_JP.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_ja_JP.exe)     |
+| 24.002.20965 | MUI                   | x86          | Reader 2024.002.20965 MUI for Windows-32bit     | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_MUI.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_MUI.exe)         |
+| 24.002.20965 | Spanish               | x86          | Reader 2024.002.20965 Spanish for Windows       | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_es_ES.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220965/AcroRdrDC2400220965_es_ES.exe)     |
 | 24.002.20759 | Basque                | x86          | Reader 2024.002.20759 Basque for Windows        | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_eu_ES.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_eu_ES.exe)     |
 | 24.002.20759 | Catalan               | x86          | Reader 2024.002.20759 Catalan for Windows       | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ca_ES.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_ca_ES.exe)     |
 | 24.002.20759 | Chinese (Simplified)  | x86          | Reader 2024.002.20759 Chinese Simp for  Windows | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_zh_CN.exe](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400220759/AcroRdrDC2400220759_zh_CN.exe)     |

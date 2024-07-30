@@ -8,35 +8,35 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .highlight }
-> Updates are posted every 12 hours. Last generated: `Monday 29/07/2024 12:20 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 30/07/2024 00:45 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **345** applications and **5404** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **346** applications and **5413** unique application installers.
 
 | Application                                                       | LastUpdate  | Status | Details                                                                                   |
 |:----------------------------------------------------------------- |:----------- |:------ |:----------------------------------------------------------------------------------------- |
 | 1Password                                                         | `10/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/1/1password/)                             |
 | 1Password 7                                                       | `19/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/1/1password7/)                            |
 | 1Password CLI                                                     | `22/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/1/1passwordcli/)                          |
-| 7zip                                                              | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/7/7zip/)                                  |
+| 7zip                                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/7/7zip/)                                  |
 | 7-Zip ZS                                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/7/7zipzs/)                                |
 | Adobe Acrobat updates                                             | `25/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeacrobat/)                          |
 | Adobe Acrobat DC updates                                          | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatdc/)                        |
-| Adobe Acrobat DC Pro and Standard                                 | `19/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                  |
-| Adobe Acrobat Reader DC                                           | `19/6/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatreaderdc/)                  |
+| Adobe Acrobat DC Pro and Standard                                 | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                  |
+| Adobe Acrobat Reader DC                                           | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatreaderdc/)                  |
 | Adobe Brackets                                                    | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobebrackets/)                         |
 | Adobe Connect meeting application                                 | `7/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobeconnect/)                          |
 | Adobe Digital Editions                                            | `2/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adobedigitaleditions/)                  |
-| Adoptium Temurin 11                                               | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin11/)                     |
-| Adoptium Temurin 16                                               | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin16/)                     |
-| Adoptium Temurin 17                                               | `23/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin17/)                     |
-| Adoptium Temurin 18                                               | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin18/)                     |
-| Adoptium Temurin 19                                               | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin19/)                     |
-| Adoptium Temurin 20                                               | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin20/)                     |
-| Adoptium Temurin 21                                               | `20/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin21/)                     |
-| Adoptium Temurin 22                                               | `20/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin22/)                     |
-| Adoptium Temurin 8                                                | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin8/)                      |
+| Adoptium Temurin 11                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin11/)                     |
+| Adoptium Temurin 16                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin16/)                     |
+| Adoptium Temurin 17                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin17/)                     |
+| Adoptium Temurin 18                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin18/)                     |
+| Adoptium Temurin 19                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin19/)                     |
+| Adoptium Temurin 20                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin20/)                     |
+| Adoptium Temurin 21                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin21/)                     |
+| Adoptium Temurin 22                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin22/)                     |
+| Adoptium Temurin 8                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin8/)                      |
 | Airtame App                                                       | `23/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/airtameapp/)                            |
 | Akeo Rufus                                                        | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/akeorufus/)                             |
 | Akeo Rufus (alternate method)                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/akeorufusalt/)                          |
@@ -56,12 +56,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Audacity                                                          | `22/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/audacity/)                              |
 | Windows Auto Dark Mode                                            | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/autodarkmode/)                          |
 | Autodesk Fusion 360                                               | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/autodeskfusion360/)                     |
-| AWS CLI                                                           | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/awscli/)                                |
+| AWS CLI                                                           | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/awscli/)                                |
 | AWS SAM CLI                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/awssamcli/)                             |
-| Azul Zulu 11                                                      | `4/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu11/)                            |
-| Azul Zulu 17                                                      | `8/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu17/)                            |
-| Azul Zulu 21                                                      | `22/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu21/)                            |
-| Azul Zulu 8                                                       | `4/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu8/)                             |
+| Azul Zulu 11                                                      | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu11/)                            |
+| Azul Zulu 17                                                      | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu17/)                            |
+| Azul Zulu 21                                                      | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu21/)                            |
+| Azul Zulu 8                                                       | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu8/)                             |
 | Beekeeper Studio                                                  | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/beekeeperstudio/)                       |
 | BellSoft Liberica JDK 11 LTS                                      | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk11/)                 |
 | BellSoft Liberica JDK 17 LTS                                      | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk17/)                 |
@@ -124,16 +124,16 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GeoGebra Classic                                                  | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/geogebraclassic/)                       |
 | Gephi                                                             | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gephi/)                                 |
 | Ghisler TotalCommander                                            | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/ghislertotalcommander/)                 |
-| GIMP                                                              | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                  |
+| GIMP                                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                  |
 | Git Extensions                                                    | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gitextensions/)                         |
-| Git for Windows                                                   | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gitforwindows/)                         |
+| Git for Windows                                                   | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gitforwindows/)                         |
 | GitHub Atom                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/githubatom/)                            |
 | GitHub Desktop                                                    | `27/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/githubdesktop/)                         |
 | GitHub release                                                    | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/githubrelease/)                         |
-| Google Chrome Enterprise                                          | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                          |
-| Google Chrome Driver                                              | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                    |
-| Google Chrome for Testing                                         | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                |
-| Google Chrome Headless Shell                                      | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)             |
+| Google Chrome Enterprise                                          | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                          |
+| Google Chrome Driver                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                    |
+| Google Chrome for Testing                                         | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                |
+| Google Chrome Headless Shell                                      | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)             |
 | Google Drive                                                      | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googledrive/)                           |
 | GoTo Connect                                                      | `20/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gotoconnect/)                           |
 | GoTo Meeting                                                      | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gotomeeting/)                           |
@@ -141,7 +141,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gpg4win/)                               |
 | Grafana Agent                                                     | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                          |
 | Greenshot                                                         | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                             |
-| gretl                                                             | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                 |
+| gretl                                                             | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                 |
 | gsudo                                                             | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gsudo/)                                 |
 | Handbrake                                                         | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/h/handbrake/)                             |
 | Hashicorp Boundary                                                | `19/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/h/hashicorpboundary/)                     |
@@ -177,7 +177,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | jq                                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
 | jrsoftware InnoSetup                                              | `28/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
-| KDiff3                                                            | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
+| KDiff3                                                            | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
 | KeePass Password Safe                                             | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
 | KeePassXC Team KeePassXC                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepassxcteamkeepassxc/)                |
 | KeeWeb                                                            | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keeweb/)                                |
@@ -209,24 +209,24 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft ODBC Driver for SQL Server 17.x                         | `22/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftodbcdriverforsqlserver17/)     |
 | Microsoft OLE DB Driver for SQL Server (latest)                   | `9/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver/)      |
 | Microsoft OLE DB Driver for SQL Server 18                         | `9/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver18/)    |
-| Microsoft OneDrive                                                | `27/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftonedrive/)                     |
-| Microsoft OpenJDK 11                                              | `18/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk11/)                    |
-| Microsoft OpenJDK 17                                              | `18/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                    |
-| Microsoft OpenJDK 21                                              | `22/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                    |
-| Microsoft PowerShell                                              | `25/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
+| Microsoft OneDrive                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftonedrive/)                     |
+| Microsoft OpenJDK 11                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk11/)                    |
+| Microsoft OpenJDK 17                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                    |
+| Microsoft OpenJDK 21                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                    |
+| Microsoft PowerShell                                              | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
 | Microsoft PowerToys                                               | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftpowertoys/)                    |
 | Microsoft SQL Server Management Studio                            | `10/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftssms/)                         |
 | Microsoft Teams (new)                                             | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftteams/)                        |
 | Microsoft Teams (classic)                                         | `27/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftteamsclassic/)                 |
-| Microsoft Terminal                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
+| Microsoft Terminal                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
 | Microsoft Visual Studio                                           | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                 |
-| Microsoft Visual Studio Code                                      | `27/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
+| Microsoft Visual Studio Code                                      | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
 | Microsoft Windows Package Manager Client                          | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/)  |
 | Microsoft WSL                                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | `14/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdbootloader/)                |
 | Microsoft Azure Virtual Desktop Agent                             | `13/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdinfraagent/)                |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `23/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `23/7/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)     |
 | Microsoft Remote Desktop                                          | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdremotedesktop/)             |
 | Microsoft Remote Desktop WebRTC Redirector Service                | `27/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdrtcservice/)                |
 | Miniconda                                                         | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/miniconda/)                             |
@@ -250,6 +250,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Npcap                                                             | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/n/npcap/)                                 |
 | Obsidian                                                          | `19/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/obsidian/)                              |
 | OBS Studio                                                        | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                             |
+| OBS Studio Alt                                                    | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                          |
 | OCS Inventory Windows Agent                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)              |
 | Octopus Deploy Server                                             | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
 | Octopus Tentacle                                                  | `22/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                       |
@@ -258,7 +259,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openlens/)                              |
 | Open-Shell-Menu                                                   | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
 | OpenWebStart                                                      | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
-| Opera Browser                                                     | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
+| Opera Browser                                                     | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
 | Opera GX Browser                                                  | `25/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `17/7/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
@@ -281,11 +282,11 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Podman                                                            | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/podman/)                                |
 | Podman Desktop                                                    | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/podmandesktop/)                         |
 | Postman                                                           | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
-| Praat                                                             | `23/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/praat/)                                 |
+| Praat                                                             | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/praat/)                                 |
 | Progress Chef Infra Client                                        | `10/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)               |
 | Progress Chef InSpec                                              | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                    |
 | Progress Chef Workstation                                         | `22/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/progresschefworkstation/)               |
-| ProjectLibre                                                      | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/projectlibre/)                          |
+| ProjectLibre                                                      | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/projectlibre/)                          |
 | Protege                                                           | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/protege/)                               |
 | Proton Drive                                                      | `12/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/protondrive/)                           |
 | Proton VPN                                                        | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/protonvpn/)                             |
@@ -296,17 +297,17 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | QGIS                                                              | `28/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/q/qgis/)                                  |
 | R Core Team R for Windows                                         | `15/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/rcoreteamrforwindows/)                  |
 | Remote Desktop Analyzer                                           | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/rdanalyzer/)                            |
-| Red Hat OpenJDK 11                                                | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk11/)                       |
-| Red Hat OpenJDK 17                                                | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
-| Red Hat OpenJDK 21                                                | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk21/)                       |
-| Red Hat OpenJDK 8                                                 | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk8/)                        |
+| Red Hat OpenJDK 11                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk11/)                       |
+| Red Hat OpenJDK 17                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
+| Red Hat OpenJDK 21                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk21/)                       |
+| Red Hat OpenJDK 8                                                 | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk8/)                        |
 | Responsively App                                                  | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/responsivelyapp/)                       |
 | RingCentral                                                       | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/ringcentral/)                           |
 | Rizonesoft Notepad3                                               | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/rizonesoftnotepad3/)                    |
 | RStudio Desktop                                                   | `11/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/r/rstudio/)                               |
 | Safe Exam Browser                                                 | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/safeexambrowser/)                       |
 | Safing Portmaster                                                 | `6/6/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/safingportmaster/)                      |
-| SAGA-GIS                                                          | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/sagagis/)                               |
+| SAGA-GIS                                                          | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/sagagis/)                               |
 | Scooter Beyond Compare                                            | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/scooterbeyondcompare/)                  |
 | Scratch                                                           | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/scratch/)                               |
 | ScreenToGif                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/screentogif/)                           |
@@ -340,9 +341,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Unity Editor                                                      | `24/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/u/unityeditor/)                           |
 | USBPcap                                                           | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/u/usbpcap/)                               |
 | vast limits uberAgent                                             | `12/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vastlimitsuberagent/)                   |
-| VeraCrypt                                                         | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/veracrypt/)                             |
+| VeraCrypt                                                         | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/veracrypt/)                             |
 | Vercel Hyper                                                      | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vercelhyper/)                           |
-| VideoLan VLC Player                                               | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                     |
+| VideoLan VLC Player                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                     |
 | VisualCppRedistAIO                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/visualcppredistaio/)                    |
 | VMPlex Workstation                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vmplexworkstation/)                     |
 | VMware Horizon Client (alternate method)                          | `27/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vmwarehorizonclientalt/)                |
@@ -351,7 +352,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VSCodium                                                          | `12/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vscodium/)                              |
 | Win32-OpenSSH                                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/win32openssh/)                          |
 | WinMerge                                                          | `28/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/winmerge/)                              |
-| WinSCP                                                            | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/winscp/)                                |
+| WinSCP                                                            | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/winscp/)                                |
 | Wireshark                                                         | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/wireshark/)                             |
 | WiX Toolset                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/wixtoolset/)                            |
 | XnSoft Convert                                                    | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/x/xnsoftxnconvert/)                       |
