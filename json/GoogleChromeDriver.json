@@ -32,20 +32,20 @@
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/129.0.6614.3/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "127.0.6533.72",
+    "Version": "127.0.6533.88",
     "Revision": "1313161",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.72/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "127.0.6533.72",
+    "Version": "127.0.6533.88",
     "Revision": "1313161",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.72/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chromedriver-win32.zip"
   },
   {
     "Version": "127.0.6533.57",
