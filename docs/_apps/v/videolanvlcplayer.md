@@ -3,7 +3,7 @@ title: VideoLan VLC Player
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Jul 30 2024 at 12:17 PM
+last_modified_date: Jul 31 2024 at 12:16 PM
 ---
 
 ## VideoLan VLC Player 
@@ -12,16 +12,13 @@ last_modified_date: Jul 30 2024 at 12:17 PM
 
 Evergreen app: `VideoLanVlcPlayer`. Found **6** installers.
 
-Last check: 🔴
-```
-Cannot process argument transformation on parameter 'String'. Cannot convert value to type System.String.
-```
+Last check: 🟢
 
-| Version | Architecture | Type | URI                                                                                                                                                                        |
-| ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0.20  | x64          | exe  | [https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.exe](https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.exe)                     |
-| 3.0.20  | x86          | exe  | [https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe](https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe) |
-| 3.0.20  | x64          | msi  | [https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi](https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi)                     |
-| 3.0.20  | x86          | msi  | [https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi](https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi) |
-| 3.0.20  | x64          | zip  | [https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.zip](https://ftp.osuosl.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.zip)                     |
-| 3.0.20  | x86          | zip  | [https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip](https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip) |
+| Version | Architecture | Type | URI                                                                                                                                                                            |
+| ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3.0.20  | x64          | exe  | [https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe](https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe) |
+| 3.0.20  | x86          | exe  | [https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe](https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe)     |
+| 3.0.20  | x64          | msi  | [https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi](https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi) |
+| 3.0.20  | x86          | msi  | [https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi](https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.msi)     |
+| 3.0.20  | x64          | zip  | [https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip](https://veronanetworks.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip) |
+| 3.0.20  | x86          | zip  | [https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip](https://mirrors.ocf.berkeley.edu/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.zip)     |
