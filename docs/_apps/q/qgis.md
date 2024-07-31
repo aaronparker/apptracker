@@ -12,7 +12,10 @@ last_modified_date: Jun 28 2024 at 12:37 AM
 
 Evergreen app: `QGIS`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version  | Channel | Date       | URI                                                                                                                                    |
 | -------- | ------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
