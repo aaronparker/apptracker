@@ -3,7 +3,7 @@ title: SUSE Rancher Desktop
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Aug 1 2024 at 12:46 AM
 ---
 
 ## SUSE Rancher Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.14.2  | 14/6/2024 | 661303296 | x86          | Default       | msi  | [https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.14.2/Rancher.Desktop.Setup.1.14.2.msi](https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.14.2/Rancher.Desktop.Setup.1.14.2.msi) |
+| 1.15.0  | 31/7/2024 | 626741248 | x86          | Default       | msi  | [https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.15.0/Rancher.Desktop.Setup.1.15.0.msi](https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.15.0/Rancher.Desktop.Setup.1.15.0.msi) |

@@ -3,7 +3,7 @@ title: GitHub Desktop
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Jun 27 2024 at 12:21 PM
+last_modified_date: Aug 1 2024 at 12:46 AM
 ---
 
 ## GitHub Desktop
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                                                    |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.4.2   | ARM64        | exe  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-arm64.exe](https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-arm64.exe) |
-| 3.4.2   | x64          | exe  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-x64.exe](https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-x64.exe)     |
-| 3.4.2   | ARM64        | msi  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-arm64.msi](https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-arm64.msi) |
-| 3.4.2   | x64          | msi  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-x64.msi](https://desktop.githubusercontent.com/github-desktop/releases/3.4.2-27793d93/GitHubDesktopSetup-x64.msi)     |
+| 3.4.3   | ARM64        | exe  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-arm64.exe](https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-arm64.exe) |
+| 3.4.3   | x64          | exe  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-x64.exe](https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-x64.exe)     |
+| 3.4.3   | ARM64        | msi  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-arm64.msi](https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-arm64.msi) |
+| 3.4.3   | x64          | msi  | [https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-x64.msi](https://desktop.githubusercontent.com/github-desktop/releases/3.4.3-2170ce9b/GitHubDesktopSetup-x64.msi)     |
