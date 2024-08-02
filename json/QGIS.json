@@ -1,14 +1,14 @@
 [
   {
-    "Version": "3.38.0-1",
+    "Version": "3.38-1",
     "Channel": "latest",
-    "Date": "2024-06-21",
-    "URI": "https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.38.0-1.msi"
+    "Date": "2024-07-19",
+    "URI": "https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.38-1.msi"
   },
   {
-    "Version": "3.34.8-1",
+    "Version": "<no value>-1",
     "Channel": "ltr",
-    "Date": "2024-06-21",
-    "URI": "https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.34.8-1.msi"
+    "Date": "<no value>",
+    "URI": "https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-<no value>-1.msi"
   }
 ]
