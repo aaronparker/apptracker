@@ -3,7 +3,7 @@ title: QGIS
 layout: default
 nav_order: 2
 parent: Q
-last_modified_date: Jun 28 2024 at 12:37 AM
+last_modified_date: Aug 2 2024 at 12:39 AM
 ---
 
 ## QGIS
@@ -12,12 +12,9 @@ last_modified_date: Jun 28 2024 at 12:37 AM
 
 Evergreen app: `QGIS`. Found **2** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
-| Version  | Channel | Date       | URI                                                                                                                                    |
-| -------- | ------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.38.0-1 | latest  | 2024-06-21 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.38.0-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.38.0-1.msi) |
-| 3.34.8-1 | ltr     | 2024-06-21 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.34.8-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.34.8-1.msi) |
+| Version      | Channel | Date       | URI                                                                                                                                            |
+| ------------ | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.38-1       | latest  | 2024-07-19 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.38-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.38-1.msi)             |
+| <no value>-1 | ltr     | <no value> | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-<no value>-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-<no value>-1.msi) |
