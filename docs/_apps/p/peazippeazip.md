@@ -3,7 +3,7 @@ title: PeaZip PeaZip
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Aug 3 2024 at 12:22 PM
 ---
 
 ## PeaZip PeaZip
@@ -14,7 +14,7 @@ Evergreen app: `PeaZipPeaZip`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
-| ------- | --------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.8.0   | 11/5/2024 | 9582668 | x64          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/9.8.0/peazip-9.8.0.WIN64.exe](https://github.com/peazip/PeaZip/releases/download/9.8.0/peazip-9.8.0.WIN64.exe)     |
-| 9.8.0   | 11/5/2024 | 8794990 | x86          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/9.8.0/peazip-9.8.0.WINDOWS.exe](https://github.com/peazip/PeaZip/releases/download/9.8.0/peazip-9.8.0.WINDOWS.exe) |
+| Version | Date       | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
+| ------- | ---------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9.9.0   | 15/11/2022 | 9763852 | x64          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/9.9.0/peazip-9.9.0.WIN64.exe](https://github.com/peazip/PeaZip/releases/download/9.9.0/peazip-9.9.0.WIN64.exe)     |
+| 9.9.0   | 15/11/2022 | 8860787 | x86          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/9.9.0/peazip-9.9.0.WINDOWS.exe](https://github.com/peazip/PeaZip/releases/download/9.9.0/peazip-9.9.0.WINDOWS.exe) |
