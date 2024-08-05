@@ -3,7 +3,7 @@ title: ControlUp Remote DX Plugins
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Jun 18 2024 at 12:32 AM
+last_modified_date: Aug 5 2024 at 12:22 PM
 ---
 
 ## ControlUp Remote DX Plugins
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Plugin                          | Architecture | URI                                                                                                                                                                  |
 | ---------- | ------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.0.0.1680 | Citrix Workspace App - Windows  | x86          | [https://downloads.controlup.com/RemoteDX/citrix/windows/curdx_windows_citrix.exe](https://downloads.controlup.com/RemoteDX/citrix/windows/curdx_windows_citrix.exe) |
-| 9.0.0.1680 | VMware Horizon Client - Windows | x86          | [https://downloads.controlup.com/RemoteDX/vmware/windows/curdx_windows_vmware.exe](https://downloads.controlup.com/RemoteDX/vmware/windows/curdx_windows_vmware.exe) |
+| 9.0.0.1616 | Citrix Workspace App - Windows  | x86          | [https://downloads.controlup.com/RemoteDX/citrix/windows/curdx_windows_citrix.exe](https://downloads.controlup.com/RemoteDX/citrix/windows/curdx_windows_citrix.exe) |
+| 9.0.0.1616 | VMware Horizon Client - Windows | x86          | [https://downloads.controlup.com/RemoteDX/vmware/windows/curdx_windows_vmware.exe](https://downloads.controlup.com/RemoteDX/vmware/windows/curdx_windows_vmware.exe) |

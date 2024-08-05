@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .new }
-> Updates are posted every 12 hours. Last generated: `Monday 05/08/2024 00:43 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 05/08/2024 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -82,9 +82,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Clarivate EndNote                                                 | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/clarivateendnote/)                      |
 | Codelerity Apache NetBeans                                        | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/codelerityapachenetbeans/)              |
 | Connection Experience Indicator                                   | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/connectionexperienceindicator/)         |
-| ControlUp Agent                                                   | `18/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/controlupagent/)                        |
-| ControlUp Console                                                 | `18/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/controlupconsole/)                      |
-| ControlUp Remote DX Plugins                                       | `18/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/controlupremotedx/)                     |
+| ControlUp Agent                                                   | `5/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/controlupagent/)                        |
+| ControlUp Console                                                 | `5/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/controlupconsole/)                      |
+| ControlUp Remote DX Plugins                                       | `5/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/controlupremotedx/)                     |
 | iterate GmbH Cyberduck                                            | `24/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/c/cyberduck/)                             |
 | DB Browser for SQLite                                             | `23/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/dbbrowserforsqlite/)                    |
 | dbeaver                                                           | `5/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/dbeaver/)                               |
@@ -224,7 +224,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
 | Microsoft Visual Studio                                           | `26/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                 |
-| Microsoft Visual Studio Code                                      | `2/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
+| Microsoft Visual Studio Code                                      | `5/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
 | Microsoft Windows Package Manager Client                          | `11/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/)  |
 | Microsoft WSL                                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | `14/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdbootloader/)                |
@@ -262,7 +262,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openlens/)                              |
 | Open-Shell-Menu                                                   | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
 | OpenWebStart                                                      | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
-| Opera Browser                                                     | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
+| Opera Browser                                                     | `5/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
 | Opera GX Browser                                                  | `1/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `17/7/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
