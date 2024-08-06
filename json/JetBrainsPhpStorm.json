@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.1.4",
-    "Build": "241.18034.69",
+    "Version": "2024.1.5",
+    "Build": "241.18968.24",
     "Edition": "PhpStorm",
-    "Sha256": "https://download.jetbrains.com/webide/PhpStorm-2024.1.4.exe.sha256",
-    "Date": "24/6/2024",
-    "Size": 644545680,
+    "Sha256": "https://download.jetbrains.com/webide/PhpStorm-2024.1.5.exe.sha256",
+    "Date": "6/8/2024",
+    "Size": 644668872,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/webide/PhpStorm-2024.1.4.exe"
+    "URI": "https://download.jetbrains.com/webide/PhpStorm-2024.1.5.exe"
   }
 ]
