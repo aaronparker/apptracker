@@ -3,7 +3,7 @@ title: Mozilla Gecko Driver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Aug 7 2024 at 12:40 AM
 ---
 
 ## Mozilla Gecko Driver
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date     | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                          |
 | ------- | -------- | ------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.34.0  | 3/1/2024 | 1719136 | ARM64        | Default       | zip  | [https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win-aarch64.zip](https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win-aarch64.zip) |
-| 0.34.0  | 3/1/2024 | 1837855 | x64          | Default       | zip  | [https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip](https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip)             |
-| 0.34.0  | 3/1/2024 | 1763647 | x86          | Default       | zip  | [https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win32.zip](https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win32.zip)             |
+| 0.35.0  | 6/8/2024 | 1619492 | ARM64        | Default       | zip  | [https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win-aarch64.zip](https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win-aarch64.zip) |
+| 0.35.0  | 6/8/2024 | 1765367 | x64          | Default       | zip  | [https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip](https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip)             |
+| 0.35.0  | 6/8/2024 | 1695732 | x86          | Default       | zip  | [https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win32.zip](https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win32.zip)             |

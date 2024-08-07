@@ -3,7 +3,7 @@ title: Google Chrome for Testing
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Aug 6 2024 at 12:17 PM
+last_modified_date: Aug 7 2024 at 12:40 AM
 ---
 
 ## Google Chrome for Testing
@@ -22,5 +22,5 @@ Last check: 🟢
 | 129.0.6628.3  | 1335205  | Dev     | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/129.0.6628.3/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/129.0.6628.3/win32/chrome-win32.zip)   |
 | 128.0.6613.18 | 1331488  | Beta    | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.18/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.18/win64/chrome-win64.zip) |
 | 128.0.6613.18 | 1331488  | Beta    | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.18/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.18/win32/chrome-win32.zip) |
-| 127.0.6533.88 | 1313161  | Stable  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win64/chrome-win64.zip) |
-| 127.0.6533.88 | 1313161  | Stable  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/win32/chrome-win32.zip) |
+| 127.0.6533.99 | 1313161  | Stable  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win64/chrome-win64.zip) |
+| 127.0.6533.99 | 1313161  | Stable  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chrome-win32.zip) |
