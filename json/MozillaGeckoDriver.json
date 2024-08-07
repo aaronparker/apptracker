@@ -1,29 +1,29 @@
 [
   {
-    "Version": "0.34.0",
-    "Date": "3/1/2024",
-    "Size": 1719136,
+    "Version": "0.35.0",
+    "Date": "6/8/2024",
+    "Size": 1619492,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win-aarch64.zip"
+    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win-aarch64.zip"
   },
   {
-    "Version": "0.34.0",
-    "Date": "3/1/2024",
-    "Size": 1837855,
+    "Version": "0.35.0",
+    "Date": "6/8/2024",
+    "Size": 1765367,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip"
+    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip"
   },
   {
-    "Version": "0.34.0",
-    "Date": "3/1/2024",
-    "Size": 1763647,
+    "Version": "0.35.0",
+    "Date": "6/8/2024",
+    "Size": 1695732,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win32.zip"
+    "URI": "https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win32.zip"
   }
 ]
