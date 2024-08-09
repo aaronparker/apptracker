@@ -3,7 +3,7 @@ title: JetBrains RubyMine
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Aug 6 2024 at 12:17 PM
+last_modified_date: Aug 9 2024 at 12:18 PM
 ---
 
 ## JetBrains RubyMine
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Build        | Edition  | Sha256                                                           | Date     | Size      | Type | URI                                                                                                                    |
 | -------- | ------------ | -------- | ---------------------------------------------------------------- | -------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |
-| 2024.1.5 | 241.18968.11 | RubyMine | https://download.jetbrains.com/ruby/RubyMine-2024.1.5.exe.sha256 | 6/8/2024 | 623971336 | exe  | [https://download.jetbrains.com/ruby/RubyMine-2024.1.5.exe](https://download.jetbrains.com/ruby/RubyMine-2024.1.5.exe) |
+| 2024.1.6 | 241.19072.21 | RubyMine | https://download.jetbrains.com/ruby/RubyMine-2024.1.6.exe.sha256 | 9/8/2024 | 623911376 | exe  | [https://download.jetbrains.com/ruby/RubyMine-2024.1.6.exe](https://download.jetbrains.com/ruby/RubyMine-2024.1.6.exe) |

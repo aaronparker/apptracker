@@ -3,7 +3,7 @@ title: Zotero
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Apr 12 2024 at 12:30 AM
+last_modified_date: Aug 9 2024 at 12:18 PM
 ---
 
 ## Zotero
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                                    |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.0.36  | [https://download.zotero.org/client/release/6.0.36/Zotero-6.0.36_setup.exe](https://download.zotero.org/client/release/6.0.36/Zotero-6.0.36_setup.exe) |
+| 7.0     | [https://download.zotero.org/client/release/7.0/Zotero-7.0_win32_setup.exe](https://download.zotero.org/client/release/7.0/Zotero-7.0_win32_setup.exe) |
