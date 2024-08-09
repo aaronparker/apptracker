@@ -3,7 +3,7 @@ title: Citrix Workspace app
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Jul 16 2024 at 12:21 PM
+last_modified_date: Aug 9 2024 at 12:34 AM
 ---
 
 ## Citrix Workspace app
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Stream  | Date      | Size      | Hash                                                             | URI                                                                                                                                                                                                            |
 | ---------- | ------- | --------- | --------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 24.5.0.131 | Current | 9/7/2024  | 410749752 | 25a3792a0445cf865c306786071d8f4f3fb4c9e765860f897e20ccebf8379835 | [https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.5.0.131.exe](https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.5.0.131.exe) |
+| 24.5.10.29 | Current | 8/8/2024  | 411057976 | 8f161ca2fd8e6b8911f730f1404baccbfe7a3e0db7416a07fe9de165fd39666e | [https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.5.10.29.exe](https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.5.10.29.exe) |
 | 24.2.0.172 | LTSR    | 10/4/2024 | 380803896 | 7efe56e0f177cf9de336fa48daa8b6461080909fd37f7d550fd4f313221091b8 | [https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.2.0.172.exe](https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.2.0.172.exe) |

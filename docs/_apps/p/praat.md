@@ -3,7 +3,7 @@ title: Praat
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jul 30 2024 at 12:41 AM
+last_modified_date: Aug 9 2024 at 12:34 AM
 ---
 
 ## Praat
@@ -14,8 +14,8 @@ Evergreen app: `Praat`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
-| ------- | --------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.4.16  | 29/7/2024 | 17899288 | ARM64        | Default       | zip  | [https://github.com/praat/praat/releases/download/v6.4.16/praat6416_win-arm64.zip](https://github.com/praat/praat/releases/download/v6.4.16/praat6416_win-arm64.zip)     |
-| 6.4.16  | 29/7/2024 | 19419957 | x86          | Default       | zip  | [https://github.com/praat/praat/releases/download/v6.4.16/praat6416_win-intel32.zip](https://github.com/praat/praat/releases/download/v6.4.16/praat6416_win-intel32.zip) |
-| 6.4.16  | 29/7/2024 | 18937614 | x86          | Default       | zip  | [https://github.com/praat/praat/releases/download/v6.4.16/praat6416_win-intel64.zip](https://github.com/praat/praat/releases/download/v6.4.16/praat6416_win-intel64.zip) |
+| Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
+| ------- | -------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 6.4.17  | 8/8/2024 | 17911569 | ARM64        | Default       | zip  | [https://github.com/praat/praat/releases/download/v6.4.17/praat6417_win-arm64.zip](https://github.com/praat/praat/releases/download/v6.4.17/praat6417_win-arm64.zip)     |
+| 6.4.17  | 8/8/2024 | 19429464 | x86          | Default       | zip  | [https://github.com/praat/praat/releases/download/v6.4.17/praat6417_win-intel32.zip](https://github.com/praat/praat/releases/download/v6.4.17/praat6417_win-intel32.zip) |
+| 6.4.17  | 8/8/2024 | 18948638 | x86          | Default       | zip  | [https://github.com/praat/praat/releases/download/v6.4.17/praat6417_win-intel64.zip](https://github.com/praat/praat/releases/download/v6.4.17/praat6417_win-intel64.zip) |
