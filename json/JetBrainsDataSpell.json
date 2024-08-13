@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.1.4",
-    "Build": "241.19072.25",
+    "Version": "2024.2",
+    "Build": "242.20224.354",
     "Edition": "DataSpell",
-    "Sha256": "https://download.jetbrains.com/python/dataspell-2024.1.4.exe.sha256",
-    "Date": "9/8/2024",
-    "Size": 814656488,
+    "Sha256": "https://download.jetbrains.com/python/dataspell-2024.2.exe.sha256",
+    "Date": "12/8/2024",
+    "Size": 968117944,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/dataspell-2024.1.4.exe"
+    "URI": "https://download.jetbrains.com/python/dataspell-2024.2.exe"
   }
 ]
