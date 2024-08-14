@@ -1,8 +1,8 @@
 [
   {
-    "Version": "1.98.2.208-0cf517e0",
+    "Version": "1.99.0.210-2d92b948",
     "Architecture": "x64",
-    "Checksum": "93cd94046c9bbcf6a5542a2407dbecee31ed1be8",
-    "URI": "https://downloads.plex.tv/plex-desktop/1.98.2.208-0cf517e0/windows/Plex-1.98.2.208-0cf517e0-x86_64.exe"
+    "Checksum": "75e651d796d95104d1992b8e7a42848fef56801d",
+    "URI": "https://downloads.plex.tv/plex-desktop/1.99.0.210-2d92b948/windows/Plex-1.99.0.210-2d92b948-x86_64.exe"
   }
 ]
