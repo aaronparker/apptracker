@@ -3,7 +3,7 @@ title: McNeel Rhino
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 17 2024 at 12:34 AM
+last_modified_date: Aug 14 2024 at 12:41 AM
 ---
 
 ## McNeel Rhino
@@ -16,15 +16,15 @@ Last check: 🟢
 
 | Version          | Release | Language | URI                                                                                                                                                            |
 | ---------------- | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.9.24194.18121  | 8       | cs-cz    | [https://files.mcneel.com/dujour/exe/20240712/rhino_cs-cz_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_cs-cz_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | de-de    | [https://files.mcneel.com/dujour/exe/20240712/rhino_de-de_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_de-de_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | en-us    | [https://files.mcneel.com/dujour/exe/20240712/rhino_en-us_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_en-us_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | es-es    | [https://files.mcneel.com/dujour/exe/20240712/rhino_es-es_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_es-es_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | fr-fr    | [https://files.mcneel.com/dujour/exe/20240712/rhino_fr-fr_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_fr-fr_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | it-it    | [https://files.mcneel.com/dujour/exe/20240712/rhino_it-it_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_it-it_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | ja-jp    | [https://files.mcneel.com/dujour/exe/20240712/rhino_ja-jp_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_ja-jp_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | ko-kr    | [https://files.mcneel.com/dujour/exe/20240712/rhino_ko-kr_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_ko-kr_8.9.24194.18121.exe)   |
-| 8.9.24194.18121  | 8       | ru-ru    | [https://files.mcneel.com/dujour/exe/20240712/rhino_ru-ru_8.9.24194.18121.exe](https://files.mcneel.com/dujour/exe/20240712/rhino_ru-ru_8.9.24194.18121.exe)   |
+| 8.10.24226.13001 | 8       | cs-cz    | [https://files.mcneel.com/dujour/exe/20240813/rhino_cs-cz_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_cs-cz_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | de-de    | [https://files.mcneel.com/dujour/exe/20240813/rhino_de-de_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_de-de_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | en-us    | [https://files.mcneel.com/dujour/exe/20240813/rhino_en-us_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_en-us_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | es-es    | [https://files.mcneel.com/dujour/exe/20240813/rhino_es-es_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_es-es_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | fr-fr    | [https://files.mcneel.com/dujour/exe/20240813/rhino_fr-fr_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_fr-fr_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | it-it    | [https://files.mcneel.com/dujour/exe/20240813/rhino_it-it_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_it-it_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | ja-jp    | [https://files.mcneel.com/dujour/exe/20240813/rhino_ja-jp_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_ja-jp_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | ko-kr    | [https://files.mcneel.com/dujour/exe/20240813/rhino_ko-kr_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_ko-kr_8.10.24226.13001.exe) |
+| 8.10.24226.13001 | 8       | ru-ru    | [https://files.mcneel.com/dujour/exe/20240813/rhino_ru-ru_8.10.24226.13001.exe](https://files.mcneel.com/dujour/exe/20240813/rhino_ru-ru_8.10.24226.13001.exe) |
 | 7.37.24107.15001 | 7       | cs-cz    | [https://files.mcneel.com/dujour/exe/20240416/rhino_cs-cz_7.37.24107.15001.exe](https://files.mcneel.com/dujour/exe/20240416/rhino_cs-cz_7.37.24107.15001.exe) |
 | 7.37.24107.15001 | 7       | de-de    | [https://files.mcneel.com/dujour/exe/20240416/rhino_de-de_7.37.24107.15001.exe](https://files.mcneel.com/dujour/exe/20240416/rhino_de-de_7.37.24107.15001.exe) |
 | 7.37.24107.15001 | 7       | en-us    | [https://files.mcneel.com/dujour/exe/20240416/rhino_en-us_7.37.24107.15001.exe](https://files.mcneel.com/dujour/exe/20240416/rhino_en-us_7.37.24107.15001.exe) |
