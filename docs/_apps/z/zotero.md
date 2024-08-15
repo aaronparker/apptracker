@@ -3,7 +3,7 @@ title: Zotero
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Aug 9 2024 at 12:18 PM
+last_modified_date: Aug 15 2024 at 12:22 PM
 ---
 
 ## Zotero
@@ -14,6 +14,6 @@ Evergreen app: `Zotero`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | URI                                                                                                                                                    |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.0     | [https://download.zotero.org/client/release/7.0/Zotero-7.0_win32_setup.exe](https://download.zotero.org/client/release/7.0/Zotero-7.0_win32_setup.exe) |
+| Version | URI                                                                                                                                                            |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7.0.1   | [https://download.zotero.org/client/release/7.0.1/Zotero-7.0.1_win32_setup.exe](https://download.zotero.org/client/release/7.0.1/Zotero-7.0.1_win32_setup.exe) |
