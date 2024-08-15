@@ -3,7 +3,7 @@ title: Microsoft 365 Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Aug 14 2024 at 12:41 AM
+last_modified_date: Aug 15 2024 at 12:32 AM
 ---
 
 ## Microsoft 365 Apps
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version          | ReleaseVersion | Channel           | Name                                     | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | ---------------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
-| 16.0.17928.20018 | 2408           | CurrentPreview    | Current Channel (Preview)                | 08/05/2024 20:05:38 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.17928.20066 | 2408           | CurrentPreview    | Current Channel (Preview)                | 08/14/2024 17:54:17 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.17830.20166 | 2407           | Current           | Current Channel                          | 08/13/2024 10:15:54 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.17726.20206 | 2406           | MonthlyEnterprise | Monthly Enterprise Channel               | 08/13/2024 10:19:56 | 10/08/2024 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.17328.20550 | 2402           | SemiAnnual        | Semi-Annual Enterprise Channel           | 08/13/2024 10:21:31 | 09/09/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
