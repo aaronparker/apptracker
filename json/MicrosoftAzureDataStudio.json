@@ -1,18 +1,18 @@
 [
   {
-    "Version": "1.49.0",
+    "Version": "1.49.1",
     "Channel": "Stable",
     "Platform": "win32-x64",
-    "Sha256": "675129933287538e86f88d6396ebc601a6c8d7d9e507fbd0c5cfe4799db263b8",
+    "Sha256": "153a345f15f7cab8bb5f95c6f485751df0108c04906583d143e5adc2ac6a21cc",
     "Type": "exe",
-    "URI": "https://download.microsoft.com/download/5/9/6/59609041-db64-475c-b82a-2b5795b904b7/azuredatastudio-windows-setup-1.49.0.exe"
+    "URI": "https://download.microsoft.com/download/7/8/3/783c2037-8607-43c4-a593-0936e965d38b/azuredatastudio-windows-setup-1.49.1.exe"
   },
   {
-    "Version": "1.49.0",
+    "Version": "1.49.1",
     "Channel": "Stable",
     "Platform": "win32-x64-user",
-    "Sha256": "f8bdf34bc01d141022c82f06e67aaca936e9aa90fe803280d6fe609ae7014d46",
+    "Sha256": "a9805dd11407f88810780cd03247ea31bd86e9e8cb14ed30776a704c38ad42b3",
     "Type": "exe",
-    "URI": "https://download.microsoft.com/download/5/9/6/59609041-db64-475c-b82a-2b5795b904b7/azuredatastudio-windows-user-setup-1.49.0.exe"
+    "URI": "https://download.microsoft.com/download/7/8/3/783c2037-8607-43c4-a593-0936e965d38b/azuredatastudio-windows-user-setup-1.49.1.exe"
   }
 ]
