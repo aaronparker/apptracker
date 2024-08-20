@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .new }
-> Updates are posted every 12 hours. Last generated: `Tuesday 20/08/2024 00:50 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 20/08/2024 12:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -60,7 +60,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Windows Auto Dark Mode                                            | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/autodarkmode/)                          |
 | Autodesk Fusion 360                                               | `19/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/autodeskfusion360/)                     |
 | AWS CLI                                                           | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/awscli/)                                |
-| AWS SAM CLI                                                       | `17/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/awssamcli/)                             |
+| AWS SAM CLI                                                       | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/awssamcli/)                             |
 | Azul Zulu 11                                                      | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu11/)                            |
 | Azul Zulu 17                                                      | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu17/)                            |
 | Azul Zulu 21                                                      | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu21/)                            |
@@ -262,7 +262,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openlens/)                              |
 | Open-Shell-Menu                                                   | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
 | OpenWebStart                                                      | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
-| Opera Browser                                                     | `7/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
+| Opera Browser                                                     | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
 | Opera GX Browser                                                  | `19/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `17/7/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
@@ -318,7 +318,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Signal for Windows                                                | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/signaldesktop/)                         |
 | Slack                                                             | `31/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/slack/)                                 |
 | SmartBear SoapUI                                                  | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/smartbearsoapui/)                       |
-| Sober Lemur PDFSam Basic                                          | `29/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/soberlemurpdfsambasic/)                 |
+| Sober Lemur PDFSam Basic                                          | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/soberlemurpdfsambasic/)                 |
 | stealthpuppy Windows Customised Defaults                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/stealthpuppywindowscustomiseddefaults/) |
 | Stefans Tools gregpWin                                            | `3/8/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/stefanstoolsgregpwin/)                  |
 | Sumatra PDF Reader                                                | `26/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/sumatrapdfreader/)                      |
