@@ -1,10 +1,18 @@
 [
   {
-    "Version": "21.0.3+9",
-    "Date": "2024-04-16T10:41:00Z",
+    "Version": "21.0.4+7",
+    "Date": "2024-07-16T18:38:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jdk21.0.3-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu21.36.17-ca-jdk21.0.4-win_x64.msi"
+  },
+  {
+    "Version": "21.0.4+7",
+    "Date": "2024-07-16T18:38:00Z",
+    "ImageType": "jre",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu21.36.17-ca-jre21.0.4-win_x64.msi"
   }
 ]
