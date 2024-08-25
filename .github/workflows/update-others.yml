@@ -1,5 +1,5 @@
 # Update JSON via my self-hosted runner
-name: update-selfhosted
+name: update-others
 
 # Environment variables
 env:
@@ -13,7 +13,7 @@ on:
 
 jobs:
   update-pwsh:
-    runs-on: self-hosted
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v4
