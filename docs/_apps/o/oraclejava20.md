@@ -14,7 +14,7 @@ Evergreen app: `OracleJava20`. Found **3** installers.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 403 (Forbidden).
+The remote server returned an error: (403) Forbidden.
 ```
 
 | Version | Sha256                                                                       | Type | URI                                                                                                                                            |

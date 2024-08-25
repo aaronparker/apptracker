@@ -12,10 +12,7 @@ last_modified_date: May 7 2024 at 12:16 PM
 
 Evergreen app: `JamTreeSizeFree`. Found **1** installer.
 
-Last check: 🔴
-```
-Resource temporarily unavailable (update.jam-software.de:443)
-```
+Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
