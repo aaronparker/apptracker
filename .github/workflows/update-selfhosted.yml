@@ -23,7 +23,7 @@ jobs:
       - name: Install modules
         shell: pwsh
         run: |
-          Install-Module -Name "Evergreen", "DnsClient-PS" -Force
+          Install-Module -Name "Evergreen" -Force
 
       # Import GPG key
       - name: Import GPG key
