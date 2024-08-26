@@ -12,7 +12,10 @@ last_modified_date: Jul 17 2024 at 12:28 PM
 
 Evergreen app: `OracleJava17`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+The remote server returned an error: (403) Forbidden.
+```
 
 | Version | Sha256                                                           | Type | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

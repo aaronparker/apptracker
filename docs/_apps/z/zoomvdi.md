@@ -3,7 +3,7 @@ title: Zoom Plugins for VDI
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Jul 21 2024 at 12:43 AM
+last_modified_date: Aug 26 2024 at 12:17 PM
 ---
 
 ## Zoom Plugins for VDI
@@ -17,7 +17,7 @@ Last check: 🟢
 | Version | Platform  | Installer | Size      | Type | Architecture | URI                                                                                                                              |
 | ------- | --------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Latest  | Citrix    | Admin     | 94507008  | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi)           |
-| Latest  | Universal | Admin     | 127191552 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi) |
-| Latest  | Universal | Admin     | 121148928 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi)               |
-| Latest  | VDIClient | Admin     | 135222272 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi)                   |
+| Latest  | Universal | Admin     | 127242752 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi) |
+| Latest  | Universal | Admin     | 121218560 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi)               |
+| Latest  | VDIClient | Admin     | 135330816 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi)                   |
 | Latest  | VDIClient | Admin     | 123638272 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi)                           |
