@@ -60,6 +60,26 @@
     "Release": "Stable"
   },
   {
+    "Version": "7.4.5",
+    "Date": "20/8/2024",
+    "Size": 324066900,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win.msixbundle",
+    "Release": "LTS"
+  },
+  {
+    "Version": "7.4.5",
+    "Date": "20/8/2024",
+    "Size": 324066900,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win.msixbundle",
+    "Release": "Stable"
+  },
+  {
     "Version": "7.2.23",
     "Date": "20/8/2024",
     "Size": 106504192,
