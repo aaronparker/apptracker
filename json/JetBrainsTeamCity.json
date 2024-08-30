@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.07.1",
-    "Build": "160635",
+    "Version": "2024.07.2",
+    "Build": "160695",
     "Edition": "TeamCity",
-    "Sha256": "https://download.jetbrains.com/teamcity/TeamCity-2024.07.1.exe.sha256",
-    "Date": "6/8/2024",
-    "Size": 1296867976,
+    "Sha256": "https://download.jetbrains.com/teamcity/TeamCity-2024.07.2.exe.sha256",
+    "Date": "29/8/2024",
+    "Size": 1294329000,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/teamcity/TeamCity-2024.07.1.exe"
+    "URI": "https://download.jetbrains.com/teamcity/TeamCity-2024.07.2.exe"
   }
 ]
