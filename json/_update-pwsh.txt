@@ -1,0 +1,16 @@
+json/7zip.json
+json/BlueJ.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/JetBrainsGoLand.json
+json/JetBrainsPhpStorm.json
+json/JetBrainsRubyMine.json
+json/KeePass.json
+json/ProjectLibre.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/MicrosoftWvdMultimediaRedirection.err
