@@ -1,6 +1,6 @@
 [
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "af",
     "Architecture": "x64",
@@ -9,7 +9,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/af/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ar",
     "Architecture": "x64",
@@ -18,7 +18,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ar/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ast",
     "Architecture": "x64",
@@ -27,7 +27,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ast/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "be",
     "Architecture": "x64",
@@ -36,7 +36,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/be/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "bg",
     "Architecture": "x64",
@@ -45,7 +45,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/bg/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "br",
     "Architecture": "x64",
@@ -54,7 +54,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/br/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ca",
     "Architecture": "x64",
@@ -63,7 +63,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ca/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cak",
     "Architecture": "x64",
@@ -72,7 +72,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/cak/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cs",
     "Architecture": "x64",
@@ -81,7 +81,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/cs/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cy",
     "Architecture": "x64",
@@ -90,7 +90,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/cy/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "da",
     "Architecture": "x64",
@@ -99,7 +99,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/da/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "de",
     "Architecture": "x64",
@@ -108,7 +108,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/de/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "dsb",
     "Architecture": "x64",
@@ -117,7 +117,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/dsb/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "el",
     "Architecture": "x64",
@@ -126,7 +126,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/el/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-CA",
     "Architecture": "x64",
@@ -135,7 +135,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/en-CA/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-GB",
     "Architecture": "x64",
@@ -144,7 +144,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/en-GB/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-US",
     "Architecture": "x64",
@@ -153,7 +153,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/en-US/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-AR",
     "Architecture": "x64",
@@ -162,7 +162,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/es-AR/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-ES",
     "Architecture": "x64",
@@ -171,7 +171,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/es-ES/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-MX",
     "Architecture": "x64",
@@ -180,7 +180,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/es-MX/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "et",
     "Architecture": "x64",
@@ -189,7 +189,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/et/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "eu",
     "Architecture": "x64",
@@ -198,7 +198,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/eu/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fi",
     "Architecture": "x64",
@@ -207,7 +207,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/fi/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fr",
     "Architecture": "x64",
@@ -216,7 +216,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/fr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fy-NL",
     "Architecture": "x64",
@@ -225,7 +225,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/fy-NL/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ga-IE",
     "Architecture": "x64",
@@ -234,7 +234,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ga-IE/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gd",
     "Architecture": "x64",
@@ -243,7 +243,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/gd/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gl",
     "Architecture": "x64",
@@ -252,7 +252,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/gl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "he",
     "Architecture": "x64",
@@ -261,7 +261,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/he/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hr",
     "Architecture": "x64",
@@ -270,7 +270,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hsb",
     "Architecture": "x64",
@@ -279,7 +279,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hsb/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hu",
     "Architecture": "x64",
@@ -288,7 +288,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hu/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hy-AM",
     "Architecture": "x64",
@@ -297,7 +297,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hy-AM/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "id",
     "Architecture": "x64",
@@ -306,7 +306,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/id/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "is",
     "Architecture": "x64",
@@ -315,7 +315,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/is/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "it",
     "Architecture": "x64",
@@ -324,7 +324,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/it/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ja",
     "Architecture": "x64",
@@ -333,7 +333,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ja/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ka",
     "Architecture": "x64",
@@ -342,7 +342,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ka/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kab",
     "Architecture": "x64",
@@ -351,7 +351,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/kab/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kk",
     "Architecture": "x64",
@@ -360,7 +360,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/kk/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ko",
     "Architecture": "x64",
@@ -369,7 +369,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ko/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lt",
     "Architecture": "x64",
@@ -378,7 +378,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/lt/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lv",
     "Architecture": "x64",
@@ -387,7 +387,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/lv/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ms",
     "Architecture": "x64",
@@ -396,7 +396,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ms/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nb-NO",
     "Architecture": "x64",
@@ -405,7 +405,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/nb-NO/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nl",
     "Architecture": "x64",
@@ -414,7 +414,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/nl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nn-NO",
     "Architecture": "x64",
@@ -423,7 +423,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/nn-NO/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pa-IN",
     "Architecture": "x64",
@@ -432,7 +432,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pa-IN/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pl",
     "Architecture": "x64",
@@ -441,7 +441,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-BR",
     "Architecture": "x64",
@@ -450,7 +450,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pt-BR/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-PT",
     "Architecture": "x64",
@@ -459,7 +459,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pt-PT/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "rm",
     "Architecture": "x64",
@@ -468,7 +468,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/rm/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ro",
     "Architecture": "x64",
@@ -477,7 +477,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ro/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ru",
     "Architecture": "x64",
@@ -486,7 +486,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ru/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sk",
     "Architecture": "x64",
@@ -495,7 +495,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sk/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sl",
     "Architecture": "x64",
@@ -504,7 +504,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sq",
     "Architecture": "x64",
@@ -513,7 +513,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sq/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sr",
     "Architecture": "x64",
@@ -522,7 +522,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sv-SE",
     "Architecture": "x64",
@@ -531,7 +531,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sv-SE/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "th",
     "Architecture": "x64",
@@ -540,7 +540,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/th/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "tr",
     "Architecture": "x64",
@@ -549,7 +549,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/tr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uk",
     "Architecture": "x64",
@@ -558,7 +558,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/uk/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uz",
     "Architecture": "x64",
@@ -567,7 +567,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/uz/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "vi",
     "Architecture": "x64",
@@ -576,7 +576,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/vi/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-CN",
     "Architecture": "x64",
@@ -585,7 +585,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/zh-CN/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-TW",
     "Architecture": "x64",
@@ -594,7 +594,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/zh-TW/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "af",
     "Architecture": "x86",
@@ -603,7 +603,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/af/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ar",
     "Architecture": "x86",
@@ -612,7 +612,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ar/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ast",
     "Architecture": "x86",
@@ -621,7 +621,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ast/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "be",
     "Architecture": "x86",
@@ -630,7 +630,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/be/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "bg",
     "Architecture": "x86",
@@ -639,7 +639,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/bg/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "br",
     "Architecture": "x86",
@@ -648,7 +648,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/br/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ca",
     "Architecture": "x86",
@@ -657,7 +657,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ca/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cak",
     "Architecture": "x86",
@@ -666,7 +666,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/cak/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cs",
     "Architecture": "x86",
@@ -675,7 +675,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/cs/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cy",
     "Architecture": "x86",
@@ -684,7 +684,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/cy/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "da",
     "Architecture": "x86",
@@ -693,7 +693,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/da/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "de",
     "Architecture": "x86",
@@ -702,7 +702,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/de/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "dsb",
     "Architecture": "x86",
@@ -711,7 +711,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/dsb/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "el",
     "Architecture": "x86",
@@ -720,7 +720,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/el/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-CA",
     "Architecture": "x86",
@@ -729,7 +729,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/en-CA/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-GB",
     "Architecture": "x86",
@@ -738,7 +738,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/en-GB/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-US",
     "Architecture": "x86",
@@ -747,7 +747,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/en-US/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-AR",
     "Architecture": "x86",
@@ -756,7 +756,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/es-AR/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-ES",
     "Architecture": "x86",
@@ -765,7 +765,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/es-ES/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-MX",
     "Architecture": "x86",
@@ -774,7 +774,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/es-MX/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "et",
     "Architecture": "x86",
@@ -783,7 +783,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/et/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "eu",
     "Architecture": "x86",
@@ -792,7 +792,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/eu/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fi",
     "Architecture": "x86",
@@ -801,7 +801,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/fi/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fr",
     "Architecture": "x86",
@@ -810,7 +810,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/fr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fy-NL",
     "Architecture": "x86",
@@ -819,7 +819,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/fy-NL/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ga-IE",
     "Architecture": "x86",
@@ -828,7 +828,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ga-IE/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gd",
     "Architecture": "x86",
@@ -837,7 +837,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/gd/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gl",
     "Architecture": "x86",
@@ -846,7 +846,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/gl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "he",
     "Architecture": "x86",
@@ -855,7 +855,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/he/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hr",
     "Architecture": "x86",
@@ -864,7 +864,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hsb",
     "Architecture": "x86",
@@ -873,7 +873,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hsb/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hu",
     "Architecture": "x86",
@@ -882,7 +882,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hu/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hy-AM",
     "Architecture": "x86",
@@ -891,7 +891,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hy-AM/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "id",
     "Architecture": "x86",
@@ -900,7 +900,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/id/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "is",
     "Architecture": "x86",
@@ -909,7 +909,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/is/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "it",
     "Architecture": "x86",
@@ -918,7 +918,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/it/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ja",
     "Architecture": "x86",
@@ -927,7 +927,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ja/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ka",
     "Architecture": "x86",
@@ -936,7 +936,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ka/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kab",
     "Architecture": "x86",
@@ -945,7 +945,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/kab/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kk",
     "Architecture": "x86",
@@ -954,7 +954,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/kk/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ko",
     "Architecture": "x86",
@@ -963,7 +963,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ko/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lt",
     "Architecture": "x86",
@@ -972,7 +972,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/lt/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lv",
     "Architecture": "x86",
@@ -981,7 +981,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/lv/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ms",
     "Architecture": "x86",
@@ -990,7 +990,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ms/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nb-NO",
     "Architecture": "x86",
@@ -999,7 +999,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/nb-NO/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nl",
     "Architecture": "x86",
@@ -1008,7 +1008,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/nl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nn-NO",
     "Architecture": "x86",
@@ -1017,7 +1017,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/nn-NO/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pa-IN",
     "Architecture": "x86",
@@ -1026,7 +1026,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pa-IN/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pl",
     "Architecture": "x86",
@@ -1035,7 +1035,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-BR",
     "Architecture": "x86",
@@ -1044,7 +1044,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pt-BR/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-PT",
     "Architecture": "x86",
@@ -1053,7 +1053,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pt-PT/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "rm",
     "Architecture": "x86",
@@ -1062,7 +1062,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/rm/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ro",
     "Architecture": "x86",
@@ -1071,7 +1071,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ro/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ru",
     "Architecture": "x86",
@@ -1080,7 +1080,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ru/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sk",
     "Architecture": "x86",
@@ -1089,7 +1089,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sk/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sl",
     "Architecture": "x86",
@@ -1098,7 +1098,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sl/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sq",
     "Architecture": "x86",
@@ -1107,7 +1107,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sq/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sr",
     "Architecture": "x86",
@@ -1116,7 +1116,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sv-SE",
     "Architecture": "x86",
@@ -1125,7 +1125,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sv-SE/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "th",
     "Architecture": "x86",
@@ -1134,7 +1134,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/th/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "tr",
     "Architecture": "x86",
@@ -1143,7 +1143,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/tr/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uk",
     "Architecture": "x86",
@@ -1152,7 +1152,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/uk/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uz",
     "Architecture": "x86",
@@ -1161,7 +1161,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/uz/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "vi",
     "Architecture": "x86",
@@ -1170,7 +1170,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/vi/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-CN",
     "Architecture": "x86",
@@ -1179,7 +1179,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/zh-CN/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-TW",
     "Architecture": "x86",
@@ -1188,7 +1188,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/zh-TW/Thunderbird%20Setup%20115.14.0.exe"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "af",
     "Architecture": "x64",
@@ -1197,7 +1197,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/af/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ar",
     "Architecture": "x64",
@@ -1206,7 +1206,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ar/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ast",
     "Architecture": "x64",
@@ -1215,7 +1215,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ast/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "be",
     "Architecture": "x64",
@@ -1224,7 +1224,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/be/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "bg",
     "Architecture": "x64",
@@ -1233,7 +1233,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/bg/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "br",
     "Architecture": "x64",
@@ -1242,7 +1242,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/br/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ca",
     "Architecture": "x64",
@@ -1251,7 +1251,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ca/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cak",
     "Architecture": "x64",
@@ -1260,7 +1260,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/cak/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cs",
     "Architecture": "x64",
@@ -1269,7 +1269,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/cs/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cy",
     "Architecture": "x64",
@@ -1278,7 +1278,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/cy/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "da",
     "Architecture": "x64",
@@ -1287,7 +1287,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/da/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "de",
     "Architecture": "x64",
@@ -1296,7 +1296,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/de/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "dsb",
     "Architecture": "x64",
@@ -1305,7 +1305,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/dsb/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "el",
     "Architecture": "x64",
@@ -1314,7 +1314,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/el/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-CA",
     "Architecture": "x64",
@@ -1323,7 +1323,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/en-CA/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-GB",
     "Architecture": "x64",
@@ -1332,7 +1332,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/en-GB/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-US",
     "Architecture": "x64",
@@ -1341,7 +1341,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/en-US/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-AR",
     "Architecture": "x64",
@@ -1350,7 +1350,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/es-AR/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-ES",
     "Architecture": "x64",
@@ -1359,7 +1359,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/es-ES/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-MX",
     "Architecture": "x64",
@@ -1368,7 +1368,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/es-MX/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "et",
     "Architecture": "x64",
@@ -1377,7 +1377,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/et/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "eu",
     "Architecture": "x64",
@@ -1386,7 +1386,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/eu/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fi",
     "Architecture": "x64",
@@ -1395,7 +1395,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/fi/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fr",
     "Architecture": "x64",
@@ -1404,7 +1404,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/fr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fy-NL",
     "Architecture": "x64",
@@ -1413,7 +1413,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/fy-NL/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ga-IE",
     "Architecture": "x64",
@@ -1422,7 +1422,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ga-IE/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gd",
     "Architecture": "x64",
@@ -1431,7 +1431,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/gd/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gl",
     "Architecture": "x64",
@@ -1440,7 +1440,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/gl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "he",
     "Architecture": "x64",
@@ -1449,7 +1449,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/he/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hr",
     "Architecture": "x64",
@@ -1458,7 +1458,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hsb",
     "Architecture": "x64",
@@ -1467,7 +1467,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hsb/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hu",
     "Architecture": "x64",
@@ -1476,7 +1476,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hu/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hy-AM",
     "Architecture": "x64",
@@ -1485,7 +1485,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/hy-AM/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "id",
     "Architecture": "x64",
@@ -1494,7 +1494,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/id/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "is",
     "Architecture": "x64",
@@ -1503,7 +1503,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/is/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "it",
     "Architecture": "x64",
@@ -1512,7 +1512,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/it/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ja",
     "Architecture": "x64",
@@ -1521,7 +1521,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ja/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ka",
     "Architecture": "x64",
@@ -1530,7 +1530,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ka/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kab",
     "Architecture": "x64",
@@ -1539,7 +1539,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/kab/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kk",
     "Architecture": "x64",
@@ -1548,7 +1548,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/kk/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ko",
     "Architecture": "x64",
@@ -1557,7 +1557,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ko/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lt",
     "Architecture": "x64",
@@ -1566,7 +1566,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/lt/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lv",
     "Architecture": "x64",
@@ -1575,7 +1575,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/lv/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ms",
     "Architecture": "x64",
@@ -1584,7 +1584,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ms/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nb-NO",
     "Architecture": "x64",
@@ -1593,7 +1593,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/nb-NO/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nl",
     "Architecture": "x64",
@@ -1602,7 +1602,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/nl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nn-NO",
     "Architecture": "x64",
@@ -1611,7 +1611,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/nn-NO/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pa-IN",
     "Architecture": "x64",
@@ -1620,7 +1620,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pa-IN/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pl",
     "Architecture": "x64",
@@ -1629,7 +1629,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-BR",
     "Architecture": "x64",
@@ -1638,7 +1638,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pt-BR/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-PT",
     "Architecture": "x64",
@@ -1647,7 +1647,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/pt-PT/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "rm",
     "Architecture": "x64",
@@ -1656,7 +1656,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/rm/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ro",
     "Architecture": "x64",
@@ -1665,7 +1665,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ro/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ru",
     "Architecture": "x64",
@@ -1674,7 +1674,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/ru/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sk",
     "Architecture": "x64",
@@ -1683,7 +1683,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sk/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sl",
     "Architecture": "x64",
@@ -1692,7 +1692,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sq",
     "Architecture": "x64",
@@ -1701,7 +1701,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sq/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sr",
     "Architecture": "x64",
@@ -1710,7 +1710,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sv-SE",
     "Architecture": "x64",
@@ -1719,7 +1719,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/sv-SE/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "th",
     "Architecture": "x64",
@@ -1728,7 +1728,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/th/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "tr",
     "Architecture": "x64",
@@ -1737,7 +1737,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/tr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uk",
     "Architecture": "x64",
@@ -1746,7 +1746,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/uk/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uz",
     "Architecture": "x64",
@@ -1755,7 +1755,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/uz/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "vi",
     "Architecture": "x64",
@@ -1764,7 +1764,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/vi/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-CN",
     "Architecture": "x64",
@@ -1773,7 +1773,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/zh-CN/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-TW",
     "Architecture": "x64",
@@ -1782,7 +1782,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win64/zh-TW/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "af",
     "Architecture": "x86",
@@ -1791,7 +1791,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/af/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ar",
     "Architecture": "x86",
@@ -1800,7 +1800,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ar/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ast",
     "Architecture": "x86",
@@ -1809,7 +1809,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ast/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "be",
     "Architecture": "x86",
@@ -1818,7 +1818,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/be/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "bg",
     "Architecture": "x86",
@@ -1827,7 +1827,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/bg/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "br",
     "Architecture": "x86",
@@ -1836,7 +1836,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/br/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ca",
     "Architecture": "x86",
@@ -1845,7 +1845,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ca/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cak",
     "Architecture": "x86",
@@ -1854,7 +1854,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/cak/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cs",
     "Architecture": "x86",
@@ -1863,7 +1863,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/cs/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "cy",
     "Architecture": "x86",
@@ -1872,7 +1872,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/cy/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "da",
     "Architecture": "x86",
@@ -1881,7 +1881,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/da/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "de",
     "Architecture": "x86",
@@ -1890,7 +1890,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/de/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "dsb",
     "Architecture": "x86",
@@ -1899,7 +1899,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/dsb/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "el",
     "Architecture": "x86",
@@ -1908,7 +1908,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/el/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-CA",
     "Architecture": "x86",
@@ -1917,7 +1917,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/en-CA/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-GB",
     "Architecture": "x86",
@@ -1926,7 +1926,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/en-GB/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "en-US",
     "Architecture": "x86",
@@ -1935,7 +1935,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/en-US/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-AR",
     "Architecture": "x86",
@@ -1944,7 +1944,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/es-AR/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-ES",
     "Architecture": "x86",
@@ -1953,7 +1953,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/es-ES/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "es-MX",
     "Architecture": "x86",
@@ -1962,7 +1962,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/es-MX/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "et",
     "Architecture": "x86",
@@ -1971,7 +1971,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/et/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "eu",
     "Architecture": "x86",
@@ -1980,7 +1980,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/eu/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fi",
     "Architecture": "x86",
@@ -1989,7 +1989,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/fi/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fr",
     "Architecture": "x86",
@@ -1998,7 +1998,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/fr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "fy-NL",
     "Architecture": "x86",
@@ -2007,7 +2007,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/fy-NL/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ga-IE",
     "Architecture": "x86",
@@ -2016,7 +2016,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ga-IE/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gd",
     "Architecture": "x86",
@@ -2025,7 +2025,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/gd/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "gl",
     "Architecture": "x86",
@@ -2034,7 +2034,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/gl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "he",
     "Architecture": "x86",
@@ -2043,7 +2043,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/he/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hr",
     "Architecture": "x86",
@@ -2052,7 +2052,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hsb",
     "Architecture": "x86",
@@ -2061,7 +2061,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hsb/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hu",
     "Architecture": "x86",
@@ -2070,7 +2070,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hu/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "hy-AM",
     "Architecture": "x86",
@@ -2079,7 +2079,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/hy-AM/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "id",
     "Architecture": "x86",
@@ -2088,7 +2088,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/id/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "is",
     "Architecture": "x86",
@@ -2097,7 +2097,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/is/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "it",
     "Architecture": "x86",
@@ -2106,7 +2106,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/it/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ja",
     "Architecture": "x86",
@@ -2115,7 +2115,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ja/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ka",
     "Architecture": "x86",
@@ -2124,7 +2124,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ka/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kab",
     "Architecture": "x86",
@@ -2133,7 +2133,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/kab/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "kk",
     "Architecture": "x86",
@@ -2142,7 +2142,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/kk/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ko",
     "Architecture": "x86",
@@ -2151,7 +2151,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ko/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lt",
     "Architecture": "x86",
@@ -2160,7 +2160,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/lt/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "lv",
     "Architecture": "x86",
@@ -2169,7 +2169,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/lv/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ms",
     "Architecture": "x86",
@@ -2178,7 +2178,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ms/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nb-NO",
     "Architecture": "x86",
@@ -2187,7 +2187,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/nb-NO/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nl",
     "Architecture": "x86",
@@ -2196,7 +2196,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/nl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "nn-NO",
     "Architecture": "x86",
@@ -2205,7 +2205,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/nn-NO/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pa-IN",
     "Architecture": "x86",
@@ -2214,7 +2214,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pa-IN/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pl",
     "Architecture": "x86",
@@ -2223,7 +2223,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-BR",
     "Architecture": "x86",
@@ -2232,7 +2232,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pt-BR/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "pt-PT",
     "Architecture": "x86",
@@ -2241,7 +2241,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/pt-PT/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "rm",
     "Architecture": "x86",
@@ -2250,7 +2250,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/rm/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ro",
     "Architecture": "x86",
@@ -2259,7 +2259,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ro/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "ru",
     "Architecture": "x86",
@@ -2268,7 +2268,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/ru/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sk",
     "Architecture": "x86",
@@ -2277,7 +2277,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sk/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sl",
     "Architecture": "x86",
@@ -2286,7 +2286,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sl/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sq",
     "Architecture": "x86",
@@ -2295,7 +2295,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sq/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sr",
     "Architecture": "x86",
@@ -2304,7 +2304,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "sv-SE",
     "Architecture": "x86",
@@ -2313,7 +2313,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/sv-SE/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "th",
     "Architecture": "x86",
@@ -2322,7 +2322,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/th/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "tr",
     "Architecture": "x86",
@@ -2331,7 +2331,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/tr/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uk",
     "Architecture": "x86",
@@ -2340,7 +2340,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/uk/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "uz",
     "Architecture": "x86",
@@ -2349,7 +2349,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/uz/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "vi",
     "Architecture": "x86",
@@ -2358,7 +2358,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/vi/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-CN",
     "Architecture": "x86",
@@ -2367,7 +2367,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/zh-CN/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "zh-TW",
     "Architecture": "x86",
@@ -2376,13 +2376,13 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.14.0/win32/zh-TW/Thunderbird%20Setup%20115.14.0.msi"
   },
   {
-    "Version": "115.14.0",
+    "Version": "128.1.1",
     "Channel": "Current",
     "Language": "Multi",
     "Architecture": "x64",
     "Type": "msix",
-    "Filename": "Thunderbird Setup 115.14.0.msix",
-    "URI": "http://archive.mozilla.org/pub/thunderbird/releases/115.14.0/win64/multi/Thunderbird%20Setup%20115.14.0.msix"
+    "Filename": "Thunderbird Setup 128.1.1.msix",
+    "URI": "http://archive.mozilla.org/pub/thunderbird/releases/128.1.1/win64/multi/Thunderbird%20Setup%20128.1.1.msix"
   },
   {
     "Version": "130.0b3",

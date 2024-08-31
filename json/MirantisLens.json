@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2024.8.291244-alpha",
+    "Version": "2024.8.301305-beta",
     "Architecture": "x64",
     "Release": "Alpha",
-    "Date": "2024-08-29T12:55:23.639Z",
-    "Size": 311096296,
-    "Sha512": "GH6CO9y266ZEheQbVm3cE8UGhQCAXZjf+9hGvTTK/6vdhr5D8Q+cumntZB199xI9OW9i2+Ck/7lGV5qkQXcKcQ==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.291244-alpha.exe"
+    "Date": "2024-08-30T14:03:38.942Z",
+    "Size": 328202432,
+    "Sha512": "TX5vNKg86RVogaveIeJvAe0bdiMIF2vL4nzdvPLOSDYw/faAnPjpzyFk2u974YPxdToM4yF702hDEJyrrXrPbQ==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.301305-beta.exe"
   },
   {
-    "Version": "2024.7.161041-latest",
+    "Version": "2024.8.291605-latest",
     "Architecture": "x64",
     "Release": "Stable",
-    "Date": "2024-07-16T11:08:52.905Z",
-    "Size": 311066008,
-    "Sha512": "ux0MUta4FZjdOeMOYx4P7aHUEJ899YJO4W4xWMoBe8zeKyPq2fa5XuixwdLcp76mlP5HtIiF2nEAvB2aBs6nTQ==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.7.161041-latest.exe"
+    "Date": "2024-08-29T16:15:30.303Z",
+    "Size": 311095792,
+    "Sha512": "ZnoBOzkKL5cbl+WM/cOz/M3AYvrQfKTgPZvsYx/gk5UZO4YA3dbwdU2UJdWvqf/vbms4b9VrN2uPqtQ4tFh5Xg==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.291605-latest.exe"
   }
 ]
