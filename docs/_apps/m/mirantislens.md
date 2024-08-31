@@ -3,7 +3,7 @@ title: MirantisLens
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Aug 30 2024 at 12:39 AM
+last_modified_date: Aug 31 2024 at 12:34 AM
 ---
 
 ## MirantisLens
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                                                                                                    |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.8.291244-alpha  | x64          | Alpha   | 08/29/2024 12:55:23 | 311096296 | GH6CO9y266ZEheQbVm3cE8UGhQCAXZjf+9hGvTTK/6vdhr5D8Q+cumntZB199xI9OW9i2+Ck/7lGV5qkQXcKcQ== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.291244-alpha.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.291244-alpha.exe)   |
-| 2024.7.161041-latest | x64          | Stable  | 07/16/2024 11:08:52 | 311066008 | ux0MUta4FZjdOeMOYx4P7aHUEJ899YJO4W4xWMoBe8zeKyPq2fa5XuixwdLcp76mlP5HtIiF2nEAvB2aBs6nTQ== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202024.7.161041-latest.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202024.7.161041-latest.exe) |
+| 2024.8.301305-beta   | x64          | Alpha   | 08/30/2024 14:03:38 | 328202432 | TX5vNKg86RVogaveIeJvAe0bdiMIF2vL4nzdvPLOSDYw/faAnPjpzyFk2u974YPxdToM4yF702hDEJyrrXrPbQ== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.301305-beta.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.301305-beta.exe)     |
+| 2024.8.291605-latest | x64          | Stable  | 08/29/2024 16:15:30 | 311095792 | ZnoBOzkKL5cbl+WM/cOz/M3AYvrQfKTgPZvsYx/gk5UZO4YA3dbwdU2UJdWvqf/vbms4b9VrN2uPqtQ4tFh5Xg== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.291605-latest.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202024.8.291605-latest.exe) |
