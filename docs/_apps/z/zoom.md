@@ -3,7 +3,7 @@ title: Zoom
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Aug 26 2024 at 12:17 PM
+last_modified_date: Sep 2 2024 at 12:18 PM
 ---
 
 ## Zoom
@@ -22,8 +22,8 @@ Last check: 🟢
 | 6.1.11.45504 | Desktop  | Admin     | 111246336 | msi  | ARM64        | [https://cdn.zoom.us/prod/6.1.11.45504/arm64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.1.11.45504/arm64/ZoomInstallerFull.msi)           |
 | 6.1.11.45504 | Desktop  | Admin     | 129673216 | msi  | x64          | [https://cdn.zoom.us/prod/6.1.11.45504/x64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.1.11.45504/x64/ZoomInstallerFull.msi)               |
 | 6.1.11.45504 | Desktop  | Admin     | 120406016 | msi  | x86          | [https://cdn.zoom.us/prod/6.1.11.45504/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.1.11.45504/ZoomInstallerFull.msi)                       |
-| 6.1.10.4538  | Rooms    | User      | 354665264 | exe  | x64          | [https://cdn.zoom.us/prod/6.1.10.4538/x64/zoomrooms-6.1.10.4538-x64.exe](https://cdn.zoom.us/prod/6.1.10.4538/x64/zoomrooms-6.1.10.4538-x64.exe) |
-| 6.1.10.4538  | Rooms    | Admin     | 357527552 | msi  | x64          | [https://cdn.zoom.us/prod/6.1.10.4538/x64/zoomrooms-6.1.10.4538-x64.msi](https://cdn.zoom.us/prod/6.1.10.4538/x64/zoomrooms-6.1.10.4538-x64.msi) |
+| 6.1.11.4556  | Rooms    | User      | 354647864 | exe  | x64          | [https://cdn.zoom.us/prod/6.1.11.4556/x64/zoomrooms-6.1.11.4556-x64.exe](https://cdn.zoom.us/prod/6.1.11.4556/x64/zoomrooms-6.1.11.4556-x64.exe) |
+| 6.1.11.4556  | Rooms    | Admin     | 357509632 | msi  | x64          | [https://cdn.zoom.us/prod/6.1.11.4556/x64/zoomrooms-6.1.11.4556-x64.msi](https://cdn.zoom.us/prod/6.1.11.4556/x64/zoomrooms-6.1.11.4556-x64.msi) |
 | 6.1.0.1043   | Outlook  | User      | 10871296  | msi  | x86          | [https://cdn.zoom.us/prod/6.1.0.1043/ZoomOutlookPluginSetup.msi](https://cdn.zoom.us/prod/6.1.0.1043/ZoomOutlookPluginSetup.msi)                 |
 | 6.0.7.4157   | Rooms    | User      | 309175776 | exe  | x86          | [https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.exe](https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.exe)             |
 | 6.0.7.4157   | Rooms    | Admin     | 311752704 | msi  | x86          | [https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.msi](https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.msi)             |
