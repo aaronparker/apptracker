@@ -20,10 +20,10 @@ jobs:
         with:
           ref: main
 
-      - name: Install modules
-        shell: powershell
-        run: |
-          Install-Module -Name "Evergreen" -Force -Scope CurrentUser
+      # - name: Install modules
+      #   shell: powershell
+      #   run: |
+      #     Install-Module -Name "Evergreen" -Force -Scope CurrentUser
 
       # # Import GPG key
       # - name: Import GPG key
