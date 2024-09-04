@@ -1,17 +1,17 @@
 [
   {
-    "Version": "8.0.487",
+    "Version": "8.0.489",
     "Channel": "beta",
-    "sha1": "23C2FABFA3CA7B18DEC870CBB2CBD3CA4AA22C84",
+    "sha1": "C8BC2EAC25F17E402D3DFADC1FF76D055D460F9F",
     "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/487-9b355015/Tower-8.0.487.exe"
+    "URI": "https://www.git-tower.com/apps/tower3-win/489-eabbbc97/Tower-8.0.489.exe"
   },
   {
-    "Version": "8.0.487",
+    "Version": "8.0.489",
     "Channel": "beta",
-    "sha1": "B0BAC8F37A3D35BD16F533E9ABC905D9D67AFBDD",
+    "sha1": "1CB62487C503C2AC7DE7994F0B3047DA9E62ABFC",
     "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/487-9b355015/Tower-8.0.487.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/489-eabbbc97/Tower-8.0.489.msi"
   },
   {
     "Version": "7.1.483",
