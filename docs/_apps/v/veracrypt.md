@@ -3,7 +3,7 @@ title: VeraCrypt
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Sep 3 2024 at 12:25 PM
+last_modified_date: Sep 4 2024 at 12:19 PM
 ---
 
 ## VeraCrypt
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                                      |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.26.7  | x86          | exe  | 35282192 | 4ece9a74a0db8508bb1d5dd60a977150 | [https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe](https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Setup%201.26.7.exe)       |
-| 1.26.7  | x86          | exe  | 35094288 | 7fc999bab1fcce67d33e6f3e34e5ebce | [https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe](https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt%20Portable%201.26.7.exe) |
-| 1.26.7  | x64          | msi  | 42389504 | d7824445f363880a0a452a8dc08b6f15 | [https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi](https://versaweb.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.7/Windows/VeraCrypt_Setup_x64_1.26.7.msi)       |
+| 1.26.15 | x86          | exe  | 36091712 | 72e847da586c39f0d0d64c170283c8e1 | [https://psychz.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Setup%201.26.15.exe](https://psychz.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Setup%201.26.15.exe)       |
+| 1.26.15 | x86          | exe  | 35902272 | c7bac9661fc5f69941ce1fd044d00637 | [https://psychz.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Portable%201.26.15.exe](https://psychz.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Portable%201.26.15.exe) |
+| 1.26.15 | x64          | msi  | 44707840 | 1b62ff7cd05be3db27efb595d69bf4a0 | [https://psychz.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt_Setup_x64_1.26.15.msi](https://psychz.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt_Setup_x64_1.26.15.msi)       |
