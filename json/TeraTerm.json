@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.2",
-    "Date": "28/2/2024",
-    "Size": 9311677,
+    "Version": "5.3",
+    "Date": "8/9/2024",
+    "Size": 10321360,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.2/teraterm-5.2.exe"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.3/teraterm-5.3.exe"
   },
   {
-    "Version": "5.2",
-    "Date": "28/2/2024",
-    "Size": 11712053,
+    "Version": "5.3",
+    "Date": "8/9/2024",
+    "Size": 14049776,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.2/teraterm-5.2.zip"
+    "URI": "https://github.com/TeraTermProject/teraterm/releases/download/v5.3/teraterm-5.3.zip"
   }
 ]
