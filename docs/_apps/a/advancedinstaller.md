@@ -3,7 +3,7 @@ title: Advanced Installer
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Sep 2 2024 at 12:18 PM
+last_modified_date: Sep 8 2024 at 12:40 PM
 ---
 
 ## Advanced Installer
@@ -12,11 +12,8 @@ last_modified_date: Sep 2 2024 at 12:18 PM
 
 Evergreen app: `AdvancedInstaller`. Found **1** installer.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
-| Version | Size      | Sha256                                                           | Type | URI                                                                                                                              |
-| ------- | --------- | ---------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 21.6.1  | 240997376 | 9128ECD951D51C40AE46407BEECB1DD7ADF230C87F717E144A81F63BF4F5A0AA | msi  | [https://www.advancedinstaller.com/downloads/21.6.1/advinst.msi](https://www.advancedinstaller.com/downloads/21.6.1/advinst.msi) |
+| Version | Size      | Sha256                                                           | Type | URI                                                                                                                          |
+| ------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 21.7    | 241195520 | B43B85A463C6237B45DBB855C961B6887CD82E500FE9925666689BCA7CAB35D1 | msi  | [https://www.advancedinstaller.com/downloads/21.7/advinst.msi](https://www.advancedinstaller.com/downloads/21.7/advinst.msi) |
