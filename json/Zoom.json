@@ -72,13 +72,13 @@
     "URI": "https://cdn.zoom.us/prod/6.1.11.4556/x64/zoomrooms-6.1.11.4556-x64.msi"
   },
   {
-    "Version": "6.1.0.1043",
+    "Version": "6.1.5.1062",
     "Platform": "Outlook",
     "Installer": "User",
-    "Size": 10871296,
+    "Size": 10873856,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.1.0.1043/ZoomOutlookPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/6.1.5.1062/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "6.0.7.4157",
