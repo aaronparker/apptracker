@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.6.2",
-    "Date": "1/9/2024",
-    "Size": 16437216,
+    "Version": "3.6.3",
+    "Date": "9/9/2024",
+    "Size": 16449096,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.6.2/audacity-win-3.6.2-64bit.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.6.3/audacity-win-3.6.3-64bit.exe"
   },
   {
-    "Version": "3.6.2",
-    "Date": "1/9/2024",
-    "Size": 15021072,
+    "Version": "3.6.3",
+    "Date": "9/9/2024",
+    "Size": 15007728,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.6.2/audacity-win-3.6.2-32bit.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.6.3/audacity-win-3.6.3-32bit.exe"
   }
 ]

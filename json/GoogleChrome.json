@@ -1,6 +1,6 @@
 [
   {
-    "Version": "130.0.6707.0",
+    "Version": "130.0.6708.0",
     "Channel": "Canary",
     "StartDate": "9/9/2024",
     "Architecture": "x86",
@@ -8,17 +8,17 @@
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
-    "Version": "130.0.6683.2",
+    "Version": "130.0.6699.3",
     "Channel": "Dev",
-    "StartDate": "30/8/2024",
+    "StartDate": "9/9/2024",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "130.0.6683.2",
+    "Version": "130.0.6699.3",
     "Channel": "Dev",
-    "StartDate": "30/8/2024",
+    "StartDate": "9/9/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
