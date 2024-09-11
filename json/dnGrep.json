@@ -1,38 +1,38 @@
 [
   {
-    "Version": "4.2.59.0",
-    "Date": "13/8/2024",
-    "Size": 75816960,
+    "Version": "4.2.84.0",
+    "Date": "10/9/2024",
+    "Size": 75866112,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.59.0/dnGREP.4.2.59.x64.msi"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.84.0/dnGREP.4.2.84.x64.msi"
   },
   {
-    "Version": "4.2.59.0",
-    "Date": "13/8/2024",
-    "Size": 70012928,
+    "Version": "4.2.84.0",
+    "Date": "10/9/2024",
+    "Size": 70066176,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.59.0/dnGREP.4.2.59.x86.msi"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.84.0/dnGREP.4.2.84.x86.msi"
   },
   {
-    "Version": "4.2.59.0",
-    "Date": "13/8/2024",
-    "Size": 76602434,
+    "Version": "4.2.84.0",
+    "Date": "10/9/2024",
+    "Size": 76634632,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.59.0/dnGrep.4.2.59.0.x64.zip"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.84.0/dnGrep.4.2.84.0.x64.zip"
   },
   {
-    "Version": "4.2.59.0",
-    "Date": "13/8/2024",
-    "Size": 70581226,
+    "Version": "4.2.84.0",
+    "Date": "10/9/2024",
+    "Size": 70614461,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.59.0/dnGrep.4.2.59.0.x86.zip"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.2.84.0/dnGrep.4.2.84.0.x86.zip"
   }
 ]
