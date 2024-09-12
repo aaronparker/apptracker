@@ -3,7 +3,7 @@ title: Freedom Scientific ZoomText
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: Jul 4 2024 at 12:30 AM
+last_modified_date: Sep 12 2024 at 12:36 AM
 ---
 
 ## Freedom Scientific ZoomText
@@ -14,6 +14,6 @@ Evergreen app: `FreedomScientificZoomText`. Found **1** installer.
 
 Last check: 🟢
 
-| Version      | Date     | URI                                                                                                                                                                                                                                                                        |
-| ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.2406.43 | 1/7/2024 | [https://software.vfo.digital/ZoomText/2024/2024.2406.43.400/6D35B5DF-E5A0-4B43-B19C-21EC02473219/ZT2024.2406.43.400-Offline-x64.exe](https://software.vfo.digital/ZoomText/2024/2024.2406.43.400/6D35B5DF-E5A0-4B43-B19C-21EC02473219/ZT2024.2406.43.400-Offline-x64.exe) |
+| Version     | Date     | URI                                                                                                                                                                                                                                                                    |
+| ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.2409.2 | 1/9/2024 | [https://software.vfo.digital/ZoomText/2024/2024.2409.2.400/2CFCE59D-1CD2-4943-A97E-F858F948BD5B/ZT2024.2409.2.400-Offline-x64.exe](https://software.vfo.digital/ZoomText/2024/2024.2409.2.400/2CFCE59D-1CD2-4943-A97E-F858F948BD5B/ZT2024.2409.2.400-Offline-x64.exe) |
