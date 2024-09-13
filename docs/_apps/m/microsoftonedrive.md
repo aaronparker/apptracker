@@ -3,7 +3,7 @@ title: Microsoft OneDrive
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Sep 12 2024 at 12:36 AM
+last_modified_date: Sep 13 2024 at 12:36 AM
 ---
 
 ## Microsoft OneDrive
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version          | Ring         | Throttle | Sha256                                                           | Architecture | Type | URI                                                                                                                                                                  |
 | ---------------- | ------------ | -------- | ---------------------------------------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 24.182.0909.0001 | InternalFast | 100      | e7a2c2dd6e8051c4c9ee0558643bafdabc2a6c8f519edcfdd5b199cb201a86f7 | ARM64        | exe  | [https://oneclient.sfx.ms/Win/Installers/24.182.0909.0001/arm64/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.182.0909.0001/arm64/OneDriveSetup.exe) |
-| 24.182.0909.0001 | InternalFast | 100      | ce01d3a75d6a2003d8d7f9026a997d895574cc80d15531c1ddcc68629743bbe2 | x64          | exe  | [https://oneclient.sfx.ms/Win/Installers/24.182.0909.0001/amd64/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.182.0909.0001/amd64/OneDriveSetup.exe) |
-| 24.182.0909.0001 | InternalFast | 100      | 36b125537249de94aed3a864d80a6cd7ea1a568a8dcf3c1f8b401d9eba6f303d | x86          | exe  | [https://oneclient.sfx.ms/Win/Installers/24.182.0909.0001/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.182.0909.0001/OneDriveSetup.exe)             |
+| 24.184.0911.0001 | InternalFast | 100      | 4d59ae72d8632deacaf27e5824895272e72445f2cc215041e52bc46e673ed60c | ARM64        | exe  | [https://oneclient.sfx.ms/Win/Installers/24.184.0911.0001/arm64/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.184.0911.0001/arm64/OneDriveSetup.exe) |
+| 24.184.0911.0001 | InternalFast | 100      | 61cfe8566777725c7551388da8bcd76a45a50940301d4d0cd07187d48dde5979 | x64          | exe  | [https://oneclient.sfx.ms/Win/Installers/24.184.0911.0001/amd64/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.184.0911.0001/amd64/OneDriveSetup.exe) |
+| 24.184.0911.0001 | InternalFast | 100      | fa34f8b740d2f03fa1fa3f6d336342922c987225f730d80a683403740fdd06bf | x86          | exe  | [https://oneclient.sfx.ms/Win/Installers/24.184.0911.0001/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.184.0911.0001/OneDriveSetup.exe)             |
 | 24.180.0905.0001 | InternalSlow | 100      | bec4f5aa53d7c5865737611b544385f41c712ee7250727ec18cb20cad08c5739 | ARM64        | exe  | [https://oneclient.sfx.ms/Win/Installers/24.180.0905.0001/arm64/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.180.0905.0001/arm64/OneDriveSetup.exe) |
 | 24.180.0905.0001 | InternalSlow | 100      | 4a1fc9c9db42b49d04eea2f7630ec18ee9e940ccfe01d9c8d73411e74f4e0d92 | x64          | exe  | [https://oneclient.sfx.ms/Win/Installers/24.180.0905.0001/amd64/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.180.0905.0001/amd64/OneDriveSetup.exe) |
 | 24.180.0905.0001 | InternalSlow | 100      | 2885ccee8e5191466a8ed0e2652a144a193bebb85a84658fbc42290f8782c2a8 | x86          | exe  | [https://oneclient.sfx.ms/Win/Installers/24.180.0905.0001/OneDriveSetup.exe](https://oneclient.sfx.ms/Win/Installers/24.180.0905.0001/OneDriveSetup.exe)             |

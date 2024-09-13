@@ -3,7 +3,7 @@ title: Slack
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Sep 6 2024 at 12:49 AM
+last_modified_date: Sep 13 2024 at 12:36 AM
 ---
 
 ## Slack
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Platform   | Architecture | URI                                                                                                                                                                                                              |
 | -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.40.126 | PerMachine | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.126/slack-standalone-4.40.126.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.126/slack-standalone-4.40.126.0.msi) |
-| 4.40.126 | PerUser    | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.126/SlackSetup.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.126/SlackSetup.msi)                                   |
+| 4.40.128 | PerMachine | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.128/slack-standalone-4.40.128.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.128/slack-standalone-4.40.128.0.msi) |
+| 4.40.128 | PerUser    | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.128/SlackSetup.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.128/SlackSetup.msi)                                   |
