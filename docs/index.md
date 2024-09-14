@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .new }
-> Updates are posted every 12 hours. Last generated: `Saturday 14/09/2024 00:39 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 14/09/2024 12:28 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -40,7 +40,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Adoptium Temurin 21                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin21/)                     |
 | Adoptium Temurin 22                                               | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin22/)                     |
 | Adoptium Temurin 8                                                | `30/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin8/)                      |
-| Advanced Installer                                                | `9/9/2024`  | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/a/advancedinstaller/)                     |
+| Advanced Installer                                                | `14/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/advancedinstaller/)                     |
 | Airtame App                                                       | `10/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/airtameapp/)                            |
 | Akeo Rufus                                                        | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/akeorufus/)                             |
 | Akeo Rufus (alternate method)                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/akeorufusalt/)                          |
@@ -180,7 +180,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains YouTrack                                                | `5/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jetbrainsyoutrack/)                     |
 | JGraph draw.io (diagrams.net)                                     | `30/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jgraphdrawio/)                          |
 | jq                                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
-| jrsoftware InnoSetup                                              | `13/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
+| jrsoftware InnoSetup                                              | `14/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
 | KDiff3                                                            | `14/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
 | KeePass Password Safe                                             | `14/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
