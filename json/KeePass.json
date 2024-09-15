@@ -5,7 +5,7 @@
     "Type": "exe",
     "Size": "4399360",
     "Md5": "4c1cafc2b3a380208548620a3d53dbba",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57/KeePass-2.57-Setup.exe"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57/KeePass-2.57-Setup.exe"
   },
   {
     "Version": "2.57",
@@ -13,6 +13,6 @@
     "Type": "msi",
     "Size": "3771392",
     "Md5": "c8f6eeb04d562aaf45fba3fee8c75406",
-    "URI": "https://cfhcable.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57/KeePass-2.57.msi"
+    "URI": "https://phoenixnap.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57/KeePass-2.57.msi"
   }
 ]
