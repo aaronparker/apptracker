@@ -9,12 +9,12 @@
     "Version": "5.9.0",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://releases.mattermost.com/desktop/5.9.0/mattermost-desktop-5.9.0-x64.msi"
+    "URI": "https://releases.mattermost.com/desktop/5.9.0/mattermost-desktop-5.9.0-win-x64.msi"
   },
   {
     "Version": "5.9.0",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://releases.mattermost.com/desktop/5.9.0/mattermost-desktop-5.9.0-x86.msi"
+    "URI": "https://releases.mattermost.com/desktop/5.9.0/mattermost-desktop-5.9.0-win-x86.msi"
   }
 ]
