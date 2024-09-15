@@ -12,7 +12,10 @@ last_modified_date: Sep 14 2024 at 12:24 PM
 
 Evergreen app: `AdvancedInstaller`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version | Size      | Sha256                                                           | Type | URI                                                                                                                          |
 | ------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
