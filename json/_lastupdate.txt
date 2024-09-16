@@ -28,7 +28,6 @@
 "AdvancedInstaller.json","15/9/2024 12:25:3 PM"
 "Zoom.json","15/9/2024 12:40:9 AM"
 "AdvancedInstaller.err","15/9/2024 12:40:9 AM"
-"7zip.json","14/9/2024 12:24:42 PM"
 "MicrosoftOneDrive.json","14/9/2024 12:34:59 AM"
 "MicrosoftEdge.json","14/9/2024 12:34:59 AM"
 "ResponsivelyApp.json","14/9/2024 12:34:59 AM"
