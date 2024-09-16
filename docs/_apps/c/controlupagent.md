@@ -3,7 +3,7 @@ title: ControlUp Agent
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Sep 9 2024 at 12:26 PM
+last_modified_date: Sep 16 2024 at 12:56 AM
 ---
 
 ## ControlUp Agent
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | Framework    | Architecture | URI                                                                                                                                                                                            |
 | --------- | ------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.0.5.413 | 64bit-.net48 | x64          | [https://downloads.controlup.com/agent/9.0.5.413/ControlUpAgent-net48-x64-9.0.5.413-signed.msi](https://downloads.controlup.com/agent/9.0.5.413/ControlUpAgent-net48-x64-9.0.5.413-signed.msi) |
+| 9.0.5.423 | 64bit-.net48 | x64          | [https://downloads.controlup.com/agent/9.0.5.423/ControlUpAgent-net48-x64-9.0.5.423-signed.msi](https://downloads.controlup.com/agent/9.0.5.423/ControlUpAgent-net48-x64-9.0.5.423-signed.msi) |
