@@ -1,0 +1,65 @@
+[
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 1638092,
+    "Architecture": "ARM32",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408-arm.exe"
+  },
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 1558239,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408-arm64.exe"
+  },
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 1624144,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408-x64.exe"
+  },
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 1333474,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408.exe"
+  },
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 591360,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7zr.exe"
+  },
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 1971200,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408-x64.msi"
+  },
+  {
+    "Version": "24.08",
+    "Date": "12/8/2024",
+    "Size": 1539072,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408.msi"
+  }
+]
