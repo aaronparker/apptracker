@@ -1,75 +1,75 @@
 [
   {
-    "Version": "24.003.20112",
+    "Version": "24.003.20121",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcroRdrDCx64Upd2400320112_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320121/AcroRdrDCx64Upd2400320121_MUI.msp"
   },
   {
-    "Version": "24.003.20112",
+    "Version": "24.003.20121",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcrobatDCx64Upd2400320112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320121/AcrobatDCx64Upd2400320121.msp"
   },
   {
-    "Version": "24.003.20112",
+    "Version": "24.003.20121",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcroRdrDCx64Upd2400320112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320121/AcroRdrDCx64Upd2400320121.msp"
   },
   {
-    "Version": "24.003.20112",
+    "Version": "24.003.20121",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400320112/AcroRdrDCUpd2400320112_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400320121/AcroRdrDCUpd2400320121_MUI.msp"
   },
   {
-    "Version": "24.003.20112",
+    "Version": "24.003.20121",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcrobatDCUpd2400320112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320121/AcrobatDCUpd2400320121.msp"
   },
   {
-    "Version": "24.003.20112",
+    "Version": "24.003.20121",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400320112/AcroRdrDCUpd2400320112.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400320121/AcroRdrDCUpd2400320121.msp"
   },
   {
-    "Version": "20.005.30680",
+    "Version": "20.005.30710",
     "Type": "Update",
     "Product": "Reader",
     "Track": "2020",
     "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530680/AcroRdr2020Upd2000530680_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530710/AcroRdr2020Upd2000530710_MUI.msp"
   },
   {
-    "Version": "20.005.30680",
+    "Version": "20.005.30710",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "2020",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530680/Acrobat2020Upd2000530680.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530710/Acrobat2020Upd2000530710.msp"
   },
   {
     "Version": "17.012.30262",
