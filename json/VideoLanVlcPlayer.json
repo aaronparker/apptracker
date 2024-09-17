@@ -3,7 +3,7 @@
     "Version": "3.0.20",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe"
+    "URI": "http://cofractal-ewr.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe"
   },
   {
     "Version": "3.0.20",
@@ -15,7 +15,7 @@
     "Version": "3.0.20",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi"
+    "URI": "http://cofractal-ewr.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.msi"
   },
   {
     "Version": "3.0.20",
@@ -27,7 +27,7 @@
     "Version": "3.0.20",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://irltoolkit.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip"
+    "URI": "http://cofractal-ewr.mm.fcix.net/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.zip"
   },
   {
     "Version": "3.0.20",
