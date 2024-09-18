@@ -12,7 +12,10 @@ last_modified_date: Jun 11 2024 at 12:37 AM
 
 Evergreen app: `RStudio`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot validate argument on parameter 'File'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+```
 
 | Version            | ProductName                                             | Pro   | Date       | Size      | Sha256                                                           | Type | URI                                                                                                                                                                    |
 | ------------------ | ------------------------------------------------------- | ----- | ---------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
