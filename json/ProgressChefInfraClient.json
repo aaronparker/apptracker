@@ -61,7 +61,7 @@
     "Channel": "stable",
     "Platform": "2016",
     "Sha256": "e9261944c6fd8ed7218d1909d280ae183d1afb87ce76b9ad033453b34b65fb52",
-    "URI": "https://packages.chef.io/files/stable/chef/18.5.0/windows/2016/chef-client-18.5.0-1-x64.msi"
+    "URI": "https://packages.chef.io/files/stable/chef/18.5.0/windows/11/chef-client-18.5.0-1-x64.msi"
   },
   {
     "Version": "18.5.0",
@@ -69,7 +69,7 @@
     "Channel": "stable",
     "Platform": "2019",
     "Sha256": "e9261944c6fd8ed7218d1909d280ae183d1afb87ce76b9ad033453b34b65fb52",
-    "URI": "https://packages.chef.io/files/stable/chef/18.5.0/windows/2019/chef-client-18.5.0-1-x64.msi"
+    "URI": "https://packages.chef.io/files/stable/chef/18.5.0/windows/11/chef-client-18.5.0-1-x64.msi"
   },
   {
     "Version": "18.5.0",
@@ -77,6 +77,6 @@
     "Channel": "stable",
     "Platform": "2022",
     "Sha256": "e9261944c6fd8ed7218d1909d280ae183d1afb87ce76b9ad033453b34b65fb52",
-    "URI": "https://packages.chef.io/files/stable/chef/18.5.0/windows/2022/chef-client-18.5.0-1-x64.msi"
+    "URI": "https://packages.chef.io/files/stable/chef/18.5.0/windows/11/chef-client-18.5.0-1-x64.msi"
   }
 ]
