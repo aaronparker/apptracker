@@ -3,7 +3,7 @@ title: Plex HTPC
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Aug 21 2024 at 12:33 AM
+last_modified_date: Sep 19 2024 at 12:44 AM
 ---
 
 ## Plex HTPC
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version             | Architecture | Checksum                                 | URI                                                                                                                                                                                                      |
 | ------------------- | ------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.66.1.215-6343cfaf | x64          | bac8cc0c94a30979758e87e954baf5f30aad0d42 | [https://downloads.plex.tv/htpc/1.66.1.215-6343cfaf/windows/PlexHTPC-1.66.1.215-6343cfaf-x86_64.exe](https://downloads.plex.tv/htpc/1.66.1.215-6343cfaf/windows/PlexHTPC-1.66.1.215-6343cfaf-x86_64.exe) |
+| 1.67.1.233-0ab7ab17 | x64          | 8becdb20c7c479d238f05931cc9761889286bf51 | [https://downloads.plex.tv/htpc/1.67.1.233-0ab7ab17/windows/PlexHTPC-1.67.1.233-0ab7ab17-x86_64.exe](https://downloads.plex.tv/htpc/1.67.1.233-0ab7ab17/windows/PlexHTPC-1.67.1.233-0ab7ab17-x86_64.exe) |

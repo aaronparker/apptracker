@@ -3,7 +3,7 @@ title: JetBrains DataGrip
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Sep 2 2024 at 12:18 PM
+last_modified_date: Sep 19 2024 at 12:44 AM
 ---
 
 ## JetBrains DataGrip
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsDataGrip`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build         | Edition  | Sha256                                                       | Date     | Size       | Type | URI                                                                                                            |
-| -------- | ------------- | -------- | ------------------------------------------------------------ | -------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2024.2.1 | 242.21829.173 | DataGrip | https://download.jetbrains.com/cpp/CLion-2024.2.1.exe.sha256 | 2/9/2024 | 1262259504 | exe  | [https://download.jetbrains.com/cpp/CLion-2024.2.1.exe](https://download.jetbrains.com/cpp/CLion-2024.2.1.exe) |
+| Version  | Build        | Edition  | Sha256                                                       | Date      | Size       | Type | URI                                                                                                            |
+| -------- | ------------ | -------- | ------------------------------------------------------------ | --------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------- |
+| 2024.2.2 | 242.22855.75 | DataGrip | https://download.jetbrains.com/cpp/CLion-2024.2.2.exe.sha256 | 18/9/2024 | 1262812704 | exe  | [https://download.jetbrains.com/cpp/CLion-2024.2.2.exe](https://download.jetbrains.com/cpp/CLion-2024.2.2.exe) |
