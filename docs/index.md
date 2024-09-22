@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .new }
-> Updates are posted every 12 hours. Last generated: `Saturday 21/09/2024 12:28 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 22/09/2024 00:50 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -67,7 +67,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Azul Zulu 17                                                      | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu17/)                            |
 | Azul Zulu 21                                                      | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu21/)                            |
 | Azul Zulu 8                                                       | `16/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/a/azulzulu8/)                             |
-| Beekeeper Studio                                                  | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/beekeeperstudio/)                       |
+| Beekeeper Studio                                                  | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/beekeeperstudio/)                       |
 | BellSoft Liberica JDK 11 LTS                                      | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk11/)                 |
 | BellSoft Liberica JDK 17 LTS                                      | `18/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk17/)                 |
 | BellSoft Liberica JDK 20                                          | `2/5/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk20/)                 |
@@ -96,7 +96,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | dnGrep                                                            | `11/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/dngrep/)                                |
 | Docker Compose                                                    | `20/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/dockercompose/)                         |
 | Docker Desktop                                                    | `13/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/dockerdesktop/)                         |
-| Double Commander                                                  | `20/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/doublecommander/)                       |
+| Double Commander                                                  | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/doublecommander/)                       |
 | Drata Agent                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/drataagent/)                            |
 | Druva inSync Client                                               | `14/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/d/druvainsyncclient/)                     |
 | eduVPN                                                            | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/e/eduvpn/)                                |
@@ -129,16 +129,16 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GeoGebra Classic                                                  | `13/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/geogebraclassic/)                       |
 | Gephi                                                             | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gephi/)                                 |
 | Ghisler TotalCommander                                            | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/ghislertotalcommander/)                 |
-| GIMP                                                              | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                  |
+| GIMP                                                              | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                  |
 | Git Extensions                                                    | `9/9/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gitextensions/)                         |
 | Git for Windows                                                   | `18/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gitforwindows/)                         |
 | GitHub Atom                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/githubatom/)                            |
 | GitHub Desktop                                                    | `10/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/githubdesktop/)                         |
 | GitHub release                                                    | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/githubrelease/)                         |
-| Google Chrome Enterprise                                          | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                          |
-| Google Chrome Driver                                              | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                    |
-| Google Chrome for Testing                                         | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                |
-| Google Chrome Headless Shell                                      | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)             |
+| Google Chrome Enterprise                                          | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                          |
+| Google Chrome Driver                                              | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                    |
+| Google Chrome for Testing                                         | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                |
+| Google Chrome Headless Shell                                      | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)             |
 | Google Drive                                                      | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/googledrive/)                           |
 | GoTo Connect                                                      | `11/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gotoconnect/)                           |
 | GoTo Meeting                                                      | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gotomeeting/)                           |
@@ -146,7 +146,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Gpg4win                                                           | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gpg4win/)                               |
 | Grafana Agent                                                     | `12/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                          |
 | Greenshot                                                         | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                             |
-| gretl                                                             | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                 |
+| gretl                                                             | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                 |
 | gsudo                                                             | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/g/gsudo/)                                 |
 | Handbrake                                                         | `10/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/h/handbrake/)                             |
 | Hashicorp Boundary                                                | `23/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/h/hashicorpboundary/)                     |
@@ -182,8 +182,8 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | jq                                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
 | jrsoftware InnoSetup                                              | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
-| KDiff3                                                            | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
-| KeePass Password Safe                                             | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
+| KDiff3                                                            | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
+| KeePass Password Safe                                             | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
 | KeePassXC Team KeePassXC                                          | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keepassxcteamkeepassxc/)                |
 | KeeWeb                                                            | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/keeweb/)                                |
 | Kubernetes Kubectl                                                | `17/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/k/kuberneteskubectl/)                     |
@@ -291,7 +291,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Progress Chef Infra Client                                        | `19/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)               |
 | Progress Chef InSpec                                              | `19/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                    |
 | Progress Chef Workstation                                         | `19/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/progresschefworkstation/)               |
-| ProjectLibre                                                      | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/projectlibre/)                          |
+| ProjectLibre                                                      | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/projectlibre/)                          |
 | Protege                                                           | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/protege/)                               |
 | Proton Drive                                                      | `12/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/protondrive/)                           |
 | Proton VPN                                                        | `28/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/p/protonvpn/)                             |
@@ -312,7 +312,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | RStudio Desktop                                                   | `11/6/2024` | 🔴     | [link](https://stealthpuppy.com/apptracker/apps/r/rstudio/)                               |
 | Safe Exam Browser                                                 | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/safeexambrowser/)                       |
 | Safing Portmaster                                                 | `6/6/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/safingportmaster/)                      |
-| SAGA-GIS                                                          | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/sagagis/)                               |
+| SAGA-GIS                                                          | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/sagagis/)                               |
 | Scooter Beyond Compare                                            | `16/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/scooterbeyondcompare/)                  |
 | Scratch                                                           | `12/4/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/scratch/)                               |
 | ScreenToGif                                                       | `9/9/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/s/screentogif/)                           |
@@ -346,9 +346,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Unity Editor                                                      | `24/5/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/u/unityeditor/)                           |
 | USBPcap                                                           | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/u/usbpcap/)                               |
 | vast limits uberAgent                                             | `6/9/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vastlimitsuberagent/)                   |
-| VeraCrypt                                                         | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/veracrypt/)                             |
+| VeraCrypt                                                         | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/veracrypt/)                             |
 | Vercel Hyper                                                      | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vercelhyper/)                           |
-| VideoLan VLC Player                                               | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                     |
+| VideoLan VLC Player                                               | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                     |
 | VisualCppRedistAIO                                                | `14/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/visualcppredistaio/)                    |
 | VMPlex Workstation                                                | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vmplexworkstation/)                     |
 | VMware Horizon Client (alternate method)                          | `27/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vmwarehorizonclientalt/)                |
@@ -357,7 +357,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VSCodium                                                          | `13/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/v/vscodium/)                              |
 | Win32-OpenSSH                                                     | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/win32openssh/)                          |
 | WinMerge                                                          | `28/7/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/winmerge/)                              |
-| WinSCP                                                            | `21/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/winscp/)                                |
+| WinSCP                                                            | `22/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/winscp/)                                |
 | Wireshark                                                         | `29/8/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/wireshark/)                             |
 | WiX Toolset                                                       | `8/7/2024`  | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/w/wixtoolset/)                            |
 | XnSoft Convert                                                    | `20/9/2024` | 🟢     | [link](https://stealthpuppy.com/apptracker/apps/x/xnsoftxnconvert/)                       |
