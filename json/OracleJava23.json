@@ -1,0 +1,26 @@
+[
+  {
+    "Version": "23",
+    "FullVersion": "23+37-2369",
+    "Date": "17/9/2024",
+    "Sha256": "c5d629653cfc4ae5e376cbf0848de0f821a8f94e5bac6ac5c7e8296f872be566",
+    "Type": "exe",
+    "URI": "https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe"
+  },
+  {
+    "Version": "23",
+    "FullVersion": "23+37-2369",
+    "Date": "17/9/2024",
+    "Sha256": "200af09775b54a93edd785a62909320979829c52057b84728f7d21454bab462f",
+    "Type": "msi",
+    "URI": "https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.msi"
+  },
+  {
+    "Version": "23",
+    "FullVersion": "23+37-2369",
+    "Date": "17/9/2024",
+    "Sha256": "46db9f376995a84f3d76a8c09a064f80fb17030fe586baf3efd2525d3c06607a",
+    "Type": "zip",
+    "URI": "https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.zip"
+  }
+]

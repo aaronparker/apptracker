@@ -1,9 +1,9 @@
 [
   {
     "Version": "2024.04.2+764",
-    "ProductName": "RStudio 2024.04.2+764 - Windows 10/11 (64-bit)",
+    "Date": "10/6/2024",
     "Pro": false,
-    "Date": "2024-06-10",
+    "ProductName": "RStudio 2024.04.2+764 - Windows 10/11 (64-bit)",
     "Size": 262789040,
     "Sha256": "09e1e38a7712cb1b8a26266008c189d38daed38c52fa4d96bffc0956f3aeca8b",
     "Type": "exe",
@@ -11,9 +11,9 @@
   },
   {
     "Version": "2024.04.2+764.pro1",
-    "ProductName": "RStudio Pro 2024.04.2+764.pro1 - Windows 10/11 (64-bit)",
+    "Date": "10/6/2024",
     "Pro": true,
-    "Date": "2024-06-10",
+    "ProductName": "RStudio Pro 2024.04.2+764.pro1 - Windows 10/11 (64-bit)",
     "Size": 267363752,
     "Sha256": "27b8ef0823674324310775d98c44ac6c50156d171a6d34328c9a5c84210bed04",
     "Type": "exe",
