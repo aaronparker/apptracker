@@ -3,7 +3,7 @@ title: Geek Software PDF24 Creator
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Sep 20 2024 at 12:25 PM
+last_modified_date: Sep 24 2024 at 12:37 AM
 ---
 
 ## Geek Software PDF24 Creator
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | URI                                                                                                          |
 | ------- | ---- | ------------------------------------------------------------------------------------------------------------ |
-| 11.20.0 | Exe  | [https://download.pdf24.org/pdf24-creator-11.20.0.exe](https://download.pdf24.org/pdf24-creator-11.20.0.exe) |
-| 11.20.0 | Msi  | [https://download.pdf24.org/pdf24-creator-11.20.0.msi](https://download.pdf24.org/pdf24-creator-11.20.0.msi) |
+| 11.20.1 | Exe  | [https://download.pdf24.org/pdf24-creator-11.20.1.exe](https://download.pdf24.org/pdf24-creator-11.20.1.exe) |
+| 11.20.1 | Msi  | [https://download.pdf24.org/pdf24-creator-11.20.1.msi](https://download.pdf24.org/pdf24-creator-11.20.1.msi) |
