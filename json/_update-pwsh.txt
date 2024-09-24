@@ -1,0 +1,16 @@
+json/AWSCLI.json
+json/GeekSoftwarePDF24Creator.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/KDiff3.json
+json/Microsoft365Apps.json
+json/PositRStudio.json
+json/SAGAGIS.json
+json/VideoLanVlcPlayer.json
+json/WinSCP.json
+json/gretl.json
+json/jrsoftwareInnoSetup.json
+json/MestrelabMnova.err
