@@ -1,10 +1,10 @@
 [
   {
-    "Version": "9.5.1",
+    "Version": "9.6.0",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "61803467",
-    "Md5": "e93dba8c6838b44c964765adaae90930",
-    "URI": "https://phoenixnap.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.5.1/saga-9.5.1_x64_setup.exe"
+    "Size": "57268942",
+    "Md5": "87175335785152ab6b24529e1b9a56f1",
+    "URI": "https://cfhcable.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.6.0/saga-9.6.0_x64_setup.exe"
   }
 ]

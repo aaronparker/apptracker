@@ -1,14 +1,14 @@
 [
   {
-    "Version": "3.243.1",
+    "Version": "3.244.1",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://vstsagentpackage.azureedge.net/agent/3.243.1/vsts-agent-win-x64-3.243.1.zip"
+    "URI": "https://vstsagentpackage.azureedge.net/agent/3.244.1/vsts-agent-win-x64-3.244.1.zip"
   },
   {
-    "Version": "3.243.1",
+    "Version": "3.244.1",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://vstsagentpackage.azureedge.net/agent/3.243.1/vsts-agent-win-x86-3.243.1.zip"
+    "URI": "https://vstsagentpackage.azureedge.net/agent/3.244.1/vsts-agent-win-x86-3.244.1.zip"
   }
 ]
