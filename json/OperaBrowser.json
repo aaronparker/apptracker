@@ -28,17 +28,17 @@
     "URI": "https://get.geo.opera.com/pub/opera-beta/114.0.5282.12/win/Opera_beta_114.0.5282.12_Setup.exe"
   },
   {
-    "Version": "113.0.5230.86",
+    "Version": "113.0.5230.132",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/desktop/113.0.5230.86/win/Opera_113.0.5230.86_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/desktop/113.0.5230.132/win/Opera_113.0.5230.132_Setup_x64.exe"
   },
   {
-    "Version": "113.0.5230.86",
+    "Version": "113.0.5230.132",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/desktop/113.0.5230.86/win/Opera_113.0.5230.86_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/desktop/113.0.5230.132/win/Opera_113.0.5230.132_Setup.exe"
   }
 ]
