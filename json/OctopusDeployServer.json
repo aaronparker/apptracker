@@ -1,7 +1,22 @@
 [
   {
-    "Version": "2024.3.12741",
-    "Date": "19/9/2024",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.2024.3.12741-x64.msi"
+    "Version": {
+      "Version": "2024.3.12766.0",
+      "IsLegacyVersion": false,
+      "IsSemVer2": false,
+      "OriginalString": "2024.3.12766",
+      "Major": 2024,
+      "Minor": 3,
+      "Patch": 12766,
+      "Revision": 0,
+      "ReleaseLabels": "",
+      "Release": "",
+      "IsPrerelease": false,
+      "HasMetadata": false,
+      "Format": "Semver",
+      "Metadata": ""
+    },
+    "Date": "25/9/2024",
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.@{Version=2024.3.12766.0; IsLegacyVersion=False; IsSemVer2=False; OriginalString=2024.3.12766; Major=2024; Minor=3; Patch=12766; Revision=0; ReleaseLabels=System.Object[]; Release=; IsPrerelease=False; HasMetadata=False; Format=Semver; Metadata=}-x64.msi"
   }
 ]
