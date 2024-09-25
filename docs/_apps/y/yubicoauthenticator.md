@@ -3,7 +3,7 @@ title: Yubico Authenticator
 layout: default
 nav_order: 2
 parent: Y
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Sep 25 2024 at 12:28 PM
 ---
 
 ## Yubico Authenticator
@@ -14,6 +14,6 @@ Evergreen app: `YubicoAuthenticator`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
-| ------- | -------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.0.0   | 6/5/2024 | 48648192 | x64          | Default       | msi  | [https://github.com/Yubico/yubioath-flutter/releases/download/7.0.0/yubico-authenticator-7.0.0-win64.msi](https://github.com/Yubico/yubioath-flutter/releases/download/7.0.0/yubico-authenticator-7.0.0-win64.msi) |
+| Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
+| ------- | --------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 7.1.0   | 25/9/2024 | 49950720 | x64          | Default       | msi  | [https://github.com/Yubico/yubioath-flutter/releases/download/7.1.0/yubico-authenticator-7.1.0-win64.msi](https://github.com/Yubico/yubioath-flutter/releases/download/7.1.0/yubico-authenticator-7.1.0-win64.msi) |
