@@ -3,7 +3,7 @@ title: Opera GX Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Sep 23 2024 at 12:25 PM
+last_modified_date: Sep 25 2024 at 12:38 AM
 ---
 
 ## Opera GX Browser
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version        | Channel | Architecture | Type | URI                                                                                                                                                                                                |
 | -------------- | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 113.0.5230.118 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_gx/113.0.5230.118/win/Opera_GX_113.0.5230.118_Setup_x64.exe](https://get.geo.opera.com/pub/opera_gx/113.0.5230.118/win/Opera_GX_113.0.5230.118_Setup_x64.exe) |
-| 113.0.5230.118 | Stable  | x86          | exe  | [https://get.geo.opera.com/pub/opera_gx/113.0.5230.118/win/Opera_GX_113.0.5230.118_Setup.exe](https://get.geo.opera.com/pub/opera_gx/113.0.5230.118/win/Opera_GX_113.0.5230.118_Setup.exe)         |
+| 113.0.5230.135 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_gx/113.0.5230.135/win/Opera_GX_113.0.5230.135_Setup_x64.exe](https://get.geo.opera.com/pub/opera_gx/113.0.5230.135/win/Opera_GX_113.0.5230.135_Setup_x64.exe) |
+| 113.0.5230.135 | Stable  | x86          | exe  | [https://get.geo.opera.com/pub/opera_gx/113.0.5230.135/win/Opera_GX_113.0.5230.135_Setup.exe](https://get.geo.opera.com/pub/opera_gx/113.0.5230.135/win/Opera_GX_113.0.5230.135_Setup.exe)         |
