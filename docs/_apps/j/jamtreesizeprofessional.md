@@ -3,7 +3,7 @@ title: JAM Software TreeSize Professional
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Jun 4 2024 at 12:16 PM
+last_modified_date: Sep 26 2024 at 12:50 AM
 ---
 
 ## JAM Software TreeSize Professional
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                  |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.15    | [https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe](https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe) |
+| 9.20    | [https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe](https://downloads.jam-software.de/treesize/TreeSize-x64-Demo.exe) |
