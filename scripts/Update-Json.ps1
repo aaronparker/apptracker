@@ -47,9 +47,9 @@ function Set-Culture {
 Set-Culture -Culture "en-AU"
 
 # Special apps
-$SkipApps = @("OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22")
+# $SkipApps = @("OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22")
+$SkipApps = @()
 $MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
-$WindowsApps = @("FileZilla")
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
@@ -93,52 +93,32 @@ if (Test-PSCore) {
             Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
         }
         else {
+
+            # Normalise URLs for SourceForge
+            if ($Object[0].URI -match "sourceforge.net") {
+                $Object = $Object | `
+                    ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https://([^/]+)").Captures.Groups[1].Value, "ixpeering.dl.sourceforge.net"; $_ }
+            }
+
+            # Normalise URLs for various applications
+            switch ($App) {
+                "VideoLanVlcPlayer" {
+                    $Object = $Object | `
+                        ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https://([^/]+)").Captures.Groups[1].Value, "mirrors.middlendian.com"; $_ }
+                }
+            }
+
+            # Sort and export to JSON
             ConvertTo-Json @($Output | `
                     Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
                 Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
+
+            # Remove variable
             Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
         }
     }
 }
 else {
-
-    # Windows PowerShell; Walk-through each Evergreen app and export data to JSON files
-    # foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $SkipApps } | Select-Object -ExpandProperty "Name")) {
-    #     try {
-    #         $params = @{
-    #             Name          = $App
-    #             ErrorAction   = "SilentlyContinue"
-    #             WarningAction = "SilentlyContinue"
-    #         }
-    #         if ($App -in $MozillaApps) {
-    #             $Manifest = Export-EvergreenManifest -Name $App
-    #             $params.AppParams = @{ Language = $Manifest.Get.Download.FullLanguageList }
-    #         }
-    #         $Output = Get-EvergreenApp @params
-    #     }
-    #     catch {
-    #         Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
-    #         Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
-    #         $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
-    #         $Output = $null
-    #     }
-
-    #     if ($null -eq $Output) {
-    #         Write-Host -Object "Output from app is null: $App." -ForegroundColor "Cyan"
-    #         if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
-    #             "Output from last run on Windows PowerShell was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
-    #         }
-    #     }
-    #     elseif ("RateLimited" -in $Output.Version) {
-    #         Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
-    #     }
-    #     else {
-    #         ConvertTo-Json @($Output | `
-    #                 Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
-    #             Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.json")) -NoNewline -Encoding "utf8" -Verbose
-    #         Remove-Variable -Name "Output" -ErrorAction "SilentlyContinue"
-    #     }
-    # }
 
     # Find output that doesn't exist for an application in Evergreen
     foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -notin $MozillaApps } | Sort-Object { Get-Random } | Select-Object -ExpandProperty "Name")) {
