@@ -1,26 +1,26 @@
 [
   {
-    "Version": "2024.8.120",
+    "Version": "2024.9.149",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_8_120.exe"
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_9_149.exe"
   },
   {
-    "Version": "2024.8.120",
+    "Version": "2024.9.149",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_8_120_32.exe"
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_9_149_32.exe"
   },
   {
-    "Version": "2024.8.120",
+    "Version": "2024.9.149",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_8_120.msi"
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_9_149.msi"
   },
   {
-    "Version": "2024.8.120",
+    "Version": "2024.9.149",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_8_120_32.msi"
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_9_149_32.msi"
   }
 ]
