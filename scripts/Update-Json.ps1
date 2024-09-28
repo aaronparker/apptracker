@@ -103,7 +103,7 @@ if (Test-PSCore) {
             # Normalise URLs for various applications
             switch ($App) {
                 "VideoLanVlcPlayer" {
-                    $Object = $Object | `
+                    $Output = $Output | `
                         ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https://([^/]+)").Captures.Groups[1].Value, "mirrors.middlendian.com"; $_ }
                 }
             }
