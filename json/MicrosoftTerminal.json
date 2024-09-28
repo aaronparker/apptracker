@@ -1,47 +1,47 @@
 [
   {
-    "Version": "1.21.2361.0",
-    "Date": "23/8/2024",
-    "Size": 21789960,
+    "Version": "1.21.2701.0",
+    "Date": "27/9/2024",
+    "Size": 21853143,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "msixbundle",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2361.0/Microsoft.WindowsTerminal_1.21.2361.0_8wekyb3d8bbwe.msixbundle"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2701.0/Microsoft.WindowsTerminal_1.21.2701.0_8wekyb3d8bbwe.msixbundle"
   },
   {
-    "Version": "1.21.2361.0",
-    "Date": "23/8/2024",
-    "Size": 11478209,
+    "Version": "1.21.2701.0",
+    "Date": "27/9/2024",
+    "Size": 11499875,
     "Architecture": "ARM64",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2361.0/Microsoft.WindowsTerminal_1.21.2361.0_arm64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2701.0/Microsoft.WindowsTerminal_1.21.2701.0_arm64.zip"
   },
   {
-    "Version": "1.21.2361.0",
-    "Date": "23/8/2024",
-    "Size": 11398612,
+    "Version": "1.21.2701.0",
+    "Date": "27/9/2024",
+    "Size": 11419337,
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2361.0/Microsoft.WindowsTerminal_1.21.2361.0_x64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2701.0/Microsoft.WindowsTerminal_1.21.2701.0_x64.zip"
   },
   {
-    "Version": "1.21.2361.0",
-    "Date": "23/8/2024",
-    "Size": 41205262,
+    "Version": "1.21.2701.0",
+    "Date": "27/9/2024",
+    "Size": 41266301,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2361.0/Microsoft.WindowsTerminal_1.21.2361.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2701.0/Microsoft.WindowsTerminal_1.21.2701.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
   },
   {
-    "Version": "1.21.2361.0",
-    "Date": "23/8/2024",
-    "Size": 10567637,
+    "Version": "1.21.2701.0",
+    "Date": "27/9/2024",
+    "Size": 10591163,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2361.0/Microsoft.WindowsTerminal_1.21.2361.0_x86.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.21.2701.0/Microsoft.WindowsTerminal_1.21.2701.0_x86.zip"
   }
 ]
