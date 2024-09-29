@@ -119,7 +119,7 @@ nav_order: 1
 
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
-{: .new }
+{: .important }
 > Updates are posted every 12 hours. Last generated: ``$(Get-Date -Format "dddd dd/MM/yyyy HH:mm K") $((Get-TimeZone).Id)``.
 
 ## Supported Applications
@@ -131,7 +131,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 "@
 
 # Create a table for supported applications with a last update status
-$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[Link]($("https://stealthpuppy.com/apptracker/apps/$($_.Name.Substring(0, 1))/$($_.Name)/"))".ToLower(); $_ } | `
+$SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[view]($("https://stealthpuppy.com/apptracker/apps/$($_.Name.Substring(0, 1))/$($_.Name)/"))".ToLower(); $_ } | `
     ForEach-Object {
     $Name = $_.Name
     [PSCustomObject] @{
