@@ -3,7 +3,7 @@ title: Oracle Java 21
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Sep 28 2024 at 12:26 PM
+last_modified_date: Sep 29 2024 at 12:26 PM
 ---
 
 ## Oracle Java 21
