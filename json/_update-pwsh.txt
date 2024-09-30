@@ -1,0 +1,13 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/OperaBrowser.json
+json/OracleJava17.json
+json/OracleJava20.json
+json/OracleJava21.json
+json/OracleJava22.json
+json/ProtonDrive.json
+json/VideoLanVlcPlayer.json
+json/MestrelabMnova.err

@@ -1,10 +1,10 @@
 [
   {
-    "Version": "1.6.2",
-    "Date": "12/7/2024",
-    "Release": "Stable",
-    "Sha512": "173a339ce23e2e6781c21c3329dda028f04ae59ef881bfe094cec3eda268a6e75962d1dda63c1b033a9f0c34ef0a00352bb1aebf5eb940bf9d857ef86d26814a",
+    "Version": "1.7.2",
+    "Date": "26/9/2024",
+    "Release": "EarlyAccess",
+    "Sha512": "c27f7e31f4b7331637814e721149fd87b54bb6cc0ff2c2be18ee2bad081ff474546ce50f7ab02193f702a1ff75a3fcb43a4abff0cb7fdb48e038d21c24011ca7",
     "Type": "exe",
-    "URI": "https://proton.me/download/drive/windows/1.6.2/Proton%20Drive%20Setup%201.6.2.exe"
+    "URI": "https://proton.me/download/drive/windows/1.7.2/Proton%20Drive%20Setup%201.7.2.exe"
   }
 ]
