@@ -12,10 +12,7 @@ last_modified_date: Jul 11 2024 at 12:33 AM
 
 Evergreen app: `CendioThinLinc`. Found **1** installer.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
