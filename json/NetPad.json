@@ -1,11 +1,29 @@
 [
   {
-    "Version": "0.7.2",
-    "Date": "1/7/2024",
-    "Size": 137754516,
+    "Version": "0.8.0",
+    "Date": "1/10/2024",
+    "Size": 139145253,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.7.2/netpad-0.7.2-win-x64.exe"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.8.0/netpad-0.8.0-win-x64.exe"
+  },
+  {
+    "Version": "0.8.0",
+    "Date": "1/10/2024",
+    "Size": 33999385,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.8.0/netpad_vnext-0.8.0-win-x64.exe"
+  },
+  {
+    "Version": "0.8.0",
+    "Date": "1/10/2024",
+    "Size": 46526496,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.8.0/netpad_vnext-0.8.0-win-x64.msi"
   }
 ]
