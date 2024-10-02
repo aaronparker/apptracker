@@ -3,7 +3,7 @@ title: MiniZinc IDE
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Sep 26 2024 at 12:19 PM
+last_modified_date: Oct 2 2024 at 12:18 PM
 ---
 
 ## MiniZinc IDE
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.8.6   | 26/9/2024 | 34195644 | x64          | Minimal       | exe  | [https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.6/MiniZincIDE-2.8.6-bundled-setup-win64.exe](https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.6/MiniZincIDE-2.8.6-bundled-setup-win64.exe) |
+| 2.8.7   | 2/10/2024 | 34198272 | x64          | Minimal       | exe  | [https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.7/MiniZincIDE-2.8.7-bundled-setup-win64.exe](https://github.com/MiniZinc/MiniZincIDE/releases/download/2.8.7/MiniZincIDE-2.8.7-bundled-setup-win64.exe) |
