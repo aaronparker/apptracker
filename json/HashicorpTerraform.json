@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.9.6",
+    "Version": "1.9.7",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/terraform/1.9.7/terraform_1.9.7_windows_amd64.zip"
   },
   {
-    "Version": "1.9.6",
+    "Version": "1.9.7",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/terraform/1.9.6/terraform_1.9.6_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/terraform/1.9.7/terraform_1.9.7_windows_386.zip"
   }
 ]
