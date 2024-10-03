@@ -1,26 +1,20 @@
-[
-  {
-    "Version": "20.0.2",
-    "FullVersion": "20.0.2+9",
-    "Date": "18/7/2023",
-    "Sha256": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe.sha256",
-    "Type": "exe",
-    "URI": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe"
-  },
-  {
-    "Version": "20.0.2",
-    "FullVersion": "20.0.2+9",
-    "Date": "18/7/2023",
-    "Sha256": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.msi.sha256",
-    "Type": "msi",
-    "URI": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.msi"
-  },
-  {
-    "Version": "20.0.2",
-    "FullVersion": "20.0.2+9",
-    "Date": "18/7/2023",
-    "Sha256": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip.sha256",
-    "Type": "zip",
-    "URI": "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip"
-  }
+﻿[
+    {
+        "Version":  "20.0.2",
+        "Sha256":  "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe.sha256",
+        "Type":  "exe",
+        "URI":  "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe"
+    },
+    {
+        "Version":  "20.0.2",
+        "Sha256":  "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.msi.sha256",
+        "Type":  "msi",
+        "URI":  "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.msi"
+    },
+    {
+        "Version":  "20.0.2",
+        "Sha256":  "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip.sha256",
+        "Type":  "zip",
+        "URI":  "https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.zip"
+    }
 ]
