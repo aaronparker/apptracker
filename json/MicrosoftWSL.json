@@ -1,29 +1,29 @@
 [
   {
-    "Version": "2.2.4",
-    "Date": "25/4/2024",
-    "Size": 124248064,
+    "Version": "2.3.24",
+    "Date": "19/9/2024",
+    "Size": 192491520,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/microsoft/WSL/releases/download/2.2.4/wsl.2.2.4.0.arm64.msi"
+    "URI": "https://github.com/microsoft/WSL/releases/download/2.3.24/wsl.2.3.24.0.arm64.msi"
   },
   {
-    "Version": "2.2.4",
-    "Date": "25/4/2024",
-    "Size": 134914048,
+    "Version": "2.3.24",
+    "Date": "19/9/2024",
+    "Size": 206651392,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/microsoft/WSL/releases/download/2.2.4/wsl.2.2.4.0.x64.msi"
+    "URI": "https://github.com/microsoft/WSL/releases/download/2.3.24/wsl.2.3.24.0.x64.msi"
   },
   {
-    "Version": "2.2.4",
-    "Date": "25/4/2024",
-    "Size": 259070651,
+    "Version": "2.3.24",
+    "Date": "19/9/2024",
+    "Size": 401993630,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/microsoft/WSL/releases/download/2.2.4/Microsoft.WSL_2.2.4.0_x64_ARM64.msixbundle"
+    "URI": "https://github.com/microsoft/WSL/releases/download/2.3.24/Microsoft.WSL_2.3.24.0_x64_ARM64.msixbundle"
   }
 ]
