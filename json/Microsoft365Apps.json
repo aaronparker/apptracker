@@ -18,6 +18,15 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
+    "Version": "16.0.17932.20114",
+    "ReleaseVersion": "2409",
+    "Channel": "PerpetualVL2024",
+    "Name": "Office 2024 Perpetual Enterprise",
+    "Date": "09/16/2024 21:45:10",
+    "EOSDate": "01/01/0001 00:00:00",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
     "Version": "16.0.17928.20156",
     "ReleaseVersion": "2408",
     "Channel": "SemiAnnualPreview",
