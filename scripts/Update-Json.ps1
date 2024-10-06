@@ -97,14 +97,14 @@ if (Test-PSCore) {
             # Normalise URLs for SourceForge
             if ($Output[0].URI -match "sourceforge.net") {
                 $Output = $Output | `
-                    ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https://([^/]+)").Captures.Groups[1].Value, "ixpeering.dl.sourceforge.net"; $_ }
+                    ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https?://([^/]+)").Captures.Groups[1].Value, "ixpeering.dl.sourceforge.net"; $_ }
             }
 
             # Normalise URLs for various applications
             switch ($App) {
                 "VideoLanVlcPlayer" {
                     $Output = $Output | `
-                        ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https://([^/]+)").Captures.Groups[1].Value, "mirrors.middlendian.com"; $_ }
+                        ForEach-Object { $_.URI = $_.URI -replace [RegEx]::Match($_.URI, "https?://([^/]+)").Captures.Groups[1].Value, "mirrors.middlendian.com"; $_ }
                 }
             }
 
