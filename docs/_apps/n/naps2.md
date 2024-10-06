@@ -3,7 +3,7 @@ title: Ben Olden-Cooligan NAPS2
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Aug 14 2024 at 12:41 AM
+last_modified_date: Oct 6 2024 at 12:40 AM
 ---
 
 ## Ben Olden-Cooligan NAPS2
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.5.1   | 13/8/2024 | 12297357 | x86          | Default       | exe  | [https://github.com/cyanfish/naps2/releases/download/v7.5.1/naps2-7.5.1-win.exe](https://github.com/cyanfish/naps2/releases/download/v7.5.1/naps2-7.5.1-win.exe)         |
-| 7.5.1   | 13/8/2024 | 12326723 | x64          | Default       | msi  | [https://github.com/cyanfish/naps2/releases/download/v7.5.1/naps2-7.5.1-win-x64.msi](https://github.com/cyanfish/naps2/releases/download/v7.5.1/naps2-7.5.1-win-x64.msi) |
-| 7.5.1   | 13/8/2024 | 12101439 | x86          | Default       | msi  | [https://github.com/cyanfish/naps2/releases/download/v7.5.1/naps2-7.5.1-win-x86.msi](https://github.com/cyanfish/naps2/releases/download/v7.5.1/naps2-7.5.1-win-x86.msi) |
+| 7.5.2   | 4/10/2024 | 12262328 | x86          | Default       | exe  | [https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win.exe](https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win.exe)         |
+| 7.5.2   | 4/10/2024 | 12288000 | x64          | Default       | msi  | [https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x64.msi](https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x64.msi) |
+| 7.5.2   | 4/10/2024 | 12054528 | x86          | Default       | msi  | [https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x86.msi](https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x86.msi) |
