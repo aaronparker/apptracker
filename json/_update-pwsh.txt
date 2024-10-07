@@ -1,0 +1,10 @@
+json/DoubleCommander.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/ImageMagickStudioImageMagick.json
+json/VideoLanVlcPlayer.json
+json/dbeaver.json
+json/MestrelabMnova.err
