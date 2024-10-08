@@ -12,7 +12,10 @@ last_modified_date: Aug 14 2024 at 12:41 AM
 
 Evergreen app: `MicrosoftAzureWindowsVMAgent`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version        | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                                                                    |
 | -------------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
