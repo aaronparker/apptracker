@@ -1,0 +1,15 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/HashicorpVault.json
+json/MicrosoftVisualStudioCode.json
+json/MozillaFirefox.json
+json/OperaBrowser.json
+json/Postman.json
+json/Proxyman.json
+json/RingCentral.json
+json/VideoLanVlcPlayer.json
+json/MestrelabMnova.err
+json/MicrosoftAzureWindowsVMAgent.err
