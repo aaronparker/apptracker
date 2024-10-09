@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2.57",
+    "Version": "2.57.1",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "4399360",
-    "Md5": "4c1cafc2b3a380208548620a3d53dbba",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57/KeePass-2.57-Setup.exe"
+    "Size": "4527632",
+    "Md5": "b9482a389fbb314435de979e8979c3cb",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57.1/KeePass-2.57.1-Setup.exe"
   },
   {
-    "Version": "2.57",
+    "Version": "2.57.1",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "3771392",
-    "Md5": "c8f6eeb04d562aaf45fba3fee8c75406",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57/KeePass-2.57.msi"
+    "Size": "3768832",
+    "Md5": "705a441938465bbcc6eb05a8b024d28e",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57.1/KeePass-2.57.1.msi"
   }
 ]
