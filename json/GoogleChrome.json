@@ -1,6 +1,6 @@
 [
   {
-    "Version": "131.0.6766.0",
+    "Version": "131.0.6767.0",
     "Channel": "Canary",
     "StartDate": "9/10/2024",
     "Architecture": "x86",
@@ -24,6 +24,30 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
+    "Version": "130.0.6723.44",
+    "Channel": "Stable",
+    "StartDate": "9/10/2024",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+  },
+  {
+    "Version": "130.0.6723.44",
+    "Channel": "Stable",
+    "StartDate": "9/10/2024",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "130.0.6723.44",
+    "Channel": "Stable",
+    "StartDate": "9/10/2024",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
+  },
+  {
     "Version": "130.0.6723.31",
     "Channel": "Beta",
     "StartDate": "3/10/2024",
@@ -40,33 +64,9 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "129.0.6668.101",
-    "Channel": "Stable",
-    "StartDate": "8/10/2024",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "129.0.6668.101",
-    "Channel": "Stable",
-    "StartDate": "8/10/2024",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "129.0.6668.101",
-    "Channel": "Stable",
-    "StartDate": "8/10/2024",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
-  },
-  {
     "Version": "128.0.6613.186",
     "Channel": "Extended",
-    "StartDate": "8/10/2024",
+    "StartDate": "9/10/2024",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -74,7 +74,7 @@
   {
     "Version": "128.0.6613.186",
     "Channel": "Extended",
-    "StartDate": "8/10/2024",
+    "StartDate": "9/10/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"

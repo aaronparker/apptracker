@@ -1,17 +1,17 @@
 [
   {
-    "Version": "115.0.5305.0",
+    "Version": "115.0.5314.0",
     "Channel": "Developer",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-developer/115.0.5305.0/win/Opera_Developer_115.0.5305.0_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera-developer/115.0.5314.0/win/Opera_Developer_115.0.5314.0_Setup_x64.exe"
   },
   {
-    "Version": "115.0.5305.0",
+    "Version": "115.0.5314.0",
     "Channel": "Developer",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-developer/115.0.5305.0/win/Opera_Developer_115.0.5305.0_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera-developer/115.0.5314.0/win/Opera_Developer_115.0.5314.0_Setup.exe"
   },
   {
     "Version": "114.0.5282.94",
