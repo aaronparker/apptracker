@@ -1,0 +1,15 @@
+json/AutodeskFusion360.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftVisualStudioCode.json
+json/OctopusTentacle.json
+json/OperaGXBrowser.json
+json/ProtonDrive.json
+json/VMwareTools.json
+json/VisualCppRedistAIO.json
+json/MestrelabMnova.err
+json/Microsoft365Apps.err
+json/MicrosoftAzureWindowsVMAgent.err
