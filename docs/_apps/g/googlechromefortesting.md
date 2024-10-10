@@ -3,7 +3,7 @@ title: Google Chrome for Testing
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Oct 9 2024 at 12:19 PM
+last_modified_date: Oct 10 2024 at 12:43 AM
 ---
 
 ## Google Chrome for Testing
@@ -14,13 +14,13 @@ Evergreen app: `GoogleChromeForTesting`. Found **8** installers.
 
 Last check: 🟢
 
-| Version       | Revision | Channel | Architecture | Type | URI                                                                                                                                                                                            |
-| ------------- | -------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 131.0.6766.0  | 1365920  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6766.0/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6766.0/win64/chrome-win64.zip)   |
-| 131.0.6766.0  | 1365920  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6766.0/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6766.0/win32/chrome-win32.zip)   |
-| 131.0.6753.0  | 1363009  | Dev     | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win64/chrome-win64.zip)   |
-| 131.0.6753.0  | 1363009  | Dev     | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win32/chrome-win32.zip)   |
-| 130.0.6723.31 | 1356013  | Beta    | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win64/chrome-win64.zip) |
-| 130.0.6723.31 | 1356013  | Beta    | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win32/chrome-win32.zip) |
-| 129.0.6668.91 | 1343869  | Stable  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.91/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.91/win64/chrome-win64.zip) |
-| 129.0.6668.91 | 1343869  | Stable  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.91/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.91/win32/chrome-win32.zip) |
+| Version        | Revision | Channel | Architecture | Type | URI                                                                                                                                                                                              |
+| -------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 131.0.6767.0   | 1366120  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6767.0/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6767.0/win64/chrome-win64.zip)     |
+| 131.0.6767.0   | 1366120  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6767.0/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6767.0/win32/chrome-win32.zip)     |
+| 131.0.6753.0   | 1363009  | Dev     | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win64/chrome-win64.zip)     |
+| 131.0.6753.0   | 1363009  | Dev     | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6753.0/win32/chrome-win32.zip)     |
+| 130.0.6723.31  | 1356013  | Beta    | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win64/chrome-win64.zip)   |
+| 130.0.6723.31  | 1356013  | Beta    | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.31/win32/chrome-win32.zip)   |
+| 129.0.6668.100 | 1343869  | Stable  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/win64/chrome-win64.zip) |
+| 129.0.6668.100 | 1343869  | Stable  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/win32/chrome-win32.zip) |
