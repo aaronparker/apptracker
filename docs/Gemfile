@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll", "~> 4.3.3"
+gem "jekyll", "~> 4.3.4"
 
-gem "jekyll-github-metadata", ">= 2.15"
+gem "jekyll-github-metadata", ">= 2.16.1"
 
 gem "jekyll-include-cache", group: :jekyll_plugins
 
-gem "html-proofer", "~> 5.0", :group => :development
+gem "html-proofer", "~> 5.0.9", :group => :development
