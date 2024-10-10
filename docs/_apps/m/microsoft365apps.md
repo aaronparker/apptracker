@@ -12,7 +12,10 @@ last_modified_date: Oct 10 2024 at 12:43 AM
 
 Evergreen app: `Microsoft365Apps`. Found **8** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version          | ReleaseVersion | Channel           | Name                                     | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | ---------------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
