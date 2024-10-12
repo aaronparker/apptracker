@@ -1,8 +1,8 @@
 [
   {
-    "Version": "1.102.0.230-7301ebfb",
+    "Version": "1.103.1.238-223cbba6",
     "Architecture": "x64",
-    "Checksum": "b25be5bad5fb0e9c35c8a9acdfc91b5567a1dec3",
-    "URI": "https://downloads.plex.tv/plex-desktop/1.102.0.230-7301ebfb/windows/Plex-1.102.0.230-7301ebfb-x86_64.exe"
+    "Checksum": "6121a5f5808017cd1fa861fe93db7686bcbc612e",
+    "URI": "https://downloads.plex.tv/plex-desktop/1.103.1.238-223cbba6/windows/Plex-1.103.1.238-223cbba6-x86_64.exe"
   }
 ]
