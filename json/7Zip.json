@@ -3,7 +3,7 @@
     "Version": "24.08",
     "Date": "12/8/2024",
     "Size": 1638092,
-    "Architecture": "ARM32",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ip7z/7zip/releases/download/24.08/7z2408-arm.exe"

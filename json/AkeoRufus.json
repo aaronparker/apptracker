@@ -3,7 +3,7 @@
     "Version": "4.5",
     "Date": "22/5/2024",
     "Size": 4514888,
-    "Architecture": "ARM32",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe"

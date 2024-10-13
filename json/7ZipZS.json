@@ -3,7 +3,7 @@
     "Version": "22.01",
     "Date": "18/6/2023",
     "Size": 2910111,
-    "Architecture": "ARM32",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v22.01-v1.5.5-R3/7z22.01-zstd-arm.exe"
