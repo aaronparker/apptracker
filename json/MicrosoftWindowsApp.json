@@ -1,0 +1,23 @@
+[
+  {
+    "Version": "2.0.297.0",
+    "Date": "Wed, 09 Oct 2024 15:46:20 GMT",
+    "Architecture": "ARM64",
+    "Filename": "WindowsApp_arm64_Release_2.0.297.0.msix",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9Pr"
+  },
+  {
+    "Version": "2.0.297.0",
+    "Date": "Wed, 09 Oct 2024 14:57:52 GMT",
+    "Architecture": "x64",
+    "Filename": "WindowsApp_x64_Release_2.0.297.0.msix",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9OC"
+  },
+  {
+    "Version": "2.0.297.0",
+    "Date": "Wed, 09 Oct 2024 15:45:09 GMT",
+    "Architecture": "x86",
+    "Filename": "WindowsApp_x86_Release_2.0.297.0.msix",
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9Pq"
+  }
+]
