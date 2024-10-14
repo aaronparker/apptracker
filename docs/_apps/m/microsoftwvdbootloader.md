@@ -8,7 +8,7 @@ last_modified_date: May 14 2024 at 12:29 AM
 
 ## Microsoft Azure Virtual Desktop Agent Bootloader
 
-[Source](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell)
+[Source](https://learn.microsoft.com/en-us/azure/virtual-desktop/add-session-hosts-host-pool?tabs=portal%2Cgui#register-session-hosts-to-a-host-pool)
 
 Evergreen app: `MicrosoftWvdBootloader`. Found **1** installer.
 
