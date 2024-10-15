@@ -3,7 +3,7 @@ title: GIMP
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Oct 14 2024 at 12:17 PM
+last_modified_date: Oct 15 2024 at 12:36 AM
 ---
 
 ## GIMP
@@ -14,7 +14,7 @@ Evergreen app: `Gimp`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Revision        | Channel     | Date      | Sha256                                                           | URI                                                                                                                                                    |
-| ------- | --------------- | ----------- | --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.99.18 | 0               | Development | 19/2/2024 | 2a09a05407a0dbf160f96a1ebb6455e6ffbe920bfb4c62adbb1cd83b116b7e1c | [https://volico.mm.fcix.net/gimp/gimp/v2.99/windows/gimp-2.99.18-setup.exe](https://volico.mm.fcix.net/gimp/gimp/v2.99/windows/gimp-2.99.18-setup.exe) |
-| 2.10.38 | 1               | Stable      | 3/10/2024 | bdcf059c7d4e1b0ab59f8dc5f199ebb60ae0445460bf67ff8e4e438a89cee3d8 | [https://mirrors.iu13.net/gimp/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe](https://mirrors.iu13.net/gimp/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe) |
+| Version | Revision        | Channel     | Date      | Sha256                                                           | URI                                                                                                                                                        |
+| ------- | --------------- | ----------- | --------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.99.18 | 0               | Development | 19/2/2024 | 2a09a05407a0dbf160f96a1ebb6455e6ffbe920bfb4c62adbb1cd83b116b7e1c | [https://mirrors.xmission.com/gimp/gimp/v2.99/windows/gimp-2.99.18-setup.exe](https://mirrors.xmission.com/gimp/gimp/v2.99/windows/gimp-2.99.18-setup.exe) |
+| 2.10.38 | 1               | Stable      | 3/10/2024 | bdcf059c7d4e1b0ab59f8dc5f199ebb60ae0445460bf67ff8e4e438a89cee3d8 | [https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe](https://mirror.umd.edu/gimp/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe)         |
