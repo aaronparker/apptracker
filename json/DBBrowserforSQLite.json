@@ -1,38 +1,38 @@
 [
   {
-    "Version": "3.13.0",
-    "Date": "29/6/2024",
-    "Size": 19783680,
+    "Version": "3.13.1",
+    "Date": "15/10/2024",
+    "Size": 19857408,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.0/DB.Browser.for.SQLite-v3.13.0-win64.msi"
+    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win64.msi"
   },
   {
-    "Version": "3.13.0",
-    "Date": "29/6/2024",
-    "Size": 17760256,
+    "Version": "3.13.1",
+    "Date": "15/10/2024",
+    "Size": 17891328,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.0/DB.Browser.for.SQLite-v3.13.0-win32.msi"
+    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win32.msi"
   },
   {
-    "Version": "3.13.0",
-    "Date": "29/6/2024",
-    "Size": 21627601,
+    "Version": "3.13.1",
+    "Date": "15/10/2024",
+    "Size": 21720951,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.0/DB.Browser.for.SQLite-v3.13.0-win64.zip"
+    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win64.zip"
   },
   {
-    "Version": "3.13.0",
-    "Date": "29/6/2024",
-    "Size": 19284308,
+    "Version": "3.13.1",
+    "Date": "15/10/2024",
+    "Size": 19360651,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.0/DB.Browser.for.SQLite-v3.13.0-win32.zip"
+    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win32.zip"
   }
 ]
