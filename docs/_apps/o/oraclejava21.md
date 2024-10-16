@@ -3,7 +3,7 @@ title: Oracle Java 21
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Oct 6 2024 at 12:17 PM
+last_modified_date: Oct 16 2024 at 12:36 AM
 ---
 
 ## Oracle Java 21
@@ -14,8 +14,8 @@ Evergreen app: `OracleJava21`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | FullVersion  | Date      | Sha256                                                           | Type | URI                                                                                                                                            |
-| ------- | ------------ | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 21.0.4  | 21.0.4+8-274 | 16/7/2024 | 474c49033c7e0e5fb97737896d24a90b9151fdc8ca64f55f188e4db3fcf84dcf | exe  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) |
-| 21.0.4  | 21.0.4+8-274 | 16/7/2024 | fa4e050a8535a581560ba19bd933caeb56730b5c3936180f3eb36cf0d69286af | msi  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) |
-| 21.0.4  | 21.0.4+8-274 | 16/7/2024 | a2c7030a6a46f045bab24842a39b02e1c1dd3e445d8e2422c25e59fdbc427a73 | zip  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip) |
+| Version | FullVersion | Date       | Sha256                                                           | Type | URI                                                                                                                                            |
+| ------- | ----------- | ---------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21.0.5  | 21.0.5+9    | 15/10/2024 | 9b6c4e3903b4742c52a22d1d463052ba53b55384946277d69d41ff496790576d | exe  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) |
+| 21.0.5  | 21.0.5+9    | 15/10/2024 | 10551e2b5003582599ec0e759113d3de2ca7e87d3352251e168ffc3d4a9cc6d7 | msi  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) |
+| 21.0.5  | 21.0.5+9    | 15/10/2024 | 6cce98ce38b86737c63912fd1df9ecfee1fe209ab08c0e1e16500f054e67de48 | zip  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip) |
