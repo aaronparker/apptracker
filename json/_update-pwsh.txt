@@ -1,0 +1,15 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/JabraDirect.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/MozillaThunderbird.json
+json/OctopusTentacle.json
+json/OperaGXBrowser.json
+json/VideoLanVlcPlayer.json
+json/AzulZulu23.err
+json/MestrelabMnova.err
+json/MicrosoftWvdMultimediaRedirection.err
