@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.6.7",
-    "Date": "18/7/2024",
-    "Size": 247126040,
+    "Version": "1.7.4",
+    "Date": "16/10/2024",
+    "Size": 251519976,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.exe"
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.exe"
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2.7.41491.1139",
+    "Version": "2.7.41491.1147",
     "Date": "16/9/2021",
-    "Size": 15200256,
+    "Size": 15212544,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1139AMD64/WindowsAzureVmAgent.amd64_2.7.41491.1139_2408131139.fre.msi"
+    "URI": "https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1147AMD64/WindowsAzureVmAgent.amd64_2.7.41491.1147_2410151147.fre.msi"
   }
 ]
