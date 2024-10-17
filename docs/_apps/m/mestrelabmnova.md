@@ -14,7 +14,7 @@ Evergreen app: `MestrelabMnova`. Found **2** installers.
 
 Last check: 🔴
 ```
-Get-MestrelabMnova: Xml document not returned from https://mestrelab.com/auto-upgrade-mnova/.
+Response status code does not indicate success: 404 (Not Found).
 ```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
