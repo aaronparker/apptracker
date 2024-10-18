@@ -12,10 +12,7 @@ last_modified_date: Oct 14 2024 at 12:17 PM
 
 Evergreen app: `MicrosoftWindowsApp`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version   | Date                          | Architecture | Filename                                | URI                                                                                                                                    |
 | --------- | ----------------------------- | ------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
