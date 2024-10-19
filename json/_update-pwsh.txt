@@ -1,0 +1,15 @@
+json/AWSCLI.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/ManicTimeClient.json
+json/MicrosoftOneDrive.json
+json/MicrosoftTeamsClassic.json
+json/MozillaFirefox.json
+json/VideoLanVlcPlayer.json
+json/ZoomVDI.json
+json/AzulZulu23.err
+json/MestrelabMnova.err
+json/MicrosoftWvdMultimediaRedirection.err
