@@ -5,7 +5,7 @@
     "Channel": "Development",
     "Date": "19/2/2024",
     "Sha256": "2a09a05407a0dbf160f96a1ebb6455e6ffbe920bfb4c62adbb1cd83b116b7e1c",
-    "URI": "https://mirror.umd.edu/gimp/gimp/v2.99/windows/gimp-2.99.18-setup.exe"
+    "URI": "https://mirrors.xmission.com/gimp/gimp/v2.99/windows/gimp-2.99.18-setup.exe"
   },
   {
     "Version": "2.10.38",
@@ -16,6 +16,6 @@
     "Channel": "Stable",
     "Date": "3/10/2024",
     "Sha256": "bdcf059c7d4e1b0ab59f8dc5f199ebb60ae0445460bf67ff8e4e438a89cee3d8",
-    "URI": "https://mirrors.xmission.com/gimp/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe"
+    "URI": "https://volico.mm.fcix.net/gimp/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe"
   }
 ]

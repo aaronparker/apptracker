@@ -54,22 +54,22 @@
     "URI": "https://cdn.zoom.us/prod/6.2.3.47507/ZoomInstallerFull.msi"
   },
   {
-    "Version": "6.2.0.4731",
+    "Version": "6.2.1.4746",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 363340432,
+    "Size": 363340920,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.2.0.4731/x64/zoomrooms-6.2.0.4731-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/6.2.1.4746/x64/zoomrooms-6.2.1.4746-x64.exe"
   },
   {
-    "Version": "6.2.0.4731",
+    "Version": "6.2.1.4746",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 366269440,
+    "Size": 366269952,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.2.0.4731/x64/zoomrooms-6.2.0.4731-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/6.2.1.4746/x64/zoomrooms-6.2.1.4746-x64.msi"
   },
   {
     "Version": "6.1.5.1062",
