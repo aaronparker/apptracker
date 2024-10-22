@@ -1,47 +1,47 @@
 [
   {
-    "Version": "4.5",
-    "Date": "22/5/2024",
-    "Size": 4514888,
+    "Version": "4.6",
+    "Date": "21/10/2024",
+    "Size": 4830000,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm.exe"
   },
   {
-    "Version": "4.5",
-    "Date": "22/5/2024",
-    "Size": 5079624,
+    "Version": "4.6",
+    "Date": "21/10/2024",
+    "Size": 5396784,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm64.exe"
   },
   {
-    "Version": "4.5",
-    "Date": "22/5/2024",
-    "Size": 1513032,
+    "Version": "4.6",
+    "Date": "21/10/2024",
+    "Size": 1622832,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6.exe"
   },
   {
-    "Version": "4.5",
-    "Date": "22/5/2024",
-    "Size": 1513032,
+    "Version": "4.6",
+    "Date": "21/10/2024",
+    "Size": 1622832,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5p.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6p.exe"
   },
   {
-    "Version": "4.5",
-    "Date": "22/5/2024",
-    "Size": 1527368,
+    "Version": "4.6",
+    "Date": "21/10/2024",
+    "Size": 1637680,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_x86.exe"
   }
 ]
