@@ -1,26 +1,26 @@
 [
   {
-    "Version": "4.5.2180",
+    "Version": "4.6.2208",
     "Type": "exe",
     "Architecture": "ARM32",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm.exe"
   },
   {
-    "Version": "4.5.2180",
+    "Version": "4.6.2208",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm64.exe"
   },
   {
-    "Version": "4.5.2180",
+    "Version": "4.6.2208",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_x86.exe"
   },
   {
-    "Version": "4.5.2180",
+    "Version": "4.6.2208",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm64.exe"
   }
 ]

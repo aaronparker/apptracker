@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.4.2",
-    "Build": "2.4.2.32922",
+    "Version": "2.5",
+    "Build": "2.5.1.34629",
     "Edition": "Toolbox App",
-    "Sha256": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.2.32922.exe.sha256",
-    "Date": "15/8/2024",
-    "Size": 76869048,
+    "Sha256": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.1.34629.exe.sha256",
+    "Date": "21/10/2024",
+    "Size": 82645952,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.2.32922.exe"
+    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.1.34629.exe"
   }
 ]

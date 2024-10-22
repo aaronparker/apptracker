@@ -1,38 +1,38 @@
 [
   {
-    "Version": "2.47.0.1",
-    "Date": "8/10/2024",
-    "Size": 68778832,
+    "Version": "2.47.0.2",
+    "Date": "22/10/2024",
+    "Size": 68778784,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/Git-2.47.0-64-bit.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/Git-2.47.0.2-64-bit.exe"
   },
   {
-    "Version": "2.47.0.1",
-    "Date": "8/10/2024",
-    "Size": 62065352,
+    "Version": "2.47.0.2",
+    "Date": "22/10/2024",
+    "Size": 62068112,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/PortableGit-2.47.0-64-bit.7z.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/PortableGit-2.47.0.2-64-bit.7z.exe"
   },
   {
-    "Version": "2.47.0.1",
-    "Date": "8/10/2024",
-    "Size": 63767256,
+    "Version": "2.47.0.2",
+    "Date": "22/10/2024",
+    "Size": 63786312,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/Git-2.47.0-32-bit.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/Git-2.47.0.2-32-bit.exe"
   },
   {
-    "Version": "2.47.0.1",
-    "Date": "8/10/2024",
-    "Size": 59246560,
+    "Version": "2.47.0.2",
+    "Date": "22/10/2024",
+    "Size": 59249288,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/PortableGit-2.47.0-32-bit.7z.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/PortableGit-2.47.0.2-32-bit.7z.exe"
   }
 ]
