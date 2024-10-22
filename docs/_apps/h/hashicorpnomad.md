@@ -3,7 +3,7 @@ title: Hashicorp Nomad
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: Oct 11 2024 at 12:27 PM
+last_modified_date: Oct 22 2024 at 12:39 AM
 ---
 
 ## Hashicorp Nomad
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                  |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.9.0   | zip  | x64          | [https://releases.hashicorp.com/nomad/1.9.0/nomad_1.9.0_windows_amd64.zip](https://releases.hashicorp.com/nomad/1.9.0/nomad_1.9.0_windows_amd64.zip) |
-| 1.9.0   | zip  | x86          | [https://releases.hashicorp.com/nomad/1.9.0/nomad_1.9.0_windows_386.zip](https://releases.hashicorp.com/nomad/1.9.0/nomad_1.9.0_windows_386.zip)     |
+| 1.9.1   | zip  | x64          | [https://releases.hashicorp.com/nomad/1.9.1/nomad_1.9.1_windows_amd64.zip](https://releases.hashicorp.com/nomad/1.9.1/nomad_1.9.1_windows_amd64.zip) |
+| 1.9.1   | zip  | x86          | [https://releases.hashicorp.com/nomad/1.9.1/nomad_1.9.1_windows_386.zip](https://releases.hashicorp.com/nomad/1.9.1/nomad_1.9.1_windows_386.zip)     |
