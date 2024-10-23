@@ -1,8 +1,8 @@
 [
   {
-    "Version": "1.7.1",
+    "Version": "1.7.2",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://edge.elgato.com/egc/windows/eccw/1.7.1/ControlCenter_1.7.1.600_x64.msi"
+    "URI": "https://edge.elgato.com/egc/windows/eccw/1.7.2/ControlCenter_1.7.2.624_x64.msi"
   }
 ]
