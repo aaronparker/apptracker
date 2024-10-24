@@ -3,7 +3,7 @@ title: Elgato 4K Capture Utility
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Jul 4 2024 at 12:30 AM
+last_modified_date: Oct 24 2024 at 12:35 AM
 ---
 
 ## Elgato 4K Capture Utility
@@ -14,6 +14,6 @@ Evergreen app: `Elgato4KCaptureUtility`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Architecture | Type | URI                                                                                                                                                                                    |
-| ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.7.13  | x64          | msi  | [https://edge.elgato.com/egc/windows/spotlight/1.7.13/4KCaptureUtility_1.7.13.6046_x64.msi](https://edge.elgato.com/egc/windows/spotlight/1.7.13/4KCaptureUtility_1.7.13.6046_x64.msi) |
+| Version | Architecture | Type | URI                                                                                                                                                                                      |
+| ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.7.14  | x64          | msi  | [https://edge.elgato.com/egc/windows/spotlight/1.7.14/4KCaptureUtility_1.7.14.10283_x64.msi](https://edge.elgato.com/egc/windows/spotlight/1.7.14/4KCaptureUtility_1.7.14.10283_x64.msi) |
