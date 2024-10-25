@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.2.3",
-    "Build": "242.23339.18",
+    "Version": "2024.2.4",
+    "Build": "242.23726.97",
     "Edition": "RubyMine",
-    "Sha256": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3.exe.sha256",
-    "Date": "26/9/2024",
-    "Size": 704689216,
+    "Sha256": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4.exe.sha256",
+    "Date": "25/10/2024",
+    "Size": 704757160,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3.exe"
+    "URI": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4.exe"
   }
 ]
