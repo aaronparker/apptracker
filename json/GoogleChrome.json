@@ -1,6 +1,6 @@
 [
   {
-    "Version": "132.0.6795.0",
+    "Version": "132.0.6796.0",
     "Channel": "Canary",
     "StartDate": "24/10/2024",
     "Architecture": "x86",
@@ -8,17 +8,17 @@
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
-    "Version": "132.0.6779.0",
+    "Version": "132.0.6793.2",
     "Channel": "Dev",
-    "StartDate": "17/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "132.0.6779.0",
+    "Version": "132.0.6793.2",
     "Channel": "Dev",
-    "StartDate": "17/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
@@ -42,7 +42,7 @@
   {
     "Version": "130.0.6723.70",
     "Channel": "Extended",
-    "StartDate": "22/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -50,7 +50,7 @@
   {
     "Version": "130.0.6723.70",
     "Channel": "Stable",
-    "StartDate": "22/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -58,7 +58,7 @@
   {
     "Version": "130.0.6723.70",
     "Channel": "Extended",
-    "StartDate": "22/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
@@ -66,7 +66,7 @@
   {
     "Version": "130.0.6723.70",
     "Channel": "Stable",
-    "StartDate": "22/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
@@ -74,7 +74,7 @@
   {
     "Version": "130.0.6723.70",
     "Channel": "Stable",
-    "StartDate": "22/10/2024",
+    "StartDate": "24/10/2024",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
