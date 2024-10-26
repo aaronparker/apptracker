@@ -1,0 +1,17 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/Microsoft365Apps.json
+json/MicrosoftOneDrive.json
+json/PeaZipPeaZip.json
+json/VideoLanVlcPlayer.json
+json/AzulZulu23.err
+json/KDiff3.err
+json/KeePass.err
+json/MestrelabMnova.err
+json/ProjectLibre.err
+json/SAGAGIS.err
+json/VeraCrypt.err
+json/gretl.err
