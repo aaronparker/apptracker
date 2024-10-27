@@ -12,7 +12,10 @@ last_modified_date: Sep 28 2024 at 02:02 AM
 
 Evergreen app: `ProjectLibre`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                        |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
