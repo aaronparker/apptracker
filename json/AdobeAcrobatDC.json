@@ -1,38 +1,38 @@
 [
   {
-    "Version": "24.004.20220",
+    "Version": "24.003.20112",
     "Type": "Acrobat",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400420220/AcrobatDCx64Upd2400420220.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcrobatDCx64Upd2400320112.msp"
   },
   {
-    "Version": "24.004.20220",
+    "Version": "24.003.20112",
     "Type": "Acrobat",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400420220/AcrobatDCUpd2400420220.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcrobatDCUpd2400320112.msp"
   },
   {
-    "Version": "24.004.20220",
+    "Version": "24.003.20112",
     "Type": "Reader",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400420220/AcroRdrDCx64Upd2400420220.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcroRdrDCx64Upd2400320112.msp"
   },
   {
-    "Version": "24.004.20220",
+    "Version": "24.003.20112",
     "Type": "Reader",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400420220/AcroRdrDCUpd2400420220.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400320112/AcroRdrDCUpd2400320112.msp"
   },
   {
-    "Version": "24.004.20220",
+    "Version": "24.003.20112",
     "Type": "ReaderMUI",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400420220/AcroRdrDCx64Upd2400420220_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400320112/AcroRdrDCx64Upd2400320112_MUI.msp"
   },
   {
-    "Version": "24.004.20220",
+    "Version": "24.003.20112",
     "Type": "ReaderMUI",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400420220/AcroRdrDCUpd2400420220_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400320112/AcroRdrDCUpd2400320112_MUI.msp"
   }
 ]
