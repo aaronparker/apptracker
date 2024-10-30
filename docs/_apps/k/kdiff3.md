@@ -12,10 +12,7 @@ last_modified_date: Sep 28 2024 at 02:02 AM
 
 Evergreen app: `KDiff3`. Found **2** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

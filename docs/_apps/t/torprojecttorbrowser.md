@@ -3,7 +3,7 @@ title: Tor Project Tor Browser
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Oct 23 2024 at 12:51 AM
+last_modified_date: Oct 30 2024 at 12:38 AM
 ---
 
 ## Tor Project Tor Browser
@@ -14,7 +14,7 @@ Evergreen app: `TorProjectTorBrowser`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Language | URI                                                                                                                                                                                  |
-| ------- | ------------ | ---- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 14.0    | x64          | exe  | ALL      | [https://dist.torproject.org/torbrowser/14.0/tor-browser-windows-x86_64-portable-14.0.exe](https://dist.torproject.org/torbrowser/14.0/tor-browser-windows-x86_64-portable-14.0.exe) |
-| 14.0    | x86          | exe  | ALL      | [https://dist.torproject.org/torbrowser/14.0/tor-browser-windows-i686-portable-14.0.exe](https://dist.torproject.org/torbrowser/14.0/tor-browser-windows-i686-portable-14.0.exe)     |
+| Version | Architecture | Type | Language | URI                                                                                                                                                                                          |
+| ------- | ------------ | ---- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 14.0.1  | x64          | exe  | ALL      | [https://dist.torproject.org/torbrowser/14.0.1/tor-browser-windows-x86_64-portable-14.0.1.exe](https://dist.torproject.org/torbrowser/14.0.1/tor-browser-windows-x86_64-portable-14.0.1.exe) |
+| 14.0.1  | x86          | exe  | ALL      | [https://dist.torproject.org/torbrowser/14.0.1/tor-browser-windows-i686-portable-14.0.1.exe](https://dist.torproject.org/torbrowser/14.0.1/tor-browser-windows-i686-portable-14.0.1.exe)     |

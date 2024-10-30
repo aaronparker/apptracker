@@ -3,7 +3,7 @@ title: Microsoft Azure Storage Explorer
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Oct 24 2024 at 12:20 PM
+last_modified_date: Oct 30 2024 at 12:38 AM
 ---
 
 ## Microsoft Azure Storage Explorer
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
 | ------- | ---------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.36.1  | 14/10/2024 | 136848832 | ARM64        | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.1/StorageExplorer-windows-arm64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.1/StorageExplorer-windows-arm64.exe) |
-| 1.36.1  | 14/10/2024 | 140276792 | x64          | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.1/StorageExplorer-windows-x64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.1/StorageExplorer-windows-x64.exe)     |
+| 1.36.2  | 14/10/2024 | 136791240 | ARM64        | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.2/StorageExplorer-windows-arm64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.2/StorageExplorer-windows-arm64.exe) |
+| 1.36.2  | 14/10/2024 | 140297912 | x64          | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.2/StorageExplorer-windows-x64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.36.2/StorageExplorer-windows-x64.exe)     |
