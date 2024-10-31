@@ -12,7 +12,10 @@ last_modified_date: Aug 8 2024 at 12:22 PM
 
 Evergreen app: `LehrerOffice`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Resource temporarily unavailable (cmi-bildung.ch:443)
+```
 
 | Version  | Type | URI                                                                                                                            |
 | -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
