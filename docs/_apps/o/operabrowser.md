@@ -3,7 +3,7 @@ title: Opera Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Oct 31 2024 at 12:52 AM
+last_modified_date: Nov 1 2024 at 12:41 AM
 ---
 
 ## Opera Browser
@@ -20,5 +20,5 @@ Last check: 🟢
 | 116.0.5335.0   | Developer | x86          | exe  | [https://get.geo.opera.com/pub/opera-developer/116.0.5335.0/win/Opera_Developer_116.0.5335.0_Setup.exe](https://get.geo.opera.com/pub/opera-developer/116.0.5335.0/win/Opera_Developer_116.0.5335.0_Setup.exe)         |
 | 115.0.5322.36  | Beta      | x64          | exe  | [https://get.geo.opera.com/pub/opera-beta/115.0.5322.36/win/Opera_beta_115.0.5322.36_Setup_x64.exe](https://get.geo.opera.com/pub/opera-beta/115.0.5322.36/win/Opera_beta_115.0.5322.36_Setup_x64.exe)                 |
 | 115.0.5322.36  | Beta      | x86          | exe  | [https://get.geo.opera.com/pub/opera-beta/115.0.5322.36/win/Opera_beta_115.0.5322.36_Setup.exe](https://get.geo.opera.com/pub/opera-beta/115.0.5322.36/win/Opera_beta_115.0.5322.36_Setup.exe)                         |
-| 114.0.5282.115 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/114.0.5282.115/win/Opera_114.0.5282.115_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/114.0.5282.115/win/Opera_114.0.5282.115_Setup_x64.exe)                 |
-| 114.0.5282.115 | Stable    | x86          | exe  | [https://get.geo.opera.com/pub/opera/desktop/114.0.5282.115/win/Opera_114.0.5282.115_Setup.exe](https://get.geo.opera.com/pub/opera/desktop/114.0.5282.115/win/Opera_114.0.5282.115_Setup.exe)                         |
+| 114.0.5282.144 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/114.0.5282.144/win/Opera_114.0.5282.144_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/114.0.5282.144/win/Opera_114.0.5282.144_Setup_x64.exe)                 |
+| 114.0.5282.144 | Stable    | x86          | exe  | [https://get.geo.opera.com/pub/opera/desktop/114.0.5282.144/win/Opera_114.0.5282.144_Setup.exe](https://get.geo.opera.com/pub/opera/desktop/114.0.5282.144/win/Opera_114.0.5282.144_Setup.exe)                         |

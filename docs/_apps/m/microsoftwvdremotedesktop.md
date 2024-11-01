@@ -3,7 +3,7 @@ title: Microsoft Remote Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Oct 30 2024 at 12:38 AM
+last_modified_date: Nov 1 2024 at 12:41 AM
 ---
 
 ## Microsoft Remote Desktop
@@ -17,7 +17,7 @@ Last check: 🟢
 | Version    | Date       | Channel | MD5                              | Sha2                                                                                                                             | Architecture | Filename                           | URI                                                                                                                                    |
 | ---------- | ---------- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.2.5800.0 | 29/10/2024 | Insider | 4B79C2C6E93387C8FDD66BBE3DE6E1E7 | C2BBF29CA7A19AB9A3795B61A7381EEAD073BD82E9BA7314D102D4EE58011511BDA675053C3FD11630E0D1626D0EAF784527F578E7E63661550DB8C9E5F60D0E | ARM64        | RemoteDesktop_1.2.5800.0_ARM64.msi | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1quvs](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1quvs) |
-| 1.2.5800.0 | 29/10/2024 | Insider | 6134DACC3B8E33EF14F8B6CD781938C2 | 5E8632CDF3B7FF1AE3C1D1C4F4CAA4BB89C35F691BF574B284461FB554A1424C628ADDA430E4397649198C86D36931D400506A779861E616927520FB842F2E73 | x64          | RemoteDesktop_1.2.5800.0_x64.msi   | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qzGQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qzGQ) |
+| 1.2.5800.0 | 31/10/2024 | Insider | 6134DACC3B8E33EF14F8B6CD781938C2 | 5E8632CDF3B7FF1AE3C1D1C4F4CAA4BB89C35F691BF574B284461FB554A1424C628ADDA430E4397649198C86D36931D400506A779861E616927520FB842F2E73 | x64          | RemoteDesktop_1.2.5800.0_x64.msi   | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qux7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qux7) |
 | 1.2.5800.0 | 29/10/2024 | Insider | 0F5C58F52FBD01EADA16CB31A1B1FAA6 | DDD7EE98C09E981B3FEE13EAF0C6327CB8F679E5C7333249417A9BC95D9098CFB5D3B255A8D100D8CA18AC49F51D36A868089D1A88964BFE11F698AF45FEDD07 | x86          | RemoteDesktop_1.2.5800.0_x86.msi   | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1quvq](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1quvq) |
 | 1.2.5799.0 | 16/10/2024 | Dogfood | 6D02AE60B8458805EF96995C3A9557F9 | 4975E44FE29784E907E7C143DD296D928A263427F1252B9D09EAAAA52230AFCB8BE09905BAD7514DF9E4ECCDE90F039A60B8807570EEAC081BE48504B291A9B3 | ARM64        | RemoteDesktop_1.2.5799.0_ARM64.msi | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qifU](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qifU) |
 | 1.2.5799.0 | 16/10/2024 | Dogfood | B86E1E91824CFE3886C6FFB7D84CED02 | 220A2E0CFC843BC476A545E39731F56DF93F3FD05045FEABC74C0A713BA347BCA307F6C6B2676449B2A0BB95635A909B613B13BAFE1ACE94A9A5A08CBBA8C1EE | x64          | RemoteDesktop_1.2.5799.0_x64.msi   | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qnwH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qnwH) |

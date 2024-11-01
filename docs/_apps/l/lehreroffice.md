@@ -3,7 +3,7 @@ title: LehrerOffice
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: Aug 8 2024 at 12:22 PM
+last_modified_date: Nov 1 2024 at 12:41 AM
 ---
 
 ## LehrerOffice
@@ -12,11 +12,8 @@ last_modified_date: Aug 8 2024 at 12:22 PM
 
 Evergreen app: `LehrerOffice`. Found **1** installer.
 
-Last check: 🔴
-```
-Resource temporarily unavailable (cmi-bildung.ch:443)
-```
+Last check: 🟢
 
 | Version  | Type | URI                                                                                                                            |
 | -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.3.0 | Exe  | [https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe](https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe) |
+| 2024.4.0 | Exe  | [https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe](https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe) |
