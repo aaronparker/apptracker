@@ -6,5 +6,13 @@
     "Md5sum": "ee662d3faab50a6596f339e6fb2c9d545c88c5b6",
     "Type": "msi",
     "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.4/inSync7.5.4r110875.msi"
+  },
+  {
+    "Version": "7.5.4",
+    "InstallerVersion": "inSync7.5.4r110875",
+    "CloudPlatform": "GOVCloud",
+    "Md5sum": "ee662d3faab50a6596f339e6fb2c9d545c88c5b6",
+    "Type": "msi",
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.4_Gov/inSync7.5.4r110875.msi"
   }
 ]

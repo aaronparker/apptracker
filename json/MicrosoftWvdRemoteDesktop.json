@@ -11,13 +11,13 @@
   },
   {
     "Version": "1.2.5800.0",
-    "Date": "29/10/2024",
+    "Date": "31/10/2024",
     "Channel": "Insider",
     "MD5": "6134DACC3B8E33EF14F8B6CD781938C2",
     "Sha2": "5E8632CDF3B7FF1AE3C1D1C4F4CAA4BB89C35F691BF574B284461FB554A1424C628ADDA430E4397649198C86D36931D400506A779861E616927520FB842F2E73",
     "Architecture": "x64",
     "Filename": "RemoteDesktop_1.2.5800.0_x64.msi",
-    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qzGQ"
+    "URI": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1qux7"
   },
   {
     "Version": "1.2.5800.0",
