@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Monday 04/11/2024 00:43 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 04/11/2024 12:29 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -25,9 +25,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 7-Zip                                                             | `13/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zip/)                                  |
 | 7-Zip ZS                                                          | `13/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zipzs/)                                |
 | Adobe Acrobat updates                                             | `28/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobat/)                          |
-| Adobe Acrobat DC updates                                          | `29/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatdc/)                        |
-| Adobe Acrobat DC Pro and Standard                                 | `29/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                  |
-| Adobe Acrobat Reader DC                                           | `29/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatreaderdc/)                  |
+| Adobe Acrobat DC updates                                          | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatdc/)                        |
+| Adobe Acrobat DC Pro and Standard                                 | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                  |
+| Adobe Acrobat Reader DC                                           | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatreaderdc/)                  |
 | Adobe Brackets                                                    | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobebrackets/)                         |
 | Adobe Connect meeting application                                 | `27/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeconnect/)                          |
 | Adobe Digital Editions                                            | `2/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobedigitaleditions/)                  |
@@ -40,7 +40,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Adoptium Temurin 21                                               | `24/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin21/)                     |
 | Adoptium Temurin 22                                               | `30/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin22/)                     |
 | Adoptium Temurin 8                                                | `23/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin8/)                      |
-| Advanced Installer                                                | `2/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/advancedinstaller/)                     |
+| Advanced Installer                                                | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/advancedinstaller/)                     |
 | Airtame App                                                       | `10/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/airtameapp/)                            |
 | Akeo Rufus                                                        | `22/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/akeorufus/)                             |
 | Akeo Rufus (alternate method)                                     | `22/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/akeorufusalt/)                          |
@@ -182,7 +182,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains YouTrack                                                | `5/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsyoutrack/)                     |
 | JGraph draw.io (diagrams.net)                                     | `2/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jgraphdrawio/)                          |
 | jq                                                                | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
-| jrsoftware InnoSetup                                              | `3/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
+| jrsoftware InnoSetup                                              | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
 | KDiff3                                                            | `28/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
 | KeePass Password Safe                                             | `9/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
@@ -254,7 +254,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | NetPad                                                            | `2/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/netpad/)                                |
 | NETworkManager                                                    | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/networkmanager/)                        |
 | Nevcairiel LAV Filters                                            | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/nevcairiellavfilters/)                  |
-| Nextcloud Desktop                                                 | `21/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/nextclouddesktop/)                      |
+| Nextcloud Desktop                                                 | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/nextclouddesktop/)                      |
 | Node.js                                                           | `30/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/nodejs/)                                |
 | nomacs Image Lounge                                               | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/nomacs/)                                |
 | Notable                                                           | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/n/notable/)                               |
@@ -271,7 +271,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenLens                                                          | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openlens/)                              |
 | Open-Shell-Menu                                                   | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
 | OpenWebStart                                                      | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
-| Opera Browser                                                     | `1/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
+| Opera Browser                                                     | `4/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
 | Opera GX Browser                                                  | `30/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `16/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
