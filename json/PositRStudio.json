@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2024.09.0+375",
-    "Date": "23/9/2024",
+    "Version": "2024.09.1+394",
+    "Date": "4/11/2024",
     "Pro": false,
-    "ProductName": "RStudio 2024.09.0+375 - Windows 10/11 (64-bit)",
-    "Size": 265553720,
-    "Sha256": "513216fed1f37f9251e19fd50bb10b6a6d923b0c98cd8e58665d2c9e598839ec",
+    "ProductName": "RStudio 2024.09.1+394 - Windows 10/11 (64-bit)",
+    "Size": 263709536,
+    "Sha256": "2c3cf96a23fb61c7b0a75e321bcecad076c7d9de387968521dd63520b85b0fe0",
     "Type": "exe",
-    "URI": "https://download1.rstudio.org/electron/windows/RStudio-2024.09.0-375.exe"
+    "URI": "https://download1.rstudio.org/electron/windows/RStudio-2024.09.1-394.exe"
   },
   {
-    "Version": "2024.09.0+375.pro3",
-    "Date": "23/9/2024",
+    "Version": "2024.09.1+394.pro7",
+    "Date": "4/11/2024",
     "Pro": true,
-    "ProductName": "RStudio Pro 2024.09.0+375.pro3 - Windows 10/11 (64-bit)",
-    "Size": 270207000,
-    "Sha256": "573656fda85f17facee5bc9c1103f6f5eec951ba1d09bfcc4ecc4760772f2004",
+    "ProductName": "RStudio Pro 2024.09.1+394.pro7 - Windows 10/11 (64-bit)",
+    "Size": 268360632,
+    "Sha256": "3768452b358987bf5931a5551b6e49ab88b1260d97c4add6d6751bf7b581483b",
     "Type": "exe",
-    "URI": "https://download1.rstudio.org/electron/windows/RStudio-pro-2024.09.0-375.pro3.exe"
+    "URI": "https://download1.rstudio.org/electron/windows/RStudio-pro-2024.09.1-394.pro7.exe"
   }
 ]
