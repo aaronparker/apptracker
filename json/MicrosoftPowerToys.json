@@ -1,38 +1,38 @@
 [
   {
-    "Version": "0.85.1",
-    "Date": "3/10/2024",
-    "Size": 270674144,
+    "Version": "0.86.0",
+    "Date": "1/11/2024",
+    "Size": 279761792,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.85.1/PowerToysSetup-0.85.1-arm64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.86.0/PowerToysSetup-0.86.0-arm64.exe"
   },
   {
-    "Version": "0.85.1",
-    "Date": "3/10/2024",
-    "Size": 270674184,
+    "Version": "0.86.0",
+    "Date": "1/11/2024",
+    "Size": 279761984,
     "Architecture": "ARM64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.85.1/PowerToysUserSetup-0.85.1-arm64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.86.0/PowerToysUserSetup-0.86.0-arm64.exe"
   },
   {
-    "Version": "0.85.1",
-    "Date": "3/10/2024",
-    "Size": 275096392,
+    "Version": "0.86.0",
+    "Date": "1/11/2024",
+    "Size": 284275216,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.85.1/PowerToysSetup-0.85.1-x64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.86.0/PowerToysSetup-0.86.0-x64.exe"
   },
   {
-    "Version": "0.85.1",
-    "Date": "3/10/2024",
-    "Size": 275096880,
+    "Version": "0.86.0",
+    "Date": "1/11/2024",
+    "Size": 284275840,
     "Architecture": "x64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.85.1/PowerToysUserSetup-0.85.1-x64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.86.0/PowerToysUserSetup-0.86.0-x64.exe"
   }
 ]
