@@ -12,7 +12,10 @@ last_modified_date: Nov 5 2024 at 12:38 AM
 
 Evergreen app: `MicrosoftOneDrive`. Found **24** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 503 (Service Unavailable).
+```
 
 | Version          | Ring         | Throttle | Sha256                                                           | Architecture | Type | URI                                                                                                                                                                  |
 | ---------------- | ------------ | -------- | ---------------------------------------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
