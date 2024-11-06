@@ -1,0 +1,13 @@
+json/AdobeAcrobat.json
+json/Gimp.json
+json/GitHubDesktop.json
+json/MicrosoftOneDrive.json
+json/MicrosoftVisualStudioCode.json
+json/PlexDesktop.json
+json/ProgressChefInSpec.json
+json/VideoLanVlcPlayer.json
+json/VisualCppRedistAIO.json
+json/Zoom.json
+json/AzulZulu23.err
+json/MestrelabMnova.err
+json/VMwareHorizonClientAlt.err
