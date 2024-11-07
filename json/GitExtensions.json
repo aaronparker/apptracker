@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.0",
-    "Date": "25/8/2024",
-    "Size": 23101440,
+    "Version": "5.1",
+    "Date": "6/11/2024",
+    "Size": 23138304,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v5.0/GitExtensions-x64-5.0.0.17897-2a3b78b86.msi"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v5.1/GitExtensions-x64-5.1.0.17965-f9e558c2f.msi"
   },
   {
-    "Version": "5.0",
-    "Date": "25/8/2024",
-    "Size": 16702454,
+    "Version": "5.1",
+    "Date": "6/11/2024",
+    "Size": 16740446,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v5.0/GitExtensions-Portable-x64-5.0.0.17897-2a3b78b86.zip"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v5.1/GitExtensions-Portable-x64-5.1.0.17965-f9e558c2f.zip"
   }
 ]

@@ -29,7 +29,7 @@
   {
     "Version": "24.216.1027.0001",
     "Ring": "InternalSlow",
-    "Throttle": "10",
+    "Throttle": "100",
     "Sha256": "176d766771376bc50287d371edb6da7f88ff9c2876c9805d880f2da54163c011",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -38,7 +38,7 @@
   {
     "Version": "24.216.1027.0001",
     "Ring": "InternalSlow",
-    "Throttle": "10",
+    "Throttle": "100",
     "Sha256": "cdf728486640b0a9b0fd369483267f79754a592e1ade82ae58f0727e58934b12",
     "Architecture": "x64",
     "Type": "exe",
@@ -47,7 +47,7 @@
   {
     "Version": "24.216.1027.0001",
     "Ring": "InternalSlow",
-    "Throttle": "10",
+    "Throttle": "100",
     "Sha256": "b004a03e0a5aa1732c842a2c8498419aa768f453fea7f3d62e061fc89ee06099",
     "Architecture": "x86",
     "Type": "exe",
@@ -64,15 +64,6 @@
   },
   {
     "Version": "24.211.1020.0001",
-    "Ring": "InternalSlow",
-    "Throttle": "100",
-    "Sha256": "efe9401626efeee552c510f93a4ddcdcbd39a9842541fdd4631ade169938180e",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.211.1020.0001/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.211.1020.0001",
     "Ring": "Insider",
     "Throttle": "100",
     "Sha256": "c36cd7615ef5bdd5dff4fa9deeb47891579ac2ad309b5146c681b8a486bd9448",
@@ -82,25 +73,7 @@
   },
   {
     "Version": "24.211.1020.0001",
-    "Ring": "InternalSlow",
-    "Throttle": "100",
-    "Sha256": "c36cd7615ef5bdd5dff4fa9deeb47891579ac2ad309b5146c681b8a486bd9448",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.211.1020.0001/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.211.1020.0001",
     "Ring": "Insider",
-    "Throttle": "100",
-    "Sha256": "c9aed374f149fe630f58d77adde5f05e878e3baf34938dbb84f36bc8e6c11d6a",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/24.211.1020.0001/OneDriveSetup.exe"
-  },
-  {
-    "Version": "24.211.1020.0001",
-    "Ring": "InternalSlow",
     "Throttle": "100",
     "Sha256": "c9aed374f149fe630f58d77adde5f05e878e3baf34938dbb84f36bc8e6c11d6a",
     "Architecture": "x86",
