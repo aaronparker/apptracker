@@ -12,7 +12,10 @@ last_modified_date: Sep 16 2024 at 12:56 AM
 
 Evergreen app: `ControlUpAgent`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version   | Framework    | Architecture | URI                                                                                                                                                                                            |
 | --------- | ------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

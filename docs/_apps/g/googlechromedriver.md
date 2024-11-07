@@ -3,7 +3,7 @@ title: Google Chrome Driver
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Nov 7 2024 at 12:44 AM
+last_modified_date: Nov 7 2024 at 12:27 PM
 ---
 
 ## Google Chrome Driver
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version        | Revision | Channel | Architecture | Type | URI                                                                                                                                                                                                          |
 | -------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 132.0.6823.0   | 1378986  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/132.0.6823.0/win64/chromedriver-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/132.0.6823.0/win64/chromedriver-win64.zip)     |
-| 132.0.6823.0   | 1378986  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/132.0.6823.0/win32/chromedriver-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/132.0.6823.0/win32/chromedriver-win32.zip)     |
+| 132.0.6824.0   | 1379429  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/132.0.6824.0/win64/chromedriver-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/132.0.6824.0/win64/chromedriver-win64.zip)     |
+| 132.0.6824.0   | 1379429  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/132.0.6824.0/win32/chromedriver-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/132.0.6824.0/win32/chromedriver-win32.zip)     |
 | 132.0.6811.2   | 1376716  | Dev     | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/132.0.6811.2/win64/chromedriver-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/132.0.6811.2/win64/chromedriver-win64.zip)     |
 | 132.0.6811.2   | 1376716  | Dev     | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/132.0.6811.2/win32/chromedriver-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/132.0.6811.2/win32/chromedriver-win32.zip)     |
 | 131.0.6778.33  | 1368529  | Beta    | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.33/win64/chromedriver-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.33/win64/chromedriver-win64.zip)   |

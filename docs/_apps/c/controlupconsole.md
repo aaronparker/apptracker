@@ -12,7 +12,10 @@ last_modified_date: Sep 16 2024 at 12:56 AM
 
 Evergreen app: `ControlUpConsole`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version   | URI                                                                                                                                |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
