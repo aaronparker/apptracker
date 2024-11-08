@@ -3,7 +3,7 @@ title: Azul Zulu 11
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Aug 20 2024 at 12:44 AM
+last_modified_date: Nov 8 2024 at 12:44 AM
 ---
 
 ## Azul Zulu 11
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                            |
 | --------- | ------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.24+8 | 07/16/2024 16:53:00 | jdk       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jdk11.0.24-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jdk11.0.24-win_x64.msi)   |
-| 11.0.24+8 | 07/16/2024 16:53:00 | jre       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-win_x64.msi)   |
-| 11.0.24+8 | 07/16/2024 16:53:00 | jdk       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jdk11.0.24-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jdk11.0.24-win_i686.msi) |
-| 11.0.24+8 | 07/16/2024 16:53:00 | jre       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-win_i686.msi) |
+| 11.0.25+9 | 10/10/2024 09:32:00 | jdk       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jdk11.0.25-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jdk11.0.25-win_x64.msi)   |
+| 11.0.25+9 | 10/10/2024 09:32:00 | jre       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jre11.0.25-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jre11.0.25-win_x64.msi)   |
+| 11.0.25+9 | 10/10/2024 09:32:00 | jdk       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jdk11.0.25-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jdk11.0.25-win_i686.msi) |
+| 11.0.25+9 | 10/10/2024 09:32:00 | jre       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jre11.0.25-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-jre11.0.25-win_i686.msi) |

@@ -12,7 +12,10 @@ last_modified_date: Nov 7 2024 at 12:27 PM
 
 Evergreen app: `PodmanDesktop`. Found **12** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 301 (Moved Permanently).
+```
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                        |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

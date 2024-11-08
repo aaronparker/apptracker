@@ -3,7 +3,7 @@ title: pdfforge PDFCreator
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Aug 23 2024 at 12:37 AM
+last_modified_date: Nov 8 2024 at 12:44 AM
 ---
 
 ## pdfforge PDFCreator
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size     | MD5                              | Filename                   | URI                                                                                                                                                                                                                                                        |
 | ------- | --------- | -------- | -------------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.3.1   | 22/8/2024 | 45181584 | 36d4f6d5afc8bd745e4851196ad3a48b | PDFCreator-5_3_1-Setup.exe | [https://download.pdfforge.org/download/pdfcreator/5.3.1/PDFCreator-5_3_1-Setup.exe?file=PDFCreator-5_3_1-Setup.exe&download](https://download.pdfforge.org/download/pdfcreator/5.3.1/PDFCreator-5_3_1-Setup.exe?file=PDFCreator-5_3_1-Setup.exe&download) |
+| 5.3.2   | 7/11/2024 | 45196320 | 82733be31c1abfd2a929a78f4e5be929 | PDFCreator-5_3_2-Setup.exe | [https://download.pdfforge.org/download/pdfcreator/5.3.2/PDFCreator-5_3_2-Setup.exe?file=PDFCreator-5_3_2-Setup.exe&download](https://download.pdfforge.org/download/pdfcreator/5.3.2/PDFCreator-5_3_2-Setup.exe?file=PDFCreator-5_3_2-Setup.exe&download) |
