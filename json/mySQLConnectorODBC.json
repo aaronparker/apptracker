@@ -1,0 +1,8 @@
+[
+  {
+    "Version": "9.1.0",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.mysql.com//Downloads/Connector-Net/mysql-connector-net-9.1.0.msi"
+  }
+]
