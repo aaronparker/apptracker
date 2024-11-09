@@ -12,10 +12,7 @@ last_modified_date: Oct 16 2024 at 12:36 AM
 
 Evergreen app: `TableauDesktop`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version  | Architecture | Type | URI                                                                                                                                                      |
 | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |

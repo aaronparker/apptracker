@@ -12,10 +12,7 @@ last_modified_date: Sep 16 2024 at 12:56 AM
 
 Evergreen app: `ControlUpRemoteDX`. Found **2** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version   | Plugin                          | Architecture | URI                                                                                                                                                                  |
 | --------- | ------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
