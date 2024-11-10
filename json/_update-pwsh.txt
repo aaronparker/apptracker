@@ -1,0 +1,12 @@
+json/DoubleCommander.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftEdge.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
+json/MestrelabMnova.err
+json/PodmanDesktop.err
+json/VMwareHorizonClientAlt.err
