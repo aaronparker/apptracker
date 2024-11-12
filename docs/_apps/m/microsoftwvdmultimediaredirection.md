@@ -12,10 +12,7 @@ last_modified_date: Oct 19 2024 at 12:18 PM
 
 Evergreen app: `MicrosoftWvdMultimediaRedirection`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version       | Date                          | Architecture | Filename                                 | URI                                                    |
 | ------------- | ----------------------------- | ------------ | ---------------------------------------- | ------------------------------------------------------ |
