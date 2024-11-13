@@ -1,47 +1,47 @@
 [
   {
-    "Version": "5.0.13",
-    "Date": "7/4/2023",
-    "Size": 58026078,
+    "Version": "5.1",
+    "Date": "8/8/2024",
+    "Size": 72434406,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.install.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1/paint.net.5.1.install.arm64.zip"
   },
   {
-    "Version": "5.0.13",
-    "Date": "7/4/2023",
-    "Size": 67075118,
+    "Version": "5.1",
+    "Date": "8/8/2024",
+    "Size": 88122083,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.winmsi.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1/paint.net.5.1.winmsi.arm64.zip"
   },
   {
-    "Version": "5.0.13",
-    "Date": "7/4/2023",
-    "Size": 65526921,
+    "Version": "5.1",
+    "Date": "8/8/2024",
+    "Size": 82778756,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.install.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1/paint.net.5.1.install.x64.zip"
   },
   {
-    "Version": "5.0.13",
-    "Date": "7/4/2023",
-    "Size": 74036055,
+    "Version": "5.1",
+    "Date": "8/8/2024",
+    "Size": 98275536,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.winmsi.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1/paint.net.5.1.winmsi.x64.zip"
   },
   {
-    "Version": "5.0.13",
-    "Date": "7/4/2023",
-    "Size": 764318,
+    "Version": "5.1",
+    "Date": "8/8/2024",
+    "Size": 825084,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.install.anycpu.web.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1/paint.net.5.1.install.anycpu.web.zip"
   }
 ]

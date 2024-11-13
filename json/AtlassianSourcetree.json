@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.4.20",
+    "Version": "3.4.21",
     "Type": "exe",
-    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.20.exe"
+    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.21.exe"
   },
   {
-    "Version": "3.4.20",
+    "Version": "3.4.21",
     "Type": "msi",
-    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.20.msi"
+    "URI": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.21.msi"
   }
 ]
