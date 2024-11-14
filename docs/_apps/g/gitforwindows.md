@@ -12,7 +12,10 @@ last_modified_date: Oct 22 2024 at 12:28 PM
 
 Evergreen app: `GitForWindows`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version  | Date       | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
 | -------- | ---------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
