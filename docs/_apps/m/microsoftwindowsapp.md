@@ -12,7 +12,10 @@ last_modified_date: Oct 14 2024 at 12:17 PM
 
 Evergreen app: `MicrosoftWindowsApp`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version   | Date                          | Architecture | Filename                                | URI                                                                                                                                    |
 | --------- | ----------------------------- | ------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
