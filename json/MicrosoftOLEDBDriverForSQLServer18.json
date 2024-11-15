@@ -83,11 +83,11 @@
   {
     "Version": "18.7.2.0",
     "Date": "8/7/2024",
-    "Size": 7188480,
+    "Size": 7307264,
     "Language": "Russian",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x64/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ru-RU/18.7.2.0/x64/msoledbsql.msi"
   },
   {
     "Version": "18.7.2.0",

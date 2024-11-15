@@ -1,19 +1,35 @@
 [
   {
-    "Version": "133.0.6836.0",
-    "Revision": "1382768",
+    "Version": "133.0.6837.0",
+    "Revision": "1382961",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6836.0/win64/chrome-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6837.0/win64/chrome-win64.zip"
   },
   {
-    "Version": "133.0.6836.0",
-    "Revision": "1382768",
+    "Version": "133.0.6837.0",
+    "Revision": "1382961",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6836.0/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6837.0/win32/chrome-win32.zip"
+  },
+  {
+    "Version": "133.0.6835.3",
+    "Revision": "1382105",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6835.3/win64/chrome-win64.zip"
+  },
+  {
+    "Version": "133.0.6835.3",
+    "Revision": "1382105",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6835.3/win32/chrome-win32.zip"
   },
   {
     "Version": "132.0.6834.6",
@@ -30,22 +46,6 @@
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.6/win32/chrome-win32.zip"
-  },
-  {
-    "Version": "132.0.6821.2",
-    "Revision": "1378299",
-    "Channel": "Dev",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/132.0.6821.2/win64/chrome-win64.zip"
-  },
-  {
-    "Version": "132.0.6821.2",
-    "Revision": "1378299",
-    "Channel": "Dev",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/132.0.6821.2/win32/chrome-win32.zip"
   },
   {
     "Version": "131.0.6778.69",
