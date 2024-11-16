@@ -3,7 +3,7 @@ title: Microsoft Edge WebView2 Runtime
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Nov 15 2024 at 12:49 AM
+last_modified_date: Nov 16 2024 at 12:46 AM
 ---
 
 ## Microsoft Edge WebView2 Runtime
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                                                                                                                                                                                                            |
 | ------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 131.0.2903.48 | Stable  | ARM64        | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/747e74d3-cd6d-48f3-9c29-f5f13e6e0d4d/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/747e74d3-cd6d-48f3-9c29-f5f13e6e0d4d/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe) |
-| 131.0.2903.48 | Stable  | x64          | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/93aa6c36-7437-4c82-b77a-8f78ade90455/MicrosoftEdgeWebView2RuntimeInstallerX64.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/93aa6c36-7437-4c82-b77a-8f78ade90455/MicrosoftEdgeWebView2RuntimeInstallerX64.exe)     |
-| 131.0.2903.48 | Stable  | x86          | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b2729d5-2a8e-41a8-83a1-0f2175188677/MicrosoftEdgeWebView2RuntimeInstallerX86.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b2729d5-2a8e-41a8-83a1-0f2175188677/MicrosoftEdgeWebView2RuntimeInstallerX86.exe)     |
+| 131.0.2903.51 | Stable  | ARM64        | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d154f9a-a80e-455f-91a4-e20ad97df7b7/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d154f9a-a80e-455f-91a4-e20ad97df7b7/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe) |
+| 131.0.2903.51 | Stable  | x64          | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/16336785-5d6e-466f-82fd-37c292a21d7a/MicrosoftEdgeWebView2RuntimeInstallerX64.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/16336785-5d6e-466f-82fd-37c292a21d7a/MicrosoftEdgeWebView2RuntimeInstallerX64.exe)     |
+| 131.0.2903.51 | Stable  | x86          | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c52b57c-edbe-4927-be48-cabcf7b533fe/MicrosoftEdgeWebView2RuntimeInstallerX86.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c52b57c-edbe-4927-be48-cabcf7b533fe/MicrosoftEdgeWebView2RuntimeInstallerX86.exe)     |

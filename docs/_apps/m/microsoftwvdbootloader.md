@@ -12,10 +12,7 @@ last_modified_date: May 14 2024 at 12:29 AM
 
 Evergreen app: `MicrosoftWvdBootloader`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version    | Architecture | Date                          | Size | Filename                                                         | URI                                                                                                                                  |
 | ---------- | ------------ | ----------------------------- | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
