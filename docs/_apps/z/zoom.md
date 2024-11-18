@@ -3,7 +3,7 @@ title: Zoom
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Nov 11 2024 at 12:26 PM
+last_modified_date: Nov 18 2024 at 12:21 PM
 ---
 
 ## Zoom
@@ -14,19 +14,19 @@ Evergreen app: `Zoom`. Found **14** installers.
 
 Last check: 🟢
 
-| Version     | Platform | Installer | Size      | Type | Architecture | URI                                                                                                                                          |
-| ----------- | -------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.2.7.49583 | Desktop  | User      | 86995968  | exe  | ARM64        | [https://cdn.zoom.us/prod/6.2.7.49583/arm64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.2.7.49583/arm64/ZoomInstallerFull.exe)         |
-| 6.2.7.49583 | Desktop  | User      | 108281608 | exe  | x64          | [https://cdn.zoom.us/prod/6.2.7.49583/x64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.2.7.49583/x64/ZoomInstallerFull.exe)             |
-| 6.2.7.49583 | Desktop  | User      | 99133752  | exe  | x86          | [https://cdn.zoom.us/prod/6.2.7.49583/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.2.7.49583/ZoomInstallerFull.exe)                     |
-| 6.2.7.49583 | Desktop  | Admin     | 115723776 | msi  | ARM64        | [https://cdn.zoom.us/prod/6.2.7.49583/arm64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.7.49583/arm64/ZoomInstallerFull.msi)         |
-| 6.2.7.49583 | Desktop  | Admin     | 133396992 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.7.49583/x64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.7.49583/x64/ZoomInstallerFull.msi)             |
-| 6.2.7.49583 | Desktop  | Admin     | 123675648 | msi  | x86          | [https://cdn.zoom.us/prod/6.2.7.49583/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.7.49583/ZoomInstallerFull.msi)                     |
-| 6.2.5.4848  | Rooms    | User      | 365904720 | exe  | x64          | [https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.exe](https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.exe) |
-| 6.2.5.4848  | Rooms    | Admin     | 368855040 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.msi](https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.msi) |
-| 6.2.5.1071  | Notes    | User      | 17051648  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi](https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi)                 |
-| 6.2.5.1071  | Notes    | Admin     | 18201088  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi](https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi)         |
-| 6.2.5.1070  | Outlook  | User      | 10721792  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1070/ZoomOutlookPluginSetup.msi](https://cdn.zoom.us/prod/6.2.5.1070/ZoomOutlookPluginSetup.msi)             |
-| 6.0.7.4157  | Rooms    | User      | 309175776 | exe  | x86          | [https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.exe](https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.exe)         |
-| 6.0.7.4157  | Rooms    | Admin     | 311752704 | msi  | x86          | [https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.msi](https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.msi)         |
-| 5.13.10.812 | Lync     | User      | 4914176   | msi  | x86          | [https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi](https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi)                 |
+| Version      | Platform | Installer | Size      | Type | Architecture | URI                                                                                                                                          |
+| ------------ | -------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6.2.10.50536 | Desktop  | User      | 87638640  | exe  | ARM64        | [https://cdn.zoom.us/prod/6.2.10.50536/arm64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.2.10.50536/arm64/ZoomInstallerFull.exe)       |
+| 6.2.10.50536 | Desktop  | User      | 108858832 | exe  | x64          | [https://cdn.zoom.us/prod/6.2.10.50536/x64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.2.10.50536/x64/ZoomInstallerFull.exe)           |
+| 6.2.10.50536 | Desktop  | User      | 99658048  | exe  | x86          | [https://cdn.zoom.us/prod/6.2.10.50536/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.2.10.50536/ZoomInstallerFull.exe)                   |
+| 6.2.10.50536 | Desktop  | Admin     | 116378624 | msi  | ARM64        | [https://cdn.zoom.us/prod/6.2.10.50536/arm64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.10.50536/arm64/ZoomInstallerFull.msi)       |
+| 6.2.10.50536 | Desktop  | Admin     | 133997056 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.10.50536/x64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.10.50536/x64/ZoomInstallerFull.msi)           |
+| 6.2.10.50536 | Desktop  | Admin     | 124312064 | msi  | x86          | [https://cdn.zoom.us/prod/6.2.10.50536/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.10.50536/ZoomInstallerFull.msi)                   |
+| 6.2.5.4848   | Rooms    | User      | 365904720 | exe  | x64          | [https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.exe](https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.exe) |
+| 6.2.5.4848   | Rooms    | Admin     | 368855040 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.msi](https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.msi) |
+| 6.2.5.1071   | Notes    | User      | 17051648  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi](https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi)                 |
+| 6.2.5.1071   | Notes    | Admin     | 18201088  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi](https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi)         |
+| 6.2.5.1070   | Outlook  | User      | 10721792  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1070/ZoomOutlookPluginSetup.msi](https://cdn.zoom.us/prod/6.2.5.1070/ZoomOutlookPluginSetup.msi)             |
+| 6.0.7.4157   | Rooms    | User      | 309175776 | exe  | x86          | [https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.exe](https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.exe)         |
+| 6.0.7.4157   | Rooms    | Admin     | 311752704 | msi  | x86          | [https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.msi](https://cdn.zoom.us/prod/6.0.7.4157/zoomrooms-6.0.7.4157-x86.msi)         |
+| 5.13.10.812  | Lync     | User      | 4914176   | msi  | x86          | [https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi](https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi)                 |
