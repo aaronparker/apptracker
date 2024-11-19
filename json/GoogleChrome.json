@@ -1,6 +1,6 @@
 [
   {
-    "Version": "133.0.6844.0",
+    "Version": "133.0.6845.0",
     "Channel": "Canary",
     "StartDate": "18/11/2024",
     "Architecture": "x86",
@@ -42,7 +42,7 @@
   {
     "Version": "131.0.6778.70",
     "Channel": "Stable",
-    "StartDate": "12/11/2024",
+    "StartDate": "18/11/2024",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -50,7 +50,7 @@
   {
     "Version": "131.0.6778.70",
     "Channel": "Stable",
-    "StartDate": "12/11/2024",
+    "StartDate": "18/11/2024",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
@@ -58,7 +58,7 @@
   {
     "Version": "131.0.6778.70",
     "Channel": "Stable",
-    "StartDate": "12/11/2024",
+    "StartDate": "18/11/2024",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
