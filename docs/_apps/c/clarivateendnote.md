@@ -3,7 +3,7 @@ title: Clarivate EndNote
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Jul 24 2024 at 12:32 AM
+last_modified_date: Nov 20 2024 at 12:40 AM
 ---
 
 ## Clarivate EndNote
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version      | Release | Type | URI                                                                                                                    |
 | ------------ | ------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |
-| 21.4.0.18113 | 21      | exe  | [https://download.endnote.com/downloads/21/EN21Inst.exe](https://download.endnote.com/downloads/21/EN21Inst.exe)       |
-| 21.4.0.18113 | 21      | msi  | [https://download.endnote.com/downloads/21/EN21Inst.msi](https://download.endnote.com/downloads/21/EN21Inst.msi)       |
-| 21.4.0.18113 | 21      | msp  | [http://download.endnote.com/updates/21.0/EN214Update.msp](http://download.endnote.com/updates/21.0/EN214Update.msp)   |
+| 21.5.0.18513 | 21      | exe  | [https://download.endnote.com/downloads/21/EN21Inst.exe](https://download.endnote.com/downloads/21/EN21Inst.exe)       |
+| 21.5.0.18513 | 21      | msi  | [https://download.endnote.com/downloads/21/EN21Inst.msi](https://download.endnote.com/downloads/21/EN21Inst.msi)       |
+| 21.5.0.18513 | 21      | msp  | [http://download.endnote.com/updates/21.0/EN215Update.msp](http://download.endnote.com/updates/21.0/EN215Update.msp)   |
 | 20.6.0.17174 | 20      | exe  | [https://download.endnote.com/downloads/20/EN20Inst.exe](https://download.endnote.com/downloads/20/EN20Inst.exe)       |
 | 20.6.0.17174 | 20      | msi  | [https://download.endnote.com/downloads/20/EN20Inst.msi](https://download.endnote.com/downloads/20/EN20Inst.msi)       |
 | 20.6.0.17174 | 20      | msp  | [http://download.endnote.com/updates/20.0/EN206Update.msp](http://download.endnote.com/updates/20.0/EN206Update.msp)   |
