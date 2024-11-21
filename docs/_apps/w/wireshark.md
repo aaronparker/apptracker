@@ -3,7 +3,7 @@ title: Wireshark
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: Oct 10 2024 at 12:43 AM
+last_modified_date: Nov 21 2024 at 12:38 AM
 ---
 
 ## Wireshark
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.4.1   | x64          | exe  | [https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.1-x64.exe](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.1-x64.exe)       |
-| 4.4.1   | x64          | msi  | [https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.1-x64.msi](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.1-x64.msi)       |
+| 4.4.2   | x64          | exe  | [https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.2-x64.exe](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.2-x64.exe)       |
+| 4.4.2   | x64          | msi  | [https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.2-x64.msi](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.4.2-x64.msi)       |
 | 4.0.17  | x64          | exe  | [https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-win64-4.0.17.exe](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-win64-4.0.17.exe) |
 | 4.0.17  | x64          | msi  | [https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-win64-4.0.17.msi](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-win64-4.0.17.msi) |
 | 3.6.24  | x86          | exe  | [https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.24.exe](https://2.na.dl.wireshark.org/win32/Wireshark-win32-3.6.24.exe)                           |

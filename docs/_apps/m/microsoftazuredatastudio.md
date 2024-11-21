@@ -3,7 +3,7 @@ title: Microsoft Azure Data Studio
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Aug 16 2024 at 12:40 AM
+last_modified_date: Nov 21 2024 at 12:38 AM
 ---
 
 ## Microsoft Azure Data Studio
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Channel | Platform       | Sha256                                                           | Type | URI                                                                                                                                                                                                                                                                  |
 | ------- | ------- | -------------- | ---------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.49.1  | Stable  | win32-x64      | 153a345f15f7cab8bb5f95c6f485751df0108c04906583d143e5adc2ac6a21cc | exe  | [https://download.microsoft.com/download/7/8/3/783c2037-8607-43c4-a593-0936e965d38b/azuredatastudio-windows-setup-1.49.1.exe](https://download.microsoft.com/download/7/8/3/783c2037-8607-43c4-a593-0936e965d38b/azuredatastudio-windows-setup-1.49.1.exe)           |
-| 1.49.1  | Stable  | win32-x64-user | a9805dd11407f88810780cd03247ea31bd86e9e8cb14ed30776a704c38ad42b3 | exe  | [https://download.microsoft.com/download/7/8/3/783c2037-8607-43c4-a593-0936e965d38b/azuredatastudio-windows-user-setup-1.49.1.exe](https://download.microsoft.com/download/7/8/3/783c2037-8607-43c4-a593-0936e965d38b/azuredatastudio-windows-user-setup-1.49.1.exe) |
+| 1.50.0  | Stable  | win32-x64      | d07ec37b93941038926441da67a28b3f48491b05ce370da91b49d007db888ab4 | exe  | [https://download.microsoft.com/download/4/d/b/4dbf3bbc-418c-42db-ae0d-a52135b7d991/azuredatastudio-windows-setup-1.50.0.exe](https://download.microsoft.com/download/4/d/b/4dbf3bbc-418c-42db-ae0d-a52135b7d991/azuredatastudio-windows-setup-1.50.0.exe)           |
+| 1.50.0  | Stable  | win32-x64-user | d5dc2e688a1445f81453f0c9aed1fbe9313b40561dcc720e4a4332a09f21c2c7 | exe  | [https://download.microsoft.com/download/4/d/b/4dbf3bbc-418c-42db-ae0d-a52135b7d991/azuredatastudio-windows-user-setup-1.50.0.exe](https://download.microsoft.com/download/4/d/b/4dbf3bbc-418c-42db-ae0d-a52135b7d991/azuredatastudio-windows-user-setup-1.50.0.exe) |

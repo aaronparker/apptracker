@@ -14,7 +14,7 @@ Evergreen app: `MestrelabMnova`. Found **2** installers.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 404 (Not Found).
+The SSL connection could not be established, see inner exception.
 ```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
