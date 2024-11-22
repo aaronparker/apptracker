@@ -3,7 +3,7 @@ title: Tower
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Nov 19 2024 at 12:48 AM
+last_modified_date: Nov 22 2024 at 12:48 AM
 ---
 
 ## Tower
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Channel | sha1                                     | Type | URI                                                                                                                                                  |
 | ------- | ------- | ---------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.0.492 | beta    | 90DD742414E5FFD4CD69D42116DEEE6844FC6C32 | exe  | [https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.exe](https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.exe) |
-| 8.0.492 | stable  | 90DD742414E5FFD4CD69D42116DEEE6844FC6C32 | exe  | [https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.exe](https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.exe) |
-| 8.0.492 | beta    | 5A10D4AD5AEDA8B957362123C722956C1C42E2D2 | msi  | [https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.msi](https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.msi) |
-| 8.0.492 | stable  | 5A10D4AD5AEDA8B957362123C722956C1C42E2D2 | msi  | [https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.msi](https://www.git-tower.com/apps/tower3-win/492-cb21208b/Tower-8.0.492.msi) |
+| 8.1.494 | beta    | 5D0DF8E7C2D395A6BA9F59C175C17A012F1AA58A | exe  | [https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.exe](https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.exe) |
+| 8.1.494 | stable  | 5D0DF8E7C2D395A6BA9F59C175C17A012F1AA58A | exe  | [https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.exe](https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.exe) |
+| 8.1.494 | beta    | EC7EDE58B519350C3A82270C3F6245E41D8047AE | msi  | [https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.msi](https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.msi) |
+| 8.1.494 | stable  | EC7EDE58B519350C3A82270C3F6245E41D8047AE | msi  | [https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.msi](https://www.git-tower.com/apps/tower3-win/494-0a17c2a1/Tower-8.1.494.msi) |

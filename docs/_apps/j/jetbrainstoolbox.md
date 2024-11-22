@@ -3,7 +3,7 @@ title: JetBrains Toolbox App
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Oct 22 2024 at 12:28 PM
+last_modified_date: Nov 22 2024 at 12:48 AM
 ---
 
 ## JetBrains Toolbox App
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Build       | Edition     | Sha256                                                                          | Date       | Size     | Type | URI                                                                                                                                                  |
 | ------- | ----------- | ----------- | ------------------------------------------------------------------------------- | ---------- | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.5     | 2.5.1.34629 | Toolbox App | https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.1.34629.exe.sha256 | 21/10/2024 | 82645952 | exe  | [https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.1.34629.exe](https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.1.34629.exe) |
+| 2.5.2   | 2.5.2.35332 | Toolbox App | https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.2.35332.exe.sha256 | 21/11/2024 | 82677184 | exe  | [https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.2.35332.exe](https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.5.2.35332.exe) |
