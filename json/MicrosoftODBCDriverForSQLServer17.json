@@ -137,11 +137,11 @@
   {
     "Version": "17.10.6.1",
     "Date": "8/4/2024",
-    "Size": 2592768,
+    "Size": 2678784,
     "Language": "German",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/en-US/17.10.6.1/x86/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/6/f/f/6ffefc73-39ab-4cc0-bb7c-4093d64c2669/de-DE/17.10.6.1/x86/msodbcsql.msi"
   },
   {
     "Version": "17.10.6.1",

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.11.41858-alpha",
+    "Version": "2024.11.202049-alpha",
     "Architecture": "x64",
     "Release": "Alpha",
-    "Date": "2024-11-04T19:11:21.942Z",
-    "Size": 311092440,
-    "Sha512": "1LiXQJ+6j48vt35V/fV/Bh578lvo9OAylM5enaCcfww+b00sHtgj5l4+JO5I7uh6LS84K0jrAi5IAMoaFniJyQ==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.11.41858-alpha.exe"
+    "Date": "2024-11-20T21:59:07.81Z",
+    "Size": 293853248,
+    "Sha512": "7r51SWyxer4xmmCa4ZGJbLT98tcjH4G4bIF+Hgfrx4Y2ZX0YlawSsfPFyBzUKztX3UPxUrervuZMr/GzntxAxg==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202024.11.202049-alpha.exe"
   },
   {
     "Version": "2024.11.131815-latest",
