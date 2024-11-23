@@ -365,6 +365,7 @@ jobs:
             # Get endpoint URLs from Evergreen manifests and post to the downloads endpoint
             $UrlMatch = "http[s]?\:\/\/([^\/?#]+)(?:[\/?#]|$)"
             $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/json" -Recurse -Include "*.json" | ForEach-Object {
+              Write-Host "Processing: $($_.FullName)"
               [PSCustomObject]@{
                   Application = $_.BaseName
                   Endpoints   = @(((((Select-String -Path $_.FullName -Pattern $UrlMatch).Matches.Value | `
