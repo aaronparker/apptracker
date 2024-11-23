@@ -3,7 +3,7 @@ title: Zoom Plugins for VDI
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Nov 19 2024 at 12:48 AM
+last_modified_date: Nov 23 2024 at 12:44 AM
 ---
 
 ## Zoom Plugins for VDI
@@ -19,5 +19,5 @@ Last check: 🟢
 | Latest  | Citrix    | Admin     | 94507008  | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi)           |
 | Latest  | Universal | Admin     | 128203776 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi) |
 | Latest  | Universal | Admin     | 126946304 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi)               |
-| Latest  | VDIClient | Admin     | 141449216 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi)                   |
+| Latest  | VDIClient | Admin     | 141443584 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi)                   |
 | Latest  | VDIClient | Admin     | 123638272 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi)                           |
