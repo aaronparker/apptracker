@@ -1,51 +1,37 @@
 [
   {
-    "Version": "4.4.7.28397",
+    "Version": "5.0.3.30258",
     "Language": "Chinese (Simplified)",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.scootersoftware.com/BCompare-zh-4.4.7.28397.exe"
+    "URI": "https://www.scootersoftware.com/BCompare-zh-5.0.3.30258.exe"
   },
   {
-    "Version": "4.4.7.28397",
+    "Version": "5.0.3.30258",
     "Language": "English",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.scootersoftware.com/BCompare-4.4.7.28397.exe"
+    "URI": "https://www.scootersoftware.com/BCompare-5.0.3.30258.exe"
   },
   {
-    "Version": "4.4.7.28397",
+    "Version": "5.0.3.30258",
     "Language": "French",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.scootersoftware.com/BCompare-fr-4.4.7.28397.exe"
+    "URI": "https://www.scootersoftware.com/BCompare-fr-5.0.3.30258.exe"
   },
   {
-    "Version": "4.4.7.28397",
+    "Version": "5.0.3.30258",
     "Language": "German",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.scootersoftware.com/BCompare-de-4.4.7.28397.exe"
+    "URI": "https://www.scootersoftware.com/BCompare-de-5.0.3.30258.exe"
   },
   {
-    "Version": "4.4.7.28397",
+    "Version": "5.0.3.30258",
     "Language": "Japanese",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.scootersoftware.com/BCompare-jp-4.4.7.28397.exe"
-  },
-  {
-    "Version": "4.4.7.28397",
-    "Language": "English",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://www.scootersoftware.com/files/BCompare-4.4.7.28397_x64.msi"
-  },
-  {
-    "Version": "4.4.7.28397",
-    "Language": "English",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://www.scootersoftware.com/files/BCompare-4.4.7.28397_x86.msi"
+    "URI": "https://www.scootersoftware.com/BCompare-jp-5.0.3.30258.exe"
   }
 ]
