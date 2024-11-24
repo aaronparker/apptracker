@@ -3,7 +3,7 @@ title: Adoptium Temurin 22
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jul 30 2024 at 12:41 AM
+last_modified_date: Nov 24 2024 at 12:18 PM
 ---
 
 ## Adoptium Temurin 22
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Date                | ImageType | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                                                                                                                                                |
 | -------- | ------------------- | --------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 22.0.2+9 | 07/19/2024 17:30:30 | jre       | 976ca7a664831ac76cd956ce525e6c86ddcadb70c0bc29a3754c55c991955cb7 | 34783232  | x64          | msi  | [https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_windows_hotspot_22.0.2_9.msi](https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_windows_hotspot_22.0.2_9.msi) |
-| 22.0.2+9 | 07/19/2024 17:29:59 | jdk       | d961cb2e612223e94b0506c61e1360d11b8961eab822ff12fa9b8921c4627a25 | 179064832 | x64          | msi  | [https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.msi](https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.msi) |
+| 22.0.1+8 | 04/20/2024 11:38:34 | jre       | 6d918aa3c1cbad4c70afe9563f057dcf39b3c2dff2ae01e44e1e89f237399d96 | 34902016  | x64          | msi  | [https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jre_x64_windows_hotspot_22.0.1_8.msi](https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jre_x64_windows_hotspot_22.0.1_8.msi) |
+| 22.0.1+8 | 04/20/2024 11:39:02 | jdk       | 89387f079e372b70a57c6a2f778a4020144cb19ae44f49b066c83d9410938e2f | 180178944 | x64          | msi  | [https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.msi](https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.msi) |
