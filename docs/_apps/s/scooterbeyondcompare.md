@@ -3,23 +3,21 @@ title: Scooter Beyond Compare
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jul 16 2024 at 12:21 PM
+last_modified_date: Nov 24 2024 at 12:41 AM
 ---
 
 ## Scooter Beyond Compare
 
 [Source](https://scootersoftware.com/)
 
-Evergreen app: `ScooterBeyondCompare`. Found **7** installers.
+Evergreen app: `ScooterBeyondCompare`. Found **5** installers.
 
 Last check: 🟢
 
-| Version     | Language             | Architecture | Type | URI                                                                                                                                      |
-| ----------- | -------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.4.7.28397 | Chinese (Simplified) | x86          | exe  | [https://www.scootersoftware.com/BCompare-zh-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-zh-4.4.7.28397.exe)               |
-| 4.4.7.28397 | English              | x86          | exe  | [https://www.scootersoftware.com/BCompare-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-4.4.7.28397.exe)                     |
-| 4.4.7.28397 | French               | x86          | exe  | [https://www.scootersoftware.com/BCompare-fr-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-fr-4.4.7.28397.exe)               |
-| 4.4.7.28397 | German               | x86          | exe  | [https://www.scootersoftware.com/BCompare-de-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-de-4.4.7.28397.exe)               |
-| 4.4.7.28397 | Japanese             | x86          | exe  | [https://www.scootersoftware.com/BCompare-jp-4.4.7.28397.exe](https://www.scootersoftware.com/BCompare-jp-4.4.7.28397.exe)               |
-| 4.4.7.28397 | English              | x64          | msi  | [https://www.scootersoftware.com/files/BCompare-4.4.7.28397_x64.msi](https://www.scootersoftware.com/files/BCompare-4.4.7.28397_x64.msi) |
-| 4.4.7.28397 | English              | x86          | msi  | [https://www.scootersoftware.com/files/BCompare-4.4.7.28397_x86.msi](https://www.scootersoftware.com/files/BCompare-4.4.7.28397_x86.msi) |
+| Version     | Language             | Architecture | Type | URI                                                                                                                        |
+| ----------- | -------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------- |
+| 5.0.3.30258 | Chinese (Simplified) | x86          | exe  | [https://www.scootersoftware.com/BCompare-zh-5.0.3.30258.exe](https://www.scootersoftware.com/BCompare-zh-5.0.3.30258.exe) |
+| 5.0.3.30258 | English              | x86          | exe  | [https://www.scootersoftware.com/BCompare-5.0.3.30258.exe](https://www.scootersoftware.com/BCompare-5.0.3.30258.exe)       |
+| 5.0.3.30258 | French               | x86          | exe  | [https://www.scootersoftware.com/BCompare-fr-5.0.3.30258.exe](https://www.scootersoftware.com/BCompare-fr-5.0.3.30258.exe) |
+| 5.0.3.30258 | German               | x86          | exe  | [https://www.scootersoftware.com/BCompare-de-5.0.3.30258.exe](https://www.scootersoftware.com/BCompare-de-5.0.3.30258.exe) |
+| 5.0.3.30258 | Japanese             | x86          | exe  | [https://www.scootersoftware.com/BCompare-jp-5.0.3.30258.exe](https://www.scootersoftware.com/BCompare-jp-5.0.3.30258.exe) |
