@@ -1,18 +1,18 @@
 [
   {
-    "Version": "6.3.5",
+    "Version": "6.3.6",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "11611592",
-    "Md5": "d77322dc956da781905d553e3feb9153",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.5/WinSCP-6.3.5-Setup.exe"
+    "Size": "11635448",
+    "Md5": "0a1b121b231b15939169a6c61c9e6c9c",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.6/WinSCP-6.3.6-Setup.exe"
   },
   {
-    "Version": "6.3.5",
+    "Version": "6.3.6",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "27963392",
-    "Md5": "f510e02613d075787364bb9b1c6a1abd",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.5/WinSCP-6.3.5.msi"
+    "Size": "27975680",
+    "Md5": "e39cf570feee452c0f94878033b341d4",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.6/WinSCP-6.3.6.msi"
   }
 ]
