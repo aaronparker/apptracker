@@ -12,10 +12,7 @@ last_modified_date: Jul 29 2024 at 12:15 PM
 
 Evergreen app: `ElgatoWaveLink`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Time-out).
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                  |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
