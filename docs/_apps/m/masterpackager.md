@@ -3,7 +3,7 @@ title: Master Packager
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jun 18 2024 at 12:32 AM
+last_modified_date: Nov 28 2024 at 12:21 PM
 ---
 
 ## Master Packager
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | Type | URI                                                                                                                                            |
 | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 24.5.8934 | Free | [https://www.masterpackager.com/installer/masterpackager_24.5.8934.msi](https://www.masterpackager.com/installer/masterpackager_24.5.8934.msi) |
+| 24.8.9063 | Free | [https://www.masterpackager.com/installer/masterpackager_24.8.9063.msi](https://www.masterpackager.com/installer/masterpackager_24.8.9063.msi) |
