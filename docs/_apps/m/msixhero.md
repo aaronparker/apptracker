@@ -12,7 +12,10 @@ last_modified_date: Oct 13 2024 at 12:24 PM
 
 Evergreen app: `MSIXHero`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Date       | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                      |
 | ------- | ---------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
