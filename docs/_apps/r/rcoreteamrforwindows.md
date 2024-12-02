@@ -12,10 +12,7 @@ last_modified_date: Nov 1 2024 at 12:27 PM
 
 Evergreen app: `RCoreTeamRforWindows`. Found **1** installer.
 
-Last check: 🔴
-```
-Connection timed out (cran.r-project.org:443)
-```
+Last check: 🟢
 
 | Version | URI                                                                                                                        |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |
