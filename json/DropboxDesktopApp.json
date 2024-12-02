@@ -1,10 +1,10 @@
 [
   {
-    "Version": "212.4.5767",
+    "Version": "213.3.4480",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Filename": "Dropbox 212.4.5767 Offline Installer.arm64.exe",
-    "URI": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20212.4.5767%20Offline%20Installer.arm64.exe"
+    "Filename": "Dropbox 213.3.4480 Offline Installer.arm64.exe",
+    "URI": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20213.3.4480%20Offline%20Installer.arm64.exe"
   },
   {
     "Version": "212.4.5767",
