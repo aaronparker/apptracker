@@ -1,11 +1,11 @@
 [
   {
-    "Version": "24.2.5",
-    "Date": "15/11/2024",
-    "Size": 119013880,
+    "Version": "24.3.0",
+    "Date": "28/11/2024",
+    "Size": 119032440,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbeaver/dbeaver/releases/download/24.2.5/dbeaver-ce-24.2.5-x86_64-setup.exe"
+    "URI": "https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-x86_64-setup.exe"
   }
 ]
