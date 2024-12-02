@@ -3,7 +3,7 @@ title: Zoom
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Nov 25 2024 at 12:20 PM
+last_modified_date: Dec 2 2024 at 12:35 PM
 ---
 
 ## Zoom
@@ -22,8 +22,8 @@ Last check: 🟢
 | 6.2.11.50939 | Desktop  | Admin     | 116341760 | msi  | ARM64        | [https://cdn.zoom.us/prod/6.2.11.50939/arm64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.11.50939/arm64/ZoomInstallerFull.msi)       |
 | 6.2.11.50939 | Desktop  | Admin     | 134032896 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.11.50939/x64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.11.50939/x64/ZoomInstallerFull.msi)           |
 | 6.2.11.50939 | Desktop  | Admin     | 124345344 | msi  | x86          | [https://cdn.zoom.us/prod/6.2.11.50939/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.2.11.50939/ZoomInstallerFull.msi)                   |
-| 6.2.5.4848   | Rooms    | User      | 365904720 | exe  | x64          | [https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.exe](https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.exe) |
-| 6.2.5.4848   | Rooms    | Admin     | 368855040 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.msi](https://cdn.zoom.us/prod/6.2.5.4848/x64/zoomrooms-6.2.5.4848-x64.msi) |
+| 6.2.7.5001   | Rooms    | User      | 365886032 | exe  | x64          | [https://cdn.zoom.us/prod/6.2.7.5001/x64/zoomrooms-6.2.7.5001-x64.exe](https://cdn.zoom.us/prod/6.2.7.5001/x64/zoomrooms-6.2.7.5001-x64.exe) |
+| 6.2.7.5001   | Rooms    | Admin     | 368835584 | msi  | x64          | [https://cdn.zoom.us/prod/6.2.7.5001/x64/zoomrooms-6.2.7.5001-x64.msi](https://cdn.zoom.us/prod/6.2.7.5001/x64/zoomrooms-6.2.7.5001-x64.msi) |
 | 6.2.5.1071   | Notes    | User      | 17051648  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi](https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi)                 |
 | 6.2.5.1071   | Notes    | Admin     | 18201088  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi](https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi)         |
 | 6.2.5.1070   | Outlook  | User      | 10721792  | msi  | x86          | [https://cdn.zoom.us/prod/6.2.5.1070/ZoomOutlookPluginSetup.msi](https://cdn.zoom.us/prod/6.2.5.1070/ZoomOutlookPluginSetup.msi)             |
