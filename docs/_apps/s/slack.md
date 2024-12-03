@@ -3,7 +3,7 @@ title: Slack
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Nov 20 2024 at 12:40 AM
+last_modified_date: Dec 3 2024 at 12:49 AM
 ---
 
 ## Slack
@@ -14,7 +14,7 @@ Evergreen app: `Slack`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Platform   | Architecture | URI                                                                                                                                                                                                          |
-| ------- | ---------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4.41.98 | PerMachine | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.98/slack-standalone-4.41.98.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.98/slack-standalone-4.41.98.0.msi) |
-| 4.41.98 | PerUser    | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.98/SlackSetup.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.98/SlackSetup.msi)                                 |
+| Version  | Platform   | Architecture | URI                                                                                                                                                                                                              |
+| -------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.41.104 | PerMachine | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.104/slack-standalone-4.41.104.0.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.104/slack-standalone-4.41.104.0.msi) |
+| 4.41.104 | PerUser    | x64          | [https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.104/SlackSetup.msi](https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.104/SlackSetup.msi)                                   |
