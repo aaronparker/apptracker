@@ -1,65 +1,65 @@
 [
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 113053496,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 113262952,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-arm64-24.7.17-windows-arm64-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-arm64-25.0.1-windows-arm64-installer.exe"
   },
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 112838840,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 113048256,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-arm64-24.7.17-windows-arm64-no-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-arm64-25.0.1-windows-arm64-no-installer.exe"
   },
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 109331352,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 109432872,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-24.7.17-windows-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-25.0.1-windows-installer.exe"
   },
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 109116408,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 109217904,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-24.7.17-windows-no-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-25.0.1-windows-no-installer.exe"
   },
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 104406640,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 104578168,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-ia32-24.7.17-windows-32bit-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-ia32-25.0.1-windows-32bit-installer.exe"
   },
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 104192136,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 104363656,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-ia32-24.7.17-windows-32bit-no-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-ia32-25.0.1-windows-32bit-no-installer.exe"
   },
   {
-    "Version": "24.7.17",
-    "Date": "1/10/2024",
-    "Size": 119103488,
+    "Version": "25.0.1",
+    "Date": "2/12/2024",
+    "Size": 119173120,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v24.7.17/draw.io-24.7.17.msi"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v25.0.1/draw.io-25.0.1.msi"
   }
 ]
