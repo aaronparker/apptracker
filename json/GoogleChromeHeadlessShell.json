@@ -1,35 +1,35 @@
 [
   {
-    "Version": "133.0.6878.0",
-    "Revision": "1392035",
+    "Version": "133.0.6879.0",
+    "Revision": "1392139",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6878.0/win64/chrome-headless-shell-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6879.0/win64/chrome-headless-shell-win64.zip"
   },
   {
-    "Version": "133.0.6878.0",
-    "Revision": "1392035",
+    "Version": "133.0.6879.0",
+    "Revision": "1392139",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6878.0/win32/chrome-headless-shell-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6879.0/win32/chrome-headless-shell-win32.zip"
   },
   {
-    "Version": "133.0.6847.2",
-    "Revision": "1384930",
+    "Version": "133.0.6876.4",
+    "Revision": "1391421",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6847.2/win64/chrome-headless-shell-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6876.4/win64/chrome-headless-shell-win64.zip"
   },
   {
-    "Version": "133.0.6847.2",
-    "Revision": "1384930",
+    "Version": "133.0.6876.4",
+    "Revision": "1391421",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6847.2/win32/chrome-headless-shell-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/133.0.6876.4/win32/chrome-headless-shell-win32.zip"
   },
   {
     "Version": "132.0.6834.32",
