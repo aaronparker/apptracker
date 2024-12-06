@@ -3,7 +3,7 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Dec 5 2024 at 12:20 PM
+last_modified_date: Dec 6 2024 at 12:42 AM
 ---
 
 ## Google Chrome Enterprise
@@ -14,15 +14,15 @@ Evergreen app: `GoogleChrome`. Found **10** installers.
 
 Last check: 🟢
 
-| Version        | Channel  | StartDate  | Architecture | Type | URI                                                                                                                                                                                |
-| -------------- | -------- | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 133.0.6878.0   | Canary   | 5/12/2024  | x86          | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
-| 133.0.6847.2   | Dev      | 21/11/2024 | x64          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)     |
-| 133.0.6847.2   | Dev      | 21/11/2024 | x86          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)         |
-| 132.0.6834.32  | Beta     | 4/12/2024  | x64          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi) |
-| 132.0.6834.32  | Beta     | 4/12/2024  | x86          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi)     |
-| 131.0.6778.109 | Stable   | 3/12/2024  | x64          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
-| 131.0.6778.109 | Stable   | 3/12/2024  | x86          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
-| 131.0.6778.109 | Stable   | 3/12/2024  | x64          | zip  | [https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip](https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip)                           |
-| 130.0.6723.152 | Extended | 3/12/2024  | x64          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
-| 130.0.6723.152 | Extended | 3/12/2024  | x86          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
+| Version        | Channel  | StartDate | Architecture | Type | URI                                                                                                                                                                                |
+| -------------- | -------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 133.0.6879.0   | Canary   | 5/12/2024 | x86          | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
+| 133.0.6876.4   | Dev      | 5/12/2024 | x64          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)     |
+| 133.0.6876.4   | Dev      | 5/12/2024 | x86          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)         |
+| 132.0.6834.32  | Beta     | 4/12/2024 | x64          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi) |
+| 132.0.6834.32  | Beta     | 4/12/2024 | x86          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi)     |
+| 131.0.6778.109 | Stable   | 5/12/2024 | x64          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
+| 131.0.6778.109 | Stable   | 5/12/2024 | x86          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
+| 131.0.6778.109 | Stable   | 5/12/2024 | x64          | zip  | [https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip](https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip)                           |
+| 130.0.6723.152 | Extended | 6/12/2024 | x64          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
+| 130.0.6723.152 | Extended | 6/12/2024 | x86          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi)                       |
