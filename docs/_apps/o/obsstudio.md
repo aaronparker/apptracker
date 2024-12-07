@@ -3,7 +3,7 @@ title: OBS Studio
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Sep 1 2024 at 12:25 PM
+last_modified_date: Dec 7 2024 at 12:24 PM
 ---
 
 ## OBS Studio
@@ -14,6 +14,6 @@ Evergreen app: `OBSStudio`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Architecture | URI                                                                                                                                                                        |
-| ------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 30.2.3  | x64          | [https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.3-Windows-Installer.exe](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.3-Windows-Installer.exe) |
+| Version | Architecture | URI                                                                                                                                                                    |
+| ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 31.0    | x64          | [https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0-Windows-Installer.exe](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0-Windows-Installer.exe) |
