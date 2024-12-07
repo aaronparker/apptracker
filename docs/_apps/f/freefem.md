@@ -12,7 +12,10 @@ last_modified_date: Jul 8 2024 at 07:15 AM
 
 Evergreen app: `FreeFem`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
