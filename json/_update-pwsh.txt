@@ -1,0 +1,16 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/Pandoc.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
+json/FreeFem.err
+json/MSIXHero.err
+json/MestrelabMnova.err
+json/PodmanDesktop.err
+json/TableauDesktop.err
+json/TableauPrep.err
+json/TableauReader.err
+json/VMwareHorizonClientAlt.err
