@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Saturday 07/12/2024 12:27 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 08/12/2024 00:44 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -132,13 +132,13 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GeoGebra Classic                                                  | `3/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/geogebraclassic/)                       |
 | Gephi                                                             | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gephi/)                                 |
 | Ghisler TotalCommander                                            | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/ghislertotalcommander/)                 |
-| GIMP                                                              | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                  |
+| GIMP                                                              | `8/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                  |
 | Git Extensions                                                    | `9/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gitextensions/)                         |
 | Git for Windows                                                   | `26/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gitforwindows/)                         |
 | GitHub Atom                                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/githubatom/)                            |
 | GitHub Desktop                                                    | `6/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/githubdesktop/)                         |
 | GitHub release                                                    | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/githubrelease/)                         |
-| Google Chrome Enterprise                                          | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                          |
+| Google Chrome Enterprise                                          | `8/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                          |
 | Google Chrome Driver                                              | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                    |
 | Google Chrome for Testing                                         | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                |
 | Google Chrome Headless Shell                                      | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)             |
@@ -159,7 +159,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Hashicorp Terraform                                               | `4/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpterraform/)                    |
 | Hashicorp Vault                                                   | `22/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpvault/)                        |
 | Hashicorp Waypoint                                                | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpwaypoint/)                     |
-| ImageGlass                                                        | `22/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imageglass/)                            |
+| ImageGlass                                                        | `8/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imageglass/)                            |
 | ImageMagick Studio ImageMagick                                    | `17/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imagemagickstudioimagemagick/)          |
 | JabraDirect                                                       | `17/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jabradirect/)                           |
 | JAM Software TreeSize Free                                        | `7/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jamtreesizefree/)                       |
@@ -359,7 +359,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | vast limits uberAgent                                             | `6/9/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vastlimitsuberagent/)                   |
 | VeraCrypt                                                         | `28/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/veracrypt/)                             |
 | Vercel Hyper                                                      | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vercelhyper/)                           |
-| VideoLan VLC Player                                               | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                     |
+| VideoLan VLC Player                                               | `8/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                     |
 | VisualCppRedistAIO                                                | `6/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/visualcppredistaio/)                    |
 | VMPlex Workstation                                                | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vmplexworkstation/)                     |
 | VMware Horizon Client (alternate method)                          | `27/7/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/v/vmwarehorizonclientalt/)                |
