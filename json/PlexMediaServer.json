@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.41.2.9200-c6bbc1b53",
+    "Version": "1.41.3.9292-bc7397402",
     "Architecture": "x64",
-    "Checksum": "9024ba8a9dfa487f4a05563e1aa24759ac3a0eb3",
-    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/windows/PlexMediaServer-1.41.2.9200-c6bbc1b53-x86_64.exe"
+    "Checksum": "fe6ddd4f97a82360bbd3e32769927966dfb2c035",
+    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.3.9292-bc7397402/windows/PlexMediaServer-1.41.3.9292-bc7397402-x86_64.exe"
   },
   {
-    "Version": "1.41.2.9200-c6bbc1b53",
+    "Version": "1.41.3.9292-bc7397402",
     "Architecture": "x86",
-    "Checksum": "023ee98750bffa2593ff82644802c0dc8acc64a4",
-    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/windows/PlexMediaServer-1.41.2.9200-c6bbc1b53-x86.exe"
+    "Checksum": "065bb8871f9c58a8e54fc0b6ed33a596f528909c",
+    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.3.9292-bc7397402/windows/PlexMediaServer-1.41.3.9292-bc7397402-x86.exe"
   }
 ]
