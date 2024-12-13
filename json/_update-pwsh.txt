@@ -1,0 +1,14 @@
+json/AppVentiX.json
+json/DockerCompose.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftEdgeDriver.json
+json/NextcloudDesktop.json
+json/OctopusDeployServer.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
+json/mySQLConnectorNET.json

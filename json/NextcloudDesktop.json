@@ -1,11 +1,11 @@
 [
   {
-    "Version": "3.15.0",
-    "Date": "25/11/2024",
-    "Size": 161009664,
+    "Version": "3.15.1",
+    "Date": "12/12/2024",
+    "Size": 161017856,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v3.15.0/Nextcloud-3.15.0-x64.msi"
+    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v3.15.1/Nextcloud-3.15.1-x64.msi"
   }
 ]
