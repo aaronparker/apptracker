@@ -1,6 +1,17 @@
 [
   {
-    "Version": "5.100.9082.35298",
+    "Version": "5.101.9105.2940",
+    "Architecture": "ARM64",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.install.arm64.zip"
+  },
+  {
+    "Version": "5.101.9105.2940",
+    "Architecture": "x64",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.install.x64.zip"
+  },
+  {
+    "Version": "5.101.9105.2940",
+    "Architecture": "x86",
     "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.install.anycpu.web.zip"
   }
 ]
