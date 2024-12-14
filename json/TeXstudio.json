@@ -1,11 +1,11 @@
 [
   {
-    "Version": "4.8.4",
-    "Date": "27/9/2024",
-    "Size": 139450464,
+    "Version": "4.8.5",
+    "Date": "13/12/2024",
+    "Size": 140105336,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.4/texstudio-4.8.4-win-qt6-signed.exe"
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.5/texstudio-4.8.5-win-qt6-signed.exe"
   }
 ]
