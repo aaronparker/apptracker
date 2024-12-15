@@ -3,7 +3,7 @@ title: Druva inSync Client
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Nov 1 2024 at 12:41 AM
+last_modified_date: Dec 14 2024 at 12:40 AM
 ---
 
 ## Druva inSync Client
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | InstallerVersion   | CloudPlatform | Md5sum                                   | Type | URI                                                                                                                                                                            |
 | ------- | ------------------ | ------------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.5.4   | inSync7.5.4r110875 | Cloud         | ee662d3faab50a6596f339e6fb2c9d545c88c5b6 | msi  | [https://downloads.druva.com/downloads/inSync/Windows/7.5.4/inSync7.5.4r110875.msi](https://downloads.druva.com/downloads/inSync/Windows/7.5.4/inSync7.5.4r110875.msi)         |
+| 7.5.4   | inSync7.5.4r110878 | Cloud         | b227874cf7033560a5e4d3f0c39472bb0d75dc0f | msi  | [https://downloads.druva.com/downloads/inSync/Windows/7.5.4/inSync7.5.4r110878.msi](https://downloads.druva.com/downloads/inSync/Windows/7.5.4/inSync7.5.4r110878.msi)         |
 | 7.5.4   | inSync7.5.4r110875 | GOVCloud      | ee662d3faab50a6596f339e6fb2c9d545c88c5b6 | msi  | [https://downloads.druva.com/downloads/inSync/Windows/7.5.4_Gov/inSync7.5.4r110875.msi](https://downloads.druva.com/downloads/inSync/Windows/7.5.4_Gov/inSync7.5.4r110875.msi) |

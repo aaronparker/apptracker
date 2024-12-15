@@ -3,7 +3,7 @@ title: Opera GX Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Dec 5 2024 at 12:20 PM
+last_modified_date: Dec 13 2024 at 12:53 AM
 ---
 
 ## Opera GX Browser
@@ -14,7 +14,7 @@ Evergreen app: `OperaGXBrowser`. Found **2** installers.
 
 Last check: 🟢
 
-| Version        | Channel | Architecture | Type | URI                                                                                                                                                                                                |
-| -------------- | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 114.0.5282.248 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_gx/114.0.5282.248/win/Opera_GX_114.0.5282.248_Setup_x64.exe](https://get.geo.opera.com/pub/opera_gx/114.0.5282.248/win/Opera_GX_114.0.5282.248_Setup_x64.exe) |
-| 114.0.5282.248 | Stable  | x86          | exe  | [https://get.geo.opera.com/pub/opera_gx/114.0.5282.248/win/Opera_GX_114.0.5282.248_Setup.exe](https://get.geo.opera.com/pub/opera_gx/114.0.5282.248/win/Opera_GX_114.0.5282.248_Setup.exe)         |
+| Version       | Channel | Architecture | Type | URI                                                                                                                                                                                            |
+| ------------- | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 115.0.5322.89 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_gx/115.0.5322.89/win/Opera_GX_115.0.5322.89_Setup_x64.exe](https://get.geo.opera.com/pub/opera_gx/115.0.5322.89/win/Opera_GX_115.0.5322.89_Setup_x64.exe) |
+| 115.0.5322.89 | Stable  | x86          | exe  | [https://get.geo.opera.com/pub/opera_gx/115.0.5322.89/win/Opera_GX_115.0.5322.89_Setup.exe](https://get.geo.opera.com/pub/opera_gx/115.0.5322.89/win/Opera_GX_115.0.5322.89_Setup.exe)         |

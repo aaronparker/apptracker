@@ -12,7 +12,10 @@ last_modified_date: Nov 14 2024 at 12:39 AM
 
 Evergreen app: `XnSoftXnConvert`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Connection timed out (www.xnview.com:443)
+```
 
 | Version | Architecture | Type | URI                                                                                                    |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
