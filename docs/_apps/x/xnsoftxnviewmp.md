@@ -12,10 +12,7 @@ last_modified_date: Nov 14 2024 at 12:39 AM
 
 Evergreen app: `XnSoftXnViewMP`. Found **2** installers.
 
-Last check: 🔴
-```
-Connection timed out (www.xnview.com:443)
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                  |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |

@@ -12,10 +12,7 @@ last_modified_date: Dec 13 2024 at 12:29 PM
 
 Evergreen app: `MicrosoftEdgeDriver`. Found **9** installers.
 
-Last check: 🔴
-```
-Network is unreachable (edgeupdates.microsoft.com:443)
-```
+Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                            |
 | ------------- | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
