@@ -3,7 +3,7 @@ title: Microsoft 365 Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Dec 11 2024 at 12:45 AM
+last_modified_date: Dec 17 2024 at 12:20 PM
 ---
 
 ## Microsoft 365 Apps
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version          | ReleaseVersion | Channel           | Name                                     | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | ---------------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
-| 16.0.18324.20044 | 2412           | CurrentPreview    | Current Channel (Preview)                | 12/10/2024 00:29:57 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.18324.20092 | 2412           | CurrentPreview    | Current Channel (Preview)                | 12/16/2024 23:57:55 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.18227.20162 | 2411           | Current           | Current Channel                          | 12/10/2024 14:44:22 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.18129.20200 | 2410           | MonthlyEnterprise | Monthly Enterprise Channel               | 12/10/2024 08:28:23 | 02/11/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.17932.20190 | 2409           | PerpetualVL2024   | Office 2024 Perpetual Enterprise         | 12/10/2024 14:35:38 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
