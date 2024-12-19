@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Thursday 19/12/2024 00:43 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 19/12/2024 12:35 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **360** applications and **6063** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **360** applications and **6064** unique application installers.
 
 {: .highlight }
 > **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
@@ -103,7 +103,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Dropbox desktop app                                               | `18/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/dropboxdesktopapp/)                     |
 | Druva inSync Client                                               | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/druvainsyncclient/)                     |
 | eduVPN                                                            | `26/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/eduvpn/)                                |
-| Egnyte Desktop App                                                | `19/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/egnytedesktopapp/)                      |
+| Egnyte Desktop App                                                | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/egnytedesktopapp/)                      |
 | Elgato 4K Capture Utility                                         | `24/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgato4kcaptureutility/)                |
 | Elgato Audio Effects                                              | `4/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatoaudioeffects/)                    |
 | Elgato Camera Hub                                                 | `4/9/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatocamerahub/)                       |
@@ -172,7 +172,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains DataSpell                                               | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsdataspell/)                    |
 | JetBrains Gateway                                                 | `11/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsgateway/)                      |
 | JetBrains GoLand                                                  | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsgoland/)                       |
-| JetBrains IntelliJ IDEA                                           | `10/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsintellijidea/)                 |
+| JetBrains IntelliJ IDEA                                           | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsintellijidea/)                 |
 | JetBrains PhpStorm                                                | `11/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsphpstorm/)                     |
 | JetBrains PyCharm                                                 | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainspycharm/)                      |
 | JetBrains Rider                                                   | `12/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsrider/)                        |
@@ -180,11 +180,11 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains Space                                                   | `5/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsspace/)                        |
 | JetBrains TeamCity                                                | `5/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsteamcity/)                     |
 | JetBrains Toolbox App                                             | `22/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainstoolbox/)                      |
-| JetBrains WebStorm                                                | `6/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainswebstorm/)                     |
+| JetBrains WebStorm                                                | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainswebstorm/)                     |
 | JetBrains YouTrack                                                | `5/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsyoutrack/)                     |
 | JGraph draw.io (diagrams.net)                                     | `3/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jgraphdrawio/)                          |
 | jq                                                                | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
-| jrsoftware InnoSetup                                              | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
+| jrsoftware InnoSetup                                              | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `28/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
 | KDiff3                                                            | `28/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
 | KeePass Password Safe                                             | `9/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
@@ -277,7 +277,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenWebStart                                                      | `28/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
 | Opera Browser                                                     | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
-| Opera GX Browser                                                  | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
+| Opera GX Browser                                                  | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `16/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
 | Oracle Java 20                                                    | `6/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava20/)                          |
 | Oracle Java 21                                                    | `16/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava21/)                          |
@@ -299,7 +299,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Podman                                                            | `22/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podman/)                                |
 | Podman Desktop                                                    | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podmandesktop/)                         |
 | Posit RStudio Desktop                                             | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/positrstudio/)                          |
-| Postman                                                           | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
+| Postman                                                           | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
 | Praat                                                             | `9/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                 |
 | Progress Chef Infra Client                                        | `14/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)               |
 | Progress Chef InSpec                                              | `12/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                    |
@@ -307,7 +307,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ProjectLibre                                                      | `28/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/projectlibre/)                          |
 | Protege                                                           | `29/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/protege/)                               |
 | Proton Drive                                                      | `6/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/protondrive/)                           |
-| Proton VPN                                                        | `20/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/protonvpn/)                             |
+| Proton VPN                                                        | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/protonvpn/)                             |
 | Proxyman                                                          | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/proxyman/)                              |
 | PSAppDeployToolkit                                                | `9/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/psappdeploytoolkit/)                    |
 | PSF Python                                                        | `4/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/psfpython/)                             |
