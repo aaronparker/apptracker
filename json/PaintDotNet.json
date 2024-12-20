@@ -1,50 +1,17 @@
 [
   {
-    "Version": [
-      "5.101.9105.2940",
-      "5.102.918.148"
-    ],
+    "Version": "5.102.9119.37914",
     "Architecture": "ARM64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.install.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.2/paint.net.5.1.2.install.arm64.zip"
   },
   {
-    "Version": [
-      "5.101.9105.2940",
-      "5.102.918.148"
-    ],
-    "Architecture": "ARM64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.2-beta.5.102.9118.148/paint.net.5.102.9118.148.install.arm64.zip"
-  },
-  {
-    "Version": [
-      "5.101.9105.2940",
-      "5.102.918.148"
-    ],
+    "Version": "5.102.9119.37914",
     "Architecture": "x64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.install.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.2/paint.net.5.1.2.install.x64.zip"
   },
   {
-    "Version": [
-      "5.101.9105.2940",
-      "5.102.918.148"
-    ],
-    "Architecture": "x64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.2-beta.5.102.9118.148/paint.net.5.102.9118.148.install.x64.zip"
-  },
-  {
-    "Version": [
-      "5.101.9105.2940",
-      "5.102.918.148"
-    ],
+    "Version": "5.102.9119.37914",
     "Architecture": "x86",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.install.anycpu.web.zip"
-  },
-  {
-    "Version": [
-      "5.101.9105.2940",
-      "5.102.918.148"
-    ],
-    "Architecture": "x86",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.2-beta.5.102.9118.148/paint.net.5.102.9118.148.install.anycpu.web.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.2/paint.net.5.1.2.install.anycpu.web.zip"
   }
 ]
