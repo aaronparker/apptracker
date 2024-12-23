@@ -3,7 +3,7 @@ title: dbeaver
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Dec 2 2024 at 12:41 AM
+last_modified_date: Dec 23 2024 at 12:45 AM
 ---
 
 ## dbeaver
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date       | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | ---------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 24.3.0  | 28/11/2024 | 119032440 | x64          | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-x86_64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-x86_64-setup.exe) |
+| 24.3.1  | 20/12/2024 | 121370136 | x64          | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/24.3.1/dbeaver-ce-24.3.1-x86_64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/24.3.1/dbeaver-ce-24.3.1-x86_64-setup.exe) |
