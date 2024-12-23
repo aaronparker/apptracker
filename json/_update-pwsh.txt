@@ -1,0 +1,16 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/OctopusDeployServer.json
+json/VideoLanVlcPlayer.json
+json/dbeaver.json
+json/MSIXHero.err
+json/MestrelabMnova.err
+json/MicrosoftWindowsApp.err
+json/OBSStudio.err
+json/TableauDesktop.err
+json/TableauPrep.err
+json/TableauReader.err
+json/VMwareHorizonClientAlt.err
