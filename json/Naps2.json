@@ -1,29 +1,29 @@
 [
   {
-    "Version": "7.5.2",
-    "Date": "4/10/2024",
-    "Size": 12262328,
+    "Version": "7.5.3",
+    "Date": "28/12/2024",
+    "Size": 12255544,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win.exe"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.5.3/naps2-7.5.3-win.exe"
   },
   {
-    "Version": "7.5.2",
-    "Date": "4/10/2024",
-    "Size": 12288000,
+    "Version": "7.5.3",
+    "Date": "28/12/2024",
+    "Size": 12300288,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x64.msi"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.5.3/naps2-7.5.3-win-x64.msi"
   },
   {
-    "Version": "7.5.2",
-    "Date": "4/10/2024",
+    "Version": "7.5.3",
+    "Date": "28/12/2024",
     "Size": 12054528,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.5.2/naps2-7.5.2-win-x86.msi"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v7.5.3/naps2-7.5.3-win-x86.msi"
   }
 ]
