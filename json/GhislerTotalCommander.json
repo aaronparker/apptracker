@@ -1,12 +1,12 @@
 [
   {
-    "Version": "11.03",
+    "Version": "11.50",
     "Architecture": "x64",
-    "URI": "https://totalcommander.ch/win/tcmd1103x64.exe"
+    "URI": "https://totalcommander.ch/win/tcmd1150x64.exe"
   },
   {
-    "Version": "11.03",
+    "Version": "11.50",
     "Architecture": "x86",
-    "URI": "https://totalcommander.ch/win/tcmd1103x32.exe"
+    "URI": "https://totalcommander.ch/win/tcmd1150x32.exe"
   }
 ]
