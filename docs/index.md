@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Thursday 09/01/2025 00:47 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 09/01/2025 12:31 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -277,7 +277,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OpenWebStart                                                      | `28/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
 | Opera Browser                                                     | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
-| Opera GX Browser                                                  | `24/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
+| Opera GX Browser                                                  | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operagxbrowser/)                        |
 | Oracle Java 17                                                    | `16/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava17/)                          |
 | Oracle Java 20                                                    | `6/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava20/)                          |
 | Oracle Java 21                                                    | `16/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/oraclejava21/)                          |
@@ -299,7 +299,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Podman                                                            | `22/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podman/)                                |
 | Podman Desktop                                                    | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podmandesktop/)                         |
 | Posit RStudio Desktop                                             | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/positrstudio/)                          |
-| Postman                                                           | `8/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
+| Postman                                                           | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
 | Praat                                                             | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                 |
 | Progress Chef Infra Client                                        | `14/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)               |
 | Progress Chef InSpec                                              | `12/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                    |
@@ -324,7 +324,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Rizonesoft Notepad3                                               | `22/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rizonesoftnotepad3/)                    |
 | Safe Exam Browser                                                 | `26/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/safeexambrowser/)                       |
 | Safing Portmaster                                                 | `6/6/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/safingportmaster/)                      |
-| SAGA-GIS                                                          | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/sagagis/)                               |
+| SAGA-GIS                                                          | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/sagagis/)                               |
 | Scooter Beyond Compare                                            | `26/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/scooterbeyondcompare/)                  |
 | Scratch                                                           | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/scratch/)                               |
 | ScreenToGif                                                       | `9/9/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/screentogif/)                           |
@@ -370,7 +370,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Win32-OpenSSH                                                     | `13/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/win32openssh/)                          |
 | WinMerge                                                          | `27/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/winmerge/)                              |
 | WinSCP                                                            | `26/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/winscp/)                                |
-| Wireshark                                                         | `21/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/wireshark/)                             |
+| Wireshark                                                         | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/wireshark/)                             |
 | WiX Toolset                                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/wixtoolset/)                            |
 | XnSoft Convert                                                    | `14/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/x/xnsoftxnconvert/)                       |
 | XnSoft XnView MP                                                  | `14/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/x/xnsoftxnviewmp/)                        |
