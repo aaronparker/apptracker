@@ -1,19 +1,19 @@
 [
   {
-    "Version": "16.0.18324.20168",
-    "ReleaseVersion": "2412",
-    "Channel": "Current",
-    "Name": "Current Channel",
-    "Date": "01/08/2025 23:36:34",
+    "Version": "16.0.18429.20032",
+    "ReleaseVersion": "2501",
+    "Channel": "CurrentPreview",
+    "Name": "Current Channel (Preview)",
+    "Date": "01/09/2025 23:01:53",
     "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
     "Version": "16.0.18324.20168",
     "ReleaseVersion": "2412",
-    "Channel": "CurrentPreview",
-    "Name": "Current Channel (Preview)",
-    "Date": "01/08/2025 15:48:29",
+    "Channel": "Current",
+    "Name": "Current Channel",
+    "Date": "01/08/2025 23:36:34",
     "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },

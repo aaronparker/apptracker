@@ -83,7 +83,7 @@
   {
     "Version": "24.232.1118.0003",
     "Ring": "Production",
-    "Throttle": "25",
+    "Throttle": "50",
     "Sha256": "9e35d083be1d79bdcabe536b64a4e84a4679fd21bc1d33e5f830f844ccb09ff5",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -92,7 +92,7 @@
   {
     "Version": "24.232.1118.0003",
     "Ring": "Production",
-    "Throttle": "25",
+    "Throttle": "50",
     "Sha256": "440e9d9e8f58148c4ecadf19ebfa6d7143ab47902b52c65aaa07c8c4b3dffd4b",
     "Architecture": "x64",
     "Type": "exe",
@@ -101,7 +101,7 @@
   {
     "Version": "24.232.1118.0003",
     "Ring": "Production",
-    "Throttle": "25",
+    "Throttle": "50",
     "Sha256": "b3da64598e6a652bee1651f9a9bc832bb772215ac89b0da434862feccd29b96c",
     "Architecture": "x86",
     "Type": "exe",
