@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Friday 10/01/2025 00:40 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 10/01/2025 12:20 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -225,7 +225,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft PowerShell                                              | `29/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
 | Microsoft PowerToys                                               | `20/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowertoys/)                    |
 | Microsoft SQL Server Management Studio                            | `10/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftssms/)                         |
-| Microsoft Teams (new)                                             | `19/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftteams/)                        |
+| Microsoft Teams (new)                                             | `10/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftteams/)                        |
 | Microsoft Teams (classic)                                         | `18/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftteamsclassic/)                 |
 | Microsoft Terminal                                                | `20/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
@@ -236,7 +236,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft WSL                                                     | `13/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |
 | Microsoft Azure Virtual Desktop Agent Bootloader                  | `14/5/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdbootloader/)                |
 | Microsoft Azure Virtual Desktop Agent                             | `13/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdinfraagent/)                |
-| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `19/10/2024` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)     |
+| Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `19/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)     |
 | Microsoft Remote Desktop                                          | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdremotedesktop/)             |
 | Microsoft Remote Desktop WebRTC Redirector Service                | `22/8/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdrtcservice/)                |
 | Miniconda                                                         | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/miniconda/)                             |
@@ -268,12 +268,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OBS Studio                                                        | `7/12/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                             |
 | OBS Studio Alt                                                    | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                          |
 | OCS Inventory Windows Agent                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)              |
-| Octopus Deploy Server                                             | `8/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
+| Octopus Deploy Server                                             | `10/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
 | Octopus Tentacle                                                  | `27/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                       |
 | Omnissa Horizon Client                                            | `26/10/2024` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                  |
 | ONLYOFFICE Desktop Editors                                        | `29/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/onlyofficedesktopeditors/)              |
 | OpenLens                                                          | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openlens/)                              |
-| Open-Shell-Menu                                                   | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
+| Open-Shell-Menu                                                   | `10/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openshellmenu/)                         |
 | OpenWebStart                                                      | `28/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openwebstart/)                          |
 | Opera Browser                                                     | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operabrowser/)                          |
 | Opera Crypto Browser                                              | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/operacryptobrowser/)                    |
@@ -303,7 +303,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Praat                                                             | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                 |
 | Progress Chef Infra Client                                        | `14/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)               |
 | Progress Chef InSpec                                              | `12/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                    |
-| Progress Chef Workstation                                         | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefworkstation/)               |
+| Progress Chef Workstation                                         | `10/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefworkstation/)               |
 | ProjectLibre                                                      | `28/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/projectlibre/)                          |
 | Protege                                                           | `29/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/protege/)                               |
 | Proton Drive                                                      | `10/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/protondrive/)                           |
@@ -343,7 +343,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | TeamViewer                                                        | `8/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/teamviewer/)                            |
 | TechSmith Camtasia                                                | `11/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/techsmithcamtasia/)                     |
 | TechSmith Snagit                                                  | `14/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/techsmithsnagit/)                       |
-| Telegram Desktop                                                  | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/telegramdesktop/)                       |
+| Telegram Desktop                                                  | `10/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/telegramdesktop/)                       |
 | Telerik Fiddler Classic                                           | `21/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/telerikfiddlerclassic/)                 |
 | Telerik Fiddler Everywhere                                        | `14/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/telerikfiddlereverywhere/)              |
 | TeraTerm                                                          | `8/9/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/teraterm/)                              |
