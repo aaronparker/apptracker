@@ -1,9 +1,9 @@
 [
   {
-    "Version": "131.0.2903.112",
+    "Version": "131.0.2903.146",
     "Channel": "Stable",
     "Architecture": "ARM64",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/55f24dac-5089-42df-97b7-df74132507a9/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/151e42d8-d6b9-453d-ae64-000fe4b61b9b/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe"
   },
   {
     "Version": "131.0.2903.112",
