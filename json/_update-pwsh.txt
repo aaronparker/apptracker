@@ -1,0 +1,3 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/VideoLanVlcPlayer.json
