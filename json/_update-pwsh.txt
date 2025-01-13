@@ -1,3 +1,11 @@
 json/Gimp.json
 json/GoogleChrome.json
 json/VideoLanVlcPlayer.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftVisualStudioCode.json
+json/OctopusDeployServer.json
+json/Pandoc.json
+json/RingCentral.json
+json/Zoom.json
