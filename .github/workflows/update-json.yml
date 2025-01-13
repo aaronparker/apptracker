@@ -22,6 +22,7 @@ jobs:
       - name: Install modules
         shell: pwsh
         run: |
+          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
           Install-Module -Name "Evergreen", "DnsClient-PS" -Force
 
       # Import GPG key
@@ -238,6 +239,7 @@ jobs:
       - name: Install modules
         shell: pwsh
         run: |
+          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
           Install-Module -Name "Evergreen" -Force
 
       - name: Update Cloudflare KV with all apps list
@@ -400,6 +402,7 @@ jobs:
       - name: Install modules
         shell: pwsh
         run: |
+          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
           Install-Module -Name "Evergreen", "MarkdownPS" -Force
 
       - name: Generate report

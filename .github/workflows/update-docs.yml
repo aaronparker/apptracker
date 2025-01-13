@@ -34,7 +34,8 @@ jobs:
         - name: Install modules
           shell: pwsh
           run: |
-            Install-Module -Name "Evergreen", "MarkdownPS" -Force
+            [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+            Install-Module -Name "Evergreen", "MarkdownPS" -Force 
 
         - name: Generate report
           shell: pwsh
