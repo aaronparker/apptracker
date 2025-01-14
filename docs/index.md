@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Tuesday 14/01/2025 00:40 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 14/01/2025 12:22 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -123,13 +123,13 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Figma Desktop                                                     | `16/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/figmadesktop/)                          |
 | Flameshot                                                         | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/flameshot/)                             |
 | Dan Pristupov Fork                                                | `30/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/fork/)                                  |
-| Foxit PDF Editor                                                  | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/foxitpdfeditor/)                        |
+| Foxit PDF Editor                                                  | `14/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/foxitpdfeditor/)                        |
 | Foxit Reader                                                      | `17/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/foxitreader/)                           |
 | Freedom Scientific Fusion                                         | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/freedomscientificfusion/)               |
 | Freedom Scientific JAWS                                           | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/freedomscientificjaws/)                 |
 | Freedom Scientific ZoomText                                       | `19/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/freedomscientificzoomtext/)             |
 | FreeFem                                                           | `12/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/freefem/)                               |
-| Geek Software PDF24 Creator                                       | `14/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/geeksoftwarepdf24creator/)              |
+| Geek Software PDF24 Creator                                       | `14/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/geeksoftwarepdf24creator/)              |
 | GeoGebra Classic                                                  | `18/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/geogebraclassic/)                       |
 | Gephi                                                             | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gephi/)                                 |
 | Ghisler TotalCommander                                            | `3/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/ghislertotalcommander/)                 |
@@ -202,7 +202,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Mestrelab Mnova                                                   | `12/4/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/mestrelabmnova/)                        |
 | Microsoft .NET                                                    | `4/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoft.net/)                         |
 | Microsoft 365 Apps                                                | `14/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoft365apps/)                      |
-| Microsoft Azure CLI                                               | `19/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurecli/)                     |
+| Microsoft Azure CLI                                               | `14/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurecli/)                     |
 | Microsoft Azure Data Studio                                       | `21/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazuredatastudio/)              |
 | Microsoft Azure Functions Core Tools                              | `4/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurefunctionscoretools/)      |
 | Microsoft Azure Pipelines Agent                                   | `28/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurepipelinesagent/)          |
@@ -354,7 +354,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Tor Project Tor Browser                                           | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/torprojecttorbrowser/)                  |
 | Tower                                                             | `16/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/tower/)                                 |
 | TGPi Colour Contrast Analyser                                     | `7/9/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/tpgicolourcontrastanalyser/)            |
-| Tracker Software PDF X-Change Editor                              | `13/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/trackersoftwarepdfxchangeeditor/)       |
+| Tracker Software PDF X-Change Editor                              | `14/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/trackersoftwarepdfxchangeeditor/)       |
 | Unity Editor                                                      | `24/5/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/u/unityeditor/)                           |
 | USBPcap                                                           | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/u/usbpcap/)                               |
 | vast limits uberAgent                                             | `6/9/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vastlimitsuberagent/)                   |
