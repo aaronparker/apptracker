@@ -9,66 +9,66 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.18324.20168",
+    "Version": "16.0.18324.20190",
     "ReleaseVersion": "2412",
     "Channel": "Current",
     "Name": "Current Channel",
-    "Date": "01/08/2025 23:36:34",
+    "Date": "01/14/2025 15:18:57",
     "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.18129.20200",
-    "ReleaseVersion": "2410",
+    "Version": "16.0.18227.20222",
+    "ReleaseVersion": "2411",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise Channel",
-    "Date": "12/10/2024 08:28:23",
-    "EOSDate": "02/11/2025 00:00:00",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.17932.20190",
-    "ReleaseVersion": "2409",
-    "Channel": "PerpetualVL2024",
-    "Name": "Office 2024 Perpetual Enterprise",
-    "Date": "12/10/2024 14:35:38",
-    "EOSDate": "01/01/0001 00:00:00",
-    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
-  },
-  {
-    "Version": "16.0.17928.20336",
-    "ReleaseVersion": "2408",
-    "Channel": "SemiAnnualPreview",
-    "Name": "Semi-Annual Enterprise Channel (Preview)",
-    "Date": "12/10/2024 08:30:21",
+    "Date": "01/14/2025 15:20:35",
     "EOSDate": "03/11/2025 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.17328.20670",
-    "ReleaseVersion": "2402",
-    "Channel": "SemiAnnual",
-    "Name": "Semi-Annual Enterprise Channel",
-    "Date": "12/10/2024 08:31:51",
-    "EOSDate": "09/09/2025 00:00:00",
+    "Version": "16.0.17932.20222",
+    "ReleaseVersion": "2409",
+    "Channel": "PerpetualVL2024",
+    "Name": "Office 2024 Perpetual Enterprise",
+    "Date": "01/14/2025 14:38:24",
+    "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.14332.20828",
+    "Version": "16.0.17928.20392",
+    "ReleaseVersion": "2408",
+    "Channel": "SemiAnnual",
+    "Name": "Semi-Annual Enterprise Channel",
+    "Date": "01/14/2025 15:22:46",
+    "EOSDate": "03/10/2026 00:00:00",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
+    "Version": "16.0.17928.20392",
+    "ReleaseVersion": "2408",
+    "Channel": "SemiAnnualPreview",
+    "Name": "Semi-Annual Enterprise Channel (Preview)",
+    "Date": "01/14/2025 15:21:13",
+    "EOSDate": "03/11/2025 00:00:00",
+    "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
+  },
+  {
+    "Version": "16.0.14332.20839",
     "ReleaseVersion": "2108",
     "Channel": "PerpetualVL2021",
     "Name": "Office 2021 Perpetual Enterprise",
-    "Date": "12/10/2024 14:34:58",
-    "EOSDate": "01/14/2025 00:00:00",
+    "Date": "01/14/2025 16:27:40",
+    "EOSDate": "02/11/2025 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10416.20027",
+    "Version": "16.0.10416.20047",
     "ReleaseVersion": "1808",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "12/10/2024 15:18:30",
-    "EOSDate": "01/14/2025 00:00:00",
+    "Date": "01/14/2025 14:35:59",
+    "EOSDate": "02/11/2025 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }
 ]

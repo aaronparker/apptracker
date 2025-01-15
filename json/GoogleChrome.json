@@ -1,6 +1,6 @@
 [
   {
-    "Version": "134.0.6956.0",
+    "Version": "134.0.6957.0",
     "Channel": "Canary",
     "StartDate": "14/1/2025",
     "Architecture": "x86",
@@ -24,12 +24,52 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "132.0.6834.83",
+    "Version": "132.0.6834.84",
     "Channel": "Stable",
-    "StartDate": "8/1/2025",
+    "StartDate": "14/1/2025",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi"
+  },
+  {
+    "Version": "132.0.6834.84",
+    "Channel": "Extended",
+    "StartDate": "14/1/2025",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+  },
+  {
+    "Version": "132.0.6834.84",
+    "Channel": "Stable",
+    "StartDate": "14/1/2025",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+  },
+  {
+    "Version": "132.0.6834.84",
+    "Channel": "Extended",
+    "StartDate": "14/1/2025",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "132.0.6834.84",
+    "Channel": "Stable",
+    "StartDate": "14/1/2025",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
+  },
+  {
+    "Version": "132.0.6834.84",
+    "Channel": "Stable",
+    "StartDate": "14/1/2025",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
     "Version": "132.0.6834.83",
@@ -41,50 +81,10 @@
   },
   {
     "Version": "132.0.6834.83",
-    "Channel": "Stable",
-    "StartDate": "8/1/2025",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "132.0.6834.83",
     "Channel": "Beta",
     "StartDate": "8/1/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "132.0.6834.83",
-    "Channel": "Stable",
-    "StartDate": "8/1/2025",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
-  },
-  {
-    "Version": "132.0.6834.83",
-    "Channel": "Stable",
-    "StartDate": "8/1/2025",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
-  },
-  {
-    "Version": "130.0.6723.191",
-    "Channel": "Extended",
-    "StartDate": "9/1/2025",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-  },
-  {
-    "Version": "130.0.6723.191",
-    "Channel": "Extended",
-    "StartDate": "9/1/2025",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   }
 ]
