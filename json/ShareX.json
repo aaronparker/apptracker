@@ -1,20 +1,20 @@
 [
   {
-    "Version": "16.1.0",
-    "Date": "9/5/2024",
-    "Size": 41055033,
+    "Version": "17.0.0",
+    "Date": "8/1/2025",
+    "Size": 45438484,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v16.1.0/ShareX-16.1.0-setup.exe"
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v17.0.0/ShareX-17.0.0-setup.exe"
   },
   {
-    "Version": "16.1.0",
-    "Date": "9/5/2024",
-    "Size": 54308593,
+    "Version": "17.0.0",
+    "Date": "8/1/2025",
+    "Size": 59167577,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/ShareX/ShareX/releases/download/v16.1.0/ShareX-16.1.0-portable.zip"
+    "URI": "https://github.com/ShareX/ShareX/releases/download/v17.0.0/ShareX-17.0.0-portable.zip"
   }
 ]
