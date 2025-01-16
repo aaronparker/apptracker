@@ -1,19 +1,19 @@
 [
   {
-    "Version": "134.0.6958.0",
-    "Revision": "1406477",
+    "Version": "134.0.6960.0",
+    "Revision": "1407082",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/134.0.6958.0/win64/chrome-headless-shell-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/134.0.6960.0/win64/chrome-headless-shell-win64.zip"
   },
   {
-    "Version": "134.0.6958.0",
-    "Revision": "1406477",
+    "Version": "134.0.6960.0",
+    "Revision": "1407082",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/134.0.6958.0/win32/chrome-headless-shell-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/134.0.6960.0/win32/chrome-headless-shell-win32.zip"
   },
   {
     "Version": "133.0.6943.16",
