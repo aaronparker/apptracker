@@ -12,7 +12,10 @@ last_modified_date: Aug 22 2024 at 12:34 AM
 
 Evergreen app: `MicrosoftWvdRtcService`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version         | Date                          | Architecture | Filename                                         | URI                                                                    |
 | --------------- | ----------------------------- | ------------ | ------------------------------------------------ | ---------------------------------------------------------------------- |
