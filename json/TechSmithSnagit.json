@@ -1,16 +1,16 @@
 [
   {
-    "Version": "24.3.0",
-    "Date": "11/13/2024 00:00:00",
+    "Version": "24.3.1",
+    "Date": "01/15/2025 00:00:00",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "http://download.techsmith.com/snagit/releases/2430/snagit.exe"
+    "URI": "http://download.techsmith.com/snagit/releases/2431/snagit.exe"
   },
   {
-    "Version": "24.3.0",
-    "Date": "11/13/2024 00:00:00",
+    "Version": "24.3.1",
+    "Date": "01/15/2025 00:00:00",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "http://download.techsmith.com/snagit/releases/2430/snagit.msi"
+    "URI": "http://download.techsmith.com/snagit/releases/2431/snagit.msi"
   }
 ]
