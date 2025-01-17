@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Friday 17/01/2025 00:38 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 17/01/2025 12:21 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -77,12 +77,12 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | BellSoft Liberica JDK 22                                          | `18/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk22/)                 |
 | BellSoft Liberica JDK 8 LTS                                       | `17/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk8/)                  |
 | Base Image Script Framework                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bisf/)                                  |
-| Bitwarden Desktop                                                 | `15/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bitwardendesktop/)                      |
+| Bitwarden Desktop                                                 | `17/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bitwardendesktop/)                      |
 | Blender Launcher                                                  | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/blenderlauncher/)                       |
 | BlueJ                                                             | `20/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bluej/)                                 |
 | Cendio ThinLinc                                                   | `21/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/cendiothinlinc/)                        |
 | Citrix ShareFile for Windows                                      | `22/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/citrixsharefile/)                       |
-| Citrix Workspace app                                              | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/citrixworkspaceapp/)                    |
+| Citrix Workspace app                                              | `17/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/citrixworkspaceapp/)                    |
 | Clarivate EndNote                                                 | `20/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/clarivateendnote/)                      |
 | Codelerity Apache NetBeans                                        | `12/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/codelerityapachenetbeans/)              |
 | Connection Experience Indicator                                   | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/connectionexperienceindicator/)         |
@@ -171,7 +171,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains DataGrip                                                | `20/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsdatagrip/)                     |
 | JetBrains DataSpell                                               | `20/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsdataspell/)                    |
 | JetBrains Gateway                                                 | `25/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsgateway/)                      |
-| JetBrains GoLand                                                  | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsgoland/)                       |
+| JetBrains GoLand                                                  | `17/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsgoland/)                       |
 | JetBrains IntelliJ IDEA                                           | `17/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsintellijidea/)                 |
 | JetBrains PhpStorm                                                | `17/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsphpstorm/)                     |
 | JetBrains PyCharm                                                 | `20/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainspycharm/)                      |
@@ -268,7 +268,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OBS Studio                                                        | `7/12/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                             |
 | OBS Studio Alt                                                    | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                          |
 | OCS Inventory Windows Agent                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)              |
-| Octopus Deploy Server                                             | `13/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
+| Octopus Deploy Server                                             | `17/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
 | Octopus Tentacle                                                  | `27/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                       |
 | Omnissa Horizon Client                                            | `26/10/2024` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                  |
 | ONLYOFFICE Desktop Editors                                        | `29/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/onlyofficedesktopeditors/)              |
