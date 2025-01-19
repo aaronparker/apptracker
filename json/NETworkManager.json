@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2024.11.11.0",
-    "Date": "11/11/2024",
-    "Size": 24088576,
+    "Version": "2025.1.18.0",
+    "Date": "18/1/2025",
+    "Size": 24686592,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.11.11.0/NETworkManager_2024.11.11.0_Setup.msi"
+    "URI": "https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.1.18.0/NETworkManager_2025.1.18.0_Setup.msi"
   }
 ]
