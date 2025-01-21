@@ -3,7 +3,7 @@ title: Microsoft Teams (classic)
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jan 20 2025 at 12:18 PM
+last_modified_date: Jan 21 2025 at 12:46 AM
 ---
 
 ## Microsoft Teams (classic)
@@ -33,7 +33,7 @@ Last check: 🟢
 | 1.8.00.1362 | Public            | x64          | exe  | [https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.exe](https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.exe)         |
 | 1.8.00.1362 | TAP               | x64          | exe  | [https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.exe](https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.exe)         |
 | 1.8.00.1362 | DeveloperPartners | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe)                         |
-| 1.8.00.1362 | Dogfood           | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe)                         |
+| 1.8.00.1362 | Dogfood           | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.7.00.33761/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.7.00.33761/Teams_windows.exe)                       |
 | 1.8.00.1362 | General           | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe)                         |
 | 1.8.00.1362 | ITAdmins          | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe)                         |
 | 1.8.00.1362 | OuterRing         | x86          | exe  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe)                         |
@@ -57,7 +57,7 @@ Last check: 🟢
 | 1.8.00.1362 | Public            | x64          | msi  | [https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.msi](https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.msi)         |
 | 1.8.00.1362 | TAP               | x64          | msi  | [https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.msi](https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.1362/Teams_windows_x64.msi)         |
 | 1.8.00.1362 | DeveloperPartners | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi)                         |
-| 1.8.00.1362 | Dogfood           | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi)                         |
+| 1.8.00.1362 | Dogfood           | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.7.00.33761/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.7.00.33761/Teams_windows.msi)                       |
 | 1.8.00.1362 | General           | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi)                         |
 | 1.8.00.1362 | ITAdmins          | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi)                         |
 | 1.8.00.1362 | OuterRing         | x86          | msi  | [https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi](https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi)                         |
