@@ -123,7 +123,7 @@
     "Ring": "Dogfood",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.exe"
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.7.00.33761/Teams_windows.exe"
   },
   {
     "Version": "1.8.00.1362",
@@ -291,7 +291,7 @@
     "Ring": "Dogfood",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.1362/Teams_windows.msi"
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.7.00.33761/Teams_windows.msi"
   },
   {
     "Version": "1.8.00.1362",
