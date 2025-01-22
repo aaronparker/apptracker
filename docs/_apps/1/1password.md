@@ -3,7 +3,7 @@ title: 1Password
 layout: default
 nav_order: 2
 parent: 1
-last_modified_date: Dec 13 2024 at 12:53 AM
+last_modified_date: Jan 22 2025 at 12:38 AM
 ---
 
 ## 1Password
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | URI                                                                                                                                    |
 | ------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.10.56 | exe  | [https://cdn.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.56.exe](https://cdn.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.56.exe) |
-| 8.10.56 | msi  | [https://downloads.1password.com/win/1PasswordSetup-latest.msi](https://downloads.1password.com/win/1PasswordSetup-latest.msi)         |
+| 8.10.58 | exe  | [https://cdn.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.58.exe](https://cdn.agilebits.com/dist/1P/win8/1PasswordSetup-8.10.58.exe) |
+| 8.10.58 | msi  | [https://downloads.1password.com/win/1PasswordSetup-latest.msi](https://downloads.1password.com/win/1PasswordSetup-latest.msi)         |

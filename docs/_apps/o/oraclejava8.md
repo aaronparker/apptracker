@@ -3,7 +3,7 @@ title: Oracle Java 8
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Oct 16 2024 at 12:36 AM
+last_modified_date: Jan 22 2025 at 12:38 AM
 ---
 
 ## Oracle Java 8
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version       | Architecture | Type | URI                                                                                                                                                                                                                                                                                    |
 | ------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.0_431-b10 | x64          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_431-b10/0d8f12bc927a4e2c9f8568ca567db4ee/windows-i586/jre-8u431-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_431-b10/0d8f12bc927a4e2c9f8568ca567db4ee/windows-i586/jre-8u431-windows-x64.exe)   |
-| 1.8.0_431-b10 | x86          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_431-b10/0d8f12bc927a4e2c9f8568ca567db4ee/windows-i586/jre-8u431-windows-i586.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_431-b10/0d8f12bc927a4e2c9f8568ca567db4ee/windows-i586/jre-8u431-windows-i586.exe) |
+| 1.8.0_441-b07 | x64          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_441-b07/7ed26d28139143f38c58992680c214a5/windows-i586/jre-8u441-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_441-b07/7ed26d28139143f38c58992680c214a5/windows-i586/jre-8u441-windows-x64.exe)   |
+| 1.8.0_441-b07 | x86          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_441-b07/7ed26d28139143f38c58992680c214a5/windows-i586/jre-8u441-windows-i586.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_441-b07/7ed26d28139143f38c58992680c214a5/windows-i586/jre-8u441-windows-i586.exe) |
