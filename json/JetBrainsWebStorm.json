@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.3.2",
-    "Build": "243.23654.120",
+    "Version": "2024.3.2.1",
+    "Build": "243.23654.157",
     "Edition": "WebStorm",
-    "Sha256": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.2.exe.sha256",
-    "Date": "17/1/2025",
-    "Size": 845089960,
+    "Sha256": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.2.1.exe.sha256",
+    "Date": "23/1/2025",
+    "Size": 845111280,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.2.exe"
+    "URI": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.2.1.exe"
   }
 ]
