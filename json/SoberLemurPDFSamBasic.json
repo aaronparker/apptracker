@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.2.9",
-    "Date": "28/10/2024",
-    "Size": 82644992,
-    "Architecture": "x86",
+    "Version": "5.3.0",
+    "Date": "23/1/2025",
+    "Size": 83103744,
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.2.9/pdfsam-5.2.9.msi"
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.3.0/pdfsam-basic-5.3.0-windows-x64.msi"
   },
   {
-    "Version": "5.2.9",
-    "Date": "28/10/2024",
-    "Size": 81034963,
-    "Architecture": "x86",
+    "Version": "5.3.0",
+    "Date": "23/1/2025",
+    "Size": 81493707,
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.2.9/pdfsam-5.2.9-windows.zip"
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.3.0/pdfsam-basic-5.3.0-windows-x64.zip"
   }
 ]
