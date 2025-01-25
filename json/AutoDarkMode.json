@@ -1,20 +1,38 @@
 [
   {
-    "Version": "10.4.1.1",
-    "Date": "23/9/2023",
-    "Size": 56453224,
+    "Version": "10.4.2.29",
+    "Date": "24/1/2025",
+    "Size": 51613760,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_ARM64.exe"
+  },
+  {
+    "Version": "10.4.2.29",
+    "Date": "24/1/2025",
+    "Size": 57299552,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.exe"
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_x86.exe"
   },
   {
-    "Version": "10.4.1.1",
-    "Date": "23/9/2023",
-    "Size": 76653096,
+    "Version": "10.4.2.29",
+    "Date": "24/1/2025",
+    "Size": 73333785,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_ARM64.zip"
+  },
+  {
+    "Version": "10.4.2.29",
+    "Date": "24/1/2025",
+    "Size": 77850620,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.1.1/AutoDarkModeX_10.4.1.1.zip"
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_x86.zip"
   }
 ]

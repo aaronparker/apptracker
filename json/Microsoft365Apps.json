@@ -1,10 +1,10 @@
 [
   {
-    "Version": "16.0.18429.20088",
+    "Version": "16.0.18429.20114",
     "ReleaseVersion": "2501",
     "Channel": "CurrentPreview",
     "Name": "Current Channel (Preview)",
-    "Date": "01/22/2025 01:10:03",
+    "Date": "01/24/2025 19:52:58",
     "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
