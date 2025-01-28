@@ -3,7 +3,7 @@ title: Elgato Control Center
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Oct 23 2024 at 12:51 AM
+last_modified_date: Jan 28 2025 at 12:25 PM
 ---
 
 ## Elgato Control Center
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                              |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.7.2   | x64          | msi  | [https://edge.elgato.com/egc/windows/eccw/1.7.2/ControlCenter_1.7.2.624_x64.msi](https://edge.elgato.com/egc/windows/eccw/1.7.2/ControlCenter_1.7.2.624_x64.msi) |
+| 1.8.1   | x64          | msi  | [https://edge.elgato.com/egc/windows/eccw/1.8.1/ControlCenter_1.8.1.654_x64.msi](https://edge.elgato.com/egc/windows/eccw/1.8.1/ControlCenter_1.8.1.654_x64.msi) |
