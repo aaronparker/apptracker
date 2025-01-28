@@ -12,7 +12,10 @@ last_modified_date: Jan 27 2025 at 12:25 PM
 
 Evergreen app: `mRemoteNG`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Date      | Size   | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
 | ------- | --------- | ------ | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
