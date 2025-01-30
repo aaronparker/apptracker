@@ -1,8 +1,8 @@
 [
   {
-    "Version": "1.69.0.264-8ae11259",
+    "Version": "1.70.1.303-5bbf114f",
     "Architecture": "x64",
-    "Checksum": "c764ca4314f16f3ad58053de334d2bfd224470b3",
-    "URI": "https://downloads.plex.tv/htpc/1.69.0.264-8ae11259/windows/PlexHTPC-1.69.0.264-8ae11259-x86_64.exe"
+    "Checksum": "a90d33476ab4b3e61b7b8920f8a92c89e748bc6d",
+    "URI": "https://downloads.plex.tv/htpc/1.70.1.303-5bbf114f/windows/PlexHTPC-1.70.1.303-5bbf114f-x86_64.exe"
   }
 ]
