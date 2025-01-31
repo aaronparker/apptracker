@@ -3,7 +3,7 @@ title: Microsoft Bicep
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jan 24 2025 at 12:38 AM
+last_modified_date: Jan 31 2025 at 12:36 AM
 ---
 
 ## Microsoft Bicep
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.33.13 | 16/1/2025 | 88277144 | ARM64        | Default       | exe  | [https://github.com/Azure/bicep/releases/download/v0.33.13/bicep-win-arm64.exe](https://github.com/Azure/bicep/releases/download/v0.33.13/bicep-win-arm64.exe)         |
-| 0.33.13 | 16/1/2025 | 38532136 | x64          | Default       | exe  | [https://github.com/Azure/bicep/releases/download/v0.33.13/bicep-setup-win-x64.exe](https://github.com/Azure/bicep/releases/download/v0.33.13/bicep-setup-win-x64.exe) |
-| 0.33.13 | 16/1/2025 | 85639280 | x64          | Default       | exe  | [https://github.com/Azure/bicep/releases/download/v0.33.13/bicep-win-x64.exe](https://github.com/Azure/bicep/releases/download/v0.33.13/bicep-win-x64.exe)             |
+| 0.33.93 | 29/1/2025 | 88260760 | ARM64        | Default       | exe  | [https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-arm64.exe](https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-arm64.exe)         |
+| 0.33.93 | 29/1/2025 | 38519752 | x64          | Default       | exe  | [https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-setup-win-x64.exe](https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-setup-win-x64.exe) |
+| 0.33.93 | 29/1/2025 | 85643376 | x64          | Default       | exe  | [https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-x64.exe](https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-x64.exe)             |
