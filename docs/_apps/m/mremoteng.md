@@ -3,7 +3,7 @@ title: mRemoteNG
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jan 27 2025 at 12:25 PM
+last_modified_date: Feb 1 2025 at 12:38 AM
 ---
 
 ## mRemoteNG
@@ -12,11 +12,8 @@ last_modified_date: Jan 27 2025 at 12:25 PM
 
 Evergreen app: `mRemoteNG`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
-| Version | Date      | Size   | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
-| ------- | --------- | ------ | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.77.3  | 11/6/2022 | 199168 | x86          | Default       | exe  | [https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.77.3-nb/mRemoteNG.exe](https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.77.3-nb/mRemoteNG.exe) |
+| Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
+| ------- | --------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.76.20 | 12/4/2019 | 43593728 | x86          | Default       | msi  | [https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi](https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi) |
