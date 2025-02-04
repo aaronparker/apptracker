@@ -1,11 +1,11 @@
 [
   {
-    "Version": "5.0.1250.0",
-    "Date": "31/1/2025",
-    "Size": 11098467,
+    "Version": "5.0.1252.0",
+    "Date": "3/2/2025",
+    "Size": 11203505,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/M2Team/NanaZip/releases/download/5.0.1250.0/NanaZip_5.0.1250.0.msixbundle"
+    "URI": "https://github.com/M2Team/NanaZip/releases/download/5.0.1252.0/NanaZip_5.0.1252.0.msixbundle"
   }
 ]
