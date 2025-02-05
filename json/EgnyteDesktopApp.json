@@ -1,8 +1,8 @@
 [
   {
-    "Version": "3.22.0.155",
-    "SHA1": "16ca34e1bfe028bec9e0604539cdc7a2676fddda",
+    "Version": "3.22.1.156",
+    "SHA1": "1a2f9610a00f7e6339daaab98c9db19b78d2c67a",
     "Type": "msi",
-    "URI": "https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.22.0/EgnyteDesktopApp_3.22.0_155.msi"
+    "URI": "https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.22.1/EgnyteDesktopApp_3.22.1_156.msi"
   }
 ]
