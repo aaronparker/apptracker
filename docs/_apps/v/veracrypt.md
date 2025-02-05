@@ -3,7 +3,7 @@ title: VeraCrypt
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Sep 28 2024 at 02:02 AM
+last_modified_date: Feb 5 2025 at 12:24 PM
 ---
 
 ## VeraCrypt
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                                            |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.26.15 | x86          | exe  | 36091712 | 72e847da586c39f0d0d64c170283c8e1 | [https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Setup%201.26.15.exe](https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Setup%201.26.15.exe)       |
-| 1.26.15 | x86          | exe  | 35902272 | c7bac9661fc5f69941ce1fd044d00637 | [https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Portable%201.26.15.exe](https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt%20Portable%201.26.15.exe) |
-| 1.26.15 | x64          | msi  | 44707840 | 1b62ff7cd05be3db27efb595d69bf4a0 | [https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt_Setup_x64_1.26.15.msi](https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.15/Windows/VeraCrypt_Setup_x64_1.26.15.msi)       |
+| 1.26.20 | x86          | exe  | 33405752 | ac94e8096a9809983afa98a0c2d68d53 | [https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.20/Windows/VeraCrypt%20Setup%201.26.20.exe](https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.20/Windows/VeraCrypt%20Setup%201.26.20.exe)       |
+| 1.26.20 | x86          | exe  | 33176384 | 1beb9953e0ffe383eaba7ab9297e5d76 | [https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.20/Windows/VeraCrypt%20Portable%201.26.20.exe](https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.20/Windows/VeraCrypt%20Portable%201.26.20.exe) |
+| 1.26.20 | x64          | msi  | 41082880 | ce7b1ed4b7066e27429efbdf763d0258 | [https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.20/Windows/VeraCrypt_Setup_x64_1.26.20.msi](https://ixpeering.dl.sourceforge.net/project/veracrypt/VeraCrypt%201.26.20/Windows/VeraCrypt_Setup_x64_1.26.20.msi)       |

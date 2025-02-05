@@ -3,7 +3,7 @@ title: GeoGebra Classic
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Jan 28 2025 at 12:48 AM
+last_modified_date: Feb 5 2025 at 12:24 PM
 ---
 
 ## GeoGebra Classic
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version   | Type | URI                                                                                                                                                                            |
 | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.0.873.2 | Exe  | [https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-873-2.exe](https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-873-2.exe) |
-| 6.0.873.2 | Msi  | [https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-873-2.msi](https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-873-2.msi) |
-| 5.2.873.2 | Exe  | [https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-873-2.exe](https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-873-2.exe) |
-| 5.2.873.2 | Msi  | [https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-873-2.msi](https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-873-2.msi) |
+| 6.0.874.1 | Exe  | [https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-874-1.exe](https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-874-1.exe) |
+| 6.0.874.1 | Msi  | [https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-874-1.msi](https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-874-1.msi) |
+| 5.2.874.1 | Exe  | [https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-874-1.exe](https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-874-1.exe) |
+| 5.2.874.1 | Msi  | [https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-874-1.msi](https://download.geogebra.org/installers/5.2/GeoGebra-Windows-Installer-5-2-874-1.msi) |
