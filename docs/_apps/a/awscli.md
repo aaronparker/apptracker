@@ -3,7 +3,7 @@ title: AWS CLI
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Feb 5 2025 at 12:43 AM
+last_modified_date: Feb 6 2025 at 12:54 AM
 ---
 
 ## AWS CLI
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Type | URI                                                                                                    |
 | ------- | ---- | ------------------------------------------------------------------------------------------------------ |
-| 2.23.13 | msi  | [https://awscli.amazonaws.com/AWSCLIV2-2.23.13.msi](https://awscli.amazonaws.com/AWSCLIV2-2.23.13.msi) |
+| 2.23.14 | msi  | [https://awscli.amazonaws.com/AWSCLIV2-2.23.14.msi](https://awscli.amazonaws.com/AWSCLIV2-2.23.14.msi) |
