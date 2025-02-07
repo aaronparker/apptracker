@@ -28,7 +28,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 3235840,
     "Language": "French",
     "Architecture": "ARM64",
@@ -100,7 +100,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 4763648,
     "Language": "Chinese (Simplified)",
     "Architecture": "x64",
@@ -118,7 +118,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 4747264,
     "Language": "English",
     "Architecture": "x64",
@@ -154,7 +154,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 4820992,
     "Language": "Japanese",
     "Architecture": "x64",
@@ -253,7 +253,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 2711552,
     "Language": "Japanese",
     "Architecture": "x86",
@@ -262,7 +262,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 2691072,
     "Language": "Korean",
     "Architecture": "x86",
@@ -271,7 +271,7 @@
   },
   {
     "Version": "18.3.3.1",
-    "Date": "8/4/2024",
+    "Date": "6/2/2025",
     "Size": 2691072,
     "Language": "Portuguese (Brazil)",
     "Architecture": "x86",
