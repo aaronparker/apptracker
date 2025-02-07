@@ -3,7 +3,7 @@ title: AWS Session Manager Plugin
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Nov 24 2024 at 12:41 AM
+last_modified_date: Feb 7 2025 at 12:48 AM
 ---
 
 ## AWS Session Manager Plugin
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | Type | URI                                                                                                                                                                                                                    |
 | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.694.0 | exe  | [https://s3.amazonaws.com/session-manager-downloads/plugin/1.2.694.0/windows/SessionManagerPluginSetup.exe](https://s3.amazonaws.com/session-manager-downloads/plugin/1.2.694.0/windows/SessionManagerPluginSetup.exe) |
+| 1.2.707.0 | exe  | [https://s3.amazonaws.com/session-manager-downloads/plugin/1.2.707.0/windows/SessionManagerPluginSetup.exe](https://s3.amazonaws.com/session-manager-downloads/plugin/1.2.707.0/windows/SessionManagerPluginSetup.exe) |
