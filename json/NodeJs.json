@@ -42,31 +42,31 @@
     "URI": "https://nodejs.org/dist/v23.7.0/node-v23.7.0-win-x86.zip"
   },
   {
-    "Version": "22.13.1",
+    "Version": "22.14.0",
     "Architecture": "x64",
     "Type": "msi",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-x64.msi"
+    "URI": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi"
   },
   {
-    "Version": "22.13.1",
+    "Version": "22.14.0",
     "Architecture": "x86",
     "Type": "msi",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-x86.msi"
+    "URI": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-x86.msi"
   },
   {
-    "Version": "22.13.1",
+    "Version": "22.14.0",
     "Architecture": "x64",
     "Type": "zip",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-x64.zip"
+    "URI": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-win-x64.zip"
   },
   {
-    "Version": "22.13.1",
+    "Version": "22.14.0",
     "Architecture": "x86",
     "Type": "zip",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-x86.zip"
+    "URI": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-win-x86.zip"
   }
 ]

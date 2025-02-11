@@ -1,20 +1,11 @@
 [
   {
-    "Version": "24.11",
-    "Date": "29/11/2024",
-    "Size": 125429256,
+    "Version": "25.02",
+    "Date": "11/2/2025",
+    "Size": 151880608,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ankitects/anki/releases/download/24.11/anki-24.11-windows-qt5.exe"
-  },
-  {
-    "Version": "24.11",
-    "Date": "29/11/2024",
-    "Size": 152813672,
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/ankitects/anki/releases/download/24.11/anki-24.11-windows-qt6.exe"
+    "URI": "https://github.com/ankitects/anki/releases/download/25.02/anki-25.02-windows-qt6.exe"
   }
 ]
