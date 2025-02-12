@@ -1,6 +1,6 @@
 [
   {
-    "Version": "135.0.7011.0",
+    "Version": "135.0.7012.0",
     "Channel": "Canary",
     "StartDate": "11/2/2025",
     "Architecture": "x86",
@@ -74,7 +74,7 @@
   {
     "Version": "132.0.6834.194",
     "Channel": "Extended",
-    "StartDate": "4/2/2025",
+    "StartDate": "11/2/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -82,7 +82,7 @@
   {
     "Version": "132.0.6834.194",
     "Channel": "Extended",
-    "StartDate": "4/2/2025",
+    "StartDate": "11/2/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"

@@ -1,11 +1,11 @@
 [
   {
-    "Version": "0.86.0",
-    "Date": "3/2/2025",
-    "Size": 28991921,
+    "Version": "0.87.0",
+    "Date": "11/2/2025",
+    "Size": 29015998,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.86.0/VisualCppRedist_AIO_x86_x64_86.zip"
+    "URI": "https://github.com/abbodi1406/vcredist/releases/download/v0.87.0/VisualCppRedist_AIO_x86_x64_87.zip"
   }
 ]
