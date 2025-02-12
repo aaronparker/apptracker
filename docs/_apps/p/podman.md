@@ -3,7 +3,7 @@ title: Podman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jan 23 2025 at 12:46 AM
+last_modified_date: Feb 12 2025 at 12:52 AM
 ---
 
 ## Podman
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.3.2   | 21/1/2025 | 32228936 | x86          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.3.2/podman-5.3.2-setup.exe](https://github.com/containers/podman/releases/download/v5.3.2/podman-5.3.2-setup.exe) |
+| 5.4.0   | 11/2/2025 | 29244744 | x86          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.4.0/podman-5.4.0-setup.exe](https://github.com/containers/podman/releases/download/v5.4.0/podman-5.4.0-setup.exe) |

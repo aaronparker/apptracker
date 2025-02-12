@@ -12,10 +12,7 @@ last_modified_date: Jan 22 2025 at 12:38 AM
 
 Evergreen app: `mySQLWorkbench`. Found **1** installer.
 
-Last check: 🔴
-```
-Cannot index into a null array.
-```
+Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                                      |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
