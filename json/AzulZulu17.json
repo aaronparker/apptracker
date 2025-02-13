@@ -1,34 +1,34 @@
 [
   {
-    "Version": "17.0.13+11",
-    "Date": "2024-10-10T09:30:00Z",
+    "Version": "17.0.14+7",
+    "Date": "2025-01-21T15:16:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu17.54.21-ca-jdk17.0.13-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.56.15-ca-jdk17.0.14-win_x64.msi"
   },
   {
-    "Version": "17.0.13+11",
-    "Date": "2024-10-10T09:30:00Z",
+    "Version": "17.0.14+7",
+    "Date": "2025-01-21T15:16:00Z",
     "ImageType": "jre",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu17.54.21-ca-jre17.0.13-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.56.15-ca-jre17.0.14-win_x64.msi"
   },
   {
-    "Version": "17.0.13+11",
-    "Date": "2024-10-10T09:30:00Z",
+    "Version": "17.0.14+7",
+    "Date": "2025-01-21T15:16:00Z",
     "ImageType": "jdk",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu17.54.21-ca-jdk17.0.13-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.56.15-ca-jdk17.0.14-win_i686.msi"
   },
   {
-    "Version": "17.0.13+11",
-    "Date": "2024-10-10T09:30:00Z",
+    "Version": "17.0.14+7",
+    "Date": "2025-01-21T15:16:00Z",
     "ImageType": "jre",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu17.54.21-ca-jdk17.0.13-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu17.56.15-ca-jre17.0.14-win_i686.msi"
   }
 ]
