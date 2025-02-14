@@ -3,7 +3,7 @@ title: JetBrains PyCharm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Feb 10 2025 at 12:24 PM
+last_modified_date: Feb 14 2025 at 12:26 PM
 ---
 
 ## JetBrains PyCharm
@@ -14,7 +14,7 @@ Evergreen app: `JetBrainsPyCharm`. Found **2** installers.
 
 Last check: 🟢
 
-| Version  | Build         | Edition              | Sha256                                                                         | Date      | Size      | Type | URI                                                                                                                                                |
-| -------- | ------------- | -------------------- | ------------------------------------------------------------------------------ | --------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.3.2 | 243.23654.177 | PyCharm Community    | https://download.jetbrains.com/python/pycharm-community-2024.3.2.exe.sha256    | 28/1/2025 | 596669328 | exe  | [https://download.jetbrains.com/python/pycharm-community-2024.3.2.exe](https://download.jetbrains.com/python/pycharm-community-2024.3.2.exe)       |
-| 2024.3.2 | 243.23654.177 | PyCharm Professional | https://download.jetbrains.com/python/pycharm-professional-2024.3.2.exe.sha256 | 28/1/2025 | 875690816 | exe  | [https://download.jetbrains.com/python/pycharm-professional-2024.3.2.exe](https://download.jetbrains.com/python/pycharm-professional-2024.3.2.exe) |
+| Version  | Build        | Edition              | Sha256                                                                         | Date      | Size      | Type | URI                                                                                                                                                |
+| -------- | ------------ | -------------------- | ------------------------------------------------------------------------------ | --------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024.3.3 | 243.24978.54 | PyCharm Community    | https://download.jetbrains.com/python/pycharm-community-2024.3.3.exe.sha256    | 13/2/2025 | 598255880 | exe  | [https://download.jetbrains.com/python/pycharm-community-2024.3.3.exe](https://download.jetbrains.com/python/pycharm-community-2024.3.3.exe)       |
+| 2024.3.3 | 243.24978.54 | PyCharm Professional | https://download.jetbrains.com/python/pycharm-professional-2024.3.3.exe.sha256 | 13/2/2025 | 877344416 | exe  | [https://download.jetbrains.com/python/pycharm-professional-2024.3.3.exe](https://download.jetbrains.com/python/pycharm-professional-2024.3.3.exe) |
