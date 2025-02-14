@@ -3,7 +3,7 @@ title: JetBrains PhpStorm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Jan 25 2025 at 12:37 AM
+last_modified_date: Feb 14 2025 at 12:45 AM
 ---
 
 ## JetBrains PhpStorm
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsPhpStorm`. Found **1** installer.
 
 Last check: 🟢
 
-| Version    | Build         | Edition  | Sha256                                                               | Date      | Size      | Type | URI                                                                                                                            |
-| ---------- | ------------- | -------- | -------------------------------------------------------------------- | --------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.3.2.1 | 243.23654.168 | PhpStorm | https://download.jetbrains.com/webide/PhpStorm-2024.3.2.1.exe.sha256 | 24/1/2025 | 790643360 | exe  | [https://download.jetbrains.com/webide/PhpStorm-2024.3.2.1.exe](https://download.jetbrains.com/webide/PhpStorm-2024.3.2.1.exe) |
+| Version  | Build        | Edition  | Sha256                                                             | Date      | Size      | Type | URI                                                                                                                        |
+| -------- | ------------ | -------- | ------------------------------------------------------------------ | --------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------- |
+| 2024.3.3 | 243.24978.50 | PhpStorm | https://download.jetbrains.com/webide/PhpStorm-2024.3.3.exe.sha256 | 13/2/2025 | 792826832 | exe  | [https://download.jetbrains.com/webide/PhpStorm-2024.3.3.exe](https://download.jetbrains.com/webide/PhpStorm-2024.3.3.exe) |
