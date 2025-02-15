@@ -1,56 +1,56 @@
 [
   {
-    "Version": "1.97.1.25044",
-    "Date": "13/2/2025",
-    "Size": 99460744,
+    "Version": "1.97.2.25045",
+    "Date": "14/2/2025",
+    "Size": 99461728,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.1.25044/VSCodiumSetup-arm64-1.97.1.25044.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.2.25045/VSCodiumSetup-arm64-1.97.2.25045.exe"
   },
   {
-    "Version": "1.97.1.25044",
-    "Date": "13/2/2025",
-    "Size": 99461232,
+    "Version": "1.97.2.25045",
+    "Date": "14/2/2025",
+    "Size": 99462160,
     "Architecture": "ARM64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.1.25044/VSCodiumUserSetup-arm64-1.97.1.25044.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.2.25045/VSCodiumUserSetup-arm64-1.97.2.25045.exe"
   },
   {
-    "Version": "1.97.1.25044",
-    "Date": "13/2/2025",
-    "Size": 102448048,
+    "Version": "1.97.2.25045",
+    "Date": "14/2/2025",
+    "Size": 102437112,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.1.25044/VSCodiumSetup-x64-1.97.1.25044.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.2.25045/VSCodiumSetup-x64-1.97.2.25045.exe"
   },
   {
-    "Version": "1.97.1.25044",
-    "Date": "13/2/2025",
-    "Size": 102448520,
+    "Version": "1.97.2.25045",
+    "Date": "14/2/2025",
+    "Size": 102437528,
     "Architecture": "x64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.1.25044/VSCodiumUserSetup-x64-1.97.1.25044.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.2.25045/VSCodiumUserSetup-x64-1.97.2.25045.exe"
   },
   {
-    "Version": "1.97.1.25044",
-    "Date": "13/2/2025",
-    "Size": 120020992,
+    "Version": "1.97.2.25045",
+    "Date": "14/2/2025",
+    "Size": 120033280,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.1.25044/VSCodium-x64-1.97.1.25044.msi"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.2.25045/VSCodium-x64-1.97.2.25045.msi"
   },
   {
-    "Version": "1.97.1.25044",
-    "Date": "13/2/2025",
-    "Size": 120020992,
+    "Version": "1.97.2.25045",
+    "Date": "14/2/2025",
+    "Size": 120029184,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.1.25044/VSCodium-x64-updates-disabled-1.97.1.25044.msi"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.97.2.25045/VSCodium-x64-updates-disabled-1.97.2.25045.msi"
   }
 ]
