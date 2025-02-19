@@ -1,11 +1,11 @@
 [
   {
-    "Version": "12.0.289.0",
-    "Size": 235606016,
-    "Hash": "28b9618a6f9d86ee577c3fbd7a238b7164b9fbe9",
+    "Version": "12.0.290.0",
+    "Size": 235597824,
+    "Hash": "234d4235191a721545fcc4fcc374b9925db055fd",
     "Language": "en_US",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v12/12.0.289.0/server_x64.msi"
+    "URI": "https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v12/12.0.290.0/server_x64.msi"
   }
 ]
