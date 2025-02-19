@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 19/02/2025 00:41 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 19/02/2025 12:30 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -117,7 +117,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ESET Endpoint Security                                            | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetendpointsecurity/)                  |
 | ESET Full Disk Encryption                                         | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetfulldiskencryption/)                |
 | ESET Inspect Connector                                            | `4/2/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetinspectconnector/)                  |
-| ESET Endpoint Antivirus                                           | `5/2/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetprotectserver/)                     |
+| ESET Endpoint Antivirus                                           | `19/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetprotectserver/)                     |
 | ESET Secure Authentication                                        | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetsecureauthentication/)              |
 | ESET Server Security                                              | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetserversecurity/)                    |
 | Figma Desktop                                                     | `16/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/figmadesktop/)                          |
@@ -378,4 +378,4 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Zoom                                                              | `17/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zoom/)                                  |
 | Zoom Plugins for VDI                                              | `11/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zoomvdi/)                               |
 | ZorgMail Veilig verzenden plug-in                                 | `8/8/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zorgmailveiligverzendenaddin/)          |
-| Zotero                                                            | `7/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zotero/)                                |
+| Zotero                                                            | `19/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zotero/)                                |
