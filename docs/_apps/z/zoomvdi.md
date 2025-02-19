@@ -12,10 +12,7 @@ last_modified_date: Jan 11 2025 at 12:46 AM
 
 Evergreen app: `ZoomVDI`. Found **5** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version | Platform  | Installer | Size      | Type | Architecture | URI                                                                                                                              |
 | ------- | --------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
