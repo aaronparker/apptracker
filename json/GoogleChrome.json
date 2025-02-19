@@ -1,6 +1,6 @@
 [
   {
-    "Version": "135.0.7021.0",
+    "Version": "135.0.7022.0",
     "Channel": "Canary",
     "StartDate": "18/2/2025",
     "Architecture": "x86",
@@ -40,49 +40,49 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "133.0.6943.99",
+    "Version": "133.0.6943.127",
     "Channel": "Stable",
-    "StartDate": "12/2/2025",
+    "StartDate": "18/2/2025",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi"
   },
   {
-    "Version": "133.0.6943.99",
+    "Version": "133.0.6943.127",
     "Channel": "Stable",
-    "StartDate": "12/2/2025",
+    "StartDate": "18/2/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "133.0.6943.99",
+    "Version": "133.0.6943.127",
     "Channel": "Stable",
-    "StartDate": "12/2/2025",
+    "StartDate": "18/2/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "133.0.6943.99",
+    "Version": "133.0.6943.127",
     "Channel": "Stable",
-    "StartDate": "12/2/2025",
+    "StartDate": "18/2/2025",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
   },
   {
-    "Version": "132.0.6834.207",
+    "Version": "132.0.6834.209",
     "Channel": "Extended",
-    "StartDate": "12/2/2025",
+    "StartDate": "18/2/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "132.0.6834.207",
+    "Version": "132.0.6834.209",
     "Channel": "Extended",
-    "StartDate": "12/2/2025",
+    "StartDate": "18/2/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"

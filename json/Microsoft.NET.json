@@ -7,7 +7,7 @@
     "Channel": "STS",
     "Sha512": "06d7c4133bf7cb6f72b60b97f11c1f8773291e888f556c355d45dc66e3b36e597ac5562359fb3221b970b28f02649f0693d5109467698310752e0a8dc60f6703",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/480881fc-fec9-468f-89de-17b1e50a6cce/bf53315c59df9c14f68398357503f047/dotnet-sdk-9.0.200-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.200/dotnet-sdk-9.0.200-win-arm64.exe"
   },
   {
     "Version": "9.0.200",
@@ -17,7 +17,7 @@
     "Channel": "STS",
     "Sha512": "801d4a40a7bdad5c7b50e75c55c5ab657da44b5d779fe50da5683450e23c595e8b18e6bc9ffb80636ffb347b72e575379cd83c7554dc27f5ba75246169f327a8",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/83c595a0-def1-4aba-8284-2fd98007aa3d/5e5b47fb819ee59b2a10485f8cf5a89a/dotnet-sdk-9.0.200-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.200/dotnet-sdk-9.0.200-win-x64.exe"
   },
   {
     "Version": "9.0.200",
@@ -27,7 +27,7 @@
     "Channel": "STS",
     "Sha512": "3ddeb620fc45c623ade58f179e80cea64b7af5b76b0b4b1f65b766df3c5614ce04809f40614ebeb98dd6b4662dc1c2bed38d1f78eadc489360d54e35b98b9904",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0804e70c-d375-4d40-8e62-fe355c58751b/340302fa7a9950697106fa0f87965923/dotnet-sdk-9.0.200-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.200/dotnet-sdk-9.0.200-win-x86.exe"
   },
   {
     "Version": "9.0.2",
@@ -37,7 +37,7 @@
     "Channel": "STS",
     "Sha512": "5c086ef4d49e510319bed586049d443c4861dc2b826f531e992855c0abe9818fd60d6ed5cb87a9ea3b21bfff76190337470428cf08dad49c4bb6a77afc4792fa",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/d8b26b48-2f5c-4814-a253-c752a45b504e/2ff9ba5aa7ab19d3736a3c5d9d346b3d/windowsdesktop-runtime-9.0.2-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.2/windowsdesktop-runtime-9.0.2-win-arm64.exe"
   },
   {
     "Version": "9.0.2",
@@ -47,7 +47,7 @@
     "Channel": "STS",
     "Sha512": "2fda149e90311f5f5bda6be635bbbe23fdcaf95359865a9880ae56e14eb5fbf36e1433ea772ae6427031bd8192bcaf50dbbfaa900044769ef462aeaa2636ad2e",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/3575d404-da7d-4461-b032-4090fe1e8378/689e6cf07417805b2ce74c1b807d64f9/aspnetcore-runtime-9.0.2-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.2/aspnetcore-runtime-9.0.2-win-arm64.exe"
   },
   {
     "Version": "9.0.2",
@@ -57,7 +57,7 @@
     "Channel": "STS",
     "Sha512": "d66e00748adcf3d43124cfaff1bb6122dc984ee20a488966e1d6a36b3c83671b91100f985812d1553d52498e8b40d5eccbad87a4778c5aa4c6debe5ca59390d2",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/13aefe6a-ec97-4166-9b8c-278d026a8db9/58b4801e50bdfd60eedef192248cb8fd/dotnet-runtime-9.0.2-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.2/dotnet-runtime-9.0.2-win-arm64.exe"
   },
   {
     "Version": "9.0.2",
@@ -67,7 +67,7 @@
     "Channel": "STS",
     "Sha512": "60958279f9ff96cc953ed6cf404d8deb68e554374d08dc31e8b62a226ea67ae13d6c9eaf1fb44f783fa6241862e83d1cb8c21bbbadfc9386200fbb0345714be9",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0e1df956-98b6-48cc-86ac-8b6c02feb6d9/cb90f6c099d4cdefe8d35af6115a3ec5/windowsdesktop-runtime-9.0.2-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.2/windowsdesktop-runtime-9.0.2-win-x64.exe"
   },
   {
     "Version": "9.0.2",
@@ -77,7 +77,7 @@
     "Channel": "STS",
     "Sha512": "8a6e225a03319f5995c943b32482f73ae08bdcb20a0f8ad24a049162c5e66d3071f271cad6829202794cc7066391777caa8ad5bd3514ced213ba8093d1e5784c",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/ef8f48ce-bf76-4ffc-bb8f-40991ec99b6e/f68b6492c75839333ad8c2fd3ff9c7b4/aspnetcore-runtime-9.0.2-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.2/aspnetcore-runtime-9.0.2-win-x64.exe"
   },
   {
     "Version": "9.0.2",
@@ -87,7 +87,7 @@
     "Channel": "STS",
     "Sha512": "da1d1ba1973d24bb42cf511d12931de88fd1e73efe26690fef60c61d20a6ca63018fd59d5a358f5a7a2bc8219ea294e0fb2786dbcea7d6c05b0a007ffef76e3c",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/f3a5b463-833d-4275-bcaf-5e10c24b31fd/f55af40f168e104e5d93aa1998879570/dotnet-runtime-9.0.2-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.2/dotnet-runtime-9.0.2-win-x64.exe"
   },
   {
     "Version": "9.0.2",
@@ -97,7 +97,7 @@
     "Channel": "STS",
     "Sha512": "d86fc1c6473d9a365a43b39da988b39a9a008f2c3fdde8b68cc6e0893af1e99a9fb5473a10128d55e3e02e808db088438431cce4610153fe3c4d0aadcaf6c7c5",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/4e6149c1-93a5-4c39-93f7-acedb3b8f576/01b7d995fb8cf6d87d71bc625b61dc96/dotnet-runtime-9.0.2-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.2/dotnet-runtime-9.0.2-win-x86.exe"
   },
   {
     "Version": "9.0.2",
@@ -107,7 +107,7 @@
     "Channel": "STS",
     "Sha512": "798b3e13f0276ccdaa4c593c28e83d8c90652d454ffd0e8fe878bfb44b6485a5b21cc5a93eb0c72586d170b3632283cebeaab25c70c793eff30a73e6369c819f",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/f9db1de7-9170-443f-955c-565c56ede288/b0a583d9f169ee3357639479786d1eb8/windowsdesktop-runtime-9.0.2-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.2/windowsdesktop-runtime-9.0.2-win-x86.exe"
   },
   {
     "Version": "9.0.2",
@@ -117,7 +117,7 @@
     "Channel": "STS",
     "Sha512": "a633235f06943865b4176a919b1601d95618a4e43b3af6d374949700df68e02d0e71629c772a9b78c25bff609993d106621ed34a27856adce650bd47e9961e45",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/b985a5f3-8a2c-4854-a69d-e6a585a277fd/8e9965972940a2efd07b150432ee7f5f/aspnetcore-runtime-9.0.2-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.2/aspnetcore-runtime-9.0.2-win-x86.exe"
   },
   {
     "Version": "9.0.2",
@@ -127,7 +127,7 @@
     "Channel": "STS",
     "Sha512": "b275c7f67f46d8d65da5fd07dadf52ab544d5f40aad02c12dc24c1460b8a92b6b5ba418101c4a5e29c29e547eb3c1c794e40fb8531a5e4d35233fdc8e12312eb",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/785df3b0-8483-4eb0-8826-3cfb0d708ba7/28ad125421135a4fad3f03cea41cd673/dotnet-hosting-9.0.2-win.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.2/dotnet-hosting-9.0.2-win.exe"
   },
   {
     "Version": "8.0.406",
