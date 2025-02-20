@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: Nov 26 2024 at 12:39 AM
+last_modified_date: Feb 20 2025 at 12:18 PM
 ---
 
 ## WinSCP
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.3.6   | x86          | exe  | 11635448 | 0a1b121b231b15939169a6c61c9e6c9c | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.6/WinSCP-6.3.6-Setup.exe](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.6/WinSCP-6.3.6-Setup.exe) |
-| 6.3.6   | x86          | msi  | 27975680 | e39cf570feee452c0f94878033b341d4 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.6/WinSCP-6.3.6.msi](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.6/WinSCP-6.3.6.msi)             |
+| 6.3.7   | x86          | exe  | 11638904 | 7747376a7d28ebdec285aaeed61dc2a1 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7-Setup.exe](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7-Setup.exe) |
+| 6.3.7   | x86          | msi  | 28319744 | 4cd74520ea36231aec115f72c5c3f9a2 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7.msi](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7.msi)             |
