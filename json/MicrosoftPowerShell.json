@@ -60,6 +60,16 @@
     "Release": "Stable"
   },
   {
+    "Version": "7.5.0",
+    "Date": "23/1/2025",
+    "Size": 337464141,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win.msixbundle",
+    "Release": "Stable"
+  },
+  {
     "Version": "7.4.7",
     "Date": "23/1/2025",
     "Size": 103011256,
