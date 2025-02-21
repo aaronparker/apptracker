@@ -1,11 +1,11 @@
 [
   {
-    "Version": "v24-build1",
-    "Date": "11/12/2024",
-    "Size": 607296360,
+    "Version": "v25-build1",
+    "Date": "20/2/2025",
+    "Size": 608323112,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v24-build1/Apache-NetBeans-24.exe"
+    "URI": "https://github.com/codelerity/netbeans-installers/releases/download/v25-build1/Apache-NetBeans-25.exe"
   }
 ]
