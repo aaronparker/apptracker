@@ -1,20 +1,20 @@
 [
   {
-    "Version": "10.2.0",
-    "Date": "1/1/2025",
-    "Size": 9931824,
+    "Version": "10.3.0",
+    "Date": "22/2/2025",
+    "Size": 9873790,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/peazip/PeaZip/releases/download/10.2.0/peazip-10.2.0.WIN64.exe"
+    "URI": "https://github.com/peazip/PeaZip/releases/download/10.3.0/peazip-10.3.0.WIN64.exe"
   },
   {
-    "Version": "10.2.0",
-    "Date": "1/1/2025",
-    "Size": 9029375,
+    "Version": "10.3.0",
+    "Date": "22/2/2025",
+    "Size": 8977867,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/peazip/PeaZip/releases/download/10.2.0/peazip-10.2.0.WINDOWS.exe"
+    "URI": "https://github.com/peazip/PeaZip/releases/download/10.3.0/peazip-10.3.0.WINDOWS.exe"
   }
 ]
