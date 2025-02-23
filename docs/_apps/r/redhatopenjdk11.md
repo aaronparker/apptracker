@@ -14,7 +14,7 @@ Evergreen app: `RedHatOpenJDK11`. Found **2** installers.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 502 (Bad Gateway).
+Output from last run on PowerShell Core was null.
 ```
 
 | Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                            |

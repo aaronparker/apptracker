@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Sunday 23/02/2025 00:44 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 23/02/2025 12:29 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **360** applications and **6069** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **360** applications and **6071** unique application installers.
 
 {: .highlight }
 > **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
@@ -23,7 +23,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password 7                                                       | `19/6/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/1/1password7/)                            |
 | 1Password CLI                                                     | `8/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/1/1passwordcli/)                          |
 | 7-Zip                                                             | `30/11/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zip/)                                  |
-| 7-Zip ZS                                                          | `13/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zipzs/)                                |
+| 7-Zip ZS                                                          | `23/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zipzs/)                                |
 | Adobe Acrobat updates                                             | `18/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobat/)                          |
 | Adobe Acrobat DC updates                                          | `20/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatdc/)                        |
 | Adobe Acrobat DC Pro and Standard                                 | `20/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                  |
@@ -152,7 +152,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Greenshot                                                         | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                             |
 | gretl                                                             | `13/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                 |
 | gsudo                                                             | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gsudo/)                                 |
-| Handbrake                                                         | `13/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/handbrake/)                             |
+| Handbrake                                                         | `23/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/handbrake/)                             |
 | Hashicorp Boundary                                                | `11/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpboundary/)                     |
 | Hashicorp Consul                                                  | `21/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpconsul/)                       |
 | Hashicorp Nomad                                                   | `12/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpnomad/)                        |
@@ -161,7 +161,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Hashicorp Vault                                                   | `31/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpvault/)                        |
 | Hashicorp Waypoint                                                | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpwaypoint/)                     |
 | ImageGlass                                                        | `8/12/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imageglass/)                            |
-| ImageMagick Studio ImageMagick                                    | `25/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imagemagickstudioimagemagick/)          |
+| ImageMagick Studio ImageMagick                                    | `23/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imagemagickstudioimagemagick/)          |
 | JabraDirect                                                       | `23/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jabradirect/)                           |
 | JAM Software TreeSize Free                                        | `7/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jamtreesizefree/)                       |
 | JAM Software TreeSize Professional                                | `13/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jamtreesizeprofessional/)               |
@@ -184,7 +184,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JetBrains YouTrack                                                | `5/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsyoutrack/)                     |
 | JGraph draw.io (diagrams.net)                                     | `22/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jgraphdrawio/)                          |
 | jq                                                                | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jq/)                                    |
-| jrsoftware InnoSetup                                              | `22/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
+| jrsoftware InnoSetup                                              | `23/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jrsoftwareinnosetup/)                   |
 | Karakun OpenWebStart                                              | `7/2/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/karakunopenwebstart/)                   |
 | KDiff3                                                            | `28/9/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/kdiff3/)                                |
 | KeePass Password Safe                                             | `9/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/k/keepass/)                               |
@@ -219,7 +219,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft OLE DB Driver for SQL Server (latest)                   | `10/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver/)      |
 | Microsoft OLE DB Driver for SQL Server 18                         | `10/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver18/)    |
 | Microsoft OneDrive                                                | `22/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftonedrive/)                     |
-| Microsoft OpenJDK 11                                              | `6/11/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk11/)                    |
+| Microsoft OpenJDK 11                                              | `6/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk11/)                    |
 | Microsoft OpenJDK 17                                              | `6/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                    |
 | Microsoft OpenJDK 21                                              | `6/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                    |
 | Microsoft PowerShell                                              | `20/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
@@ -316,9 +316,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | R Core Team R for Windows                                         | `1/11/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rcoreteamrforwindows/)                  |
 | Remote Desktop Analyzer                                           | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rdanalyzer/)                            |
 | Red Hat OpenJDK 11                                                | `3/11/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk11/)                       |
-| Red Hat OpenJDK 17                                                | `30/1/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
-| Red Hat OpenJDK 21                                                | `30/1/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk21/)                       |
-| Red Hat OpenJDK 8                                                 | `30/1/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk8/)                        |
+| Red Hat OpenJDK 17                                                | `30/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
+| Red Hat OpenJDK 21                                                | `30/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk21/)                       |
+| Red Hat OpenJDK 8                                                 | `30/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk8/)                        |
 | Responsively App                                                  | `20/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/responsivelyapp/)                       |
 | RingCentral                                                       | `13/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/ringcentral/)                           |
 | Rizonesoft Notepad3                                               | `22/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rizonesoftnotepad3/)                    |
