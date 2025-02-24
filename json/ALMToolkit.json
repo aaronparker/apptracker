@@ -1,0 +1,11 @@
+[
+  {
+    "Version": "5.1.11",
+    "Date": "10/1/2025",
+    "Size": 288519168,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/microsoft/Analysis-Services/releases/download/5.1.11/AlmToolkitSetup.msi"
+  }
+]

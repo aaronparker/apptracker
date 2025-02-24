@@ -1,11 +1,7 @@
 [
   {
-    "Version": "3.0",
-    "Date": "29/10/2022",
-    "Size": 38198079,
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "msix",
-    "URI": "https://github.com/marcinotorowski/MSIX-Hero/releases/download/v3.0/msix-hero-3.0.0.0.msix"
+    "Version": "3.1.0.0",
+    "Date": "2024-12-01 09:00:00",
+    "URI": "https://msixhero.net/msix-hero-3.1.0.0.msix"
   }
 ]

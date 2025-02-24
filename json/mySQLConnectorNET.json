@@ -1,8 +1,8 @@
 [
   {
     "Version": "9.2.0",
-    "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.mysql.com//Downloads/Connector-ODBC/9.2/mysql-connector-odbc-9.2.0-winx64.msi"
+    "Type": "msi",
+    "URI": "https://cdn.mysql.com/Downloads/Connector-ODBC/9.2/mysql-connector-odbc-9.2.0-winx64.msi"
   }
 ]
