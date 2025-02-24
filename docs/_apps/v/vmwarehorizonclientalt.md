@@ -3,7 +3,7 @@ title: VMware Horizon Client (alternate method)
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Jul 27 2024 at 12:15 PM
+last_modified_date: Feb 24 2025 at 12:29 PM
 ---
 
 ## VMware Horizon Client (alternate method)
@@ -12,11 +12,8 @@ last_modified_date: Jul 27 2024 at 12:15 PM
 
 Evergreen app: `VMwareHorizonClientAlt`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
-| Version           | URI                                                                                                                                                                                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 8.13.0.9986028157 | [https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.13.0/9986028157/VMware-Horizon-Client-2406-8.13.0-9986028157.exe.tar](https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.13.0/9986028157/VMware-Horizon-Client-2406-8.13.0-9986028157.exe.tar) |
+| Version            | URI                                                                                                                                                                                                                                                                                          |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8.13.1.11490723527 | [https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.13.1/11490723527/VMware-Horizon-Client-2406.1-8.13.1-11490723527.exe.tar](https://softwareupdate.vmware.com/horizon-clients/viewcrt-windows/8.13.1/11490723527/VMware-Horizon-Client-2406.1-8.13.1-11490723527.exe.tar) |

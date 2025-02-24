@@ -3,7 +3,7 @@ title: MSIX Hero
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Oct 13 2024 at 12:24 PM
+last_modified_date: Feb 24 2025 at 12:29 PM
 ---
 
 ## MSIX Hero
@@ -12,11 +12,8 @@ last_modified_date: Oct 13 2024 at 12:24 PM
 
 Evergreen app: `MSIXHero`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
-| Version | Date       | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                      |
-| ------- | ---------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0     | 29/10/2022 | 38198079 | x86          | Default       | msix | [https://github.com/marcinotorowski/MSIX-Hero/releases/download/v3.0/msix-hero-3.0.0.0.msix](https://github.com/marcinotorowski/MSIX-Hero/releases/download/v3.0/msix-hero-3.0.0.0.msix) |
+| Version | Date                | URI                                                                                        |
+| ------- | ------------------- | ------------------------------------------------------------------------------------------ |
+| 3.1.0.0 | 2024-12-01 09:00:00 | [https://msixhero.net/msix-hero-3.1.0.0.msix](https://msixhero.net/msix-hero-3.1.0.0.msix) |

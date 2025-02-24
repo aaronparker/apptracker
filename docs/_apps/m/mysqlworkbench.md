@@ -3,7 +3,7 @@ title: mySQL Workbench
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jan 22 2025 at 12:38 AM
+last_modified_date: Feb 24 2025 at 12:29 PM
 ---
 
 ## mySQL Workbench
@@ -14,6 +14,6 @@ Evergreen app: `mySQLWorkbench`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Type | Architecture | URI                                                                                                                                                                                      |
-| ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.0.41  | msi  | x64          | [https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.41-winx64.msi](https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.41-winx64.msi) |
+| Version | Architecture | Type | URI                                                                                                                                                                                    |
+| ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8.0.41  | x64          | msi  | [https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.41-winx64.msi](https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.41-winx64.msi) |

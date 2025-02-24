@@ -3,7 +3,7 @@ title: Microsoft Windows App
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Oct 14 2024 at 12:17 PM
+last_modified_date: Feb 24 2025 at 12:29 PM
 ---
 
 ## Microsoft Windows App
@@ -12,13 +12,10 @@ last_modified_date: Oct 14 2024 at 12:17 PM
 
 Evergreen app: `MicrosoftWindowsApp`. Found **3** installers.
 
-Last check: 🔴
-```
-Cannot index into a null array.
-```
+Last check: 🟢
 
-| Version   | Date                          | Architecture | Filename                                | URI                                                                                                                                    |
-| --------- | ----------------------------- | ------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.0.297.0 | Wed, 09 Oct 2024 15:46:20 GMT | ARM64        | WindowsApp_arm64_Release_2.0.297.0.msix | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9Pr](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9Pr) |
-| 2.0.297.0 | Wed, 09 Oct 2024 14:57:52 GMT | x64          | WindowsApp_x64_Release_2.0.297.0.msix   | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9OC](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9OC) |
-| 2.0.297.0 | Wed, 09 Oct 2024 15:45:09 GMT | x86          | WindowsApp_x86_Release_2.0.297.0.msix   | [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9Pq](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1q9Pq) |
+| Version   | Architecture | Filename                                | URI                                                                                                                                                                                                                                                                            |
+| --------- | ------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2.0.352.0 | ARM64        | WindowsApp_arm64_Release_2.0.352.0.msix | [https://res.cdn.office.net/remote-desktop-windows-client/bf442727-aa11-4c3d-b311-1ac2adbdee8d/WindowsApp_arm64_Release_2.0.352.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/bf442727-aa11-4c3d-b311-1ac2adbdee8d/WindowsApp_arm64_Release_2.0.352.0.msix) |
+| 2.0.352.0 | x64          | WindowsApp_x64_Release_2.0.352.0.msix   | [https://res.cdn.office.net/remote-desktop-windows-client/2eda0d23-eaa9-4746-9e76-e58f31542878/WindowsApp_x64_Release_2.0.352.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/2eda0d23-eaa9-4746-9e76-e58f31542878/WindowsApp_x64_Release_2.0.352.0.msix)     |
+| 2.0.352.0 | x86          | WindowsApp_x86_Release_2.0.352.0.msix   | [https://res.cdn.office.net/remote-desktop-windows-client/5b065025-282d-4f4a-8acd-9219eab174bd/WindowsApp_x86_Release_2.0.352.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/5b065025-282d-4f4a-8acd-9219eab174bd/WindowsApp_x86_Release_2.0.352.0.msix)     |
