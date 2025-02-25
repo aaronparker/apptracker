@@ -2,7 +2,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 118747952,
+    "Size": 118747928,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -11,7 +11,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 118533296,
+    "Size": 118533272,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
@@ -20,7 +20,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 112546880,
+    "Size": 112546872,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
@@ -29,7 +29,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 112331928,
+    "Size": 112331936,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
@@ -38,7 +38,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 106816192,
+    "Size": 106816216,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
@@ -47,7 +47,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 106601696,
+    "Size": 106601664,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
@@ -56,7 +56,7 @@
   {
     "Version": "26.0.16",
     "Date": "24/2/2025",
-    "Size": 122281984,
+    "Size": 122294272,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
