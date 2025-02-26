@@ -3,7 +3,7 @@ title: Microsoft Azure Pipelines Agent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Feb 6 2025 at 12:36 PM
+last_modified_date: Feb 26 2025 at 12:21 PM
 ---
 
 ## Microsoft Azure Pipelines Agent
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                        |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.251.0 | zip  | x64          | [https://vstsagentpackage.azureedge.net/agent/4.251.0/vsts-agent-win-x64-4.251.0.zip](https://vstsagentpackage.azureedge.net/agent/4.251.0/vsts-agent-win-x64-4.251.0.zip) |
-| 4.251.0 | zip  | x86          | [https://vstsagentpackage.azureedge.net/agent/4.251.0/vsts-agent-win-x86-4.251.0.zip](https://vstsagentpackage.azureedge.net/agent/4.251.0/vsts-agent-win-x86-4.251.0.zip) |
+| 4.252.0 | zip  | x64          | [https://vstsagentpackage.azureedge.net/agent/4.252.0/vsts-agent-win-x64-4.252.0.zip](https://vstsagentpackage.azureedge.net/agent/4.252.0/vsts-agent-win-x64-4.252.0.zip) |
+| 4.252.0 | zip  | x86          | [https://vstsagentpackage.azureedge.net/agent/4.252.0/vsts-agent-win-x86-4.252.0.zip](https://vstsagentpackage.azureedge.net/agent/4.252.0/vsts-agent-win-x86-4.252.0.zip) |

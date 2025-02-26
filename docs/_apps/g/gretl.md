@@ -12,7 +12,10 @@ last_modified_date: Dec 13 2024 at 12:53 AM
 
 Evergreen app: `gretl`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

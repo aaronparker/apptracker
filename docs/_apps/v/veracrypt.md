@@ -12,7 +12,10 @@ last_modified_date: Feb 5 2025 at 12:24 PM
 
 Evergreen app: `VeraCrypt`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                                                            |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

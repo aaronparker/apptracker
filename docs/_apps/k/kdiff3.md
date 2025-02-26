@@ -12,7 +12,10 @@ last_modified_date: Sep 28 2024 at 02:02 AM
 
 Evergreen app: `KDiff3`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
