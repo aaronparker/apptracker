@@ -267,7 +267,7 @@
     "Channel": "6.0",
     "Sha512": "cbeea2c4406dddadf0cfcf71b08400d18ad7f732f7de9d0c3830eb1963dd844a25c9d1b143879e03ccb43ad79c560ef3978276381c8a098cc8530fbe7e8c7fbc",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/24aef48c-48d9-4196-a3e6-0100faf8a499/90b1599f291199805b872e5c611b53d8/dotnet-sdk-6.0.428-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-arm64.exe"
   },
   {
     "Version": "6.0.428",
@@ -277,7 +277,7 @@
     "Channel": "6.0",
     "Sha512": "a6706b5c03187922e92fa9307b155255139546d081bf1623faff496035eb707440f13c21798aae06fe8fcfeadcfa046c8606dd452db92e5ed48e2005eb421842",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/396abf58-60df-4892-b086-9ed9c7a914ba/eb344c08fa7fc303f46d6905a0cb4ea3/dotnet-sdk-6.0.428-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x64.exe"
   },
   {
     "Version": "6.0.428",
@@ -287,7 +287,7 @@
     "Channel": "6.0",
     "Sha512": "873919c467377229cffc856a6ad14dde80bcc3d05546f7c8843e61f72e9b208fb88e26ec4591cbf9166c181608864dce685b445355ed14e573e0cba42ced8c7d",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/b68fdebb-7f2f-4dd9-9d00-7909c6d7c153/e0314584ded73c90a3a9c1947b0ae36f/dotnet-sdk-6.0.428-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x86.exe"
   },
   {
     "Version": "6.0.36",
@@ -297,7 +297,7 @@
     "Channel": "6.0",
     "Sha512": "c30e4655a4548d2e27fa09711e085828775aa4fdcab0ba1b71923430342c49b54d91fe929d07ff15f777f86b7697d03bd666674f6745673d6b53aa2bb49d1228",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/4ed65c50-4ef3-4c90-890b-b229ff8a4ed5/b138c1201dca5b9c837488acf064a1c6/dotnet-runtime-6.0.36-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/6.0.36/dotnet-runtime-6.0.36-win-arm64.exe"
   },
   {
     "Version": "6.0.36",
@@ -307,7 +307,7 @@
     "Channel": "6.0",
     "Sha512": "0d5fd97a305960851ff8527a7db65fadae661411d7a9b6e8dd972180cffce7bfa1b842db2baf1b8affd1843d317a2d640ab465a5876177505a34c75aa4631d66",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/77154c66-aae2-4695-94d3-db0f82305ff9/5b3684e1750b2a7a73f7b6db93f813b2/windowsdesktop-runtime-6.0.36-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-arm64.exe"
   },
   {
     "Version": "6.0.36",
@@ -317,7 +317,7 @@
     "Channel": "6.0",
     "Sha512": "a8e493587d741dfc5ab3aeb548e8abae1bc180dfa28cc0aa4ddaf159bdd990644a97d5e987a17e25def1a41947938b0fabcfe35cf9d81df29b2619b54ec3a86c",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/1a5fc50a-9222-4f33-8f73-3c78485a55c7/1cb55899b68fcb9d98d206ba56f28b66/dotnet-runtime-6.0.36-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/6.0.36/dotnet-runtime-6.0.36-win-x64.exe"
   },
   {
     "Version": "6.0.36",
@@ -327,7 +327,7 @@
     "Channel": "6.0",
     "Sha512": "339731656db435c1f1aa375f90537f7509a8129f9501fbdba16e85a120ea1c5cb0b193fff171dcb4d9744d5b6a5a0eea1d2128a28cbbf637a68e4c3422ffc53e",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/0f0ea01c-ef7c-4493-8960-d1e9269b718b/3f95c5bd383be65c2c3384e9fa984078/aspnetcore-runtime-6.0.36-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/6.0.36/aspnetcore-runtime-6.0.36-win-x64.exe"
   },
   {
     "Version": "6.0.36",
@@ -337,7 +337,7 @@
     "Channel": "6.0",
     "Sha512": "86fa63997e7e0dc6f3bf609e00880388dcf8d985c8f6417d07ebbbb1ecc957bf90214c8ff93f559a0e762b5626ba8c56c581f4d506aa4de7555f9792c2da254d",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/f6b6c5dc-e02d-4738-9559-296e938dabcb/b66d365729359df8e8ea131197715076/windowsdesktop-runtime-6.0.36-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe"
   },
   {
     "Version": "6.0.36",
@@ -347,7 +347,7 @@
     "Channel": "6.0",
     "Sha512": "53b3ad92bdb61478b3c96d85c6c54edfdb472da33c44f9d173ee309bbb92c67fd089c2cd10249c9562118876d033e0d55794eb98ef3641c1532bb5a42926a4a8",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/727d79cb-6a4c-4a6b-bd9e-af99ad62de0b/5cd3550f1589a2f1b3a240c745dd1023/dotnet-runtime-6.0.36-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/6.0.36/dotnet-runtime-6.0.36-win-x86.exe"
   },
   {
     "Version": "6.0.36",
@@ -357,7 +357,7 @@
     "Channel": "6.0",
     "Sha512": "dbd5029cdaa86ca5cf65e25a0e7ef1746150f90651ccfdccef1a8bf7e415524950273abd073c33c1865586e8b172852972a5d3b25cffaea5c2facd3a5e05512f",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/8cfa7f46-88f2-4521-a2d8-59b827420344/447de18a48115ac0fe6f381f0528e7a5/aspnetcore-runtime-6.0.36-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/6.0.36/aspnetcore-runtime-6.0.36-win-x86.exe"
   },
   {
     "Version": "6.0.36",
@@ -367,7 +367,7 @@
     "Channel": "6.0",
     "Sha512": "a18351aabfe1590e58af79e57ac2414254ba80cb7a1fef19545a6b8418575c735fc1dc164c3c7fed426c4698f099991487fa4f443bab93afd41d1563845fbcf4",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/cdc314df-4a4c-4709-868d-b974f336f77f/acd5ab7637e456c8a3aa667661324f6d/windowsdesktop-runtime-6.0.36-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x86.exe"
   },
   {
     "Version": "6.0.36",
@@ -377,6 +377,6 @@
     "Channel": "6.0",
     "Sha512": "f2d20a6dc4fd1d923d06838ad118ea5c2aecefdee0004af00db78f2e82a1046d0d8a7872c84d3f5e5a3802ab7d087148eb879c2ebe3fc3a81ca0f1c0f5d64690",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/9b8253ef-554d-4636-b708-e154c0199ce5/f3673dd1f2dc80e5b0505cbd2d4bd5d2/dotnet-hosting-6.0.36-win.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/6.0.36/dotnet-hosting-6.0.36-win.exe"
   }
 ]
