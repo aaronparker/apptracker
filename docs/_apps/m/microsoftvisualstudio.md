@@ -3,7 +3,7 @@ title: Microsoft Visual Studio
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Feb 20 2025 at 12:39 AM
+last_modified_date: Feb 27 2025 at 12:47 AM
 ---
 
 ## Microsoft Visual Studio
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftVisualStudio`. Found **1** installer.
 
 Last check: 🟢
 
-| Version        | Sha256                                                           | Size    | URI                                                                                                                                                                                                                                                                                                                                                      |
-| -------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.13.35818.85 | 0635ff6a726f00e623798da126e18f29ecabefd10441e54be46b152f5f98b19c | 4449280 | [https://download.visualstudio.microsoft.com/download/pr/6fb3e1c1-09c2-4ead-966e-fc94d48f5b17/0635ff6a726f00e623798da126e18f29ecabefd10441e54be46b152f5f98b19c/vs_Setup.exe](https://download.visualstudio.microsoft.com/download/pr/6fb3e1c1-09c2-4ead-966e-fc94d48f5b17/0635ff6a726f00e623798da126e18f29ecabefd10441e54be46b152f5f98b19c/vs_Setup.exe) |
+| Version         | Sha256                                                           | Size    | URI                                                                                                                                                                                                                                                                                                                                                      |
+| --------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17.13.35825.156 | c2e45ceb236e05e63637f93f3e83cd0a68b92ae336fcf71928f23a75a039c70b | 4447496 | [https://download.visualstudio.microsoft.com/download/pr/84955a63-15ca-4f52-94af-14ea55b50424/c2e45ceb236e05e63637f93f3e83cd0a68b92ae336fcf71928f23a75a039c70b/vs_Setup.exe](https://download.visualstudio.microsoft.com/download/pr/84955a63-15ca-4f52-94af-14ea55b50424/c2e45ceb236e05e63637f93f3e83cd0a68b92ae336fcf71928f23a75a039c70b/vs_Setup.exe) |

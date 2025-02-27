@@ -3,7 +3,7 @@ title: Microsoft OpenJDK 11
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Nov 6 2024 at 12:38 AM
+last_modified_date: Feb 27 2025 at 12:47 AM
 ---
 
 ## Microsoft OpenJDK 11
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                                                                                                |
 | --------- | ------------------- | --------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11.0.25+9 | 11/04/2024 09:00:00 | jdk       | ARM64        | msi  | [https://download.visualstudio.microsoft.com/download/pr/71f38f1a-cb85-4e06-8f91-41b849392379/5cd222f20993eb66828fd14029c5ddd2/microsoft-jdk-11.0.25-windows-aarch64.msi](https://download.visualstudio.microsoft.com/download/pr/71f38f1a-cb85-4e06-8f91-41b849392379/5cd222f20993eb66828fd14029c5ddd2/microsoft-jdk-11.0.25-windows-aarch64.msi) |
-| 11.0.25+9 | 11/04/2024 09:00:00 | jdk       | x64          | msi  | [https://download.visualstudio.microsoft.com/download/pr/71f38f1a-cb85-4e06-8f91-41b849392379/172097807222f4e61cd9e33f9b4e6302/microsoft-jdk-11.0.25-windows-x64.msi](https://download.visualstudio.microsoft.com/download/pr/71f38f1a-cb85-4e06-8f91-41b849392379/172097807222f4e61cd9e33f9b4e6302/microsoft-jdk-11.0.25-windows-x64.msi)         |
+| 11.0.26+4 | 02/26/2025 13:00:00 | jdk       | ARM64        | msi  | [https://download.visualstudio.microsoft.com/download/pr/dbcd9dc8-c73b-438c-b0f8-4f28f321d80e/580fcd470e1c3a46923600e92fd276a8/microsoft-jdk-11.0.26-windows-aarch64.msi](https://download.visualstudio.microsoft.com/download/pr/dbcd9dc8-c73b-438c-b0f8-4f28f321d80e/580fcd470e1c3a46923600e92fd276a8/microsoft-jdk-11.0.26-windows-aarch64.msi) |
+| 11.0.26+4 | 02/26/2025 13:00:00 | jdk       | x64          | msi  | [https://download.visualstudio.microsoft.com/download/pr/dbcd9dc8-c73b-438c-b0f8-4f28f321d80e/69b9fe8a8cabf2380d305f591deeb0ab/microsoft-jdk-11.0.26-windows-x64.msi](https://download.visualstudio.microsoft.com/download/pr/dbcd9dc8-c73b-438c-b0f8-4f28f321d80e/69b9fe8a8cabf2380d305f591deeb0ab/microsoft-jdk-11.0.26-windows-x64.msi)         |
