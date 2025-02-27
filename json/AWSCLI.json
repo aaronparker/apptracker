@@ -1,7 +1,7 @@
 [
   {
-    "Version": "2.24.12",
+    "Version": "2.24.13",
     "Type": "msi",
-    "URI": "https://awscli.amazonaws.com/AWSCLIV2-2.24.12.msi"
+    "URI": "https://awscli.amazonaws.com/AWSCLIV2-2.24.13.msi"
   }
 ]
