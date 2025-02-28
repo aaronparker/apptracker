@@ -3,7 +3,7 @@ title: Microsoft OLE DB Driver for SQL Server (latest)
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Feb 10 2025 at 12:24 PM
+last_modified_date: Feb 28 2025 at 12:47 AM
 ---
 
 ## Microsoft OLE DB Driver for SQL Server (latest)
@@ -27,7 +27,7 @@ Last check: 🟢
 | 19.3.3.0 | 10/2/2025 | 3026944 | Portuguese (Brazil)   | ARM64        | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/pt-BR/19.3.3.0/arm64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/pt-BR/19.3.3.0/arm64/msoledbsql.msi) |
 | 19.3.3.0 | 10/2/2025 | 3059712 | Russian               | ARM64        | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/ru-RU/19.3.3.0/arm64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/ru-RU/19.3.3.0/arm64/msoledbsql.msi) |
 | 19.3.3.0 | 10/2/2025 | 3035136 | Spanish               | ARM64        | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/es-ES/19.3.3.0/arm64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/es-ES/19.3.3.0/arm64/msoledbsql.msi) |
-| 19.3.3.0 | 10/2/2025 | 4935680 | Chinese (Simplified)  | x64          | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/zh-CN/19.3.3.0/x64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/zh-CN/19.3.3.0/x64/msoledbsql.msi)     |
+| 19.3.3.0 | 10/2/2025 | 4894720 | Chinese (Simplified)  | x64          | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.3.0/x64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.3.0/x64/msoledbsql.msi)     |
 | 19.3.3.0 | 10/2/2025 | 4939776 | Chinese (Traditional) | x64          | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/zh-TW/19.3.3.0/x64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/zh-TW/19.3.3.0/x64/msoledbsql.msi)     |
 | 19.3.3.0 | 10/2/2025 | 4894720 | English               | x64          | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.3.0/x64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/en-US/19.3.3.0/x64/msoledbsql.msi)     |
 | 19.3.3.0 | 10/2/2025 | 4997120 | French                | x64          | msi  | [https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/fr-FR/19.3.3.0/x64/msoledbsql.msi](https://download.microsoft.com/download/f/1/3/f13ce329-0835-44e7-b110-44decd29b0ad/fr-FR/19.3.3.0/x64/msoledbsql.msi)     |
