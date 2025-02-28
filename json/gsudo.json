@@ -1,38 +1,38 @@
 [
   {
-    "Version": "2.5.1",
-    "Date": "30/5/2024",
-    "Size": 2355200,
+    "Version": "2.6.0",
+    "Date": "28/2/2025",
+    "Size": 1966080,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.arm64.msi"
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.6.0/gsudo.setup.arm64.msi"
   },
   {
-    "Version": "2.5.1",
-    "Date": "30/5/2024",
-    "Size": 2363392,
+    "Version": "2.6.0",
+    "Date": "28/2/2025",
+    "Size": 2002944,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.x64.msi"
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.6.0/gsudo.setup.x64.msi"
   },
   {
-    "Version": "2.5.1",
-    "Date": "30/5/2024",
-    "Size": 6651904,
+    "Version": "2.6.0",
+    "Date": "28/2/2025",
+    "Size": 1847296,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.setup.x86.msi"
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.6.0/gsudo.setup.x86.msi"
   },
   {
-    "Version": "2.5.1",
-    "Date": "30/5/2024",
-    "Size": 12603597,
+    "Version": "2.6.0",
+    "Date": "28/2/2025",
+    "Size": 5996732,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.5.1/gsudo.portable.zip"
+    "URI": "https://github.com/gerardog/gsudo/releases/download/v2.6.0/gsudo.portable.zip"
   }
 ]
