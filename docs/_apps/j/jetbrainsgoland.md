@@ -3,7 +3,7 @@ title: JetBrains GoLand
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Feb 13 2025 at 12:17 PM
+last_modified_date: Feb 28 2025 at 12:17 PM
 ---
 
 ## JetBrains GoLand
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Build        | Edition | Sha256                                                       | Date      | Size      | Type | URI                                                                                                            |
 | -------- | ------------ | ------- | ------------------------------------------------------------ | --------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2024.3.3 | 243.24978.59 | GoLand  | https://download.jetbrains.com/go/goland-2024.3.3.exe.sha256 | 13/2/2025 | 840290064 | exe  | [https://download.jetbrains.com/go/goland-2024.3.3.exe](https://download.jetbrains.com/go/goland-2024.3.3.exe) |
+| 2024.3.4 | 243.25659.52 | GoLand  | https://download.jetbrains.com/go/goland-2024.3.4.exe.sha256 | 28/2/2025 | 840252208 | exe  | [https://download.jetbrains.com/go/goland-2024.3.4.exe](https://download.jetbrains.com/go/goland-2024.3.4.exe) |
