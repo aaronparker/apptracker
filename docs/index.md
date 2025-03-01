@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Saturday 01/03/2025 00:53 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 01/03/2025 12:18 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -320,7 +320,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | PuTTY                                                             | `8/2/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/putty/)                                 |
 | Python                                                            | `24/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/python/)                                |
 | QGIS                                                              | `24/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/q/qgis/)                                  |
-| R Core Team R for Windows                                         | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rcoreteamrforwindows/)                  |
+| R Core Team R for Windows                                         | `1/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rcoreteamrforwindows/)                  |
 | Remote Desktop Analyzer                                           | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rdanalyzer/)                            |
 | Red Hat OpenJDK 11                                                | `3/11/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk11/)                       |
 | Red Hat OpenJDK 17                                                | `30/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
