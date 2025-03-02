@@ -1,17 +1,50 @@
 [
   {
-    "Version": "5.104.9176.40304",
+    "Version": [
+      "5.104.9176.40304",
+      "5.105.9191.33187"
+    ],
     "Architecture": "ARM64",
     "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.4/paint.net.5.1.4.install.arm64.zip"
   },
   {
-    "Version": "5.104.9176.40304",
+    "Version": [
+      "5.104.9176.40304",
+      "5.105.9191.33187"
+    ],
+    "Architecture": "ARM64",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.5-beta.5.105.9191.33187/paint.net.5.105.9191.33187.install.arm64.zip"
+  },
+  {
+    "Version": [
+      "5.104.9176.40304",
+      "5.105.9191.33187"
+    ],
     "Architecture": "x64",
     "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.4/paint.net.5.1.4.install.x64.zip"
   },
   {
-    "Version": "5.104.9176.40304",
+    "Version": [
+      "5.104.9176.40304",
+      "5.105.9191.33187"
+    ],
+    "Architecture": "x64",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.5-beta.5.105.9191.33187/paint.net.5.105.9191.33187.install.x64.zip"
+  },
+  {
+    "Version": [
+      "5.104.9176.40304",
+      "5.105.9191.33187"
+    ],
     "Architecture": "x86",
     "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.4/paint.net.5.1.4.install.anycpu.web.zip"
+  },
+  {
+    "Version": [
+      "5.104.9176.40304",
+      "5.105.9191.33187"
+    ],
+    "Architecture": "x86",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.5-beta.5.105.9191.33187/paint.net.5.105.9191.33187.install.anycpu.web.zip"
   }
 ]
