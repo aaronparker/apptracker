@@ -12,7 +12,10 @@ last_modified_date: Feb 13 2025 at 12:46 AM
 
 Evergreen app: `AzulZulu11`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                            |
 | --------- | ------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
