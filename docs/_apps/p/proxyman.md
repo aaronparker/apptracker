@@ -3,7 +3,7 @@ title: Proxyman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Feb 4 2025 at 12:24 PM
+last_modified_date: Mar 2 2025 at 12:32 PM
 ---
 
 ## Proxyman
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date     | Size     | Architecture | Type | URI                                                                                                                                                          |
 | ------- | -------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.20.0  | 4/2/2025 | 96399160 | x86          | exe  | [https://download.proxyman.com/windows/2.20.0/build/Proxyman+Setup+2.20.0.exe](https://download.proxyman.com/windows/2.20.0/build/Proxyman+Setup+2.20.0.exe) |
+| 2.21.0  | 2/3/2025 | 96440960 | x86          | exe  | [https://download.proxyman.com/windows/2.21.0/build/Proxyman+Setup+2.21.0.exe](https://download.proxyman.com/windows/2.21.0/build/Proxyman+Setup+2.21.0.exe) |
