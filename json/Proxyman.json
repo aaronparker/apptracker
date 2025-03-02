@@ -1,10 +1,10 @@
 [
   {
-    "Version": "2.20.0",
-    "Date": "4/2/2025",
-    "Size": 96399160,
+    "Version": "2.21.0",
+    "Date": "2/3/2025",
+    "Size": 96440960,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.proxyman.com/windows/2.20.0/build/Proxyman+Setup+2.20.0.exe"
+    "URI": "https://download.proxyman.com/windows/2.21.0/build/Proxyman+Setup+2.21.0.exe"
   }
 ]
