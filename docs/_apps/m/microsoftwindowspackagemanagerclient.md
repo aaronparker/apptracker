@@ -3,7 +3,7 @@ title: Microsoft Windows Package Manager Client
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Feb 26 2025 at 12:37 AM
+last_modified_date: Mar 4 2025 at 12:39 AM
 ---
 
 ## Microsoft Windows Package Manager Client
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Date      | Size      | Architecture | InstallerType | Type       | URI                                                                                                                                                                                                                                                      |
 | -------- | --------- | --------- | ------------ | ------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.10.320 | 19/2/2025 | 226440004 | x86          | Default       | msixbundle | [https://github.com/microsoft/winget-cli/releases/download/v1.10.320/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle](https://github.com/microsoft/winget-cli/releases/download/v1.10.320/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle) |
+| 1.10.340 | 27/2/2025 | 226437391 | x86          | Default       | msixbundle | [https://github.com/microsoft/winget-cli/releases/download/v1.10.340/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle](https://github.com/microsoft/winget-cli/releases/download/v1.10.340/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle) |
