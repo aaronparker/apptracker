@@ -3,7 +3,7 @@ title: RingCentral
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: Feb 27 2025 at 12:20 PM
+last_modified_date: Mar 6 2025 at 12:34 PM
 ---
 
 ## RingCentral
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version   | Platform | Type     | URI                                                                                                                                                                                                  |
 | --------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.1.1610 | Windows  | Exe      | [https://app.ringcentral.com/download/RingCentral.exe](https://app.ringcentral.com/download/RingCentral.exe)                                                                                         |
-| 25.1.1610 | Windows  | Meetings | [https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi](https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi)                                   |
-| 25.1.1610 | Windows  | Msi      | [https://app.ringcentral.com/download/RingCentral-x64.msi](https://app.ringcentral.com/download/RingCentral-x64.msi)                                                                                 |
-| 25.1.1610 | Windows  | Outlook  | [https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi](https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi) |
-| 25.1.1610 | Windows  | Rooms    | [https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi](https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi)                                         |
+| 25.1.2010 | Windows  | Exe      | [https://app.ringcentral.com/download/RingCentral.exe](https://app.ringcentral.com/download/RingCentral.exe)                                                                                         |
+| 25.1.2010 | Windows  | Meetings | [https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi](https://downloads.ringcentral.com/RCM/RC/meetings/win/RCMeetingsClientSetup.msi)                                   |
+| 25.1.2010 | Windows  | Msi      | [https://app.ringcentral.com/download/RingCentral-x64.msi](https://app.ringcentral.com/download/RingCentral-x64.msi)                                                                                 |
+| 25.1.2010 | Windows  | Outlook  | [https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi](https://downloads.ringcentral.com/RCM/RC/meetings/OutlookPlugin/RCMeetingsOutlookPluginSetup.msi) |
+| 25.1.2010 | Windows  | Rooms    | [https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi](https://downloads.ringcentral.com/RCM/RC/rooms/win/RingCentralRoomsSetup.msi)                                         |
