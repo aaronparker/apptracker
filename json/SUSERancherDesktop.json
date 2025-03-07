@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.18.0",
-    "Date": "18/2/2025",
-    "Size": 649240576,
+    "Version": "1.18.2",
+    "Date": "6/3/2025",
+    "Size": 665997312,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.18.0/Rancher.Desktop.Setup.1.18.0.msi"
+    "URI": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.18.2/Rancher.Desktop.Setup.1.18.2.msi"
   }
 ]
