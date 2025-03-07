@@ -3,7 +3,7 @@ title: Bitwarden Desktop
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Feb 14 2025 at 12:45 AM
+last_modified_date: Mar 7 2025 at 12:48 AM
 ---
 
 ## Bitwarden Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Type | URI                                                                                                                                                  |
 | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.2.0 | exe  | [https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2025.2.0.exe](https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2025.2.0.exe) |
+| 2025.2.1 | exe  | [https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2025.2.1.exe](https://artifacts.bitwarden.com/desktop/Bitwarden-Installer-2025.2.1.exe) |
