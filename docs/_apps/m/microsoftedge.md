@@ -3,7 +3,7 @@ title: Microsoft Edge
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Mar 7 2025 at 12:48 AM
+last_modified_date: Mar 8 2025 at 12:33 AM
 ---
 
 ## Microsoft Edge
@@ -35,5 +35,5 @@ Last check: 🟢
 | 134.0.3124.51 | Windows  | Beta       | Enterprise | x86          | AF5D752F638ABC86838AE806CEC760B6842D01B812DC77EE2A05BEF45A89AD52 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77c5e5a8-8ec1-4b3f-a19b-4272451d0d8c/MicrosoftEdgeBetaEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77c5e5a8-8ec1-4b3f-a19b-4272451d0d8c/MicrosoftEdgeBetaEnterpriseX86.msi)                   |
 | 134.0.3124.51 | Windows  | Stable     | Consumer   | x86          | 04F5BEAAB7F159BDCA386B11D48C898E88C474F95640AF51B316F3CCCD6E573B | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c2f0bd7-8cb6-4c04-b20e-f3d95420a696/MicrosoftEdgeEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c2f0bd7-8cb6-4c04-b20e-f3d95420a696/MicrosoftEdgeEnterpriseX86.msi)                           |
 | 134.0.3124.51 | Windows  | Stable     | Enterprise | x86          | 04F5BEAAB7F159BDCA386B11D48C898E88C474F95640AF51B316F3CCCD6E573B | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c2f0bd7-8cb6-4c04-b20e-f3d95420a696/MicrosoftEdgeEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c2f0bd7-8cb6-4c04-b20e-f3d95420a696/MicrosoftEdgeEnterpriseX86.msi)                           |
-| 1.3.195.43    | Windows  | EdgeUpdate | Consumer   | x86          | DAC76CE6445BAEAE894875C114C76F95507539CB32A581F152B6F4ED4FF43819 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff8e6bca-29e7-4bac-a944-15bc3997888f/MicrosoftEdgeUpdateSetup_X86_1.3.195.43.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff8e6bca-29e7-4bac-a944-15bc3997888f/MicrosoftEdgeUpdateSetup_X86_1.3.195.43.exe) |
-| 1.3.195.43    | Windows  | EdgeUpdate | Enterprise | x86          | DAC76CE6445BAEAE894875C114C76F95507539CB32A581F152B6F4ED4FF43819 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff8e6bca-29e7-4bac-a944-15bc3997888f/MicrosoftEdgeUpdateSetup_X86_1.3.195.43.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff8e6bca-29e7-4bac-a944-15bc3997888f/MicrosoftEdgeUpdateSetup_X86_1.3.195.43.exe) |
+| 1.3.195.45    | Windows  | EdgeUpdate | Consumer   | x86          | 700E5BB6A5A53998DC2A6489887959D4CEEAE9B9DE9D40519E5E339970800570 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/256d3512-b2cf-43c3-98cc-7dae2bb83622/MicrosoftEdgeUpdateSetup_X86_1.3.195.45.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/256d3512-b2cf-43c3-98cc-7dae2bb83622/MicrosoftEdgeUpdateSetup_X86_1.3.195.45.exe) |
+| 1.3.195.45    | Windows  | EdgeUpdate | Enterprise | x86          | 700E5BB6A5A53998DC2A6489887959D4CEEAE9B9DE9D40519E5E339970800570 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/256d3512-b2cf-43c3-98cc-7dae2bb83622/MicrosoftEdgeUpdateSetup_X86_1.3.195.45.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/256d3512-b2cf-43c3-98cc-7dae2bb83622/MicrosoftEdgeUpdateSetup_X86_1.3.195.45.exe) |

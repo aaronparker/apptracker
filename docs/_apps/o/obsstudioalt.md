@@ -3,7 +3,7 @@ title: OBS Studio Alt
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Jan 19 2025 at 12:39 AM
+last_modified_date: Mar 8 2025 at 12:33 AM
 ---
 
 ## OBS Studio Alt
@@ -14,8 +14,8 @@ Evergreen app: `OBSStudioAlt`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
-| ------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 31.0.1  | 18/1/2025 | 156175280 | x86          | Default       | exe  | [https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Windows-Installer.exe](https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Windows-Installer.exe) |
-| 31.0.1  | 18/1/2025 | 57894613  | x86          | Default       | zip  | [https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Windows-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Windows-PDBs.zip)           |
-| 31.0.1  | 18/1/2025 | 181520144 | x86          | Default       | zip  | [https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Windows.zip](https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Windows.zip)                     |
+| Version | Date     | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
+| ------- | -------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 31.0.2  | 7/3/2025 | 156196264 | x86          | Default       | exe  | [https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows-Installer.exe](https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows-Installer.exe) |
+| 31.0.2  | 7/3/2025 | 58291660  | x86          | Default       | zip  | [https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows-PDBs.zip)           |
+| 31.0.2  | 7/3/2025 | 181543935 | x86          | Default       | zip  | [https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows.zip](https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows.zip)                     |
