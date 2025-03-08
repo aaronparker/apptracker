@@ -1,11 +1,27 @@
 [
   {
-    "Version": "136.0.7054.0",
+    "Version": "136.0.7055.0",
     "Channel": "Canary",
     "StartDate": "7/3/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
+  },
+  {
+    "Version": "136.0.7052.2",
+    "Channel": "Dev",
+    "StartDate": "7/3/2025",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "136.0.7052.2",
+    "Channel": "Dev",
+    "StartDate": "7/3/2025",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "135.0.7049.3",
@@ -22,22 +38,6 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "135.0.7039.0",
-    "Channel": "Dev",
-    "StartDate": "3/3/2025",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
-  },
-  {
-    "Version": "135.0.7039.0",
-    "Channel": "Dev",
-    "StartDate": "3/3/2025",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "134.0.6998.36",
