@@ -12,10 +12,7 @@ last_modified_date: Feb 28 2025 at 12:47 AM
 
 Evergreen app: `ScooterBeyondCompare`. Found **5** installers.
 
-Last check: 🔴
-```
-Connection timed out (www.scootersoftware.com:443)
-```
+Last check: 🟢
 
 | Version     | Language             | Architecture | Type | URI                                                                                                                        |
 | ----------- | -------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------- |
