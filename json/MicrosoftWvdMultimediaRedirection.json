@@ -1,9 +1,8 @@
 [
   {
-    "Version": "1.0.2404.4003",
-    "Date": "Fri, 18 Oct 2024 22:01:48 GMT",
+    "Version": "1.0.2501.28001",
+    "Date": "Friday 14 February 2025 8:32:44 pm",
     "Architecture": "x64",
-    "Filename": "MsMMRHostInstaller_1.0.2404.4003_x64.msi",
-    "URI": "https://aka.ms/avdmmr/msi"
+    "URI": "https://intstreamreleases.z22.web.core.windows.net/MsMMRHostInstaller_1.0.2501.28001_x64.msi"
   }
 ]

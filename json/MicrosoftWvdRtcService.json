@@ -1,9 +1,8 @@
 [
   {
     "Version": "1.54.2408.19001",
-    "Date": "Tue, 20 Aug 2024 18:18:31 GMT",
+    "Date": "Wednesday 15 January 2025 9:12:34 pm",
     "Architecture": "x64",
-    "Filename": "MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi",
-    "URI": "https://aka.ms/msrdcwebrtcsvc/msi"
+    "URI": "https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi"
   }
 ]
