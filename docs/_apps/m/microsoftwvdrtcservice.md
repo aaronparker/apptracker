@@ -3,7 +3,7 @@ title: Microsoft Remote Desktop WebRTC Redirector Service
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Aug 22 2024 at 12:34 AM
+last_modified_date: Mar 9 2025 at 12:25 PM
 ---
 
 ## Microsoft Remote Desktop WebRTC Redirector Service
@@ -12,11 +12,8 @@ last_modified_date: Aug 22 2024 at 12:34 AM
 
 Evergreen app: `MicrosoftWvdRtcService`. Found **1** installer.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
-| Version         | Date                          | Architecture | Filename                                         | URI                                                                    |
-| --------------- | ----------------------------- | ------------ | ------------------------------------------------ | ---------------------------------------------------------------------- |
-| 1.54.2408.19001 | Tue, 20 Aug 2024 18:18:31 GMT | x64          | MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi | [https://aka.ms/msrdcwebrtcsvc/msi](https://aka.ms/msrdcwebrtcsvc/msi) |
+| Version         | Date                                 | Architecture | URI                                                                                                                                                                                                        |
+| --------------- | ------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.54.2408.19001 | Wednesday 15 January 2025 9:12:34 pm | x64          | [https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi](https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi) |

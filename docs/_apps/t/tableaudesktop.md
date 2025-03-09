@@ -3,7 +3,7 @@ title: Tableau Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Oct 16 2024 at 12:36 AM
+last_modified_date: Mar 9 2025 at 12:25 PM
 ---
 
 ## Tableau Desktop
@@ -12,11 +12,8 @@ last_modified_date: Oct 16 2024 at 12:36 AM
 
 Evergreen app: `TableauDesktop`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version  | Architecture | Type | URI                                                                                                                                                      |
 | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024.3.0 | x64          | exe  | [https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-3-0.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-3-0.exe) |
+| 2024.3.4 | x64          | exe  | [https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-3-4.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2024-3-4.exe) |

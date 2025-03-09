@@ -1,0 +1,38 @@
+---
+title: BellSoft Liberica JDK 23
+layout: default
+nav_order: 2
+parent: B
+last_modified_date: Mar 9 2025 at 12:25 PM
+---
+
+## BellSoft Liberica JDK 23
+
+[Source](https://bell-sw.com/libericajdk/)
+
+Evergreen app: `BellSoftLibericaJDK23`. Found **20** installers.
+
+Last check: 🟢
+
+| Version  | LTS   | BundleType | Type | Architecture | Sha1                                     | Size      | URI                                                                                                                                                                                                                          |
+| -------- | ----- | ---------- | ---- | ------------ | ---------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.0.2+9 | False | jre-full   | msi  | ARM64        | fb8cc929b8e8f56dcdc81adeafb97c810646a2dd | 48156672  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64-full.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64-full.msi) |
+| 23.0.2+9 | False | jdk        | msi  | ARM64        | c9a7c5fe0d7fb50ce3ec65accf4de72a5c7d56ce | 201703424 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64.msi)           |
+| 23.0.2+9 | False | jdk-lite   | msi  | ARM64        | 03a19a502eaf2d50a67f8f047955cb1e612ec70a | 79765504  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.msi) |
+| 23.0.2+9 | False | jdk-full   | msi  | ARM64        | 78e1a7fcde037e8b4e9c9c5d8905c3ca05364a0d | 225366016 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-full.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-full.msi) |
+| 23.0.2+9 | False | jre        | msi  | ARM64        | adc1d4fdf1aa224b50182357ab0bd9270944ead7 | 42913792  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.msi)           |
+| 23.0.2+9 | False | jdk-full   | msi  | x64          | a243bc62f1a67c48b70dbd76336f62f71ee22b63 | 312958976 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-full.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-full.msi)     |
+| 23.0.2+9 | False | jdk-lite   | msi  | x64          | 20cffe0c898cf2b308828a09609787091019d9f6 | 82235392  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-lite.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-lite.msi)     |
+| 23.0.2+9 | False | jdk        | msi  | x64          | 60b4567079273849aa2b3b5111c6dd690b41cc13 | 223903744 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64.msi)               |
+| 23.0.2+9 | False | jre-full   | msi  | x64          | bac2fa3196aecdbbbc0ec7571ab05aa573ec3f87 | 97882112  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64-full.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64-full.msi)     |
+| 23.0.2+9 | False | jre        | msi  | x64          | 0808fc0766d308dc30dd85a71432f4f00c179c03 | 59830272  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64.msi](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64.msi)               |
+| 23.0.2+9 | False | jre        | zip  | ARM64        | 6937c210669b6c5742239f4a2ad584f608c09e11 | 42110244  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.zip)           |
+| 23.0.2+9 | False | jdk-lite   | zip  | ARM64        | 2c0f36eeab4ae5ec1b40d2874c144eb758c895ee | 78729899  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.zip) |
+| 23.0.2+9 | False | jdk        | zip  | ARM64        | 52eb34e8a3e973b1bab4e6fe98dd570282397365 | 203787879 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64.zip)           |
+| 23.0.2+9 | False | jre-full   | zip  | ARM64        | c38e67c00589f1da1f26c7401fc59f3ca395260d | 47373096  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64-full.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64-full.zip) |
+| 23.0.2+9 | False | jdk-full   | zip  | ARM64        | 16f4c17365c2805535f4a8de95f95d53a4c2ed13 | 227856196 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-full.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-full.zip) |
+| 23.0.2+9 | False | jre-full   | zip  | x64          | 4418a29c007cc24e757901cfd0cfafa849e21d84 | 97440850  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64-full.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64-full.zip)     |
+| 23.0.2+9 | False | jdk        | zip  | x64          | 477ecaea4cad454229572abc52f069a376efd6ab | 226198711 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64.zip)               |
+| 23.0.2+9 | False | jdk-lite   | zip  | x64          | b1b791722a1ce329c4d9e816fa18c096be2136b8 | 81243027  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-lite.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-lite.zip)     |
+| 23.0.2+9 | False | jdk-full   | zip  | x64          | 62fcd98a293d4b7b1b29868c09f2356a3c9c0f66 | 315756396 | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-full.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-full.zip)     |
+| 23.0.2+9 | False | jre        | zip  | x64          | 24b82c8485b33d36b67028c689c21cf4ea659023 | 59234513  | [https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64.zip](https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64.zip)               |

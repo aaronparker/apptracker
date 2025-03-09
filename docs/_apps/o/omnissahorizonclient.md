@@ -3,20 +3,17 @@ title: Omnissa Horizon Client
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Oct 26 2024 at 12:43 AM
+last_modified_date: Mar 9 2025 at 12:25 PM
 ---
 
 ## Omnissa Horizon Client
 
-[Source](https://customerconnect.omnissa.com/downloads/info/slug/desktop_end_user_computing/vmware_horizon_clients/horizon_8)
+[Source](https://customerconnect.omnissa.com/downloads/info/slug/desktop_end_user_computing/omnissa_horizon_clients/8)
 
 Evergreen app: `OmnissaHorizonClient`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 400 (Bad Request).
-```
+Last check: 🟢
 
-| Version | Build       | Date       | Sha256                                                           | Type | URI                                                                                                                                                                                                                                |
-| ------- | ----------- | ---------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2406.1  | 11490723527 | 2024-10-24 | 66153ac722118ef7628d5c0be5177aa015ca0932cd60ecd359e66e4f8a864401 | exe  | [https://download3.omnissa.com/software/CART25FQ2_WIN_2406.1/VMware-Horizon-Client-2406.1-8.13.1-11490723527.exe](https://download3.omnissa.com/software/CART25FQ2_WIN_2406.1/VMware-Horizon-Client-2406.1-8.13.1-11490723527.exe) |
+| Version  | InternalVersion    | Date       | Sha256                                                           | Size      | Type | URI                                                                                                                                                                                                                          |
+| -------- | ------------------ | ---------- | ---------------------------------------------------------------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2412.0.0 | 8.14.0-12437220870 | 23/12/2024 | 65449c9a7827c9ddbff858706e57aae53ac61cf07b6321d1b57c037575b5532f | 292.97 MB | exe  | [https://download3.omnissa.com/software/CART25FQ4_WIN_2412/Omnissa-Horizon-Client-2412-8.14.0-12437220870.exe](https://download3.omnissa.com/software/CART25FQ4_WIN_2412/Omnissa-Horizon-Client-2412-8.14.0-12437220870.exe) |
