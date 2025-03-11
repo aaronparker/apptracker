@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.102",
+    "Version": "1.104",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://download.xnview.com/XnConvert-win-x64.exe"
   },
   {
-    "Version": "1.102",
+    "Version": "1.104",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://download.xnview.com/XnConvert-win.exe"

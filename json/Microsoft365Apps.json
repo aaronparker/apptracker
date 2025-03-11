@@ -18,12 +18,12 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.18324.20240",
-    "ReleaseVersion": "2412",
+    "Version": "16.0.18429.20200",
+    "ReleaseVersion": "2501",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise Channel",
-    "Date": "02/11/2025 14:33:53",
-    "EOSDate": "04/08/2025 00:00:00",
+    "Date": "03/11/2025 08:59:11",
+    "EOSDate": "05/13/2025 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
