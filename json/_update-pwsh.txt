@@ -1,0 +1,16 @@
+json/ElgatoWaveLink.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftAzurePipelinesAgent.json
+json/MicrosoftVisualStudioCode.json
+json/OctopusDeployServer.json
+json/Postman.json
+json/VideoLanVlcPlayer.json
+json/FreedomScientificFusion.err
+json/FreedomScientificJAWS.err
+json/FreedomScientificZoomText.err
+json/MestrelabMnova.err
+json/Podman.err
