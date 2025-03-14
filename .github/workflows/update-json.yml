@@ -219,7 +219,7 @@ jobs:
                           Write-Host "Update with: ${{ github.workspace }}/$file."
                           try {
                               $file = Get-Item -Path "${{ github.workspace }}/$file" -ErrorAction "SilentlyContinue"
-                              wrangler kv:key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+                              wrangler kv key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
                           }
                           catch {
                               Write-Warning -Message "Input from $file is not a valid."
@@ -254,7 +254,7 @@ jobs:
           try {
             Import-Module -Name "Evergreen" -Force
             Find-EvergreenApp | ConvertTo-Json | Out-File -FilePath "./AllApps.json" -Encoding "Utf8" -NoNewline
-            wrangler kv:key put "_allapps" --path="./AllApps.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+            wrangler kv key put "_allapps" --path="./AllApps.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
           }
           catch { $_.Exception.Message }
           finally { Remove-Item -Path "./AllApps.json" -Force -ErrorAction "SilentlyContinue" }
@@ -337,7 +337,7 @@ jobs:
               }
             }
             $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
-            wrangler kv:key put "endpoints-versions" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+            wrangler kv key put "endpoints-versions" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
             Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
 
   update-endpoints-downloads:
@@ -380,7 +380,7 @@ jobs:
               }
             }
             $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
-            wrangler kv:key put "endpoints-downloads" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+            wrangler kv key put "endpoints-downloads" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
             Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
 
   update-docs:

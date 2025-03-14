@@ -26,7 +26,7 @@ $Endpoints = Get-ChildItem -Path $EvergreenManifests -Recurse -Include "*.json" 
     }
 }
 $Endpoints | ConvertTo-Json | Out-File -FilePath "./Endpoints.json" -Encoding "Utf8" -NoNewline
-wrangler kv:key put "endpoints-versions" --path="./Endpoints.json" --namespace-id=$Namespace
+wrangler kv key put "endpoints-versions" --path="./Endpoints.json" --namespace-id=$Namespace
 Remove-Item -Path "./Endpoints.json"
 
 # Get endpoint URLs for downloads from the Evergreen AppTracker and port to the downloads endpoint
@@ -43,5 +43,5 @@ $Endpoints = Get-ChildItem -Path $AppTrackerJson -Recurse -Include "*.json" | Fo
     }
 }
 $Endpoints | ConvertTo-Json | Out-File -FilePath "./Endpoints.json" -Encoding "Utf8" -NoNewline
-wrangler kv:key put "endpoints-downloads" --path="./Endpoints.json" --namespace-id=$Namespace
+wrangler kv key put "endpoints-downloads" --path="./Endpoints.json" --namespace-id=$Namespace
 Remove-Item -Path "./Endpoints.json"
