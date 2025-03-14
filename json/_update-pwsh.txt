@@ -32,3 +32,6 @@ json/PaintDotNetOfflineInstaller.json
 json/VSCodium.json
 json/Zotero.json
 json/jrsoftwareInnoSetup.json
+json/DockerCompose.json
+json/MuseScore.json
+json/RingCentral.json
