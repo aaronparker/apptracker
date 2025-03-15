@@ -35,3 +35,7 @@ json/jrsoftwareInnoSetup.json
 json/DockerCompose.json
 json/MuseScore.json
 json/RingCentral.json
+json/JetBrainsRubyMine.json
+json/MicrosoftTeamsClassic.json
+json/MozillaFirefox.json
+json/ProgressChefInfraClient.json
