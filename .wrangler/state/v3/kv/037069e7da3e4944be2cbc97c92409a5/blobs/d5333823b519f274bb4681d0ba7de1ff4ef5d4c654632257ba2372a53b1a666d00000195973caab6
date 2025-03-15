@@ -1,0 +1,98 @@
+[
+  {
+    "Version": "1.99.0",
+    "Platform": "win32-arm64",
+    "Channel": "Insider",
+    "Architecture": "ARM64",
+    "Sha256": "f2157acf29b42532f52d5b5cf7687bc79584eb9ac3e966dd6cad2f3f271470be",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2c7a0283817355c81e1b106f34d911762950a4d9/VSCodeSetup-arm64-1.99.0-insider.exe"
+  },
+  {
+    "Version": "1.99.0",
+    "Platform": "win32-arm64-user",
+    "Channel": "Insider",
+    "Architecture": "ARM64",
+    "Sha256": "06eba08633f8c2f095e35fa58faae6cb0664d9fdc10ac89edf84a7a69dccf8e3",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2c7a0283817355c81e1b106f34d911762950a4d9/VSCodeUserSetup-arm64-1.99.0-insider.exe"
+  },
+  {
+    "Version": "1.99.0",
+    "Platform": "win32-x64",
+    "Channel": "Insider",
+    "Architecture": "x64",
+    "Sha256": "e1e44385805f383889ef5d42456001a6ae70da1146cdb1af5ce52b91b8df766e",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2c7a0283817355c81e1b106f34d911762950a4d9/VSCodeSetup-x64-1.99.0-insider.exe"
+  },
+  {
+    "Version": "1.99.0",
+    "Platform": "win32-x64-user",
+    "Channel": "Insider",
+    "Architecture": "x64",
+    "Sha256": "dfd63a73c0f549385c0d6f3e5962cd2fcc6b06a21955f329011573ae04f7490f",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/2c7a0283817355c81e1b106f34d911762950a4d9/VSCodeUserSetup-x64-1.99.0-insider.exe"
+  },
+  {
+    "Version": "1.98.2",
+    "Platform": "win32-arm64",
+    "Channel": "Stable",
+    "Architecture": "ARM64",
+    "Sha256": "6d0f6c4c320a0e2f86c0150d377f9e074043bd3fa1232c58df799944ffadbd2d",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCodeSetup-arm64-1.98.2.exe"
+  },
+  {
+    "Version": "1.98.2",
+    "Platform": "win32-arm64-user",
+    "Channel": "Stable",
+    "Architecture": "ARM64",
+    "Sha256": "a5b55c511c5d063544089f96e1736d84033de902e771028fa59a9c2f2058c537",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCodeUserSetup-arm64-1.98.2.exe"
+  },
+  {
+    "Version": "1.98.2",
+    "Platform": "win32-x64",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Sha256": "2cfa385732dac31e82d94808af04f129f897aadd74b1967fb58035c8c615555e",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCodeSetup-x64-1.98.2.exe"
+  },
+  {
+    "Version": "1.98.2",
+    "Platform": "win32-x64-user",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Sha256": "d6fc47f662dbc1f4b08a7475c77832a8667d18e1fa23c8d69b0818e2aa05e6b1",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCodeUserSetup-x64-1.98.2.exe"
+  },
+  {
+    "Version": "1.84.0",
+    "Platform": "win32",
+    "Channel": "Insider",
+    "Architecture": "x86",
+    "Sha256": "c83600b37f65749ea9e16496847bbfd967dece2472cee7d8011ae719e2633c18",
+    "URI": "https://az764295.vo.msecnd.net/insider/0c36b92c82064882a228487040187cfc13669c0f/VSCodeSetup-ia32-1.84.0-insider.exe"
+  },
+  {
+    "Version": "1.84.0",
+    "Platform": "win32-user",
+    "Channel": "Insider",
+    "Architecture": "x86",
+    "Sha256": "2cbab81fe6dda6dfb07751707107db95ba7afa0a6ada65a1df78a04eef0aadf5",
+    "URI": "https://az764295.vo.msecnd.net/insider/0c36b92c82064882a228487040187cfc13669c0f/VSCodeUserSetup-ia32-1.84.0-insider.exe"
+  },
+  {
+    "Version": "1.83.1",
+    "Platform": "win32",
+    "Channel": "Stable",
+    "Architecture": "x86",
+    "Sha256": "0b9e0cce092492a88cdaf12048e3630290944b051f3194c5ca3d6b7012f05e7f",
+    "URI": "https://az764295.vo.msecnd.net/stable/a6606b6ca720bca780c2d3c9d4cc3966ff2eca12/VSCodeSetup-ia32-1.83.1.exe"
+  },
+  {
+    "Version": "1.83.1",
+    "Platform": "win32-user",
+    "Channel": "Stable",
+    "Architecture": "x86",
+    "Sha256": "359ca4ef0e8437f7e5183a97a9d79834463a3df88bb10c82c48cc2bd53b8a7e5",
+    "URI": "https://az764295.vo.msecnd.net/stable/a6606b6ca720bca780c2d3c9d4cc3966ff2eca12/VSCodeUserSetup-ia32-1.83.1.exe"
+  }
+]
