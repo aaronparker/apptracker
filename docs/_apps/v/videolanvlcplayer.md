@@ -3,7 +3,7 @@ title: VideoLan VLC Player
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Mar 13 2025 at 12:40 AM
+last_modified_date: Mar 15 2025 at 12:37 AM
 ---
 
 ## VideoLan VLC Player 
