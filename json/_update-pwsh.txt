@@ -1,0 +1,14 @@
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftEdge.json
+json/MicrosoftEdgeDriver.json
+json/MicrosoftEdgeWebView2Runtime.json
+json/FreedomScientificFusion.err
+json/FreedomScientificJAWS.err
+json/FreedomScientificZoomText.err
+json/MestrelabMnova.err
+json/MicrosoftOLEDBDriverForSQLServer.err
+json/Podman.err
