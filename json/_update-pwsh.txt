@@ -1,0 +1,10 @@
+json/DropboxDesktopApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/VideoLanVlcPlayer.json
+json/Zotero.json
+json/FreedomScientificFusion.err
+json/FreedomScientificJAWS.err
+json/FreedomScientificZoomText.err
+json/MestrelabMnova.err
+json/Podman.err
