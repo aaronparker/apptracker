@@ -1,0 +1,65 @@
+[
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 118758200,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-arm64-26.1.1-windows-arm64-installer.exe"
+  },
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 118543560,
+    "Architecture": "ARM64",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-arm64-26.1.1-windows-arm64-no-installer.exe"
+  },
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 112529904,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-26.1.1-windows-installer.exe"
+  },
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 112314936,
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-26.1.1-windows-no-installer.exe"
+  },
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 106918360,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-ia32-26.1.1-windows-32bit-installer.exe"
+  },
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 106703840,
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-ia32-26.1.1-windows-32bit-no-installer.exe"
+  },
+  {
+    "Version": "26.1.1",
+    "Date": "15/3/2025",
+    "Size": 122281984,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v26.1.1/draw.io-26.1.1.msi"
+  }
+]
