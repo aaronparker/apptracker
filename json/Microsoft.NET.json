@@ -1,33 +1,33 @@
 [
   {
-    "Version": "9.0.201",
+    "Version": "9.0.202",
     "Support": "active",
     "Architecture": "ARM64",
     "Installer": "sdk",
     "Channel": "STS",
-    "Sha512": "8dfc09eaadbe3bbc9c574b39c852fd027cea1ed9478b677c0bdca1f8ccb46acd2afe541ca47f6287fd13ea043379c1795d91288be21537319a8b7af18358e4b9",
+    "Sha512": "24aebb2c523ad1306ea5c05b829a9c5fe4c84da44b5923d68d4ca82a527efd716d69c93dce41f250403dae5e82b6ce6fa0f2a54d12e5f5d062f89dcf2a7b690d",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/acf7355d-cfd6-4c12-a11f-3f4b0a11e567/3c65c6657de59c5893fd30737da9caea/dotnet-sdk-9.0.201-win-arm64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/e9683032-95f6-489a-a49f-c6221cfc377f/29cf342ed94af9559e8a6f9017719390/dotnet-sdk-9.0.202-win-arm64.exe"
   },
   {
-    "Version": "9.0.201",
+    "Version": "9.0.202",
     "Support": "active",
     "Architecture": "x64",
     "Installer": "sdk",
     "Channel": "STS",
-    "Sha512": "8e3d95a6d22c27dd27412ebd886ff63e4c37484b2c1f3bde451b8e1329ef86eae75f0bfa9bb2acc54cab1ed942c343ab86d3c4ffe2ccff323e5661897006adf9",
+    "Sha512": "1ebb3db377b96dfc73b271c65a7831b5ab91559fa4defd509c9978c947dc408ebf43b14b2fdb47a05b298fdb5747c7ada0f7005dfe5820226e118b65e5a276dc",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/e91a9a25-ec83-4a12-8c15-0b65081b59f5/4e21a057218b753a437bf7bebb7dcbab/dotnet-sdk-9.0.201-win-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b0032fde-aac9-4c3e-b78c-4bd605910241/8d2aa21baac4aef9b996671cd8a48fb2/dotnet-sdk-9.0.202-win-x64.exe"
   },
   {
-    "Version": "9.0.201",
+    "Version": "9.0.202",
     "Support": "active",
     "Architecture": "x86",
     "Installer": "sdk",
     "Channel": "STS",
-    "Sha512": "cdb0d9d8a4e628f892edb25c959ee131b6d7439b6286b432be05e4e2e2e1c175d57683b49fa7b9d4e004bea0e408bab9e89260f00850ae5b3b5bafd4c033b5a5",
+    "Sha512": "8ee88e28132514734cde8bf1d1b0687716423347f39219a6b478b58c35f3d7732140f7f765348b9860df195f7df8caab1a7eacd111f5e54a5b9fc769053960e4",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/c04fed06-8d66-4b84-877d-bf2a5b8efe34/ac8499841c5f107bff892f9920cdbc93/dotnet-sdk-9.0.201-win-x86.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/a918b1d9-24b7-4894-9bdb-1fef8b22db0f/b222a74f6a487dc0e935f12784cd9b1a/dotnet-sdk-9.0.202-win-x86.exe"
   },
   {
     "Version": "9.0.3",

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "11.36.6",
-    "Size": 154515008,
-    "Hash": "A2C129D2F777123F704C5F884BC3D96DC8774A97",
-    "Date": "03/14/2025 06:41:39",
+    "Version": "11.37.1",
+    "Size": 154492992,
+    "Hash": "DA80407E3269B3119A0C88A20A3BBBCF00BE9717",
+    "Date": "03/18/2025 01:53:32",
     "Architecture": "x64",
-    "Filename": "Postman-win64-11.36.6-Setup.exe",
-    "URI": "https://dl.pstmn.io/download/version/11.36.6/windows64"
+    "Filename": "Postman-win64-11.37.1-Setup.exe",
+    "URI": "https://dl.pstmn.io/download/version/11.37.1/windows64"
   },
   {
     "Version": "9.4.1",
