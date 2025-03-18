@@ -3,7 +3,7 @@ title: GIMP
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Mar 17 2025 at 12:42 AM
+last_modified_date: Mar 18 2025 at 10:11 PM
 ---
 
 ## GIMP
@@ -14,7 +14,7 @@ Evergreen app: `Gimp`. Found **2** installers.
 
 Last check: 🟢
 
-| Version   | Revision | Date      | Channel     | Sha256                                                           | URI                                                                                                                                                                  |
-| --------- | -------- | --------- | ----------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.10.38   | 1        | 3/10/2024 | Stable      | bdcf059c7d4e1b0ab59f8dc5f199ebb60ae0445460bf67ff8e4e438a89cee3d8 | [https://mirror.clarkson.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe](https://mirror.clarkson.edu/gimp/pub/gimp/v2.10/windows/gimp-2.10.38-setup-1.exe) |
-| 3.0.0-RC3 | 0        | 10/2/2025 | Development | 5845a53cd4ffa954abb91e404feea5b41afa50df3dcbd13c90e5ee17e4ddaa86 | [https://mirrors.iu13.net/gimp/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe](https://mirrors.iu13.net/gimp/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe)                 |
+| Version   | Revision | Date      | Channel     | Sha256                                                           | URI                                                                                                                                                      |
+| --------- | -------- | --------- | ----------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.0.0     | 0        | 17/3/2025 | Stable      | ab6f9aa481120097f032c39f07cb70990929878fa65bf4ec6d1669d7a616770a | [https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-setup.exe](https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-setup.exe)         |
+| 3.0.0-RC3 | 0        | 10/2/2025 | Development | 5845a53cd4ffa954abb91e404feea5b41afa50df3dcbd13c90e5ee17e4ddaa86 | [https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe](https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe) |
