@@ -1,9 +1,0 @@
-json/Gimp.json
-json/ProgressChefInfraClient.json
-json/VideoLanVlcPlayer.json
-json/FreedomScientificFusion.err
-json/FreedomScientificJAWS.err
-json/FreedomScientificZoomText.err
-json/MestrelabMnova.err
-json/MicrosoftOLEDBDriverForSQLServer18.err
-json/VSCodium.err
