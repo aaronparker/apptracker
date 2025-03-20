@@ -12,7 +12,10 @@ last_modified_date: Jun 22 2024 at 12:37 AM
 
 Evergreen app: `deviceTRUST`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 500 (Internal Server Error).
+```
 
 | Version    | Platform | Type   | Name                                            | URI                                                                                                                                                                  |
 | ---------- | -------- | ------ | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
