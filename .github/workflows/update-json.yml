@@ -45,7 +45,11 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          . "${{ github.workspace }}/scripts/Update-Json.ps1" -Path "${{ github.workspace }}/json"
+          $params = @{
+              Path      = "${{ github.workspace }}/json"
+              $SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText")
+          }
+          . "${{ github.workspace }}/scripts/Update-Json.ps1" @params
 
       - name: Save updated files list
         shell: pwsh

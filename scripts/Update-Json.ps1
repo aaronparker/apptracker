@@ -5,7 +5,13 @@
 [Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
     [ValidateNotNullOrEmpty()]
-    [System.String] $Path
+    [System.String] $Path,
+
+    [ValidateNotNullOrEmpty()]
+    [System.String[]] $SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText"),
+
+    [ValidateNotNullOrEmpty()]
+    [System.String[]] $MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
 )
 
 #region Functions
@@ -45,11 +51,6 @@ function Set-Culture {
 
 # Set culture so that we get correct date formats
 Set-Culture -Culture "en-AU"
-
-# Special apps
-# $SkipApps = @("OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22")
-$SkipApps = @()
-$MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
 
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
