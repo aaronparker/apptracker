@@ -1,5 +1,5 @@
 # Update JSON via my self-hosted runner
-name: update-others
+name: 'Update self-hosted'
 
 # Environment variables
 env:

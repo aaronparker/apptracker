@@ -1,5 +1,5 @@
 # Separate workflow so that we can update docs without running the update-json workflow
-name: update-docs
+name: 'Update docs'
 
 # Environment variables
 env:

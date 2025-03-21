@@ -1,4 +1,4 @@
-name: update-json
+name: 'Update apps'
 
 # Environment variables
 env:
