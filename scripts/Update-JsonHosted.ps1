@@ -5,7 +5,10 @@
 [Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
     [ValidateNotNullOrEmpty()]
-    [System.String] $Path
+    [System.String] $Path,
+
+    [ValidateNotNullOrEmpty()]
+    [System.String[]] $Apps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText")
 )
 
 #region Functions
@@ -24,14 +27,11 @@ function Set-Culture {
 # Set culture so that we get correct date formats
 Set-Culture -Culture "en-AU"
 
-# Special apps
-$SkipApps = @("OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22")
-
 # Step through all apps and export result to JSON
 Import-Module -Name "Evergreen" -Force
 
 # Walk-through each Evergreen app and export data to JSON files
-foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -in $SkipApps } | Select-Object -ExpandProperty "Name" | Sort-Object)) {
+foreach ($App in (Find-EvergreenApp | Where-Object { $_.Name -in $Apps } | Select-Object -ExpandProperty "Name" | Sort-Object)) {
     try {
         $params = @{
             Name          = $App
