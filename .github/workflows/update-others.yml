@@ -20,13 +20,11 @@ jobs:
         with:
           ref: main
 
-      - name: Install and cache PowerShell modules
-        id: psmodulecache
-        uses: potatoqualitee/psmodulecache@v6.2.1
-        with:
-          modules-to-cache: "Evergreen::"
-          updatable: true
-          shell: pwsh
+      - name: Install modules
+        shell: pwsh
+        run: |
+          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+          Install-Module -Name "Evergreen", "DnsClient-PS" -Force
 
       # Run Pester tests
       - name: Update app JSON
