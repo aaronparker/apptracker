@@ -3,7 +3,7 @@ title: gretl
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Dec 13 2024 at 12:53 AM
+last_modified_date: Mar 21 2025 at 12:39 AM
 ---
 
 ## gretl
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024d   | x64          | exe  | 49651096 | 0625bca79ec3893c2e22be4148413de2 | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2024d/gretl-2024d-64.exe](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2024d/gretl-2024d-64.exe) |
-| 2024d   | x86          | exe  | 34760128 | 74907656ea5309436687f2e825e655b4 | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2024d/gretl-2024d-32.exe](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2024d/gretl-2024d-32.exe) |
+| 2025a   | x64          | exe  | 46592488 | ac926bbc6f56a95d150711eed685840f | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025a/gretl-2025a-64.exe](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025a/gretl-2025a-64.exe) |
+| 2025a   | x86          | exe  | 34646680 | d285f4d969b232e645101bac1cb14883 | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025a/gretl-2025a-32.exe](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025a/gretl-2025a-32.exe) |

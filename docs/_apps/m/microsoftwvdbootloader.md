@@ -14,7 +14,7 @@ Evergreen app: `MicrosoftWvdBootloader`. Found **1** installer.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 502 (Bad Gateway).
+Cannot index into a null array.
 ```
 
 | Version    | Architecture | Date                          | Size | Filename                                                         | URI                                                                                                                                  |

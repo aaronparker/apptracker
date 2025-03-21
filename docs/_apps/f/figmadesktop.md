@@ -3,7 +3,7 @@ title: Figma Desktop
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: Mar 1 2025 at 12:50 AM
+last_modified_date: Mar 21 2025 at 12:39 AM
 ---
 
 ## Figma Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date                            | URI                                                                                                |
 | ------- | ------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 125.1.5 | Fri, 28 Feb 2025 12:20:47 -0800 | [https://desktop.figma.com/win/Figma-125.1.5.msi](https://desktop.figma.com/win/Figma-125.1.5.msi) |
+| 125.2.3 | Thu, 20 Mar 2025 15:42:25 -0700 | [https://desktop.figma.com/win/Figma-125.2.3.msi](https://desktop.figma.com/win/Figma-125.2.3.msi) |

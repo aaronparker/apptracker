@@ -14,7 +14,7 @@ Evergreen app: `FreedomScientificFusion`. Found **1** installer.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 403 (Forbidden).
+Response status code does not indicate success: 522 ().
 ```
 
 | Version      | Date      | URI                                                                                                                                                                                                                                                                  |
