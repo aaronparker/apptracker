@@ -20,6 +20,14 @@ jobs:
         with:
           ref: main
 
+      - name: Install and cache PowerShell modules
+        id: psmodulecache
+        uses: potatoqualitee/psmodulecache@v6.2.1
+        with:
+          modules-to-cache: "Evergreen::"
+          updatable: true
+          shell: pwsh
+
       # Run Pester tests
       - name: Update app JSON
         shell: pwsh
