@@ -1,18 +1,18 @@
 [
   {
-    "Version": "2024d",
+    "Version": "2025a",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "49651096",
-    "Md5": "0625bca79ec3893c2e22be4148413de2",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2024d/gretl-2024d-64.exe"
+    "Size": "46592488",
+    "Md5": "ac926bbc6f56a95d150711eed685840f",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025a/gretl-2025a-64.exe"
   },
   {
-    "Version": "2024d",
+    "Version": "2025a",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "34760128",
-    "Md5": "74907656ea5309436687f2e825e655b4",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2024d/gretl-2024d-32.exe"
+    "Size": "34646680",
+    "Md5": "d285f4d969b232e645101bac1cb14883",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025a/gretl-2025a-32.exe"
   }
 ]
