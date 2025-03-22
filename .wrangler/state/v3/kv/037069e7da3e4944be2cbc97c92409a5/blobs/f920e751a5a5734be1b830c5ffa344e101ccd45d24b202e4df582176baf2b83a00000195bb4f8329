@@ -1,0 +1,10 @@
+[
+  {
+    "Version": "7.5.6",
+    "InstallerVersion": "inSync7.5.6r110908",
+    "CloudPlatform": "Cloud",
+    "Md5sum": "fc7ffc2025ba5a83e7a5fb188bec3f3c733bcce9",
+    "Type": "msi",
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.6/inSync7.5.6r110908.msi"
+  }
+]
