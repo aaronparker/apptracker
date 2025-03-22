@@ -1,56 +1,56 @@
 [
   {
-    "Version": "1.1.22",
-    "Date": "18/1/2025",
-    "Size": 10354736,
+    "Version": "1.1.23",
+    "Date": "21/3/2025",
+    "Size": 10364226,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.22/doublecmd-1.1.22.x86_64-win64.exe"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.23/doublecmd-1.1.23.x86_64-win64.exe"
   },
   {
-    "Version": "1.1.22",
-    "Date": "18/1/2025",
-    "Size": 9713996,
+    "Version": "1.1.23",
+    "Date": "21/3/2025",
+    "Size": 9723007,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.22/doublecmd-1.1.22.i386-win32.exe"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.23/doublecmd-1.1.23.i386-win32.exe"
   },
   {
-    "Version": "1.1.22",
-    "Date": "18/1/2025",
-    "Size": 16850232,
+    "Version": "1.1.23",
+    "Date": "21/3/2025",
+    "Size": 16850239,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.22/doublecmd-1.1.22.x86_64-win64.msi"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.23/doublecmd-1.1.23.x86_64-win64.msi"
   },
   {
-    "Version": "1.1.22",
-    "Date": "18/1/2025",
-    "Size": 15781127,
+    "Version": "1.1.23",
+    "Date": "21/3/2025",
+    "Size": 15797520,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.22/doublecmd-1.1.22.i386-win32.msi"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.23/doublecmd-1.1.23.i386-win32.msi"
   },
   {
-    "Version": "1.1.22",
-    "Date": "18/1/2025",
-    "Size": 16214505,
+    "Version": "1.1.23",
+    "Date": "21/3/2025",
+    "Size": 16215591,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.22/doublecmd-1.1.22.x86_64-win64.zip"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.23/doublecmd-1.1.23.x86_64-win64.zip"
   },
   {
-    "Version": "1.1.22",
-    "Date": "18/1/2025",
-    "Size": 15155468,
+    "Version": "1.1.23",
+    "Date": "21/3/2025",
+    "Size": 15170022,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.22/doublecmd-1.1.22.i386-win32.zip"
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.23/doublecmd-1.1.23.i386-win32.zip"
   }
 ]

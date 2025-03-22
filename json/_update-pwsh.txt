@@ -1,0 +1,11 @@
+json/DoubleCommander.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/ProgressChefInfraClient.json
+json/VideoLanVlcPlayer.json
+json/Zoom.json
+json/MestrelabMnova.err
+json/MicrosoftWvdBootloader.err
