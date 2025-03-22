@@ -1,8 +1,8 @@
 [
   {
-    "Version": "136.0.7081.0",
+    "Version": "136.0.7082.2",
     "Channel": "Canary",
-    "StartDate": "21/3/2025",
+    "StartDate": "22/3/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
@@ -40,49 +40,49 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "134.0.6998.118",
+    "Version": "134.0.6998.166",
     "Channel": "Stable",
-    "StartDate": "20/3/2025",
+    "StartDate": "21/3/2025",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi"
   },
   {
-    "Version": "134.0.6998.118",
+    "Version": "134.0.6998.166",
     "Channel": "Extended",
-    "StartDate": "20/3/2025",
+    "StartDate": "21/3/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "134.0.6998.118",
+    "Version": "134.0.6998.166",
     "Channel": "Stable",
-    "StartDate": "20/3/2025",
+    "StartDate": "21/3/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "134.0.6998.118",
+    "Version": "134.0.6998.166",
     "Channel": "Extended",
-    "StartDate": "20/3/2025",
+    "StartDate": "21/3/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "134.0.6998.118",
+    "Version": "134.0.6998.166",
     "Channel": "Stable",
-    "StartDate": "20/3/2025",
+    "StartDate": "21/3/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "134.0.6998.118",
+    "Version": "134.0.6998.166",
     "Channel": "Stable",
-    "StartDate": "20/3/2025",
+    "StartDate": "21/3/2025",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
