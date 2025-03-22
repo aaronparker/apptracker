@@ -12,12 +12,9 @@ last_modified_date: Feb 13 2025 at 12:46 AM
 
 Evergreen app: `FreedomScientificJAWS`. Found **2** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
-| Version       | Architecture | Date     | URI                                                                                                                                                                                                                                                                      |
-| ------------- | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.2412.102 | ARM64        | 1/2/2025 | [https://software.vfo.digital/JAWS/2025/2025.2412.102.400/5D59CA0A-D1B0-45F3-A1FB-C5AC8CBA2FAA/J2025.2412.102.400-Offline-arm64.exe](https://software.vfo.digital/JAWS/2025/2025.2412.102.400/5D59CA0A-D1B0-45F3-A1FB-C5AC8CBA2FAA/J2025.2412.102.400-Offline-arm64.exe) |
-| 2025.2412.102 | x64          | 1/2/2025 | [https://software.vfo.digital/JAWS/2025/2025.2412.102.400/5D59CA0A-D1B0-45F3-A1FB-C5AC8CBA2FAA/J2025.2412.102.400-Offline-x64.exe](https://software.vfo.digital/JAWS/2025/2025.2412.102.400/5D59CA0A-D1B0-45F3-A1FB-C5AC8CBA2FAA/J2025.2412.102.400-Offline-x64.exe)     |
+| Version      | Date     | Architecture | URI                                                                                                                                                                                                                                                                  |
+| ------------ | -------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025.2503.39 | 1/3/2025 | ARM64        | [https://software.vfo.digital/JAWS/2025/2025.2503.39.400/3E2738B2-D45A-4E75-A80F-4E384CE786A0/J2025.2503.39.400-Offline-arm64.exe](https://software.vfo.digital/JAWS/2025/2025.2503.39.400/3E2738B2-D45A-4E75-A80F-4E384CE786A0/J2025.2503.39.400-Offline-arm64.exe) |
+| 2025.2503.39 | 1/3/2025 | x64          | [https://software.vfo.digital/JAWS/2025/2025.2503.39.400/3E2738B2-D45A-4E75-A80F-4E384CE786A0/J2025.2503.39.400-Offline-x64.exe](https://software.vfo.digital/JAWS/2025/2025.2503.39.400/3E2738B2-D45A-4E75-A80F-4E384CE786A0/J2025.2503.39.400-Offline-x64.exe)     |
