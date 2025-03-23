@@ -5,7 +5,7 @@
     "Date": "20/3/2025",
     "Channel": "Stable",
     "Sha256": "c1101f6fe5103c2986bd39a8c4162b52ea915c1d8066c79a86497329afd01fe4",
-    "URI": "https://opencolo.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-setup-1.exe"
+    "URI": "https://cofractal-ewr.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-setup-1.exe"
   },
   {
     "Version": "3.0.0-RC3",
@@ -13,6 +13,6 @@
     "Date": "10/2/2025",
     "Channel": "Development",
     "Sha256": "5845a53cd4ffa954abb91e404feea5b41afa50df3dcbd13c90e5ee17e4ddaa86",
-    "URI": "https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe"
+    "URI": "https://cofractal-ewr.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe"
   }
 ]
