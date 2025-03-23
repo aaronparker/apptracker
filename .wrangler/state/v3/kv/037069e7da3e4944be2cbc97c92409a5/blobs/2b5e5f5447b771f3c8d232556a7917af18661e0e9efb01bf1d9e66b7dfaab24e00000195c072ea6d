@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "5.107.9212.41078",
+    "Channel": "stable",
+    "Architecture": "anycpu",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.7/paint.net.5.1.7.install.anycpu.web.zip"
+  },
+  {
+    "Version": "5.107.9212.41078",
+    "Channel": "stable",
+    "Architecture": "arm64",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.7/paint.net.5.1.7.install.arm64.zip"
+  },
+  {
+    "Version": "5.107.9212.41078",
+    "Channel": "stable",
+    "Architecture": "x64",
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.7/paint.net.5.1.7.install.x64.zip"
+  }
+]
