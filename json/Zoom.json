@@ -54,49 +54,49 @@
     "URI": "https://cdn.zoom.us/prod/6.4.2.62735/ZoomInstallerFull.msi"
   },
   {
-    "Version": "6.3.10.5334",
+    "Version": "6.4.0.5531",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 366742416,
+    "Size": 361401616,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.3.10.5334/x64/zoomrooms-6.3.10.5334-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/6.4.0.5531/x64/zoomrooms-6.4.0.5531-x64.exe"
   },
   {
-    "Version": "6.3.10.5334",
+    "Version": "6.4.0.5531",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 369701888,
+    "Size": 364317696,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.3.10.5334/x64/zoomrooms-6.3.10.5334-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/6.4.0.5531/x64/zoomrooms-6.4.0.5531-x64.msi"
   },
   {
-    "Version": "6.3.6.1079",
-    "Platform": "Outlook",
-    "Installer": "User",
-    "Size": 11082752,
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.3.6.1079/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "6.2.5.1071",
+    "Version": "6.4.0.1115",
     "Platform": "Notes",
     "Installer": "User",
-    "Size": 17051648,
+    "Size": 17655808,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/6.4.0.1115/ZoomNotesPluginSetup.msi"
   },
   {
-    "Version": "6.2.5.1071",
+    "Version": "6.4.0.1115",
     "Platform": "Notes",
     "Installer": "Admin",
-    "Size": 18201088,
+    "Size": 18666496,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.2.5.1071/ZoomNotesPluginAdminTool.msi"
+    "URI": "https://cdn.zoom.us/prod/6.4.0.1115/ZoomNotesPluginAdminTool.msi"
+  },
+  {
+    "Version": "6.4.0.1114",
+    "Platform": "Outlook",
+    "Installer": "User",
+    "Size": 11189248,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/6.4.0.1114/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "6.0.7.4157",
