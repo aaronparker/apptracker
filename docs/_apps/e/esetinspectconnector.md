@@ -3,7 +3,7 @@ title: ESET Inspect Connector
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Feb 4 2025 at 12:24 PM
+last_modified_date: Mar 25 2025 at 12:28 PM
 ---
 
 ## ESET Inspect Connector
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Size     | Hash                                     | Language | Architecture | Type | URI                                                                                                                                                                                                        |
 | ---------- | -------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.4.4573.0 | 23797760 | 70b05b8cc207432040768800c9806c08c27184bd | en_US    | x64          | msi  | [https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.4.4573.0/ei_connector_nt64.msi](https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.4.4573.0/ei_connector_nt64.msi) |
-| 2.4.4573.0 | 20217856 | dece8656d58abadb63245f6dc1cf810b5dbbb7af | en_US    | x86          | msi  | [https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.4.4573.0/ei_connector_nt32.msi](https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.4.4573.0/ei_connector_nt32.msi) |
+| 2.5.4794.0 | 26288128 | d3babbfc648a4f40751829006f50374debe845d4 | en_US    | x64          | msi  | [https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.5.4794.0/ei_connector_nt64.msi](https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.5.4794.0/ei_connector_nt64.msi) |
+| 2.5.4794.0 | 22417408 | 7702e65dcdd5c0f1ce4848659272e02d6c4732b1 | en_US    | x86          | msi  | [https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.5.4794.0/ei_connector_nt32.msi](https://repository.eset.com/v1/com/eset/apps/business/eei/agent/v2/2.5.4794.0/ei_connector_nt32.msi) |
