@@ -3,17 +3,18 @@ title: FreeFem
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: Dec 12 2024 at 12:19 PM
+last_modified_date: Mar 25 2025 at 12:39 AM
 ---
 
 ## FreeFem
 
 [Source](https://freefem.org/)
 
-Evergreen app: `FreeFem`. Found **1** installer.
+Evergreen app: `FreeFem`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
-| ------- | ---------- | --------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.15    | 11/12/2024 | 196395006 | x64          | Default       | exe  | [https://github.com/FreeFem/FreeFem-sources/releases/download/v4.15/FreeFem%2B%2B-4.15-win64.exe](https://github.com/FreeFem/FreeFem-sources/releases/download/v4.15/FreeFem%2B%2B-4.15-win64.exe) |
+| Version | Date       | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
+| ------- | ---------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4.15    | 11/12/2024 | 207407514 | x64          | Default       | exe  | [https://github.com/FreeFem/FreeFem-sources/releases/download/v4.15/FreeFem%2B%2B-4.15-b-win64.exe](https://github.com/FreeFem/FreeFem-sources/releases/download/v4.15/FreeFem%2B%2B-4.15-b-win64.exe) |
+| 4.15    | 11/12/2024 | 196395006 | x64          | Default       | exe  | [https://github.com/FreeFem/FreeFem-sources/releases/download/v4.15/FreeFem%2B%2B-4.15-win64.exe](https://github.com/FreeFem/FreeFem-sources/releases/download/v4.15/FreeFem%2B%2B-4.15-win64.exe)     |
