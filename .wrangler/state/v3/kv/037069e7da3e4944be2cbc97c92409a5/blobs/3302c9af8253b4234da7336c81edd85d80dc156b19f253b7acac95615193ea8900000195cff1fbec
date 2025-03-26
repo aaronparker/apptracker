@@ -1,0 +1,83 @@
+[
+  {
+    "Version": "1.2.6180.0",
+    "Date": "24/3/2025",
+    "Channel": "Dogfood",
+    "MD5": "F4D850EA1690C5671B2B400674968F88",
+    "Sha2": "7C75D2F170BC351FDD8220A3F83A6DE913394C6A0868F20DC795D03010FB9F1B37299E002C828F9A72FE3393DEF2820177167456BBA006ADD6CE7CEF767A8F26",
+    "Architecture": "ARM64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/a09ce9b1-ecb2-44dc-bc48-eef9673f2a77/RemoteDesktop_1.2.6180.0_ARM64.msi"
+  },
+  {
+    "Version": "1.2.6180.0",
+    "Date": "24/3/2025",
+    "Channel": "Dogfood",
+    "MD5": "D9BAF1D867A477892409D0E4B5311273",
+    "Sha2": "3FD2B45284E00F0C77463B524B65D568252F7CC7C321458CEA094B57B748F781EDC67A443BE9DC07BB5F6B25879953BDA4114892C9475E2D0E438E3DCD9D3F42",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/45399623-c4c3-43d1-accc-69ed494d0db9/RemoteDesktop_1.2.6180.0_x64.msi"
+  },
+  {
+    "Version": "1.2.6180.0",
+    "Date": "24/3/2025",
+    "Channel": "Dogfood",
+    "MD5": "113671E8BF17F305313DFE2740B9516C",
+    "Sha2": "040FF583E5A1DB58E03135F0685EBAD992AA1A26EC6B91188E47F063B78B11C7F4A49571AD5095392B661D04EA3C631D7495BA8FA2B91CA1188EE9CB07748F96",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/78355195-f6c0-468c-8442-a2699ff0df3b/RemoteDesktop_1.2.6180.0_x86.msi"
+  },
+  {
+    "Version": "1.2.6179.0",
+    "Date": "18/3/2025",
+    "Channel": "Insider",
+    "MD5": "6CAE03D8D2AC186A6FA12FD3ADAB2A82",
+    "Sha2": "D571803004E4C9CEAC8204867CF796C2797379E0C8EEE61C7A455FAE8602FB83BD1083C6A4600F1DCD17BDABE22CDE6784393B8F38F6FE24CDFF6CE8365BAF0C",
+    "Architecture": "ARM64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/e2d93992-4cb5-45ae-a3b5-e2a614deebc3/RemoteDesktop_1.2.6179.0_ARM64.msi"
+  },
+  {
+    "Version": "1.2.6179.0",
+    "Date": "18/3/2025",
+    "Channel": "Insider",
+    "MD5": "CD23E5DE8783DF2DDC5DF777CE73D7AC",
+    "Sha2": "29950FF4B0131D09C7AEB69EE16A74BA3BFC991DAFF17564A431ACD5EB05B7A1B3D27A56C6BB202C4DFA0CF8CAA8D04E874121FBD994F1B59C3AAD32E0E03154",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/9bdc3725-20a6-43d8-b973-f8828944ac68/RemoteDesktop_1.2.6179.0_x64.msi"
+  },
+  {
+    "Version": "1.2.6179.0",
+    "Date": "18/3/2025",
+    "Channel": "Insider",
+    "MD5": "0D0F502C73ADEB43EA91E99551E9A776",
+    "Sha2": "9B3EADBD67CDAB5CA2D83C7E59819813A552E469318FFB6B62819B7F5F5709ED74F6D5C7AF77BE70D380608EE5A2E35B0028289AD21C21FACD4EAEF4E9EB29E7",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/133248b2-69b9-4c44-aa8e-81e3f31f6024/RemoteDesktop_1.2.6179.0_x86.msi"
+  },
+  {
+    "Version": "1.2.6074.0",
+    "Date": "6/3/2025",
+    "Channel": "Public",
+    "MD5": "4CABA8EB955BFD1372996B20DF41FB1F",
+    "Sha2": "2AFD6319F964ADB1F4408ADB6A7693F176D82148EAA4DBF73C1055FE445A7C2629DEF4CBF6646CE74E53DF9646E659F4CE59F8E17EDC9A4339BDF40542E132AD",
+    "Architecture": "ARM64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/fcc3badd-3b41-4cf9-942d-7c5ef1cdef86/RemoteDesktop_1.2.6074.0_ARM64.msi"
+  },
+  {
+    "Version": "1.2.6074.0",
+    "Date": "6/3/2025",
+    "Channel": "Public",
+    "MD5": "C7792FA204144F093998A76CCD06BC82",
+    "Sha2": "B63A1F9B82CBD425554CCCC208B10CE631464A50BF751ADF8FE2831BEB46D1EC16C2E7E48D393ED9C2CCB8BAF53C83B628892FF2D2EE01223EC7A0A1CC6393DB",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/87155dfc-9097-4da4-8f73-34f6cc42c889/RemoteDesktop_1.2.6074.0_x64.msi"
+  },
+  {
+    "Version": "1.2.6074.0",
+    "Date": "6/3/2025",
+    "Channel": "Public",
+    "MD5": "7C316D34042A7916408F257935819D42",
+    "Sha2": "BA9BB0FEE52B4034E46FDC610046A8B200C6A01033257248E729A17E6D3A73BDD62D5CECF43E9E12099C8FEB9B793BC9EDF9749F37342FAE99EA8DFAC65D6FB8",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/b3dc1767-3ed4-4d51-a277-762d88717d82/RemoteDesktop_1.2.6074.0_x86.msi"
+  }
+]

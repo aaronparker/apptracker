@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "1.2025.319.100",
+    "Date": "19/3/2025",
+    "Size": 15006075,
+    "Language": "Neutral",
+    "Architecture": "ARM64",
+    "Type": "msix",
+    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.319.100/Microsoft.OutlookForWindows_arm64.msix"
+  },
+  {
+    "Version": "1.2025.319.100",
+    "Date": "19/3/2025",
+    "Size": 18718776,
+    "Language": "Neutral",
+    "Architecture": "x64",
+    "Type": "msix",
+    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.319.100/Microsoft.OutlookForWindows_x64.msix"
+  },
+  {
+    "Version": "1.2025.319.100",
+    "Date": "19/3/2025",
+    "Size": 17326749,
+    "Language": "Neutral",
+    "Architecture": "x86",
+    "Type": "msix",
+    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.319.100/Microsoft.OutlookForWindows_x86.msix"
+  }
+]
