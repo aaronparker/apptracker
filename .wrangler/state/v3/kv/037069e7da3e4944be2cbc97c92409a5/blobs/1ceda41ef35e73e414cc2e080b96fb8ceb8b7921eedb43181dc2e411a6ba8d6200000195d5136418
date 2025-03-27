@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "25.1.0",
+    "Date": "03/26/2025 00:00:00",
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "http://download.techsmith.com/snagit/releases/2510/snagit.exe"
+  },
+  {
+    "Version": "25.1.0",
+    "Date": "03/26/2025 00:00:00",
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "http://download.techsmith.com/snagit/releases/2510/snagit.msi"
+  }
+]
