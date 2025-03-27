@@ -12,7 +12,10 @@ last_modified_date: Mar 27 2025 at 12:48 AM
 
 Evergreen app: `GoogleChrome`. Found **11** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot index into a null array.
+```
 
 | Version        | Channel  | StartDate | Architecture | Type | URI                                                                                                                                                                                |
 | -------------- | -------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
