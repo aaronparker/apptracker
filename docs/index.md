@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Friday 28/03/2025 00:41 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Friday 28/03/2025 12:22 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -210,7 +210,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Azure CLI                                               | `4/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurecli/)                     |
 | Microsoft Azure Data Studio                                       | `12/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazuredatastudio/)              |
 | Microsoft Azure Functions Core Tools                              | `27/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurefunctionscoretools/)      |
-| Microsoft Azure Pipelines Agent                                   | `15/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurepipelinesagent/)          |
+| Microsoft Azure Pipelines Agent                                   | `28/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurepipelinesagent/)          |
 | Microsoft Azure Storage Explorer                                  | `7/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurestorageexplorer/)         |
 | Microsoft Azure Windows VMAgent                                   | `9/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurewindowsvmagent/)          |
 | Microsoft Bicep                                                   | `25/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftbicep/)                        |
@@ -236,7 +236,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `18/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
 | Microsoft Visual Studio                                           | `26/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                 |
-| Microsoft Visual Studio Code                                      | `27/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
+| Microsoft Visual Studio Code                                      | `28/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
 | Microsoft Windows App                                             | `27/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsapp/)                   |
 | Microsoft Windows Package Manager Client                          | `4/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/)  |
 | Microsoft WSL                                                     | `26/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |
@@ -277,7 +277,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OBS Studio                                                        | `8/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                             |
 | OBS Studio Alt                                                    | `8/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                          |
 | OCS Inventory Windows Agent                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)              |
-| Octopus Deploy Server                                             | `24/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
+| Octopus Deploy Server                                             | `28/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
 | Octopus Tentacle                                                  | `18/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                       |
 | Omnissa Dynamic Environment Manager                               | `27/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissadynamicenvironmentmanager/)      |
 | Omnissa Horizon Client                                            | `9/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                  |
@@ -310,7 +310,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Podman                                                            | `18/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podman/)                                |
 | Podman Desktop                                                    | `21/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podmandesktop/)                         |
 | Posit RStudio Desktop                                             | `14/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/positrstudio/)                          |
-| Postman                                                           | `21/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
+| Postman                                                           | `28/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                               |
 | Praat                                                             | `28/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                 |
 | Progress Chef Infra Client                                        | `22/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)               |
 | Progress Chef InSpec                                              | `29/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                    |
@@ -344,7 +344,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Slack                                                             | `25/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/slack/)                                 |
 | SmartBear SoapUI                                                  | `18/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/smartbearsoapui/)                       |
 | Sober Lemur PDFSam Basic                                          | `24/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/soberlemurpdfsambasic/)                 |
-| stealthpuppy Windows Customised Defaults                          | `27/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/stealthpuppywindowscustomiseddefaults/) |
+| stealthpuppy Windows Customised Defaults                          | `28/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/stealthpuppywindowscustomiseddefaults/) |
 | Stefans Tools gregpWin                                            | `21/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/stefanstoolsgregpwin/)                  |
 | Sumatra PDF Reader                                                | `26/5/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/sumatrapdfreader/)                      |
 | SUSE Rancher Desktop                                              | `7/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/suserancherdesktop/)                    |
