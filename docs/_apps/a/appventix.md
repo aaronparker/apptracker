@@ -3,7 +3,7 @@ title: AppVentiX
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Dec 13 2024 at 12:29 PM
+last_modified_date: Mar 29 2025 at 12:38 AM
 ---
 
 ## AppVentiX
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Filename             | URI                                                                              |
 | ------- | -------------------- | -------------------------------------------------------------------------------- |
-| 4.0.26  | AppVentiX 4.0.26.zip | [https://download.appventix.com/latest/](https://download.appventix.com/latest/) |
+| 4.1.27  | AppVentiX 4.1.27.zip | [https://download.appventix.com/latest/](https://download.appventix.com/latest/) |
