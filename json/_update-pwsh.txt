@@ -1,0 +1,13 @@
+json/DropboxDesktopApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/Naps2.json
+json/VideoLanVlcPlayer.json
+json/MestrelabMnova.err
+json/OmnissaOSOptimizationTool.err
+json/RedHatOpenJDK21.err
+json/RedHatOpenJDK8.err
+json/ThoriumReader.err
