@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "3.0.2",
+    "Revision": 1,
+    "Date": "25/3/2025",
+    "Channel": "Stable",
+    "Sha256": "0bbddfce63ff99ef3bcc4d8af9f4c6793af9902470722c018476f04c713e440b",
+    "URI": "https://southfront.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.2-setup-1.exe"
+  },
+  {
+    "Version": "3.0.0-RC3",
+    "Revision": "0",
+    "Date": "10/2/2025",
+    "Channel": "Development",
+    "Sha256": "5845a53cd4ffa954abb91e404feea5b41afa50df3dcbd13c90e5ee17e4ddaa86",
+    "URI": "https://mirror.umd.edu/gimp/gimp/v3.0/windows/gimp-3.0.0-RC3-setup.exe"
+  }
+]
