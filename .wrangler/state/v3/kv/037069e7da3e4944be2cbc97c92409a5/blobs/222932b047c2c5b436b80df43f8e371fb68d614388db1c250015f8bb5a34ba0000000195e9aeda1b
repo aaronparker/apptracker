@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "0.7.0",
+    "Date": "30/3/2025",
+    "Size": 35278848,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/mickem/nscp/releases/download/0.7.0/NSCP-0.7.0-x64.msi"
+  },
+  {
+    "Version": "0.7.0",
+    "Date": "30/3/2025",
+    "Size": 30560256,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/mickem/nscp/releases/download/0.7.0/NSCP-0.7.0-Win32.msi"
+  }
+]
