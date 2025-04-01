@@ -1,0 +1,12 @@
+json/Gimp.json
+json/MicrosoftAzureCLI.json
+json/MozillaFirefox.json
+json/OctopusDeployServer.json
+json/ProgressChefInfraClient.json
+json/SAGAGIS.json
+json/TorProjectTorBrowser.json
+json/VideoLanVlcPlayer.json
+json/stealthpuppyWindowsCustomisedDefaults.json
+json/MestrelabMnova.err
+json/OmnissaOSOptimizationTool.err
+json/ThoriumReader.err
