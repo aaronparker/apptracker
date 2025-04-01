@@ -3,7 +3,7 @@ title: Telerik Fiddler Classic
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Jan 31 2025 at 12:36 AM
+last_modified_date: Apr 1 2025 at 12:44 AM
 ---
 
 ## Telerik Fiddler Classic
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version        | URI                                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.0.20251.1171 | [https://downloads.getfiddler.com/fiddler-classic/FiddlerSetup.5.0.20251.1171-latest.exe](https://downloads.getfiddler.com/fiddler-classic/FiddlerSetup.5.0.20251.1171-latest.exe) |
+| 5.0.20253.3311 | [https://downloads.getfiddler.com/fiddler-classic/FiddlerSetup.5.0.20253.3311-latest.exe](https://downloads.getfiddler.com/fiddler-classic/FiddlerSetup.5.0.20253.3311-latest.exe) |

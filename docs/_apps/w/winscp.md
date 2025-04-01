@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: Feb 20 2025 at 12:18 PM
+last_modified_date: Apr 1 2025 at 12:44 AM
 ---
 
 ## WinSCP
@@ -14,7 +14,7 @@ Evergreen app: `WinSCP`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                |
-| ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.3.7   | x86          | exe  | 11638904 | 7747376a7d28ebdec285aaeed61dc2a1 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7-Setup.exe](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7-Setup.exe) |
-| 6.3.7   | x86          | msi  | 28319744 | 4cd74520ea36231aec115f72c5c3f9a2 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7.msi](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.3.7/WinSCP-6.3.7.msi)             |
+| Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                        |
+| ------- | ------------ | ---- | -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6.5     | x86          | exe  | 12209592 | 2f0de0075589226871463b9a090865d3 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5/WinSCP-6.5-Setup.exe](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5/WinSCP-6.5-Setup.exe) |
+| 6.5     | x86          | msi  | 30101504 | 606da240b65d10e0e50990aa34332fa6 | [https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5/WinSCP-6.5.msi](https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5/WinSCP-6.5.msi)             |
