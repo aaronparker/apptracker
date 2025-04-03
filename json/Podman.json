@@ -1,11 +1,11 @@
 [
   {
-    "Version": "5.4.1",
-    "Date": "11/3/2025",
-    "Size": 29693920,
+    "Version": "5.4.2",
+    "Date": "2/4/2025",
+    "Size": 29694904,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.4.1/podman-5.4.1-setup.exe"
+    "URI": "https://github.com/containers/podman/releases/download/v5.4.2/podman-5.4.2-setup.exe"
   }
 ]

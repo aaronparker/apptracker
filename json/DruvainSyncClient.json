@@ -6,5 +6,13 @@
     "Md5sum": "dc4247effe1b666fe06ed817523dff303896b649",
     "Type": "msi",
     "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.6/inSync7.5.6r110910.msi"
+  },
+  {
+    "Version": "7.5.6",
+    "InstallerVersion": "inSync7.5.6r110910",
+    "CloudPlatform": "GOVCloud",
+    "Md5sum": "dc4247effe1b666fe06ed817523dff303896b649",
+    "Type": "msi",
+    "URI": "https://downloads.druva.com/downloads/inSync/Windows/7.5.6_Gov/inSync7.5.6r110910.msi"
   }
 ]

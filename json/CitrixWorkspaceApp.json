@@ -8,11 +8,11 @@
     "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.9.10.28.exe"
   },
   {
-    "Version": "24.2.2000.2031",
+    "Version": "24.2.3000.3016",
     "Stream": "LTSR",
-    "Date": "12/12/2024",
-    "Size": "417764640",
-    "Hash": "6aee08b44eee22d2b3b2cd48080557487089e187d9d793f689d50bbe5c6c4ce5",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.2.2000.2031.exe"
+    "Date": "2/4/2025",
+    "Size": "420850976",
+    "Hash": "02a4eba77449177efe11296a020c81fce0379cf2fb1726782904708278c5918d",
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp24.2.3000.3016.exe"
   }
 ]
