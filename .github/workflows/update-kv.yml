@@ -1,0 +1,65 @@
+name: 'Force update all KV pairs'
+
+# Environment variables
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# Controls when the action will run.
+on:
+  workflow_dispatch:
+
+jobs:
+  update-kv-apps:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install Wrangler
+        id: install-wrangler
+        shell: bash
+        run: |
+          npm install -g wrangler
+
+      - name: Update Cloudflare KV with recent apps
+        id: update-apps
+        shell: pwsh
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+        run: |
+            foreach ($File in @(Get-ChildItem -Path "${{ github.workspace }}/json/*.json")) {
+                Write-Host "Update with: $($File.FullName)"
+                try {
+                    wrangler kv key put $File.BaseName.ToLower() --path=$($File.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+                }
+                catch {
+                    Write-Warning -Message "Input from $($File.FullName) is not a valid."
+                }
+            }
+
+      - name: Install modules
+        shell: pwsh
+        run: |
+          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+          Install-Module -Name "Evergreen" -Force
+
+      - name: Update Cloudflare KV with all apps list
+        id: update-allapps
+        shell: pwsh
+        working-directory: "${{ github.workspace }}"
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+        run: |
+          try {
+            Import-Module -Name "Evergreen" -Force
+            Find-EvergreenApp | ConvertTo-Json | Out-File -FilePath "./AllApps.json" -Encoding "Utf8" -NoNewline
+            wrangler kv key put "_allapps" --path="./AllApps.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
+          }
+          catch { $_.Exception.Message }
+          finally { Remove-Item -Path "./AllApps.json" -Force -ErrorAction "SilentlyContinue" }
