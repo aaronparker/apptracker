@@ -32,12 +32,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
             foreach ($File in @(Get-ChildItem -Path "${{ github.workspace }}/json/*.json")) {
-                try {
-                    wrangler kv key put $File.BaseName.ToLower() --path=$($File.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
-                }
-                catch {
-                    Write-Warning -Message "Input from $($File.FullName) is not a valid."
-                }
+                wrangler kv key put $File.BaseName.ToLower() --path=$($File.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}"
             }
 
       - name: Install modules
