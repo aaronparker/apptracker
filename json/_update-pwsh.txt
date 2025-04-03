@@ -1,0 +1,13 @@
+json/EgnyteDesktopApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/JetBrainsRider.json
+json/MicrosoftOneDrive.json
+json/MicrosoftWvdBootloader.json
+json/MicrosoftWvdInfraAgent.json
+json/Naps2.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
+json/MestrelabMnova.err
+json/OmnissaOSOptimizationTool.err
+json/ThoriumReader.err
