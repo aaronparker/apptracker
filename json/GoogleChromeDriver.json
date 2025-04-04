@@ -1,19 +1,35 @@
 [
   {
-    "Version": "137.0.7104.0",
-    "Revision": "1441288",
+    "Version": "137.0.7107.0",
+    "Revision": "1442100",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7104.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7107.0/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "137.0.7104.0",
-    "Revision": "1441288",
+    "Version": "137.0.7107.0",
+    "Revision": "1442100",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7104.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7107.0/win32/chromedriver-win32.zip"
+  },
+  {
+    "Version": "136.0.7103.17",
+    "Revision": "1440670",
+    "Channel": "Beta",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.17/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "136.0.7103.17",
+    "Revision": "1440670",
+    "Channel": "Beta",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.17/win32/chromedriver-win32.zip"
   },
   {
     "Version": "136.0.7091.2",
@@ -46,21 +62,5 @@
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip"
-  },
-  {
-    "Version": "135.0.7049.41",
-    "Revision": "1427262",
-    "Channel": "Beta",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.41/win64/chromedriver-win64.zip"
-  },
-  {
-    "Version": "135.0.7049.41",
-    "Revision": "1427262",
-    "Channel": "Beta",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.41/win32/chromedriver-win32.zip"
   }
 ]
