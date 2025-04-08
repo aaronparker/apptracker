@@ -12,10 +12,7 @@ last_modified_date: Mar 27 2025 at 12:48 AM
 
 Evergreen app: `OmnissaDynamicEnvironmentManager`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 500 (Internal Server Error).
-```
+Last check: 🟢
 
 | Version | ReleaseDate         | Md5                              | Sha256                                                           | Size     | Type | URI                                                                                                                                                                                                  |
 | ------- | ------------------- | -------------------------------- | ---------------------------------------------------------------- | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
