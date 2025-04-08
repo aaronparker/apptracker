@@ -1,0 +1,12 @@
+json/AWSSAMCLI.json
+json/Gimp.json
+json/GoogleChrome.json
+json/Microsoft365Apps.json
+json/MicrosoftVisualStudioCode.json
+json/Postman.json
+json/VideoLanVlcPlayer.json
+json/VisualCppRedistAIO.json
+json/jrsoftwareInnoSetup.json
+json/MestrelabMnova.err
+json/OmnissaOSOptimizationTool.err
+json/ThoriumReader.err
