@@ -1,47 +1,38 @@
 [
   {
-    "Version": "4.6",
-    "Date": "21/10/2024",
-    "Size": 4830000,
+    "Version": "4.7",
+    "Date": "9/4/2025",
+    "Size": 5604656,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7_arm64.exe"
   },
   {
-    "Version": "4.6",
-    "Date": "21/10/2024",
-    "Size": 5396784,
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_arm64.exe"
-  },
-  {
-    "Version": "4.6",
-    "Date": "21/10/2024",
-    "Size": 1622832,
+    "Version": "4.7",
+    "Date": "9/4/2025",
+    "Size": 1687344,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7.exe"
   },
   {
-    "Version": "4.6",
-    "Date": "21/10/2024",
-    "Size": 1622832,
+    "Version": "4.7",
+    "Date": "9/4/2025",
+    "Size": 1687344,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6p.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7p.exe"
   },
   {
-    "Version": "4.6",
-    "Date": "21/10/2024",
-    "Size": 1637680,
+    "Version": "4.7",
+    "Date": "9/4/2025",
+    "Size": 1702704,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7_x86.exe"
   }
 ]
