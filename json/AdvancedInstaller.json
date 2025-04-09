@@ -1,9 +1,9 @@
 [
   {
-    "Version": "22.5",
-    "Size": "311351808",
-    "Sha256": "F261DBB316D2078135CA02504E180A54800EEE363AC1D0A451983C9C2F3F85D8",
+    "Version": "22.6",
+    "Size": "313113088",
+    "Sha256": "D98845C050AFDB68A09F07CD11C951D18E2950112806400C2E0FCAB0CD466E68",
     "Type": "msi",
-    "URI": "https://www.advancedinstaller.com/downloads/22.5/advinst.msi"
+    "URI": "https://www.advancedinstaller.com/downloads/22.6/advinst.msi"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "Version": "8.1.3",
-    "Date": "3/4/2025",
-    "Size": 45345576,
+    "Version": "8.1.4",
+    "Date": "8/4/2025",
+    "Size": 45350360,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.1.3/naps2-8.1.3-win-x64.exe"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.1.4/naps2-8.1.4-win-x64.exe"
   },
   {
-    "Version": "8.1.3",
-    "Date": "3/4/2025",
-    "Size": 51503104,
+    "Version": "8.1.4",
+    "Date": "8/4/2025",
+    "Size": 51724288,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.1.3/naps2-8.1.3-win-x64.msi"
+    "URI": "https://github.com/cyanfish/naps2/releases/download/v8.1.4/naps2-8.1.4-win-x64.msi"
   }
 ]
