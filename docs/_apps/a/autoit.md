@@ -12,7 +12,10 @@ last_modified_date: Nov 24 2024 at 12:41 AM
 
 Evergreen app: `AutoIt`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Network is unreachable (www.autoitscript.com:443)
+```
 
 | Version  | Date      | Channel | Size     | Type | URI                                                                                                                                                                              |
 | -------- | --------- | ------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
