@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.9.7",
+    "Version": "1.10.0",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://releases.hashicorp.com/nomad/1.9.7/nomad_1.9.7_windows_amd64.zip"
+    "URI": "https://releases.hashicorp.com/nomad/1.10.0/nomad_1.10.0_windows_amd64.zip"
   },
   {
-    "Version": "1.9.7",
+    "Version": "1.10.0",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://releases.hashicorp.com/nomad/1.9.7/nomad_1.9.7_windows_386.zip"
+    "URI": "https://releases.hashicorp.com/nomad/1.10.0/nomad_1.10.0_windows_386.zip"
   }
 ]
