@@ -3,7 +3,7 @@ title: stealthpuppy Windows Customised Defaults
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Apr 1 2025 at 12:34 PM
+last_modified_date: Apr 11 2025 at 12:20 PM
 ---
 
 ## stealthpuppy Windows Customised Defaults
@@ -14,7 +14,7 @@ Evergreen app: `stealthpuppyWindowsCustomisedDefaults`. Found **2** installers.
 
 Last check: 🟢
 
-| Version     | Date     | Size  | Architecture | InstallerType | Type      | URI                                                                                                                                                                                                                  |
-| ----------- | -------- | ----- | ------------ | ------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2504.01.215 | 1/4/2025 | 49429 | x86          | Default       | intunewin | [https://github.com/aaronparker/image-customise/releases/download/v2504.01.215/Install-Defaults.intunewin](https://github.com/aaronparker/image-customise/releases/download/v2504.01.215/Install-Defaults.intunewin) |
-| 2504.01.215 | 1/4/2025 | 45119 | x86          | Default       | zip       | [https://github.com/aaronparker/image-customise/releases/download/v2504.01.215/image-customise.zip](https://github.com/aaronparker/image-customise/releases/download/v2504.01.215/image-customise.zip)               |
+| Version     | Date      | Size  | Architecture | InstallerType | Type      | URI                                                                                                                                                                                                                  |
+| ----------- | --------- | ----- | ------------ | ------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2504.11.216 | 11/4/2025 | 49493 | x86          | Default       | intunewin | [https://github.com/aaronparker/image-customise/releases/download/v2504.11.216/Install-Defaults.intunewin](https://github.com/aaronparker/image-customise/releases/download/v2504.11.216/Install-Defaults.intunewin) |
+| 2504.11.216 | 11/4/2025 | 45185 | x86          | Default       | zip       | [https://github.com/aaronparker/image-customise/releases/download/v2504.11.216/image-customise.zip](https://github.com/aaronparker/image-customise/releases/download/v2504.11.216/image-customise.zip)               |

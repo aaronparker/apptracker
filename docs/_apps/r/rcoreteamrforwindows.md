@@ -3,7 +3,7 @@ title: R Core Team R for Windows
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: Mar 1 2025 at 12:16 PM
+last_modified_date: Apr 11 2025 at 12:20 PM
 ---
 
 ## R Core Team R for Windows
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                        |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 4.4.3   | [https://cran.r-project.org/bin/windows/base/R-4.4.3-win.exe](https://cran.r-project.org/bin/windows/base/R-4.4.3-win.exe) |
+| 4.5.0   | [https://cran.r-project.org/bin/windows/base/R-4.4.3-win.exe](https://cran.r-project.org/bin/windows/base/R-4.4.3-win.exe) |
