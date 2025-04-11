@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2504.01.215",
-    "Date": "1/4/2025",
-    "Size": 49429,
+    "Version": "2504.11.216",
+    "Date": "11/4/2025",
+    "Size": 49493,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "intunewin",
-    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2504.01.215/Install-Defaults.intunewin"
+    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2504.11.216/Install-Defaults.intunewin"
   },
   {
-    "Version": "2504.01.215",
-    "Date": "1/4/2025",
-    "Size": 45119,
+    "Version": "2504.11.216",
+    "Date": "11/4/2025",
+    "Size": 45185,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2504.01.215/image-customise.zip"
+    "URI": "https://github.com/aaronparker/image-customise/releases/download/v2504.11.216/image-customise.zip"
   }
 ]
