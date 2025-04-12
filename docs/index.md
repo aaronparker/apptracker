@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Saturday 12/04/2025 00:45 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Saturday 12/04/2025 12:26 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -54,7 +54,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Amazon Corretto 22                                                | `17/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/amazoncorretto22/)                      |
 | Amazon Corretto 8                                                 | `22/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/amazoncorretto8/)                       |
 | Anaconda                                                          | `24/10/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anaconda/)                              |
-| Analog Devices LTspice                                            | `9/4/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                  |
+| Analog Devices LTspice                                            | `12/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                  |
 | Anki                                                              | `11/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                  |
 | AppVentiX                                                         | `29/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/appventix/)                             |
 | Artifex Ghostscript                                               | `13/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/artifexghostscript/)                    |
