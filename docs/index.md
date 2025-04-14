@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Monday 14/04/2025 01:00 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Monday 14/04/2025 12:28 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -236,7 +236,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `18/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
 | Microsoft Visual Studio                                           | `9/4/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                 |
-| Microsoft Visual Studio Code                                      | `11/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
+| Microsoft Visual Studio Code                                      | `14/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
 | Microsoft Windows App                                             | `9/4/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsapp/)                   |
 | Microsoft Windows Package Manager Client                          | `4/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/)  |
 | Microsoft WSL                                                     | `26/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |
@@ -278,7 +278,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OBS Studio Alt                                                    | `29/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                          |
 | OCS Inventory Windows Agent                                       | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)              |
 | Octopus Deploy Server                                             | `7/4/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                   |
-| Octopus Tentacle                                                  | `11/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                       |
+| Octopus Tentacle                                                  | `14/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                       |
 | Omnissa Dynamic Environment Manager                               | `27/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissadynamicenvironmentmanager/)      |
 | Omnissa Horizon Client                                            | `9/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                  |
 | Omnissa OS Optimization Tool                                      | ``           | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissaosoptimizationtool/)             |
@@ -302,7 +302,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Parallels Client                                                  | `8/1/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/parallelsclient/)                       |
 | PDF Arranger                                                      | `9/10/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/pdfarranger/)                           |
 | pdfforge PDFCreator                                               | `10/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/pdfforgepdfcreator/)                    |
-| PeaZip PeaZip                                                     | `22/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/peazippeazip/)                          |
+| PeaZip PeaZip                                                     | `14/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/peazippeazip/)                          |
 | Piriform CCleaner Free                                            | `19/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/piriformccleanerfree/)                  |
 | Plex Media Desktop                                                | `14/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/plexdesktop/)                           |
 | Plex HTPC                                                         | `30/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/plexhtpc/)                              |
