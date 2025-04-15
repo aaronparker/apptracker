@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2412",
-    "ReleaseDate": "2025-01-10T00:00:00",
-    "Md5": "480030cc27af55a922b3f1848092c6b7",
-    "Sha256": "e8a02ae7de7d1545205fe473284cda2d46c189b0cf060e90d4f89fda4372f1be",
-    "Size": "35.68 MB",
+    "Version": "2503",
+    "ReleaseDate": "2025-04-15T00:00:00",
+    "Md5": "047094def7163cde1984e93ff1892986",
+    "Sha256": "93349d109fee777de39b84011952e65224644f2c30365ea5d2e1da3622a09c1d",
+    "Size": "35.86 MB",
     "Type": "zip",
-    "URI": "https://download2.omnissa.com/software/DEM-1014-ENTERPRISE/Omnissa-DEM-Enterprise-2412-10.14.zip"
+    "URI": "https://download2.omnissa.com/software/DEM-1015-ENTERPRISE/Omnissa-DEM-Enterprise-2503-10.15.zip"
   }
 ]
