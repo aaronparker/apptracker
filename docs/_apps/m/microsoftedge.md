@@ -3,14 +3,14 @@ title: Microsoft Edge
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Apr 15 2025 at 12:42 AM
+last_modified_date: Apr 15 2025 at 12:18 PM
 ---
 
 ## Microsoft Edge
 
 [Source](https://www.microsoft.com/edge)
 
-Evergreen app: `MicrosoftEdge`. Found **19** installers.
+Evergreen app: `MicrosoftEdge`. Found **21** installers.
 
 Last check: 🟢
 
@@ -21,6 +21,8 @@ Last check: 🟢
 | 136.0.3240.14 | Windows  | Beta       | Enterprise | arm64        | B21E4E63DD38096FD1C42FAF69F2D006C111CBFF4BA6A947B5E814D0D7AC482F | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/109e13a7-ff35-4eaf-9811-aadb323ec664/MicrosoftEdgeBetaEnterpriseARM64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/109e13a7-ff35-4eaf-9811-aadb323ec664/MicrosoftEdgeBetaEnterpriseARM64.msi)               |
 | 136.0.3240.14 | Windows  | Beta       | Consumer   | x64          | ADAAC81CDBB33F8E53D6C251484B80810B19376482C80A332B603E202EAD0652 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/acca68e3-fadc-46d6-9d4d-0ba7392b1a7d/MicrosoftEdgeBetaEnterpriseX64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/acca68e3-fadc-46d6-9d4d-0ba7392b1a7d/MicrosoftEdgeBetaEnterpriseX64.msi)                   |
 | 136.0.3240.14 | Windows  | Beta       | Enterprise | x64          | ADAAC81CDBB33F8E53D6C251484B80810B19376482C80A332B603E202EAD0652 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/acca68e3-fadc-46d6-9d4d-0ba7392b1a7d/MicrosoftEdgeBetaEnterpriseX64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/acca68e3-fadc-46d6-9d4d-0ba7392b1a7d/MicrosoftEdgeBetaEnterpriseX64.msi)                   |
+| 136.0.3240.14 | Windows  | Beta       | Consumer   | x86          | D200BB3D415E1AA5D0357A01EAB39C7B5097FE245F2DC7F102FAD3DC8BF03D15 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce178611-5906-4476-9200-019c6939cfc6/MicrosoftEdgeBetaEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce178611-5906-4476-9200-019c6939cfc6/MicrosoftEdgeBetaEnterpriseX86.msi)                   |
+| 136.0.3240.14 | Windows  | Beta       | Enterprise | x86          | D200BB3D415E1AA5D0357A01EAB39C7B5097FE245F2DC7F102FAD3DC8BF03D15 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce178611-5906-4476-9200-019c6939cfc6/MicrosoftEdgeBetaEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ce178611-5906-4476-9200-019c6939cfc6/MicrosoftEdgeBetaEnterpriseX86.msi)                   |
 | 136.0.3240.8  | Windows  | Dev        | Consumer   | arm64        | 5D5762327D74D7C572934A65B67AD6D1F6DF3FFF537302444D0D96545930BB27 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1fb650b5-9bcd-4aa3-8ece-7f9a481f1b5a/MicrosoftEdgeDevEnterpriseARM64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1fb650b5-9bcd-4aa3-8ece-7f9a481f1b5a/MicrosoftEdgeDevEnterpriseARM64.msi)                 |
 | 136.0.3240.8  | Windows  | Dev        | Enterprise | arm64        | 5D5762327D74D7C572934A65B67AD6D1F6DF3FFF537302444D0D96545930BB27 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1fb650b5-9bcd-4aa3-8ece-7f9a481f1b5a/MicrosoftEdgeDevEnterpriseARM64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1fb650b5-9bcd-4aa3-8ece-7f9a481f1b5a/MicrosoftEdgeDevEnterpriseARM64.msi)                 |
 | 136.0.3240.8  | Windows  | Dev        | Consumer   | x64          | DCEBF2C92EEA311471C26B4BFDF04DA1B2846AF2A7D4CC7528755360470E82D4 | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/126eed29-9467-4fc6-a3ab-fa541062f59e/MicrosoftEdgeDevEnterpriseX64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/126eed29-9467-4fc6-a3ab-fa541062f59e/MicrosoftEdgeDevEnterpriseX64.msi)                     |
