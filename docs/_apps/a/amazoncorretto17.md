@@ -3,7 +3,7 @@ title: Amazon Corretto 17
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jan 22 2025 at 12:38 AM
+last_modified_date: Apr 16 2025 at 12:50 AM
 ---
 
 ## Amazon Corretto 17
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version     | Md5                              | Architecture | Type | URI                                                                                                                                                                                                          |
 | ----------- | -------------------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 17.0.14.7.1 | a263fa6274d694d5ca018a9c673ce684 | x64          | msi  | [https://corretto.aws/downloads/resources/17.0.14.7.1/amazon-corretto-17.0.14.7.1-windows-x64.msi](https://corretto.aws/downloads/resources/17.0.14.7.1/amazon-corretto-17.0.14.7.1-windows-x64.msi)         |
-| 17.0.14.7.1 | 7270ad831a4bda0f4c91b707c3ef4dca | x64          | zip  | [https://corretto.aws/downloads/resources/17.0.14.7.1/amazon-corretto-17.0.14.7.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/17.0.14.7.1/amazon-corretto-17.0.14.7.1-windows-x64-jdk.zip) |
+| 17.0.15.6.1 | 439b30fdffbf88bc1c5dbe94797bfc95 | x64          | msi  | [https://corretto.aws/downloads/resources/17.0.15.6.1/amazon-corretto-17.0.15.6.1-windows-x64.msi](https://corretto.aws/downloads/resources/17.0.15.6.1/amazon-corretto-17.0.15.6.1-windows-x64.msi)         |
+| 17.0.15.6.1 | 8754fc7571f9958de8efc86c12b60137 | x64          | zip  | [https://corretto.aws/downloads/resources/17.0.15.6.1/amazon-corretto-17.0.15.6.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/17.0.15.6.1/amazon-corretto-17.0.15.6.1-windows-x64-jdk.zip) |
