@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2024.3.5",
-    "Build": "243.24978.79",
+    "Version": "2025.1",
+    "Build": "251.23774.426",
     "Edition": "DataGrip",
-    "Sha256": "https://download.jetbrains.com/datagrip/datagrip-2024.3.5.exe.sha256",
-    "Date": "20/2/2025",
-    "Size": 793798544,
+    "Sha256": "https://download.jetbrains.com/datagrip/datagrip-2025.1.exe.sha256",
+    "Date": "16/4/2025",
+    "Size": 787006624,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/datagrip/datagrip-2024.3.5.exe"
+    "URI": "https://download.jetbrains.com/datagrip/datagrip-2025.1.exe"
   }
 ]
