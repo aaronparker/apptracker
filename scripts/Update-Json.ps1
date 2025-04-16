@@ -8,7 +8,7 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String[]] $SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText"),
+    [System.String[]] $SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23"),
 
     [ValidateNotNullOrEmpty()]
     [System.String[]] $MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
