@@ -12,7 +12,10 @@ last_modified_date: Oct 22 2024 at 12:28 PM
 
 Evergreen app: `AkeoRufusAlt`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot validate argument on parameter 'File'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+```
 
 | Version  | Type | Architecture | URI                                                                                                                                                        |
 | -------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

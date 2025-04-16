@@ -3,7 +3,7 @@ title: JetBrains CLion
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Mar 25 2025 at 12:39 AM
+last_modified_date: Apr 16 2025 at 12:25 PM
 ---
 
 ## JetBrains CLion
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsCLion`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build        | Edition | Sha256                                                       | Date      | Size       | Type | URI                                                                                                            |
-| -------- | ------------ | ------- | ------------------------------------------------------------ | --------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2024.3.5 | 243.26053.34 | CLion   | https://download.jetbrains.com/cpp/CLion-2024.3.5.exe.sha256 | 24/3/2025 | 1392200232 | exe  | [https://download.jetbrains.com/cpp/CLion-2024.3.5.exe](https://download.jetbrains.com/cpp/CLion-2024.3.5.exe) |
+| Version | Build         | Edition | Sha256                                                     | Date      | Size       | Type | URI                                                                                                        |
+| ------- | ------------- | ------- | ---------------------------------------------------------- | --------- | ---------- | ---- | ---------------------------------------------------------------------------------------------------------- |
+| 2025.1  | 251.23774.442 | CLion   | https://download.jetbrains.com/cpp/CLion-2025.1.exe.sha256 | 16/4/2025 | 1404989776 | exe  | [https://download.jetbrains.com/cpp/CLion-2025.1.exe](https://download.jetbrains.com/cpp/CLion-2025.1.exe) |
