@@ -48,19 +48,19 @@
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.25/win32/chrome-headless-shell-win32.zip"
   },
   {
-    "Version": "135.0.7049.84",
+    "Version": "135.0.7049.95",
     "Revision": "1427262",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chrome-headless-shell-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win64/chrome-headless-shell-win64.zip"
   },
   {
-    "Version": "135.0.7049.84",
+    "Version": "135.0.7049.95",
     "Revision": "1427262",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chrome-headless-shell-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chrome-headless-shell-win32.zip"
   }
 ]

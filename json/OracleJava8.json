@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.8.0_441-b07",
+    "Version": "1.8.0_451-b10",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_441-b07/7ed26d28139143f38c58992680c214a5/windows-i586/jre-8u441-windows-x64.exe"
+    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_451-b10/8a1589aa0fe24566b4337beee47c2d29/windows-i586/jre-8u451-windows-x64.exe"
   },
   {
-    "Version": "1.8.0_441-b07",
+    "Version": "1.8.0_451-b10",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_441-b07/7ed26d28139143f38c58992680c214a5/windows-i586/jre-8u441-windows-i586.exe"
+    "URI": "https://javadl.oracle.com/webapps/download/GetFile/1.8.0_451-b10/8a1589aa0fe24566b4337beee47c2d29/windows-i586/jre-8u451-windows-i586.exe"
   }
 ]
