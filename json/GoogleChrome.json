@@ -1,6 +1,6 @@
 [
   {
-    "Version": "137.0.7127.0",
+    "Version": "137.0.7128.0",
     "Channel": "Canary",
     "StartDate": "16/4/2025",
     "Architecture": "x86",
@@ -24,17 +24,17 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "136.0.7103.25",
+    "Version": "136.0.7103.33",
     "Channel": "Beta",
-    "StartDate": "9/4/2025",
+    "StartDate": "16/4/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "136.0.7103.25",
+    "Version": "136.0.7103.33",
     "Channel": "Beta",
-    "StartDate": "9/4/2025",
+    "StartDate": "16/4/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
