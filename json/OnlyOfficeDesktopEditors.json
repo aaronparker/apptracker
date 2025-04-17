@@ -1,56 +1,56 @@
 [
   {
-    "Version": "8.3.2",
-    "Date": "20/3/2025",
-    "Size": 273426968,
+    "Version": "8.3.3",
+    "Date": "17/4/2025",
+    "Size": 273669040,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors_x64.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.3/DesktopEditors_x64.exe"
   },
   {
-    "Version": "8.3.2",
-    "Date": "20/3/2025",
-    "Size": 480316144,
+    "Version": "8.3.3",
+    "Date": "17/4/2025",
+    "Size": 480278752,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors_x64_xp.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.3/DesktopEditors_x64_xp.exe"
   },
   {
-    "Version": "8.3.2",
-    "Date": "20/3/2025",
-    "Size": 252264016,
+    "Version": "8.3.3",
+    "Date": "17/4/2025",
+    "Size": 252677416,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors_x86.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.3/DesktopEditors_x86.exe"
   },
   {
-    "Version": "8.3.2",
-    "Date": "20/3/2025",
-    "Size": 469491328,
+    "Version": "8.3.3",
+    "Date": "17/4/2025",
+    "Size": 469496208,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors_x86_xp.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.3/DesktopEditors_x86_xp.exe"
   },
   {
-    "Version": "8.3.2",
-    "Date": "20/3/2025",
-    "Size": 425696768,
+    "Version": "8.3.3",
+    "Date": "17/4/2025",
+    "Size": 425836032,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors_x64.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.3/DesktopEditors_x64.msi"
   },
   {
-    "Version": "8.3.2",
-    "Date": "20/3/2025",
-    "Size": 408191488,
+    "Version": "8.3.3",
+    "Date": "17/4/2025",
+    "Size": 408793088,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.2/DesktopEditors_x86.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.3.3/DesktopEditors_x86.msi"
   }
 ]
