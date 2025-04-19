@@ -23,3 +23,4 @@ json/OracleJava21.err
 json/OracleJava22.err
 json/OracleJava23.err
 json/ThoriumReader.err
+json/PiriformCCleanerFree.json
