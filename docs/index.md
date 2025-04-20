@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Sunday 20/04/2025 00:47 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 20/04/2025 12:31 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -69,7 +69,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | AWS Session Manager Plugin                                        | `7/2/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awssmp/)                                |
 | Azul Zulu 11                                                      | `13/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/azulzulu11/)                            |
 | Azul Zulu 17                                                      | `13/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/azulzulu17/)                            |
-| Azul Zulu 21                                                      | `15/2/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/azulzulu21/)                            |
+| Azul Zulu 21                                                      | `15/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/azulzulu21/)                            |
 | Azul Zulu 8                                                       | `13/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/azulzulu8/)                             |
 | Beekeeper Studio                                                  | `13/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/beekeeperstudio/)                       |
 | BellSoft Liberica JDK 11 LTS                                      | `17/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bellsoftlibericajdk11/)                 |
@@ -225,7 +225,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft OLE DB Driver for SQL Server 18                         | `10/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver18/)    |
 | Microsoft OneDrive                                                | `19/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftonedrive/)                     |
 | Microsoft OpenJDK 11                                              | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk11/)                    |
-| Microsoft OpenJDK 17                                              | `28/2/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                    |
+| Microsoft OpenJDK 17                                              | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                    |
 | Microsoft OpenJDK 21                                              | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                    |
 | Microsoft Outlook                                                 | `17/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoutlook/)                      |
 | Microsoft PowerShell                                              | `20/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
@@ -327,9 +327,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | QGIS                                                              | `25/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/q/qgis/)                                  |
 | R Core Team R for Windows                                         | `12/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rcoreteamrforwindows/)                  |
 | Remote Desktop Analyzer                                           | `20/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rdanalyzer/)                            |
-| Red Hat OpenJDK 17                                                | `19/4/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
-| Red Hat OpenJDK 21                                                | `19/4/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk21/)                       |
-| Red Hat OpenJDK 8                                                 | `19/4/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk8/)                        |
+| Red Hat OpenJDK 17                                                | `19/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk17/)                       |
+| Red Hat OpenJDK 21                                                | `19/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk21/)                       |
+| Red Hat OpenJDK 8                                                 | `19/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/redhatopenjdk8/)                        |
 | Responsively App                                                  | `20/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/responsivelyapp/)                       |
 | RingCentral                                                       | `17/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/ringcentral/)                           |
 | Rizonesoft Notepad3                                               | `22/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rizonesoftnotepad3/)                    |
