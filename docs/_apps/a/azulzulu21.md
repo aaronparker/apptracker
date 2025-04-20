@@ -12,7 +12,10 @@ last_modified_date: Feb 15 2025 at 12:35 AM
 
 Evergreen app: `AzulZulu21`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 502 (Bad Gateway).
+```
 
 | Version  | Date                | ImageType | Architecture | Type | URI                                                                                                                                        |
 | -------- | ------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
