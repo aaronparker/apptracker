@@ -3,7 +3,7 @@ title: Zoom Plugins for VDI
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Apr 21 2025 at 12:57 AM
+last_modified_date: Apr 21 2025 at 12:18 PM
 ---
 
 ## Zoom Plugins for VDI
@@ -17,7 +17,7 @@ Last check: 🟢
 | Version | Platform  | Installer | Size      | Type | Architecture | URI                                                                                                                              |
 | ------- | --------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Latest  | Citrix    | Admin     | 94507008  | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomCitrixHDXMediaPlugin.msi)           |
-| Latest  | Universal | Admin     | 132342272 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi) |
+| Latest  | Universal | Admin     | 129761792 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi) |
 | Latest  | Universal | Admin     | 126192640 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi](https://cdn.zoom.us/prod/vdi/ZoomVDIUniversalPlugin.msi)               |
-| Latest  | VDIClient | Admin     | 145638400 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi)                   |
+| Latest  | VDIClient | Admin     | 151007232 | msi  | x64          | [https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi)                   |
 | Latest  | VDIClient | Admin     | 123638272 | msi  | x86          | [https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi](https://cdn.zoom.us/prod/vdi/ZoomInstallerVDI.msi)                           |
