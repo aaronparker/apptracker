@@ -81,22 +81,22 @@
     "URI": "https://cdn.zoom.us/prod/6.4.5.1120/ZoomNotesPluginAdminTool.msi"
   },
   {
-    "Version": "6.4.0.5531",
+    "Version": "6.4.2.5659",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 361401616,
+    "Size": 361396872,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.4.0.5531/x64/zoomrooms-6.4.0.5531-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/6.4.2.5659/x64/zoomrooms-6.4.2.5659-x64.exe"
   },
   {
-    "Version": "6.4.0.5531",
+    "Version": "6.4.2.5659",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 364317696,
+    "Size": 364313600,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.4.0.5531/x64/zoomrooms-6.4.0.5531-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/6.4.2.5659/x64/zoomrooms-6.4.2.5659-x64.msi"
   },
   {
     "Version": "6.0.7.4157",
