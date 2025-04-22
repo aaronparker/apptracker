@@ -4,7 +4,7 @@
     "ReleaseVersion": "2504",
     "Channel": "CurrentPreview",
     "Name": "Current Channel (Preview)",
-    "Date": "04/17/2025 21:30:16",
+    "Date": "04/21/2025 18:17:28",
     "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
@@ -22,7 +22,7 @@
     "ReleaseVersion": "2502",
     "Channel": "MonthlyEnterprise",
     "Name": "Monthly Enterprise Channel",
-    "Date": "04/16/2025 18:54:04",
+    "Date": "04/17/2025 17:17:00",
     "EOSDate": "06/10/2025 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
