@@ -1,26 +1,26 @@
 [
   {
-    "Version": "3.4.18",
+    "Version": "3.4.19",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://desktop.githubusercontent.com/releases/3.4.18-19c76e1d/GitHubDesktopSetup-arm64.exe"
+    "URI": "https://desktop.githubusercontent.com/releases/3.4.19-d147b1a3/GitHubDesktopSetup-arm64.exe"
   },
   {
-    "Version": "3.4.18",
+    "Version": "3.4.19",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://desktop.githubusercontent.com/releases/3.4.18-19c76e1d/GitHubDesktopSetup-x64.exe"
+    "URI": "https://desktop.githubusercontent.com/releases/3.4.19-d147b1a3/GitHubDesktopSetup-x64.exe"
   },
   {
-    "Version": "3.4.18",
+    "Version": "3.4.19",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://desktop.githubusercontent.com/releases/3.4.18-19c76e1d/GitHubDesktopSetup-arm64.msi"
+    "URI": "https://desktop.githubusercontent.com/releases/3.4.19-d147b1a3/GitHubDesktopSetup-arm64.msi"
   },
   {
-    "Version": "3.4.18",
+    "Version": "3.4.19",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://desktop.githubusercontent.com/releases/3.4.18-19c76e1d/GitHubDesktopSetup-x64.msi"
+    "URI": "https://desktop.githubusercontent.com/releases/3.4.19-d147b1a3/GitHubDesktopSetup-x64.msi"
   }
 ]
