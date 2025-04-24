@@ -12,10 +12,7 @@ last_modified_date: Feb 24 2025 at 12:29 PM
 
 Evergreen app: `MSIXHero`. Found **1** installer.
 
-Last check: 🔴
-```
-Connection refused (msixhero.net:443)
-```
+Last check: 🟢
 
 | Version | Date                | URI                                                                                        |
 | ------- | ------------------- | ------------------------------------------------------------------------------------------ |
