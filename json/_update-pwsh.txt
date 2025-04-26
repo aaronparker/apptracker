@@ -1,0 +1,11 @@
+json/Gimp.json
+json/PiriformCCleanerFree.json
+json/VideoLanVlcPlayer.json
+json/AkeoRufusAlt.err
+json/MestrelabMnova.err
+json/OracleJava17.err
+json/OracleJava20.err
+json/OracleJava21.err
+json/OracleJava22.err
+json/OracleJava23.err
+json/ThoriumReader.err
