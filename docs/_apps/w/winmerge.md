@@ -3,7 +3,7 @@ title: WinMerge
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: Jan 28 2025 at 12:48 AM
+last_modified_date: Apr 27 2025 at 12:33 PM
 ---
 
 ## WinMerge
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                              |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.16.46 | 27/1/2025 | 10999352 | ARM64        | Default       | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-ARM64-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-ARM64-Setup.exe)             |
-| 2.16.46 | 27/1/2025 | 10030968 | x64          | User          | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-x64-PerUser-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-x64-PerUser-Setup.exe) |
-| 2.16.46 | 27/1/2025 | 10030808 | x64          | Default       | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-x64-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-x64-Setup.exe)                 |
-| 2.16.46 | 27/1/2025 | 9498520  | x86          | Default       | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.46/WinMerge-2.16.46-Setup.exe)                         |
+| 2.16.48 | 27/4/2025 | 12196184 | ARM64        | Default       | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-ARM64-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-ARM64-Setup.exe)             |
+| 2.16.48 | 27/4/2025 | 11230176 | x64          | User          | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-x64-PerUser-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-x64-PerUser-Setup.exe) |
+| 2.16.48 | 27/4/2025 | 11230800 | x64          | Default       | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-x64-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-x64-Setup.exe)                 |
+| 2.16.48 | 27/4/2025 | 10695872 | x86          | Default       | exe  | [https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-Setup.exe](https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48-Setup.exe)                         |
