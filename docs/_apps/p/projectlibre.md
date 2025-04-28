@@ -3,7 +3,7 @@ title: ProjectLibre
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Sep 28 2024 at 02:02 AM
+last_modified_date: Apr 28 2025 at 12:19 PM
 ---
 
 ## ProjectLibre
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | URI                                                                                                                                                                                                        |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.9.3   | x86          | exe  | 66959997 | cbe78ecaeeef9d0ee5e8c562d86c4113 | [https://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe](https://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe) |
+| 1.9.8   | x86          | msi  | 76898304 | 94963eab6f9af8669471f6f2d055e5c6 | [https://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.8/ProjectLibre-1.9.8.msi](https://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.8/ProjectLibre-1.9.8.msi) |
