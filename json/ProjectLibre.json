@@ -1,10 +1,10 @@
 [
   {
-    "Version": "1.9.3",
+    "Version": "1.9.8",
     "Architecture": "x86",
-    "Type": "exe",
-    "Size": "66959997",
-    "Md5": "cbe78ecaeeef9d0ee5e8c562d86c4113",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.3/projectlibre-1.9.3.exe"
+    "Type": "msi",
+    "Size": "76898304",
+    "Md5": "94963eab6f9af8669471f6f2d055e5c6",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/projectlibre/ProjectLibre/1.9.8/ProjectLibre-1.9.8.msi"
   }
 ]
