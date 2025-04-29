@@ -3,7 +3,7 @@ title: JabraDirect
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Jan 23 2025 at 12:28 PM
+last_modified_date: Apr 29 2025 at 12:19 PM
 ---
 
 ## JabraDirect
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version    | Architecture | Type | Sha256                                                           | URI                                                                                                                                                                |
 | ---------- | ------------ | ---- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6.21.01701 | x64          | exe  | 07E9FC4063C14F9D3F52869ACE388868A95A862137776B04BB9ADE49A6F901B2 | [https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe) |
+| 6.22.11401 | x64          | exe  | 03D3E4109B9A5CF7D407CD95B1C58A50627733D41E51268012269B6DCA74D734 | [https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe) |
