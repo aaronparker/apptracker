@@ -29,6 +29,15 @@
   {
     "Version": "2.16.48",
     "Date": "27/4/2025",
+    "Size": 11230208,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/WinMerge/winmerge/releases/download/v2.16.48/WinMerge-2.16.48.0-x64-ForSilentInstallTest-Setup.exe"
+  },
+  {
+    "Version": "2.16.48",
+    "Date": "27/4/2025",
     "Size": 10695872,
     "Architecture": "x86",
     "InstallerType": "Default",
