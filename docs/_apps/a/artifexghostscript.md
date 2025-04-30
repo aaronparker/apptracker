@@ -3,7 +3,7 @@ title: Artifex Ghostscript
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Mar 13 2025 at 12:40 AM
+last_modified_date: Apr 30 2025 at 12:53 AM
 ---
 
 ## Artifex Ghostscript
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|         | 12/3/2025 | 64676592 | x64          | Default       | exe  | [https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10050/gs10050w64.exe](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10050/gs10050w64.exe) |
-|         | 12/3/2025 | 52751720 | x86          | Default       | exe  | [https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10050/gs10050w32.exe](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10050/gs10050w32.exe) |
+| 10.05.1 | 29/4/2025 | 64674040 | x64          | Default       | exe  | [https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w64.exe](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w64.exe) |
+| 10.05.1 | 29/4/2025 | 52754088 | x86          | Default       | exe  | [https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w32.exe](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w32.exe) |

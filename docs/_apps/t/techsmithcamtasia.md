@@ -3,7 +3,7 @@ title: TechSmith Camtasia
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Mar 26 2025 at 12:54 AM
+last_modified_date: Apr 30 2025 at 12:53 AM
 ---
 
 ## TechSmith Camtasia
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date                | Type | URI                                                                                                                                                |
 | ------- | ------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.0.1  | 03/25/2025 00:00:00 | exe  | [http://download.techsmith.com/camtasiastudio/releases/2501/camtasia.exe](http://download.techsmith.com/camtasiastudio/releases/2501/camtasia.exe) |
-| 25.0.1  | 03/25/2025 00:00:00 | msi  | [http://download.techsmith.com/camtasiastudio/releases/2501/camtasia.msi](http://download.techsmith.com/camtasiastudio/releases/2501/camtasia.msi) |
+| 25.1.0  | 04/29/2025 00:00:00 | exe  | [http://download.techsmith.com/camtasiastudio/releases/2510/camtasia.exe](http://download.techsmith.com/camtasiastudio/releases/2510/camtasia.exe) |
+| 25.1.0  | 04/29/2025 00:00:00 | msi  | [http://download.techsmith.com/camtasiastudio/releases/2510/camtasia.msi](http://download.techsmith.com/camtasiastudio/releases/2510/camtasia.msi) |
