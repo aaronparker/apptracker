@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 30/04/2025 00:56 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 30/04/2025 12:23 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -92,7 +92,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ControlUp Agent                                                   | `30/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/controlupagent/)                        |
 | ControlUp Console                                                 | `30/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/controlupconsole/)                      |
 | ControlUp Remote DX Plugins                                       | `30/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/controlupremotedx/)                     |
-| iterate GmbH Cyberduck                                            | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/cyberduck/)                             |
+| iterate GmbH Cyberduck                                            | `30/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/cyberduck/)                             |
 | DAX Studio                                                        | `24/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/daxstudio/)                             |
 | DB Browser for SQLite                                             | `18/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/dbbrowserforsqlite/)                    |
 | dbeaver                                                           | `21/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/dbeaver/)                               |
@@ -228,7 +228,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft OpenJDK 17                                              | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                    |
 | Microsoft OpenJDK 21                                              | `28/2/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                    |
 | Microsoft Outlook                                                 | `22/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoutlook/)                      |
-| Microsoft PowerShell                                              | `29/4/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
+| Microsoft PowerShell                                              | `29/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                   |
 | Microsoft PowerToys                                               | `11/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowertoys/)                    |
 | Microsoft SQL Server Management Studio                            | `10/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftssms/)                         |
 | Microsoft Teams (new)                                             | `23/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftteams/)                        |
@@ -236,7 +236,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `26/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                     |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                         |
 | Microsoft Visual Studio                                           | `9/4/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                 |
-| Microsoft Visual Studio Code                                      | `29/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
+| Microsoft Visual Studio Code                                      | `30/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)             |
 | Microsoft Windows App                                             | `9/4/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsapp/)                   |
 | Microsoft Windows Package Manager Client                          | `23/4/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/)  |
 | Microsoft WSL                                                     | `26/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                          |

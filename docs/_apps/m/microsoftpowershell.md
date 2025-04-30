@@ -12,10 +12,7 @@ last_modified_date: Apr 29 2025 at 12:47 AM
 
 Evergreen app: `MicrosoftPowerShell`. Found **12** installers.
 
-Last check: 🔴
-```
-Failed to resolve metadata: https://raw.githubusercontent.com/PowerShell/PowerShell/master/tools/metadata.json.
-```
+Last check: 🟢
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  | Release |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
