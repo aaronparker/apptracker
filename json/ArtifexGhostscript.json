@@ -1,20 +1,20 @@
 [
   {
-    "Version": "",
-    "Date": "12/3/2025",
-    "Size": 64676592,
+    "Version": "10.05.1",
+    "Date": "29/4/2025",
+    "Size": 64674040,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10050/gs10050w64.exe"
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w64.exe"
   },
   {
-    "Version": "",
-    "Date": "12/3/2025",
-    "Size": 52751720,
+    "Version": "10.05.1",
+    "Date": "29/4/2025",
+    "Size": 52754088,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10050/gs10050w32.exe"
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w32.exe"
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "Version": "6.4.29",
-    "Date": "27/4/2025",
-    "Size": 20933207,
+    "Version": "6.4.30",
+    "Date": "29/4/2025",
+    "Size": 20932343,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat/releases/download/v6.4.29/praat6429_win-arm64.zip"
+    "URI": "https://github.com/praat/praat/releases/download/v6.4.30/praat6430_win-arm64.zip"
   },
   {
-    "Version": "6.4.29",
-    "Date": "27/4/2025",
-    "Size": 22453397,
+    "Version": "6.4.30",
+    "Date": "29/4/2025",
+    "Size": 22456347,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat/releases/download/v6.4.29/praat6429_win-intel32.zip"
+    "URI": "https://github.com/praat/praat/releases/download/v6.4.30/praat6430_win-intel32.zip"
   },
   {
-    "Version": "6.4.29",
-    "Date": "27/4/2025",
-    "Size": 21980554,
+    "Version": "6.4.30",
+    "Date": "29/4/2025",
+    "Size": 21980227,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat/releases/download/v6.4.29/praat6429_win-intel64.zip"
+    "URI": "https://github.com/praat/praat/releases/download/v6.4.30/praat6430_win-intel64.zip"
   }
 ]
