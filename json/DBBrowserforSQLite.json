@@ -2,6 +2,15 @@
   {
     "Version": "3.13.1",
     "Date": "17/1/2025",
+    "Size": 27094952,
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/SQLiteDatabaseBrowserPortable_3.13.1.paf.exe"
+  },
+  {
+    "Version": "3.13.1",
+    "Date": "17/1/2025",
     "Size": 19857408,
     "Architecture": "x64",
     "InstallerType": "Default",
