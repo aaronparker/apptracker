@@ -12,7 +12,10 @@ last_modified_date: Apr 9 2025 at 12:40 AM
 
 Evergreen app: `ElgatoCameraHub`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

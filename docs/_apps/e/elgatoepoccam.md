@@ -12,7 +12,10 @@ last_modified_date: Jul 4 2024 at 12:30 AM
 
 Evergreen app: `ElgatoEpocCam`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                    |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -12,7 +12,10 @@ last_modified_date: Dec 10 2024 at 12:26 PM
 
 Evergreen app: `ElgatoStreamDeck`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version | Architecture | Type | URI                                                                                                                                      |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |

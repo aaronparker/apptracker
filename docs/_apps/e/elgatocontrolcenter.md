@@ -12,7 +12,10 @@ last_modified_date: Jan 28 2025 at 12:25 PM
 
 Evergreen app: `ElgatoControlCenter`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                              |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
