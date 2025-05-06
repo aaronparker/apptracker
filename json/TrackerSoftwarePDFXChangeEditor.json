@@ -1,21 +1,21 @@
 [
   {
-    "Version": "10.5.2.395",
-    "Hash": "DDBB762548F016FA6395D671F3F65DF1269769948F42628BE544E30E1415359B",
+    "Version": "10.6.0.396",
+    "Hash": "9759C2E4C87C9927094EFC8D7805689877D5825EF18CD4E30A96A12FA5B8C68F",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/EditorV10.ARM64.msi"
   },
   {
-    "Version": "10.5.2.395",
-    "Hash": "0F3A3AB6477585FE572FECCFABA263B1D125E3C2D3CF1846650BD7E6BBD1D083",
+    "Version": "10.6.0.396",
+    "Hash": "6757D9454ED33AFFF78F697E82FC50ED01A2CD214841B84581D2216B7B5116B3",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/EditorV10.x64.msi"
   },
   {
-    "Version": "10.5.2.395",
-    "Hash": "0584B40346018330004CA3520920AC05434FBCA05F9072B0F6C0739E6E5194BD",
+    "Version": "10.6.0.396",
+    "Hash": "ABDA4F2DA934D94EF747477D7E40BF331AD1A21DBE28A6F6921455AE66F15F6B",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://downloads.pdf-xchange.com/EditorV10.x86.msi"
