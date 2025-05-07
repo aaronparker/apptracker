@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2025.1",
-    "Build": "251.23774.442",
+    "Version": "2025.1.1",
+    "Build": "251.25410.104",
     "Edition": "CLion",
-    "Sha256": "https://download.jetbrains.com/cpp/CLion-2025.1.exe.sha256",
-    "Date": "16/4/2025",
-    "Size": 1404989776,
+    "Sha256": "https://download.jetbrains.com/cpp/CLion-2025.1.1.exe.sha256",
+    "Date": "7/5/2025",
+    "Size": 1398731192,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/cpp/CLion-2025.1.exe"
+    "URI": "https://download.jetbrains.com/cpp/CLion-2025.1.1.exe"
   }
 ]
