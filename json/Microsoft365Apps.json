@@ -9,11 +9,11 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.18730.20122",
+    "Version": "16.0.18730.20142",
     "ReleaseVersion": "2504",
     "Channel": "Current",
     "Name": "Current Channel",
-    "Date": "04/29/2025 22:56:41",
+    "Date": "05/06/2025 18:31:11",
     "EOSDate": "01/01/0001 00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
