@@ -12,10 +12,7 @@ last_modified_date: Jul 4 2024 at 12:30 AM
 
 Evergreen app: `ElgatoGameCapture`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Time-out).
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

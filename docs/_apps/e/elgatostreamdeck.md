@@ -3,7 +3,7 @@ title: Elgato Stream Deck
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Dec 10 2024 at 12:26 PM
+last_modified_date: May 7 2025 at 12:22 PM
 ---
 
 ## Elgato Stream Deck
@@ -12,11 +12,8 @@ last_modified_date: Dec 10 2024 at 12:26 PM
 
 Evergreen app: `ElgatoStreamDeck`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Time-out).
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                      |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.8.1   | x64          | msi  | [https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.8.1.21263.msi](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.8.1.21263.msi) |
+| 6.9.0   | x86          | msi  | [https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.9.0.21694.msi](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.9.0.21694.msi) |

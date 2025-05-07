@@ -12,10 +12,7 @@ last_modified_date: Mar 11 2025 at 12:18 PM
 
 Evergreen app: `Elgato4KCaptureUtility`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Time-out).
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                      |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
