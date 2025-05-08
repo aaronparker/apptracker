@@ -3,7 +3,7 @@ title: 1Password CLI
 layout: default
 nav_order: 2
 parent: 1
-last_modified_date: Nov 8 2024 at 12:44 AM
+last_modified_date: May 8 2025 at 12:47 AM
 ---
 
 ## 1Password CLI
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                  |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.30.3  | x64          | zip  | [https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_windows_amd64_v2.30.3.zip](https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_windows_amd64_v2.30.3.zip) |
-| 2.30.3  | x86          | zip  | [https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_windows_386_v2.30.3.zip](https://cache.agilebits.com/dist/1P/op2/pkg/v2.30.3/op_windows_386_v2.30.3.zip)     |
+| 2.31.0  | x64          | zip  | [https://cache.agilebits.com/dist/1P/op2/pkg/v2.31.0/op_windows_amd64_v2.31.0.zip](https://cache.agilebits.com/dist/1P/op2/pkg/v2.31.0/op_windows_amd64_v2.31.0.zip) |
+| 2.31.0  | x86          | zip  | [https://cache.agilebits.com/dist/1P/op2/pkg/v2.31.0/op_windows_386_v2.31.0.zip](https://cache.agilebits.com/dist/1P/op2/pkg/v2.31.0/op_windows_386_v2.31.0.zip)     |
