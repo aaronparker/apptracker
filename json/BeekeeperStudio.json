@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.2.2",
-    "Date": "5/5/2025",
-    "Size": 160203080,
+    "Version": "5.2.4",
+    "Date": "8/5/2025",
+    "Size": 160243304,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.2.2/Beekeeper-Studio-5.2.2-portable.exe"
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.2.4/Beekeeper-Studio-5.2.4-portable.exe"
   },
   {
-    "Version": "5.2.2",
-    "Date": "5/5/2025",
-    "Size": 160423728,
+    "Version": "5.2.4",
+    "Date": "8/5/2025",
+    "Size": 160463968,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.2.2/Beekeeper-Studio-Setup-5.2.2.exe"
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.2.4/Beekeeper-Studio-Setup-5.2.4.exe"
   }
 ]
