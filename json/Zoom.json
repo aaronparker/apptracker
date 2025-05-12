@@ -54,6 +54,24 @@
     "URI": "https://cdn.zoom.us/prod/6.4.6.64360/ZoomInstallerFull.msi"
   },
   {
+    "Version": "6.4.5.5758",
+    "Platform": "Rooms",
+    "Installer": "User",
+    "Size": 361877968,
+    "Type": "exe",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/6.4.5.5758/x64/zoomrooms-6.4.5.5758-x64.exe"
+  },
+  {
+    "Version": "6.4.5.5758",
+    "Platform": "Rooms",
+    "Installer": "Admin",
+    "Size": 364797952,
+    "Type": "msi",
+    "Architecture": "x64",
+    "URI": "https://cdn.zoom.us/prod/6.4.5.5758/x64/zoomrooms-6.4.5.5758-x64.msi"
+  },
+  {
     "Version": "6.4.5.1121",
     "Platform": "Outlook",
     "Installer": "User",
@@ -79,24 +97,6 @@
     "Type": "msi",
     "Architecture": "x86",
     "URI": "https://cdn.zoom.us/prod/6.4.5.1120/ZoomNotesPluginAdminTool.msi"
-  },
-  {
-    "Version": "6.4.2.5659",
-    "Platform": "Rooms",
-    "Installer": "User",
-    "Size": 361396872,
-    "Type": "exe",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.4.2.5659/x64/zoomrooms-6.4.2.5659-x64.exe"
-  },
-  {
-    "Version": "6.4.2.5659",
-    "Platform": "Rooms",
-    "Installer": "Admin",
-    "Size": 364313600,
-    "Type": "msi",
-    "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.4.2.5659/x64/zoomrooms-6.4.2.5659-x64.msi"
   },
   {
     "Version": "6.0.7.4157",
