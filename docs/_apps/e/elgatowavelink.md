@@ -3,7 +3,7 @@ title: Elgato Wave Link
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Apr 23 2025 at 12:34 PM
+last_modified_date: May 13 2025 at 12:29 PM
 ---
 
 ## Elgato Wave Link
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                              |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.0     | x64          | msi  | [https://edge.elgato.com/egc/windows/wavelink/2.0.6/WaveLink_2.0.6.3780_x64.msi](https://edge.elgato.com/egc/windows/wavelink/2.0.6/WaveLink_2.0.6.3780_x64.msi) |
+| 2.0.6   | x64          | msi  | [https://edge.elgato.com/egc/windows/wavelink/2.0.6/WaveLink_2.0.6.3780_x64.msi](https://edge.elgato.com/egc/windows/wavelink/2.0.6/WaveLink_2.0.6.3780_x64.msi) |
