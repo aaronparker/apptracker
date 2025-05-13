@@ -1,12 +1,12 @@
 [
   {
-    "Version": "12.5.1",
+    "Version": "12.5.2",
     "Architecture": "ARM64",
-    "URI": "https://packages.vmware.com/tools/releases/12.5.1/windows/arm/VMware-tools-12.5.1-24649672-arm.exe"
+    "URI": "https://packages.vmware.com/tools/releases/12.5.2/windows/arm/VMware-tools-12.5.2-24697584-arm.exe"
   },
   {
-    "Version": "12.5.1",
+    "Version": "12.5.2",
     "Architecture": "x64",
-    "URI": "https://packages.vmware.com/tools/releases/12.5.1/windows/x64/VMware-tools-12.5.1-24649672-x64.exe"
+    "URI": "https://packages.vmware.com/tools/releases/12.5.2/windows/x64/VMware-tools-12.5.2-24697584-x64.exe"
   }
 ]
