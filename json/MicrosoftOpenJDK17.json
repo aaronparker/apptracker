@@ -1,18 +1,18 @@
 [
   {
-    "Version": "17.0.14+7",
-    "Date": "2025-02-26T16:00:00Z",
+    "Version": "17.0.15+6",
+    "Date": "2025-05-08T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/3f0cb080-ae0d-4fe6-b051-d7f558364e48/4ac561214f6e12ea455c67398071f93f/microsoft-jdk-17.0.14-windows-aarch64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/2402ca63-36ec-4864-9de9-f71cde78c7e1/95e23c0912874febf3de7c24ada1380e/microsoft-jdk-17.0.15-windows-aarch64.msi"
   },
   {
-    "Version": "17.0.14+7",
-    "Date": "2025-02-26T16:00:00Z",
+    "Version": "17.0.15+6",
+    "Date": "2025-05-08T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/3f0cb080-ae0d-4fe6-b051-d7f558364e48/afac52b905762a9ca8b11fa1299622b3/microsoft-jdk-17.0.14-windows-x64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/2402ca63-36ec-4864-9de9-f71cde78c7e1/1db58cc32022f3db36c1c8b4b527e304/microsoft-jdk-17.0.15-windows-x64.msi"
   }
 ]
