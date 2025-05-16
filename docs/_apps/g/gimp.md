@@ -12,7 +12,10 @@ last_modified_date: May 15 2025 at 12:34 PM
 
 Evergreen app: `Gimp`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version   | Revision | Date      | Channel     | Sha256                                                           | URI                                                                                                                                                        |
 | --------- | -------- | --------- | ----------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
