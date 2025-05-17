@@ -3,7 +3,7 @@ title: TechSmith Camtasia
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: May 2 2025 at 12:40 AM
+last_modified_date: May 17 2025 at 12:31 PM
 ---
 
 ## TechSmith Camtasia

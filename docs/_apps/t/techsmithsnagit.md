@@ -3,7 +3,7 @@ title: TechSmith Snagit
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Apr 18 2025 at 12:49 AM
+last_modified_date: May 17 2025 at 12:31 PM
 ---
 
 ## TechSmith Snagit

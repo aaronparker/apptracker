@@ -3,7 +3,7 @@ title: Microsoft 365 Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: May 14 2025 at 12:42 AM
+last_modified_date: May 17 2025 at 12:31 PM
 ---
 
 ## Microsoft 365 Apps
