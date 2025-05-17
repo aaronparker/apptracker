@@ -1,11 +1,11 @@
 [
   {
-    "Version": "9.3.0.514",
-    "Date": "12/5/2025",
-    "Size": 140488704,
+    "Version": "9.3.1.518",
+    "Date": "16/5/2025",
+    "Size": 140452864,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.3.0.514/ImageGlass_9.3.0.514_x64.msi"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.3.1.518/ImageGlass_9.3.1.518_x64.msi"
   }
 ]
