@@ -1,13 +1,13 @@
 [
   {
     "Version": "25.1.1",
-    "Date": "05/01/2025 00:00:00",
+    "Date": "2025-05-01T00:00:00",
     "Type": "exe",
     "URI": "http://download.techsmith.com/camtasiastudio/releases/2511/camtasia.exe"
   },
   {
     "Version": "25.1.1",
-    "Date": "05/01/2025 00:00:00",
+    "Date": "2025-05-01T00:00:00",
     "Type": "msi",
     "URI": "http://download.techsmith.com/camtasiastudio/releases/2511/camtasia.msi"
   }

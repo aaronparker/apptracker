@@ -1,6 +1,6 @@
 [
   {
-    "Version": "<br />\n<b>Warning</b>:  fopen(https://www.cmi-bildung.ch/lo/dateien/easy/lo_version.txt) [<a href='https://secure.php.net/manual/en/function.fopen.php'>function.fopen.php</a>]: Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/home/thierr7/www/cmi-bildung.ch/services/update/getcurrentversion.php</b> on line <b>51</b><br />\nerror opening the file<br />\n<b>Fatal error</b>:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, bool given in /home/thierr7/www/cmi-bildung.ch/services/update/getcurrentversion.php:70\nStack trace:\n#0 /home/thierr7/www/cmi-bildung.ch/services/update/getcurrentversion.php(70): fclose(false)\n#1 {main}\n  thrown in <b>/home/thierr7/www/cmi-bildung.ch/services/update/getcurrentversion.php</b> on line <b>70</b><br />\n",
+    "Version": "2025.1",
     "Type": "Exe",
     "URI": "https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe"
   }
