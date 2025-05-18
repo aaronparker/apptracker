@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2025.2504.89",
-    "Date": "1/4/2025",
+    "Version": "2025.2505.43",
+    "Date": "1/5/2025",
     "Architecture": "ARM64",
-    "URI": "https://software.vfo.digital/JAWS/2025/2025.2504.89.400/03DB0A7C-30B5-484C-8741-8593E3BDF091/J2025.2504.89.400-Offline-arm64.exe"
+    "URI": "https://software.vfo.digital/JAWS/2025/2025.2505.43.400/FE3DD412-6905-4C0F-87F8-4E6D25780537/J2025.2505.43.400-Offline-arm64.exe"
   },
   {
-    "Version": "2025.2504.89",
-    "Date": "1/4/2025",
+    "Version": "2025.2505.43",
+    "Date": "1/5/2025",
     "Architecture": "x64",
-    "URI": "https://software.vfo.digital/JAWS/2025/2025.2504.89.400/03DB0A7C-30B5-484C-8741-8593E3BDF091/J2025.2504.89.400-Offline-x64.exe"
+    "URI": "https://software.vfo.digital/JAWS/2025/2025.2505.43.400/FE3DD412-6905-4C0F-87F8-4E6D25780537/J2025.2505.43.400-Offline-x64.exe"
   }
 ]
