@@ -12,7 +12,10 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `MestrelabMnova`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
 | ------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

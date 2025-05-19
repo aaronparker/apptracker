@@ -3,7 +3,7 @@ title: ImageGlass
 layout: default
 nav_order: 2
 parent: I
-last_modified_date: May 17 2025 at 12:31 PM
+last_modified_date: May 19 2025 at 12:22 PM
 ---
 
 ## ImageGlass
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | --------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.3.1.518 | 16/5/2025 | 140453888 | x64          | Default       | msi  | [https://github.com/d2phap/ImageGlass/releases/download/9.3.1.518/ImageGlass_9.3.1.518_x64.msi](https://github.com/d2phap/ImageGlass/releases/download/9.3.1.518/ImageGlass_9.3.1.518_x64.msi) |
+| 9.3.2.520 | 19/5/2025 | 140453376 | x64          | Default       | msi  | [https://github.com/d2phap/ImageGlass/releases/download/9.3.2.520/ImageGlass_9.3.2.520_x64.msi](https://github.com/d2phap/ImageGlass/releases/download/9.3.2.520/ImageGlass_9.3.2.520_x64.msi) |
