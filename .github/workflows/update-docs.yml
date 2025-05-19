@@ -8,9 +8,10 @@ env:
 # Controls when the action will run. 
 on:
   workflow_dispatch:
-  # push:
-  #   paths:
-  #     - 'scripts/New-Report.ps1'
+  workflow_run:
+    workflows: ["Update self-hosted"]
+    types:
+      - completed
 
 jobs:
   update-docs:
