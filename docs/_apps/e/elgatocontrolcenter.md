@@ -12,10 +12,7 @@ last_modified_date: Jan 28 2025 at 12:25 PM
 
 Evergreen app: `ElgatoControlCenter`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                              |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

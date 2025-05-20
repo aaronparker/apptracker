@@ -12,10 +12,7 @@ last_modified_date: Jul 4 2024 at 12:30 AM
 
 Evergreen app: `ElgatoEpocCam`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                    |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
