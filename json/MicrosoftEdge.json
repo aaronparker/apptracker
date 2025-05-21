@@ -1,30 +1,30 @@
 [
   {
-    "Version": "138.0.3309.2",
+    "Version": "138.0.3324.1",
     "Platform": "Any",
     "Channel": "Policy",
     "Release": "Enterprise",
     "Architecture": "any",
-    "Hash": "20303EFA927F969D57F00A2BF4269D7580A6978E86E4044F1A78F0D707AB9E4D",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/74662420-c672-4bb6-abf4-22628e3989c2/MicrosoftEdgePolicyTemplates.cab"
+    "Hash": "D6D6CC4B5B1CADC8B65593C00EEEEA9E866133BE4F3F9FA5348825AFA000FD4E",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c0789602-6897-48a1-a6a8-06cd4957e342/MicrosoftEdgePolicyTemplates.cab"
   },
   {
-    "Version": "138.0.3309.2",
+    "Version": "138.0.3324.1",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Consumer",
     "Architecture": "arm64",
-    "Hash": "9843CD90C7FA0D817A955BB081C68D6E465EE60DB6F70CC08E93DEBA07C6E264",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1da66ffd-b6f2-4904-8d2d-306f48ea204c/MicrosoftEdgeDevEnterpriseARM64.msi"
+    "Hash": "D741465A541B57157A8C7930D6F26AD223D9EAA2A2179083B5CAD1DB3F3C1D5A",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/85ba3129-709e-4d3d-9af0-546650bc81e8/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
   {
-    "Version": "138.0.3309.2",
+    "Version": "138.0.3324.1",
     "Platform": "Windows",
     "Channel": "Dev",
     "Release": "Enterprise",
     "Architecture": "arm64",
-    "Hash": "9843CD90C7FA0D817A955BB081C68D6E465EE60DB6F70CC08E93DEBA07C6E264",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1da66ffd-b6f2-4904-8d2d-306f48ea204c/MicrosoftEdgeDevEnterpriseARM64.msi"
+    "Hash": "D741465A541B57157A8C7930D6F26AD223D9EAA2A2179083B5CAD1DB3F3C1D5A",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/85ba3129-709e-4d3d-9af0-546650bc81e8/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
   {
     "Version": "138.0.3309.2",

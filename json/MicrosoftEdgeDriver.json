@@ -1,9 +1,9 @@
 [
   {
-    "Version": "138.0.3309.2",
+    "Version": "138.0.3324.1",
     "Channel": "Dev",
     "Architecture": "ARM64",
-    "URI": "https://msedgedriver.azureedge.net/138.0.3309.2/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.azureedge.net/138.0.3324.1/edgedriver_arm64.zip"
   },
   {
     "Version": "138.0.3309.2",
