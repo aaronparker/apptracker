@@ -3,7 +3,7 @@ title: Docker Compose
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: May 20 2025 at 12:49 AM
+last_modified_date: May 24 2025 at 12:55 AM
 ---
 
 ## Docker Compose
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.36.1  | 19/5/2025 | 73581568 | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.36.1/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v2.36.1/docker-compose-windows-aarch64.exe) |
-| 2.36.1  | 19/5/2025 | 76376576 | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.36.1/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v2.36.1/docker-compose-windows-x86_64.exe)   |
+| 2.36.2  | 23/5/2025 | 73086976 | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.36.2/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v2.36.2/docker-compose-windows-aarch64.exe) |
+| 2.36.2  | 23/5/2025 | 75869696 | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.36.2/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v2.36.2/docker-compose-windows-x86_64.exe)   |

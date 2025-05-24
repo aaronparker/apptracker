@@ -12,7 +12,10 @@ last_modified_date: Apr 17 2025 at 12:18 PM
 
 Evergreen app: `stealthpuppyWindowsCustomisedDefaults`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 301 (Moved Permanently).
+```
 
 | Version     | Date      | Size  | Architecture | InstallerType | Type      | URI                                                                                                                                                                                                                  |
 | ----------- | --------- | ----- | ------------ | ------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
