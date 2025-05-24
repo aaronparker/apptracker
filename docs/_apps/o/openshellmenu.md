@@ -3,7 +3,7 @@ title: Open-Shell-Menu
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Jan 10 2025 at 12:18 PM
+last_modified_date: May 24 2025 at 12:30 PM
 ---
 
 ## Open-Shell-Menu
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date     | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                        |
 | ------- | -------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.4.195 | 4/1/2025 | 7621632 | x86          | Default       | exe  | [https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.195/OpenShellSetup_4_4_195.exe](https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.195/OpenShellSetup_4_4_195.exe) |
-| 4.4.195 | 4/1/2025 | 674304  | x86          | Default       | exe  | [https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.195/Utility.exe](https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.195/Utility.exe)                               |
+| 4.4.196 | 8/5/2025 | 9865728 | x86          | Default       | exe  | [https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.196/OpenShellSetup_4_4_196.exe](https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.196/OpenShellSetup_4_4_196.exe) |
+| 4.4.196 | 8/5/2025 | 675840  | x86          | Default       | exe  | [https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.196/Utility.exe](https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.196/Utility.exe)                               |
