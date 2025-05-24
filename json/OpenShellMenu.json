@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.4.195",
-    "Date": "4/1/2025",
-    "Size": 7621632,
+    "Version": "4.4.196",
+    "Date": "8/5/2025",
+    "Size": 9865728,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.195/OpenShellSetup_4_4_195.exe"
+    "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.196/OpenShellSetup_4_4_196.exe"
   },
   {
-    "Version": "4.4.195",
-    "Date": "4/1/2025",
-    "Size": 674304,
+    "Version": "4.4.196",
+    "Date": "8/5/2025",
+    "Size": 675840,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.195/Utility.exe"
+    "URI": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.196/Utility.exe"
   }
 ]
