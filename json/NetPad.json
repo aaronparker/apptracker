@@ -1,29 +1,29 @@
 [
   {
-    "Version": "0.8.0",
-    "Date": "1/10/2024",
-    "Size": 139145253,
+    "Version": "0.9.0",
+    "Date": "26/5/2025",
+    "Size": 232305434,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.8.0/netpad-0.8.0-win-x64.exe"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.9.0/netpad-0.9.0-win-x64.exe"
   },
   {
-    "Version": "0.8.0",
-    "Date": "1/10/2024",
-    "Size": 33999385,
+    "Version": "0.9.0",
+    "Date": "26/5/2025",
+    "Size": 64564216,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.8.0/netpad_vnext-0.8.0-win-x64.exe"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.9.0/netpad_vnext_0.9.0_x64-setup.exe"
   },
   {
-    "Version": "0.8.0",
-    "Date": "1/10/2024",
-    "Size": 46526496,
+    "Version": "0.9.0",
+    "Date": "26/5/2025",
+    "Size": 89791816,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.8.0/netpad_vnext-0.8.0-win-x64.msi"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.9.0/netpad_vnext_0.9.0_x64_en-US.msi"
   }
 ]
