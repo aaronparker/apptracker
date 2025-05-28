@@ -3,7 +3,7 @@ title: Analog Devices LTspice
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 3 2025 at 12:32 PM
+last_modified_date: May 28 2025 at 12:48 AM
 ---
 
 ## Analog Devices LTspice
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Date       | Size      | Sha256                                                           | Type | URI                                                                                                                  |
 | -------- | ---------- | --------- | ---------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| 24.1.8.1 | 02/05/2025 | 136524288 | 66CD496CE8AFA1B426F751E90377341A840B43E2680228246B56056EB17F8E05 | msi  | [https://LTspice.analog.com/download/24.1.8/LTspice64.msi](https://LTspice.analog.com/download/24.1.8/LTspice64.msi) |
+| 24.1.9.1 | 27/05/2025 | 138287616 | AF93F7916FE70CDF7D99B4E4943AE67A0737C1F2286AD9900BC1DE028A1E987F | msi  | [https://LTspice.analog.com/download/24.1.9/LTspice64.msi](https://LTspice.analog.com/download/24.1.9/LTspice64.msi) |

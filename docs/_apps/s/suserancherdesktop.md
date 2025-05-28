@@ -3,7 +3,7 @@ title: SUSE Rancher Desktop
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Mar 7 2025 at 12:48 AM
+last_modified_date: May 28 2025 at 12:48 AM
 ---
 
 ## SUSE Rancher Desktop
@@ -14,6 +14,6 @@ Evergreen app: `SUSERancherDesktop`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
-| ------- | -------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.18.2  | 6/3/2025 | 665997312 | x86          | Default       | msi  | [https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.18.2/Rancher.Desktop.Setup.1.18.2.msi](https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.18.2/Rancher.Desktop.Setup.1.18.2.msi) |
+| Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
+| ------- | --------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.19.0  | 27/5/2025 | 675348480 | x86          | Default       | msi  | [https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.19.0/Rancher.Desktop.Setup.1.19.0.msi](https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.19.0/Rancher.Desktop.Setup.1.19.0.msi) |
