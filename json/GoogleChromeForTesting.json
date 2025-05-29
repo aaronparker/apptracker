@@ -1,19 +1,35 @@
 [
   {
-    "Version": "138.0.7204.2",
-    "Revision": "1465706",
+    "Version": "139.0.7206.2",
+    "Revision": "1466426",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.2/win64/chrome-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/139.0.7206.2/win64/chrome-win64.zip"
   },
   {
-    "Version": "138.0.7204.2",
-    "Revision": "1465706",
+    "Version": "139.0.7206.2",
+    "Revision": "1466426",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.2/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/139.0.7206.2/win32/chrome-win32.zip"
+  },
+  {
+    "Version": "138.0.7204.4",
+    "Revision": "1465706",
+    "Channel": "Beta",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.4/win64/chrome-win64.zip"
+  },
+  {
+    "Version": "138.0.7204.4",
+    "Revision": "1465706",
+    "Channel": "Beta",
+    "Architecture": "x86",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.4/win32/chrome-win32.zip"
   },
   {
     "Version": "138.0.7191.0",
@@ -46,21 +62,5 @@
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win32/chrome-win32.zip"
-  },
-  {
-    "Version": "137.0.7151.40",
-    "Revision": "1453031",
-    "Channel": "Beta",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/win64/chrome-win64.zip"
-  },
-  {
-    "Version": "137.0.7151.40",
-    "Revision": "1453031",
-    "Channel": "Beta",
-    "Architecture": "x86",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/win32/chrome-win32.zip"
   }
 ]
