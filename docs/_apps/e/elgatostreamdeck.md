@@ -12,7 +12,10 @@ last_modified_date: May 7 2025 at 12:22 PM
 
 Evergreen app: `ElgatoStreamDeck`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Architecture | Type | URI                                                                                                                                      |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |

@@ -12,7 +12,10 @@ last_modified_date: Jul 4 2024 at 12:30 AM
 
 Evergreen app: `ElgatoAudioEffects`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                                                |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

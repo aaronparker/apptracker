@@ -12,7 +12,10 @@ last_modified_date: Apr 9 2025 at 12:40 AM
 
 Evergreen app: `ElgatoCameraHub`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
