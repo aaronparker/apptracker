@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: May 26 2025 at 12:26 PM
+last_modified_date: Jun 2 2025 at 12:43 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version        | Date                           | Architecture | URI                                                                                                                                                                                                                                                                                                        |
 | -------------- | ------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0.11212.1600 | Tuesday 13 May 2025 9:41:51 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/03b609ee-633e-4e41-86c7-ebd6363adeb8/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.11212.1600.msi](https://res.cdn.office.net/s01-remote-desktop-agent/03b609ee-633e-4e41-86c7-ebd6363adeb8/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.11212.1600.msi) |
+| 1.0.11212.1600 | Tuesday 13 May 2025 9:42:27 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/03b609ee-633e-4e41-86c7-ebd6363adeb8/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.11212.1600.msi](https://res.cdn.office.net/s01-remote-desktop-agent/03b609ee-633e-4e41-86c7-ebd6363adeb8/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.11212.1600.msi) |
