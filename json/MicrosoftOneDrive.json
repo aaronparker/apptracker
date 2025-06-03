@@ -1,30 +1,30 @@
 [
   {
-    "Version": "25.104.0529.0001",
+    "Version": "25.105.0601.0001",
     "Ring": "InternalFast",
     "Throttle": "100",
-    "Sha256": "36fb5ed1c6464c1e46a248f258bbc61a792dda594420d76a0dca3ed10f5b484a",
+    "Sha256": "7c9a07a7cbfbc61993237593eb35b52bf92653a45b2647f960528dbed07b0385",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/25.104.0529.0001/arm64/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/25.105.0601.0001/arm64/OneDriveSetup.exe"
   },
   {
-    "Version": "25.104.0529.0001",
+    "Version": "25.105.0601.0001",
     "Ring": "InternalFast",
     "Throttle": "100",
-    "Sha256": "13aa8f8a866fff96abf4efe4fa256da2bb1d31805393a18862bb6862438c12de",
+    "Sha256": "ec0922e01496dc9319fe4fac03e472597c22da3790df6e393daad9b1dbac461c",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/25.104.0529.0001/amd64/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/25.105.0601.0001/amd64/OneDriveSetup.exe"
   },
   {
-    "Version": "25.104.0529.0001",
+    "Version": "25.105.0601.0001",
     "Ring": "InternalFast",
     "Throttle": "100",
-    "Sha256": "b9a3954f05c9b83282b6fdc1d75dd36a61960097d0915d0ff35d7392c263c781",
+    "Sha256": "0a2c5720a6be70494ed1549b62ecc16874e0ad2ae554a995e1b95fa4e61aefc9",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/25.104.0529.0001/OneDriveSetup.exe"
+    "URI": "https://oneclient.sfx.ms/Win/Installers/25.105.0601.0001/OneDriveSetup.exe"
   },
   {
     "Version": "25.097.0520.0001",
@@ -55,8 +55,8 @@
   },
   {
     "Version": "25.095.0518.0001",
-    "Ring": "InternalSlow",
-    "Throttle": "100",
+    "Ring": "Insider",
+    "Throttle": "10",
     "Sha256": "c0bd1af836e5ac02aefbf5c10edfe32c3fc59cf5f2a4ed57a9b9684d71272926",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -66,10 +66,37 @@
     "Version": "25.095.0518.0001",
     "Ring": "InternalSlow",
     "Throttle": "100",
+    "Sha256": "c0bd1af836e5ac02aefbf5c10edfe32c3fc59cf5f2a4ed57a9b9684d71272926",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/25.095.0518.0001/arm64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "25.095.0518.0001",
+    "Ring": "Insider",
+    "Throttle": "10",
     "Sha256": "58117c80d8bbd8316877383075f113ff7567977dc868e7f9ae04d999f05391e8",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/25.095.0518.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "25.095.0518.0001",
+    "Ring": "InternalSlow",
+    "Throttle": "100",
+    "Sha256": "58117c80d8bbd8316877383075f113ff7567977dc868e7f9ae04d999f05391e8",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/25.095.0518.0001/amd64/OneDriveSetup.exe"
+  },
+  {
+    "Version": "25.095.0518.0001",
+    "Ring": "Insider",
+    "Throttle": "10",
+    "Sha256": "00794ac1339c33925289c43f8dc5efef50ad105ab8b57725a22217e233c4c61f",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://oneclient.sfx.ms/Win/Installers/25.095.0518.0001/OneDriveSetup.exe"
   },
   {
     "Version": "25.095.0518.0001",
@@ -92,7 +119,7 @@
   {
     "Version": "25.091.0512.0001",
     "Ring": "Production",
-    "Throttle": "1",
+    "Throttle": "10",
     "Sha256": "26ebb0b21bc6d7cf1a778b11a2c3fa38350b394c0da51304aaebe20461b262d7",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -110,7 +137,7 @@
   {
     "Version": "25.091.0512.0001",
     "Ring": "Production",
-    "Throttle": "1",
+    "Throttle": "10",
     "Sha256": "a40fc5c2f7c996fecef11c4d8d69da6bd5b3fc9ef14c3e219b707c38368d72fd",
     "Architecture": "x64",
     "Type": "exe",
@@ -128,7 +155,7 @@
   {
     "Version": "25.091.0512.0001",
     "Ring": "Production",
-    "Throttle": "1",
+    "Throttle": "10",
     "Sha256": "461cd6a676a723750edfe1db6c79014bd76a88d0ac656082d0eeb29ea9d27a8e",
     "Architecture": "x86",
     "Type": "exe",
