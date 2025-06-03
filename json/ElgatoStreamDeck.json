@@ -1,8 +1,8 @@
 [
   {
-    "Version": "6.9.0",
+    "Version": "6.9.1",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.9.0.21694.msi"
+    "URI": "https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.9.1.21711.msi"
   }
 ]
