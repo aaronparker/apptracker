@@ -11,37 +11,37 @@
     "URI": "https://www.python.org/ftp/python/pymanager/python-manager-25.0b9.msi"
   },
   {
-    "Version": "3.13.3",
+    "Version": "3.13.4",
     "Release": "3.13",
     "Python": 3,
-    "Date": "8/4/2025",
-    "Md5": "18bb07bd65e768ae1ab1e8a969d8224a",
-    "Size": 27894728,
+    "Date": "3/6/2025",
+    "Md5": "f133357fff1dba8b19288d4bc115c9dd",
+    "Size": 27916152,
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://www.python.org/ftp/python/3.13.3/python-3.13.3-arm64.exe"
+    "URI": "https://www.python.org/ftp/python/3.13.4/python-3.13.4-arm64.exe"
   },
   {
-    "Version": "3.13.3",
+    "Version": "3.13.4",
     "Release": "3.13",
     "Python": 3,
-    "Date": "8/4/2025",
-    "Md5": "be3264daeb8c5e08365492dd02908cfa",
-    "Size": 28640016,
+    "Date": "3/6/2025",
+    "Md5": "ee91d61ba59659d23eba4347995163bc",
+    "Size": 28673928,
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe"
+    "URI": "https://www.python.org/ftp/python/3.13.4/python-3.13.4-amd64.exe"
   },
   {
-    "Version": "3.13.3",
+    "Version": "3.13.4",
     "Release": "3.13",
     "Python": 3,
-    "Date": "8/4/2025",
-    "Md5": "fd83ec01f90a1a051f856044b152fb72",
-    "Size": 27298040,
+    "Date": "3/6/2025",
+    "Md5": "7046126db6362e759988af4ec16faa44",
+    "Size": 27321920,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.python.org/ftp/python/3.13.3/python-3.13.3.exe"
+    "URI": "https://www.python.org/ftp/python/3.13.4/python-3.13.4.exe"
   },
   {
     "Version": "2.7.18",
