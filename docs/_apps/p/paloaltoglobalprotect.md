@@ -3,7 +3,7 @@ title: Palo Alto GlobalProtect
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: May 21 2025 at 12:51 AM
+last_modified_date: Jun 5 2025 at 12:35 PM
 ---
 
 ## Palo Alto GlobalProtect
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version   | Date                | Architecture | Type | URI                                                                                                                                          |
 | --------- | ------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.2.8-223 | 05/20/2025 19:19:02 | x64          | msi  | [https://pan-gp-client.s3.amazonaws.com/6.2.8-223/GlobalProtect64.msi](https://pan-gp-client.s3.amazonaws.com/6.2.8-223/GlobalProtect64.msi) |
-| 6.2.8-223 | 05/20/2025 19:19:02 | x86          | msi  | [https://pan-gp-client.s3.amazonaws.com/6.2.8-223/GlobalProtect.msi](https://pan-gp-client.s3.amazonaws.com/6.2.8-223/GlobalProtect.msi)     |
+| 6.3.3-649 | 06/05/2025 10:21:06 | x64          | msi  | [https://pan-gp-client.s3.amazonaws.com/6.3.3-649/GlobalProtect.msi](https://pan-gp-client.s3.amazonaws.com/6.3.3-649/GlobalProtect.msi)     |
+| 6.3.3-649 | 06/05/2025 10:21:06 | x64          | msi  | [https://pan-gp-client.s3.amazonaws.com/6.3.3-649/GlobalProtect64.msi](https://pan-gp-client.s3.amazonaws.com/6.3.3-649/GlobalProtect64.msi) |
