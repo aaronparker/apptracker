@@ -12,10 +12,7 @@ last_modified_date: May 21 2025 at 12:51 AM
 
 Evergreen app: `PaloAltoGlobalProtect`. Found **2** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version   | Date                | Architecture | Type | URI                                                                                                                                          |
 | --------- | ------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
