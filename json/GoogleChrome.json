@@ -1,8 +1,8 @@
 [
   {
-    "Version": "139.0.7219.0",
+    "Version": "139.0.7219.3",
     "Channel": "Canary",
-    "StartDate": "4/6/2025",
+    "StartDate": "5/6/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
@@ -24,17 +24,17 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "138.0.7204.4",
+    "Version": "138.0.7204.15",
     "Channel": "Beta",
-    "StartDate": "28/5/2025",
+    "StartDate": "4/6/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "138.0.7204.4",
+    "Version": "138.0.7204.15",
     "Channel": "Beta",
-    "StartDate": "28/5/2025",
+    "StartDate": "4/6/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
@@ -74,7 +74,7 @@
   {
     "Version": "136.0.7103.156",
     "Channel": "Extended",
-    "StartDate": "3/6/2025",
+    "StartDate": "4/6/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -82,7 +82,7 @@
   {
     "Version": "136.0.7103.156",
     "Channel": "Extended",
-    "StartDate": "3/6/2025",
+    "StartDate": "4/6/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
