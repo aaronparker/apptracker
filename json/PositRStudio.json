@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2025.05.0+496",
-    "Date": "5/5/2025",
+    "Version": "2025.05.1+513",
+    "Date": "5/6/2025",
     "Pro": false,
-    "ProductName": "RStudio 2025.05.0+496 - Windows 10/11 (64-bit)",
-    "Size": 281266920,
-    "Sha256": "9e6f68ca9700954fe048856f8e00d6d58290f6a0a7d3be1936cbbc1bdc09745a",
+    "ProductName": "RStudio 2025.05.1+513 - Windows 10/11 (64-bit)",
+    "Size": 281236960,
+    "Sha256": "3a553330da9732b54e609c2d6ae84a7d06dcfefb4802667556973fb78f3d28e5",
     "Type": "exe",
-    "URI": "https://download1.rstudio.org/electron/windows/RStudio-2025.05.0-496.exe"
+    "URI": "https://download1.rstudio.org/electron/windows/RStudio-2025.05.1-513.exe"
   },
   {
-    "Version": "2025.05.0+496.pro5",
-    "Date": "5/5/2025",
+    "Version": "2025.05.1+513.pro3",
+    "Date": "5/6/2025",
     "Pro": true,
-    "ProductName": "RStudio Pro 2025.05.0+496.pro5 - Windows 10/11 (64-bit)",
-    "Size": 285994424,
-    "Sha256": "374767aa82ecb23680e08d95c467696066aac23c0bf02d98512e699ee385deeb",
+    "ProductName": "RStudio Pro 2025.05.1+513.pro3 - Windows 10/11 (64-bit)",
+    "Size": 285980248,
+    "Sha256": "eb156c3f4be08183937f4d962e0ed08aa2eb5bdfc0e6c0df5ad532db6b95308d",
     "Type": "exe",
-    "URI": "https://download1.rstudio.org/electron/windows/RStudio-pro-2025.05.0-496.pro5.exe"
+    "URI": "https://download1.rstudio.org/electron/windows/RStudio-pro-2025.05.1-513.pro3.exe"
   }
 ]

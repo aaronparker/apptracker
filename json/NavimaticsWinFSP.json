@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2.0",
-    "Date": "16/3/2023",
-    "Size": 2207744,
+    "Version": "2.1",
+    "Date": "5/6/2025",
+    "Size": 2191360,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi"
+    "URI": "https://github.com/winfsp/winfsp/releases/download/v2.1/winfsp-2.1.25156.msi"
   }
 ]
