@@ -3,7 +3,7 @@ title: Navimatics WinFSP
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Sep 23 2024 at 12:38 AM
+last_modified_date: Jun 6 2025 at 12:55 AM
 ---
 
 ## Navimatics WinFSP
@@ -14,6 +14,6 @@ Evergreen app: `NavimaticsWinFSP`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                          |
-| ------- | --------- | ------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.0     | 16/3/2023 | 2207744 | x86          | Default       | msi  | [https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
+| Version | Date     | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                          |
+| ------- | -------- | ------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2.1     | 5/6/2025 | 2191360 | x86          | Default       | msi  | [https://github.com/winfsp/winfsp/releases/download/v2.1/winfsp-2.1.25156.msi](https://github.com/winfsp/winfsp/releases/download/v2.1/winfsp-2.1.25156.msi) |
