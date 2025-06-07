@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2.1.8",
-    "Date": "20/2/2025",
-    "Size": 1925120,
+    "Version": "2.1.9",
+    "Date": "7/6/2025",
+    "Size": 1970176,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/stefankueng/grepWin/releases/download/2.1.8/grepWin-2.1.8-x64.msi"
+    "URI": "https://github.com/stefankueng/grepWin/releases/download/2.1.9/grepWin-2.1.9-x64.msi"
   },
   {
-    "Version": "2.1.8",
-    "Date": "20/2/2025",
-    "Size": 929792,
+    "Version": "2.1.9",
+    "Date": "7/6/2025",
+    "Size": 933888,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/stefankueng/grepWin/releases/download/2.1.8/grepWin-2.1.8.msi"
+    "URI": "https://github.com/stefankueng/grepWin/releases/download/2.1.9/grepWin-2.1.9.msi"
   }
 ]
