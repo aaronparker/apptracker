@@ -54,22 +54,22 @@
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120529/AcroRdrDCUpd2500120529.msp"
   },
   {
-    "Version": "20.005.30763",
+    "Version": "20.005.30774",
     "Type": "Update",
     "Product": "Reader",
     "Track": "2020",
     "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530763/AcroRdr2020Upd2000530763_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530774/AcroRdr2020Upd2000530774_MUI.msp"
   },
   {
-    "Version": "20.005.30763",
+    "Version": "20.005.30774",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "2020",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530763/Acrobat2020Upd2000530763.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530774/Acrobat2020Upd2000530774.msp"
   },
   {
     "Version": "17.012.30262",
