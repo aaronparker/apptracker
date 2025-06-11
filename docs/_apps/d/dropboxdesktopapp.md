@@ -3,7 +3,7 @@ title: Dropbox desktop app
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Jun 10 2025 at 12:20 PM
+last_modified_date: Jun 11 2025 at 12:49 AM
 ---
 
 ## Dropbox desktop app
@@ -14,7 +14,7 @@ Evergreen app: `DropboxDesktopApp`. Found **2** installers.
 
 Last check: 🟢
 
-| Version    | Architecture | Type | Filename                                                 | URI                                                                                                                                                                                                                                |
-| ---------- | ------------ | ---- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 225.4.4896 | ARM64        | exe  | Dropbox 225.4.4896 Offline Installer.arm64.exe           | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20225.4.4896%20Offline%20Installer.arm64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20225.4.4896%20Offline%20Installer.arm64.exe)                     |
-| 225.4.4896 | x64          | exe  | Dropbox 225.4.4896 Offline Installer_superfluous.x64.exe | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20225.4.4896%20Offline%20Installer_superfluous.x64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20225.4.4896%20Offline%20Installer_superfluous.x64.exe) |
+| Version    | Architecture | Type | Filename                                                   | URI                                                                                                                                                                                                                                    |
+| ---------- | ------------ | ---- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 226.4.5094 | ARM64        | exe  | Dropbox 226.4.5094 Offline Installer_superfluous.arm64.exe | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20226.4.5094%20Offline%20Installer_superfluous.arm64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20226.4.5094%20Offline%20Installer_superfluous.arm64.exe) |
+| 226.4.5094 | x64          | exe  | Dropbox 226.4.5094 Offline Installer_superfluous.x64.exe   | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20226.4.5094%20Offline%20Installer_superfluous.x64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20226.4.5094%20Offline%20Installer_superfluous.x64.exe)     |
