@@ -4,7 +4,7 @@
     "ReleaseVersion": "2506",
     "Channel": "CurrentPreview",
     "Name": "Current Channel (Preview)",
-    "Date": "2025-06-10T23:42:23",
+    "Date": "2025-06-11T00:44:57",
     "EOSDate": "0001-01-01T00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
@@ -45,11 +45,11 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.17928.20538",
+    "Version": "16.0.17928.20572",
     "ReleaseVersion": "2408",
     "Channel": "SemiAnnual",
     "Name": "Semi-Annual Enterprise Channel",
-    "Date": "2025-05-13T07:43:52",
+    "Date": "2025-06-11T01:38:26",
     "EOSDate": "2026-03-10T00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
