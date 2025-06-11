@@ -3,7 +3,7 @@ title: Citrix ShareFile for Windows
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: May 17 2025 at 12:31 PM
+last_modified_date: Jun 11 2025 at 12:20 PM
 ---
 
 ## Citrix ShareFile for Windows
@@ -14,6 +14,6 @@ Evergreen app: `CitrixShareFile`. Found **1** installer.
 
 Last check: 🟢
 
-| Version   | Date                | Size     | Hash                                                     | URI                                                                                                                                                    |
-| --------- | ------------------- | -------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 24.10.3.0 | 10/21/2024 12:00:00 | 53855072 | x85JtVtgDsqs5MAfCPqcnY3NqOQy/HFx3ezjnKJAQs7t04f2A/jtiQ== | [https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v24.10.3.0.exe](https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v24.10.3.0.exe) |
+| Version  | Date      | Size     | Hash                                                     | URI                                                                                                                                                  |
+| -------- | --------- | -------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 25.6.4.0 | 11/6/2025 | 53924520 | yWjVJNqVWblUVdGnoLUNBBjAu9K+m1KfhbvNjYOvAp+FeW9lDWSVVQ== | [https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v25.6.4.0.exe](https://www.sf-cdn.net/downloads/cfwin/ShareFileForWindows-v25.6.4.0.exe) |
