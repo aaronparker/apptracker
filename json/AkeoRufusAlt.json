@@ -1,20 +1,20 @@
 [
   {
-    "Version": "4.7.2231",
+    "Version": "4.8.2253",
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.8/rufus-4.8_arm64.exe"
   },
   {
-    "Version": "4.7.2231",
+    "Version": "4.8.2253",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.8/rufus-4.8_x86.exe"
   },
   {
-    "Version": "4.7.2231",
+    "Version": "4.8.2253",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.8/rufus-4.8_arm64.exe"
   }
 ]

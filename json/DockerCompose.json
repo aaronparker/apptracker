@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2.37.0",
-    "Date": "5/6/2025",
-    "Size": 73111040,
+    "Version": "2.37.1",
+    "Date": "12/6/2025",
+    "Size": 73120256,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/docker/compose/releases/download/v2.37.0/docker-compose-windows-aarch64.exe"
+    "URI": "https://github.com/docker/compose/releases/download/v2.37.1/docker-compose-windows-aarch64.exe"
   },
   {
-    "Version": "2.37.0",
-    "Date": "5/6/2025",
-    "Size": 75899392,
+    "Version": "2.37.1",
+    "Date": "12/6/2025",
+    "Size": 75909120,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/docker/compose/releases/download/v2.37.0/docker-compose-windows-x86_64.exe"
+    "URI": "https://github.com/docker/compose/releases/download/v2.37.1/docker-compose-windows-x86_64.exe"
   }
 ]
