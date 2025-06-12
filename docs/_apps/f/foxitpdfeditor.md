@@ -12,7 +12,10 @@ last_modified_date: Jun 9 2025 at 12:20 PM
 
 Evergreen app: `FoxitPDFEditor`. Found **16** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version      | Date      | Language            | URI                                                                                                                                                                                                                                |
 | ------------ | --------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
