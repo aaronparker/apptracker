@@ -1,11 +1,11 @@
 [
   {
-    "Version": "25.02.6",
-    "Date": "1/6/2025",
-    "Size": 152024760,
+    "Version": "25.02.7",
+    "Date": "4/6/2025",
+    "Size": 151901552,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ankitects/anki/releases/download/25.02.6/anki-25.02.6-windows-qt6.exe"
+    "URI": "https://github.com/ankitects/anki/releases/download/25.02.7/anki-25.02.7-windows-qt6.exe"
   }
 ]
