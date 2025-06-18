@@ -3,7 +3,7 @@ title: VMware Tools
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: May 13 2025 at 12:29 PM
+last_modified_date: Jun 18 2025 at 12:22 PM
 ---
 
 ## VMware Tools
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | URI                                                                                                                                                                                                      |
 | ------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 12.5.2  | ARM64        | [https://packages.vmware.com/tools/releases/12.5.2/windows/arm/VMware-tools-12.5.2-24697584-arm.exe](https://packages.vmware.com/tools/releases/12.5.2/windows/arm/VMware-tools-12.5.2-24697584-arm.exe) |
-| 12.5.2  | x64          | [https://packages.vmware.com/tools/releases/12.5.2/windows/x64/VMware-tools-12.5.2-24697584-x64.exe](https://packages.vmware.com/tools/releases/12.5.2/windows/x64/VMware-tools-12.5.2-24697584-x64.exe) |
+| 13.0.0  | ARM64        | [https://packages.vmware.com/tools/releases/13.0.0/windows/arm/VMware-tools-13.0.0-24696409-arm.exe](https://packages.vmware.com/tools/releases/13.0.0/windows/arm/VMware-tools-13.0.0-24696409-arm.exe) |
+| 13.0.0  | x64          | [https://packages.vmware.com/tools/releases/13.0.0/windows/x64/VMware-tools-13.0.0-24696409-x64.exe](https://packages.vmware.com/tools/releases/13.0.0/windows/x64/VMware-tools-13.0.0-24696409-x64.exe) |
