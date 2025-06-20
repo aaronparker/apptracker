@@ -12,10 +12,7 @@ last_modified_date: Jun 13 2025 at 12:42 AM
 
 Evergreen app: `VSCodium`. Found **6** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version     | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                  |
 | ----------- | --------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
