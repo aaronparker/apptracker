@@ -12,7 +12,10 @@ last_modified_date: May 14 2025 at 12:42 AM
 
 Evergreen app: `AdvancedInstaller`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Index operation failed; the array index evaluated to null.
+```
 
 | Version | Size      | Sha256                                                           | Type | URI                                                                                                                          |
 | ------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
