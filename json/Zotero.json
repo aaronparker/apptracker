@@ -1,38 +1,38 @@
 [
   {
-    "Version": "7.0.15",
+    "Version": "7.0.16",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://download.zotero.org/client/release/7.0.15/Zotero-7.0.15_arm64_setup.exe"
+    "URI": "https://download.zotero.org/client/release/7.0.16/Zotero-7.0.16_arm64_setup.exe"
   },
   {
-    "Version": "7.0.15",
+    "Version": "7.0.16",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.zotero.org/client/release/7.0.15/Zotero-7.0.15_x64_setup.exe"
+    "URI": "https://download.zotero.org/client/release/7.0.16/Zotero-7.0.16_x64_setup.exe"
   },
   {
-    "Version": "7.0.15",
+    "Version": "7.0.16",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.zotero.org/client/release/7.0.15/Zotero-7.0.15_win32_setup.exe"
+    "URI": "https://download.zotero.org/client/release/7.0.16/Zotero-7.0.16_win32_setup.exe"
   },
   {
-    "Version": "7.0.15",
+    "Version": "7.0.16",
     "Architecture": "ARM64",
     "Type": "zip",
-    "URI": "https://download.zotero.org/client/release/7.0.15/Zotero-7.0.15_win-arm64.zip"
+    "URI": "https://download.zotero.org/client/release/7.0.16/Zotero-7.0.16_win-arm64.zip"
   },
   {
-    "Version": "7.0.15",
+    "Version": "7.0.16",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://download.zotero.org/client/release/7.0.15/Zotero-7.0.15_win-x64.zip"
+    "URI": "https://download.zotero.org/client/release/7.0.16/Zotero-7.0.16_win-x64.zip"
   },
   {
-    "Version": "7.0.15",
+    "Version": "7.0.16",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://download.zotero.org/client/release/7.0.15/Zotero-7.0.15_win32.zip"
+    "URI": "https://download.zotero.org/client/release/7.0.16/Zotero-7.0.16_win32.zip"
   }
 ]
