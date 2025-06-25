@@ -1,11 +1,11 @@
 [
   {
     "Version": "3.8.0",
-    "Date": "1/3/2021",
+    "Date": "24/6/2025",
     "Size": 97449072,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/drata/agent-releases/releases/download/v3.8.0/Drata-Agent-win.exe"
+    "URI": "https://github.com/drata/agent-releases/releases/download/3.8.0/Drata-Agent-win.exe"
   }
 ]

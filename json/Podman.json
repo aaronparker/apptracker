@@ -1,29 +1,29 @@
 [
   {
-    "Version": "5.5.1",
-    "Date": "5/6/2025",
-    "Size": 28016232,
+    "Version": "5.5.2",
+    "Date": "24/6/2025",
+    "Size": 28014640,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.5.1/podman-installer-windows-arm64.exe"
+    "URI": "https://github.com/containers/podman/releases/download/v5.5.2/podman-installer-windows-arm64.exe"
   },
   {
-    "Version": "5.5.1",
-    "Date": "5/6/2025",
-    "Size": 29851216,
+    "Version": "5.5.2",
+    "Date": "24/6/2025",
+    "Size": 29835744,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.5.1/podman-installer-windows-amd64.exe"
+    "URI": "https://github.com/containers/podman/releases/download/v5.5.2/podman-installer-windows-amd64.exe"
   },
   {
-    "Version": "5.5.1",
-    "Date": "5/6/2025",
-    "Size": 29851216,
+    "Version": "5.5.2",
+    "Date": "24/6/2025",
+    "Size": 29835744,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/containers/podman/releases/download/v5.5.1/podman-5.5.1-setup.exe"
+    "URI": "https://github.com/containers/podman/releases/download/v5.5.2/podman-5.5.2-setup.exe"
   }
 ]
