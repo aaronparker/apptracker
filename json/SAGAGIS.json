@@ -5,6 +5,7 @@
     "Type": "exe",
     "Size": "58078263",
     "Md5": "ff0ec70aad37ba005bef44c3079567db",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.8.1/saga-9.8.1_x64_setup.exe"
+    "FileName": "saga-9.8.1_x64_setup.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.8.1/saga-9.8.1_x64_setup.exe?viasf=1"
   }
 ]
