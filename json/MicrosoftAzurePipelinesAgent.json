@@ -3,12 +3,12 @@
     "Version": "4.258.1",
     "Type": "zip",
     "Architecture": "x64",
-    "URI": "https://vstsagentpackage.azureedge.net/agent/4.258.1/vsts-agent-win-x64-4.258.1.zip"
+    "URI": "https://download.agent.dev.azure.com/agent/4.258.1/vsts-agent-win-x64-4.258.1.zip"
   },
   {
     "Version": "4.258.1",
     "Type": "zip",
     "Architecture": "x86",
-    "URI": "https://vstsagentpackage.azureedge.net/agent/4.258.1/vsts-agent-win-x86-4.258.1.zip"
+    "URI": "https://download.agent.dev.azure.com/agent/4.258.1/vsts-agent-win-x86-4.258.1.zip"
   }
 ]

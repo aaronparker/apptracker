@@ -1,17 +1,17 @@
 [
   {
-    "Version": "9.1.520",
+    "Version": "9.1.522",
     "Channel": "beta",
-    "sha1": "C44A33EC1290E0255FBE9E5BC17C4BF5FE599178",
+    "sha1": "F0A8B9CE0E488EBF14F70169228E13A10B952572",
     "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/520-2e7a55e9/Tower-9.1.520.exe"
+    "URI": "https://www.git-tower.com/apps/tower3-win/522-0644f276/Tower-9.1.522.exe"
   },
   {
-    "Version": "9.1.520",
+    "Version": "9.1.522",
     "Channel": "beta",
-    "sha1": "804DECD7980D44C0A6C91E31BDBB0FC143CD6ABD",
+    "sha1": "11F1F7280F0867547C5657DA9057AD28B801189D",
     "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/520-2e7a55e9/Tower-9.1.520.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/522-0644f276/Tower-9.1.522.msi"
   },
   {
     "Version": "9.0.514",
