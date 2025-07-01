@@ -3,7 +3,7 @@ title: Python
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jun 12 2025 at 12:23 PM
+last_modified_date: Jul 1 2025 at 12:49 AM
 ---
 
 ## Python
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Release | Python | Date      | Md5                              | Size     | Architecture | Type | URI                                                                                                                                              |
 | ------- | ------- | ------ | --------- | -------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 25.0    | 25.0    | 100    | 9/6/2025  | 3F4B4A17F588F21E1153C6387DEC4E68 | 9801728  | x86          | msi  | [https://www.python.org/ftp/python/pymanager/python-manager-25.0b10.msi](https://www.python.org/ftp/python/pymanager/python-manager-25.0b10.msi) |
+| 25.0    | 25.0    | 100    | 30/6/2025 | 0D4E06D5EA1AF197D04867B27C28CF74 | 9805824  | x86          | msi  | [https://www.python.org/ftp/python/pymanager/python-manager-25.0b11.msi](https://www.python.org/ftp/python/pymanager/python-manager-25.0b11.msi) |
 | 3.13.5  | 3.13    | 3      | 11/6/2025 | 75b8a99cfd9fd5c15771b598bc067385 | 28090072 | ARM64        | exe  | [https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.exe](https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.exe)             |
 | 3.13.5  | 3.13    | 3      | 11/6/2025 | da9f24ae94e5b3491f3d92b07d34cc72 | 28838672 | x64          | exe  | [https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe)             |
 | 3.13.5  | 3.13    | 3      | 11/6/2025 | d3898d8ea3a1524b043458311446c0b3 | 27485408 | x86          | exe  | [https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe](https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe)                         |
