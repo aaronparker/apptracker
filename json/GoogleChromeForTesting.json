@@ -48,19 +48,19 @@
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.5/win32/chrome-win32.zip"
   },
   {
-    "Version": "138.0.7204.49",
+    "Version": "138.0.7204.92",
     "Revision": "1465706",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.49/win64/chrome-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/win64/chrome-win64.zip"
   },
   {
-    "Version": "138.0.7204.49",
+    "Version": "138.0.7204.92",
     "Revision": "1465706",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.49/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/win32/chrome-win32.zip"
   }
 ]
