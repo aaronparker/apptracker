@@ -1,29 +1,29 @@
 [
   {
-    "Version": "1.8.0",
-    "Date": "1/6/2025",
-    "Size": 1026048,
+    "Version": "1.8.1",
+    "Date": "1/7/2025",
+    "Size": 1026560,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-win64.exe"
+    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-win64.exe"
   },
   {
-    "Version": "1.8.0",
-    "Date": "1/6/2025",
-    "Size": 1026048,
+    "Version": "1.8.1",
+    "Date": "1/7/2025",
+    "Size": 1026560,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-windows-amd64.exe"
+    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-windows-amd64.exe"
   },
   {
-    "Version": "1.8.0",
-    "Date": "1/6/2025",
-    "Size": 1049600,
+    "Version": "1.8.1",
+    "Date": "1/7/2025",
+    "Size": 1050112,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-windows-i386.exe"
+    "URI": "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-windows-i386.exe"
   }
 ]
