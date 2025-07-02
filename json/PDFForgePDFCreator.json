@@ -1,10 +1,10 @@
 [
   {
-    "Version": "6.0.1",
-    "Date": "28/4/2025",
-    "Size": 105906144,
-    "MD5": "9b1c63f0b62dd774c33730cede254443",
-    "Filename": "PDFCreator-6_0_1-Setup.exe",
-    "URI": "https://download.pdfforge.org/download/pdfcreator/6.0.1/PDFCreator-6_0_1-Setup.exe?file=PDFCreator-6_0_1-Setup.exe&download"
+    "Version": "6.1.0",
+    "Date": "1/7/2025",
+    "Size": 108761120,
+    "MD5": "8cbaf4dd1a4f02e948598631c7d8e193",
+    "Filename": "PDFCreator-6_1_0-Setup.exe",
+    "URI": "https://download.pdfforge.org/download/pdfcreator/6.1.0/PDFCreator-6_1_0-Setup.exe?file=PDFCreator-6_1_0-Setup.exe&download"
   }
 ]
