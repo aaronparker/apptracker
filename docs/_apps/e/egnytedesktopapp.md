@@ -3,7 +3,7 @@ title: Egnyte Desktop App
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Jun 6 2025 at 12:31 PM
+last_modified_date: Jul 2 2025 at 12:51 AM
 ---
 
 ## Egnyte Desktop App
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version    | SHA1                                     | Type | URI                                                                                                                                                                                      |
 | ---------- | ---------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.25.1.161 | 7369efd7f8f027c44a50676c1f5f8f671af4c4fa | msi  | [https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.25.1/EgnyteDesktopApp_3.25.1_161.msi](https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.25.1/EgnyteDesktopApp_3.25.1_161.msi) |
+| 3.26.2.164 | 5508a5c694e1e5ee60a392ea332072ce3e35372d | msi  | [https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.26.2/EgnyteDesktopApp_3.26.2_164.msi](https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/3.26.2/EgnyteDesktopApp_3.26.2_164.msi) |
