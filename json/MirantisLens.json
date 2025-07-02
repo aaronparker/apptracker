@@ -9,12 +9,12 @@
     "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202025.1.151935-alpha.exe"
   },
   {
-    "Version": "2025.6.21515-latest",
+    "Version": "2025.6.261308-latest",
     "Architecture": "x64",
     "Release": "Stable",
-    "Date": "2025-06-02T16:35:08.747Z",
-    "Size": 396674768,
-    "Sha512": "vpnWucPKTfKxvaMq752sQAElZmnB9gdh6aRZ8oz0/DaZJtK02pnKyaNJEKxxaSQB/JkYZhwnevC0TsWNSCdgmQ==",
-    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202025.6.21515-latest.exe"
+    "Date": "2025-06-26T14:33:55.105Z",
+    "Size": 404713680,
+    "Sha512": "t6FFQEJBcFxOxeMk4M0ym01lOdmnDMOg9HhiOamJpUvnUypLpyU2eeCTZ2a3rDg8UlUTNdYV3fkil1Oi73SyXQ==",
+    "URI": "https://downloads.k8slens.dev/ide/Lens%20Setup%202025.6.261308-latest.exe"
   }
 ]

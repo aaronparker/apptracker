@@ -1,0 +1,15 @@
+json/DropboxDesktopApp.json
+json/Gimp.json
+json/GoogleChrome.json
+json/GoogleChromeDriver.json
+json/GoogleChromeForTesting.json
+json/GoogleChromeHeadlessShell.json
+json/MicrosoftVisualStudioCode.json
+json/MirantisLens.json
+json/VideoLanVlcPlayer.json
+json/MestrelabMnova.err
+json/OracleJava17.err
+json/OracleJava20.err
+json/OracleJava21.err
+json/OracleJava22.err
+json/OracleJava23.err
