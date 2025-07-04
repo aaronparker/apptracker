@@ -1,51 +1,75 @@
 [
   {
-    "Version": "139.0.3405.9",
-    "Date": "2025-07-01T18:20:00",
-    "Channel": "Dev",
-    "Release": "Enterprise",
-    "Expiry": "2025-10-01T18:20:00",
-    "SHA256": "F781AF12CE9D0C010FEB001F5F1864825F508DDD5C6BB60EE82AD46AA10E0857",
-    "Size": 185.37,
-    "Architecture": "arm64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3c4ec45d-e144-4126-8930-7e0ea9e44434/MicrosoftEdgeDevEnterpriseARM64.msi"
-  },
-  {
-    "Version": "139.0.3405.9",
-    "Date": "2025-07-01T18:21:00",
-    "Channel": "Dev",
-    "Release": "Enterprise",
-    "Expiry": "2025-10-01T18:21:00",
-    "SHA256": "7BC2D79C9DAC0B7C41DCF4ACF93E62DA059A9418914C9BF4542B8D2C7C039B08",
-    "Size": 179.73,
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2b6ac901-2dc0-41ec-be17-9d64315b66c9/MicrosoftEdgeDevEnterpriseX64.msi"
-  },
-  {
-    "Version": "139.0.3405.9",
-    "Date": "2025-07-01T18:24:00",
-    "Channel": "Dev",
-    "Release": "Enterprise",
-    "Expiry": "2025-10-01T18:24:00",
-    "SHA256": "0F691624451980D2EE236DF885D939EC15529C02C103EF0CF7860F8550F0471B",
-    "Size": 161.94,
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f2fba543-3ac9-432a-a7e8-0c6db9f1ac14/MicrosoftEdgeDevEnterpriseX86.msi"
-  },
-  {
-    "Version": "138.0.3351.65",
-    "Date": "2025-07-01T16:47:00",
+    "Version": "139.0.3405.13",
+    "Date": "2025-07-03T17:39:00",
     "Channel": "Beta",
     "Release": "Enterprise",
-    "Expiry": "2025-10-01T16:47:00",
-    "SHA256": "601CEE0F8A278617B785377AEA56B36AA92EFFB6463B5D4F78CDA666C8028040",
-    "Size": 183.33,
+    "Expiry": "2025-10-03T17:39:00",
+    "SHA256": "67CB629B3A98BBDC3A9F181E0206E519622195C7B56032F2E99199449E3BA4DF",
+    "Size": 185.43,
     "Architecture": "arm64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/693b1835-800f-49ee-bf4c-4af3de484008/MicrosoftEdgeBetaEnterpriseARM64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ee643c7-b3aa-403b-b2f1-72063f9638e6/MicrosoftEdgeBetaEnterpriseARM64.msi"
+  },
+  {
+    "Version": "139.0.3405.13",
+    "Date": "2025-07-03T18:15:00",
+    "Channel": "Dev",
+    "Release": "Enterprise",
+    "Expiry": "2025-10-03T18:15:00",
+    "SHA256": "8D090A09957720A286460A20EBEBDCD6FA013519442655013316292C1969211F",
+    "Size": 185.43,
+    "Architecture": "arm64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee4b9c5b-0316-44b9-a797-2a40eeaf4cd5/MicrosoftEdgeDevEnterpriseARM64.msi"
+  },
+  {
+    "Version": "139.0.3405.13",
+    "Date": "2025-07-03T17:49:00",
+    "Channel": "Beta",
+    "Release": "Enterprise",
+    "Expiry": "2025-10-03T17:49:00",
+    "SHA256": "0B65BB84FF0975F7CF20F571A5763060FBC6F3F0F3F8102257FF468079E63B51",
+    "Size": 179.66,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e094e5c9-7443-465e-ad19-17a78a150225/MicrosoftEdgeBetaEnterpriseX64.msi"
+  },
+  {
+    "Version": "139.0.3405.13",
+    "Date": "2025-07-03T17:18:00",
+    "Channel": "Dev",
+    "Release": "Enterprise",
+    "Expiry": "2025-10-03T17:18:00",
+    "SHA256": "F5E5B86B59045E1996733BC390E4B247BFF92EFCDD4574B2E7C30F25201CE941",
+    "Size": 179.66,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/592a622c-990a-4e6b-8661-12f5871f5750/MicrosoftEdgeDevEnterpriseX64.msi"
+  },
+  {
+    "Version": "139.0.3405.13",
+    "Date": "2025-07-03T17:49:00",
+    "Channel": "Beta",
+    "Release": "Enterprise",
+    "Expiry": "2025-10-03T17:49:00",
+    "SHA256": "1F405E7C566A39B17C41AC0772F86BE00A5AA6ED16C60157F42E3368CFA8BBC8",
+    "Size": 161.93,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/71449e51-e6e8-44e8-b3ff-aa9d3719cafb/MicrosoftEdgeBetaEnterpriseX86.msi"
+  },
+  {
+    "Version": "139.0.3405.13",
+    "Date": "2025-07-03T17:18:00",
+    "Channel": "Dev",
+    "Release": "Enterprise",
+    "Expiry": "2025-10-03T17:18:00",
+    "SHA256": "F95F2F5F24AC7425154308D19FAB0C56C568E29D0F014F8D8F87402E34198FC0",
+    "Size": 161.93,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/41ee45ad-f47c-43b7-bf6a-36ee23032958/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
     "Version": "138.0.3351.65",
@@ -61,18 +85,6 @@
   },
   {
     "Version": "138.0.3351.65",
-    "Date": "2025-07-01T16:55:00",
-    "Channel": "Beta",
-    "Release": "Enterprise",
-    "Expiry": "2025-10-01T16:55:00",
-    "SHA256": "7F96E6B8C6E864221C50F309D61E9D8F182C3F417B5AC854C0483FE2AB7DF992",
-    "Size": 177.56,
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b462f5f8-9b0d-4e59-9c60-b29f998d4934/MicrosoftEdgeBetaEnterpriseX64.msi"
-  },
-  {
-    "Version": "138.0.3351.65",
     "Date": "2025-07-03T06:22:00",
     "Channel": "Stable",
     "Release": "Enterprise",
@@ -82,18 +94,6 @@
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bfe41b4a-0110-4788-b5ea-f0ccf2a73c4e/MicrosoftEdgeEnterpriseX64.msi"
-  },
-  {
-    "Version": "138.0.3351.65",
-    "Date": "2025-07-01T16:48:00",
-    "Channel": "Beta",
-    "Release": "Enterprise",
-    "Expiry": "2025-10-01T16:48:00",
-    "SHA256": "FF87226DBF03335AB706A6FACEE9CED599F77308A8AE75206E94CC737AC26326",
-    "Size": 160.49,
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/26a7d27c-6466-4771-afd7-efc270dfbd12/MicrosoftEdgeBetaEnterpriseX86.msi"
   },
   {
     "Version": "138.0.3351.65",
