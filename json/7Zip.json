@@ -1,65 +1,65 @@
 [
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 1653410,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 1655305,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-arm.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500-arm.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 1580077,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 1586028,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-arm64.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500-arm64.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 1637343,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 1641049,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-x64.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500-x64.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 1348869,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 1352297,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 593408,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 598016,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7zr.exe"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7zr.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 1987584,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 1991680,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409-x64.msi"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500-x64.msi"
   },
   {
-    "Version": "24.09",
-    "Date": "30/11/2024",
-    "Size": 1556480,
+    "Version": "25.00",
+    "Date": "5/7/2025",
+    "Size": 1562112,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ip7z/7zip/releases/download/24.09/7z2409.msi"
+    "URI": "https://github.com/ip7z/7zip/releases/download/25.00/7z2500.msi"
   }
 ]
