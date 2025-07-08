@@ -3,7 +3,7 @@ title: Anki
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jul 5 2025 at 12:47 AM
+last_modified_date: Jul 8 2025 at 12:50 AM
 ---
 
 ## Anki
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                          |
 | ------- | -------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 25.07.1 | 4/7/2025 | 12496048 | x86          | Default       | exe  | [https://github.com/ankitects/anki/releases/download/25.07.1/anki-install.exe](https://github.com/ankitects/anki/releases/download/25.07.1/anki-install.exe) |
+| 25.07.2 | 7/7/2025 | 12598944 | x86          | Default       | exe  | [https://github.com/ankitects/anki/releases/download/25.07.2/anki-windows.exe](https://github.com/ankitects/anki/releases/download/25.07.2/anki-windows.exe) |

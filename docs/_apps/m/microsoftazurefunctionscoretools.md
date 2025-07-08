@@ -3,7 +3,7 @@ title: Microsoft Azure Functions Core Tools
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jun 3 2025 at 12:57 AM
+last_modified_date: Jul 8 2025 at 12:50 AM
 ---
 
 ## Microsoft Azure Functions Core Tools
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Architecture | URI                                                                                                                                                              |
 | -------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.0.7317 | x64          | [https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi](https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi) |
-| 4.0.7317 | x86          | [https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi](https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi) |
+| 4.0.7512 | x64          | [https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi](https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x64.msi) |
+| 4.0.7512 | x86          | [https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi](https://functionscdn.azureedge.net/public/artifacts/v3/latest/func-cli-x86.msi) |
