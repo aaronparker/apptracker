@@ -1,29 +1,29 @@
 [
   {
-    "Version": "0.36.1",
-    "Date": "28/5/2025",
-    "Size": 90923504,
+    "Version": "0.36.177",
+    "Date": "3/7/2025",
+    "Size": 91292232,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.36.1/bicep-win-arm64.exe"
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.36.177/bicep-win-arm64.exe"
   },
   {
-    "Version": "0.36.1",
-    "Date": "28/5/2025",
-    "Size": 40460560,
+    "Version": "0.36.177",
+    "Date": "3/7/2025",
+    "Size": 40746944,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.36.1/bicep-setup-win-x64.exe"
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.36.177/bicep-setup-win-x64.exe"
   },
   {
-    "Version": "0.36.1",
-    "Date": "28/5/2025",
-    "Size": 88220120,
+    "Version": "0.36.177",
+    "Date": "3/7/2025",
+    "Size": 88613392,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Azure/bicep/releases/download/v0.36.1/bicep-win-x64.exe"
+    "URI": "https://github.com/Azure/bicep/releases/download/v0.36.177/bicep-win-x64.exe"
   }
 ]

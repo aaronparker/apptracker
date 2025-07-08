@@ -1,29 +1,47 @@
 [
   {
-    "Version": "31.0.4",
-    "Date": "27/6/2025",
-    "Size": 156184992,
-    "Architecture": "x86",
+    "Version": "31.1.0",
+    "Date": "7/7/2025",
+    "Size": 157299608,
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.0.4/OBS-Studio-31.0.4-Windows-Installer.exe"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.0/OBS-Studio-31.1.0-Windows-x64-Installer.exe"
   },
   {
-    "Version": "31.0.4",
-    "Date": "27/6/2025",
-    "Size": 57963295,
-    "Architecture": "x86",
+    "Version": "31.1.0",
+    "Date": "7/7/2025",
+    "Size": 52864033,
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.0.4/OBS-Studio-31.0.4-Windows-PDBs.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.0/OBS-Studio-31.1.0-Windows-arm64-PDBs.zip"
   },
   {
-    "Version": "31.0.4",
-    "Date": "27/6/2025",
-    "Size": 181430104,
-    "Architecture": "x86",
+    "Version": "31.1.0",
+    "Date": "7/7/2025",
+    "Size": 162857182,
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.0.4/OBS-Studio-31.0.4-Windows.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.0/OBS-Studio-31.1.0-Windows-arm64.zip"
+  },
+  {
+    "Version": "31.1.0",
+    "Date": "7/7/2025",
+    "Size": 59708753,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.0/OBS-Studio-31.1.0-Windows-x64-PDBs.zip"
+  },
+  {
+    "Version": "31.1.0",
+    "Date": "7/7/2025",
+    "Size": 183883521,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.0/OBS-Studio-31.1.0-Windows-x64.zip"
   }
 ]
