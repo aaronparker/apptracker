@@ -1,11 +1,11 @@
 [
   {
-    "Version": "25.3.2.196",
+    "Version": "25.3.10.69",
     "Stream": "Current",
-    "Date": "22/5/2025",
-    "Size": "439873824",
-    "Hash": "87e034c9cfdb86b2633a5a582ea4e092bf000aff3928df67c5197d624aad3033",
-    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp25.3.2.196.exe"
+    "Date": "8/7/2025",
+    "Size": "440311584",
+    "Hash": "7d89f82de1fc167227fe7f079216653d723f52b4f9ab81a46697abad144dbe29",
+    "URI": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Win/CitrixWorkspaceApp25.3.10.69.exe"
   },
   {
     "Version": "24.2.3001.9",
