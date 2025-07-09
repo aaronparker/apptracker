@@ -1,56 +1,56 @@
 [
   {
-    "Version": "9.0.0",
-    "Date": "19/6/2025",
-    "Size": 286279944,
+    "Version": "9.0.3",
+    "Date": "9/7/2025",
+    "Size": 286516064,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors_x64.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.3/DesktopEditors_x64.exe"
   },
   {
-    "Version": "9.0.0",
-    "Date": "19/6/2025",
-    "Size": 489629136,
+    "Version": "9.0.3",
+    "Date": "9/7/2025",
+    "Size": 488488936,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors_x64_xp.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.3/DesktopEditors_x64_xp.exe"
   },
   {
-    "Version": "9.0.0",
-    "Date": "19/6/2025",
-    "Size": 264678016,
+    "Version": "9.0.3",
+    "Date": "9/7/2025",
+    "Size": 264921088,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors_x86.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.3/DesktopEditors_x86.exe"
   },
   {
-    "Version": "9.0.0",
-    "Date": "19/6/2025",
-    "Size": 478823000,
+    "Version": "9.0.3",
+    "Date": "9/7/2025",
+    "Size": 477662512,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors_x86_xp.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.3/DesktopEditors_x86_xp.exe"
   },
   {
-    "Version": "9.0.0",
-    "Date": "19/6/2025",
-    "Size": 441346048,
+    "Version": "9.0.3",
+    "Date": "9/7/2025",
+    "Size": 441627136,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors_x64.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.3/DesktopEditors_x64.msi"
   },
   {
-    "Version": "9.0.0",
-    "Date": "19/6/2025",
-    "Size": 424281600,
+    "Version": "9.0.3",
+    "Date": "9/7/2025",
+    "Size": 424546304,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors_x86.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.3/DesktopEditors_x86.msi"
   }
 ]
