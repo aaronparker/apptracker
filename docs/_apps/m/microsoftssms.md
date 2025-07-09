@@ -12,10 +12,7 @@ last_modified_date: Apr 10 2025 at 12:42 AM
 
 Evergreen app: `MicrosoftSsms`. Found **11** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version   | Date     | Language              | URI                                                                                                                                                                                                |
 | --------- | -------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

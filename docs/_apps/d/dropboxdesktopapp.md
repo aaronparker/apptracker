@@ -3,7 +3,7 @@ title: Dropbox desktop app
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Jul 5 2025 at 12:47 AM
+last_modified_date: Jul 9 2025 at 12:52 AM
 ---
 
 ## Dropbox desktop app
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Architecture | Type | Filename                                                   | URI                                                                                                                                                                                                                                    |
 | ---------- | ------------ | ---- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 227.4.4774 | ARM64        | exe  | Dropbox 227.4.4774 Offline Installer_superfluous.arm64.exe | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20227.4.4774%20Offline%20Installer_superfluous.arm64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20227.4.4774%20Offline%20Installer_superfluous.arm64.exe) |
-| 227.4.4774 | x64          | exe  | Dropbox 227.4.4774 Offline Installer_superfluous.x64.exe   | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20227.4.4774%20Offline%20Installer_superfluous.x64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20227.4.4774%20Offline%20Installer_superfluous.x64.exe)     |
+| 228.4.5567 | ARM64        | exe  | Dropbox 228.4.5567 Offline Installer_superfluous.arm64.exe | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20228.4.5567%20Offline%20Installer_superfluous.arm64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20228.4.5567%20Offline%20Installer_superfluous.arm64.exe) |
+| 228.4.5567 | x64          | exe  | Dropbox 228.4.5567 Offline Installer_superfluous.x64.exe   | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20228.4.5567%20Offline%20Installer_superfluous.x64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20228.4.5567%20Offline%20Installer_superfluous.x64.exe)     |
