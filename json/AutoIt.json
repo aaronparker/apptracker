@@ -1,18 +1,18 @@
 [
   {
+    "Version": "3.3.17.1",
+    "Date": "8/7/2025",
+    "Channel": "Beta",
+    "Size": "12444144",
+    "Type": "exe",
+    "URI": "https://www.autoitscript.com/autoit3/files/beta/autoit/autoit-v3.3.17.1-beta-setup.exe"
+  },
+  {
     "Version": "3.3.16.1",
     "Date": "19/9/2022",
     "Channel": "Stable",
     "Size": "13529048",
     "Type": "exe",
     "URI": "https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3.3.16.1-setup.exe"
-  },
-  {
-    "Version": "3.3.15.5",
-    "Date": "27/2/2022",
-    "Channel": "Beta",
-    "Size": "12498752",
-    "Type": "exe",
-    "URI": "https://www.autoitscript.com/autoit3/files/beta/autoit/autoit-v3.3.15.5-beta-setup.exe"
   }
 ]
