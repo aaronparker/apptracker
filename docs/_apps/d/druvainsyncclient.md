@@ -12,10 +12,7 @@ last_modified_date: Jun 5 2025 at 12:35 PM
 
 Evergreen app: `DruvainSyncClient`. Found **2** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Time-out).
-```
+Last check: 🟢
 
 | Version | InstallerVersion   | CloudPlatform | Md5sum                                   | Type | URI                                                                                                                                                                            |
 | ------- | ------------------ | ------------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
