@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2.58",
+    "Version": "2.59",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "4548768",
-    "Md5": "9d2ea8123352cd9549dd9872037daaf8",
-    "FileName": "KeePass-2.58-Setup.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.58/KeePass-2.58-Setup.exe?viasf=1"
+    "Size": "4351616",
+    "Md5": "f750281abbe4919455275ab5f5e6185c",
+    "FileName": "KeePass-2.59-Setup.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.59/KeePass-2.59-Setup.exe?viasf=1"
   },
   {
-    "Version": "2.58",
+    "Version": "2.59",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "3775488",
-    "Md5": "1f680ea0d521ab2afccc6b5998ef9336",
-    "FileName": "KeePass-2.58.msi",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.58/KeePass-2.58.msi?viasf=1"
+    "Size": "3497472",
+    "Md5": "c9f00f9cf41a6435797325dcc61c59b8",
+    "FileName": "KeePass-2.59.msi",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.59/KeePass-2.59.msi?viasf=1"
   }
 ]
