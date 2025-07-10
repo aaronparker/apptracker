@@ -14,7 +14,7 @@ Evergreen app: `MicrosoftAzureDataStudio`. Found **2** installers.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 403 (Site Disabled).
+The SSL connection could not be established, see inner exception.
 ```
 
 | Version | Channel | Platform       | Sha256                                                           | Type | URI                                                                                                                                                                                                                                                      |
