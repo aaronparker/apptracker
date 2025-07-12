@@ -1,11 +1,20 @@
 [
   {
-    "Version": "4.8.7",
-    "Date": "25/4/2025",
-    "Size": 148582488,
+    "Version": "4.8.8",
+    "Date": "11/7/2025",
+    "Size": 136001072,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.8/texstudio-4.8.8-win-arm-qt6-signed.exe"
+  },
+  {
+    "Version": "4.8.8",
+    "Date": "11/7/2025",
+    "Size": 141950784,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.7/texstudio-4.8.7-win-qt6-signed.exe"
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.8.8/texstudio-4.8.8-win-qt6-signed.exe"
   }
 ]
