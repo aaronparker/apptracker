@@ -3,19 +3,17 @@ title: Greenshot
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: Jul 14 2025 at 12:29 PM
 ---
 
 ## Greenshot
 
 [Source](https://getgreenshot.org/)
 
-Evergreen app: `Greenshot`. Found **3** installers.
+Evergreen app: `Greenshot`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Date     | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                                                                |
-| -------- | -------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.10.6 | 9/8/2017 | 1783200 | x86          | Default       | exe  | [https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe](https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe)                       |
-| 1.2.10.6 | 9/8/2017 | 1392480 | x86          | Portable      | exe  | [https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe](https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe) |
-| 1.2.10.6 | 9/8/2017 | 1502832 | x86          | Portable      | zip  | [https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip](https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip)                 |
+| Version | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
+| ------- | --------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.3.290 | 23/5/2025 | 4234480 | x86          | Default       | exe  | [https://github.com/greenshot/greenshot/releases/download/v1.3.290/Greenshot-INSTALLER-1.3.290-RELEASE.exe](https://github.com/greenshot/greenshot/releases/download/v1.3.290/Greenshot-INSTALLER-1.3.290-RELEASE.exe) |
