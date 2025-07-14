@@ -1,29 +1,11 @@
 [
   {
-    "Version": "1.2.10.6",
-    "Date": "9/8/2017",
-    "Size": 1783200,
+    "Version": "1.3.290",
+    "Date": "23/5/2025",
+    "Size": 4234480,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe"
-  },
-  {
-    "Version": "1.2.10.6",
-    "Date": "9/8/2017",
-    "Size": 1392480,
-    "Architecture": "x86",
-    "InstallerType": "Portable",
-    "Type": "exe",
-    "URI": "https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot_for_PortableApps_1.2.10.6-RELEASE.paf.exe"
-  },
-  {
-    "Version": "1.2.10.6",
-    "Date": "9/8/2017",
-    "Size": 1502832,
-    "Architecture": "x86",
-    "InstallerType": "Portable",
-    "Type": "zip",
-    "URI": "https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip"
+    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.290/Greenshot-INSTALLER-1.3.290-RELEASE.exe"
   }
 ]
