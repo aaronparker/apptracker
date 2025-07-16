@@ -1,14 +1,14 @@
 [
   {
-    "Version": "1.41.8.9834-071366d65",
+    "Version": "1.41.9.9961-46083195d",
     "Architecture": "x64",
-    "Checksum": "30ff7d3d2aaff6bee4811280e88bbb853571d836",
-    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.8.9834-071366d65/windows/PlexMediaServer-1.41.8.9834-071366d65-x86_64.exe"
+    "Checksum": "c62dd505eba0a26da239ecd801301cfd1660f4cd",
+    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.9.9961-46083195d/windows/PlexMediaServer-1.41.9.9961-46083195d-x86_64.exe"
   },
   {
-    "Version": "1.41.8.9834-071366d65",
+    "Version": "1.41.9.9961-46083195d",
     "Architecture": "x86",
-    "Checksum": "0e67114dcb03085d36ba78c7887c25375e7114d6",
-    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.8.9834-071366d65/windows/PlexMediaServer-1.41.8.9834-071366d65-x86.exe"
+    "Checksum": "5ea06c9d22a9b359ed1c7c022a6c88fdca25d4ff",
+    "URI": "https://downloads.plex.tv/plex-media-server-new/1.41.9.9961-46083195d/windows/PlexMediaServer-1.41.9.9961-46083195d-x86.exe"
   }
 ]

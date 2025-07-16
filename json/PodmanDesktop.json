@@ -1,110 +1,110 @@
 [
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 128626048,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 129660736,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-1.19.2-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-1.20.1-arm64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 128807200,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 129896768,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-1.19.2-setup-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-1.20.1-setup-arm64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 321874272,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 322642736,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-airgap-1.19.2-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-airgap-1.20.1-arm64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 322055424,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 322878792,
     "Architecture": "ARM64",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-airgap-1.19.2-setup-arm64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-airgap-1.20.1-setup-arm64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 126442616,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 127766320,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-1.19.2-setup-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-1.20.1-setup-x64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 126261160,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 127529840,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-1.19.2-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-1.20.1-x64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 325567744,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 326604440,
     "Architecture": "x64",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-airgap-1.19.2-setup-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-airgap-1.20.1-setup-x64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 325386288,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 326367952,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-airgap-1.19.2-x64.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-airgap-1.20.1-x64.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 254688112,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 257046536,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-1.19.2-setup.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-1.20.1-setup.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 254506912,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 256810288,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-1.19.2.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-1.20.1.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 647061464,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 648866648,
     "Architecture": "x86",
     "InstallerType": "Airgap",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-airgap-1.19.2-setup.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-airgap-1.20.1-setup.exe"
   },
   {
-    "Version": "1.19.2",
-    "Date": "11/6/2025",
-    "Size": 646880272,
+    "Version": "1.20.1",
+    "Date": "11/7/2025",
+    "Size": 648630408,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.19.2/podman-desktop-airgap-1.19.2.exe"
+    "URI": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.20.1/podman-desktop-airgap-1.20.1.exe"
   }
 ]

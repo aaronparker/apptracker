@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Date": "16/6/2025",
-    "Size": 148158512,
+    "Size": 148787280,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.39.0/StorageExplorer-windows-arm64.exe"
+    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.39.1/StorageExplorer-windows-arm64.exe"
   },
   {
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Date": "16/6/2025",
-    "Size": 153318248,
+    "Size": 155435456,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.39.0/StorageExplorer-windows-x64.exe"
+    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.39.1/StorageExplorer-windows-x64.exe"
   }
 ]

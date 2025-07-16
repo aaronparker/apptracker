@@ -1,6 +1,6 @@
 [
   {
-    "Version": "140.0.7297.0",
+    "Version": "140.0.7298.0",
     "Channel": "Canary",
     "StartDate": "15/7/2025",
     "Architecture": "x86",
@@ -40,49 +40,49 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "138.0.7204.101",
+    "Version": "138.0.7204.158",
     "Channel": "Stable",
-    "StartDate": "10/7/2025",
+    "StartDate": "15/7/2025",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi"
   },
   {
-    "Version": "138.0.7204.101",
+    "Version": "138.0.7204.158",
     "Channel": "Extended",
-    "StartDate": "10/7/2025",
+    "StartDate": "15/7/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "138.0.7204.101",
+    "Version": "138.0.7204.158",
     "Channel": "Stable",
-    "StartDate": "10/7/2025",
+    "StartDate": "15/7/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "138.0.7204.101",
+    "Version": "138.0.7204.158",
     "Channel": "Extended",
-    "StartDate": "10/7/2025",
+    "StartDate": "15/7/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "138.0.7204.101",
+    "Version": "138.0.7204.158",
     "Channel": "Stable",
-    "StartDate": "10/7/2025",
+    "StartDate": "15/7/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "138.0.7204.101",
+    "Version": "138.0.7204.158",
     "Channel": "Stable",
-    "StartDate": "10/7/2025",
+    "StartDate": "15/7/2025",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"
