@@ -3,7 +3,7 @@ title: SmartBear SoapUI
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Dec 18 2024 at 12:29 PM
+last_modified_date: Jul 16 2025 at 12:28 PM
 ---
 
 ## SmartBear SoapUI
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                    |
 | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 5.8.0   | [http://dl.eviware.com/soapuios/5.8.0/SoapUI-x64-5.8.0.exe](http://dl.eviware.com/soapuios/5.8.0/SoapUI-x64-5.8.0.exe) |
+| 5.9.0   | [http://dl.eviware.com/soapuios/5.9.0/SoapUI-x64-5.9.0.exe](http://dl.eviware.com/soapuios/5.9.0/SoapUI-x64-5.9.0.exe) |

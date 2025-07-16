@@ -3,7 +3,7 @@ title: Amazon Corretto 11
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Apr 16 2025 at 12:50 AM
+last_modified_date: Jul 16 2025 at 12:28 PM
 ---
 
 ## Amazon Corretto 11
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version     | Md5                              | Architecture | Type | URI                                                                                                                                                                                                          |
 | ----------- | -------------------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 11.0.27.6.1 | ff28be0b339bbbabdbb1a51fed9f0183 | x64          | msi  | [https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x64.msi](https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x64.msi)         |
-| 11.0.27.6.1 | 0109f30f3e8e44cacffda5d5dfeb5fef | x86          | msi  | [https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x86.msi](https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x86.msi)         |
-| 11.0.27.6.1 | 8239a89fbfb52a4929625dbe25d90b38 | x64          | zip  | [https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x64-jdk.zip) |
-| 11.0.27.6.1 | 7ca84df864c9ec28035a46311885277d | x86          | zip  | [https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x86-jdk.zip](https://corretto.aws/downloads/resources/11.0.27.6.1/amazon-corretto-11.0.27.6.1-windows-x86-jdk.zip) |
+| 11.0.28.6.1 | 20d3331175e2e353d0a645be9157c4b7 | x64          | msi  | [https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x64.msi](https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x64.msi)         |
+| 11.0.28.6.1 | f87cab0340244a9513675949b75f4f5e | x86          | msi  | [https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x86.msi](https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x86.msi)         |
+| 11.0.28.6.1 | 542808659d21e99bba17861edcb3bd09 | x64          | zip  | [https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x64-jdk.zip) |
+| 11.0.28.6.1 | 2fed6322a0223c88f889026381aa1bfe | x86          | zip  | [https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x86-jdk.zip](https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-windows-x86-jdk.zip) |
