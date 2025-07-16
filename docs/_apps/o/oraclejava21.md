@@ -12,13 +12,10 @@ last_modified_date: Jan 31 2025 at 12:19 PM
 
 Evergreen app: `OracleJava21`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version | FullVersion | Date      | Sha256                                                           | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 21.0.7  | 21.0.7+8    | 15/4/2025 | 3421fbe8b787fb15aba45ae081237e6a3b3e761a966dbaeaf6cafc370419a508 | exe  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) |
-| 21.0.7  | 21.0.7+8    | 15/4/2025 | d5a8b2201488f2f42d3ff721732983943051e36ac1c742bf9d98e7ed60dcdf99 | msi  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) |
-| 21.0.7  | 21.0.7+8    | 15/4/2025 | c0ce633915413f91b98add8be040bdf88270e13340d4f63691f029257e4f6433 | zip  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip) |
+| 21.0.8  | 21.0.8+12   | 15/7/2025 | 6e087a81af8faa3a9a823a4ee1713901da6c4f9b08dd343e0dee9adeb4a685ab | exe  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) |
+| 21.0.8  | 21.0.8+12   | 15/7/2025 | 248477670fdea6951dffcb783ab4769bd36756191baadbf287000cd40e8b823b | msi  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) |
+| 21.0.8  | 21.0.8+12   | 15/7/2025 | 174aaf80b21860657bbc024fcfadf092fc43653a308383ee04b2e5406972cc2a | zip  | [https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip) |
