@@ -1,6 +1,17 @@
 [
   {
     "Version": "140.0.3430.1",
+    "Date": "2025-07-17T00:42:00",
+    "Channel": "Policy",
+    "Expiry": "2025-10-17T00:42:00",
+    "SHA256": "F7853DF9EE6EC5E95BF60B07EB6DF27A60CB2C03E972EC7165AB26E849BD2F3F",
+    "Size": 15.94,
+    "Architecture": "any",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7132eefc-60d5-4693-9f00-a53069aa5496/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "140.0.3430.1",
     "Date": "2025-07-17T00:12:00",
     "Channel": "Dev",
     "Expiry": "2025-10-17T00:12:00",
