@@ -1,33 +1,33 @@
 [
   {
-    "Version": "9.0.302",
+    "Version": "9.0.303",
     "Support": "active",
     "Architecture": "ARM64",
     "Installer": "sdk",
     "Channel": "STS",
-    "Sha512": "cc1c0276e8b900e25a2cabff14ca78bbc21c5712c1bad9e4d551aa2662dd77a666b2926e193b9b598cf2d9f91c1c9e1765371e6b29f68d76c56702ceafdf34db",
+    "Sha512": "83245a1cd4a46c7240e057251c42132139e275b7bc932644a56f390933ef1816dc64fde63ae6376ba62f178058a67ebcabda55aae636179afcb02ff162234845",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.302/dotnet-sdk-9.0.302-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.303/dotnet-sdk-9.0.303-win-arm64.exe"
   },
   {
-    "Version": "9.0.302",
+    "Version": "9.0.303",
     "Support": "active",
     "Architecture": "x64",
     "Installer": "sdk",
     "Channel": "STS",
-    "Sha512": "0cb87affddb63171f9c79033386fef2b1fbef209a7381de46bc94876f4aee475cb2f71b6a074708c4a5a94a0a1a464cb5ba424c572f2550ce562ad0705e3691e",
+    "Sha512": "96653bd5906362e28bdcd35c9a997ef0c34dc0e26e79ab62f5266a2b619ad3d00824dc88de0ae61cbe96f5f2ab86012fac968a85868161b8583881b632cd12af",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.302/dotnet-sdk-9.0.302-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.303/dotnet-sdk-9.0.303-win-x64.exe"
   },
   {
-    "Version": "9.0.302",
+    "Version": "9.0.303",
     "Support": "active",
     "Architecture": "x86",
     "Installer": "sdk",
     "Channel": "STS",
-    "Sha512": "018ebbced95ab79dad05f38ee72b3808e0cbdda0ae84ce358250203798fa50e7f78a45a509bcda8a17bf7b3eab0dcea8f6113bb19400290816f54c919667b7d3",
+    "Sha512": "c126b2b78b68b68843fecb197a3bb5592b57befd29729977689d11da80bf9356feefd3705c664578e1c7e5d554b060c3d1d8b1b3434837b562d524a1662085ac",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.302/dotnet-sdk-9.0.302-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.303/dotnet-sdk-9.0.303-win-x86.exe"
   },
   {
     "Version": "9.0.7",
