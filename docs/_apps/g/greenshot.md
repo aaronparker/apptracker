@@ -3,7 +3,7 @@ title: Greenshot
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Jul 14 2025 at 12:29 PM
+last_modified_date: Jul 18 2025 at 12:43 AM
 ---
 
 ## Greenshot
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
 | ------- | --------- | ------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.3.290 | 23/5/2025 | 4234480 | x86          | Default       | exe  | [https://github.com/greenshot/greenshot/releases/download/v1.3.290/Greenshot-INSTALLER-1.3.290-RELEASE.exe](https://github.com/greenshot/greenshot/releases/download/v1.3.290/Greenshot-INSTALLER-1.3.290-RELEASE.exe) |
+| 1.3.292 | 16/7/2025 | 4233592 | x86          | Default       | exe  | [https://github.com/greenshot/greenshot/releases/download/v1.3.292/Greenshot-INSTALLER-1.3.292-RELEASE.exe](https://github.com/greenshot/greenshot/releases/download/v1.3.292/Greenshot-INSTALLER-1.3.292-RELEASE.exe) |
