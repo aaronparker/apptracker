@@ -2,14 +2,14 @@
   {
     "Version": "4.43.2",
     "Build": "199162",
-    "Size": "589891952",
+    "Size": "592480176",
     "Type": "exe",
     "URI": "https://desktop.docker.com/win/main/amd64/199162/Docker%20Desktop%20Installer.exe"
   },
   {
     "Version": "4.43.2",
     "Build": "199162",
-    "Size": "589891952",
+    "Size": "592480176",
     "Type": "msi",
     "URI": "https://desktop.docker.com/win/main/amd64/199162/DockerDesktop.msi"
   }

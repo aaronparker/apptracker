@@ -1,137 +1,137 @@
 [
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 6569984,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 6582272,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Light.Setup.Arm64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Setup.Arm64.msi"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 70078464,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 70090752,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Setup.Arm64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Setup.Arm64.msi"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 6623232,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 6635520,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Light.Setup.x64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Setup.x64.msi"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 74436608,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 74444800,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Setup.x64.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Setup.x64.msi"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 6569984,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 6582272,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Light.Setup.x86.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Setup.x86.msi"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 69144576,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 69152768,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Setup.x86.msi"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Setup.x86.msi"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 68926589,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 68895355,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Package.arm64.msix"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Package.arm64.msix"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 73155476,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 73156618,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Package.x64.msix"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Package.x64.msix"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 67195478,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 67191534,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msix",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Package.x86.msix"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Package.x86.msix"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 4691447,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 4693967,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Light.Portable.Arm64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Portable.Arm64.zip"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 68139814,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 68142256,
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Portable.Arm64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Portable.Arm64.zip"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 4699640,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 4702851,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Light.Portable.x64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Portable.x64.zip"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 72545530,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 72548564,
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Portable.x64.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Portable.x64.zip"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 4689759,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 4692256,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Light.Portable.x86.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Light.Portable.x86.zip"
   },
   {
-    "Version": "2.41.4",
-    "Date": "16/7/2025",
-    "Size": 67187612,
+    "Version": "2.41.5",
+    "Date": "20/7/2025",
+    "Size": 67188967,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.4/ScreenToGif.2.41.4.Portable.x86.zip"
+    "URI": "https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.5/ScreenToGif.2.41.5.Portable.x86.zip"
   }
 ]
