@@ -12,7 +12,10 @@ last_modified_date: Jul 2 2025 at 12:51 AM
 
 Evergreen app: `Praat`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 301 (Moved Permanently).
+```
 
 | Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
 | ------- | -------- | -------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

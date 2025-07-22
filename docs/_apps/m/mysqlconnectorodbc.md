@@ -3,7 +3,7 @@ title: mySQL Connector ODCB
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jun 16 2025 at 12:54 AM
+last_modified_date: Jul 22 2025 at 12:30 PM
 ---
 
 ## mySQL Connector ODCB
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                  |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.3.0   | x64          | msi  | [https://cdn.mysql.com/Downloads/Connector-ODBC/9.3/mysql-connector-odbc-9.3.0-winx64.msi](https://cdn.mysql.com/Downloads/Connector-ODBC/9.3/mysql-connector-odbc-9.3.0-winx64.msi) |
+| 9.4.0   | x64          | msi  | [https://cdn.mysql.com/Downloads/Connector-ODBC/9.4/mysql-connector-odbc-9.4.0-winx64.msi](https://cdn.mysql.com/Downloads/Connector-ODBC/9.4/mysql-connector-odbc-9.4.0-winx64.msi) |
