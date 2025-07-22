@@ -2,7 +2,7 @@
   {
     "Version": "1.39.1",
     "Date": "16/6/2025",
-    "Size": 148793200,
+    "Size": 148858664,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -11,7 +11,7 @@
   {
     "Version": "1.39.1",
     "Date": "16/6/2025",
-    "Size": 155419672,
+    "Size": 155395696,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
