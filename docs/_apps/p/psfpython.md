@@ -3,7 +3,7 @@ title: PSF Python
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jul 1 2025 at 12:49 AM
+last_modified_date: Jul 23 2025 at 12:44 AM
 ---
 
 ## PSF Python
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Python | md5                              | Size     | Date      | Type | Architecture | URI                                                                                                                                              |
 | ------- | ------ | -------------------------------- | -------- | --------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 25.0    | 100    | 0D4E06D5EA1AF197D04867B27C28CF74 | 9805824  | 30/6/2025 | msi  | x86          | [https://www.python.org/ftp/python/pymanager/python-manager-25.0b11.msi](https://www.python.org/ftp/python/pymanager/python-manager-25.0b11.msi) |
+| 25.0    | 100    | 6DDF9178DA8D85F2024FDCE80ABF7EF1 | 9875456  | 22/7/2025 | msi  | x86          | [https://www.python.org/ftp/python/pymanager/python-manager-25.0b12.msi](https://www.python.org/ftp/python/pymanager/python-manager-25.0b12.msi) |
 | 3.13.5  | 3      | 75b8a99cfd9fd5c15771b598bc067385 | 28090072 | 11/6/2025 | exe  | ARM64        | [https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.exe](https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.exe)             |
 | 3.13.5  | 3      | da9f24ae94e5b3491f3d92b07d34cc72 | 28838672 | 11/6/2025 | exe  | x64          | [https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe)             |
 | 3.13.5  | 3      | d3898d8ea3a1524b043458311446c0b3 | 27485408 | 11/6/2025 | exe  | x86          | [https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe](https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe)                         |
