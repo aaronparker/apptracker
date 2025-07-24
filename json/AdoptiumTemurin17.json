@@ -20,23 +20,23 @@
     "URI": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.16_8.msi"
   },
   {
-    "Version": "17.0.15+6",
-    "Date": "2025-04-23T16:40:31Z",
+    "Version": "17.0.16+8",
+    "Date": "2025-07-23T17:35:07Z",
     "ImageType": "jdk",
-    "Checksum": "5c3fdc60d120714955f2ba899e4f3791060fc3c4e5c6d3849dead5b7c1a3a591",
-    "Size": 164438016,
+    "Checksum": "3e3516535d75af5fa14471300980ca86be209ed7fbf31a3c24c6f5c5c96ffc50",
+    "Size": 164331520,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_6.msi"
+    "URI": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.16_8.msi"
   },
   {
-    "Version": "17.0.15+6",
-    "Date": "2025-04-23T16:40:38Z",
+    "Version": "17.0.16+8",
+    "Date": "2025-07-23T17:34:26Z",
     "ImageType": "jre",
-    "Checksum": "feea5223975c67e69a3835123eb136a2875ab03c8571c31dc1288f65544a6577",
-    "Size": 29089792,
+    "Checksum": "47ac8df108d911103a053880a401fc18302b4b9a098814436716deba86cdfb76",
+    "Size": 28979200,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.15_6.msi"
+    "URI": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.16_8.msi"
   }
 ]
