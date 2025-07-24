@@ -3,7 +3,7 @@ title: Telerik Fiddler Everywhere
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Jul 8 2025 at 12:27 PM
+last_modified_date: Jul 24 2025 at 12:30 PM
 ---
 
 ## Telerik Fiddler Everywhere
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7.0.0   | [https://downloads.getfiddler.com/win/Fiddler%20Everywhere%207.0.0.exe](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%207.0.0.exe) |
+| 7.1.0   | [https://downloads.getfiddler.com/win/Fiddler%20Everywhere%207.1.0.exe](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%207.1.0.exe) |
