@@ -3,7 +3,7 @@ title: Red Hat OpenJDK 8
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: Apr 19 2025 at 12:32 PM
+last_modified_date: Jul 24 2025 at 12:46 AM
 ---
 
 ## Red Hat OpenJDK 8
@@ -14,6 +14,6 @@ Evergreen app: `RedHatOpenJDK8`. Found **1** installer.
 
 Last check: 🟢
 
-| Version      | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                          |
-| ------------ | ------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| jdk8u452-b09 | 04/16/2025 17:49:15 | jdk       | x64          | msi  | [https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2025/java-1.8.0-openjdk-1.8.0.452.b09-1.win.x86_64.msi](https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/April_2025/java-1.8.0-openjdk-1.8.0.452.b09-1.win.x86_64.msi) |
+| Version      | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                        |
+| ------------ | ------------------- | --------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| jdk8u462-b08 | 07/22/2025 17:08:33 | jdk       | x64          | msi  | [https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/July_2025/java-1.8.0-openjdk-1.8.0.462.b08-2.win.x86_64.msi](https://developers.redhat.com/content-gateway/file/pub/openjdk/adoptium/July_2025/java-1.8.0-openjdk-1.8.0.462.b08-2.win.x86_64.msi) |
