@@ -3,7 +3,7 @@ title: Scooter Beyond Compare
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Jul 23 2025 at 12:44 AM
+last_modified_date: Jul 25 2025 at 12:44 AM
 ---
 
 ## Scooter Beyond Compare
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version     | Language             | Architecture | Type | URI                                                                                                                        |
 | ----------- | -------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------- |
-| 5.1.1.31157 | Chinese (Simplified) | x86          | exe  | [https://www.scootersoftware.com/BCompare-zh-5.1.1.31157.exe](https://www.scootersoftware.com/BCompare-zh-5.1.1.31157.exe) |
-| 5.1.1.31157 | English              | x86          | exe  | [https://www.scootersoftware.com/BCompare-5.1.1.31157.exe](https://www.scootersoftware.com/BCompare-5.1.1.31157.exe)       |
-| 5.1.1.31157 | French               | x86          | exe  | [https://www.scootersoftware.com/BCompare-fr-5.1.1.31157.exe](https://www.scootersoftware.com/BCompare-fr-5.1.1.31157.exe) |
-| 5.1.1.31157 | German               | x86          | exe  | [https://www.scootersoftware.com/BCompare-de-5.1.1.31157.exe](https://www.scootersoftware.com/BCompare-de-5.1.1.31157.exe) |
-| 5.1.1.31157 | Japanese             | x86          | exe  | [https://www.scootersoftware.com/BCompare-jp-5.1.1.31157.exe](https://www.scootersoftware.com/BCompare-jp-5.1.1.31157.exe) |
+| 5.1.2.31185 | Chinese (Simplified) | x86          | exe  | [https://www.scootersoftware.com/BCompare-zh-5.1.2.31185.exe](https://www.scootersoftware.com/BCompare-zh-5.1.2.31185.exe) |
+| 5.1.2.31185 | English              | x86          | exe  | [https://www.scootersoftware.com/BCompare-5.1.2.31185.exe](https://www.scootersoftware.com/BCompare-5.1.2.31185.exe)       |
+| 5.1.2.31185 | French               | x86          | exe  | [https://www.scootersoftware.com/BCompare-fr-5.1.2.31185.exe](https://www.scootersoftware.com/BCompare-fr-5.1.2.31185.exe) |
+| 5.1.2.31185 | German               | x86          | exe  | [https://www.scootersoftware.com/BCompare-de-5.1.2.31185.exe](https://www.scootersoftware.com/BCompare-de-5.1.2.31185.exe) |
+| 5.1.2.31185 | Japanese             | x86          | exe  | [https://www.scootersoftware.com/BCompare-jp-5.1.2.31185.exe](https://www.scootersoftware.com/BCompare-jp-5.1.2.31185.exe) |
