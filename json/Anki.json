@@ -1,11 +1,11 @@
 [
   {
-    "Version": "25.07.4",
-    "Date": "24/7/2025",
-    "Size": 12600432,
+    "Version": "25.07.5",
+    "Date": "25/7/2025",
+    "Size": 12596136,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ankitects/anki/releases/download/25.07.4/anki-launcher-25.07.4-windows.exe"
+    "URI": "https://github.com/ankitects/anki/releases/download/25.07.5/anki-launcher-25.07.5-windows.exe"
   }
 ]
