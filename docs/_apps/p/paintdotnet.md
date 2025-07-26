@@ -12,7 +12,10 @@ last_modified_date: May 20 2025 at 12:30 PM
 
 Evergreen app: `PaintDotNet`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 409 (Conflict).
+```
 
 | Version          | Channel | Architecture | URI                                                                                                                                                                                                              |
 | ---------------- | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
