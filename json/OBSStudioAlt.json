@@ -1,47 +1,47 @@
 [
   {
-    "Version": "31.1.1",
-    "Date": "12/7/2025",
-    "Size": 157333080,
+    "Version": "31.1.2",
+    "Date": "25/7/2025",
+    "Size": 157291928,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.1/OBS-Studio-31.1.1-Windows-x64-Installer.exe"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.2/OBS-Studio-31.1.2-Windows-x64-Installer.exe"
   },
   {
-    "Version": "31.1.1",
-    "Date": "12/7/2025",
-    "Size": 52890188,
+    "Version": "31.1.2",
+    "Date": "25/7/2025",
+    "Size": 52901156,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.1/OBS-Studio-31.1.1-Windows-arm64-PDBs.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.2/OBS-Studio-31.1.2-Windows-arm64-PDBs.zip"
   },
   {
-    "Version": "31.1.1",
-    "Date": "12/7/2025",
-    "Size": 162940899,
+    "Version": "31.1.2",
+    "Date": "25/7/2025",
+    "Size": 162960164,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.1/OBS-Studio-31.1.1-Windows-arm64.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.2/OBS-Studio-31.1.2-Windows-arm64.zip"
   },
   {
-    "Version": "31.1.1",
-    "Date": "12/7/2025",
-    "Size": 59733653,
+    "Version": "31.1.2",
+    "Date": "25/7/2025",
+    "Size": 59869935,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.1/OBS-Studio-31.1.1-Windows-x64-PDBs.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.2/OBS-Studio-31.1.2-Windows-x64-PDBs.zip"
   },
   {
-    "Version": "31.1.1",
-    "Date": "12/7/2025",
-    "Size": 183826016,
+    "Version": "31.1.2",
+    "Date": "25/7/2025",
+    "Size": 183785050,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.1/OBS-Studio-31.1.1-Windows-x64.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/31.1.2/OBS-Studio-31.1.2-Windows-x64.zip"
   }
 ]
