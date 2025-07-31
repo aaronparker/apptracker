@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2503",
-    "ReleaseDate": "2025-04-15T00:00:00",
-    "Md5": "d41b23666c0ccacb88f866adb69a14d5",
-    "Sha256": "dfdf6d877079e2b685b486e93380fe659126808dc8affa15d9f3c73dc7a4da89",
-    "Size": "15.87 MB",
-    "Type": "exe",
-    "URI": "https://download2.omnissa.com/software/CART_OSOT_1_2_HZN_2503/OmnissaHorizonOSOptimizationTool-x86_64-1.2.2503.14374004267.exe"
+    "Version": "2506",
+    "ReleaseDate": "2025-07-31T00:00:00",
+    "Md5": "9f2b49db15733a7d7dfb341ea6b072d9",
+    "Sha256": "932e193e5ba8034670cd39b4df1ba9f96a532312a3b063e4e14ef6eb40ed6fdd",
+    "Size": "226.76 KB",
+    "Type": "zip",
+    "URI": "https://download2.omnissa.com/software/CART_OSOT_1_2_MDTP_2506/OmnissaHorizonOSOptimizationMDTPlugin-x86_64-1.2.2506.16600126121.zip"
   }
 ]
