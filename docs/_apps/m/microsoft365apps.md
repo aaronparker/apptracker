@@ -3,7 +3,7 @@ title: Microsoft 365 Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 29 2025 at 12:51 AM
+last_modified_date: Jul 31 2025 at 12:47 AM
 ---
 
 ## Microsoft 365 Apps
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version          | ReleaseVersion | Channel           | Name                                     | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | ---------------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
+| 16.0.19029.20136 | 2507           | Current           | Current Channel                          | 07/30/2025 15:13:25 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.19029.20136 | 2507           | CurrentPreview    | Current Channel (Preview)                | 07/28/2025 15:45:21 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.18925.20184 | 2506           | Current           | Current Channel                          | 07/22/2025 20:46:13 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.18827.20202 | 2505           | MonthlyEnterprise | Monthly Enterprise Channel               | 07/08/2025 13:11:29 | 09/09/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.18526.20472 | 2502           | SemiAnnual        | Semi-Annual Enterprise Channel           | 07/08/2025 13:18:13 | 09/08/2026 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.18526.20472 | 2502           | SemiAnnualPreview | Semi-Annual Enterprise Channel (Preview) | 07/08/2025 13:17:51 | 09/09/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
