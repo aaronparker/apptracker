@@ -1,20 +1,20 @@
 [
   {
-    "Version": "5.108.9270.41195",
+    "Version": "5.109.9343.2610",
     "Channel": "stable",
     "Architecture": "anycpu",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.8/paint.net.5.1.8.install.anycpu.web.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.anycpu.web.zip"
   },
   {
-    "Version": "5.108.9270.41195",
+    "Version": "5.109.9343.2610",
     "Channel": "stable",
     "Architecture": "arm64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.8/paint.net.5.1.8.install.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.arm64.zip"
   },
   {
-    "Version": "5.108.9270.41195",
+    "Version": "5.109.9343.2610",
     "Channel": "stable",
     "Architecture": "x64",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.8/paint.net.5.1.8.install.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.x64.zip"
   }
 ]
