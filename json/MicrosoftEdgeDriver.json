@@ -18,22 +18,22 @@
     "URI": "https://msedgedriver.azureedge.net/140.0.3456.0/edgedriver_win32.zip"
   },
   {
-    "Version": "139.0.3405.64",
+    "Version": "139.0.3405.73",
     "Channel": "Beta",
     "Architecture": "arm64",
-    "URI": "https://msedgedriver.azureedge.net/139.0.3405.64/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.azureedge.net/139.0.3405.73/edgedriver_arm64.zip"
   },
   {
-    "Version": "139.0.3405.64",
+    "Version": "139.0.3405.73",
     "Channel": "Beta",
     "Architecture": "x64",
-    "URI": "https://msedgedriver.azureedge.net/139.0.3405.64/edgedriver_win64.zip"
+    "URI": "https://msedgedriver.azureedge.net/139.0.3405.73/edgedriver_win64.zip"
   },
   {
-    "Version": "139.0.3405.64",
+    "Version": "139.0.3405.73",
     "Channel": "Beta",
     "Architecture": "x86",
-    "URI": "https://msedgedriver.azureedge.net/139.0.3405.64/edgedriver_win32.zip"
+    "URI": "https://msedgedriver.azureedge.net/139.0.3405.73/edgedriver_win32.zip"
   },
   {
     "Version": "138.0.3351.121",
