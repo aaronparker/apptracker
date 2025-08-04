@@ -1,20 +1,38 @@
 [
   {
-    "Version": "12.1.0",
-    "Date": "3/7/2022",
-    "Size": 43585536,
+    "Version": "13.0.0",
+    "Date": "3/8/2025",
+    "Size": 26161152,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/Flameshot-12.1.0-win64.msi"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.0.0/Flameshot-13.0.0-win64.msi"
   },
   {
-    "Version": "12.1.0",
-    "Date": "3/7/2022",
-    "Size": 46043249,
+    "Version": "13.0.0",
+    "Date": "3/8/2025",
+    "Size": 710043,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-win64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.0.0/flameshot-%2Bgit0.a29fada-artifact-fedora-41-x86_64.zip"
+  },
+  {
+    "Version": "13.0.0",
+    "Date": "3/8/2025",
+    "Size": 714923,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.0.0/flameshot-%2Bgit0.a29fada-artifact-fedora-42-x86_64.zip"
+  },
+  {
+    "Version": "13.0.0",
+    "Date": "3/8/2025",
+    "Size": 9938033,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.0.0/flameshot-%2Bgit0.a29fada-artifact-flatpak-x86_64.zip"
   }
 ]
