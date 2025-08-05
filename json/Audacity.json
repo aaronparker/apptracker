@@ -1,20 +1,29 @@
 [
   {
-    "Version": "3.7.4",
-    "Date": "10/6/2025",
-    "Size": 17956840,
+    "Version": "3.7.5",
+    "Date": "4/8/2025",
+    "Size": 17689656,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-arm64.exe"
+  },
+  {
+    "Version": "3.7.5",
+    "Date": "4/8/2025",
+    "Size": 18058920,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.4/audacity-win-3.7.4-64bit.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-64bit.exe"
   },
   {
-    "Version": "3.7.4",
-    "Date": "10/6/2025",
-    "Size": 16503472,
+    "Version": "3.7.5",
+    "Date": "4/8/2025",
+    "Size": 16575504,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.4/audacity-win-3.7.4-32bit.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-32bit.exe"
   }
 ]
