@@ -1,19 +1,19 @@
 [
   {
-    "Version": "140.0.7339.0",
+    "Version": "140.0.7339.2",
     "Revision": "1496484",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.0/win64/chrome-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.2/win64/chrome-win64.zip"
   },
   {
-    "Version": "140.0.7339.0",
+    "Version": "140.0.7339.2",
     "Revision": "1496484",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.0/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.2/win32/chrome-win32.zip"
   },
   {
     "Version": "140.0.7327.6",
@@ -42,25 +42,25 @@
   {
     "Version": "139.0.7258.66",
     "Revision": "1477651",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win64/chrome-win64.zip"
+  },
+  {
+    "Version": "139.0.7258.66",
+    "Revision": "1477651",
     "Channel": "Beta",
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win32/chrome-win32.zip"
   },
   {
-    "Version": "138.0.7204.183",
-    "Revision": "1465706",
-    "Channel": "Stable",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win64/chrome-win64.zip"
-  },
-  {
-    "Version": "138.0.7204.183",
-    "Revision": "1465706",
+    "Version": "139.0.7258.66",
+    "Revision": "1477651",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chrome-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win32/chrome-win32.zip"
   }
 ]
