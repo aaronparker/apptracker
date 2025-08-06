@@ -3,7 +3,7 @@ title: Microsoft OpenJDK 17
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: May 13 2025 at 12:48 AM
+last_modified_date: Aug 6 2025 at 12:56 AM
 ---
 
 ## Microsoft OpenJDK 17
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                                                                                                |
 | --------- | ------------------- | --------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.0.15+6 | 05/08/2025 11:00:00 | jdk       | ARM64        | msi  | [https://download.visualstudio.microsoft.com/download/pr/2402ca63-36ec-4864-9de9-f71cde78c7e1/95e23c0912874febf3de7c24ada1380e/microsoft-jdk-17.0.15-windows-aarch64.msi](https://download.visualstudio.microsoft.com/download/pr/2402ca63-36ec-4864-9de9-f71cde78c7e1/95e23c0912874febf3de7c24ada1380e/microsoft-jdk-17.0.15-windows-aarch64.msi) |
-| 17.0.15+6 | 05/08/2025 11:00:00 | jdk       | x64          | msi  | [https://download.visualstudio.microsoft.com/download/pr/2402ca63-36ec-4864-9de9-f71cde78c7e1/1db58cc32022f3db36c1c8b4b527e304/microsoft-jdk-17.0.15-windows-x64.msi](https://download.visualstudio.microsoft.com/download/pr/2402ca63-36ec-4864-9de9-f71cde78c7e1/1db58cc32022f3db36c1c8b4b527e304/microsoft-jdk-17.0.15-windows-x64.msi)         |
+| 17.0.16+8 | 08/04/2025 11:00:00 | jdk       | ARM64        | msi  | [https://download.visualstudio.microsoft.com/download/pr/d6541287-cca1-4bb5-b707-d1830b11e658/e6df1ac7f1df4ccce30302e1ab692c5d/microsoft-jdk-17.0.16-windows-aarch64.msi](https://download.visualstudio.microsoft.com/download/pr/d6541287-cca1-4bb5-b707-d1830b11e658/e6df1ac7f1df4ccce30302e1ab692c5d/microsoft-jdk-17.0.16-windows-aarch64.msi) |
+| 17.0.16+8 | 08/04/2025 11:00:00 | jdk       | x64          | msi  | [https://download.visualstudio.microsoft.com/download/pr/73ca8d57-4705-435a-8d56-ed9624332745/86c5df881150424ac61bd0d1da708330/microsoft-jdk-17.0.16-windows-x64.msi](https://download.visualstudio.microsoft.com/download/pr/73ca8d57-4705-435a-8d56-ed9624332745/86c5df881150424ac61bd0d1da708330/microsoft-jdk-17.0.16-windows-x64.msi)         |
