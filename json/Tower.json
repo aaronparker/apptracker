@@ -4,27 +4,27 @@
     "Channel": "beta",
     "sha1": "F0A8B9CE0E488EBF14F70169228E13A10B952572",
     "Type": "exe",
-    "URI": "https://fournova-app-updates.s3.eu-west-1.amazonaws.com/apps/tower3-win/522-0644f276/Tower-9.1.522.exe"
+    "URI": "https://www.git-tower.com/apps/tower3-win/522-0644f276/Tower-9.1.522.exe"
   },
   {
     "Version": "9.1.522",
     "Channel": "stable",
     "sha1": "F0A8B9CE0E488EBF14F70169228E13A10B952572",
     "Type": "exe",
-    "URI": "https://fournova-app-updates.s3.eu-west-1.amazonaws.com/apps/tower3-win/522-0644f276/Tower-9.1.522.exe"
+    "URI": "https://www.git-tower.com/apps/tower3-win/522-0644f276/Tower-9.1.522.exe"
   },
   {
     "Version": "9.1.522",
     "Channel": "beta",
     "sha1": "11F1F7280F0867547C5657DA9057AD28B801189D",
     "Type": "msi",
-    "URI": "https://fournova-app-updates.s3.eu-west-1.amazonaws.com/apps/tower3-win/522-0644f276/Tower-9.1.522.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/522-0644f276/Tower-9.1.522.msi"
   },
   {
     "Version": "9.1.522",
     "Channel": "stable",
     "sha1": "11F1F7280F0867547C5657DA9057AD28B801189D",
     "Type": "msi",
-    "URI": "https://fournova-app-updates.s3.eu-west-1.amazonaws.com/apps/tower3-win/522-0644f276/Tower-9.1.522.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/522-0644f276/Tower-9.1.522.msi"
   }
 ]
