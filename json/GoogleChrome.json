@@ -1,11 +1,27 @@
 [
   {
-    "Version": "141.0.7342.0",
+    "Version": "141.0.7343.0",
     "Channel": "Canary",
     "StartDate": "7/8/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
+  },
+  {
+    "Version": "141.0.7340.0",
+    "Channel": "Dev",
+    "StartDate": "7/8/2025",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "141.0.7340.0",
+    "Channel": "Dev",
+    "StartDate": "7/8/2025",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "140.0.7339.5",
@@ -22,22 +38,6 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "140.0.7327.6",
-    "Channel": "Dev",
-    "StartDate": "31/7/2025",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
-  },
-  {
-    "Version": "140.0.7327.6",
-    "Channel": "Dev",
-    "StartDate": "31/7/2025",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "139.0.7258.67",
@@ -74,7 +74,7 @@
   {
     "Version": "138.0.7204.224",
     "Channel": "Extended",
-    "StartDate": "5/8/2025",
+    "StartDate": "7/8/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
@@ -82,7 +82,7 @@
   {
     "Version": "138.0.7204.224",
     "Channel": "Extended",
-    "StartDate": "5/8/2025",
+    "StartDate": "7/8/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"

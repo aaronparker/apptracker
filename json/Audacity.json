@@ -2,7 +2,7 @@
   {
     "Version": "3.7.5",
     "Date": "4/8/2025",
-    "Size": 17689656,
+    "Size": 17684472,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -11,7 +11,7 @@
   {
     "Version": "3.7.5",
     "Date": "4/8/2025",
-    "Size": 18058920,
+    "Size": 18056152,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -20,7 +20,7 @@
   {
     "Version": "3.7.5",
     "Date": "4/8/2025",
-    "Size": 16575504,
+    "Size": 16574912,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
