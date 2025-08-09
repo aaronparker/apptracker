@@ -12,7 +12,10 @@ last_modified_date: Jun 11 2025 at 12:49 AM
 
 Evergreen app: `ThoriumReader`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
