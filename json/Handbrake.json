@@ -1,74 +1,74 @@
 [
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 17632832,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 18201376,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-arm64-Win_GUI.exe"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/HandBrake-1.10.0-arm64-Win_GUI.exe"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 24281072,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 24303992,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-x86_64-Win_GUI.exe"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/HandBrake-1.10.0-x86_64-Win_GUI.exe"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 26104373,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 27090462,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-arm64-Win_GUI.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/HandBrake-1.10.0-arm64-Win_GUI.zip"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 17177971,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 18147495,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrakeCLI-1.9.2-win-aarch64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/HandBrakeCLI-1.10.0-win-aarch64.zip"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 17455522,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 18414778,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/LibHB-1.9.2-win-aarch64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/LibHB-1.10.0-win-aarch64.zip"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 33366316,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 33444576,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-x86_64-Win_GUI.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/HandBrake-1.10.0-x86_64-Win_GUI.zip"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 22735078,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 22664370,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrakeCLI-1.9.2-win-x86_64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/HandBrakeCLI-1.10.0-win-x86_64.zip"
   },
   {
-    "Version": "1.9.2",
-    "Date": "23/2/2025",
-    "Size": 23239095,
+    "Version": "1.10.0",
+    "Date": "9/8/2025",
+    "Size": 23169468,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/LibHB-1.9.2-win-x86_64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.0/LibHB-1.10.0-win-x86_64.zip"
   }
 ]

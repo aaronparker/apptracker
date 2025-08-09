@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.3.2",
-    "Date": "19/7/2025",
-    "Size": 13631168,
+    "Version": "3.3.3",
+    "Date": "9/8/2025",
+    "Size": 13645472,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.3.2/DaxStudio_3_3_2_setup.exe"
+    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.3.3/DaxStudio_3_3_3_setup.exe"
   },
   {
-    "Version": "3.3.2",
-    "Date": "19/7/2025",
-    "Size": 21326018,
+    "Version": "3.3.3",
+    "Date": "9/8/2025",
+    "Size": 21347670,
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.3.2/DaxStudio_3_3_2_portable.zip"
+    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.3.3/DaxStudio_3_3_3_portable.zip"
   }
 ]
