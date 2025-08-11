@@ -1,38 +1,29 @@
 [
   {
-    "Version": "24.09",
-    "Date": "26/2/2025",
-    "Size": 2985268,
+    "Version": "25.01",
+    "Date": "6/8/2025",
+    "Size": 2915274,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v24.09-v1.5.7-R1/7z24.09-zstd-arm.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R1/7z25.01-zstd-arm64.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "26/2/2025",
-    "Size": 2879229,
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v24.09-v1.5.7-R1/7z24.09-zstd-arm64.exe"
-  },
-  {
-    "Version": "24.09",
-    "Date": "26/2/2025",
-    "Size": 3036304,
+    "Version": "25.01",
+    "Date": "6/8/2025",
+    "Size": 3058093,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v24.09-v1.5.7-R1/7z24.09-zstd-x64.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R1/7z25.01-zstd-x64.exe"
   },
   {
-    "Version": "24.09",
-    "Date": "26/2/2025",
-    "Size": 2731790,
+    "Version": "25.01",
+    "Date": "6/8/2025",
+    "Size": 2769865,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v24.09-v1.5.7-R1/7z24.09-zstd-x32.exe"
+    "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R1/7z25.01-zstd-x32.exe"
   }
 ]
