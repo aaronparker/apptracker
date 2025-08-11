@@ -3,7 +3,7 @@ title: NETworkManager
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Jan 19 2025 at 12:23 PM
+last_modified_date: Aug 11 2025 at 01:02 AM
 ---
 
 ## NETworkManager
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version     | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                    |
 | ----------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.1.18.0 | 18/1/2025 | 24686592 | x86          | Default       | msi  | [https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.1.18.0/NETworkManager_2025.1.18.0_Setup.msi](https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.1.18.0/NETworkManager_2025.1.18.0_Setup.msi) |
+| 2025.8.10.0 | 10/8/2025 | 24756224 | x86          | Default       | msi  | [https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.8.10.0/NETworkManager_2025.8.10.0_Setup.msi](https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.8.10.0/NETworkManager_2025.8.10.0_Setup.msi) |
