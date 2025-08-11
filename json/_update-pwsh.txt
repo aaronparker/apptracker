@@ -1,5 +1,0 @@
-json/7ZipZS.json
-json/Gimp.json
-json/GoogleChrome.json
-json/NETworkManager.json
-json/VideoLanVlcPlayer.json
