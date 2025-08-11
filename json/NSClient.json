@@ -1,20 +1,20 @@
 [
   {
-    "Version": "0.9.12",
-    "Date": "21/7/2025",
+    "Version": "0.9.13",
+    "Date": "11/8/2025",
     "Size": 36048896,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.9.12/NSCP-0.9.12-x64.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.9.13/NSCP-0.9.13-x64.msi"
   },
   {
-    "Version": "0.9.12",
-    "Date": "21/7/2025",
-    "Size": 29028352,
+    "Version": "0.9.13",
+    "Date": "11/8/2025",
+    "Size": 29040640,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.9.12/NSCP-0.9.12-Win32.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.9.13/NSCP-0.9.13-Win32.msi"
   }
 ]

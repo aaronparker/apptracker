@@ -1,20 +1,20 @@
 [
   {
-    "Version": "3.1.0",
-    "Date": "17/2/2025",
-    "Size": 105787008,
+    "Version": "3.2.1",
+    "Date": "11/8/2025",
+    "Size": 107412816,
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/edrlab/thorium-reader/releases/download/v3.1.0/Thorium.Setup.3.1.0-arm64.exe"
+    "URI": "https://github.com/edrlab/thorium-reader/releases/download/v3.2.1/Thorium.Setup.3.2.1-arm64.exe"
   },
   {
-    "Version": "3.1.0",
-    "Date": "17/2/2025",
-    "Size": 107307224,
+    "Version": "3.2.1",
+    "Date": "11/8/2025",
+    "Size": 113838976,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/edrlab/thorium-reader/releases/download/v3.1.0/Thorium.Setup.3.1.0.exe"
+    "URI": "https://github.com/edrlab/thorium-reader/releases/download/v3.2.1/Thorium.Setup.3.2.1.exe"
   }
 ]
