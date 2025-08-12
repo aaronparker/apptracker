@@ -1,10 +1,10 @@
 [
   {
-    "Version": "3.0.0",
-    "Date": "23/7/2025",
-    "Size": 103567368,
+    "Version": "3.1.0",
+    "Date": "11/8/2025",
+    "Size": 103583608,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.proxyman.com/windows/3.0.0/build/Proxyman+Setup+3.0.0.exe"
+    "URI": "https://download.proxyman.com/windows/3.1.0/build/Proxyman+Setup+3.1.0.exe"
   }
 ]
