@@ -3,7 +3,7 @@ title: Proxyman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jul 23 2025 at 12:20 PM
+last_modified_date: Aug 12 2025 at 12:55 AM
 ---
 
 ## Proxyman
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Architecture | Type | URI                                                                                                                                                      |
 | ------- | --------- | --------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0.0   | 23/7/2025 | 103567368 | x86          | exe  | [https://download.proxyman.com/windows/3.0.0/build/Proxyman+Setup+3.0.0.exe](https://download.proxyman.com/windows/3.0.0/build/Proxyman+Setup+3.0.0.exe) |
+| 3.1.0   | 11/8/2025 | 103583608 | x86          | exe  | [https://download.proxyman.com/windows/3.1.0/build/Proxyman+Setup+3.1.0.exe](https://download.proxyman.com/windows/3.1.0/build/Proxyman+Setup+3.1.0.exe) |
