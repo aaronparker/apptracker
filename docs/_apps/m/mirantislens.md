@@ -3,7 +3,7 @@ title: MirantisLens
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 2 2025 at 12:19 PM
+last_modified_date: Aug 13 2025 at 12:31 PM
 ---
 
 ## MirantisLens
@@ -17,4 +17,4 @@ Last check: 🟢
 | Version              | Architecture | Release | Date                | Size      | Sha512                                                                                   | URI                                                                                                                                                    |
 | -------------------- | ------------ | ------- | ------------------- | --------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2025.1.151935-alpha  | x64          | Alpha   | 01/15/2025 20:30:03 | 293887944 | acNdyEdBLEKPndAWugwy0nvM7H5PaPTB9g3M3xfDZCbfQAad/hOiJgDf5XN9pU0rOIcBSo0DTUJD44uDRxAYzQ== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202025.1.151935-alpha.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202025.1.151935-alpha.exe)   |
-| 2025.6.261308-latest | x64          | Stable  | 06/26/2025 14:33:55 | 404713680 | t6FFQEJBcFxOxeMk4M0ym01lOdmnDMOg9HhiOamJpUvnUypLpyU2eeCTZ2a3rDg8UlUTNdYV3fkil1Oi73SyXQ== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202025.6.261308-latest.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202025.6.261308-latest.exe) |
+| 2025.8.121212-latest | x64          | Stable  | 08/12/2025 13:42:51 | 403860672 | shtXozivXBZCScCsHh1mdKyNtCtaeGBMi6H0fHX63RjjPGQqZh25BH+r4BtlHZTyi2rzswKS2b+evAkDO/YNZg== | [https://downloads.k8slens.dev/ide/Lens%20Setup%202025.8.121212-latest.exe](https://downloads.k8slens.dev/ide/Lens%20Setup%202025.8.121212-latest.exe) |
