@@ -1,21 +1,21 @@
 [
   {
-    "Version": "7.1.12",
+    "Version": "7.2.0",
     "Channel": "LATEST",
     "Type": "exe",
-    "URI": "https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.exe"
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.0/VirtualBox-7.2.0-170228-Win.exe"
+  },
+  {
+    "Version": "7.2.0",
+    "Channel": "LATEST",
+    "Type": "iso",
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.0/VBoxGuestAdditions_7.2.0.iso"
   },
   {
     "Version": "7.1.12",
     "Channel": "STABLE",
     "Type": "exe",
     "URI": "https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.exe"
-  },
-  {
-    "Version": "7.1.12",
-    "Channel": "LATEST",
-    "Type": "iso",
-    "URI": "https://download.virtualbox.org/virtualbox/7.1.12/VBoxGuestAdditions_7.1.12.iso"
   },
   {
     "Version": "7.1.12",
