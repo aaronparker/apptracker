@@ -3,7 +3,7 @@ title: Microsoft Outlook
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 15 2025 at 12:54 AM
+last_modified_date: Aug 14 2025 at 12:44 AM
 ---
 
 ## Microsoft Outlook
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version        | Date     | Size     | Language | Architecture | Type | URI                                                                                                                                                                                                                              |
 | -------------- | -------- | -------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2025.702.500 | 3/7/2025 | 16120594 | Neutral  | ARM64        | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.702.500/Microsoft.OutlookForWindows_arm64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.702.500/Microsoft.OutlookForWindows_arm64.msix) |
-| 1.2025.702.500 | 3/7/2025 | 19650362 | Neutral  | x64          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.702.500/Microsoft.OutlookForWindows_x64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.702.500/Microsoft.OutlookForWindows_x64.msix)     |
-| 1.2025.702.500 | 3/7/2025 | 18287727 | Neutral  | x86          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.702.500/Microsoft.OutlookForWindows_x86.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.702.500/Microsoft.OutlookForWindows_x86.msix)     |
+| 1.2025.806.300 | 6/8/2025 | 16390784 | Neutral  | ARM64        | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.806.300/Microsoft.OutlookForWindows_arm64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.806.300/Microsoft.OutlookForWindows_arm64.msix) |
+| 1.2025.806.300 | 6/8/2025 | 20131608 | Neutral  | x64          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.806.300/Microsoft.OutlookForWindows_x64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.806.300/Microsoft.OutlookForWindows_x64.msix)     |
+| 1.2025.806.300 | 6/8/2025 | 18774309 | Neutral  | x86          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.806.300/Microsoft.OutlookForWindows_x86.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.806.300/Microsoft.OutlookForWindows_x86.msix)     |
