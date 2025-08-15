@@ -1,12 +1,12 @@
 [
   {
-    "Version": "8.3.3103",
+    "Version": "8.3.3123",
     "Architecture": "x64",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3103-x64.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3123-x64.msi"
   },
   {
-    "Version": "8.3.3103",
+    "Version": "8.3.3123",
     "Architecture": "x86",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3103.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3123.msi"
   }
 ]
