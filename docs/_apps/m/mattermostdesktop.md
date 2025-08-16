@@ -3,7 +3,7 @@ title: Mattermost Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: May 30 2025 at 12:41 AM
+last_modified_date: Aug 16 2025 at 12:41 AM
 ---
 
 ## Mattermost Desktop
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                              |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.12.1  | exe  | x86          | [https://releases.mattermost.com/desktop/5.12.1/mattermost-desktop-setup-5.12.1-win.exe](https://releases.mattermost.com/desktop/5.12.1/mattermost-desktop-setup-5.12.1-win.exe) |
-| 5.12.1  | msi  | x64          | [https://releases.mattermost.com/desktop/5.12.1/mattermost-desktop-5.12.1-win-x64.msi](https://releases.mattermost.com/desktop/5.12.1/mattermost-desktop-5.12.1-win-x64.msi)     |
-| 5.12.1  | msi  | x86          | [https://releases.mattermost.com/desktop/5.12.1/mattermost-desktop-5.12.1-win-x86.msi](https://releases.mattermost.com/desktop/5.12.1/mattermost-desktop-5.12.1-win-x86.msi)     |
+| 5.13.0  | exe  | x86          | [https://releases.mattermost.com/desktop/5.13.0/mattermost-desktop-setup-5.13.0-win.exe](https://releases.mattermost.com/desktop/5.13.0/mattermost-desktop-setup-5.13.0-win.exe) |
+| 5.13.0  | msi  | x64          | [https://releases.mattermost.com/desktop/5.13.0/mattermost-desktop-5.13.0-win-x64.msi](https://releases.mattermost.com/desktop/5.13.0/mattermost-desktop-5.13.0-win-x64.msi)     |
+| 5.13.0  | msi  | x86          | [https://releases.mattermost.com/desktop/5.13.0/mattermost-desktop-5.13.0-win-x86.msi](https://releases.mattermost.com/desktop/5.13.0/mattermost-desktop-5.13.0-win-x86.msi)     |
