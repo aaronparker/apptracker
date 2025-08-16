@@ -12,7 +12,10 @@ last_modified_date: Aug 14 2025 at 12:44 AM
 
 Evergreen app: `FoxitReader`. Found **17** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version        | Date      | Language            | URI                                                                                                                                                                                                                      |
 | -------------- | --------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
