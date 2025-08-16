@@ -11,7 +11,7 @@
   {
     "Version": "0.10.0",
     "Date": "13/8/2025",
-    "Size": 114354762,
+    "Size": 82812938,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -20,7 +20,7 @@
   {
     "Version": "0.10.0",
     "Date": "13/8/2025",
-    "Size": 113294026,
+    "Size": 112760864,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
