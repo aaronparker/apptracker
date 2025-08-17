@@ -12,10 +12,7 @@ last_modified_date: Jul 8 2024 at 07:15 AM
 
 Evergreen app: `Maximus5ConEmu`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 301 (Moved Permanently).
-```
+Last check: 🟢
 
 | Version  | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                          |
 | -------- | --------- | ------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
