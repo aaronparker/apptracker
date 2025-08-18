@@ -1,380 +1,380 @@
 [
   {
-    "Version": "25.001.20577",
-    "Language": "English",
-    "Size": 589,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_en_US.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "English (UK)",
-    "Size": 589,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_en_US.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "French",
-    "Size": 591,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_fr_FR.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "German",
-    "Size": 591,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_de_DE.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "Japanese",
-    "Size": 599,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_ja_JP.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "MUI",
-    "Size": 662,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_MUI.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "Spanish",
-    "Size": 591,
-    "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120577/AcroRdrDCx642500120577_es_ES.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "English",
-    "Size": 469,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_en_US.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "English (UK)",
-    "Size": 469,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_en_US.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "French",
-    "Size": 469,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_fr_FR.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "German",
-    "Size": 470,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_de_DE.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "Japanese",
-    "Size": 478,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_ja_JP.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "MUI",
-    "Size": 565,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_MUI.exe"
-  },
-  {
-    "Version": "25.001.20577",
-    "Language": "Spanish",
-    "Size": 470,
-    "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120577/AcroRdrDC2500120577_es_ES.exe"
-  },
-  {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Chinese (Simplified)",
     "Size": 350,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_zh_CN.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_zh_CN.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Chinese (Traditional)",
     "Size": 342,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_zh_TW.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_zh_TW.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Czech",
     "Size": 334,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_cs_CZ.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_cs_CZ.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Danish",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_da_DK.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_da_DK.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Dutch",
     "Size": 334,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_nl_NL.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_nl_NL.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "English",
+    "Size": 589,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_en_US.exe"
+  },
+  {
+    "Version": "25.001.20630",
+    "Language": "English (UK)",
+    "Size": 589,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_en_US.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Finnish",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_fi_FI.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_fi_FI.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "French",
+    "Size": 591,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_fr_FR.exe"
+  },
+  {
+    "Version": "25.001.20630",
+    "Language": "German",
+    "Size": 591,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_de_DE.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Hungarian",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_hu_HU.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_hu_HU.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Italian",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_it_IT.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_it_IT.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "Japanese",
+    "Size": 599,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_ja_JP.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Korean",
     "Size": 341,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_ko_KR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_ko_KR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "MUI",
+    "Size": 662,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_MUI.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Norwegian",
     "Size": 334,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_nb_NO.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_nb_NO.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Polish",
     "Size": 334,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_pl_PL.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_pl_PL.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Portuguese",
     "Size": 342,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_pt_BR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_pt_BR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Russian",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_ru_RU.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_ru_RU.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Slovakian",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_sk_SK.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_sk_SK.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Slovenian",
     "Size": 334,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_sl_SI.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_sl_SI.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "Spanish",
+    "Size": 591,
+    "Architecture": "x64",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_es_ES.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Swedish",
     "Size": 333,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_sv_SE.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_sv_SE.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Turkish",
     "Size": 336,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_tr_TR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_tr_TR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Ukrainian",
     "Size": 334,
     "Architecture": "x64",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_uk_UA.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120630/AcroRdrDCx642500120630_uk_UA.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Basque",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_eu_ES.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_eu_ES.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Catalan",
     "Size": 253,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_ca_ES.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_ca_ES.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Chinese (Simplified)",
     "Size": 271,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_zh_CN.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_zh_CN.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Chinese (Traditional)",
     "Size": 256,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_zh_TW.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_zh_TW.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Croatian",
     "Size": 246,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_hr_HR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_hr_HR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Czech",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_cs_CZ.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_cs_CZ.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Danish",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_da_DK.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_da_DK.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Dutch",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_nl_NL.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_nl_NL.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "English",
+    "Size": 469,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_en_US.exe"
+  },
+  {
+    "Version": "25.001.20630",
+    "Language": "English (UK)",
+    "Size": 469,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_en_US.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Finnish",
     "Size": 246,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_fi_FI.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_fi_FI.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "French",
+    "Size": 469,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_fr_FR.exe"
+  },
+  {
+    "Version": "25.001.20630",
+    "Language": "German",
+    "Size": 470,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_de_DE.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Hungarian",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_hu_HU.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_hu_HU.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Italian",
     "Size": 246,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_it_IT.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_it_IT.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "Japanese",
+    "Size": 478,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_ja_JP.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Korean",
     "Size": 253,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_ko_KR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_ko_KR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "MUI",
+    "Size": 565,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_MUI.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Norwegian",
     "Size": 248,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_nb_NO.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_nb_NO.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Polish",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_pl_PL.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_pl_PL.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Portuguese",
     "Size": 254,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_pt_BR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_pt_BR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Romanian",
     "Size": 246,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_ro_RO.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_ro_RO.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Russian",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_ru_RU.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_ru_RU.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Slovakian",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_sk_SK.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_sk_SK.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Slovenian",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_sl_SI.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_sl_SI.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
+    "Language": "Spanish",
+    "Size": 470,
+    "Architecture": "x86",
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_es_ES.exe"
+  },
+  {
+    "Version": "25.001.20630",
     "Language": "Swedish",
     "Size": 246,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_sv_SE.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_sv_SE.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Turkish",
     "Size": 250,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_tr_TR.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_tr_TR.exe"
   },
   {
-    "Version": "25.001.20531",
+    "Version": "25.001.20630",
     "Language": "Ukrainian",
     "Size": 247,
     "Architecture": "x86",
-    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120531/AcroRdrDC2500120531_uk_UA.exe"
+    "URI": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120630/AcroRdrDC2500120630_uk_UA.exe"
   }
 ]
