@@ -3,7 +3,7 @@ title: Progress Chef Infra Client
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Aug 15 2025 at 12:43 AM
+last_modified_date: Aug 18 2025 at 12:33 PM
 ---
 
 ## Progress Chef Infra Client
@@ -16,13 +16,13 @@ Last check: 🟢
 
 | Version | Architecture | Channel | Platform | Sha256                                                           | URI                                                                                                                                                                                              |
 | ------- | ------------ | ------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 18.8.11 | x64          | current | 10       | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/current/chef/18.8.11/windows/10/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.11/windows/10/chef-client-18.8.11-1-x64.msi)     |
+| 18.8.13 | x64          | current | 10       | 1e0df69a11b2634f7d599ccdb0972a57e18b46806d70431f13ec7bc9cb3f2c10 | [https://packages.chef.io/files/current/chef/18.8.13/windows/10/chef-client-18.8.13-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.13/windows/10/chef-client-18.8.13-1-x64.msi)     |
+| 18.8.13 | x64          | current | 11       | 1e0df69a11b2634f7d599ccdb0972a57e18b46806d70431f13ec7bc9cb3f2c10 | [https://packages.chef.io/files/current/chef/18.8.13/windows/11/chef-client-18.8.13-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.13/windows/11/chef-client-18.8.13-1-x64.msi)     |
+| 18.8.13 | x64          | current | 2016     | 1e0df69a11b2634f7d599ccdb0972a57e18b46806d70431f13ec7bc9cb3f2c10 | [https://packages.chef.io/files/current/chef/18.8.13/windows/2016/chef-client-18.8.13-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.13/windows/2016/chef-client-18.8.13-1-x64.msi) |
+| 18.8.13 | x64          | current | 2019     | 1e0df69a11b2634f7d599ccdb0972a57e18b46806d70431f13ec7bc9cb3f2c10 | [https://packages.chef.io/files/current/chef/18.8.13/windows/2019/chef-client-18.8.13-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.13/windows/2019/chef-client-18.8.13-1-x64.msi) |
+| 18.8.13 | x64          | current | 2022     | 1e0df69a11b2634f7d599ccdb0972a57e18b46806d70431f13ec7bc9cb3f2c10 | [https://packages.chef.io/files/current/chef/18.8.13/windows/2022/chef-client-18.8.13-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.13/windows/2022/chef-client-18.8.13-1-x64.msi) |
 | 18.8.11 | x64          | stable  | 10       | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/stable/chef/18.8.11/windows/10/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/stable/chef/18.8.11/windows/10/chef-client-18.8.11-1-x64.msi)       |
-| 18.8.11 | x64          | current | 11       | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/current/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi)     |
 | 18.8.11 | x64          | stable  | 11       | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi)       |
-| 18.8.11 | x64          | current | 2016     | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/current/chef/18.8.11/windows/2016/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.11/windows/2016/chef-client-18.8.11-1-x64.msi) |
 | 18.8.11 | x64          | stable  | 2016     | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi)       |
-| 18.8.11 | x64          | current | 2019     | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/current/chef/18.8.11/windows/2019/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.11/windows/2019/chef-client-18.8.11-1-x64.msi) |
 | 18.8.11 | x64          | stable  | 2019     | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi)       |
-| 18.8.11 | x64          | current | 2022     | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/current/chef/18.8.11/windows/2022/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/current/chef/18.8.11/windows/2022/chef-client-18.8.11-1-x64.msi) |
 | 18.8.11 | x64          | stable  | 2022     | 9785947e8ed044cb3896d0c4d9d2993378874a4a15abaa41ddc012b93c2002eb | [https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi](https://packages.chef.io/files/stable/chef/18.8.11/windows/11/chef-client-18.8.11-1-x64.msi)       |
