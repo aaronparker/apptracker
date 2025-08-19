@@ -3,7 +3,7 @@ title: Obsidian
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Apr 23 2025 at 12:40 AM
+last_modified_date: Aug 19 2025 at 12:51 AM
 ---
 
 ## Obsidian
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.10  | 22/4/2025 | 266665104 | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe) |
+| 1.9.10  | 18/8/2025 | 279721936 | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.10/Obsidian-1.9.10.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.10/Obsidian-1.9.10.exe) |

@@ -12,7 +12,10 @@ last_modified_date: Aug 18 2025 at 12:33 PM
 
 Evergreen app: `AdobeAcrobatProStdDC`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+An error occurred while sending the request.
+```
 
 | Version      | Architecture | Sku      | URI                                                                                                                                                                                          |
 | ------------ | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
