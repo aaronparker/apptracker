@@ -1,8 +1,8 @@
 [
   {
-    "Version": "1.109.0.329-ea562b95",
+    "Version": "1.110.0.351-4e48eb83",
     "Architecture": "x64",
-    "Checksum": "44da8dd8654394dd45de50f9b6dc6792fa877e87",
-    "URI": "https://downloads.plex.tv/plex-desktop/1.109.0.329-ea562b95/windows/Plex-1.109.0.329-ea562b95-x86_64.exe"
+    "Checksum": "9c533dd771f338617a0cecdbc7ad219b45c8a753",
+    "URI": "https://downloads.plex.tv/plex-desktop/1.110.0.351-4e48eb83/windows/Plex-1.110.0.351-4e48eb83-x86_64.exe"
   }
 ]
