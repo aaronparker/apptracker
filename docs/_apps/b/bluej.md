@@ -12,7 +12,10 @@ last_modified_date: Jun 3 2025 at 12:20 PM
 
 Evergreen app: `BlueJ`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+An error occurred while sending the request.
+```
 
 | Version | URI                                                                                                                      |
 | ------- | ------------------------------------------------------------------------------------------------------------------------ |
