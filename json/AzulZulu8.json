@@ -1,34 +1,34 @@
 [
   {
-    "Version": "1.8.0_452-b09",
-    "Date": "2025-04-14T09:57:00Z",
+    "Version": "1.8.0_462-b08",
+    "Date": "2025-07-15T13:10:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jdk8.0.452-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-win_x64.msi"
   },
   {
-    "Version": "1.8.0_452-b09",
-    "Date": "2025-04-14T09:57:00Z",
+    "Version": "1.8.0_462-b08",
+    "Date": "2025-07-15T13:10:00Z",
     "ImageType": "jre",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jre8.0.452-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_x64.msi"
   },
   {
-    "Version": "1.8.0_452-b09",
-    "Date": "2025-04-14T09:57:00Z",
+    "Version": "1.8.0_462-b08",
+    "Date": "2025-07-15T13:10:00Z",
     "ImageType": "jdk",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jdk8.0.452-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-win_i686.msi"
   },
   {
-    "Version": "1.8.0_452-b09",
-    "Date": "2025-04-14T09:57:00Z",
+    "Version": "1.8.0_462-b08",
+    "Date": "2025-07-15T13:10:00Z",
     "ImageType": "jre",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jre8.0.452-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_i686.msi"
   }
 ]
