@@ -3,7 +3,7 @@ title: Azul Zulu 17
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 7 2025 at 12:22 PM
+last_modified_date: Aug 20 2025 at 12:54 AM
 ---
 
 ## Azul Zulu 17
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                            |
 | --------- | ------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.0.15+6 | 04/14/2025 10:04:00 | jdk       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jdk17.0.15-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jdk17.0.15-win_x64.msi)   |
-| 17.0.15+6 | 04/14/2025 10:04:00 | jre       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jre17.0.15-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jre17.0.15-win_x64.msi)   |
-| 17.0.15+6 | 04/14/2025 10:04:00 | jdk       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jdk17.0.15-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jdk17.0.15-win_i686.msi) |
-| 17.0.15+6 | 04/14/2025 10:04:00 | jre       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jre17.0.15-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jre17.0.15-win_i686.msi) |
+| 17.0.16+8 | 07/15/2025 13:16:00 | jdk       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jdk17.0.16-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jdk17.0.16-win_x64.msi)   |
+| 17.0.16+8 | 07/15/2025 13:16:00 | jre       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jre17.0.16-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jre17.0.16-win_x64.msi)   |
+| 17.0.16+8 | 07/15/2025 13:15:00 | jdk       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jdk17.0.16-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jdk17.0.16-win_i686.msi) |
+| 17.0.16+8 | 07/15/2025 13:15:00 | jre       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jre17.0.16-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu17.60.17-ca-jre17.0.16-win_i686.msi) |

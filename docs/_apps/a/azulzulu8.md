@@ -3,7 +3,7 @@ title: Azul Zulu 8
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 7 2025 at 12:44 AM
+last_modified_date: Aug 20 2025 at 12:54 AM
 ---
 
 ## Azul Zulu 8
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version       | Date                | ImageType | Architecture | Type | URI                                                                                                                                              |
 | ------------- | ------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.8.0_452-b09 | 04/14/2025 09:57:00 | jdk       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jdk8.0.452-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jdk8.0.452-win_x64.msi)   |
-| 1.8.0_452-b09 | 04/14/2025 09:57:00 | jre       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jre8.0.452-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jre8.0.452-win_x64.msi)   |
-| 1.8.0_452-b09 | 04/14/2025 09:57:00 | jdk       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jdk8.0.452-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jdk8.0.452-win_i686.msi) |
-| 1.8.0_452-b09 | 04/14/2025 09:57:00 | jre       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jre8.0.452-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu8.86.0.25-ca-jre8.0.452-win_i686.msi) |
+| 1.8.0_462-b08 | 07/15/2025 13:10:00 | jdk       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-win_x64.msi)   |
+| 1.8.0_462-b08 | 07/15/2025 13:10:00 | jre       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_x64.msi)   |
+| 1.8.0_462-b08 | 07/15/2025 13:10:00 | jdk       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-win_i686.msi) |
+| 1.8.0_462-b08 | 07/15/2025 13:10:00 | jre       | x86          | msi  | [https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_i686.msi](https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-win_i686.msi) |
