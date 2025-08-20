@@ -12,10 +12,7 @@ last_modified_date: Aug 16 2025 at 12:41 AM
 
 Evergreen app: `VideoLanVlcPlayer`. Found **6** installers.
 
-Last check: 🔴
-```
-The SSL connection could not be established, see inner exception.
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                      |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
