@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2025.2",
-    "Build": "252.23892.524",
+    "Version": "2025.2.0.1",
+    "Build": "252.23892.537",
     "Edition": "Rider",
-    "Sha256": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.exe.sha256",
-    "Date": "14/8/2025",
-    "Size": 1703216120,
+    "Sha256": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.0.1.exe.sha256",
+    "Date": "21/8/2025",
+    "Size": 1703292200,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.exe"
+    "URI": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.0.1.exe"
   }
 ]
