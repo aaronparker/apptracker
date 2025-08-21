@@ -12,10 +12,7 @@ last_modified_date: Aug 20 2025 at 12:27 PM
 
 Evergreen app: `PSAppDeployToolkit`. Found **3** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                        |
 | ------- | --------- | ------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
