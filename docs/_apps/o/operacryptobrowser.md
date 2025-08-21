@@ -12,7 +12,10 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `OperaCryptoBrowser`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 400 (Bad Request).
+```
 
 | Version       | Channel | Architecture | Type | URI                                                                                                                                                                                                            |
 | ------------- | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
