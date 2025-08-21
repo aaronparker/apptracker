@@ -3,7 +3,7 @@ title: Hashicorp Terraform
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: Jun 11 2025 at 12:20 PM
+last_modified_date: Aug 21 2025 at 12:54 AM
 ---
 
 ## Hashicorp Terraform
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                      |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.12.2  | zip  | x64          | [https://releases.hashicorp.com/terraform/1.12.2/terraform_1.12.2_windows_amd64.zip](https://releases.hashicorp.com/terraform/1.12.2/terraform_1.12.2_windows_amd64.zip) |
-| 1.12.2  | zip  | x86          | [https://releases.hashicorp.com/terraform/1.12.2/terraform_1.12.2_windows_386.zip](https://releases.hashicorp.com/terraform/1.12.2/terraform_1.12.2_windows_386.zip)     |
+| 1.13.0  | zip  | x64          | [https://releases.hashicorp.com/terraform/1.13.0/terraform_1.13.0_windows_amd64.zip](https://releases.hashicorp.com/terraform/1.13.0/terraform_1.13.0_windows_amd64.zip) |
+| 1.13.0  | zip  | x86          | [https://releases.hashicorp.com/terraform/1.13.0/terraform_1.13.0_windows_386.zip](https://releases.hashicorp.com/terraform/1.13.0/terraform_1.13.0_windows_386.zip)     |
