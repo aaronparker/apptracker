@@ -1,21 +1,18 @@
 ---
-title: Foxit Reader
+title: Foxit PDF Reader
 layout: default
 nav_order: 2
 parent: F
 last_modified_date: Aug 14 2025 at 12:44 AM
 ---
 
-## Foxit Reader
+## Foxit PDF Reader
 
 [Source](https://www.foxitsoftware.com/pdf-reader/)
 
 Evergreen app: `FoxitReader`. Found **17** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version        | Date      | Language            | URI                                                                                                                                                                                                                      |
 | -------------- | --------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
