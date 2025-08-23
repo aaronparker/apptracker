@@ -12,7 +12,10 @@ last_modified_date: Feb 13 2025 at 12:46 AM
 
 Evergreen app: `FreedomScientificJAWS`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version       | Date     | Architecture | URI                                                                                                                                                                                                                                                                      |
 | ------------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
