@@ -1,17 +1,31 @@
 [
   {
+    "Version": "25212.2204.3869.2204",
+    "Release": "Enterprise",
+    "Architecture": "arm64",
+    "Type": "msix",
+    "URI": "https://installer.teams.static.microsoft/production-windows-arm64/25212.2204.3869.2204/MSTeams-arm64.msix"
+  },
+  {
+    "Version": "25212.2204.3869.2204",
+    "Release": "Enterprise",
+    "Architecture": "x64",
+    "Type": "msix",
+    "URI": "https://installer.teams.static.microsoft/production-windows-x64/25212.2204.3869.2204/MSTeams-x64.msix"
+  },
+  {
+    "Version": "25212.2204.3869.2204",
+    "Release": "Enterprise",
+    "Architecture": "x86",
+    "Type": "msix",
+    "URI": "https://installer.teams.static.microsoft/production-windows-x86/25212.2204.3869.2204/MSTeams-x86.msix"
+  },
+  {
     "Version": "25198.1112.3855.2900",
     "Release": "Consumer",
     "Architecture": "arm64",
     "Type": "msix",
     "URI": "https://installer.teams.static.microsoft/production-windows-arm64/25198.1112.3855.2900/MicrosoftTeams-arm64.msix"
-  },
-  {
-    "Version": "25198.1112.3855.2900",
-    "Release": "Enterprise",
-    "Architecture": "arm64",
-    "Type": "msix",
-    "URI": "https://installer.teams.static.microsoft/production-windows-arm64/25198.1112.3855.2900/MSTeams-arm64.msix"
   },
   {
     "Version": "25198.1112.3855.2900",
@@ -22,23 +36,9 @@
   },
   {
     "Version": "25198.1112.3855.2900",
-    "Release": "Enterprise",
-    "Architecture": "x64",
-    "Type": "msix",
-    "URI": "https://installer.teams.static.microsoft/production-windows-x64/25198.1112.3855.2900/MSTeams-x64.msix"
-  },
-  {
-    "Version": "25198.1112.3855.2900",
     "Release": "Consumer",
     "Architecture": "x86",
     "Type": "msix",
     "URI": "https://installer.teams.static.microsoft/production-windows-x86/25198.1112.3855.2900/MicrosoftTeams-x86.msix"
-  },
-  {
-    "Version": "25198.1112.3855.2900",
-    "Release": "Enterprise",
-    "Architecture": "x86",
-    "Type": "msix",
-    "URI": "https://installer.teams.static.microsoft/production-windows-x86/25198.1112.3855.2900/MSTeams-x86.msix"
   }
 ]
