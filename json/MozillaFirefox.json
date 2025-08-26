@@ -19872,7 +19872,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.14.0esr/win32/multi/Firefox%20Setup%20128.14.0esr.msix"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ach",
     "Architecture": "ARM64",
@@ -19881,7 +19881,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ach/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "af",
     "Architecture": "ARM64",
@@ -19890,7 +19890,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/af/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "an",
     "Architecture": "ARM64",
@@ -19899,7 +19899,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/an/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ar",
     "Architecture": "ARM64",
@@ -19908,7 +19908,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ar/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ast",
     "Architecture": "ARM64",
@@ -19917,7 +19917,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ast/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "az",
     "Architecture": "ARM64",
@@ -19926,7 +19926,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/az/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "be",
     "Architecture": "ARM64",
@@ -19935,7 +19935,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/be/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bg",
     "Architecture": "ARM64",
@@ -19944,7 +19944,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/bg/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "br",
     "Architecture": "ARM64",
@@ -19953,7 +19953,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/br/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bs",
     "Architecture": "ARM64",
@@ -19962,7 +19962,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/bs/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ca",
     "Architecture": "ARM64",
@@ -19971,7 +19971,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ca/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cak",
     "Architecture": "ARM64",
@@ -19980,7 +19980,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/cak/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cs",
     "Architecture": "ARM64",
@@ -19989,7 +19989,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/cs/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cy",
     "Architecture": "ARM64",
@@ -19998,7 +19998,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/cy/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "da",
     "Architecture": "ARM64",
@@ -20007,7 +20007,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/da/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "de",
     "Architecture": "ARM64",
@@ -20016,7 +20016,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/de/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "dsb",
     "Architecture": "ARM64",
@@ -20025,7 +20025,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/dsb/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "el",
     "Architecture": "ARM64",
@@ -20034,7 +20034,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/el/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-CA",
     "Architecture": "ARM64",
@@ -20043,7 +20043,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/en-CA/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-GB",
     "Architecture": "ARM64",
@@ -20052,7 +20052,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/en-GB/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-US",
     "Architecture": "ARM64",
@@ -20061,7 +20061,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/en-US/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eo",
     "Architecture": "ARM64",
@@ -20070,7 +20070,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/eo/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-AR",
     "Architecture": "ARM64",
@@ -20079,7 +20079,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/es-AR/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-CL",
     "Architecture": "ARM64",
@@ -20088,7 +20088,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/es-CL/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-ES",
     "Architecture": "ARM64",
@@ -20097,7 +20097,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/es-ES/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-MX",
     "Architecture": "ARM64",
@@ -20106,7 +20106,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/es-MX/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "et",
     "Architecture": "ARM64",
@@ -20115,7 +20115,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/et/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eu",
     "Architecture": "ARM64",
@@ -20124,7 +20124,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/eu/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fa",
     "Architecture": "ARM64",
@@ -20133,7 +20133,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/fa/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ff",
     "Architecture": "ARM64",
@@ -20142,7 +20142,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ff/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fi",
     "Architecture": "ARM64",
@@ -20151,7 +20151,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/fi/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fr",
     "Architecture": "ARM64",
@@ -20160,7 +20160,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/fr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fy-NL",
     "Architecture": "ARM64",
@@ -20169,7 +20169,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/fy-NL/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ga-IE",
     "Architecture": "ARM64",
@@ -20178,7 +20178,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ga-IE/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gd",
     "Architecture": "ARM64",
@@ -20187,7 +20187,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/gd/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gl",
     "Architecture": "ARM64",
@@ -20196,7 +20196,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/gl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gn",
     "Architecture": "ARM64",
@@ -20205,7 +20205,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/gn/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gu-IN",
     "Architecture": "ARM64",
@@ -20214,7 +20214,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/gu-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "he",
     "Architecture": "ARM64",
@@ -20223,7 +20223,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/he/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hi-IN",
     "Architecture": "ARM64",
@@ -20232,7 +20232,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/hi-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hr",
     "Architecture": "ARM64",
@@ -20241,7 +20241,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/hr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hsb",
     "Architecture": "ARM64",
@@ -20250,7 +20250,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/hsb/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hu",
     "Architecture": "ARM64",
@@ -20259,7 +20259,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/hu/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hy-AM",
     "Architecture": "ARM64",
@@ -20268,7 +20268,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/hy-AM/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ia",
     "Architecture": "ARM64",
@@ -20277,7 +20277,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ia/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "id",
     "Architecture": "ARM64",
@@ -20286,7 +20286,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/id/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "is",
     "Architecture": "ARM64",
@@ -20295,7 +20295,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/is/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "it",
     "Architecture": "ARM64",
@@ -20304,7 +20304,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/it/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ja",
     "Architecture": "ARM64",
@@ -20313,7 +20313,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ja/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ka",
     "Architecture": "ARM64",
@@ -20322,7 +20322,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ka/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kab",
     "Architecture": "ARM64",
@@ -20331,7 +20331,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/kab/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kk",
     "Architecture": "ARM64",
@@ -20340,7 +20340,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/kk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "km",
     "Architecture": "ARM64",
@@ -20349,7 +20349,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/km/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kn",
     "Architecture": "ARM64",
@@ -20358,7 +20358,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/kn/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ko",
     "Architecture": "ARM64",
@@ -20367,7 +20367,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ko/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lij",
     "Architecture": "ARM64",
@@ -20376,7 +20376,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/lij/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lt",
     "Architecture": "ARM64",
@@ -20385,7 +20385,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/lt/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lv",
     "Architecture": "ARM64",
@@ -20394,7 +20394,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/lv/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mk",
     "Architecture": "ARM64",
@@ -20403,7 +20403,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/mk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mr",
     "Architecture": "ARM64",
@@ -20412,7 +20412,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/mr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ms",
     "Architecture": "ARM64",
@@ -20421,7 +20421,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ms/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "my",
     "Architecture": "ARM64",
@@ -20430,7 +20430,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/my/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nb-NO",
     "Architecture": "ARM64",
@@ -20439,7 +20439,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/nb-NO/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ne-NP",
     "Architecture": "ARM64",
@@ -20448,7 +20448,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ne-NP/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nl",
     "Architecture": "ARM64",
@@ -20457,7 +20457,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/nl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nn-NO",
     "Architecture": "ARM64",
@@ -20466,7 +20466,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/nn-NO/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "oc",
     "Architecture": "ARM64",
@@ -20475,7 +20475,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/oc/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pa-IN",
     "Architecture": "ARM64",
@@ -20484,7 +20484,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/pa-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pl",
     "Architecture": "ARM64",
@@ -20493,7 +20493,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/pl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-BR",
     "Architecture": "ARM64",
@@ -20502,7 +20502,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/pt-BR/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-PT",
     "Architecture": "ARM64",
@@ -20511,7 +20511,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/pt-PT/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "rm",
     "Architecture": "ARM64",
@@ -20520,7 +20520,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/rm/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ro",
     "Architecture": "ARM64",
@@ -20529,7 +20529,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ro/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ru",
     "Architecture": "ARM64",
@@ -20538,7 +20538,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ru/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "si",
     "Architecture": "ARM64",
@@ -20547,7 +20547,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/si/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sk",
     "Architecture": "ARM64",
@@ -20556,7 +20556,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/sk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sl",
     "Architecture": "ARM64",
@@ -20565,7 +20565,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/sl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "son",
     "Architecture": "ARM64",
@@ -20574,7 +20574,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/son/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sq",
     "Architecture": "ARM64",
@@ -20583,7 +20583,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/sq/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sr",
     "Architecture": "ARM64",
@@ -20592,7 +20592,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/sr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sv-SE",
     "Architecture": "ARM64",
@@ -20601,7 +20601,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/sv-SE/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ta",
     "Architecture": "ARM64",
@@ -20610,7 +20610,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ta/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "te",
     "Architecture": "ARM64",
@@ -20619,7 +20619,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/te/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "th",
     "Architecture": "ARM64",
@@ -20628,7 +20628,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/th/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "tr",
     "Architecture": "ARM64",
@@ -20637,7 +20637,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/tr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uk",
     "Architecture": "ARM64",
@@ -20646,7 +20646,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/uk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ur",
     "Architecture": "ARM64",
@@ -20655,7 +20655,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/ur/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uz",
     "Architecture": "ARM64",
@@ -20664,7 +20664,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/uz/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "vi",
     "Architecture": "ARM64",
@@ -20673,7 +20673,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/vi/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "xh",
     "Architecture": "ARM64",
@@ -20682,7 +20682,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/xh/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-CN",
     "Architecture": "ARM64",
@@ -20691,7 +20691,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64-aarch64/zh-CN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-TW",
     "Architecture": "ARM64",
@@ -21528,7 +21528,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b4/win64-aarch64/zh-TW/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ach",
     "Architecture": "x64",
@@ -21537,7 +21537,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ach/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "af",
     "Architecture": "x64",
@@ -21546,7 +21546,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/af/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "an",
     "Architecture": "x64",
@@ -21555,7 +21555,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/an/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ar",
     "Architecture": "x64",
@@ -21564,7 +21564,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ar/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ast",
     "Architecture": "x64",
@@ -21573,7 +21573,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ast/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "az",
     "Architecture": "x64",
@@ -21582,7 +21582,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/az/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "be",
     "Architecture": "x64",
@@ -21591,7 +21591,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/be/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bg",
     "Architecture": "x64",
@@ -21600,7 +21600,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/bg/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "br",
     "Architecture": "x64",
@@ -21609,7 +21609,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/br/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bs",
     "Architecture": "x64",
@@ -21618,7 +21618,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/bs/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ca",
     "Architecture": "x64",
@@ -21627,7 +21627,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ca/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cak",
     "Architecture": "x64",
@@ -21636,7 +21636,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/cak/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cs",
     "Architecture": "x64",
@@ -21645,7 +21645,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/cs/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cy",
     "Architecture": "x64",
@@ -21654,7 +21654,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/cy/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "da",
     "Architecture": "x64",
@@ -21663,7 +21663,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/da/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "de",
     "Architecture": "x64",
@@ -21672,7 +21672,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/de/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "dsb",
     "Architecture": "x64",
@@ -21681,7 +21681,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/dsb/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "el",
     "Architecture": "x64",
@@ -21690,7 +21690,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/el/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-CA",
     "Architecture": "x64",
@@ -21699,7 +21699,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/en-CA/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-GB",
     "Architecture": "x64",
@@ -21708,7 +21708,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/en-GB/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-US",
     "Architecture": "x64",
@@ -21717,7 +21717,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/en-US/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eo",
     "Architecture": "x64",
@@ -21726,7 +21726,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/eo/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-AR",
     "Architecture": "x64",
@@ -21735,7 +21735,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-AR/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-CL",
     "Architecture": "x64",
@@ -21744,7 +21744,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-CL/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-ES",
     "Architecture": "x64",
@@ -21753,7 +21753,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-ES/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-MX",
     "Architecture": "x64",
@@ -21762,7 +21762,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-MX/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "et",
     "Architecture": "x64",
@@ -21771,7 +21771,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/et/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eu",
     "Architecture": "x64",
@@ -21780,7 +21780,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/eu/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fa",
     "Architecture": "x64",
@@ -21789,7 +21789,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fa/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ff",
     "Architecture": "x64",
@@ -21798,7 +21798,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ff/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fi",
     "Architecture": "x64",
@@ -21807,7 +21807,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fi/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fr",
     "Architecture": "x64",
@@ -21816,7 +21816,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fy-NL",
     "Architecture": "x64",
@@ -21825,7 +21825,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fy-NL/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ga-IE",
     "Architecture": "x64",
@@ -21834,7 +21834,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ga-IE/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gd",
     "Architecture": "x64",
@@ -21843,7 +21843,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gd/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gl",
     "Architecture": "x64",
@@ -21852,7 +21852,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gn",
     "Architecture": "x64",
@@ -21861,7 +21861,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gn/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gu-IN",
     "Architecture": "x64",
@@ -21870,7 +21870,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gu-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "he",
     "Architecture": "x64",
@@ -21879,7 +21879,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/he/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hi-IN",
     "Architecture": "x64",
@@ -21888,7 +21888,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hi-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hr",
     "Architecture": "x64",
@@ -21897,7 +21897,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hsb",
     "Architecture": "x64",
@@ -21906,7 +21906,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hsb/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hu",
     "Architecture": "x64",
@@ -21915,7 +21915,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hu/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hy-AM",
     "Architecture": "x64",
@@ -21924,7 +21924,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hy-AM/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ia",
     "Architecture": "x64",
@@ -21933,7 +21933,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ia/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "id",
     "Architecture": "x64",
@@ -21942,7 +21942,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/id/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "is",
     "Architecture": "x64",
@@ -21951,7 +21951,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/is/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "it",
     "Architecture": "x64",
@@ -21960,7 +21960,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/it/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ja",
     "Architecture": "x64",
@@ -21969,7 +21969,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ja/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ka",
     "Architecture": "x64",
@@ -21978,7 +21978,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ka/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kab",
     "Architecture": "x64",
@@ -21987,7 +21987,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/kab/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kk",
     "Architecture": "x64",
@@ -21996,7 +21996,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/kk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "km",
     "Architecture": "x64",
@@ -22005,7 +22005,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/km/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kn",
     "Architecture": "x64",
@@ -22014,7 +22014,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/kn/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ko",
     "Architecture": "x64",
@@ -22023,7 +22023,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ko/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lij",
     "Architecture": "x64",
@@ -22032,7 +22032,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/lij/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lt",
     "Architecture": "x64",
@@ -22041,7 +22041,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/lt/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lv",
     "Architecture": "x64",
@@ -22050,7 +22050,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/lv/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mk",
     "Architecture": "x64",
@@ -22059,7 +22059,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/mk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mr",
     "Architecture": "x64",
@@ -22068,7 +22068,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/mr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ms",
     "Architecture": "x64",
@@ -22077,7 +22077,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ms/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "my",
     "Architecture": "x64",
@@ -22086,7 +22086,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/my/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nb-NO",
     "Architecture": "x64",
@@ -22095,7 +22095,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/nb-NO/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ne-NP",
     "Architecture": "x64",
@@ -22104,7 +22104,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ne-NP/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nl",
     "Architecture": "x64",
@@ -22113,7 +22113,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/nl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nn-NO",
     "Architecture": "x64",
@@ -22122,7 +22122,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/nn-NO/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "oc",
     "Architecture": "x64",
@@ -22131,7 +22131,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/oc/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pa-IN",
     "Architecture": "x64",
@@ -22140,7 +22140,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pa-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pl",
     "Architecture": "x64",
@@ -22149,7 +22149,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-BR",
     "Architecture": "x64",
@@ -22158,7 +22158,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pt-BR/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-PT",
     "Architecture": "x64",
@@ -22167,7 +22167,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pt-PT/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "rm",
     "Architecture": "x64",
@@ -22176,7 +22176,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/rm/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ro",
     "Architecture": "x64",
@@ -22185,7 +22185,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ro/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ru",
     "Architecture": "x64",
@@ -22194,7 +22194,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ru/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "si",
     "Architecture": "x64",
@@ -22203,7 +22203,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/si/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sk",
     "Architecture": "x64",
@@ -22212,7 +22212,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sl",
     "Architecture": "x64",
@@ -22221,7 +22221,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "son",
     "Architecture": "x64",
@@ -22230,7 +22230,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/son/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sq",
     "Architecture": "x64",
@@ -22239,7 +22239,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sq/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sr",
     "Architecture": "x64",
@@ -22248,7 +22248,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sv-SE",
     "Architecture": "x64",
@@ -22257,7 +22257,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sv-SE/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ta",
     "Architecture": "x64",
@@ -22266,7 +22266,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ta/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "te",
     "Architecture": "x64",
@@ -22275,7 +22275,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/te/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "th",
     "Architecture": "x64",
@@ -22284,7 +22284,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/th/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "tr",
     "Architecture": "x64",
@@ -22293,7 +22293,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/tr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uk",
     "Architecture": "x64",
@@ -22302,7 +22302,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/uk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ur",
     "Architecture": "x64",
@@ -22311,7 +22311,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ur/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uz",
     "Architecture": "x64",
@@ -22320,7 +22320,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/uz/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "vi",
     "Architecture": "x64",
@@ -22329,7 +22329,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/vi/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "xh",
     "Architecture": "x64",
@@ -22338,7 +22338,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/xh/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-CN",
     "Architecture": "x64",
@@ -22347,7 +22347,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/zh-CN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-TW",
     "Architecture": "x64",
@@ -23184,7 +23184,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b4/win64/zh-TW/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ach",
     "Architecture": "x86",
@@ -23193,7 +23193,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ach/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "af",
     "Architecture": "x86",
@@ -23202,7 +23202,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/af/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "an",
     "Architecture": "x86",
@@ -23211,7 +23211,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/an/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ar",
     "Architecture": "x86",
@@ -23220,7 +23220,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ar/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ast",
     "Architecture": "x86",
@@ -23229,7 +23229,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ast/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "az",
     "Architecture": "x86",
@@ -23238,7 +23238,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/az/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "be",
     "Architecture": "x86",
@@ -23247,7 +23247,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/be/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bg",
     "Architecture": "x86",
@@ -23256,7 +23256,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/bg/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "br",
     "Architecture": "x86",
@@ -23265,7 +23265,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/br/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bs",
     "Architecture": "x86",
@@ -23274,7 +23274,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/bs/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ca",
     "Architecture": "x86",
@@ -23283,7 +23283,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ca/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cak",
     "Architecture": "x86",
@@ -23292,7 +23292,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/cak/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cs",
     "Architecture": "x86",
@@ -23301,7 +23301,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/cs/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cy",
     "Architecture": "x86",
@@ -23310,7 +23310,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/cy/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "da",
     "Architecture": "x86",
@@ -23319,7 +23319,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/da/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "de",
     "Architecture": "x86",
@@ -23328,7 +23328,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/de/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "dsb",
     "Architecture": "x86",
@@ -23337,7 +23337,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/dsb/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "el",
     "Architecture": "x86",
@@ -23346,7 +23346,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/el/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-CA",
     "Architecture": "x86",
@@ -23355,7 +23355,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/en-CA/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-GB",
     "Architecture": "x86",
@@ -23364,7 +23364,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/en-GB/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-US",
     "Architecture": "x86",
@@ -23373,7 +23373,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/en-US/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eo",
     "Architecture": "x86",
@@ -23382,7 +23382,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/eo/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-AR",
     "Architecture": "x86",
@@ -23391,7 +23391,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-AR/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-CL",
     "Architecture": "x86",
@@ -23400,7 +23400,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-CL/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-ES",
     "Architecture": "x86",
@@ -23409,7 +23409,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-ES/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-MX",
     "Architecture": "x86",
@@ -23418,7 +23418,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-MX/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "et",
     "Architecture": "x86",
@@ -23427,7 +23427,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/et/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eu",
     "Architecture": "x86",
@@ -23436,7 +23436,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/eu/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fa",
     "Architecture": "x86",
@@ -23445,7 +23445,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fa/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ff",
     "Architecture": "x86",
@@ -23454,7 +23454,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ff/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fi",
     "Architecture": "x86",
@@ -23463,7 +23463,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fi/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fr",
     "Architecture": "x86",
@@ -23472,7 +23472,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fy-NL",
     "Architecture": "x86",
@@ -23481,7 +23481,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fy-NL/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ga-IE",
     "Architecture": "x86",
@@ -23490,7 +23490,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ga-IE/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gd",
     "Architecture": "x86",
@@ -23499,7 +23499,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gd/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gl",
     "Architecture": "x86",
@@ -23508,7 +23508,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gn",
     "Architecture": "x86",
@@ -23517,7 +23517,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gn/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gu-IN",
     "Architecture": "x86",
@@ -23526,7 +23526,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gu-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "he",
     "Architecture": "x86",
@@ -23535,7 +23535,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/he/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hi-IN",
     "Architecture": "x86",
@@ -23544,7 +23544,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hi-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hr",
     "Architecture": "x86",
@@ -23553,7 +23553,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hsb",
     "Architecture": "x86",
@@ -23562,7 +23562,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hsb/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hu",
     "Architecture": "x86",
@@ -23571,7 +23571,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hu/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hy-AM",
     "Architecture": "x86",
@@ -23580,7 +23580,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hy-AM/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ia",
     "Architecture": "x86",
@@ -23589,7 +23589,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ia/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "id",
     "Architecture": "x86",
@@ -23598,7 +23598,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/id/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "is",
     "Architecture": "x86",
@@ -23607,7 +23607,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/is/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "it",
     "Architecture": "x86",
@@ -23616,7 +23616,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/it/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ja",
     "Architecture": "x86",
@@ -23625,7 +23625,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ja/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ka",
     "Architecture": "x86",
@@ -23634,7 +23634,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ka/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kab",
     "Architecture": "x86",
@@ -23643,7 +23643,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/kab/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kk",
     "Architecture": "x86",
@@ -23652,7 +23652,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/kk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "km",
     "Architecture": "x86",
@@ -23661,7 +23661,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/km/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kn",
     "Architecture": "x86",
@@ -23670,7 +23670,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/kn/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ko",
     "Architecture": "x86",
@@ -23679,7 +23679,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ko/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lij",
     "Architecture": "x86",
@@ -23688,7 +23688,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/lij/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lt",
     "Architecture": "x86",
@@ -23697,7 +23697,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/lt/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lv",
     "Architecture": "x86",
@@ -23706,7 +23706,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/lv/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mk",
     "Architecture": "x86",
@@ -23715,7 +23715,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/mk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mr",
     "Architecture": "x86",
@@ -23724,7 +23724,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/mr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ms",
     "Architecture": "x86",
@@ -23733,7 +23733,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ms/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "my",
     "Architecture": "x86",
@@ -23742,7 +23742,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/my/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nb-NO",
     "Architecture": "x86",
@@ -23751,7 +23751,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/nb-NO/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ne-NP",
     "Architecture": "x86",
@@ -23760,7 +23760,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ne-NP/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nl",
     "Architecture": "x86",
@@ -23769,7 +23769,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/nl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nn-NO",
     "Architecture": "x86",
@@ -23778,7 +23778,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/nn-NO/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "oc",
     "Architecture": "x86",
@@ -23787,7 +23787,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/oc/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pa-IN",
     "Architecture": "x86",
@@ -23796,7 +23796,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pa-IN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pl",
     "Architecture": "x86",
@@ -23805,7 +23805,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-BR",
     "Architecture": "x86",
@@ -23814,7 +23814,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pt-BR/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-PT",
     "Architecture": "x86",
@@ -23823,7 +23823,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pt-PT/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "rm",
     "Architecture": "x86",
@@ -23832,7 +23832,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/rm/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ro",
     "Architecture": "x86",
@@ -23841,7 +23841,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ro/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ru",
     "Architecture": "x86",
@@ -23850,7 +23850,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ru/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "si",
     "Architecture": "x86",
@@ -23859,7 +23859,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/si/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sk",
     "Architecture": "x86",
@@ -23868,7 +23868,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sl",
     "Architecture": "x86",
@@ -23877,7 +23877,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sl/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "son",
     "Architecture": "x86",
@@ -23886,7 +23886,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/son/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sq",
     "Architecture": "x86",
@@ -23895,7 +23895,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sq/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sr",
     "Architecture": "x86",
@@ -23904,7 +23904,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sv-SE",
     "Architecture": "x86",
@@ -23913,7 +23913,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sv-SE/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ta",
     "Architecture": "x86",
@@ -23922,7 +23922,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ta/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "te",
     "Architecture": "x86",
@@ -23931,7 +23931,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/te/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "th",
     "Architecture": "x86",
@@ -23940,7 +23940,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/th/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "tr",
     "Architecture": "x86",
@@ -23949,7 +23949,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/tr/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uk",
     "Architecture": "x86",
@@ -23958,7 +23958,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/uk/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ur",
     "Architecture": "x86",
@@ -23967,7 +23967,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ur/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uz",
     "Architecture": "x86",
@@ -23976,7 +23976,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/uz/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "vi",
     "Architecture": "x86",
@@ -23985,7 +23985,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/vi/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "xh",
     "Architecture": "x86",
@@ -23994,7 +23994,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/xh/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-CN",
     "Architecture": "x86",
@@ -24003,7 +24003,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/zh-CN/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-TW",
     "Architecture": "x86",
@@ -24840,7 +24840,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b4/win32/zh-TW/Firefox%20Setup%20143.0b4.exe"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ach",
     "Architecture": "x64",
@@ -24849,7 +24849,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ach/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "af",
     "Architecture": "x64",
@@ -24858,7 +24858,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/af/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "an",
     "Architecture": "x64",
@@ -24867,7 +24867,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/an/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ar",
     "Architecture": "x64",
@@ -24876,7 +24876,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ar/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ast",
     "Architecture": "x64",
@@ -24885,7 +24885,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ast/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "az",
     "Architecture": "x64",
@@ -24894,7 +24894,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/az/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "be",
     "Architecture": "x64",
@@ -24903,7 +24903,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/be/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bg",
     "Architecture": "x64",
@@ -24912,7 +24912,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/bg/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "br",
     "Architecture": "x64",
@@ -24921,7 +24921,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/br/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bs",
     "Architecture": "x64",
@@ -24930,7 +24930,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/bs/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ca",
     "Architecture": "x64",
@@ -24939,7 +24939,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ca/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cak",
     "Architecture": "x64",
@@ -24948,7 +24948,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/cak/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cs",
     "Architecture": "x64",
@@ -24957,7 +24957,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/cs/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cy",
     "Architecture": "x64",
@@ -24966,7 +24966,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/cy/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "da",
     "Architecture": "x64",
@@ -24975,7 +24975,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/da/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "de",
     "Architecture": "x64",
@@ -24984,7 +24984,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/de/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "dsb",
     "Architecture": "x64",
@@ -24993,7 +24993,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/dsb/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "el",
     "Architecture": "x64",
@@ -25002,7 +25002,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/el/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-CA",
     "Architecture": "x64",
@@ -25011,7 +25011,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/en-CA/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-GB",
     "Architecture": "x64",
@@ -25020,7 +25020,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/en-GB/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-US",
     "Architecture": "x64",
@@ -25029,7 +25029,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/en-US/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eo",
     "Architecture": "x64",
@@ -25038,7 +25038,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/eo/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-AR",
     "Architecture": "x64",
@@ -25047,7 +25047,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-AR/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-CL",
     "Architecture": "x64",
@@ -25056,7 +25056,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-CL/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-ES",
     "Architecture": "x64",
@@ -25065,7 +25065,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-ES/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-MX",
     "Architecture": "x64",
@@ -25074,7 +25074,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/es-MX/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "et",
     "Architecture": "x64",
@@ -25083,7 +25083,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/et/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eu",
     "Architecture": "x64",
@@ -25092,7 +25092,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/eu/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fa",
     "Architecture": "x64",
@@ -25101,7 +25101,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fa/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ff",
     "Architecture": "x64",
@@ -25110,7 +25110,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ff/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fi",
     "Architecture": "x64",
@@ -25119,7 +25119,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fi/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fr",
     "Architecture": "x64",
@@ -25128,7 +25128,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fy-NL",
     "Architecture": "x64",
@@ -25137,7 +25137,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/fy-NL/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ga-IE",
     "Architecture": "x64",
@@ -25146,7 +25146,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ga-IE/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gd",
     "Architecture": "x64",
@@ -25155,7 +25155,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gd/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gl",
     "Architecture": "x64",
@@ -25164,7 +25164,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gn",
     "Architecture": "x64",
@@ -25173,7 +25173,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gn/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gu-IN",
     "Architecture": "x64",
@@ -25182,7 +25182,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/gu-IN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "he",
     "Architecture": "x64",
@@ -25191,7 +25191,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/he/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hi-IN",
     "Architecture": "x64",
@@ -25200,7 +25200,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hi-IN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hr",
     "Architecture": "x64",
@@ -25209,7 +25209,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hsb",
     "Architecture": "x64",
@@ -25218,7 +25218,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hsb/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hu",
     "Architecture": "x64",
@@ -25227,7 +25227,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hu/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hy-AM",
     "Architecture": "x64",
@@ -25236,7 +25236,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/hy-AM/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ia",
     "Architecture": "x64",
@@ -25245,7 +25245,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ia/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "id",
     "Architecture": "x64",
@@ -25254,7 +25254,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/id/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "is",
     "Architecture": "x64",
@@ -25263,7 +25263,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/is/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "it",
     "Architecture": "x64",
@@ -25272,7 +25272,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/it/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ja",
     "Architecture": "x64",
@@ -25281,7 +25281,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ja/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ka",
     "Architecture": "x64",
@@ -25290,7 +25290,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ka/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kab",
     "Architecture": "x64",
@@ -25299,7 +25299,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/kab/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kk",
     "Architecture": "x64",
@@ -25308,7 +25308,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/kk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "km",
     "Architecture": "x64",
@@ -25317,7 +25317,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/km/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kn",
     "Architecture": "x64",
@@ -25326,7 +25326,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/kn/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ko",
     "Architecture": "x64",
@@ -25335,7 +25335,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ko/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lij",
     "Architecture": "x64",
@@ -25344,7 +25344,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/lij/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lt",
     "Architecture": "x64",
@@ -25353,7 +25353,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/lt/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lv",
     "Architecture": "x64",
@@ -25362,7 +25362,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/lv/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mk",
     "Architecture": "x64",
@@ -25371,7 +25371,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/mk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mr",
     "Architecture": "x64",
@@ -25380,7 +25380,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/mr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ms",
     "Architecture": "x64",
@@ -25389,7 +25389,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ms/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "my",
     "Architecture": "x64",
@@ -25398,7 +25398,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/my/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nb-NO",
     "Architecture": "x64",
@@ -25407,7 +25407,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/nb-NO/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ne-NP",
     "Architecture": "x64",
@@ -25416,7 +25416,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ne-NP/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nl",
     "Architecture": "x64",
@@ -25425,7 +25425,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/nl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nn-NO",
     "Architecture": "x64",
@@ -25434,7 +25434,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/nn-NO/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "oc",
     "Architecture": "x64",
@@ -25443,7 +25443,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/oc/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pa-IN",
     "Architecture": "x64",
@@ -25452,7 +25452,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pa-IN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pl",
     "Architecture": "x64",
@@ -25461,7 +25461,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-BR",
     "Architecture": "x64",
@@ -25470,7 +25470,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pt-BR/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-PT",
     "Architecture": "x64",
@@ -25479,7 +25479,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/pt-PT/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "rm",
     "Architecture": "x64",
@@ -25488,7 +25488,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/rm/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ro",
     "Architecture": "x64",
@@ -25497,7 +25497,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ro/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ru",
     "Architecture": "x64",
@@ -25506,7 +25506,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ru/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "si",
     "Architecture": "x64",
@@ -25515,7 +25515,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/si/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sk",
     "Architecture": "x64",
@@ -25524,7 +25524,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sl",
     "Architecture": "x64",
@@ -25533,7 +25533,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "son",
     "Architecture": "x64",
@@ -25542,7 +25542,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/son/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sq",
     "Architecture": "x64",
@@ -25551,7 +25551,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sq/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sr",
     "Architecture": "x64",
@@ -25560,7 +25560,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sv-SE",
     "Architecture": "x64",
@@ -25569,7 +25569,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/sv-SE/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ta",
     "Architecture": "x64",
@@ -25578,7 +25578,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ta/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "te",
     "Architecture": "x64",
@@ -25587,7 +25587,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/te/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "th",
     "Architecture": "x64",
@@ -25596,7 +25596,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/th/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "tr",
     "Architecture": "x64",
@@ -25605,7 +25605,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/tr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uk",
     "Architecture": "x64",
@@ -25614,7 +25614,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/uk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ur",
     "Architecture": "x64",
@@ -25623,7 +25623,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/ur/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uz",
     "Architecture": "x64",
@@ -25632,7 +25632,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/uz/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "vi",
     "Architecture": "x64",
@@ -25641,7 +25641,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/vi/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "xh",
     "Architecture": "x64",
@@ -25650,7 +25650,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/xh/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-CN",
     "Architecture": "x64",
@@ -25659,7 +25659,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win64/zh-CN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-TW",
     "Architecture": "x64",
@@ -26496,7 +26496,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b4/win64/zh-TW/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ach",
     "Architecture": "x86",
@@ -26505,7 +26505,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ach/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "af",
     "Architecture": "x86",
@@ -26514,7 +26514,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/af/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "an",
     "Architecture": "x86",
@@ -26523,7 +26523,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/an/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ar",
     "Architecture": "x86",
@@ -26532,7 +26532,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ar/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ast",
     "Architecture": "x86",
@@ -26541,7 +26541,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ast/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "az",
     "Architecture": "x86",
@@ -26550,7 +26550,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/az/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "be",
     "Architecture": "x86",
@@ -26559,7 +26559,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/be/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bg",
     "Architecture": "x86",
@@ -26568,7 +26568,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/bg/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "br",
     "Architecture": "x86",
@@ -26577,7 +26577,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/br/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "bs",
     "Architecture": "x86",
@@ -26586,7 +26586,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/bs/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ca",
     "Architecture": "x86",
@@ -26595,7 +26595,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ca/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cak",
     "Architecture": "x86",
@@ -26604,7 +26604,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/cak/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cs",
     "Architecture": "x86",
@@ -26613,7 +26613,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/cs/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "cy",
     "Architecture": "x86",
@@ -26622,7 +26622,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/cy/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "da",
     "Architecture": "x86",
@@ -26631,7 +26631,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/da/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "de",
     "Architecture": "x86",
@@ -26640,7 +26640,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/de/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "dsb",
     "Architecture": "x86",
@@ -26649,7 +26649,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/dsb/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "el",
     "Architecture": "x86",
@@ -26658,7 +26658,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/el/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-CA",
     "Architecture": "x86",
@@ -26667,7 +26667,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/en-CA/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-GB",
     "Architecture": "x86",
@@ -26676,7 +26676,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/en-GB/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "en-US",
     "Architecture": "x86",
@@ -26685,7 +26685,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/en-US/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eo",
     "Architecture": "x86",
@@ -26694,7 +26694,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/eo/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-AR",
     "Architecture": "x86",
@@ -26703,7 +26703,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-AR/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-CL",
     "Architecture": "x86",
@@ -26712,7 +26712,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-CL/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-ES",
     "Architecture": "x86",
@@ -26721,7 +26721,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-ES/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "es-MX",
     "Architecture": "x86",
@@ -26730,7 +26730,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/es-MX/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "et",
     "Architecture": "x86",
@@ -26739,7 +26739,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/et/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "eu",
     "Architecture": "x86",
@@ -26748,7 +26748,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/eu/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fa",
     "Architecture": "x86",
@@ -26757,7 +26757,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fa/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ff",
     "Architecture": "x86",
@@ -26766,7 +26766,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ff/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fi",
     "Architecture": "x86",
@@ -26775,7 +26775,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fi/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fr",
     "Architecture": "x86",
@@ -26784,7 +26784,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "fy-NL",
     "Architecture": "x86",
@@ -26793,7 +26793,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/fy-NL/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ga-IE",
     "Architecture": "x86",
@@ -26802,7 +26802,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ga-IE/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gd",
     "Architecture": "x86",
@@ -26811,7 +26811,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gd/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gl",
     "Architecture": "x86",
@@ -26820,7 +26820,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gn",
     "Architecture": "x86",
@@ -26829,7 +26829,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gn/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "gu-IN",
     "Architecture": "x86",
@@ -26838,7 +26838,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/gu-IN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "he",
     "Architecture": "x86",
@@ -26847,7 +26847,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/he/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hi-IN",
     "Architecture": "x86",
@@ -26856,7 +26856,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hi-IN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hr",
     "Architecture": "x86",
@@ -26865,7 +26865,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hsb",
     "Architecture": "x86",
@@ -26874,7 +26874,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hsb/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hu",
     "Architecture": "x86",
@@ -26883,7 +26883,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hu/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "hy-AM",
     "Architecture": "x86",
@@ -26892,7 +26892,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/hy-AM/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ia",
     "Architecture": "x86",
@@ -26901,7 +26901,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ia/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "id",
     "Architecture": "x86",
@@ -26910,7 +26910,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/id/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "is",
     "Architecture": "x86",
@@ -26919,7 +26919,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/is/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "it",
     "Architecture": "x86",
@@ -26928,7 +26928,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/it/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ja",
     "Architecture": "x86",
@@ -26937,7 +26937,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ja/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ka",
     "Architecture": "x86",
@@ -26946,7 +26946,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ka/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kab",
     "Architecture": "x86",
@@ -26955,7 +26955,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/kab/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kk",
     "Architecture": "x86",
@@ -26964,7 +26964,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/kk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "km",
     "Architecture": "x86",
@@ -26973,7 +26973,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/km/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "kn",
     "Architecture": "x86",
@@ -26982,7 +26982,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/kn/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ko",
     "Architecture": "x86",
@@ -26991,7 +26991,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ko/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lij",
     "Architecture": "x86",
@@ -27000,7 +27000,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/lij/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lt",
     "Architecture": "x86",
@@ -27009,7 +27009,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/lt/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "lv",
     "Architecture": "x86",
@@ -27018,7 +27018,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/lv/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mk",
     "Architecture": "x86",
@@ -27027,7 +27027,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/mk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "mr",
     "Architecture": "x86",
@@ -27036,7 +27036,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/mr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ms",
     "Architecture": "x86",
@@ -27045,7 +27045,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ms/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "my",
     "Architecture": "x86",
@@ -27054,7 +27054,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/my/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nb-NO",
     "Architecture": "x86",
@@ -27063,7 +27063,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/nb-NO/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ne-NP",
     "Architecture": "x86",
@@ -27072,7 +27072,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ne-NP/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nl",
     "Architecture": "x86",
@@ -27081,7 +27081,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/nl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "nn-NO",
     "Architecture": "x86",
@@ -27090,7 +27090,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/nn-NO/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "oc",
     "Architecture": "x86",
@@ -27099,7 +27099,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/oc/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pa-IN",
     "Architecture": "x86",
@@ -27108,7 +27108,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pa-IN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pl",
     "Architecture": "x86",
@@ -27117,7 +27117,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-BR",
     "Architecture": "x86",
@@ -27126,7 +27126,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pt-BR/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "pt-PT",
     "Architecture": "x86",
@@ -27135,7 +27135,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/pt-PT/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "rm",
     "Architecture": "x86",
@@ -27144,7 +27144,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/rm/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ro",
     "Architecture": "x86",
@@ -27153,7 +27153,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ro/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ru",
     "Architecture": "x86",
@@ -27162,7 +27162,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ru/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "si",
     "Architecture": "x86",
@@ -27171,7 +27171,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/si/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sk",
     "Architecture": "x86",
@@ -27180,7 +27180,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sl",
     "Architecture": "x86",
@@ -27189,7 +27189,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sl/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "son",
     "Architecture": "x86",
@@ -27198,7 +27198,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/son/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sq",
     "Architecture": "x86",
@@ -27207,7 +27207,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sq/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sr",
     "Architecture": "x86",
@@ -27216,7 +27216,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "sv-SE",
     "Architecture": "x86",
@@ -27225,7 +27225,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/sv-SE/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ta",
     "Architecture": "x86",
@@ -27234,7 +27234,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ta/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "te",
     "Architecture": "x86",
@@ -27243,7 +27243,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/te/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "th",
     "Architecture": "x86",
@@ -27252,7 +27252,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/th/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "tr",
     "Architecture": "x86",
@@ -27261,7 +27261,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/tr/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uk",
     "Architecture": "x86",
@@ -27270,7 +27270,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/uk/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "ur",
     "Architecture": "x86",
@@ -27279,7 +27279,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/ur/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "uz",
     "Architecture": "x86",
@@ -27288,7 +27288,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/uz/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "vi",
     "Architecture": "x86",
@@ -27297,7 +27297,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/vi/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "xh",
     "Architecture": "x86",
@@ -27306,7 +27306,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/xh/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-CN",
     "Architecture": "x86",
@@ -27315,7 +27315,7 @@
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b4/win32/zh-CN/Firefox%20Setup%20143.0b4.msi"
   },
   {
-    "Version": "143.0b3",
+    "Version": "143.0b4",
     "Channel": "Beta",
     "Language": "zh-TW",
     "Architecture": "x86",
