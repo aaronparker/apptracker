@@ -7,10 +7,10 @@
     "URI": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20231.4.5770%20Offline%20Installer.arm64.exe"
   },
   {
-    "Version": "231.4.5770",
+    "Version": "231.3.5710",
     "Architecture": "x64",
     "Type": "exe",
-    "Filename": "Dropbox 231.4.5770 Offline Installer.x64.exe",
-    "URI": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20231.4.5770%20Offline%20Installer.x64.exe"
+    "Filename": "Dropbox 231.3.5710 Offline Installer.x64.exe",
+    "URI": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20231.3.5710%20Offline%20Installer.x64.exe"
   }
 ]
