@@ -12,10 +12,7 @@ last_modified_date: Dec 19 2024 at 12:40 AM
 
 Evergreen app: `FreedomScientificZoomText`. Found **2** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version      | Date     | Architecture | URI                                                                                                                                                                                                                                                                            |
 | ------------ | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
