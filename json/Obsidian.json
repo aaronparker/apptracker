@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.9.10",
-    "Date": "18/8/2025",
-    "Size": 279721936,
+    "Version": "1.9.12",
+    "Date": "26/8/2025",
+    "Size": 279812984,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.10/Obsidian-1.9.10.exe"
+    "URI": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.12/Obsidian-1.9.12.exe"
   }
 ]

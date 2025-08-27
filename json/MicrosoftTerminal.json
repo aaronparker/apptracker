@@ -1,56 +1,56 @@
 [
   {
-    "Version": "1.22.12111.0",
-    "Date": "30/7/2025",
-    "Size": 22185156,
+    "Version": "1.23.12371.0",
+    "Date": "25/8/2025",
+    "Size": 23181929,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "msixbundle",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.22.12111.0/Microsoft.WindowsTerminal_1.22.12111.0_8wekyb3d8bbwe.msixbundle"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.12371.0/Microsoft.WindowsTerminal_1.23.12371.0_8wekyb3d8bbwe.msixbundle"
   },
   {
-    "Version": "1.22.12111.0",
-    "Date": "30/7/2025",
-    "Size": 11650271,
+    "Version": "1.23.12371.0",
+    "Date": "25/8/2025",
+    "Size": 11969229,
     "Architecture": "ARM64",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.22.12111.0/Microsoft.WindowsTerminal_1.22.12111.0_arm64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.12371.0/Microsoft.WindowsTerminal_1.23.12371.0_arm64.zip"
   },
   {
-    "Version": "1.22.12111.0",
-    "Date": "30/7/2025",
-    "Size": 11460555,
+    "Version": "1.23.12371.0",
+    "Date": "25/8/2025",
+    "Size": 11747009,
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.22.12111.0/Microsoft.WindowsTerminal_1.22.12111.0_x64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.12371.0/Microsoft.WindowsTerminal_1.23.12371.0_x64.zip"
   },
   {
-    "Version": "1.22.12111.0",
-    "Date": "30/7/2025",
-    "Size": 2541,
+    "Version": "1.23.12371.0",
+    "Date": "25/8/2025",
+    "Size": 2542,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.22.12111.0/GroupPolicyTemplates_1.22.12111.0.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.12371.0/GroupPolicyTemplates_1.23.12371.0.zip"
   },
   {
-    "Version": "1.22.12111.0",
-    "Date": "30/7/2025",
-    "Size": 41240427,
+    "Version": "1.23.12371.0",
+    "Date": "25/8/2025",
+    "Size": 42230351,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.22.12111.0/Microsoft.WindowsTerminal_1.22.12111.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.12371.0/Microsoft.WindowsTerminal_1.23.12371.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
   },
   {
-    "Version": "1.22.12111.0",
-    "Date": "30/7/2025",
-    "Size": 10643123,
+    "Version": "1.23.12371.0",
+    "Date": "25/8/2025",
+    "Size": 10900241,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.22.12111.0/Microsoft.WindowsTerminal_1.22.12111.0_x86.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.12371.0/Microsoft.WindowsTerminal_1.23.12371.0_x86.zip"
   }
 ]
