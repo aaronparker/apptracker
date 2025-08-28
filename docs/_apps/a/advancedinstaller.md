@@ -3,7 +3,7 @@ title: Advanced Installer
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Aug 9 2025 at 12:43 AM
+last_modified_date: Aug 28 2025 at 12:40 AM
 ---
 
 ## Advanced Installer
@@ -14,6 +14,6 @@ Evergreen app: `AdvancedInstaller`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Size      | Sha256                                                           | Type | URI                                                                                                                              |
-| ------- | --------- | ---------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 22.9.1  | 307402752 | D4178F880532A67F9C57DFE3D8F8E6B8FE91F95F656D6B89AF442EC3F6FC62D0 | msi  | [https://www.advancedinstaller.com/downloads/22.9.1/advinst.msi](https://www.advancedinstaller.com/downloads/22.9.1/advinst.msi) |
+| Version | Size      | Sha256                                                           | Type | URI                                                                                                                          |
+| ------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 23.0    | 309914624 | E5CCF958F0956E9FA2AAABA5FF33ABF75A907D3FA2B4A67250A1C434CFD4D925 | msi  | [https://www.advancedinstaller.com/downloads/23.0/advinst.msi](https://www.advancedinstaller.com/downloads/23.0/advinst.msi) |

@@ -3,7 +3,7 @@ title: Node.js
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Aug 15 2025 at 12:43 AM
+last_modified_date: Aug 28 2025 at 12:40 AM
 ---
 
 ## Node.js
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version | Architecture | Type | Channel | URI                                                                                                                      |
 | ------- | ------------ | ---- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 24.6.0  | ARM64        | msi  | Current | [https://nodejs.org/dist/v24.6.0/node-v24.6.0-arm64.msi](https://nodejs.org/dist/v24.6.0/node-v24.6.0-arm64.msi)         |
-| 24.6.0  | x64          | msi  | Current | [https://nodejs.org/dist/v24.6.0/node-v24.6.0-x64.msi](https://nodejs.org/dist/v24.6.0/node-v24.6.0-x64.msi)             |
-| 24.6.0  | x86          | msi  | Current | [https://nodejs.org/dist/v24.6.0/node-v24.6.0-x86.msi](https://nodejs.org/dist/v24.6.0/node-v24.6.0-x86.msi)             |
-| 24.6.0  | ARM64        | zip  | Current | [https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-arm64.zip](https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-arm64.zip) |
-| 24.6.0  | x64          | zip  | Current | [https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-x64.zip](https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-x64.zip)     |
-| 24.6.0  | x86          | zip  | Current | [https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-x86.zip](https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-x86.zip)     |
+| 24.7.0  | ARM64        | msi  | Current | [https://nodejs.org/dist/v24.7.0/node-v24.7.0-arm64.msi](https://nodejs.org/dist/v24.7.0/node-v24.7.0-arm64.msi)         |
+| 24.7.0  | x64          | msi  | Current | [https://nodejs.org/dist/v24.7.0/node-v24.7.0-x64.msi](https://nodejs.org/dist/v24.7.0/node-v24.7.0-x64.msi)             |
+| 24.7.0  | x86          | msi  | Current | [https://nodejs.org/dist/v24.7.0/node-v24.7.0-x86.msi](https://nodejs.org/dist/v24.7.0/node-v24.7.0-x86.msi)             |
+| 24.7.0  | ARM64        | zip  | Current | [https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-arm64.zip](https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-arm64.zip) |
+| 24.7.0  | x64          | zip  | Current | [https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x64.zip](https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x64.zip)     |
+| 24.7.0  | x86          | zip  | Current | [https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x86.zip](https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x86.zip)     |
 | 22.18.0 | x64          | msi  | LTS     | [https://nodejs.org/dist/v22.18.0/node-v22.18.0-x64.msi](https://nodejs.org/dist/v22.18.0/node-v22.18.0-x64.msi)         |
 | 22.18.0 | x86          | msi  | LTS     | [https://nodejs.org/dist/v22.18.0/node-v22.18.0-x86.msi](https://nodejs.org/dist/v22.18.0/node-v22.18.0-x86.msi)         |
 | 22.18.0 | x64          | zip  | LTS     | [https://nodejs.org/dist/v22.18.0/node-v22.18.0-win-x64.zip](https://nodejs.org/dist/v22.18.0/node-v22.18.0-win-x64.zip) |
