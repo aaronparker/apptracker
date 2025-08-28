@@ -1,20 +1,20 @@
 [
   {
-    "Version": "1.33.4",
+    "Version": "1.34.0",
     "Architecture": "arm64",
     "Platform": "Windows",
-    "URI": "https://dl.k8s.io/release/v1.33.4/bin/windows/arm64/kubectl.exe"
+    "URI": "https://dl.k8s.io/release/v1.34.0/bin/windows/arm64/kubectl.exe"
   },
   {
-    "Version": "1.33.4",
+    "Version": "1.34.0",
     "Architecture": "x64",
     "Platform": "Windows",
-    "URI": "https://dl.k8s.io/release/v1.33.4/bin/windows/amd64/kubectl.exe"
+    "URI": "https://dl.k8s.io/release/v1.34.0/bin/windows/amd64/kubectl.exe"
   },
   {
-    "Version": "1.33.4",
+    "Version": "1.34.0",
     "Architecture": "x86",
     "Platform": "Windows",
-    "URI": "https://dl.k8s.io/release/v1.33.4/bin/windows/386/kubectl.exe"
+    "URI": "https://dl.k8s.io/release/v1.34.0/bin/windows/386/kubectl.exe"
   }
 ]
