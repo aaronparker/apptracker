@@ -1,12 +1,12 @@
 [
   {
-    "Version": "9.1.5.340",
+    "Version": "9.1.5.336",
     "Plugin": "Citrix Workspace App - Windows",
     "Architecture": "x86",
     "URI": "https://downloads.controlup.com/RemoteDX/citrix/windows/curdx_windows_citrix.exe"
   },
   {
-    "Version": "9.1.5.340",
+    "Version": "9.1.5.336",
     "Plugin": "VMware Horizon Client - Windows",
     "Architecture": "x86",
     "URI": "https://downloads.controlup.com/RemoteDX/vmware/windows/curdx_windows_vmware.exe"
