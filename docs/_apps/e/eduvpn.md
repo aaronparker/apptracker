@@ -14,7 +14,7 @@ Evergreen app: `Eduvpn`. Found **4** installers.
 
 Last check: 🔴
 ```
-Response status code does not indicate success: 404 (Not Found).
+Response status code does not indicate success: 502 (Bad Gateway).
 ```
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
