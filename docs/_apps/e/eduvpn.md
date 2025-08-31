@@ -12,10 +12,7 @@ last_modified_date: Sep 26 2024 at 12:50 AM
 
 Evergreen app: `Eduvpn`. Found **4** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 502 (Bad Gateway).
-```
+Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
