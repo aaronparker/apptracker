@@ -1,57 +1,57 @@
 [
   {
-    "Version": "6.5.11.13227",
+    "Version": "6.5.12.14128",
     "Platform": "Desktop",
     "Installer": "User",
-    "Size": 89153056,
+    "Size": 89159056,
     "Type": "exe",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/6.5.11.13227/arm64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/6.5.12.14128/arm64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "6.5.11.13227",
+    "Version": "6.5.12.14128",
     "Platform": "Desktop",
     "Installer": "User",
-    "Size": 118962592,
+    "Size": 118965224,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.5.11.13227/x64/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/6.5.12.14128/x64/ZoomInstallerFull.exe"
   },
   {
-    "Version": "6.5.11.13227",
+    "Version": "6.5.12.14128",
     "Platform": "Desktop",
     "Installer": "User",
-    "Size": 110033768,
+    "Size": 110046440,
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.5.11.13227/ZoomInstallerFull.exe"
+    "URI": "https://cdn.zoom.us/prod/6.5.12.14128/ZoomInstallerFull.exe"
   },
   {
-    "Version": "6.5.11.13227",
+    "Version": "6.5.12.14128",
     "Platform": "Desktop",
     "Installer": "Admin",
-    "Size": 121188864,
+    "Size": 121178624,
     "Type": "msi",
     "Architecture": "ARM64",
-    "URI": "https://cdn.zoom.us/prod/6.5.11.13227/arm64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/6.5.12.14128/arm64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "6.5.11.13227",
+    "Version": "6.5.12.14128",
     "Platform": "Desktop",
     "Installer": "Admin",
-    "Size": 148880896,
+    "Size": 148841472,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.5.11.13227/x64/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/6.5.12.14128/x64/ZoomInstallerFull.msi"
   },
   {
-    "Version": "6.5.11.13227",
+    "Version": "6.5.12.14128",
     "Platform": "Desktop",
     "Installer": "Admin",
-    "Size": 138137088,
+    "Size": 138172416,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.5.11.13227/ZoomInstallerFull.msi"
+    "URI": "https://cdn.zoom.us/prod/6.5.12.14128/ZoomInstallerFull.msi"
   },
   {
     "Version": "6.5.6.6405",
