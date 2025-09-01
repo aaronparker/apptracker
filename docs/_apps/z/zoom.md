@@ -3,7 +3,7 @@ title: Zoom
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Aug 25 2025 at 12:22 PM
+last_modified_date: Sep 1 2025 at 12:33 PM
 ---
 
 ## Zoom
@@ -16,12 +16,12 @@ Last check: 🟢
 
 | Version      | Platform | Installer | Size      | Type | Architecture | URI                                                                                                                                          |
 | ------------ | -------- | --------- | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.5.11.13227 | Desktop  | User      | 89153056  | exe  | ARM64        | [https://cdn.zoom.us/prod/6.5.11.13227/arm64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.5.11.13227/arm64/ZoomInstallerFull.exe)       |
-| 6.5.11.13227 | Desktop  | User      | 118962592 | exe  | x64          | [https://cdn.zoom.us/prod/6.5.11.13227/x64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.5.11.13227/x64/ZoomInstallerFull.exe)           |
-| 6.5.11.13227 | Desktop  | User      | 110033768 | exe  | x86          | [https://cdn.zoom.us/prod/6.5.11.13227/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.5.11.13227/ZoomInstallerFull.exe)                   |
-| 6.5.11.13227 | Desktop  | Admin     | 121188864 | msi  | ARM64        | [https://cdn.zoom.us/prod/6.5.11.13227/arm64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.5.11.13227/arm64/ZoomInstallerFull.msi)       |
-| 6.5.11.13227 | Desktop  | Admin     | 148880896 | msi  | x64          | [https://cdn.zoom.us/prod/6.5.11.13227/x64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.5.11.13227/x64/ZoomInstallerFull.msi)           |
-| 6.5.11.13227 | Desktop  | Admin     | 138137088 | msi  | x86          | [https://cdn.zoom.us/prod/6.5.11.13227/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.5.11.13227/ZoomInstallerFull.msi)                   |
+| 6.5.12.14128 | Desktop  | User      | 89159056  | exe  | ARM64        | [https://cdn.zoom.us/prod/6.5.12.14128/arm64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.5.12.14128/arm64/ZoomInstallerFull.exe)       |
+| 6.5.12.14128 | Desktop  | User      | 118965224 | exe  | x64          | [https://cdn.zoom.us/prod/6.5.12.14128/x64/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.5.12.14128/x64/ZoomInstallerFull.exe)           |
+| 6.5.12.14128 | Desktop  | User      | 110046440 | exe  | x86          | [https://cdn.zoom.us/prod/6.5.12.14128/ZoomInstallerFull.exe](https://cdn.zoom.us/prod/6.5.12.14128/ZoomInstallerFull.exe)                   |
+| 6.5.12.14128 | Desktop  | Admin     | 121178624 | msi  | ARM64        | [https://cdn.zoom.us/prod/6.5.12.14128/arm64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.5.12.14128/arm64/ZoomInstallerFull.msi)       |
+| 6.5.12.14128 | Desktop  | Admin     | 148841472 | msi  | x64          | [https://cdn.zoom.us/prod/6.5.12.14128/x64/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.5.12.14128/x64/ZoomInstallerFull.msi)           |
+| 6.5.12.14128 | Desktop  | Admin     | 138172416 | msi  | x86          | [https://cdn.zoom.us/prod/6.5.12.14128/ZoomInstallerFull.msi](https://cdn.zoom.us/prod/6.5.12.14128/ZoomInstallerFull.msi)                   |
 | 6.5.6.6405   | Rooms    | User      | 373920432 | exe  | x64          | [https://cdn.zoom.us/prod/6.5.6.6405/x64/zoomrooms-6.5.6.6405-x64.exe](https://cdn.zoom.us/prod/6.5.6.6405/x64/zoomrooms-6.5.6.6405-x64.exe) |
 | 6.5.6.6405   | Rooms    | Admin     | 376941056 | msi  | x64          | [https://cdn.zoom.us/prod/6.5.6.6405/x64/zoomrooms-6.5.6.6405-x64.msi](https://cdn.zoom.us/prod/6.5.6.6405/x64/zoomrooms-6.5.6.6405-x64.msi) |
 | 6.5.5.1172   | Outlook  | User      | 11814400  | msi  | x86          | [https://cdn.zoom.us/prod/6.5.5.1172/ZoomOutlookPluginSetup.msi](https://cdn.zoom.us/prod/6.5.5.1172/ZoomOutlookPluginSetup.msi)             |

@@ -3,7 +3,7 @@ title: Telegram Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Aug 2 2025 at 12:21 PM
+last_modified_date: Sep 1 2025 at 12:33 PM
 ---
 
 ## Telegram Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                          |
 | ------- | ------------------------------------------------------------------------------------------------------------ |
-| 6.0.2   | [https://updates.tdesktop.com/tsetup/tsetup.6.0.2.exe](https://updates.tdesktop.com/tsetup/tsetup.6.0.2.exe) |
+| 6.1.0   | [https://updates.tdesktop.com/tsetup/tsetup.6.1.0.exe](https://updates.tdesktop.com/tsetup/tsetup.6.1.0.exe) |
