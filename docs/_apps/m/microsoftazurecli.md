@@ -3,7 +3,7 @@ title: Microsoft Azure CLI
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Aug 5 2025 at 12:23 PM
+last_modified_date: Sep 2 2025 at 12:23 PM
 ---
 
 ## Microsoft Azure CLI
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size     | Architecture | Type | URI                                                                                                                                          |
 | ------- | --------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.76.0  | 30/7/2025 | 69246976 | x64          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.76.0-x64.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.76.0-x64.msi) |
-| 2.76.0  | 30/7/2025 | 67088384 | x86          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.76.0.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.76.0.msi)         |
+| 2.77.0  | 27/8/2025 | 66801664 | x64          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0-x64.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0-x64.msi) |
+| 2.77.0  | 27/8/2025 | 64626688 | x86          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0.msi)         |

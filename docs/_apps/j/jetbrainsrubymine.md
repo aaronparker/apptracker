@@ -3,7 +3,7 @@ title: JetBrains RubyMine
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Aug 5 2025 at 12:55 AM
+last_modified_date: Sep 2 2025 at 12:23 PM
 ---
 
 ## JetBrains RubyMine
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsRubyMine`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Build         | Edition  | Sha256                                                         | Date     | Size      | Type | URI                                                                                                                |
-| ------- | ------------- | -------- | -------------------------------------------------------------- | -------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------ |
-| 2025.2  | 252.23892.415 | RubyMine | https://download.jetbrains.com/ruby/RubyMine-2025.2.exe.sha256 | 4/8/2025 | 925851320 | exe  | [https://download.jetbrains.com/ruby/RubyMine-2025.2.exe](https://download.jetbrains.com/ruby/RubyMine-2025.2.exe) |
+| Version  | Build         | Edition  | Sha256                                                           | Date     | Size      | Type | URI                                                                                                                    |
+| -------- | ------------- | -------- | ---------------------------------------------------------------- | -------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |
+| 2025.2.1 | 252.25557.135 | RubyMine | https://download.jetbrains.com/ruby/RubyMine-2025.2.1.exe.sha256 | 2/9/2025 | 924623160 | exe  | [https://download.jetbrains.com/ruby/RubyMine-2025.2.1.exe](https://download.jetbrains.com/ruby/RubyMine-2025.2.1.exe) |
