@@ -1,20 +1,11 @@
 [
   {
-    "Version": "10.0.0",
-    "Date": "17/7/2025",
-    "Size": 21770240,
+    "Version": "10.1.0",
+    "Date": "2/9/2025",
+    "Size": 21766144,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.0.0/MarkMpn.Sql4Cds.SSMS.20.Setup.msi"
-  },
-  {
-    "Version": "10.0.0",
-    "Date": "17/7/2025",
-    "Size": 30478934,
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.0.0/MarkMpn.Sql4Cds.SSMS.21.Setup.msi"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/MarkMpn.Sql4Cds.SSMS.20.Setup.msi"
   }
 ]
