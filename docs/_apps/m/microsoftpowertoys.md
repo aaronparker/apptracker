@@ -3,7 +3,7 @@ title: Microsoft PowerToys
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Aug 14 2025 at 12:44 AM
+last_modified_date: Sep 3 2025 at 12:38 AM
 ---
 
 ## Microsoft PowerToys
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                          |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.93.0  | 12/8/2025 | 356035784 | ARM64        | Default       | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysSetup-0.93.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysSetup-0.93.0-arm64.exe)         |
-| 0.93.0  | 12/8/2025 | 356036776 | ARM64        | User          | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysUserSetup-0.93.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysUserSetup-0.93.0-arm64.exe) |
-| 0.93.0  | 12/8/2025 | 358818400 | x64          | Default       | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysSetup-0.93.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysSetup-0.93.0-x64.exe)             |
-| 0.93.0  | 12/8/2025 | 358819112 | x64          | User          | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysUserSetup-0.93.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.93.0/PowerToysUserSetup-0.93.0-x64.exe)     |
+| 0.94.0  | 29/8/2025 | 312535624 | ARM64        | Default       | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysSetup-0.94.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysSetup-0.94.0-arm64.exe)         |
+| 0.94.0  | 29/8/2025 | 312512368 | ARM64        | User          | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysUserSetup-0.94.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysUserSetup-0.94.0-arm64.exe) |
+| 0.94.0  | 29/8/2025 | 319163736 | x64          | Default       | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysSetup-0.94.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysSetup-0.94.0-x64.exe)             |
+| 0.94.0  | 29/8/2025 | 319138512 | x64          | User          | exe  | [https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysUserSetup-0.94.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.94.0/PowerToysUserSetup-0.94.0-x64.exe)     |
