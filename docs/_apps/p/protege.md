@@ -3,7 +3,7 @@ title: Protege
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Aug 9 2025 at 12:27 PM
+last_modified_date: Sep 4 2025 at 12:47 AM
 ---
 
 ## Protege
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date     | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                          |
 | ------- | -------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.6.7   | 9/8/2025 | 116176222 | x86          | Default       | zip  | [https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.7/Protege-5.6.7-win.zip](https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.7/Protege-5.6.7-win.zip) |
+| 5.6.8   | 3/9/2025 | 116241574 | x86          | Default       | zip  | [https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.8/Protege-5.6.8-win.zip](https://github.com/protegeproject/protege-distribution/releases/download/protege-5.6.8/Protege-5.6.8-win.zip) |
