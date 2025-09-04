@@ -3,7 +3,7 @@ title: Beekeeper Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Sep 3 2025 at 12:30 PM
+last_modified_date: Sep 4 2025 at 12:21 PM
 ---
 
 ## Beekeeper Studio
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date     | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                    |
 | ------- | -------- | --------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.3.5   | 3/9/2025 | 161569232 | x86          | Portable      | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.5/Beekeeper-Studio-5.3.5-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.5/Beekeeper-Studio-5.3.5-portable.exe) |
-| 5.3.5   | 3/9/2025 | 161789944 | x86          | Default       | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.5/Beekeeper-Studio-Setup-5.3.5.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.5/Beekeeper-Studio-Setup-5.3.5.exe)       |
+| 5.3.6   | 4/9/2025 | 161568552 | x86          | Portable      | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.6/Beekeeper-Studio-5.3.6-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.6/Beekeeper-Studio-5.3.6-portable.exe) |
+| 5.3.6   | 4/9/2025 | 161789192 | x86          | Default       | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.6/Beekeeper-Studio-Setup-5.3.6.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.3.6/Beekeeper-Studio-Setup-5.3.6.exe)       |
