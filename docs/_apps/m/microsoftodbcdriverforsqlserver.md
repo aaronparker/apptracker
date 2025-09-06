@@ -12,10 +12,7 @@ last_modified_date: Feb 7 2025 at 12:37 PM
 
 Evergreen app: `MicrosoftODBCDriverForSQLServer`. Found **33** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version  | Date     | Size    | Language              | Architecture | Type | URI                                                                                                                                                                                                                                            |
 | -------- | -------- | ------- | --------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
