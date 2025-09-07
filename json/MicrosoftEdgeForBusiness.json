@@ -155,9 +155,9 @@
   },
   {
     "Version": "140.0.3485.54",
-    "Date": "2025-09-05T19:44:00",
+    "Date": "2025-09-05T19:52:00",
     "Channel": "Stable",
-    "Expiry": "2026-09-05T19:05:00",
+    "Expiry": "2026-09-05T19:52:00",
     "SHA256": "62B2F2155A81F95B41A04E85EB38870644A7B80466E7C4FA594F8A7959DD1D71",
     "Size": 188.07,
     "Architecture": "arm64",
@@ -177,9 +177,9 @@
   },
   {
     "Version": "140.0.3485.54",
-    "Date": "2025-09-05T19:57:00",
+    "Date": "2025-09-05T20:09:00",
     "Channel": "Stable",
-    "Expiry": "2026-09-05T19:05:00",
+    "Expiry": "2026-09-05T20:09:00",
     "SHA256": "36B370DD79EE5C20E40980EC3CFE44B01EDD94B81E908B7D0411548A6FB27FD5",
     "Size": 183.04,
     "Architecture": "x64",
@@ -199,9 +199,9 @@
   },
   {
     "Version": "140.0.3485.54",
-    "Date": "2025-09-05T19:56:00",
+    "Date": "2025-09-05T20:07:00",
     "Channel": "Stable",
-    "Expiry": "2026-09-05T19:16:00",
+    "Expiry": "2026-09-05T20:07:00",
     "SHA256": "3C68A69C8ECED6D361D72FDDEC7F9F699C2790A93FE6E3B32F8282C9934B4F62",
     "Size": 163.18,
     "Architecture": "x86",
@@ -1617,14 +1617,14 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa2d56c7-e2af-4b92-923f-0f0272bc5ed1/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
-    "Version": "1.3.195.65",
-    "Date": "2025-08-01T20:31:00",
+    "Version": "1.3.195.69",
+    "Date": "2025-09-07T00:34:00",
     "Channel": "EdgeUpdate",
-    "Expiry": "2026-08-01T20:31:00",
-    "SHA256": "A5D95D381321AFC4D15A69309B94F164BB1FE37586A1C49FF096F55F71576BC7",
+    "Expiry": "2026-09-07T00:34:00",
+    "SHA256": "164639C304E81B946DFB567F0316C6585DCE40E47959952003F8083ADE65892F",
     "Size": 1.57,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b51369c7-f2df-41c8-a7c3-c333d464bf3f/MicrosoftEdgeUpdateSetup_X86_1.3.195.65.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9de22b06-9ede-47b8-ac34-8d33d3cd7862/MicrosoftEdgeUpdateSetup_X86_1.3.195.69.exe"
   }
 ]

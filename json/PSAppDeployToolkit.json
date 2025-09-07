@@ -1,29 +1,29 @@
 [
   {
-    "Version": "4.1.4",
-    "Date": "4/9/2025",
-    "Size": 8734909,
+    "Version": "4.1.5",
+    "Date": "7/9/2025",
+    "Size": 8736134,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/4.1.4/PSAppDeployToolkit_ModuleOnly.zip"
+    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/4.1.5/PSAppDeployToolkit_ModuleOnly.zip"
   },
   {
-    "Version": "4.1.4",
-    "Date": "4/9/2025",
-    "Size": 9412358,
+    "Version": "4.1.5",
+    "Date": "7/9/2025",
+    "Size": 9413582,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/4.1.4/PSAppDeployToolkit_Template_v3.zip"
+    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/4.1.5/PSAppDeployToolkit_Template_v3.zip"
   },
   {
-    "Version": "4.1.4",
-    "Date": "4/9/2025",
-    "Size": 9391151,
+    "Version": "4.1.5",
+    "Date": "7/9/2025",
+    "Size": 9392377,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/4.1.4/PSAppDeployToolkit_Template_v4.zip"
+    "URI": "https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/releases/download/4.1.5/PSAppDeployToolkit_Template_v4.zip"
   }
 ]
