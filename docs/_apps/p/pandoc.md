@@ -3,7 +3,7 @@ title: Pandoc
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: May 29 2025 at 12:25 PM
+last_modified_date: Sep 7 2025 at 12:44 AM
 ---
 
 ## Pandoc
@@ -14,6 +14,6 @@ Evergreen app: `Pandoc`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                    |
-| ------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.7.0.2 | 28/5/2025 | 40005632 | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-windows-x86_64.msi) |
+| Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
+| ------- | -------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.8     | 6/9/2025 | 40439808 | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-windows-x86_64.msi) |
