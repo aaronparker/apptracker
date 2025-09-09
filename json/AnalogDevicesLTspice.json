@@ -1,10 +1,10 @@
 [
   {
-    "Version": "24.1.9.1",
-    "Date": "27/05/2025",
-    "Size": "138287616",
-    "Sha256": "AF93F7916FE70CDF7D99B4E4943AE67A0737C1F2286AD9900BC1DE028A1E987F",
+    "Version": "24.1.10.4",
+    "Date": "08/09/2025",
+    "Size": "181662720",
+    "Sha256": "2D22BCE2881B064F643FB2CA83CAF30860EAAB7E977EC2B82B39F667079AF02E",
     "Type": "msi",
-    "URI": "https://LTspice.analog.com/download/24.1.9/LTspice64.msi"
+    "URI": "https://LTspice.analog.com/download/24.1.10/LTspice64.msi"
   }
 ]
