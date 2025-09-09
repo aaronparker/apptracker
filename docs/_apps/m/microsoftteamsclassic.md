@@ -12,7 +12,10 @@ last_modified_date: Aug 7 2025 at 01:01 AM
 
 Evergreen app: `MicrosoftTeamsClassic`. Found **48** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 503 (Service Unavailable).
+```
 
 | Version      | Ring              | Architecture | Type | URI                                                                                                                                                                                                      |
 | ------------ | ----------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
