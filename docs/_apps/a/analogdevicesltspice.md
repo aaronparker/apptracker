@@ -3,7 +3,7 @@ title: Analog Devices LTspice
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 28 2025 at 12:48 AM
+last_modified_date: Sep 9 2025 at 12:39 PM
 ---
 
 ## Analog Devices LTspice
@@ -14,6 +14,6 @@ Evergreen app: `AnalogDevicesLTspice`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Date       | Size      | Sha256                                                           | Type | URI                                                                                                                  |
-| -------- | ---------- | --------- | ---------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| 24.1.9.1 | 27/05/2025 | 138287616 | AF93F7916FE70CDF7D99B4E4943AE67A0737C1F2286AD9900BC1DE028A1E987F | msi  | [https://LTspice.analog.com/download/24.1.9/LTspice64.msi](https://LTspice.analog.com/download/24.1.9/LTspice64.msi) |
+| Version   | Date       | Size      | Sha256                                                           | Type | URI                                                                                                                    |
+| --------- | ---------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |
+| 24.1.10.4 | 08/09/2025 | 181662720 | 2D22BCE2881B064F643FB2CA83CAF30860EAAB7E977EC2B82B39F667079AF02E | msi  | [https://LTspice.analog.com/download/24.1.10/LTspice64.msi](https://LTspice.analog.com/download/24.1.10/LTspice64.msi) |
