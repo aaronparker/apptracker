@@ -14,7 +14,7 @@ Evergreen app: `MestrelabMnova`. Found **2** installers.
 
 Last check: 🔴
 ```
-Connection timed out (mestrelab.com:443)
+Response status code does not indicate success: 404 (Not Found).
 ```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
