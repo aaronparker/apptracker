@@ -3,7 +3,7 @@ title: jrsoftware InnoSetup
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Sep 9 2025 at 12:39 PM
+last_modified_date: Sep 10 2025 at 12:29 PM
 ---
 
 ## jrsoftware InnoSetup
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 6.5.1   | [https://files.jrsoftware.org/is/6/innosetup-6.5.1.exe](https://files.jrsoftware.org/is/6/innosetup-6.5.1.exe) |
+| 6.5.2   | [https://files.jrsoftware.org/is/6/innosetup-6.5.2.exe](https://files.jrsoftware.org/is/6/innosetup-6.5.2.exe) |
