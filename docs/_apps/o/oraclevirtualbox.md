@@ -3,7 +3,7 @@ title: Oracle VirtualBox
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Aug 14 2025 at 12:26 PM
+last_modified_date: Sep 11 2025 at 12:20 PM
 ---
 
 ## Oracle VirtualBox
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version   | Channel | Type | URI                                                                                                                                                                                  |
 | --------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.2.0     | LATEST  | exe  | [https://download.virtualbox.org/virtualbox/7.2.0/VirtualBox-7.2.0-170228-Win.exe](https://download.virtualbox.org/virtualbox/7.2.0/VirtualBox-7.2.0-170228-Win.exe)                 |
-| 7.2.0     | LATEST  | iso  | [https://download.virtualbox.org/virtualbox/7.2.0/VBoxGuestAdditions_7.2.0.iso](https://download.virtualbox.org/virtualbox/7.2.0/VBoxGuestAdditions_7.2.0.iso)                       |
+| 7.2.2     | LATEST  | exe  | [https://download.virtualbox.org/virtualbox/7.2.2/VirtualBox-7.2.2-170484-Win.exe](https://download.virtualbox.org/virtualbox/7.2.2/VirtualBox-7.2.2-170484-Win.exe)                 |
+| 7.2.2     | LATEST  | iso  | [https://download.virtualbox.org/virtualbox/7.2.2/VBoxGuestAdditions_7.2.2.iso](https://download.virtualbox.org/virtualbox/7.2.2/VBoxGuestAdditions_7.2.2.iso)                       |
 | 7.1.12    | STABLE  | exe  | [https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.exe](https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.exe)             |
 | 7.1.12    | STABLE  | iso  | [https://download.virtualbox.org/virtualbox/7.1.12/VBoxGuestAdditions_7.1.12.iso](https://download.virtualbox.org/virtualbox/7.1.12/VBoxGuestAdditions_7.1.12.iso)                   |
 | 7.2.0_RC1 | BETA    | exe  | [https://download.virtualbox.org/virtualbox/7.2.0_RC1/VirtualBox-7.2.0_RC1-169963-Win.exe](https://download.virtualbox.org/virtualbox/7.2.0_RC1/VirtualBox-7.2.0_RC1-169963-Win.exe) |
