@@ -5,18 +5,18 @@
     "URI": "https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_IT.msi"
   },
   {
-    "Version": "10.19.19950",
-    "Type": "XenAppLatest",
-    "URI": "https://builds.cdn.getgo.com/builds/g2m/19950/G2MSetup10.19.19950_Xen.msi"
-  },
-  {
-    "Version": "10.17.19796",
+    "Version": "Unknown",
     "Type": "Minimum",
-    "URI": "https://builds.cdn.getgo.com/builds/g2m/19796/G2MSetup10.17.19796_IT.msi"
+    "URI": null
   },
   {
-    "Version": "10.15",
+    "Version": "Unknown",
     "Type": "Multi-build",
-    "URI": "https://builds.cdn.getgo.com/builds/G2MSetupBundle/20220427_55/G2MSetup10.15-10.19_IT.msi"
+    "URI": null
+  },
+  {
+    "Version": "Unknown",
+    "Type": "XenAppLatest",
+    "URI": null
   }
 ]

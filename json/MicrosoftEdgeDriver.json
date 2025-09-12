@@ -1,5 +1,23 @@
 [
   {
+    "Version": "141.0.3537.13",
+    "Channel": "Beta",
+    "Architecture": "arm64",
+    "URI": "https://msedgedriver.microsoft.com/141.0.3537.13/edgedriver_arm64.zip"
+  },
+  {
+    "Version": "141.0.3537.13",
+    "Channel": "Beta",
+    "Architecture": "x64",
+    "URI": "https://msedgedriver.microsoft.com/141.0.3537.13/edgedriver_win64.zip"
+  },
+  {
+    "Version": "141.0.3537.13",
+    "Channel": "Beta",
+    "Architecture": "x86",
+    "URI": "https://msedgedriver.microsoft.com/141.0.3537.13/edgedriver_win32.zip"
+  },
+  {
     "Version": "141.0.3537.9",
     "Channel": "Dev",
     "Architecture": "arm64",
@@ -18,39 +36,21 @@
     "URI": "https://msedgedriver.microsoft.com/141.0.3537.9/edgedriver_win32.zip"
   },
   {
-    "Version": "140.0.3485.54",
-    "Channel": "Beta",
-    "Architecture": "arm64",
-    "URI": "https://msedgedriver.microsoft.com/140.0.3485.54/edgedriver_arm64.zip"
-  },
-  {
-    "Version": "140.0.3485.54",
+    "Version": "140.0.3485.66",
     "Channel": "Stable",
     "Architecture": "arm64",
-    "URI": "https://msedgedriver.microsoft.com/140.0.3485.54/edgedriver_arm64.zip"
+    "URI": "https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_arm64.zip"
   },
   {
-    "Version": "140.0.3485.54",
-    "Channel": "Beta",
-    "Architecture": "x64",
-    "URI": "https://msedgedriver.microsoft.com/140.0.3485.54/edgedriver_win64.zip"
-  },
-  {
-    "Version": "140.0.3485.54",
+    "Version": "140.0.3485.66",
     "Channel": "Stable",
     "Architecture": "x64",
-    "URI": "https://msedgedriver.microsoft.com/140.0.3485.54/edgedriver_win64.zip"
+    "URI": "https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_win64.zip"
   },
   {
-    "Version": "140.0.3485.54",
-    "Channel": "Beta",
-    "Architecture": "x86",
-    "URI": "https://msedgedriver.microsoft.com/140.0.3485.54/edgedriver_win32.zip"
-  },
-  {
-    "Version": "140.0.3485.54",
+    "Version": "140.0.3485.66",
     "Channel": "Stable",
     "Architecture": "x86",
-    "URI": "https://msedgedriver.microsoft.com/140.0.3485.54/edgedriver_win32.zip"
+    "URI": "https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_win32.zip"
   }
 ]
