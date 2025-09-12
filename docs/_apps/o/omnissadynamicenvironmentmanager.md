@@ -12,10 +12,7 @@ last_modified_date: Jul 31 2025 at 12:29 PM
 
 Evergreen app: `OmnissaDynamicEnvironmentManager`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version | ReleaseDate         | Md5                              | Sha256                                                           | Size     | Type | URI                                                                                                                                                                                                  |
 | ------- | ------------------- | -------------------------------- | ---------------------------------------------------------------- | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
