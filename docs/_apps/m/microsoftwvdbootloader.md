@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent Bootloader
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Sep 12 2025 at 12:35 PM
+last_modified_date: Sep 13 2025 at 12:47 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent Bootloader
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWvdBootloader`. Found **1** installer.
 
 Last check: 🟢
 
-| Version       | Date                               | Architecture | URI                                                                                                                                                                                                                                                                                                                          |
-| ------------- | ---------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0.9023.1100 | Thursday 20 March 2025 12:39:50 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/c6f347d6-61da-413b-8e42-f402355cb005/Microsoft.RDInfra.RDAgentBootLoader.Installer-x64-1.0.9023.1100.msi](https://res.cdn.office.net/s01-remote-desktop-agent/c6f347d6-61da-413b-8e42-f402355cb005/Microsoft.RDInfra.RDAgentBootLoader.Installer-x64-1.0.9023.1100.msi) |
+| Version        | Date                                  | Architecture | URI                                                                                                                                                                                                                                                                                                                            |
+| -------------- | ------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.0.11388.1600 | Thursday 11 September 2025 7:50:09 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/43e855f4-c0c8-4737-88c4-7112f31176fb/Microsoft.RDInfra.RDAgentBootLoader.Installer-x64-1.0.11388.1600.msi](https://res.cdn.office.net/s01-remote-desktop-agent/43e855f4-c0c8-4737-88c4-7112f31176fb/Microsoft.RDInfra.RDAgentBootLoader.Installer-x64-1.0.11388.1600.msi) |
