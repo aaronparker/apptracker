@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2508.07.224",
-    "Date": "7/8/2025",
-    "Size": 51317,
+    "Version": "2509.15.228",
+    "Date": "15/9/2025",
+    "Size": 52229,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "intunewin",
-    "URI": "https://github.com/aaronparker/defaults/releases/download/v2508.07.224/Install-Defaults.intunewin"
+    "URI": "https://github.com/aaronparker/defaults/releases/download/v2509.15.228/Install-Defaults.intunewin"
   },
   {
-    "Version": "2508.07.224",
-    "Date": "7/8/2025",
-    "Size": 46616,
+    "Version": "2509.15.228",
+    "Date": "15/9/2025",
+    "Size": 47409,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/aaronparker/defaults/releases/download/v2508.07.224/defaults.zip"
+    "URI": "https://github.com/aaronparker/defaults/releases/download/v2509.15.228/defaults.zip"
   }
 ]

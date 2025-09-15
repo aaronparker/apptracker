@@ -1,8 +1,8 @@
 [
   {
-    "Version": "142.0.7414.0",
+    "Version": "142.0.7415.0",
     "Channel": "Canary",
-    "StartDate": "14/9/2025",
+    "StartDate": "15/9/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
