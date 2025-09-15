@@ -12,7 +12,10 @@ last_modified_date: May 17 2025 at 12:31 PM
 
 Evergreen app: `MSIXHero`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot validate argument on parameter 'DateTime'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+```
 
 | Version | Date                | URI                                                                                        |
 | ------- | ------------------- | ------------------------------------------------------------------------------------------ |
