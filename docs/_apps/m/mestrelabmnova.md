@@ -12,10 +12,7 @@ last_modified_date: Apr 12 2024 at 12:30 AM
 
 Evergreen app: `MestrelabMnova`. Found **2** installers.
 
-Last check: 🔴
-```
-Connection timed out (mestrelab.com:443)
-```
+Last check: 🟢
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
 | ------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
