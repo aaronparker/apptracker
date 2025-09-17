@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.3.300",
-    "Date": "10/8/2025",
-    "Size": 3965120,
+    "Version": "1.3.301",
+    "Date": "16/9/2025",
+    "Size": 3965192,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.300/Greenshot-INSTALLER-1.3.300-RELEASE.exe"
+    "URI": "https://github.com/greenshot/greenshot/releases/download/v1.3.301/Greenshot-INSTALLER-1.3.301-RELEASE.exe"
   }
 ]
