@@ -3,7 +3,7 @@ title: Nextcloud Desktop
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Aug 19 2025 at 12:25 PM
+last_modified_date: Sep 17 2025 at 12:53 AM
 ---
 
 ## Nextcloud Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.17.1  | 18/8/2025 | 167194624 | x64          | Default       | msi  | [https://github.com/nextcloud-releases/desktop/releases/download/v3.17.1/Nextcloud-3.17.1-x64.msi](https://github.com/nextcloud-releases/desktop/releases/download/v3.17.1/Nextcloud-3.17.1-x64.msi) |
+| 3.17.2  | 16/9/2025 | 167305216 | x64          | Default       | msi  | [https://github.com/nextcloud-releases/desktop/releases/download/v3.17.2/Nextcloud-3.17.2-x64.msi](https://github.com/nextcloud-releases/desktop/releases/download/v3.17.2/Nextcloud-3.17.2-x64.msi) |
