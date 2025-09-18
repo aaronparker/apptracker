@@ -44,6 +44,50 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77527ea1-173d-49d9-8060-89f31a7e2ef6/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
+    "Version": "141.0.3537.25",
+    "Date": "2025-09-17T18:10:00",
+    "Channel": "Policy",
+    "Expiry": "2025-12-17T18:10:00",
+    "SHA256": "AF3F04823E35306614F2509913695C39760CFC272FF9836EFF300AB14548F32A",
+    "Size": 16.21,
+    "Architecture": "any",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ab68bf92-5f83-4124-a5be-93b6d057fa38/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "141.0.3537.25",
+    "Date": "2025-09-17T17:41:00",
+    "Channel": "Beta",
+    "Expiry": "2025-12-17T17:41:00",
+    "SHA256": "9337398D7B689FDBE5AA9B28A7B5FCBB2B248935F1B2724C030830791D8E327E",
+    "Size": 188.28,
+    "Architecture": "arm64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bfc5d2bc-886c-4c59-916f-74be4d071a85/MicrosoftEdgeBetaEnterpriseARM64.msi"
+  },
+  {
+    "Version": "141.0.3537.25",
+    "Date": "2025-09-17T17:53:00",
+    "Channel": "Beta",
+    "Expiry": "2025-12-17T17:53:00",
+    "SHA256": "88CB46F932A2302EFEAAE20F108D24196AB604D6B0AEA99F5C070FE772EAE49A",
+    "Size": 183.75,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6f079f8-624f-43f8-89bd-bfae7c50dca3/MicrosoftEdgeBetaEnterpriseX64.msi"
+  },
+  {
+    "Version": "141.0.3537.25",
+    "Date": "2025-09-17T17:51:00",
+    "Channel": "Beta",
+    "Expiry": "2025-12-17T17:51:00",
+    "SHA256": "81E53D90C9BF6E6844E861428EC220947F12886B30FA6141B4FB6113E034902D",
+    "Size": 163.3,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dfadf6af-a656-433b-8c32-105a60726701/MicrosoftEdgeBetaEnterpriseX86.msi"
+  },
+  {
     "Version": "141.0.3537.13",
     "Date": "2025-09-11T19:10:00",
     "Channel": "Policy",
