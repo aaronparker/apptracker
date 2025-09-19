@@ -3,7 +3,7 @@ title: Microsoft Edge WebDriver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Sep 18 2025 at 12:47 AM
+last_modified_date: Sep 19 2025 at 12:28 PM
 ---
 
 ## Microsoft Edge WebDriver
@@ -22,6 +22,6 @@ Last check: 🟢
 | 141.0.3537.25 | Beta    | arm64        | [https://msedgedriver.microsoft.com/141.0.3537.25/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/141.0.3537.25/edgedriver_arm64.zip) |
 | 141.0.3537.25 | Beta    | x64          | [https://msedgedriver.microsoft.com/141.0.3537.25/edgedriver_win64.zip](https://msedgedriver.microsoft.com/141.0.3537.25/edgedriver_win64.zip) |
 | 141.0.3537.25 | Beta    | x86          | [https://msedgedriver.microsoft.com/141.0.3537.25/edgedriver_win32.zip](https://msedgedriver.microsoft.com/141.0.3537.25/edgedriver_win32.zip) |
-| 140.0.3485.66 | Stable  | arm64        | [https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_arm64.zip) |
-| 140.0.3485.66 | Stable  | x64          | [https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_win64.zip](https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_win64.zip) |
-| 140.0.3485.66 | Stable  | x86          | [https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_win32.zip](https://msedgedriver.microsoft.com/140.0.3485.66/edgedriver_win32.zip) |
+| 140.0.3485.81 | Stable  | arm64        | [https://msedgedriver.microsoft.com/140.0.3485.81/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/140.0.3485.81/edgedriver_arm64.zip) |
+| 140.0.3485.81 | Stable  | x64          | [https://msedgedriver.microsoft.com/140.0.3485.81/edgedriver_win64.zip](https://msedgedriver.microsoft.com/140.0.3485.81/edgedriver_win64.zip) |
+| 140.0.3485.81 | Stable  | x86          | [https://msedgedriver.microsoft.com/140.0.3485.81/edgedriver_win32.zip](https://msedgedriver.microsoft.com/140.0.3485.81/edgedriver_win32.zip) |
