@@ -3,7 +3,7 @@ title: AWS AppStream 2.0 Client
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: May 22 2025 at 12:43 AM
+last_modified_date: Sep 19 2025 at 12:41 AM
 ---
 
 ## AWS AppStream 2.0 Client
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Date                          | Type | URI                                                                                                                                                                                              |
 | -------- | ----------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.1.1437 | Wed, 21 May 2025 19:00:00 GMT | exe  | [https://clients.amazonappstream.com/installers/windows/AmazonAppStreamClientSetup_1.1.1437.exe](https://clients.amazonappstream.com/installers/windows/AmazonAppStreamClientSetup_1.1.1437.exe) |
+| 1.1.1532 | Thu, 18 Sep 2025 19:00:00 GMT | exe  | [https://clients.amazonappstream.com/installers/windows/AmazonAppStreamClientSetup_1.1.1532.exe](https://clients.amazonappstream.com/installers/windows/AmazonAppStreamClientSetup_1.1.1532.exe) |
