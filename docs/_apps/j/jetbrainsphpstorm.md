@@ -3,7 +3,7 @@ title: JetBrains PhpStorm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Aug 30 2025 at 12:47 AM
+last_modified_date: Sep 20 2025 at 12:37 AM
 ---
 
 ## JetBrains PhpStorm
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Build         | Edition  | Sha256                                                             | Date      | Size      | Type | URI                                                                                                                        |
 | -------- | ------------- | -------- | ------------------------------------------------------------------ | --------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------- |
-| 2025.2.1 | 252.25557.128 | PhpStorm | https://download.jetbrains.com/webide/PhpStorm-2025.2.1.exe.sha256 | 29/8/2025 | 948100016 | exe  | [https://download.jetbrains.com/webide/PhpStorm-2025.2.1.exe](https://download.jetbrains.com/webide/PhpStorm-2025.2.1.exe) |
+| 2025.2.2 | 252.26199.163 | PhpStorm | https://download.jetbrains.com/webide/PhpStorm-2025.2.2.exe.sha256 | 19/9/2025 | 948540824 | exe  | [https://download.jetbrains.com/webide/PhpStorm-2025.2.2.exe](https://download.jetbrains.com/webide/PhpStorm-2025.2.2.exe) |
