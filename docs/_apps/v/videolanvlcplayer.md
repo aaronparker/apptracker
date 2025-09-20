@@ -12,7 +12,10 @@ last_modified_date: Sep 20 2025 at 12:37 AM
 
 Evergreen app: `VideoLanVlcPlayer`. Found **6** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot process argument transformation on parameter 'String'. Cannot convert value to type System.String.
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                                      |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
