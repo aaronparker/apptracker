@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2025.2.1",
-    "Build": "252.25557.128",
+    "Version": "2025.2.2",
+    "Build": "252.26199.163",
     "Edition": "PhpStorm",
-    "Sha256": "https://download.jetbrains.com/webide/PhpStorm-2025.2.1.exe.sha256",
-    "Date": "29/8/2025",
-    "Size": 948100016,
+    "Sha256": "https://download.jetbrains.com/webide/PhpStorm-2025.2.2.exe.sha256",
+    "Date": "19/9/2025",
+    "Size": 948540824,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/webide/PhpStorm-2025.2.1.exe"
+    "URI": "https://download.jetbrains.com/webide/PhpStorm-2025.2.2.exe"
   }
 ]
