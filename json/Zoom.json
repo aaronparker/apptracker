@@ -54,31 +54,31 @@
     "URI": "https://cdn.zoom.us/prod/6.6.1.15968/ZoomInstallerFull.msi"
   },
   {
-    "Version": "6.5.6.6405",
+    "Version": "6.6.0.6624",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 373920432,
+    "Size": 381031464,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.5.6.6405/x64/zoomrooms-6.5.6.6405-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/6.6.0.6624/x64/zoomrooms-6.6.0.6624-x64.exe"
   },
   {
-    "Version": "6.5.6.6405",
+    "Version": "6.6.0.6624",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 376941056,
+    "Size": 385588224,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.5.6.6405/x64/zoomrooms-6.5.6.6405-x64.msi"
+    "URI": "https://cdn.zoom.us/prod/6.6.0.6624/x64/zoomrooms-6.6.0.6624-x64.msi"
   },
   {
-    "Version": "6.5.5.1172",
+    "Version": "6.6.0.1185",
     "Platform": "Outlook",
     "Installer": "User",
-    "Size": 11814400,
+    "Size": 12008960,
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.5.5.1172/ZoomOutlookPluginSetup.msi"
+    "URI": "https://cdn.zoom.us/prod/6.6.0.1185/ZoomOutlookPluginSetup.msi"
   },
   {
     "Version": "6.5.0.1168",
