@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2025.2.1.1",
-    "Build": "252.25557.178",
+    "Version": "2025.2.2",
+    "Build": "252.26199.168",
     "Edition": "PyCharm Community",
-    "Sha256": "https://download.jetbrains.com/python/pycharm-community-2025.2.1.1.exe.sha256",
-    "Date": "3/9/2025",
-    "Size": 804455712,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-community-2025.2.2.exe.sha256",
+    "Date": "22/9/2025",
+    "Size": 804715136,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/pycharm-community-2025.2.1.1.exe"
+    "URI": "https://download.jetbrains.com/python/pycharm-community-2025.2.2.exe"
   },
   {
-    "Version": "2025.2.1.1",
-    "Build": "252.25557.178",
+    "Version": "2025.2.2",
+    "Build": "252.26199.168",
     "Edition": "PyCharm Professional",
-    "Sha256": "https://download.jetbrains.com/python/pycharm-2025.2.1.1.exe.sha256",
-    "Date": "3/9/2025",
-    "Size": 1032170440,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-2025.2.2.exe.sha256",
+    "Date": "22/9/2025",
+    "Size": 1032633040,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/pycharm-2025.2.1.1.exe"
+    "URI": "https://download.jetbrains.com/python/pycharm-2025.2.2.exe"
   }
 ]
