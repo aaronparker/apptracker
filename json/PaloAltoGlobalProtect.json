@@ -1,16 +1,16 @@
 [
   {
-    "Version": "6.2.8-317",
-    "Date": "2025-09-17T16:39:46+00:00",
+    "Version": "6.3.3-711",
+    "Date": "2025-09-23T18:08:31+00:00",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://pan-gp-client.s3.amazonaws.com/6.2.8-317/GlobalProtect64.msi"
+    "URI": "https://pan-gp-client.s3.amazonaws.com/6.3.3-711/GlobalProtect64.msi"
   },
   {
-    "Version": "6.2.8-317",
-    "Date": "2025-09-17T16:39:46+00:00",
+    "Version": "6.3.3-711",
+    "Date": "2025-09-23T18:08:31+00:00",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://pan-gp-client.s3.amazonaws.com/6.2.8-317/GlobalProtect.msi"
+    "URI": "https://pan-gp-client.s3.amazonaws.com/6.3.3-711/GlobalProtect.msi"
   }
 ]
