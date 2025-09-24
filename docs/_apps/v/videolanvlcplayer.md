@@ -12,7 +12,10 @@ last_modified_date: Sep 23 2025 at 12:28 PM
 
 Evergreen app: `VideoLanVlcPlayer`. Found **6** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Network is unreachable (update.videolan.org:443)
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                                                  |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
