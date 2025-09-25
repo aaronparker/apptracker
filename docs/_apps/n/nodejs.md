@@ -3,7 +3,7 @@ title: Node.js
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Sep 11 2025 at 12:54 AM
+last_modified_date: Sep 25 2025 at 01:15 AM
 ---
 
 ## Node.js
@@ -22,7 +22,7 @@ Last check: 🟢
 | 24.8.0  | ARM64        | zip  | Current | [https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-arm64.zip](https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-arm64.zip) |
 | 24.8.0  | x64          | zip  | Current | [https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-x64.zip](https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-x64.zip)     |
 | 24.8.0  | x86          | zip  | Current | [https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-x86.zip](https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-x86.zip)     |
-| 22.19.0 | x64          | msi  | LTS     | [https://nodejs.org/dist/v22.19.0/node-v22.19.0-x64.msi](https://nodejs.org/dist/v22.19.0/node-v22.19.0-x64.msi)         |
-| 22.19.0 | x86          | msi  | LTS     | [https://nodejs.org/dist/v22.19.0/node-v22.19.0-x86.msi](https://nodejs.org/dist/v22.19.0/node-v22.19.0-x86.msi)         |
-| 22.19.0 | x64          | zip  | LTS     | [https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x64.zip](https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x64.zip) |
-| 22.19.0 | x86          | zip  | LTS     | [https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x86.zip](https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x86.zip) |
+| 22.20.0 | x64          | msi  | LTS     | [https://nodejs.org/dist/v22.20.0/node-v22.20.0-x64.msi](https://nodejs.org/dist/v22.20.0/node-v22.20.0-x64.msi)         |
+| 22.20.0 | x86          | msi  | LTS     | [https://nodejs.org/dist/v22.20.0/node-v22.20.0-x86.msi](https://nodejs.org/dist/v22.20.0/node-v22.20.0-x86.msi)         |
+| 22.20.0 | x64          | zip  | LTS     | [https://nodejs.org/dist/v22.20.0/node-v22.20.0-win-x64.zip](https://nodejs.org/dist/v22.20.0/node-v22.20.0-win-x64.zip) |
+| 22.20.0 | x86          | zip  | LTS     | [https://nodejs.org/dist/v22.20.0/node-v22.20.0-win-x86.zip](https://nodejs.org/dist/v22.20.0/node-v22.20.0-win-x86.zip) |

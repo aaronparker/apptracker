@@ -12,7 +12,10 @@ last_modified_date: Jul 8 2024 at 07:15 AM
 
 Evergreen app: `JeremyMainGPUProfiler`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Connection timed out (api.github.com:443)
+```
 
 | Version | Date     | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
 | ------- | -------- | ------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

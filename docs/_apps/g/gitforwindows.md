@@ -12,7 +12,10 @@ last_modified_date: Aug 19 2025 at 12:25 PM
 
 Evergreen app: `GitForWindows`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Connection timed out (api.github.com:443)
+```
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

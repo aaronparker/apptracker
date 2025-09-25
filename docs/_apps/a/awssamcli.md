@@ -12,7 +12,10 @@ last_modified_date: Sep 11 2025 at 12:20 PM
 
 Evergreen app: `AWSSAMCLI`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Connection timed out (api.github.com:443)
+```
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
