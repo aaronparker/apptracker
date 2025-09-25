@@ -12,10 +12,7 @@ last_modified_date: Sep 12 2025 at 12:41 AM
 
 Evergreen app: `MicrosoftWSL`. Found **3** installers.
 
-Last check: 🔴
-```
-Connection timed out (api.github.com:443)
-```
+Last check: 🟢
 
 | Version | Date     | Size      | Architecture | InstallerType | Type       | URI                                                                                                                                                                                                        |
 | ------- | -------- | --------- | ------------ | ------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

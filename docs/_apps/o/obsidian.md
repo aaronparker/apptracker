@@ -12,10 +12,7 @@ last_modified_date: Aug 27 2025 at 12:49 AM
 
 Evergreen app: `Obsidian`. Found **1** installer.
 
-Last check: 🔴
-```
-Connection timed out (api.github.com:443)
-```
+Last check: 🟢
 
 | Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | --------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -12,10 +12,7 @@ last_modified_date: Sep 11 2025 at 12:20 PM
 
 Evergreen app: `VisualCppRedistAIO`. Found **4** installers.
 
-Last check: 🔴
-```
-Connection timed out (api.github.com:443)
-```
+Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

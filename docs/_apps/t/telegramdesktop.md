@@ -12,10 +12,7 @@ last_modified_date: Sep 8 2025 at 12:50 AM
 
 Evergreen app: `TelegramDesktop`. Found **1** installer.
 
-Last check: 🔴
-```
-Connection timed out (api.github.com:443)
-```
+Last check: 🟢
 
 | Version | URI                                                                                                          |
 | ------- | ------------------------------------------------------------------------------------------------------------ |

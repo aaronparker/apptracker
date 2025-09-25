@@ -12,10 +12,7 @@ last_modified_date: Aug 17 2025 at 12:31 PM
 
 Evergreen app: `PeaZipPeaZip`. Found **2** installers.
 
-Last check: 🔴
-```
-Connection timed out (api.github.com:443)
-```
+Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                        |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

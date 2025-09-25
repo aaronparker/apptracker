@@ -12,10 +12,7 @@ last_modified_date: Sep 17 2025 at 12:53 AM
 
 Evergreen app: `TeraTerm`. Found **6** installers.
 
-Last check: 🔴
-```
-Connection timed out (api.github.com:443)
-```
+Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
