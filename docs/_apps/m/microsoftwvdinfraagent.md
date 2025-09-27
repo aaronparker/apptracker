@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Sep 25 2025 at 01:15 AM
+last_modified_date: Sep 27 2025 at 12:50 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWvdInfraAgent`. Found **1** installer.
 
 Last check: 🟢
 
-| Version        | Date                             | Architecture | URI                                                                                                                                                                                                                                                                                                        |
-| -------------- | -------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0.11802.2200 | Friday 15 August 2025 7:14:12 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/987998a5-8983-4231-b5b1-cc0f35d92311/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.11802.2200.msi](https://res.cdn.office.net/s01-remote-desktop-agent/987998a5-8983-4231-b5b1-cc0f35d92311/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.11802.2200.msi) |
+| Version       | Date                                | Architecture | URI                                                                                                                                                                                                                                                                                                      |
+| ------------- | ----------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0.12183.900 | Friday 26 September 2025 5:59:08 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/6bf07edd-5533-4994-b8f4-fb2da4edc085/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.12183.900.msi](https://res.cdn.office.net/s01-remote-desktop-agent/6bf07edd-5533-4994-b8f4-fb2da4edc085/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.12183.900.msi) |
