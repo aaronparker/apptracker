@@ -157,7 +157,7 @@
     "Ring": "Production",
     "Throttle": "100",
     "Sha256": "3a84cd53685e66acb341c87267d63ab990091e83da5084febf442c839a4221d3",
-    "Architecture": "x64",
+    "Architecture": "x86",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/25.164.0824.0003/OneDriveSetup.exe"
   },

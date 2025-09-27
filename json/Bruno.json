@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "2.12.0",
+    "Date": "25/9/2025",
+    "Size": 115118696,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/usebruno/bruno/releases/download/v2.12.0/bruno_2.12.0_x64_win.exe"
+  },
+  {
+    "Version": "2.12.0",
+    "Date": "25/9/2025",
+    "Size": 127414272,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/usebruno/bruno/releases/download/v2.12.0/bruno_2.12.0_x64_win.msi"
+  },
+  {
+    "Version": "2.12.0",
+    "Date": "25/9/2025",
+    "Size": 168029841,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/usebruno/bruno/releases/download/v2.12.0/bruno_2.12.0_x64_win.zip"
+  }
+]
