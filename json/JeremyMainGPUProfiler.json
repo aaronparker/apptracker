@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.07a3",
-    "Date": "8/6/2021",
-    "Size": 1091066,
+    "Version": "1.07a4",
+    "Date": "28/7/2021",
+    "Size": 1295787,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a3/GPUProfiler_v1.07a3_x64.zip"
+    "URI": "https://github.com/JeremyMain/GPUProfiler/releases/download/v1.07a4/GPUProfiler_v1.07a4_x64.zip"
   }
 ]
