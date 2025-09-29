@@ -39,7 +39,8 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Install-Module -Name "Evergreen" -Force
+          Install-PSResource -Name "Evergreen" -Force -Prerelease
+          Update-Evergreen
 
       - name: Update Cloudflare KV with all apps list
         id: update-allapps

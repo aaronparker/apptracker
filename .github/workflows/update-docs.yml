@@ -36,7 +36,9 @@ jobs:
           shell: pwsh
           run: |
             [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-            Install-Module -Name "Evergreen", "MarkdownPS" -Force 
+            Install-PSResource -Name "MarkdownPS" -Force 
+            Install-PSResource -Name "Evergreen" -Force -Prerelease
+            Update-Evergreen
 
         - name: Generate report
           shell: pwsh
