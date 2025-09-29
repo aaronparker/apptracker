@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2.9.3",
-    "Date": "23/5/2025",
-    "Size": 36792640,
+    "Version": "2.9.4",
+    "Date": "29/9/2025",
+    "Size": 37266872,
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "exe",
-    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.3/MiniZincIDE-2.9.3-bundled-setup-win64.exe"
+    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.4/MiniZincIDE-2.9.4-bundled-setup-win64.exe"
   }
 ]
