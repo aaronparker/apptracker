@@ -1,0 +1,8 @@
+json/Gimp.json
+json/MicrosoftTeamsClassic.json
+json/MicrosoftVisualStudioCode.json
+json/MicrosoftWvdBootloader.json
+json/VMwareTools.json
+json/VideoLanVlcPlayer.json
+json/jrsoftwareInnoSetup.json
+json/7zip.json
