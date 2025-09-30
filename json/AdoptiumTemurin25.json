@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "25+36-LTS",
+    "Date": "2025-09-23T16:07:41Z",
+    "ImageType": "jre",
+    "Checksum": "eeae2fb19dc8d778a324d9b5c879f7afe9732487516807b75584436b01e0d8c3",
+    "Size": 42688512,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jre_x64_windows_hotspot_25_36.msi"
+  },
+  {
+    "Version": "25+36-LTS",
+    "Date": "2025-09-23T16:08:08Z",
+    "ImageType": "jdk",
+    "Checksum": "d899afd9c8160b8de9dcf2cced8da33702e00104068eac50e33dd1cbf1df5248",
+    "Size": 115896320,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_x64_windows_hotspot_25_36.msi"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "25.0.0.36.2",
+    "Md5": "85c20c042c24407a550bd5171755aaf5",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://corretto.aws/downloads/resources/25.0.0.36.2/amazon-corretto-25.0.0.36.2-windows-x64.msi"
+  },
+  {
+    "Version": "25.0.0.36.2",
+    "Md5": "9decd88c87b3c0ef9812c277a6a027e2",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://corretto.aws/downloads/resources/25.0.0.36.2/amazon-corretto-25.0.0.36.2-windows-x64-jdk.zip"
+  }
+]
