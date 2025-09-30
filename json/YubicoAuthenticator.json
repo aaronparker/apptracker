@@ -3,6 +3,7 @@
     "Version": "7.2.3",
     "Date": "11/6/2025",
     "Size": 52113408,
+    "Sha256": "97055ac74607a358fede74d2a563d3f231e644ab18ca348a586f3e15f70c22bc",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",

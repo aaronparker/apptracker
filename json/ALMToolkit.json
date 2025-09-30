@@ -3,6 +3,7 @@
     "Version": "5.1.11",
     "Date": "10/1/2025",
     "Size": 288519168,
+    "Sha256": null,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",

@@ -1,11 +1,12 @@
 [
   {
-    "Version": "3.8",
-    "Date": "6/9/2025",
-    "Size": 40439808,
+    "Version": "3.8.1",
+    "Date": "29/9/2025",
+    "Size": 40554496,
+    "Sha256": "8a756f1aab3a6032a60428c98468cccba690624d1cf4d0eed6065bf14e4b95e2",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-windows-x86_64.msi"
+    "URI": "https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-windows-x86_64.msi"
   }
 ]

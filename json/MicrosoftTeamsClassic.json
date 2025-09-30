@@ -1,13 +1,6 @@
 [
   {
     "Version": "1.8.00.26073",
-    "Ring": "DeveloperPartners",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.8.00.26073/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.8.00.26073",
     "Ring": "Dogfood",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -47,13 +40,6 @@
     "Architecture": "ARM64",
     "Type": "exe",
     "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.8.00.26073/Teams_windows_arm64.exe"
-  },
-  {
-    "Version": "1.8.00.26073",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.26073/Teams_windows_x64.exe"
   },
   {
     "Version": "1.8.00.26073",
@@ -99,13 +85,6 @@
   },
   {
     "Version": "1.8.00.26073",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.26073/Teams_windows.exe"
-  },
-  {
-    "Version": "1.8.00.26073",
     "Ring": "Dogfood",
     "Architecture": "x86",
     "Type": "exe",
@@ -145,13 +124,6 @@
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.26073/Teams_windows.exe"
-  },
-  {
-    "Version": "1.8.00.26073",
-    "Ring": "DeveloperPartners",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.8.00.26073/Teams_windows_arm64.msi"
   },
   {
     "Version": "1.8.00.26073",
@@ -197,13 +169,6 @@
   },
   {
     "Version": "1.8.00.26073",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.26073/Teams_windows_x64.msi"
-  },
-  {
-    "Version": "1.8.00.26073",
     "Ring": "Dogfood",
     "Architecture": "x64",
     "Type": "msi",
@@ -246,13 +211,6 @@
   },
   {
     "Version": "1.8.00.26073",
-    "Ring": "DeveloperPartners",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.26073/Teams_windows.msi"
-  },
-  {
-    "Version": "1.8.00.26073",
     "Ring": "Dogfood",
     "Architecture": "x86",
     "Type": "msi",
@@ -289,6 +247,48 @@
   {
     "Version": "1.8.00.26073",
     "Ring": "TAP",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.26073/Teams_windows.msi"
+  },
+  {
+    "Version": "1.8.00.24759",
+    "Ring": "DeveloperPartners",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.8.00.26073/Teams_windows_arm64.exe"
+  },
+  {
+    "Version": "1.8.00.24759",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.26073/Teams_windows_x64.exe"
+  },
+  {
+    "Version": "1.8.00.24759",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.26073/Teams_windows.exe"
+  },
+  {
+    "Version": "1.8.00.24759",
+    "Ring": "DeveloperPartners",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-arm64/1.8.00.26073/Teams_windows_arm64.msi"
+  },
+  {
+    "Version": "1.8.00.24759",
+    "Ring": "DeveloperPartners",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://statics.teams.cdn.office.net/production-windows-x64/1.8.00.26073/Teams_windows_x64.msi"
+  },
+  {
+    "Version": "1.8.00.24759",
+    "Ring": "DeveloperPartners",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://statics.teams.cdn.office.net/production-windows/1.8.00.26073/Teams_windows.msi"

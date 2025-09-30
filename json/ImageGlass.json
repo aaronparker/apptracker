@@ -3,6 +3,7 @@
     "Version": "9.3.2.520",
     "Date": "19/5/2025",
     "Size": 140453376,
+    "Sha256": null,
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",

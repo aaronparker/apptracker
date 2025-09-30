@@ -3,6 +3,7 @@
     "Version": "1.144.0",
     "Date": "10/9/2025",
     "Size": 94572544,
+    "Sha256": "38f863f4bb8928dcf255deaf81e0048edf3d4167fb23e02bafe9a5721a7f56cb",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",

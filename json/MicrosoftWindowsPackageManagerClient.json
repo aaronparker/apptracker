@@ -3,6 +3,7 @@
     "Version": "1.11.430",
     "Date": "17/7/2025",
     "Size": 210916218,
+    "Sha256": "db76671a4e8f5fac9c96c2861907b04fd041b28235267c2e5626a2cef7468e19",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",

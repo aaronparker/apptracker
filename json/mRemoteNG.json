@@ -3,6 +3,7 @@
     "Version": "1.76.20",
     "Date": "12/4/2019",
     "Size": 43593728,
+    "Sha256": null,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",

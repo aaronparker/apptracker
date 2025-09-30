@@ -3,6 +3,7 @@
     "Version": "1.0.13.0",
     "Date": "23/7/2023",
     "Size": 166568573,
+    "Sha256": null,
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",

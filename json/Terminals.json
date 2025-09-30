@@ -3,6 +3,7 @@
     "Version": "4.0.1",
     "Date": "21/6/2017",
     "Size": 4960256,
+    "Sha256": null,
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "msi",
