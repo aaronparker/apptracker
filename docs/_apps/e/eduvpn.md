@@ -12,7 +12,10 @@ last_modified_date: Sep 24 2025 at 12:50 AM
 
 Evergreen app: `eduVPN`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+The term 'Get-CodebergRepoRelease' is not recognized as a name of a cmdlet, function, script file, or executable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+```
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

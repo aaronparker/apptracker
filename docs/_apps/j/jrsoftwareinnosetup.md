@@ -3,7 +3,7 @@ title: jrsoftware InnoSetup
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: Sep 29 2025 at 12:51 AM
+last_modified_date: Sep 30 2025 at 06:38 AM
 ---
 
 ## jrsoftware InnoSetup

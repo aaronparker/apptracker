@@ -12,7 +12,10 @@ last_modified_date: Jan 30 2025 at 12:42 AM
 
 Evergreen app: `GrafanaAgent`. Found **7** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -3,7 +3,7 @@ title: Nevcairiel LAV Filters
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: Jun 20 2025 at 12:30 PM
+last_modified_date: Sep 30 2025 at 04:52 AM
 ---
 
 ## Nevcairiel LAV Filters
@@ -14,6 +14,6 @@ Evergreen app: `NevcairielLAVFilters`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
-| ------- | --------- | -------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.80    | 20/6/2025 | 16207008 | x86          | Default       | exe  | [https://github.com/Nevcairiel/LAVFilters/releases/download/0.80/LAVFilters-0.80-Installer.exe](https://github.com/Nevcairiel/LAVFilters/releases/download/0.80/LAVFilters-0.80-Installer.exe) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.80    | 20/6/2025 | 16207008 | 497ee31a926d55bc3112e20a282894cf182b3ffb0a36190be708a650a665a9bf | x86          | Default       | exe  | [https://github.com/Nevcairiel/LAVFilters/releases/download/0.80/LAVFilters-0.80-Installer.exe](https://github.com/Nevcairiel/LAVFilters/releases/download/0.80/LAVFilters-0.80-Installer.exe) |

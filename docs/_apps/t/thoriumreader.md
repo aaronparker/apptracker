@@ -3,7 +3,7 @@ title: Thorium Reader
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Aug 19 2025 at 12:25 PM
+last_modified_date: Sep 30 2025 at 04:52 AM
 ---
 
 ## Thorium Reader
@@ -14,7 +14,7 @@ Evergreen app: `ThoriumReader`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
-| ------- | --------- | --------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.2.2   | 19/8/2025 | 107444232 | ARM64        | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2-arm64.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2-arm64.exe) |
-| 3.2.2   | 19/8/2025 | 113833240 | x86          | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2.exe)             |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.2.2   | 19/8/2025 | 107444232 | 9e529d50ba1dd98c99226afa44b48eeb308001ef59815bbf86b31c8e805f609c | ARM64        | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2-arm64.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2-arm64.exe) |
+| 3.2.2   | 19/8/2025 | 113833240 | 3c5ab3579550f2047b109ce27cfce8f3a3261bdf70a4bb86f63b16ee0821660d | x86          | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2.exe)             |
