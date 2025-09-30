@@ -23,6 +23,7 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+          Get-PSResourceRepository | Set-PSResourceRepository -Trusted
           Install-PSResource -Name "DnsClient-PS"
           Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
@@ -154,6 +155,7 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+          Get-PSResourceRepository | Set-PSResourceRepository -Trusted
           Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
 
@@ -324,6 +326,7 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+          Get-PSResourceRepository | Set-PSResourceRepository -Trusted
           Install-PSResource -Name "MarkdownPS"
           Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
