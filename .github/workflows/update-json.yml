@@ -220,7 +220,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          repository: "aaronparker/evergreen"
+          repository: "eucpilots/evergreen-apps"
           ref: main
 
       - name: Install Wrangler
@@ -240,7 +240,7 @@ jobs:
         run: |
           # Get endpoint URLs from Evergreen manifests and post to the version endpoint
           $UrlMatch = "http[s]?\:\/\/([^\/?#]+)(?:[\/?#]|$)"
-          $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/Evergreen/Manifests" -Recurse -Include "*.json" | ForEach-Object {
+          $Endpoints = Get-ChildItem -Path "${{ github.workspace }}/Manifests" -Recurse -Include "*.json" | ForEach-Object {
             Write-Host "Processing: $($_.FullName)"
             [PSCustomObject]@{
                 Application = $_.BaseName
