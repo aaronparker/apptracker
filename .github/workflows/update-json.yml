@@ -23,8 +23,8 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Install-PSResource -Name "DnsClient-PS" -Force
-          Install-PSResource -Name "Evergreen" -Force -Prerelease
+          Install-PSResource -Name "DnsClient-PS"
+          Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
 
       # Import GPG key
@@ -154,7 +154,7 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Install-PSResource -Name "Evergreen" -Force -Prerelease
+          Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
 
       - name: Update Cloudflare KV with all apps list
@@ -324,8 +324,8 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Install-PSResource -Name "MarkdownPS" -Force
-          Install-PSResource -Name "Evergreen" -Force -Prerelease
+          Install-PSResource -Name "MarkdownPS"
+          Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
 
       - name: Generate report

@@ -24,8 +24,8 @@ jobs:
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Install-PSResource -Name "DnsClient-PS" -Force
-          Install-PSResource -Name "Evergreen" -Force -Prerelease
+          Install-PSResource -Name "DnsClient-PS"
+          Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
 
       # Run Pester tests
