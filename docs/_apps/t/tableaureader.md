@@ -12,7 +12,10 @@ last_modified_date: Sep 26 2025 at 12:51 AM
 
 Evergreen app: `TableauReader`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version  | Architecture | Type | URI                                                                                                                                                    |
 | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

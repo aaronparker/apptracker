@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 01/10/2025 01:38 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 01/10/2025 12:54 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **379** applications and **6300** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **379** applications and **6297** unique application installers.
 
 {: .highlight }
 > **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
@@ -24,10 +24,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password CLI                                                     | `20/8/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/1/1passwordcli/)                         |
 | 7-Zip                                                             | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zip/)                                 |
 | 7-Zip ZS                                                          | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zipzs/)                               |
-| Adobe Acrobat updates                                             | `25/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobat/)                         |
-| Adobe Acrobat DC updates                                          | `10/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatdc/)                       |
-| Adobe Acrobat DC Pro and Standard                                 | `10/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                 |
-| Adobe Acrobat Reader DC                                           | `10/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatreaderdc/)                 |
+| Adobe Acrobat updates                                             | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobat/)                         |
+| Adobe Acrobat DC updates                                          | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatdc/)                       |
+| Adobe Acrobat DC Pro and Standard                                 | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatprostddc/)                 |
+| Adobe Acrobat Reader DC                                           | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobatreaderdc/)                 |
 | Adobe Brackets                                                    | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobebrackets/)                        |
 | Adobe Connect meeting application                                 | `9/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeconnect/)                         |
 | Adobe Digital Editions                                            | `2/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobedigitaleditions/)                 |
@@ -57,7 +57,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Amazon Corretto 8                                                 | `16/7/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/amazoncorretto8/)                      |
 | Anaconda                                                          | `19/7/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anaconda/)                             |
 | Analog Devices LTspice                                            | `9/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                 |
-| Anki                                                              | `6/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
+| Anki                                                              | `6/9/2025`   | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
 | AppVentiX                                                         | `29/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/appventix/)                            |
 | Artifex Ghostscript                                               | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/artifexghostscript/)                   |
 | Atlassian Sourcetree                                              | `24/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/atlassiansourcetree/)                  |
@@ -109,9 +109,9 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Docker Desktop                                                    | `26/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/dockerdesktop/)                        |
 | Double Commander                                                  | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/doublecommander/)                      |
 | Drata Agent                                                       | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/drataagent/)                           |
-| Dropbox desktop app                                               | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/dropboxdesktopapp/)                    |
+| Dropbox desktop app                                               | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/dropboxdesktopapp/)                    |
 | Druva inSync Client                                               | `5/6/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/d/druvainsyncclient/)                    |
-| eduVPN                                                            | `24/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/eduvpn/)                               |
+| eduVPN                                                            | `24/9/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/e/eduvpn/)                               |
 | Egnyte Desktop App                                                | `22/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/egnytedesktopapp/)                     |
 | Elgato 4K Capture Utility                                         | `11/3/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgato4kcaptureutility/)               |
 | Elgato Audio Effects                                              | `4/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatoaudioeffects/)                   |
@@ -119,7 +119,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Elgato Control Center                                             | `28/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatocontrolcenter/)                  |
 | Elgato EpocCam                                                    | `4/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatoepoccam/)                        |
 | Elgato Game Capture                                               | `4/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatogamecapture/)                    |
-| Elgato Stream Deck                                                | `23/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatostreamdeck/)                     |
+| Elgato Stream Deck                                                | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatostreamdeck/)                     |
 | Elgato Video Capture                                              | `4/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatovideocapture/)                   |
 | Elgato Wave Link                                                  | `13/5/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/elgatowavelink/)                       |
 | ESET Endpoint Antivirus                                           | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/e/esetendpointantivirus/)                |
@@ -158,7 +158,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GoTo Meeting                                                      | `12/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gotomeeting/)                          |
 | GoTo Opener                                                       | `26/7/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gotoopener/)                           |
 | Gpg4win                                                           | `22/5/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gpg4win/)                              |
-| Grafana Agent                                                     | `30/1/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
+| Grafana Agent                                                     | `30/1/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
 | Greenshot                                                         | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                            |
 | gretl                                                             | `27/6/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                |
 | gsudo                                                             | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gsudo/)                                |
@@ -175,7 +175,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | JabraDirect                                                       | `31/7/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jabradirect/)                          |
 | JAM Software TreeSize Free                                        | `7/5/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jamtreesizefree/)                      |
 | JAM Software TreeSize Professional                                | `22/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jamtreesizeprofessional/)              |
-| JASP                                                              | `17/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jasp/)                                 |
+| JASP                                                              | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jasp/)                                 |
 | JeremyMain GPUProfiler                                            | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jeremymaingpuprofiler/)                |
 | JetBrains CLion                                                   | `19/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsclion/)                       |
 | JetBrains DataGrip                                                | `12/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/j/jetbrainsdatagrip/)                    |
@@ -207,10 +207,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | MarkMpn SQL 4 CDS                                                 | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/markmpnsql4cds/)                       |
 | Master Packager                                                   | `18/12/2024` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/masterpackager/)                       |
 | Mattermost Desktop                                                | `11/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mattermostdesktop/)                    |
-| Maximus5 ConEmu                                                   | `8/7/2024`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/maximus5conemu/)                       |
+| Maximus5 ConEmu                                                   | `8/7/2024`   | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/maximus5conemu/)                       |
 | McNeel Rhino                                                      | `10/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mcneelrhino/)                          |
 | Mendeley Desktop                                                  | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mendeleydesktop/)                      |
-| Mestrelab Mnova                                                   | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mestrelabmnova/)                       |
+| Mestrelab Mnova                                                   | `12/4/2024`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/mestrelabmnova/)                       |
 | Microsoft .NET                                                    | `10/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoft.net/)                        |
 | Microsoft 365 Apps                                                | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoft365apps/)                     |
 | Microsoft Azure CLI                                               | `2/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftazurecli/)                    |
@@ -242,19 +242,19 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                    |
 | Microsoft Virtual Desktop Optimization Tool                       | `12/6/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                        |
 | Microsoft Visual Studio                                           | `24/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                |
-| Microsoft Visual Studio Code                                      | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)            |
+| Microsoft Visual Studio Code                                      | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)            |
 | Microsoft Windows Admin Center                                    | `17/5/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsadmincenter/)          |
 | Microsoft Windows App                                             | `13/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsapp/)                  |
 | Microsoft Windows Package Manager Client                          | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowspackagemanagerclient/) |
 | Microsoft WSL                                                     | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwsl/)                         |
-| Microsoft Azure Virtual Desktop Agent Bootloader                  | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdbootloader/)               |
+| Microsoft Azure Virtual Desktop Agent Bootloader                  | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdbootloader/)               |
 | Microsoft Azure Virtual Desktop Agent                             | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdinfraagent/)               |
 | Microsoft Azure Virtual Desktop Multimedia Redirection Extensions | `24/7/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdmultimediaredirection/)    |
 | Microsoft Remote Desktop                                          | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdremotedesktop/)            |
 | Microsoft Remote Desktop WebRTC Redirector Service                | `9/3/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwvdrtcservice/)               |
 | Miniconda                                                         | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/miniconda/)                            |
 | Minitab                                                           | `12/4/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/minitab/)                              |
-| MiniZinc IDE                                                      | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/minizincide/)                          |
+| MiniZinc IDE                                                      | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/minizincide/)                          |
 | MirantisLens                                                      | `16/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mirantislens/)                         |
 | Mozilla Firefox                                                   | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mozillafirefox/)                       |
 | Mozilla Gecko Driver                                              | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mozillageckodriver/)                   |
@@ -319,7 +319,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Podman Desktop                                                    | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/podmandesktop/)                        |
 | Posit RStudio Desktop                                             | `13/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/positrstudio/)                         |
 | Postman                                                           | `26/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                              |
-| Praat                                                             | `2/7/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                |
+| Praat                                                             | `2/7/2025`   | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                |
 | Progress Chef Infra Client                                        | `18/8/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)              |
 | Progress Chef InSpec                                              | `15/7/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                   |
 | Progress Chef Workstation                                         | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefworkstation/)              |
@@ -355,10 +355,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Stefans Tools gregpWin                                            | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/stefanstoolsgregpwin/)                 |
 | Sumatra PDF Reader                                                | `26/5/2024`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/sumatrapdfreader/)                     |
 | SUSE Rancher Desktop                                              | `30/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/suserancherdesktop/)                   |
-| Tableau Desktop                                                   | `26/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/tableaudesktop/)                       |
-| Tableau Prep                                                      | `26/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/tableauprep/)                          |
-| Tableau Reader                                                    | `26/9/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/tableaureader/)                        |
-| TeamViewer                                                        | `2/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/teamviewer/)                           |
+| Tableau Desktop                                                   | `26/9/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/t/tableaudesktop/)                       |
+| Tableau Prep                                                      | `26/9/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/t/tableauprep/)                          |
+| Tableau Reader                                                    | `26/9/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/t/tableaureader/)                        |
+| TeamViewer                                                        | `1/10/2025`  | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/teamviewer/)                           |
 | TechSmith Camtasia                                                | `4/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/techsmithcamtasia/)                    |
 | TechSmith Snagit                                                  | `4/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/techsmithsnagit/)                      |
 | Telegram Desktop                                                  | `8/9/2025`   | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/t/telegramdesktop/)                      |
