@@ -3,7 +3,7 @@ title: Podman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Sep 30 2025 at 04:52 AM
+last_modified_date: Oct 1 2025 at 12:44 AM
 ---
 
 ## Podman
@@ -14,8 +14,8 @@ Evergreen app: `Podman`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  |
-| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.6.1   | 4/9/2025 | 25647944 | dda3d1f8cfe38e009dc56c1b2cea6789a7cd06497065440deb2bb2f54bb1baf5 | ARM64        | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.6.1/podman-installer-windows-arm64.exe](https://github.com/containers/podman/releases/download/v5.6.1/podman-installer-windows-arm64.exe) |
-| 5.6.1   | 4/9/2025 | 27646632 | 602b21a68d077ed5589f8c3acc78764d64b9e5e6f6e151d356db2e6582309142 | x64          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.6.1/podman-installer-windows-amd64.exe](https://github.com/containers/podman/releases/download/v5.6.1/podman-installer-windows-amd64.exe) |
-| 5.6.1   | 4/9/2025 | 27646632 | 602b21a68d077ed5589f8c3acc78764d64b9e5e6f6e151d356db2e6582309142 | x86          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.6.1/podman-5.6.1-setup.exe](https://github.com/containers/podman/releases/download/v5.6.1/podman-5.6.1-setup.exe)                         |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5.6.2   | 30/9/2025 | 25642872 | 854dbb2eb0fcb58bc7760113c8297a4a492c93885cd6cd07843105d0ce0d2c83 | ARM64        | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.6.2/podman-installer-windows-arm64.exe](https://github.com/containers/podman/releases/download/v5.6.2/podman-installer-windows-arm64.exe) |
+| 5.6.2   | 30/9/2025 | 27641624 | 5e97bd3a56eba7302c94a2b11a8a639f513830c228d27f9cda7e557a77bd4379 | x64          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.6.2/podman-installer-windows-amd64.exe](https://github.com/containers/podman/releases/download/v5.6.2/podman-installer-windows-amd64.exe) |
+| 5.6.2   | 30/9/2025 | 27641624 | 5e97bd3a56eba7302c94a2b11a8a639f513830c228d27f9cda7e557a77bd4379 | x86          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.6.2/podman-5.6.2-setup.exe](https://github.com/containers/podman/releases/download/v5.6.2/podman-5.6.2-setup.exe)                         |
