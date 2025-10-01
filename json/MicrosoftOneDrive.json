@@ -92,7 +92,7 @@
   {
     "Version": "25.174.0907.0003",
     "Ring": "Production",
-    "Throttle": "10",
+    "Throttle": "25",
     "Sha256": "de59c67a20711454648e7ce2527d0c559fdad59d66332734d06025e58cde1d1d",
     "Architecture": "ARM64",
     "Type": "exe",
@@ -110,7 +110,7 @@
   {
     "Version": "25.174.0907.0003",
     "Ring": "Production",
-    "Throttle": "10",
+    "Throttle": "25",
     "Sha256": "3a7d0d37efaf2bd4f9b88c72877d21337357eb80c9b2841fbc7edfb2ed0c2a88",
     "Architecture": "x64",
     "Type": "exe",
@@ -128,38 +128,11 @@
   {
     "Version": "25.174.0907.0003",
     "Ring": "Production",
-    "Throttle": "10",
+    "Throttle": "25",
     "Sha256": "c751d2c72d36b6f6573816ba2eb5fc14f4f02876c7448108769c965b669897f5",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://oneclient.sfx.ms/Win/Installers/25.174.0907.0003/OneDriveSetup.exe"
-  },
-  {
-    "Version": "25.170.0901.0003",
-    "Ring": "Production",
-    "Throttle": "25",
-    "Sha256": "4c80978412c930a8e445245864819d21b0cbfb4b7163f38e396140a31ed863da",
-    "Architecture": "ARM64",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/25.170.0901.0003/arm64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "25.170.0901.0003",
-    "Ring": "Production",
-    "Throttle": "25",
-    "Sha256": "25ee4508a63f3c4beac3bb3af9b32d2f4d9f257345f13cda23f241764e15d26e",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/25.170.0901.0003/amd64/OneDriveSetup.exe"
-  },
-  {
-    "Version": "25.170.0901.0003",
-    "Ring": "Production",
-    "Throttle": "25",
-    "Sha256": "7ccda5c84b6c3633f37e775b508cbb6f6ec28a5fc04041364b225c8c292f7172",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://oneclient.sfx.ms/Win/Installers/25.170.0901.0003/OneDriveSetup.exe"
   },
   {
     "Version": "25.170.0901.0002",
