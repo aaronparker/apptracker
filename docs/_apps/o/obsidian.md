@@ -3,7 +3,7 @@ title: Obsidian
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Sep 30 2025 at 04:52 AM
+last_modified_date: Oct 2 2025 at 12:45 AM
 ---
 
 ## Obsidian
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.9.12  | 26/8/2025 | 279812984 | 23ba3233bc58f1dc330176ed8490936b9390b42e653a249c519c11f0e458b66f | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.12/Obsidian-1.9.12.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.12/Obsidian-1.9.12.exe) |
+| 1.9.14  | 1/10/2025 | 277991104 | e6b8f82ccfcda4553a35efdfd17a56935b08543e82078d5aa1404d282cecf9ac | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.exe) |

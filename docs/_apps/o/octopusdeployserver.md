@@ -3,7 +3,7 @@ title: Octopus Deploy Server
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Sep 27 2025 at 12:50 AM
+last_modified_date: Oct 2 2025 at 12:45 AM
 ---
 
 ## Octopus Deploy Server
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version      | Date      | URI                                                                                                                                                |
 | ------------ | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.3.14320 | 24/9/2025 | [https://download.octopusdeploy.com/octopus/Octopus.2025.3.14320-x64.msi](https://download.octopusdeploy.com/octopus/Octopus.2025.3.14320-x64.msi) |
+| 2025.3.14336 | 29/9/2025 | [https://download.octopusdeploy.com/octopus/Octopus.2025.3.14336-x64.msi](https://download.octopusdeploy.com/octopus/Octopus.2025.3.14336-x64.msi) |

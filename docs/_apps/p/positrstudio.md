@@ -3,7 +3,7 @@ title: Posit RStudio Desktop
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Sep 13 2025 at 12:47 AM
+last_modified_date: Oct 2 2025 at 12:45 AM
 ---
 
 ## Posit RStudio Desktop
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version            | Date      | Pro   | ProductName                                             | Size      | Sha256                                                           | Type | URI                                                                                                                                                                    |
 | ------------------ | --------- | ----- | ------------------------------------------------------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.09.0+387      | 12/9/2025 | False | RStudio 2025.09.0+387 - Windows 10/11 (64-bit)          | 287965424 | 8ce88c63f16146cf920a0b7b0f200bdaad483da05a838db1d1b3cc8b79d3f721 | exe  | [https://download1.rstudio.org/electron/windows/RStudio-2025.09.0-387.exe](https://download1.rstudio.org/electron/windows/RStudio-2025.09.0-387.exe)                   |
-| 2025.09.0+387.pro2 | 12/9/2025 | True  | RStudio Pro 2025.09.0+387.pro2 - Windows 10/11 (64-bit) | 292831624 | d61f52733f287bb538bb497f876b507d42e0c4b7c0ee02ec22f651d53f07cdab | exe  | [https://download1.rstudio.org/electron/windows/RStudio-pro-2025.09.0-387.pro2.exe](https://download1.rstudio.org/electron/windows/RStudio-pro-2025.09.0-387.pro2.exe) |
+| 2025.09.1+401      | 1/10/2025 | False | RStudio 2025.09.1+401 - Windows 10/11 (64-bit)          | 287977784 | bca050ad2d0e0ceb64f3bf42f46ff52fc56d7145cfdcafef778599f5ca9642bb | exe  | [https://download1.rstudio.org/electron/windows/RStudio-2025.09.1-401.exe](https://download1.rstudio.org/electron/windows/RStudio-2025.09.1-401.exe)                   |
+| 2025.09.1+401.pro2 | 1/10/2025 | True  | RStudio Pro 2025.09.1+401.pro2 - Windows 10/11 (64-bit) | 292851376 | 1844dd8a3fe16eb47f351421e6021d3861fe23891f8af64a459de0baed1a2c55 | exe  | [https://download1.rstudio.org/electron/windows/RStudio-pro-2025.09.1-401.pro2.exe](https://download1.rstudio.org/electron/windows/RStudio-pro-2025.09.1-401.pro2.exe) |
