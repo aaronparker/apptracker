@@ -8,5 +8,25 @@
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/MarkMpn.Sql4Cds.SSMS.20.Setup.msi"
+  },
+  {
+    "Version": "10.1.0",
+    "Date": "2/9/2025",
+    "Size": 29979412,
+    "Sha256": "e6c19bbe65ef6d41bc28df2704f0611f09f22b05a808cf572fac40dea7e7f6cd",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "vsix",
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/azuredatastudio-sql4cds-10.1.0.vsix"
+  },
+  {
+    "Version": "10.1.0",
+    "Date": "2/9/2025",
+    "Size": 9383831,
+    "Sha256": "4eb06351eb22140478c25804c64d549b7c9717cc24ddde6d82212764a627c71a",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "vsix",
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/MarkMpn.Sql4Cds.SSMS.vsix"
   }
 ]
