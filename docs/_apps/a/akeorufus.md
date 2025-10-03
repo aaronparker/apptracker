@@ -3,7 +3,7 @@ title: Akeo Rufus
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Sep 30 2025 at 04:52 AM
+last_modified_date: Oct 3 2025 at 12:48 AM
 ---
 
 ## Akeo Rufus
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                            |
 | ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.10    | 24/9/2025 | 5128552 | 92b2f9d1ad82e6d48c8c74f118c0a13afdc1080bb0f9326f5c3f38214f2da384 | ARM64        | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10_arm64.exe) |
-| 4.10    | 24/9/2025 | 1936744 | 286912931e906857911ea7efff981bf804a42e569b49f94b9d52ad354e577775 | x86          | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10.exe](https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10.exe)             |
-| 4.10    | 24/9/2025 | 1936744 | 286912931e906857911ea7efff981bf804a42e569b49f94b9d52ad354e577775 | x86          | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10p.exe](https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10p.exe)           |
-| 4.10    | 24/9/2025 | 1885544 | e35d98ff73fbf7d09ab6cac73f65c7ef959c2b5810a53cc803acca4a7f8a7023 | x86          | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10_x86.exe](https://github.com/pbatard/rufus/releases/download/v4.10/rufus-4.10_x86.exe)     |
+| 4.11    | 2/10/2025 | 5129576 | d826e054400c2801ff36baa2a46684ee5e133b5267e4b6a97b02bab337152018 | ARM64        | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11_arm64.exe) |
+| 4.11    | 2/10/2025 | 1936744 | abbf04d50a44a9612c027fc8072f6da67f5bcda2b826f1f852c9c24d7a1fcdff | x86          | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11.exe](https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11.exe)             |
+| 4.11    | 2/10/2025 | 1936744 | abbf04d50a44a9612c027fc8072f6da67f5bcda2b826f1f852c9c24d7a1fcdff | x86          | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11p.exe](https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11p.exe)           |
+| 4.11    | 2/10/2025 | 1885544 | da70b5a684b643798eb20b720bf362e01ab6987ec47bd99a12f6e2d950a446bf | x86          | Default       | exe  | [https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11_x86.exe](https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11_x86.exe)     |
