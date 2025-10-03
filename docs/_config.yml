@@ -104,9 +104,9 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Evergreen docs":
-    - "https://stealthpuppy.com/evergreen"
+    - "https://eucpilots.com/evergreen-docs/"
   "Project":
-    - "https://github.com/aaronparker/evergreen"
+    - "https://github.com/eucpilots/evergreen-module"
   "Module":
     - "https://powershellgallery.com/packages/Evergreen"
   "stealthpuppy":
