@@ -3,7 +3,7 @@ title: ImageMagick Studio ImageMagick
 layout: default
 nav_order: 2
 parent: I
-last_modified_date: Aug 31 2025 at 12:52 AM
+last_modified_date: Oct 6 2025 at 12:40 AM
 ---
 
 ## ImageMagick Studio ImageMagick
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                                                                                                |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.1.2-3 | [https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.2-3-Q16-HDRI-x64-dll.exe](https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.2-3-Q16-HDRI-x64-dll.exe) |
+| 7.1.2-4 | [https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.2-4-Q16-HDRI-x64-dll.exe](https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.2-4-Q16-HDRI-x64-dll.exe) |

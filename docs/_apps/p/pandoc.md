@@ -3,7 +3,7 @@ title: Pandoc
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Sep 30 2025 at 04:52 AM
+last_modified_date: Oct 6 2025 at 12:40 AM
 ---
 
 ## Pandoc
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.8.1   | 29/9/2025 | 40554496 | 8a756f1aab3a6032a60428c98468cccba690624d1cf4d0eed6065bf14e4b95e2 | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-windows-x86_64.msi) |
+| 3.8.2   | 5/10/2025 | 40611840 | b428a6277ea32016c8e1426ed328b47c45599a21d7e5260ee610da1cf975a4db | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi) |
