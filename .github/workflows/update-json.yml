@@ -30,8 +30,8 @@ jobs:
         shell: pwsh
         run: |
           Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
-          Install-Module -Name "DnsClient-PS"
-          Install-Module -Name "Evergreen" -AllowPrerelease
+          Install-PSResource -Name "DnsClient-PS"
+          Install-PSResource -Name "Evergreen" -Prerelease
           Update-Evergreen
 
       # Import GPG key

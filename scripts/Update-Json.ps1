@@ -14,6 +14,11 @@ param(
     [System.String[]] $MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
 )
 
+# Configure the environment
+$InformationPreference = [System.Management.Automation.ActionPreference]::Continue
+$ProgressPreference = [System.Management.Automation.ActionPreference]::SilentlyContinue
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+
 #region Functions
 function Test-PSCore {
     <#
@@ -78,20 +83,20 @@ if (Test-PSCore) {
             $Output = Get-EvergreenApp @params
         }
         catch {
-            Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
-            Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
+            Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Encountered an issue with: $App."
+            Write-Information -MessageData $_
             $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
             $Output = $null
         }
 
         if ($null -eq $Output) {
-            Write-Host -Object "Output from app is null: $App." -ForegroundColor "Cyan"
+            Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Output from app is null: $App."
             if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
                 "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
             }
         }
         elseif ("RateLimited" -in $Output.Version) {
-            Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
+            Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Skipping. GitHub API rate limited: $App."
         }
         else {
 
@@ -135,20 +140,20 @@ else {
                 $Output = Get-EvergreenApp @params
             }
             catch {
-                Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
-                Write-Host -Object $_.Exception.Message -ForegroundColor "Cyan"
+                Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Encountered an issue with: $App."
+                Write-Information -MessageData $_
                 $_.Exception.Message | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
                 $Output = $null
             }
 
             if ($null -eq $Output) {
-                Write-Host -Object "Encountered an issue with: $App." -ForegroundColor "Cyan"
+                Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Encountered an issue with: $App."
                 if (!(Test-Path -Path $([System.IO.Path]::Combine($Path, "$App.err")))) {
                     "Output from last run on PowerShell Core was null." | Out-File -FilePath $([System.IO.Path]::Combine($Path, "$App.err")) -NoNewline -Encoding "utf8"
                 }
             }
             elseif ("RateLimited" -in $Output.Version) {
-                Write-Host -Object "Skipping. GitHub API rate limited: $App." -ForegroundColor "Cyan"
+                Write-Information -MessageData "$($PSStyle.Foreground.Cyan)Skipping. GitHub API rate limited: $App."
             }
             else {
                 ConvertTo-Json -InputObject @($Output | Sort-Object -Property @{ Expression = { [System.Version]$_.Version }; Descending = $true }, "Platform", "Type", "Architecture", "Channel", "Release", "Ring", "Language", "Product", "Branch", "JDK", "Title", "Edition" -ErrorAction "SilentlyContinue") | `
