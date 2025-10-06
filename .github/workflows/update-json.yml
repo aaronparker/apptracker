@@ -19,12 +19,12 @@ jobs:
         with:
           ref: main
 
-      - name: Install packages
-        shell: pwsh
-        run: |
-          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Install-PackageProvider -Name "NuGet" -Force
-          Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force
+      # - name: Install packages
+      #   shell: pwsh
+      #   run: |
+      #     [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+      #     Install-PackageProvider -Name "NuGet" -Force
+      #     Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force
 
       - name: Install modules
         shell: pwsh
