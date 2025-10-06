@@ -12,20 +12,26 @@ on:
 
 jobs:
   update-pwsh:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v5
         with:
           ref: main
 
-      - name: Install modules
+      - name: Install packages
         shell: pwsh
         run: |
           [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Get-PSResourceRepository | Set-PSResourceRepository -Trusted
-          Install-PSResource -Name "DnsClient-PS"
-          Install-PSResource -Name "Evergreen" -Prerelease
+          Install-PackageProvider -Name "NuGet" -Force
+          Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force
+
+      - name: Install modules
+        shell: pwsh
+        run: |
+          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
+          Install-Module -Name "DnsClient-PS"
+          Install-Module -Name "Evergreen" -AllowPrerelease
           Update-Evergreen
 
       # Import GPG key
@@ -49,16 +55,16 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           $params = @{
-              Path     = "${{ github.workspace }}/json"
+              Path     = "${{ github.workspace }}\json"
               SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText")
           }
-          . "${{ github.workspace }}/scripts/Update-Json.ps1" @params
+          . "${{ github.workspace }}\scripts\Update-Json.ps1" @params
 
       - name: Save updated files list
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          $UpdateFile = "${{ github.workspace }}/json/_update-pwsh.txt"
+          $UpdateFile = "${{ github.workspace }}\json\_update-pwsh.txt"
           if (Test-Path -Path $UpdateFile) {
             $Updates = Get-Content -Path $UpdateFile
           }
@@ -73,10 +79,10 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: |
           $params = @{
-              UpdateFile     = "${{ github.workspace }}/json/_update-pwsh.txt"
-              LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
+              UpdateFile     = "${{ github.workspace }}\json\_update-pwsh.txt"
+              LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
           }
-          . "${{ github.workspace }}/scripts/Save-LastUpdate.ps1" @params
+          . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
 
       # Format the date number for the commit message
       - name: Get date
