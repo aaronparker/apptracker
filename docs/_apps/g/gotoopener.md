@@ -3,7 +3,7 @@ title: GoTo Opener
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: Jul 26 2024 at 12:16 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## GoTo Opener

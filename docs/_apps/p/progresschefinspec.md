@@ -3,7 +3,7 @@ title: Progress Chef InSpec
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Jul 15 2025 at 12:22 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Progress Chef InSpec

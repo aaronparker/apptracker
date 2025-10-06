@@ -3,7 +3,7 @@ title: Elgato Control Center
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Jan 28 2025 at 12:25 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Elgato Control Center

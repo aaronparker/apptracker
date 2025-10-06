@@ -3,7 +3,7 @@ title: Slack
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: Sep 25 2025 at 01:15 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Slack

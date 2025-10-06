@@ -3,7 +3,7 @@ title: Adoptium Temurin 8
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Jul 27 2025 at 01:04 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Adoptium Temurin 8

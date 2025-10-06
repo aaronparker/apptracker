@@ -3,7 +3,7 @@ title: AutoIt Scripting Language
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Sep 7 2025 at 12:26 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## AutoIt Scripting Language

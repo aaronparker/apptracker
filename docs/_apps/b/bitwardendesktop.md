@@ -3,7 +3,7 @@ title: Bitwarden Desktop
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Sep 19 2025 at 12:41 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Bitwarden Desktop

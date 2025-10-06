@@ -3,7 +3,7 @@ title: Adobe Acrobat DC Pro and Standard
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Oct 1 2025 at 12:51 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Adobe Acrobat DC Pro and Standard

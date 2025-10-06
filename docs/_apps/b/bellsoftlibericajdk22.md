@@ -3,7 +3,7 @@ title: BellSoft Liberica JDK 22
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Jul 18 2024 at 12:31 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## BellSoft Liberica JDK 22

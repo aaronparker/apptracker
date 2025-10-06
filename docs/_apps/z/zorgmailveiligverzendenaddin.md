@@ -12,7 +12,10 @@ last_modified_date: Apr 22 2025 at 12:29 PM
 
 Evergreen app: `ZorgmailVeiligVerzendenAddin`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (api.zorgmail.nl:443)
+```
 
 | Version | Edition   | URI                                                                                                                                                                                                                                                    |
 | ------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

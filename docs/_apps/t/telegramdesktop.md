@@ -3,7 +3,7 @@ title: Telegram Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Sep 8 2025 at 12:50 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Telegram Desktop

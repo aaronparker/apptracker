@@ -3,7 +3,7 @@ title: PuTTY
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Feb 8 2025 at 12:17 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## PuTTY

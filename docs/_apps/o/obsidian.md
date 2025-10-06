@@ -3,7 +3,7 @@ title: Obsidian
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Oct 2 2025 at 12:45 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Obsidian

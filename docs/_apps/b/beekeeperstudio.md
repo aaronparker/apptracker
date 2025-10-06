@@ -3,7 +3,7 @@ title: Beekeeper Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Oct 3 2025 at 12:32 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Beekeeper Studio

@@ -3,7 +3,7 @@ title: AWS Session Manager Plugin
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Feb 7 2025 at 12:48 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## AWS Session Manager Plugin

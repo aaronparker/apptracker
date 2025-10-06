@@ -3,7 +3,7 @@ title: Microsoft Remote Desktop WebRTC Redirector Service
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Mar 9 2025 at 12:25 PM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Microsoft Remote Desktop WebRTC Redirector Service
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWvdRtcService`. Found **1** installer.
 
 Last check: 🟢
 
-| Version         | Date                                 | Architecture | URI                                                                                                                                                                                                        |
-| --------------- | ------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.54.2408.19001 | Wednesday 15 January 2025 9:12:34 pm | x64          | [https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi](https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi) |
+| Version         | Date                                  | Architecture | URI                                                                                                                                                                                                        |
+| --------------- | ------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.54.2408.19001 | Wednesday, 15 January 2025 9:12:34 pm | x64          | [https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi](https://intstreamreleases.z22.web.core.windows.net/MsRdcWebRTCSvc_HostSetup_1.54.2408.19001_x64.msi) |

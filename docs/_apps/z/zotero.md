@@ -3,7 +3,7 @@ title: Zotero
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Aug 17 2025 at 01:02 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Zotero

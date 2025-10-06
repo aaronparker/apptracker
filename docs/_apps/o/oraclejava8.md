@@ -3,7 +3,7 @@ title: Oracle Java 8
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: Jul 16 2025 at 12:51 AM
+last_modified_date: Oct 6 2025 at 03:38 AM
 ---
 
 ## Oracle Java 8
