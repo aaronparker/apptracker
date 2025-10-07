@@ -6,9 +6,14 @@ env:
 
 # Controls when the action will run.
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/update-json.yml'
   schedule:
     - cron: "5 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   update-pwsh:
@@ -19,19 +24,19 @@ jobs:
         with:
           ref: main
 
-      # - name: Install packages
-      #   shell: pwsh
-      #   run: |
-      #     [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-      #     Install-PackageProvider -Name "NuGet" -Force
-      #     Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force
+      - name: Install packages
+        shell: pwsh
+        run: |
+          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+          Register-PackageSource -Name "NuGet" -Location "https://api.nuget.org/v3/index.json" -ProviderName "NuGet" -Trusted
+          Install-PackageProvider -Name "PowerShellGet" -MinimumVersion "2.2.5" -Force
+          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
 
       - name: Install modules
         shell: pwsh
         run: |
-          Set-PSRepository -Name "PSGallery" -InstallationPolicy "Trusted"
           Install-PSResource -Name "DnsClient-PS"
-          Install-PSResource -Name "Evergreen" -Prerelease
+          Install-PSResource -Name "Evergreen" -Prerelease -Verbose
           Update-Evergreen
 
       # Import GPG key
