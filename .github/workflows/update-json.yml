@@ -35,8 +35,8 @@ jobs:
       - name: Install modules
         shell: pwsh
         run: |
-          Install-PSResource -Name "DnsClient-PS"
-          Install-PSResource -Name "Evergreen" -Prerelease -Verbose
+          Install-Module -Name "DnsClient-PS"
+          Install-Module -Name "Evergreen" -AllowClobber -SkipPublisherCheck -AllowPrerelease -Force -Verbose
           Update-Evergreen
 
       # Import GPG key
