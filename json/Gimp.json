@@ -5,14 +5,14 @@
     "Date": "31/8/2025",
     "Channel": "Development",
     "Sha256": "89359bec1348bc19729c25b52f08111dd97b32a8c9e8b51aa117a84a76ac4476",
-    "URI": "https://ziply.mm.fcix.net/gimp/gimp/v3.1/windows/gimp-3.1.4-setup.exe"
+    "URI": "https://cofractal-ewr.mm.fcix.net/gimp/gimp/v3.1/windows/gimp-3.1.4-setup.exe"
   },
   {
-    "Version": "3.0.4",
+    "Version": "3.0.6",
     "Revision": "0",
-    "Date": "18/5/2025",
+    "Date": "5/10/2025",
     "Channel": "Stable",
-    "Sha256": "385e36fe577cbdbfc71ba79d6c046d6f4eaabc01effd7f067bf15fd98410b2a1",
-    "URI": "https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.4-setup.exe"
+    "Sha256": "32101c31d32516dc4b9020295b9f9bf994b5372dfc690820d7b533b9bc93d694",
+    "URI": "https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.6-setup.exe"
   }
 ]
