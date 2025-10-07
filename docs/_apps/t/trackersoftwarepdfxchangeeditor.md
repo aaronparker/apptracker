@@ -3,7 +3,7 @@ title: Tracker Software PDF X-Change Editor
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: Oct 7 2025 at 12:49 AM
+last_modified_date: Oct 7 2025 at 12:29 PM
 ---
 
 ## Tracker Software PDF X-Change Editor

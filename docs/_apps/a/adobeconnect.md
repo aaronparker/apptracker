@@ -3,7 +3,7 @@ title: Adobe Connect meeting application
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Oct 7 2025 at 12:49 AM
+last_modified_date: Oct 7 2025 at 12:29 PM
 ---
 
 ## Adobe Connect meeting application
@@ -17,6 +17,6 @@ Last check: 🟢
 | Version    | Type | Architecture | URI                                                                                                                                                                                                  |
 | ---------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025.9.15  | exe  | x64          | [https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2025_9_15.exe](https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2025_9_15.exe)         |
-| 2025.8.189 | msi  | x64          | [https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2025_8_189.msi](https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2025_8_189.msi)                 |
+| 2025.9.15  | msi  | x64          | [https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2025_9_15.msi](https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2025_9_15.msi)                   |
 | 2024.9.149 | exe  | x86          | [https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_9_149_32.exe](https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2024_9_149_32.exe) |
 | 2024.9.149 | msi  | x86          | [https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_9_149_32.msi](https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2024_9_149_32.msi)           |

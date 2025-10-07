@@ -3,7 +3,7 @@ title: Cendio ThinLinc
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Oct 7 2025 at 12:49 AM
+last_modified_date: Oct 7 2025 at 12:29 PM
 ---
 
 ## Cendio ThinLinc
