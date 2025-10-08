@@ -3,7 +3,7 @@ title: Dropbox desktop app
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: Oct 7 2025 at 12:29 PM
+last_modified_date: Oct 8 2025 at 12:51 AM
 ---
 
 ## Dropbox desktop app
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version    | Architecture | Type | Filename                                       | URI                                                                                                                                                                                                            |
 | ---------- | ------------ | ---- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 233.4.4938 | ARM64        | exe  | Dropbox 233.4.4938 Offline Installer.arm64.exe | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20233.4.4938%20Offline%20Installer.arm64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20233.4.4938%20Offline%20Installer.arm64.exe) |
-| 233.4.4938 | x64          | exe  | Dropbox 233.4.4938 Offline Installer.x64.exe   | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20233.4.4938%20Offline%20Installer.x64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20233.4.4938%20Offline%20Installer.x64.exe)     |
+| 234.4.5591 | ARM64        | exe  | Dropbox 234.4.5591 Offline Installer.arm64.exe | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20234.4.5591%20Offline%20Installer.arm64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20234.4.5591%20Offline%20Installer.arm64.exe) |
+| 234.4.5591 | x64          | exe  | Dropbox 234.4.5591 Offline Installer.x64.exe   | [https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20234.4.5591%20Offline%20Installer.x64.exe](https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20234.4.5591%20Offline%20Installer.x64.exe)     |
