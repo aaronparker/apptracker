@@ -1,14 +1,14 @@
 [
   {
-    "Version": "25.2.3",
-    "Date": "2025-09-03T00:00:00",
+    "Version": "25.2.4",
+    "Date": "2025-10-07T00:00:00",
     "Type": "exe",
-    "URI": "http://download.techsmith.com/camtasiastudio/releases/2523/camtasia.exe"
+    "URI": "http://download.techsmith.com/camtasiastudio/releases/2524/camtasia.exe"
   },
   {
-    "Version": "25.2.3",
-    "Date": "2025-09-03T00:00:00",
+    "Version": "25.2.4",
+    "Date": "2025-10-07T00:00:00",
     "Type": "msi",
-    "URI": "http://download.techsmith.com/camtasiastudio/releases/2523/camtasia.msi"
+    "URI": "http://download.techsmith.com/camtasiastudio/releases/2524/camtasia.msi"
   }
 ]
