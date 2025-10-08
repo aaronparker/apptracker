@@ -3,7 +3,7 @@ title: 7-Zip
 layout: default
 nav_order: 2
 parent: 7
-last_modified_date: Oct 8 2025 at 12:51 AM
+last_modified_date: Oct 8 2025 at 12:32 PM
 ---
 
 ## 7-Zip
