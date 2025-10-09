@@ -3,7 +3,7 @@ title: Elgato Camera Hub
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Oct 9 2025 at 12:40 AM
+last_modified_date: Oct 9 2025 at 12:22 PM
 ---
 
 ## Elgato Camera Hub
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.1.1   | x64          | msi  | [https://edge.elgato.com/egc/windows/echw/2.1.1/CameraHub_2.1.1.6518_x64.msi](https://edge.elgato.com/egc/windows/echw/2.1.1/CameraHub_2.1.1.6518_x64.msi) |
+| 2.2     | x64          | msi  | [https://edge.elgato.com/egc/windows/echw/2.2.0/CameraHub_2.2.0.6839_x64.msi](https://edge.elgato.com/egc/windows/echw/2.2.0/CameraHub_2.2.0.6839_x64.msi) |
