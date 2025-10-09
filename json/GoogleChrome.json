@@ -24,17 +24,17 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "142.0.7444.3",
+    "Version": "142.0.7444.23",
     "Channel": "Beta",
-    "StartDate": "1/10/2025",
+    "StartDate": "8/10/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "142.0.7444.3",
+    "Version": "142.0.7444.23",
     "Channel": "Beta",
-    "StartDate": "1/10/2025",
+    "StartDate": "8/10/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"

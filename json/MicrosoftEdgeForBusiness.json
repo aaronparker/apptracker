@@ -1,5 +1,16 @@
 [
   {
+    "Version": "142.0.3595.9",
+    "Date": "2025-10-08T19:02:00",
+    "Channel": "Policy",
+    "Expiry": "2026-01-08T19:02:00",
+    "SHA256": "F8A59889B29C4CF25DD530041B7695F0CE3C952866355923E969EE95DD9985CE",
+    "Size": 16.27,
+    "Architecture": "any",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/90769879-ff3a-4823-a5e5-e4b3e391e64c/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
     "Version": "142.0.3595.7",
     "Date": "2025-10-08T00:29:00",
     "Channel": "Policy",
@@ -1538,39 +1549,6 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/66d92d8b-41df-4e3f-8777-1851ebc88287/MicrosoftEdgeEnterpriseX86.msi"
-  },
-  {
-    "Version": "136.0.3240.115",
-    "Date": "2025-06-04T18:33:00",
-    "Channel": "Stable",
-    "Expiry": "2026-06-04T18:33:00",
-    "SHA256": "71A8353983FB264970F3A9B755B1641FBDE6D47FB3032A9FA446BAC788C4084C",
-    "Size": 177.94,
-    "Architecture": "arm64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e7ada3a0-273a-4f47-a5bf-d58741c36d2d/MicrosoftEdgeEnterpriseARM64.msi"
-  },
-  {
-    "Version": "136.0.3240.115",
-    "Date": "2025-06-04T18:43:00",
-    "Channel": "Stable",
-    "Expiry": "2026-06-04T18:43:00",
-    "SHA256": "9B5224B9B6896912E282634910C880F9DDE785ABD1AF9B28E4B50D70C30B1CE7",
-    "Size": 171.91,
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c30b32c5-e6b8-4b45-a9e5-37e7d85025a5/MicrosoftEdgeEnterpriseX64.msi"
-  },
-  {
-    "Version": "136.0.3240.115",
-    "Date": "2025-06-04T18:44:00",
-    "Channel": "Stable",
-    "Expiry": "2026-06-04T18:44:00",
-    "SHA256": "F2EAFB23E2D50D424B90D23DE39C118312A0416C92893ABB878AA635F2F2B449",
-    "Size": 155.8,
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f07077ef-3888-4e8a-b3bb-2d153fceb2c1/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
     "Version": "1.3.201.11",

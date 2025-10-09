@@ -1,5 +1,32 @@
 [
   {
+    "Version": "1.2.6673.0",
+    "Date": "7/10/2025",
+    "Channel": "Insider",
+    "MD5": "55EBAD4C7EBF260E423F9DFA867D2195",
+    "Sha2": "A72A6831A815528769879065E02C8D5855EFE78BB925F99F68AD1B3486B9E968571B164DAAE69B27A137CAD5719FB4E6D8F1B5444396CDDEFA998683DE243860",
+    "Architecture": "ARM64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/c75d3bed-34a8-42d2-95cb-ac261778711e/RemoteDesktop_1.2.6673.0_ARM64.msi"
+  },
+  {
+    "Version": "1.2.6673.0",
+    "Date": "7/10/2025",
+    "Channel": "Insider",
+    "MD5": "FE5A210087AE4037AFCDA73887DB085E",
+    "Sha2": "39253C785C60E1AB151AC34EA8BDA9638C2E4ABE4D729928E0AA8CD46DC229794E5C8BC0EE776D44497D0C6D9A7700E3CF6799477B9CE9856383AC9E2D31D07E",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/1fb38efc-ca4c-457f-85c9-bcb77b541e64/RemoteDesktop_1.2.6673.0_x64.msi"
+  },
+  {
+    "Version": "1.2.6673.0",
+    "Date": "7/10/2025",
+    "Channel": "Insider",
+    "MD5": "E7A5C5D568A68B71734C01A3E7D10E63",
+    "Sha2": "82EFAA74823447F265B6441C9323FBDCED31A3061A36812B5E47D61F741D57217AFB71142D8F2F376F9E2143EF2729DFCF24C740D8250B9AC1E3FCF9C377FE2A",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/1b04408d-4929-4547-8e31-22a437cf97d3/RemoteDesktop_1.2.6673.0_x86.msi"
+  },
+  {
     "Version": "1.2.6672.0",
     "Date": "2025-09-24T20:29:54+00:00",
     "Channel": "Dogfood",
@@ -29,15 +56,6 @@
   {
     "Version": "1.2.6597.0",
     "Date": "2025-09-25T07:28:31+00:00",
-    "Channel": "Insider",
-    "MD5": "E647D021B334A4F1FB8CEF53FAF52DFE",
-    "Sha2": "DF15CB484499371B827D73E332499F553893D45B131B34C6BC20E98275E8A1887F076D79FF05CA9FFE861A5A71CC243AD39688F556DCEBD4E0C21E238592AC04",
-    "Architecture": "ARM64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/05680dc8-8212-4acd-bf5c-cccdf9fbb9ca/RemoteDesktop_1.2.6597.0_ARM64.msi"
-  },
-  {
-    "Version": "1.2.6597.0",
-    "Date": "2025-09-25T07:28:31+00:00",
     "Channel": "Public",
     "MD5": "E647D021B334A4F1FB8CEF53FAF52DFE",
     "Sha2": "DF15CB484499371B827D73E332499F553893D45B131B34C6BC20E98275E8A1887F076D79FF05CA9FFE861A5A71CC243AD39688F556DCEBD4E0C21E238592AC04",
@@ -47,29 +65,11 @@
   {
     "Version": "1.2.6597.0",
     "Date": "2025-09-25T07:27:57+00:00",
-    "Channel": "Insider",
-    "MD5": "62CC9857787F99C6DD97CFA5CCD326FA",
-    "Sha2": "BD1F6F00DA2C8AE69D62C620F5F2D0A186619262C6477DC7C109E239BBDE46C8E2A95653F476D828912C9F81D060A6B2A881717F22B8000CD4F69E9C34D54670",
-    "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/90edc32b-248d-4173-af46-ed50623eb4d0/RemoteDesktop_1.2.6597.0_x64.msi"
-  },
-  {
-    "Version": "1.2.6597.0",
-    "Date": "2025-09-25T07:27:57+00:00",
     "Channel": "Public",
     "MD5": "62CC9857787F99C6DD97CFA5CCD326FA",
     "Sha2": "BD1F6F00DA2C8AE69D62C620F5F2D0A186619262C6477DC7C109E239BBDE46C8E2A95653F476D828912C9F81D060A6B2A881717F22B8000CD4F69E9C34D54670",
     "Architecture": "x64",
     "URI": "https://res.cdn.office.net/remote-desktop-windows-client/90edc32b-248d-4173-af46-ed50623eb4d0/RemoteDesktop_1.2.6597.0_x64.msi"
-  },
-  {
-    "Version": "1.2.6597.0",
-    "Date": "2025-09-25T07:27:32+00:00",
-    "Channel": "Insider",
-    "MD5": "A8F08A0EB50851778BD9CDA6B59A9D5B",
-    "Sha2": "B2533D935E20ABC2D509ECE2CF8944C9F7D520FDA8D66AA96B2D52D5FF1A707733676945E6D71138DDC86F819B1873C3CE08126182B8CD8F02FE171603E7DFA8",
-    "Architecture": "x86",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/86a9284e-f74e-40ab-9d74-9ecd6134095b/RemoteDesktop_1.2.6597.0_x86.msi"
   },
   {
     "Version": "1.2.6597.0",

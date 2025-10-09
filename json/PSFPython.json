@@ -2,12 +2,12 @@
   {
     "Version": "25.0",
     "Python": 100,
-    "md5": "761681C05A52D3C6C092576DDFEE26E2",
-    "Size": 9879552,
-    "Date": "18/9/2025",
+    "md5": "9363E9BC6189F0E63491ACD48E06314A",
+    "Size": 9883648,
+    "Date": "8/10/2025",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-25.0b15.msi"
+    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-25.0.msi"
   },
   {
     "Version": "3.14.0",
