@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.17.2",
-    "Date": "16/9/2025",
-    "Size": 167305216,
-    "Sha256": "8b46ea9f9055158df3f21b5836f6e48de75035f069431498730cb98d548f3e22",
+    "Version": "3.17.3",
+    "Date": "9/10/2025",
+    "Size": 167354368,
+    "Sha256": "66e2c5a322da3ca999d750449006aa31431a9e432be672f6f7e2cc55f308486e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v3.17.2/Nextcloud-3.17.2-x64.msi"
+    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v3.17.3/Nextcloud-3.17.3-x64.msi"
   }
 ]
