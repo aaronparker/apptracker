@@ -3,7 +3,7 @@ title: Citrix ShareFile for Windows
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Oct 10 2025 at 12:40 AM
+last_modified_date: Oct 10 2025 at 12:39 PM
 ---
 
 ## Citrix ShareFile for Windows

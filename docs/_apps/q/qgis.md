@@ -12,7 +12,10 @@ last_modified_date: Oct 10 2025 at 12:40 AM
 
 Evergreen app: `QGIS`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+The SSL connection could not be established, see inner exception.
+```
 
 | Version   | Channel | Date      | URI                                                                                                                                      |
 | --------- | ------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |

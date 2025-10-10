@@ -3,7 +3,7 @@ title: Yubico Authenticator
 layout: default
 nav_order: 2
 parent: Y
-last_modified_date: Oct 10 2025 at 12:40 AM
+last_modified_date: Oct 10 2025 at 12:39 PM
 ---
 
 ## Yubico Authenticator
