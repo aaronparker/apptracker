@@ -1,7 +1,7 @@
 [
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre-full",
     "Type": "msi",
     "Architecture": "ARM64",
@@ -11,7 +11,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk",
     "Type": "msi",
     "Architecture": "ARM64",
@@ -21,7 +21,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "msi",
     "Architecture": "ARM64",
@@ -31,7 +31,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-full",
     "Type": "msi",
     "Architecture": "ARM64",
@@ -41,7 +41,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre",
     "Type": "msi",
     "Architecture": "ARM64",
@@ -51,7 +51,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-full",
     "Type": "msi",
     "Architecture": "x64",
@@ -61,7 +61,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "msi",
     "Architecture": "x64",
@@ -71,7 +71,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk",
     "Type": "msi",
     "Architecture": "x64",
@@ -81,7 +81,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre-full",
     "Type": "msi",
     "Architecture": "x64",
@@ -91,7 +91,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre",
     "Type": "msi",
     "Architecture": "x64",
@@ -101,7 +101,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -111,7 +111,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -121,7 +121,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -131,7 +131,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -141,7 +141,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-full",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -151,7 +151,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "x64",
@@ -161,7 +161,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk",
     "Type": "zip",
     "Architecture": "x64",
@@ -171,7 +171,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "x64",
@@ -181,7 +181,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jdk-full",
     "Type": "zip",
     "Architecture": "x64",
@@ -191,7 +191,7 @@
   },
   {
     "Version": "25+37",
-    "LTS": true,
+    "LTS": false,
     "BundleType": "jre",
     "Type": "zip",
     "Architecture": "x64",
