@@ -12,10 +12,7 @@ last_modified_date: Oct 6 2025 at 03:38 AM
 
 Evergreen app: `VastLimitsUberAgent`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
