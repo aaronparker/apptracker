@@ -3,7 +3,7 @@ title: Microsoft Outlook
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Oct 10 2025 at 12:39 PM
+last_modified_date: Oct 11 2025 at 12:38 AM
 ---
 
 ## Microsoft Outlook
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version        | Date      | Size     | Language | Architecture | Type | URI                                                                                                                                                                                                                              |
 | -------------- | --------- | -------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2025.829.200 | 29/8/2025 | 16729828 | Neutral  | ARM64        | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.829.200/Microsoft.OutlookForWindows_arm64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.829.200/Microsoft.OutlookForWindows_arm64.msix) |
-| 1.2025.829.200 | 29/8/2025 | 20496526 | Neutral  | x64          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.829.200/Microsoft.OutlookForWindows_x64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.829.200/Microsoft.OutlookForWindows_x64.msix)     |
-| 1.2025.829.200 | 29/8/2025 | 19102871 | Neutral  | x86          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.829.200/Microsoft.OutlookForWindows_x86.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.829.200/Microsoft.OutlookForWindows_x86.msix)     |
+| 1.2025.930.100 | 30/9/2025 | 17395387 | Neutral  | ARM64        | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.930.100/Microsoft.OutlookForWindows_arm64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.930.100/Microsoft.OutlookForWindows_arm64.msix) |
+| 1.2025.930.100 | 30/9/2025 | 21167622 | Neutral  | x64          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.930.100/Microsoft.OutlookForWindows_x64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.930.100/Microsoft.OutlookForWindows_x64.msix)     |
+| 1.2025.930.100 | 30/9/2025 | 19776345 | Neutral  | x86          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.930.100/Microsoft.OutlookForWindows_x86.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.930.100/Microsoft.OutlookForWindows_x86.msix)     |

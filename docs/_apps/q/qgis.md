@@ -3,7 +3,7 @@ title: QGIS
 layout: default
 nav_order: 2
 parent: Q
-last_modified_date: Oct 10 2025 at 12:40 AM
+last_modified_date: Oct 11 2025 at 12:38 AM
 ---
 
 ## QGIS
@@ -12,10 +12,7 @@ last_modified_date: Oct 10 2025 at 12:40 AM
 
 Evergreen app: `QGIS`. Found **2** installers.
 
-Last check: 🔴
-```
-The SSL connection could not be established, see inner exception.
-```
+Last check: 🟢
 
 | Version   | Channel | Date      | URI                                                                                                                                      |
 | --------- | ------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
