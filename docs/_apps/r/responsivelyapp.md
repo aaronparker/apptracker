@@ -3,7 +3,7 @@ title: Responsively App
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: Oct 11 2025 at 12:38 AM
+last_modified_date: Oct 11 2025 at 12:23 PM
 ---
 
 ## Responsively App
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                                  |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.17.0  | 25/1/2023 | 186820856 | f8194de160f1abb4c7829ff15ae15c2ca53fb1884797dc5d757f522a3c1215d2 | x86          | Default       | exe  | [https://github.com/responsively-org/responsively-app-releases/releases/download/v1.17.0/ResponsivelyApp-Setup-1.17.0.exe](https://github.com/responsively-org/responsively-app-releases/releases/download/v1.17.0/ResponsivelyApp-Setup-1.17.0.exe) |
+| 1.17.1  | 25/1/2023 | 186820464 | 87ca3d3237e3a86b083335cf3400408cb29f9e910c5750e925714ac880252d60 | x86          | Default       | exe  | [https://github.com/responsively-org/responsively-app-releases/releases/download/v1.17.1/ResponsivelyApp-Setup-1.17.1.exe](https://github.com/responsively-org/responsively-app-releases/releases/download/v1.17.1/ResponsivelyApp-Setup-1.17.1.exe) |
