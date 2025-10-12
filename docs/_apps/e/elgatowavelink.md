@@ -3,7 +3,7 @@ title: Elgato Wave Link
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Oct 11 2025 at 12:38 AM
+last_modified_date: Oct 12 2025 at 12:50 AM
 ---
 
 ## Elgato Wave Link
@@ -12,10 +12,7 @@ last_modified_date: Oct 11 2025 at 12:38 AM
 
 Evergreen app: `ElgatoWaveLink`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 504 (Gateway Time-out).
-```
+Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                              |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
