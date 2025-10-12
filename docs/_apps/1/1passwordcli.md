@@ -3,7 +3,7 @@ title: 1Password CLI
 layout: default
 nav_order: 2
 parent: 1
-last_modified_date: Oct 12 2025 at 12:50 AM
+last_modified_date: Oct 12 2025 at 12:32 PM
 ---
 
 ## 1Password CLI
