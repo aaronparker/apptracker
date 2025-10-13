@@ -3,7 +3,7 @@ title: Elgato 4K Capture Utility
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: Oct 12 2025 at 12:32 PM
+last_modified_date: Oct 13 2025 at 12:59 AM
 ---
 
 ## Elgato 4K Capture Utility
