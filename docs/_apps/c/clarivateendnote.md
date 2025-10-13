@@ -3,7 +3,7 @@ title: Clarivate EndNote
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: Oct 13 2025 at 12:59 AM
+last_modified_date: Oct 13 2025 at 12:34 PM
 ---
 
 ## Clarivate EndNote
