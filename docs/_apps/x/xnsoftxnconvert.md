@@ -3,7 +3,7 @@ title: XnSoft Convert
 layout: default
 nav_order: 2
 parent: X
-last_modified_date: Oct 13 2025 at 12:34 PM
+last_modified_date: Oct 14 2025 at 12:51 AM
 ---
 
 ## XnSoft Convert
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                    |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------ |
-| 1.105   | x64          | exe  | [https://download.xnview.com/XnConvert-win-x64.exe](https://download.xnview.com/XnConvert-win-x64.exe) |
-| 1.105   | x86          | exe  | [https://download.xnview.com/XnConvert-win.exe](https://download.xnview.com/XnConvert-win.exe)         |
+| 1.106   | x64          | exe  | [https://download.xnview.com/XnConvert-win-x64.exe](https://download.xnview.com/XnConvert-win-x64.exe) |
+| 1.106   | x86          | exe  | [https://download.xnview.com/XnConvert-win.exe](https://download.xnview.com/XnConvert-win.exe)         |

@@ -3,7 +3,7 @@ title: Adobe Acrobat DC updates
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: Oct 13 2025 at 12:34 PM
+last_modified_date: Oct 14 2025 at 12:51 AM
 ---
 
 ## Adobe Acrobat DC updates
