@@ -1,42 +1,42 @@
 [
   {
-    "Version": "10.4.2.29",
-    "Date": "24/1/2025",
-    "Size": 51613760,
-    "Sha256": null,
+    "Version": "11.0.0.54",
+    "Date": "13/10/2025",
+    "Size": 99000896,
+    "Sha256": "02529bb298ce6a9953e33c9f1bbf8249e064def9466088e25e0cdb034e338d4d",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_ARM64.exe"
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.0.0.54/AutoDarkMode_11.0.0.54_ARM64.exe"
   },
   {
-    "Version": "10.4.2.29",
-    "Date": "24/1/2025",
-    "Size": 57299552,
-    "Sha256": null,
+    "Version": "11.0.0.54",
+    "Date": "13/10/2025",
+    "Size": 106859792,
+    "Sha256": "c8c6cd8f679c01402aa5f7c1091c17f0e5d6214e38fe07afa6bd5a88939cc620",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_x86.exe"
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.0.0.54/AutoDarkMode_11.0.0.54_x86.exe"
   },
   {
-    "Version": "10.4.2.29",
-    "Date": "24/1/2025",
-    "Size": 73333785,
-    "Sha256": null,
+    "Version": "11.0.0.54",
+    "Date": "13/10/2025",
+    "Size": 143119394,
+    "Sha256": "dfd300b0d10196ea05dd016c41fbc90219301512de5130a78ca82bdc833c56cc",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_ARM64.zip"
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.0.0.54/AutoDarkMode_11.0.0.54_ARM64.zip"
   },
   {
-    "Version": "10.4.2.29",
-    "Date": "24/1/2025",
-    "Size": 77850620,
-    "Sha256": null,
+    "Version": "11.0.0.54",
+    "Date": "13/10/2025",
+    "Size": 149791194,
+    "Sha256": "4323e639fb363a90b3ca7de0e9523bdfd7e09bc45bb272f5eb6f2ccc8651b512",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/10.4.2.29/AutoDarkModeX_10.4.2.29_x86.zip"
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.0.0.54/AutoDarkMode_11.0.0.54_x86.zip"
   }
 ]
