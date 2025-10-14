@@ -9,10 +9,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '.github/workflows/update-json.yml'
   schedule:
-    - cron: "5 */12 * * *"
+    - cron: "15 11 * * *"
   workflow_dispatch:
 
 jobs:
@@ -54,7 +52,6 @@ jobs:
           git_committer_name: ${{ secrets.COMMIT_NAME }}
           git_committer_email: ${{ secrets.COMMIT_EMAIL }}
 
-      # Run Pester tests
       - name: Update app JSON
         shell: pwsh
         working-directory: ${{ github.workspace }}
