@@ -3,7 +3,7 @@ title: Microsoft Azure CLI
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Oct 14 2025 at 12:51 AM
+last_modified_date: Oct 14 2025 at 11:26 AM
 ---
 
 ## Microsoft Azure CLI
@@ -14,7 +14,7 @@ Evergreen app: `MicrosoftAzureCLI`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Architecture | Type | URI                                                                                                                                          |
-| ------- | --------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.77.0  | 27/8/2025 | 66801664 | x64          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0-x64.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0-x64.msi) |
-| 2.77.0  | 27/8/2025 | 64626688 | x86          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.77.0.msi)         |
+| Version | Date       | Size     | Architecture | Type | URI                                                                                                                                          |
+| ------- | ---------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.78.0  | 10/10/2025 | 67084288 | x64          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.78.0-x64.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.78.0-x64.msi) |
+| 2.78.0  | 10/10/2025 | 64897024 | x86          | msi  | [https://azcliprod.blob.core.windows.net/msi/azure-cli-2.78.0.msi](https://azcliprod.blob.core.windows.net/msi/azure-cli-2.78.0.msi)         |
