@@ -3,7 +3,7 @@ title: BellSoft Liberica JDK 8 LTS
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: Oct 14 2025 at 11:26 AM
+last_modified_date: Oct 14 2025 at 12:34 PM
 ---
 
 ## BellSoft Liberica JDK 8 LTS
