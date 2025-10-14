@@ -99,7 +99,7 @@ jobs:
 
       - name: Commit changes
         id: commit
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
@@ -210,7 +210,7 @@ jobs:
 
       - name: Commit changes
         id: commit
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update KV ${{ steps.get-date.outputs.date }}.${{ github.run_number }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
@@ -378,7 +378,7 @@ jobs:
 
       - name: Commit changes
         id: commit
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update docs ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
@@ -469,7 +469,7 @@ jobs:
 
   #     - name: Commit changes
   #       id: commit
-  #       uses: stefanzweifel/git-auto-commit-action@v6
+  #       uses: stefanzweifel/git-auto-commit-action@v7
   #       with:
   #         commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
   #         commit_user_name: ${{ secrets.COMMIT_NAME }}
