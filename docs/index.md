@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 15/10/2025 02:07 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 15/10/2025 02:25 +00:00 Etc/UTC`.
 
 ## Supported Applications
 

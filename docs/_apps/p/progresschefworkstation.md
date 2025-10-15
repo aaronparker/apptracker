@@ -3,7 +3,7 @@ title: Progress Chef Workstation
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: Oct 15 2025 at 01:57 AM
+last_modified_date: Oct 15 2025 at 02:14 AM
 ---
 
 ## Progress Chef Workstation
