@@ -3,7 +3,7 @@ title: Zoom Plugins for VDI
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: Oct 14 2025 at 12:34 PM
+last_modified_date: Oct 15 2025 at 01:57 AM
 ---
 
 ## Zoom Plugins for VDI
