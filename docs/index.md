@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 15/10/2025 02:42 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 15/10/2025 13:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -285,7 +285,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OBS Studio                                                        | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                            |
 | OBS Studio Alt                                                    | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                         |
 | OCS Inventory Windows Agent                                       | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)             |
-| Octopus Deploy Server                                             | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                  |
+| Octopus Deploy Server                                             | `15/10/2025` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                  |
 | Octopus Tentacle                                                  | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                      |
 | Omnissa Dynamic Environment Manager                               | `31/7/2025`  | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissadynamicenvironmentmanager/)     |
 | Omnissa Horizon Client                                            | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                 |
@@ -386,7 +386,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | VMPlex Workstation                                                | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vmplexworkstation/)                    |
 | VMware Tools                                                      | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vmwaretools/)                          |
 | voidtools Everything                                              | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/voidtoolseverything/)                  |
-| VSCodium                                                          | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vscodium/)                             |
+| VSCodium                                                          | `15/10/2025` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/v/vscodium/)                             |
 | Win32-OpenSSH                                                     | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/win32openssh/)                         |
 | Windows Enterprise Defaults                                       | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/windowsenterprisedefaults/)            |
 | WinMerge                                                          | `15/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/w/winmerge/)                             |
