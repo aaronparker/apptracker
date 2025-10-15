@@ -7,11 +7,11 @@ env:
 
 # Controls when the action will run. 
 on:
-  workflow_dispatch:
   workflow_run:
     workflows: ["Update self-hosted"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   update-docs:

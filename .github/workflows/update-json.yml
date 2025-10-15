@@ -6,9 +6,6 @@ env:
 
 # Controls when the action will run.
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "15 11 * * *"
   workflow_dispatch:

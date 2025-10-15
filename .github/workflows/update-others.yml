@@ -7,9 +7,9 @@ env:
 
 # Controls when the action will run.
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "15 13 * * *"
+  workflow_dispatch:
 
 jobs:
   update-powershell:
