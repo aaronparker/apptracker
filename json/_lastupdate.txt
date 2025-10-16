@@ -172,6 +172,7 @@
 "PeaZipPeaZip.json","16/10/2025 11:30:46 AM"
 "MicrosoftODBCDriverForSQLServer17.json","16/10/2025 11:30:46 AM"
 "MicrosoftWindowsPackageManagerClient.json","16/10/2025 11:30:46 AM"
+"MicrosoftPowerAutomateDesktop.json","16/10/2025 11:30:46 AM"
 "OperaGXBrowser.json","16/10/2025 11:30:46 AM"
 "MicrosoftVisualStudioCode.json","16/10/2025 11:30:46 AM"
 "ControlUpConsole.json","16/10/2025 11:30:46 AM"
