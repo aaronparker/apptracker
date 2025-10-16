@@ -3,7 +3,7 @@ title: VSCodium
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Oct 15 2025 at 02:32 AM
+last_modified_date: Oct 16 2025 at 11:30 AM
 ---
 
 ## VSCodium
@@ -12,16 +12,13 @@ last_modified_date: Oct 15 2025 at 02:32 AM
 
 Evergreen app: `VSCodium`. Found **6** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version     | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                  |
 | ----------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.105.06808 | 10/10/2025 | 111022208 | 6c1128b6dbe334be6db40d3e4a9a32529a743a9e42e0d49a436141c4214361ab | ARM64        | Default       | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumSetup-arm64-1.105.06808.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumSetup-arm64-1.105.06808.exe)                     |
-| 1.105.06808 | 10/10/2025 | 111022560 | f493485bf3b63d0b5a86deb87e38999fa6c741949e4dfdf8d3376a39aba53e62 | ARM64        | User          | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumUserSetup-arm64-1.105.06808.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumUserSetup-arm64-1.105.06808.exe)             |
-| 1.105.06808 | 10/10/2025 | 116756216 | ac03674de455b0a877333534e0a2ffc7fb314714344b49372eaf0b7021444a3e | x64          | Default       | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumSetup-x64-1.105.06808.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumSetup-x64-1.105.06808.exe)                         |
-| 1.105.06808 | 10/10/2025 | 116756640 | c7e05af66e64040a20a61b6375e030862e865a21a63e38a20f69249c0666ff45 | x64          | User          | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumUserSetup-x64-1.105.06808.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumUserSetup-x64-1.105.06808.exe)                 |
-| 1.105.06808 | 10/10/2025 | 135557120 | 325a98e7f8faa795e590d954776e5b8ab3e9e1b3b4e70b07c3ea4ac6559af6e6 | x64          | Default       | msi  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodium-x64-1.105.06808.msi](https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodium-x64-1.105.06808.msi)                                   |
-| 1.105.06808 | 10/10/2025 | 135557120 | 94b743b346ee2701eacd1ead3c5ae390f91e0ac92063c28db7c2a0fbede1625b | x64          | Default       | msi  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodium-x64-updates-disabled-1.105.06808.msi](https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodium-x64-updates-disabled-1.105.06808.msi) |
+| 1.105.06922 | 14/10/2025 | 111021272 | 1e8d581ac51bc4d5ab63ae5dbe0c93c6516404ff40d25a6551776df784bb157e | ARM64        | Default       | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumSetup-arm64-1.105.06922.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumSetup-arm64-1.105.06922.exe)                     |
+| 1.105.06922 | 14/10/2025 | 111021640 | 49c699d2826a59c31fd214d0632f7a89b0465c87de861305e6a2a696fe82eb83 | ARM64        | User          | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumUserSetup-arm64-1.105.06922.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumUserSetup-arm64-1.105.06922.exe)             |
+| 1.105.06922 | 14/10/2025 | 116756448 | 42a51996795f8a2cbee1c4714e5c20098b1538eb0c1085ed4cd305f0e7a01609 | x64          | Default       | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumSetup-x64-1.105.06922.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumSetup-x64-1.105.06922.exe)                         |
+| 1.105.06922 | 14/10/2025 | 116756864 | 88fdf3f039fba0588cbb7a9f56309fe8bbde1284e19a19750efee37b26be65ed | x64          | User          | exe  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumUserSetup-x64-1.105.06922.exe](https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumUserSetup-x64-1.105.06922.exe)                 |
+| 1.105.06922 | 14/10/2025 | 135569408 | 4aaed6a030133f765228af861737de03ad060022396622b7a9170b62fefaccf3 | x64          | Default       | msi  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodium-x64-1.105.06922.msi](https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodium-x64-1.105.06922.msi)                                   |
+| 1.105.06922 | 14/10/2025 | 135569408 | 9b14a1b5bf3bd22f26449360bac6bb9adbde7a107f030cf79a7f0368e5595ac8 | x64          | Default       | msi  | [https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodium-x64-updates-disabled-1.105.06922.msi](https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodium-x64-updates-disabled-1.105.06922.msi) |
