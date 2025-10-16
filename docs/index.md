@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Thursday 16/10/2025 13:27 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Thursday 16/10/2025 23:04 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **378** applications and **6242** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **378** applications and **6243** unique application installers.
 
 {: .highlight }
 > **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
@@ -234,7 +234,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft OpenJDK 17                                              | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                   |
 | Microsoft OpenJDK 21                                              | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                   |
 | Microsoft Outlook                                                 | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoutlook/)                     |
-| Microsoft Power Automate Desktop                                  | ``           | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
+| Microsoft Power Automate Desktop                                  | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
 | Microsoft PowerShell                                              | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                  |
 | Microsoft PowerToys                                               | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowertoys/)                   |
 | Microsoft SQL Server Management Studio                            | `16/10/2025` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftssms/)                        |
