@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.105.06808",
-    "Date": "10/10/2025",
-    "Size": 111022208,
-    "Sha256": "6c1128b6dbe334be6db40d3e4a9a32529a743a9e42e0d49a436141c4214361ab",
+    "Version": "1.105.06922",
+    "Date": "14/10/2025",
+    "Size": 111021272,
+    "Sha256": "1e8d581ac51bc4d5ab63ae5dbe0c93c6516404ff40d25a6551776df784bb157e",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumSetup-arm64-1.105.06808.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumSetup-arm64-1.105.06922.exe"
   },
   {
-    "Version": "1.105.06808",
-    "Date": "10/10/2025",
-    "Size": 111022560,
-    "Sha256": "f493485bf3b63d0b5a86deb87e38999fa6c741949e4dfdf8d3376a39aba53e62",
+    "Version": "1.105.06922",
+    "Date": "14/10/2025",
+    "Size": 111021640,
+    "Sha256": "49c699d2826a59c31fd214d0632f7a89b0465c87de861305e6a2a696fe82eb83",
     "Architecture": "ARM64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumUserSetup-arm64-1.105.06808.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumUserSetup-arm64-1.105.06922.exe"
   },
   {
-    "Version": "1.105.06808",
-    "Date": "10/10/2025",
-    "Size": 116756216,
-    "Sha256": "ac03674de455b0a877333534e0a2ffc7fb314714344b49372eaf0b7021444a3e",
+    "Version": "1.105.06922",
+    "Date": "14/10/2025",
+    "Size": 116756448,
+    "Sha256": "42a51996795f8a2cbee1c4714e5c20098b1538eb0c1085ed4cd305f0e7a01609",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumSetup-x64-1.105.06808.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumSetup-x64-1.105.06922.exe"
   },
   {
-    "Version": "1.105.06808",
-    "Date": "10/10/2025",
-    "Size": 116756640,
-    "Sha256": "c7e05af66e64040a20a61b6375e030862e865a21a63e38a20f69249c0666ff45",
+    "Version": "1.105.06922",
+    "Date": "14/10/2025",
+    "Size": 116756864,
+    "Sha256": "88fdf3f039fba0588cbb7a9f56309fe8bbde1284e19a19750efee37b26be65ed",
     "Architecture": "x64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodiumUserSetup-x64-1.105.06808.exe"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodiumUserSetup-x64-1.105.06922.exe"
   },
   {
-    "Version": "1.105.06808",
-    "Date": "10/10/2025",
-    "Size": 135557120,
-    "Sha256": "325a98e7f8faa795e590d954776e5b8ab3e9e1b3b4e70b07c3ea4ac6559af6e6",
+    "Version": "1.105.06922",
+    "Date": "14/10/2025",
+    "Size": 135569408,
+    "Sha256": "4aaed6a030133f765228af861737de03ad060022396622b7a9170b62fefaccf3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodium-x64-1.105.06808.msi"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodium-x64-1.105.06922.msi"
   },
   {
-    "Version": "1.105.06808",
-    "Date": "10/10/2025",
-    "Size": 135557120,
-    "Sha256": "94b743b346ee2701eacd1ead3c5ae390f91e0ac92063c28db7c2a0fbede1625b",
+    "Version": "1.105.06922",
+    "Date": "14/10/2025",
+    "Size": 135569408,
+    "Sha256": "9b14a1b5bf3bd22f26449360bac6bb9adbde7a107f030cf79a7f0368e5595ac8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06808/VSCodium-x64-updates-disabled-1.105.06808.msi"
+    "URI": "https://github.com/VSCodium/vscodium/releases/download/1.105.06922/VSCodium-x64-updates-disabled-1.105.06922.msi"
   }
 ]

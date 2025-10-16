@@ -376,3 +376,11 @@ json/OmnissaOSOptimizationTool.err
 json/Praat.err
 json/VSCodium.err
 json/VastLimitsUberAgent.err
+json/FoxitPDFEditor.json
+json/FoxitReader.json
+json/OctopusDeployServer.json
+json/OmnissaDynamicEnvironmentManager.json
+json/OmnissaOSOptimizationTool.json
+json/Praat.json
+json/VSCodium.json
+json/VastLimitsUberAgent.json
