@@ -3,7 +3,7 @@ title: VSCodium
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: Oct 16 2025 at 11:30 AM
+last_modified_date: 17/10/2025 1:16:02 AM
 ---
 
 ## VSCodium
@@ -12,7 +12,10 @@ last_modified_date: Oct 16 2025 at 11:30 AM
 
 Evergreen app: `VSCodium`. Found **6** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version     | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                  |
 | ----------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

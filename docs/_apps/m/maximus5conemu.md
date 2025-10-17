@@ -3,7 +3,7 @@ title: Maximus5 ConEmu
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: Jul 8 2024 at 07:15 AM
+last_modified_date: 17/10/2025 1:16:02 AM
 ---
 
 ## Maximus5 ConEmu
@@ -12,7 +12,10 @@ last_modified_date: Jul 8 2024 at 07:15 AM
 
 Evergreen app: `Maximus5ConEmu`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 301 (Moved Permanently).
+```
 
 | Version  | Date      | Size    | Architecture | InstallerType | Type | URI                                                                                                                                                                                          |
 | -------- | --------- | ------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
