@@ -183,13 +183,6 @@ jobs:
               }
             }
 
-      # - name: Remove update files
-      #   id: remove-update
-      #   shell: pwsh
-      #   run: |
-      #     $Files = "${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt"
-      #     Remove-Item -Path $Files -Force -ErrorAction "SilentlyContinue"
-
       - name: Install modules
         shell: pwsh
         run: |
@@ -243,14 +236,6 @@ jobs:
           commit_message: "Update KV ${{ steps.get-date.outputs.date }}.${{ github.run_number }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
           commit_user_email: ${{ secrets.COMMIT_EMAIL }}
-
-      - name: "Run if changes have been detected"
-        if: steps.commit.outputs.changes_detected == 'true'
-        run: echo "Changes committed."
-
-      - name: "Run if no changes have been detected"
-        if: steps.commit.outputs.changes_detected == 'false'
-        run: echo "No changes detected."
 
   update-endpoints-versions:
     needs: [update-pwsh]

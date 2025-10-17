@@ -13,8 +13,7 @@ param(
     [ValidateNotNullOrEmpty()]
     [System.String] $IndexFile = "./docs/index.md",
 
-    [System.String] $LastUpdateFile = "./json/_lastupdate.txt",
-
+    [ValidateNotNullOrEmpty()]
     [System.String[]] $ChangedFiles
 )
 
@@ -57,9 +56,6 @@ if ($ChangedFiles) {
             $UpdatedFilesLookup[$FileName] = (Get-Item -Path $FullPath).LastWriteTime
         }
     }
-} elseif (Test-Path -Path $LastUpdateFile) {
-    Write-Host "Using last update file: $LastUpdateFile" -ForegroundColor "Yellow"
-    $LastUpdates = Get-Content -Path $LastUpdateFile | ConvertFrom-Csv
 }
 
 # Remove the _apps folder, so that we get clean content

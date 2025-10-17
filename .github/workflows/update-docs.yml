@@ -103,7 +103,7 @@ jobs:
           id: get-date
           run: |
             DATEF=`date +%Y.%m.%d`
-            echo "::set-output name=date::$DATEF"
+            echo "date=$DATEF" >> $GITHUB_OUTPUT
 
         # Import GPG key
         - name: Import GPG key
