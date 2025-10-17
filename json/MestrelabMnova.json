@@ -1,9 +1,9 @@
 [
   {
-    "Version": "15.0.1",
-    "Revision": "35756",
+    "Version": "16.0.0",
+    "Revision": "39276",
     "Architecture": "x64",
-    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-15.0.1-35756_x64.msi"
+    "URI": "http://mestrelab.com/downloads/mnova/win/msi/MestReNova-16.0.0-39276_x64.msi"
   },
   {
     "Version": "14.3.3",

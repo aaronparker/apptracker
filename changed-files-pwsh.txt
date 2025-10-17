@@ -174,8 +174,10 @@ json/ManicTimeClient.json
 json/MarkMpnSQL4CDS.json
 json/MasterPackager.json
 json/MattermostDesktop.json
+json/Maximus5ConEmu.json
 json/McNeelRhino.json
 json/MendeleyDesktop.json
+json/MestrelabMnova.json
 json/Microsoft.NET.json
 json/Microsoft365Apps.json
 json/MicrosoftAzureCLI.json
@@ -244,6 +246,7 @@ json/OBSStudio.json
 json/OBSStudioAlt.json
 json/OCSInventoryWindowsAgent.json
 json/Obsidian.json
+json/OctopusDeployServer.json
 json/OctopusTentacle.json
 json/OmnissaHorizonClient.json
 json/OnlyOfficeDesktopEditors.json
