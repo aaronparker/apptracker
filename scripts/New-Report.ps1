@@ -13,8 +13,9 @@ param(
     [ValidateNotNullOrEmpty()]
     [System.String] $IndexFile = "./docs/index.md",
 
-    [ValidateNotNullOrEmpty()]
-    [System.String] $LastUpdateFile = "./json/_lastupdate.txt"
+    [System.String] $LastUpdateFile = "./json/_lastupdate.txt",
+
+    [System.String[]] $ChangedFiles
 )
 
 $DefaultLayout = @"
@@ -44,8 +45,20 @@ Import-Module -Name "MarkdownPS" -Force
 #region Update the list of supported apps in index.md, sorted alphabetically
 $UniqueAppsCount = 0
 
-# Read the file that lists last date applications were updates
-if (Test-Path -Path $LastUpdateFile) {
+# Get update information - prefer ChangedFiles parameter over LastUpdateFile
+if ($ChangedFiles) {
+    Write-Host "Using provided changed files list: $($ChangedFiles.Count) files" -ForegroundColor "Yellow"
+    # Create a hashtable for quick lookup of changed files with their timestamps
+    $UpdatedFilesLookup = @{}
+    foreach ($File in $ChangedFiles) {
+        $FileName = [System.IO.Path]::GetFileName($File)
+        $FullPath = Join-Path -Path $JsonPath -ChildPath $FileName
+        if (Test-Path -Path $FullPath) {
+            $UpdatedFilesLookup[$FileName] = (Get-Item -Path $FullPath).LastWriteTime
+        }
+    }
+} elseif (Test-Path -Path $LastUpdateFile) {
+    Write-Host "Using last update file: $LastUpdateFile" -ForegroundColor "Yellow"
     $LastUpdates = Get-Content -Path $LastUpdateFile | ConvertFrom-Csv
 }
 
@@ -131,9 +144,26 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 $SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[view]($("https://stealthpuppy.com/apptracker/apps/$($_.Name.Substring(0, 1))/$($_.Name)/"))".ToLower(); $_ } | `
     ForEach-Object {
     $Name = $_.Name
+    $JsonFileName = "$Name.json"
+    
+    # Get last update time - prefer UpdatedFilesLookup over LastUpdates
+    $LastUpdateTime = if ($UpdatedFilesLookup -and $UpdatedFilesLookup.ContainsKey($JsonFileName)) {
+        $UpdatedFilesLookup[$JsonFileName].ToString("yyyy-MM-dd")
+    } elseif ($LastUpdates) {
+        ($LastUpdates | Where-Object { $_.Name -eq $JsonFileName } | Select-Object -ExpandProperty "LastWriteTime" -First 1) -split " " | Select-Object -First 1
+    } else {
+        # Fallback to file system timestamp
+        $JsonFile = [System.IO.Path]::Combine($JsonPath, $JsonFileName)
+        if (Test-Path -Path $JsonFile) {
+            (Get-Item -Path $JsonFile).LastWriteTime.ToString("yyyy-MM-dd")
+        } else {
+            "Unknown"
+        }
+    }
+    
     [PSCustomObject] @{
         Application = $_.Application
-        LastUpdate  = "``$((($LastUpdates | Where-Object { $_.Name -eq "$Name.json" } | Select-Object -ExpandProperty "LastWriteTime") -split " ")[0])``"
+        LastUpdate  = "``$LastUpdateTime``"
         Status      = $(if (Test-Path -Path $([System.IO.Path]::Combine($JsonPath, "$Name.err"))) { "🔴" } else { "🟢" })
         Details     = $_.Link
     }

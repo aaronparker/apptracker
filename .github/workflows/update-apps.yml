@@ -83,6 +83,22 @@ jobs:
       #     }
       #     . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
 
+      # Save list of changed files for docs workflow
+      - name: Save changed files list
+        shell: pwsh
+        working-directory: ${{ github.workspace }}
+        run: |
+          $files = foreach ($item in (git status --short --porcelain json/*.json)) { 
+            $match = [RegEx]::Match($item, "^..\s(.*)$")
+            if ($match.Success) { $match.Groups[1].Value }
+          }
+          if ($null -ne $files) {
+            $files | Out-File -FilePath "changed-files-pwsh.txt" -Encoding "Utf8" -Force
+            Write-Host "Saved $($files.Count) changed files to changed-files-pwsh.txt"
+          } else {
+            "No files changed" | Out-File -FilePath "changed-files-pwsh.txt" -Encoding "Utf8" -Force
+          }
+
       # Format the date number for the commit message
       - name: Get date
         id: get-date
@@ -98,6 +114,13 @@ jobs:
           commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
           commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+
+      - name: Upload changed files list
+        uses: actions/upload-artifact@v4
+        with:
+          name: changed-files-pwsh
+          path: changed-files-pwsh.txt
+          retention-days: 1
 
       - name: "Run if changes have been detected"
         if: steps.commit.outputs.changes_detected == 'true'

@@ -30,6 +30,45 @@ jobs:
             git config --global core.safecrlf false
             git pull origin main
 
+        - name: Download changed files artifacts
+          uses: actions/download-artifact@v4
+          with:
+            pattern: changed-files-*
+            path: artifacts
+            merge-multiple: true
+          continue-on-error: true
+
+        - name: Process changed files list
+          id: changed-files
+          shell: pwsh
+          run: |
+            $ChangedFiles = @()
+            
+            # Check for artifacts from both workflows
+            $ArtifactFiles = @("artifacts/changed-files-pwsh.txt", "artifacts/changed-files-hosted.txt")
+            
+            foreach ($File in $ArtifactFiles) {
+              if (Test-Path -Path $File) {
+                $Content = Get-Content $File -ErrorAction SilentlyContinue
+                if ($Content -and $Content -ne "No files changed") {
+                  $ChangedFiles += $Content
+                }
+                Write-Host "Found artifact: $File with content: $($Content -join ', ')"
+              }
+            }
+            
+            # Remove duplicates and filter to json files only
+            $UniqueFiles = $ChangedFiles | Where-Object { $_ -like "*.json" } | Select-Object -Unique
+            
+            if ($UniqueFiles) {
+              $UniqueFiles | Out-File -FilePath "combined-changed-files.txt" -Encoding "Utf8" -Force
+              Write-Host "Combined changed files: $($UniqueFiles -join ', ')"
+              echo "has-changes=true" | Out-File -FilePath $Env:GITHUB_OUTPUT -Encoding utf8 -Append
+            } else {
+              Write-Host "No changed files found in artifacts"
+              echo "has-changes=false" | Out-File -FilePath $Env:GITHUB_OUTPUT -Encoding utf8 -Append
+            }
+
         - name: Install modules
           shell: pwsh
           run: |
@@ -43,11 +82,20 @@ jobs:
           shell: pwsh
           run: |
             $params = @{
-              JsonPath       = "${{ github.workspace }}/json"
-              OutputPath     = "${{ github.workspace }}/docs/_apps"
-              IndexFile      = "${{ github.workspace }}/docs/index.md"
-              LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
+              JsonPath    = "${{ github.workspace }}/json"
+              OutputPath  = "${{ github.workspace }}/docs/_apps"
+              IndexFile   = "${{ github.workspace }}/docs/index.md"
             }
+            
+            # Add changed files if available
+            if (Test-Path "combined-changed-files.txt") {
+              $ChangedFiles = Get-Content "combined-changed-files.txt"
+              if ($ChangedFiles) {
+                $params["ChangedFiles"] = $ChangedFiles
+                Write-Host "Passing $($ChangedFiles.Count) changed files to New-Report.ps1"
+              }
+            }
+            
             . "${{ github.workspace }}/scripts/New-Report.ps1" @params
 
         # Format the date number for the commit message
