@@ -4,21 +4,12 @@
 [CmdletBinding(SupportsShouldProcess = $false)]
 [Diagnostics.CodeAnalysis.SuppressMessageAttribute("PSAvoidUsingWriteHost", "")]
 param(
-    #[System.String] $Path,
-
     [ValidateNotNullOrEmpty()]
     [System.String] $UpdateFile = "./json/_update-pwsh.txt",
 
     [ValidateNotNullOrEmpty()]
     [System.String] $LastUpdateFile = "./json/_lastupdate.txt"
 )
-
-# Get the current list of application data files
-# Get-ChildItem -Path "$Path/*.json" | `
-#     Select-Object -Property "Name", "LastWriteTime" | `
-#     Sort-Object -Property "LastWriteTime" -Descending | `
-#     ConvertTo-Csv -Delimiter "," | `
-#     Out-File -FilePath $LastUpdateFile -Encoding "utf8" -Force
 
 #region Functions
 function Test-PSCore {

@@ -1,4 +1,4 @@
-name: "Update apps"
+name: 'Update apps'
 
 # Environment variables
 env:
@@ -59,29 +59,45 @@ jobs:
           }
           . "${{ github.workspace }}\scripts\Update-Json.ps1" @params
 
-      - name: Save updated files list
-        shell: pwsh
-        working-directory: ${{ github.workspace }}
-        run: |
-          $UpdateFile = "${{ github.workspace }}\json\_update-pwsh.txt"
-          if (Test-Path -Path $UpdateFile) {
-            $Updates = Get-Content -Path $UpdateFile
-          }
-          $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-          if ($null -ne $files) {
-              $Updates += $files
-              $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
-          }
+      # - name: Save updated files list
+      #   shell: pwsh
+      #   working-directory: ${{ github.workspace }}
+      #   run: |
+      #     $UpdateFile = "${{ github.workspace }}\json\_update-pwsh.txt"
+      #     if (Test-Path -Path $UpdateFile) {
+      #       $Updates = Get-Content -Path $UpdateFile
+      #     }
+      #     $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
+      #     if ($null -ne $files) {
+      #         $Updates += $files
+      #         $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
+      #     }
 
-      - name: Save last update list
+      # - name: Save last update list
+      #   shell: pwsh
+      #   working-directory: ${{ github.workspace }}
+      #   run: |
+      #     $params = @{
+      #         UpdateFile     = "${{ github.workspace }}\json\_update-pwsh.txt"
+      #         LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
+      #     }
+      #     . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
+
+      # Save list of changed files for docs workflow
+      - name: Save changed files list
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          $params = @{
-              UpdateFile     = "${{ github.workspace }}\json\_update-pwsh.txt"
-              LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
+          $files = foreach ($item in (git status --short --porcelain json/*.json)) { 
+            $match = [RegEx]::Match($item, "^..\s(.*)$")
+            if ($match.Success) { $match.Groups[1].Value }
           }
-          . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
+          if ($null -ne $files) {
+            $files | Out-File -FilePath "changed-files-pwsh.txt" -Encoding "Utf8" -Force
+            Write-Host "Saved $($files.Count) changed files to changed-files-pwsh.txt"
+          } else {
+            "No files changed" | Out-File -FilePath "changed-files-pwsh.txt" -Encoding "Utf8" -Force
+          }
 
       # Format the date number for the commit message
       - name: Get date
@@ -98,6 +114,13 @@ jobs:
           commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
           commit_user_name: ${{ secrets.COMMIT_NAME }}
           commit_user_email: ${{ secrets.COMMIT_EMAIL }}
+
+      - name: Upload changed files list
+        uses: actions/upload-artifact@v4
+        with:
+          name: changed-files-pwsh
+          path: changed-files-pwsh.txt
+          retention-days: 1
 
       - name: "Run if changes have been detected"
         if: steps.commit.outputs.changes_detected == 'true'
@@ -130,31 +153,42 @@ jobs:
           CLOUDFLARE_ZONE_ID: ${{secrets.CLOUDFLARE_ZONE_ID}}
           CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
         run: |
-          foreach ($UpdateFile in @("${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt")) {
-              $Files = Get-Content -Path $UpdateFile -ErrorAction "SilentlyContinue"
-              if ($null -ne $Files) {
-                  Write-Host "Found $($Files.Count) files with changes."
-                  foreach ($file in $Files) {
-                      Write-Host "`nChecking: $file"
-                      if ($file -match "json$") {
-                          try {
-                              $file = Get-Item -Path "${{ github.workspace }}/$file" -ErrorAction "SilentlyContinue"
-                              wrangler kv key put $file.BaseName.ToLower() --path=$($file.FullName) --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}" --remote
-                          }
-                          catch {
-                              Write-Warning -Message "Input from $file is not a valid."
-                          }
-                      }
-                  }
-              }
-          }
+            # Fetch at least two commits so HEAD~1 is available
+            git fetch --no-tags --prune --depth=2 origin main || true
 
-      - name: Remove update files
-        id: remove-update
-        shell: pwsh
-        run: |
-          $Files = "${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt"
-          Remove-Item -Path $Files -Force -ErrorAction "SilentlyContinue"
+            # Get list of changed json files in the json directory from the previous commit
+            $changed = git diff --name-only HEAD~1 HEAD -- 'json/*.json' 2>$null
+            if (-not $changed) {
+              Write-Host "No json files changed in the previous commit."
+              exit 0
+            }
+
+            $files = $changed -split "`n" | Where-Object { $_ -and $_ -match '\.json$' } | ForEach-Object { $_.Trim() }
+            Write-Host "Found $($files.Count) json files changed:"
+            $files | ForEach-Object { Write-Host " - $_" }
+
+            foreach ($rel in $files) {
+              try {
+                $full = Join-Path -Path $Env:GITHUB_WORKSPACE -ChildPath $rel
+                if (-not (Test-Path $full)) {
+                  Write-Warning -Message "File not found: $full"
+                  continue
+                }
+                $key = [System.IO.Path]::GetFileNameWithoutExtension($rel).ToLower()
+                Write-Host "Uploading $rel as KV key '$key'..."
+                wrangler kv key put $key --path="$full" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}" --remote
+              }
+              catch {
+                Write-Warning -Message "Failed to upload $rel - $($_.Exception.Message)"
+              }
+            }
+
+      # - name: Remove update files
+      #   id: remove-update
+      #   shell: pwsh
+      #   run: |
+      #     $Files = "${{ github.workspace }}/json/_update-pwsh.txt", "${{ github.workspace }}/json/_update-powershell.txt"
+      #     Remove-Item -Path $Files -Force -ErrorAction "SilentlyContinue"
 
       - name: Install modules
         shell: pwsh
@@ -304,175 +338,3 @@ jobs:
           $Endpoints | ConvertTo-Json | Out-File -FilePath "${{ github.workspace }}/Endpoints.json" -Encoding "Utf8" -NoNewline
           wrangler kv key put "endpoints-downloads" --path="${{ github.workspace }}/Endpoints.json" --namespace-id="${{secrets.KV_PROD_NAMESPACE_ID}}" --remote
           Remove-Item -Path "${{ github.workspace }}/Endpoints.json"
-
-  update-docs:
-    needs:
-      [
-        update-pwsh,
-        update-kv-apps,
-        update-endpoints-versions,
-        update-endpoints-downloads,
-      ]
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v5
-        with:
-          ref: main
-          token: ${{ secrets.PAT }}
-
-      - name: Git pull
-        shell: pwsh
-        run: |
-          git config --global core.safecrlf false
-          git pull origin main
-
-      - name: Install modules
-        shell: pwsh
-        run: |
-          [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
-          Get-PSResourceRepository | Set-PSResourceRepository -Trusted
-          Install-PSResource -Name "MarkdownPS"
-          Install-PSResource -Name "Evergreen" -Prerelease
-          Update-Evergreen
-
-      - name: Generate report
-        shell: pwsh
-        run: |
-          $params = @{
-            JsonPath       = "${{ github.workspace }}/json"
-            OutputPath     = "${{ github.workspace }}/docs/_apps"
-            IndexFile      = "${{ github.workspace }}/docs/index.md"
-            LastUpdateFile = "${{ github.workspace }}/json/_lastupdate.txt"
-          }
-          . "${{ github.workspace }}/scripts/New-Report.ps1" @params
-
-      # Format the date number for the commit message
-      - name: Get date
-        id: get-date
-        shell: pwsh
-        run: |
-          $Date = Get-Date -Format "yyyy.MM.dd"
-          echo "date=$Date" | Out-File -FilePath $Env:GITHUB_OUTPUT -Encoding utf8 -Append
-
-      # Import GPG key
-      - name: Import GPG key
-        id: import_gpg
-        uses: crazy-max/ghaction-import-gpg@v6
-        with:
-          gpg_private_key: ${{ secrets.GPGKEY }}
-          passphrase: ${{ secrets.GPGPASSPHRASE }}
-          git_user_signingkey: true
-          git_commit_gpgsign: true
-          git_config_global: true
-          git_tag_gpgsign: true
-          git_push_gpgsign: false
-          git_committer_name: ${{ secrets.COMMIT_NAME }}
-          git_committer_email: ${{ secrets.COMMIT_EMAIL }}
-
-      - name: Commit changes
-        id: commit
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "Update docs ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
-          commit_user_name: ${{ secrets.COMMIT_NAME }}
-          commit_user_email: ${{ secrets.COMMIT_EMAIL }}
-
-      - name: "Run if changes have been detected"
-        if: steps.commit.outputs.changes_detected == 'true'
-        run: echo "Changes committed."
-
-      - name: "Run if no changes have been detected"
-        if: steps.commit.outputs.changes_detected == 'false'
-        run: echo "No changes detected."
-
-  # update-powershell:
-  #   needs: update-pwsh
-  #   runs-on: windows-latest
-
-  #   steps:
-  #     - uses: actions/checkout@v5
-  #       with:
-  #         ref: main
-
-  #     # Run Pester tests
-  #     - name: Git pull
-  #       shell: powershell
-  #       run: |
-  #         git config --global core.safecrlf false
-  #         git pull origin main
-
-  #     - name: Install modules
-  #       shell: powershell
-  #       run: |
-  #         Install-Module -Name "Evergreen" -Force
-
-  #     # Import GPG key
-  #     - name: Import GPG key
-  #       id: import_gpg
-  #       uses: crazy-max/ghaction-import-gpg@v6
-  #       with:
-  #         gpg_private_key: ${{ secrets.GPGKEY }}
-  #         passphrase: ${{ secrets.GPGPASSPHRASE }}
-  #         git_user_signingkey: true
-  #         git_commit_gpgsign: true
-  #         git_config_global: true
-  #         git_tag_gpgsign: true
-  #         git_push_gpgsign: false
-  #         git_committer_name: ${{ secrets.COMMIT_NAME }}
-  #         git_committer_email: ${{ secrets.COMMIT_EMAIL }}
-
-  #     # Run Pester tests
-  #     - name: Update app JSON
-  #       shell: powershell
-  #       working-directory: ${{ github.workspace }}
-  #       run: |
-  #         . "${{ github.workspace }}\scripts\Update-Json.ps1" -Path "${{ github.workspace }}\json"
-
-  #     - name: Save updated files list
-  #       shell: powershell
-  #       working-directory: ${{ github.workspace }}
-  #       run: |
-  #         $UpdateFile = "${{ github.workspace }}\json\_update-powershell.txt"
-  #         if (Test-Path -Path $UpdateFile) {
-  #           $Updates = Get-Content -Path $UpdateFile
-  #         }
-  #         $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-  #         if ($null -ne $files) {
-  #           $Updates += $files
-  #           $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
-  #         }
-
-  #     - name: Save last update list
-  #       shell: powershell
-  #       working-directory: ${{ github.workspace }}
-  #       run: |
-  #         $params = @{
-  #             UpdateFile     = "${{ github.workspace }}\json\_update-powershell.txt"
-  #             LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
-  #         }
-  #         . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
-
-  #     # Format the date number for the commit message
-  #     - name: Get date
-  #       id: get-date
-  #       shell: powershell
-  #       run: |
-  #         $Date = Get-Date -Format "yyyy.MM.dd"
-  #         echo "date=$Date" | Out-File -FilePath $Env:GITHUB_OUTPUT -Encoding utf8 -Append
-
-  #     - name: Commit changes
-  #       id: commit
-  #       uses: stefanzweifel/git-auto-commit-action@v7
-  #       with:
-  #         commit_message: "Update json ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
-  #         commit_user_name: ${{ secrets.COMMIT_NAME }}
-  #         commit_user_email: ${{ secrets.COMMIT_EMAIL }}
-
-  #     - name: "Run if changes have been detected"
-  #       if: steps.commit.outputs.changes_detected == 'true'
-  #       run: echo "Changes committed."
-
-  #     - name: "Run if no changes have been detected"
-  #       if: steps.commit.outputs.changes_detected == 'false'
-  #       run: echo "No changes detected."
