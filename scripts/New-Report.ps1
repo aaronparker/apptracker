@@ -67,13 +67,8 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     # Get the Evergreen app object
     $App = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName }
 
-    # Convert the date to a long date for readability for all regions
-    # "MMM d yyyy 'at' hh:mm tt"
-    $LastWriteTime = $LastUpdates | Where-Object { $_.Name -eq $File.Name } | Select-Object -ExpandProperty "LastWriteTime"
-    $ConvertedDateTime = [System.DateTime]::ParseExact($LastWriteTime, "d/M/yyyy h:mm:s tt", [System.Globalization.CultureInfo]::CurrentUICulture.DateTimeFormat)
-
     # Update front matter
-    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $ConvertedDateTime.ToString("MMM d yyyy 'at' hh:mm tt")) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
+    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $($File.LastWriteTime.ToString("dd/MM/yyyy h:mm:ss tt"))) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
 
     # Get details of the app from the saved JSON; Update the count of unique apps
     $AppObject = Get-Content -Path $File.FullName | ConvertFrom-Json
@@ -93,7 +88,6 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     if (Test-Path -Path $ErrFile) {
         $Err = Get-Content -Path $ErrFile
         $Markdown += "Last check: 🔴`n"
-        #$Markdown += "`n`n"
         $Markdown += '```'
         $Markdown += "`n$Err`n"
         $Markdown += '```'
