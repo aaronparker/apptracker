@@ -31,7 +31,7 @@ jobs:
             git pull origin main
 
         - name: Download changed files artifacts
-          uses: actions/download-artifact@v4
+          uses: actions/download-artifact@v5
           with:
             pattern: changed-files-*
             path: artifacts
