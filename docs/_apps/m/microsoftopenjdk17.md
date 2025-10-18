@@ -3,7 +3,7 @@ title: Microsoft OpenJDK 17
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 18/10/2025 11:39:15 AM
+last_modified_date: 18/10/2025 1:23:33 PM
 ---
 
 ## Microsoft OpenJDK 17
