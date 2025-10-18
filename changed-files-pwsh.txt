@@ -339,6 +339,7 @@ json/USBPcap.json
 json/UnityEditor.json
 json/VMPlexWorkstation.json
 json/VMwareTools.json
+json/VSCodium.json
 json/VeraCrypt.json
 json/VercelHyper.json
 json/VideoLanVlcPlayer.json

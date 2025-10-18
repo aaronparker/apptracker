@@ -1,42 +1,42 @@
 [
   {
-    "Version": "2.51.0.2",
-    "Date": "29/9/2025",
-    "Size": 63779680,
-    "Sha256": "ba95adc559e2d91ae28aa354c0ffb06b2c54f2bf42985f278dded9ca31194816",
+    "Version": "2.51.1",
+    "Date": "17/10/2025",
+    "Size": 64085640,
+    "Sha256": "58fc351b55a00db7fb9067d1959ba821a2cad0a46a4d35caf6726bdb36950cd4",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/Git-2.51.0.2-arm64.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/Git-2.51.1-arm64.exe"
   },
   {
-    "Version": "2.51.0.2",
-    "Date": "29/9/2025",
-    "Size": 59960040,
-    "Sha256": "f35e795224349c63b7d6c429c2d8404a6ce7e2e8f91934a3f6ba2ca8e7e285a8",
+    "Version": "2.51.1",
+    "Date": "17/10/2025",
+    "Size": 60175768,
+    "Sha256": "0703b02416ff2dd7940a705fc078d04ebc7093889ecc798be4029ee9c5341e70",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/PortableGit-2.51.0.2-arm64.7z.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/PortableGit-2.51.1-arm64.7z.exe"
   },
   {
-    "Version": "2.51.0.2",
-    "Date": "29/9/2025",
-    "Size": 65895592,
-    "Sha256": "5cf583441ccd8d98d3492936235b6ee30c6847d1b3f49365d6a025b3432094ad",
+    "Version": "2.51.1",
+    "Date": "17/10/2025",
+    "Size": 66165512,
+    "Sha256": "b6a0e8094a2564e8f5407f18c1b47f057fe3dd10748c11e5f86478d8cbbf6acd",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/Git-2.51.0.2-64-bit.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/Git-2.51.1-64-bit.exe"
   },
   {
-    "Version": "2.51.0.2",
-    "Date": "29/9/2025",
-    "Size": 60539504,
-    "Sha256": "85d6e9f865b73827e22d532fd6cd5b93987c8d264142786b0721956619d5c00e",
+    "Version": "2.51.1",
+    "Date": "17/10/2025",
+    "Size": 60077912,
+    "Sha256": "2a1108dd87bd9d7fc168f76f0f2d7b77a44ca49f42c7a3a081b9fcbbbb75473b",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/PortableGit-2.51.0.2-64-bit.7z.exe"
+    "URI": "https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/PortableGit-2.51.1-64-bit.7z.exe"
   }
 ]
