@@ -3,7 +3,7 @@ title: PeaZip PeaZip
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 17/10/2025 1:24:58 PM
+last_modified_date: 18/10/2025 11:39:15 AM
 ---
 
 ## PeaZip PeaZip
@@ -14,7 +14,7 @@ Evergreen app: `PeaZipPeaZip`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                        |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10.6.1  | 17/8/2025 | 10946434 | 3d0bb650f3ee6acaea8f0588cf300ffaff9b5a9d8a6ae607790a5c9e4983e6f3 | x64          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/10.6.1/peazip-10.6.1.WIN64.exe](https://github.com/peazip/PeaZip/releases/download/10.6.1/peazip-10.6.1.WIN64.exe)     |
-| 10.6.1  | 17/8/2025 | 7881001  | cabde016d2980743c539a9c288a5f496a62dcc6fb576a870ac817b3ad26dfcdc | x86          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/10.6.1/peazip-10.6.1.WINDOWS.exe](https://github.com/peazip/PeaZip/releases/download/10.6.1/peazip-10.6.1.WINDOWS.exe) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                        |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10.7.0  | 18/10/2025 | 10970219 | 0ea1860d0fd137b03451d60e2dbd588963173532980043dc70bda429a13c6aaa | x64          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/10.7.0/peazip-10.7.0.WIN64.exe](https://github.com/peazip/PeaZip/releases/download/10.7.0/peazip-10.7.0.WIN64.exe)     |
+| 10.7.0  | 18/10/2025 | 7900202  | 789baaaee1893c7ea5eff9eac2c50415b90a5b3b219416ecb779bf9533fca301 | x86          | Default       | exe  | [https://github.com/peazip/PeaZip/releases/download/10.7.0/peazip-10.7.0.WINDOWS.exe](https://github.com/peazip/PeaZip/releases/download/10.7.0/peazip-10.7.0.WINDOWS.exe) |

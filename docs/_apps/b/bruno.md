@@ -3,7 +3,7 @@ title: Bruno
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 17/10/2025 1:24:58 PM
+last_modified_date: 18/10/2025 11:39:15 AM
 ---
 
 ## Bruno
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.13.1  | 15/10/2025 | 114440200 | 5d57aeeb78c85da84d66d31dbebfb406c10d7e033552e10428f5cf2eb31e5ec9 | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v2.13.1/bruno_2.13.1_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v2.13.1/bruno_2.13.1_x64_win.exe) |
-| 2.13.1  | 15/10/2025 | 126722048 | a22dcfef244198925e81738da076db49fdd1bdf294412dd57e0dcf31e7595318 | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v2.13.1/bruno_2.13.1_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v2.13.1/bruno_2.13.1_x64_win.msi) |
-| 2.13.1  | 15/10/2025 | 167431413 | 1b74bdb8bcb14d63524028dde9b51d48b3b96582bf30f25a85723bd01fd7a7bb | x64          | Default       | zip  | [https://github.com/usebruno/bruno/releases/download/v2.13.1/bruno_2.13.1_x64_win.zip](https://github.com/usebruno/bruno/releases/download/v2.13.1/bruno_2.13.1_x64_win.zip) |
+| 2.13.2  | 17/10/2025 | 114431776 | 65f7e8acdf4ab95644e6867ea7ac9efff6520eb31d86379f4f82f6b5b2a06085 | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v2.13.2/bruno_2.13.2_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v2.13.2/bruno_2.13.2_x64_win.exe) |
+| 2.13.2  | 17/10/2025 | 126705664 | ea632b907ee6babbd90b42a52f4685929b110fe2955842384f558baf2b3eebb8 | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v2.13.2/bruno_2.13.2_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v2.13.2/bruno_2.13.2_x64_win.msi) |
+| 2.13.2  | 17/10/2025 | 167433722 | 03049e6eb93b44b49a4fd6c1fbf43eb5ff74ce71801f0e177ce3ce322eb3c3a1 | x64          | Default       | zip  | [https://github.com/usebruno/bruno/releases/download/v2.13.2/bruno_2.13.2_x64_win.zip](https://github.com/usebruno/bruno/releases/download/v2.13.2/bruno_2.13.2_x64_win.zip) |

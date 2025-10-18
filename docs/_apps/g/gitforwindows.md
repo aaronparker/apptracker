@@ -3,7 +3,7 @@ title: Git for Windows
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 17/10/2025 1:24:58 PM
+last_modified_date: 18/10/2025 11:39:15 AM
 ---
 
 ## Git for Windows
@@ -14,9 +14,9 @@ Evergreen app: `GitForWindows`. Found **4** installers.
 
 Last check: 🟢
 
-| Version  | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
-| -------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.51.0.2 | 29/9/2025 | 63779680 | ba95adc559e2d91ae28aa354c0ffb06b2c54f2bf42985f278dded9ca31194816 | ARM64        | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/Git-2.51.0.2-arm64.exe](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/Git-2.51.0.2-arm64.exe)                         |
-| 2.51.0.2 | 29/9/2025 | 59960040 | f35e795224349c63b7d6c429c2d8404a6ce7e2e8f91934a3f6ba2ca8e7e285a8 | ARM64        | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/PortableGit-2.51.0.2-arm64.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/PortableGit-2.51.0.2-arm64.7z.exe)   |
-| 2.51.0.2 | 29/9/2025 | 65895592 | 5cf583441ccd8d98d3492936235b6ee30c6847d1b3f49365d6a025b3432094ad | x64          | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/Git-2.51.0.2-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/Git-2.51.0.2-64-bit.exe)                       |
-| 2.51.0.2 | 29/9/2025 | 60539504 | 85d6e9f865b73827e22d532fd6cd5b93987c8d264142786b0721956619d5c00e | x64          | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/PortableGit-2.51.0.2-64-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.2/PortableGit-2.51.0.2-64-bit.7z.exe) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.51.1  | 17/10/2025 | 64085640 | 58fc351b55a00db7fb9067d1959ba821a2cad0a46a4d35caf6726bdb36950cd4 | ARM64        | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/Git-2.51.1-arm64.exe](https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/Git-2.51.1-arm64.exe)                         |
+| 2.51.1  | 17/10/2025 | 60175768 | 0703b02416ff2dd7940a705fc078d04ebc7093889ecc798be4029ee9c5341e70 | ARM64        | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/PortableGit-2.51.1-arm64.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/PortableGit-2.51.1-arm64.7z.exe)   |
+| 2.51.1  | 17/10/2025 | 66165512 | b6a0e8094a2564e8f5407f18c1b47f057fe3dd10748c11e5f86478d8cbbf6acd | x64          | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/Git-2.51.1-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/Git-2.51.1-64-bit.exe)                       |
+| 2.51.1  | 17/10/2025 | 60077912 | 2a1108dd87bd9d7fc168f76f0f2d7b77a44ca49f42c7a3a081b9fcbbbb75473b | x64          | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/PortableGit-2.51.1-64-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.51.1.windows.1/PortableGit-2.51.1-64-bit.7z.exe) |
