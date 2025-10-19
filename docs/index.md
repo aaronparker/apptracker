@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Sunday 19/10/2025 11:29 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Sunday 19/10/2025 13:25 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -57,7 +57,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Amazon Corretto 8                                                 | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/amazoncorretto8/)                      |
 | Anaconda                                                          | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anaconda/)                             |
 | Analog Devices LTspice                                            | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                 |
-| Anki                                                              | `2025-10-19` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
+| Anki                                                              | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
 | AppVentiX                                                         | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/appventix/)                            |
 | Artifex Ghostscript                                               | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/artifexghostscript/)                   |
 | Atlassian Sourcetree                                              | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/atlassiansourcetree/)                  |
@@ -158,7 +158,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GoTo Meeting                                                      | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gotomeeting/)                          |
 | GoTo Opener                                                       | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gotoopener/)                           |
 | Gpg4win                                                           | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gpg4win/)                              |
-| Grafana Agent                                                     | `2025-10-19` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
+| Grafana Agent                                                     | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
 | Greenshot                                                         | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                            |
 | gretl                                                             | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gretl/)                                |
 | gsudo                                                             | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gsudo/)                                |
@@ -234,7 +234,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft OpenJDK 17                                              | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                   |
 | Microsoft OpenJDK 21                                              | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                   |
 | Microsoft Outlook                                                 | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoutlook/)                     |
-| Microsoft Power Automate Desktop                                  | `2025-10-19` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
+| Microsoft Power Automate Desktop                                  | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
 | Microsoft PowerShell                                              | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                  |
 | Microsoft PowerToys                                               | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowertoys/)                   |
 | Microsoft SQL Server Management Studio                            | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftssms/)                        |
@@ -285,7 +285,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | OBS Studio                                                        | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudio/)                            |
 | OBS Studio Alt                                                    | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/obsstudioalt/)                         |
 | OCS Inventory Windows Agent                                       | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)             |
-| Octopus Deploy Server                                             | `2025-10-19` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                  |
+| Octopus Deploy Server                                             | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                  |
 | Octopus Tentacle                                                  | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                      |
 | Omnissa Horizon Client                                            | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                 |
 | ONLYOFFICE Desktop Editors                                        | `2025-10-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/onlyofficedesktopeditors/)             |

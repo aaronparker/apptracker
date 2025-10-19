@@ -3,7 +3,7 @@ title: Podman Desktop
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 19/10/2025 11:27:51 AM
+last_modified_date: 19/10/2025 1:23:32 PM
 ---
 
 ## Podman Desktop
