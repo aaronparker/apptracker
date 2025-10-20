@@ -3,7 +3,7 @@ title: KeePassXC Team KeePassXC
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 19/10/2025 1:23:32 PM
+last_modified_date: 20/10/2025 11:28:35 AM
 ---
 
 ## KeePassXC Team KeePassXC

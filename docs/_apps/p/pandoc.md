@@ -3,7 +3,7 @@ title: Pandoc
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 19/10/2025 1:23:32 PM
+last_modified_date: 20/10/2025 11:28:35 AM
 ---
 
 ## Pandoc
@@ -14,6 +14,6 @@ Evergreen app: `Pandoc`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.8.2   | 5/10/2025 | 40611840 | b428a6277ea32016c8e1426ed328b47c45599a21d7e5260ee610da1cf975a4db | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                    |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.8.2.1 | 20/10/2025 | 40624128 | fd4dd760e7f696fd93f8c5628b42a359059b1f752bd03c30bf15fe7a824cd7da | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-windows-x86_64.msi) |
