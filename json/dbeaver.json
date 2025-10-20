@@ -1,12 +1,12 @@
 [
   {
-    "Version": "25.2.2",
-    "Date": "30/9/2025",
-    "Size": 129848240,
-    "Sha256": "17816f680e04980585f6d8320c807de5685649498ceb80358f972798a0a126db",
+    "Version": "25.2.3",
+    "Date": "14/10/2025",
+    "Size": 117482104,
+    "Sha256": "b017374b60b5db9c97c8f9fc202a6e9297201763c596ff5849d77affcfe97b25",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbeaver/dbeaver/releases/download/25.2.2/dbeaver-ce-25.2.2-x86_64-setup.exe"
+    "URI": "https://github.com/dbeaver/dbeaver/releases/download/25.2.3/dbeaver-ce-25.2.3-x86_64-setup.exe"
   }
 ]

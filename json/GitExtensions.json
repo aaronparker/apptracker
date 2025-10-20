@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.2.1",
-    "Date": "18/2/2025",
-    "Size": 23670784,
-    "Sha256": null,
+    "Version": "6.0.2",
+    "Date": "9/10/2025",
+    "Size": 23769088,
+    "Sha256": "d6bc75bb00e10453bd93f05127611f4447f23c70e2748b9e3018767ab8248311",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v5.2.1/GitExtensions-x64-5.2.1.18061-0d74cfdc3.msi"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.2/GitExtensions-x64-6.0.2.18262-f02a06bf5.msi"
   },
   {
-    "Version": "5.2.1",
-    "Date": "18/2/2025",
-    "Size": 17265403,
-    "Sha256": null,
+    "Version": "6.0.2",
+    "Date": "9/10/2025",
+    "Size": 17365512,
+    "Sha256": "6d86adf465c4911520e100b0f72aff595e6647656074ec504af57d4188f45837",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v5.2.1/GitExtensions-Portable-x64-5.2.1.18061-0d74cfdc3.zip"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.2/GitExtensions-Portable-x64-6.0.2.18262-f02a06bf5.zip"
   }
 ]
