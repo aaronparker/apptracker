@@ -143,19 +143,19 @@ $SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[view]($("https
     $JsonFileName = "$Name.json"
     
     # Get last update time - prefer UpdatedFilesLookup over LastUpdates
-    $LastUpdateTime = if ($UpdatedFilesLookup -and $UpdatedFilesLookup.ContainsKey($JsonFileName)) {
-        $UpdatedFilesLookup[$JsonFileName].ToString("yyyy-MM-dd")
-    } elseif ($LastUpdates) {
-        ($LastUpdates | Where-Object { $_.Name -eq $JsonFileName } | Select-Object -ExpandProperty "LastWriteTime" -First 1) -split " " | Select-Object -First 1
-    } else {
+    # $LastUpdateTime = if ($UpdatedFilesLookup -and $UpdatedFilesLookup.ContainsKey($JsonFileName)) {
+    #     $UpdatedFilesLookup[$JsonFileName].ToString("yyyy-MM-dd")
+    # } elseif ($LastUpdates) {
+    #     ($LastUpdates | Where-Object { $_.Name -eq $JsonFileName } | Select-Object -ExpandProperty "LastWriteTime" -First 1) -split " " | Select-Object -First 1
+    # } else {
         # Fallback to file system timestamp
         $JsonFile = [System.IO.Path]::Combine($JsonPath, $JsonFileName)
         if (Test-Path -Path $JsonFile) {
-            (Get-Item -Path $JsonFile).LastWriteTime.ToString("yyyy-MM-dd")
+            (Get-Item -Path $JsonFile).LastWriteTime.ToString("yyyy-MM-dd HH:mm:ss")
         } else {
             "Unknown"
         }
-    }
+    #}
     
     [PSCustomObject] @{
         Application = $_.Application
