@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 20/10/2025 1:25:11 PM
+last_modified_date: 21/10/2025 11:44:35 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Multimedia Redirection Extensions

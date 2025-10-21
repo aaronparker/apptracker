@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Monday 20/10/2025 13:26 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Tuesday 21/10/2025 11:46 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **378** applications and **6243** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **378** applications and **6255** unique application installers.
 
 {: .highlight }
 > **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
@@ -96,7 +96,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | Analog Devices LTspice                                            | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                 |
 |                                                                   |            |        |                                                                                          |
-| Anki                                                              | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
+| Anki                                                              | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
 |                                                                   |            |        |                                                                                          |
 | AppVentiX                                                         | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/appventix/)                            |
 |                                                                   |            |        |                                                                                          |
@@ -298,7 +298,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | Gpg4win                                                           | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gpg4win/)                              |
 |                                                                   |            |        |                                                                                          |
-| Grafana Agent                                                     | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
+| Grafana Agent                                                     | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
 |                                                                   |            |        |                                                                                          |
 | Greenshot                                                         | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                            |
 |                                                                   |            |        |                                                                                          |
@@ -450,7 +450,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | Microsoft Outlook                                                 | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoutlook/)                     |
 |                                                                   |            |        |                                                                                          |
-| Microsoft Power Automate Desktop                                  | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
+| Microsoft Power Automate Desktop                                  | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
 |                                                                   |            |        |                                                                                          |
 | Microsoft PowerShell                                              | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                  |
 |                                                                   |            |        |                                                                                          |
