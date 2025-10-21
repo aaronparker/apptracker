@@ -194,6 +194,7 @@ json/MicrosoftEdgeWebView2Runtime.json
 json/MicrosoftFSLogixApps.json
 json/MicrosoftODBCDriverForSQLServer.json
 json/MicrosoftODBCDriverForSQLServer17.json
+json/MicrosoftOLEDBDriverForSQLServer.json
 json/MicrosoftOLEDBDriverForSQLServer18.json
 json/MicrosoftOneDrive.json
 json/MicrosoftOpenJDK11.json
@@ -245,6 +246,7 @@ json/OBSStudio.json
 json/OBSStudioAlt.json
 json/OCSInventoryWindowsAgent.json
 json/Obsidian.json
+json/OctopusDeployServer.json
 json/OctopusTentacle.json
 json/OmnissaHorizonClient.json
 json/OnlyOfficeDesktopEditors.json
