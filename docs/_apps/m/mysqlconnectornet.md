@@ -3,7 +3,7 @@ title: mySQL Connector NET
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 21/10/2025 1:26:47 PM
+last_modified_date: 22/10/2025 11:41:03 AM
 ---
 
 ## mySQL Connector NET
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                        |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.4.0   | x64          | msi  | [https://cdn.mysql.com/Downloads/Connector-Net/mysql-connector-net-9.4.0.msi](https://cdn.mysql.com/Downloads/Connector-Net/mysql-connector-net-9.4.0.msi) |
+| 9.5.0   | x64          | msi  | [https://cdn.mysql.com/Downloads/Connector-Net/mysql-connector-net-9.5.0.msi](https://cdn.mysql.com/Downloads/Connector-Net/mysql-connector-net-9.5.0.msi) |

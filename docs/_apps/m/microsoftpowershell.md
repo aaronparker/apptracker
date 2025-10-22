@@ -3,7 +3,7 @@ title: Microsoft PowerShell
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 21/10/2025 1:26:47 PM
+last_modified_date: 22/10/2025 11:41:03 AM
 ---
 
 ## Microsoft PowerShell
@@ -29,4 +29,4 @@ Last check: 🟢
 | 7.4.13  | 16/10/2025 | 105369600 | f481eff51e48e2d9a6929ec86b436b792c29d38c2514cfde8bde99172373dd50 | ARM64        | Default       | msi        | [https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-arm64.msi](https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-arm64.msi) | LTS     |
 | 7.4.13  | 16/10/2025 | 110030848 | b5c32ec7902748648624f97c70a6d5637d93e9db4f21f9713868d7933e419efb | x64          | Default       | msi        | [https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-x64.msi](https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-x64.msi)     | LTS     |
 | 7.4.13  | 16/10/2025 | 102641664 | 895cea5346d85f3c70becce5401112aa2288c06e49eb93e8cc65212a36a620a4 | x86          | Default       | msi        | [https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-x86.msi](https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-x86.msi)     | LTS     |
-| 7.4.13  | 16/10/2025 | 329024043 | 8b9bd7291a2abb2e35fd7fa8f665d9bc2dfc0287da820da77d43c60f6307cbe4 | x86          | Default       | msixbundle | [https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13.msixbundle](https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13.msixbundle)       | LTS     |
+| 7.4.13  | 16/10/2025 | 329136711 | 30a3f8c3d128b19241e05d96947c995b9ac4fa2e86551ad306bb2d78b53744c0 | x86          | Default       | msixbundle | [https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13.msixbundle](https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13.msixbundle)       | LTS     |

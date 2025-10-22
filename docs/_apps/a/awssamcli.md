@@ -3,7 +3,7 @@ title: AWS SAM CLI
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 21/10/2025 1:26:47 PM
+last_modified_date: 22/10/2025 11:41:03 AM
 ---
 
 ## AWS SAM CLI
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.145.1 | 15/10/2025 | 95211520 | 7bdf6fdd74d483a758d4af2fdbd01c5d8d83132c686c2007e69ce56000813bb2 | x86          | Default       | msi  | [https://github.com/aws/aws-sam-cli/releases/download/v1.145.1/AWS_SAM_CLI_64_PY3.msi](https://github.com/aws/aws-sam-cli/releases/download/v1.145.1/AWS_SAM_CLI_64_PY3.msi) |
+| 1.145.2 | 21/10/2025 | 95203328 | 3b0d3b7882bfbb9188d54f16914bf2015c90d973d469166f92fe358fa681cae0 | x86          | Default       | msi  | [https://github.com/aws/aws-sam-cli/releases/download/v1.145.2/AWS_SAM_CLI_64_PY3.msi](https://github.com/aws/aws-sam-cli/releases/download/v1.145.2/AWS_SAM_CLI_64_PY3.msi) |

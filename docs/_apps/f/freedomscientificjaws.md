@@ -3,7 +3,7 @@ title: Freedom Scientific JAWS
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 21/10/2025 1:26:47 PM
+last_modified_date: 22/10/2025 11:41:03 AM
 ---
 
 ## Freedom Scientific JAWS

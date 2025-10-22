@@ -3,7 +3,7 @@ title: Microsoft Azure Windows VMAgent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 21/10/2025 1:26:47 PM
+last_modified_date: 22/10/2025 11:41:03 AM
 ---
 
 ## Microsoft Azure Windows VMAgent
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version        | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                                                                                    |
 | -------------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.7.41491.1180 | 16/9/2021 | 16252928 | 07f3415ecafa2f5776231d164b5faf4e7153c75269fa16be1047bc1e4cb6497f | ARM64        | Default       | msi  | [https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1180AMD64%26ARM64/WindowsAzureVmAgent.arm64_2.7.41491.1180_2510011180.fre.msi](https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1180AMD64%26ARM64/WindowsAzureVmAgent.arm64_2.7.41491.1180_2510011180.fre.msi) |
-| 2.7.41491.1180 | 16/9/2021 | 15101952 | 3be2a4d26d155d8594cd3da84b0c001d9a9cc0798a2050da8d087a2f122ae520 | x64          | Default       | msi  | [https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1180AMD64%26ARM64/WindowsAzureVmAgent.amd64_2.7.41491.1180_2510011180.fre.msi](https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1180AMD64%26ARM64/WindowsAzureVmAgent.amd64_2.7.41491.1180_2510011180.fre.msi) |
+| 2.7.41491.1183 | 16/9/2021 | 16244736 | b424772f4649df22e435b377fd1c6709c2978f2fbb795e09fe214f4168855c0b | ARM64        | Default       | msi  | [https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1183AMD64%26ARM64/WindowsAzureVmAgent.arm64_2.7.41491.1183_2510111183.fre.msi](https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1183AMD64%26ARM64/WindowsAzureVmAgent.arm64_2.7.41491.1183_2510111183.fre.msi) |
+| 2.7.41491.1183 | 16/9/2021 | 15085568 | 9573886d3b9df99c960b104a81aae381b564fd342b65e4f02bdeaa5547d0aef1 | x64          | Default       | msi  | [https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1183AMD64%26ARM64/WindowsAzureVmAgent.amd64_2.7.41491.1183_2510111183.fre.msi](https://github.com/Azure/WindowsVMAgent/releases/download/2.7.41491.1183AMD64%26ARM64/WindowsAzureVmAgent.amd64_2.7.41491.1183_2510111183.fre.msi) |
