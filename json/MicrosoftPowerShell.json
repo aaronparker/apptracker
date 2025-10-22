@@ -145,8 +145,8 @@
   {
     "Version": "7.4.13",
     "Date": "16/10/2025",
-    "Size": 329024043,
-    "Sha256": "8b9bd7291a2abb2e35fd7fa8f665d9bc2dfc0287da820da77d43c60f6307cbe4",
+    "Size": 329136711,
+    "Sha256": "30a3f8c3d128b19241e05d96947c995b9ac4fa2e86551ad306bb2d78b53744c0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
