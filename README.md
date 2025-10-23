@@ -4,4 +4,4 @@ An application version tracker that uses [Evergreen](https://stealthpuppy.com/ev
 
 A workflow is run every 12-hours to retrieve available updates and commit changes to this repository, which then generates the App Tracker site.
 
-[![update-json](https://github.com/aaronparker/apptracker/actions/workflows/update-json.yml/badge.svg?branch=main&event=schedule)](https://github.com/aaronparker/apptracker/actions/workflows/update-json.yml)
+[![update-apps](https://github.com/aaronparker/apptracker/actions/workflows/update-apps.yml/badge.svg?branch=main&event=schedule)](https://github.com/aaronparker/apptracker/actions/workflows/update-apps.yml)
