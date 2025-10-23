@@ -1,8 +1,8 @@
 [
   {
-    "Version": "143.0.7487.0",
+    "Version": "143.0.7489.0",
     "Channel": "Canary",
-    "StartDate": "22/10/2025",
+    "StartDate": "23/10/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
@@ -24,49 +24,49 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "142.0.7444.34",
+    "Version": "142.0.7444.53",
     "Channel": "Beta",
-    "StartDate": "15/10/2025",
+    "StartDate": "22/10/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "142.0.7444.34",
+    "Version": "142.0.7444.53",
     "Channel": "Beta",
-    "StartDate": "15/10/2025",
+    "StartDate": "22/10/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "141.0.7390.123",
+    "Version": "142.0.7444.52",
     "Channel": "Stable",
-    "StartDate": "21/10/2025",
+    "StartDate": "23/10/2025",
     "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi"
   },
   {
-    "Version": "141.0.7390.123",
+    "Version": "142.0.7444.52",
     "Channel": "Stable",
-    "StartDate": "21/10/2025",
+    "StartDate": "23/10/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
   },
   {
-    "Version": "141.0.7390.123",
+    "Version": "142.0.7444.52",
     "Channel": "Stable",
-    "StartDate": "21/10/2025",
+    "StartDate": "23/10/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi"
   },
   {
-    "Version": "141.0.7390.123",
+    "Version": "142.0.7444.52",
     "Channel": "Stable",
-    "StartDate": "21/10/2025",
+    "StartDate": "23/10/2025",
     "Architecture": "x64",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip"

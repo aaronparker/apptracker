@@ -2,39 +2,6 @@
   {
     "Version": "7.5.4",
     "Date": "16/10/2025",
-    "Size": 107554680,
-    "Sha256": "2aa8efde0b120619ed0589b376dd405a500c9bf4eb98f4945dbe6112597d585f",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4-win-arm64.exe",
-    "Release": "Stable"
-  },
-  {
-    "Version": "7.5.4",
-    "Date": "16/10/2025",
-    "Size": 112589048,
-    "Sha256": "ce8cbc9d34a6b9aa8a101ac910ec0651e71f0e00f40f87bf05c3c038e1dbee3c",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4-win-x64.exe",
-    "Release": "Stable"
-  },
-  {
-    "Version": "7.5.4",
-    "Date": "16/10/2025",
-    "Size": 103960592,
-    "Sha256": "042abfbd5a202bf1ed341aef92e301421c99d83ca114f510f64cea97e5e2fc61",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4-win-x86.exe",
-    "Release": "Stable"
-  },
-  {
-    "Version": "7.5.4",
-    "Date": "16/10/2025",
     "Size": 108122112,
     "Sha256": "b7757b4d2477ce3a4426d87b1b84d827b2272f83c75c1c0c9fbc21264da3adce",
     "Architecture": "ARM64",
@@ -75,39 +42,6 @@
     "Type": "msixbundle",
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4.msixbundle",
     "Release": "Stable"
-  },
-  {
-    "Version": "7.4.13",
-    "Date": "16/10/2025",
-    "Size": 104827168,
-    "Sha256": "0aa943342ddd5ff5cd5bbb964e6594b7af3e10758ff59874cd26420bebb3c755",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-arm64.exe",
-    "Release": "LTS"
-  },
-  {
-    "Version": "7.4.13",
-    "Date": "16/10/2025",
-    "Size": 109498904,
-    "Sha256": "34b9f899fd242753c64d8ae93e325c630bf7a9539d0cea0a8dd35c714296eebf",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-x64.exe",
-    "Release": "LTS"
-  },
-  {
-    "Version": "7.4.13",
-    "Date": "16/10/2025",
-    "Size": 102163528,
-    "Sha256": "caad839f7880f721b4cfad6db5b63f1f82e5f1bfacb311711f38a9a482749ac6",
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/PowerShell-7.4.13-win-x86.exe",
-    "Release": "LTS"
   },
   {
     "Version": "7.4.13",
