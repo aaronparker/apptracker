@@ -3,7 +3,7 @@ title: mySQL Workbench
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 22/10/2025 1:26:39 PM
+last_modified_date: 23/10/2025 11:45:22 AM
 ---
 
 ## mySQL Workbench
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.0.43  | x64          | msi  | [https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.43-winx64.msi](https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.43-winx64.msi) |
+| 8.0.44  | x64          | msi  | [https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.44-winx64.msi](https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.44-winx64.msi) |

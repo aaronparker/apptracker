@@ -3,7 +3,7 @@ title: MuseScore
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 22/10/2025 1:26:39 PM
+last_modified_date: 23/10/2025 11:45:22 AM
 ---
 
 ## MuseScore
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.6.2   | 10/10/2025 | 115232768 | 0c4ab5f874a2cc1ed4f795fc0e1f1c11df071c15af4e44a2dbe8bff1f4f919e6 | x64          | Default       | msi  | [https://github.com/musescore/MuseScore/releases/download/v4.6.2/MuseScore-Studio-4.6.2.252830930-x86_64.msi](https://github.com/musescore/MuseScore/releases/download/v4.6.2/MuseScore-Studio-4.6.2.252830930-x86_64.msi) |
+| 4.6.3   | 21/10/2025 | 115310592 | 74d21efe0c01d45f3fcd0616c0cc75c5fb1dbacb5902b85a0169c857ba35eb9b | x64          | Default       | msi  | [https://github.com/musescore/MuseScore/releases/download/v4.6.3/MuseScore-Studio-4.6.3.252940956-x86_64.msi](https://github.com/musescore/MuseScore/releases/download/v4.6.3/MuseScore-Studio-4.6.3.252940956-x86_64.msi) |

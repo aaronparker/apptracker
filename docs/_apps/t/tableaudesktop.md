@@ -3,7 +3,7 @@ title: Tableau Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 22/10/2025 1:26:39 PM
+last_modified_date: 23/10/2025 11:45:22 AM
 ---
 
 ## Tableau Desktop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Architecture | Type | URI                                                                                                                                                      |
 | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.2.3 | x64          | exe  | [https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2025-2-3.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2025-2-3.exe) |
+| 2025.2.4 | x64          | exe  | [https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2025-2-4.exe](https://downloads.tableau.com/tssoftware/TableauDesktop-64bit-2025-2-4.exe) |

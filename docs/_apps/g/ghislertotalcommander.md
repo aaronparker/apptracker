@@ -3,7 +3,7 @@ title: Ghisler TotalCommander
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 22/10/2025 1:26:39 PM
+last_modified_date: 23/10/2025 11:45:22 AM
 ---
 
 ## Ghisler TotalCommander
