@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2025.2.3",
-    "Build": "252.26830.102",
+    "Version": "2025.2.4",
+    "Build": "252.27397.100",
     "Edition": "GoLand",
-    "Sha256": "https://download.jetbrains.com/go/goland-2025.2.3.exe.sha256",
-    "Date": "3/10/2025",
-    "Size": 997529360,
+    "Sha256": "https://download.jetbrains.com/go/goland-2025.2.4.exe.sha256",
+    "Date": "24/10/2025",
+    "Size": 1003476480,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/go/goland-2025.2.3.exe"
+    "URI": "https://download.jetbrains.com/go/goland-2025.2.4.exe"
   }
 ]

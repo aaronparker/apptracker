@@ -335,6 +335,7 @@ json/TogglDesktop.json
 json/TorProjectTorBrowser.json
 json/Tower.json
 json/TrackerSoftwarePDFXChangeEditor.json
+json/TrimbleSketchUp.json
 json/USBPcap.json
 json/UnityEditor.json
 json/VMPlexWorkstation.json
@@ -370,4 +371,3 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
-json/TrimbleSketchUp.json

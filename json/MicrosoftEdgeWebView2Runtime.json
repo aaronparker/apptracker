@@ -1,20 +1,20 @@
 [
   {
-    "Version": "141.0.3537.92",
+    "Version": "141.0.3537.99",
     "Channel": "Stable",
     "Architecture": "arm64",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9149587-40bb-4adb-8e29-43923f13b464/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d899e736-703d-4396-abaa-361571f4c978/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe"
   },
   {
-    "Version": "141.0.3537.92",
+    "Version": "141.0.3537.99",
     "Channel": "Stable",
     "Architecture": "x64",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/497294a9-3b5c-44f8-94b1-ab622cd8a5d5/MicrosoftEdgeWebView2RuntimeInstallerX64.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f4ac0083-413c-4488-81af-d90a86a06bd9/MicrosoftEdgeWebView2RuntimeInstallerX64.exe"
   },
   {
-    "Version": "141.0.3537.92",
+    "Version": "141.0.3537.99",
     "Channel": "Stable",
     "Architecture": "x86",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ef950a0a-e823-4fbf-ad23-2707eb120bd3/MicrosoftEdgeWebView2RuntimeInstallerX86.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae2d08e1-fb0d-407f-bea6-264282f4aa02/MicrosoftEdgeWebView2RuntimeInstallerX86.exe"
   }
 ]
