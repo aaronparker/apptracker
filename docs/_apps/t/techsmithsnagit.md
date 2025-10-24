@@ -3,7 +3,7 @@ title: TechSmith Snagit
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 23/10/2025 1:26:14 PM
+last_modified_date: 24/10/2025 11:38:16 AM
 ---
 
 ## TechSmith Snagit
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date                | Type | Architecture | URI                                                                                                                            |
 | ------- | ------------------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| 25.3.1  | 09/03/2025 00:00:00 | exe  | x64          | [http://download.techsmith.com/snagit/releases/2531/snagit.exe](http://download.techsmith.com/snagit/releases/2531/snagit.exe) |
-| 25.3.1  | 09/03/2025 00:00:00 | msi  | x64          | [http://download.techsmith.com/snagit/releases/2531/snagit.msi](http://download.techsmith.com/snagit/releases/2531/snagit.msi) |
+| 25.4.0  | 10/22/2025 00:00:00 | exe  | x64          | [http://download.techsmith.com/snagit/releases/2540/snagit.exe](http://download.techsmith.com/snagit/releases/2540/snagit.exe) |
+| 25.4.0  | 10/22/2025 00:00:00 | msi  | x64          | [http://download.techsmith.com/snagit/releases/2540/snagit.msi](http://download.techsmith.com/snagit/releases/2540/snagit.msi) |
