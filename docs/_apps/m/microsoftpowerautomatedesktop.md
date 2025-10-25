@@ -3,7 +3,7 @@ title: Microsoft Power Automate Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 24/10/2025 1:25:54 PM
+last_modified_date: 25/10/2025 11:36:06 AM
 ---
 
 ## Microsoft Power Automate Desktop
@@ -12,7 +12,10 @@ last_modified_date: 24/10/2025 1:25:54 PM
 
 Evergreen app: `MicrosoftPowerAutomateDesktop`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot bind argument to parameter 'Path' because it is null.
+```
 
 | Version        | Date                | Size      | Language | Architecture | Type | URI                                                                                                                                                                                                                              |
 | -------------- | ------------------- | --------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
