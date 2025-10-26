@@ -3,7 +3,7 @@ title: Microsoft Visual Studio Code
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 25/10/2025 1:24:47 PM
+last_modified_date: 26/10/2025 11:35:50 AM
 ---
 
 ## Microsoft Visual Studio Code
