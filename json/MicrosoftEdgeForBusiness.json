@@ -1397,14 +1397,14 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/09222ed3-377b-449c-acae-771c6997844d/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
-    "Version": "1.3.203.13",
-    "Date": "2025-10-12T22:23:00",
+    "Version": "1.3.205.9",
+    "Date": "2025-10-25T20:31:00",
     "Channel": "EdgeUpdate",
-    "Expiry": "2026-10-12T22:23:00",
-    "SHA256": "5B796942B8FBF6CB817B8F426232E38ADCF76AE74836483B9AED482D1F0041D6",
-    "Size": 1.59,
+    "Expiry": "2026-10-25T20:31:00",
+    "SHA256": "367FC3648EE66E9171B34CE96EB4F3A474A69442328BC95910FCC2BE37D47305",
+    "Size": 1.61,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/10401756-20af-41aa-8d61-3dc231581c91/MicrosoftEdgeUpdateSetup_X86_1.3.203.13.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97c60cfe-1daa-4075-b6bf-23250bc85097/MicrosoftEdgeUpdateSetup_X86_1.3.205.9.exe"
   }
 ]

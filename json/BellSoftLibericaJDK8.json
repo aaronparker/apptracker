@@ -32,22 +32,22 @@
   {
     "Version": "8u472+9",
     "LTS": true,
-    "BundleType": "jre",
-    "Type": "msi",
-    "Architecture": "x64",
-    "Sha1": "1eff165fd0b12ebbc2ce1536be942b2c8408873d",
-    "Size": 40853504,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jre8u472+9-windows-amd64.msi"
-  },
-  {
-    "Version": "8u472+9",
-    "LTS": true,
     "BundleType": "jre-full",
     "Type": "msi",
     "Architecture": "x64",
     "Sha1": "6116b4a55362e0adbf0b80a8c1c5311845dfde79",
     "Size": 82853888,
     "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jre8u472+9-windows-amd64-full.msi"
+  },
+  {
+    "Version": "8u472+9",
+    "LTS": true,
+    "BundleType": "jre",
+    "Type": "msi",
+    "Architecture": "x64",
+    "Sha1": "1eff165fd0b12ebbc2ce1536be942b2c8408873d",
+    "Size": 40853504,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jre8u472+9-windows-amd64.msi"
   },
   {
     "Version": "8u472+9",
@@ -102,22 +102,12 @@
   {
     "Version": "8u472+9",
     "LTS": true,
-    "BundleType": "jdk-full",
+    "BundleType": "jre",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "b57a92d0d3288e73496f65594e20e8771a9dbdf8",
-    "Size": 152356970,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jdk8u472+9-windows-amd64-full.zip"
-  },
-  {
-    "Version": "8u472+9",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "c7b73ff13d19d174972242e51bc630375f06987b",
-    "Size": 53763073,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jdk8u472+9-windows-amd64-lite.zip"
+    "Sha1": "c5f803cdc3cea927e9bcee5b46f9ab51ad42978e",
+    "Size": 39963197,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jre8u472+9-windows-amd64.zip"
   },
   {
     "Version": "8u472+9",
@@ -132,12 +122,22 @@
   {
     "Version": "8u472+9",
     "LTS": true,
-    "BundleType": "jre",
+    "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "x64",
-    "Sha1": "c5f803cdc3cea927e9bcee5b46f9ab51ad42978e",
-    "Size": 39963197,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jre8u472+9-windows-amd64.zip"
+    "Sha1": "c7b73ff13d19d174972242e51bc630375f06987b",
+    "Size": 53763073,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jdk8u472+9-windows-amd64-lite.zip"
+  },
+  {
+    "Version": "8u472+9",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "b57a92d0d3288e73496f65594e20e8771a9dbdf8",
+    "Size": 152356970,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/8u472+9/bellsoft-jdk8u472+9-windows-amd64-full.zip"
   },
   {
     "Version": "8u472+9",

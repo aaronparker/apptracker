@@ -102,36 +102,6 @@
   {
     "Version": "21.0.9+11",
     "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "05f0116d2a6505d81e90269b1c47fcfb1d9cf60b",
-    "Size": 289968128,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-full.msi"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "9e9692ff488f2e1badaabd8ed30a7c39c60dbb4e",
-    "Size": 75915264,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-lite.msi"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "885841e268a712895ac1b20396b7ecb1aad4e354",
-    "Size": 200404992,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586.msi"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
     "BundleType": "jre",
     "Type": "msi",
     "Architecture": "x86",
@@ -152,12 +122,42 @@
   {
     "Version": "21.0.9+11",
     "LTS": true,
-    "BundleType": "jre",
+    "BundleType": "jdk",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "885841e268a712895ac1b20396b7ecb1aad4e354",
+    "Size": 200404992,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586.msi"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "05f0116d2a6505d81e90269b1c47fcfb1d9cf60b",
+    "Size": 289968128,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-full.msi"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "9e9692ff488f2e1badaabd8ed30a7c39c60dbb4e",
+    "Size": 75915264,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-lite.msi"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jdk-full",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "0861cc02528b6d9fd4e98e14d1c8344b9824e770",
-    "Size": 42705586,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jre21.0.9+11-windows-aarch64.zip"
+    "Sha1": "7eab338e9f67124878b74294055db33269d2c038",
+    "Size": 220203310,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-aarch64-full.zip"
   },
   {
     "Version": "21.0.9+11",
@@ -182,16 +182,6 @@
   {
     "Version": "21.0.9+11",
     "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "zip",
-    "Architecture": "ARM64",
-    "Sha1": "7eab338e9f67124878b74294055db33269d2c038",
-    "Size": 220203310,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-aarch64-full.zip"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
     "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -202,32 +192,12 @@
   {
     "Version": "21.0.9+11",
     "LTS": true,
-    "BundleType": "jdk-full",
+    "BundleType": "jre",
     "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "2e51eca83ee5ead5fd2dc000355a78b752685a34",
-    "Size": 312306978,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64-full.zip"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
-    "BundleType": "jdk-lite",
-    "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "db22c65f81612c177db0f43799725f861fd28824",
-    "Size": 77788032,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64-lite.zip"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
-    "BundleType": "jdk",
-    "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "8afc05ddb949647a53b60bbd5d34599c2216c356",
-    "Size": 218426257,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64.zip"
+    "Architecture": "ARM64",
+    "Sha1": "0861cc02528b6d9fd4e98e14d1c8344b9824e770",
+    "Size": 42705586,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jre21.0.9+11-windows-aarch64.zip"
   },
   {
     "Version": "21.0.9+11",
@@ -252,32 +222,32 @@
   {
     "Version": "21.0.9+11",
     "LTS": true,
-    "BundleType": "jre",
+    "BundleType": "jdk",
     "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "ee7ff457d56824cb1e57eaed4961a1ac9d82c5ef",
-    "Size": 48515134,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jre21.0.9+11-windows-i586.zip"
-  },
-  {
-    "Version": "21.0.9+11",
-    "LTS": true,
-    "BundleType": "jdk-full",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "e35b295dce3057209727bbcb2a19729bb4ffb929",
-    "Size": 292792809,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-full.zip"
+    "Architecture": "x64",
+    "Sha1": "8afc05ddb949647a53b60bbd5d34599c2216c356",
+    "Size": 218426257,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64.zip"
   },
   {
     "Version": "21.0.9+11",
     "LTS": true,
     "BundleType": "jdk-lite",
     "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "f5caa4352b910ea0e57c757c90cfde597979352c",
-    "Size": 74944331,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-lite.zip"
+    "Architecture": "x64",
+    "Sha1": "db22c65f81612c177db0f43799725f861fd28824",
+    "Size": 77788032,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64-lite.zip"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "2e51eca83ee5ead5fd2dc000355a78b752685a34",
+    "Size": 312306978,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64-full.zip"
   },
   {
     "Version": "21.0.9+11",
@@ -298,5 +268,35 @@
     "Sha1": "48bdb90f94b1321ff587d6ce881edd2dfff6d6f6",
     "Size": 202697976,
     "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586.zip"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "e35b295dce3057209727bbcb2a19729bb4ffb929",
+    "Size": 292792809,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-full.zip"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "ee7ff457d56824cb1e57eaed4961a1ac9d82c5ef",
+    "Size": 48515134,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jre21.0.9+11-windows-i586.zip"
+  },
+  {
+    "Version": "21.0.9+11",
+    "LTS": true,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "f5caa4352b910ea0e57c757c90cfde597979352c",
+    "Size": 74944331,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-windows-i586-lite.zip"
   }
 ]

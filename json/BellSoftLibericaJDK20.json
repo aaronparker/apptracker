@@ -102,36 +102,6 @@
   {
     "Version": "20.0.2+10",
     "LTS": false,
-    "BundleType": "jdk-full",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "38c47fb62d013ed62d35bfd309062f3421c4bcff",
-    "Size": 267337728,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-full.msi"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
-    "BundleType": "jdk-lite",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "0bf9f76abbc4e627342736467735f616667aa849",
-    "Size": 73793536,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-lite.msi"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
-    "BundleType": "jdk",
-    "Type": "msi",
-    "Architecture": "x86",
-    "Sha1": "4ccf2a00b45046e33c0cf02c312584e2671f369c",
-    "Size": 195448832,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586.msi"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
     "BundleType": "jre",
     "Type": "msi",
     "Architecture": "x86",
@@ -152,12 +122,42 @@
   {
     "Version": "20.0.2+10",
     "LTS": false,
-    "BundleType": "jre",
+    "BundleType": "jdk",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "4ccf2a00b45046e33c0cf02c312584e2671f369c",
+    "Size": 195448832,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586.msi"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "38c47fb62d013ed62d35bfd309062f3421c4bcff",
+    "Size": 267337728,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-full.msi"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jdk-lite",
+    "Type": "msi",
+    "Architecture": "x86",
+    "Sha1": "0bf9f76abbc4e627342736467735f616667aa849",
+    "Size": 73793536,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-lite.msi"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jdk-full",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "0e298dfd94533320b1cc09facd86b6b0d6f2733f",
-    "Size": 40125372,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jre20.0.2+10-windows-aarch64.zip"
+    "Sha1": "352cde8e8d81e01bcdce81560f8f158e6c4295c8",
+    "Size": 214544575,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-aarch64-full.zip"
   },
   {
     "Version": "20.0.2+10",
@@ -182,16 +182,6 @@
   {
     "Version": "20.0.2+10",
     "LTS": false,
-    "BundleType": "jdk-full",
-    "Type": "zip",
-    "Architecture": "ARM64",
-    "Sha1": "352cde8e8d81e01bcdce81560f8f158e6c4295c8",
-    "Size": 214544575,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-aarch64-full.zip"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "ARM64",
@@ -202,32 +192,12 @@
   {
     "Version": "20.0.2+10",
     "LTS": false,
-    "BundleType": "jdk-full",
+    "BundleType": "jre",
     "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "30813d71254dc19d0cba5c3f247c064be9b8a0b5",
-    "Size": 294208414,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64-full.zip"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
-    "BundleType": "jdk-lite",
-    "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "eb29a633b68e5440581a277529c6f93d0ed6e82e",
-    "Size": 75439917,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64-lite.zip"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
-    "BundleType": "jdk",
-    "Type": "zip",
-    "Architecture": "x64",
-    "Sha1": "0628cef7d26e82c159a235433bc3844563372d36",
-    "Size": 212650077,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64.zip"
+    "Architecture": "ARM64",
+    "Sha1": "0e298dfd94533320b1cc09facd86b6b0d6f2733f",
+    "Size": 40125372,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jre20.0.2+10-windows-aarch64.zip"
   },
   {
     "Version": "20.0.2+10",
@@ -252,32 +222,32 @@
   {
     "Version": "20.0.2+10",
     "LTS": false,
-    "BundleType": "jre",
+    "BundleType": "jdk",
     "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "e68a5731d7fcff8e783a761c35291c56568cbda8",
-    "Size": 45833786,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jre20.0.2+10-windows-i586.zip"
-  },
-  {
-    "Version": "20.0.2+10",
-    "LTS": false,
-    "BundleType": "jdk-full",
-    "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "f9df19b01677e6a754977ea6a4c2afa3ad12eeed",
-    "Size": 270086356,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-full.zip"
+    "Architecture": "x64",
+    "Sha1": "0628cef7d26e82c159a235433bc3844563372d36",
+    "Size": 212650077,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64.zip"
   },
   {
     "Version": "20.0.2+10",
     "LTS": false,
     "BundleType": "jdk-lite",
     "Type": "zip",
-    "Architecture": "x86",
-    "Sha1": "b8e95e4219fbc4283c8cc9bdd7637b40d02799e6",
-    "Size": 72839412,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-lite.zip"
+    "Architecture": "x64",
+    "Sha1": "eb29a633b68e5440581a277529c6f93d0ed6e82e",
+    "Size": 75439917,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64-lite.zip"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x64",
+    "Sha1": "30813d71254dc19d0cba5c3f247c064be9b8a0b5",
+    "Size": 294208414,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-amd64-full.zip"
   },
   {
     "Version": "20.0.2+10",
@@ -298,5 +268,35 @@
     "Sha1": "1a69d497f0596d91d896d35ca3a3afea2f169086",
     "Size": 197700549,
     "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586.zip"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jdk-full",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "f9df19b01677e6a754977ea6a4c2afa3ad12eeed",
+    "Size": 270086356,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-full.zip"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "e68a5731d7fcff8e783a761c35291c56568cbda8",
+    "Size": 45833786,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jre20.0.2+10-windows-i586.zip"
+  },
+  {
+    "Version": "20.0.2+10",
+    "LTS": false,
+    "BundleType": "jdk-lite",
+    "Type": "zip",
+    "Architecture": "x86",
+    "Sha1": "b8e95e4219fbc4283c8cc9bdd7637b40d02799e6",
+    "Size": 72839412,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/20.0.2+10/bellsoft-jdk20.0.2+10-windows-i586-lite.zip"
   }
 ]

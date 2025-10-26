@@ -22,12 +22,12 @@
   {
     "Version": "23.0.2+9",
     "LTS": false,
-    "BundleType": "jdk-lite",
+    "BundleType": "jre",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "03a19a502eaf2d50a67f8f047955cb1e612ec70a",
-    "Size": 79765504,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.msi"
+    "Sha1": "adc1d4fdf1aa224b50182357ab0bd9270944ead7",
+    "Size": 42913792,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.msi"
   },
   {
     "Version": "23.0.2+9",
@@ -42,12 +42,12 @@
   {
     "Version": "23.0.2+9",
     "LTS": false,
-    "BundleType": "jre",
+    "BundleType": "jdk-lite",
     "Type": "msi",
     "Architecture": "ARM64",
-    "Sha1": "adc1d4fdf1aa224b50182357ab0bd9270944ead7",
-    "Size": 42913792,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.msi"
+    "Sha1": "03a19a502eaf2d50a67f8f047955cb1e612ec70a",
+    "Size": 79765504,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.msi"
   },
   {
     "Version": "23.0.2+9",
@@ -102,22 +102,12 @@
   {
     "Version": "23.0.2+9",
     "LTS": false,
-    "BundleType": "jre",
+    "BundleType": "jre-full",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "6937c210669b6c5742239f4a2ad584f608c09e11",
-    "Size": 42110244,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.zip"
-  },
-  {
-    "Version": "23.0.2+9",
-    "LTS": false,
-    "BundleType": "jdk-lite",
-    "Type": "zip",
-    "Architecture": "ARM64",
-    "Sha1": "2c0f36eeab4ae5ec1b40d2874c144eb758c895ee",
-    "Size": 78729899,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.zip"
+    "Sha1": "c38e67c00589f1da1f26c7401fc59f3ca395260d",
+    "Size": 47373096,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64-full.zip"
   },
   {
     "Version": "23.0.2+9",
@@ -132,12 +122,22 @@
   {
     "Version": "23.0.2+9",
     "LTS": false,
-    "BundleType": "jre-full",
+    "BundleType": "jdk-lite",
     "Type": "zip",
     "Architecture": "ARM64",
-    "Sha1": "c38e67c00589f1da1f26c7401fc59f3ca395260d",
-    "Size": 47373096,
-    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64-full.zip"
+    "Sha1": "2c0f36eeab4ae5ec1b40d2874c144eb758c895ee",
+    "Size": 78729899,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-lite.zip"
+  },
+  {
+    "Version": "23.0.2+9",
+    "LTS": false,
+    "BundleType": "jre",
+    "Type": "zip",
+    "Architecture": "ARM64",
+    "Sha1": "6937c210669b6c5742239f4a2ad584f608c09e11",
+    "Size": 42110244,
+    "URI": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-aarch64.zip"
   },
   {
     "Version": "23.0.2+9",
