@@ -3,7 +3,7 @@ title: Elgato Wave Link
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 26/10/2025 11:35:50 AM
+last_modified_date: 26/10/2025 1:23:59 PM
 ---
 
 ## Elgato Wave Link
