@@ -3,7 +3,7 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 27/10/2025 11:30:35 AM
+last_modified_date: 27/10/2025 1:26:06 PM
 ---
 
 ## Google Chrome Enterprise
@@ -12,10 +12,7 @@ last_modified_date: 27/10/2025 11:30:35 AM
 
 Evergreen app: `GoogleChrome`. Found **11** installers.
 
-Last check: 🔴
-```
-Cannot index into a null array.
-```
+Last check: 🟢
 
 | Version        | Channel  | StartDate  | Architecture | Type | URI                                                                                                                                                                                |
 | -------------- | -------- | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
