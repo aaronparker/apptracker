@@ -3,7 +3,7 @@ title: Proton Drive
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 26/10/2025 1:23:59 PM
+last_modified_date: 27/10/2025 11:30:35 AM
 ---
 
 ## Proton Drive
@@ -14,6 +14,6 @@ Evergreen app: `ProtonDrive`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Release | Sha512                                                                                                                           | Type | URI                                                                                                                                                                                |
-| ------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.11.5  | 2/10/2025 | Stable  | c5563c3a033b6104ccad15292b6db46b8e2ef562f190169c7f28ee3f760ab90187f790639e3bc7e2f1e91a743e7e93fd8600831961eae39fb3bda6c46bdc5269 | exe  | [https://proton.me/download/drive/windows/1.11.5/x64/Proton%20Drive%20Setup%201.11.5.exe](https://proton.me/download/drive/windows/1.11.5/x64/Proton%20Drive%20Setup%201.11.5.exe) |
+| Version | Date       | Release | Sha512                                                                                                                           | Type | URI                                                                                                                                                                                |
+| ------- | ---------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.11.7  | 27/10/2025 | Stable  | ee6cbdd90b77f7fb571ed89cb71ea03ca074c09e52e498dfea13b1578fe409c9ebd6454df2e88464b86b7df5148378ef69ca888ecdf053f73c0080e5c22d04f4 | exe  | [https://proton.me/download/drive/windows/1.11.7/x64/Proton%20Drive%20Setup%201.11.7.exe](https://proton.me/download/drive/windows/1.11.7/x64/Proton%20Drive%20Setup%201.11.7.exe) |

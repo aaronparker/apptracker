@@ -3,7 +3,7 @@ title: OBS Studio Alt
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 26/10/2025 1:23:59 PM
+last_modified_date: 27/10/2025 11:30:35 AM
 ---
 
 ## OBS Studio Alt
