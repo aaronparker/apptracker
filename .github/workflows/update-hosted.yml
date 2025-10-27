@@ -57,7 +57,7 @@ jobs:
           }
 
       - name: Upload changed files list
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: changed-files-hosted
           path: changed-files-hosted.txt
