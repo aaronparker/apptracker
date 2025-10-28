@@ -3,7 +3,7 @@ title: mySQL Connector NET
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 28/10/2025 11:38:20 AM
+last_modified_date: 28/10/2025 1:25:33 PM
 ---
 
 ## mySQL Connector NET

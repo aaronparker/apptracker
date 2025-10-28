@@ -3,7 +3,7 @@ title: Google Chrome Headless Shell
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 28/10/2025 11:38:20 AM
+last_modified_date: 28/10/2025 1:25:32 PM
 ---
 
 ## Google Chrome Headless Shell
