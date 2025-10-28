@@ -3,7 +3,7 @@ title: Autodesk Fusion 360
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 27/10/2025 1:26:06 PM
+last_modified_date: 28/10/2025 11:38:20 AM
 ---
 
 ## Autodesk Fusion 360

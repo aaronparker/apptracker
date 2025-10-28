@@ -3,7 +3,7 @@ title: TeamViewer
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 27/10/2025 1:26:06 PM
+last_modified_date: 28/10/2025 11:38:20 AM
 ---
 
 ## TeamViewer
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                |
 | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 15.70.6 | [https://dl.teamviewer.com/download/TeamViewer_Setup.exe](https://dl.teamviewer.com/download/TeamViewer_Setup.exe) |
+| 15.71.4 | [https://dl.teamviewer.com/download/TeamViewer_Setup.exe](https://dl.teamviewer.com/download/TeamViewer_Setup.exe) |

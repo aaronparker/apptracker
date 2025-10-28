@@ -3,7 +3,7 @@ title: Google Chrome Headless Shell
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 27/10/2025 1:26:06 PM
+last_modified_date: 28/10/2025 11:38:20 AM
 ---
 
 ## Google Chrome Headless Shell
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version        | Revision | Channel | Architecture | Type | URI                                                                                                                                                                                                                            |
 | -------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 143.0.7496.0   | 1535643  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/143.0.7496.0/win64/chrome-headless-shell-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/143.0.7496.0/win64/chrome-headless-shell-win64.zip)     |
-| 143.0.7496.0   | 1535643  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/143.0.7496.0/win32/chrome-headless-shell-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/143.0.7496.0/win32/chrome-headless-shell-win32.zip)     |
+| 143.0.7498.2   | 1535892  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/143.0.7498.2/win64/chrome-headless-shell-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/143.0.7498.2/win64/chrome-headless-shell-win64.zip)     |
+| 143.0.7498.2   | 1535892  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/143.0.7498.2/win32/chrome-headless-shell-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/143.0.7498.2/win32/chrome-headless-shell-win32.zip)     |
 | 143.0.7489.0   | 1534010  | Dev     | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/143.0.7489.0/win64/chrome-headless-shell-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/143.0.7489.0/win64/chrome-headless-shell-win64.zip)     |
 | 143.0.7489.0   | 1534010  | Dev     | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/143.0.7489.0/win32/chrome-headless-shell-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/143.0.7489.0/win32/chrome-headless-shell-win32.zip)     |
 | 142.0.7444.52  | 1522585  | Beta    | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.52/win64/chrome-headless-shell-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.52/win64/chrome-headless-shell-win64.zip)   |
