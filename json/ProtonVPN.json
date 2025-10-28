@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.3.1",
-    "Date": "4/9/2025",
-    "Size": 104454672,
-    "Sha256": "24c2283e5bda0a378c969e2ee01bc61da98e5e26871d56cefd9a88e7d6df1038",
+    "Version": "4.3.5",
+    "Date": "27/10/2025",
+    "Size": 97714168,
+    "Sha256": "1c0544b3078f4926fa046ffe80750638bf61f9fae04834dc30b2e3e6df74ab74",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ProtonVPN/win-app/releases/download/4.3.1/ProtonVPN_v4.3.1_arm64.exe"
+    "URI": "https://github.com/ProtonVPN/win-app/releases/download/4.3.5/ProtonVPN_v4.3.5_arm64.exe"
   },
   {
-    "Version": "4.3.1",
-    "Date": "4/9/2025",
-    "Size": 124014864,
-    "Sha256": "8c806a052119326500ac3e9d4cacc6cf3b0406c61c2a6b3532043b181cb047ef",
+    "Version": "4.3.5",
+    "Date": "27/10/2025",
+    "Size": 117318432,
+    "Sha256": "16e081b37e1ed0ee315b53d9ad928556da1f450aac723f0d3f32a826f043f6eb",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ProtonVPN/win-app/releases/download/4.3.1/ProtonVPN_v4.3.1_x64.exe"
+    "URI": "https://github.com/ProtonVPN/win-app/releases/download/4.3.5/ProtonVPN_v4.3.5_x64.exe"
   }
 ]

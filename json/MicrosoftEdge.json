@@ -36,40 +36,40 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cf419c57-f273-42fb-8c84-41354c7a9986/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
-    "Version": "142.0.3595.33",
-    "Date": "2025-10-21T16:14:00",
+    "Version": "142.0.3595.41",
+    "Date": "2025-10-27T19:16:00",
     "Channel": "Beta",
     "Release": "Enterprise",
-    "Expiry": "2026-01-21T16:14:00",
-    "SHA256": "00586C577C9808A60E7A563BDFFC0A8853A1526B3092669E14F3CA39E30AF248",
-    "Size": 187.68,
+    "Expiry": "2026-01-27T19:16:00",
+    "SHA256": "C4845519156B0484DC9E70086641E637D47ECD694C06FFAE6E715C2C3B3FCCF5",
+    "Size": 187.83,
     "Architecture": "arm64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/556372bf-d3bb-4808-bed6-86f177c3b375/MicrosoftEdgeBetaEnterpriseARM64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5a2f9cd7-59bd-4b3b-bc20-4f4c7cc89977/MicrosoftEdgeBetaEnterpriseARM64.msi"
   },
   {
-    "Version": "142.0.3595.33",
-    "Date": "2025-10-21T16:20:00",
+    "Version": "142.0.3595.41",
+    "Date": "2025-10-27T19:19:00",
     "Channel": "Beta",
     "Release": "Enterprise",
-    "Expiry": "2026-01-21T16:20:00",
-    "SHA256": "6C4644E950FB2DACFFCF1595FB34D5E24A72E699B0A94C7703C415CFE9D8F08F",
-    "Size": 182.93,
+    "Expiry": "2026-01-27T19:19:00",
+    "SHA256": "6AB275ACF490CB98E978B7F5B5118680F28969A7D16D6D7BF800412CCB0693B6",
+    "Size": 183.18,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e9157bb-00d2-4fdd-b9a5-a31ddb0d84a7/MicrosoftEdgeBetaEnterpriseX64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f3075d31-6165-44ab-b4e3-d64e4788f33a/MicrosoftEdgeBetaEnterpriseX64.msi"
   },
   {
-    "Version": "142.0.3595.33",
-    "Date": "2025-10-21T16:23:00",
+    "Version": "142.0.3595.41",
+    "Date": "2025-10-27T19:19:00",
     "Channel": "Beta",
     "Release": "Enterprise",
-    "Expiry": "2026-01-21T16:23:00",
-    "SHA256": "852269977D2A18A9433FBC9FDD3F5BD928251AAD0AA19022FF69D174ECF61A9F",
-    "Size": 163.59,
+    "Expiry": "2026-01-27T19:19:00",
+    "SHA256": "4E9CCECC3017AA39B991D1D52C86177033F815F54AA22E63A4BF060A017C751F",
+    "Size": 162.87,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99bca7ff-ff8f-49e8-9409-42ef59fbd8db/MicrosoftEdgeBetaEnterpriseX86.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/89815c04-6bb6-47aa-a7d6-8627486ae3e2/MicrosoftEdgeBetaEnterpriseX86.msi"
   },
   {
     "Version": "141.0.3537.99",
