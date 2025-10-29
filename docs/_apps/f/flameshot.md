@@ -3,7 +3,7 @@ title: Flameshot
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 28/10/2025 1:25:32 PM
+last_modified_date: 29/10/2025 11:37:37 AM
 ---
 
 ## Flameshot
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 13.2.0  | 25/10/2025 | 21536768 | 48a977f2d290d01ee37cdc9c4330dd06784277cb44ebd2741dfec0db192c279a | x64          | Default       | msi  | [https://github.com/flameshot-org/flameshot/releases/download/v13.2.0/Flameshot-13.2.0-win64.msi](https://github.com/flameshot-org/flameshot/releases/download/v13.2.0/Flameshot-13.2.0-win64.msi) |
-| 13.2.0  | 25/10/2025 | 55542823 | ac6a41a92fa9de3305080cb7758ea243b672d49da071e54ffd87039337420c55 | x64          | Default       | zip  | [https://github.com/flameshot-org/flameshot/releases/download/v13.2.0/flameshot-13.2.0-win64.zip](https://github.com/flameshot-org/flameshot/releases/download/v13.2.0/flameshot-13.2.0-win64.zip) |
+| 13.3.0  | 28/10/2025 | 21540864 | 37ca5916450fab003fb3c64eacd01d103d11d122c30bade6af144d4b0874df66 | x64          | Default       | msi  | [https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/Flameshot-13.3.0-win64.msi](https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/Flameshot-13.3.0-win64.msi) |
+| 13.3.0  | 28/10/2025 | 55544456 | 653d183bfaa13535b263ee811df5a49a93e99daffb20df5aa7e89c389e5bc8f4 | x64          | Default       | zip  | [https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/flameshot-13.3.0-win64.zip](https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/flameshot-13.3.0-win64.zip) |

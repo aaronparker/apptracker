@@ -3,7 +3,7 @@ title: Opera Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 28/10/2025 1:25:33 PM
+last_modified_date: 29/10/2025 11:37:37 AM
 ---
 
 ## Opera Browser
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version       | Channel   | Architecture | Type | URI                                                                                                                                                                                                                    |
 | ------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 121.0.5600.0  | Developer | x64          | exe  | [https://get.geo.opera.com/pub/opera-developer/121.0.5600.0/win/Opera_Developer_121.0.5600.0_Setup_x64.exe](https://get.geo.opera.com/pub/opera-developer/121.0.5600.0/win/Opera_Developer_121.0.5600.0_Setup_x64.exe) |
-| 121.0.5600.0  | Developer | x86          | exe  | [https://get.geo.opera.com/pub/opera-developer/121.0.5600.0/win/Opera_Developer_121.0.5600.0_Setup.exe](https://get.geo.opera.com/pub/opera-developer/121.0.5600.0/win/Opera_Developer_121.0.5600.0_Setup.exe)         |
-| 120.0.5543.93 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/120.0.5543.93/win/Opera_120.0.5543.93_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/120.0.5543.93/win/Opera_120.0.5543.93_Setup_x64.exe)                     |
-| 120.0.5543.93 | Stable    | x86          | exe  | [https://get.geo.opera.com/pub/opera/desktop/120.0.5543.93/win/Opera_120.0.5543.93_Setup.exe](https://get.geo.opera.com/pub/opera/desktop/120.0.5543.93/win/Opera_120.0.5543.93_Setup.exe)                             |
-| 120.0.5543.53 | Beta      | x64          | exe  | [https://get.geo.opera.com/pub/opera-beta/120.0.5543.53/win/Opera_beta_120.0.5543.53_Setup_x64.exe](https://get.geo.opera.com/pub/opera-beta/120.0.5543.53/win/Opera_beta_120.0.5543.53_Setup_x64.exe)                 |
-| 120.0.5543.53 | Beta      | x86          | exe  | [https://get.geo.opera.com/pub/opera-beta/120.0.5543.53/win/Opera_beta_120.0.5543.53_Setup.exe](https://get.geo.opera.com/pub/opera-beta/120.0.5543.53/win/Opera_beta_120.0.5543.53_Setup.exe)                         |
+| 124.0.5691.0  | Developer | x64          | exe  | [https://get.geo.opera.com/pub/opera-developer/124.0.5691.0/win/Opera_Developer_124.0.5691.0_Setup_x64.exe](https://get.geo.opera.com/pub/opera-developer/124.0.5691.0/win/Opera_Developer_124.0.5691.0_Setup_x64.exe) |
+| 124.0.5691.0  | Developer | x86          | exe  | [https://get.geo.opera.com/pub/opera-developer/124.0.5691.0/win/Opera_Developer_124.0.5691.0_Setup.exe](https://get.geo.opera.com/pub/opera-developer/124.0.5691.0/win/Opera_Developer_124.0.5691.0_Setup.exe)         |
+| 123.0.5669.23 | Stable    | x64          | exe  | [https://get.geo.opera.com/pub/opera/desktop/123.0.5669.23/win/Opera_123.0.5669.23_Setup_x64.exe](https://get.geo.opera.com/pub/opera/desktop/123.0.5669.23/win/Opera_123.0.5669.23_Setup_x64.exe)                     |
+| 123.0.5669.23 | Stable    | x86          | exe  | [https://get.geo.opera.com/pub/opera/desktop/123.0.5669.23/win/Opera_123.0.5669.23_Setup.exe](https://get.geo.opera.com/pub/opera/desktop/123.0.5669.23/win/Opera_123.0.5669.23_Setup.exe)                             |
+| 123.0.5669.18 | Beta      | x64          | exe  | [https://get.geo.opera.com/pub/opera-beta/123.0.5669.18/win/Opera_beta_123.0.5669.18_Setup_x64.exe](https://get.geo.opera.com/pub/opera-beta/123.0.5669.18/win/Opera_beta_123.0.5669.18_Setup_x64.exe)                 |
+| 123.0.5669.18 | Beta      | x86          | exe  | [https://get.geo.opera.com/pub/opera-beta/123.0.5669.18/win/Opera_beta_123.0.5669.18_Setup.exe](https://get.geo.opera.com/pub/opera-beta/123.0.5669.18/win/Opera_beta_123.0.5669.18_Setup.exe)                         |

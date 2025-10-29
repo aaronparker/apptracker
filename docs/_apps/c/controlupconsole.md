@@ -3,7 +3,7 @@ title: ControlUp Console
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 28/10/2025 1:25:32 PM
+last_modified_date: 29/10/2025 11:37:37 AM
 ---
 
 ## ControlUp Console
@@ -14,6 +14,6 @@ Evergreen app: `ControlUpConsole`. Found **1** installer.
 
 Last check: 🟢
 
-| Version   | URI                                                                                                                                                                                          |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.1.5.378 | [https://downloads.controlup.com/console/9.1.5.378/ControlUpConsole_Secure_SIGN-9.1.5.378.zip](https://downloads.controlup.com/console/9.1.5.378/ControlUpConsole_Secure_SIGN-9.1.5.378.zip) |
+| Version   | URI                                                                                                                                              |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 9.1.5.406 | [https://downloads.controlup.com/console/9.1.5.406/ControlUpConsole.zip](https://downloads.controlup.com/console/9.1.5.406/ControlUpConsole.zip) |

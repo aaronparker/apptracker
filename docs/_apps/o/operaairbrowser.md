@@ -3,7 +3,7 @@ title: Opera Air Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 28/10/2025 1:25:33 PM
+last_modified_date: 29/10/2025 11:37:37 AM
 ---
 
 ## Opera Air Browser
@@ -14,6 +14,6 @@ Evergreen app: `OperaAirBrowser`. Found **1** installer.
 
 Last check: 🟢
 
-| Version       | Channel | Architecture | Type | URI                                                                                                                                                                                                |
-| ------------- | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 120.0.5543.86 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_air/120.0.5543.86/win/Opera_Air_120.0.5543.86_Setup_x64.exe](https://get.geo.opera.com/pub/opera_air/120.0.5543.86/win/Opera_Air_120.0.5543.86_Setup_x64.exe) |
+| Version        | Channel | Architecture | Type | URI                                                                                                                                                                                                    |
+| -------------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 122.0.5643.154 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_air/122.0.5643.154/win/Opera_Air_122.0.5643.154_Setup_x64.exe](https://get.geo.opera.com/pub/opera_air/122.0.5643.154/win/Opera_Air_122.0.5643.154_Setup_x64.exe) |

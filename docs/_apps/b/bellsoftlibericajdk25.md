@@ -3,7 +3,7 @@ title: BellSoft Liberica JDK 25
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 28/10/2025 1:25:32 PM
+last_modified_date: 29/10/2025 11:37:37 AM
 ---
 
 ## BellSoft Liberica JDK 25
