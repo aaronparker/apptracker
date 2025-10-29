@@ -1,12 +1,22 @@
 [
   {
-    "Version": "3.8.0",
+    "Version": "3.9.0",
     "Date": "24/6/2025",
-    "Size": 97449072,
-    "Sha256": "c88e2e743d707bc97ac92b4ec9578bb000e6815d4a97c0276d2afcc34ddcb734",
+    "Size": 25533992,
+    "Sha256": "eda5ac01f705f976957abd8c9d14bbd355616ebef6c5b45f28a2ae44f53e207d",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/drata/agent-releases/releases/download/3.9.0/win-x64-osqueryi.exe"
+  },
+  {
+    "Version": "3.9.0",
+    "Date": "24/6/2025",
+    "Size": 100758384,
+    "Sha256": "1b6562feb9e6dda0654389f24842d7c1bc201b9a4928432c7f41268b8709e579",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/drata/agent-releases/releases/download/3.8.0/Drata-Agent-win.exe"
+    "URI": "https://github.com/drata/agent-releases/releases/download/3.9.0/Drata-Agent-win.exe"
   }
 ]

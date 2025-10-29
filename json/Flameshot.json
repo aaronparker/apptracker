@@ -1,22 +1,22 @@
 [
   {
-    "Version": "13.2.0",
-    "Date": "25/10/2025",
-    "Size": 21536768,
-    "Sha256": "48a977f2d290d01ee37cdc9c4330dd06784277cb44ebd2741dfec0db192c279a",
+    "Version": "13.3.0",
+    "Date": "28/10/2025",
+    "Size": 21540864,
+    "Sha256": "37ca5916450fab003fb3c64eacd01d103d11d122c30bade6af144d4b0874df66",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.2.0/Flameshot-13.2.0-win64.msi"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/Flameshot-13.3.0-win64.msi"
   },
   {
-    "Version": "13.2.0",
-    "Date": "25/10/2025",
-    "Size": 55542823,
-    "Sha256": "ac6a41a92fa9de3305080cb7758ea243b672d49da071e54ffd87039337420c55",
+    "Version": "13.3.0",
+    "Date": "28/10/2025",
+    "Size": 55544456,
+    "Sha256": "653d183bfaa13535b263ee811df5a49a93e99daffb20df5aa7e89c389e5bc8f4",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.2.0/flameshot-13.2.0-win64.zip"
+    "URI": "https://github.com/flameshot-org/flameshot/releases/download/v13.3.0/flameshot-13.3.0-win64.zip"
   }
 ]
