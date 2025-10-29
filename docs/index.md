@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 29/10/2025 11:39 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 29/10/2025 13:27 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -96,7 +96,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | Analog Devices LTspice                                            | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                 |
 |                                                                   |            |        |                                                                                          |
-| Anki                                                              | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
+| Anki                                                              | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                 |
 |                                                                   |            |        |                                                                                          |
 | AppVentiX                                                         | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/appventix/)                            |
 |                                                                   |            |        |                                                                                          |
@@ -298,7 +298,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | Gpg4win                                                           | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gpg4win/)                              |
 |                                                                   |            |        |                                                                                          |
-| Grafana Agent                                                     | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
+| Grafana Agent                                                     | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/grafanaagent/)                         |
 |                                                                   |            |        |                                                                                          |
 | Greenshot                                                         | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/greenshot/)                            |
 |                                                                   |            |        |                                                                                          |
@@ -450,7 +450,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | Microsoft Outlook                                                 | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoutlook/)                     |
 |                                                                   |            |        |                                                                                          |
-| Microsoft Power Automate Desktop                                  | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
+| Microsoft Power Automate Desktop                                  | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowerautomatedesktop/)        |
 |                                                                   |            |        |                                                                                          |
 | Microsoft PowerShell                                              | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftpowershell/)                  |
 |                                                                   |            |        |                                                                                          |
@@ -552,7 +552,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 |                                                                   |            |        |                                                                                          |
 | OCS Inventory Windows Agent                                       | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ocsinventorywindowsagent/)             |
 |                                                                   |            |        |                                                                                          |
-| Octopus Deploy Server                                             | ``         | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                  |
+| Octopus Deploy Server                                             | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                  |
 |                                                                   |            |        |                                                                                          |
 | Octopus Tentacle                                                  | ``         | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                      |
 |                                                                   |            |        |                                                                                          |
