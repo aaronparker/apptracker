@@ -3,7 +3,7 @@ title: Freedom Scientific ZoomText
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 30/10/2025 11:40:18 AM
+last_modified_date: 30/10/2025 1:25:43 PM
 ---
 
 ## Freedom Scientific ZoomText
@@ -14,7 +14,7 @@ Evergreen app: `FreedomScientificZoomText`. Found **2** installers.
 
 Last check: 🟢
 
-| Version      | Date     | Architecture | URI                                                                                                                                                                                                                                                                            |
-| ------------ | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.2508.35 | 1/9/2025 | ARM64        | [https://software.vfo.digital/ZoomText/2025/2025.2508.35.400/81B595D0-33B5-41C0-9A7D-27CCF7BF83F8/ZT2025.2508.35.400-Offline-ARM64.exe](https://software.vfo.digital/ZoomText/2025/2025.2508.35.400/81B595D0-33B5-41C0-9A7D-27CCF7BF83F8/ZT2025.2508.35.400-Offline-ARM64.exe) |
-| 2025.2508.35 | 1/9/2025 | x64          | [https://software.vfo.digital/ZoomText/2025/2025.2508.35.400/81B595D0-33B5-41C0-9A7D-27CCF7BF83F8/ZT2025.2508.35.400-Offline-x64.exe](https://software.vfo.digital/ZoomText/2025/2025.2508.35.400/81B595D0-33B5-41C0-9A7D-27CCF7BF83F8/ZT2025.2508.35.400-Offline-x64.exe)     |
+| Version       | Date      | Architecture | URI                                                                                                                                                                                                                                                                                |
+| ------------- | --------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026.2510.130 | 1/10/2025 | ARM64        | [https://software.vfo.digital/ZoomText/2026/2026.2510.130.400/ED855372-5EFE-4DCC-BF6C-C5EDD4F12DB2/ZT2026.2510.130.400-Offline-ARM64.exe](https://software.vfo.digital/ZoomText/2026/2026.2510.130.400/ED855372-5EFE-4DCC-BF6C-C5EDD4F12DB2/ZT2026.2510.130.400-Offline-ARM64.exe) |
+| 2026.2510.130 | 1/10/2025 | x64          | [https://software.vfo.digital/ZoomText/2026/2026.2510.130.400/ED855372-5EFE-4DCC-BF6C-C5EDD4F12DB2/ZT2026.2510.130.400-Offline-x64.exe](https://software.vfo.digital/ZoomText/2026/2026.2510.130.400/ED855372-5EFE-4DCC-BF6C-C5EDD4F12DB2/ZT2026.2510.130.400-Offline-x64.exe)     |

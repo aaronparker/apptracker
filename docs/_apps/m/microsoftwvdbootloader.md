@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent Bootloader
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 30/10/2025 11:40:18 AM
+last_modified_date: 30/10/2025 1:25:43 PM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent Bootloader

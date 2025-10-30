@@ -3,7 +3,7 @@ title: R Core Team R for Windows
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 30/10/2025 11:40:18 AM
+last_modified_date: 30/10/2025 1:25:43 PM
 ---
 
 ## R Core Team R for Windows

@@ -3,7 +3,7 @@ title: Freedom Scientific JAWS
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 30/10/2025 11:40:18 AM
+last_modified_date: 30/10/2025 1:25:43 PM
 ---
 
 ## Freedom Scientific JAWS
@@ -14,7 +14,7 @@ Evergreen app: `FreedomScientificJAWS`. Found **2** installers.
 
 Last check: 🟢
 
-| Version       | Date     | Architecture | URI                                                                                                                                                                                                                                                                      |
-| ------------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.2508.120 | 1/9/2025 | ARM64        | [https://software.vfo.digital/JAWS/2025/2025.2508.120.400/56B705E6-BE2D-4DB8-A7A3-B9B7A42B9361/J2025.2508.120.400-Offline-arm64.exe](https://software.vfo.digital/JAWS/2025/2025.2508.120.400/56B705E6-BE2D-4DB8-A7A3-B9B7A42B9361/J2025.2508.120.400-Offline-arm64.exe) |
-| 2025.2508.120 | 1/9/2025 | x64          | [https://software.vfo.digital/JAWS/2025/2025.2508.120.400/56B705E6-BE2D-4DB8-A7A3-B9B7A42B9361/J2025.2508.120.400-Offline-x64.exe](https://software.vfo.digital/JAWS/2025/2025.2508.120.400/56B705E6-BE2D-4DB8-A7A3-B9B7A42B9361/J2025.2508.120.400-Offline-x64.exe)     |
+| Version       | Date      | Architecture | URI                                                                                                                                                                                                                                                                      |
+| ------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026.2510.195 | 1/10/2025 | ARM64        | [https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-arm64.exe](https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-arm64.exe) |
+| 2026.2510.195 | 1/10/2025 | x64          | [https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-x64.exe](https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-x64.exe)     |
