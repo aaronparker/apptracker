@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2025.2508.35",
-    "Date": "1/9/2025",
+    "Version": "2026.2510.130",
+    "Date": "1/10/2025",
     "Architecture": "ARM64",
-    "URI": "https://software.vfo.digital/ZoomText/2025/2025.2508.35.400/81B595D0-33B5-41C0-9A7D-27CCF7BF83F8/ZT2025.2508.35.400-Offline-ARM64.exe"
+    "URI": "https://software.vfo.digital/ZoomText/2026/2026.2510.130.400/ED855372-5EFE-4DCC-BF6C-C5EDD4F12DB2/ZT2026.2510.130.400-Offline-ARM64.exe"
   },
   {
-    "Version": "2025.2508.35",
-    "Date": "1/9/2025",
+    "Version": "2026.2510.130",
+    "Date": "1/10/2025",
     "Architecture": "x64",
-    "URI": "https://software.vfo.digital/ZoomText/2025/2025.2508.35.400/81B595D0-33B5-41C0-9A7D-27CCF7BF83F8/ZT2025.2508.35.400-Offline-x64.exe"
+    "URI": "https://software.vfo.digital/ZoomText/2026/2026.2510.130.400/ED855372-5EFE-4DCC-BF6C-C5EDD4F12DB2/ZT2026.2510.130.400-Offline-x64.exe"
   }
 ]
