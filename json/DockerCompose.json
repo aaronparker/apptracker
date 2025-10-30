@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.40.2",
-    "Date": "22/10/2025",
-    "Size": 73868288,
-    "Sha256": "4acf95d3276cfbaea0e4c348f92f92ac792adc93566b166b5a5acef812a81439",
+    "Version": "2.40.3",
+    "Date": "30/10/2025",
+    "Size": 73874432,
+    "Sha256": "881a70b6d6e9ea1637746b0d5dbdaf83032b2f7952d4ee4b69f8f38b816909d1",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-aarch64.exe"
+    "URI": "https://github.com/docker/compose/releases/download/v2.40.3/docker-compose-windows-aarch64.exe"
   },
   {
-    "Version": "2.40.2",
-    "Date": "22/10/2025",
-    "Size": 77731840,
-    "Sha256": "1f7f20b91e0564147dc58b3a58a22a8f64a787e060ce3c25789f408beacc0c4d",
+    "Version": "2.40.3",
+    "Date": "30/10/2025",
+    "Size": 77739008,
+    "Sha256": "4c864dd7f879dd40366e087e68a8a02cbcf018be0128867b13369898e67e1532",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-x86_64.exe"
+    "URI": "https://github.com/docker/compose/releases/download/v2.40.3/docker-compose-windows-x86_64.exe"
   }
 ]
