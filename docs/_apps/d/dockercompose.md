@@ -3,7 +3,7 @@ title: Docker Compose
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 29/10/2025 1:26:23 PM
+last_modified_date: 30/10/2025 11:40:18 AM
 ---
 
 ## Docker Compose
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.40.2  | 22/10/2025 | 73868288 | 4acf95d3276cfbaea0e4c348f92f92ac792adc93566b166b5a5acef812a81439 | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-aarch64.exe) |
-| 2.40.2  | 22/10/2025 | 77731840 | 1f7f20b91e0564147dc58b3a58a22a8f64a787e060ce3c25789f408beacc0c4d | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v2.40.2/docker-compose-windows-x86_64.exe)   |
+| 2.40.3  | 30/10/2025 | 73874432 | 881a70b6d6e9ea1637746b0d5dbdaf83032b2f7952d4ee4b69f8f38b816909d1 | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.40.3/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v2.40.3/docker-compose-windows-aarch64.exe) |
+| 2.40.3  | 30/10/2025 | 77739008 | 4c864dd7f879dd40366e087e68a8a02cbcf018be0128867b13369898e67e1532 | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v2.40.3/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v2.40.3/docker-compose-windows-x86_64.exe)   |
