@@ -1,3 +1,1 @@
-json/FreedomScientificFusion.json
-json/FreedomScientificJAWS.json
-json/FreedomScientificZoomText.json
+No files changed
