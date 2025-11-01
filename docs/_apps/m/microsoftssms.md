@@ -3,7 +3,7 @@ title: Microsoft SQL Server Management Studio
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 31/10/2025 1:25:28 PM
+last_modified_date: 01/11/2025 11:36:18 AM
 ---
 
 ## Microsoft SQL Server Management Studio
