@@ -14,6 +14,16 @@
     "Date": "13/10/2025",
     "Size": 106859792,
     "Sha256": "c8c6cd8f679c01402aa5f7c1091c17f0e5d6214e38fe07afa6bd5a88939cc620",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.0.0.54/AutoDarkMode_11.0.0.54_x64.exe"
+  },
+  {
+    "Version": "11.0.0.54",
+    "Date": "13/10/2025",
+    "Size": 106859792,
+    "Sha256": "c8c6cd8f679c01402aa5f7c1091c17f0e5d6214e38fe07afa6bd5a88939cc620",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
