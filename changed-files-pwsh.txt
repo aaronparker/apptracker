@@ -29,7 +29,6 @@ json/AdvancedInstaller.json
 json/AirtameApp.json
 json/AkeoRufus.json
 json/AkeoRufusAlt.json
-json/AmazonCorretto11.json
 json/AmazonCorretto15.json
 json/AmazonCorretto16.json
 json/AmazonCorretto17.json
@@ -371,3 +370,4 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
+json/CanvaAffinity.json
