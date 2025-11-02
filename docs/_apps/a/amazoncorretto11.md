@@ -3,7 +3,7 @@ title: Amazon Corretto 11
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 02/11/2025 11:26:53 AM
+last_modified_date: 02/11/2025 1:23:46 PM
 ---
 
 ## Amazon Corretto 11
@@ -12,10 +12,7 @@ last_modified_date: 02/11/2025 11:26:53 AM
 
 Evergreen app: `AmazonCorretto11`. Found **4** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version     | Md5                              | Architecture | Type | URI                                                                                                                                                                                                          |
 | ----------- | -------------------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
