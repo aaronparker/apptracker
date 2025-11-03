@@ -29,6 +29,7 @@ json/AdvancedInstaller.json
 json/AirtameApp.json
 json/AkeoRufus.json
 json/AkeoRufusAlt.json
+json/AmazonCorretto11.json
 json/AmazonCorretto15.json
 json/AmazonCorretto16.json
 json/AmazonCorretto17.json
@@ -64,6 +65,7 @@ json/BitwardenDesktop.json
 json/BlenderLauncher.json
 json/BlueJ.json
 json/Bruno.json
+json/CanvaAffinity.json
 json/CendioThinLinc.json
 json/CitrixShareFile.json
 json/CitrixWorkspaceApp.json
@@ -370,4 +372,3 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
-json/CanvaAffinity.json

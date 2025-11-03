@@ -1,5 +1,32 @@
 [
   {
+    "Version": "6.6.10.1194",
+    "Platform": "Notes",
+    "Installer": "User",
+    "Size": 18802176,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/6.6.10.1194/ZoomNotesPluginSetup.msi"
+  },
+  {
+    "Version": "6.6.10.1194",
+    "Platform": "Notes",
+    "Installer": "Admin",
+    "Size": 19491840,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/6.6.10.1194/ZoomNotesPluginAdminTool.msi"
+  },
+  {
+    "Version": "6.6.10.1192",
+    "Platform": "Outlook",
+    "Installer": "User",
+    "Size": 12044288,
+    "Type": "msi",
+    "Architecture": "x86",
+    "URI": "https://cdn.zoom.us/prod/6.6.10.1192/ZoomOutlookPluginSetup.msi"
+  },
+  {
     "Version": "6.6.6.19875",
     "Platform": "Desktop",
     "Installer": "User",
@@ -54,49 +81,22 @@
     "URI": "https://cdn.zoom.us/prod/6.6.6.19875/ZoomInstallerFull.msi"
   },
   {
-    "Version": "6.6.1.6661",
+    "Version": "6.6.5.6792",
     "Platform": "Rooms",
     "Installer": "User",
-    "Size": 381028960,
+    "Size": 381258608,
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.6.1.6661/x64/zoomrooms-6.6.1.6661-x64.exe"
+    "URI": "https://cdn.zoom.us/prod/6.6.5.6792/x64/zoomrooms-6.6.5.6792-x64.exe"
   },
   {
-    "Version": "6.6.1.6661",
+    "Version": "6.6.5.6792",
     "Platform": "Rooms",
     "Installer": "Admin",
-    "Size": 385580544,
+    "Size": 385835520,
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://cdn.zoom.us/prod/6.6.1.6661/x64/zoomrooms-6.6.1.6661-x64.msi"
-  },
-  {
-    "Version": "6.6.0.1185",
-    "Platform": "Outlook",
-    "Installer": "User",
-    "Size": 12008960,
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.6.0.1185/ZoomOutlookPluginSetup.msi"
-  },
-  {
-    "Version": "6.5.0.1168",
-    "Platform": "Notes",
-    "Installer": "User",
-    "Size": 18493440,
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.5.0.1168/ZoomNotesPluginSetup.msi"
-  },
-  {
-    "Version": "6.5.0.1168",
-    "Platform": "Notes",
-    "Installer": "Admin",
-    "Size": 19305984,
-    "Type": "msi",
-    "Architecture": "x86",
-    "URI": "https://cdn.zoom.us/prod/6.5.0.1168/ZoomNotesPluginAdminTool.msi"
+    "URI": "https://cdn.zoom.us/prod/6.6.5.6792/x64/zoomrooms-6.6.5.6792-x64.msi"
   },
   {
     "Version": "6.0.7.4157",
