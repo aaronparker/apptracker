@@ -3,7 +3,7 @@ title: KeePass Password Safe
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 02/11/2025 1:23:46 PM
+last_modified_date: 03/11/2025 11:27:48 AM
 ---
 
 ## KeePass Password Safe
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size    | Md5                              | FileName               | URI                                                                                                                                                                                                              |
 | ------- | ------------ | ---- | ------- | -------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.59    | x86          | exe  | 4351616 | f750281abbe4919455275ab5f5e6185c | KeePass-2.59-Setup.exe | [https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.59/KeePass-2.59-Setup.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.59/KeePass-2.59-Setup.exe?viasf=1) |
-| 2.59    | x86          | msi  | 3497472 | c9f00f9cf41a6435797325dcc61c59b8 | KeePass-2.59.msi       | [https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.59/KeePass-2.59.msi?viasf=1](https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.59/KeePass-2.59.msi?viasf=1)             |
+| 2.60    | x86          | exe  | 4437880 | 68ed1e7120c4adaba7a912205cbe404a | KeePass-2.60-Setup.exe | [https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.60/KeePass-2.60-Setup.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.60/KeePass-2.60-Setup.exe?viasf=1) |
+| 2.60    | x86          | msi  | 3377664 | 1a6799a798d37937e95b1ef45cf5cd11 | KeePass-2.60.msi       | [https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.60/KeePass-2.60.msi?viasf=1](https://ixpeering.dl.sourceforge.net/project/keepass/KeePass%202.x/2.60/KeePass-2.60.msi?viasf=1)             |

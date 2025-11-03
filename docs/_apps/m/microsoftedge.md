@@ -3,7 +3,7 @@ title: Microsoft Edge
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 02/11/2025 1:23:46 PM
+last_modified_date: 03/11/2025 11:27:48 AM
 ---
 
 ## Microsoft Edge
@@ -25,4 +25,4 @@ Last check: 🟢
 | 142.0.3595.53 | 11/02/2025 05:36:00 | Stable     | Enterprise | 10/31/2026 15:51:00 | 56EA3B5205C924BD59E6826B34623B5845D11E34C317251F3252F1F8D8739613 | 183.29 | x64          | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/14d43f8b-23cd-4f61-99ab-1b0254549771/MicrosoftEdgeEnterpriseX64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/14d43f8b-23cd-4f61-99ab-1b0254549771/MicrosoftEdgeEnterpriseX64.msi)                         |
 | 142.0.3595.53 | 10/31/2025 16:10:00 | Beta       | Enterprise | 01/31/2026 16:10:00 | 6D5E3032ACA9F49C91720370124D891DE527A6DBEC4BF77A3227988CB8EDB656 | 163.02 | x86          | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1fd9620-3b89-4864-a4df-9487bc38bf5c/MicrosoftEdgeBetaEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1fd9620-3b89-4864-a4df-9487bc38bf5c/MicrosoftEdgeBetaEnterpriseX86.msi)                 |
 | 142.0.3595.53 | 11/02/2025 05:39:00 | Stable     | Enterprise | 10/31/2026 16:02:00 | BF1E9F925FDE7999E0766E8A402123F4D291336BAB2E5A5CCDE78343316161B5 | 163.02 | x86          | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b97d604-3bba-4806-85fa-cf7048e693b5/MicrosoftEdgeEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b97d604-3bba-4806-85fa-cf7048e693b5/MicrosoftEdgeEnterpriseX86.msi)                         |
-| 1.3.205.9     | 10/25/2025 20:31:00 | EdgeUpdate | Enterprise | 10/25/2026 20:31:00 | 367FC3648EE66E9171B34CE96EB4F3A474A69442328BC95910FCC2BE37D47305 | 1.61   | x86          | exe  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97c60cfe-1daa-4075-b6bf-23250bc85097/MicrosoftEdgeUpdateSetup_X86_1.3.205.9.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/97c60cfe-1daa-4075-b6bf-23250bc85097/MicrosoftEdgeUpdateSetup_X86_1.3.205.9.exe) |
+| 1.3.207.5     | 11/03/2025 03:46:00 | EdgeUpdate | Enterprise | 11/03/2026 03:46:00 | EB15ADA0203DDDEC4A2409638DD8C20885EA81EBB1008B971577F98166ECEC9C | 1.61   | x86          | exe  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23f2e108-c31b-42bb-9af2-13d401658eb9/MicrosoftEdgeUpdateSetup_X86_1.3.207.5.exe](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23f2e108-c31b-42bb-9af2-13d401658eb9/MicrosoftEdgeUpdateSetup_X86_1.3.207.5.exe) |
