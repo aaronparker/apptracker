@@ -3,7 +3,7 @@ title: Opera GX Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 03/11/2025 11:27:48 AM
+last_modified_date: 03/11/2025 1:25:39 PM
 ---
 
 ## Opera GX Browser
