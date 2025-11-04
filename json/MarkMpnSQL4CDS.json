@@ -1,32 +1,32 @@
 [
   {
-    "Version": "10.1.0",
-    "Date": "2/9/2025",
-    "Size": 21766144,
-    "Sha256": "4e43778ed3daaf11cf8f2a437b430ead343de8b25931523b36c2643fa99b4d05",
+    "Version": "10.1.1",
+    "Date": "3/11/2025",
+    "Size": 21770240,
+    "Sha256": "35fe9015e50737c0bc8a190c336e0f4906246f11228fe5a99c40b3afc1f2f702",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/MarkMpn.Sql4Cds.SSMS.20.Setup.msi"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.1/MarkMpn.Sql4Cds.SSMS.20.Setup.msi"
   },
   {
-    "Version": "10.1.0",
-    "Date": "2/9/2025",
-    "Size": 29979412,
-    "Sha256": "e6c19bbe65ef6d41bc28df2704f0611f09f22b05a808cf572fac40dea7e7f6cd",
+    "Version": "10.1.1",
+    "Date": "3/11/2025",
+    "Size": 29980684,
+    "Sha256": "82e1b1e15fe0540995fb36ad02d3355786067ad527523860beaf56163d8fa86c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/azuredatastudio-sql4cds-10.1.0.vsix"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.1/azuredatastudio-sql4cds-10.1.1.vsix"
   },
   {
-    "Version": "10.1.0",
-    "Date": "2/9/2025",
-    "Size": 9383831,
-    "Sha256": "4eb06351eb22140478c25804c64d549b7c9717cc24ddde6d82212764a627c71a",
+    "Version": "10.1.1",
+    "Date": "3/11/2025",
+    "Size": 9384492,
+    "Sha256": "3a79f1dadb11456095324b787464533b3d01fc4feedaefad3d8f09db5735c5d4",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "vsix",
-    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.0/MarkMpn.Sql4Cds.SSMS.vsix"
+    "URI": "https://github.com/MarkMpn/Sql4Cds/releases/download/v10.1.1/MarkMpn.Sql4Cds.SSMS.vsix"
   }
 ]
