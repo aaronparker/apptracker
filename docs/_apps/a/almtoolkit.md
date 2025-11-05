@@ -3,7 +3,7 @@ title: ALM Toolkit
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 04/11/2025 1:27:00 PM
+last_modified_date: 05/11/2025 11:42:26 AM
 ---
 
 ## ALM Toolkit
@@ -14,6 +14,6 @@ Evergreen app: `ALMToolkit`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256 | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
-| ------- | --------- | --------- | ------ | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5.1.11  | 10/1/2025 | 288519168 |        | x86          | Default       | msi  | [https://github.com/microsoft/Analysis-Services/releases/download/5.1.11/AlmToolkitSetup.msi](https://github.com/microsoft/Analysis-Services/releases/download/5.1.11/AlmToolkitSetup.msi) |
+| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
+| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5.1.20  | 16/10/2025 | 288546816 | 26b6dbaf21eb168ec912eccf123bcb75b73e9bf38b25bec796f65a66715aea20 | x86          | Default       | msi  | [https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi](https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi) |
