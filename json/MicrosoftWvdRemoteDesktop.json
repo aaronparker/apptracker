@@ -1,5 +1,32 @@
 [
   {
+    "Version": "1.2.6758.0",
+    "Date": "6/11/2025",
+    "Channel": "Dogfood",
+    "MD5": "8D80635B73084496C9151EA1A399F814",
+    "Sha2": "251692D7A15D264CA486800A17B34523522D2BD307CE13C756701991F44B2CC96440090848AE5753007AE5FB570EDF9A876B00F3DD9831DAB212D3530792801D",
+    "Architecture": "ARM64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/0f167b93-14c0-41d2-aa02-4505bf032013/RemoteDesktop_1.2.6758.0_ARM64.msi"
+  },
+  {
+    "Version": "1.2.6758.0",
+    "Date": "6/11/2025",
+    "Channel": "Dogfood",
+    "MD5": "A93F76F2EF23DAEC208FDBFBC752B514",
+    "Sha2": "CB4519415828313B7C455884A257F53289B81BD246653139B9745F6E2282B48BA9136F1E7B13D25E9858278F03E4B74F79197A9C6C26CA3FFFD40BE6014646E4",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/ad429290-6b8a-42b9-add8-f644de517e66/RemoteDesktop_1.2.6758.0_x64.msi"
+  },
+  {
+    "Version": "1.2.6758.0",
+    "Date": "6/11/2025",
+    "Channel": "Dogfood",
+    "MD5": "C2FC5C6C891691E2760171223800AF99",
+    "Sha2": "4686B2FBB7032E12AEA5C698504F518CE31CFA03606061AEE6B86D062CDA49680D2B7841B6D9860C12CD72C30559F914B0F03B0FFF3079819E30D9E6BED30A8E",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/3f7b1535-ee33-4771-92e8-dc84459ab6dc/RemoteDesktop_1.2.6758.0_x86.msi"
+  },
+  {
     "Version": "1.2.6676.0",
     "Date": "22/10/2025",
     "Channel": "Insider",
@@ -52,32 +79,5 @@
     "Sha2": "E9443C81715D3DDE7E11BF8492315077011BA03A9F537AFAE194E8DBE6680E4C83840F4C6DF83246262923572047DA59C8F1CBD1ECA0C3A35A3EF97C04EC7744",
     "Architecture": "x86",
     "URI": "https://res.cdn.office.net/remote-desktop-windows-client/d11196e8-6117-438c-bb56-8a683739a808/RemoteDesktop_1.2.6676.0_x86.msi"
-  },
-  {
-    "Version": "1.2.6674.0",
-    "Date": "8/10/2025",
-    "Channel": "Dogfood",
-    "MD5": "961AC72A929BD2AA53C29DFD05EFCEEA",
-    "Sha2": "8D4DA5A4C97A42F76E31115EE32C834175B7E79FD530A423549898660B7376C8D97771ED06FC51F7102E9267C90121F98B5905FBC828B4CBB1A9D02AF489C87B",
-    "Architecture": "ARM64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/f0e601a5-185d-42e0-8edf-c0aad16fb5d8/RemoteDesktop_1.2.6674.0_ARM64.msi"
-  },
-  {
-    "Version": "1.2.6674.0",
-    "Date": "8/10/2025",
-    "Channel": "Dogfood",
-    "MD5": "4230D6A561DA90472C81FB314DD7B00F",
-    "Sha2": "8B9A4C12B1AB8E97F365D974449744CB9CF7CBA6C32DFE2D9235615924AF44ECB2B72F678579A0BDABFFAD659A7B6CA2A65D888F1003B4E383F8E42085B0A957",
-    "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8f67c09a-e239-400d-bc14-d1a06c767ab2/RemoteDesktop_1.2.6674.0_x64.msi"
-  },
-  {
-    "Version": "1.2.6674.0",
-    "Date": "8/10/2025",
-    "Channel": "Dogfood",
-    "MD5": "5E8EDE89040FDF5E70C05DD288A1DB72",
-    "Sha2": "B5DFD038755AFDC5D741BA4608E9E3D36F7CECE0F20602544E204BB6E3ECC9BBD7FB8A0ADD38CA80918ED69DB348964584C71787473DC90AC770D6D3A57C3D8C",
-    "Architecture": "x86",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/f6132d4d-73f9-4e0e-b8ce-4943becc9e96/RemoteDesktop_1.2.6674.0_x86.msi"
   }
 ]
