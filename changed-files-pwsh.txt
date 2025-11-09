@@ -195,7 +195,6 @@ json/MicrosoftEdgeWebView2Runtime.json
 json/MicrosoftFSLogixApps.json
 json/MicrosoftODBCDriverForSQLServer.json
 json/MicrosoftODBCDriverForSQLServer17.json
-json/MicrosoftOLEDBDriverForSQLServer.json
 json/MicrosoftOLEDBDriverForSQLServer18.json
 json/MicrosoftOneDrive.json
 json/MicrosoftOpenJDK11.json
@@ -268,7 +267,6 @@ json/PDFArranger.json
 json/PDFForgePDFCreator.json
 json/PSAppDeployToolkit.json
 json/PSFPython.json
-json/PaintDotNet.json
 json/PaintDotNetOfflineInstaller.json
 json/PaloAltoGlobalProtect.json
 json/Pandoc.json

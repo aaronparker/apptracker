@@ -72,40 +72,40 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3920a24b-795b-4cd1-ab07-bb81441862ec/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
-    "Version": "142.0.3595.65",
-    "Date": "2025-11-06T20:49:00",
+    "Version": "142.0.3595.69",
+    "Date": "2025-11-08T17:53:00",
     "Channel": "Stable",
     "Release": "Enterprise",
-    "Expiry": "2026-11-06T19:59:00",
-    "SHA256": "3D92A05EEBE2EAEBDB27457D53FE50223936E9900D1CAAF167ED306943057615",
-    "Size": 188.04,
+    "Expiry": "2026-11-08T17:29:00",
+    "SHA256": "A3F9761ABC51B17879197D5891E73DEFE9A641E67FA44F9523B84A7228777DFD",
+    "Size": 188.03,
     "Architecture": "arm64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ea5c98d-f433-4089-9368-86ffd61f35b5/MicrosoftEdgeEnterpriseARM64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/33d224ed-5b51-40f0-8aba-4c713f894c4f/MicrosoftEdgeEnterpriseARM64.msi"
   },
   {
-    "Version": "142.0.3595.65",
-    "Date": "2025-11-06T20:57:00",
+    "Version": "142.0.3595.69",
+    "Date": "2025-11-08T18:06:00",
     "Channel": "Stable",
     "Release": "Enterprise",
-    "Expiry": "2026-11-06T20:00:00",
-    "SHA256": "E3D44068B20F64251F2285ED55AD66A61051F1D5718C2718396D0D2981A3F97E",
-    "Size": 183.36,
+    "Expiry": "2026-11-08T17:24:00",
+    "SHA256": "BB381004E2180F3094A2CFC918D3FB1B09B1CC18A30B7C9D6E5F0FF05D76FBDB",
+    "Size": 183.24,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8eb47a3e-c4ea-4a6c-aee7-a8ac6e20d71f/MicrosoftEdgeEnterpriseX64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/eea97c16-45de-4230-8da9-47378522e52d/MicrosoftEdgeEnterpriseX64.msi"
   },
   {
-    "Version": "142.0.3595.65",
-    "Date": "2025-11-06T20:57:00",
+    "Version": "142.0.3595.69",
+    "Date": "2025-11-08T18:05:00",
     "Channel": "Stable",
     "Release": "Enterprise",
-    "Expiry": "2026-11-06T20:17:00",
-    "SHA256": "A8400CD83F2CB0DB52FF88F1CF2464F4D21377B34E4A06EB0F6784B286F62F29",
+    "Expiry": "2026-11-08T17:35:00",
+    "SHA256": "D76710AFB8953AB0FC9021B534773EA5E6D5663A6FB63C8AAC0B74AF73C17BB4",
     "Size": 163.03,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a6ffce1e-c26f-45e1-a94c-7e9bc57c0c4c/MicrosoftEdgeEnterpriseX86.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cd71d042-6917-474a-8e51-f3eae6020674/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
     "Version": "1.3.207.5",
