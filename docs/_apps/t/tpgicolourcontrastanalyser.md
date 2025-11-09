@@ -3,7 +3,7 @@ title: TGPi Colour Contrast Analyser
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 09/11/2025 11:30:24 AM
+last_modified_date: 09/11/2025 1:23:57 PM
 ---
 
 ## TGPi Colour Contrast Analyser
