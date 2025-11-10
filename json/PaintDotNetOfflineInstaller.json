@@ -1,52 +1,52 @@
 [
   {
-    "Version": "5.1.9",
+    "Version": "5.1.11",
     "Date": "13/11/2024",
-    "Size": 73726533,
-    "Sha256": "99e09db1aab4699a1bd0b32d2d6ccdb91a9f0b50fafdd70a720d99532b4cd04d",
+    "Size": 73900245,
+    "Sha256": "d634b0ef3bdefb0232a030292e52e1b547fd8e5bd12c29f95466c2ee58a8c37b",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.arm64.zip"
   },
   {
-    "Version": "5.1.9",
+    "Version": "5.1.11",
     "Date": "13/11/2024",
-    "Size": 90028431,
-    "Sha256": "e8663fd48a3e5ff17c4f9ab1d42d398ab9cd5d556ce6f8bf09aa675a2fca2056",
+    "Size": 89983993,
+    "Sha256": "e8ffbdb923a93713025ca1250dddd62d3fe51f71903ced3ec9a37849c13a1da3",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.winmsi.arm64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.winmsi.arm64.zip"
   },
   {
-    "Version": "5.1.9",
+    "Version": "5.1.11",
     "Date": "13/11/2024",
-    "Size": 84165506,
-    "Sha256": "959f4f55f4910863a0537c53b161f71fe4a8c4573b1b2d2c8f208c4f8b159565",
+    "Size": 84509743,
+    "Sha256": "504eeb6c05cdb92241952f166adeaa01fe78f46443b6e845060a7eae3ab3bc8e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.x64.zip"
   },
   {
-    "Version": "5.1.9",
+    "Version": "5.1.11",
     "Date": "13/11/2024",
-    "Size": 100215054,
-    "Sha256": "433b5fc4305e02c58c3af2eb1d25c8e501c02bb315a82fcc5fea23111aa88f72",
+    "Size": 100162377,
+    "Sha256": "414e84524b463dc958743759eaf947bd3a8bbeee7add385624137b81a28dc243",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.winmsi.x64.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.winmsi.x64.zip"
   },
   {
-    "Version": "5.1.9",
+    "Version": "5.1.11",
     "Date": "13/11/2024",
-    "Size": 636591,
-    "Sha256": "231e111ef6ff8f9b5ed1c5e00a45b62173882e830d4c3cefbf3b7be67fe33440",
+    "Size": 636514,
+    "Sha256": "d684a0d048a65c25ebda8522bcfcb0086c62cae4499230f36d0f2d4938be5b6e",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.anycpu.web.zip"
+    "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.anycpu.web.zip"
   }
 ]

@@ -162,9 +162,7 @@ json/JetBrainsTeamCity.json
 json/JetBrainsToolbox.json
 json/JetBrainsWebStorm.json
 json/JetBrainsYouTrack.json
-json/KDiff3.json
 json/KarakunOpenWebStart.json
-json/KeePass.json
 json/KeePassXCTeamKeePassXC.json
 json/KeeWeb.json
 json/KubernetesKubectl.json
@@ -195,6 +193,7 @@ json/MicrosoftEdgeWebView2Runtime.json
 json/MicrosoftFSLogixApps.json
 json/MicrosoftODBCDriverForSQLServer.json
 json/MicrosoftODBCDriverForSQLServer17.json
+json/MicrosoftOLEDBDriverForSQLServer.json
 json/MicrosoftOLEDBDriverForSQLServer18.json
 json/MicrosoftOneDrive.json
 json/MicrosoftOpenJDK11.json
@@ -267,6 +266,7 @@ json/PDFArranger.json
 json/PDFForgePDFCreator.json
 json/PSAppDeployToolkit.json
 json/PSFPython.json
+json/PaintDotNet.json
 json/PaintDotNetOfflineInstaller.json
 json/PaloAltoGlobalProtect.json
 json/Pandoc.json
@@ -284,7 +284,6 @@ json/Praat.json
 json/ProgressChefInSpec.json
 json/ProgressChefInfraClient.json
 json/ProgressChefWorkstation.json
-json/ProjectLibre.json
 json/Protege.json
 json/ProtonDrive.json
 json/ProtonVPN.json
@@ -301,7 +300,6 @@ json/ResponsivelyApp.json
 json/RingCentral.json
 json/RizonesoftNotepad3.json
 json/RustDeskClient.json
-json/SAGAGIS.json
 json/SUSERancherDesktop.json
 json/SafeExamBrowser.json
 json/SafingPortmaster.json
@@ -340,13 +338,11 @@ json/UnityEditor.json
 json/VMPlexWorkstation.json
 json/VMwareTools.json
 json/VSCodium.json
-json/VeraCrypt.json
 json/VercelHyper.json
 json/VideoLanVlcPlayer.json
 json/VisualCppRedistAIO.json
 json/Win32OpenSSH.json
 json/WinMerge.json
-json/WinSCP.json
 json/WindowsEnterpriseDefaults.json
 json/Wireshark.json
 json/WixToolset.json
@@ -361,7 +357,6 @@ json/dbeaver.json
 json/deviceTRUST.json
 json/dnGrep.json
 json/eduVPN.json
-json/gretl.json
 json/gsudo.json
 json/jq.json
 json/jrsoftwareInnoSetup.json
