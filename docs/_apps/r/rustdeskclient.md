@@ -3,7 +3,7 @@ title: RustDesk Client
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 10/11/2025 11:43:11 AM
+last_modified_date: 10/11/2025 1:25:48 PM
 ---
 
 ## RustDesk Client
