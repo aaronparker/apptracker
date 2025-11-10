@@ -3,7 +3,7 @@ title: dotPDN LLC Paint.NET Offline Installer
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 09/11/2025 1:23:57 PM
+last_modified_date: 10/11/2025 11:43:11 AM
 ---
 
 ## dotPDN LLC Paint.NET Offline Installer
@@ -14,10 +14,10 @@ Evergreen app: `PaintDotNetOfflineInstaller`. Found **5** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                              |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.1.9   | 13/11/2024 | 73726533  | 99e09db1aab4699a1bd0b32d2d6ccdb91a9f0b50fafdd70a720d99532b4cd04d | ARM64        | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.arm64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.arm64.zip)           |
-| 5.1.9   | 13/11/2024 | 90028431  | e8663fd48a3e5ff17c4f9ab1d42d398ab9cd5d556ce6f8bf09aa675a2fca2056 | ARM64        | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.winmsi.arm64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.winmsi.arm64.zip)             |
-| 5.1.9   | 13/11/2024 | 84165506  | 959f4f55f4910863a0537c53b161f71fe4a8c4573b1b2d2c8f208c4f8b159565 | x64          | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.x64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.x64.zip)               |
-| 5.1.9   | 13/11/2024 | 100215054 | 433b5fc4305e02c58c3af2eb1d25c8e501c02bb315a82fcc5fea23111aa88f72 | x64          | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.winmsi.x64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.winmsi.x64.zip)                 |
-| 5.1.9   | 13/11/2024 | 636591    | 231e111ef6ff8f9b5ed1c5e00a45b62173882e830d4c3cefbf3b7be67fe33440 | x86          | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.anycpu.web.zip](https://github.com/paintdotnet/release/releases/download/v5.1.9/paint.net.5.1.9.install.anycpu.web.zip) |
+| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                  |
+| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5.1.11  | 13/11/2024 | 73900245  | d634b0ef3bdefb0232a030292e52e1b547fd8e5bd12c29f95466c2ee58a8c37b | ARM64        | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.arm64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.arm64.zip)           |
+| 5.1.11  | 13/11/2024 | 89983993  | e8ffbdb923a93713025ca1250dddd62d3fe51f71903ced3ec9a37849c13a1da3 | ARM64        | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.winmsi.arm64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.winmsi.arm64.zip)             |
+| 5.1.11  | 13/11/2024 | 84509743  | 504eeb6c05cdb92241952f166adeaa01fe78f46443b6e845060a7eae3ab3bc8e | x64          | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.x64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.x64.zip)               |
+| 5.1.11  | 13/11/2024 | 100162377 | 414e84524b463dc958743759eaf947bd3a8bbeee7add385624137b81a28dc243 | x64          | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.winmsi.x64.zip](https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.winmsi.x64.zip)                 |
+| 5.1.11  | 13/11/2024 | 636514    | d684a0d048a65c25ebda8522bcfcb0086c62cae4499230f36d0f2d4938be5b6e | x86          | Default       | zip  | [https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.anycpu.web.zip](https://github.com/paintdotnet/release/releases/download/v5.1.11/paint.net.5.1.11.install.anycpu.web.zip) |

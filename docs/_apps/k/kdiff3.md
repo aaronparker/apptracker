@@ -3,7 +3,7 @@ title: KDiff3
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 09/11/2025 1:23:57 PM
+last_modified_date: 10/11/2025 11:43:11 AM
 ---
 
 ## KDiff3
@@ -12,7 +12,10 @@ last_modified_date: 09/11/2025 1:23:57 PM
 
 Evergreen app: `KDiff3`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version | Architecture | Type | Size     | Md5                              | FileName                        | URI                                                                                                                                                                                                                    |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
