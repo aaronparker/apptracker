@@ -3,7 +3,7 @@ title: ALM Toolkit
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 10/11/2025 1:25:48 PM
+last_modified_date: 11/11/2025 11:36:53 AM
 ---
 
 ## ALM Toolkit
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5.1.20  | 16/10/2025 | 288546816 | 26b6dbaf21eb168ec912eccf123bcb75b73e9bf38b25bec796f65a66715aea20 | x86          | Default       | msi  | [https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi](https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi) |
+| 5.1.20  | 16/10/2025 | 288559616 | 8f945cfd6aad45148cbe0ca64b988ef4b81e3ef113f2c9fce25e333795fdeb5f | x86          | Default       | msi  | [https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi](https://github.com/microsoft/Analysis-Services/releases/download/5.1.20/AlmToolkitSetup.msi) |

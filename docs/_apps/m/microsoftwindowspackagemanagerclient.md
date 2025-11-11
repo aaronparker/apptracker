@@ -3,7 +3,7 @@ title: Microsoft Windows Package Manager Client
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 10/11/2025 1:25:48 PM
+last_modified_date: 11/11/2025 11:36:53 AM
 ---
 
 ## Microsoft Windows Package Manager Client
