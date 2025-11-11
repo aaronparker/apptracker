@@ -3,7 +3,7 @@ title: JetBrains DataSpell
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 11/11/2025 11:36:53 AM
+last_modified_date: 11/11/2025 1:25:49 PM
 ---
 
 ## JetBrains DataSpell
