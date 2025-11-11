@@ -2,8 +2,8 @@
   {
     "Version": "5.1.20",
     "Date": "16/10/2025",
-    "Size": 288546816,
-    "Sha256": "26b6dbaf21eb168ec912eccf123bcb75b73e9bf38b25bec796f65a66715aea20",
+    "Size": 288559616,
+    "Sha256": "8f945cfd6aad45148cbe0ca64b988ef4b81e3ef113f2c9fce25e333795fdeb5f",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
