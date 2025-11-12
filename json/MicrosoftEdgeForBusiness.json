@@ -264,6 +264,50 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/65fdf225-8bfb-4491-9261-c3c6d8ea2aa4/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
+    "Version": "142.0.3595.76",
+    "Date": "2025-11-11T18:29:00",
+    "Channel": "Policy",
+    "Expiry": "2026-02-11T18:29:00",
+    "SHA256": "13A8812D67A25C288204A99777ABDF05099189F684133835866FA22A93AD2E8E",
+    "Size": 16.26,
+    "Architecture": "any",
+    "Type": "cab",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/34a01c1c-61f2-4203-be1a-4d7f3d2209f6/MicrosoftEdgePolicyTemplates.cab"
+  },
+  {
+    "Version": "142.0.3595.76",
+    "Date": "2025-11-11T17:46:00",
+    "Channel": "Stable",
+    "Expiry": "2026-11-11T17:26:00",
+    "SHA256": "402B249D72A7C8B3AA959F64FEB51CF592569BA1ABCF004AA5AA0D05A74BBED6",
+    "Size": 188.06,
+    "Architecture": "arm64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e7212ca-de4a-4429-8ee0-3a5ef783acf6/MicrosoftEdgeEnterpriseARM64.msi"
+  },
+  {
+    "Version": "142.0.3595.76",
+    "Date": "2025-11-11T18:07:00",
+    "Channel": "Stable",
+    "Expiry": "2026-11-11T17:23:00",
+    "SHA256": "B3C83444942A894970CCCFA7208DA163A8D0B1720804DA72F97A4E095EA9B0E1",
+    "Size": 183.27,
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4491b061-346d-4e2e-b02a-6baf19e90926/MicrosoftEdgeEnterpriseX64.msi"
+  },
+  {
+    "Version": "142.0.3595.76",
+    "Date": "2025-11-11T18:06:00",
+    "Channel": "Stable",
+    "Expiry": "2026-11-11T17:35:00",
+    "SHA256": "7AFBA43A2C1EC790EECB4291833668C8EC2F43B0A4964CDB6AC7EDD024709D97",
+    "Size": 163.03,
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/af1a96c7-7fea-4510-80f2-657311a20767/MicrosoftEdgeEnterpriseX86.msi"
+  },
+  {
     "Version": "142.0.3595.69",
     "Date": "2025-11-08T18:24:00",
     "Channel": "Policy",

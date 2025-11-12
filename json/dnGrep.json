@@ -1,42 +1,42 @@
 [
   {
-    "Version": "4.6.39.0",
-    "Date": "15/10/2025",
-    "Size": 78069760,
-    "Sha256": "ab38934090af5f3495de03852d3345b30f3bd5d38cf3a96eb5e26eedcb1dd968",
+    "Version": "4.6.52.0",
+    "Date": "11/11/2025",
+    "Size": 79699968,
+    "Sha256": "7175b3473bde9705e1832c3e269d9c00d1cc1fe37acc0ba5b589bc726d6d7761",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.39.0/dnGREP.4.6.39.x64.msi"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.52.0/dnGREP.4.6.52.x64.msi"
   },
   {
-    "Version": "4.6.39.0",
-    "Date": "15/10/2025",
-    "Size": 71761920,
-    "Sha256": "77e410430bd0128571e6d1f8f5efe2d55ae6bfa0855875374753d93578a9e76b",
+    "Version": "4.6.52.0",
+    "Date": "11/11/2025",
+    "Size": 73379840,
+    "Sha256": "05b0a31dcb2a8aa75786ff905d129d4f5c83d15fc371fdcea1fccd00e17eaf13",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.39.0/dnGREP.4.6.39.x86.msi"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.52.0/dnGREP.4.6.52.x86.msi"
   },
   {
-    "Version": "4.6.39.0",
-    "Date": "15/10/2025",
-    "Size": 78915510,
-    "Sha256": "cf1b91a1db38a178cf18d4608034d5b7d87d66f3eb39eae43a1a705121ad9d64",
+    "Version": "4.6.52.0",
+    "Date": "11/11/2025",
+    "Size": 80521255,
+    "Sha256": "4cd1a7db33bbfd35a76cb043beef6c90c44fb9a0bb9d2d6ed4542772536f6a85",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.39.0/dnGrep.4.6.39.0.x64.zip"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.52.0/dnGrep.4.6.52.0.x64.zip"
   },
   {
-    "Version": "4.6.39.0",
-    "Date": "15/10/2025",
-    "Size": 72352485,
-    "Sha256": "50dc9ed13b6519bfd23bbbbdd601c424299dc6ee79ab0d3b406533d0cd6559c0",
+    "Version": "4.6.52.0",
+    "Date": "11/11/2025",
+    "Size": 73954928,
+    "Sha256": "a64c39f6c9336a63e0157d77c4f645502ba61222c2d5f962c29283940f6ef1be",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.39.0/dnGrep.4.6.39.0.x86.zip"
+    "URI": "https://github.com/dnGrep/dnGrep/releases/download/v4.6.52.0/dnGrep.4.6.52.0.x86.zip"
   }
 ]
