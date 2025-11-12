@@ -3,7 +3,7 @@ title: Microsoft 365 Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 11/11/2025 1:25:49 PM
+last_modified_date: 12/11/2025 11:46:16 AM
 ---
 
 ## Microsoft 365 Apps
@@ -16,10 +16,10 @@ Last check: 🟢
 
 | Version          | ReleaseVersion | Channel           | Name                             | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | -------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
-| 16.0.19426.20024 | 2511           | CurrentPreview    | Current Channel (Preview)        | 11/04/2025 23:15:00 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.19328.20178 | 2510           | Current           | Current Channel                  | 11/04/2025 20:19:01 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.19127.20314 | 2508           | MonthlyEnterprise | Monthly Enterprise Channel       | 10/16/2025 23:24:47 | 12/09/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.18526.20634 | 2502           | SemiAnnual        | Semi-Annual Enterprise Channel   | 10/14/2025 13:45:18 | 09/08/2026 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.17932.20574 | 2409           | PerpetualVL2024   | Office 2024 Perpetual Enterprise | 10/14/2025 13:31:25 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.14334.20344 | 2108           | PerpetualVL2021   | Office 2021 Perpetual Enterprise | 10/14/2025 13:31:06 | 11/11/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.10417.20063 | 1808           | PerpetualVL2019   | Office 2019 Perpetual Enterprise | 10/14/2025 13:31:17 | 11/11/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.19426.20042 | 2511           | CurrentPreview    | Current Channel (Preview)        | 11/11/2025 14:40:45 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.19328.20190 | 2510           | Current           | Current Channel                  | 11/11/2025 14:18:05 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.19231.20246 | 2509           | MonthlyEnterprise | Monthly Enterprise Channel       | 11/11/2025 14:19:35 | 01/13/2026 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.18526.20660 | 2502           | SemiAnnual        | Semi-Annual Enterprise Channel   | 11/11/2025 14:18:09 | 09/08/2026 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.17932.20602 | 2409           | PerpetualVL2024   | Office 2024 Perpetual Enterprise | 11/11/2025 14:26:45 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.14334.20402 | 2108           | PerpetualVL2021   | Office 2021 Perpetual Enterprise | 11/11/2025 14:27:59 | 12/09/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
+| 16.0.10417.20068 | 1808           | PerpetualVL2019   | Office 2019 Perpetual Enterprise | 11/11/2025 14:28:43 | 12/09/2025 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
