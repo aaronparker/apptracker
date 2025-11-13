@@ -3,7 +3,7 @@ title: Microsoft Edge WebDriver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 12/11/2025 1:26:32 PM
+last_modified_date: 13/11/2025 11:32:19 AM
 ---
 
 ## Microsoft Edge WebDriver
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                            |
 | ------------- | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 143.0.3650.15 | Beta    | arm64        | [https://msedgedriver.microsoft.com/143.0.3650.15/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/143.0.3650.15/edgedriver_arm64.zip) |
-| 143.0.3650.15 | Beta    | x64          | [https://msedgedriver.microsoft.com/143.0.3650.15/edgedriver_win64.zip](https://msedgedriver.microsoft.com/143.0.3650.15/edgedriver_win64.zip) |
-| 143.0.3650.15 | Beta    | x86          | [https://msedgedriver.microsoft.com/143.0.3650.15/edgedriver_win32.zip](https://msedgedriver.microsoft.com/143.0.3650.15/edgedriver_win32.zip) |
+| 143.0.3650.19 | Beta    | arm64        | [https://msedgedriver.microsoft.com/143.0.3650.19/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/143.0.3650.19/edgedriver_arm64.zip) |
+| 143.0.3650.19 | Beta    | x64          | [https://msedgedriver.microsoft.com/143.0.3650.19/edgedriver_win64.zip](https://msedgedriver.microsoft.com/143.0.3650.19/edgedriver_win64.zip) |
+| 143.0.3650.19 | Beta    | x86          | [https://msedgedriver.microsoft.com/143.0.3650.19/edgedriver_win32.zip](https://msedgedriver.microsoft.com/143.0.3650.19/edgedriver_win32.zip) |
 | 143.0.3650.3  | Dev     | arm64        | [https://msedgedriver.microsoft.com/143.0.3650.3/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/143.0.3650.3/edgedriver_arm64.zip)   |
 | 143.0.3650.3  | Dev     | x64          | [https://msedgedriver.microsoft.com/143.0.3650.3/edgedriver_win64.zip](https://msedgedriver.microsoft.com/143.0.3650.3/edgedriver_win64.zip)   |
 | 143.0.3650.3  | Dev     | x86          | [https://msedgedriver.microsoft.com/143.0.3650.3/edgedriver_win32.zip](https://msedgedriver.microsoft.com/143.0.3650.3/edgedriver_win32.zip)   |

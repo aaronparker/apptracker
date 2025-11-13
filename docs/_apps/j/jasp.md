@@ -3,7 +3,7 @@ title: JASP
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 12/11/2025 1:26:32 PM
+last_modified_date: 13/11/2025 11:32:19 AM
 ---
 
 ## JASP

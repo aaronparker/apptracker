@@ -3,7 +3,7 @@ title: gretl
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 12/11/2025 1:26:32 PM
+last_modified_date: 13/11/2025 11:32:19 AM
 ---
 
 ## gretl
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | FileName              | URI                                                                                                                                                                                          |
 | ------- | ------------ | ---- | -------- | -------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025b   | ARM64        | exe  | 45856064 | 6371279b20f6c3bc459600707fc688cd | gretl-2025b-arm64.exe | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-arm64.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-arm64.exe?viasf=1) |
-| 2025b   | x64          | exe  | 46874160 | 69470be5bf32f9d6d61632d3de835b21 | gretl-2025b-64.exe    | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-64.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-64.exe?viasf=1)       |
-| 2025b   | x86          | exe  | 34914336 | 51bbcfe1729a55e3d2aa7d42ec865008 | gretl-2025b-32.exe    | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-32.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-32.exe?viasf=1)       |
+| 2025c   | ARM64        | exe  | 50018648 | f5645272d9f082dfdc342dd412b82a64 | gretl-2025c-arm64.exe | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-arm64.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-arm64.exe?viasf=1) |
+| 2025c   | x64          | exe  | 49007976 | 8b917d1b6268c0aa523af99c2e06ce0e | gretl-2025c-64.exe    | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-64.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-64.exe?viasf=1)       |
+| 2025c   | x86          | exe  | 37235744 | e9d14f32403ed257a912bf1e4c2049a5 | gretl-2025c-32.exe    | [https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-32.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-32.exe?viasf=1)       |
