@@ -1,8 +1,8 @@
 [
   {
-    "Version": "144.0.7524.0",
+    "Version": "144.0.7526.0",
     "Channel": "Canary",
-    "StartDate": "12/11/2025",
+    "StartDate": "13/11/2025",
     "Architecture": "x86",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/ChromeSetup.exe"
@@ -24,17 +24,17 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
-    "Version": "143.0.7499.17",
+    "Version": "143.0.7499.25",
     "Channel": "Beta",
-    "StartDate": "6/11/2025",
+    "StartDate": "12/11/2025",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
   },
   {
-    "Version": "143.0.7499.17",
+    "Version": "143.0.7499.25",
     "Channel": "Beta",
-    "StartDate": "6/11/2025",
+    "StartDate": "12/11/2025",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"

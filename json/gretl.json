@@ -1,29 +1,29 @@
 [
   {
-    "Version": "2025b",
+    "Version": "2025c",
     "Architecture": "ARM64",
     "Type": "exe",
-    "Size": "45856064",
-    "Md5": "6371279b20f6c3bc459600707fc688cd",
-    "FileName": "gretl-2025b-arm64.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-arm64.exe?viasf=1"
+    "Size": "50018648",
+    "Md5": "f5645272d9f082dfdc342dd412b82a64",
+    "FileName": "gretl-2025c-arm64.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-arm64.exe?viasf=1"
   },
   {
-    "Version": "2025b",
+    "Version": "2025c",
     "Architecture": "x64",
     "Type": "exe",
-    "Size": "46874160",
-    "Md5": "69470be5bf32f9d6d61632d3de835b21",
-    "FileName": "gretl-2025b-64.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-64.exe?viasf=1"
+    "Size": "49007976",
+    "Md5": "8b917d1b6268c0aa523af99c2e06ce0e",
+    "FileName": "gretl-2025c-64.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-64.exe?viasf=1"
   },
   {
-    "Version": "2025b",
+    "Version": "2025c",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "34914336",
-    "Md5": "51bbcfe1729a55e3d2aa7d42ec865008",
-    "FileName": "gretl-2025b-32.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025b/gretl-2025b-32.exe?viasf=1"
+    "Size": "37235744",
+    "Md5": "e9d14f32403ed257a912bf1e4c2049a5",
+    "FileName": "gretl-2025c-32.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/gretl/gretl/2025c/gretl-2025c-32.exe?viasf=1"
   }
 ]
