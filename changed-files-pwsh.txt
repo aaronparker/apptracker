@@ -257,11 +257,6 @@ json/OpenWebStart.json
 json/OperaAirBrowser.json
 json/OperaBrowser.json
 json/OperaGXBrowser.json
-json/OracleJava17.json
-json/OracleJava20.json
-json/OracleJava21.json
-json/OracleJava22.json
-json/OracleJava23.json
 json/OracleJava8.json
 json/OracleVirtualBox.json
 json/PDFArranger.json
@@ -345,7 +340,6 @@ json/VSCodium.json
 json/VeraCrypt.json
 json/VercelHyper.json
 json/VideoLanVlcPlayer.json
-json/VisualCppRedistAIO.json
 json/Win32OpenSSH.json
 json/WinMerge.json
 json/WinSCP.json
