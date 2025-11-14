@@ -3,7 +3,7 @@ title: Docker Desktop
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 13/11/2025 1:26:18 PM
+last_modified_date: 14/11/2025 11:36:16 AM
 ---
 
 ## Docker Desktop
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Build  | Size      | Type | URI                                                                                                                                                                    |
 | ------- | ------ | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.50.0  | 209931 | 588387760 | exe  | [https://desktop.docker.com/win/main/amd64/209931/Docker%20Desktop%20Installer.exe](https://desktop.docker.com/win/main/amd64/209931/Docker%20Desktop%20Installer.exe) |
-| 4.50.0  | 209931 | 588387760 | msi  | [https://desktop.docker.com/win/main/amd64/209931/DockerDesktop.msi](https://desktop.docker.com/win/main/amd64/209931/DockerDesktop.msi)                               |
+| 4.51.0  | 210443 | 598396336 | exe  | [https://desktop.docker.com/win/main/amd64/210443/Docker%20Desktop%20Installer.exe](https://desktop.docker.com/win/main/amd64/210443/Docker%20Desktop%20Installer.exe) |
+| 4.51.0  | 210443 | 598396336 | msi  | [https://desktop.docker.com/win/main/amd64/210443/DockerDesktop.msi](https://desktop.docker.com/win/main/amd64/210443/DockerDesktop.msi)                               |

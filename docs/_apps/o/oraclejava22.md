@@ -3,7 +3,7 @@ title: Oracle Java 22
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 13/11/2025 1:26:18 PM
+last_modified_date: 14/11/2025 11:36:16 AM
 ---
 
 ## Oracle Java 22
@@ -12,7 +12,10 @@ last_modified_date: 13/11/2025 1:26:18 PM
 
 Evergreen app: `OracleJava22`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version | FullVersion | Date      | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

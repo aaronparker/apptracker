@@ -3,7 +3,7 @@ title: Egnyte Desktop App
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 13/11/2025 1:26:18 PM
+last_modified_date: 14/11/2025 11:36:16 AM
 ---
 
 ## Egnyte Desktop App
