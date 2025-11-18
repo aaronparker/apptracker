@@ -1,13 +1,13 @@
 [
   {
-    "Version": "6.0.905.1",
+    "Version": "6.0.906.2",
     "Type": "Exe",
-    "URI": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-905-1.exe"
+    "URI": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-906-2.exe"
   },
   {
-    "Version": "6.0.905.1",
+    "Version": "6.0.906.2",
     "Type": "Msi",
-    "URI": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-905-1.msi"
+    "URI": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-906-2.msi"
   },
   {
     "Version": "5.2.905.1",

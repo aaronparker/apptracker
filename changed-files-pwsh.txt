@@ -115,7 +115,6 @@ json/GeekSoftwarePDF24Creator.json
 json/GeoGebraClassic.json
 json/Gephi.json
 json/GhislerTotalCommander.json
-json/Gimp.json
 json/GitExtensions.json
 json/GitForWindows.json
 json/GitHubAtom.json
@@ -285,7 +284,6 @@ json/ProjectLibre.json
 json/Protege.json
 json/ProtonDrive.json
 json/ProtonVPN.json
-json/Proxyman.json
 json/PuTTY.json
 json/Python.json
 json/QGIS.json
