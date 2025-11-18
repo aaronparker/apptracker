@@ -3,7 +3,7 @@ title: AWS CLI
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 18/11/2025 11:38:17 AM
+last_modified_date: 18/11/2025 1:26:00 PM
 ---
 
 ## AWS CLI
