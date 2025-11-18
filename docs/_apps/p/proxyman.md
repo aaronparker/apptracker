@@ -3,7 +3,7 @@ title: Proxyman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 17/11/2025 1:26:00 PM
+last_modified_date: 18/11/2025 11:38:17 AM
 ---
 
 ## Proxyman
@@ -12,7 +12,10 @@ last_modified_date: 17/11/2025 1:26:00 PM
 
 Evergreen app: `Proxyman`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version | Date       | Size      | Architecture | Type | URI                                                                                                                                                          |
 | ------- | ---------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -3,7 +3,7 @@ title: TeraTerm
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 17/11/2025 1:26:00 PM
+last_modified_date: 18/11/2025 11:38:17 AM
 ---
 
 ## TeraTerm
@@ -14,11 +14,11 @@ Evergreen app: `TeraTerm`. Found **6** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.5.0   | 16/9/2025 | 11042320 | b4e443c6f4936fa8a58276b784ab5c3c8f459f12d21da83be1ce501090ff8e34 | ARM64        | Default       | exe  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-arm64.exe](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-arm64.exe) |
-| 5.5.0   | 16/9/2025 | 11340160 | a34a110ab559df72d11cb51701dae1ebd32e4c3c8e7a4a868fc1b13f0a6b4c84 | x64          | Default       | exe  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x64.exe](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x64.exe)     |
-| 5.5.0   | 16/9/2025 | 11004416 | d722f67fa6f990e63c8cfd6f411c21b36364c5a9ba8a593f796b9153973f2c68 | x86          | Default       | exe  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x86.exe](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x86.exe)     |
-| 5.5.0   | 16/9/2025 | 14975350 | cb993ead5d50aa823feaa9485556f3d47ae07daafda4f95f50f324872277a200 | ARM64        | Default       | zip  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-arm64.zip](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-arm64.zip) |
-| 5.5.0   | 16/9/2025 | 15603824 | ab4cfe73de8f9162c09a2b6ce41da57d63c9a6a41d669baef6b60fd61f77d82a | x64          | Default       | zip  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x64.zip](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x64.zip)     |
-| 5.5.0   | 16/9/2025 | 14567611 | c354287e54e61c01014a1bfad7e936881af5c75c0e88571f6449592f6f84e5d0 | x86          | Default       | zip  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x86.zip](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.0/teraterm-5.5.0-x86.zip)     |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5.5.1   | 16/11/2025 | 11046024 | a558576648d4dbda6f1be24f676943df6e7fbbe2ce214ecc5f6f04889843f4eb | ARM64        | Default       | exe  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-arm64.exe](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-arm64.exe) |
+| 5.5.1   | 16/11/2025 | 11341248 | fe1f8170e22f4bb76c1a13c04e8c394d64b9c633683df2d006ace39ca7f97f57 | x64          | Default       | exe  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x64.exe](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x64.exe)     |
+| 5.5.1   | 16/11/2025 | 10999136 | 992150df0899ae5d3517523f485aee15baedc45fc0388101b8608623a098971d | x86          | Default       | exe  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x86.exe](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x86.exe)     |
+| 5.5.1   | 16/11/2025 | 14978094 | c2377a652ed47dbbb7d43c06681e40410bcc9e22e6f31071eaf0e75d03d0c591 | ARM64        | Default       | zip  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-arm64.zip](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-arm64.zip) |
+| 5.5.1   | 16/11/2025 | 15606060 | c838cff60f9ec49e7036a35296b01a7038c6d491f16ed103f1f0ddd8c9cbbc3b | x64          | Default       | zip  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x64.zip](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x64.zip)     |
+| 5.5.1   | 16/11/2025 | 14569425 | 87e3babe4f48b58d42248fbf7edbd83d585c38a29fe81c5210dfa71b77f4bd52 | x86          | Default       | zip  | [https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x86.zip](https://github.com/TeraTermProject/teraterm/releases/download/v5.5.1/teraterm-5.5.1-x86.zip)     |
