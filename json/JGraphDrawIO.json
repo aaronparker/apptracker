@@ -1,52 +1,52 @@
 [
   {
-    "Version": "28.2.8",
-    "Date": "23/10/2025",
-    "Size": 130810248,
-    "Sha256": "78f4b234a0c67b8cb211a42ebe845d398fa398051519838d601ec29a7aace55d",
+    "Version": "29.0.3",
+    "Date": "17/11/2025",
+    "Size": 127570152,
+    "Sha256": "873f28c7715054f0f15e03a0abc2ef5f1fe87e67080c46be541a19da2e1650dd",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v28.2.8/draw.io-arm64-28.2.8-windows-arm64-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v29.0.3/draw.io-arm64-29.0.3-windows-arm64-installer.exe"
   },
   {
-    "Version": "28.2.8",
-    "Date": "23/10/2025",
-    "Size": 130594136,
-    "Sha256": "3165e45cb2a2c8284f758100be8f66ddfb489ed93617c380bfb4de69e37d92b6",
+    "Version": "29.0.3",
+    "Date": "17/11/2025",
+    "Size": 127354032,
+    "Sha256": "c902c9d8630f155d6603089899c97cc7fcd9fb9464992569f8d38e9d815bc0e9",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v28.2.8/draw.io-arm64-28.2.8-windows-arm64-no-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v29.0.3/draw.io-arm64-29.0.3-windows-arm64-no-installer.exe"
   },
   {
-    "Version": "28.2.8",
-    "Date": "23/10/2025",
-    "Size": 128676024,
-    "Sha256": "c80f9c03d7afb818432eb06055049bf0e7d49bc54d8629912c663b6a4dd6217a",
+    "Version": "29.0.3",
+    "Date": "17/11/2025",
+    "Size": 125429104,
+    "Sha256": "d013b6c54955243781328cc99c2eed4316d4f7ecdc73b45191060930121830a5",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v28.2.8/draw.io-28.2.8-windows-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v29.0.3/draw.io-29.0.3-windows-installer.exe"
   },
   {
-    "Version": "28.2.8",
-    "Date": "23/10/2025",
-    "Size": 116013784,
-    "Sha256": "a905b5b478ed4f93282cb88d27fdf7e4eff7824a3de2d5cb414a112454e17cfe",
+    "Version": "29.0.3",
+    "Date": "17/11/2025",
+    "Size": 112700992,
+    "Sha256": "d0b073fe21ff4fe646fc4dc9d5f90a5a4b273f4c2b8ebb9dc86ef46deecc547a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v28.2.8/draw.io-ia32-28.2.8-windows-32bit-installer.exe"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v29.0.3/draw.io-ia32-29.0.3-windows-32bit-installer.exe"
   },
   {
-    "Version": "28.2.8",
-    "Date": "23/10/2025",
-    "Size": 140136448,
-    "Sha256": "e72f0c4d7cc6f051799e44cbe796e4a59c94daf1a0832312018333ba95e67d4f",
+    "Version": "29.0.3",
+    "Date": "17/11/2025",
+    "Size": 137510912,
+    "Sha256": "9b5479421bc5cb6e7796a75bb38c0bfb5f1734ae7df6e6ae90f189663bd497e0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v28.2.8/draw.io-28.2.8.msi"
+    "URI": "https://github.com/jgraph/drawio-desktop/releases/download/v29.0.3/draw.io-29.0.3.msi"
   }
 ]

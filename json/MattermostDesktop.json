@@ -1,20 +1,20 @@
 [
   {
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Type": "exe",
     "Architecture": "x86",
-    "URI": "https://releases.mattermost.com/desktop/6.0.0/mattermost-desktop-setup-6.0.0-win.exe"
+    "URI": "https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-setup-6.0.1-win.exe"
   },
   {
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://releases.mattermost.com/desktop/6.0.0/mattermost-desktop-6.0.0-win-x64.msi"
+    "URI": "https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-6.0.1-win-x64.msi"
   },
   {
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://releases.mattermost.com/desktop/6.0.0/mattermost-desktop-6.0.0-win-x86.msi"
+    "URI": "https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-6.0.1-win-x86.msi"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "Version": "2.2",
+    "Version": "2.2.1",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://edge.elgato.com/egc/windows/echw/2.2.0/CameraHub_2.2.0.6839_x64.msi"
+    "URI": "https://edge.elgato.com/egc/windows/echw/2.2.1/CameraHub_2.2.1.6945_x64.msi"
   }
 ]

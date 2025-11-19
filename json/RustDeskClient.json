@@ -1,32 +1,32 @@
 [
   {
-    "Version": "1.4.3",
-    "Date": "17/10/2025",
-    "Size": 23369352,
-    "Sha256": "f7be49bb7c59aa2ed81cfe4c54b86b1cf532a734181b8810bdf79c5dda965b71",
+    "Version": "1.4.4",
+    "Date": "19/11/2025",
+    "Size": 24147080,
+    "Sha256": "2ed35b0465fc3de72b0757e84daac278619edc30e651e6257073dceae5085332",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86_64.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.exe"
   },
   {
-    "Version": "1.4.3",
-    "Date": "17/10/2025",
-    "Size": 11274888,
-    "Sha256": "b3da55c58bb0846963bb0000c70c5347c6ac8a4bfc0b566c7b2b4b2ae79b6045",
+    "Version": "1.4.4",
+    "Date": "19/11/2025",
+    "Size": 11719304,
+    "Sha256": "fa602089fe86db2021ac226eafa13fbcbd71767851010483345977f62db90f0f",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86-sciter.exe"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86-sciter.exe"
   },
   {
-    "Version": "1.4.3",
-    "Date": "17/10/2025",
-    "Size": 23674880,
-    "Sha256": "452fee8b85100f41b916e8ac29d30e255d149738c20413e34ee21bb0cfa36a32",
+    "Version": "1.4.4",
+    "Date": "19/11/2025",
+    "Size": 24481792,
+    "Sha256": "b1dd7bb56bdb82150ff2d4713ce11de3d017ddbc20f7825595d14f954135ad82",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86_64.msi"
+    "URI": "https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.msi"
   }
 ]

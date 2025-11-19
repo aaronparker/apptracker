@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.0.1",
-    "Build": "3.0.1.59888",
+    "Version": "3.1",
+    "Build": "3.1.0.62320",
     "Edition": "Toolbox App",
-    "Sha256": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.0.1.59888.exe.sha256",
-    "Date": "27/10/2025",
-    "Size": 130518928,
+    "Sha256": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.0.62320.exe.sha256",
+    "Date": "19/11/2025",
+    "Size": 131152272,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.0.1.59888.exe"
+    "URI": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.0.62320.exe"
   }
 ]

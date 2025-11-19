@@ -284,6 +284,7 @@ json/ProjectLibre.json
 json/Protege.json
 json/ProtonDrive.json
 json/ProtonVPN.json
+json/Proxyman.json
 json/PuTTY.json
 json/Python.json
 json/QGIS.json
