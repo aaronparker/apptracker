@@ -3,7 +3,7 @@ title: RustDesk Client
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 18/11/2025 1:26:01 PM
+last_modified_date: 19/11/2025 11:36:32 AM
 ---
 
 ## RustDesk Client
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                      |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.4.3   | 17/10/2025 | 23369352 | f7be49bb7c59aa2ed81cfe4c54b86b1cf532a734181b8810bdf79c5dda965b71 | x64          | Default       | exe  | [https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86_64.exe](https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86_64.exe)         |
-| 1.4.3   | 17/10/2025 | 11274888 | b3da55c58bb0846963bb0000c70c5347c6ac8a4bfc0b566c7b2b4b2ae79b6045 | x86          | Default       | exe  | [https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86-sciter.exe](https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86-sciter.exe) |
-| 1.4.3   | 17/10/2025 | 23674880 | 452fee8b85100f41b916e8ac29d30e255d149738c20413e34ee21bb0cfa36a32 | x64          | Default       | msi  | [https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86_64.msi](https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-x86_64.msi)         |
+| 1.4.4   | 19/11/2025 | 24147080 | 2ed35b0465fc3de72b0757e84daac278619edc30e651e6257073dceae5085332 | x64          | Default       | exe  | [https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.exe](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.exe)         |
+| 1.4.4   | 19/11/2025 | 11719304 | fa602089fe86db2021ac226eafa13fbcbd71767851010483345977f62db90f0f | x86          | Default       | exe  | [https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86-sciter.exe](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86-sciter.exe) |
+| 1.4.4   | 19/11/2025 | 24481792 | b1dd7bb56bdb82150ff2d4713ce11de3d017ddbc20f7825595d14f954135ad82 | x64          | Default       | msi  | [https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.msi](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.msi)         |

@@ -3,7 +3,7 @@ title: Hashicorp Packer
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: 18/11/2025 1:26:01 PM
+last_modified_date: 19/11/2025 11:36:32 AM
 ---
 
 ## Hashicorp Packer
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                          |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.14.2  | zip  | x64          | [https://releases.hashicorp.com/packer/1.14.2/packer_1.14.2_windows_amd64.zip](https://releases.hashicorp.com/packer/1.14.2/packer_1.14.2_windows_amd64.zip) |
-| 1.14.2  | zip  | x86          | [https://releases.hashicorp.com/packer/1.14.2/packer_1.14.2_windows_386.zip](https://releases.hashicorp.com/packer/1.14.2/packer_1.14.2_windows_386.zip)     |
+| 1.14.3  | zip  | x64          | [https://releases.hashicorp.com/packer/1.14.3/packer_1.14.3_windows_amd64.zip](https://releases.hashicorp.com/packer/1.14.3/packer_1.14.3_windows_amd64.zip) |
+| 1.14.3  | zip  | x86          | [https://releases.hashicorp.com/packer/1.14.3/packer_1.14.3_windows_386.zip](https://releases.hashicorp.com/packer/1.14.3/packer_1.14.3_windows_386.zip)     |

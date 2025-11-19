@@ -3,7 +3,7 @@ title: Figma Desktop
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 18/11/2025 1:26:01 PM
+last_modified_date: 19/11/2025 11:36:32 AM
 ---
 
 ## Figma Desktop
