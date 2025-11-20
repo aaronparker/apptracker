@@ -3,7 +3,7 @@ title: Freedom Scientific JAWS
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 20/11/2025 11:34:33 AM
+last_modified_date: 20/11/2025 1:25:30 PM
 ---
 
 ## Freedom Scientific JAWS
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version       | Date      | Architecture | URI                                                                                                                                                                                                                                                                      |
 | ------------- | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2026.2510.195 | 1/10/2025 | ARM64        | [https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-arm64.exe](https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-arm64.exe) |
-| 2026.2510.195 | 1/10/2025 | x64          | [https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-x64.exe](https://software.vfo.digital/JAWS/2026/2026.2510.195.400/07B45BB0-B265-454F-BC1A-BA5326162E4B/J2026.2510.195.400-Offline-x64.exe)     |
+| 2026.2510.251 | 1/11/2025 | ARM64        | [https://software.vfo.digital/JAWS/2026/2026.2510.251.400/CCC120FD-B887-4FBB-AFFC-52B6358F0FAC/J2026.2510.251.400-Offline-arm64.exe](https://software.vfo.digital/JAWS/2026/2026.2510.251.400/CCC120FD-B887-4FBB-AFFC-52B6358F0FAC/J2026.2510.251.400-Offline-arm64.exe) |
+| 2026.2510.251 | 1/11/2025 | x64          | [https://software.vfo.digital/JAWS/2026/2026.2510.251.400/CCC120FD-B887-4FBB-AFFC-52B6358F0FAC/J2026.2510.251.400-Offline-x64.exe](https://software.vfo.digital/JAWS/2026/2026.2510.251.400/CCC120FD-B887-4FBB-AFFC-52B6358F0FAC/J2026.2510.251.400-Offline-x64.exe)     |
