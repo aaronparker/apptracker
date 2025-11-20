@@ -1,1 +1,2 @@
-No files changed
+json/FreedomScientificFusion.json
+json/FreedomScientificJAWS.json
