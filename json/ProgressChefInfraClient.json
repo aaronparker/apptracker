@@ -37,7 +37,7 @@
     "Channel": "current",
     "Platform": "2022",
     "Sha256": "1f9ff94395f1a3c659451f44076799a7b84f55ac75f70536de953627be1c336e",
-    "URI": "https://packages.chef.io/files/current/chef/18.8.57/windows/2019/chef-client-18.8.57-1-x64.msi"
+    "URI": "https://packages.chef.io/files/current/chef/18.8.57/windows/2022/chef-client-18.8.57-1-x64.msi"
   },
   {
     "Version": "18.8.54",

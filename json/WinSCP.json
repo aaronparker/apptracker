@@ -1,20 +1,20 @@
 [
   {
-    "Version": "6.5.4",
+    "Version": "6.5.5",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "12244608",
-    "Md5": "c9178b63d0eccc6e4ef93053d8ebf632",
-    "FileName": "WinSCP-6.5.4-Setup.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5.4/WinSCP-6.5.4-Setup.exe?viasf=1"
+    "Size": "12254760",
+    "Md5": "9db5e4bb43f1ee5481ef1f9fc437961a",
+    "FileName": "WinSCP-6.5.5-Setup.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5.5/WinSCP-6.5.5-Setup.exe?viasf=1"
   },
   {
-    "Version": "6.5.4",
+    "Version": "6.5.5",
     "Architecture": "x86",
     "Type": "msi",
-    "Size": "30486528",
-    "Md5": "32cb5d191a392cb8a567b649f5a420f2",
-    "FileName": "WinSCP-6.5.4.msi",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5.4/WinSCP-6.5.4.msi?viasf=1"
+    "Size": "30490624",
+    "Md5": "681962eaa4b19ac4d825ff1d51430e32",
+    "FileName": "WinSCP-6.5.5.msi",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/winscp/WinSCP/6.5.5/WinSCP-6.5.5.msi?viasf=1"
   }
 ]
