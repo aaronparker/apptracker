@@ -3,7 +3,7 @@ title: Hashicorp Vault
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: 19/11/2025 1:25:52 PM
+last_modified_date: 20/11/2025 11:34:33 AM
 ---
 
 ## Hashicorp Vault
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                      |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.21.0  | zip  | x64          | [https://releases.hashicorp.com/vault/1.21.0/vault_1.21.0_windows_amd64.zip](https://releases.hashicorp.com/vault/1.21.0/vault_1.21.0_windows_amd64.zip) |
-| 1.21.0  | zip  | x86          | [https://releases.hashicorp.com/vault/1.21.0/vault_1.21.0_windows_386.zip](https://releases.hashicorp.com/vault/1.21.0/vault_1.21.0_windows_386.zip)     |
+| 1.21.1  | zip  | x64          | [https://releases.hashicorp.com/vault/1.21.1/vault_1.21.1_windows_amd64.zip](https://releases.hashicorp.com/vault/1.21.1/vault_1.21.1_windows_amd64.zip) |
+| 1.21.1  | zip  | x86          | [https://releases.hashicorp.com/vault/1.21.1/vault_1.21.1_windows_386.zip](https://releases.hashicorp.com/vault/1.21.1/vault_1.21.1_windows_386.zip)     |

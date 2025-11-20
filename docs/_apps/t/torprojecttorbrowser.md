@@ -3,7 +3,7 @@ title: Tor Project Tor Browser
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 19/11/2025 1:25:52 PM
+last_modified_date: 20/11/2025 11:34:33 AM
 ---
 
 ## Tor Project Tor Browser
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | Language | URI                                                                                                                                                                                          |
 | ------- | ------------ | ---- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 15.0.1  | x64          | exe  | ALL      | [https://dist.torproject.org/torbrowser/15.0.1/tor-browser-windows-x86_64-portable-15.0.1.exe](https://dist.torproject.org/torbrowser/15.0.1/tor-browser-windows-x86_64-portable-15.0.1.exe) |
-| 15.0.1  | x86          | exe  | ALL      | [https://dist.torproject.org/torbrowser/15.0.1/tor-browser-windows-i686-portable-15.0.1.exe](https://dist.torproject.org/torbrowser/15.0.1/tor-browser-windows-i686-portable-15.0.1.exe)     |
+| 15.0.2  | x64          | exe  | ALL      | [https://dist.torproject.org/torbrowser/15.0.2/tor-browser-windows-x86_64-portable-15.0.2.exe](https://dist.torproject.org/torbrowser/15.0.2/tor-browser-windows-x86_64-portable-15.0.2.exe) |
+| 15.0.2  | x86          | exe  | ALL      | [https://dist.torproject.org/torbrowser/15.0.2/tor-browser-windows-i686-portable-15.0.2.exe](https://dist.torproject.org/torbrowser/15.0.2/tor-browser-windows-i686-portable-15.0.2.exe)     |
