@@ -3,7 +3,7 @@ title: JAM Software TreeSize Free
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 20/11/2025 1:25:30 PM
+last_modified_date: 21/11/2025 11:37:00 AM
 ---
 
 ## JAM Software TreeSize Free
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.80    | [https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe](https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe) |
+| 4.81    | [https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe](https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe) |

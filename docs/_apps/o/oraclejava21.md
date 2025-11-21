@@ -3,7 +3,7 @@ title: Oracle Java 21
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 20/11/2025 1:25:30 PM
+last_modified_date: 21/11/2025 11:37:00 AM
 ---
 
 ## Oracle Java 21
@@ -12,7 +12,10 @@ last_modified_date: 20/11/2025 1:25:30 PM
 
 Evergreen app: `OracleJava21`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version | FullVersion | Date       | Sha256                                                           | Type | URI                                                                                                                                            |
 | ------- | ----------- | ---------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
