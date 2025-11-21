@@ -3,7 +3,7 @@ title: XnSoft XnView MP
 layout: default
 nav_order: 2
 parent: X
-last_modified_date: 21/11/2025 11:37:00 AM
+last_modified_date: 21/11/2025 1:24:47 PM
 ---
 
 ## XnSoft XnView MP
