@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 21/11/2025 1:24:47 PM
+last_modified_date: 22/11/2025 11:34:10 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Multimedia Redirection Extensions
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWvdMultimediaRedirection`. Found **1** installer.
 
 Last check: 🟢
 
-| Version        | Date                             | Architecture | URI                                                                                                                                                                                          |
-| -------------- | -------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0.2507.21006 | Tuesday, 22 July 2025 8:00:25 pm | x64          | [https://intstreamreleases.z22.web.core.windows.net/MsMMRHostInstaller_1.0.2507.21006_x64.msi](https://intstreamreleases.z22.web.core.windows.net/MsMMRHostInstaller_1.0.2507.21006_x64.msi) |
+| Version        | Date                                | Architecture | URI                                                                                                                                                                                          |
+| -------------- | ----------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0.2510.09001 | Thursday, 9 October 2025 8:25:05 pm | x64          | [https://intstreamreleases.z22.web.core.windows.net/MsMMRHostInstaller_1.0.2510.09001_x64.msi](https://intstreamreleases.z22.web.core.windows.net/MsMMRHostInstaller_1.0.2510.09001_x64.msi) |

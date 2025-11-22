@@ -3,7 +3,7 @@ title: GIMP
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 21/11/2025 1:24:47 PM
+last_modified_date: 22/11/2025 11:34:10 AM
 ---
 
 ## GIMP
@@ -12,7 +12,10 @@ last_modified_date: 21/11/2025 1:24:47 PM
 
 Evergreen app: `Gimp`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot convert value "3.2.0-RC1" to type "System.Version". Error: "The input string '0-RC1' was not in a correct format."
+```
 
 | Version | Revision | Date      | Channel     | Sha256                                                           | URI                                                                                                                                                  |
 | ------- | -------- | --------- | ----------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

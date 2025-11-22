@@ -3,7 +3,7 @@ title: JetBrains WebStorm
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 21/11/2025 1:24:47 PM
+last_modified_date: 22/11/2025 11:34:10 AM
 ---
 
 ## JetBrains WebStorm
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsWebStorm`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build        | Edition  | Sha256                                                               | Date       | Size       | Type | URI                                                                                                                            |
-| -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.2.4 | 252.27397.92 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2025.2.4.exe.sha256 | 24/10/2025 | 1001026144 | exe  | [https://download.jetbrains.com/webstorm/WebStorm-2025.2.4.exe](https://download.jetbrains.com/webstorm/WebStorm-2025.2.4.exe) |
+| Version  | Build        | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                                                                                            |
+| -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.2.5 | 252.28238.10 | WebStorm | https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.exe.sha256 | 21/11/2025 | 995479224 | exe  | [https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.exe](https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.exe) |
