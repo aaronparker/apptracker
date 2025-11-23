@@ -200,6 +200,7 @@ json/MicrosoftOneDrive.json
 json/MicrosoftOpenJDK11.json
 json/MicrosoftOpenJDK17.json
 json/MicrosoftOpenJDK21.json
+json/MicrosoftOpenJDK25.json
 json/MicrosoftOutlook.json
 json/MicrosoftPowerShell.json
 json/MicrosoftPowerToys.json
@@ -364,4 +365,3 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
-json/MicrosoftOpenJDK25.json

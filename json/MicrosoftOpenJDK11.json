@@ -4,6 +4,22 @@
     "Date": "2025-11-11T11:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/9aa396ca-3285-433a-8ff9-2bda2b3bd3a3/168e0823076bd0129270a2761bb96838/microsoft-jdk-11.0.29-windows-aarch64.exe"
+  },
+  {
+    "Version": "11.0.29+7",
+    "Date": "2025-11-11T11:00:00Z",
+    "ImageType": "jdk",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/9aa396ca-3285-433a-8ff9-2bda2b3bd3a3/ef3e8a5f5efd7f450e46c6f7df5d20d8/microsoft-jdk-11.0.29-windows-x64.exe"
+  },
+  {
+    "Version": "11.0.29+7",
+    "Date": "2025-11-11T11:00:00Z",
+    "ImageType": "jdk",
+    "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://download.visualstudio.microsoft.com/download/pr/c112074a-2379-4292-9ad3-fdaf24f6cf5e/5dfdd2781e1f43246a84cdc377efaea7/microsoft-jdk-11.0.29-windows-aarch64.msi"
   },

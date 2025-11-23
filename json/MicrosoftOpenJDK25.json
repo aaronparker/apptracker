@@ -1,5 +1,13 @@
 [
   {
+    "Version": "25.0.1+8",
+    "Date": "2025-11-11T11:00:00Z",
+    "ImageType": "jdk",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/d9a3b923-40d0-4002-8865-1cbc8f5c8ce7/89ca0545f8e4b65ada786f0cd7478d85/microsoft-jdk-25.0.1-windows-x64.exe"
+  },
+  {
     "Version": "25+36",
     "Date": "2025-10-13T13:00:00Z",
     "ImageType": "jdk",
