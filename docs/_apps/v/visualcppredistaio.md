@@ -3,7 +3,7 @@ title: VisualCppRedistAIO
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: 23/11/2025 11:35:11 AM
+last_modified_date: 23/11/2025 1:23:41 PM
 ---
 
 ## VisualCppRedistAIO
@@ -12,10 +12,7 @@ last_modified_date: 23/11/2025 11:35:11 AM
 
 Evergreen app: `VisualCppRedistAIO`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

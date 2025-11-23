@@ -3,7 +3,7 @@ title: Git Extensions
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 23/11/2025 11:35:11 AM
+last_modified_date: 23/11/2025 1:23:41 PM
 ---
 
 ## Git Extensions

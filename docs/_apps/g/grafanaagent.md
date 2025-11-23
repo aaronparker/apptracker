@@ -3,7 +3,7 @@ title: Grafana Agent
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 23/11/2025 11:35:11 AM
+last_modified_date: 23/11/2025 1:23:41 PM
 ---
 
 ## Grafana Agent
@@ -12,10 +12,7 @@ last_modified_date: 23/11/2025 11:35:11 AM
 
 Evergreen app: `GrafanaAgent`. Found **7** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Date      | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
 | ------- | --------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
