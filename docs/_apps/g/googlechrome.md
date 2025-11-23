@@ -3,7 +3,7 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 22/11/2025 1:23:35 PM
+last_modified_date: 23/11/2025 11:35:11 AM
 ---
 
 ## Google Chrome Enterprise
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version        | Channel  | StartDate  | Architecture | Type | URI                                                                                                                                                                                |
 | -------------- | -------- | ---------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 144.0.7539.0   | Canary   | 22/11/2025 | x86          | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
-| 144.0.7534.3   | Dev      | 21/11/2025 | x64          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)     |
-| 144.0.7534.3   | Dev      | 21/11/2025 | x86          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)         |
+| 144.0.7541.0   | Canary   | 23/11/2025 | x86          | exe  | [https://dl.google.com/update2/installers/ChromeSetup.exe](https://dl.google.com/update2/installers/ChromeSetup.exe)                                                               |
+| 144.0.7534.3   | Dev      | 23/11/2025 | x64          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)     |
+| 144.0.7534.3   | Dev      | 23/11/2025 | x86          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)         |
 | 143.0.7499.40  | Stable   | 20/11/2025 | ARM64        | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_Arm64.msi)           |
 | 143.0.7499.40  | Beta     | 20/11/2025 | x64          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi) |
 | 143.0.7499.40  | Stable   | 20/11/2025 | x64          | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi)                   |
