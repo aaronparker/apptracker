@@ -1,32 +1,32 @@
 [
   {
-    "Version": "0.10.7",
-    "Date": "9/11/2025",
+    "Version": "0.10.8",
+    "Date": "23/11/2025",
     "Size": 49831936,
-    "Sha256": "48a55fddaddc371a465582d389103b87b8801d6f6893a328224772978317bdca",
+    "Sha256": "d98a46e06078c3542018fabea877e3de28dfa8818a00e482552809f18e3231fa",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.10.7/NSCP-0.10.7-x64.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.10.8/NSCP-0.10.8-x64.msi"
   },
   {
-    "Version": "0.10.7",
-    "Date": "9/11/2025",
+    "Version": "0.10.8",
+    "Date": "23/11/2025",
     "Size": 39682048,
-    "Sha256": "2b5a7f9129cc2bb365c274fd6e57988617e67e2ac6a241c93587b8cecdc1f23a",
+    "Sha256": "23c9df7c60fb559704b906ec633e6156488bbf802fd96fac2cfd3c762b9e0f39",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.10.7/NSCP-0.10.7-Win32.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.10.8/NSCP-0.10.8-Win32.msi"
   },
   {
-    "Version": "0.10.7",
-    "Date": "9/11/2025",
+    "Version": "0.10.8",
+    "Date": "23/11/2025",
     "Size": 61898752,
-    "Sha256": "c5b7805e5d35416ad9f4f4610229303450027da86786bedda0e74703480e5fb8",
+    "Sha256": "fdfa57c7026c3ed5da574dff2e5ccc5862b8be4001e203e27eb372db26539118",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.10.7/NSCP-0.10.7-Win32-legacy-xp.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.10.8/NSCP-0.10.8-Win32-legacy-xp.msi"
   }
 ]

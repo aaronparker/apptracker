@@ -247,6 +247,7 @@ json/OBSStudio.json
 json/OBSStudioAlt.json
 json/OCSInventoryWindowsAgent.json
 json/Obsidian.json
+json/OctopusDeployServer.json
 json/OctopusTentacle.json
 json/OmnissaHorizonClient.json
 json/OnlyOfficeDesktopEditors.json
@@ -350,7 +351,6 @@ json/XnSoftXnViewMP.json
 json/YubicoAuthenticator.json
 json/Zoom.json
 json/ZoomVDI.json
-json/ZorgmailVeiligVerzendenAddin.json
 json/Zotero.json
 json/dbeaver.json
 json/deviceTRUST.json
