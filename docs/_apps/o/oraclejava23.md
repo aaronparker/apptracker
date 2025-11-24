@@ -3,7 +3,7 @@ title: Oracle Java 23
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 24/11/2025 11:38:01 AM
+last_modified_date: 24/11/2025 1:26:43 PM
 ---
 
 ## Oracle Java 23
@@ -12,10 +12,7 @@ last_modified_date: 24/11/2025 11:38:01 AM
 
 Evergreen app: `OracleJava23`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version | FullVersion | Date      | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
