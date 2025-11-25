@@ -351,6 +351,7 @@ json/XnSoftXnViewMP.json
 json/YubicoAuthenticator.json
 json/Zoom.json
 json/ZoomVDI.json
+json/ZorgmailVeiligVerzendenAddin.json
 json/Zotero.json
 json/dbeaver.json
 json/deviceTRUST.json
