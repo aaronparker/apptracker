@@ -3,7 +3,7 @@ title: ControlUp Monitor Server
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 24/11/2025 1:26:43 PM
+last_modified_date: 25/11/2025 11:34:13 AM
 ---
 
 ## ControlUp Monitor Server
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | URI                                                                                                                                              |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.1.5.406 | [https://downloads.controlup.com/monitor/9.1.5.406/ControlUpMonitor.zip](https://downloads.controlup.com/monitor/9.1.5.406/ControlUpMonitor.zip) |
+| 9.1.5.426 | [https://downloads.controlup.com/monitor/9.1.5.426/ControlUpMonitor.zip](https://downloads.controlup.com/monitor/9.1.5.426/ControlUpMonitor.zip) |
