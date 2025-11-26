@@ -3,7 +3,7 @@ title: iterate GmbH Cyberduck
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 25/11/2025 1:26:38 PM
+last_modified_date: 26/11/2025 11:34:05 AM
 ---
 
 ## iterate GmbH Cyberduck
@@ -14,6 +14,6 @@ Evergreen app: `Cyberduck`. Found **1** installer.
 
 Last check: 🟢
 
-| Version     | Date      | Channel | URI                                                                                                                                |
-| ----------- | --------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 9.2.4.43667 | 15/9/2025 | Release | [https://update.cyberduck.io/Cyberduck-Installer-9.2.4.43667.exe](https://update.cyberduck.io/Cyberduck-Installer-9.2.4.43667.exe) |
+| Version     | Date       | Channel | URI                                                                                                                                |
+| ----------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 9.3.0.44071 | 25/11/2025 | Release | [https://update.cyberduck.io/Cyberduck-Installer-9.3.0.44071.exe](https://update.cyberduck.io/Cyberduck-Installer-9.3.0.44071.exe) |
