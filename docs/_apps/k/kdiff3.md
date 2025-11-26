@@ -3,7 +3,7 @@ title: KDiff3
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 26/11/2025 11:34:05 AM
+last_modified_date: 26/11/2025 1:27:27 PM
 ---
 
 ## KDiff3
