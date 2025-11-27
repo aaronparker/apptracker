@@ -3,7 +3,7 @@ title: Oracle Java 17
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 27/11/2025 11:38:39 AM
+last_modified_date: 27/11/2025 1:25:53 PM
 ---
 
 ## Oracle Java 17
@@ -12,10 +12,7 @@ last_modified_date: 27/11/2025 11:38:39 AM
 
 Evergreen app: `OracleJava17`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 403 (Forbidden).
-```
+Last check: 🟢
 
 | Version | FullVersion | Date       | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | ---------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
