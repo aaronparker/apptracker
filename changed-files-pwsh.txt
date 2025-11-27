@@ -247,7 +247,6 @@ json/OBSStudio.json
 json/OBSStudioAlt.json
 json/OCSInventoryWindowsAgent.json
 json/Obsidian.json
-json/OctopusDeployServer.json
 json/OctopusTentacle.json
 json/OmnissaHorizonClient.json
 json/OnlyOfficeDesktopEditors.json

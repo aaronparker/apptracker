@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.20.1",
-    "Date": "31/10/2025",
-    "Size": 690262016,
-    "Sha256": "12b7e23360957d41981cd54cee771c1268887647657664002029dddb71f45ef2",
+    "Version": "1.21.0",
+    "Date": "24/11/2025",
+    "Size": 698490880,
+    "Sha256": "bd85ffe9afc7bef48b971ba573fc81e579a5adbd2cc7877b06ae95006cece15c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.20.1/Rancher.Desktop.Setup.1.20.1.msi"
+    "URI": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.21.0/Rancher.Desktop.Setup.1.21.0.msi"
   }
 ]
