@@ -3,7 +3,7 @@ title: JetBrains TeamCity
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 27/11/2025 1:25:53 PM
+last_modified_date: 28/11/2025 11:34:49 AM
 ---
 
 ## JetBrains TeamCity
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsTeamCity`. Found **1** installer.
 
 Last check: 🟢
 
-| Version   | Build  | Edition  | Sha256                                                                | Date      | Size       | Type | URI                                                                                                                              |
-| --------- | ------ | -------- | --------------------------------------------------------------------- | --------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.07.3 | 197398 | TeamCity | https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe.sha256 | 9/10/2025 | 1422137040 | exe  | [https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe](https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe) |
+| Version | Build  | Edition  | Sha256                                                              | Date       | Size       | Type | URI                                                                                                                          |
+| ------- | ------ | -------- | ------------------------------------------------------------------- | ---------- | ---------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 2025.11 | 207946 | TeamCity | https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe.sha256 | 27/11/2025 | 1484045872 | exe  | [https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe](https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe) |

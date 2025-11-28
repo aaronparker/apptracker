@@ -3,7 +3,7 @@ title: JetBrains Rider
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 27/11/2025 1:25:53 PM
+last_modified_date: 28/11/2025 11:34:49 AM
 ---
 
 ## JetBrains Rider
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version    | Build         | Edition | Sha256                                                                     | Date       | Size       | Type | URI                                                                                                                                        |
 | ---------- | ------------- | ------- | -------------------------------------------------------------------------- | ---------- | ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.3.0.2 | 253.28294.189 | Rider   | https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.2.exe.sha256 | 20/11/2025 | 1669555224 | exe  | [https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.2.exe](https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.2.exe) |
+| 2025.3.0.3 | 253.28294.237 | Rider   | https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.3.exe.sha256 | 27/11/2025 | 1669763408 | exe  | [https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.3.exe](https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.3.exe) |
