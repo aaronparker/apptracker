@@ -247,6 +247,7 @@ json/OBSStudio.json
 json/OBSStudioAlt.json
 json/OCSInventoryWindowsAgent.json
 json/Obsidian.json
+json/OctopusDeployServer.json
 json/OctopusTentacle.json
 json/OmnissaHorizonClient.json
 json/OnlyOfficeDesktopEditors.json
@@ -365,3 +366,4 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
+json/RiegeScopeRuntime.json

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2025.07.3",
-    "Build": "197398",
+    "Version": "2025.11",
+    "Build": "207946",
     "Edition": "TeamCity",
-    "Sha256": "https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe.sha256",
-    "Date": "9/10/2025",
-    "Size": 1422137040,
+    "Sha256": "https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe.sha256",
+    "Date": "27/11/2025",
+    "Size": 1484045872,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/teamcity/TeamCity-2025.07.3.exe"
+    "URI": "https://download.jetbrains.com/teamcity/TeamCity-2025.11.exe"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "Version": "4.52.0",
-    "Build": "210994",
-    "Size": "591891888",
+    "Version": "4.53.0",
+    "Build": "211793",
+    "Size": "592629680",
     "Type": "exe",
-    "URI": "https://desktop.docker.com/win/main/amd64/210994/Docker%20Desktop%20Installer.exe"
+    "URI": "https://desktop.docker.com/win/main/amd64/211793/Docker%20Desktop%20Installer.exe"
   },
   {
-    "Version": "4.52.0",
-    "Build": "210994",
-    "Size": "591891888",
+    "Version": "4.53.0",
+    "Build": "211793",
+    "Size": "592629680",
     "Type": "msi",
-    "URI": "https://desktop.docker.com/win/main/amd64/210994/DockerDesktop.msi"
+    "URI": "https://desktop.docker.com/win/main/amd64/211793/DockerDesktop.msi"
   }
 ]
