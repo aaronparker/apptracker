@@ -3,7 +3,7 @@ title: JetBrains GoLand
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 28/11/2025 11:34:49 AM
+last_modified_date: 28/11/2025 1:25:38 PM
 ---
 
 ## JetBrains GoLand
