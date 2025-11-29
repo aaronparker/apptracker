@@ -3,7 +3,7 @@ title: JetBrains DataGrip
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 28/11/2025 1:25:38 PM
+last_modified_date: 29/11/2025 11:33:48 AM
 ---
 
 ## JetBrains DataGrip
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsDataGrip`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build        | Edition  | Sha256                                                               | Date      | Size      | Type | URI                                                                                                                            |
-| -------- | ------------ | -------- | -------------------------------------------------------------------- | --------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.2.4 | 252.26830.46 | DataGrip | https://download.jetbrains.com/datagrip/datagrip-2025.2.4.exe.sha256 | 1/10/2025 | 948110352 | exe  | [https://download.jetbrains.com/datagrip/datagrip-2025.2.4.exe](https://download.jetbrains.com/datagrip/datagrip-2025.2.4.exe) |
+| Version  | Build        | Edition  | Sha256                                                               | Date       | Size      | Type | URI                                                                                                                            |
+| -------- | ------------ | -------- | -------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.2.5 | 252.28238.33 | DataGrip | https://download.jetbrains.com/datagrip/datagrip-2025.2.5.exe.sha256 | 28/11/2025 | 948235360 | exe  | [https://download.jetbrains.com/datagrip/datagrip-2025.2.5.exe](https://download.jetbrains.com/datagrip/datagrip-2025.2.5.exe) |

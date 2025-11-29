@@ -3,7 +3,7 @@ title: JetBrains GoLand
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 28/11/2025 1:25:38 PM
+last_modified_date: 29/11/2025 11:33:48 AM
 ---
 
 ## JetBrains GoLand
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsGoLand`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build         | Edition | Sha256                                                       | Date       | Size       | Type | URI                                                                                                            |
-| -------- | ------------- | ------- | ------------------------------------------------------------ | ---------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2025.2.4 | 252.27397.100 | GoLand  | https://download.jetbrains.com/go/goland-2025.2.4.exe.sha256 | 24/10/2025 | 1003476480 | exe  | [https://download.jetbrains.com/go/goland-2025.2.4.exe](https://download.jetbrains.com/go/goland-2025.2.4.exe) |
+| Version  | Build        | Edition | Sha256                                                       | Date       | Size      | Type | URI                                                                                                            |
+| -------- | ------------ | ------- | ------------------------------------------------------------ | ---------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------- |
+| 2025.2.5 | 252.28238.32 | GoLand  | https://download.jetbrains.com/go/goland-2025.2.5.exe.sha256 | 28/11/2025 | 997783096 | exe  | [https://download.jetbrains.com/go/goland-2025.2.5.exe](https://download.jetbrains.com/go/goland-2025.2.5.exe) |

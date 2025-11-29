@@ -3,7 +3,7 @@ title: Bruno
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 28/11/2025 1:25:38 PM
+last_modified_date: 29/11/2025 11:33:48 AM
 ---
 
 ## Bruno
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.14.2  | 12/11/2025 | 115190120 | c30716691b45ef05f69d66ae347d8ab4da4ff16245bc9ad0e814d939d24eb855 | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.exe) |
-| 2.14.2  | 12/11/2025 | 127107072 | 2578466b10232da025a6ad36aa927495708bbd4729ae53b3cbeb0652d77dd1bb | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.msi) |
-| 2.14.2  | 12/11/2025 | 168520504 | 7227e0dca0e625e1c79ea22644220751d930aa46a5c57acd7d231fb3708bc1f1 | x64          | Default       | zip  | [https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.zip](https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.zip) |
+| 2.15.0  | 28/11/2025 | 115396360 | 951be0e6d6fc8f4b48bd5573f5d4990806c1cd92737d4e977c0fee6f523a33ec | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.exe) |
+| 2.15.0  | 28/11/2025 | 127291392 | 7d4c54ae09418a888a47f334670517c8d9afe1fd8f5c94f8155a18eacb9fbba3 | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.msi) |
+| 2.15.0  | 28/11/2025 | 168763645 | ac3a7a58482621b6528b151be8d5f14c8c9271b4364af2f25af3adc67e86b41f | x64          | Default       | zip  | [https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.zip](https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.zip) |
