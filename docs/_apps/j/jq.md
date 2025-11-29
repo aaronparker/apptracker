@@ -3,7 +3,7 @@ title: jq
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 29/11/2025 11:33:48 AM
+last_modified_date: 29/11/2025 1:24:25 PM
 ---
 
 ## jq
