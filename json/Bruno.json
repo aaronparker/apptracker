@@ -1,32 +1,32 @@
 [
   {
-    "Version": "2.14.2",
-    "Date": "12/11/2025",
-    "Size": 115190120,
-    "Sha256": "c30716691b45ef05f69d66ae347d8ab4da4ff16245bc9ad0e814d939d24eb855",
+    "Version": "2.15.0",
+    "Date": "28/11/2025",
+    "Size": 115396360,
+    "Sha256": "951be0e6d6fc8f4b48bd5573f5d4990806c1cd92737d4e977c0fee6f523a33ec",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.exe"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.exe"
   },
   {
-    "Version": "2.14.2",
-    "Date": "12/11/2025",
-    "Size": 127107072,
-    "Sha256": "2578466b10232da025a6ad36aa927495708bbd4729ae53b3cbeb0652d77dd1bb",
+    "Version": "2.15.0",
+    "Date": "28/11/2025",
+    "Size": 127291392,
+    "Sha256": "7d4c54ae09418a888a47f334670517c8d9afe1fd8f5c94f8155a18eacb9fbba3",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.msi"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.msi"
   },
   {
-    "Version": "2.14.2",
-    "Date": "12/11/2025",
-    "Size": 168520504,
-    "Sha256": "7227e0dca0e625e1c79ea22644220751d930aa46a5c57acd7d231fb3708bc1f1",
+    "Version": "2.15.0",
+    "Date": "28/11/2025",
+    "Size": 168763645,
+    "Sha256": "ac3a7a58482621b6528b151be8d5f14c8c9271b4364af2f25af3adc67e86b41f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v2.14.2/bruno_2.14.2_x64_win.zip"
+    "URI": "https://github.com/usebruno/bruno/releases/download/v2.15.0/bruno_2.15.0_x64_win.zip"
   }
 ]

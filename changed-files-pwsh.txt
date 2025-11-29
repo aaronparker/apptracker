@@ -295,6 +295,7 @@ json/RedHatOpenJDK17.json
 json/RedHatOpenJDK21.json
 json/RedHatOpenJDK8.json
 json/ResponsivelyApp.json
+json/RiegeScopeRuntime.json
 json/RingCentral.json
 json/RizonesoftNotepad3.json
 json/RustDeskClient.json
@@ -366,4 +367,3 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
-json/RiegeScopeRuntime.json
