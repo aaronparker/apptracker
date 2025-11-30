@@ -3,7 +3,7 @@ title: Responsively App
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 30/11/2025 11:32:05 AM
+last_modified_date: 30/11/2025 1:24:15 PM
 ---
 
 ## Responsively App
