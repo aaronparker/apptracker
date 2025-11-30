@@ -1,34 +1,42 @@
 [
   {
-    "Version": "11.0.28+6",
-    "Date": "2025-07-15T13:13:00Z",
-    "ImageType": "jdk",
+    "Version": "11.84.17.0",
+    "JavaVersion": "11.0.29+7",
+    "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.82.19-ca-jdk11.0.28-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-fx-jdk11.0.29-win_x64.msi"
   },
   {
-    "Version": "11.0.28+6",
-    "Date": "2025-07-15T13:13:00Z",
-    "ImageType": "jre",
+    "Version": "11.84.17.0",
+    "JavaVersion": "11.0.29+7",
+    "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.82.19-ca-jre11.0.28-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jre11.0.29-win_x64.msi"
   },
   {
-    "Version": "11.0.28+6",
-    "Date": "2025-07-15T13:13:00Z",
-    "ImageType": "jdk",
-    "Architecture": "x86",
+    "Version": "11.84.17.0",
+    "JavaVersion": "11.0.29+7",
+    "ImageType": "JDK",
+    "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.82.19-ca-jdk11.0.28-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jdk11.0.29-win_x64.msi"
   },
   {
-    "Version": "11.0.28+6",
-    "Date": "2025-07-15T13:13:00Z",
-    "ImageType": "jre",
+    "Version": "11.84.17.0",
+    "JavaVersion": "11.0.29+7",
+    "ImageType": "JDK",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu11.82.19-ca-jre11.0.28-win_i686.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jre11.0.29-win_i686.msi"
+  },
+  {
+    "Version": "11.84.17.0",
+    "JavaVersion": "11.0.29+7",
+    "ImageType": "JDK",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu11.84.17-ca-jdk11.0.29-win_i686.msi"
   }
 ]

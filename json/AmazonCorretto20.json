@@ -3,6 +3,7 @@
     "Version": "20.0.2.10.1",
     "Md5": "f0e96931b9759bef4f2dcd0c60e21d02",
     "Architecture": "x64",
+    "ImageType": "JDK",
     "Type": "msi",
     "URI": "https://corretto.aws/downloads/resources/20.0.2.10.1/amazon-corretto-20.0.2.10.1-windows-x64.msi"
   },
@@ -10,6 +11,7 @@
     "Version": "20.0.2.10.1",
     "Md5": "ebb46acc140497c4d276106f58d50bb2",
     "Architecture": "x64",
+    "ImageType": "JDK",
     "Type": "zip",
     "URI": "https://corretto.aws/downloads/resources/20.0.2.10.1/amazon-corretto-20.0.2.10.1-windows-x64-jdk.zip"
   }

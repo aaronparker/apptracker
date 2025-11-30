@@ -1,0 +1,34 @@
+[
+  {
+    "Version": "25.30.17.0",
+    "JavaVersion": "25.0.1+8",
+    "ImageType": "JDK",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-fx-jre25.0.1-win_x64.msi"
+  },
+  {
+    "Version": "25.30.17.0",
+    "JavaVersion": "25.0.1+8",
+    "ImageType": "JDK",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-fx-jdk25.0.1-win_x64.msi"
+  },
+  {
+    "Version": "25.30.17.0",
+    "JavaVersion": "25.0.1+8",
+    "ImageType": "JDK",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-jre25.0.1-win_x64.msi"
+  },
+  {
+    "Version": "25.30.17.0",
+    "JavaVersion": "25.0.1+8",
+    "ImageType": "JDK",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.30.17-ca-jdk25.0.1-win_x64.msi"
+  }
+]

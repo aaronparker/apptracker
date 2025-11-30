@@ -3,6 +3,7 @@
     "Version": "17.0.17.10.1",
     "Md5": "d46627aaef804c98512c9ebe869b203f",
     "Architecture": "x64",
+    "ImageType": "JDK",
     "Type": "msi",
     "URI": "https://corretto.aws/downloads/resources/17.0.17.10.1/amazon-corretto-17.0.17.10.1-windows-x64.msi"
   },
@@ -10,6 +11,7 @@
     "Version": "17.0.17.10.1",
     "Md5": "7668d7f9814d735248bd7e75504cd572",
     "Architecture": "x64",
+    "ImageType": "JDK",
     "Type": "zip",
     "URI": "https://corretto.aws/downloads/resources/17.0.17.10.1/amazon-corretto-17.0.17.10.1-windows-x64-jdk.zip"
   }

@@ -129,6 +129,7 @@ json/GoogleChromeForTesting.json
 json/GoogleChromeHeadlessShell.json
 json/GoogleDrive.json
 json/Gpg4win.json
+json/GrafanaAgent.json
 json/Greenshot.json
 json/Handbrake.json
 json/HashicorpBoundary.json
@@ -341,6 +342,7 @@ json/VSCodium.json
 json/VeraCrypt.json
 json/VercelHyper.json
 json/VideoLanVlcPlayer.json
+json/VisualCppRedistAIO.json
 json/Win32OpenSSH.json
 json/WinMerge.json
 json/WinSCP.json
@@ -367,3 +369,5 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
+json/AzulZulu25.json
+json/GrafanaAlloy.json
