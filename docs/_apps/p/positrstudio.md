@@ -3,7 +3,7 @@ title: Posit RStudio Desktop
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 01/12/2025 11:34:35 AM
+last_modified_date: 01/12/2025 1:27:45 PM
 ---
 
 ## Posit RStudio Desktop
