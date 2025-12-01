@@ -50,6 +50,7 @@ json/AutodeskFusion360.json
 json/AzulZulu11.json
 json/AzulZulu17.json
 json/AzulZulu21.json
+json/AzulZulu25.json
 json/AzulZulu8.json
 json/BISF.json
 json/BeekeeperStudio.json
@@ -115,6 +116,7 @@ json/GeekSoftwarePDF24Creator.json
 json/GeoGebraClassic.json
 json/Gephi.json
 json/GhislerTotalCommander.json
+json/Gimp.json
 json/GitExtensions.json
 json/GitForWindows.json
 json/GitHubAtom.json
@@ -129,7 +131,7 @@ json/GoogleChromeForTesting.json
 json/GoogleChromeHeadlessShell.json
 json/GoogleDrive.json
 json/Gpg4win.json
-json/GrafanaAgent.json
+json/GrafanaAlloy.json
 json/Greenshot.json
 json/Handbrake.json
 json/HashicorpBoundary.json
@@ -342,7 +344,6 @@ json/VSCodium.json
 json/VeraCrypt.json
 json/VercelHyper.json
 json/VideoLanVlcPlayer.json
-json/VisualCppRedistAIO.json
 json/Win32OpenSSH.json
 json/WinMerge.json
 json/WinSCP.json
@@ -369,5 +370,3 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
-json/AzulZulu25.json
-json/GrafanaAlloy.json

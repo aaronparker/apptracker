@@ -10,7 +10,7 @@
   {
     "Version": "17.62.17.0",
     "JavaVersion": "17.0.17+10",
-    "ImageType": "JDK",
+    "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu17.62.17-ca-jre17.0.17-win_x64.msi"
@@ -26,7 +26,7 @@
   {
     "Version": "17.62.17.0",
     "JavaVersion": "17.0.17+10",
-    "ImageType": "JDK",
+    "ImageType": "JRE",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu17.62.17-ca-jre17.0.17-win_i686.msi"

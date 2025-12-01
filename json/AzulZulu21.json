@@ -2,7 +2,7 @@
   {
     "Version": "21.46.19.0",
     "JavaVersion": "21.0.9+10",
-    "ImageType": "JDK",
+    "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-fx-jre21.0.9-win_x64.msi"
@@ -18,7 +18,7 @@
   {
     "Version": "21.46.19.0",
     "JavaVersion": "21.0.9+10",
-    "ImageType": "JDK",
+    "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://cdn.azul.com/zulu/bin/zulu21.46.19-ca-jre21.0.9-win_x64.msi"
