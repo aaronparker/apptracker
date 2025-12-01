@@ -3,7 +3,7 @@ title: SAGA-GIS
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 30/11/2025 1:24:15 PM
+last_modified_date: 01/12/2025 11:34:35 AM
 ---
 
 ## SAGA-GIS
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | Size     | Md5                              | FileName                  | URI                                                                                                                                                                                                                                              |
 | ------- | ------------ | ---- | -------- | -------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.10.1  | x64          | exe  | 57904127 | 35e07a27fae723d14c21ae68eb74a036 | saga-9.10.1_x64_setup.exe | [https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.10.1/saga-9.10.1_x64_setup.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.10.1/saga-9.10.1_x64_setup.exe?viasf=1) |
+| 9.10.2  | x64          | exe  | 57897742 | 28ed506a6b601237a6be8736420472e2 | saga-9.10.2_x64_setup.exe | [https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.10.2/saga-9.10.2_x64_setup.exe?viasf=1](https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.10.2/saga-9.10.2_x64_setup.exe?viasf=1) |

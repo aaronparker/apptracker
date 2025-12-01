@@ -3,7 +3,7 @@ title: OpenWebStart
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 30/11/2025 1:24:15 PM
+last_modified_date: 01/12/2025 11:34:35 AM
 ---
 
 ## OpenWebStart
@@ -14,7 +14,7 @@ Evergreen app: `OpenWebStart`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256 | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
-| ------- | --------- | -------- | ------ | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.12.0  | 27/5/2025 | 60596032 |        | x64          | Default       | exe  | [https://github.com/karakun/OpenWebStart/releases/download/v1.12.0/OpenWebStart_windows-x64_1_12_0.exe](https://github.com/karakun/OpenWebStart/releases/download/v1.12.0/OpenWebStart_windows-x64_1_12_0.exe) |
-| 1.12.0  | 27/5/2025 | 60856640 |        | x86          | Default       | exe  | [https://github.com/karakun/OpenWebStart/releases/download/v1.12.0/OpenWebStart_windows-x32_1_12_0.exe](https://github.com/karakun/OpenWebStart/releases/download/v1.12.0/OpenWebStart_windows-x32_1_12_0.exe) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.13.0  | 27/11/2025 | 60828184 | 8bcfb8583d67e163858271a833284c98200e8f412160ff9c3c8ff5d17956ac00 | x64          | Default       | exe  | [https://github.com/karakun/OpenWebStart/releases/download/v1.13.0/OpenWebStart_windows-x64_1_13_0.exe](https://github.com/karakun/OpenWebStart/releases/download/v1.13.0/OpenWebStart_windows-x64_1_13_0.exe) |
+| 1.13.0  | 27/11/2025 | 61072408 | 2ac7cbd25682a4a44457f22f4f23c5a2d606d590983771a1bf74271344ad5e4b | x86          | Default       | exe  | [https://github.com/karakun/OpenWebStart/releases/download/v1.13.0/OpenWebStart_windows-x32_1_13_0.exe](https://github.com/karakun/OpenWebStart/releases/download/v1.13.0/OpenWebStart_windows-x32_1_13_0.exe) |

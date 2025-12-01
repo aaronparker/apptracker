@@ -3,7 +3,7 @@ title: AWS SAM CLI
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 30/11/2025 1:24:15 PM
+last_modified_date: 01/12/2025 11:34:35 AM
 ---
 
 ## AWS SAM CLI
@@ -14,6 +14,6 @@ Evergreen app: `AWSSAMCLI`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.148.0 | 21/11/2025 | 211357696 | c1a42840f01afbae9392ccd4202b664b607f777738d857ab2587183d047b9e55 | x86          | Default       | msi  | [https://github.com/aws/aws-sam-cli/releases/download/v1.148.0/AWS_SAM_CLI_64_PY3.msi](https://github.com/aws/aws-sam-cli/releases/download/v1.148.0/AWS_SAM_CLI_64_PY3.msi) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.149.0 | 1/12/2025 | 214151168 | a887e88ad01fa9a005720623187b84d69ee4005184af163b54b3567fef395bdb | x86          | Default       | msi  | [https://github.com/aws/aws-sam-cli/releases/download/v1.149.0/AWS_SAM_CLI_64_PY3.msi](https://github.com/aws/aws-sam-cli/releases/download/v1.149.0/AWS_SAM_CLI_64_PY3.msi) |
