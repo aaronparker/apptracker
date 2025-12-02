@@ -370,3 +370,5 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
+json/MendeleyReferenceManager.json
+json/genuagenuReSI.json

@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "2.139.0",
+    "Date": "3/11/2025",
+    "Size": 211470208,
+    "Sha512": "/iVwbi4VaJ+dHTJjYo/tBmvr2Hynv6fB0MraT5pSKpOQsYYg+yZQmaMvfBe5SY/J3n7mfHnkvx+DRawQzKNTZQ==",
+    "Architecture": "ARM64",
+    "Type": "exe",
+    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.139.0-arm64.exe"
+  },
+  {
+    "Version": "2.139.0",
+    "Date": "3/11/2025",
+    "Size": 208066896,
+    "Sha512": "yOadd/fFuKD/HMFODGmnt7fJS5Z/VRoI5g+x++GQh6RMCpeX1wR6XFvdJFFo+cyawnWqMe3xJB3N6Ui2BozoZg==",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.139.0-x64.exe"
+  },
+  {
+    "Version": "2.139.0",
+    "Date": "3/11/2025",
+    "Size": 418963768,
+    "Sha512": "h+gycXV1DXEY34q6ZYFBt4vIgelX4aAb/K9VQRKzPCeHBq4shFoFfvA+u7CNz0iwZR4r3JI76nNf4Q4aqTM5KA==",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.139.0.exe"
+  }
+]

@@ -1,32 +1,32 @@
 [
   {
-    "Version": "0.10.0",
-    "Date": "13/8/2025",
-    "Size": 202027047,
-    "Sha256": "2be94144f1e33f2b4ce1f3c3500695fa366cb43a63bfeeeab7882afd1fbe74a0",
+    "Version": "0.11.0",
+    "Date": "1/12/2025",
+    "Size": 213103504,
+    "Sha256": "92a8bf7bf08487ca987fd2319a9d2fdc5f7649894e221a032f50fadccaf54d4b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.10.0/netpad-0.10.0-win-x64.exe"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.11.0/netpad-0.11.0-win-x64.exe"
   },
   {
-    "Version": "0.10.0",
-    "Date": "13/8/2025",
-    "Size": 82812938,
-    "Sha256": "be93752331b454bcbc238816609b34452c46f494e32461c735d0edbff8f1aa8d",
+    "Version": "0.11.0",
+    "Date": "1/12/2025",
+    "Size": 93869378,
+    "Sha256": "1ab058e9fe0d54396a202f874c5b17f74c75bbddddf62faf6a717dd350fc36c2",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.10.0/netpad_vnext-0.10.0-win-x64.exe"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.11.0/netpad_vnext-0.11.0-win-x64.exe"
   },
   {
-    "Version": "0.10.0",
-    "Date": "13/8/2025",
-    "Size": 112760864,
-    "Sha256": "f7af5e2585354eb6bedad558522d39befa9a4a75dd299d244415b78f7c53555e",
+    "Version": "0.11.0",
+    "Date": "1/12/2025",
+    "Size": 126620573,
+    "Sha256": "673c914401703ed96025deabcbfc1f10e0c77e73a597e314b6eab9414217e701",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.10.0/netpad_vnext-0.10.0-win-x64.msi"
+    "URI": "https://github.com/tareqimbasher/NetPad/releases/download/v0.11.0/netpad_vnext-0.11.0-win-x64.msi"
   }
 ]
