@@ -3,7 +3,7 @@ title: Hashicorp Consul
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: 01/12/2025 1:27:45 PM
+last_modified_date: 02/12/2025 11:35:20 AM
 ---
 
 ## Hashicorp Consul
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                          |
 | ------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.22.1  | zip  | x64          | [https://releases.hashicorp.com/consul/1.22.1/consul_1.22.1_windows_amd64.zip](https://releases.hashicorp.com/consul/1.22.1/consul_1.22.1_windows_amd64.zip) |
-| 1.22.1  | zip  | x86          | [https://releases.hashicorp.com/consul/1.22.1/consul_1.22.1_windows_386.zip](https://releases.hashicorp.com/consul/1.22.1/consul_1.22.1_windows_386.zip)     |
+| 1.22.0  | zip  | x64          | [https://releases.hashicorp.com/consul/1.22.0/consul_1.22.0_windows_amd64.zip](https://releases.hashicorp.com/consul/1.22.0/consul_1.22.0_windows_amd64.zip) |
+| 1.22.0  | zip  | x86          | [https://releases.hashicorp.com/consul/1.22.0/consul_1.22.0_windows_386.zip](https://releases.hashicorp.com/consul/1.22.0/consul_1.22.0_windows_386.zip)     |

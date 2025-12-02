@@ -3,7 +3,7 @@ title: JetBrains YouTrack
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 01/12/2025 1:27:45 PM
+last_modified_date: 02/12/2025 11:35:20 AM
 ---
 
 ## JetBrains YouTrack
