@@ -3,7 +3,7 @@ title: Elgato Audio Effects
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 03/12/2025 11:34:33 AM
+last_modified_date: 03/12/2025 1:28:09 PM
 ---
 
 ## Elgato Audio Effects
