@@ -1,19 +1,19 @@
 [
   {
-    "Version": "144.0.7559.0",
+    "Version": "144.0.7559.3",
     "Revision": "1552494",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.3/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "144.0.7559.0",
+    "Version": "144.0.7559.3",
     "Revision": "1552494",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.3/win32/chromedriver-win32.zip"
   },
   {
     "Version": "144.0.7534.0",
@@ -42,25 +42,25 @@
   {
     "Version": "143.0.7499.40",
     "Revision": "1536371",
+    "Channel": "Stable",
+    "Architecture": "x64",
+    "Type": "zip",
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.40/win64/chromedriver-win64.zip"
+  },
+  {
+    "Version": "143.0.7499.40",
+    "Revision": "1536371",
     "Channel": "Beta",
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.40/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "142.0.7444.175",
-    "Revision": "1522585",
-    "Channel": "Stable",
-    "Architecture": "x64",
-    "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win64/chromedriver-win64.zip"
-  },
-  {
-    "Version": "142.0.7444.175",
-    "Revision": "1522585",
+    "Version": "143.0.7499.40",
+    "Revision": "1536371",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.40/win32/chromedriver-win32.zip"
   }
 ]

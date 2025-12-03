@@ -179,7 +179,7 @@ json/MasterPackager.json
 json/MattermostDesktop.json
 json/Maximus5ConEmu.json
 json/McNeelRhino.json
-json/MendeleyDesktop.json
+json/MendeleyReferenceManager.json
 json/MestrelabMnova.json
 json/Microsoft.NET.json
 json/Microsoft365Apps.json
@@ -361,6 +361,7 @@ json/dbeaver.json
 json/deviceTRUST.json
 json/dnGrep.json
 json/eduVPN.json
+json/genuagenuReSI.json
 json/gretl.json
 json/gsudo.json
 json/jq.json
@@ -370,5 +371,3 @@ json/mySQLConnectorNET.json
 json/mySQLConnectorODBC.json
 json/mySQLWorkbench.json
 json/voidtoolsEverything.json
-json/MendeleyReferenceManager.json
-json/genuagenuReSI.json
