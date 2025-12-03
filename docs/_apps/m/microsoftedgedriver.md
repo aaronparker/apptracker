@@ -3,7 +3,7 @@ title: Microsoft Edge WebDriver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 02/12/2025 1:28:57 PM
+last_modified_date: 03/12/2025 11:34:33 AM
 ---
 
 ## Microsoft Edge WebDriver
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version       | Channel | Architecture | URI                                                                                                                                            |
 | ------------- | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 144.0.3677.0  | Dev     | arm64        | [https://msedgedriver.microsoft.com/144.0.3677.0/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/144.0.3677.0/edgedriver_arm64.zip)   |
-| 144.0.3677.0  | Dev     | x64          | [https://msedgedriver.microsoft.com/144.0.3677.0/edgedriver_win64.zip](https://msedgedriver.microsoft.com/144.0.3677.0/edgedriver_win64.zip)   |
-| 144.0.3677.0  | Dev     | x86          | [https://msedgedriver.microsoft.com/144.0.3677.0/edgedriver_win32.zip](https://msedgedriver.microsoft.com/144.0.3677.0/edgedriver_win32.zip)   |
+| 144.0.3705.0  | Dev     | arm64        | [https://msedgedriver.microsoft.com/144.0.3705.0/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/144.0.3705.0/edgedriver_arm64.zip)   |
+| 144.0.3705.0  | Dev     | x64          | [https://msedgedriver.microsoft.com/144.0.3705.0/edgedriver_win64.zip](https://msedgedriver.microsoft.com/144.0.3705.0/edgedriver_win64.zip)   |
+| 144.0.3705.0  | Dev     | x86          | [https://msedgedriver.microsoft.com/144.0.3705.0/edgedriver_win32.zip](https://msedgedriver.microsoft.com/144.0.3705.0/edgedriver_win32.zip)   |
 | 143.0.3650.46 | Beta    | arm64        | [https://msedgedriver.microsoft.com/143.0.3650.46/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/143.0.3650.46/edgedriver_arm64.zip) |
 | 143.0.3650.46 | Beta    | x64          | [https://msedgedriver.microsoft.com/143.0.3650.46/edgedriver_win64.zip](https://msedgedriver.microsoft.com/143.0.3650.46/edgedriver_win64.zip) |
 | 143.0.3650.46 | Beta    | x86          | [https://msedgedriver.microsoft.com/143.0.3650.46/edgedriver_win32.zip](https://msedgedriver.microsoft.com/143.0.3650.46/edgedriver_win32.zip) |

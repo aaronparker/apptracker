@@ -3,7 +3,7 @@ title: Oracle Java 20
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 02/12/2025 1:28:57 PM
+last_modified_date: 03/12/2025 11:34:33 AM
 ---
 
 ## Oracle Java 20
@@ -12,7 +12,10 @@ last_modified_date: 02/12/2025 1:28:57 PM
 
 Evergreen app: `OracleJava20`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version | FullVersion | Date      | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -3,7 +3,7 @@ title: ESET Endpoint Antivirus
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 02/12/2025 1:28:57 PM
+last_modified_date: 03/12/2025 11:34:33 AM
 ---
 
 ## ESET Endpoint Antivirus
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version    | Size      | Hash                                     | Language | Architecture | Type | URI                                                                                                                                                                                                              |
 | ---------- | --------- | ---------------------------------------- | -------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 12.1.273.0 | 235610112 | 72b41ccf0e5f1859c0aace0c448726af0bd77cac | en_US    | x64          | msi  | [https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v12/12.1.273.0/server_x64.msi](https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v12/12.1.273.0/server_x64.msi) |
+| 13.0.439.0 | 254746624 | c3c1685f1f693de5ab646daa8832fc2c1e0ab62a | en_US    | x64          | msi  | [https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v13/13.0.439.0/server_x64.msi](https://repository.eset.com/v1/com/eset/apps/business/era/server/windows/v13/13.0.439.0/server_x64.msi) |
