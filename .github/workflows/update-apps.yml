@@ -53,41 +53,18 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
+          Import-Module -Name "Evergreen"
           $params = @{
               Path     = "${{ github.workspace }}\json"
           }
           . "${{ github.workspace }}\scripts\Update-Json.ps1" @params
-
-      # - name: Save updated files list
-      #   shell: pwsh
-      #   working-directory: ${{ github.workspace }}
-      #   run: |
-      #     $UpdateFile = "${{ github.workspace }}\json\_update-pwsh.txt"
-      #     if (Test-Path -Path $UpdateFile) {
-      #       $Updates = Get-Content -Path $UpdateFile
-      #     }
-      #     $files = foreach ($item in (git status --short --porcelain)) { ([RegEx]::Match($item, "^..\s(.*)$")).Groups[1].Value }
-      #     if ($null -ne $files) {
-      #         $Updates += $files
-      #         $Updates | Select-Object -Unique | Out-File -FilePath $UpdateFile -Encoding "Utf8" -Force -Verbose
-      #     }
-
-      # - name: Save last update list
-      #   shell: pwsh
-      #   working-directory: ${{ github.workspace }}
-      #   run: |
-      #     $params = @{
-      #         UpdateFile     = "${{ github.workspace }}\json\_update-pwsh.txt"
-      #         LastUpdateFile = "${{ github.workspace }}\json\_lastupdate.txt"
-      #     }
-      #     . "${{ github.workspace }}\scripts\Save-LastUpdate.ps1" @params
 
       # Save list of changed files for docs workflow
       - name: Save changed files list
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          $files = foreach ($item in (git status --short --porcelain json/*.json)) { 
+          $files = foreach ($item in (git diff --name-only HEAD json/*.json)) { 
             $match = [RegEx]::Match($item, "^..\s(.*)$")
             if ($match.Success) { $match.Groups[1].Value }
           }
