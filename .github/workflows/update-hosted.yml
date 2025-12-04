@@ -36,7 +36,7 @@ jobs:
         run: |
           $params = @{
               Path = "${{ github.workspace }}/json"
-              Apps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23")
+              Apps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25"),
           }
           . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" @params
 
