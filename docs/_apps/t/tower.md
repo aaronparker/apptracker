@@ -3,7 +3,7 @@ title: Tower
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 03/12/2025 1:28:09 PM
+last_modified_date: 04/12/2025 2:42:35 AM
 ---
 
 ## Tower
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version  | Channel | sha1                                     | Type | URI                                                                                                                                                    |
 | -------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 10.0.539 | beta    | 0D53031F50DE45E673055AE9933409FE50408105 | exe  | [https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.exe](https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.exe) |
-| 10.0.539 | stable  | 0D53031F50DE45E673055AE9933409FE50408105 | exe  | [https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.exe](https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.exe) |
-| 10.0.539 | beta    | 52B2ECEFA976136939568F27F14F42111357CEFA | msi  | [https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.msi](https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.msi) |
-| 10.0.539 | stable  | 52B2ECEFA976136939568F27F14F42111357CEFA | msi  | [https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.msi](https://www.git-tower.com/apps/tower3-win/539-3e693789/Tower-10.0.539.msi) |
+| 10.1.540 | beta    | 65946AE0A03755A8377C5A2752E907B3395A9D4C | exe  | [https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.exe](https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.exe) |
+| 10.1.540 | stable  | 65946AE0A03755A8377C5A2752E907B3395A9D4C | exe  | [https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.exe](https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.exe) |
+| 10.1.540 | beta    | 98DA9735BFEE4EBE4065FBA89F205F27AF0B5005 | msi  | [https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.msi](https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.msi) |
+| 10.1.540 | stable  | 98DA9735BFEE4EBE4065FBA89F205F27AF0B5005 | msi  | [https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.msi](https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.msi) |

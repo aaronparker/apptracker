@@ -3,7 +3,7 @@ title: Airtame App
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 03/12/2025 1:28:09 PM
+last_modified_date: 04/12/2025 2:42:35 AM
 ---
 
 ## Airtame App
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Installer | Type | URI                                                                                                                                                  |
 | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.14.0  | Windows   | exe  | [https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.14.0-setup.exe](https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.14.0-setup.exe)       |
-| 4.14.0  | Portable  | exe  | [https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.14.0-portable.exe](https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.14.0-portable.exe) |
-| 4.14.0  | MSI       | msi  | [https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.14.0-setup.msi](https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.14.0-setup.msi)       |
+| 4.15.0  | Windows   | exe  | [https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.15.0-setup.exe](https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.15.0-setup.exe)       |
+| 4.15.0  | Portable  | exe  | [https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.15.0-portable.exe](https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.15.0-portable.exe) |
+| 4.15.0  | MSI       | msi  | [https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.15.0-setup.msi](https://airtame-app.b-cdn.net/app/latest/win/Airtame-4.15.0-setup.msi)       |

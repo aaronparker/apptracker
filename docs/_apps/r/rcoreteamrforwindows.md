@@ -3,7 +3,7 @@ title: R Core Team R for Windows
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 03/12/2025 1:28:09 PM
+last_modified_date: 04/12/2025 2:42:35 AM
 ---
 
 ## R Core Team R for Windows
@@ -12,7 +12,10 @@ last_modified_date: 03/12/2025 1:28:09 PM
 
 Evergreen app: `RCoreTeamRforWindows`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+The SSL connection could not be established, see inner exception.
+```
 
 | Version | URI                                                                                                                        |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |

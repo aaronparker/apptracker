@@ -3,7 +3,7 @@ title: Citrix Workspace app
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 03/12/2025 1:28:09 PM
+last_modified_date: 04/12/2025 2:42:35 AM
 ---
 
 ## Citrix Workspace app
