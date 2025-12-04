@@ -8,7 +8,7 @@ param(
     [System.String] $Path,
 
     [ValidateNotNullOrEmpty()]
-    [System.String[]] $SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23"),
+    [System.String[]] $SkipApps = @("FreedomScientificFusion", "FreedomScientificJAWS", "MicrosoftPowerAutomateDesktop", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25"),
 
     [ValidateNotNullOrEmpty()]
     [System.String[]] $MozillaApps = @("MozillaFirefox", "MozillaThunderbird")
@@ -58,7 +58,7 @@ function Set-Culture {
 Set-Culture -Culture "en-AU"
 
 # Step through all apps and export result to JSON
-Import-Module -Name "Evergreen" -Force
+Import-Module -Name "Evergreen"
 if (Test-PSCore) {
 
     # Remove extra files for apps that have been removed from Evergreen
