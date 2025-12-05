@@ -3,7 +3,7 @@ title: Adobe Acrobat Reader DC
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 04/12/2025 11:35:08 AM
+last_modified_date: 05/12/2025 11:35:08 AM
 ---
 
 ## Adobe Acrobat Reader DC
@@ -16,15 +16,15 @@ Last check: 🟢
 
 | Version      | Language              | Size | Architecture | URI                                                                                                                                                                                                                    |
 | ------------ | --------------------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.001.20937 | English               | 589  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_en_US.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_en_US.exe) |
-| 25.001.20937 | English (UK)          | 589  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_en_US.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_en_US.exe) |
-| 25.001.20937 | French                | 591  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_fr_FR.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_fr_FR.exe) |
-| 25.001.20937 | German                | 591  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_de_DE.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_de_DE.exe) |
+| 25.001.20982 | English               | 589  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_en_US.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_en_US.exe) |
+| 25.001.20982 | English (UK)          | 589  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_en_US.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_en_US.exe) |
+| 25.001.20982 | French                | 591  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_fr_FR.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_fr_FR.exe) |
+| 25.001.20982 | German                | 591  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_de_DE.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_de_DE.exe) |
+| 25.001.20982 | Japanese              | 599  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_ja_JP.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_ja_JP.exe) |
+| 25.001.20982 | MUI                   | 662  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_MUI.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_MUI.exe)     |
+| 25.001.20982 | Spanish               | 591  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_es_ES.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120982/AcroRdrDCx642500120982_es_ES.exe) |
 | 25.001.20937 | Italian               | 333  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_it_IT.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_it_IT.exe) |
-| 25.001.20937 | Japanese              | 599  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_ja_JP.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_ja_JP.exe) |
-| 25.001.20937 | MUI                   | 662  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_MUI.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_MUI.exe)     |
 | 25.001.20937 | Portuguese            | 342  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_pt_BR.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_pt_BR.exe) |
-| 25.001.20937 | Spanish               | 591  | x64          | [https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_es_ES.exe](https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120937/AcroRdrDCx642500120937_es_ES.exe) |
 | 25.001.20937 | English               | 469  | x86          | [https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120937/AcroRdrDC2500120937_en_US.exe](https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120937/AcroRdrDC2500120937_en_US.exe)         |
 | 25.001.20937 | English (UK)          | 469  | x86          | [https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120937/AcroRdrDC2500120937_en_US.exe](https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120937/AcroRdrDC2500120937_en_US.exe)         |
 | 25.001.20937 | French                | 469  | x86          | [https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120937/AcroRdrDC2500120937_fr_FR.exe](https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120937/AcroRdrDC2500120937_fr_FR.exe)         |
