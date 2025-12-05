@@ -3,7 +3,7 @@ title: Microsoft ODBC Driver for SQL Server (latest)
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 05/12/2025 11:35:08 AM
+last_modified_date: 05/12/2025 1:25:50 PM
 ---
 
 ## Microsoft ODBC Driver for SQL Server (latest)
