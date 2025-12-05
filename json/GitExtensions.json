@@ -1,42 +1,22 @@
 [
   {
-    "Version": "6.0.2",
-    "Date": "9/10/2025",
-    "Size": 23570791,
-    "Sha256": "374739326b942ade9480326f39aeb28215832deef2765d7fd907148a4c52b99c",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.2/GitExtensions-arm64-6.0.2.0-f02a06bf5.unofficial.msi"
-  },
-  {
-    "Version": "6.0.2",
-    "Date": "9/10/2025",
-    "Size": 23769088,
-    "Sha256": "d6bc75bb00e10453bd93f05127611f4447f23c70e2748b9e3018767ab8248311",
+    "Version": "6.0.5",
+    "Date": "28/11/2025",
+    "Size": 24289280,
+    "Sha256": "d925a0a1c96b49687cb099baf0449930f0bcbaa9f13647c44aded770d9f5d3c2",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.2/GitExtensions-x64-6.0.2.18262-f02a06bf5.msi"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.5/GitExtensions-x64-6.0.5.18375-069d8b778.msi"
   },
   {
-    "Version": "6.0.2",
-    "Date": "9/10/2025",
-    "Size": 17318792,
-    "Sha256": "0f3e82539dbec741489413bcf6e5f72b12f40e1467eafab393cc80a0de3e3671",
-    "Architecture": "ARM64",
-    "InstallerType": "Portable",
-    "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.2/GitExtensions-Portable-arm64-6.0.2.0-f02a06bf5.unofficial.zip"
-  },
-  {
-    "Version": "6.0.2",
-    "Date": "9/10/2025",
-    "Size": 17365512,
-    "Sha256": "6d86adf465c4911520e100b0f72aff595e6647656074ec504af57d4188f45837",
+    "Version": "6.0.5",
+    "Date": "28/11/2025",
+    "Size": 17920604,
+    "Sha256": "13bfbc5fc5ba79fe1d62af8cf9bc224d1c6c2ebd1f09d1357599dcb4a83fad52",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.2/GitExtensions-Portable-x64-6.0.2.18262-f02a06bf5.zip"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.5/GitExtensions-Portable-x64-6.0.5.18375-069d8b778.zip"
   }
 ]
