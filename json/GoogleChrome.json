@@ -1,12 +1,30 @@
 [
   {
-    "Version": "145.0.7563.0",
-    "StartDate": "2025-12-05T09:59:08.694315Z",
+    "Version": "145.0.7565.0",
+    "StartDate": "2025-12-06T09:37:39.174227Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
+  },
+  {
+    "Version": "145.0.7561.3",
+    "StartDate": "2025-12-05T18:18:22.035507Z",
+    "EndDate": "N/A",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "145.0.7561.3",
+    "StartDate": "2025-12-05T18:18:22.035507Z",
+    "EndDate": "N/A",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "144.0.7559.3",
@@ -28,30 +46,12 @@
   },
   {
     "Version": "144.0.7559.3",
-    "StartDate": "2025-12-03T20:51:38.080282Z",
-    "EndDate": "N/A",
-    "Channel": "Dev",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
-  },
-  {
-    "Version": "144.0.7559.3",
     "StartDate": "2025-12-03T20:30:51.051652Z",
     "EndDate": "N/A",
     "Channel": "Beta",
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
-  },
-  {
-    "Version": "144.0.7559.3",
-    "StartDate": "2025-12-03T20:51:38.080282Z",
-    "EndDate": "N/A",
-    "Channel": "Dev",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "143.0.7499.41",

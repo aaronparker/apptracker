@@ -1,0 +1,10 @@
+[
+  {
+    "Version": "1.1.4",
+    "Date": "2025-09-15T14:06:10",
+    "Release": "Stable",
+    "Sha512": "2601e67292edb8822fb9314c7894eee2e1666ef013acfa3290c10eb8ba7d7eea6582dbc2e5af8db8f189c3a738307e24d6a024d7ea07c2298f89008dd7b8ff1d",
+    "Type": "msi",
+    "URI": "https://proton.me/download/authenticator/windows/ProtonAuthenticator_1.1.4_x64_en-US.msi"
+  }
+]

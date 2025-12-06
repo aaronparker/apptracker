@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "1.33.0",
+    "Date": "2025-11-21T10:24:42",
+    "Release": "Stable",
+    "Sha512": "703dc7b95ba8ab92231931542f87acde5322b107e860213950792e71c3410970d7f8aac8f106c88635a3b25af8770985eabd2a4718236a215d79b7b28501a07f",
+    "Type": "exe",
+    "URI": "https://proton.me/download/pass/windows/ProtonPass_Setup_1.33.0.exe"
+  },
+  {
+    "Version": "1.14.0",
+    "Date": "2024-02-27T15:19:49",
+    "Release": "EarlyAccess",
+    "Sha512": "05b62b494fb462671e1478d8a838cc18eaf9d26fab9b21fec5448f8468e78ed9333d0d53ecf112531d23d54bb5fe887b16bc39b789905dc5d9339bdbe905cdf6",
+    "Type": "exe",
+    "URI": "https://proton.me/download/PassDesktop/win32/x64/ProtonPass_Setup_1.14.0.exe"
+  }
+]
