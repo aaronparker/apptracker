@@ -3,7 +3,7 @@ title: Adobe Digital Editions
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 06/12/2025 11:36:37 AM
+last_modified_date: 06/12/2025 1:24:20 PM
 ---
 
 ## Adobe Digital Editions
