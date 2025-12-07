@@ -3,7 +3,7 @@ title: Elgato Game Capture
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 07/12/2025 11:31:43 AM
+last_modified_date: 07/12/2025 1:23:52 PM
 ---
 
 ## Elgato Game Capture
