@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "5.11.0",
+    "Date": "9/4/2025",
+    "Size": 186670632,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/meetfranz/franz/releases/download/v5.11.0/Franz-Setup-5.11.0.exe"
+  }
+]

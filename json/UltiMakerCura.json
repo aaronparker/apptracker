@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "5.11.0",
+    "Date": "23/10/2025",
+    "Size": 305453568,
+    "Sha256": "294d4c3907137e789b16b15990bab64380eff5df7c7d9d0d06ec83966f36ffa0",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.11.0/UltiMaker-Cura-5.11.0-win64-X64.exe"
+  },
+  {
+    "Version": "5.11.0",
+    "Date": "23/10/2025",
+    "Size": 341180416,
+    "Sha256": "516c98b40fa49f2da4640b379641ac43e9ae4e72fe363f937b85b14ffe99272f",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.11.0/UltiMaker-Cura-5.11.0-win64-X64.msi"
+  }
+]

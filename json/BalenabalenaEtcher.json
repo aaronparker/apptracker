@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.1.4",
+    "Date": "29/7/2025",
+    "Size": 200116376,
+    "Sha256": "b75321f3f68c6f09332e97dca6b38744067826d114c04e6c05cbceff63631e62",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-2.1.4.Setup.exe"
+  }
+]

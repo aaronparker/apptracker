@@ -18,15 +18,5 @@
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/usebruno/bruno/releases/download/v2.15.1/bruno_2.15.1_x64_win.msi"
-  },
-  {
-    "Version": "2.15.1",
-    "Date": "4/12/2025",
-    "Size": 168764086,
-    "Sha256": "50512534bf19ab16c311b3cbf7a2e344a8300041017a45d7d55234f1470c561d",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "zip",
-    "URI": "https://github.com/usebruno/bruno/releases/download/v2.15.1/bruno_2.15.1_x64_win.zip"
   }
 ]

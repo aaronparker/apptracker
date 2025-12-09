@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "0.16.1",
+    "Date": "20/10/2025",
+    "Size": 6156288,
+    "Sha256": "f20c901a31792c3870ead962c60829f5406055729b2f0869c293886f39e86d3a",
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/alacritty/alacritty/releases/download/v0.16.1/Alacritty-v0.16.1-portable.exe"
+  },
+  {
+    "Version": "0.16.1",
+    "Date": "20/10/2025",
+    "Size": 2412544,
+    "Sha256": "bd80cc36f59040be0eb0301081390b13409c64512fa1881bccf3e23e2f88fbb8",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/alacritty/alacritty/releases/download/v0.16.1/Alacritty-v0.16.1-installer.msi"
+  }
+]

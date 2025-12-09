@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "3.4.2",
+    "Date": "13/1/2025",
+    "Size": 49750458,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/TypesettingTools/Aegisub/releases/download/v3.4.2/Aegisub-3.4.2.exe"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.5.0.0",
+    "Date": "29/1/2023",
+    "Size": 2269184,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/jimradford/superputty/releases/download/1.5.0.0/SuperPuttySetup-1.5.0.0.msi"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "2.2.2",
+    "Date": "18/1/2025",
+    "Size": 2564096,
+    "Sha256": null,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.2.2/WinDirStat-arm.msi"
+  },
+  {
+    "Version": "2.2.2",
+    "Date": "18/1/2025",
+    "Size": 2535424,
+    "Sha256": null,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.2.2/WinDirStat-arm64.msi"
+  },
+  {
+    "Version": "2.2.2",
+    "Date": "18/1/2025",
+    "Size": 2580480,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.2.2/WinDirStat-x64.msi"
+  },
+  {
+    "Version": "2.2.2",
+    "Date": "18/1/2025",
+    "Size": 2367488,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/windirstat/windirstat/releases/download/release/v2.2.2/WinDirStat-x86.msi"
+  }
+]

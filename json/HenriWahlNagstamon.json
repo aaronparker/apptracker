@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "3.16.2",
+    "Date": "24/10/2024",
+    "Size": 42701088,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/HenriWahl/Nagstamon/releases/download/v3.16.2/Nagstamon-3.16.2-win64_setup.exe"
+  },
+  {
+    "Version": "3.16.2",
+    "Date": "24/10/2024",
+    "Size": 33604192,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/HenriWahl/Nagstamon/releases/download/v3.16.2/Nagstamon-3.16.2-win32_setup.exe"
+  }
+]

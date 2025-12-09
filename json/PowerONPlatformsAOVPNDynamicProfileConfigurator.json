@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "5.2.2",
+    "Date": "30/9/2025",
+    "Size": 1245184,
+    "Sha256": "fcf9264c72916450ae66891d680c3fa5c762efbf668a5f02f87571c7e344006f",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/ld0614/DPC/releases/download/v5.2.2/DPC.msi"
+  }
+]

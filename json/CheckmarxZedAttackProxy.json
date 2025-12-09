@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2.16.1",
+    "Date": "25/3/2025",
+    "Size": 245210624,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/zaproxy/zaproxy/releases/download/v2.16.1/ZAP_2_16_1_windows-x32.exe"
+  },
+  {
+    "Version": "2.16.1",
+    "Date": "25/3/2025",
+    "Size": 245386752,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/zaproxy/zaproxy/releases/download/v2.16.1/ZAP_2_16_1_windows.exe"
+  }
+]

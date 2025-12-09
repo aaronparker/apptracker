@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "3.4.2",
+    "Date": "19/12/2024",
+    "Size": 7349162,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/IronLanguages/ironpython3/releases/download/v3.4.2/IronPython-3.4.2.msi"
+  }
+]

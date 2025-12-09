@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "3.4.12",
+    "Date": "9/9/2025",
+    "Size": 230085032,
+    "Sha256": "e79957677b4530514470f39b770c32abb889a2d21c66d1b6282d49f31e9a4461",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/laurent22/joplin/releases/download/v3.4.12/Joplin-Setup-3.4.12.exe"
+  },
+  {
+    "Version": "3.4.12",
+    "Date": "9/9/2025",
+    "Size": 229855288,
+    "Sha256": "9456adf4089c1c14885549c67393c9f35a9741e68888200fb339f63aaa125f06",
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/laurent22/joplin/releases/download/v3.4.12/JoplinPortable.exe"
+  }
+]

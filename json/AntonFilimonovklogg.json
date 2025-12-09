@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "22.06",
+    "Date": "14/6/2022",
+    "Size": 12559448,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/variar/klogg/releases/download/v22.06/klogg-22.06.0.1289-Win-x64-Qt5-setup.exe"
+  },
+  {
+    "Version": "22.06",
+    "Date": "14/6/2022",
+    "Size": 12966392,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/variar/klogg/releases/download/v22.06/klogg-22.06.0.1289-Win-x64-Qt6-setup.exe"
+  },
+  {
+    "Version": "22.06",
+    "Date": "14/6/2022",
+    "Size": 9246824,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/variar/klogg/releases/download/v22.06/klogg-22.06.0.1289-Win-x86-Qt5-setup.exe"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2.3.6",
+    "Date": "9/4/2025",
+    "Size": 157497056,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.6/arduino-ide_2.3.6_Windows_64bit.exe"
+  },
+  {
+    "Version": "2.3.6",
+    "Date": "9/4/2025",
+    "Size": 166494208,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.6/arduino-ide_2.3.6_Windows_64bit.msi"
+  }
+]

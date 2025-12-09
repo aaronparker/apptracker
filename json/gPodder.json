@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "3.11.5",
+    "Date": "19/12/2024",
+    "Size": 35871209,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/gpodder/gpodder/releases/download/3.11.5/windows-gpodder-3.11.5-installer.exe"
+  },
+  {
+    "Version": "3.11.5",
+    "Date": "19/12/2024",
+    "Size": 35954673,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/gpodder/gpodder/releases/download/3.11.5/windows-gpodder-3.11.5-portable.exe"
+  }
+]

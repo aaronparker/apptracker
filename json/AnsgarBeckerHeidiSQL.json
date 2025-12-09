@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "12.13.0.7147",
+    "Date": "3/11/2025",
+    "Size": 17691720,
+    "Sha256": "aa0810276401d650950b85dbee0079be1363c10ddce91b357e25377148c59fcb",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.13.0.7147/HeidiSQL_12.13.0.7147_Setup.exe"
+  }
+]

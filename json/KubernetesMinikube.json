@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.37.0",
+    "Date": "9/9/2025",
+    "Size": 140558336,
+    "Sha256": "4cd2ecacf064319e0c38768d40ef698d7d9bf3e2fa1b4a9016293034cac04d9c",
+    "Architecture": "x64",
+    "InstallerType": "Minimal",
+    "Type": "exe",
+    "URI": "https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube-windows-amd64.exe"
+  },
+  {
+    "Version": "1.37.0",
+    "Date": "9/9/2025",
+    "Size": 53713599,
+    "Sha256": "60f28cb53794c4cf572fa4e13240e3fe6ab987e9129387ac9a81e13c5494135b",
+    "Architecture": "x86",
+    "InstallerType": "Minimal",
+    "Type": "exe",
+    "URI": "https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube-installer.exe"
+  }
+]

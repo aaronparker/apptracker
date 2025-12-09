@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.10.54",
+    "Date": "16/10/2025",
+    "Size": 19495907,
+    "Sha256": "e9afc83714623ef2a8fd0e38bfd608341d500c5ce26227e4a14160a7ae864702",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/rcaelers/workrave/releases/download/v1_10_54/workrave-win32-v1.10.54.exe"
+  }
+]

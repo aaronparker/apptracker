@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "5.20.0",
+    "Date": "23/10/2025",
+    "Size": 19619840,
+    "Sha256": "68bc735b82aeb7af8660a770b6626be2adba5403e8112c62bab254ba5b917960",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/osquery/osquery/releases/download/5.20.0/osquery-5.20.0.msi"
+  }
+]

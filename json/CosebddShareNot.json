@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "17.1.0",
+    "Date": "2/6/2025",
+    "Size": 48779396,
+    "Sha256": "dfefb55a653eaabaa6b2e7c4d000a899d14113c32244056af1121aab840bdc03",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Cosebdd/ShareNot/releases/download/v17.1.0/ShareNot-17.1.0-setup.exe"
+  }
+]

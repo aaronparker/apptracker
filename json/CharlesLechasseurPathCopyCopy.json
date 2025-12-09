@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "20.0",
+    "Date": "29/8/2021",
+    "Size": 2492160,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/clechasseur/pathcopycopy/releases/download/v20.0/PathCopyCopy20.0.exe"
+  }
+]

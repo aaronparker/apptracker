@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "25.11.1",
+    "Date": "4/12/2025",
+    "Size": 43687936,
+    "Sha256": "6396c9059f71e3ed9eed26c4368fc121b009d04ad2c24931a3d58e4e342100d4",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/hoppscotch/releases/releases/download/v25.11.1-0/Hoppscotch_SelfHost_win_x64.msi"
+  },
+  {
+    "Version": "25.11.1",
+    "Date": "4/12/2025",
+    "Size": 44564480,
+    "Sha256": "bc2cd41dde27be91b0b0cbbd84703fb3a460c7874dd07f28ebb20a1493880320",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/hoppscotch/releases/releases/download/v25.11.1-0/Hoppscotch_win_x64.msi"
+  }
+]

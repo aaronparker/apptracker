@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "4.3.1",
+    "Date": "8/7/2022",
+    "Size": 32392211,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeGuru_win64_4.3.1.exe"
+  },
+  {
+    "Version": "4.3.1",
+    "Date": "8/7/2022",
+    "Size": 27547549,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeGuru_win32_4.3.1.exe"
+  }
+]

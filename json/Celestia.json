@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.6.4",
+    "Date": "4/11/2023",
+    "Size": 38026435,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/CelestiaProject/Celestia/releases/download/1.6.4/celestia-1.6.4.exe"
+  }
+]

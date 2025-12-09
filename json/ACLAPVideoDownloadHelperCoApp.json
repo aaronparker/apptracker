@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "2.0.19",
+    "Date": "19/2/2024",
+    "Size": 38808904,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/aclap-dev/vdhcoapp/releases/download/v2.0.19/vdhcoapp-win7-x86_64-installer.exe"
+  },
+  {
+    "Version": "2.0.19",
+    "Date": "19/2/2024",
+    "Size": 41501304,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/aclap-dev/vdhcoapp/releases/download/v2.0.19/vdhcoapp-windows-x86_64-installer.exe"
+  },
+  {
+    "Version": "2.0.19",
+    "Date": "19/2/2024",
+    "Size": 36542024,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/aclap-dev/vdhcoapp/releases/download/v2.0.19/vdhcoapp-win7-i686-installer.exe"
+  },
+  {
+    "Version": "2.0.19",
+    "Date": "19/2/2024",
+    "Size": 36536608,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/aclap-dev/vdhcoapp/releases/download/v2.0.19/vdhcoapp-windows-i686-installer.exe"
+  }
+]

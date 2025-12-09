@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.0.2",
+    "Date": "5/8/2025",
+    "Size": 428219632,
+    "Sha256": "1a37e156064113c069f58e40966bc1efdcc870a5471781a5322dfbb70697be73",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/FreeCAD/FreeCAD/releases/download/1.0.2/FreeCAD_1.0.2-conda-Windows-x86_64-installer-1.exe"
+  }
+]

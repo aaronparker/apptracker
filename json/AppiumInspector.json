@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "2025.11.1",
+    "Date": "16/11/2025",
+    "Size": 137287704,
+    "Sha256": "985fe8b643ea0d9e06f860815f2bf006a8fa593335e504fc93f92f19bd128bab",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/appium/appium-inspector/releases/download/v2025.11.1/Appium-Inspector-2025.11.1-win-arm64.exe"
+  },
+  {
+    "Version": "2025.11.1",
+    "Date": "16/11/2025",
+    "Size": 134989720,
+    "Sha256": "0c0fb3254af6498ad91be47c0bb1744feb0f2b3a78c840293cb4a7fcfc491f2a",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/appium/appium-inspector/releases/download/v2025.11.1/Appium-Inspector-2025.11.1-win-x64.exe"
+  },
+  {
+    "Version": "2025.11.1",
+    "Date": "16/11/2025",
+    "Size": 271626768,
+    "Sha256": "44902daee33fb3bf6670673c5b9250fc631a86d56e379854999c78e6190890e6",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/appium/appium-inspector/releases/download/v2025.11.1/Appium-Inspector-2025.11.1-win.exe"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.16.0",
+    "Date": "2/8/2025",
+    "Size": 28602780,
+    "Sha256": "cb72ddc91b74831a74fea758449d60bea670a20750e01079e535c7857e0f4c9b",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/renode/renode/releases/download/v1.16.0/renode_1.16.0.msi"
+  }
+]

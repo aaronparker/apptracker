@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.25.0",
+    "Date": "21/11/2025",
+    "Size": 14080458,
+    "Sha256": "61a74ee7a92c921e74948ba1112fd5cb63894e35ec3b28c63aa3f2c372b8a3fe",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/deskflow/deskflow/releases/download/v1.25.0/deskflow-1.25.0-win-arm64.msi"
+  },
+  {
+    "Version": "1.25.0",
+    "Date": "21/11/2025",
+    "Size": 15706556,
+    "Sha256": "a766301eeb2ca3d3a960128020198fd9c7b65c1de13d86f169a6e6ea1fb82424",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/deskflow/deskflow/releases/download/v1.25.0/deskflow-1.25.0-win-x64.msi"
+  }
+]

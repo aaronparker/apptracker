@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "3.10.4",
+    "Date": "18/11/2024",
+    "Size": 230618624,
+    "Sha256": "4bd1ce47281d5ca03ec3d90de6a7bc03320a7f81df81d2d6f0c5febbd7a4346b",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/cytoscape/cytoscape/releases/download/3.10.4/Cytoscape_3_10_4_windows_64bit.exe"
+  }
+]

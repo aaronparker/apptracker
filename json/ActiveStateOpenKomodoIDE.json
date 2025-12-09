@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "12.0.1",
+    "Date": "12/12/2022",
+    "Size": 94408704,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/ActiveState/OpenKomodoIDE/releases/download/12.0.1/Komodo-IDE-12.0.1-91869.msi"
+  }
+]

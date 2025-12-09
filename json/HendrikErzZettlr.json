@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "3.6.0",
+    "Date": "31/7/2025",
+    "Size": 129884320,
+    "Sha256": "1db36800f7d96166af19185939b30f9b382db78792eb969e36101ca4f577a677",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Zettlr/Zettlr/releases/download/v3.6.0/Zettlr-3.6.0-x64.exe"
+  }
+]

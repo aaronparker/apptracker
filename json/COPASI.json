@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "4.45",
+    "Date": "28/3/2025",
+    "Size": 63918239,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/copasi/COPASI/releases/download/Build-298/COPASI-4.45.298-Windows.exe"
+  }
+]

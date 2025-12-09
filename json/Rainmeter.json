@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "4.5.23.3836",
+    "Date": "12/4/2025",
+    "Size": 2552240,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/rainmeter/rainmeter/releases/download/v4.5.23.3836/Rainmeter-4.5.23.exe"
+  }
+]

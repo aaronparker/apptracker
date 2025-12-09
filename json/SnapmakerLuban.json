@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "4.15.0",
+    "Date": "10/1/2025",
+    "Size": 153919800,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Snapmaker/Luban/releases/download/v4.15.0/Snapmaker-Luban-4.15.0-win-x64.exe"
+  }
+]

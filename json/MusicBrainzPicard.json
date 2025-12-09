@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2.13.3",
+    "Date": "17/2/2025",
+    "Size": 46950816,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/metabrainz/picard/releases/download/release-2.13.3/MusicBrainz-Picard-2.13.3.exe"
+  },
+  {
+    "Version": "2.13.3",
+    "Date": "17/2/2025",
+    "Size": 32331256,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/metabrainz/picard/releases/download/release-2.13.3/picard-setup-2.13.3.exe"
+  }
+]

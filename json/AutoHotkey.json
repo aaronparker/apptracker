@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.0.19",
+    "Date": "25/1/2025",
+    "Size": 3032064,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.19/AutoHotkey_2.0.19_setup.exe"
+  }
+]

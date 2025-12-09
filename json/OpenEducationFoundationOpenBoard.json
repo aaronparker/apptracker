@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.7.3",
+    "Date": "17/12/2024",
+    "Size": 195376303,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.3/OpenBoard_Installer_1.7.3.exe"
+  }
+]

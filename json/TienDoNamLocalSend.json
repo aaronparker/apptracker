@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.17.0",
+    "Date": "19/2/2025",
+    "Size": 14895464,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe"
+  }
+]

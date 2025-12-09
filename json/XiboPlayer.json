@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "4R405",
+    "Date": "23/5/2025",
+    "Size": 151041024,
+    "Sha256": "62e6caec1d86a63d44bc35cbbfc8874f92abbc561df06a2a791eb43fae0512f2",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R405/xibo-client-v4-R405.3-win32-x86.msi"
+  },
+  {
+    "Version": "4R405",
+    "Date": "23/5/2025",
+    "Size": 150952448,
+    "Sha256": "2ab7e222ff7aa16b0b7bb64fc7ecac002f6f52405c4582ac2086b0c462477d8c",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R405/XiboScreenThree_v4R405.msi"
+  },
+  {
+    "Version": "4R405",
+    "Date": "23/5/2025",
+    "Size": 150953984,
+    "Sha256": "10b26392fefba5c0ca0c783393cdbb05e06185e6385016e8017601cb87a49e10",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R405/XiboScreenTwo_v4R405.msi"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "21.1.16.1",
+    "Date": "10/3/2025",
+    "Size": 43873685,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Debug",
+    "Type": "exe",
+    "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64-debug.21.1.16.1.installer.exe"
+  },
+  {
+    "Version": "21.1.16.1",
+    "Date": "10/3/2025",
+    "Size": 43875010,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Minimal",
+    "Type": "exe",
+    "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64-debug.21.1.16.1.installer.noadmin.exe"
+  },
+  {
+    "Version": "21.1.16.1",
+    "Date": "10/3/2025",
+    "Size": 42993397,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64.21.1.16.1.installer.exe"
+  },
+  {
+    "Version": "21.1.16.1",
+    "Date": "10/3/2025",
+    "Size": 42998523,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Minimal",
+    "Type": "exe",
+    "URI": "https://github.com/marchaesen/vcxsrv/releases/download/21.1.16.1/vcxsrv-64.21.1.16.1.installer.noadmin.exe"
+  }
+]

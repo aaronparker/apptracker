@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.2.10",
+    "Date": "7/12/2025",
+    "Size": 42856005,
+    "Sha256": "21caa25687854ba397df9f7612b76b095b220a10857e12672f4faa5e6876f8c4",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/xournalpp/xournalpp/releases/download/v1.2.10/xournalpp-1.2.10-windows-setup-ARM64.exe"
+  },
+  {
+    "Version": "1.2.10",
+    "Date": "7/12/2025",
+    "Size": 49157246,
+    "Sha256": "ae65eaec4222d1cdc333201a15a8726e8ff0a128c74bb0790fc815d05c07b854",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/xournalpp/xournalpp/releases/download/v1.2.10/xournalpp-1.2.10-windows-setup-AMD64.exe"
+  }
+]

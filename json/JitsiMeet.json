@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2025.10.0",
+    "Date": "4/10/2025",
+    "Size": 261027439,
+    "Sha256": "1ae9c39c0177d504c88b9021762f5a9e719240538f8fdfdf4e67c22bbcc17803",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet.exe"
+  }
+]

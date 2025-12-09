@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.8.5",
+    "Date": "7/5/2025",
+    "Size": 22187863,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.8.5/caesium-image-compressor-2.8.5-win-setup.exe"
+  }
+]

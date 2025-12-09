@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "0.13.2",
+    "Date": "8/12/2025",
+    "Size": 1235298976,
+    "Sha256": "5a189094db33ece0db8b771689d27177ba85bc33f7bc9470f0888fdba750ef2e",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ollama/ollama/releases/download/v0.13.2/OllamaSetup.exe"
+  }
+]

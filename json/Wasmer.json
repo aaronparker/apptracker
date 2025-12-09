@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "6.1.0",
+    "Date": "8/10/2025",
+    "Size": 66291818,
+    "Sha256": "c1bec9bf42d93835fbd338a7633661a16e0f0f7c931d2a226b4aa16d957b6807",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/wasmerio/wasmer/releases/download/v6.1.0/wasmer-windows.exe"
+  }
+]

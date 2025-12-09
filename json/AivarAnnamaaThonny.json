@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "4.1.7",
+    "Date": "16/12/2024",
+    "Size": 23475936,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe"
+  },
+  {
+    "Version": "4.1.7",
+    "Date": "16/12/2024",
+    "Size": 18403264,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-py38-4.1.7.exe"
+  },
+  {
+    "Version": "4.1.7",
+    "Date": "16/12/2024",
+    "Size": 80497424,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-xxl-4.1.7.exe"
+  }
+]

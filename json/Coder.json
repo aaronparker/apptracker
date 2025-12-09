@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.28.5",
+    "Date": "1/12/2025",
+    "Size": 129999216,
+    "Sha256": "75ace61a2fd6c9a30179ef64853f2ee7608ad17bd644c178e67bef383dc10143",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/coder/coder/releases/download/v2.28.5/coder_2.28.5_windows_amd64_installer.exe"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.36.19",
+    "Date": "13/3/2025",
+    "Size": 5896704,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/Versent/saml2aws/releases/download/v2.36.19/saml2aws_2.36.19_windows_amd64.msi"
+  }
+]

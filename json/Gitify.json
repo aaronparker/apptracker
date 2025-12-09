@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "6.14.1",
+    "Date": "25/11/2025",
+    "Size": 90380404,
+    "Sha256": "e04a0a7a888c8987e2235dd6550590a303037a39849515eeaf1d50df2ecfa3b2",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/gitify-app/gitify/releases/download/v6.14.1/Gitify-Setup-6.14.1.exe"
+  }
+]

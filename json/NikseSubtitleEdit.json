@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "4.0.14",
+    "Date": "28/10/2025",
+    "Size": 11335904,
+    "Sha256": "8b013143a18008487ffc9af453afc6eac80915f161c0801f4d21a205da110e1a",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.14/SubtitleEdit-4.0.14-Setup.exe"
+  }
+]

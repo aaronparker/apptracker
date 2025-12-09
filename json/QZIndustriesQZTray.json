@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2.2.5",
+    "Date": "12/6/2025",
+    "Size": 101061992,
+    "Sha256": "b350b1f475d4e84d1c75e451acb9ae2046c69cc7b9ec5066dfc5a1e2a5e8a471",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/qzind/tray/releases/download/v2.2.5/qz-tray-2.2.5-arm64.exe"
+  },
+  {
+    "Version": "2.2.5",
+    "Date": "12/6/2025",
+    "Size": 103736384,
+    "Sha256": "0a2aa9a1cf4c6978bdb83f7c5ac7c44687192cf1e6cc26c7dc04d0d2cb297a30",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/qzind/tray/releases/download/v2.2.5/qz-tray-2.2.5-x86_64.exe"
+  }
+]

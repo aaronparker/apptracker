@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.5.0",
+    "Date": "30/5/2025",
+    "Size": 112978817,
+    "Sha256": "44ea3fc3e3a496c98f826b6fe5b99782822d7a039d93b280055c78453bdbe32f",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.0/Quba.Setup.1.5.0.exe"
+  },
+  {
+    "Version": "1.5.0",
+    "Date": "30/5/2025",
+    "Size": 124030976,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/ZUGFeRD/quba-viewer/releases/download/v1.5.0/Quba.1.5.0.msi"
+  }
+]

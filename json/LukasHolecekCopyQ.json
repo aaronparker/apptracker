@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "13.0.0",
+    "Date": "22/10/2025",
+    "Size": 19280358,
+    "Sha256": "2564b81819d054e87ca578e1ef1c3377af1863d28f0019bdb0fe6984cb06ce03",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/hluk/CopyQ/releases/download/v13.0.0/copyq-13.0.0-setup.exe"
+  }
+]

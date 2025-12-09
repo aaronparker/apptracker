@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "2.1.0",
+    "Date": "15/11/2024",
+    "Size": 37089280,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/PeculiarVentures/fortify-releases/releases/download/v2.1.0/Fortify_2.1.0_x64_de-DE.msi"
+  },
+  {
+    "Version": "2.1.0",
+    "Date": "15/11/2024",
+    "Size": 37085184,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/PeculiarVentures/fortify-releases/releases/download/v2.1.0/Fortify_2.1.0_x64_en-US.msi"
+  },
+  {
+    "Version": "2.1.0",
+    "Date": "15/11/2024",
+    "Size": 32325632,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/PeculiarVentures/fortify-releases/releases/download/v2.1.0/Fortify_2.1.0_x86_de-DE.msi"
+  },
+  {
+    "Version": "2.1.0",
+    "Date": "15/11/2024",
+    "Size": 32321536,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/PeculiarVentures/fortify-releases/releases/download/v2.1.0/Fortify_2.1.0_x86_en-US.msi"
+  }
+]

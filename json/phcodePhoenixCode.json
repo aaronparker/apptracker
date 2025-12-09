@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "4.0.3",
+    "Date": "31/1/2025",
+    "Size": 53792464,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/phcode-dev/phoenix-desktop/releases/download/prod-app-v4.0.3/Phoenix.Code_4.0.3_x64-setup.exe"
+  }
+]

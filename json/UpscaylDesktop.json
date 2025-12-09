@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.15.0",
+    "Date": "25/12/2024",
+    "Size": 260912662,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-win.exe"
+  }
+]

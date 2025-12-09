@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "5.2.1",
+    "Date": "26/9/2025",
+    "Size": 84107832,
+    "Sha256": "9ac11fee7cf98204a3bda52301709d9f463fe215101f2e4c694ca28d6de4c299",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/sn4k3/UVtools/releases/download/v5.2.1/UVtools_win-x64_v5.2.1.msi"
+  }
+]

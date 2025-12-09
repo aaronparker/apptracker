@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.3.4466.51",
+    "Date": "4/12/2025",
+    "Size": 289074064,
+    "Sha256": "d6b43bf1832d2f2f3f44d7942bb9d6a6c32f17ec4acc711a2458daa8db7cda8b",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.4466.51/Pritunl.exe"
+  }
+]

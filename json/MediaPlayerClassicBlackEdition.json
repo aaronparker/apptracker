@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.8.8",
+    "Date": "26/10/2025",
+    "Size": 19525792,
+    "Sha256": "bfe309ffd76d9e79c599d9b925eda3f75e042a3005f75da1f5768c9080e424fb",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x64-installer.zip"
+  },
+  {
+    "Version": "1.8.8",
+    "Date": "26/10/2025",
+    "Size": 17958357,
+    "Sha256": "a94bdd7fb7004de3e921d15c5973032162a9ccd6ed42070100e7cc253b20dabd",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x86-installer.zip"
+  }
+]

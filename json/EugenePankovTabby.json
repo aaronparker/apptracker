@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.0.229",
+    "Date": "11/11/2025",
+    "Size": 125613080,
+    "Sha256": "22eb190b62c28aeb61df90f5614da6540cb860530440b781c68603e87050ecd1",
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-arm64.exe"
+  },
+  {
+    "Version": "1.0.229",
+    "Date": "11/11/2025",
+    "Size": 123800872,
+    "Sha256": "2b18c689f6c9c2770268d22878b77f3d53a8b30089921dcef663325b7da7dcd3",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-x64.exe"
+  }
+]

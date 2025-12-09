@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "0.6.15",
+    "Date": "10/3/2025",
+    "Size": 87979072,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/loft-sh/devpod/releases/download/v0.6.15/devpod-windows-amd64.exe"
+  },
+  {
+    "Version": "0.6.15",
+    "Date": "10/3/2025",
+    "Size": 22769488,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/loft-sh/devpod/releases/download/v0.6.15/DevPod_0.6.15_x64-setup.exe"
+  },
+  {
+    "Version": "0.6.15",
+    "Date": "10/3/2025",
+    "Size": 33705984,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/loft-sh/devpod/releases/download/v0.6.15/DevPod_windows_x64_en-US.msi"
+  }
+]

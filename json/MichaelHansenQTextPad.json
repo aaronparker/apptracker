@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "1.12",
+    "Date": "18/12/2024",
+    "Size": 22936126,
+    "Sha256": null,
+    "Architecture": "ARM64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/zrax/qtextpad/releases/download/1.12/qtextpad-arm64-1.12.exe"
+  },
+  {
+    "Version": "1.12",
+    "Date": "18/12/2024",
+    "Size": 37176785,
+    "Sha256": null,
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/zrax/qtextpad/releases/download/1.12/qtextpad-win64-1.12.exe"
+  }
+]

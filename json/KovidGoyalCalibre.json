@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "8.16.2",
+    "Date": "6/12/2025",
+    "Size": 186881288,
+    "Sha256": "5a64cb449b32592393c7db4b737e7814c6197cb5a12ea46087fcb8bc07a05679",
+    "Architecture": "x86",
+    "InstallerType": "Portable",
+    "Type": "exe",
+    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v8.16.2/calibre-portable-installer-8.16.2.exe"
+  },
+  {
+    "Version": "8.16.2",
+    "Date": "6/12/2025",
+    "Size": 205926400,
+    "Sha256": "7f052a6027d2331ce214cd4cbf7d8b12125b39a420309745cc6974cf3a000d50",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v8.16.2/calibre-64bit-8.16.2.msi"
+  }
+]

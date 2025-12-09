@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.1.2",
+    "Date": "3/2/2022",
+    "Size": 174964208,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/microsoft/BotFramework-Composer/releases/download/v2.1.2/BotFramework-Composer-2.1.2-windows-setup.exe"
+  }
+]

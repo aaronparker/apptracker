@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "0.17.1",
+    "Date": "7/3/2022",
+    "Size": 156301724,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe"
+  }
+]

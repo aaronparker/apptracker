@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "1.1.30",
+    "Date": "9/11/2025",
+    "Size": 10484053,
+    "Sha256": "af904850e9bd261c960e6b5ccd6fe6ae04ff5ef1819e5edf7edb772ca0dde03a",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.30/doublecmd-1.1.30.x86_64-win64.exe"
+  },
+  {
+    "Version": "1.1.30",
+    "Date": "9/11/2025",
+    "Size": 9818746,
+    "Sha256": "c53abb599970215398f228c4c4f6472d238aa2c3a61fc827b6d1fffad4961d7c",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.30/doublecmd-1.1.30.i386-win32.exe"
+  },
+  {
+    "Version": "1.1.30",
+    "Date": "9/11/2025",
+    "Size": 17049267,
+    "Sha256": "0656bb2be4536c35878f34e210c76a9974883d070ca66a24d418ba8538830910",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.30/doublecmd-1.1.30.x86_64-win64.msi"
+  },
+  {
+    "Version": "1.1.30",
+    "Date": "9/11/2025",
+    "Size": 15935108,
+    "Sha256": "e991f253e4fc0f40cb29de640d3555cdcd5e0e402671a399fc17a50227f67376",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.30/doublecmd-1.1.30.i386-win32.msi"
+  }
+]

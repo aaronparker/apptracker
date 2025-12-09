@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.5.0",
+    "Date": "25/5/2020",
+    "Size": 126299800,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/gynzy/gynzy-desktop-releases/releases/download/v2.5.0/GynzyDesktop.exe"
+  }
+]

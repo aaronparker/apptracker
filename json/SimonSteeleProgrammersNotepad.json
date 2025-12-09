@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "2.4.2",
+    "Date": "3/12/2016",
+    "Size": 2492493,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/simonsteele/pn/releases/download/v2.4.2/pn2421440_multilang.exe"
+  }
+]

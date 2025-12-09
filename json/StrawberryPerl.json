@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "SP_54201_64bit",
+    "Date": "6/8/2025",
+    "Size": 208041862,
+    "Sha256": "ce92ab399feaa26d1be46090ee6eff4f29b785f3711b72a3a0d6eb08da1ad6ef",
+    "Architecture": "x64",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54201_64bit/strawberry-perl-5.42.0.1-64bit.msi"
+  }
+]
