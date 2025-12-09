@@ -70,6 +70,20 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     New-Item -Path $ChildPath -ItemType "Directory" -ErrorAction "SilentlyContinue" | Out-Null
     Set-Content -Path (Join-Path -Path $ChildPath -ChildPath "index.md") -Value ($AppIndex -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()) -Force -Encoding "Utf8" -NoNewline
 
+    # Check if this file was in the changed files list
+    $FileWasChanged = if ($ChangedFiles) {
+        $ChangedFiles -contains $File.Name -or $ChangedFiles -contains "json/$($File.Name)"
+    }
+    else {
+        $true  # If no ChangedFiles provided, process all files
+    }
+
+    # Skip if file wasn't changed and we have a ChangedFiles list
+    if ($ChangedFiles -and -not $FileWasChanged) {
+        Write-Host "Skipping $($File.Name) - not in changed files list" -ForegroundColor "Gray"
+        continue
+    }
+
     # Output the file being processed
     Write-Host "Processing $($File.FullName)" -ForegroundColor "Green"
 
