@@ -3,7 +3,7 @@ title: Elgato Video Capture
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 09/12/2025 11:36:26 AM
+last_modified_date: 09/12/2025 1:28:05 PM
 ---
 
 ## Elgato Video Capture

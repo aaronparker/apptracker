@@ -3,7 +3,7 @@ title: Maximus5 ConEmu
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 09/12/2025 11:36:26 AM
+last_modified_date: 09/12/2025 1:28:05 PM
 ---
 
 ## Maximus5 ConEmu

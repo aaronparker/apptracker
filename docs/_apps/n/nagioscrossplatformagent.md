@@ -3,7 +3,7 @@ title: Nagios Cross-Platform Agent
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 09/12/2025 11:36:26 AM
+last_modified_date: 09/12/2025 1:28:05 PM
 ---
 
 ## Nagios Cross-Platform Agent
