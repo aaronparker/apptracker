@@ -48,3 +48,7 @@ node_modules
 package.json
 package-lock.json
 .wrangler
+
+# Workflow files
+changed-files-hosted.txt
+changed-files-pwsh.txt
