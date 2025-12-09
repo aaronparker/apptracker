@@ -3,7 +3,7 @@ title: dotPDN LLC Paint.NET
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 09/12/2025 4:46:39 AM
+last_modified_date: 09/12/2025 11:36:26 AM
 ---
 
 ## dotPDN LLC Paint.NET
@@ -12,7 +12,10 @@ last_modified_date: 09/12/2025 4:46:39 AM
 
 Evergreen app: `PaintDotNet`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 429 (Too Many Requests).
+```
 
 | Version         | Channel | Architecture | URI                                                                                                                                                                                                                  |
 | --------------- | ------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
