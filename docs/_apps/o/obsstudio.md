@@ -3,7 +3,7 @@ title: OBS Studio
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 08/12/2025 1:27:22 PM
+last_modified_date: 09/12/2025 4:46:39 AM
 ---
 
 ## OBS Studio
@@ -12,7 +12,10 @@ last_modified_date: 08/12/2025 1:27:22 PM
 
 Evergreen app: `OBSStudio`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version | Architecture | URI                                                                                                                                                                                |
 | ------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -3,7 +3,7 @@ title: JetBrains Gateway
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 08/12/2025 1:27:22 PM
+last_modified_date: 09/12/2025 4:46:39 AM
 ---
 
 ## JetBrains Gateway
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsGateway`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build       | Edition | Sha256                                                                           | Date       | Size      | Type | URI                                                                                                                                                    |
-| -------- | ----------- | ------- | -------------------------------------------------------------------------------- | ---------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.2.5 | 252.28238.6 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.2.5.exe.sha256 | 26/11/2025 | 347774504 | exe  | [https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.2.5.exe](https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.2.5.exe) |
+| Version | Build         | Edition | Sha256                                                                         | Date      | Size      | Type | URI                                                                                                                                                |
+| ------- | ------------- | ------- | ------------------------------------------------------------------------------ | --------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025.3  | 253.28294.342 | Gateway | https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.exe.sha256 | 8/12/2025 | 241102088 | exe  | [https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.exe](https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.exe) |

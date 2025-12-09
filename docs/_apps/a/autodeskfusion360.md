@@ -3,7 +3,7 @@ title: Autodesk Fusion 360
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 08/12/2025 1:27:22 PM
+last_modified_date: 09/12/2025 4:46:39 AM
 ---
 
 ## Autodesk Fusion 360
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | Type | Filename                     | URI                                                                                                                                                                                            |
 | --------- | ---- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2605.1.39 | exe  | Fusion 360 Admin Install.exe | [https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe](https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe) |
+| 2605.1.52 | exe  | Fusion 360 Admin Install.exe | [https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe](https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe) |

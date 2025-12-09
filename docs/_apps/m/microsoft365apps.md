@@ -3,7 +3,7 @@ title: Microsoft 365 Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 08/12/2025 1:27:22 PM
+last_modified_date: 09/12/2025 4:46:39 AM
 ---
 
 ## Microsoft 365 Apps
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version          | ReleaseVersion | Channel           | Name                             | Date                | EOSDate             | URI                                                                                                    |
 | ---------------- | -------------- | ----------------- | -------------------------------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
+| 16.0.19530.20006 | 2512           | CurrentPreview    | Current Channel (Preview)        | 12/08/2025 17:33:44 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.19426.20170 | 2511           | Current           | Current Channel                  | 12/03/2025 22:45:36 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
-| 16.0.19426.20170 | 2511           | CurrentPreview    | Current Channel (Preview)        | 12/02/2025 17:34:11 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.19231.20246 | 2509           | MonthlyEnterprise | Monthly Enterprise Channel       | 11/11/2025 14:19:35 | 01/13/2026 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.18526.20660 | 2502           | SemiAnnual        | Semi-Annual Enterprise Channel   | 11/11/2025 14:18:09 | 09/08/2026 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |
 | 16.0.17932.20602 | 2409           | PerpetualVL2024   | Office 2024 Perpetual Enterprise | 11/11/2025 14:26:45 | 01/01/0001 00:00:00 | [https://officecdn.microsoft.com/pr/wsus/setup.exe](https://officecdn.microsoft.com/pr/wsus/setup.exe) |

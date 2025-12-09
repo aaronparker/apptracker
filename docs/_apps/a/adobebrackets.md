@@ -3,12 +3,12 @@ title: Adobe Brackets
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 08/12/2025 1:27:22 PM
+last_modified_date: 09/12/2025 4:46:39 AM
 ---
 
 ## Adobe Brackets
 
-[Source](http://brackets.io/)
+[Source](https://brackets.io/)
 
 Evergreen app: `AdobeBrackets`. Found **1** installer.
 

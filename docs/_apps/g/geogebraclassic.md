@@ -3,7 +3,7 @@ title: GeoGebra Classic
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 08/12/2025 1:27:22 PM
+last_modified_date: 09/12/2025 4:46:39 AM
 ---
 
 ## GeoGebra Classic
