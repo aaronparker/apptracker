@@ -45,15 +45,21 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          $files = foreach ($item in (git status --short --porcelain json/*.json)) { 
-            $match = [RegEx]::Match($item, "^..\s(.*)$")
-            if ($match.Success) { $match.Groups[1].Value }
-          }
-          if ($null -ne $files) {
+          # Check for modified and untracked JSON files
+          $files = @(git status --porcelain json/*.json | ForEach-Object {
+            $line = $_.Trim()
+            if ($line -match '^\s*[MA?]\s+(.+\.json)$') {
+              $matches[1]
+            }
+          })
+          
+          if ($files.Count -gt 0) {
             $files | Out-File -FilePath "changed-files-hosted.txt" -Encoding "Utf8" -Force
             Write-Host "Saved $($files.Count) changed files to changed-files-hosted.txt"
+            $files | ForEach-Object { Write-Host " - $_" }
           } else {
             "No files changed" | Out-File -FilePath "changed-files-hosted.txt" -Encoding "Utf8" -Force
+            Write-Host "No files changed"
           }
 
       - name: Upload changed files list
