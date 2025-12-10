@@ -3,7 +3,7 @@ title: Anki
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 09/12/2025 1:28:05 PM
+last_modified_date: 10/12/2025 11:40:34 AM
 ---
 
 ## Anki
@@ -12,7 +12,10 @@ last_modified_date: 09/12/2025 1:28:05 PM
 
 Evergreen app: `Anki`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version | Date     | Size     | Architecture | InstallerType | Type | URI                                                                                                                                                                                    |
 | ------- | -------- | -------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

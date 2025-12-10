@@ -3,7 +3,7 @@ title: Microsoft Visual Studio
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 09/12/2025 1:28:05 PM
+last_modified_date: 10/12/2025 11:40:34 AM
 ---
 
 ## Microsoft Visual Studio
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version       | Sha256                                                           | Size    | URI                                                                                                                                                                                                                                                                                                                                                      |
 | ------------- | ---------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.14.36717.8 | 4dbf9d3fba9e0c10eaa300195bc2950abc698904fb8a6aa332a160c2804d0df7 | 4461416 | [https://download.visualstudio.microsoft.com/download/pr/3014ff35-1082-4da0-ba77-9d3664b7c38a/4dbf9d3fba9e0c10eaa300195bc2950abc698904fb8a6aa332a160c2804d0df7/vs_Setup.exe](https://download.visualstudio.microsoft.com/download/pr/3014ff35-1082-4da0-ba77-9d3664b7c38a/4dbf9d3fba9e0c10eaa300195bc2950abc698904fb8a6aa332a160c2804d0df7/vs_Setup.exe) |
+| 17.14.36804.6 | a659b3662b611db1e5b58926700f83b061640690ea6c32a94815947f1bab2fff | 4461504 | [https://download.visualstudio.microsoft.com/download/pr/4f894be7-d4f2-4679-ace9-52a83030dab5/a659b3662b611db1e5b58926700f83b061640690ea6c32a94815947f1bab2fff/vs_Setup.exe](https://download.visualstudio.microsoft.com/download/pr/4f894be7-d4f2-4679-ace9-52a83030dab5/a659b3662b611db1e5b58926700f83b061640690ea6c32a94815947f1bab2fff/vs_Setup.exe) |

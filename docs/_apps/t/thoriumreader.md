@@ -3,7 +3,7 @@ title: Thorium Reader
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 09/12/2025 1:28:05 PM
+last_modified_date: 10/12/2025 11:40:34 AM
 ---
 
 ## Thorium Reader
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.2.2   | 19/8/2025 | 107444232 | 9e529d50ba1dd98c99226afa44b48eeb308001ef59815bbf86b31c8e805f609c | ARM64        | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2-arm64.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2-arm64.exe) |
-| 3.2.2   | 19/8/2025 | 113833240 | 3c5ab3579550f2047b109ce27cfce8f3a3261bdf70a4bb86f63b16ee0821660d | x86          | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.2.2/Thorium.Setup.3.2.2.exe)             |
+| 3.3.0   | 9/12/2025 | 115910488 | 3d119cfb044550b8a9e01053e820bd57d8c89754063c82989c7146a18e1b177a | ARM64        | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium.Setup.3.3.0-arm64.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium.Setup.3.3.0-arm64.exe) |
+| 3.3.0   | 9/12/2025 | 123111784 | ac1a60804fbe98dc76a0cf73de6c49c3a2dc283d0866597b1acb600ccb775eb4 | x86          | Default       | exe  | [https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium.Setup.3.3.0.exe](https://github.com/edrlab/thorium-reader/releases/download/v3.3.0/Thorium.Setup.3.3.0.exe)             |

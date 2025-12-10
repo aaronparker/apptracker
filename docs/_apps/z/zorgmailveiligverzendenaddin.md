@@ -3,7 +3,7 @@ title: ZorgMail Veilig verzenden plug-in
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: 09/12/2025 1:28:05 PM
+last_modified_date: 10/12/2025 11:40:34 AM
 ---
 
 ## ZorgMail Veilig verzenden plug-in
@@ -12,7 +12,10 @@ last_modified_date: 09/12/2025 1:28:05 PM
 
 Evergreen app: `ZorgmailVeiligVerzendenAddin`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (api.zorgmail.nl:443)
+```
 
 | Version | Edition   | URI                                                                                                                                                                                                                                                    |
 | ------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
