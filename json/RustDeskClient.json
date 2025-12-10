@@ -2,8 +2,8 @@
   {
     "Version": "1.4.4",
     "Date": "19/11/2025",
-    "Size": 24147080,
-    "Sha256": "2ed35b0465fc3de72b0757e84daac278619edc30e651e6257073dceae5085332",
+    "Size": 24000000,
+    "Sha256": "4023698dc567d4fe4e2369848d897d7a6a5eeb4819a673e3934771cc60360f3a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
@@ -12,8 +12,8 @@
   {
     "Version": "1.4.4",
     "Date": "19/11/2025",
-    "Size": 11719304,
-    "Sha256": "fa602089fe86db2021ac226eafa13fbcbd71767851010483345977f62db90f0f",
+    "Size": 11663360,
+    "Sha256": "3b19812b05128c1871a5df9490596970da3414965b527382b17e65734bcb4bb4",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
@@ -22,8 +22,8 @@
   {
     "Version": "1.4.4",
     "Date": "19/11/2025",
-    "Size": 24481792,
-    "Sha256": "b1dd7bb56bdb82150ff2d4713ce11de3d017ddbc20f7825595d14f954135ad82",
+    "Size": 24410743,
+    "Sha256": "9d01320e31fc29d8878861684ffab3cec7c64e4d3083a90fd9800f8513144cce",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
