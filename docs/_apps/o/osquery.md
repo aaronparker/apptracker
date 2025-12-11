@@ -3,7 +3,7 @@ title: osquery osquery
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 11/12/2025 11:39:30 AM
+last_modified_date: 11/12/2025 1:29:40 PM
 ---
 
 ## osquery osquery
