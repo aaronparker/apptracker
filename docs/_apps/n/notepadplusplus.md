@@ -3,7 +3,7 @@ title: Notepad++
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## Notepad++
@@ -25,7 +25,7 @@ Last check: 🟢
 | 8.8.9   | 9/12/2025 | 6567640 | ef4824323c499c133f3a4397c146954c398d0b381eff86f4559dd579d070b266 | ARM64        | Default       | exe  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.arm64.exe](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.arm64.exe)                   |
 | 8.8.9   | 9/12/2025 | 6866536 | 2dd5473736ef51e4340cae005e3fc8cdf0e42ec649bc6ed186484a79be409928 | x64          | Default       | exe  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.exe](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.exe)                       |
 | 8.8.9   | 9/12/2025 | 6740952 | 71431fa7b66f8132453e18e3a5f8ef0af3ca079a7793f828df06fdb5d7bd915d | x86          | Default       | exe  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.exe](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.exe)                               |
-| 8.8.9   | 9/12/2025 | 7286784 | 17e7656feaec0b8f396375cfeab3274143cd48afa23bed107aadfa0bdd7e7b2e | x64          | Default       | msi  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.msi](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.msi)                       |
+| 8.8.9   | 9/12/2025 | 7286784 | 95e0884b5189c40e0e683a402a5fcfa19cad69bad68ebff545a0f2043c655ea6 | x64          | Default       | msi  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.msi](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.Installer.x64.msi)                       |
 | 8.8.9   | 9/12/2025 | 7947457 | 97beb2cd8214f08a030aee0d5afcd410162d99673619bdf22012766bfeff2cc6 | ARM64        | Portable      | zip  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.portable.arm64.zip](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.portable.arm64.zip)                     |
 | 8.8.9   | 9/12/2025 | 8081988 | 4db7d6ae535eb6315e1005137344664cab341555ada9b073644bdea53070e628 | x64          | Portable      | zip  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.portable.x64.zip](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.portable.x64.zip)                         |
 | 8.8.9   | 9/12/2025 | 7667039 | 2755917bc52bde476305cd442f91a8e3966e4d199d3b2b584211c4ff674e2c7b | x86          | Portable      | zip  | [https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.portable.zip](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.9/npp.8.8.9.portable.zip)                                 |

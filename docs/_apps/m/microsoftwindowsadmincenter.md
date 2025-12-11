@@ -3,7 +3,7 @@ title: Microsoft Windows Admin Center
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## Microsoft Windows Admin Center
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWindowsAdminCenter`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Type | URI                                                                                                                                                                                                                            |
-| ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2410.0  | exe  | [https://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758FFC7C8C8B/WindowsAdminCenter2410.exe](https://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758FFC7C8C8B/WindowsAdminCenter2410.exe) |
+| Version | Type | URI                                                                                                                                                                                                                |
+| ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2511.0  | exe  | [https://download.microsoft.com/download/5e854024-dcf1-4e86-9546-7389fd08a34b/WindowsAdminCenter2511.exe](https://download.microsoft.com/download/5e854024-dcf1-4e86-9546-7389fd08a34b/WindowsAdminCenter2511.exe) |

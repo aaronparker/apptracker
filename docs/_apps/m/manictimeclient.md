@@ -3,7 +3,7 @@ title: ManicTime
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## ManicTime
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version    | Date       | Type | URI                                                                                                                                                                      |
 | ---------- | ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.3.4.1 | 2025-10-01 | exe  | [https://cdn.manictime.com/setup/v2025_3_4_1/manictime-setup-2025.3.4.1-win-x64.exe](https://cdn.manictime.com/setup/v2025_3_4_1/manictime-setup-2025.3.4.1-win-x64.exe) |
+| 2025.3.5.0 | 2025-10-01 | exe  | [https://cdn.manictime.com/setup/v2025_3_5_0/manictime-setup-2025.3.5.0-win-x64.exe](https://cdn.manictime.com/setup/v2025_3_5_0/manictime-setup-2025.3.5.0-win-x64.exe) |

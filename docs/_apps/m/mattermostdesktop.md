@@ -3,7 +3,7 @@ title: Mattermost Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## Mattermost Desktop
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                          |
 | ------- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.0.1   | exe  | x86          | [https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-setup-6.0.1-win.exe](https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-setup-6.0.1-win.exe) |
-| 6.0.1   | msi  | x64          | [https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-6.0.1-win-x64.msi](https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-6.0.1-win-x64.msi)     |
-| 6.0.1   | msi  | x86          | [https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-6.0.1-win-x86.msi](https://releases.mattermost.com/desktop/6.0.1/mattermost-desktop-6.0.1-win-x86.msi)     |
+| 6.0.2   | exe  | x86          | [https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-setup-6.0.2-win.exe](https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-setup-6.0.2-win.exe) |
+| 6.0.2   | msi  | x64          | [https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-6.0.2-win-x64.msi](https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-6.0.2-win-x64.msi)     |
+| 6.0.2   | msi  | x86          | [https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-6.0.2-win-x86.msi](https://releases.mattermost.com/desktop/6.0.2/mattermost-desktop-6.0.2-win-x86.msi)     |

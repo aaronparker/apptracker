@@ -3,7 +3,7 @@ title: Simon Steele Programmer's Notepad
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## Simon Steele Programmer's Notepad

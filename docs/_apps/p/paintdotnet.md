@@ -3,7 +3,7 @@ title: dotPDN LLC Paint.NET
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## dotPDN LLC Paint.NET
@@ -12,7 +12,10 @@ last_modified_date: 10/12/2025 1:28:53 PM
 
 Evergreen app: `PaintDotNet`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (getpaint.net:443)
+```
 
 | Version         | Channel | Architecture | URI                                                                                                                                                                                                                  |
 | --------------- | ------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

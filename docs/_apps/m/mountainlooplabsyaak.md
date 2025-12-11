@@ -3,7 +3,7 @@ title: Mountain Loop Labs Yaak
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 10/12/2025 1:28:53 PM
+last_modified_date: 11/12/2025 11:39:30 AM
 ---
 
 ## Mountain Loop Labs Yaak
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
 | -------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.9.1 | 2/12/2025 | 36013360 | f3e3c8921bcbf8d0061d3889c4dfee8587561e4eca9476dab8cdfb0ea4255999 | ARM64        | Default       | exe  | [https://github.com/mountain-loop/yaak/releases/download/v2025.9.1/Yaak_2025.9.1_arm64-setup.exe](https://github.com/mountain-loop/yaak/releases/download/v2025.9.1/Yaak_2025.9.1_arm64-setup.exe) |
-| 2025.9.1 | 2/12/2025 | 40456760 | 6fe9103be55ea89199f7dc1643d49a3abe0f56b05fe9971f50c8669f700a7209 | x64          | Default       | exe  | [https://github.com/mountain-loop/yaak/releases/download/v2025.9.1/Yaak_2025.9.1_x64-setup.exe](https://github.com/mountain-loop/yaak/releases/download/v2025.9.1/Yaak_2025.9.1_x64-setup.exe)     |
+| 2025.9.2 | 9/12/2025 | 36032672 | 4027cf333531210ceaa78500af6cef15b9044895dc2916469fb4ab974c126555 | ARM64        | Default       | exe  | [https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_arm64-setup.exe](https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_arm64-setup.exe) |
+| 2025.9.2 | 9/12/2025 | 40469304 | dc4e42fe4a41502785fd060f304da304cbc5231ebb96550aa41998d91cb9b6d9 | x64          | Default       | exe  | [https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_x64-setup.exe](https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_x64-setup.exe)     |
