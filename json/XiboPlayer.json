@@ -8,5 +8,25 @@
     "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R406/xibo-client-v4-R406.3-win32-x86.msi"
+  },
+  {
+    "Version": "4R406",
+    "Date": "27/11/2025",
+    "Size": 164362240,
+    "Sha256": "2a6f3707a3b416285119c66c008d7b899cab97dfe4370893247a6c8675057bb3",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R406/XiboScreenThree_v4R406.msi"
+  },
+  {
+    "Version": "4R406",
+    "Date": "27/11/2025",
+    "Size": 164361728,
+    "Sha256": "ad85d1b77095b1d65055a5abe3522a21cf08f49417cb4021f53fe4531d984841",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msi",
+    "URI": "https://github.com/xibosignage/xibo-dotnetclient/releases/download/4R406/XiboScreenTwo_v4R406.msi"
   }
 ]

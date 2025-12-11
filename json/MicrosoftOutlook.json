@@ -1,29 +1,29 @@
 [
   {
-    "Version": "1.2025.1111.100",
-    "Date": "11/11/2025",
-    "Size": 26935787,
+    "Version": "1.2025.1208.200",
+    "Date": "8/12/2025",
+    "Size": 27041189,
     "Language": "Neutral",
     "Architecture": "ARM64",
     "Type": "msix",
-    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.1111.100/Microsoft.OutlookForWindows_arm64.msix"
+    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.1208.200/Microsoft.OutlookForWindows_arm64.msix"
   },
   {
-    "Version": "1.2025.1111.100",
-    "Date": "11/11/2025",
-    "Size": 22568415,
+    "Version": "1.2025.1208.200",
+    "Date": "8/12/2025",
+    "Size": 22768709,
     "Language": "Neutral",
     "Architecture": "x64",
     "Type": "msix",
-    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.1111.100/Microsoft.OutlookForWindows_x64.msix"
+    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.1208.200/Microsoft.OutlookForWindows_x64.msix"
   },
   {
-    "Version": "1.2025.1111.100",
-    "Date": "11/11/2025",
-    "Size": 21227685,
+    "Version": "1.2025.1208.200",
+    "Date": "8/12/2025",
+    "Size": 21383729,
     "Language": "Neutral",
     "Architecture": "x86",
     "Type": "msix",
-    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.1111.100/Microsoft.OutlookForWindows_x86.msix"
+    "URI": "https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2025.1208.200/Microsoft.OutlookForWindows_x86.msix"
   }
 ]
