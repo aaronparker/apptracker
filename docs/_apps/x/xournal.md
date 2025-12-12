@@ -3,7 +3,7 @@ title: Xournal++
 layout: default
 nav_order: 2
 parent: X
-last_modified_date: 11/12/2025 1:29:40 PM
+last_modified_date: 12/12/2025 11:36:19 AM
 ---
 
 ## Xournal++
@@ -14,7 +14,7 @@ Evergreen app: `Xournal`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2.10  | 7/12/2025 | 42856005 | 21caa25687854ba397df9f7612b76b095b220a10857e12672f4faa5e6876f8c4 | ARM64        | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.2.10/xournalpp-1.2.10-windows-setup-ARM64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.2.10/xournalpp-1.2.10-windows-setup-ARM64.exe) |
-| 1.2.10  | 7/12/2025 | 49157246 | ae65eaec4222d1cdc333201a15a8726e8ff0a128c74bb0790fc815d05c07b854 | x64          | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.2.10/xournalpp-1.2.10-windows-setup-AMD64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.2.10/xournalpp-1.2.10-windows-setup-AMD64.exe) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.3.0   | 11/12/2025 | 66435586 | b70d208ae72e3b811e6b04f6448c3d909352cf2061dd2dc56dcc41d8a149d678 | ARM64        | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-ARM64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-ARM64.exe) |
+| 1.3.0   | 11/12/2025 | 95437868 | bc19caadda0f1aa82681e4c90c00b6d53a5f201c53bb7d95b41fbe2bc68f5979 | x64          | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-AMD64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-AMD64.exe) |

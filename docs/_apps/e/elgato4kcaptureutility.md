@@ -3,7 +3,7 @@ title: Elgato 4K Capture Utility
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 11/12/2025 1:29:40 PM
+last_modified_date: 12/12/2025 11:36:19 AM
 ---
 
 ## Elgato 4K Capture Utility
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                                      |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.7.16  | x64          | msi  | [https://edge.elgato.com/egc/windows/spotlight/1.7.16/4KCaptureUtility_1.7.16.10414_x64.msi](https://edge.elgato.com/egc/windows/spotlight/1.7.16/4KCaptureUtility_1.7.16.10414_x64.msi) |
+| 1.7.16  | x64          | msi  | [https://edge.elgato.com/egc/windows/spotlight/1.7.16/4KCaptureUtility_1.7.16.10419_x64.msi](https://edge.elgato.com/egc/windows/spotlight/1.7.16/4KCaptureUtility_1.7.16.10419_x64.msi) |
