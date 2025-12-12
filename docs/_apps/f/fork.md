@@ -3,7 +3,7 @@ title: Dan Pristupov Fork
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 12/12/2025 11:36:19 AM
+last_modified_date: 12/12/2025 1:27:06 PM
 ---
 
 ## Dan Pristupov Fork
@@ -12,10 +12,7 @@ last_modified_date: 12/12/2025 11:36:19 AM
 
 Evergreen app: `Fork`. Found **1** installer.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version | URI                                                                                  |
 | ------- | ------------------------------------------------------------------------------------ |
