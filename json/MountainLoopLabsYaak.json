@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2025.9.2",
-    "Date": "9/12/2025",
-    "Size": 36032672,
-    "Sha256": "4027cf333531210ceaa78500af6cef15b9044895dc2916469fb4ab974c126555",
+    "Version": "2025.9.3",
+    "Date": "11/12/2025",
+    "Size": 36015152,
+    "Sha256": "0055cc20881aae5ec20ace03a6231761b0c37b40acd4cfd4ab933f90337186b5",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_arm64-setup.exe"
+    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2025.9.3/Yaak_2025.9.3_arm64-setup.exe"
   },
   {
-    "Version": "2025.9.2",
-    "Date": "9/12/2025",
-    "Size": 40469304,
-    "Sha256": "dc4e42fe4a41502785fd060f304da304cbc5231ebb96550aa41998d91cb9b6d9",
+    "Version": "2025.9.3",
+    "Date": "11/12/2025",
+    "Size": 40427072,
+    "Sha256": "45721a0493dd222ecd4b15daf74eb283e87a06c3abb7b811bdb10f18771fdb45",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2025.9.2/Yaak_2025.9.2_x64-setup.exe"
+    "URI": "https://github.com/mountain-loop/yaak/releases/download/v2025.9.3/Yaak_2025.9.3_x64-setup.exe"
   }
 ]

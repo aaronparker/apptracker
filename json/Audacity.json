@@ -1,32 +1,32 @@
 [
   {
-    "Version": "3.7.6",
-    "Date": "4/12/2025",
-    "Size": 18132144,
-    "Sha256": "14b2f48ad1713695425c1684933004444947e15835d353b79007d60135d59ed1",
+    "Version": "3.7.7",
+    "Date": "11/12/2025",
+    "Size": 18144088,
+    "Sha256": "d647a3c943deeee6138e9eb2afaf2877147b37c425a922e0aa7a536a792cfac9",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.6/audacity-win-3.7.6-arm64.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-arm64.exe"
   },
   {
-    "Version": "3.7.6",
-    "Date": "4/12/2025",
-    "Size": 18542096,
-    "Sha256": "8f88e52fe75e67e4cf74446e5dbb3b0db00f2e6894df819a180afe56e8f57b04",
+    "Version": "3.7.7",
+    "Date": "11/12/2025",
+    "Size": 18543040,
+    "Sha256": "a96f41f21efcdfec1d2f7f332544f8a8fb00a6c411e3bee2aa0031b691dd91a7",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.6/audacity-win-3.7.6-64bit.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-64bit.exe"
   },
   {
-    "Version": "3.7.6",
-    "Date": "4/12/2025",
-    "Size": 17036272,
-    "Sha256": "6f2ce96fb2ad7531155b9873dec53a909f189d55ad913a1e8800863fff628f88",
+    "Version": "3.7.7",
+    "Date": "11/12/2025",
+    "Size": 17042704,
+    "Sha256": "2248a8c272e5b4b1ad86ab8455555535e63ee87e0ef4261c75e15d14e0dd6eca",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.6/audacity-win-3.7.6-32bit.exe"
+    "URI": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-32bit.exe"
   }
 ]
