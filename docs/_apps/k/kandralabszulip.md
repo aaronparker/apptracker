@@ -3,7 +3,7 @@ title: Kandra Labs Zulip
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 12/12/2025 1:27:06 PM
+last_modified_date: 13/12/2025 11:35:18 AM
 ---
 
 ## Kandra Labs Zulip
@@ -14,8 +14,8 @@ Evergreen app: `KandraLabsZulip`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
-| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5.12.2  | 1/9/2025 | 818248    | a6f6f8c117ef784757496fefd87272c5cc38d5f741bac44bd51054c7597be916 | x86          | Default       | exe  | [https://github.com/zulip/zulip-desktop/releases/download/v5.12.2/Zulip-Web-Setup-5.12.2.exe](https://github.com/zulip/zulip-desktop/releases/download/v5.12.2/Zulip-Web-Setup-5.12.2.exe) |
-| 5.12.2  | 1/9/2025 | 100454400 | bd2715a4554558dad24334dcb3eabff51b062402233a6b26d17927d35652f217 | x64          | Default       | msi  | [https://github.com/zulip/zulip-desktop/releases/download/v5.12.2/Zulip-5.12.2-x64.msi](https://github.com/zulip/zulip-desktop/releases/download/v5.12.2/Zulip-5.12.2-x64.msi)             |
-| 5.12.2  | 1/9/2025 | 94593024  | cda61b0080374e5c853bd374ca229f5851f116da3191a52ab26431d0c5fd414f | x86          | Default       | msi  | [https://github.com/zulip/zulip-desktop/releases/download/v5.12.2/Zulip-5.12.2-ia32.msi](https://github.com/zulip/zulip-desktop/releases/download/v5.12.2/Zulip-5.12.2-ia32.msi)           |
+| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
+| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5.12.3  | 12/12/2025 | 818256    | ec6674a6be4724a50a408b2e44f226e4809eed010305a7ff58bee1239cc37a06 | x86          | Default       | exe  | [https://github.com/zulip/zulip-desktop/releases/download/v5.12.3/Zulip-Web-Setup-5.12.3.exe](https://github.com/zulip/zulip-desktop/releases/download/v5.12.3/Zulip-Web-Setup-5.12.3.exe) |
+| 5.12.3  | 12/12/2025 | 110096384 | 12bc49fde2758a81e4cd12d8c8f1ab13862af26608f3aefc37f9c1aaa5011972 | x64          | Default       | msi  | [https://github.com/zulip/zulip-desktop/releases/download/v5.12.3/Zulip-5.12.3-x64.msi](https://github.com/zulip/zulip-desktop/releases/download/v5.12.3/Zulip-5.12.3-x64.msi)             |
+| 5.12.3  | 12/12/2025 | 96288768  | 0ae412f037630ce7482cfa2bf9b4ea0dabdb0da18d43664f357550238e16d25a | x86          | Default       | msi  | [https://github.com/zulip/zulip-desktop/releases/download/v5.12.3/Zulip-5.12.3-ia32.msi](https://github.com/zulip/zulip-desktop/releases/download/v5.12.3/Zulip-5.12.3-ia32.msi)           |

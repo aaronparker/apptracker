@@ -3,7 +3,7 @@ title: FreeCAD Team FreeCAD
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 12/12/2025 1:27:06 PM
+last_modified_date: 13/12/2025 11:35:18 AM
 ---
 
 ## FreeCAD Team FreeCAD
