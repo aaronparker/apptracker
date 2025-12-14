@@ -4655,15 +4655,6 @@
   {
     "Version": "146.0",
     "Channel": "Current",
-    "Language": "lv",
-    "Architecture": "ARM64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 146.0.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix"
-  },
-  {
-    "Version": "146.0",
-    "Channel": "Current",
     "Language": "mk",
     "Architecture": "ARM64",
     "Type": "msix",
@@ -23776,15 +23767,6 @@
     "Type": "msi",
     "Filename": "Firefox Setup 147.0b3.msi",
     "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/nn-NO/Firefox%20Setup%20147.0b3.msi"
-  },
-  {
-    "Version": "147.0b3",
-    "Channel": "Beta",
-    "Language": "oc",
-    "Architecture": "x86",
-    "Type": "msi",
-    "Filename": "Firefox Setup 147.0b3.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/oc/Firefox%20Setup%20147.0b3.msi"
   },
   {
     "Version": "147.0b3",
