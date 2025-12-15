@@ -3,7 +3,7 @@ title: Oracle Java 23
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 15/12/2025 11:37:52 AM
+last_modified_date: 15/12/2025 1:30:49 PM
 ---
 
 ## Oracle Java 23
