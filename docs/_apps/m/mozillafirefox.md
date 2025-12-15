@@ -3,14 +3,14 @@ title: Mozilla Firefox
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 14/12/2025 1:24:36 PM
+last_modified_date: 15/12/2025 11:37:52 AM
 ---
 
 ## Mozilla Firefox
 
 [Source](https://www.mozilla.org/en-US/firefox/new/)
 
-Evergreen app: `MozillaFirefox`. Found **3126** installers.
+Evergreen app: `MozillaFirefox`. Found **3128** installers.
 
 Last check: 🟢
 
@@ -533,6 +533,7 @@ Last check: 🟢
 | 146.0   | Current               | ko       | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
 | 146.0   | Current               | lij      | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
 | 146.0   | Current               | lt       | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
+| 146.0   | Current               | lv       | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
 | 146.0   | Current               | mk       | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
 | 146.0   | Current               | mr       | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
 | 146.0   | Current               | ms       | ARM64        | msix | Firefox Setup 146.0.msix      | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64-aarch64/multi/Firefox%20Setup%20146.0.msix)                     |
@@ -2657,6 +2658,7 @@ Last check: 🟢
 | 147.0b3 | Beta                  | ne-NP    | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/ne-NP/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/ne-NP/Firefox%20Setup%20147.0b3.msi)                               |
 | 147.0b3 | Beta                  | nl       | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/nl/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/nl/Firefox%20Setup%20147.0b3.msi)                                     |
 | 147.0b3 | Beta                  | nn-NO    | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/nn-NO/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/nn-NO/Firefox%20Setup%20147.0b3.msi)                               |
+| 147.0b3 | Beta                  | oc       | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/oc/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/oc/Firefox%20Setup%20147.0b3.msi)                                     |
 | 147.0b3 | Beta                  | pa-IN    | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/pa-IN/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/pa-IN/Firefox%20Setup%20147.0b3.msi)                               |
 | 147.0b3 | Beta                  | pl       | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/pl/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/pl/Firefox%20Setup%20147.0b3.msi)                                     |
 | 147.0b3 | Beta                  | pt-BR    | x86          | msi  | Firefox Setup 147.0b3.msi     | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/pt-BR/Firefox%20Setup%20147.0b3.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b3/win32/pt-BR/Firefox%20Setup%20147.0b3.msi)                               |
