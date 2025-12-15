@@ -92,7 +92,7 @@ jobs:
           commit_user_email: ${{ secrets.COMMIT_EMAIL }}
 
       - name: Upload changed files list
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: changed-files-pwsh
           path: changed-files-pwsh.txt
