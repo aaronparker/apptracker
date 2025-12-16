@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.16.1",
-    "Date": "25/3/2025",
-    "Size": 245210624,
-    "Sha256": null,
+    "Version": "2.17.0",
+    "Date": "15/12/2025",
+    "Size": 255836672,
+    "Sha256": "125fc89c73d440141ce859109e23258700b863b94475d5461926ec757d99e94a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/zaproxy/zaproxy/releases/download/v2.16.1/ZAP_2_16_1_windows-x32.exe"
+    "URI": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2_17_0_windows-x32.exe"
   },
   {
-    "Version": "2.16.1",
-    "Date": "25/3/2025",
-    "Size": 245386752,
-    "Sha256": null,
+    "Version": "2.17.0",
+    "Date": "15/12/2025",
+    "Size": 256013312,
+    "Sha256": "ebdaf6f00ffd9c21891d29360196e13a14091f84dde2bfa1e0b61213a93bc5ca",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/zaproxy/zaproxy/releases/download/v2.16.1/ZAP_2_16_1_windows.exe"
+    "URI": "https://github.com/zaproxy/zaproxy/releases/download/v2.17.0/ZAP_2_17_0_windows.exe"
   }
 ]

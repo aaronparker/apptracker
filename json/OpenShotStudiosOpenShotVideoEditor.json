@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.3.0",
-    "Date": "22/12/2024",
-    "Size": 198926952,
-    "Sha256": null,
+    "Version": "3.4.0",
+    "Date": "15/12/2025",
+    "Size": 217497352,
+    "Sha256": "ec8bbac8a38e7ac9f1318531ec9bf3cd58be1cc9a5308cdf3fe96f469ed6b588",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.exe"
+    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v3.4.0/OpenShot-v3.4.0-x86_64.exe"
   },
   {
-    "Version": "3.3.0",
-    "Date": "22/12/2024",
-    "Size": 197670056,
-    "Sha256": null,
+    "Version": "3.4.0",
+    "Date": "15/12/2025",
+    "Size": 216229152,
+    "Sha256": "1b5a29d8c5c8af2812bd84d2fdb51ab59e9b0e3d789c9d7039d8c0204c1d4fb0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86.exe"
+    "URI": "https://github.com/OpenShot/openshot-qt/releases/download/v3.4.0/OpenShot-v3.4.0-x86.exe"
   }
 ]
