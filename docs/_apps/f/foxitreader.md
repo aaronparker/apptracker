@@ -3,7 +3,7 @@ title: Foxit PDF Reader
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 16/12/2025 11:38:10 AM
+last_modified_date: 16/12/2025 1:29:35 PM
 ---
 
 ## Foxit PDF Reader

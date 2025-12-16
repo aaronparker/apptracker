@@ -3,7 +3,7 @@ title: OpenShot Studios OpenShot Video Editor
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 16/12/2025 11:38:10 AM
+last_modified_date: 16/12/2025 1:29:36 PM
 ---
 
 ## OpenShot Studios OpenShot Video Editor
