@@ -3,7 +3,7 @@ title: Nextcloud Desktop
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 15/12/2025 1:30:49 PM
+last_modified_date: 16/12/2025 11:38:10 AM
 ---
 
 ## Nextcloud Desktop
@@ -14,6 +14,6 @@ Evergreen app: `NextcloudDesktop`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
-| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4.0.3   | 3/12/2025 | 166662144 | ed8dd655238ef90f59f7e624449a135672b0b2e0e87ad78d95b742292254eeec | x64          | Default       | msi  | [https://github.com/nextcloud-releases/desktop/releases/download/v4.0.3/Nextcloud-4.0.3-x64.msi](https://github.com/nextcloud-releases/desktop/releases/download/v4.0.3/Nextcloud-4.0.3-x64.msi) |
+| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
+| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4.0.4   | 15/12/2025 | 166682624 | 9262f98c84e64d97b972146386cfd638dc5eeb54a5a620fea967dfa5f6ff1c6d | x64          | Default       | msi  | [https://github.com/nextcloud-releases/desktop/releases/download/v4.0.4/Nextcloud-4.0.4-x64.msi](https://github.com/nextcloud-releases/desktop/releases/download/v4.0.4/Nextcloud-4.0.4-x64.msi) |

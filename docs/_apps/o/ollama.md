@@ -3,7 +3,7 @@ title: Ollama
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 15/12/2025 1:30:49 PM
+last_modified_date: 16/12/2025 11:38:10 AM
 ---
 
 ## Ollama
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date       | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                      |
 | ------- | ---------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.13.3  | 12/12/2025 | 1255950224 | 85ecd2a00f893d3bff30a8c0af35c10ef1e88d35a53b2ebb54f9fc949345284d | x86          | Default       | exe  | [https://github.com/ollama/ollama/releases/download/v0.13.3/OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.13.3/OllamaSetup.exe) |
+| 0.13.4  | 16/12/2025 | 1256433896 | f7c507d73e279816731db5635cb8543232b8b0e5fe034b66fe5af6a6fb021fe9 | x86          | Default       | exe  | [https://github.com/ollama/ollama/releases/download/v0.13.4/OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.13.4/OllamaSetup.exe) |

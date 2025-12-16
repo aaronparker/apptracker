@@ -3,7 +3,7 @@ title: Trimble SketchUp
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 15/12/2025 1:30:49 PM
+last_modified_date: 16/12/2025 11:38:11 AM
 ---
 
 ## Trimble SketchUp
@@ -14,6 +14,6 @@ Evergreen app: `TrimbleSketchUp`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Date      | Type | URI                                                                                                                          |
-| -------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 26.1.185 | 9/12/2025 | exe  | [https://download.sketchup.com/SketchUpFull-2026-1-185-44.exe](https://download.sketchup.com/SketchUpFull-2026-1-185-44.exe) |
+| Version  | Date       | Type | URI                                                                                                                          |
+| -------- | ---------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 26.1.189 | 15/12/2025 | exe  | [https://download.sketchup.com/SketchUpFull-2026-1-189-46.exe](https://download.sketchup.com/SketchUpFull-2026-1-189-46.exe) |

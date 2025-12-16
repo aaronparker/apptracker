@@ -3,7 +3,7 @@ title: Microsoft PowerToys
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 15/12/2025 1:30:49 PM
+last_modified_date: 16/12/2025 11:38:10 AM
 ---
 
 ## Microsoft PowerToys
