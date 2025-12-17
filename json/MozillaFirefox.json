@@ -2999,15 +2999,6 @@
   {
     "Version": "146.0",
     "Channel": "Current",
-    "Language": "lv",
-    "Architecture": "x64",
-    "Type": "msi",
-    "Filename": "Firefox Setup 146.0.msi",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lv/Firefox%20Setup%20146.0.msi"
-  },
-  {
-    "Version": "146.0",
-    "Channel": "Current",
     "Language": "mk",
     "Architecture": "x64",
     "Type": "msi",

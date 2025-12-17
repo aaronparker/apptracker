@@ -1,29 +1,29 @@
 [
   {
-    "Version": "2.140.1",
-    "Date": "10/12/2025",
-    "Size": 211476808,
-    "Sha512": "mRU5d0Lxe1rPcSvdGy93Bn1qDJXpva4E8mHYRApHUZgp1jWsVGqkS/8ZiKgQIaZWfya0r54Y5HLzfviBEi2SMg==",
+    "Version": "2.141.0",
+    "Date": "16/12/2025",
+    "Size": 211917760,
+    "Sha512": "SVUuHJBJXIwb5Mo8BZrBiKOj5Ii8yb5bsn5M3b+duD6PN+FCw2Sgw+qadbH/9TsmE5j/JM37PWUD3S7fPfH4IQ==",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.140.1-arm64.exe"
+    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0-arm64.exe"
   },
   {
-    "Version": "2.140.1",
-    "Date": "10/12/2025",
-    "Size": 208073176,
-    "Sha512": "5B2l8t6GROYUtg1niDjonsZB1ZwKnl78TjdtMm9obmUkmxcPPypsradZGWA5A3uWi1qFYSjx4m68MYeh1UaJHA==",
+    "Version": "2.141.0",
+    "Date": "16/12/2025",
+    "Size": 208516256,
+    "Sha512": "0Pr0FpvI7Zq8ZN90hB5K4oSzN9NNa2n2b6P8Lb5Lsb2DswQ320g/3LKgBTCTnhJZqOxFPOJfNjdcOVvByPeiFA==",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.140.1-x64.exe"
+    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0-x64.exe"
   },
   {
-    "Version": "2.140.1",
-    "Date": "10/12/2025",
-    "Size": 418976744,
-    "Sha512": "esL2QjVBvtxtXAJTSZWv9ldvZXdwoqMnCWc9KN+yPVegBXxINarLHQDBMnyNQPyeTeE3PUL3VKoby1vENVrUCA==",
+    "Version": "2.141.0",
+    "Date": "16/12/2025",
+    "Size": 419860736,
+    "Sha512": "U9bTrOf/Q3j3MblJINLetZeeF8df6Z5FqQXU0yc99HbIhrKK5BuSHnHjUNEKMEyLxgU0x5QcLqRfA8QbyeR8vg==",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.140.1.exe"
+    "URI": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0.exe"
   }
 ]
