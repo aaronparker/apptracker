@@ -3,7 +3,7 @@ title: R Core Team R for Windows
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 17/12/2025 11:39:18 AM
+last_modified_date: 17/12/2025 1:27:05 PM
 ---
 
 ## R Core Team R for Windows
@@ -12,10 +12,7 @@ last_modified_date: 17/12/2025 11:39:18 AM
 
 Evergreen app: `RCoreTeamRforWindows`. Found **1** installer.
 
-Last check: 🔴
-```
-No connection could be made because the target machine actively refused it. (cran.r-project.org:443)
-```
+Last check: 🟢
 
 | Version | URI                                                                                                                        |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |

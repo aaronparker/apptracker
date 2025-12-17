@@ -3,7 +3,7 @@ title: Kubernetes Kubectl
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 17/12/2025 11:39:18 AM
+last_modified_date: 17/12/2025 1:27:05 PM
 ---
 
 ## Kubernetes Kubectl
