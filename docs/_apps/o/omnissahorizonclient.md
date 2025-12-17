@@ -3,7 +3,7 @@ title: Omnissa Horizon Client
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 16/12/2025 1:29:36 PM
+last_modified_date: 17/12/2025 11:39:18 AM
 ---
 
 ## Omnissa Horizon Client
@@ -14,6 +14,6 @@ Evergreen app: `OmnissaHorizonClient`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | InternalVersion    | Date      | Sha256                                                           | Size      | Type | URI                                                                                                                                                                                                                              |
-| ------- | ------------------ | --------- | ---------------------------------------------------------------- | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2506.2  | 2506.2-18323197680 | 8/10/2025 | d2c87121c90f252590c06f2473120349f6f214dfbe06262ec3c6ac2757391a24 | 298.36 MB | exe  | [https://download3.omnissa.com/software/CART26FQ2_WIN_2506.2/Omnissa-Horizon-Client-2506-8.16.2-18323197680.exe](https://download3.omnissa.com/software/CART26FQ2_WIN_2506.2/Omnissa-Horizon-Client-2506-8.16.2-18323197680.exe) |
+| Version | InternalVersion    | Date       | Sha256                                                           | Size     | Type | URI                                                                                                                                                                                                                          |
+| ------- | ------------------ | ---------- | ---------------------------------------------------------------- | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2512    | 8.17.0-20184583317 | 16/12/2025 | 4840f4f5bede58b6f685861fb66a328aeb609a7ce95311d40a9d69b53ddb3601 | 371.2 MB | exe  | [https://download3.omnissa.com/software/CART26FQ4_WIN_2512/Omnissa-Horizon-Client-2512-8.17.0-20184583317.exe](https://download3.omnissa.com/software/CART26FQ4_WIN_2512/Omnissa-Horizon-Client-2512-8.17.0-20184583317.exe) |

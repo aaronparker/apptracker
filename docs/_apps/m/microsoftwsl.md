@@ -3,7 +3,7 @@ title: Microsoft WSL
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 16/12/2025 1:29:36 PM
+last_modified_date: 17/12/2025 11:39:18 AM
 ---
 
 ## Microsoft WSL
@@ -14,8 +14,8 @@ Evergreen app: `MicrosoftWSL`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type       | URI                                                                                                                                                                                                        |
-| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.6.2   | 9/10/2025 | 246493184 | f7965bfcdc9a7c6516899df43e974a41ea44c6acba6b82b2a085b72f14364293 | ARM64        | Default       | msi        | [https://github.com/microsoft/WSL/releases/download/2.6.2/wsl.2.6.2.0.arm64.msi](https://github.com/microsoft/WSL/releases/download/2.6.2/wsl.2.6.2.0.arm64.msi)                                           |
-| 2.6.2   | 9/10/2025 | 247132160 | ac473aaad503a409a3c97fed013a0e40507db5bef408452d2a6c4f5d97ce7b1e | x64          | Default       | msi        | [https://github.com/microsoft/WSL/releases/download/2.6.2/wsl.2.6.2.0.x64.msi](https://github.com/microsoft/WSL/releases/download/2.6.2/wsl.2.6.2.0.x64.msi)                                               |
-| 2.6.2   | 9/10/2025 | 496194985 | ad8429ecc997136b1c6c13ee7e2b7aab0c5f766e0dede0b33a29c63eaca72984 | ARM64        | Default       | msixbundle | [https://github.com/microsoft/WSL/releases/download/2.6.2/Microsoft.WSL_2.6.2.0_x64_ARM64.msixbundle](https://github.com/microsoft/WSL/releases/download/2.6.2/Microsoft.WSL_2.6.2.0_x64_ARM64.msixbundle) |
+| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type       | URI                                                                                                                                                                                                        |
+| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.6.3   | 12/12/2025 | 246501376 | 0f0d05de80e6fff17c160bb5f1aee19776ff1350f518067b0b06c0bb105e27cd | ARM64        | Default       | msi        | [https://github.com/microsoft/WSL/releases/download/2.6.3/wsl.2.6.3.0.arm64.msi](https://github.com/microsoft/WSL/releases/download/2.6.3/wsl.2.6.3.0.arm64.msi)                                           |
+| 2.6.3   | 12/12/2025 | 247123968 | 562c79aba6ce9b6e9170f069d31e3717f10d76dd8bfbee39b07eae0ca4a02ca0 | x64          | Default       | msi        | [https://github.com/microsoft/WSL/releases/download/2.6.3/wsl.2.6.3.0.x64.msi](https://github.com/microsoft/WSL/releases/download/2.6.3/wsl.2.6.3.0.x64.msi)                                               |
+| 2.6.3   | 12/12/2025 | 496210829 | 7be7ad60b824e9b6dd8aac61c36c2804369281cf26f8fd77de88d43c9368635d | ARM64        | Default       | msixbundle | [https://github.com/microsoft/WSL/releases/download/2.6.3/Microsoft.WSL_2.6.3.0_x64_ARM64.msixbundle](https://github.com/microsoft/WSL/releases/download/2.6.3/Microsoft.WSL_2.6.3.0_x64_ARM64.msixbundle) |

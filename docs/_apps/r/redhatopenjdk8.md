@@ -3,7 +3,7 @@ title: Red Hat OpenJDK 8
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 16/12/2025 1:29:36 PM
+last_modified_date: 17/12/2025 11:39:18 AM
 ---
 
 ## Red Hat OpenJDK 8

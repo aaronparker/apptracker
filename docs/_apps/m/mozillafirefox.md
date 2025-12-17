@@ -3,14 +3,14 @@ title: Mozilla Firefox
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 16/12/2025 1:29:36 PM
+last_modified_date: 17/12/2025 11:39:18 AM
 ---
 
 ## Mozilla Firefox
 
 [Source](https://www.mozilla.org/en-US/firefox/new/)
 
-Evergreen app: `MozillaFirefox`. Found **3128** installers.
+Evergreen app: `MozillaFirefox`. Found **3127** installers.
 
 Last check: 🟢
 
@@ -349,7 +349,6 @@ Last check: 🟢
 | 146.0   | Current               | ko       | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/ko/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/ko/Firefox%20Setup%20146.0.msi)                                             |
 | 146.0   | Current               | lij      | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lij/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lij/Firefox%20Setup%20146.0.msi)                                           |
 | 146.0   | Current               | lt       | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lt/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lt/Firefox%20Setup%20146.0.msi)                                             |
-| 146.0   | Current               | lv       | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lv/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/lv/Firefox%20Setup%20146.0.msi)                                             |
 | 146.0   | Current               | mk       | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/mk/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/mk/Firefox%20Setup%20146.0.msi)                                             |
 | 146.0   | Current               | mr       | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/mr/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/mr/Firefox%20Setup%20146.0.msi)                                             |
 | 146.0   | Current               | ms       | x64          | msi  | Firefox Setup 146.0.msi       | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/ms/Firefox%20Setup%20146.0.msi](https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/win64/ms/Firefox%20Setup%20146.0.msi)                                             |
