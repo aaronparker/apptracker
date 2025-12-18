@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2026.2510.110",
-    "Date": "1/11/2025",
+    "Version": "2026.2512.31",
+    "Date": "1/12/2025",
     "Architecture": "ARM64",
-    "URI": "https://software.vfo.digital/Fusion/2026/2026.2510.110.400/A0752108-371C-4077-BD20-1E3AF12B4635/F2026.2510.110.400-Offline-arm64.exe"
+    "URI": "https://software.vfo.digital/Fusion/2026/2026.2512.31.400/F1053256-7A5F-408F-93ED-4A40D2E2FFC8/F2026.2512.31.400-Offline-arm64.exe"
   },
   {
-    "Version": "2026.2510.110",
-    "Date": "1/11/2025",
+    "Version": "2026.2512.31",
+    "Date": "1/12/2025",
     "Architecture": "x64",
-    "URI": "https://software.vfo.digital/Fusion/2026/2026.2510.110.400/A0752108-371C-4077-BD20-1E3AF12B4635/F2026.2510.110.400-Offline-x64.exe"
+    "URI": "https://software.vfo.digital/Fusion/2026/2026.2512.31.400/F1053256-7A5F-408F-93ED-4A40D2E2FFC8/F2026.2512.31.400-Offline-x64.exe"
   }
 ]
