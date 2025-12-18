@@ -3,7 +3,7 @@ title: Spyder Project Contributors Spyder IDE
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 17/12/2025 1:27:05 PM
+last_modified_date: 18/12/2025 11:40:40 AM
 ---
 
 ## Spyder Project Contributors Spyder IDE
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.1.1   | 24/11/2025 | 530586873 | 99df439d68ddb3a4f829566814ac268d2776f958bbafcd3d3fc366c5b42718c4 | x64          | Default       | exe  | [https://github.com/spyder-ide/spyder/releases/download/v6.1.1/Spyder-Windows-x86_64.exe](https://github.com/spyder-ide/spyder/releases/download/v6.1.1/Spyder-Windows-x86_64.exe) |
+| 6.1.2   | 17/12/2025 | 531916015 | e682b501cb26be8ddd08dcf8e1374c54ebbdf91e32557337629e43f3e5440cf6 | x64          | Default       | exe  | [https://github.com/spyder-ide/spyder/releases/download/v6.1.2/Spyder-Windows-x86_64.exe](https://github.com/spyder-ide/spyder/releases/download/v6.1.2/Spyder-Windows-x86_64.exe) |

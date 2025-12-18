@@ -3,7 +3,7 @@ title: JetBrains Toolbox App
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 17/12/2025 1:27:05 PM
+last_modified_date: 18/12/2025 11:40:40 AM
 ---
 
 ## JetBrains Toolbox App
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsToolbox`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Build       | Edition     | Sha256                                                                          | Date      | Size      | Type | URI                                                                                                                                                  |
-| ------- | ----------- | ----------- | ------------------------------------------------------------------------------- | --------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.1.2   | 3.1.2.64642 | Toolbox App | https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.2.64642.exe.sha256 | 5/12/2025 | 131178384 | exe  | [https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.2.64642.exe](https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.2.64642.exe) |
+| Version | Build       | Edition     | Sha256                                                                          | Date       | Size      | Type | URI                                                                                                                                                  |
+| ------- | ----------- | ----------- | ------------------------------------------------------------------------------- | ---------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.2     | 3.2.0.65851 | Toolbox App | https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.65851.exe.sha256 | 18/12/2025 | 144737680 | exe  | [https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.65851.exe](https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.65851.exe) |
