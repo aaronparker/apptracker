@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.3.6",
-    "Date": "9/4/2025",
-    "Size": 157497056,
-    "Sha256": null,
+    "Version": "2.3.7",
+    "Date": "17/12/2025",
+    "Size": 157991304,
+    "Sha256": "a0db265ab46eddd0b8f715c77c84d775f3904462f44d71a3b77938fd67addea0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.6/arduino-ide_2.3.6_Windows_64bit.exe"
+    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.7/arduino-ide_2.3.7_Windows_64bit.exe"
   },
   {
-    "Version": "2.3.6",
-    "Date": "9/4/2025",
-    "Size": 166494208,
-    "Sha256": null,
+    "Version": "2.3.7",
+    "Date": "17/12/2025",
+    "Size": 167014400,
+    "Sha256": "58f39c408b6a5638947a7b3f277d1518095dc013b19457bbed8b99b4a48eacee",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.6/arduino-ide_2.3.6_Windows_64bit.msi"
+    "URI": "https://github.com/arduino/arduino-ide/releases/download/2.3.7/arduino-ide_2.3.7_Windows_64bit.msi"
   }
 ]

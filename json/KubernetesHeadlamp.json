@@ -1,12 +1,12 @@
 [
   {
-    "Version": "0.38.0",
-    "Date": "11/11/2025",
-    "Size": 124957634,
-    "Sha256": "387e307e66616eea4beb2b22f7c70923a57e740ccac5519547c036a061635838",
+    "Version": "0.39.0",
+    "Date": "17/12/2025",
+    "Size": 124864595,
+    "Sha256": "680d829d15a3226dfce7f17650f44d3325654581bcc753bc4747cca3cc57e246",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.38.0/Headlamp-0.38.0-win-x64.exe"
+    "URI": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.39.0/Headlamp-0.39.0-win-x64.exe"
   }
 ]
