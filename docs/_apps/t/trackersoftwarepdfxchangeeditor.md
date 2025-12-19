@@ -3,7 +3,7 @@ title: Tracker Software PDF X-Change Editor
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 18/12/2025 1:28:15 PM
+last_modified_date: 19/12/2025 11:36:04 AM
 ---
 
 ## Tracker Software PDF X-Change Editor
@@ -14,8 +14,8 @@ Evergreen app: `TrackerSoftwarePDFXChangeEditor`. Found **3** installers.
 
 Last check: 🟢
 
-| Version    | Hash                                                             | Architecture | Type | URI                                                                                                                                                                |
-| ---------- | ---------------------------------------------------------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 10.7.6.404 | A4393A0DF60473E8AB08A0C5C3FE56576A05753EDA170CC1B4CD71379037677D | ARM64        | msi  | [https://downloads.pdf-xchange.com/builds-archive/10.7.6.404/EditorV10.ARM64.msi](https://downloads.pdf-xchange.com/builds-archive/10.7.6.404/EditorV10.ARM64.msi) |
-| 10.7.6.404 | 2BEC61CD97D5334823B1D3A249D0302E92A2DD4478C7F2DF4BCB44D2A04ADA94 | x64          | msi  | [https://downloads.pdf-xchange.com/builds-archive/10.7.6.404/EditorV10.x64.msi](https://downloads.pdf-xchange.com/builds-archive/10.7.6.404/EditorV10.x64.msi)     |
-| 10.7.6.404 | 9C30687004CA71B1F0FCF73610412CB618416769A2A2F54C5AEE8BE67E213B74 | x86          | msi  | [https://downloads.pdf-xchange.com/builds-archive/10.7.6.404/EditorV10.x86.msi](https://downloads.pdf-xchange.com/builds-archive/10.7.6.404/EditorV10.x86.msi)     |
+| Version    | Hash                                                             | Architecture | Type | URI                                                                                                            |
+| ---------- | ---------------------------------------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------- |
+| 10.8.1.406 | 0167A02C1AC9436FE2AF8C933F6BDE755ED7FC4F42DB1144848BE0BFF11E3FEB | ARM64        | msi  | [https://downloads.pdf-xchange.com/EditorV10.ARM64.msi](https://downloads.pdf-xchange.com/EditorV10.ARM64.msi) |
+| 10.8.1.406 | D25B79C6F07DB7F9421CFB96301AD323EA60E72B88C75FF8D39453902707594D | x64          | msi  | [https://downloads.pdf-xchange.com/EditorV10.x64.msi](https://downloads.pdf-xchange.com/EditorV10.x64.msi)     |
+| 10.8.1.406 | 78EF18A0E2FA5685C5AAA1451F04AFC17F12B3225BAA57DB9F2D9F0CF2887066 | x86          | msi  | [https://downloads.pdf-xchange.com/EditorV10.x86.msi](https://downloads.pdf-xchange.com/EditorV10.x86.msi)     |

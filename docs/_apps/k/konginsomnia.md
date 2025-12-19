@@ -3,7 +3,7 @@ title: Kong Insomnia
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 18/12/2025 1:28:15 PM
+last_modified_date: 19/12/2025 11:36:04 AM
 ---
 
 ## Kong Insomnia
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 12.1.0  | 21/11/2025 | 500089888 | b8ac76b367b5235389e133fb8a06a76bed5c8067c9d1aee8dc567039574a379a | x86          | Default       | exe  | [https://github.com/Kong/insomnia/releases/download/core%4012.1.0/Insomnia.Core-12.1.0.exe](https://github.com/Kong/insomnia/releases/download/core%4012.1.0/Insomnia.Core-12.1.0.exe)           |
-| 12.1.0  | 21/11/2025 | 424319632 | d6c5f821fcd443db41aae06b8ffcbd93a2b7047f02ac053e052171c0ca1aadb4 | x86          | Default       | exe  | [https://github.com/Kong/insomnia/releases/download/core%4012.1.0/Insomnia.Core-nsis-12.1.0.exe](https://github.com/Kong/insomnia/releases/download/core%4012.1.0/Insomnia.Core-nsis-12.1.0.exe) |
+| 12.2.0  | 19/12/2025 | 494209216 | 020f110be80a22b414ffd47d4583c321fc947efa01c646b56c6ec7cd5abccb2d | x86          | Default       | exe  | [https://github.com/Kong/insomnia/releases/download/core%4012.2.0/Insomnia.Core-12.2.0.exe](https://github.com/Kong/insomnia/releases/download/core%4012.2.0/Insomnia.Core-12.2.0.exe)           |
+| 12.2.0  | 19/12/2025 | 420030640 | 5d3d6669f3e432cf7e5b5dc7ce5bf1ea0a9f6f5ee9404e61905381ae12169e0b | x86          | Default       | exe  | [https://github.com/Kong/insomnia/releases/download/core%4012.2.0/Insomnia.Core-nsis-12.2.0.exe](https://github.com/Kong/insomnia/releases/download/core%4012.2.0/Insomnia.Core-nsis-12.2.0.exe) |
