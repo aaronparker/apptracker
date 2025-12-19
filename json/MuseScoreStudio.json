@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.6.4",
-    "Date": "1/12/2025",
-    "Size": 133294192,
-    "Sha256": "549ea46e6e3485825f4b8646109a1a0ec889612ff2b94b7a0966f7790224ce08",
+    "Version": "4.6.5",
+    "Date": "17/12/2025",
+    "Size": 133287728,
+    "Sha256": "2738ef16d4451a19314cd31a3201d142c5b6b46f462cc0cbac12f8026226f4b0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.6.4/MuseScore-Studio-4.6.4.253351238-x86_64.paf.exe"
+    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.6.5/MuseScore-Studio-4.6.5.253511702-x86_64.paf.exe"
   },
   {
-    "Version": "4.6.4",
-    "Date": "1/12/2025",
-    "Size": 115359744,
-    "Sha256": "95f87f6372c2b5761c809cad37a445c43510cddd27be596205c3cc61b1fa2d1e",
+    "Version": "4.6.5",
+    "Date": "17/12/2025",
+    "Size": 115388416,
+    "Sha256": "b47e4c4a4473b3230a952ae9e873cd2cd95e19aff59b0ce759d0e75acc922e7f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.6.4/MuseScore-Studio-4.6.4.253351238-x86_64.msi"
+    "URI": "https://github.com/musescore/MuseScore/releases/download/v4.6.5/MuseScore-Studio-4.6.5.253511702-x86_64.msi"
   }
 ]
