@@ -3,7 +3,7 @@ title: Red Hat OpenJDK 21
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 19/12/2025 11:36:04 AM
+last_modified_date: 19/12/2025 1:26:12 PM
 ---
 
 ## Red Hat OpenJDK 21
