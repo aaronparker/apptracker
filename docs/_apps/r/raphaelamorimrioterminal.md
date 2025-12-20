@@ -3,7 +3,7 @@ title: Raphael Amorim Rio Terminal
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 19/12/2025 1:26:12 PM
+last_modified_date: 20/12/2025 11:40:11 AM
 ---
 
 ## Raphael Amorim Rio Terminal
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.2.36  | 17/11/2025 | 21566464 | 9e24fd930103c8ed5db137f0869a9c4c337d93c9c0882dac513b32207942f136 | ARM64        | Portable      | exe  | [https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-portable-aarch64.exe)   |
-| 0.2.36  | 17/11/2025 | 23575040 | 98ccb4a1b4821d51f5cdab07f69b4fcc58ef917a7c6215b3d71cd2e0569f3672 | x64          | Portable      | exe  | [https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-portable-x86_64.exe)     |
-| 0.2.36  | 17/11/2025 | 8998912  | c4a8c1fa961d9a0450bd833f97a10755926d219edb6e07a31f8e3bbd7b750c87 | ARM64        | Default       | msi  | [https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-installer-aarch64.msi) |
-| 0.2.36  | 17/11/2025 | 9404416  | edd36c5c73c1c0e35ab00f6940b516fe49bdae67ee5c1bdc9385c448e60d27dd | x64          | Default       | msi  | [https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.2.36/rio-installer-x86_64.msi)   |
+| 0.2.37  | 19/12/2025 | 21581312 | 0cb9d5b3986c358b4ad2bfac684dbabb6ddbf050c17a903e0bf349c2e2469052 | ARM64        | Portable      | exe  | [https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-portable-aarch64.exe)   |
+| 0.2.37  | 19/12/2025 | 23581184 | 8a20c719b1251c5a217427493e5796526938a054fec8eb2aea262e5e249b2118 | x64          | Portable      | exe  | [https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-portable-x86_64.exe)     |
+| 0.2.37  | 19/12/2025 | 9003008  | 4d8babe9738011391fb380cd6290f1e0fd3bda3a48a038bf8a287f432e8bd2c8 | ARM64        | Default       | msi  | [https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-installer-aarch64.msi) |
+| 0.2.37  | 19/12/2025 | 9412608  | fd46c7a5e7b3716acaf092164eb46f0d4d960f6d2f2e36d03aa1e3f3009c1ff9 | x64          | Default       | msi  | [https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.2.37/rio-installer-x86_64.msi)   |

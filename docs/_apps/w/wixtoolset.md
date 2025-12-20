@@ -3,7 +3,7 @@ title: WiX Toolset
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: 19/12/2025 1:26:12 PM
+last_modified_date: 20/12/2025 11:40:11 AM
 ---
 
 ## WiX Toolset

@@ -3,7 +3,7 @@ title: Mendeley Reference Manager
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 19/12/2025 1:26:12 PM
+last_modified_date: 20/12/2025 11:40:11 AM
 ---
 
 ## Mendeley Reference Manager
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha512                                                                                   | Architecture | Type | URI                                                                                                                                                                          |
 | ------- | ---------- | --------- | ---------------------------------------------------------------------------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.141.0 | 16/12/2025 | 211917760 | SVUuHJBJXIwb5Mo8BZrBiKOj5Ii8yb5bsn5M3b+duD6PN+FCw2Sgw+qadbH/9TsmE5j/JM37PWUD3S7fPfH4IQ== | ARM64        | exe  | [https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0-arm64.exe](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0-arm64.exe) |
-| 2.141.0 | 16/12/2025 | 208516256 | 0Pr0FpvI7Zq8ZN90hB5K4oSzN9NNa2n2b6P8Lb5Lsb2DswQ320g/3LKgBTCTnhJZqOxFPOJfNjdcOVvByPeiFA== | x64          | exe  | [https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0-x64.exe](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0-x64.exe)     |
-| 2.141.0 | 16/12/2025 | 419860736 | U9bTrOf/Q3j3MblJINLetZeeF8df6Z5FqQXU0yc99HbIhrKK5BuSHnHjUNEKMEyLxgU0x5QcLqRfA8QbyeR8vg== | x86          | exe  | [https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0.exe](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.0.exe)             |
+| 2.141.2 | 19/12/2025 | 211917952 | Ai6fLEmKfpKvUUJtXDPQN1hrk3T8u0Ic+hp9T7COiOntCehvm9h3Tt1fs6ohJBlt5IFX62Ks++euh5QKMdvg7Q== | ARM64        | exe  | [https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2-arm64.exe](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2-arm64.exe) |
+| 2.141.2 | 19/12/2025 | 208516640 | lbBWfLKB+3xDYPaBmKro0ZusNljJzWluES5W58M8z43uaVXZnIwL/oswQNhezNWQbbfLdErYr2kutnhzvB4wyQ== | x64          | exe  | [https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2-x64.exe](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2-x64.exe)     |
+| 2.141.2 | 19/12/2025 | 419861328 | GoSSjUv/9eVQkD1sgzCUG4YO3zw9fp+MFYi/V3e3Kre3q4PIuiJ+6ZYcNMaXOTX7rkpac2m4CxGacjb9sGXpGQ== | x86          | exe  | [https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2.exe](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.141.2.exe)             |
