@@ -3,7 +3,7 @@ title: Artifex Ghostscript
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 20/12/2025 11:40:11 AM
+last_modified_date: 20/12/2025 1:24:21 PM
 ---
 
 ## Artifex Ghostscript
