@@ -1,0 +1,12 @@
+[
+  {
+    "Version": "1.0.0",
+    "Date": "8/5/2025",
+    "Size": 172589889,
+    "Sha256": null,
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/microsoft/WindowsAdvancedSettings/releases/download/v1.0.0/Windows.DevHome_0.2101.858.0.msixbundle"
+  }
+]

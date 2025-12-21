@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.2.1",
-    "Date": "1/8/2025",
-    "Size": 130313462,
-    "Sha256": "c470779d92a08345c6f9b65457484e2fe4406537b0604a6e0df0339c81059158",
+    "Version": "5.4.0",
+    "Date": "20/12/2025",
+    "Size": 125621422,
+    "Sha256": "655ce83046f27d20e1385bffa1e5471b702033083772f65db1fe1a07445c3eb8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/darktable-org/darktable/releases/download/release-5.2.1/darktable-5.2.1-win64.exe"
+    "URI": "https://github.com/darktable-org/darktable/releases/download/release-5.4.0/darktable-5.4.0-win64.exe"
   }
 ]
