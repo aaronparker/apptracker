@@ -3,7 +3,7 @@ title: Amazon Corretto 16
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 21/12/2025 11:38:13 AM
+last_modified_date: 21/12/2025 1:24:37 PM
 ---
 
 ## Amazon Corretto 16

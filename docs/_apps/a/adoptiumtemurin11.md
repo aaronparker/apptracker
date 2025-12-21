@@ -3,7 +3,7 @@ title: Adoptium Temurin 11
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 21/12/2025 11:38:13 AM
+last_modified_date: 21/12/2025 1:24:37 PM
 ---
 
 ## Adoptium Temurin 11
